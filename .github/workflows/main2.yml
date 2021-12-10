@@ -58,7 +58,8 @@ jobs:
           zip -qry umineko-wh-scripts_r${BUILD}.zip wh.file || exit 1
           git config --global user.name "test"
           git config --global user.email "test"
-          git add en.file git commit -m "test"
+          git add en.file 
+          git commit -m "test"
           git push
           cd ..
           cd extra
