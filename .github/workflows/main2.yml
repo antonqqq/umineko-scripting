@@ -59,6 +59,10 @@ jobs:
           git config --global user.name "test"
           git config --global user.email "test"
           git add en.file 
+          git add chiru.file
+          git add game.hash
+          git add default.cfg
+          git add ru.file
           git commit -m "test"
           git push
           cd ..
