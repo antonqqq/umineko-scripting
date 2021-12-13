@@ -1,155 +1,155 @@
-`{ruby:"The day after Christmas isn't Christmas.:「クリスマスの次の日はクリスマスじゃないもん。}`
+`{ruby:"The day after:「クリスマスの次の日はクリ}{ruby:Christmas isn't Christmas.:スマスじゃないもん。}`
 `{ruby:It couldn't happen.":そんなの絶対ありえない」}`
 `{ruby:"Heheheh.:「くっくっく。}`
 `{ruby:Too bad. Wrong.":残念であるな、ハズレだ」}`
 `{ruby:"Huh? Why...?!":「えー、どうして…！」}`
-`{ruby:"Ange‐chan, what time of day does a new day start?":「縁寿ちゃん、一日の始まりは何時から？」}`
+`{ruby:"Ange‐chan, what time of day:「縁寿ちゃん、一日の始}{ruby:does a new day start?":まりは何時から？」}`
 `{ruby:"Midnight, 0:00.":「真夜中の午前０時」}`
 `{ruby:"There you go.:「ほら。}`
-`{ruby:At midnight, isn't it night outside?":午前０時は夜じゃない」}`
+`{ruby:At midnight, isn't:午前０時は夜じ}{ruby:it night outside?":ゃない」}`
 `{ruby:"......Ah!":「……あっ」}`
 `{ruby:I see.:そうか。}`
-`{ruby:The first night was just after midnight on December 25th.:最初の夜とは、１２月２５日の午前０時直後くらいの話なのだ。}`
-`{ruby:In other words, the time right after the previous day ended and Christmas began.:つまり、前日が終わって、クリスマスになったばかりの時間。}`
-`{ruby:That would indeed be Christmas Day, and it would be at night.:確かにそれもクリスマスの日だし、夜なんだ。}`
-`{ruby:"And then, the morning of the 25th would come, and when the sun sank again, that would be nighttime on the 25th again......":「そして、２５日の朝が来て、また夜になったら、それも２５日の夜……」}`
+`{ruby:The first night was just:最初の夜とは、１２月２５日の午前}{ruby:after midnight on December 25th.:０時直後くらいの話なのだ。}`
+`{ruby:In other words, the time right after:つまり、前日が終わって、クリス}{ruby:the previous day ended and Christmas began.:マスになったばかりの時間。}`
+`{ruby:That would indeed be Christmas Day,:確かにそれもクリスマスの}{ruby:and it would be at night.:日だし、夜なんだ。}`
+`{ruby:"And then, the morning of the 25th would come, and when:「そして、２５日の朝が来て、また夜に}{ruby:the sun sank again, that would be nighttime on the 25th again......":なったら、それも２５日の夜……」}`
 `{ruby:"Exactly!:「そういうこと！}`
 `{ruby:You figured it out.":よく出来たわね」}`
 `{ruby:"Hohoho!:「ほっほっほっほ！}`
-`{ruby:If only you had figured it out a little faster.":もう少し早く思いつくことが出来ればよかったがのぉ」}`
+`{ruby:If only you had figured:もう少し早く思いつくことが出}{ruby:it out a little faster.":来ればよかったがのぉ」}`
 `{ruby:Grandfather laughed like Santa Claus.:お祖父さまはサンタクロースのような声で笑う。}`
-`{ruby:Auntie Eva asked him to count it as a right answer, since I figured it out in the end, but Grandfather shook his head.:絵羽伯母さんは、答えをちゃんと思いついたのだから正解にしてあげたらと訴えたが、お祖父さまは首を横に振る。}`
+`{ruby:Auntie Eva asked him to count it as a right answer, since:絵羽伯母さんは、答えをちゃんと思いついたのだから正解に}{ruby:I figured it out in the end, but Grandfather shook his head.:してあげたらと訴えたが、お祖父さまは首を横に振る。}`
 `{ruby:"Come on...!:「もう…！}`
 `{ruby:Don't be such a stingy Grandpa.":ケチなお祖父ちゃんねぇ？」}`
-`{ruby:"Still, now I've figured out how to do it.:「でも、要領はわかった。}`
+`{ruby:"Still, now I've figured:「でも、要領は}{ruby:out how to do it.:わかった。}`
 `{ruby:I'll get the next one right.":次をがんばる」}`
 `{ruby:"Yes, yes.:「むむ。}`
 `{ruby:That's the spirit.:その意気込みであるぞ。}`
 `{ruby:That's my granddaughter for you.":それでこそ我が孫である」}`
 `{ruby:"Thank you, Grandpa!:「ありがとう、お祖父ちゃんっ。}`
 `{ruby:I'm really ready now.:もう大丈夫。}`
-`{ruby:I'll start getting a lot of them right!":これからはいっぱい正解するっ」}`
+`{ruby:I'll start getting a:これからはいっぱい}{ruby:lot of them right!":正解するっ」}`
 `{ruby:"Yes.:「うむ。}`
 `{ruby:Give it your all.:がんばるが良い。}`
-`{ruby:I have a truly splendid present waiting for you.":お祖父ちゃんも素敵な景品を用意して待っておるぞ」}`
-`{ruby:After bowing to Grandfather, I hurried off with Auntie Eva to where everyone else was gathered.:私はお祖父さまに頭を下げてから、絵羽伯母さんと共にみんなの方へ駆け出すのだった。}`
+`{ruby:I have a truly:お祖父ちゃんも素敵な景品を}{ruby:splendid present waiting for you.":用意して待っておるぞ」}`
+`{ruby:After bowing to Grandfather, I hurried off with:私はお祖父さまに頭を下げてから、絵羽伯母さ}{ruby:Auntie Eva to where everyone else was gathered.:んと共にみんなの方へ駆け出すのだった。}`
 `{ruby:"Oh, I see.:「あ、そうか。}`
 `{ruby:It is possible...!":可能だ…！」}`
 `{ruby:"Yep, that's right.:「そうそう。}`
-`{ruby:After all, there are two nights in every day.":１日の間に夜って、２回あるのよね」}`
+`{ruby:After all, there are:１日の間に夜って、２}{ruby:two nights in every day.":回あるのよね」}`
 `{ruby:"Right!:「うん！}`
-`{ruby:December 25th starts at 0:00 midnight.:１２月２５日は真夜中の午前０時から始まる。}`
-`{ruby:Midnight is during the night, so that's the first night.:午前０時は夜だから、それが最初の夜。}`
-`{ruby:Then, morning comes, and when night falls again, it's still the same day until midnight!":それから、朝になってまた夜になっても、夜中の１２時まではまだ同じ日！」}`
+`{ruby:December 25th starts:１２月２５日は真夜中の午}{ruby:at 0:00 midnight.:前０時から始まる。}`
+`{ruby:Midnight is during the night,:午前０時は夜だから、}{ruby:so that's the first night.:それが最初の夜。}`
+`{ruby:Then, morning comes, and when night falls:それから、朝になってまた夜になっても、}{ruby:again, it's still the same day until midnight!":夜中の１２時まではまだ同じ日！」}`
 `{ruby:"Exactly.:「そういうこと。}`
-`{ruby:And both of those nights are nights on Christmas Day.":そのどちらの夜も、確かにクリスマスの日の夜よね」}`
+`{ruby:And both of those nights:そのどちらの夜も、確かにク}{ruby:are nights on Christmas Day.":リスマスの日の夜よね」}`
 `{ruby:"Eheheheheh.:「えへへへへ。}`
 `{ruby:Am I awesome? Am I awesome...?!":縁寿すごい？　縁寿すごい…？！」}`
-`{ruby:With a delighted smile, Auntie Eva patted my head vigorously.:絵羽伯母さんは最高の笑顔で、私の頭をいっぱい撫でてくれた。}`
+`{ruby:With a delighted smile, Auntie:絵羽伯母さんは最高の笑顔で、私の}{ruby:Eva patted my head vigorously.:頭をいっぱい撫でてくれた。}`
 `{ruby:"Wahahaha!:「わっはっはっは！}`
 `{ruby:Well done, Ange.:見事であるぞ、縁寿。}`
-`{ruby:I tried to make it a hard question, but you solved it like it was nothing.":難しい問題のつもりだったのに、あっさり解かれてしまったわい」}`
+`{ruby:I tried to make it a hard question,:難しい問題のつもりだったのに、あ}{ruby:but you solved it like it was nothing.":っさり解かれてしまったわい」}`
 `{ruby:"Congratulations, Ange‐sama.:「おめでとうございます、縁寿さま。}`
-`{ruby:......Here is a medal for getting the first question right.":……これが、第１問正解のメダルでございます」}`
-`{ruby:Genji‐san held out a gold‐colored medal.:源次さんが金色のメダルを差し出す。}`
-`{ruby:{n}Grandfather smiled at me, urging me to take it.:{n}受け取るが良いと、お祖父さまは微笑んだ。}`
+`{ruby:......Here is a medal for:……これが、第１問正解の}{ruby:getting the first question right.":メダルでございます」}`
+`{ruby:Genji‐san held out:源次さんが金色のメダ}{ruby:a gold‐colored medal.:ルを差し出す。}`
+`{ruby:{n}Grandfather smiled at me,:{n}受け取るが良いと、お}{ruby:urging me to take it.:祖父さまは微笑んだ。}`
 `{ruby:"Th‐thank you!":「あ、ありがとうっ」}`
 `{ruby:"Keep up the pace.:「その調子で、がんばるが良い。}`
 `{ruby:Well now, that is all for my puzzle.:さぁ、私の出題はおしまいだ。}`
-`{ruby:Head over there and ask whomever you choose for a quiz.":向こうへ行き、好きな人に話し掛けてクイズを出してもらうが良いっ」}`
+`{ruby:Head over there and ask:向こうへ行き、好きな人に話し掛けて}{ruby:whomever you choose for a quiz.":クイズを出してもらうが良いっ」}`
 `{ruby:It was a heavy, gold‐colored medal.:ずっしりと重い、金色のメダル。}`
-`{ruby:If I get a lot of these right, my pocket might burst.:いっぱい正解していっぱい集めたら、ポケットが破けちゃうかも？}`
-`{ruby:I'm gonna get so many that I can brag about it to everyone!:破けるくらい集めて、みんなに自慢しようっ。}`
+`{ruby:If I get a lot of:いっぱい正解していっぱい集めたら}{ruby:these right, my pocket might burst.:、ポケットが破けちゃうかも？}`
+`{ruby:I'm gonna get so many that:破けるくらい集めて、みん}{ruby:I can brag about it to everyone!:なに自慢しようっ。}`
 `{ruby:After bowing to Grandfather,:私はお祖父さまに頭を下げてから、}`
-`{ruby:I hurried off with Auntie Eva to where everyone else was gathered.:絵羽伯母さんと共にみんなの方へ駆け出すのだった。}`
+`{ruby:I hurried off with Auntie Eva:絵羽伯母さんと共にみんなの}{ruby:to where everyone else was gathered.:方へ駆け出すのだった。}`
 `{ruby:As Ange ran off,:そんな縁寿の姿を、}`
-`{ruby:Kinzo watched her go with a warm gaze.:金蔵は温かい眼差しで見送るのだった。}`
+`{ruby:Kinzo watched her go:金蔵は温かい眼差しで}{ruby:with a warm gaze.:見送るのだった。}`
 `{ruby:"Did I make it a bit too easy...?":「ちょいと、簡単過ぎたかな…？」}`
 `{ruby:"No.:「いいえ。}`
 `{ruby:I think it was just right.":ちょうど良かったと思います」}`
 `{ruby:"............Genji.:「…………源次。}`
-`{ruby:Have I...managed to act the part of a good grandpa...?":私は良いお祖父ちゃんを、演じられただろうか…？」}`
+`{ruby:Have I...managed to act the:私は良いお祖父ちゃんを、演}{ruby:part of a good grandpa...?":じられただろうか…？」}`
 `{ruby:"Of course.":「無論でございます」}`
 `{ruby:"Ange is young.:「縁寿は幼い。}`
-`{ruby:And, she frequently grows sick and is unable to come to Rokkenjima.:そして、体調を崩し、六軒島へ来ないことも多かった。}`
-`{ruby:......She probably won't...remember me well.":……私をよく覚えては、いないだろう」}`
-`{ruby:Young children have their own kind of cruelty.:幼き子には、特有の酷薄さがある。}`
-`{ruby:They think of kindness as something they will naturally receive.:それは、やさしさに対して、当然に享受できるものであると思い込んでいること。}`
-`{ruby:And because they think of kindness as only natural, ......they forget about it quickly.:だから、人のやさしさが当り前過ぎて、……それを記憶に留めない。}`
-`{ruby:".........It is no different from gratitude to one's parents.:「………親の恩と同じです。}`
-`{ruby:It will probably take Ange‐sama many years before she understands.":それを理解するには、縁寿さまもお歳を重ねられる必要があるでしょう」}`
+`{ruby:And, she frequently grows sick and:そして、体調を崩し、六軒島へ}{ruby:is unable to come to Rokkenjima.:来ないことも多かった。}`
+`{ruby:......She probably:……私をよく覚えては}{ruby:won't...remember me well.":、いないだろう」}`
+`{ruby:Young children have their:幼き子には、特有の}{ruby:own kind of cruelty.:酷薄さがある。}`
+`{ruby:They think of kindness as:それは、やさしさに対して、当然に享受でき}{ruby:something they will naturally receive.:るものであると思い込んでいること。}`
+`{ruby:And because they think of kindness as:だから、人のやさしさが当り前過ぎて}{ruby:only natural, ......they forget about it quickly.:、……それを記憶に留めない。}`
+`{ruby:".........It is no different:「………親の恩と}{ruby:from gratitude to one's parents.:同じです。}`
+`{ruby:It will probably take Ange‐sama:それを理解するには、縁寿さまもお歳を}{ruby:many years before she understands.":重ねられる必要があるでしょう」}`
 `{ruby:"Do you think...:「やがては。}`
-`{ruby:......that she will eventually remember that I was a fun grandpa?":………私のことを、面白いお祖父ちゃんだったと、思い出してくれるだろうか」}`
+`{ruby:......that she will eventually remember:………私のことを、面白いお祖父ちゃんだ}{ruby:that I was a fun grandpa?":ったと、思い出してくれるだろうか」}`
 `{ruby:"......Yes.:「……はい。}`
 `{ruby:I am certain of it.":必ずです」}`
-`{ruby:"....................................":「………………………………」}`
-`{ruby:Kinzo's expression grew slightly darker.:金蔵の表情が、少しだけ曇る。}`
-`{ruby:......Eventually, even Ange will get older, and she will probably hear how the public at large regards Ushiromiya Kinzo.:……やがて縁寿も年を経れば、右代宮金蔵が、世間でどのような評判を持つかを知るだろう。}`
-`{ruby:The Ushiromiya Kinzo known by the public is completely different from the Kinzo who plays with his grandchildren.:世間が知る右代宮金蔵と、孫に接する金蔵は、まったく違う。}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
+`{ruby:Kinzo's expression:金蔵の表情が、少}{ruby:grew slightly darker.:しだけ曇る。}`
+`{ruby:......Eventually, even Ange will get older, and she will:……やがて縁寿も年を経れば、右代宮金蔵が、世}{ruby:probably hear how the public at large regards Ushiromiya Kinzo.:間でどのような評判を持つかを知るだろう。}`
+`{ruby:The Ushiromiya Kinzo known by the public is completely:世間が知る右代宮金蔵と、孫に接}{ruby:different from the Kinzo who plays with his grandchildren.:する金蔵は、まったく違う。}`
 `{ruby:When she learns,:それを知る時。}`
-`{ruby:......will Ange remember the face of Kinzo the tyrant, known of by the world, ...or that gently smiling face?:……縁寿は右代宮金蔵を思い出して、世間の知る暴君の一面と、微笑んだ笑顔のどちらを思い出してくれるだろう。}`
-`{ruby:".........If possible, I would hope for her to remember my smile, ......but such a thing is probably too much to ask for.":「………出来るなら、私の笑顔を思い出してほしいが、……それは高望みであろうな」}`
+`{ruby:......will Ange remember the face of Kinzo the tyrant,:……縁寿は右代宮金蔵を思い出して、世間の知る暴君の一面}{ruby:known of by the world, ...or that gently smiling face?:と、微笑んだ笑顔のどちらを思い出してくれるだろう。}`
+`{ruby:".........If possible, I would hope for her to remember my smile,:「………出来るなら、私の笑顔を思い出してほ}{ruby:......but such a thing is probably too much to ask for.":しいが、……それは高望みであろうな」}`
 `{ruby:".................................":「……………………………」}`
 `{ruby:"There's no way around it.:「仕方あるまい。}`
 `{ruby:That's what children are.":子供とはそういうものだ」}`
 `{ruby:"Oh, it's you.":「ベアトか」}`
-`{ruby:"Children just eat up kindness, and it never remains in their memories.:「子供はやさしさに飽食し、それを決して記憶に留めぬ。}`
-`{ruby:By the time twelve years have passed, she will surely learn what a bizarre eccentric Ushiromiya Kinzo was.:あれが１２年を経れば、右代宮金蔵がどれほどの奇人変人であったかを知るだろう。}`
-`{ruby:Your smile is fated to be painted over by that and forgotten.":それに塗り潰され、そなたの笑顔など、忘れ去られる運命よ」}`
+`{ruby:"Children just eat up kindness, and:「子供はやさしさに飽食し、そ}{ruby:it never remains in their memories.:れを決して記憶に留めぬ。}`
+`{ruby:By the time twelve years have passed, she will:あれが１２年を経れば、右代宮金蔵がどれほ}{ruby:surely learn what a bizarre eccentric Ushiromiya Kinzo was.:どの奇人変人であったかを知るだろう。}`
+`{ruby:Your smile is fated to be:それに塗り潰され、そなたの笑顔}{ruby:painted over by that and forgotten.":など、忘れ去られる運命よ」}`
 `{ruby:".........Most probably.:「………であろうな。}`
-`{ruby:No matter how much I spoil her, my love will not be rewarded.":いくら甘やかせど、報われぬ愛である」}`
+`{ruby:No matter how much I spoil:いくら甘やかせど、報}{ruby:her, my love will not be rewarded.":われぬ愛である」}`
 `{ruby:"However,:「だが。}`
-`{ruby:just as it takes a long time to remember what you owe your parents,:親の恩を思い出すのに、長い時間を掛けるように。}`
-`{ruby:......Ange will surely remember someday.:……縁寿もやがて、きっと思い出すだろう。}`
-`{ruby:......She will remember the smiles you showed her.":……そなたが孫に、どのような笑顔で接していたのかをな」}`
+`{ruby:just as it takes a long time:親の恩を思い出すのに、長い}{ruby:to remember what you owe your parents,:時間を掛けるように。}`
+`{ruby:......Ange will:……縁寿もやがて、きっ}{ruby:surely remember someday.:と思い出すだろう。}`
+`{ruby:......She will remember the:……そなたが孫に、どのような笑}{ruby:smiles you showed her.":顔で接していたのかをな」}`
 `{ruby:"Hmph......:「ふっ……。}`
 `{ruby:Let her forget.:忘れても良い。}`
-`{ruby:One smile from her is the greatest parting gift I could ever take with me, when my time comes.:ただ一時、私に向けて微笑んでくれただけで、私には何よりもの冥土の土産になるのだ。}`
-`{ruby:This is...the essence of unrewarded love.":これが、無償の愛の境地である」}`
-`{ruby:"I guess grandfathers are always unrewarded.":「祖父とは、報われぬ存在であるな」}`
+`{ruby:One smile from her is the greatest parting gift:ただ一時、私に向けて微笑んでくれただけで、}{ruby:I could ever take with me, when my time comes.:私には何よりもの冥土の土産になるのだ。}`
+`{ruby:This is...the essence:これが、無償の愛の}{ruby:of unrewarded love.":境地である」}`
+`{ruby:"I guess grandfathers:「祖父とは、報われぬ}{ruby:are always unrewarded.":存在であるな」}`
 `{ruby:"Oh, but I have been rewarded.:「報われておるとも。}`
-`{ruby:With Ange's smile just now to look back upon,:先ほどの縁寿の微笑みが思い出せれば。}`
-`{ruby:I could happily pass on in my sleep tonight.:私は今夜、お迎えが来ても一向に構わんぞ。}`
-`{ruby:Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha......":わっはははははははは……」}`
-`{ruby:With a lonely laugh, Kinzo spun around, setting his cloak fluttering.:金蔵は寂しく笑うと、マントを翻す。}`
-`{ruby:This was all the love he could offer Ange as a grandfather.:彼が祖父として縁寿に施す愛は、もう充分だ。}`
-`{ruby:Part of him wanted to be remembered, but he knew he mustn't wish for that.:記憶に残って欲しい気持ちはあるが、それを願ってはならない。}`
-`{ruby:That was...how unrewarded love worked.:それが、無償の愛の境地。}`
-`{ruby:After looking at Kinzo's back, Beato stared at Ange's back again.:そんな金蔵の後姿を見てから、ベアトは再び縁寿の後姿を見つめる。}`
+`{ruby:With Ange's smile just:先ほどの縁寿の微笑み}{ruby:now to look back upon,:が思い出せれば。}`
+`{ruby:I could happily pass:私は今夜、お迎えが来て}{ruby:on in my sleep tonight.:も一向に構わんぞ。}`
+`{ruby::わっはははははは}{ruby:Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha......":はは……」}`
+`{ruby:With a lonely laugh, Kinzo:金蔵は寂しく笑うと、}{ruby:spun around, setting his cloak fluttering.:マントを翻す。}`
+`{ruby:This was all the love he:彼が祖父として縁寿に施す}{ruby:could offer Ange as a grandfather.:愛は、もう充分だ。}`
+`{ruby:Part of him wanted to be remembered,:記憶に残って欲しい気持ちはあるが}{ruby:but he knew he mustn't wish for that.:、それを願ってはならない。}`
+`{ruby:That was...how:それが、無償の}{ruby:unrewarded love worked.:愛の境地。}`
+`{ruby:After looking at Kinzo's back,:そんな金蔵の後姿を見てから、ベアト}{ruby:Beato stared at Ange's back again.:は再び縁寿の後姿を見つめる。}`
 `{ruby:"............Ange.:「…………縁寿。}`
-`{ruby:......Even so, please remember it someday.:……それでもいつか、思い出してやれ。}`
-`{ruby:......Remember the smile...that Kinzo once showed you.":……金蔵がそなたに、どんな笑顔を見せていたのかを、な」}`
+`{ruby:......Even so, please:……それでもいつか、}{ruby:remember it someday.:思い出してやれ。}`
+`{ruby:......Remember the smile...that:……金蔵がそなたに、どんな笑顔}{ruby:Kinzo once showed you.":を見せていたのかを、な」}`
 `{ruby:Okay, whose quiz should I take next?:さぁ、今度は誰にクイズを出してもらおうかな。}`
-`{ruby:I'm gonna challenge more and more people, get more and more medals for getting them right, and get a wonderful present to show everyone.:どんどん挑戦して、どんどん正解してメダルをいっぱいもらって、素敵なご褒美をもらってみんなに自慢しよう。}`
-`{ruby:Uncle Krauss and Auntie Natsuhi are over there.:あそこには蔵臼伯父さんと夏妃伯母さん。}`
+`{ruby:I'm gonna challenge more and more people, get more and more medals:どんどん挑戦して、どんどん正解してメダルをいっぱいもら}{ruby:for getting them right, and get a wonderful present to show everyone.:って、素敵なご褒美をもらってみんなに自慢しよう。}`
+`{ruby:Uncle Krauss and Auntie:あそこには蔵臼伯父さん}{ruby:Natsuhi are over there.:と夏妃伯母さん。}`
 `{ruby:They're looking this way and smiling.:こっちを見ながら微笑んでる。}`
-`{ruby:I'm sure they've thought up some interesting puzzles.:きっと、面白い問題の用意があるのだろう。}`
-`{ruby:There's Uncle Hideyoshi, beckoning for me to come over.:あっちでは秀吉伯父さんが手招きしてる。}`
-`{ruby:He's a fun uncle, so I'm sure he's thought up a fun question.:面白い伯父さんだから、きっと面白い問題を出してくれるだろう。}`
+`{ruby:I'm sure they've thought:きっと、面白い問題の用}{ruby:up some interesting puzzles.:意があるのだろう。}`
+`{ruby:There's Uncle Hideyoshi, beckoning:あっちでは秀吉伯父さん}{ruby:for me to come over.:が手招きしてる。}`
+`{ruby:He's a fun uncle, so I'm:面白い伯父さんだから、きっと面白}{ruby:sure he's thought up a fun question.:い問題を出してくれるだろう。}`
 `{ruby:Behind him are Mom and Dad.:むこうにはお父さんとお母さん。}`
-`{ruby:{n}They're waving at me, telling me to have lots of fun.:{n}たくさん楽しんでおいでと手を振っている。}`
-`{ruby:......Dad probably knows a lot of really hard questions.:……お父さんって結構、意地悪な問題を色々知ってそう。}`
+`{ruby:{n}They're waving at me, telling:{n}たくさん楽しんでおい}{ruby:me to have lots of fun.:でと手を振っている。}`
+`{ruby:......Dad probably knows a:……お父さんって結構、意地悪}{ruby:lot of really hard questions.:な問題を色々知ってそう。}`
 `{ruby:He might be tough.:手強いかもしれない。}`
-`{ruby:Over there is Auntie Rosa and Maria onee‐chan.:そこには楼座叔母さんと真里亞お姉ちゃん。}`
-`{ruby:{n}It looks like they're reading a quiz book together, searching for a problem.:{n}二人でクイズの本を読んで、問題を探してるみたいだ。}`
-`{ruby:Every now and then, Maria onee‐chan glances over at me, saying "kihihihihi".:時折、真里亞お姉ちゃんが私をちらりと見て、きひひひひと笑う。}`
-`{ruby:She can be mean sometimes, so I'm sure her puzzle won't be a nice one.:たまにお姉ちゃんは意地悪だから、問題もきっと意地悪なのに違いない。}`
-`{ruby:Beyond them are Battler onii‐chan, George onii‐chan, and Jessica onee‐chan.:その奥には、戦人お兄ちゃんと譲治お兄ちゃんと朱志香お姉ちゃん。}`
-`{ruby:......Battler onii‐chan is usually nice,:……戦人お兄ちゃんは普段はやさしいけど、}`
-`{ruby:but he sometimes says really mean things, and I think he likes seeing me get confused.:たまにすごい意地悪なことを言って、私を困らせて遊ぶことがある気がする。}`
+`{ruby:Over there is Auntie:そこには楼座叔母さんと}{ruby:Rosa and Maria onee‐chan.:真里亞お姉ちゃん。}`
+`{ruby:{n}It looks like they're reading a:{n}二人でクイズの本を読んで}{ruby:quiz book together, searching for a problem.:、問題を探してるみたいだ。}`
+`{ruby:Every now and then, Maria onee‐chan:時折、真里亞お姉ちゃんが私をちら}{ruby:glances over at me, saying "kihihihihi".:りと見て、きひひひひと笑う。}`
+`{ruby:She can be mean sometimes, so I'm:たまにお姉ちゃんは意地悪だから、問題}{ruby:sure her puzzle won't be a nice one.:もきっと意地悪なのに違いない。}`
+`{ruby:Beyond them are Battler onii‐chan,:その奥には、戦人お兄ちゃんと譲治お}{ruby:George onii‐chan, and Jessica onee‐chan.:兄ちゃんと朱志香お姉ちゃん。}`
+`{ruby:......Battler onii‐chan:……戦人お兄ちゃんは普}{ruby:is usually nice,:段はやさしいけど、}`
+`{ruby:but he sometimes says really mean things, and:たまにすごい意地悪なことを言って、私を}{ruby:I think he likes seeing me get confused.:困らせて遊ぶことがある気がする。}`
 `{ruby:......I get the feeling...:……きっと意地悪な問題を出す。}`
-`{ruby:that he'll give me a really tough problem.:そんな気がする。}`
-`{ruby:Is there anyone who looks like they won't be mean?:意地悪じゃなさそうな問題を出す人はいないだろうか。}`
-`{ruby:If I can, I'd like to start with some easy puzzles to warm me up.:頭の回転が本調子になるまで、出来ればやさしい問題から挑戦したい。}`
-`{ruby:All the way over there are Genji‐san and Doctor Nanjo.:あそこには源次さんと南條先生がいる。}`
-`{ruby:{n}I don't think those two will be mean to me.:{n}この二人は意地悪なことをしないと思う。}`
+`{ruby:that he'll give me:そんな気が}{ruby:a really tough problem.:する。}`
+`{ruby:Is there anyone who looks:意地悪じゃなさそうな問題を出}{ruby:like they won't be mean?:す人はいないだろうか。}`
+`{ruby:If I can, I'd like to start:頭の回転が本調子になるまで、出来れ}{ruby:with some easy puzzles to warm me up.:ばやさしい問題から挑戦したい。}`
+`{ruby:All the way over there:あそこには源次さんと}{ruby:are Genji‐san and Doctor Nanjo.:南條先生がいる。}`
+`{ruby:{n}I don't think those two:{n}この二人は意地悪な}{ruby:will be mean to me.:ことをしないと思う。}`
 `{ruby:And then there's Shannon and Kanon.:それから、紗音と嘉音。}`
-`{ruby:Shannon knows about a lot of quizzes and fairy tales.:紗音は色々なクイズやお伽噺を知ってる。}`
-`{ruby:I'm sure she'll give me something unique.:きっとユニークなものを出してくれるだろう。}`
-`{ruby:Then, we have Gohda‐san and Kumasawa‐san, who are serving tea.:そして、お茶の配膳をしてる、郷田さんと熊沢さん。}`
+`{ruby:Shannon knows about a lot:紗音は色々なクイズやお}{ruby:of quizzes and fairy tales.:伽噺を知ってる。}`
+`{ruby:I'm sure she'll:きっとユニークなものを出}{ruby:give me something unique.:してくれるだろう。}`
+`{ruby:Then, we have Gohda‐san and:そして、お茶の配膳をしてる}{ruby:Kumasawa‐san, who are serving tea.:、郷田さんと熊沢さん。}`
 `{ruby:Kumasawa‐san might be tough.:熊沢さんは手強いかもしれない。}`
-`{ruby:......I kinda think she'll give me a really confusing problem.:……何だか、すっごい煙に巻くような問題を出しそう。}`
-`{ruby:......It looks like everyone might be pretty tough.:……結構、みんな手強いかもしれない。}`
+`{ruby:......I kinda think she'll give:……何だか、すっごい煙に巻く}{ruby:me a really confusing problem.:ような問題を出しそう。}`
+`{ruby:......It looks like everyone:……結構、みんな手強}{ruby:might be pretty tough.:いかもしれない。}`
 `{ruby:{n}Hmmmmm.........:{n}うーん………。}`
 `{ruby:"Ange‐chan.:「縁寿ちゃん。}`
 `{ruby:I've got a good one for ya...!:取って置きの問題を用意したで…！}`
@@ -160,112 +160,112 @@
 `{ruby:"Do you want to try Uncle Hideyoshi?":「秀吉伯父さんのところ、行ってみる？」}`
 `{ruby:"Yeah.:「うん。}`
 `{ruby:The order doesn't matter.:順番なんて関係ない。}`
-`{ruby:After all, I'm gonna challenge everyone.":だって私は全員に挑戦するんだから」}`
-`{ruby:I rolled up my sleeves and headed towards Uncle Hideyoshi.:私は腕まくりをしながら、秀吉伯父さんのところへ向かう。}`
+`{ruby:After all, I'm:だって私は全員に挑戦}{ruby:gonna challenge everyone.":するんだから」}`
+`{ruby:I rolled up my sleeves:私は腕まくりをしながら、秀吉伯}{ruby:and headed towards Uncle Hideyoshi.:父さんのところへ向かう。}`
 `{ruby:"Wahahahahahaha, that's the way.:「わははははははは、よく来たなぁ。}`
 `{ruby:Mine's a tricky one, okay?":わしのは難しいでぇ」}`
-`{ruby:"I wonder what sort of question you'll give her.:「あなたが出す問題ってどんなのかしら。}`
+`{ruby:"I wonder what sort:「あなたが出す問題って}{ruby:of question you'll give her.:どんなのかしら。}`
 `{ruby:Don't make it too hard, okay?":あまり難し過ぎるのを出しちゃ駄目よ？」}`
 `{ruby:"It's okay if it's hard.:「難しくてもいい。}`
 `{ruby:I'll solve it.":解くもん」}`
-`{ruby:"Oooh, lookin' pretty confident there...!:「おぉ、頼もしいことや…！}`
+`{ruby:"Oooh, lookin':「おぉ、頼もしい}{ruby:pretty confident there...!:ことや…！}`
 `{ruby:Okay, here it comes!":ほな、行くで！」}`
-`{ruby:After clearing his throat, Uncle Hideyoshi started telling his question...:秀吉伯父さんはコホンと咳払いをしてから、問題を語り出す…。}`
+`{ruby:After clearing his throat, Uncle:秀吉伯父さんはコホンと咳払いをし}{ruby:Hideyoshi started telling his question...:てから、問題を語り出す…。}`
 `{ruby:"Mine's a riddle.:「わしのはな、なぞなぞやで。}`
 `{ruby:Listen closely, now.:えぇか、よく聞いてや。}`
-`{ruby:You know the story of {c:86EF9C:Momotarou}, right?":桃太郎の話は知ってるやろ？」}`
-`{ruby:"The boy who floated down a river in a peach?":「川から桃がどんぶらこ？」}`
+`{ruby:You know the:桃太郎の話は知っ}{ruby:story of {c:86EF9C:Momotarou}, right?":てるやろ？」}`
+`{ruby:"The boy who floated down:「川から桃がどん}{ruby:a river in a peach?":ぶらこ？」}`
 `{ruby:"That's right.:「そや。}`
-`{ruby:But you know, one day, an apple floated down that river.":しかしな、その川には甘栗が流れてきたんや」}`
+`{ruby:But you know, one day,:しかしな、その川には甘栗}{ruby:an apple floated down that river.":が流れてきたんや」}`
 `{ruby:"An apple??":「甘栗？？」}`
 `{ruby:"Yep!:「そや！}`
-`{ruby:And the next day, a butternut squash floated down it!":そしたら次の日にはな、いよかんが流れてきたんや！」}`
+`{ruby:And the next day, a:そしたら次の日にはな、いよか}{ruby:butternut squash floated down it!":んが流れてきたんや！」}`
 `{ruby:"I hate butternut squash.":「いよかん、酸っぱいから嫌い」}`
-`{ruby:"And then, the next day, a cabbage floated down it!:「その次の日にはな、今度は、瓜が流れてきたんや！}`
+`{ruby:"And then, the next day,:「その次の日にはな、今度は}{ruby:a cabbage floated down it!:、瓜が流れてきたんや！}`
 `{ruby:And the next day, a dill pickle did.:その次の日には枝豆が。}`
-`{ruby:And the next day, an eggplant floated by.:その次の日にはオクラが。}`
+`{ruby:And the next day,:その次の日には}{ruby:an eggplant floated by.:オクラが。}`
 `{ruby:And the day after that, a fig did!":その次の日には柿が流れてきたんや！」}`
 `{ruby:"*giggle*.:「くすくす。}`
 `{ruby:What a strange tale.:変な話よね。}`
-`{ruby:Did a greengrocer live upstream, or something?":上流に八百屋さんでもあるのかしら」}`
+`{ruby:Did a greengrocer:上流に八百屋さんでも}{ruby:live upstream, or something?":あるのかしら」}`
 `{ruby:"Okay, here's the question.:「さて、問題や。}`
-`{ruby:What floated down the river the next day?!":その次の日には、何が流れてきたと思う？！」}`
+`{ruby:What floated down the:その次の日には、何が流れ}{ruby:river the next day?!":てきたと思う？！」}`
 `{ruby:"Huh...?!":「え…？！」}`
 `{ruby:"I've got it.:「伯母さん、わーかった。}`
 `{ruby:Do you get it, Ange‐chan?":縁寿ちゃんはわかる？」}`
 `{ruby:"I don't get it.":「わかんない」}`
 `{ruby:"Then I'll give you a hint.:「じゃあヒントをあげるわね。}`
-`{ruby:There's an order to the things that float down the river.:流れてきたものには、ちゃんと順番があるのよ。}`
-`{ruby:Can you guess what order they're in?":何の順番か、わかるかしら？」}`
+`{ruby:There's an order to the:流れてきたものには、ちゃ}{ruby:things that float down the river.:んと順番があるのよ。}`
+`{ruby:Can you guess:何の順番か、わか}{ruby:what order they're in?":るかしら？」}`
 `{ruby:"Wahahahaha!:「わはははは！}`
 `{ruby:What a huge hint...!":そら大ヒントやな…！」}`
 `{ruby:".........I don't...have a clue!":「………全然、わかんないっ」}`
 `{ruby:"Wahhahahahahahahaha.:「わっははははははは。}`
 `{ruby:Guess that was a bit too hard...!":ちょいと難し過ぎたか…！」}`
-`{ruby:"I know what floated down the river the day after that.:「伯母さんはその次の日に流れてくるのもわかるわよ？}`
+`{ruby:"I know what floated down:「伯母さんはその次の日に流れ}{ruby:the river the day after that.:てくるのもわかるわよ？}`
 `{ruby:A hassaku orange, right?":きっと栗が流れてくるのよね？」}`
 `{ruby:"Yep.:「そや。}`
-`{ruby:And the day after that, it was probably an i.........i...hmmm...:そして、その次の日には多分、……け、………け…。}`
-`{ruby:......I can't think of a veggie that starts with "i"!":……けで始まる野菜が思いつかんなぁ！」}`
+`{ruby:And the day after that,:そして、その次の日には多分}{ruby:it was probably an i.........i...hmmm...:、……け、………け…。}`
+`{ruby:......I can't think of a:……けで始まる野菜が思}{ruby:veggie that starts with "i"!":いつかんなぁ！」}`
 `{ruby:I don't really get it.:ちょっとよくわからない。}`
 `{ruby:Hmm... oh well.:うーん、残念。}`
 `{ruby:"I know!:「わかった！}`
 `{ruby:It's a grapefruit!":キャベツ！」}`
 `{ruby:"That's right.:「そう、正解よ。}`
-`{ruby:It wasn't one of the choices, but green beans would have worked too.":選択肢にはなかったけど、キュウリでもきっと正解ね」}`
+`{ruby:It wasn't one of the choices,:選択肢にはなかったけど、キュ}{ruby:but green beans would have worked too.":ウリでもきっと正解ね」}`
 `{ruby:The names all followed the alphabet.:これは五十音順だったのだ。}`
 `{ruby:Apple was "a".:甘栗の“あ”。}`
 `{ruby:Butternut squash was "b".:いよかんの“い”。}`
 `{ruby:Cabbage was "c".:瓜の“う”。}`
 `{ruby:It kept going with "d", "e", and "f".:こんな感じで、あ・い・う・え・お・か、と続いていたのだ。}`
 `{ruby:So, after "f" comes "g".:となれば、“か”の次は“き”だ。}`
-`{ruby:That's why the answer had to be something that started with "g".:だから正解は、“き”で始まるものということになる。}`
-`{ruby:"Thanks, Auntie Eva. I got it right thanks to your hint!":「ありがとう、伯母さんのヒントで解けたっ」}`
+`{ruby:That's why the answer had to:だから正解は、“き”で始まる}{ruby:be something that started with "g".:ものということになる。}`
+`{ruby:"Thanks, Auntie Eva. I got:「ありがとう、伯母さんの}{ruby:it right thanks to your hint!":ヒントで解けたっ」}`
 `{ruby:"*giggle*.:「くすくす。}`
-`{ruby:You solved it by yourself, Ange‐chan.:縁寿ちゃんが自分で解いたのよ。}`
+`{ruby:You solved it:縁寿ちゃんが自分で}{ruby:by yourself, Ange‐chan.:解いたのよ。}`
 `{ruby:Incredible.":すごいわ」}`
 `{ruby:"Yep, nice work!:「いやいやっ、お見事や！}`
-`{ruby:Now, here's your medal for gettin' it right...!":ほな、正解のメダルをあげような…！」}`
-`{ruby:Hideyoshi took out a gold‐colored medal and placed it on my palm.:秀吉は金色のメダルを取り出すと、それを私の手の平に置いてくれた。}`
+`{ruby:Now, here's your medal:ほな、正解のメダルをあ}{ruby:for gettin' it right...!":げような…！」}`
+`{ruby:Hideyoshi took out a gold‐colored medal:秀吉は金色のメダルを取り出すと、そ}{ruby:and placed it on my palm.:れを私の手の平に置いてくれた。}`
 `{ruby:It felt heavy in my hand.:ずしりとした手応え。}`
-`{ruby:Yeah, this is what victory feels like.:うん、勝ったって感じがする。}`
+`{ruby:Yeah, this is:うん、勝ったって}{ruby:what victory feels like.:感じがする。}`
 `{ruby:I'd better keep it up!:この調子でがんばろう！}`
-`{ruby:"I've actually got one more medal here, I guess for me to give in place of Eva.:「わしな、絵羽の分もなのか、もう１枚メダルをもらっとんのや。}`
-`{ruby:But I can't think of any more problems.":しかし、問題がもう思い付かんのや」}`
-`{ruby:"Then maybe I should give Ange‐chan a puzzle.":「じゃあ、私が縁寿ちゃんに出題しちゃおっかなぁ？」}`
+`{ruby:"I've actually got one more medal here, I:「わしな、絵羽の分もなのか、もう}{ruby:guess for me to give in place of Eva.:１枚メダルをもらっとんのや。}`
+`{ruby:But I can't think:しかし、問題がもう思}{ruby:of any more problems.":い付かんのや」}`
+`{ruby:"Then maybe I should:「じゃあ、私が縁寿ちゃんに出}{ruby:give Ange‐chan a puzzle.":題しちゃおっかなぁ？」}`
 `{ruby:"Huh?:「え？}`
 `{ruby:You will?":絵羽伯母さんが？」}`
 `{ruby:"Sure.:「そうよ。}`
-`{ruby:A quiz for the princess from her attendant{p:0:♪}:お姫様への、付き人からのクイズ♪}`
-`{ruby:I've thought of a fun one, so please, have a go at it!":ちょっと面白いクイズが思いついたから、ぜひ挑戦してほしいのよぅ！」}`
+`{ruby:A quiz for the:お姫様への、付き人}{ruby:princess from her attendant{p:0:♪}:からのクイズ♪}`
+`{ruby:I've thought of a fun one,:ちょっと面白いクイズが思いついたから}{ruby:so please, have a go at it!":、ぜひ挑戦してほしいのよぅ！」}`
 `{ruby:Auntie Eva smiled brightly.:絵羽伯母さんは上機嫌に笑う。}`
-`{ruby:I want to get as many medals as possible, so of course, I want as many chances as I can get.:メダルは１枚でも多い方がいいし、そのチャンスももちろん多い方がいい。}`
+`{ruby:I want to get as many medals as possible, so:メダルは１枚でも多い方がいいし、その}{ruby:of course, I want as many chances as I can get.:チャンスももちろん多い方がいい。}`
 `{ruby:"Okay, I'll have a go at it.":「うんっ、挑戦する」}`
 `{ruby:"*giggle*. That's the spirit.:「くす。その意気よ。}`
 `{ruby:Okay, here it comes.":じゃあ、出題するわね」}`
-`{ruby:"We've talked about how I love to travel, haven't we?":「伯母さんは旅行が大好きだって話は、したことがあったかしら？」}`
+`{ruby:"We've talked about how I:「伯母さんは旅行が大好きだって話は}{ruby:love to travel, haven't we?":、したことがあったかしら？」}`
 `{ruby:"Yeah.:「うん。}`
-`{ruby:You said you like traveling overseas a lot.":絵羽伯母さんはよく、海外旅行へ行くって言ってた」}`
+`{ruby:You said you like:絵羽伯母さんはよく、海外旅}{ruby:traveling overseas a lot.":行へ行くって言ってた」}`
 `{ruby:"That's right.:「そうよ。}`
-`{ruby:So this will be a puzzle about traveling.:だから旅行の問題を出すわね。}`
-`{ruby:There was a traveler in a certain place.":あるところに旅人がいたの」}`
+`{ruby:So this will be:だから旅行の問題}{ruby:a puzzle about traveling.:を出すわね。}`
+`{ruby:There was a traveler:あるところに旅人}{ruby:in a certain place.":がいたの」}`
 `{ruby:"A traveler?":「旅人？」}`
-`{ruby:"First, the traveler walked five kilometers north.":「その旅人は、まず北へ５ｋｍ歩いたわ」}`
-`{ruby:"......Should I write this down on a piece of paper?":「……その問題、紙に書いた方がいい？」}`
+`{ruby:"First, the traveler:「その旅人は、まず北へ}{ruby:walked five kilometers north.":５ｋｍ歩いたわ」}`
+`{ruby:"......Should I write this down:「……その問題、紙に書}{ruby:on a piece of paper?":いた方がいい？」}`
 `{ruby:"Don't worry.:「大丈夫よ。}`
-`{ruby:The puzzle isn't that hard, so listening to it will be enough.":そんな難しい問題じゃないから、聞くだけでＯＫ」}`
-`{ruby:"The traveler first walked five kilometers north.:「旅人は、まず北へ５ｋｍ歩いた。}`
-`{ruby:Then, he walked five kilometers to the east.:そして次に東へ５ｋｍ歩いた。}`
-`{ruby:Then, he walked five kilometers to the south.":そして次には南へ５ｋｍ歩いたの」}`
+`{ruby:The puzzle isn't that hard, so:そんな難しい問題じゃないか}{ruby:listening to it will be enough.":ら、聞くだけでＯＫ」}`
+`{ruby:"The traveler first:「旅人は、まず北へ}{ruby:walked five kilometers north.:５ｋｍ歩いた。}`
+`{ruby:Then, he walked five:そして次に東へ５}{ruby:kilometers to the east.:ｋｍ歩いた。}`
+`{ruby:Then, he walked five:そして次には南へ５}{ruby:kilometers to the south.":ｋｍ歩いたの」}`
 `{ruby:"............Five kilometers north.:「…………北へ５ｋｍ。}`
 `{ruby:Five kilometers east.:東へ５ｋｍ。}`
 `{ruby:Five kilometers south.:南へ５ｋｍ。}`
 `{ruby:......You mean, like a blocky "n"?":……コの字みたいに歩いたの？」}`
 `{ruby:"That's right!:「そういうことやな！}`
-`{ruby:You work it out, and he's in a spot five kilometers to the east of where he started.":スタート地点から東に５ｋｍの地点にいる計算になるで」}`
+`{ruby:You work it out, and he's in a spot:スタート地点から東に５ｋｍの地}{ruby:five kilometers to the east of where he started.":点にいる計算になるで」}`
 `{ruby:"That should be the case, right?:「そのはずでしょう？}`
-`{ruby:But, incredibly, this traveler ended up in the exact same spot he started.:ところがなんと、旅人はスタート地点に戻ってしまっていたの。}`
-`{ruby:......Is something so mysterious possible?":……こんなおかしなことって、ありえると思う？」}`
+`{ruby:But, incredibly, this traveler ended up:ところがなんと、旅人はスタート地}{ruby:in the exact same spot he started.:点に戻ってしまっていたの。}`
+`{ruby:......Is something:……こんなおかしなことって}{ruby:so mysterious possible?":、ありえると思う？」}`
 `{ruby:"Wahaha, there's no way!:「わはは、そんなことあるわけないで！}`
 `{ruby:His compass must've gone crazy.":方位磁石がイカレたんとちゃうか」}`
 `{ruby:"Of course it didn't!:「そんなのじゃないわよ！}`
@@ -273,140 +273,140 @@
 `{ruby:"It wasn't because of his compass?:「方位磁石のせいじゃないの？}`
 `{ruby:......Is this a play on words?":……これはなぞなぞ？」}`
 `{ruby:"No, this is a real quiz.:「いいえ、ちゃんとしたクイズよう？}`
-`{ruby:For a hint, why don't you try thinking about a globe?":ヒントはね、地球儀でよく考えてみて？」}`
+`{ruby:For a hint, why don't:ヒントはね、地球儀でよ}{ruby:you try thinking about a globe?":く考えてみて？」}`
 `{ruby:"............I don't get it.":「…………わかんないっ」}`
 `{ruby:I've never traveled overseas at all.:海外旅行なんて全然行ったことない。}`
-`{ruby:There might be some strange place in the world where you could walk in a blocky "n" and get back to where you started.:ひょっとすると世界のどこかには、コの字に歩いても元の場所に戻ってきてしまうおかしな場所があるのかもしれない。}`
-`{ruby:......Like the Bermuda Triangle, or something...:……バミューダトライアングルとか、何とか…。}`
+`{ruby:There might be some strange place in the world where you could:ひょっとすると世界のどこかには、コの字に歩いても元の場所}{ruby:walk in a blocky "n" and get back to where you started.:に戻ってきてしまうおかしな場所があるのかもしれない。}`
+`{ruby:......Like the Bermuda:……バミューダトライアン}{ruby:Triangle, or something...:グルとか、何とか…。}`
 `{ruby:"Hmmm......:「うーん……。}`
-`{ruby:I guess that was a bit too hard for you, Ange‐chan.":縁寿ちゃんには、ちょっと難しかったかしら」}`
-`{ruby:"If you went north, then east, then south, there's no way you'd get back to where you started.":「北に行って東に行って南に行ったら、元の場所に戻ってくるところなんて、あるわけない」}`
+`{ruby:I guess that was a:縁寿ちゃんには、ちょっと}{ruby:bit too hard for you, Ange‐chan.":難しかったかしら」}`
+`{ruby:"If you went north, then east, then south, there's:「北に行って東に行って南に行ったら、元の場所}{ruby:no way you'd get back to where you started.":に戻ってくるところなんて、あるわけない」}`
 `{ruby:"But there is a place.:「それがね、あるのよ？}`
-`{ruby:A place somewhere on the Earth's surface.:地球上のある場所にね。}`
-`{ruby:If you have a globe in your house, take a good look at it and think carefully.:お家に地球儀があったら、それを見ながら色々考えてみてね。}`
-`{ruby:If you just can't figure it out, try asking your dad, okay?":どうしてもわからなかったら、お父さんに聞いてみなさい？」}`
+`{ruby:A place somewhere:地球上のある場}{ruby:on the Earth's surface.:所にね。}`
+`{ruby:If you have a globe in your house,:お家に地球儀があったら、それを}{ruby:take a good look at it and think carefully.:見ながら色々考えてみてね。}`
+`{ruby:If you just can't figure it:どうしてもわからなかったら、お}{ruby:out, try asking your dad, okay?":父さんに聞いてみなさい？」}`
 `{ruby:"Okay, I'll ask him.:「うん、聞いてみるっ。}`
 `{ruby:So tell me the right answer...!":だから正解、教えて…！」}`
 `{ruby:"*giggle*.:「くす。}`
-`{ruby:The right answer is a ve~ry cold place.:正解は、とても寒〜い場所よ？}`
-`{ruby:Where can you find cold places on a globe?:寒い場所って地球のどこかしら？}`
+`{ruby:The right answer is:正解は、とても寒}{ruby:a ve~ry cold place.:〜い場所よ？}`
+`{ruby:Where can you find:寒い場所って地球の}{ruby:cold places on a globe?:どこかしら？}`
 `{ruby:Think about it carefully.:よく考えてみてね。}`
-`{ruby:Once you figure it out, you can try giving this quiz to the other kids in your class.:わかったら、縁寿ちゃんもクラスのみんなに出題してみるといいわよ。}`
+`{ruby:Once you figure it out, you can try giving:わかったら、縁寿ちゃんもクラスのみ}{ruby:this quiz to the other kids in your class.:んなに出題してみるといいわよ。}`
 `{ruby:I'm sure they'll all be surprised.":みんなきっと驚くわよ」}`
 `{ruby:Where can you find a cold place?:寒いところってどこだろう。}`
 `{ruby:......Hokkaido?:……北海道？}`
-`{ruby:I don't think you end up at the start if you go north, east, then south in Hokkaido.:北海道だって、北に行って東に行って南に行ったら、そこはスタート地点じゃないと思う。}`
+`{ruby:I don't think you end up at the start:北海道だって、北に行って東に行って南に行った}{ruby:if you go north, east, then south in Hokkaido.:ら、そこはスタート地点じゃないと思う。}`
 `{ruby:......Nnnngh.:……うーん。}`
 `{ruby:I don't get it.:わからない。}`
 `{ruby:I give up.:降参。}`
 `{ruby:"Okay, that's all for our puzzles!:「さ、これでわしらの問題はおしまいや！}`
-`{ruby:Go ask one of the others to give you one!":他の人に問題を出してもらうといいで！」}`
+`{ruby:Go ask one of the:他の人に問題を出しても}{ruby:others to give you one!":らうといいで！」}`
 `{ruby:"Let's go!:「行きましょ！}`
 `{ruby:Who should we challenge next?!":次は誰に挑戦しようかしらね！」}`
-`{ruby:If Auntie Eva knows puzzles this hard, I'm sure she must be good at quizzes.:こんな難しい問題を知ってるんだから、きっと絵羽伯母さんはクイズとか得意だろう。}`
-`{ruby:If she's with me, I know we'll get lots and lots of medals.:伯母さんと一緒なら、きっとメダルもいっぱい集まるに違いない。}`
+`{ruby:If Auntie Eva knows puzzles this hard,:こんな難しい問題を知ってるんだから、きっと}{ruby:I'm sure she must be good at quizzes.:絵羽伯母さんはクイズとか得意だろう。}`
+`{ruby:If she's with me, I know:伯母さんと一緒なら、きっとメダル}{ruby:we'll get lots and lots of medals.:もいっぱい集まるに違いない。}`
 `{ruby:Who will I ask next...?!:今度は誰に問題を出してもらおうかな…！}`
 `{ruby:"I got it...!:「わかった…！}`
 `{ruby:It's a really cold place!:とても寒い場所！}`
 `{ruby:Yeah, it must be super cold there!":うん、そこはすごい寒いよ、絶対！」}`
 `{ruby:"Perfect!:「大正解！}`
-`{ruby:Ange‐chan, you must really be a genius, to get something like that at your age.":すごいわ、縁寿ちゃんの歳でわかるなんて、本当に天才よぅ」}`
-`{ruby:"If you start at the south pole, then after you go north, going east just draws a circle around the south pole.:「南極点がスタート地点だったなら、北に進み、東に進んでも、それは南極点に対して円を描いて回ってるのと同じや。}`
-`{ruby:So, anytime you go south again, that just takes you right back to the south pole.":だから南へ進めば、また南極点に戻るだけの話っちゅうわけや」}`
-`{ruby:"I tried to make it an extra hard puzzle,:「取って置きの難しい問題のつもりだったんだけど、}`
+`{ruby:Ange‐chan, you must really be a genius,:すごいわ、縁寿ちゃんの歳でわかる}{ruby:to get something like that at your age.":なんて、本当に天才よぅ」}`
+`{ruby:"If you start at the south pole, then after you go:「南極点がスタート地点だったなら、北に進み、東に進んでも}{ruby:north, going east just draws a circle around the south pole.:、それは南極点に対して円を描いて回ってるのと同じや。}`
+`{ruby:So, anytime you go south again, that just:だから南へ進めば、また南極点に戻}{ruby:takes you right back to the south pole.":るだけの話っちゅうわけや」}`
+`{ruby:"I tried to make:「取って置きの難しい問題の}{ruby:it an extra hard puzzle,:つもりだったんだけど、}`
 `{ruby:but Ange‐chan was just too good.":縁寿ちゃんは本当にすごいわ」}`
 `{ruby:"Congrats!:「おめでとさんや！}`
 `{ruby:Here's another medal for ya.":ほな、これが、もう１枚のメダルや」}`
 `{ruby:I got a heavy, gold‐colored medal.:金色の、ずしりと重いメダルをもらう。}`
 `{ruby:All right, I did it...!:よしよし、やったやった…！}`
-`{ruby:Auntie Eva and I held up our fists in celebration.:絵羽伯母さんとガッツポーズ。}`
+`{ruby:Auntie Eva and I held:絵羽伯母さんとガッ}{ruby:up our fists in celebration.:ツポーズ。}`
 `{ruby:"Okay, that's all for our puzzles!:「さ、これでわしらの問題はおしまいや！}`
-`{ruby:Go ask one of the others to give you one!":他の人に問題を出してもらうといいで！」}`
-`{ruby:"Okay! Thank you, Uncle Hideyoshi...!":「うん、ありがとう、秀吉伯父さん…！」}`
+`{ruby:Go ask one of the:他の人に問題を出しても}{ruby:others to give you one!":らうといいで！」}`
+`{ruby:"Okay! Thank:「うん、ありがとう、秀}{ruby:you, Uncle Hideyoshi...!":吉伯父さん…！」}`
 `{ruby:"Your auntie's really clever...!:「絵羽伯母さんは賢いで…！}`
-`{ruby:......With the two of you together, you'll be gettin' medals right and left!":二人一緒なら、メダルもざっくざくや！」}`
+`{ruby:......With the two of you together,:二人一緒なら、メダルも}{ruby:you'll be gettin' medals right and left!":ざっくざくや！」}`
 `{ruby:"Yep, that's right!":「えぇ、そうよ。ざっくざくよ！」}`
 `{ruby:"Yeah.:「うん。}`
-`{ruby:Let's do our best together, Auntie Eva.":一緒にがんばろ、絵羽伯母さん」}`
+`{ruby:Let's do our:一緒にがんばろ、絵}{ruby:best together, Auntie Eva.":羽伯母さん」}`
 `{ruby:I dashed away.:私は駆け出す。}`
 `{ruby:{n}Who will I ask next...?!:{n}今度は誰に問題を出してもらおうかな…！}`
-`{ruby:Uncle Hideyoshi waved goodbye, smiling......:秀吉伯父さんは、いってらっしゃいと微笑みながら、手を振ってくれるのだった……。}`
-`{ruby:Hideyoshi and Eva watched as Ange ran off happily,:次の出題者を求め、嬉々と走り出す縁寿を、}`
+`{ruby:Uncle Hideyoshi:秀吉伯父さんは、いってらっしゃいと微笑みな}{ruby:waved goodbye, smiling......:がら、手を振ってくれるのだった……。}`
+`{ruby:Hideyoshi and Eva watched:次の出題者を求め、嬉々}{ruby:as Ange ran off happily,:と走り出す縁寿を、}`
 `{ruby:looking for the next quiz.:秀吉と絵羽が見守っていた。}`
-`{ruby:".........That kid can wear such a cute smile,:「………あんなにも可愛らしい笑顔を浮かべられる子なのに、}`
-`{ruby:......and I......will be the one who takes it away from her...":……私が、………それを奪うのね…」}`
+`{ruby:".........That kid can wear:「………あんなにも可愛らしい笑}{ruby:such a cute smile,:顔を浮かべられる子なのに、}`
+`{ruby:......and I......will be the one:……私が、………それ}{ruby:who takes it away from her...":を奪うのね…」}`
 `{ruby:"Eva...............":「絵羽……………」}`
 `{ruby:Eva hung her head.:絵羽は俯く。}`
 `{ruby:A single tear sparkled in her eye...:目元には、涙が一粒、光っていた…。}`
-`{ruby:"Her reaction was only natural, considering how she felt.:「彼女の気持ちを考えれば、それは当然のことなのよ。}`
-`{ruby:......But I...wasn't able to see past it and accept her feelings......":……でも、私はそれを受け止め切れなかった……」}`
+`{ruby:"Her reaction was only:「彼女の気持ちを考えれば、そ}{ruby:natural, considering how she felt.:れは当然のことなのよ。}`
+`{ruby:......But I...wasn't able to see:……でも、私はそれを受け止}{ruby:past it and accept her feelings......":め切れなかった……」}`
 `{ruby:"It can't be helped.:「しゃあない。}`
 `{ruby:You're as human as anyone else.:お前かて人間やで。}`
-`{ruby:It's not easy to put your emotions aside.":そうそう人間、割り切れるもんとちゃう」}`
+`{ruby:It's not easy to:そうそう人間、割り切れ}{ruby:put your emotions aside.":るもんとちゃう」}`
 `{ruby:"Even so, it was my fault...!:「それでも、私が悪いのよ…！}`
-`{ruby:After all, I already had the experience of bringing up a child, right?!:仮にも一児を育てた母だったのよ？！}`
-`{ruby:.........I should have become her mother.:………あの子の母親に、私はなるべきだった。}`
-`{ruby:......And yet, I let sadness overwhelm me, ......and I didn't do it at all...":……なのに、私は悲しみに溺れ、それをしなかった…」}`
+`{ruby:After all, I already had the:仮にも一児を育てた母}{ruby:experience of bringing up a child, right?!:だったのよ？！}`
+`{ruby:.........I should have:………あの子の母親に、私}{ruby:become her mother.:はなるべきだった。}`
+`{ruby:......And yet, I let sadness overwhelm me,:……なのに、私は悲しみに溺れ}{ruby:......and I didn't do it at all...":、それをしなかった…」}`
 `{ruby:"It can't be helped, I tell you...!:「しゃあない。しゃあない…！}`
-`{ruby:Don't think you were the only one at fault...!:お前だけが悪いわけとちゃうで…！}`
-`{ruby:You shouldn't blame yourself so much!":そんなに自分を責めたらあかん！」}`
-`{ruby:By now, Eva was unable to hold back her sobs...:もう絵羽は、嗚咽を止められなくなっていた…。}`
-`{ruby:{n}Large tears dripped down her cheeks as she stared at the ground and shook...:{n}大粒の涙をぼろぼろと零しながら、俯いて震える…。}`
+`{ruby:Don't think you were:お前だけが悪いわけと}{ruby:the only one at fault...!:ちゃうで…！}`
+`{ruby:You shouldn't blame:そんなに自分を責めた}{ruby:yourself so much!":らあかん！」}`
+`{ruby:By now, Eva was unable:もう絵羽は、嗚咽を止めら}{ruby:to hold back her sobs...:れなくなっていた…。}`
+`{ruby:{n}Large tears dripped down her cheeks as:{n}大粒の涙をぼろぼろと零し}{ruby:she stared at the ground and shook...:ながら、俯いて震える…。}`
 `{ruby:"What a sin I've committed......:「私は、何て罪を……。}`
-`{ruby:.........My sadness was no greater than hers...!:………悲しいのは私もあの子もまったく同じだった…！}`
-`{ruby:And yet, I decided that I was suffering the most, ......so I didn't accept her feelings......:なのに私は自分の方が悲しいと決め付けて、……あの子の気持ちをまったく受け止めなくて……。}`
-`{ruby:.........I'm a failure of a mother...:………私は母失格なんだわ…。}`
-`{ruby:I wasn't able.........to become a mother for her.........":あの子の母になって、………あげられなかった………」}`
+`{ruby:.........My sadness was:………悲しいのは私もあの子も}{ruby:no greater than hers...!:まったく同じだった…！}`
+`{ruby:And yet, I decided that I was suffering:なのに私は自分の方が悲しいと決め付けて、……あの}{ruby:the most, ......so I didn't accept her feelings......:子の気持ちをまったく受け止めなくて……。}`
+`{ruby:.........I'm a failure:………私は母失格}{ruby:of a mother...:なんだわ…。}`
+`{ruby:I wasn't able.........to become:あの子の母になって、………あ}{ruby:a mother for her.........":げられなかった………」}`
 `{ruby:"That's wrong.:「いいえ。}`
-`{ruby:......You did your best for her, Eva nee‐san.":……あなたはがんばってくれたわ、絵羽姉さん」}`
+`{ruby:......You did your best:……あなたはがんばってく}{ruby:for her, Eva nee‐san.":れたわ、絵羽姉さん」}`
 `{ruby:"Kyrie‐san...":「霧江さん…」}`
-`{ruby:Kyrie and Rudolf were standing behind Eva now.:いつの間にか、絵羽の後ろに霧江がいた。留弗夫もいた。}`
-`{ruby:"I know how hard you tried to get along with Ange.":「あなたが縁寿と打ち解けようと、色々な努力をしてくれたことを知っているわ」}`
+`{ruby:Kyrie and Rudolf were:いつの間にか、絵羽の後ろに霧}{ruby:standing behind Eva now.:江がいた。留弗夫もいた。}`
+`{ruby:"I know how hard you:「あなたが縁寿と打ち解けようと、色々な努}{ruby:tried to get along with Ange.":力をしてくれたことを知っているわ」}`
 `{ruby:"......You held out well, Aneki.:「……姉貴はよく堪えてくれたぜ。}`
-`{ruby:Guess that daughter of ours really has been a pain, clueless about how much you suffered.":そんな姉貴の苦労も知らず、うちの娘が本当に迷惑をかけたな」}`
+`{ruby:Guess that daughter of ours really has been:そんな姉貴の苦労も知らず、うちの}{ruby:a pain, clueless about how much you suffered.":娘が本当に迷惑をかけたな」}`
 `{ruby:After the accident on Rokkenjima...:六軒島の事故の後。}`
-`{ruby:...Eva, the only person to leave Rokkenjima alive, adopted Ange, the girl who had survived the day through her absence.:ひとり六軒島より生還した絵羽は、当日を欠席して生き残った縁寿を養子に迎えた。}`
-`{ruby:......While they would eventually develop a sad and mutually painful relationship,:……後に、互いを傷つけ合うような悲しい関係になる二人も、}`
+`{ruby:...Eva, the only person to leave Rokkenjima alive, adopted Ange,:ひとり六軒島より生還した絵羽は、当日を欠}{ruby:the girl who had survived the day through her absence.:席して生き残った縁寿を養子に迎えた。}`
+`{ruby:......While they would eventually develop:……後に、互いを傷つけ合うよう}{ruby:a sad and mutually painful relationship,:な悲しい関係になる二人も、}`
 `{ruby:it wasn't like that at first.:最初からそうだったわけではないのだ。}`
-`{ruby:As Ange's new mother and last remaining blood relative, Eva tried to shower her with love and affection.:絵羽は縁寿の新しい親として、最後の唯一の肉親として愛情を注ごうと努力したのだ。}`
-`{ruby:Even as she fought back the sadness she herself felt.:自身の悲しみを懸命に堪えて。}`
-`{ruby:However, Ange wasn't able to accept that kindness.:しかし縁寿はそれを受け容れなかった。}`
-`{ruby:{n}She lashed out at Eva, the only one who had returned alive, and accused her of stealing her parents away from her.:{n}唯一生還した絵羽を、自分の親を奪ったと罵ったのだ。}`
-`{ruby:......Eva, understanding the wounds that this little six‐year‐old girl bore, withstood these attacks.:……６歳の幼子の傷心を理解し、絵羽はそれでも耐えた。}`
-`{ruby:{n}She grit her teeth and gave Ange her unconditional love.:{n}歯を食いしばって、報われぬ愛情を縁寿に注いだのだ。}`
-`{ruby:However, .........the wounds that Eva herself bore were also extremely deep.:しかし、………絵羽だって、深く深く傷付いていた。}`
-`{ruby:She was never rewarded for her sad efforts,:彼女の悲しい努力はついに報われず、}`
-`{ruby:............and the future that followed was a sorrowful one.:…………続く未来は、悲しいものとなる。}`
-`{ruby:"You tried to show Ange the same affection you once showed George‐kun.":「あなたは縁寿に、譲治くんに注いだのと同じ愛情を、与えようとしてくれたわ」}`
-`{ruby:"But in the end, ......that was just for my own satisfaction...... Ange‐chan never felt any of it...":「でも、……それは私だけの独りよがりで、……縁寿ちゃんにはまったく届かなかった…」}`
-`{ruby:"Ange was the one who couldn't accept it.:「それを受け止めなかったのは縁寿だ。}`
+`{ruby:As Ange's new mother and last remaining blood relative,:絵羽は縁寿の新しい親として、最後の唯一の肉}{ruby:Eva tried to shower her with love and affection.:親として愛情を注ごうと努力したのだ。}`
+`{ruby:Even as she fought back:自身の悲しみを懸}{ruby:the sadness she herself felt.:命に堪えて。}`
+`{ruby:However, Ange wasn't able:しかし縁寿はそれを受}{ruby:to accept that kindness.:け容れなかった。}`
+`{ruby:{n}She lashed out at Eva, the only one who had returned:{n}唯一生還した絵羽を、自分}{ruby:alive, and accused her of stealing her parents away from her.:の親を奪ったと罵ったのだ。}`
+`{ruby:......Eva, understanding the wounds that this:……６歳の幼子の傷心を理解し}{ruby:little six‐year‐old girl bore, withstood these attacks.:、絵羽はそれでも耐えた。}`
+`{ruby:{n}She grit her teeth and:{n}歯を食いしばって、報われ}{ruby:gave Ange her unconditional love.:ぬ愛情を縁寿に注いだのだ。}`
+`{ruby:However, .........the wounds that Eva:しかし、………絵羽だって、}{ruby:herself bore were also extremely deep.:深く深く傷付いていた。}`
+`{ruby:She was never rewarded:彼女の悲しい努力はつ}{ruby:for her sad efforts,:いに報われず、}`
+`{ruby:............and the future that:…………続く未来は、悲}{ruby:followed was a sorrowful one.:しいものとなる。}`
+`{ruby:"You tried to show Ange the:「あなたは縁寿に、譲治くんに注いだのと同}{ruby:same affection you once showed George‐kun.":じ愛情を、与えようとしてくれたわ」}`
+`{ruby:"But in the end, ......that was just for:「でも、……それは私だけの独りよがりで、……}{ruby:my own satisfaction...... Ange‐chan never felt any of it...":縁寿ちゃんにはまったく届かなかった…」}`
+`{ruby:"Ange was the one:「それを受け止めなか}{ruby:who couldn't accept it.:ったのは縁寿だ。}`
 `{ruby:It isn't your fault.":姉貴のせいじゃない」}`
-`{ruby:"But who could possibly ask that of Ange‐chan when she was just six years old...?!:「６歳の縁寿ちゃんにそれを求めるなんて酷よ…！}`
-`{ruby:I should've held out much, much longer, until she could understand my feelings...!":それでも私は気持ちを伝えられるよう、もっともっと……、堪えなければならなかったのに…！」}`
+`{ruby:"But who could possibly ask that of:「６歳の縁寿ちゃんにそれを}{ruby:Ange‐chan when she was just six years old...?!:求めるなんて酷よ…！}`
+`{ruby:I should've held out much, much:それでも私は気持ちを伝えられるよう、もっともっと}{ruby:longer, until she could understand my feelings...!":……、堪えなければならなかったのに…！」}`
 `{ruby:"Eva nee‐san.:「絵羽姉さん。}`
-`{ruby:If nothing else, trust me when I say this...":これだけは信じて」}`
+`{ruby:If nothing else, trust:これだけは信}{ruby:me when I say this...":じて」}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:"We......don't blame you in the slightest.":「私たちはあなたを、……責めてなんかいないのよ」}`
+`{ruby:"We......don't blame you:「私たちはあなたを、……責}{ruby:in the slightest.":めてなんかいないのよ」}`
 `{ruby:"......Kyrie‐san...............":「……霧江さん……………」}`
-`{ruby:"Thank you so much for suffering so long for Ange's sake......:「縁寿のために、深く深く傷付いてくれて、ありがとう……。}`
-`{ruby:.........If that kid has a human heart, then I'm sure she'll recognize the affection you showed her someday.":………あの子に人の心があるなら、いつか必ず、あなたが注いでくれた愛情に気がついてくれるはず」}`
+`{ruby:"Thank you so much for:「縁寿のために、深く深く傷付い}{ruby:suffering so long for Ange's sake......:てくれて、ありがとう……。}`
+`{ruby:.........If that kid has a human heart, then I'm:………あの子に人の心があるなら、いつか必ず、あな}{ruby:sure she'll recognize the affection you showed her someday.":たが注いでくれた愛情に気がついてくれるはず」}`
 `{ruby:"Thank you, Aneki.:「ありがとう、姉貴。}`
 `{ruby:We'll always be grateful......":俺たちは、いつまでも感謝してるんだぜ……」}`
-`{ruby:"............Isn't that wonderful, Eva......?:「…………良かったな、絵羽……。}`
-`{ruby:......All of your efforts......have been witnessed......":……お前のがんばりはな、……ちゃんと、……認められとんのやで……」}`
+`{ruby:"............Isn't that:「…………良かった}{ruby:wonderful, Eva......?:な、絵羽……。}`
+`{ruby:......All of your:……お前のがんばりはな、……ちゃんと}{ruby:efforts......have been witnessed......":、……認められとんのやで……」}`
 `{ruby:"Uuuhghuu......uuuuuhhghuu.........":「ううぅ……、うううぅぅぅぅ………っ…」}`
 `{ruby:"How are you doing, Ange‐sama?:「如何ですか、縁寿さま。}`
-`{ruby:If you wish, I, Gohda, would be pleased to challenge you.":よろしければ、ぜひこの郷田にも挑戦していただけませんか」}`
+`{ruby:If you wish, I, Gohda,:よろしければ、ぜひこの郷田にも}{ruby:would be pleased to challenge you.":挑戦していただけませんか」}`
 `{ruby:"Hoh‐hoh‐hoh‐ho.:「ほっほっほっほ。}`
-`{ruby:And I, Kumasawa, have a ve~ry tricky puzzle for you.":この熊沢も、難し〜い問題を用意しましたよぅ？」}`
+`{ruby:And I, Kumasawa, have a:この熊沢も、難し〜い問題を}{ruby:ve~ry tricky puzzle for you.":用意しましたよぅ？」}`
 `{ruby:"It doesn't matter how hard it is.:「難しい問題でもへっちゃら。}`
 `{ruby:I'm not alone.:縁寿ひとりだけじゃないもん。}`
 `{ruby:I'll solve it with Auntie Eva!":絵羽伯母さんと一緒に解くもん！」}`
-`{ruby:Gohda and Kumasawa offered to challenge me.:郷田と熊沢が挑戦しないかと誘ってくる。}`
-`{ruby:{n}I'll have to go up against everyone in the end, so it doesn't matter who comes next.:{n}どうせ全員に挑むのだから、誰から先だって関係ないのだ。}`
+`{ruby:Gohda and Kumasawa:郷田と熊沢が挑戦しない}{ruby:offered to challenge me.:かと誘ってくる。}`
+`{ruby:{n}I'll have to go up against everyone in:{n}どうせ全員に挑むのだから、}{ruby:the end, so it doesn't matter who comes next.:誰から先だって関係ないのだ。}`
 `{ruby:I waved at Auntie Eva to hurry up,:絵羽伯母さん早く〜と、手を振ると、}`
 `{ruby:and she ran toward me.:伯母さんが駆けてきた。}`
-`{ruby:"So, we're challenging this pair next?:「今度はこの二人が出題？}`
+`{ruby:"So, we're challenging:「今度はこの二}{ruby:this pair next?:人が出題？}`
 `{ruby:Who will we start with?":どっちから挑戦する？」}`
 `{ruby:"Okay...Gohda‐san.":「じゃあ、郷田さん」}`
 `{ruby:"Very well, as you wish.:「はいはい、畏まりました。}`
@@ -415,501 +415,501 @@
 `{ruby:I'll warn you, it's a toughie.":難しいですよぅ？」}`
 `{ruby:"I'll still solve it.:「それでも解く。}`
 `{ruby:I've gotten the knack of it.":コツはもう、わかったもん」}`
-`{ruby:"You'd better not underestimate Ange‐chan.:「縁寿ちゃんを甘く見ちゃ駄目よ？}`
+`{ruby:"You'd better:「縁寿ちゃんを甘く}{ruby:not underestimate Ange‐chan.:見ちゃ駄目よ？}`
 `{ruby:Right?!":ねー！」}`
 `{ruby:"Right!":「ねー！」}`
 `{ruby:"My, my.:「それはそれは。}`
-`{ruby:...Well then, being the humble chef that I am, here is a puzzle about food and the kitchen.":…それでは、郷田らしく、台所とお料理の問題を出させていただきます」}`
+`{ruby:...Well then, being the humble chef that I am,:…それでは、郷田らしく、台所とお料理}{ruby:here is a puzzle about food and the kitchen.":の問題を出させていただきます」}`
 `{ruby:"We'll fight together this time.:「今度は共闘しましょ。}`
-`{ruby:If you don't get it, just ask me to lend a hand.:わからない時は伯母さんを頼ってね？}`
+`{ruby:If you don't get it, just:わからない時は伯母さ}{ruby:ask me to lend a hand.:んを頼ってね？}`
 `{ruby:I'll give you a hint.":何かヒントを出せるようにするわ」}`
-`{ruby:"......If I get a hint, does that mean I don't get a medal?":「……ヒントもらうとメダルはもらえない？」}`
-`{ruby:"It won't affect your medals at all, so feel free to ask away!":「メダルとは関係ないから、じゃんじゃん頼ってね！」}`
+`{ruby:"......If I get a hint, does:「……ヒントもらうとメダ}{ruby:that mean I don't get a medal?":ルはもらえない？」}`
+`{ruby:"It won't affect your medals at:「メダルとは関係ないから、じ}{ruby:all, so feel free to ask away!":ゃんじゃん頼ってね！」}`
 `{ruby:"I've got it.:「伯母さん、わーかった。}`
-`{ruby:The hint here...is that the witch got home much later than usual.":ヒントはね、魔女の帰りが普段よりとても遅くなったってところよ？」}`
-`{ruby:"......What happens when she gets home later than usual?":「……普段より遅いと何かあるの？」}`
+`{ruby:The hint here...is that the witch:ヒントはね、魔女の帰りが普段よりと}{ruby:got home much later than usual.":ても遅くなったってところよ？」}`
+`{ruby:"......What happens when she:「……普段より遅いと}{ruby:gets home later than usual?":何かあるの？」}`
 `{ruby:"Think carefully.:「よく考えて？}`
-`{ruby:The food is always freshly made at the usual time, right?:いつもの決まった時間に出来立てのご飯を作っておいたのよ？}`
-`{ruby:So, ......what happens when she gets home long after that?":ということは、それよりずっと帰りが遅くなったら、……どうなっちゃうかしら？」}`
+`{ruby:The food is always freshly:いつもの決まった時間に出来立ての}{ruby:made at the usual time, right?:ご飯を作っておいたのよ？}`
+`{ruby:So, ......what happens when she:ということは、それよりずっと帰りが遅くなっ}{ruby:gets home long after that?":たら、……どうなっちゃうかしら？」}`
 `{ruby:".........I don't get it.:「………わかんない。}`
 `{ruby:Food isn't supposed to talk.":食べ物が喋るなんておかしいもん」}`
-`{ruby:"Well, uh, that's because this is a fairy tale puzzle......":「いやいえ、これはそういうお伽噺の問題ですので……」}`
+`{ruby:"Well, uh, that's because this:「いやいえ、これはそういうお}{ruby:is a fairy tale puzzle......":伽噺の問題ですので……」}`
 `{ruby:"Hohhohohohohoho...:「ほっほほほほほほ…。}`
-`{ruby:It looks as though she didn't figure it out.":どうやら、おわかりにはならなかったようでございますねぇ」}`
-`{ruby:The answer I'd chosen at random was wrong, apparently.:私が適当に選んだ選択肢は、どうやら外れていたらしい。}`
+`{ruby:It looks as though:どうやら、おわかりにはならなか}{ruby:she didn't figure it out.":ったようでございますねぇ」}`
+`{ruby:The answer I'd chosen:私が適当に選んだ選択肢は、ど}{ruby:at random was wrong, apparently.:うやら外れていたらしい。}`
 `{ruby:......Too bad.:……残念。}`
 `{ruby:"Okay, tell me the right answer.:「じゃあ、正解を教えて。}`
-`{ruby:You figured it out, right, Auntie Eva?:絵羽伯母さんはわかったんでしょ？}`
+`{ruby:You figured it:絵羽伯母さんはわか}{ruby:out, right, Auntie Eva?:ったんでしょ？}`
 `{ruby:Tell me!":教えて！」}`
 `{ruby:"Alright.:「いいわよ。}`
 `{ruby:The answer is—":答えはね、」}`
 `{ruby:"Eva‐sama, if you wouldn't mind...!:「絵羽さま、それはどうかお許しを…！}`
-`{ruby:They say recipes and riddle answers are best while they remain secret.":レシピとなぞなぞの答えは、秘密である内が華と言うものでございます」}`
+`{ruby:They say recipes and riddle answers:レシピとなぞなぞの答えは、秘密である}{ruby:are best while they remain secret.":内が華と言うものでございます」}`
 `{ruby:"You think so...?:「そうぉ…？}`
-`{ruby:Eheheh, I'll have to tell her sometime later when you aren't around, then.":うふふ、なら郷田さんのいないところで、あとでこっそり教えてあげるからねー」}`
+`{ruby:Eheheh, I'll have to tell her:うふふ、なら郷田さんのいないところで、あ}{ruby:sometime later when you aren't around, then.":とでこっそり教えてあげるからねー」}`
 `{ruby:"Yeah, it's a promise!":「うん、約束っ」}`
-`{ruby:But even if I hear the answer later on, I still got it wrong.:しかし、後になって答えを教えられても、ハズレはハズレ。}`
+`{ruby:But even if I hear the answer:しかし、後になって答えを教えら}{ruby:later on, I still got it wrong.:れても、ハズレはハズレ。}`
 `{ruby:Oh well.:仕方ない。}`
-`{ruby:I'd better pull myself together and take a shot at Kumasawa‐san's puzzle.:気を取り直して、今度は熊沢さんの問題に挑戦してみよう。}`
+`{ruby:I'd better pull myself together and:気を取り直して、今度は熊沢さん}{ruby:take a shot at Kumasawa‐san's puzzle.:の問題に挑戦してみよう。}`
 `{ruby:"The ice cream!:「アイスクリーム！}`
-`{ruby:The witch got back really late, so the ice cream would've melted.:魔女は帰りがすごく遅かったんだから、その頃にはもう溶けちゃってる。}`
+`{ruby:The witch got back really late,:魔女は帰りがすごく遅かったんだから、}{ruby:so the ice cream would've melted.:その頃にはもう溶けちゃってる。}`
 `{ruby:So she couldn't eat it!":だから食べられない！」}`
 `{ruby:"Nicely done!:「さすが！}`
 `{ruby:See?:どぅお？}`
-`{ruby:Ange‐chan is a clever girl, isn't she?":縁寿ちゃんは本当に賢いでしょう？」}`
+`{ruby:Ange‐chan is a:縁寿ちゃんは本当に賢}{ruby:clever girl, isn't she?":いでしょう？」}`
 `{ruby:"Congratulations, Ange‐sama!:「おめでとうございます、縁寿さまっ。}`
 `{ruby:Very impressive.:感服いたしました。}`
-`{ruby:How quickly you saw through the puzzle that I, Gohda, put all my efforts into...!":この郷田の、腕によりを掛けた難問が、こうもあっさり解かれてしまうとは…！」}`
+`{ruby:How quickly you saw through the puzzle:この郷田の、腕によりを掛けた難問が、こう}{ruby:that I, Gohda, put all my efforts into...!":もあっさり解かれてしまうとは…！」}`
 `{ruby:"It was totally easy.:「全然簡単だったもん。}`
 `{ruby:Auntie Eva's puzzle was harder.":絵羽伯母さんの問題の方が難しかった」}`
 `{ruby:"*giggle*, thanks.":「くすくす、ありがと」}`
 `{ruby:"Congratulations.:「おめでとうございます。}`
-`{ruby:This medal is your prize for answering my question correctly.":こちらが、私の問題に正解したご褒美のメダルでございます」}`
+`{ruby:This medal is your prize:こちらが、私の問題に正解したご}{ruby:for answering my question correctly.":褒美のメダルでございます」}`
 `{ruby:"Thank you!":「ありがとう！」}`
 `{ruby:Alright, that was easy.:よしよし、こんなの楽勝楽勝。}`
-`{ruby:{n}Now let's take a shot at Kumasawa‐san's puzzle.:{n}次は熊沢さんの問題に挑戦してみよう。}`
+`{ruby:{n}Now let's take a:{n}次は熊沢さんの問題}{ruby:shot at Kumasawa‐san's puzzle.:に挑戦してみよう。}`
 `{ruby:"Looks like I'm up next.:「次は私でございますねぇ。}`
-`{ruby:Now, let's test Ange‐sama with my specially‐made, super‐hard puzzle.:では取って置きの、難し〜い問題で縁寿さまを試してみましょうね。}`
+`{ruby:Now, let's test Ange‐sama:では取って置きの、難し〜い問題で縁}{ruby:with my specially‐made, super‐hard puzzle.:寿さまを試してみましょうね。}`
 `{ruby:Are you ready?":では参りますよ？」}`
 `{ruby:"It's hard?:「難しいって、}`
 `{ruby:How hard?":どのくらい？」}`
 `{ruby:"Hohhohohohohoho.:「ほっほほほほほほ。}`
 `{ruby:You'll have to wait and see.:それは挑戦してみてのお楽しみ。}`
-`{ruby:And now, let the mackerel dessert puzzle begin.":それでは私はサバのデザートの問題を出しましょう」}`
+`{ruby:And now, let the:それでは私はサバのデザート}{ruby:mackerel dessert puzzle begin.":の問題を出しましょう」}`
 `{ruby:"Mackerel dessert...?":「サバのデザート…？」}`
-`{ruby:"This is Kumasawa‐san we're talking about, so you can bet it'll be a strange one.:「熊沢さんのこと、きっとおかしな問題に違いないわ。}`
+`{ruby:"This is Kumasawa‐san we're talking about, so:「熊沢さんのこと、きっとおか}{ruby:you can bet it'll be a strange one.:しな問題に違いないわ。}`
 `{ruby:Be careful.":注意してかかりましょ」}`
 `{ruby:"Okay!":「うんっ」}`
 `{ruby:"Auntie Eva, do you get it?":「伯母さん、わかった？」}`
-`{ruby:"She says you have to change one letter, so the answer's probably some sort of word game.:「一文字を足せばって言うんだから、ダジャレみたいな答えに違いないわ。}`
-`{ruby:We have to change one letter in "sabara" and see if we can make it into a des—:サバに一文字を加えて、デザートにならないか考えて……。}`
+`{ruby:"She says you have to change one letter,:「一文字を足せばって言うんだから、ダ}{ruby:so the answer's probably some sort of word game.:ジャレみたいな答えに違いないわ。}`
+`{ruby:We have to change one letter in "sabara" and:サバに一文字を加えて、デザート}{ruby:see if we can make it into a des—:にならないか考えて……。}`
 `{ruby:ah, I've got it!":……あ、わーかった！」}`
 `{ruby:"Huh?!:「え？！}`
 `{ruby:What is it? What is it?!":何？　何？！」}`
-`{ruby:"Try using each of the letters in place of the "b".:「とにかく、語尾に一文字を足してみて？}`
-`{ruby:In fact, that pretty much gives you the answer.":それがまさに、答えそのものだから」}`
+`{ruby:"Try using each of the:「とにかく、語尾に一文}{ruby:letters in place of the "b".:字を足してみて？}`
+`{ruby:In fact, that pretty:それがまさに、答えそ}{ruby:much gives you the answer.":のものだから」}`
 `{ruby:"Bzzzzt.:「ぶっぶー。}`
 `{ruby:Wronnng.":ハズレでございますよー」}`
 `{ruby:"Huh?!:「えー？！}`
 `{ruby:I don't get it!:わかんない！}`
 `{ruby:I don't get it at all...!":全然わかんない…！」}`
-`{ruby:"Hohhohohoho, sorry, but wrong is wrong.:「ほっほほほほほほ、ハズレはハズレでございます。}`
-`{ruby:Perhaps it was a bit too hard for you, Ange‐sama.":ちょっと縁寿さまには難しゅうございましたでしょうか」}`
+`{ruby:"Hohhohohoho, sorry, but:「ほっほほほほほほ、ハズレ}{ruby:wrong is wrong.:はハズレでございます。}`
+`{ruby:Perhaps it was a bit:ちょっと縁寿さまには難しゅう}{ruby:too hard for you, Ange‐sama.":ございましたでしょうか」}`
 `{ruby:"Come on, Kumasawa‐san.:「もう、熊沢さんったら。}`
 `{ruby:That was a nasty puzzle...":いやらしい問題ねぇ…」}`
 `{ruby:"It doesn't make sense!:「こんなのおかしい！}`
-`{ruby:There's no way you could make a dessert out of mackerel!:サバがデザートになんかなるわけない！}`
+`{ruby:There's no way you could:サバがデザートになんか}{ruby:make a dessert out of mackerel!:なるわけない！}`
 `{ruby:What's the answer?:答えは何？}`
 `{ruby:Tell me!":教えて！」}`
 `{ruby:"Hohohoho, it's no fun if I tell you.:「ほほほほほ、それを教えたら面白くございません。}`
-`{ruby:If you don't guess it quick, ......then you really will be having mackerel for dessert.:早く答えを見つけないと、……本当にデザートがサバになってしまいますよぅ？}`
-`{ruby:Ihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi......":いっひひひひひひひひひ……」}`
+`{ruby:If you don't guess it quick, ......then:早く答えを見つけないと、……本当にデザ}{ruby:you really will be having mackerel for dessert.:ートがサバになってしまいますよぅ？}`
+`{ruby::いっひひひひひひひ}{ruby:Ihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi......":ひひ……」}`
 `{ruby:"Tell me, tell me!":「答えー、教えてー」}`
 `{ruby:"Nope.":「だぁめでございますよ」}`
-`{ruby:Kumasawa smiled cheerily, but remained stubborn.:熊沢は朗らかに笑っているが、頑として譲らない。}`
-`{ruby:{n}No matter how much I bother her, she probably won't tell me the answer.:{n}いくら粘っても、答えは教えてくれないだろう。}`
+`{ruby:Kumasawa smiled cheerily,:熊沢は朗らかに笑っているが}{ruby:but remained stubborn.:、頑として譲らない。}`
+`{ruby:{n}No matter how much I bother her,:{n}いくら粘っても、答えは}{ruby:she probably won't tell me the answer.:教えてくれないだろう。}`
 `{ruby:"That concludes our puzzles.:「以上で、私どもの問題はおしまいでございます。}`
-`{ruby:There are probably others waiting for you to challenge them, Ange‐sama.:他の方も縁寿さまが挑みに来るのを心待ちにしているでしょう。}`
+`{ruby:There are probably others waiting:他の方も縁寿さまが挑みに来るのを}{ruby:for you to challenge them, Ange‐sama.:心待ちにしているでしょう。}`
 `{ruby:Please, on to the next challenge.":さぁ、次の方へぜひ挑戦を」}`
-`{ruby:"We're both rooting for you, Ange‐sama.":「縁寿さまのご武運をお祈りいたしておりますよ」}`
+`{ruby:"We're both rooting:「縁寿さまのご武運をお祈り}{ruby:for you, Ange‐sama.":いたしておりますよ」}`
 `{ruby:"Okay!:「うんっ。}`
-`{ruby:I'll keep on trying hard and getting more and more medals!":もっともっとがんばって、いっぱいメダルを集める！」}`
-`{ruby:"That's the spirit. Don't let it get you down.:「そうよ、挫けない挫けない。}`
+`{ruby:I'll keep on trying hard:もっともっとがんばって、いっ}{ruby:and getting more and more medals!":ぱいメダルを集める！」}`
+`{ruby:"That's the spirit. Don't:「そうよ、挫けな}{ruby:let it get you down.:い挫けない。}`
 `{ruby:Plenty more chances left!":まだまだがんばりましょ！」}`
 `{ruby:We rushed away.:私たちは駆け出す。}`
-`{ruby:{n}Okay, who should we take on next...?!:{n}さぁ、次は誰に挑もうかな…！}`
+`{ruby:{n}Okay, who should:{n}さぁ、次は誰に}{ruby:we take on next...?!:挑もうかな…！}`
 `{ruby:"I got it!:「わかった！}`
 `{ruby:The new letter is "h"!:足す文字は“く”！}`
-`{ruby:If you change the "b" in Sabara to an "h", you get Sahara!":サバに“く”を足して、サバク！」}`
+`{ruby:If you change the "b" in:サバに“く”を足して}{ruby:Sabara to an "h", you get Sahara!":、サバク！」}`
 `{ruby:"Hohhohohohoho,:「ほっほほほほほほ、}`
 `{ruby:that's correct.":正解でございますよ」}`
 `{ruby:"The Sahara is a desert,:「サバクはつまり“砂漠”のこと。}`
-`{ruby:and the last line said you could make a great "desert" out of sabara!":砂漠は英語でデザートって読むものね…！」}`
-`{ruby:"I figured out a trick in Japanese and English!:「縁寿、英語知ってた。}`
+`{ruby:and the last line said you could:砂漠は英語でデザートっ}{ruby:make a great "desert" out of sabara!":て読むものね…！」}`
+`{ruby:"I figured out a:「縁寿、英語知}{ruby:trick in Japanese and English!:ってた。}`
 `{ruby:Am I awesome? Am I awesome?!":すごい？　すごい？！」}`
 `{ruby:"You're so smart, Ange‐chan!:「さっすが縁寿ちゃん、賢ぉい！}`
 `{ruby:You deserve a pat on the head...!":頭なでなでしてあげる…！」}`
 `{ruby:"Nnnn.:「んーー。}`
 `{ruby:I like it when you do that.":伯母さんに撫でてもらうの、気持ちよくて好き」}`
-`{ruby:"Just change a single letter, and even mackerel can make a fine desert.:「サバに“く”を足したらデザートにもなるなんて。}`
-`{ruby:Are you starting to see how omnipotent mackerel is?":本当にサバはすごいですねぇ」}`
-`{ruby:"The day I'm forced to serve a joke like that for dessert, I imagine heads will roll......":「そんなダジャレでデザートをサバにした日には、私の首が飛んでしまいそうです……」}`
+`{ruby:"Just change a single letter, and:「サバに“く”を足したらデ}{ruby:even mackerel can make a fine desert.:ザートにもなるなんて。}`
+`{ruby:Are you starting to:本当にサバはすご}{ruby:see how omnipotent mackerel is?":いですねぇ」}`
+`{ruby:"The day I'm forced to serve a joke:「そんなダジャレでデザートをサバにした日に}{ruby:like that for dessert, I imagine heads will roll......":は、私の首が飛んでしまいそうです……」}`
 `{ruby:"I wouldn't like it either.:「縁寿もやだ。}`
 `{ruby:I like ice cream for dessert.":デザートはアイスがいい」}`
 `{ruby:"Ahahahahahaha, of course.:「あっはははははは、確かに。}`
-`{ruby:By the way, we shouldn't be worried, should we?:大丈夫よね？}`
+`{ruby:By the way, we:大丈夫よ}{ruby:shouldn't be worried, should we?:ね？}`
 `{ruby:What about tonight's dessert?":今日のデザート」}`
 `{ruby:"Ohohohohoho......:「をっほほほほほほほ……。}`
-`{ruby:I can hardly wait to surprise everyone with the mackerel fruit parfait waiting there in the kitchen!":厨房で、サバのフルーツパフェが、皆さんを驚かそうと待ち構えておりますよぅ？」}`
+`{ruby:I can hardly wait to surprise everyone with:厨房で、サバのフルーツパフェが、皆さんを}{ruby:the mackerel fruit parfait waiting there in the kitchen!":驚かそうと待ち構えておりますよぅ？」}`
 `{ruby:"Nooooooo!!":「そんなの嫌ぁ！！」}`
 `{ruby:Everyone burst out laughing.:みんなが大笑いする。}`
-`{ruby:For some time after that, I was tormented by the terrifying image of a parfait neatly topped with mackerel bits...:私はしばらくの間、サバが綺麗に盛り付けられてパフェになっているという恐ろしい想像に、苛まれ続けるのだった…。}`
+`{ruby:For some time after that, I was tormented by the:私はしばらくの間、サバが綺麗に盛り付けられてパフェになっ}{ruby:terrifying image of a parfait neatly topped with mackerel bits...:ているという恐ろしい想像に、苛まれ続けるのだった…。}`
 `{ruby:"What a shame......:「これは残念……。}`
-`{ruby:I tried so hard to stop you from getting that prize, but you solved my best riddle like it was nothing.":縁寿さまに素敵なご褒美をあげないよう、邪魔をしてやろうと、知恵を絞った問題がこんなにもあっさり解かれるとは」}`
-`{ruby:Though she said that, Kumasawa smiled.:とは言いながらも、熊沢は朗らかに笑う。}`
-`{ruby:{n}A gold‐colored medal glittered in her wrinkly hand.:{n}彼女のしわしわの手に、金色のメダルが輝いている。}`
+`{ruby:I tried so hard to stop you from getting that:縁寿さまに素敵なご褒美をあげないよう、邪魔をしてやろうと}{ruby:prize, but you solved my best riddle like it was nothing.":、知恵を絞った問題がこんなにもあっさり解かれるとは」}`
+`{ruby:Though she said:とは言いながらも、熊沢}{ruby:that, Kumasawa smiled.:は朗らかに笑う。}`
+`{ruby:{n}A gold‐colored medal glittered:{n}彼女のしわしわの手に、金}{ruby:in her wrinkly hand.:色のメダルが輝いている。}`
 `{ruby:Ange took it.:縁寿はそれを受け取った。}`
-`{ruby:"Well then, that's all for our puzzles.":「さぁ、これで私たちの問題はおしまいですよ」}`
-`{ruby:"Please keep up the pace, get more and more medals, and win that splendid prize from the Master!":「この調子で、どんどんメダルを手に入れて、お館様から素敵なご褒美を獲得して下さいね！」}`
+`{ruby:"Well then, that's:「さぁ、これで私たちの問}{ruby:all for our puzzles.":題はおしまいですよ」}`
+`{ruby:"Please keep up the pace, get more and more:「この調子で、どんどんメダルを手に入れて、お館}{ruby:medals, and win that splendid prize from the Master!":様から素敵なご褒美を獲得して下さいね！」}`
 `{ruby:"Okay! Thank you.:「うんっ。ありがとう。}`
-`{ruby:I'm going to think even harder next time...!:もっともっとがんばるね…！}`
+`{ruby:I'm going to think:もっともっとがん}{ruby:even harder next time...!:ばるね…！}`
 `{ruby:We did it, Auntie Eva!":やったね、絵羽伯母さん！」}`
 `{ruby:"Eheheh!:「うふふ！}`
 `{ruby:Let's keep it up!":この調子でどんどん行きましょ！」}`
 `{ruby:We rushed away.:私たちは駆け出す。}`
-`{ruby:{n}Okay, who should we take on next...?!:{n}さぁ、次は誰に挑もうかな…！}`
-`{ruby:"It seems that all of a sudden, the tiny girl who used to hide and tremble in Kyrie‐sama's shadow...:「霧江さまの陰に隠れて、おどおどしていた幼子が、}`
-`{ruby:has grown to be so bright and cheery...":いつの間にかあんなに元気になって…」}`
-`{ruby:"......With each passing family conference, one can feel the growth of those youngsters.:「……親族会議を重ねる度に、若者の成長を感じるものです。}`
-`{ruby:After just a few years more, Ange‐sama will surely learn of love, of makeup,:あと数年も経てば、縁寿さまも恋を覚え、化粧を覚え、}`
-`{ruby:and will eventually grow to become a true lady.":やがては一人前のレディに成長されるのでしょうね」}`
+`{ruby:{n}Okay, who should:{n}さぁ、次は誰に}{ruby:we take on next...?!:挑もうかな…！}`
+`{ruby:"It seems that all of a sudden, the tiny:「霧江さまの陰に隠れて、お}{ruby:girl who used to hide and tremble in Kyrie‐sama's shadow...:どおどしていた幼子が、}`
+`{ruby:has grown to be:いつの間にかあんなに}{ruby:so bright and cheery...":元気になって…」}`
+`{ruby:"......With each passing family conference, one:「……親族会議を重ねる度に、若}{ruby:can feel the growth of those youngsters.:者の成長を感じるものです。}`
+`{ruby:After just a few years more, Ange‐sama:あと数年も経てば、縁寿さまも}{ruby:will surely learn of love, of makeup,:恋を覚え、化粧を覚え、}`
+`{ruby:and will eventually grow:やがては一人前のレディに成}{ruby:to become a true lady.":長されるのでしょうね」}`
 `{ruby:"Very true......:「そうですねぇ……。}`
-`{ruby:If she grows normally with the passing time, that is...":普通に、年月を重ねて下さったなら…」}`
+`{ruby:If she grows normally with:普通に、年月を重ねて}{ruby:the passing time, that is...":下さったなら…」}`
 `{ruby:A cruel fate...:残酷な運命は、}`
-`{ruby:...forces the chick called Ange into a lonely future.:……縁寿という雛に、ひとりぼっちの未来を強いる。}`
-`{ruby:If an egg isn't warmed, it won't hatch.:卵は温めなければ、孵らない。}`
-`{ruby:{n}The egg she is now will not be warmed by anyone, and neither will it hatch...:{n}彼女という卵は、誰にも温められず、孵ることもなく…。}`
+`{ruby:...forces the chick called:……縁寿という雛に、ひとり}{ruby:Ange into a lonely future.:ぼっちの未来を強いる。}`
+`{ruby:If an egg isn't:卵は温めなければ}{ruby:warmed, it won't hatch.:、孵らない。}`
+`{ruby:{n}The egg she is now will not be:{n}彼女という卵は、誰にも温め}{ruby:warmed by anyone, and neither will it hatch...:られず、孵ることもなく…。}`
 `{ruby:"Inside that frozen egg,:「縁寿さまは冷え切った卵のまま、}`
-`{ruby:will Ange‐sama have no choice but to face that isolated future...?":孤独な未来を迎える他ないのでしょうか…」}`
-`{ruby:"......An egg's shell can always be broken from the inside.:「……卵の殻は、いつだって内側から破られるもの。}`
-`{ruby:......Even if a cold shell is very, very hard, that doesn't mean it cannot be broken.":……冷え切った殻は、とてもとても硬いでしょうが、それでも破れぬものではありません」}`
-`{ruby:"Does Ange‐sama have the strength to do that?":「縁寿さまに、その強さがあるでしょうか」}`
-`{ruby:"Is she capable of achieving that or not...?:「それを、得ることが出来るか否か。}`
-`{ruby:I hear that question is what this final game is all about.":それがこの最後のゲームと聞いています」}`
-`{ruby:"Perhaps we should have sent her a clearer message.:「私たちはもっと、メッセージを送るべきではないでしょうか。}`
-`{ruby:......If the egg cannot be warmed, could we not at least strike it from the outside to make it easier to crack?":……せめて温められぬ卵なら、殻が割りやすいよう、少しでも外から叩くとか」}`
-`{ruby:"If a chick too powerless to even break its own shell is forced outside of the egg,:「自らの殻を割る力もない雛を、無理に卵の外へ出せば、}`
-`{ruby:it won't be able to withstand the cold winds.:寒風に耐えることは出来ないでしょうね。}`
-`{ruby:Ange‐sama will have to find that power and resilience herself.":縁寿さまは、その力とたくましさを、自ら得なければならないのです」}`
-`{ruby:"......I understand that she needs power and resilience,:「……ですから、その力とたくましさを、}`
-`{ruby:but can we not somehow explain it to her?":私たちは何とか伝えることは出来ないんでしょうか」}`
-`{ruby:"Words cannot be given. They can only be accepted.:「言葉とは、与えられるものでなく、受け止めるものです。}`
-`{ruby:......No matter what we try to give Ange‐sama, it will be meaningless unless she accepts it.":……私たちが何を与えようとも、縁寿さまが受け止めなければ、何の意味もない」}`
+`{ruby:will Ange‐sama have no choice:孤独な未来を迎える他な}{ruby:but to face that isolated future...?":いのでしょうか…」}`
+`{ruby:"......An egg's shell can always:「……卵の殻は、いつだって}{ruby:be broken from the inside.:内側から破られるもの。}`
+`{ruby:......Even if a cold shell is very, very:……冷え切った殻は、とてもとても硬いでしょう}{ruby:hard, that doesn't mean it cannot be broken.":が、それでも破れぬものではありません」}`
+`{ruby:"Does Ange‐sama have the:「縁寿さまに、その強さ}{ruby:strength to do that?":があるでしょうか」}`
+`{ruby:"Is she capable of:「それを、得ることが}{ruby:achieving that or not...?:出来るか否か。}`
+`{ruby:I hear that question is what:それがこの最後のゲーム}{ruby:this final game is all about.":と聞いています」}`
+`{ruby:"Perhaps we should have:「私たちはもっと、メッセージを送}{ruby:sent her a clearer message.:るべきではないでしょうか。}`
+`{ruby:......If the egg cannot be warmed, could we not at least:……せめて温められぬ卵なら、殻が割りや}{ruby:strike it from the outside to make it easier to crack?":すいよう、少しでも外から叩くとか」}`
+`{ruby:"If a chick too powerless to even break:「自らの殻を割る力もない雛を}{ruby:its own shell is forced outside of the egg,:、無理に卵の外へ出せば、}`
+`{ruby:it won't be able:寒風に耐えることは出来}{ruby:to withstand the cold winds.:ないでしょうね。}`
+`{ruby:Ange‐sama will have to find:縁寿さまは、その力とたくましさを、}{ruby:that power and resilience herself.":自ら得なければならないのです」}`
+`{ruby:"......I understand that she:「……ですから、その力}{ruby:needs power and resilience,:とたくましさを、}`
+`{ruby:but can we not:私たちは何とか伝えることは}{ruby:somehow explain it to her?":出来ないんでしょうか」}`
+`{ruby:"Words cannot be given.:「言葉とは、与えられるものでな}{ruby:They can only be accepted.:く、受け止めるものです。}`
+`{ruby:......No matter what we try to give Ange‐sama,:……私たちが何を与えようとも、縁寿さまが}{ruby:it will be meaningless unless she accepts it.":受け止めなければ、何の意味もない」}`
 `{ruby:"............You are right.:「…………そうですね。}`
-`{ruby:No matter what we try to tell Ange‐sama, it won't matter unless she listens.":私たちが何を伝えても、縁寿さまが耳を貸さなければ、意味がない」}`
+`{ruby:No matter what we try to tell:私たちが何を伝えても、縁寿さまが耳}{ruby:Ange‐sama, it won't matter unless she listens.":を貸さなければ、意味がない」}`
 `{ruby:"Hohohoho......:「ほほほほ……。}`
-`{ruby:We can do nothing but watch over her.:見守るしかないんですよ、私たちには。}`
-`{ruby:You can lead a horse to water, but you can't make it drink.":馬を水場に連れて行くことは出来ても、飲ませることは出来ないのですから」}`
-`{ruby:"Ange‐sama must choose a better future for herself.:「縁寿さまが、より良い未来を自ら選択してくれることを、}`
-`{ruby:......We can only pray that she does.":……祈るしかありませんな」}`
-`{ruby:"If Ange‐sama does not abandon herself to anger for the sole purpose of distracting herself from her resignation and sadness,:「縁寿さまが、諦めと悲しみを紛らわせるためだけの怒りに身を任せず。}`
-`{ruby:......if she can just be honest about that one, single wish that she truly desires more than anything else,:……本当に縁寿さまが求めておられる、たった一つの願いに純粋であってさえくれれば。}`
-`{ruby:then you can be certain that she will make her greatest wish come true.":彼女は絶対に、自分の一番の願いを叶えることが出来るでしょう」}`
+`{ruby:We can do nothing:見守るしかないんです}{ruby:but watch over her.:よ、私たちには。}`
+`{ruby:You can lead a horse to:馬を水場に連れて行くことは出来ても、飲}{ruby:water, but you can't make it drink.":ませることは出来ないのですから」}`
+`{ruby:"Ange‐sama must choose a:「縁寿さまが、より良い未来を自}{ruby:better future for herself.:ら選択してくれることを、}`
+`{ruby:......We can only:……祈るしかあり}{ruby:pray that she does.":ませんな」}`
+`{ruby:"If Ange‐sama does not abandon herself to anger for the:「縁寿さまが、諦めと悲しみを紛らわせ}{ruby:sole purpose of distracting herself from her resignation and sadness,:るためだけの怒りに身を任せず。}`
+`{ruby:......if she can just be honest about that one,:……本当に縁寿さまが求めておられる、たった}{ruby:single wish that she truly desires more than anything else,:一つの願いに純粋であってさえくれれば。}`
+`{ruby:then you can be certain that she:彼女は絶対に、自分の一番の願いを}{ruby:will make her greatest wish come true.":叶えることが出来るでしょう」}`
 `{ruby:"It is ironic.:「皮肉なものです。}`
-`{ruby:......Since the very beginning, she has been denying that greatest wish of hers herself.":……その一番の願いを、自ら一番最初に、否定されているのですから」}`
+`{ruby:......Since the very beginning, she has been:……その一番の願いを、自ら一番最初}{ruby:denying that greatest wish of hers herself.":に、否定されているのですから」}`
 `{ruby:"Laughter brings happiness.:「笑う門に福来る。}`
 `{ruby:Tears bring misfortune.:泣きっ面に蜂。}`
 `{ruby:Those who believe will be saved.:信ずる者は救われる。}`
-`{ruby:......People have the power to create their own futures by the strength of their emotions.":……人の思いが、その強さが、自分の未来を自ら生み出すのです」}`
-`{ruby:"I wish we could just let her hear those words......":「せめて、その言葉だけでも掛けてあげたいものですが……」}`
+`{ruby:......People have the power to create their:……人の思いが、その強さが、自分}{ruby:own futures by the strength of their emotions.":の未来を自ら生み出すのです」}`
+`{ruby:"I wish we could just:「せめて、その言葉だけでも掛け}{ruby:let her hear those words......":てあげたいものですが……」}`
 `{ruby:"Battler‐sama is very strict.:「戦人さまも厳しい。}`
-`{ruby:......He's hoping that Ange‐sama will realize it by her own power alone...and is not permitting even words of this nature to be told to her.":……そのような言葉さえも許さず、縁寿さまが自分の力だけで気付いてくれることを願っている」}`
-`{ruby:".........It seems we can do nothing but watch over her.":「………私たちには、見守ることしか出来ないのですね」}`
+`{ruby:......He's hoping that Ange‐sama will realize it by her own power alone...and:……そのような言葉さえも許さず、縁寿さまが自分}{ruby:is not permitting even words of this nature to be told to her.":の力だけで気付いてくれることを願っている」}`
+`{ruby:".........It seems we can do:「………私たちには、見守るこ}{ruby:nothing but watch over her.":としか出来ないのですね」}`
 `{ruby:"And so, let us pray, at least.:「だから、せめて祈りましょう。}`
-`{ruby:Pray that she grasps the world she desires most with her own hands.":彼女が、最も望む未来を、その手に掴めるように」}`
+`{ruby:Pray that she grasps the world:彼女が、最も望む未来を、そ}{ruby:she desires most with her own hands.":の手に掴めるように」}`
 `{ruby:"Oh, have you selected me?":「おや、私どもをご指名ですか」}`
 `{ruby:"Yeah.:「うん。}`
-`{ruby:I'll have to face everyone sooner or later.:どうせ全員に挑むもん。}`
+`{ruby:I'll have to face:どうせ全員に挑}{ruby:everyone sooner or later.:むもん。}`
 `{ruby:Right, Auntie Eva?!":ねー、伯母さん！」}`
 `{ruby:"Right!:「ねー！}`
 `{ruby:Come on, let's have a puzzle.:さぁ、私たちに問題を出してちょうだい。}`
 `{ruby:We'll solve it in a flash!":サクサク解いちゃうんだから！」}`
 `{ruby:"Hahahaha.:「はっはっはっは。}`
 `{ruby:I see, I see.:そうですかそうですか。}`
-`{ruby:Then it seems I must make it a good one.":では、取って置きの問題を出さないといけませんな」}`
+`{ruby:Then it seems I must:では、取って置きの問題を出}{ruby:make it a good one.":さないといけませんな」}`
 `{ruby:"Genji.:「源次。}`
 `{ruby:You should give her one as well.:お前も何か出題してやるがいい。}`
 `{ruby:A tough one.":取って置きをな」}`
 `{ruby:"As you wish.:「畏まりました。}`
-`{ruby:......In that case, a tough one it shall be...":……それでは、取って置きを」}`
+`{ruby:......In that case, a:……それでは、取}{ruby:tough one it shall be...":って置きを」}`
 `{ruby:Whoa.:うわ。}`
-`{ruby:I'd been thinking that Genji‐san would give me a simple puzzle, but now he's saying it'll be tough.:源次さんならシンプルな問題を出してくると思ったのに、取って置きとか言い出す。}`
+`{ruby:I'd been thinking that Genji‐san would give me a:源次さんならシンプルな問題を出してくると}{ruby:simple puzzle, but now he's saying it'll be tough.:思ったのに、取って置きとか言い出す。}`
 `{ruby:Scary.:怖い。}`
-`{ruby:But I'll have to beat him at some point.:でも、いずれは倒す相手。}`
+`{ruby:But I'll have to:でも、いずれは}{ruby:beat him at some point.:倒す相手。}`
 `{ruby:I can't let myself get scared.:怖いとか言ってらんない。}`
 `{ruby:"Then let us start with mine.:「では、私から参りましょう。}`
 `{ruby:I am a doctor,:私はお医者さんですからな。}`
 `{ruby:so how about an ambulance puzzle?":救急車の問題でも出すとしましょう」}`
 `{ruby:"The ??? is a number?:「“？”は数字なの？}`
 `{ruby:But "emergency" is a word.:でも“救急”は文字でしょ？}`
-`{ruby:You can't add a number to a word, right?":数字＋文字なんて計算できないよ？」}`
-`{ruby:"That part sounds like some kind of pun.:「救急ってのが、何だかダジャレっぽいわねぇ。}`
-`{ruby:"Kyuu" means "nine", so "Kyuu, kyuu" makes you think "nine, nine", right?":ほら、キューキューって“９９”とも聞こえない？」}`
-`{ruby:"So, if you add "???" to 99, you get an ambulance?":「つまり、？に９９を足すと救急車になるってこと？」}`
-`{ruby:"Hmm. Why does some number added to 99 get you an ambulance?:「？＋９９で出てくる数字が、どうして救急車になるのかしら。}`
+`{ruby:You can't add a:数字＋文字なんて計算}{ruby:number to a word, right?":できないよ？」}`
+`{ruby:"That part sounds like:「救急ってのが、何だかダ}{ruby:some kind of pun.:ジャレっぽいわねぇ。}`
+`{ruby:"Kyuu" means "nine", so "Kyuu, kyuu":ほら、キューキューって“９}{ruby:makes you think "nine, nine", right?":９”とも聞こえない？」}`
+`{ruby:"So, if you add "???":「つまり、？に９９を足すと救}{ruby:to 99, you get an ambulance?":急車になるってこと？」}`
+`{ruby:"Hmm. Why does some number added:「？＋９９で出てくる数字が、どう}{ruby:to 99 get you an ambulance?:して救急車になるのかしら。}`
 `{ruby:............Ah, I've got it!":…………あ、わーかった！」}`
 `{ruby:"Huh, really?!:「え、本当？！}`
 `{ruby:Hey, what is it?!":何々、どうして？！」}`
 `{ruby:"I'll give you a hint.:「ヒントね。}`
-`{ruby:The "different kind of vehicle with a red flashing light" is a police car.:救急車じゃない赤いランプの車とは、パトカーのことよ？}`
-`{ruby:*giggle*, you're starting to get it now, aren't you?":くすくす、もうわかったんじゃない？」}`
+`{ruby:The "different kind of vehicle with a:救急車じゃない赤いランプの車}{ruby:red flashing light" is a police car.:とは、パトカーのことよ？}`
+`{ruby:*giggle*, you're starting to:くすくす、もうわかった}{ruby:get it now, aren't you?":んじゃない？」}`
 `{ruby:"Huh? ......Nnnnn......:「え、……んーー……、}`
 `{ruby:......I don't get it...":……わかんない…」}`
 `{ruby:"Oh, are you having trouble?:「おやおや、わかりませんかな？}`
 `{ruby:I thought it was an easy puzzle.":簡単な問題のつもりだったんですがな」}`
-`{ruby:It's a bit annoying to hear that about a puzzle I don't get.:わからなかった問題にそう言われると、カチンと来る。}`
-`{ruby:Still, no matter how annoyed I get, I still don't have a clue what the answer is.:しかし、悔しいけれど、カチンと来ようがゴチンと来ようが、答えはさっぱりだった。}`
+`{ruby:It's a bit annoying to hear:わからなかった問題にそう言わ}{ruby:that about a puzzle I don't get.:れると、カチンと来る。}`
+`{ruby:Still, no matter how annoyed I get, I:しかし、悔しいけれど、カチンと来ようがゴチ}{ruby:still don't have a clue what the answer is.:ンと来ようが、答えはさっぱりだった。}`
 `{ruby:"Aw, so close.:「んーー、惜しいわねぇ。}`
-`{ruby:I thought you'd made it pretty far too...":いいところまで思い付いてたと思うんだけど…」}`
-`{ruby:Apparently, Auntie Eva knows the answer.:絵羽伯母さんは答えがわかってたらしい。}`
-`{ruby:She looked disappointed that I hadn't figured it out too.:私に同じものが閃かなくて残念そうだった。}`
+`{ruby:I thought you'd made:いいところまで思い付いて}{ruby:it pretty far too...":たと思うんだけど…」}`
+`{ruby:Apparently, Auntie Eva:絵羽伯母さんは答えがわ}{ruby:knows the answer.:かってたらしい。}`
+`{ruby:She looked disappointed that I:私に同じものが閃かなく}{ruby:hadn't figured it out too.:て残念そうだった。}`
 `{ruby:".........Mmmmmhh...:「………むむむむ…？}`
 `{ruby:Ah, yes, I have it!:あぁ、なるほど、わかったぞ！}`
-`{ruby:If you subtract two from an ambulance, then add on 60, you can even learn the weather.":救急車から２を引き、さらに６０を足すと、天気までわかるな」}`
+`{ruby:If you subtract two from an ambulance, then:救急車から２を引き、さらに６０を}{ruby:add on 60, you can even learn the weather.":足すと、天気までわかるな」}`
 `{ruby:"Well done, Kinzo‐san.:「お見事だ、金蔵さん。}`
-`{ruby:It seems I must hand this medal over to you.":では、このメダルは金蔵さんに渡さなくてはなりませんな」}`
+`{ruby:It seems I must hand:では、このメダルは金蔵さんに渡}{ruby:this medal over to you.":さなくてはなりませんな」}`
 `{ruby:"Wahahahahahaha.:「わはははははは。}`
 `{ruby:Sorry, Ange.:悪いな、縁寿。}`
 `{ruby:This medal's all mine.":このメダルはお祖父ちゃんのものだ」}`
 `{ruby:".........F‐fine, see if I care.":「………悔しくないもん」}`
-`{ruby:The gold medal passed from Nanjo to Kinzo.:南條の手から、金色のメダルが金蔵に渡される。}`
-`{ruby:That medal was supposed to be mine......:あのメダルは私のものになるはずだったのに……。}`
+`{ruby:The gold medal passed:南條の手から、金色のメダ}{ruby:from Nanjo to Kinzo.:ルが金蔵に渡される。}`
+`{ruby:That medal was:あのメダルは私のものになる}{ruby:supposed to be mine......:はずだったのに……。}`
 `{ruby:It's no use regretting it now.:悔やんでも手遅れだ。}`
-`{ruby:If you subtract two from and add 60 to an ambulance...?:救急車から２を引き６０を足して…？}`
-`{ruby:How would that tell you the weather...??:それがどうして天気がわかることに…？？}`
-`{ruby:"Hmm, what was the number for the weather forecasting service again?":「天気予報を教えてくれるダイヤルは何番だっけ？」}`
+`{ruby:If you subtract two from:救急車から２を引き６}{ruby:and add 60 to an ambulance...?:０を足して…？}`
+`{ruby:How would that:それがどうして天気がわ}{ruby:tell you the weather...??:かることに…？？}`
+`{ruby:"Hmm, what was the number:「天気予報を教えてくれるダ}{ruby:for the weather forecasting service again?":イヤルは何番だっけ？」}`
 `{ruby:"............???":「…………？？？」}`
 `{ruby:Yeah, I don't have a clue.:やっぱり、さっぱりわからない。}`
-`{ruby:{n}I'll just have to pick myself up and have a go at Genji's puzzle.:{n}気を取り直し、源次の問題に挑戦することにしよう。}`
+`{ruby:{n}I'll just have to pick myself up:{n}気を取り直し、源次の問題}{ruby:and have a go at Genji's puzzle.:に挑戦することにしよう。}`
 `{ruby:"20!:「２０！}`
-`{ruby:"Kyuu‐kyuu" sounds like "99", and if you add 20 to 99, you get 119.:２０に救急（９９）を加えると、１１９。}`
-`{ruby:That's the emergency number for ambulances!":救急車を呼ぶ番号！」}`
-`{ruby:"And if you subtract 20 from 130, you get 110.:「１３０から２０を引くと、１１０。}`
-`{ruby:That's the emergency number for calling the police."{n}{i:(Add 20 to 99 and write it in reverse to get 911, the US number for both.)}:こっちはパトカーを呼ぶ番号ね」}`
+`{ruby:"Kyuu‐kyuu" sounds like "99", and if you:２０に救急（９９）を加}{ruby:add 20 to 99, you get 119.:えると、１１９。}`
+`{ruby:That's the emergency:救急車を呼ぶ}{ruby:number for ambulances!":番号！」}`
+`{ruby:"And if you subtract 20:「１３０から２０を引}{ruby:from 130, you get 110.:くと、１１０。}`
+`{ruby:That's the emergency number for calling the police."{n}{i:(Add 20 to 99 and:こっちはパトカーを}{ruby:write it in reverse to get 911, the US number for both.)}:呼ぶ番号ね」}`
 `{ruby:"Splendid! That is correct.:「お見事！　正解だ。}`
-`{ruby:I knew you were a quick thinker, Ange‐san.":やはり縁寿さんは頭が柔軟ですな」}`
+`{ruby:I knew you were:やはり縁寿さんは頭}{ruby:a quick thinker, Ange‐san.":が柔軟ですな」}`
 `{ruby:"Oooooooh, well done, Angeeeeeeee!:「おぉおおおぉ、やるではないか、縁寿ぇええぇえぇ！}`
 `{ruby:What a clever granddaughter I have!":さすが賢いぞ、我が孫よ！」}`
 `{ruby:"Congratulations.:「おめでとう。}`
 `{ruby:This medal belongs to you.":これはあんたのメダルだ」}`
-`{ruby:At any rate, the gold medal glittering in Nanjo's hand is now mine.:南條の手に光る、金色のメダルは今や縁寿のものだ。}`
-`{ruby:Okay, now I'll defeat Genji too and get another one.:よし、この調子で源次も打ち破って、もう１枚をいただこう。}`
+`{ruby:At any rate, the gold medal:南條の手に光る、金色のメダ}{ruby:glittering in Nanjo's hand is now mine.:ルは今や縁寿のものだ。}`
+`{ruby:Okay, now I'll defeat Genji:よし、この調子で源次も打ち破っ}{ruby:too and get another one.:て、もう１枚をいただこう。}`
 `{ruby:"Yes, that's the spirit.:「そうそう、その意気よ。}`
 `{ruby:Let's keep on solving them!":どんどん、解いていっちゃいましょ！」}`
 `{ruby:"Your turn, Genji‐san.":「では源次さん、どうぞ」}`
-`{ruby:"My friend here doesn't speak much, but his knowledge is quite extensive.:「我が友は、黙して語らぬがこう見えて博識だ。}`
-`{ruby:Even I cannot wait to see what sort of puzzle he whips up.":どんな問題が飛び出すやら、私も興味深いぞ」}`
+`{ruby:"My friend here doesn't speak much,:「我が友は、黙して語らぬ}{ruby:but his knowledge is quite extensive.:がこう見えて博識だ。}`
+`{ruby:Even I cannot wait to see:どんな問題が飛び出すやら}{ruby:what sort of puzzle he whips up.":、私も興味深いぞ」}`
 `{ruby:"Now then, Ange‐sama.:「それでは縁寿さま。}`
 `{ruby:Prepare yourself.:お覚悟を。}`
 `{ruby:The puzzle starts now.":出題させていただきます」}`
-`{ruby:......I've never heard anyone say "prepare yourself" like that when giving a quiz.:……クイズを出すのに、お覚悟を何て言われたのは初めてだ。}`
-`{ruby:I started to get so tense that my stomach began to hurt...:無駄に緊張してしまい、お腹が痛くなる…。}`
+`{ruby:......I've never heard anyone say "prepare:……クイズを出すのに、お覚悟を}{ruby:yourself" like that when giving a quiz.:何て言われたのは初めてだ。}`
+`{ruby:I started to get so tense:無駄に緊張してしまい、}{ruby:that my stomach began to hurt...:お腹が痛くなる…。}`
 `{ruby:"It'll be okay.:「大丈夫よ。}`
 `{ruby:Hang in there!":しっかり！」}`
-`{ruby:Auntie Eva gripped my hand firmly, and my stomachache got a little better.:絵羽伯母さんがぎゅっと手を握ってくれると、お腹の痛みがちょっとだけ和らいだ。}`
-`{ruby:"......Ange‐sama, have you learned division?":「……縁寿さまは、割り算は出来ますか？」}`
+`{ruby:Auntie Eva gripped my hand firmly,:絵羽伯母さんがぎゅっと手を握ってくれると}{ruby:and my stomachache got a little better.:、お腹の痛みがちょっとだけ和らいだ。}`
+`{ruby:"......Ange‐sama, have:「……縁寿さまは、割り}{ruby:you learned division?":算は出来ますか？」}`
 `{ruby:"Y‐yeah.:「う、うん。}`
 `{ruby:I learned it in cram school.":塾で習った」}`
-`{ruby:"Incredible, a six‐year‐old who knows division?":「すごいわね、まだ６歳なのに？」}`
+`{ruby:"Incredible, a six‐year‐old:「すごいわね、まだ}{ruby:who knows division?":６歳なのに？」}`
 `{ruby:"Then there should be no problems.:「では問題なさそうです。}`
 `{ruby:Here it comes.":出題させていただきます」}`
 `{ruby:This is bad...:困ったな…。}`
-`{ruby:I did learn division, but I'm not very good at it......:割り算は一応習ったけど、かなり不得意……。}`
-`{ruby:"Half of its remaining length burns away each hour, right...?:「１時間ごとにその時の長さの半分が燃えるのね…？}`
-`{ruby:After the first hour, it's burned down to half of {nobr:5 cm}.:最初の１時間で５ｃｍの半分。}`
-`{ruby:During the next hour, it burns down to half of that.:それが次の１時間でさらに半分。}`
-`{ruby:And during the third hour, it burns down to half of that again......":そして３時間目でさらに半分……」}`
-`{ruby:"......I can't really do it without a calculator.:「……電卓ないとよくわかんない。}`
+`{ruby:I did learn division, but:割り算は一応習ったけど、}{ruby:I'm not very good at it......:かなり不得意……。}`
+`{ruby:"Half of its remaining length:「１時間ごとにその時の長さ}{ruby:burns away each hour, right...?:の半分が燃えるのね…？}`
+`{ruby:After the first hour, it's burned:最初の１時間で５ｃ}{ruby:down to half of {nobr:5 cm}.:ｍの半分。}`
+`{ruby:During the next hour, it:それが次の１時間で}{ruby:burns down to half of that.:さらに半分。}`
+`{ruby:And during the third hour, it:そして３時間目でさ}{ruby:burns down to half of that again......":らに半分……」}`
+`{ruby:"......I can't really do:「……電卓ないとよ}{ruby:it without a calculator.:くわかんない。}`
 `{ruby:Do you know the answer, Auntie Eva?":伯母さん、わかる？」}`
 `{ruby:"Ah, ......I've got it.:「あ、……わーかった。}`
-`{ruby:*giggle*, this is a pretty mean puzzle.":くす、意地悪な問題だわ、これ」}`
+`{ruby:*giggle*, this is:くす、意地悪な問題}{ruby:a pretty mean puzzle.":だわ、これ」}`
 `{ruby:"Why is it mean?":「意地悪って？」}`
-`{ruby:"This has nothing to do with division.:「これ、割り算は関係ないわ。}`
-`{ruby:Read through the puzzle again carefully.":よく問題の文章を読み返してみて？」}`
+`{ruby:"This has nothing:「これ、割り算は}{ruby:to do with division.:関係ないわ。}`
+`{ruby:Read through the:よく問題の文章を読み}{ruby:puzzle again carefully.":返してみて？」}`
 `{ruby:......Umm,:……えっと、}`
 `{ruby:......what was it, again......?:……何だったっけ……。}`
-`{ruby:"My sincere apologies, but that is incorrect.":「申し訳ございませんが、ハズレでございます」}`
+`{ruby:"My sincere apologies,:「申し訳ございませんが、}{ruby:but that is incorrect.":ハズレでございます」}`
 `{ruby:"Huh?!:「えー？！}`
 `{ruby:Why?!:どうして？！}`
 `{ruby:I know I did the math right...!":縁寿、ちゃんと計算した…！」}`
-`{ruby:"You see, ...there's no need for math in this puzzle.:「この問題はね、計算の必要はなかったのよ？}`
-`{ruby:Yep, he tricked us good this time...":んー、すっかり騙されちゃったわねぇ…」}`
+`{ruby:"You see, ...there's no need:「この問題はね、計算の必}{ruby:for math in this puzzle.:要はなかったのよ？}`
+`{ruby:Yep, he tricked:んー、すっかり騙されち}{ruby:us good this time...":ゃったわねぇ…」}`
 `{ruby:"Wahhahahahahahaha.:「わっははははははは。}`
 `{ruby:Too bad, Ange.:残念であるな、縁寿よ。}`
 `{ruby:Did you get it, Nanjo?":南條はわかったか？」}`
 `{ruby:"Yes, of course.:「えぇ、もちろん。}`
 `{ruby:Division is unnecessary.:割り算は不要ですな。}`
-`{ruby:This was an easy puzzle, one that even Ange‐san could have solved.":これは縁寿さんでも解ける、やさしい問題でした」}`
-`{ruby:Not only Auntie Eva, but everyone else said that math wasn't needed.:絵羽伯母さんだけでなく、みんなに計算の必要はなかったと言われる。}`
-`{ruby:And I worked so hard on that division......:せっかく割り算がんばったのに……。}`
+`{ruby:This was an easy puzzle, one:これは縁寿さんでも解ける、}{ruby:that even Ange‐san could have solved.":やさしい問題でした」}`
+`{ruby:Not only Auntie Eva, but everyone:絵羽伯母さんだけでなく、みんなに計}{ruby:else said that math wasn't needed.:算の必要はなかったと言われる。}`
+`{ruby:And I worked so:せっかく割り算がんば}{ruby:hard on that division......:ったのに……。}`
 `{ruby:"That is all for my puzzle.:「私からの問題は、以上でございます。}`
-`{ruby:I believe several others are waiting for you to challenge them, Ange‐sama.:他の方も、縁寿さまが挑みに来るのを、心待ちにしておられるでしょう。}`
-`{ruby:Perhaps you ought to search for the next challenge.":さぁ、ぜひ次の方へ挑戦を」}`
+`{ruby:I believe several others are waiting:他の方も、縁寿さまが挑みに来るのを、}{ruby:for you to challenge them, Ange‐sama.:心待ちにしておられるでしょう。}`
+`{ruby:Perhaps you ought to:さぁ、ぜひ次の方}{ruby:search for the next challenge.":へ挑戦を」}`
 `{ruby:"Good luck, Ange‐san.:「がんばれ、縁寿さん。}`
 `{ruby:I am rooting for you.":あんたの武運を祈ってるよ」}`
 `{ruby:"That's right.:「そうよ。}`
 `{ruby:This is no time to get down!:こんなところでへこたれてなんかいられないわ！}`
-`{ruby:Now's our chance to turn things around.":ここから挽回よ」}`
+`{ruby:Now's our chance:ここから挽回}{ruby:to turn things around.":よ」}`
 `{ruby:"Yeah!:「うんっ。}`
-`{ruby:I'll try even harder and get lots of medals!":もっともっとがんばって、いっぱいメダルを集める！」}`
+`{ruby:I'll try even harder:もっともっとがんばって、いっ}{ruby:and get lots of medals!":ぱいメダルを集める！」}`
 `{ruby:We dashed away.:私たちは駆け出す。}`
-`{ruby:There are still many people waiting to give me puzzles.:まだまだ問題をくれる人は大勢いる。}`
-`{ruby:I have tons of chances to get medals.:メダルをもらえるチャンスだっていっぱいある。}`
-`{ruby:Okay, who should I challenge next...?!:さぁ、次は誰に挑もうかな…！}`
-`{ruby:"......After one hour, {nobr:5 cm} becomes {nobr:2.5 cm},:「……５ｃｍが１時間で２.５ｃｍになって、}`
-`{ruby:...and in the next hour, that becomes {nobr:1.25 cm},:また１時間で１.２５ｃｍになって、}`
-`{ruby:...and in the next hour, that becomes {nobr:0.625 cm}......":また１時間で０.６２５ｃｍになって……」}`
+`{ruby:There are still many people:まだまだ問題をくれる}{ruby:waiting to give me puzzles.:人は大勢いる。}`
+`{ruby:I have tons of:メダルをもらえるチャンス}{ruby:chances to get medals.:だっていっぱいある。}`
+`{ruby:Okay, who should:さぁ、次は誰に挑}{ruby:I challenge next...?!:もうかな…！}`
+`{ruby:"......After one hour, {nobr:5:「……５ｃｍが１時間で２}{ruby:cm} becomes {nobr:2.5 cm},:.５ｃｍになって、}`
+`{ruby:...and in the next:また１時間で１.２５}{ruby:hour, that becomes {nobr:1.25 cm},:ｃｍになって、}`
+`{ruby:...and in the next:また１時間で０.６２５}{ruby:hour, that becomes {nobr:0.625 cm}......":ｃｍになって……」}`
 `{ruby:"...........................":「………………………」}`
 `{ruby:"Ange‐chan.:「縁寿ちゃん。}`
 `{ruby:You don't need to use math.:計算は必要ないのよ。}`
-`{ruby:Make sure you remember the problem clearly...:問題をよく思い出してみて…？}`
-`{ruby:How long......is the candle when the flame goes out...?":ロウソクは、……何ｃｍになったら消えちゃうんだっけ…？」}`
+`{ruby:Make sure you:問題をよく思い出}{ruby:remember the problem clearly...:してみて…？}`
+`{ruby:How long......is the candle:ロウソクは、……何ｃｍになったら}{ruby:when the flame goes out...?":消えちゃうんだっけ…？」}`
 `{ruby:"Ah!:「あ！}`
 `{ruby:That was a close one...!:騙されるとこだった…！}`
-`{ruby:The candle goes out when it's {nobr:1 cm} long, so the rest doesn't matter!":長さが１ｃｍになったら消えちゃうんだから、どう燃えても関係ないんだ！」}`
-`{ruby:The flame on this candle dies when the candle is {nobr:1 cm} in length.:このロウソクは、長さが１ｃｍになったら火が消える。}`
-`{ruby:{n}In other words, it can never get shorter than {nobr:1 cm}.:{n}つまり、１ｃｍ未満には絶対にならないのだ。}`
-`{ruby:So the right answer is the fifth choice, "About {nobr:10 mm}"...!:だから正解は５番目の「約１０ｍｍ」だ…！}`
+`{ruby:The candle goes out when it's {nobr:1:長さが１ｃｍになったら消えちゃうんだか}{ruby:cm} long, so the rest doesn't matter!":ら、どう燃えても関係ないんだ！」}`
+`{ruby:The flame on this candle dies when:このロウソクは、長さが１ｃｍ}{ruby:the candle is {nobr:1 cm} in length.:になったら火が消える。}`
+`{ruby:{n}In other words, it can:{n}つまり、１ｃｍ未満に}{ruby:never get shorter than {nobr:1 cm}.:は絶対にならないのだ。}`
+`{ruby:So the right answer is:だから正解は５番目の「}{ruby:the fifth choice, "About {nobr:10 mm}"...!:約１０ｍｍ」だ…！}`
 `{ruby:"That's right...!":「その通り…！」}`
 `{ruby:"You are correct.":「正解でございます」}`
 `{ruby:"Oooh, splendidly done, Ange!:「おお、素晴らしいぞ、縁寿！}`
-`{ruby:How clever of you, not to be misled!":よく惑わされなかった！」}`
+`{ruby:How clever of you,:よく惑わされなか}{ruby:not to be misled!":った！」}`
 `{ruby:"I didn't even need division.:「割り算なんか必要ない問題だった。}`
 `{ruby:I almost got tricked...!":引っ掛かるところだった…！」}`
-`{ruby:"You were pretty mean there, Genji‐san.:「源次さんも意地が悪いわぁ。}`
-`{ruby:You even asked her if she could do division.:割り算は出来ますか、何て聞いておいて。}`
+`{ruby:"You were pretty:「源次さんも意地}{ruby:mean there, Genji‐san.:が悪いわぁ。}`
+`{ruby:You even asked her:割り算は出来ますか、何}{ruby:if she could do division.:て聞いておいて。}`
 `{ruby:That was a trap, right?":あれが引っ掛けだったわけね？」}`
 `{ruby:"Correct.:「はい。}`
 `{ruby:My humble apologies.":申し訳ございませんでした」}`
 `{ruby:"Hahhahahahaha.:「はっははははは。}`
-`{ruby:After all, Genji‐san is the sort who can trick you without changing his expression in the slightest.":源次さんはたまに表情一つ変えずに引っ掛けてきますからなぁ」}`
+`{ruby:After all, Genji‐san is the sort who can:源次さんはたまに表情一つ変えずに}{ruby:trick you without changing his expression in the slightest.":引っ掛けてきますからなぁ」}`
 `{ruby:"Congratulations, Ange‐sama.:「おめでとうございます、縁寿さま。}`
-`{ruby:This medal is proof that you have correctly solved my puzzle.":こちらが、私の問題を正解したことの証である、メダルでございます」}`
+`{ruby:This medal is proof that:こちらが、私の問題を正解したことの}{ruby:you have correctly solved my puzzle.":証である、メダルでございます」}`
 `{ruby:"Thanks!:「ありがとう！}`
-`{ruby:Eheheh, I got another medal, Auntie Eva...!":えへへ、絵羽伯母さん、またメダルが集まった…！」}`
+`{ruby:Eheheh, I got:えへへ、絵羽伯母さん、またメ}{ruby:another medal, Auntie Eva...!":ダルが集まった…！」}`
 `{ruby:"Heheh, nice going!":「うふふ、いい調子ね！」}`
 `{ruby:"I'll get lots more.:「まだまだ集める。}`
-`{ruby:I'll get a ton, and then Grandfather will give me a great prize!":いっぱい集めて、お祖父さまに素敵なご褒美をもらうの！」}`
+`{ruby:I'll get a ton, and then:いっぱい集めて、お祖父さまに素}{ruby:Grandfather will give me a great prize!":敵なご褒美をもらうの！」}`
 `{ruby:"Mm.:「うむ。}`
-`{ruby:Give it all you've got, my granddaughter...!":張り切るが良いぞ、我が孫よ…！」}`
+`{ruby:Give it all:張り切るが良いぞ、}{ruby:you've got, my granddaughter...!":我が孫よ…！」}`
 `{ruby:"Good luck, Ange‐san.:「がんばれ、縁寿さん。}`
 `{ruby:I am rooting for you.":あんたの武運を祈ってるよ」}`
-`{ruby:"There must be others waiting for you.:「他の方もお待ちでしょう。}`
-`{ruby:Perhaps you ought to search for the next challenge.":さぁ、ぜひ次の方に挑戦を」}`
+`{ruby:"There must be:「他の方もお待ち}{ruby:others waiting for you.:でしょう。}`
+`{ruby:Perhaps you ought to:さぁ、ぜひ次の方}{ruby:search for the next challenge.":に挑戦を」}`
 `{ruby:"Okay! Thank you.:「うんっ。ありがとう。}`
 `{ruby:I'll try even harder now...!":もっともっとがんばるね…！」}`
 `{ruby:We dashed away.:私たちは駆け出す。}`
-`{ruby:There are still many people waiting to give me puzzles.:まだまだ問題をくれる人は大勢いる。}`
-`{ruby:I have tons of chances to get medals.:メダルをもらえるチャンスだっていっぱいある。}`
-`{ruby:Okay, who should I challenge next...?!:さぁ、次は誰に挑もうかな…！}`
+`{ruby:There are still many people:まだまだ問題をくれる}{ruby:waiting to give me puzzles.:人は大勢いる。}`
+`{ruby:I have tons of:メダルをもらえるチャンス}{ruby:chances to get medals.:だっていっぱいある。}`
+`{ruby:Okay, who should:さぁ、次は誰に挑}{ruby:I challenge next...?!:もうかな…！}`
 `{ruby:After Ange and Eva left,:縁寿と絵羽が駆け出したあと、}`
-`{ruby:......Battler, who had been watching their progress, came over.:……その様子を見守っていた戦人がやって来る。}`
+`{ruby:......Battler, who had been:……その様子を見守ってい}{ruby:watching their progress, came over.:た戦人がやって来る。}`
 `{ruby:"How is Ange doing?":「縁寿の調子はどうかな」}`
 `{ruby:"Oh, Battler.:「戦人か。}`
-`{ruby:I am not certain of her progress, but she does seem to be enjoying herself.":調子はわからぬが、楽しんではおるようだぞ」}`
+`{ruby:I am not certain of her progress,:調子はわからぬが、楽しん}{ruby:but she does seem to be enjoying herself.":ではおるようだぞ」}`
 `{ruby:"I heard your puzzle, Genji‐san.:「源次さんの問題、聞いてたぜ。}`
-`{ruby:Even I was almost taken in back there.":俺もうっかり騙されちまうところだったぜ」}`
+`{ruby:Even I was almost:俺もうっかり騙されちま}{ruby:taken in back there.":うところだったぜ」}`
 `{ruby:"You honor me.":「恐縮でございます」}`
-`{ruby:"Still, it's not quite what I'd have expected.:「しかし意外だぜ。}`
-`{ruby:Who'd have thought that you'd give a trick question like that?:源次さんが、こういうフェイクっぽい問題を出すなんてな。}`
-`{ruby:I figured you'd make a straightforward, simple puzzle.":もっと素直な、わかりやすい問題を出すとばっかり思ってたぜ」}`
+`{ruby:"Still, it's not quite:「しかし意外}{ruby:what I'd have expected.:だぜ。}`
+`{ruby:Who'd have thought that you'd:源次さんが、こういうフェイクっ}{ruby:give a trick question like that?:ぽい問題を出すなんてな。}`
+`{ruby:I figured you'd make:もっと素直な、わかりやすい問題を}{ruby:a straightforward, simple puzzle.":出すとばっかり思ってたぜ」}`
 `{ruby:"Hahahahahahaha.:「はっははははははは。}`
-`{ruby:You might expect such a thing from him, silent as he is,:我が友は無口であるから、そう思われがちであるが。}`
-`{ruby:......but he is much more of a schemer than he appears.":……こやつめ、こう見えてなかなかの策士」}`
+`{ruby:You might expect such a thing:我が友は無口であるから、そ}{ruby:from him, silent as he is,:う思われがちであるが。}`
+`{ruby:......but he is much more:……こやつめ、こう見え}{ruby:of a schemer than he appears.":てなかなかの策士」}`
 `{ruby:"Very true.:「ですな。}`
-`{ruby:If you play a chess match against him, you'll see that right away.":源次さんとチェスを戦えば、それがよくわかりますぞ」}`
+`{ruby:If you play a chess match:源次さんとチェスを戦えば、そ}{ruby:against him, you'll see that right away.":れがよくわかりますぞ」}`
 `{ruby:"He even fools me, from time to time.:「私とて時折、騙される。}`
-`{ruby:He'll trick me right to my face, with that stern, serious expression of his.:この真面目そうな顔で、しゃあしゃあと私を引っ掛けるのだ。}`
+`{ruby:He'll trick me right to my face,:この真面目そうな顔で、しゃあし}{ruby:with that stern, serious expression of his.:ゃあと私を引っ掛けるのだ。}`
 `{ruby:He has always been like that.:昔からそうであるぞ。}`
-`{ruby:And yet, despite the numerous occasions on which he has fooled me in the past, I keep on getting tricked.:なのに何度騙されても私は引っ掛かる。}`
-`{ruby:Wah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.":わっはっはははははははは」}`
+`{ruby:And yet, despite the numerous occasions on which he has:なのに何度騙されても}{ruby:fooled me in the past, I keep on getting tricked.:私は引っ掛かる。}`
+`{ruby::わっはっはははは}{ruby:Wah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.":はははは」}`
 `{ruby:"Come to think of it,:「そういえばさ。}`
-`{ruby:.........what sort of relationship do you and Genji‐san have?":………源次さんと祖父さまって、どういう縁なんだ？」}`
-`{ruby:For just an instant, Kinzo glanced at Genji's face.:金蔵が一瞬だけ、源次の表情をうかがう。}`
-`{ruby:Apparently, he didn't plan on touching on this subject if Genji had any objections.:源次がわずかでも首を横に振れば、それに触れるつもりはなかったらしい。}`
-`{ruby:However, Genji began to answer the question himself, as though the matter was no longer deserving of secrecy.:しかし、源次は今さら隠す話でもないと、自ら口を開いた。}`
-`{ruby:"......I knew the Master once...in Taiwan.":「……私とお館様はかつて、台湾にてご縁がありました」}`
+`{ruby:.........what sort of relationship:………源次さんと祖父さまって}{ruby:do you and Genji‐san have?":、どういう縁なんだ？」}`
+`{ruby:For just an instant,:金蔵が一瞬だけ、源次の}{ruby:Kinzo glanced at Genji's face.:表情をうかがう。}`
+`{ruby:Apparently, he didn't plan on touching on:源次がわずかでも首を横に振れば、それ}{ruby:this subject if Genji had any objections.:に触れるつもりはなかったらしい。}`
+`{ruby:However, Genji began to answer the question himself, as:しかし、源次は今さら隠す話でも}{ruby:though the matter was no longer deserving of secrecy.:ないと、自ら口を開いた。}`
+`{ruby:"......I knew the:「……私とお館様はかつて、台}{ruby:Master once...in Taiwan.":湾にてご縁がありました」}`
 `{ruby:"Wahaha, "knew me", he says...!:「わっはっは、ご縁とはよそよそしい…！}`
-`{ruby:We were partners in crime, you might say!:悪友であるわ！}`
-`{ruby:The two of us were both prodigal sons of rich families.:こやつも私も、金持ちの放蕩息子。}`
-`{ruby:A pair of ruffians who caused their parents nothing but trouble.":親に迷惑を掛けてばかりのろくでなしであったわ」}`
+`{ruby:We were partners in:悪友である}{ruby:crime, you might say!:わ！}`
+`{ruby:The two of us were:こやつも私も、金持ち}{ruby:both prodigal sons of rich families.:の放蕩息子。}`
+`{ruby:A pair of ruffians who:親に迷惑を掛けてばかりのろ}{ruby:caused their parents nothing but trouble.":くでなしであったわ」}`
 `{ruby:"Genji‐san, a prodigal son...?:「源次さんが放蕩息子…？}`
 `{ruby:That's a surprise......:そりゃびっくりだぜ……。}`
-`{ruby:So, Genji‐san, you also moved to Taiwan and met Grandfather there?":じゃあ、源次さんもかつて台湾に移住してて、そこで祖父さまに？」}`
+`{ruby:So, Genji‐san, you also moved:じゃあ、源次さんもかつて台湾に移住}{ruby:to Taiwan and met Grandfather there?":してて、そこで祖父さまに？」}`
 `{ruby:"...............No.:「……………いえ。}`
 `{ruby:I am a native of Taiwan.":私は台湾の人間でした」}`
 `{ruby:"Genji‐san was born in Taiwan.:「源次さんは台湾の出身なのです。}`
-`{ruby:.........Well, since Taiwan was under Japanese rule before the war, he is still Japanese, of course.":………いえ、戦前は日本領でしたから、源次さんももちろん日本人でしたがな」}`
+`{ruby:.........Well, since Taiwan was under Japanese rule before:………いえ、戦前は日本領でしたから、源}{ruby:the war, he is still Japanese, of course.":次さんももちろん日本人でしたがな」}`
 `{ruby:"He was a man who hated losing.:「負けん気の強い男でな。}`
-`{ruby:When we first met, we fought all the time.:出会ったばかりの頃は喧嘩ばかりよ。}`
-`{ruby:Once we hit it off, we became the best of friends.":意気投合してからは、竹馬の友と呼ぶに相応しい最高の友人であった」}`
-`{ruby:"......There was a lot of disorder and conflict after the war.:「……戦後に色々と混乱がありました。}`
-`{ruby:The Master is the one who saved me during that chaotic period.:その混乱の中、私を助けて下さったのがお館様なのです。}`
-`{ruby:......If I spent the rest of my life trying to repay that debt, it would not be enough to pay it back in full.":……その時のご恩は、生涯かけても、返し切れないものです」}`
+`{ruby:When we first met,:出会ったばかりの頃は}{ruby:we fought all the time.:喧嘩ばかりよ。}`
+`{ruby:Once we hit it off,:意気投合してからは、竹馬の友と呼ぶ}{ruby:we became the best of friends.":に相応しい最高の友人であった」}`
+`{ruby:"......There was a lot of:「……戦後に色々と混}{ruby:disorder and conflict after the war.:乱がありました。}`
+`{ruby:The Master is the one who:その混乱の中、私を助けて下さ}{ruby:saved me during that chaotic period.:ったのがお館様なのです。}`
+`{ruby:......If I spent the rest of my life trying to repay that:……その時のご恩は、生涯かけて}{ruby:debt, it would not be enough to pay it back in full.":も、返し切れないものです」}`
 `{ruby:".........Don't say that, my friend.:「………それを言うな、我が友よ。}`
-`{ruby:......If only I had been a little more persuasive, I might have saved your family as well...:……私がもう少し上手に説得できていれば、お前の家族たちも連れて来ることが出来た…。}`
-`{ruby:I was too feckless to save anyone but you...":私が不甲斐ないばかりに、お前しか救えなかった…」}`
-`{ruby:I don't know much about the details of Taiwan's history,:台湾の歴史には詳しくないが、}`
-`{ruby:but apparently, there was still a lot of chaos there even after the war ended and Japan pulled out.:戦争が終わって日本が引き上げた後にも、色々な混乱があったらしい。}`
-`{ruby:Kinzo, predicting this chaos before it happened,:金蔵はその混乱をいち早く察し、}`
-`{ruby:worked out a way for Genji and his family to escape.:源次とその一族が脱出できるよう手配した。}`
-`{ruby:However, Genji's family possessed great wealth in Taiwan.:しかし、源次の一族は台湾において大きな財産を保有していた。}`
-`{ruby:They were unable to abandon it, and they decided to remain there.:それを捨てることが出来ず、台湾に残ることを選んだのだ。}`
-`{ruby:This wealth had been built up thanks to their close relationship with the Japanese‐run government of Taiwan.:その財産は、当時の体制下によって築き上げられたものだった。}`
-`{ruby:The new regime after the war wasn't likely to welcome them with open arms.:そんな彼らが、戦後の新しい体制下で歓迎されたとは、思い難い。}`
+`{ruby:......If only I had been a little more:……私がもう少し上手に説得できていれば、お前}{ruby:persuasive, I might have saved your family as well...:の家族たちも連れて来ることが出来た…。}`
+`{ruby:I was too feckless:私が不甲斐ないばかりに、お}{ruby:to save anyone but you...":前しか救えなかった…」}`
+`{ruby:I don't know much about:台湾の歴史には詳}{ruby:the details of Taiwan's history,:しくないが、}`
+`{ruby:but apparently, there was still a lot of chaos:戦争が終わって日本が引き上げた後に}{ruby:there even after the war ended and Japan pulled out.:も、色々な混乱があったらしい。}`
+`{ruby:Kinzo, predicting this:金蔵はその混乱をい}{ruby:chaos before it happened,:ち早く察し、}`
+`{ruby:worked out a way for:源次とその一族が脱出で}{ruby:Genji and his family to escape.:きるよう手配した。}`
+`{ruby:However, Genji's family possessed:しかし、源次の一族は台湾において}{ruby:great wealth in Taiwan.:大きな財産を保有していた。}`
+`{ruby:They were unable to abandon it,:それを捨てることが出来ず、台湾}{ruby:and they decided to remain there.:に残ることを選んだのだ。}`
+`{ruby:This wealth had been built up thanks to:その財産は、当時の体制下によって}{ruby:their close relationship with the Japanese‐run government of Taiwan.:築き上げられたものだった。}`
+`{ruby:The new regime after the war wasn't:そんな彼らが、戦後の新しい体制下}{ruby:likely to welcome them with open arms.:で歓迎されたとは、思い難い。}`
 `{ruby:Much mayhem and confusion followed.:様々な混乱が起こった。}`
-`{ruby:And Genji was the only one who escaped harm.:そして、源次だけが難を逃れたのだ。}`
-`{ruby:......I don't know what happened to make this man, referred to by Kinzo as a troublesome prodigal son,:……放蕩息子のろくでなしと金蔵が称す彼が、}`
-`{ruby:change so drastically to become the person he is today.:今日のような性格に激変するような、どんな体験があったのかは、わからない。}`
-`{ruby:That is a story of friendship between the two of them,:それは二人の間の、友情を巡る物語であり、}`
-`{ruby:......and there could be hardly any point in an unrelated person sifting through history books to argue for their personal interpretation.:……無関係の人間が歴史書を紐解いて、好き勝手に論じたところで、何の意味もない。}`
-`{ruby:They had been good friends since long ago, and they owed each other their lives.:二人は昔からの旧友であり、そして命の恩人でもあり。}`
-`{ruby:Though the troubled times had tossed them about, their friendship held firm for decades...:激動の時代に翻弄されながらも、友情を末永く維持し…。}`
-`{ruby:Genji's role was now that of the butler,:表向きは使用人の頭ということになっているが、}`
-`{ruby:......but when the two of them were alone in the study, they sometimes shared a drink and reminisced about the days of their youth.:……二人きりで書斎にいる時は、少しだけ若い頃に戻って、酒を酌み交わすこともある。}`
-`{ruby:......And they're still that way today.:……今でも、そんな二人なのだ。}`
-`{ruby:Leaving Kinzo and Genji to reminisce, Battler walked off on his own.:当時を懐かしむ金蔵と源次を残し、戦人はそっと離れる。}`
-`{ruby:It would be rude to ask for any more detail, and there was no need to know.:それ以上を聞くのは無粋なことだし、聞く必要もない。}`
-`{ruby:Kinzo and Genji had been friends since long, long ago.:金蔵と源次が昔からの親友であること。}`
+`{ruby:And Genji was the:そして、源次だけが難}{ruby:only one who escaped harm.:を逃れたのだ。}`
+`{ruby:......I don't know what happened to make this man,:……放蕩息子のろくでなし}{ruby:referred to by Kinzo as a troublesome prodigal son,:と金蔵が称す彼が、}`
+`{ruby:change so drastically to become:今日のような性格に激変するような、どん}{ruby:the person he is today.:な体験があったのかは、わからない。}`
+`{ruby:That is a story of:それは二人の間の、友情}{ruby:friendship between the two of them,:を巡る物語であり、}`
+`{ruby:......and there could be hardly any point in an unrelated:……無関係の人間が歴史書を紐解いて、好き勝}{ruby:person sifting through history books to argue for their personal interpretation.:手に論じたところで、何の意味もない。}`
+`{ruby:They had been good friends since long:二人は昔からの旧友であり、そ}{ruby:ago, and they owed each other their lives.:して命の恩人でもあり。}`
+`{ruby:Though the troubled times had tossed them:激動の時代に翻弄されながらも}{ruby:about, their friendship held firm for decades...:、友情を末永く維持し…。}`
+`{ruby:Genji's role was now:表向きは使用人の頭という}{ruby:that of the butler,:ことになっているが、}`
+`{ruby:......but when the two of them were alone in the study, they:……二人きりで書斎にいる時は、少しだけ若い}{ruby:sometimes shared a drink and reminisced about the days of their youth.:頃に戻って、酒を酌み交わすこともある。}`
+`{ruby:......And they're still:……今でも、そんな}{ruby:that way today.:二人なのだ。}`
+`{ruby:Leaving Kinzo and Genji to reminisce,:当時を懐かしむ金蔵と源次を残}{ruby:Battler walked off on his own.:し、戦人はそっと離れる。}`
+`{ruby:It would be rude to ask for any:それ以上を聞くのは無粋なこと}{ruby:more detail, and there was no need to know.:だし、聞く必要もない。}`
+`{ruby:Kinzo and Genji had been:金蔵と源次が昔からの}{ruby:friends since long, long ago.:親友であること。}`
 `{ruby:{n}That information was nothing new.:{n}そんなことは、すでに知っているのだから。}`
 `{ruby:"What do you think?:「どう？}`
-`{ruby:Do you want to challenge Auntie Natsuhi and Uncle Krauss next?":次は夏妃伯母さんたちに挑戦してみない？」}`
+`{ruby:Do you want to challenge:次は夏妃伯母さんたちに挑}{ruby:Auntie Natsuhi and Uncle Krauss next?":戦してみない？」}`
 `{ruby:"Yeah.:「うん。}`
 `{ruby:Let's beat them!":やっつけるっ」}`
-`{ruby:"Hahahaha. Very well, we'll play along.":「はははは、胸を貸そうじゃないか」}`
-`{ruby:"The two of us have prepared some formidable puzzles for you.":「私たちも手応えのある問題を用意しておきました」}`
+`{ruby:"Hahahaha. Very well,:「はははは、胸を貸そ}{ruby:we'll play along.":うじゃないか」}`
+`{ruby:"The two of us have:「私たちも手応えのある問題}{ruby:prepared some formidable puzzles for you.":を用意しておきました」}`
 `{ruby:"Should I go first?:「私から出すかね。}`
 `{ruby:Or you?":それとも君から？」}`
 `{ruby:"I will start.":「では私から」}`
 `{ruby:"Very well.":「うむ」}`
-`{ruby:"Listen closely to what I'm about to say.:「今から言うのをよく聞いて下さい。}`
-`{ruby:White black white black white ? black white black white black white.":白黒白黒白？黒白黒白黒白」}`
+`{ruby:"Listen closely to what:「今から言うのをよく}{ruby:I'm about to say.:聞いて下さい。}`
+`{ruby:White black white black white ?:白黒白黒白？黒白}{ruby:black white black white black white.":黒白黒白」}`
 `{ruby:"Huh?:「え？}`
 `{ruby:White black white black......huh??":白黒白黒…、……え？？」}`
 `{ruby:"I'll say it once more.:「もう一度言いますよ。}`
-`{ruby:White black white black white ? black white black white black white.:白黒白黒白？黒白黒白黒白。}`
-`{ruby:......What does the question mark stand for?":……この？には何が入るでしょう」}`
+`{ruby:White black white black white ?:白黒白黒白？黒白}{ruby:black white black white black white.:黒白黒白。}`
+`{ruby:......What does the:……この？には何が}{ruby:question mark stand for?":入るでしょう」}`
 `{ruby:This is......a really hard one.:これは、……とんでもない難問だ。}`
-`{ruby:White black white black white ? black white black white black white.:白黒白黒白？黒白黒白黒白。}`
-`{ruby:It looks like the white and black are alternating, but the question mark is between a white and a black.:白と黒が交互に並んでるように見えるが、？は白と黒に挟まれている。}`
+`{ruby:White black white black white ?:白黒白黒白？黒白}{ruby:black white black white black white.:黒白黒白。}`
+`{ruby:It looks like the white and black are alternating, but:白と黒が交互に並んでるように見える}{ruby:the question mark is between a white and a black.:が、？は白と黒に挟まれている。}`
 `{ruby:Is it......gray??:答えは、……灰色？？}`
 `{ruby:Is it that easy...?:そんな単純な問題だろうか…？}`
-`{ruby:"Th‐...this is a surprisingly hard one, coming from you, Natsuhi nee‐san......":「な、……夏妃姉さんにしてはずいぶん難しいじゃないの……」}`
+`{ruby:"Th‐...this is a surprisingly hard:「な、……夏妃姉さんにしてはずい}{ruby:one, coming from you, Natsuhi nee‐san......":ぶん難しいじゃないの……」}`
 `{ruby:Auntie Eva was groaning.:絵羽伯母さんも唸ってる。}`
 `{ruby:Apparently, this one's really hard.:どうやら、かなり難しいようだ。}`
 `{ruby:"I‐is it really so hard...?":「そ、そんなに難しいでしょうか…？」}`
-`{ruby:"......There's a chance that some people won't understand, if they haven't had the right experiences.":「……経験のない人にはわからん可能性もあるな」}`
-`{ruby:"Eva‐san aside, I think Ange‐chan would have seen it a lot at school and kindergarten......":「絵羽さんはともかく、縁寿ちゃんなら、学校や幼稚園で結構見ていたかも……」}`
-`{ruby:"Wh‐what? Are you saying I'll never get this one?":「な、何よぅ、私には絶対わからないっていうの？！」}`
-`{ruby:Is it a problem that I could get easier than Auntie Eva......?:絵羽伯母さんより、私の方がわかる問題だというのだろうか……。}`
+`{ruby:"......There's a chance that some people won't:「……経験のない人にはわか}{ruby:understand, if they haven't had the right experiences.":らん可能性もあるな」}`
+`{ruby:"Eva‐san aside, I think Ange‐chan would have:「絵羽さんはともかく、縁寿ちゃんなら、学}{ruby:seen it a lot at school and kindergarten......":校や幼稚園で結構見ていたかも……」}`
+`{ruby:"Wh‐what? Are you saying:「な、何よぅ、私には絶対わか}{ruby:I'll never get this one?":らないっていうの？！」}`
+`{ruby:Is it a problem that I:絵羽伯母さんより、私の方がわかる}{ruby:could get easier than Auntie Eva......?:問題だというのだろうか……。}`
 `{ruby:......It's hard.:……難しい。}`
-`{ruby:"The hint for this one is probably what Natsuhi nee‐san said, about something you might see in a school or kindergarten.:「ヒントは夏妃姉さんの言ってた、学校や幼稚園で見たことがあるかも、というやつね。}`
-`{ruby:......Do you know what it is, Ange‐chan?":……縁寿ちゃんにはわかる？」}`
+`{ruby:"The hint for this one is probably what Natsuhi nee‐san:「ヒントは夏妃姉さんの言ってた、学校や幼稚}{ruby:said, about something you might see in a school or kindergarten.:園で見たことがあるかも、というやつね。}`
+`{ruby:......Do you know:……縁寿ちゃんに}{ruby:what it is, Ange‐chan?":はわかる？」}`
 `{ruby:"No, I'm stuck.":「うぅん、全然」}`
-`{ruby:"See, even Ange‐chan says she's stuck!:「ほらっ、縁寿ちゃんも全然わからないって言ってるわよ？！}`
+`{ruby:"See, even Ange‐chan:「ほらっ、縁寿ちゃんも全然わか}{ruby:says she's stuck!:らないって言ってるわよ？！}`
 `{ruby:Give her at least a little hint.":少しヒントを出しなさいよぅ」}`
 `{ruby:"I, I see.:「そ、そうですか。}`
 `{ruby:Then, a hint......:では、ヒントを……。}`
-`{ruby:White black white black... They may be different colors, but you get a beautiful sound no matter which you push.":白黒白黒……、色々ありますけど、どれを押しても、とても綺麗な音がなりますよ」}`
+`{ruby:White black white black... They may be different colors, but:白黒白黒……、色々ありますけど、どれを押}{ruby:you get a beautiful sound no matter which you push.":しても、とても綺麗な音がなりますよ」}`
 `{ruby:"A beautiful sound......?:「綺麗な音……？}`
-`{ruby:Are these black and white things something that make sounds?":その白黒は音をさせるものなの？」}`
-`{ruby:"Black and white things that make a sound when you push them......?":「押すと音が出る白黒……？」}`
+`{ruby:Are these black and white:その白黒は音をさせる}{ruby:things something that make sounds?":ものなの？」}`
+`{ruby:"Black and white things that make:「押すと音が出る}{ruby:a sound when you push them......?":白黒……？」}`
 `{ruby:"............I don't get it.":「…………わかんない」}`
 `{ruby:"I give up too.:「私もだわ、降参よ。}`
-`{ruby:......It seems even you know some pretty hard puzzles, Natsuhi nee‐san.":……夏妃姉さんのくせに、ずいぶん難しい問題を知ってるじゃない」}`
+`{ruby:......It seems even you know:……夏妃姉さんのくせに、ずいぶん難}{ruby:some pretty hard puzzles, Natsuhi nee‐san.":しい問題を知ってるじゃない」}`
 `{ruby:"Hahahaha.:「ははははは。}`
-`{ruby:It's the sort of puzzle that brings out one's upbringing.:育ちが出る問題だからね。}`
-`{ruby:Perhaps it was a bit too hard for you.":お前には難しかったかもしれん」}`
+`{ruby:It's the sort of puzzle:育ちが出る問題}{ruby:that brings out one's upbringing.:だからね。}`
+`{ruby:Perhaps it was a:お前には難しかった}{ruby:bit too hard for you.":かもしれん」}`
 `{ruby:"Wh‐what did you saaaaaaay...?!":「なッ、何ですってぇええぇえぇ…？！」}`
 `{ruby:"......Auntie Natsuhi.:「……夏妃伯母さん。}`
 `{ruby:Could you tell me the answer?":答えを教えて？」}`
@@ -917,31 +917,31 @@
 `{ruby:"A keyboard?:「鍵盤？}`
 `{ruby:Like on a piano?":ピアノとかの？」}`
 `{ruby:"That's right.:「そうです。}`
-`{ruby:The blacks and whites are the pattern of colors on a keyboard.:白黒白黒は鍵盤の色の並びですよ。}`
-`{ruby:In which case, you must already know the right answer.":なら、もう答えがわかったでしょう」}`
-`{ruby:Auntie Natsuhi smiled at me, but I don't really remember what a keyboard looks like.:夏妃伯母さんはそう微笑むが、私は鍵盤の並びなんてよく覚えてない。}`
+`{ruby:The blacks and whites are the:白黒白黒は鍵盤の色}{ruby:pattern of colors on a keyboard.:の並びですよ。}`
+`{ruby:In which case, you must:なら、もう答えがわか}{ruby:already know the right answer.":ったでしょう」}`
+`{ruby:Auntie Natsuhi smiled at me, but I:夏妃伯母さんはそう微笑むが、私は鍵}{ruby:don't really remember what a keyboard looks like.:盤の並びなんてよく覚えてない。}`
 `{ruby:......Aw, too bad.:……んー、残念。}`
-`{ruby:I'd better have a go at Uncle Krauss's puzzle and redeem myself.:今度は蔵臼伯父さんの問題に挑戦して、名誉挽回しよう。}`
+`{ruby:I'd better have a go at:今度は蔵臼伯父さんの問題に挑}{ruby:Uncle Krauss's puzzle and redeem myself.:戦して、名誉挽回しよう。}`
 `{ruby:"Ready?:「ほら。}`
 `{ruby:It's Nii‐san's turn now.:今度は兄さんの番よ？}`
-`{ruby:We'll solve it in a flash and teach him a lesson, okay?":私と縁寿ちゃんであっさり解いて、けちょんけちょんにしてあげるわぁ？」}`
-`{ruby:"That black and white thing, ......it's a keyboard!:「この白黒白黒ね、……鍵盤だ！}`
+`{ruby:We'll solve it in a flash:私と縁寿ちゃんであっさり解いて、けちょ}{ruby:and teach him a lesson, okay?":んけちょんにしてあげるわぁ？」}`
+`{ruby:"That black and white:「この白黒白黒ね、}{ruby:thing, ......it's a keyboard!:……鍵盤だ！}`
 `{ruby:Like a piano!":ピアノと同じ！」}`
 `{ruby:"Ah, ......is that it?!:「あ、……そういうこと？！}`
 `{ruby:It's a keyboard?!":これ、鍵盤なのね？！」}`
-`{ruby:Something that can be found in kindergartens and schools, which is covered with a line of white and black things.:幼稚園や学校にあって、白黒白黒がいっぱい並んでるもの。}`
+`{ruby:Something that can be found in kindergartens and schools, which:幼稚園や学校にあって、白黒白黒}{ruby:is covered with a line of white and black things.:がいっぱい並んでるもの。}`
 `{ruby:It's an instrument.:それは楽器。}`
-`{ruby:{n}Like a keyboard on a piano or a melodica.:{n}これは、鍵盤ハーモニカやピアノの鍵盤のことなのだ。}`
-`{ruby:"The first two black keys are between "do", "re", and "mi".:「２つの黒い鍵盤は、ドレミの間。}`
-`{ruby:The set of three black keys are between "fa", "so", "la", and "ti"......":３つの黒い鍵盤はファソラシの間だから……」}`
-`{ruby:"It started "white black white black white ? black", so......the three white ones are "do", "re", and "mi"......":「白黒白黒白？黒、だから……、白が３つで、ド・レ・ミ……」}`
-`{ruby:"There is no black key between "mi" and "fa".:「ミとファの間に黒い鍵盤はないわ。}`
+`{ruby:{n}Like a keyboard on:{n}これは、鍵盤ハーモニカや}{ruby:a piano or a melodica.:ピアノの鍵盤のことなのだ。}`
+`{ruby:"The first two black keys:「２つの黒い鍵盤は}{ruby:are between "do", "re", and "mi".:、ドレミの間。}`
+`{ruby:The set of three black keys:３つの黒い鍵盤はファソラ}{ruby:are between "fa", "so", "la", and "ti"......":シの間だから……」}`
+`{ruby:"It started "white black white black white ? black",:「白黒白黒白？黒、だから……、白}{ruby:so......the three white ones are "do", "re", and "mi"......":が３つで、ド・レ・ミ……」}`
+`{ruby:"There is no black:「ミとファの間に黒い}{ruby:key between "mi" and "fa".:鍵盤はないわ。}`
 `{ruby:So, "fa" comes right after "mi"!":ミの次はすぐファになる！」}`
-`{ruby:"And since the question mark comes after "mi", the right answer is "fa".:「つまり、ミの次が？だから、正解は“ファ”。}`
+`{ruby:"And since the question mark comes:「つまり、ミの次が？だか}{ruby:after "mi", the right answer is "fa".:ら、正解は“ファ”。}`
 `{ruby:......In other words—":……つまりつまり、」}`
 `{ruby:""The right answer is white!"":「「正解は、白！」」}`
 `{ruby:"Correct.:「正解です。}`
-`{ruby:I thought it might have been a bit too hard, but you did well.":ちょっと難し過ぎたかと思いましたが、さすがですね」}`
+`{ruby:I thought it might have been a:ちょっと難し過ぎたかと思いま}{ruby:bit too hard, but you did well.":したが、さすがですね」}`
 `{ruby:"Splendidly done, you two.:「やるじゃないかね、二人とも。}`
 `{ruby:Go ahead, Natsuhi.":さ、夏妃」}`
 `{ruby:"Congratulations, Ange‐chan.:「おめでとう、縁寿ちゃん。}`
@@ -950,157 +950,157 @@
 `{ruby:Auntie Eva, I got another one!":絵羽伯母さん、また１つ集まったよ！」}`
 `{ruby:"Things are moving along nicely.:「順調ね。}`
 `{ruby:Next up is Nii‐san's puzzle.:さ、次は兄さんが出す番よ。}`
-`{ruby:Let's solve it in a flash and teach him a lesson, okay?":あっさり解いて、けちょんけちょんにしてあげるわぁ？」}`
+`{ruby:Let's solve it in a flash:あっさり解いて、けちょんけち}{ruby:and teach him a lesson, okay?":ょんにしてあげるわぁ？」}`
 `{ruby:"How interesting.:「上等じゃないかね。}`
-`{ruby:Looks like it's time you were taught a lesson.":返り討ちにして差し上げようじゃないか」}`
-`{ruby:"Stop it, Auntie Eva! Don't provoke him!:「やめてー、絵羽伯母さんっ、挑発しないでっ。}`
+`{ruby:Looks like it's time:返り討ちにして差し上げ}{ruby:you were taught a lesson.":ようじゃないか」}`
+`{ruby:"Stop it, Auntie:「やめてー、絵羽伯母さん}{ruby:Eva! Don't provoke him!:っ、挑発しないでっ。}`
 `{ruby:You'll make the puzzle harder!":問題が難しくなっちゃうー！」}`
 `{ruby:"Heheheheheheh.:「くっくくくくく。}`
-`{ruby:If there's anyone you have to blame, it's Eva!:恨むなら絵羽を恨むんだな！}`
+`{ruby:If there's anyone you:恨むなら絵羽を恨}{ruby:have to blame, it's Eva!:むんだな！}`
 `{ruby:Now take this brain‐twister!:さぁ食らいたまえッ、難問だ！}`
-`{ruby:Here's a puzzle about the tenants of a skyscraper I've invested in.":これは私が投資に関わったビルのテナントを巡る問題だ」}`
-`{ruby:"I don't know anything about this skyscraper,:「どこのビルか知らないし、}`
-`{ruby:so there's no way I could know......":わかるわけない……」}`
-`{ruby:I know what's on floors 1, 2, and 14, so the answer must be one of the other floors.:１２階より上は何が入っているかわかってるのだから、答えは１階から１１階の間のどこかだ。}`
+`{ruby:Here's a puzzle about the tenants:これは私が投資に関わったビルの}{ruby:of a skyscraper I've invested in.":テナントを巡る問題だ」}`
+`{ruby:"I don't know:「どこのビルか知}{ruby:anything about this skyscraper,:らないし、}`
+`{ruby:so there's no:わかるわけな}{ruby:way I could know......":い……」}`
+`{ruby:I know what's on floors 1, 2, and 14,:１２階より上は何が入っているかわかってるのだか}{ruby:so the answer must be one of the other floors.:ら、答えは１階から１１階の間のどこかだ。}`
 `{ruby:There's no doubt about that.:それはきっと間違いない。}`
 `{ruby:"Heheheheh.:「ふっふふふ。}`
 `{ruby:Do you give up?":降参かね？」}`
 `{ruby:"I, I won't give up, kiii!!:「こ、降参なんかしないわよッ、きー！！}`
-`{ruby:So Murakoshi Publishing Co., Ltd. is definitely on some floor?!":村越出版は何階にあるかですって？！」}`
+`{ruby:So Murakoshi Publishing Co., Ltd.:村越出版は何階にあるか}{ruby:is definitely on some floor?!":ですって？！」}`
 `{ruby:"Some floor, yes.:「何階かじゃない。}`
 `{ruby:But not the somethingth floor.":何がいか、だ」}`
 `{ruby:"What's the difference...?":「どっちも同じ“階”だよ…？」}`
 `{ruby:"......Ah.:「……あ。}`
 `{ruby:.................................":……………………………」}`
-`{ruby:Auntie Eva suddenly stumbled on something.:絵羽伯母さんは突然、何かを閃く。}`
-`{ruby:{n}Then, she started counting on her fingers, starting from the first floor......:{n}そして指を折りながら、１階から順に数えていく……。}`
+`{ruby:Auntie Eva suddenly:絵羽伯母さんは突然}{ruby:stumbled on something.:、何かを閃く。}`
+`{ruby:{n}Then, she started counting on her:{n}そして指を折りながら、１}{ruby:fingers, starting from the first floor......:階から順に数えていく……。}`
 `{ruby:"I've got it, Ange‐chan...!:「わかったわ、縁寿ちゃん…！}`
-`{ruby:Try saying them aloud, starting from "the first floor"...!:１階から順に、声に出して読んでみて…！}`
-`{ruby:There's only one that fits the question!":１つしかないから！」}`
+`{ruby:Try saying them aloud,:１階から順に、声に出し}{ruby:starting from "the first floor"...!:て読んでみて…！}`
+`{ruby:There's only one:１つしかないか}{ruby:that fits the question!":ら！」}`
 `{ruby:"Huh?:「え？}`
 `{ruby:Wh‐what do you mean......?":ど、どういうこと……？」}`
 `{ruby:".........I don't get it.":「………わかんない」}`
-`{ruby:"It isn't on "the somethingth floor", but it is on "some floor". That's the trick.":「これ、何階かじゃなくて、何“がい”か、ってのがポイントなのね？」}`
+`{ruby:"It isn't on "the somethingth floor", but:「これ、何階かじゃなくて、何“がい”}{ruby:it is on "some floor". That's the trick.":か、ってのがポイントなのね？」}`
 `{ruby:"That's right.:「そうだ。}`
-`{ruby:Though, in a way, the answer is right there in the question.":ある意味、出題の時点ですでに答えを示しているがね」}`
+`{ruby:Though, in a way, the answer:ある意味、出題の時点ですでに}{ruby:is right there in the question.":答えを示しているがね」}`
 `{ruby:"What do you mean...?":「どういうこと…？」}`
-`{ruby:"For example, let's take the fourteenth floor.:「例えばだけど、１４階ってあるわよね？}`
-`{ruby:"The "fourteenth floor" is the "somethingth floor", right?:１４階は、１４カイとも１４ガイとも読むわよね？}`
-`{ruby:But "the first floor" isn't the "somethingth floor"... you wouldn't call it "the firTH floor".":でも１階は１カイとは読んでも、１ガイとは読まない」}`
+`{ruby:"For example, let's:「例えばだけど、１４階}{ruby:take the fourteenth floor.:ってあるわよね？}`
+`{ruby:"The "fourteenth floor" is:１４階は、１４カイとも１４}{ruby:the "somethingth floor", right?:ガイとも読むわよね？}`
+`{ruby:But "the first floor" isn't the "somethingth:でも１階は１カイとは読んでも}{ruby:floor"... you wouldn't call it "the firTH floor".":、１ガイとは読まない」}`
 `{ruby:"Precisely.:「そういうことだ。}`
-`{ruby:And with the first and second floors ruled out, there's only one other that doesn't end in "th".":１階から１１階までの間で、ガイと読むのは１つしかない」}`
+`{ruby:And with the first and second floors ruled out,:１階から１１階までの間で、ガイ}{ruby:there's only one other that doesn't end in "th".":と読むのは１つしかない」}`
 `{ruby:"A‐......ah.........":「あ、………あー…………」}`
-`{ruby:By this point, even I had figured out the answer.:私も今頃になって答えがわかる。}`
-`{ruby:If only I'd paid a bit more attention to the way Uncle Krauss said the question......:出題された時の、蔵臼伯父さんのちょっとした発音の違和感に気付いていれば……。}`
+`{ruby:By this point, even I:私も今頃になって答}{ruby:had figured out the answer.:えがわかる。}`
+`{ruby:If only I'd paid a bit more attention:出題された時の、蔵臼伯父さんのちょっとし}{ruby:to the way Uncle Krauss said the question......:た発音の違和感に気付いていれば……。}`
 `{ruby:"Hahahahahahaha.:「はっはははははは。}`
 `{ruby:Too bad.:悪いね。}`
-`{ruby:Looks like I'll be keeping this medal.":伯父さんのメダルは、お預けだ」}`
+`{ruby:Looks like I'll:伯父さんのメダルは}{ruby:be keeping this medal.":、お預けだ」}`
 `{ruby:"The third floor!":「３階！」}`
 `{ruby:"Mgh...":「むっ」}`
 `{ruby:"Well done, you got it...!:「お見事っ、正解よ…！}`
-`{ruby:Ignoring the first two floors, the only floor that doesn't end in "th" is the third.":１階から１１階の間に、ガイと読めるフロアは３階（３ガイ）だけだわ」}`
+`{ruby:Ignoring the first two floors, the only floor:１階から１１階の間に、ガイと読めるフ}{ruby:that doesn't end in "th" is the third.":ロアは３階（３ガイ）だけだわ」}`
 `{ruby:"Yeah!:「うん！}`
-`{ruby:"The third floor" fits, but all the other ones after that are the "somethingth" floor.":３階だけは３ガイとも読めるけど、それ以外で１１階までは、どれもカイとしか読まない」}`
+`{ruby:"The third floor" fits, but all the:３階だけは３ガイとも読めるけど、それ以外で１}{ruby:other ones after that are the "somethingth" floor.":１階までは、どれもカイとしか読まない」}`
 `{ruby:"N‐......nicely done...:「や、……やるじゃないかね…。}`
-`{ruby:And even I didn't figure it out until I had the answer given to me......":私には、答えを教えられるまでサッパリだったというのに……」}`
-`{ruby:Apparently, Uncle Krauss once had this puzzle shown to him, and he wasn't able to answer it right.:どうやら、蔵臼伯父さんもかつてこの問題を出され、答えがわからなかったらしい。}`
-`{ruby:He looks a bit bitter that a kid like me was able to solve it.:それを私に解かれて、ちょっぴりだけ悔しいようだ。}`
-`{ruby:......I think what's really frustrating him is Auntie Eva solving it, not me.:……私じゃなくて、絵羽伯母さんに解かれたのが悔しいみたいだ。}`
+`{ruby:And even I didn't figure it out:私には、答えを教えられるまでサッ}{ruby:until I had the answer given to me......":パリだったというのに……」}`
+`{ruby:Apparently, Uncle Krauss once had this puzzle shown to:どうやら、蔵臼伯父さんもかつてこの問題を}{ruby:him, and he wasn't able to answer it right.:出され、答えがわからなかったらしい。}`
+`{ruby:He looks a bit bitter that a:それを私に解かれて、ちょっ}{ruby:kid like me was able to solve it.:ぴりだけ悔しいようだ。}`
+`{ruby:......I think what's really frustrating him:……私じゃなくて、絵羽伯母さんに}{ruby:is Auntie Eva solving it, not me.:解かれたのが悔しいみたいだ。}`
 `{ruby:Weird.:変なの。}`
 `{ruby:"Come on, now.:「ほらっ。}`
 `{ruby:Let's see that medal.":さっさとメダルを寄越しなさいよ」}`
-`{ruby:"This medal is a mark of Ange‐chan's intelligence.:「これは縁寿ちゃんの知恵に評するメダルだ。}`
+`{ruby:"This medal is a:「これは縁寿ちゃんの知恵}{ruby:mark of Ange‐chan's intelligence.:に評するメダルだ。}`
 `{ruby:It's not for you, Eva.":絵羽にやるわけではない」}`
 `{ruby:"Heh, sore loser...!":「ふん、負け惜しみを…！」}`
 `{ruby:"Thank you, Uncle Krauss.:「ありがとう、蔵臼伯父さんっ。}`
 `{ruby:Am I awesome? Am I awesome?!":縁寿すごい？　縁寿すごい？！」}`
 `{ruby:"Very much so.:「うむ。}`
-`{ruby:You're a more flexible thinker than your uncle.:伯父さんより、よほど頭が柔軟だ。}`
+`{ruby:You're a more flexible:伯父さんより、よほ}{ruby:thinker than your uncle.:ど頭が柔軟だ。}`
 `{ruby:I am proud to have you as a niece.":君が姪で、私は誇らしいよ」}`
 `{ruby:"That's all for our puzzles.":「これで、私たちの問題はおしまいです」}`
 `{ruby:"I do hope you enjoyed them.":「楽しんでもらえたならいいのだがね」}`
 `{ruby:"I did!:「うんっ。}`
-`{ruby:Thank you, Auntie Natsuhi and Uncle Krauss!":ありがとう、夏妃伯母さん、蔵臼伯父さんっ」}`
-`{ruby:"I hope you can enjoy all the tricky and interesting questions without worrying about your medal count too much.":「メダルの枚数など気にせず、みんなの奇問難問をたっぷり楽しんで欲しい」}`
-`{ruby:"We all hope that this becomes a wonderful night, just for you.":「今夜が、あなただけの素敵な夜になることを願っていますよ」}`
+`{ruby:Thank you, Auntie:ありがとう、夏妃伯母さん}{ruby:Natsuhi and Uncle Krauss!":、蔵臼伯父さんっ」}`
+`{ruby:"I hope you can enjoy all the tricky and:「メダルの枚数など気にせず、みんなの奇}{ruby:interesting questions without worrying about your medal count too much.":問難問をたっぷり楽しんで欲しい」}`
+`{ruby:"We all hope that this becomes:「今夜が、あなただけの素敵な夜に}{ruby:a wonderful night, just for you.":なることを願っていますよ」}`
 `{ruby:"We really are enjoying ourselves.":「楽しんでるわよねぇ、私たちっ」}`
 `{ruby:"Yeah!:「うん！}`
 `{ruby:We're having a lot of fun!":私たち、すっごい楽しい！」}`
-`{ruby:Krauss and Natsuhi smiled at them as they dashed away.:二人が駆け出すのを、蔵臼と夏妃は微笑みながら見送るのだった。}`
+`{ruby:Krauss and Natsuhi smiled at:二人が駆け出すのを、蔵臼と夏妃は}{ruby:them as they dashed away.:微笑みながら見送るのだった。}`
 `{ruby:"Oh, it's you, Natsuhi.:「おぉ、夏妃か。}`
 `{ruby:How did your puzzles go?":どうだった、お前たちの問題は」}`
-`{ruby:"We selected our questions as carefully as we could,:「私たちなりに選りすぐりを出題したつもりです。}`
-`{ruby:......but I'm not sure how much they enjoyed them.":……楽しんでもらえたかどうか」}`
-`{ruby:On the other side of the room, Ange and Eva were counting the medals they had gathered so far.:向こうでは、縁寿と絵羽が、これまでに集めたメダルの枚数を数えている。}`
+`{ruby:"We selected our questions:「私たちなりに選りすぐりを}{ruby:as carefully as we could,:出題したつもりです。}`
+`{ruby:......but I'm not sure:……楽しんでもらえ}{ruby:how much they enjoyed them.":たかどうか」}`
+`{ruby:On the other side of the room, Ange and:向こうでは、縁寿と絵羽が、これまでに}{ruby:Eva were counting the medals they had gathered so far.:集めたメダルの枚数を数えている。}`
 `{ruby:Ange and Eva.:縁寿と絵羽。}`
-`{ruby:......Such an unexpected pairing, but they looked like they were having a great time.:……不思議な組み合わせだが、とても楽しそうだった。}`
-`{ruby:"......A future parent and child, unrelated by blood.:「……血の繋がらぬ、未来の親子か。}`
-`{ruby:Watching them like this, they look just like a normal parent and child.":こうして見ている分には、本当の親子そのものにしか見えぬ」}`
+`{ruby:......Such an unexpected pairing, but they looked:……不思議な組み合わせだが、}{ruby:like they were having a great time.:とても楽しそうだった。}`
+`{ruby:"......A future parent and:「……血の繋がらぬ、}{ruby:child, unrelated by blood.:未来の親子か。}`
+`{ruby:Watching them like this, they look:こうして見ている分には、本当の}{ruby:just like a normal parent and child.":親子そのものにしか見えぬ」}`
 `{ruby:"Yes, they do.:「えぇ。}`
-`{ruby:.........Bonds between people are nurtured by the heart.:………絆は、心で育むものです。}`
-`{ruby:Ties of blood do not bond as strongly.":血の繋がりなど、それに劣るものです」}`
+`{ruby:.........Bonds between people are:………絆は、心で育}{ruby:nurtured by the heart.:むものです。}`
+`{ruby:Ties of blood do:血の繋がりなど、それ}{ruby:not bond as strongly.":に劣るものです」}`
 `{ruby:After saying this,:夏妃はそれを言ってから、}`
-`{ruby:......Natsuhi bit back her own words and stared at the floor.:……自らの言葉を噛み締め、ひとり俯く。}`
+`{ruby:......Natsuhi bit back her own:……自らの言葉を噛み締}{ruby:words and stared at the floor.:め、ひとり俯く。}`
 `{ruby:"What's wrong?":「どうした」}`
-`{ruby:".........I was just...surprised that I would dare to say such words......":「………私に、よくもそのようなことが言えたものだと、……驚いただけです」}`
+`{ruby:".........I was just...surprised that I:「………私に、よくもそのようなことが言}{ruby:would dare to say such words......":えたものだと、……驚いただけです」}`
 `{ruby:"........................:「……………………。}`
-`{ruby:......You don't need to worry about me.":……気にするな、妾のことは」}`
-`{ruby:"Because I rejected you, ......you met a painful fate in so many worlds...:「私が、あなたを拒絶してしまったから、……あなたはいくつもの世界で、辛い目に…。}`
-`{ruby:......All of that is my responsibility...":……それは全て、私の責任です…」}`
+`{ruby:......You don't need:……気にするな、}{ruby:to worry about me.":妾のことは」}`
+`{ruby:"Because I rejected you, ......you met:「私が、あなたを拒絶してしまったから、……}{ruby:a painful fate in so many worlds...:あなたはいくつもの世界で、辛い目に…。}`
+`{ruby:......All of that:……それは全て、私}{ruby:is my responsibility...":の責任です…」}`
 `{ruby:"I understand how you felt.:「そなたの気持ちもわかる。}`
-`{ruby:......Unable to become pregnant, you were forced to feel shame for many years.:……身篭れず、何年も肩身の狭い思いをしてきたのだ。}`
-`{ruby:In that situation, any woman would be shocked if they were handed a baby whose parentage they didn't even know, ...and then told to adopt them.":そこに突然、素性の知れぬ赤ん坊を渡され、養子にしろと言われたら、ショックを受けぬ女などおらぬ」}`
+`{ruby:......Unable to become pregnant, you were:……身篭れず、何年も肩身の狭}{ruby:forced to feel shame for many years.:い思いをしてきたのだ。}`
+`{ruby:In that situation, any woman would be shocked if they were handed a:そこに突然、素性の知れぬ赤ん坊を渡され、養子にしろ}{ruby:baby whose parentage they didn't even know, ...and then told to adopt them.":と言われたら、ショックを受けぬ女などおらぬ」}`
 `{ruby:"......That was no reason...:「……だからといって、}`
 `{ruby:...for me to push you off a cliff...":……あなたを崖より突き落としても良いという理由にはなりません…」}`
 `{ruby:"True.:「そうであるな。}`
-`{ruby:You will have to carry that cross for the rest of your life.":それは、そなたが生涯、背負うべき十字架であろう」}`
+`{ruby:You will have to carry that:それは、そなたが生涯、背負}{ruby:cross for the rest of your life.":うべき十字架であろう」}`
 `{ruby:"......Yes.:「……はい。}`
 `{ruby:I am prepared to do so...":その覚悟です…」}`
-`{ruby:"In that case, the suffering you must endure will come from the cross you bear.:「ならば、そなたを苛む役は、その十字架だ。}`
+`{ruby:"In that case, the suffering you must:「ならば、そなたを苛む役}{ruby:endure will come from the cross you bear.:は、その十字架だ。}`
 `{ruby:Not from me.":妾ではない」}`
 `{ruby:"You don't......despise me...?":「私を、……恨まないというのですか…」}`
 `{ruby:"Look, don't make that dejected face.:「そう、しょげた顔をするなって。}`
-`{ruby:......In fact, no, ......I think I'll say the opposite.:……いやいや、むしろ逆だなぁ。}`
-`{ruby:As long as you do continue making that dejected face, I will feel no desire to punish you.:お前がそのしょげた顔を見せる限り、妾はそなたを咎めようとは思わぬ。}`
-`{ruby:As long as you continue to carry that cross,:そなたがその十字架を背負い続ける限り。}`
+`{ruby:......In fact, no, ......I:……いやいや、むし}{ruby:think I'll say the opposite.:ろ逆だなぁ。}`
+`{ruby:As long as you do continue making that dejected:お前がそのしょげた顔を見せる限り、妾}{ruby:face, I will feel no desire to punish you.:はそなたを咎めようとは思わぬ。}`
+`{ruby:As long as you:そなたがその十字架を背}{ruby:continue to carry that cross,:負い続ける限り。}`
 `{ruby:I will feel no desire to hate you.":妾はそなたを恨もうとは思わぬ」}`
-`{ruby:"Despite what I did to you, ......you still don't hate me......?":「この私を、……恨まないというのですか……」}`
+`{ruby:"Despite what I did to:「この私を、……恨まない}{ruby:you, ......you still don't hate me......?":というのですか……」}`
 `{ruby:"Oh, I did hate you.:「本当は恨んでたぜェ？}`
 `{ruby:I hated your guts.:チョオ恨んでたっ。}`
-`{ruby:I hated you so much, I wanted to hang up a pillow with your picture on it and use it as a punching bag!":お前の抱き枕吊るしてサンドバッグにするくらい恨んださァ！」}`
-`{ruby:"But, as I watched you, that feeling faded away.:「でも、お前を見ている内に、その気もなくなった。}`
+`{ruby:I hated you so much, I wanted to hang up a pillow:お前の抱き枕吊るしてサンドバッグ}{ruby:with your picture on it and use it as a punching bag!":にするくらい恨んださァ！」}`
+`{ruby:"But, as I watched:「でも、お前を見ている内に}{ruby:you, that feeling faded away.:、その気もなくなった。}`
 `{ruby:......You regretted and lamented.:……お前は悔やみ、後悔している。}`
-`{ruby:And I'm sure you'll never forget that feeling for as long as you live.":そしてその気持ちをきっと、お前は生涯忘れない」}`
+`{ruby:And I'm sure you'll never forget that:そしてその気持ちをきっと、}{ruby:feeling for as long as you live.":お前は生涯忘れない」}`
 `{ruby:"How could I forget......?:「忘れるものですか……。}`
-`{ruby:......After all, I'm a murderer.........":……私は、人殺しなのですから………」}`
-`{ruby:"You burdened yourself with one hell of a heavy cross, didn't you?:「重い十字架、背負っちまったなァ。}`
+`{ruby:......After all,:……私は、人殺しなの}{ruby:I'm a murderer.........":ですから………」}`
+`{ruby:"You burdened yourself with one hell:「重い十字架、背負っ}{ruby:of a heavy cross, didn't you?:ちまったなァ。}`
 `{ruby:I feel compassion for you now.:今じゃあんたに同情してる。}`
 `{ruby:I'm serious.:ホントだぜ？}`
-`{ruby:I mean, all of this is really Kinzo's fault.":だって、全部、金蔵が悪いんじゃねぇか」}`
-`{ruby:"It's his fault for having an illegitimate child in the first place!:「あいつが、隠し子なんか作るから悪いんだし！}`
-`{ruby:And the way he forced that child on you was even worse!:何しろ、お前への預け方が特に悪い！}`
-`{ruby:Instead of "you can't give birth, so adopt this kid",:子供が生まれないから養子にしろっ、何てのじゃなく、}`
-`{ruby:he should at least have been able to avoid hurting you by saying something like "please take care of this poor child".:可哀想な子だから育ててくれぬかとか、そなたを傷つけぬ言い方はあったはずだ。}`
+`{ruby:I mean, all of:だって、全部、金蔵が悪}{ruby:this is really Kinzo's fault.":いんじゃねぇか」}`
+`{ruby:"It's his fault for having an:「あいつが、隠し子なんか}{ruby:illegitimate child in the first place!:作るから悪いんだし！}`
+`{ruby:And the way he forced that:何しろ、お前への預け}{ruby:child on you was even worse!:方が特に悪い！}`
+`{ruby:Instead of "you can't give:子供が生まれないから養子にし}{ruby:birth, so adopt this kid",:ろっ、何てのじゃなく、}`
+`{ruby:he should at least have been able to avoid hurting you:可哀想な子だから育ててくれぬかとか、そな}{ruby:by saying something like "please take care of this poor child".:たを傷つけぬ言い方はあったはずだ。}`
 `{ruby:Men! That Kinzo...!":これだから男は、金蔵は…！」}`
 `{ruby:"..............................":「…………………………」}`
 `{ruby:"I no longer hate you.:「もはや、恨みはない。}`
-`{ruby:Does the cross you bear not feel any lighter for that?":それでも、そなたの十字架は軽くはならぬか」}`
+`{ruby:Does the cross you bear:それでも、そなたの十字架}{ruby:not feel any lighter for that?":は軽くはならぬか」}`
 `{ruby:"It doesn't.:「はい。}`
-`{ruby:......I still don't know how I can make up for what I did to you.":……あなたにどうすれば償えるか、未だにわからないのですから」}`
+`{ruby:......I still don't know how I can:……あなたにどうすれば償えるか、}{ruby:make up for what I did to you.":未だにわからないのですから」}`
 `{ruby:"Then let's do it this way.:「んじゃ、こうしよう。}`
 `{ruby:Hold out your arms.":両腕を広げよ」}`
 `{ruby:"H‐......huh?:「え、……え？}`
 `{ruby:L‐...like this...?":こ、……こうですか……？」}`
-`{ruby:As Natsuhi spread her arms uncertainly,:おずおずと夏妃が両手を広げると、}`
-`{ruby:Beato leapt forward and hugged her tight.:そこへベアトが飛び込み、夏妃をぎゅっと、抱き締める。}`
+`{ruby:As Natsuhi spread:おずおずと夏妃が両}{ruby:her arms uncertainly,:手を広げると、}`
+`{ruby:Beato leapt forward:そこへベアトが飛び込み、夏妃}{ruby:and hugged her tight.:をぎゅっと、抱き締める。}`
 `{ruby:"......U‐umm,:「……あ、あの、}`
 `{ruby:......th‐this is a little.........":……こ、これは………」}`
-`{ruby:"I'll never say this again, so let me say it once.:「二度と言わねぇから、一度くらい言わせろよ。}`
-`{ruby:......After all, I never had a chance to meet my mother.":……妾はよ、自分の母親に会ったことさえねぇんだからよ」}`
-`{ruby:Still hugging Natsuhi, Beato spoke in a whisper.:ベアトは夏妃を抱き締めながら、小さな声で言う。}`
-`{ruby:{n}She spoke those words that she would certainly never say again...:{n}もう二度と、絶対に口にしないその言葉を、夏妃に言う…。}`
-`{ruby:"Thank you for worrying so much for my sake.:「妾のことで悔やんでくれてありがとよ。}`
-`{ruby:......But I really don't hate you anymore.:……でもよ、妾はもう恨んでねぇからな？}`
+`{ruby:"I'll never say this again,:「二度と言わねぇから、一}{ruby:so let me say it once.:度くらい言わせろよ。}`
+`{ruby:......After all, I never had:……妾はよ、自分の母親に会った}{ruby:a chance to meet my mother.":ことさえねぇんだからよ」}`
+`{ruby:Still hugging Natsuhi, Beato:ベアトは夏妃を抱き締めなが}{ruby:spoke in a whisper.:ら、小さな声で言う。}`
+`{ruby:{n}She spoke those words that:{n}もう二度と、絶対に口にしな}{ruby:she would certainly never say again...:いその言葉を、夏妃に言う…。}`
+`{ruby:"Thank you for worrying:「妾のことで悔やんでく}{ruby:so much for my sake.:れてありがとよ。}`
+`{ruby:......But I really:……でもよ、妾はもう恨}{ruby:don't hate you anymore.:んでねぇからな？}`
 `{ruby:Please, believe that,:それだけは信じてくれよ。}`
 `{ruby:............Mother.":…………カアサン」}`
-`{ruby:"......{f:5:B}‐.........{f:5:Beatrice}...............":「……ベ、………ベアトリーチェ……………」}`
+`{ruby::「……ベ、………ベアト}{ruby:"......{f:5:B}‐.........{f:5:Beatrice}...............":リーチェ……………」}`

@@ -1,120 +1,120 @@
-`{ruby:The guesthouse lobby had been engulfed by silence.:ゲストハウスのロビーは静寂に包まれていた。}`
-`{ruby:The strings of tension which bound Krauss, Natsuhi, and Eva had already loosened; they were completely tired; and their consciousness was beginning to waver.:蔵臼、夏妃、絵羽の３人はもはや緊張感の糸も弛み、疲れきって、意識を朦朧とさせている。}`
-`{ruby:Every once in a while, they would stand up and walk around pointlessly, fighting their drowsiness.:彼らは時折、席を立ち、無意味に歩き回ったりすることで眠気と戦っているようだった。}`
+`{ruby:The guesthouse lobby had:ゲストハウスのロビーは静}{ruby:been engulfed by silence.:寂に包まれていた。}`
+`{ruby:The strings of tension which bound Krauss, Natsuhi, and Eva had already:蔵臼、夏妃、絵羽の３人はもはや緊張感の糸も弛}{ruby:loosened; they were completely tired; and their consciousness was beginning to waver.:み、疲れきって、意識を朦朧とさせている。}`
+`{ruby:Every once in a while, they would stand:彼らは時折、席を立ち、無意味に歩き回ったり}{ruby:up and walk around pointlessly, fighting their drowsiness.:することで眠気と戦っているようだった。}`
 `{ruby:".........Are you alright, Eva‐san?:「………大丈夫ですか、絵羽さん。}`
-`{ruby:...Please, do take it easy and rest.":…やはり無理をせず、休んでいてください」}`
+`{ruby:...Please, do take:…やはり無理をせず、休}{ruby:it easy and rest.":んでいてください」}`
 `{ruby:"I told you, I'm fine......:「大丈夫だって言ってるわ……。}`
-`{ruby:...The three of us are now the only adults...:…もう、大人は私たち３人しかいないのよ…。}`
+`{ruby:...The three of us:…もう、大人は私たち３人}{ruby:are now the only adults...:しかいないのよ…。}`
 `{ruby:There's no time to rest...:休んでる暇なんかないわ…。}`
-`{ruby:I'll guard this place even if I have to go through hell and high water......:石にかじりついてでも、ここを死守するわよ……。}`
+`{ruby:I'll guard this place even if I:石にかじりついてでも、ここ}{ruby:have to go through hell and high water......:を死守するわよ……。}`
 `{ruby:......haah......haah......":……はぁ、……はぁ……」}`
-`{ruby:She spoke a brave line, but she couldn't hide her rough breathing.:勇ましい台詞を口にするが、荒い息は隠せていない。}`
-`{ruby:{n}...It seemed that the fever, which had been calmed with medicine for a time, had returned.:{n}…一度は薬で落ち着いた熱だったが、再びぶり返してきたらしい。}`
-`{ruby:It was very obvious that Eva's condition was not good.:絵羽の体調が悪いのは一目瞭然だった。}`
+`{ruby:She spoke a brave line, but:勇ましい台詞を口にするが、}{ruby:she couldn't hide her rough breathing.:荒い息は隠せていない。}`
+`{ruby:{n}...It seemed that the fever, which had been:{n}…一度は薬で落ち着いた熱だった}{ruby:calmed with medicine for a time, had returned.:が、再びぶり返してきたらしい。}`
+`{ruby:It was very obvious that:絵羽の体調が悪いのは}{ruby:Eva's condition was not good.:一目瞭然だった。}`
 `{ruby:"Don't push yourself.:「無理はするな。}`
 `{ruby:At least close your eyes.:せめて目を閉じていたまえ。}`
-`{ruby:If we have to wake you, we definitely will.":もし、起こさねばならぬ時は必ず起こしてやるから」}`
+`{ruby:If we have to:もし、起こさねばならぬ時は}{ruby:wake you, we definitely will.":必ず起こしてやるから」}`
 `{ruby:"I'm telling you that I'm fine...!:「だから平気だって言ってるわ…！}`
 `{ruby:Leave me alone......!!":放っておいて……！！」}`
 `{ruby:"..............................":「…………………………」}`
-`{ruby:It seemed that she had now become stubborn.:もはや意地になっているようだった。}`
-`{ruby:......Krauss and Natsuhi realized that no matter what else they said to her, in her current state, it wouldn't reach her ears.:……今の彼女には、これ以上、何を言っても耳に届かないだろうことを、蔵臼たちも悟る。}`
-`{ruby:So they decided to say nothing more, and to let her be.:だからそれ以上は何も言わず、そっとしておくことにした。}`
-`{ruby:To Eva right now, even an argument like that was putting a burden on her.:今の絵羽には、そんな口論すらも負担になっている。}`
-`{ruby:{n}It would probably be better for her if she just sat there with her mouth closed.:{n}口を閉ざし、ただ静かに座っているだけの方が、まだ体に楽だろう。}`
-`{ruby:As a matter of fact, Eva was already on the point of succumbing to her drowsiness.:実際、絵羽はもう眠気に挫けようとしている。}`
-`{ruby:...She might have talked back with a temper because she was trying to encourage herself and throw off her sleepiness.:…短気に言い返すのは、自らを鼓舞して眠気を飛ばすためなのかもしれない。}`
-`{ruby:The clock would very soon be pointing to six in the afternoon.:時計は、もうじき午後の６時を指そうとしている。}`
-`{ruby:Because she had been snacking over and over again to fool her drowsiness, she didn't feel hungry,:眠気を誤魔化すために、何度も間食を取ったせいで空腹感はなく、}`
-`{ruby:but instead, her lack of sleep made it feel like it was six in the morning rather than the afternoon.:むしろ寝不足のせいで、午後どころか明け方の６時のようにさえ感じられた。}`
-`{ruby:......Even supposing that the boat would come at precisely nine in the morning tomorrow,:……明日の朝の９時にぴったりに船が来てくれると仮定しても、}`
-`{ruby:......there were still more than twelve full hours to go.:……まだ１２時間以上たっぷりある。}`
-`{ruby:...That was a dizzyingly long stretch of time.:…気の遠くなるような時間だった。}`
+`{ruby:It seemed that she:もはや意地になってい}{ruby:had now become stubborn.:るようだった。}`
+`{ruby:......Krauss and Natsuhi realized that no matter what else they said:……今の彼女には、これ以上、何を言っても耳に}{ruby:to her, in her current state, it wouldn't reach her ears.:届かないだろうことを、蔵臼たちも悟る。}`
+`{ruby:So they decided to say nothing:だからそれ以上は何も言わず、そ}{ruby:more, and to let her be.:っとしておくことにした。}`
+`{ruby:To Eva right now, even an argument:今の絵羽には、そんな口論す}{ruby:like that was putting a burden on her.:らも負担になっている。}`
+`{ruby:{n}It would probably be better for her if:{n}口を閉ざし、ただ静かに座ってい}{ruby:she just sat there with her mouth closed.:るだけの方が、まだ体に楽だろう。}`
+`{ruby:As a matter of fact, Eva was already:実際、絵羽はもう眠気に挫}{ruby:on the point of succumbing to her drowsiness.:けようとしている。}`
+`{ruby:...She might have talked back with a temper because she:…短気に言い返すのは、自らを鼓舞して眠}{ruby:was trying to encourage herself and throw off her sleepiness.:気を飛ばすためなのかもしれない。}`
+`{ruby:The clock would very soon be:時計は、もうじき午後の６時}{ruby:pointing to six in the afternoon.:を指そうとしている。}`
+`{ruby:Because she had been snacking over and over:眠気を誤魔化すために、何度も間食}{ruby:again to fool her drowsiness, she didn't feel hungry,:を取ったせいで空腹感はなく、}`
+`{ruby:but instead, her lack of sleep made it feel like:むしろ寝不足のせいで、午後どころか明け}{ruby:it was six in the morning rather than the afternoon.:方の６時のようにさえ感じられた。}`
+`{ruby:......Even supposing that the boat would come:……明日の朝の９時にぴったりに船}{ruby:at precisely nine in the morning tomorrow,:が来てくれると仮定しても、}`
+`{ruby:......there were still more than:……まだ１２時間以上}{ruby:twelve full hours to go.:たっぷりある。}`
+`{ruby:...That was a dizzyingly:…気の遠くなるよう}{ruby:long stretch of time.:な時間だった。}`
 `{ruby:............Long.:…………長い。}`
 `{ruby:.........Painful......:………辛い……。}`
 `{ruby:......Hot...:……熱い…。}`
-`{ruby:Even the sound of the clock torments my body now.:時計の音さえ、今はこの身を苛む。}`
-`{ruby:In times like this, ......he would put his hand on my forehead, and the fever would always fade at once.:こんな時はいつだって、……あの人が私の額に手を当ててくれれば、たちどころに熱が引いたのに。}`
+`{ruby:Even the sound of the:時計の音さえ、今は}{ruby:clock torments my body now.:この身を苛む。}`
+`{ruby:In times like this, ......he would put his hand on:こんな時はいつだって、……あの人が私の額に手を当}{ruby:my forehead, and the fever would always fade at once.:ててくれれば、たちどころに熱が引いたのに。}`
 `{ruby:...But he isn't here anymore.........:…でももう、あの人はいない………。}`
-`{ruby:As Eva's mind grew foggy, she was once again gripped by a deep sadness...:絵羽は朦朧とした意識の中で、再び深い悲しみに囚われていた…。}`
+`{ruby:As Eva's mind grew foggy, she was:絵羽は朦朧とした意識の中で、再び}{ruby:once again gripped by a deep sadness...:深い悲しみに囚われていた…。}`
 `{ruby:She had already cried herself dry.:もう涙は枯れ果てた。}`
-`{ruby:{n}Even so, the sadness from losing her beloved husband had not been exhausted...:{n}それでも最愛の夫を失った悲しみが、尽き果てない…。}`
+`{ruby:{n}Even so, the sadness from losing:{n}それでも最愛の夫を失った}{ruby:her beloved husband had not been exhausted...:悲しみが、尽き果てない…。}`
 `{ruby:"...............I...:「……………私は、}`
 `{ruby:...was wrong...":……間違っていたんだわ…」}`
 `{ruby:"...Why?":「…どうして？」}`
-`{ruby:Originally, the new witch had been the same being as Eva.:元々、新しき魔女は絵羽と一なる存在。}`
-`{ruby:{n}...If Eva talked to her, she would always respond...:{n}…絵羽が話しかければ、いつだって返事を返す…。}`
-`{ruby:"......If I could only gain the position of family head, ...that was always enough.:「……私は右代宮家の当主の座さえ得られれば、…それで満足のはずだった。}`
-`{ruby:......But as soon as I saw that mountain of gold, my greed grew.:……それが、あの黄金の山を見た途端に、欲が増えたの。}`
-`{ruby:............I was struck with a desire to have that mountain of gold all to myself......":…………あの黄金の山を、独り占めしたい気持ちに駆られた……」}`
-`{ruby:"That's nothing to be embarrassed about.:「それは恥じることでも何でもないわ。}`
-`{ruby:After all, it's your natural right as the Ushiromiya family head.:だって、右代宮家の当主として、当然の権利じゃない。}`
-`{ruby:How could you give up even a bit of it to anyone else?":他の誰にも、黄金の一欠けらだって譲るものかってのよ」}`
-`{ruby:"............I was gripped by that temptation, ...which is why you were born.:「…………私がその誘惑に囚われたから、…あなたが生まれてしまったんだわ。}`
-`{ruby:......While you are the heart of my young self,:……あなたは私の少女時代の心であると同時に、}`
-`{ruby:......at the same time, you are also my self‐centered evil heart.":……自分勝手でしかない、私の邪まな心でもあった」}`
-`{ruby:"......It's my foolish greed, which sprouted thanks to that mountain of gold,:「……そのあなたが、あの黄金の山によって芽生えた、私の愚かな欲望のせいで、}`
-`{ruby:......that allowed you to break out of the shell of my heart, ...and be born into this world...:……私の胸という卵の殻を破り、…この世に生まれ出てしまった…。}`
-`{ruby:.........I'm to blame for giving birth to you......!":………あなたを生んだのは私の責任……！」}`
-`{ruby:"In that case, when I killed Rosa and Maria,:「なら、私が殺した楼座と真里亞も。}`
-`{ruby:and then Rudolf, Kyrie and Hideyoshi, you were to blame for that too.":そして留弗夫と霧江と秀吉も、あなたの責任ってことになるわ」}`
+`{ruby:Originally, the new witch had:元々、新しき魔女は絵}{ruby:been the same being as Eva.:羽と一なる存在。}`
+`{ruby:{n}...If Eva talked to:{n}…絵羽が話しかければ、}{ruby:her, she would always respond...:いつだって返事を返す…。}`
+`{ruby:"......If I could only gain the position:「……私は右代宮家の当主の座さえ得られ}{ruby:of family head, ...that was always enough.:れば、…それで満足のはずだった。}`
+`{ruby:......But as soon as I saw:……それが、あの黄金の山を見}{ruby:that mountain of gold, my greed grew.:た途端に、欲が増えたの。}`
+`{ruby:............I was struck with a desire to:…………あの黄金の山を、独り占め}{ruby:have that mountain of gold all to myself......":したい気持ちに駆られた……」}`
+`{ruby:"That's nothing to:「それは恥じることで}{ruby:be embarrassed about.:も何でもないわ。}`
+`{ruby:After all, it's your natural:だって、右代宮家の当主として}{ruby:right as the Ushiromiya family head.:、当然の権利じゃない。}`
+`{ruby:How could you give up even:他の誰にも、黄金の一欠けらだ}{ruby:a bit of it to anyone else?":って譲るものかってのよ」}`
+`{ruby:"............I was gripped by that temptation,:「…………私がその誘惑に囚われたから、}{ruby:...which is why you were born.:…あなたが生まれてしまったんだわ。}`
+`{ruby:......While you are the:……あなたは私の少女時代}{ruby:heart of my young self,:の心であると同時に、}`
+`{ruby:......at the same time, you:……自分勝手でしかない、私}{ruby:are also my self‐centered evil heart.":の邪まな心でもあった」}`
+`{ruby:"......It's my foolish greed, which sprouted:「……そのあなたが、あの黄金の山によって}{ruby:thanks to that mountain of gold,:芽生えた、私の愚かな欲望のせいで、}`
+`{ruby:......that allowed you to break out of the shell:……私の胸という卵の殻を破り、…こ}{ruby:of my heart, ...and be born into this world...:の世に生まれ出てしまった…。}`
+`{ruby:.........I'm to blame for:………あなたを生んだの}{ruby:giving birth to you......!":は私の責任……！」}`
+`{ruby:"In that case, when:「なら、私が殺した楼}{ruby:I killed Rosa and Maria,:座と真里亞も。}`
+`{ruby:and then Rudolf, Kyrie and Hideyoshi,:そして留弗夫と霧江と秀吉も、あな}{ruby:you were to blame for that too.":たの責任ってことになるわ」}`
 `{ruby:"Why did you kill my husband too...?!:「どうしてうちの人まで殺したのよ…！}`
 `{ruby:Why......?!!:どうして……！！}`
 `{ruby:Uuuuuhghuuhuhhuu!!":うううぅううぅううぅ！！」}`
 `{ruby:"...I didn't want to kill Hideyoshi.:「…秀吉を殺す気はなかったわ。}`
-`{ruby:He was just so annoying and persistent.:だってうるさくてしつこかったんだもの。}`
+`{ruby:He was just:だってうるさくてしつこ}{ruby:so annoying and persistent.:かったんだもの。}`
 `{ruby:...And that's our, no, your fault.:…その意味では私たちの、いえ、あなたの責任ね。}`
-`{ruby:It's your fault for choosing a husband like that.":あんなのを旦那に選んだあなたの責任だわ」}`
-`{ruby:"A child like you can't possibly understand how good he was!!:「あなたみたいな子どもに、あの人の良さはわからないわよッ！！}`
-`{ruby:Uuuughh{0}hhu{0}uuhu{0}u{0}u{0}u{0}uughh...{0}honey.........uuu{0}u{0}u{0}uuhhuhghh{0}hhu{0}uhuu{0}huu!":ううぅううぅぅぅうう…、あなた………、うううぅぅ！」}`
+`{ruby:It's your fault for:あんなのを旦那に選んだ}{ruby:choosing a husband like that.":あなたの責任だわ」}`
+`{ruby:"A child like you can't:「あなたみたいな子どもに、あの人}{ruby:possibly understand how good he was!!:の良さはわからないわよッ！！}`
+`{ruby::ううぅううぅぅぅうう…、あなた}{ruby:Uuuughh{0}hhu{0}uuhu{0}u{0}u{0}u{0}uughh...{0}honey.........uuu{0}u{0}u{0}uuhhuhghh{0}hhu{0}uhuu{0}huu!":………、うううぅぅ！」}`
 `{ruby:".........Come on.:「………何よ。}`
-`{ruby:Our dreams were made real with magic, right?:私たちは魔法で夢を叶えたのよ？}`
+`{ruby:Our dreams were made:私たちは魔法で夢を}{ruby:real with magic, right?:叶えたのよ？}`
 `{ruby:We solved the riddle of the epitaph.:碑文の謎を解いたわ。}`
-`{ruby:And we found the gold and got the Head's Ring.:そして黄金を見つけ、当主の指輪を手にしたわ。}`
-`{ruby:All of our dreams came fully true, right?:全ての夢を叶えきったわ？}`
+`{ruby:And we found the gold:そして黄金を見つけ、当主}{ruby:and got the Head's Ring.:の指輪を手にしたわ。}`
+`{ruby:All of our dreams:全ての夢を叶え}{ruby:came fully true, right?:きったわ？}`
 `{ruby:What more could you want...?":それが何で不満なの…？」}`
-`{ruby:"Those weren't the only dreams I had...!!:「それだけが全ての夢なんかじゃないわ…！！}`
-`{ruby:Living a wonderful life with that man, and entrusting George with an excellent life...!:あの人と素敵な人生を歩んで、譲治に素晴らしい人生を託す…！}`
-`{ruby:I still have so many dreams that I need to fulfil, ...as a wife, as a mother...!!:妻として、母として、…私にはまだ叶えなければならない夢がたくさんあるのよ…！！}`
+`{ruby:"Those weren't the:「それだけが全ての夢なん}{ruby:only dreams I had...!!:かじゃないわ…！！}`
+`{ruby:Living a wonderful life with that man,:あの人と素敵な人生を歩んで、譲治}{ruby:and entrusting George with an excellent life...!:に素晴らしい人生を託す…！}`
+`{ruby:I still have so many dreams that I:妻として、母として、…私にはまだ叶えなけれ}{ruby:need to fulfil, ...as a wife, as a mother...!!:ばならない夢がたくさんあるのよ…！！}`
 `{ruby:And yet, ......and yet......!":それなのに、……それなのに……！」}`
-`{ruby:"...Those are just extra dreams {i:you} gained after becoming an adult.:「…それは、あなたが大人になってから、勝手に増やした夢だわ。}`
+`{ruby:"...Those are just extra dreams:「…それは、あなたが大人になって}{ruby:{i:you} gained after becoming an adult.:から、勝手に増やした夢だわ。}`
 `{ruby:They aren't {i:our} dreams.":私たちの夢じゃない」}`
 `{ruby:"And that is why you're a child...!!:「だからあなたは子どもなのよ…！！}`
-`{ruby:It only matters that {i:you} get what {i:you} want?!:自分さえよければいいの？！}`
-`{ruby:......That's right, all of this is my fault...!!:……そうよ、全て私が悪いのよ…！！}`
-`{ruby:Back then, why did I resist doing what Rosa told me to?:あの時、楼座の言うことにどうして私は反抗したの？}`
-`{ruby:Why couldn't I announce to all of the siblings that I had found the gold...?":どうして兄弟みんなに、黄金を見つけたと発表できなかったの…？」}`
-`{ruby:"......It's all because of the ugliness in my heart!!:「……全て私が醜いから！！}`
-`{ruby:My evil heart, which sprouted out of a desire to have all of the gold all to myself, ......caused you to hatch!!":黄金を独り占めしたくて芽生えさせた邪まな心が、……あなたを孵化させてしまった！！」}`
-`{ruby:".........I don't see why I deserve that much hate.:「………ひどい嫌われようだわ。}`
-`{ruby:Even though the both of us together make up Ushiromiya Eva.":私たちは二人で右代宮絵羽なのに」}`
+`{ruby:It only matters that:自分さえよければ}{ruby:{i:you} get what {i:you} want?!:いいの？！}`
+`{ruby:......That's right, all of:……そうよ、全て私が}{ruby:this is my fault...!!:悪いのよ…！！}`
+`{ruby:Back then, why did I resist:あの時、楼座の言うことにどう}{ruby:doing what Rosa told me to?:して私は反抗したの？}`
+`{ruby:Why couldn't I announce to all of:どうして兄弟みんなに、黄金を見つけ}{ruby:the siblings that I had found the gold...?":たと発表できなかったの…？」}`
+`{ruby:"......It's all because of:「……全て私が醜}{ruby:the ugliness in my heart!!:いから！！}`
+`{ruby:My evil heart, which sprouted out of a desire to have:黄金を独り占めしたくて芽生えさせた邪まな心が}{ruby:all of the gold all to myself, ......caused you to hatch!!":、……あなたを孵化させてしまった！！」}`
+`{ruby:".........I don't see why:「………ひどい嫌わ}{ruby:I deserve that much hate.:れようだわ。}`
+`{ruby:Even though the both of:私たちは二人で右代}{ruby:us together make up Ushiromiya Eva.":宮絵羽なのに」}`
 `{ruby:"No, that isn't true anymore.:「いいえ、もう違うわ。}`
 `{ruby:And it was you who said it.:そしてそれはあなたが言ったのよ。}`
 `{ruby:I am Ushiromiya Eva.:私は右代宮絵羽。}`
-`{ruby:And you are the Golden Witch, {f:5:Beatrice}...!!":そしてあなたは黄金の魔女、ベアトリーチェよ…！！」}`
+`{ruby:And you are:そしてあなたは黄金の魔女、ベ}{ruby:the Golden Witch, {f:5:Beatrice}...!!":アトリーチェよ…！！」}`
 `{ruby:"So just disappear already!:「だからもう消えて！}`
-`{ruby:Witches are a delusion, a fantasy that can only exist in fairy tales...!!:魔女なんておとぎ話の中にしか存在できない妄想よ、幻想よ…！！}`
+`{ruby:Witches are a delusion, a fantasy:魔女なんておとぎ話の中にしか存在で}{ruby:that can only exist in fairy tales...!!:きない妄想よ、幻想よ…！！}`
 `{ruby:Just DISAPPEAR!:あなたなんか消えてしまえッ！}`
-`{ruby:Don't ever show yourself to me again!!":二度と私の前に現れないでッ！！」}`
+`{ruby:Don't ever show:二度と私の前に現れな}{ruby:yourself to me again!!":いでッ！！」}`
 `{ruby:"...Oh, ......so that's how it is.:「…あぁ、……そう。}`
 `{ruby:...Alright.:…わかったわ。}`
 `{ruby:I'll disappear from your sight.":あなたの前から消えてあげるわ」}`
-`{ruby:"...And I am no longer Ushiromiya Eva.:「…そして私はもう右代宮絵羽じゃない。}`
-`{ruby:From now on, I'm the Golden Witch {f:5:Beatrice}.:これからは黄金の魔女ベアトリーチェよ。}`
-`{ruby:...So now I will play however I want.":…もう好き勝手に遊んでやるんだから」}`
+`{ruby:"...And I am:「…そして私はもう右代}{ruby:no longer Ushiromiya Eva.:宮絵羽じゃない。}`
+`{ruby:From now on, I'm:これからは黄金の魔女ベ}{ruby:the Golden Witch {f:5:Beatrice}.:アトリーチェよ。}`
+`{ruby:...So now I will:…もう好き勝手に遊ん}{ruby:play however I want.":でやるんだから」}`
 `{ruby:"I'm done caring about you.:「あんたなんて知らないわ。}`
-`{ruby:Why don't you just give up and die forever?!":ヘソでも噛んで、勝手に死んじゃえばぁ？！」}`
-`{ruby:After having a fittingly childlike tantrum, the witch who had once been another Eva vanished.:如何にも子どもらしいヒステリーを起こして、かつてもうひとりの自分だった魔女は姿を消した。}`
-`{ruby:......Only Eva was left behind in the darkness.:……闇の中には絵羽だけが取り残される。}`
+`{ruby:Why don't you just:ヘソでも噛んで、勝手に死}{ruby:give up and die forever?!":んじゃえばぁ？！」}`
+`{ruby:After having a fittingly childlike tantrum, the:如何にも子どもらしいヒステリーを起こして、かつ}{ruby:witch who had once been another Eva vanished.:てもうひとりの自分だった魔女は姿を消した。}`
+`{ruby:......Only Eva was left:……闇の中には絵羽だけ}{ruby:behind in the darkness.:が取り残される。}`
 `{ruby:{n}And she questioned herself...:{n}そして自らに問う…。}`
 `{ruby:"Was it me......?:「私なの……？}`
 `{ruby:{i:I}......killed them......?:私が、……彼らを殺したの……？}`
 `{ruby:Did I kill...that person......?:あの人を、殺してしまったの……？}`
-`{ruby:......Did {i:I}......kill...him............?":……私が、……殺して…しまったの…………？」}`
-`{ruby:Now, that question was one she herself would never answer......:その問い掛けに、もはや自らが答えることはなかった……。}`
+`{ruby:......Did:……私が、……殺して…しま}{ruby:{i:I}......kill...him............?":ったの…………？」}`
+`{ruby:Now, that question was one:その問い掛けに、もはや自らが答}{ruby:she herself would never answer......:えることはなかった……。}`
 `{ruby:"...g... *cough*cough*cough*!!:「…っ、ごほごほごほッ！！}`
 `{ruby:*cough*cough*cough*!!":ごほっごほごほッ！！」}`
-`{ruby:It seemed that, half‐asleep, she had gotten some saliva caught in her windpipe just as she was dozing off.:半分眠りこけて、舟を漕いだ拍子に唾が気管に入ってしまったらしい。}`
+`{ruby:It seemed that, half‐asleep, she had gotten some saliva:半分眠りこけて、舟を漕いだ拍子に唾}{ruby:caught in her windpipe just as she was dozing off.:が気管に入ってしまったらしい。}`
 `{ruby:...Eva suddenly started coughing.:…唐突に絵羽は咽こんだ。}`
 `{ruby:"Are you alright, Eva?:「大丈夫か、絵羽。}`
 `{ruby:...Natsuhi, some water, please.":…夏妃、水を頼む」}`
@@ -122,312 +122,312 @@
 `{ruby:"I, ......I'm alright, okay...:「だ、……大丈夫だってば…。}`
 `{ruby:*cough*cough*cough*!:げほげほげほ！}`
 `{ruby:*cooough*cough*!!:げーっほげほッ！！}`
-`{ruby:I just...choked a bit, that's all......!:ちょっと、…咽ちゃっただけなんだから……！}`
+`{ruby:I just...choked a:ちょっと、…咽ちゃっただ}{ruby:bit, that's all......!:けなんだから……！}`
 `{ruby:*cough*cough*cough*!":げほげほげほんッ！」}`
-`{ruby:Eva pushed away Natsuhi's hand as she tried to rub her back, and unsteadily rose to her feet.:絵羽は、背中を擦ろうとする夏妃の手を払い除け、よろよろと立ち上がる。}`
+`{ruby:Eva pushed away Natsuhi's hand as she tried to:絵羽は、背中を擦ろうとする夏妃の手を}{ruby:rub her back, and unsteadily rose to her feet.:払い除け、よろよろと立ち上がる。}`
 `{ruby:".........I'm going to wash my face.:「………顔を洗ってくるわ。}`
 `{ruby:...Sorry, I fell asleep.:…ごめんなさいね、寝ちゃってたわ。}`
-`{ruby:......When I get back, I'll make some more coffee.:……戻ってきたら、またコーヒーを入れるわね。}`
-`{ruby:.........Extra strong, so that we won't get drowsy until tomorrow morning.":………特に濃い、明日の朝まで眠気が来なくなるようなやつを」}`
+`{ruby:......When I get back,:……戻ってきたら、またコ}{ruby:I'll make some more coffee.:ーヒーを入れるわね。}`
+`{ruby:.........Extra strong, so that we:………特に濃い、明日の朝まで眠気}{ruby:won't get drowsy until tomorrow morning.":が来なくなるようなやつを」}`
 `{ruby:"Mm, please do.:「うむ、頼む。}`
-`{ruby:......Your coffee fits my tastes more than the one Gohda makes.":……郷田の淹れるコーヒーより、お前が淹れるコーヒーの方が私の好みに合うからな」}`
-`{ruby:"I'm pleased to hear that, even if you're just flattering me...:「お世辞でも嬉しいわ…。}`
+`{ruby:......Your coffee fits my tastes:……郷田の淹れるコーヒーより、お前が淹れる}{ruby:more than the one Gohda makes.":コーヒーの方が私の好みに合うからな」}`
+`{ruby:"I'm pleased to hear that,:「お世辞でも嬉}{ruby:even if you're just flattering me...:しいわ…。}`
 `{ruby:*cough*cough*!:ごほごほッ！}`
 `{ruby:.........I'll be back soon.":………すぐ戻るわ」}`
-`{ruby:Eva exited the lobby, heading for the lavatory.:絵羽はロビーを出て、化粧室へ向かった。}`
-`{ruby:{n}Krauss and Natsuhi watched over her frail back...:{n}その弱々しい背中を、蔵臼と夏妃が見守る…。}`
-`{ruby:"......So you do sometimes care for Eva‐san, even though you have always been so much at odds with her.":「……あなたも、あれだけ犬猿の仲だった絵羽さんに気を遣うこともあるのですね」}`
+`{ruby:Eva exited the lobby,:絵羽はロビーを出て、化}{ruby:heading for the lavatory.:粧室へ向かった。}`
+`{ruby:{n}Krauss and Natsuhi watched:{n}その弱々しい背中を、}{ruby:over her frail back...:蔵臼と夏妃が見守る…。}`
+`{ruby:"......So you do sometimes care for Eva‐san, even though:「……あなたも、あれだけ犬猿の仲だった絵}{ruby:you have always been so much at odds with her.":羽さんに気を遣うこともあるのですね」}`
 `{ruby:"........................:「……………………。}`
-`{ruby:...Properly speaking, isn't this what an older brother should do...?":…本来、兄とはこういうものではないのかね…？」}`
+`{ruby:...Properly speaking, isn't this what:…本来、兄とはこういうもの}{ruby:an older brother should do...?":ではないのかね…？」}`
 `{ruby:"......Yes.:「……えぇ。}`
 `{ruby:I believe it is.":それで正しいと思います」}`
 `{ruby:"Not just Eva.:「絵羽に限らん。}`
 `{ruby:......Rudolf, and Rosa too.:……留弗夫にも、楼座にも。}`
-`{ruby:...The only ways in which I have acted like an older brother to them are to speak arrogantly and bully them.":…私がした兄らしいことと言えば、それを横柄に語り、彼らを苛めただけだ」}`
-`{ruby:".........In my own way, I was frantic in my desire to be like my father.:「………父のようになりたくて、私なりに必死だった。}`
-`{ruby:...But I could never match up, and I always vented my feelings on them...:…だが、いつもそれは及ばず、そのはけ口を彼らに向けてしまった…。}`
+`{ruby:...The only ways in which I have acted like an:…私がした兄らしいことと言えば、それを}{ruby:older brother to them are to speak arrogantly and bully them.":横柄に語り、彼らを苛めただけだ」}`
+`{ruby:".........In my own way, I was frantic:「………父のようになりたくて}{ruby:in my desire to be like my father.:、私なりに必死だった。}`
+`{ruby:...But I could never match up, and:…だが、いつもそれは及ばず、そのは}{ruby:I always vented my feelings on them...:け口を彼らに向けてしまった…。}`
 `{ruby:However, that is no excuse.":しかし、それは言い訳にならん」}`
-`{ruby:"...I probably scarred Eva so deep that it still has not healed.:「…絵羽にも、未だ傷が癒えぬほどに、深い心の傷を負わせてしまっただろう。}`
-`{ruby:......I regret it, but even if I apologized after all this time, that would not heal those wounds...":……悔いているが、今更それを詫びたところで、その傷が癒えるわけもない…」}`
-`{ruby:".........If you hold on to that emotion, and continue to hold onto it,:「………あなたがその気持ちを、今だけでなく、持ち続けることで。}`
-`{ruby:...I'm sure that feeling will come through to your siblings.":…その気持ちはきっと、他の兄弟たちにも伝わりますよ」}`
-`{ruby:"......At this point, my only sibling left is Eva.":「……今となっては、他の兄弟も絵羽を残すのみだがね」}`
-`{ruby:"...............If only...the family you and your siblings were born into had not been the Ushiromiya family......:「……………もし、あなたとあなたのご兄弟が生まれた家が、右代宮家でさえなかったなら……。}`
-`{ruby:......you might have had a more normal, a more fun sibling relationship...":……もっともっと普通な、楽しい兄弟の関係であったでしょうに…」}`
+`{ruby:"...I probably scarred Eva so deep:「…絵羽にも、未だ傷が癒えぬほどに、深}{ruby:that it still has not healed.:い心の傷を負わせてしまっただろう。}`
+`{ruby:......I regret it, but even if I apologized after:……悔いているが、今更それを詫びたとこ}{ruby:all this time, that would not heal those wounds...":ろで、その傷が癒えるわけもない…」}`
+`{ruby:".........If you hold on to that:「………あなたがその気持ちを、今だ}{ruby:emotion, and continue to hold onto it,:けでなく、持ち続けることで。}`
+`{ruby:...I'm sure that feeling will:…その気持ちはきっと、他の兄}{ruby:come through to your siblings.":弟たちにも伝わりますよ」}`
+`{ruby:"......At this point, my:「……今となっては、他の兄弟}{ruby:only sibling left is Eva.":も絵羽を残すのみだがね」}`
+`{ruby:"...............If only...the family you and your siblings were:「……………もし、あなたとあなたのご兄弟が生ま}{ruby:born into had not been the Ushiromiya family......:れた家が、右代宮家でさえなかったなら……。}`
+`{ruby:......you might have had a more:……もっともっと普通な、楽しい兄弟}{ruby:normal, a more fun sibling relationship...":の関係であったでしょうに…」}`
 `{ruby:"...You mustn't say that...:「…それを言ってはならん…。}`
-`{ruby:.........Eva will probably continue to hate me for her whole life.:………絵羽は生涯、私を憎み続けるだろう。}`
+`{ruby:.........Eva will probably continue to:………絵羽は生涯、私を}{ruby:hate me for her whole life.:憎み続けるだろう。}`
 `{ruby:And she has the right to.:そしてその資格がある。}`
-`{ruby:...I intend to resign myself to that and accept it.":…私は、それを甘んじて受け止めるつもりだ」}`
+`{ruby:...I intend to resign myself:…私は、それを甘んじて受}{ruby:to that and accept it.":け止めるつもりだ」}`
 `{ruby:".....................Dear......":「…………………あなた……」}`
 `{ruby:"......Eva,:「……絵羽、}`
 `{ruby:.........I am sorry.:………すまん。}`
-`{ruby:......Of course, you don't have to forgive me...":……もちろん、許さなくていい…」}`
-`{ruby:Of course I won't. Bit late, don't you think?:もちろん許さないわ、何を今更。}`
-`{ruby:"If you know you're in the wrong, why don't you just give up and die right now and forever?!:「悪いと思ったなら、今すぐヘソでも噛んで死んじゃえばぁ？！}`
+`{ruby:......Of course, you don't:……もちろん、許さ}{ruby:have to forgive me...":なくていい…」}`
+`{ruby:Of course I won't.:もちろん許さないわ}{ruby:Bit late, don't you think?:、何を今更。}`
+`{ruby:"If you know you're in the wrong, why don't:「悪いと思ったなら、今すぐヘソで}{ruby:you just give up and die right now and forever?!:も噛んで死んじゃえばぁ？！}`
 `{ruby:Do it, Chiester Sisters!!":やっちゃえ、シエスタ姉妹！！」}`
 `{ruby:"45, firing permission received.:「４５、射撃許可受領。}`
-`{ruby:Reconfirming firing curve, correcting for weather.:射撃曲線再確認、気候誤差修正。}`
+`{ruby:Reconfirming firing curve,:射撃曲線再確認、気}{ruby:correcting for weather.:候誤差修正。}`
 `{ruby:Data link to 410.":４１０へデータリンク」}`
-`{ruby:"410, data received, firing permission confirmed.:「４１０データ受領、射撃許可確認。}`
+`{ruby:"410, data received,:「４１０データ受領、}{ruby:firing permission confirmed.:射撃許可確認。}`
 `{ruby:Nihihihihi, firing!":にひひひひ、射撃！」}`
-`{ruby:Together, the sisters released the readied magic bowstring.:姉妹が二人で引く魔法の弦を放つ。}`
-`{ruby:A beautiful tail trailed the golden arrow, and it drew a beautiful curve as it flew.:黄金の矢が美しい尾を引き、美しい曲線を描きながら飛んでいく。}`
+`{ruby:Together, the sisters released:姉妹が二人で引く魔}{ruby:the readied magic bowstring.:法の弦を放つ。}`
+`{ruby:A beautiful tail trailed the golden arrow, and:黄金の矢が美しい尾を引き、美しい}{ruby:it drew a beautiful curve as it flew.:曲線を描きながら飛んでいく。}`
 `{ruby:It was just like a golden snake.:それはさながら、黄金の蛇。}`
-`{ruby:It skillfully avoided a grove of trees and flew towards the front door of the guesthouse.:それは器用に木立を避けて飛び、ゲストハウスの玄関を目指す。}`
-`{ruby:Then it flew into the keyhole of the door and snuck into the guesthouse without any problem at all.:そして扉の鍵穴に飛び込むと、何の問題もないかのようにゲストハウス内に侵入した。}`
-`{ruby:The gold snake raced down the hall smoothly, yet as fast as an arrow.:廊下をするすると、だけれども矢の如き素早さで黄金の蛇が疾駆する。}`
-`{ruby:Right in front of it was the door to the lobby.:その正面にはロビーの扉。}`
-`{ruby:It would only need to fly into that keyhole, and Krauss and Natsuhi would be right there...:その鍵穴に飛び込んだなら、そこにはもう蔵臼と夏妃が…。}`
-`{ruby:For an instant, Krauss thought he saw the door's keyhole sparkle gold.:蔵臼は、扉の鍵穴が一瞬、金色に輝いたような気がした。}`
-`{ruby:However, at the same time he strained his eyes to see what it was, that sparkle bent like a whip and attacked,:しかし、それが何かと目を細めるのと同時に、その輝きが鞭のようにしなって襲い掛かり、}`
-`{ruby:wrapping itself around Krauss's neck.:蔵臼の首にぐるぐるっと巻きつく。}`
-`{ruby:"...............ack.........ahkh—khk—":「……………がッ、………ッ、ッ、」}`
-`{ruby:Just looking at it, the gold snake looked very supple.:見ただけなら、黄金の蛇はとてもしなやかそう。}`
-`{ruby:However, it was as though a wire had tightened around Krauss's neck.:しかし、蔵臼の首はまるで、針金で締め上げられるかのようだった。}`
-`{ruby:And while that snake choked Krauss, it extended even more, and also tightened around Natsuhi's neck.:そしてその蛇は蔵臼を締め上げたまま、さらに伸び、夏妃の首をも締め上げる。}`
-`{ruby:Without even the chance to scream, their eyes bulged as they went into convulsions and then collapsed.:二人は悲鳴すらあげられず、白目を剥いて痙攣し、がくりと脱力する。}`
+`{ruby:It skillfully avoided a grove of trees and:それは器用に木立を避けて飛び、ゲ}{ruby:flew towards the front door of the guesthouse.:ストハウスの玄関を目指す。}`
+`{ruby:Then it flew into the keyhole of the door:そして扉の鍵穴に飛び込むと、何の問題もない}{ruby:and snuck into the guesthouse without any problem at all.:かのようにゲストハウス内に侵入した。}`
+`{ruby:The gold snake raced down the hall:廊下をするすると、だけれども矢の如}{ruby:smoothly, yet as fast as an arrow.:き素早さで黄金の蛇が疾駆する。}`
+`{ruby:Right in front of it:その正面にはロ}{ruby:was the door to the lobby.:ビーの扉。}`
+`{ruby:It would only need to fly into that:その鍵穴に飛び込んだなら、そこ}{ruby:keyhole, and Krauss and Natsuhi would be right there...:にはもう蔵臼と夏妃が…。}`
+`{ruby:For an instant, Krauss thought he:蔵臼は、扉の鍵穴が一瞬、金色}{ruby:saw the door's keyhole sparkle gold.:に輝いたような気がした。}`
+`{ruby:However, at the same time he strained his eyes to see:しかし、それが何かと目を細めるのと同時に、そ}{ruby:what it was, that sparkle bent like a whip and attacked,:の輝きが鞭のようにしなって襲い掛かり、}`
+`{ruby:wrapping itself:蔵臼の首にぐるぐる}{ruby:around Krauss's neck.:っと巻きつく。}`
+`{ruby::「……………がッ、…}{ruby:"...............ack.........ahkh—khk—":……ッ、ッ、」}`
+`{ruby:Just looking at it, the:見ただけなら、黄金の蛇は}{ruby:gold snake looked very supple.:とてもしなやかそう。}`
+`{ruby:However, it was as though a:しかし、蔵臼の首はまるで、針金で締}{ruby:wire had tightened around Krauss's neck.:め上げられるかのようだった。}`
+`{ruby:And while that snake choked Krauss, it extended:そしてその蛇は蔵臼を締め上げたまま、さ}{ruby:even more, and also tightened around Natsuhi's neck.:らに伸び、夏妃の首をも締め上げる。}`
+`{ruby:Without even the chance to scream, their eyes:二人は悲鳴すらあげられず、白目を剥}{ruby:bulged as they went into convulsions and then collapsed.:いて痙攣し、がくりと脱力する。}`
 `{ruby:"45, hit and kill confirmed.:「４５、命中及び死亡確認。}`
-`{ruby:Forming towing curve, correcting adjustment points.:牽引曲線形成、補正点修正。}`
+`{ruby:Forming towing curve,:牽引曲線形成、補}{ruby:correcting adjustment points.:正点修正。}`
 `{ruby:Data link to 410.":４１０へデータリンク」}`
 `{ruby:"410, data received.:「４１０データ受領。}`
 `{ruby:Initiating corpse towing.:死体牽引開始。}`
 `{ruby:Two on the line at once nyeh, nihi!":二匹も釣れたにぇ、にひ！」}`
-`{ruby:The gold snake began to drag Krauss and Natsuhi's corpses back.:黄金の蛇は、蔵臼と夏妃の二人の死体をずるずると引き摺り始める。}`
-`{ruby:......It slipped through the door to the corridor, dragging the corpses, gradually increasing in speed,:……廊下への扉をすり抜けて死体を引き摺り、次第に速度を上げて、}`
-`{ruby:and in the blink of an eye, it had pulled them outside the guesthouse.:あっという間にゲストハウスの外へ引っ張り出していく。}`
-`{ruby:So the lobby was still, as though nothing had happened at all.:だからロビーは、まるで何事もなかったかのように静寂だった。}`
-`{ruby:...As though Krauss and Natsuhi had never been there to begin with.:…初めから蔵臼も夏妃もいなかったかのよう。}`
-`{ruby:Only the sound of the wind and the rain remained, as though feigning ignorance and pretending that they had been the only ones there......:雨と風の音だけが、ここには自分たちだけしかいなかったと、素知らぬ顔をして居座っていた……。}`
+`{ruby:The gold snake began to:黄金の蛇は、蔵臼と夏妃の二人の死体}{ruby:drag Krauss and Natsuhi's corpses back.:をずるずると引き摺り始める。}`
+`{ruby:......It slipped through the door to the:……廊下への扉をすり抜けて死体を引}{ruby:corridor, dragging the corpses, gradually increasing in speed,:き摺り、次第に速度を上げて、}`
+`{ruby:and in the blink of an eye,:あっという間にゲストハウスの}{ruby:it had pulled them outside the guesthouse.:外へ引っ張り出していく。}`
+`{ruby:So the lobby was still, as:だからロビーは、まるで何事もなか}{ruby:though nothing had happened at all.:ったかのように静寂だった。}`
+`{ruby:...As though Krauss and Natsuhi had:…初めから蔵臼も夏妃もい}{ruby:never been there to begin with.:なかったかのよう。}`
+`{ruby:Only the sound of the wind and the rain remained, as though:雨と風の音だけが、ここには自分たちだけしかいなか}{ruby:feigning ignorance and pretending that they had been the only ones there......:ったと、素知らぬ顔をして居座っていた……。}`
 `{ruby:"......Sorry, I'm fine now.:「……ごめんなさい、もう大丈夫よ。}`
 `{ruby:...Now, I'll go make some coffee.":…今、コーヒーを淹れるわね」}`
 `{ruby:Eva returned from the lavatory.:化粧室より絵羽が戻ってくる。}`
 `{ruby:{n}But no one was in the lobby.:{n}しかし、ロビーには誰もいない。}`
-`{ruby:Even though they had been in that sofa until the very moment she had choked and gone to the lavatory,:咽込んで化粧室に行ったその瞬間まで、彼らはそこのソファーにいたはずなのに、}`
-`{ruby:they had now gone, as if they had been an illusion from the beginning.:まるでそれが幻であったかのようにいなくなっていた。}`
+`{ruby:Even though they had been in that sofa until the:咽込んで化粧室に行ったその瞬間まで、彼ら}{ruby:very moment she had choked and gone to the lavatory,:はそこのソファーにいたはずなのに、}`
+`{ruby:they had now gone, as if they:まるでそれが幻であったかのよ}{ruby:had been an illusion from the beginning.:うにいなくなっていた。}`
 `{ruby:"...How careless...:「…無用心ね…。}`
-`{ruby:......Where did those two go off together?":……二人揃ってどこに行っちゃったの？」}`
-`{ruby:Like she was pretending to be in a detective novel, Eva put her hand on the sofa.:探偵小説の真似事っぽく、絵羽はソファーに手を当てる。}`
-`{ruby:......She felt a warmth indicating that they had been sitting there until a short while ago.:……ついさっきまで彼らが座っていたことを示す温もりが感じられた。}`
-`{ruby:Maybe they had gone to do the rounds or something.:見回りにでも行っているのかもしれない。}`
-`{ruby:For the time being, Eva sat down and waited for their return...:絵羽はとりあえず腰を下ろし、彼らの戻りを待つのだった…。}`
-`{ruby:Beato and George could be seen in the parlor of the mansion.:屋敷の客間には、ベアトと譲治の姿があった。}`
-`{ruby:{n}George was kneeling near Shannon's body as though praying...:{n}譲治は紗音の遺体の脇に、祈るように跪いている…。}`
-`{ruby:{n}His face was sincerity itself, and there was even sweat on his forehead.:{n}その表情は真剣そのもので、額には汗さえ浮いていた。}`
+`{ruby:......Where did those:……二人揃ってどこに行}{ruby:two go off together?":っちゃったの？」}`
+`{ruby:Like she was pretending to be in a:探偵小説の真似事っぽく、絵羽}{ruby:detective novel, Eva put her hand on the sofa.:はソファーに手を当てる。}`
+`{ruby:......She felt a warmth indicating that they had:……ついさっきまで彼らが座っていた}{ruby:been sitting there until a short while ago.:ことを示す温もりが感じられた。}`
+`{ruby:Maybe they had gone to:見回りにでも行っている}{ruby:do the rounds or something.:のかもしれない。}`
+`{ruby:For the time being, Eva sat:絵羽はとりあえず腰を下ろし、彼}{ruby:down and waited for their return...:らの戻りを待つのだった…。}`
+`{ruby:Beato and George could be seen:屋敷の客間には、ベアトと}{ruby:in the parlor of the mansion.:譲治の姿があった。}`
+`{ruby:{n}George was kneeling near:{n}譲治は紗音の遺体の脇に、}{ruby:Shannon's body as though praying...:祈るように跪いている…。}`
+`{ruby:{n}His face was sincerity itself, and:{n}その表情は真剣そのもので}{ruby:there was even sweat on his forehead.:、額には汗さえ浮いていた。}`
 `{ruby:However, Beato was the same.:しかし、それはベアトも同じだった。}`
-`{ruby:Now that she had handed her name over, most of her previous power had been lost.:自らの名を譲り渡した彼女には、かつての魔力のほとんどが失われている。}`
-`{ruby:...Of course, she still had more than enough power to be called a witch, but compared to the past, it was a very faint thing.:…もちろん、それでも充分に魔女と呼べる魔力はあるが、かつてを思えば、あまりにささやかなものだ。}`
+`{ruby:Now that she had handed her name over,:自らの名を譲り渡した彼女には、かつて}{ruby:most of her previous power had been lost.:の魔力のほとんどが失われている。}`
+`{ruby:...Of course, she still had more than enough power to be called:…もちろん、それでも充分に魔女と呼べる魔力はあるが}{ruby:a witch, but compared to the past, it was a very faint thing.:、かつてを思えば、あまりにささやかなものだ。}`
 `{ruby:"......Good.:「……いいぞ。}`
-`{ruby:Don't talk to her, don't touch her with your hand.:声を掛けるな、手で触れるな。}`
-`{ruby:...Call to her with the voice of your heart; seek her with the hand of your heart.:…心の声で呼べよ、心の手で求めよ。}`
-`{ruby:...Only your strong feelings can make my magic reach Shannon's lost soul.":…そなたの強き想いだけが、紗音の失われた魂に妾の魔法を届かせる」}`
-`{ruby:".................................hh.":「……………………………っ」}`
-`{ruby:George maintained a single‐minded focus.:譲治はひたすらに念じ続ける。}`
-`{ruby:{n}He kept frantically yelling inside his heart, trying to call back the soul of the person he loved.:{n}愛しき人の魂を呼び戻そうと、心の中で必死に叫び続ける。}`
-`{ruby:...He strongly envisioned his soul leaving his body, and searching for her as she wandered through Hell.:…自らの肉体より魂だけが抜け出して、冥府に迷い込んだ彼女を探すところを強くイメージした。}`
-`{ruby:......Beato turned that strong force into magical power, supplementing her own magic.:……その強い力を、ベアトは魔力に変換し、自らの魔法に加える。}`
-`{ruby:It was magic that, in the past, she could have performed easily, without anyone's help.:かつては誰の助けも借りずに、片手間で出来た魔法だ。}`
-`{ruby:...But now, if she didn't rely on someone's help, she wouldn't be able to finish the chant, much less succeed.:…しかし今は、助けを借りなければ、成功はおろか、詠唱を終えるには至らない。}`
-`{ruby:".........I have forgotten after several hundred years...:「………数百年近くも忘れておったわ…。}`
+`{ruby:Don't talk to her, don't:声を掛けるな、手}{ruby:touch her with your hand.:で触れるな。}`
+`{ruby:...Call to her with the voice of your:…心の声で呼べよ、心}{ruby:heart; seek her with the hand of your heart.:の手で求めよ。}`
+`{ruby:...Only your strong feelings can make:…そなたの強き想いだけが、紗音の失}{ruby:my magic reach Shannon's lost soul.":われた魂に妾の魔法を届かせる」}`
+`{ruby::「…………………}{ruby:".................................hh.":…………っ」}`
+`{ruby:George maintained:譲治はひたすらに}{ruby:a single‐minded focus.:念じ続ける。}`
+`{ruby:{n}He kept frantically yelling inside his heart, trying to:{n}愛しき人の魂を呼び戻そうと}{ruby:call back the soul of the person he loved.:、心の中で必死に叫び続ける。}`
+`{ruby:...He strongly envisioned his soul leaving his body,:…自らの肉体より魂だけが抜け出して、冥府に迷い}{ruby:and searching for her as she wandered through Hell.:込んだ彼女を探すところを強くイメージした。}`
+`{ruby:......Beato turned that strong force into:……その強い力を、ベアトは魔力に}{ruby:magical power, supplementing her own magic.:変換し、自らの魔法に加える。}`
+`{ruby:It was magic that, in the past,:かつては誰の助けも借りずに、}{ruby:she could have performed easily, without anyone's help.:片手間で出来た魔法だ。}`
+`{ruby:...But now, if she didn't rely on someone's help, she:…しかし今は、助けを借りなければ、成功は}{ruby:wouldn't be able to finish the chant, much less succeed.:おろか、詠唱を終えるには至らない。}`
+`{ruby:".........I have forgotten:「………数百年近くも忘}{ruby:after several hundred years...:れておったわ…。}`
 `{ruby:.........Was magic,:………魔法とは、}`
 `{ruby:......was resurrection...:……反魂とは、}`
-`{ruby:always this difficult of a magic......?":…こんなにも辛い魔法であったか……」}`
-`{ruby:An even more strained expression than George's had risen to Beato's face.:ベアトは、譲治以上に辛い表情を浮かべている。}`
-`{ruby:...She was still forgetting this, but the magic to revive a life is fundamentally the ultimate hidden art.:…彼女はまだ失念しているが、本来、命を蘇らせる魔法は究極の秘術だ。}`
-`{ruby:It was her previous magical power, giving her the ability to use that magic over and over with a snap of her fingers, that was abnormal.:それを指を鳴らすだけで何度でも扱えたかつての魔力の方が逸脱しているのだ。}`
-`{ruby:Therefore, the heavy burden to her body and mind was, by rights, absolutely to be expected...:だから、彼女が感じる肉体と精神への強い負担は、本来、極めて正当なもの…。}`
-`{ruby:"......However, .........the power this one has...:「……しかし、………こやつめの力、}`
-`{ruby:is quite considerable, even though he doesn't know magic.:…魔法を知らぬと言うのに、かなりのもの。}`
-`{ruby:......I see, so he truly is Kinzo's grandchild...":……なるほど、さすがは金蔵の孫といったところか…」}`
-`{ruby:The strong power pouring from George was even large enough to pass as magical power.:譲治より注がれる強い力は、魔力としても通じるほどの大きなもの。}`
-`{ruby:...At first, Beato thought it was due to the blood of the mage Kinzo.:…ベアトは初め、それは魔術師であった金蔵の血によるものだろうと思った。}`
-`{ruby:......However, that was probably wrong.:……しかし、多分、それは違う。}`
-`{ruby:{n}...She had a feeling that Battler had taught her that.:{n}…戦人に、それを教えられたような気がする。}`
-`{ruby:George's power to feel sorrow for the death of his loved one......arose from the way he had tried his hardest throughout his life,:譲治の、想い人の死を悲しむ力は、……それまでの彼の一生懸命だった人生と、}`
-`{ruby:from the warm time spent together with Shannon, and from the size of their shared dream, promising each other their futures.:紗音との温かな時間、そして将来を誓い合った夢の大きさから生まれるのだ。}`
-`{ruby:Do humans really live this seriously during their one single life?:人は、たったひとつの命に、ここまでも真剣に生きるものなのか。}`
+`{ruby:always this difficult:…こんなにも辛い魔法}{ruby:of a magic......?":であったか……」}`
+`{ruby:An even more strained expression than:ベアトは、譲治以上に辛い}{ruby:George's had risen to Beato's face.:表情を浮かべている。}`
+`{ruby:...She was still forgetting this, but the magic to:…彼女はまだ失念しているが、本来、命}{ruby:revive a life is fundamentally the ultimate hidden art.:を蘇らせる魔法は究極の秘術だ。}`
+`{ruby:It was her previous magical power, giving her the ability to use that:それを指を鳴らすだけで何度でも扱えたか}{ruby:magic over and over with a snap of her fingers, that was abnormal.:つての魔力の方が逸脱しているのだ。}`
+`{ruby:Therefore, the heavy burden to her body and:だから、彼女が感じる肉体と精神への強い}{ruby:mind was, by rights, absolutely to be expected...:負担は、本来、極めて正当なもの…。}`
+`{ruby:"......However, .........the power:「……しかし、………}{ruby:this one has...:こやつめの力、}`
+`{ruby:is quite considerable, even:…魔法を知らぬと言うの}{ruby:though he doesn't know magic.:に、かなりのもの。}`
+`{ruby:......I see, so he:……なるほど、さすがは金蔵の}{ruby:truly is Kinzo's grandchild...":孫といったところか…」}`
+`{ruby:The strong power pouring from George was:譲治より注がれる強い力は、魔力とし}{ruby:even large enough to pass as magical power.:ても通じるほどの大きなもの。}`
+`{ruby:...At first, Beato thought it was due:…ベアトは初め、それは魔術師であった金}{ruby:to the blood of the mage Kinzo.:蔵の血によるものだろうと思った。}`
+`{ruby:......However, that:……しかし、多分、}{ruby:was probably wrong.:それは違う。}`
+`{ruby:{n}...She had a feeling that:{n}…戦人に、それを教え}{ruby:Battler had taught her that.:られたような気がする。}`
+`{ruby:George's power to feel sorrow for the death of his loved:譲治の、想い人の死を悲しむ力は、……そ}{ruby:one......arose from the way he had tried his hardest throughout his life,:れまでの彼の一生懸命だった人生と、}`
+`{ruby:from the warm time spent together with Shannon, and from:紗音との温かな時間、そして将来を誓い合}{ruby:the size of their shared dream, promising each other their futures.:った夢の大きさから生まれるのだ。}`
+`{ruby:Do humans really live this:人は、たったひとつの命に、ここま}{ruby:seriously during their one single life?:でも真剣に生きるものなのか。}`
 `{ruby:......Of course they do.:……当然だ。}`
-`{ruby:To her, a life didn't mean anything more than the difference between the top and bottom of an Othello piece.:自分にとって命というものは、オセロの表と裏程度の意味しかない。}`
-`{ruby:If the black represented death, then she thought all you had to do was flip it over again and make it white.:黒が死を示すなら、また裏返して白にすればいいだけのものとしか思わなかった。}`
-`{ruby:However, it was just like that broken vase.:しかし、あの割れた壷と同じ。}`
-`{ruby:......To humans in a world without magic, where they can never return it to its original form,:……二度と元の姿に戻せない、魔法のない世界の人間ならば、}`
-`{ruby:......it is very, very natural for them to bet all their body and soul on that single life.:……そのたったひとつの命に、全身全霊を賭けるのは、とてもとても当り前なことなのだ。}`
-`{ruby:".........So there are times when an Endless Witch, with full command over even life and death,:「………生死すら自在にする無限の魔女が、}`
-`{ruby:......is inferior to a finite {y:0:Human}{n:0:human}, for whom even death's mountain is impossible to cross......?":……死の山さえ越えられぬ有限のニンゲンに、劣ることもあるというのか……」}`
+`{ruby:To her, a life didn't mean anything more than the:自分にとって命というものは、オセロ}{ruby:difference between the top and bottom of an Othello piece.:の表と裏程度の意味しかない。}`
+`{ruby:If the black represented death, then she thought all you had:黒が死を示すなら、また裏返して白にすれば}{ruby:to do was flip it over again and make it white.:いいだけのものとしか思わなかった。}`
+`{ruby:However, it was just:しかし、あの割れ}{ruby:like that broken vase.:た壷と同じ。}`
+`{ruby:......To humans in a world without magic, where:……二度と元の姿に戻せない、魔}{ruby:they can never return it to its original form,:法のない世界の人間ならば、}`
+`{ruby:......it is very, very natural for them to bet:……そのたったひとつの命に、全身全霊を賭ける}{ruby:all their body and soul on that single life.:のは、とてもとても当り前なことなのだ。}`
+`{ruby:".........So there are times when an Endless Witch,:「………生死すら自在に}{ruby:with full command over even life and death,:する無限の魔女が、}`
+`{ruby:......is inferior to a finite {y:0:Human}{n:0:human}, for:……死の山さえ越えられぬ有限のニンゲン}{ruby:whom even death's mountain is impossible to cross......?":に、劣ることもあるというのか……」}`
 `{ruby:Now, the witch acknowledged it.:魔女は、今こそ認める。}`
-`{ruby:He was able to hold a magical power that could not reside in witches who didn't understand the value of a life.:命の価値を理解できない魔女には宿せない魔力を、彼は持ち得ている。}`
-`{ruby:......What is this thing called the Endless Magic {i:for} again?:……無限の魔法とは、何のためにあるんだったか。}`
-`{ruby:...Even though I call myself the Endless Witch,:…妾は、無限の魔女を名乗りながら、}`
-`{ruby:have I been forgetting what the Endless Magic means...for a whole thousand years.........?:無限の魔法の意味を、…千年間も忘れていたのではないのか………。}`
-`{ruby:She looked at George's expression again.:譲治の表情を改めて見る。}`
-`{ruby:.........His surging earnestness was like a lightning bolt.:……迸る真剣さは稲妻のよう。}`
-`{ruby:...Right now, even if George's body was burned, or smashed by a waterfall,:…今の譲治なら、たとえその身を焼かれようとも、滝に打たれようとも、}`
-`{ruby:he would probably continue to pray for his beloved without minding it, without noticing it.:気にもせず、気付きもせず、愛する者への祈りを続けるだろう。}`
-`{ruby:For the first time, ...she showed respect for that power.:魔女は初めて、…その力に敬意を表した。}`
-`{ruby:So in that instant, all magical resistance was lost, and the enormous power of George's feelings turned into magical power in its perfect form......:だからその瞬間、全ての魔法抵抗が失われ、譲治の膨大な想いの力が完全な形で魔力に変換される……。}`
-`{ruby:The vase was very, very beautiful, rich with history and value.:それは、とてもとても美しくて、価値と歴史のある素晴らしい壷でした。}`
-`{ruby:Even as young as I was, it still forced me to take a deep breath when I witnessed its beauty.:幼い私が見ても、その美しさにため息が堪えられないほどに。}`
-`{ruby:......But that just made me want to touch it.:……でも、だから触れてみたかったのです。}`
-`{ruby:But the vase easily fell and smashed into smithereens.:しかし、壷はあっさりと落ちて割れて粉々に。}`
+`{ruby:He was able to hold a magical power that could not:命の価値を理解できない魔女には宿せ}{ruby:reside in witches who didn't understand the value of a life.:ない魔力を、彼は持ち得ている。}`
+`{ruby:......What is this thing called:……無限の魔法とは、何のた}{ruby:the Endless Magic {i:for} again?:めにあるんだったか。}`
+`{ruby:...Even though I call:…妾は、無限の魔女を}{ruby:myself the Endless Witch,:名乗りながら、}`
+`{ruby:have I been forgetting what the:無限の魔法の意味を、…千年間も忘れ}{ruby:Endless Magic means...for a whole thousand years.........?:ていたのではないのか………。}`
+`{ruby:She looked at:譲治の表情を改}{ruby:George's expression again.:めて見る。}`
+`{ruby:.........His surging earnestness was:……迸る真剣さは}{ruby:like a lightning bolt.:稲妻のよう。}`
+`{ruby:...Right now, even if George's body:…今の譲治なら、たとえその身を焼かれ}{ruby:was burned, or smashed by a waterfall,:ようとも、滝に打たれようとも、}`
+`{ruby:he would probably continue to pray for:気にもせず、気付きもせず、愛する}{ruby:his beloved without minding it, without noticing it.:者への祈りを続けるだろう。}`
+`{ruby:For the first time, ...she:魔女は初めて、…その力}{ruby:showed respect for that power.:に敬意を表した。}`
+`{ruby:So in that instant, all magical resistance was lost, and the enormous:だからその瞬間、全ての魔法抵抗が失われ、譲治の膨大}{ruby:power of George's feelings turned into magical power in its perfect form......:な想いの力が完全な形で魔力に変換される……。}`
+`{ruby:The vase was very, very:それは、とてもとても美しくて、価値と}{ruby:beautiful, rich with history and value.:歴史のある素晴らしい壷でした。}`
+`{ruby:Even as young as I was, it still forced me:幼い私が見ても、その美しさにた}{ruby:to take a deep breath when I witnessed its beauty.:め息が堪えられないほどに。}`
+`{ruby:......But that just made:……でも、だから触れて}{ruby:me want to touch it.:みたかったのです。}`
+`{ruby:But the vase easily:しかし、壷はあっさりと落}{ruby:fell and smashed into smithereens.:ちて割れて粉々に。}`
 `{ruby:...Like a popped bubble,:…割れてしまったシャボン玉がそうであるように、}`
-`{ruby:it felt as though the time when it had possessed a form was just an illusion.:形あった時のそれがまるで幻であったかのように感じてしまう。}`
-`{ruby:It was that fragile, ......that easily lost, that life.:それくらいにあっさりと儚く、……失われてしまった、命。}`
-`{ruby:I realized that, because of my own foolish curiosity, I had done something that couldn't be taken back.:私は、自らの愚かな好奇心が取り返しのつかないことをしてしまったことを悟りました。}`
-`{ruby:No matter how much I regretted it, no matter how much I apologized.:いくら後悔しても、いくら謝っても。}`
-`{ruby:{n}The broken vase would not return to its original form...:{n}砕けてしまった壷は元の姿に戻ってはくれません…。}`
-`{ruby:{n}A lost life will not return to normal no matter what happens.:{n}失われた命は、どのようなことがあっても、元に戻らない。}`
-`{ruby:I was frightened by the fact that my own frivolous action, even though it had been frivolous,:私は自らの軽率な行為が、軽率であるにもかかわらず、}`
-`{ruby:...had stolen a life that could never be revived again.:…二度と蘇れない形で命を奪ってしまうことに恐怖しました。}`
-`{ruby:And, out of pity for the lost life, I cried.:そして、失われた命を哀れんで、泣きました。}`
-`{ruby:{n}Out of fear of myself, who had made it become lost, I cried even more.:{n}失わせた自らに恐怖して、さらに泣きました。}`
-`{ruby:I was sure that Grandfather would also cry at the loss of his precious vase.:お祖父さまも、大切な壷が失われたことを、きっと泣くでしょう。}`
-`{ruby:I was sure that all of the people who thought fondly of Grandfather would cry too, when they saw him like that.:それを見て、お祖父さまを大切に思う人たちもみんな、きっと泣くでしょう。}`
-`{ruby:By just the loss of a single life, the whole world would be filled with so much sadness.:たったひとつの命が失われただけで、世界中はこんなにも悲しみに染まるのです。}`
-`{ruby:......I cried even more at how terrible that would be.:……その恐ろしさに、私はさらに泣きました。}`
+`{ruby:it felt as though the time when it:形あった時のそれがまるで幻であっ}{ruby:had possessed a form was just an illusion.:たかのように感じてしまう。}`
+`{ruby:It was that fragile,:それくらいにあっさりと儚く、…}{ruby:......that easily lost, that life.:…失われてしまった、命。}`
+`{ruby:I realized that, because of my own foolish curiosity,:私は、自らの愚かな好奇心が取り返しのつかな}{ruby:I had done something that couldn't be taken back.:いことをしてしまったことを悟りました。}`
+`{ruby:No matter how much I regretted:いくら後悔しても、い}{ruby:it, no matter how much I apologized.:くら謝っても。}`
+`{ruby:{n}The broken vase would not:{n}砕けてしまった壷は元の姿}{ruby:return to its original form...:に戻ってはくれません…。}`
+`{ruby:{n}A lost life will not return:{n}失われた命は、どのようなこ}{ruby:to normal no matter what happens.:とがあっても、元に戻らない。}`
+`{ruby:I was frightened by the fact that my:私は自らの軽率な行為が、軽率}{ruby:own frivolous action, even though it had been frivolous,:であるにもかかわらず、}`
+`{ruby:...had stolen a life that:…二度と蘇れない形で命を奪って}{ruby:could never be revived again.:しまうことに恐怖しました。}`
+`{ruby:And, out of pity for:そして、失われた命を哀れ}{ruby:the lost life, I cried.:んで、泣きました。}`
+`{ruby:{n}Out of fear of myself, who had:{n}失わせた自らに恐怖し}{ruby:made it become lost, I cried even more.:て、さらに泣きました。}`
+`{ruby:I was sure that Grandfather would also:お祖父さまも、大切な壷が失われた}{ruby:cry at the loss of his precious vase.:ことを、きっと泣くでしょう。}`
+`{ruby:I was sure that all of the people who thought fondly:それを見て、お祖父さまを大切に思う人た}{ruby:of Grandfather would cry too, when they saw him like that.:ちもみんな、きっと泣くでしょう。}`
+`{ruby:By just the loss of a single life, the:たったひとつの命が失われただけで、世界中}{ruby:whole world would be filled with so much sadness.:はこんなにも悲しみに染まるのです。}`
+`{ruby:......I cried even more at:……その恐ろしさに、私は}{ruby:how terrible that would be.:さらに泣きました。}`
 `{ruby:{f:5:Beatrice} appeared, and spoke.:ベアトリーチェが現れて、言いました。}`
 `{ruby:"Then, Milady.:「ならばお嬢様。}`
 `{ruby:Let us revive this vase with magic.:この壷を、魔法で蘇らせましょう。}`
-`{ruby:If that will make everyone happy, then the vase and the magic and the spirits...:それで皆が幸せになれるなら、壷も魔法も精霊たちも、}`
-`{ruby:should be happy to lend you their power, and return it to its original form.":喜んでその為に力を貸し、元の姿を取り戻すでしょう」}`
+`{ruby:If that will make everyone happy, then:それで皆が幸せになれるなら、}{ruby:the vase and the magic and the spirits...:壷も魔法も精霊たちも、}`
+`{ruby:should be happy to lend you their:喜んでその為に力を貸し、元の}{ruby:power, and return it to its original form.":姿を取り戻すでしょう」}`
 `{ruby:"Come, Milady.:「さぁさ、お嬢様。}`
-`{ruby:Close your eyes, and say the chant with me...":目を閉じて、私と一緒にお唄を詠いましょう…」}`
+`{ruby:Close your eyes, and:目を閉じて、私と一緒にお}{ruby:say the chant with me...":唄を詠いましょう…」}`
 `{ruby:"Come, try closing your eyes.:「さぁさ、目を閉じて御覧なさい。}`
 `{ruby:And try to remember.:そして思い出して御覧なさい。}`
 `{ruby:What form did you have?:あなたがどんな姿をしていたのか。}`
-`{ruby:It was surely a very, very beautiful form.:それはきっと、とてもとても美しい姿。}`
-`{ruby:Please, show me that form one more time...":どうか私に、あの姿をもう一度見せておくれ…」}`
-`{ruby:Those words of power powerfully knocked on the door to Hades.:力ある言葉が、冥府の扉を力強く叩く。}`
-`{ruby:Her previous magic had powerfully knocked on the door to Hades in the same way.:かつての彼女の魔法も、同じように冥府の扉を力強く叩いた。}`
-`{ruby:......However, back then, it was horribly violent, ...and earned the displeasure of the peacefully sleeping dead...:……しかし、それはひどく乱暴で、…安らかに眠る死者たちのひんしゅくを買うものだった…。}`
+`{ruby:It was surely a:それはきっと、とても}{ruby:very, very beautiful form.:とても美しい姿。}`
+`{ruby:Please, show me that:どうか私に、あの姿をもう}{ruby:form one more time...":一度見せておくれ…」}`
+`{ruby:Those words of power powerfully:力ある言葉が、冥府の}{ruby:knocked on the door to Hades.:扉を力強く叩く。}`
+`{ruby:Her previous magic had powerfully knocked on:かつての彼女の魔法も、同じよう}{ruby:the door to Hades in the same way.:に冥府の扉を力強く叩いた。}`
+`{ruby:......However, back then, it was horribly violent, ...and:……しかし、それはひどく乱暴で、…安らかに眠る}{ruby:earned the displeasure of the peacefully sleeping dead...:死者たちのひんしゅくを買うものだった…。}`
 `{ruby:However, this time was different.:しかし、今は違う。}`
-`{ruby:...It was very powerful, ...but it was very kind and loving.:…とても力強いのに、…とてもやさしくて慈しみのあるもの。}`
-`{ruby:The dead near the door opened their eyes,:扉の近くの死者たちが目を覚まし、}`
-`{ruby:......and called out to the other dead that there was a voice calling for someone to come back.:……戻ってくることを呼び掛ける声があることを、他の死者たちに呼び掛ける。}`
-`{ruby:...The sadness of that voice calling from the outside touched the hearts of the dead,:…死者たちは、外より呼び掛けるその声の悲しさに胸を打たれ、}`
-`{ruby:and trying to respond as quickly as possible, they searched for Shannon's lost soul...:一刻も早く応えてやろうと、紗音の失われた魂を探す…。}`
+`{ruby:...It was very powerful, ...but:…とても力強いのに、…とてもや}{ruby:it was very kind and loving.:さしくて慈しみのあるもの。}`
+`{ruby:The dead near the:扉の近くの死者たち}{ruby:door opened their eyes,:が目を覚まし、}`
+`{ruby:......and called out to the other dead that there:……戻ってくることを呼び掛ける声がある}{ruby:was a voice calling for someone to come back.:ことを、他の死者たちに呼び掛ける。}`
+`{ruby:...The sadness of that voice calling from:…死者たちは、外より呼び掛けるそ}{ruby:the outside touched the hearts of the dead,:の声の悲しさに胸を打たれ、}`
+`{ruby:and trying to respond as quickly as:一刻も早く応えてやろうと、紗}{ruby:possible, they searched for Shannon's lost soul...:音の失われた魂を探す…。}`
 `{ruby:And then,:そして、}`
 `{ruby:.........they found it.:………見つける。}`
-`{ruby:{n}They found the casket in which Shannon was peacefully sleeping.:{n}安らかに眠る紗音の棺を見つける。}`
-`{ruby:It truly was Shannon's soul, sleeping in the land of the dead.:それはまさに、死者の国に眠る紗音の魂そのもの。}`
-`{ruby:{n}......Inside a casket that was covered with rose petals frozen with frost, she was sleeping in peace...:{n}……霜と凍った薔薇の花で埋められた棺の中で、安らかに眠っている…。}`
-`{ruby:The dead silently lifted that casket up.:死者たちはその棺を静かに担ぎ上げる。}`
-`{ruby:...While it looked like a funeral march at a glance, it had the complete opposite meaning.:…それは一見、葬送行列に似ていながら、意味はまったく異なるもの。}`
+`{ruby:{n}They found the casket in:{n}安らかに眠る紗音}{ruby:which Shannon was peacefully sleeping.:の棺を見つける。}`
+`{ruby:It truly was Shannon's soul, sleeping:それはまさに、死者の国に眠}{ruby:in the land of the dead.:る紗音の魂そのもの。}`
+`{ruby:{n}......Inside a casket that was covered with rose:{n}……霜と凍った薔薇の花で埋められ}{ruby:petals frozen with frost, she was sleeping in peace...:た棺の中で、安らかに眠っている…。}`
+`{ruby:The dead silently:死者たちはその棺を静}{ruby:lifted that casket up.:かに担ぎ上げる。}`
+`{ruby:...While it looked like a funeral march at:…それは一見、葬送行列に似ていなが}{ruby:a glance, it had the complete opposite meaning.:ら、意味はまったく異なるもの。}`
 `{ruby:It was solemn, but filled with joy.:厳かだけれど、喜びに満ちていて。}`
-`{ruby:...It reminded the long‐forgotten dead...:…忘れ去られて久しい死者たちに、}`
-`{ruby:that they continue to be loved even after their deaths,:自分たちは死してなお、愛され続けていることを思い出させてくれて、}`
-`{ruby:......and gave them all a warm sense of peace......:……彼ら全てに温かな安寧を与えるのだ……。}`
-`{ruby:Then, ...as though guided by a warm light from the heavens, ...Shannon's body floated up out of the casket...:そして…、天上よりの温かな光に招かれるように、…棺より紗音の体が、浮かび上がる…。}`
+`{ruby:...It reminded:…忘れ去られて久し}{ruby:the long‐forgotten dead...:い死者たちに、}`
+`{ruby:that they continue to be:自分たちは死してなお、愛され続けて}{ruby:loved even after their deaths,:いることを思い出させてくれて、}`
+`{ruby:......and gave them all:……彼ら全てに温かな安寧}{ruby:a warm sense of peace......:を与えるのだ……。}`
+`{ruby:Then, ...as though guided by a warm light from:そして…、天上よりの温かな光に招かれるように}{ruby:the heavens, ...Shannon's body floated up out of the casket...:、…棺より紗音の体が、浮かび上がる…。}`
 `{ruby:The dead watched her go.:死者たちはそれを見送る。}`
-`{ruby:......They squinted at that warm light,:……その温かな光に目を細め、}`
-`{ruby:giving their respect to this unknown member of the living, who had continued to hold onto his love for a person even after her death...:死者への愛を変わらず持ち続けてくれる、見知らぬ生者に敬意を送るのだった…。}`
-`{ruby:Shannon's body was sucked into the light in the heavens, and began to disappear...:紗音の体が、天上の光の中に、飲み込まれて消えていく…。}`
-`{ruby:In the jet‐black darkness of the land of the dead, the faint flickering of gold butterflies could be seen.:死者の国の漆黒の闇の中に、わずかに黄金の蝶が瞬いたのが見えた。}`
-`{ruby:...It reminded them of the gentle stars in the night sky, which they had long forgotten...:…それは、彼らが忘れて久しい、やさしい夜空の星を思い出させた…。}`
+`{ruby:......They squinted at:……その温かな光}{ruby:that warm light,:に目を細め、}`
+`{ruby:giving their respect to this unknown member of the living, who had:死者への愛を変わらず持ち続けてくれる、見}{ruby:continued to hold onto his love for a person even after her death...:知らぬ生者に敬意を送るのだった…。}`
+`{ruby:Shannon's body was sucked into the light:紗音の体が、天上の光の中に、飲}{ruby:in the heavens, and began to disappear...:み込まれて消えていく…。}`
+`{ruby:In the jet‐black darkness of the land of the:死者の国の漆黒の闇の中に、わずかに}{ruby:dead, the faint flickering of gold butterflies could be seen.:黄金の蝶が瞬いたのが見えた。}`
+`{ruby:...It reminded them of the gentle stars in:…それは、彼らが忘れて久しい、やさ}{ruby:the night sky, which they had long forgotten...:しい夜空の星を思い出させた…。}`
 `{ruby:"........................hh!":「……………………っ！」}`
-`{ruby:George remembered being told that he must not say anything, and he hurriedly covered his mouth.:譲治は、声を出してはならないと言われていることを思い出し、慌てて自らの口を塞ぐ。}`
-`{ruby:However, it felt like his heart was trying to jump out of his throat.:しかし、喉から心臓が飛び出そうだった。}`
-`{ruby:{n}......Because he had seen Shannon's eyelids shake slightly.:{n}……紗音の瞼が、わずかに震えたのを見たからだ。}`
-`{ruby:And then, ...those eyelids slowly opened.:そして、…ゆっくりとその瞼が開く。}`
-`{ruby:Shannon's eyes were there, but they were still covered in the frost of the land of the dead.:そこには紗音の瞳があったが、まだ死者の国の霜が降りたままだった。}`
-`{ruby:However, ......the warmth of the human world...no.:しかし、……人の世の、…いや。}`
-`{ruby:......The warmth of her loved one, who had called her soul back, slowly dissolved that frost,:……彼女の魂を呼び戻した想い人の温かさで、ゆっくりと溶かされていき、}`
-`{ruby:.........and her eyes gradually regained their sparkle.:………次第に、輝きを取り戻していく。}`
-`{ruby:Then, .........her eyes moved, ...and recognized George.:そして、………その瞳が動き、…譲治の姿を認める。}`
-`{ruby:"......George......san...............":「……譲治……さん……………」}`
+`{ruby:George remembered being told that he must not:譲治は、声を出してはならないと言われている}{ruby:say anything, and he hurriedly covered his mouth.:ことを思い出し、慌てて自らの口を塞ぐ。}`
+`{ruby:However, it felt like his heart was:しかし、喉から心臓が飛}{ruby:trying to jump out of his throat.:び出そうだった。}`
+`{ruby:{n}......Because he had seen:{n}……紗音の瞼が、わずか}{ruby:Shannon's eyelids shake slightly.:に震えたのを見たからだ。}`
+`{ruby:And then, ...those:そして、…ゆっくりと}{ruby:eyelids slowly opened.:その瞼が開く。}`
+`{ruby:Shannon's eyes were there, but they were still covered:そこには紗音の瞳があったが、まだ死}{ruby:in the frost of the land of the dead.:者の国の霜が降りたままだった。}`
+`{ruby:However, ......the warmth:しかし、……人の世}{ruby:of the human world...no.:の、…いや。}`
+`{ruby:......The warmth of her loved one, who had:……彼女の魂を呼び戻した想い人の温か}{ruby:called her soul back, slowly dissolved that frost,:さで、ゆっくりと溶かされていき、}`
+`{ruby:.........and her eyes:………次第に、輝きを}{ruby:gradually regained their sparkle.:取り戻していく。}`
+`{ruby:Then, .........her eyes:そして、………その瞳が動き}{ruby:moved, ...and recognized George.:、…譲治の姿を認める。}`
+`{ruby::「……譲治……さん}{ruby:"......George......san...............":……………」}`
 `{ruby:As her lips shook weakly,:紗音が、弱々しく唇を震わせ、}`
 `{ruby:......Shannon definitely said that.:……確かにそう言った。}`
 `{ruby:The words were very faint.:それは言葉としてはあまりに弱々しい。}`
-`{ruby:{n}So much so that they normally wouldn't even have reached his ears.:{n}普通なら耳にも届かないほどに。}`
-`{ruby:......However, George clearly heard them.:……しかし、譲治にははっきりと聞き取れた。}`
-`{ruby:.........He heard his loved one, his fiancée, the one he loved most who should have been dead,:………死んだはずの想い人が、婚約者が、もっとも愛しい人が、}`
+`{ruby:{n}So much so that they normally:{n}普通なら耳にも}{ruby:wouldn't even have reached his ears.:届かないほどに。}`
+`{ruby:......However, George:……しかし、譲治にははっ}{ruby:clearly heard them.:きりと聞き取れた。}`
+`{ruby:.........He heard his loved one, his fiancée, the:………死んだはずの想い人が、婚約}{ruby:one he loved most who should have been dead,:者が、もっとも愛しい人が、}`
 `{ruby:call his name once again...:再び自分の名を呼んでくれたのを聞いた…。}`
 `{ruby:"Shannon,:「紗音、}`
 `{ruby:.........Shannon.........:……紗音………、}`
 `{ruby:can you...:僕が、}`
 `{ruby:...recognize me.........?":……わかるかい………？」}`
 `{ruby:"...George‐sa...n......:「…譲治さ…ん……。}`
-`{ruby:.........Is this...a dream.........?":………これは、…夢なの………？」}`
+`{ruby:.........Is:………これは、…夢}{ruby:this...a dream.........?":なの………？」}`
 `{ruby:"No.:「いいや。}`
 `{ruby:This isn't a dream.:これは夢じゃないよ。}`
-`{ruby:......See, look, ......even if I pinch, you don't wake up.":……だからほら、……抓っても、醒めないよ」}`
-`{ruby:As George said that, he softly pinched Shannon's cheek.:譲治はそう言い、紗音の頬をやさしく抓るような仕草をする。}`
-`{ruby:......It was how George had always responded in the past, when Shannon had been surprised by something and had asked if she was dreaming.:……それはかつて、紗音が何かを驚き、夢かと問う時に必ず譲治が返した仕草。}`
-`{ruby:When Shannon felt the warm touch of George's finger on her cheek...:紗音は、自分の頬に触れた譲治の指の温かな感触に。}`
-`{ruby:{n}......And when George realized that the warmth of a living person had already returned to the cheek of his beloved...:{n}……そして譲治は、愛しい人の頬に、すでに生きる者の温もりが戻っていることに。}`
+`{ruby:......See, look, ......even if I:……だからほら、……抓っ}{ruby:pinch, you don't wake up.":ても、醒めないよ」}`
+`{ruby:As George said that,:譲治はそう言い、紗音の頬をやさ}{ruby:he softly pinched Shannon's cheek.:しく抓るような仕草をする。}`
+`{ruby:......It was how George had always responded in the past, when Shannon:……それはかつて、紗音が何かを驚き、夢}{ruby:had been surprised by something and had asked if she was dreaming.:かと問う時に必ず譲治が返した仕草。}`
+`{ruby:When Shannon felt the warm touch:紗音は、自分の頬に触れた譲}{ruby:of George's finger on her cheek...:治の指の温かな感触に。}`
+`{ruby:{n}......And when George realized that the warmth of a living:{n}……そして譲治は、愛しい人の頬に、すで}{ruby:person had already returned to the cheek of his beloved...:に生きる者の温もりが戻っていることに。}`
 `{ruby:......They both cried.:……二人は涙する。}`
-`{ruby:...With what words should a pair of lovers separated by death celebrate their reunion?:…死別した愛し合う二人は、その再会をどんな言葉で祝しあうのだろう。}`
-`{ruby:......The words of the human world are not enough to celebrate that.:……それを祝いあう言葉は、人の世の狭き言葉では足りない。}`
-`{ruby:In short, they had no need of the words of this world...:つまり、人の世の言葉など、二人には何の必要もない…。}`
-`{ruby:Shannon sat up, and the two of them simply wordlessly hugged each other.:譲治は、上体を起こした紗音と、ただ言葉もなく抱き締め合った。}`
-`{ruby:Shannon still didn't have much strength in her, and putting her arms around George's back took all she had,:紗音の力はまだ弱々しくて、譲治の背中に手を回すのが精一杯だったから、}`
-`{ruby:......so George hugged her tightly to make up for that.:……譲治はその分、きつく抱き締めた。}`
-`{ruby:To stop her from ever again going to a place beyond his reach,:彼女が二度と自分の手の届かないところに行ってしまわないように、}`
-`{ruby:he hugged her so tightly, and yet so gently......:きつくきつく、だけれどもやさしくやさしく、抱き締めた……。}`
-`{ruby:Shannon's fingers curled around George's back,:譲治の背中に回す紗音の指には、}`
-`{ruby:......and on her ring finger indeed shone the engagement ring George had given her.:……その薬指に、譲治が贈った婚約指輪が確かに光っていた。}`
-`{ruby:That strong sparkle was absolutely not the sparkle of diamond alone.:その強い輝きは、決してダイヤの輝きだけではない。}`
-`{ruby:{n}......There was, without doubt, a magical power there that only the two lovers could possibly feel.:{n}……愛する二人にしか感じ得ない魔力が、確かにあった。}`
-`{ruby:It was because that strong light existed...that they had been able to find her casket in the land of the dead.:その強い輝きがあったからこそ、…死者の国で、彼女の棺は見つけてもらえたのだ。}`
+`{ruby:...With what words should a pair of:…死別した愛し合う二人は、その再会を}{ruby:lovers separated by death celebrate their reunion?:どんな言葉で祝しあうのだろう。}`
+`{ruby:......The words of the human world:……それを祝いあう言葉は、人の}{ruby:are not enough to celebrate that.:世の狭き言葉では足りない。}`
+`{ruby:In short, they had no need:つまり、人の世の言葉など、二}{ruby:of the words of this world...:人には何の必要もない…。}`
+`{ruby:Shannon sat up, and the two:譲治は、上体を起こした紗音と、た}{ruby:of them simply wordlessly hugged each other.:だ言葉もなく抱き締め合った。}`
+`{ruby:Shannon still didn't have much strength in her, and:紗音の力はまだ弱々しくて、譲治の背中}{ruby:putting her arms around George's back took all she had,:に手を回すのが精一杯だったから、}`
+`{ruby:......so George hugged her tightly:……譲治はその分、き}{ruby:to make up for that.:つく抱き締めた。}`
+`{ruby:To stop her from ever again:彼女が二度と自分の手の届かないとこ}{ruby:going to a place beyond his reach,:ろに行ってしまわないように、}`
+`{ruby:he hugged her so:きつくきつく、だけれどもやさしく}{ruby:tightly, and yet so gently......:やさしく、抱き締めた……。}`
+`{ruby:Shannon's fingers curled:譲治の背中に回す紗}{ruby:around George's back,:音の指には、}`
+`{ruby:......and on her ring finger indeed shone:……その薬指に、譲治が贈った婚}{ruby:the engagement ring George had given her.:約指輪が確かに光っていた。}`
+`{ruby:That strong sparkle was absolutely:その強い輝きは、決してダイ}{ruby:not the sparkle of diamond alone.:ヤの輝きだけではない。}`
+`{ruby:{n}......There was, without doubt, a magical power there:{n}……愛する二人にしか感じ得}{ruby:that only the two lovers could possibly feel.:ない魔力が、確かにあった。}`
+`{ruby:It was because that strong light existed...that they had been:その強い輝きがあったからこそ、…死者の国}{ruby:able to find her casket in the land of the dead.:で、彼女の棺は見つけてもらえたのだ。}`
 `{ruby:Beato understood.:ベアトは理解する。}`
 `{ruby:......That ring, ......no.:……その指輪が、……いや。}`
-`{ruby:............The couple's feelings, in the form of that ring, had created this miracle.:…………指輪の形をした、二人の想いが、この奇跡を実現させたのだ。}`
-`{ruby:In that moment, George had definitely used magic.:譲治はあの瞬間、確かに魔法を使った。}`
-`{ruby:Beato had done nothing more than help him along.:ベアトはその手助けをしたに過ぎない。}`
-`{ruby:That magic had a magical power that could only reside in those who knew of the importance of life and trying their hardest.:その魔法には、命の大切さと一生懸命を知る者にしか宿しえない魔力があった。}`
-`{ruby:It was the power of a miracle that an Endless Witch could not know, ......that only the power of the {i:finite} could give rise to.:無限の魔女には知ることのできない、……有限の力にしか起こせない、奇跡の力。}`
-`{ruby:By now, she had no choice but to accept it.:今こそ認めざるを得ない。}`
-`{ruby:......She had to accept that true magic, true magical power...:……本当の魔法とは、魔力とは。}`
-`{ruby:...existed in the place farthest away from she who called herself a Great Witch.:…大魔女を名乗った彼女と、もっとも遠く離れたところにあったことを、認めなければならない。}`
-`{ruby:".........{f:5:Beatrice}...sama......":「………ベアトリーチェ…さま……」}`
-`{ruby:"......She brought you back to life...:「……彼女が君を生き返らせてくれたんだ…。}`
+`{ruby:............The couple's feelings, in the form:…………指輪の形をした、二人の想い}{ruby:of that ring, had created this miracle.:が、この奇跡を実現させたのだ。}`
+`{ruby:In that moment, George:譲治はあの瞬間、確か}{ruby:had definitely used magic.:に魔法を使った。}`
+`{ruby:Beato had done nothing:ベアトはその手助けを}{ruby:more than help him along.:したに過ぎない。}`
+`{ruby:That magic had a magical power that could only reside in:その魔法には、命の大切さと一生懸命を知}{ruby:those who knew of the importance of life and trying their hardest.:る者にしか宿しえない魔力があった。}`
+`{ruby:It was the power of a miracle that an Endless Witch could:無限の魔女には知ることのできない、……有}{ruby:not know, ......that only the power of the {i:finite} could give rise to.:限の力にしか起こせない、奇跡の力。}`
+`{ruby:By now, she had no:今こそ認めざる}{ruby:choice but to accept it.:を得ない。}`
+`{ruby:......She had to accept that:……本当の魔法とは}{ruby:true magic, true magical power...:、魔力とは。}`
+`{ruby:...existed in the place farthest away from:…大魔女を名乗った彼女と、もっとも遠く離れたと}{ruby:she who called herself a Great Witch.:ころにあったことを、認めなければならない。}`
+`{ruby::「………ベアトリーチ}{ruby:".........{f:5:Beatrice}...sama......":ェ…さま……」}`
+`{ruby:"......She brought you:「……彼女が君を生き返ら}{ruby:back to life...:せてくれたんだ…。}`
 `{ruby:Thank you, {f:5:Beatrice}...!":ありがとう、ベアトリーチェ…！」}`
 `{ruby:"No.:「いいや。}`
 `{ruby:I could not do anything.:妾は何もできなかった。}`
-`{ruby:......What revived Shannon...was your magical power.:……紗音を蘇らせたのは、そなたの魔力。}`
+`{ruby:......What revived Shannon...was:……紗音を蘇らせたのは}{ruby:your magical power.:、そなたの魔力。}`
 `{ruby:Your magic.:そなたの魔法。}`
-`{ruby:............I have indeed witnessed here the Ushiromiya blood, capable of achieving miracles.":…………奇跡を成し遂げる右代宮の血、…確かに見届けさせてもらったぞ」}`
-`{ruby:".........George‐san was the one who......brought......?":「………譲治さんが、……私を……？」}`
+`{ruby:............I have indeed witnessed here the:…………奇跡を成し遂げる右代宮の血、}{ruby:Ushiromiya blood, capable of achieving miracles.":…確かに見届けさせてもらったぞ」}`
+`{ruby:".........George‐san was:「………譲治さんが、}{ruby:the one who......brought......?":……私を……？」}`
 `{ruby:"...Mm.:「…うむ。}`
-`{ruby:.........He had a phenomenal magical power, so much so that I could not reach up to his feet.:………妾など足元にも及ばぬほどの、凄まじき魔力であったぞ。}`
-`{ruby:......So I still have not left the level of apprentice, then.:……妾など、まだまだ見習いの域を出ぬか。}`
+`{ruby:.........He had a phenomenal magical power, so much so:………妾など足元にも及ばぬほどの}{ruby:that I could not reach up to his feet.:、凄まじき魔力であったぞ。}`
+`{ruby:......So I still have not:……妾など、まだまだ見}{ruby:left the level of apprentice, then.:習いの域を出ぬか。}`
 `{ruby:...Now I finally know my place.":…今こそ身の程を知ろうぞ」}`
 `{ruby:Beato staggered backwards.:ベアトはふらりと後へよろめく。}`
-`{ruby:{n}...Her physical strength was clearly exhausted.:{n}…明らかに体力を消耗しきっていた。}`
-`{ruby:She had humbly said that George's power alone had revived Shannon, but Beato had also used all of her magical and physical strength.:譲治の力だけで蘇らせたと謙遜しているが、ベアトも全身の魔力と体力を使い切っていた。}`
-`{ruby:...And she reflected upon how difficult it was to revive a single one of these lives,:…そして、かつて、自由自在に弄んでいた命を、たったひとつ蘇らせるだけで、}`
-`{ruby:which she had toyed with however she wanted in the past.:これほどの重みがあるのかと、…それを噛み締めている。}`
-`{ruby:The couple kept each other in their tight embrace, and showed no signs of letting go.:二人はいつまでも、力強く抱擁を交し合う。}`
-`{ruby:...Feelings that couldn't be communicated with a billion words were thus communicated between them...:…百億の言葉でも伝えられない気持ちを、そうして伝え合っていた…。}`
+`{ruby:{n}...Her physical strength:{n}…明らかに体力を}{ruby:was clearly exhausted.:消耗しきっていた。}`
+`{ruby:She had humbly said that George's power alone had revived Shannon,:譲治の力だけで蘇らせたと謙遜しているが、ベア}{ruby:but Beato had also used all of her magical and physical strength.:トも全身の魔力と体力を使い切っていた。}`
+`{ruby:...And she reflected upon how difficult it was:…そして、かつて、自由自在に弄んでいた}{ruby:to revive a single one of these lives,:命を、たったひとつ蘇らせるだけで、}`
+`{ruby:which she had toyed with:これほどの重みがあるのかと、}{ruby:however she wanted in the past.:…それを噛み締めている。}`
+`{ruby:The couple kept each other in their tight:二人はいつまでも、力強}{ruby:embrace, and showed no signs of letting go.:く抱擁を交し合う。}`
+`{ruby:...Feelings that couldn't be communicated with a:…百億の言葉でも伝えられない気持ち}{ruby:billion words were thus communicated between them...:を、そうして伝え合っていた…。}`
 `{ruby:"Thank you, {f:5:Beatrice}.:「ありがとう、ベアトリーチェ。}`
 `{ruby:...We are in your debt...":…君は僕たちの恩人だ…」}`
-`{ruby:"...Thank you very much, {f:5:Beatrice}‐sama.:「…ありがとうございます、ベアトリーチェさま。}`
-`{ruby:......I will never forget that it was you who let me meet with George again.":……再び譲治さまに会わせて下さったこのご恩を、…決して忘れません」}`
+`{ruby:"...Thank you:「…ありがとうございます、}{ruby:very much, {f:5:Beatrice}‐sama.:ベアトリーチェさま。}`
+`{ruby:......I will never forget that it was:……再び譲治さまに会わせて下さったこ}{ruby:you who let me meet with George again.":のご恩を、…決して忘れません」}`
 `{ruby:"......Enough, enough.:「……よせよせ。}`
-`{ruby:Being thanked by a pair of lovers is far too embarrassing for one who has been feared as an extreme savage.:愛し合う二人に感謝されては、外道の極みと恐れられた妾にはくすぐった過ぎるというものよ。}`
+`{ruby:Being thanked by a pair of lovers is far too:愛し合う二人に感謝されては、外道の極みと恐れら}{ruby:embarrassing for one who has been feared as an extreme savage.:れた妾にはくすぐった過ぎるというものよ。}`
 `{ruby:......Don't worry...about me.:……妾のことは、…気にするな。}`
-`{ruby:...Take all the time you want.........celebrating your reunion together.........":…存分に、………再会を、祝い合え………」}`
-`{ruby:Beato, who was leaning her back against the wall, slid down the wall, and sat.:壁に背中をもたれ掛けるベアトは、そのままずるりと壁を背負ったまま、座り込む。}`
-`{ruby:How many centuries had it been since she had last grown this tired from using magic?:こんなにも魔法で疲労したのは何百年ぶりなのか。}`
-`{ruby:......Probably, not since the time I first succeeded in magic.:……多分、初めて魔法を成し遂げた時以来。}`
-`{ruby:.........Didn't Master praise me for that back then?:………その時は、お師匠さまが褒めてくれたっけなぁ。}`
-`{ruby:Oh, but, I myself killed that master who praises me, didn't I...:あぁ、でも、褒めてくれるお師匠様は、自分で殺しちまったんだっけ。}`
+`{ruby:...Take all the time:…存分に、………再会を}{ruby:you want.........celebrating your reunion together.........":、祝い合え………」}`
+`{ruby:Beato, who was leaning her back against:壁に背中をもたれ掛けるベアトは、そのまま}{ruby:the wall, slid down the wall, and sat.:ずるりと壁を背負ったまま、座り込む。}`
+`{ruby:How many centuries had it been since she:こんなにも魔法で疲労したの}{ruby:had last grown this tired from using magic?:は何百年ぶりなのか。}`
+`{ruby:......Probably, not since the time:……多分、初めて魔法を}{ruby:I first succeeded in magic.:成し遂げた時以来。}`
+`{ruby:.........Didn't Master praise me:………その時は、お師匠さまが}{ruby:for that back then?:褒めてくれたっけなぁ。}`
+`{ruby:Oh, but, I myself killed that:あぁ、でも、褒めてくれるお師匠様は}{ruby:master who praises me, didn't I...:、自分で殺しちまったんだっけ。}`
 `{ruby:......Don't be naive, {f:5:Beatrice}.:……甘えんなよ、ベアトリーチェ。}`
-`{ruby:...In the end, that's what it means to kill something, right...?:…モノを殺すってのはつまり、そういうことじゃねぇかよォ…。}`
+`{ruby:...In the end, that's what:…モノを殺すってのはつまり、そう}{ruby:it means to kill something, right...?:いうことじゃねぇかよォ…。}`
 `{ruby:"......Finally,:「……ようやく。}`
-`{ruby:...it seems you've remembered how to use magic.":…魔法の使い方を、思い出したようですね」}`
-`{ruby:"...............My whole head...feels parched and suffocated, ......and I can't even think, let alone remember...:「……………頭ン中、酸欠でカラカラで、……思い出すもヘチマもねェぜ…。}`
+`{ruby:...it seems you've remembered:…魔法の使い方を、思い}{ruby:how to use magic.":出したようですね」}`
+`{ruby:"...............My whole head...feels parched and suffocated, ......and:「……………頭ン中、酸欠でカラカラで、}{ruby:I can't even think, let alone remember...:……思い出すもヘチマもねェぜ…。}`
 `{ruby:...Wait, ...didn't I kill you?:…それよりアンタ、…殺したじゃねぇかよ。}`
 `{ruby:You shouldn't be appearing...":現れるんじゃねぇよ…」}`
 `{ruby:"You have let me live until now.:「あなたが未だに私を生かしていますよ。}`
 `{ruby:That is why I can appear like this.:だからこうして現れられます。}`
-`{ruby:......However, I did not come here to pat you on the head.":……もっとも、あなたの頭を撫でに来たわけでもありませんが」}`
-`{ruby:"......Did you come here just to sneer at how pathetic I am?:「……無様な妾を、わざわざ嘲笑いに来たかよ。}`
-`{ruby:......And after all this time, after retiring as a witch and everything, ...if I sit here and have my head patted, I'll be the laughingstock of the other witches......":……それに、隠居までした魔女が、…今更頭なんか撫でられちゃ、他の魔女の笑い者だぜ……」}`
+`{ruby:......However, I did not come here:……もっとも、あなたの頭を撫でに}{ruby:to pat you on the head.":来たわけでもありませんが」}`
+`{ruby:"......Did you come here just to:「……無様な妾を、わざわ}{ruby:sneer at how pathetic I am?:ざ嘲笑いに来たかよ。}`
+`{ruby:......And after all this time, after retiring as a witch and everything, ...if I:……それに、隠居までした魔女が、…今更頭なんか}{ruby:sit here and have my head patted, I'll be the laughingstock of the other witches......":撫でられちゃ、他の魔女の笑い者だぜ……」}`
 `{ruby:"That's right.:「そうですね。}`
-`{ruby:......Not only are you a full adult, but you boast about having retired from active service,:……一人前どころか、現役を退いたと豪語するあなたなのに、}`
-`{ruby:so I am sure that it would be far too embarrassing to tell anyone that you only just now learned how to use magic.":今頃になって魔法の使い方を覚えたなど、恥ずかしくて誰にも言えませんね」}`
+`{ruby:......Not only are you a full adult, but:……一人前どころか、現役を退い}{ruby:you boast about having retired from active service,:たと豪語するあなたなのに、}`
+`{ruby:so I am sure that it would be far too embarrassing to:今頃になって魔法の使い方を覚えたなど、}{ruby:tell anyone that you only just now learned how to use magic.":恥ずかしくて誰にも言えませんね」}`
 `{ruby:"............Yeah.:「…………だなァ。}`
 `{ruby:......Keep it a secret, Masteer...":……内緒にしてくれよォ、お師匠様…」}`
-`{ruby:With a sense of pleasant despondency, Beato gazed at the couple hugging each other.:ベアトは心地よい虚脱感の中、抱き合う二人を見つめるのだった。}`
+`{ruby:With a sense of pleasant despondency, Beato:ベアトは心地よい虚脱感の中、抱き}{ruby:gazed at the couple hugging each other.:合う二人を見つめるのだった。}`
 `{ruby:"Love, huh.:「愛、かァ。}`
 `{ruby:...............I'm no match...":……………勝てねぇなァ…」}`
 `{ruby:"45, data received.:「４５データ受領。}`
@@ -435,24 +435,24 @@
 `{ruby:Ammo selected, now loading.":弾種選定、装填」}`
 `{ruby:"410, firing.:「４１０、射撃。}`
 `{ruby:Nihi!":にひ！」}`
-`{ruby:The golden serpentine arrow fired by the Chiesters...:シエスタ姉妹の放つ、黄金の蛇の矢が、}`
-`{ruby:weaved its way through the bushes in the rose garden,:薔薇庭園の茂みを縫い、}`
+`{ruby:The golden serpentine arrow:シエスタ姉妹の放つ、}{ruby:fired by the Chiesters...:黄金の蛇の矢が、}`
+`{ruby:weaved its way through the:薔薇庭園の茂み}{ruby:bushes in the rose garden,:を縫い、}`
 `{ruby:weaved its way through the hedges,:垣根を縫い、}`
-`{ruby:and climbed the stone steps towards the mansion's entrance,:石段を登って屋敷の玄関を、}`
+`{ruby:and climbed the stone:石段を登って屋敷}{ruby:steps towards the mansion's entrance,:の玄関を、}`
 `{ruby:aiming for the keyhole.:その鍵穴を目指す。}`
 `{ruby:It weaved through the corridors,:それは廊下を縫い、}`
-`{ruby:and flew into the keyhole in the door to the parlor...!:客間の扉の鍵穴に飛び込む…！}`
-`{ruby:"......Aaaaaaaaaaaaaaaaaaaaaaahhhh?!?!":「……ああああああぁああぁッ？！？！」}`
+`{ruby:and flew into the keyhole:客間の扉の鍵穴に}{ruby:in the door to the parlor...!:飛び込む…！}`
+`{ruby::「……ああああああぁあ}{ruby:"......Aaaaaaaaaaaaaaaaaaaaaaahhhh?!?!":あぁッ？！？！」}`
 `{ruby:It happened in an instant.:一瞬の出来事だった。}`
-`{ruby:...It would have been difficult for Beato, who was completely worn out, to have noticed it beforehand.:…疲労しきったベアトに、それを事前に気付けというのは困難な話だった。}`
-`{ruby:Right before Beato's eyes, the gold snake that flew in through the keyhole...:ベアトの眼前で、鍵穴より飛び込んできた黄金の蛇が、}`
+`{ruby:...It would have been difficult for Beato, who:…疲労しきったベアトに、それを事前に}{ruby:was completely worn out, to have noticed it beforehand.:気付けというのは困難な話だった。}`
+`{ruby:Right before Beato's eyes, the gold:ベアトの眼前で、鍵穴より飛び}{ruby:snake that flew in through the keyhole...:込んできた黄金の蛇が、}`
 `{ruby:spun circles around the two lovers,:愛し合う二人をぐるぐるっと取り囲んで、}`
-`{ruby:and pierced through their two hearts in a blink of an eye.:二人の心臓を瞬時に貫通した。}`
-`{ruby:......And with meticulous precision, that gold snake ran through that hole in Shannon's chest once more...:……しかも律儀に、紗音の胸の穴にもう一度、黄金の蛇を貫かせた…。}`
-`{ruby:The two had been pierced through the heart by the gold snake,:二人は黄金の蛇に、}`
-`{ruby:...no, by the gold sewing thread used by the new brutal witch's furniture,:…いや、新しき残忍な魔女の家具の、黄金の縫い糸によって、心臓を打ち抜かれて、}`
-`{ruby:.........and it had only taken an instant, so unfitting for the amount of effort it had taken to revive Shannon...!:………蘇らせるのに掛けた手間と、あまりに見合わないほどの一瞬で…！}`
-`{ruby:In front of Beato's shocked eyes, the two collapsed onto the floor...:呆然とするベアトの目の前で、二人は倒れ、床に横たわる…。}`
+`{ruby:and pierced through their two hearts:二人の心臓を瞬時}{ruby:in a blink of an eye.:に貫通した。}`
+`{ruby:......And with meticulous precision, that gold snake ran:……しかも律儀に、紗音の胸の穴にも}{ruby:through that hole in Shannon's chest once more...:う一度、黄金の蛇を貫かせた…。}`
+`{ruby:The two had been pierced through:二人は黄金の}{ruby:the heart by the gold snake,:蛇に、}`
+`{ruby:...no, by the gold sewing thread:…いや、新しき残忍な魔女の家具の、黄金の}{ruby:used by the new brutal witch's furniture,:縫い糸によって、心臓を打ち抜かれて、}`
+`{ruby:.........and it had only taken an instant, so unfitting for:………蘇らせるのに掛けた手間と、あま}{ruby:the amount of effort it had taken to revive Shannon...!:りに見合わないほどの一瞬で…！}`
+`{ruby:In front of Beato's shocked eyes,:呆然とするベアトの目の前で、二}{ruby:the two collapsed onto the floor...:人は倒れ、床に横たわる…。}`
 `{ruby:".........G‐:「………じょ、}`
 `{ruby:......George......:……譲治……、}`
 `{ruby:.........Shannon...............":………紗音……………」}`
@@ -461,253 +461,253 @@
 `{ruby:...For letting us meet,:…わずかの間でも、}`
 `{ruby:...even just for a short while,:…会わせてくれて、}`
 `{ruby:......thank you.........":……ありがとう………」}`
-`{ruby:George spent his last breath thanking Beato, and died side by side with the one he loved.:譲治は最後の息を、ベアトに感謝することに費やし、愛しき人と肩を並べて絶命する。}`
-`{ruby:The gold snake, which still sewed the two in place, spun like a large cyclone, revolving around the inside of the parlor.:その二人を今尚縫い止めたままの黄金の蛇は、大きく渦を巻くように、ぐるぐるっと客間内を旋回する。}`
-`{ruby:.........It was searching for further kills in that room.:………さらなる室内の獲物を探っているのだ。}`
-`{ruby:Then, the tip of the snake met Beato's gaze...:そしてその蛇の先端とベアトの目が合う…。}`
-`{ruby:{n}In that instant, Beato prepared herself for death.:{n}ベアトはその瞬間、死を覚悟した。}`
-`{ruby:Just then, {f:5:Virgilia} stood in front of her, the fingers of both her hands drawing a mark.:その時、ワルギリアがその前に立ちはだかり、両手の指で印を描く。}`
-`{ruby:In that instant, gold‐colored gold leaf buried the inside of the parlor.:その瞬間、黄金色の金箔が客間の中を埋め尽くした。}`
+`{ruby:George spent his last breath thanking Beato, and:譲治は最後の息を、ベアトに感謝することに費}{ruby:died side by side with the one he loved.:やし、愛しき人と肩を並べて絶命する。}`
+`{ruby:The gold snake, which still sewed the two in place, spun:その二人を今尚縫い止めたままの黄金の蛇は、大きく渦}{ruby:like a large cyclone, revolving around the inside of the parlor.:を巻くように、ぐるぐるっと客間内を旋回する。}`
+`{ruby:.........It was searching for:………さらなる室内の獲物}{ruby:further kills in that room.:を探っているのだ。}`
+`{ruby:Then, the tip of:そしてその蛇の先端とベ}{ruby:the snake met Beato's gaze...:アトの目が合う…。}`
+`{ruby:{n}In that instant, Beato:{n}ベアトはその瞬間}{ruby:prepared herself for death.:、死を覚悟した。}`
+`{ruby:Just then, {f:5:Virgilia} stood in front of her,:その時、ワルギリアがその前に立ちは}{ruby:the fingers of both her hands drawing a mark.:だかり、両手の指で印を描く。}`
+`{ruby:In that instant, gold‐colored gold leaf:その瞬間、黄金色の金箔が客}{ruby:buried the inside of the parlor.:間の中を埋め尽くした。}`
 `{ruby:{n}It was like a blizzard of gold...:{n}それはさながら黄金の吹雪…。}`
 `{ruby:"Beato, escape while you can!!:「ベアト、今の内に逃げてッ！！}`
-`{ruby:{i:No one can escape} from the Chiesters' golden bow!!!":シエスタの黄金弓からは{i:誰も逃れられない}ッ！！！」}`
+`{ruby:{i:No one can escape}:シエスタの黄金弓からは{i:誰も}{ruby:from the Chiesters' golden bow!!!":逃れられない}ッ！！！」}`
 `{ruby:"410, target lost!!:「４１０、標的失探！！}`
 `{ruby:Nihyah, magical chaff!!":にひゃっ、魔法欺瞞紙ッ！！」}`
 `{ruby:"45, understood...!:「４５了解…！}`
-`{ruby:Modifying enemy search: personal image homing algorithm.:索敵変更、対人画像追尾方式。}`
-`{ruby:Target reacquired, data link to 410.":標的再捕捉、４１０へデータリンク」}`
+`{ruby:Modifying enemy search::索敵変更、対人画像}{ruby:personal image homing algorithm.:追尾方式。}`
+`{ruby:Target reacquired, data:標的再捕捉、４１０へ}{ruby:link to 410.":データリンク」}`
 `{ruby:"410, data received.:「４１０データ受領。}`
 `{ruby:Too slowww nyeh, Predecessor‐samaa!!:すっトロいにぇ、先代さまぁッ！！}`
-`{ruby:Here it comes here it comes here it comes,:来た来た来たぁ、}`
+`{ruby:Here it comes here:来た来た来た}{ruby:it comes here it comes,:ぁ、}`
 `{ruby:...IMPACT!!":…着弾ッ！！」}`
-`{ruby:The Chiester Sisters' golden bow would not let its kill escape.:シエスタ姉妹の黄金弓は、狙った獲物を逃さない。}`
+`{ruby:The Chiester Sisters' golden bow:シエスタ姉妹の黄金弓は、狙}{ruby:would not let its kill escape.:った獲物を逃さない。}`
 `{ruby:{n}It would not let them block it.:{n}防がせない。}`
-`{ruby:...No magical barrier could even dream of blocking it without being multilayered.:…魔法的なあらゆる障壁も、多層でなければ防ぐことを夢見ることさえ許さない。}`
-`{ruby:The weak point during the instant of confusion caused by {f:5:Virgilia}'s deception magic was Beato's only chance to escape.:ワルギリアが放った欺瞞魔法により、一瞬だけ混乱したその隙だけが、ベアトが逃げ去るチャンス。}`
-`{ruby:And the only opportunity to make the sisters confuse {f:5:Virgilia} for Beato.:そして、姉妹がワルギリアをベアトと誤解する唯一のチャンス。}`
-`{ruby:As {f:5:Virgilia} spread her arms wide, blocking the way to her beloved disciple, the gold snake pierced straight through the location of her heart...:両手を広げて愛弟子を庇うワルギリアの心臓の位置を正確に、黄金の蛇が打ち抜く…。}`
-`{ruby:The snake, which had snuck in through the keyhole, shot through George and Shannon, and then shot through {f:5:Virgilia} in an instant,:鍵穴より侵入し、譲治と紗音の二人を撃ち抜き、さらにワルギリアまでも撃ち抜いた黄金の蛇は、}`
-`{ruby:completely failed to notice as Beato escaped...:その瞬間に逃げ去ったベアトについては完全に気付けなかった…。}`
-`{ruby:As soon as {f:5:Virgilia} saw that Beato had gotten away, she expired.:ワルギリアは、ベアトが逃げ切れたことを見届けると、事切れる。}`
-`{ruby:......The strength left her body, and like gold dust drifting with the wind, her form was erased...:……がくりと脱力し、その姿をさらさらと風に飛ぶ砂金のようにして、姿を消していった…。}`
-`{ruby:Beato completely erased all traces of her magical power,:ベアトは魔力の痕跡を完全に消し去り、}`
-`{ruby:became gold butterflies, and passed through the wall, escaping to the wind and rain outside......:黄金の蝶になって、壁をすり抜けて風雨の戸外へ逃げ去る……。}`
+`{ruby:...No magical barrier could even dream:…魔法的なあらゆる障壁も、多層でなければ}{ruby:of blocking it without being multilayered.:防ぐことを夢見ることさえ許さない。}`
+`{ruby:The weak point during the instant of confusion caused:ワルギリアが放った欺瞞魔法により、一瞬だけ混乱し}{ruby:by {f:5:Virgilia}'s deception magic was Beato's only chance to escape.:たその隙だけが、ベアトが逃げ去るチャンス。}`
+`{ruby:And the only opportunity to make:そして、姉妹がワルギリアをベアト}{ruby:the sisters confuse {f:5:Virgilia} for Beato.:と誤解する唯一のチャンス。}`
+`{ruby:As {f:5:Virgilia} spread her arms wide, blocking the way to her beloved:両手を広げて愛弟子を庇うワルギリアの心臓の}{ruby:disciple, the gold snake pierced straight through the location of her heart...:位置を正確に、黄金の蛇が打ち抜く…。}`
+`{ruby:The snake, which had snuck in through the keyhole, shot through:鍵穴より侵入し、譲治と紗音の二人を撃ち抜き、さ}{ruby:George and Shannon, and then shot through {f:5:Virgilia} in an instant,:らにワルギリアまでも撃ち抜いた黄金の蛇は、}`
+`{ruby:completely failed to:その瞬間に逃げ去ったベアトについ}{ruby:notice as Beato escaped...:ては完全に気付けなかった…。}`
+`{ruby:As soon as {f:5:Virgilia} saw that:ワルギリアは、ベアトが逃げ切れた}{ruby:Beato had gotten away, she expired.:ことを見届けると、事切れる。}`
+`{ruby:......The strength left her body, and like gold:……がくりと脱力し、その姿をさらさらと風に飛}{ruby:dust drifting with the wind, her form was erased...:ぶ砂金のようにして、姿を消していった…。}`
+`{ruby:Beato completely erased all:ベアトは魔力の痕跡を}{ruby:traces of her magical power,:完全に消し去り、}`
+`{ruby:became gold butterflies, and passed through the:黄金の蝶になって、壁をすり抜けて}{ruby:wall, escaping to the wind and rain outside......:風雨の戸外へ逃げ去る……。}`
 `{ruby:"..................Damn it,:「………………くそ、}`
 `{ruby:.........damn it, damn it...:………くそくそ…。}`
 `{ruby:......You bitch,:……おのれ、}`
-`{ruby:......you biii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiitch...!!":……おのれぇええぇぇぇッ…！！」}`
-`{ruby:Beato felt sick from the bottom of her heart.:ベアトは心の底から悔しがる。}`
+`{ruby:......you:……おのれぇええぇ}{ruby:biii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiitch...!!":ぇぇッ…！！」}`
+`{ruby:Beato felt sick from:ベアトは心の底か}{ruby:the bottom of her heart.:ら悔しがる。}`
 `{ruby:Why?:何に？}`
-`{ruby:Because she had been attacked by the new witch?:新しき魔女に襲われたから？}`
+`{ruby:Because she had been:新しき魔女に襲わ}{ruby:attacked by the new witch?:れたから？}`
 `{ruby:Probably...not.:多分、違う。}`
-`{ruby:Of course, she also felt sick over the loss of her master.:師匠を失ったことももちろん悔しい。}`
-`{ruby:But even more than that, Beato was enraged at the barbarism which had boorishly stolen the union between the two reunited lovers.:そしてそれ以上に、再会できた愛し合う二人の逢瀬を無粋に奪った蛮行に、ベアトは憤った。}`
-`{ruby:......Beato had poured out almost all of her magical power to reunite them.:……二人を再会させるために、ベアトは魔力のほとんどを注ぎ込んだ。}`
-`{ruby:...That miracle had been achieved only as a result of all that,:…その末に至った奇跡なのに、}`
-`{ruby:......yet it had taken such a short time to steal it away...!:……それを奪い去る時間はあまりに一瞬…！}`
-`{ruby:Beato trembled at the barbarous cruelty which had ended it so fast.:その呆気ないまでの蛮行の残酷さに、ベアトは打ち震える。}`
-`{ruby:......And it was also the true form of the acts she herself had committed up until that point...:……そしてそれは、自らが犯してきた行為の正体でもあるのだ…。}`
-`{ruby:So just as strongly as Beato hated the new witch, she looked at her previous self with disgust.:だからベアトは、新しき魔女を憎むのと同じだけ、かつての自らを嫌悪した。}`
+`{ruby:Of course, she also felt sick:師匠を失ったこともも}{ruby:over the loss of her master.:ちろん悔しい。}`
+`{ruby:But even more than that, Beato was enraged at the barbarism:そしてそれ以上に、再会できた愛し合う二人の逢}{ruby:which had boorishly stolen the union between the two reunited lovers.:瀬を無粋に奪った蛮行に、ベアトは憤った。}`
+`{ruby:......Beato had poured out almost all:……二人を再会させるために、ベアト}{ruby:of her magical power to reunite them.:は魔力のほとんどを注ぎ込んだ。}`
+`{ruby:...That miracle had been achieved only:…その末に至った}{ruby:as a result of all that,:奇跡なのに、}`
+`{ruby:......yet it had taken such a:……それを奪い去る時間}{ruby:short time to steal it away...!:はあまりに一瞬…！}`
+`{ruby:Beato trembled at the barbarous cruelty:その呆気ないまでの蛮行の残酷さ}{ruby:which had ended it so fast.:に、ベアトは打ち震える。}`
+`{ruby:......And it was also the true form of the:……そしてそれは、自らが犯してき}{ruby:acts she herself had committed up until that point...:た行為の正体でもあるのだ…。}`
+`{ruby:So just as strongly as Beato hated the new:だからベアトは、新しき魔女を憎むのと同}{ruby:witch, she looked at her previous self with disgust.:じだけ、かつての自らを嫌悪した。}`
 `{ruby:But now she had to escape...:だが、今は逃げなければ…。}`
-`{ruby:{n}......If she was targeted next, she would probably lose her life.:{n}……次に狙われれば命を落とすだろう。}`
-`{ruby:And it wouldn't even be funny if the chess player, descended like a god,:チェスのプレイヤーが、神様気取りで降臨し、駒に討ち取られたなんて、}`
-`{ruby:ended up being attacked and killed by the pieces.:笑い話にもならないのだから。}`
-`{ruby:"45, impact confirmed, target scattered.:「４５、着弾確認、標的四散。}`
-`{ruby:......W‐without a doubt, we crushed the Predecessor...!":……ま、間違いなく、先代さまを撃破しました…！」}`
-`{ruby:"Our pile of kill medals is gonna get bigger yeeeet again nyeh.:「まぁた私たちの撃墜記章が増えちまうにぇ。}`
+`{ruby:{n}......If she was targeted next,:{n}……次に狙われれば}{ruby:she would probably lose her life.:命を落とすだろう。}`
+`{ruby:And it wouldn't even be funny if:チェスのプレイヤーが、神様気取りで降}{ruby:the chess player, descended like a god,:臨し、駒に討ち取られたなんて、}`
+`{ruby:ended up being attacked:笑い話にもならな}{ruby:and killed by the pieces.:いのだから。}`
+`{ruby:"45, impact:「４５、着弾確認}{ruby:confirmed, target scattered.:、標的四散。}`
+`{ruby:......W‐without a doubt,:……ま、間違いなく、先代さ}{ruby:we crushed the Predecessor...!":まを撃破しました…！」}`
+`{ruby:"Our pile of kill medals is:「まぁた私たちの撃墜記章}{ruby:gonna get bigger yeeeet again nyeh.:が増えちまうにぇ。}`
 `{ruby:Nihi!":にひ！」}`
 `{ruby:"What was that about loving couples?:「愛し合う二人、……何だっけ？}`
-`{ruby:You get to enjoy them thrice—once tearing the two apart, once reuniting them, and once tearing them apart again...right?:引き裂いて一度、会わせて二度、もう一度引き裂いて三度楽しめる、だっけ？}`
-`{ruby:*cackle*hihi{0}hi{0}hi{0}hi{0}hhihi!":くっくくひひひひひっひひ！」}`
-`{ruby:"And I feel great about getting to say goodbye to that fussy‐as‐fuck old hag at the same time.:「そのついでにあのクソ五月蝿いババアまでさよならできて、最高にご機嫌よ。}`
-`{ruby:......Ronove, you don't have any complaints, right?":……ロノウェ、文句ないわよね？」}`
+`{ruby:You get to enjoy them thrice—once tearing the two:引き裂いて一度、会わせて二度、もう一度}{ruby:apart, once reuniting them, and once tearing them apart again...right?:引き裂いて三度楽しめる、だっけ？}`
+`{ruby::くっくくひひひひひ}{ruby:*cackle*hihi{0}hi{0}hi{0}hi{0}hhihi!":っひひ！」}`
+`{ruby:"And I feel great about getting to say goodbye:「そのついでにあのクソ五月蝿いババアま}{ruby:to that fussy‐as‐fuck old hag at the same time.:でさよならできて、最高にご機嫌よ。}`
+`{ruby:......Ronove, you don't:……ロノウェ、文句}{ruby:have any complaints, right?":ないわよね？」}`
 `{ruby:"......Why, of course not,:「……ございませんとも。}`
 `{ruby:{f:5:Beatrice}‐sama.":ベアトリーチェさま」}`
-`{ruby:"She interfered with the ritual of the witch's epitaph, you see?:「あいつは、魔女の碑文の儀式を妨害したのよ？}`
-`{ruby:She revived a sacrifice from the first twilight without permission, and interfered with my ritual.:第一の晩の生贄を勝手に蘇らせて、私の儀式を妨害したわ。}`
-`{ruby:No one has aaany right at all to complain.":文句言われる筋合いなんか、なぁんにもないわよ」}`
+`{ruby:"She interfered with the ritual:「あいつは、魔女の碑文の}{ruby:of the witch's epitaph, you see?:儀式を妨害したのよ？}`
+`{ruby:She revived a sacrifice from the first:第一の晩の生贄を勝手に蘇らせて}{ruby:twilight without permission, and interfered with my ritual.:、私の儀式を妨害したわ。}`
+`{ruby:No one has aaany:文句言われる筋合いなんか、}{ruby:right at all to complain.":なぁんにもないわよ」}`
 `{ruby:"Kuhhihihihhyahyahyahya...!:「くっひひひっひゃひゃひゃひゃ…！}`
-`{ruby:Sucks that she doesn't leave a corpse behind though.:しかしズルイなぁ、あいつは死体を残さないのね。}`
-`{ruby:......I was thinking of torturing that old hag to death over and over again endlessly.:……あのババァも、思いっきり何度も無限に虐め殺して遊んでやろうと思ったのに。}`
+`{ruby:Sucks that she doesn't:しかしズルイなぁ、あいつは}{ruby:leave a corpse behind though.:死体を残さないのね。}`
+`{ruby:......I was thinking of torturing that old:……あのババァも、思いっきり何度も無限に}{ruby:hag to death over and over again endlessly.:虐め殺して遊んでやろうと思ったのに。}`
 `{ruby:Kuhhi{0}hihya{0}hyahya...!!":くっひひひゃひゃひゃ…！！」}`
 `{ruby:"........................":「……………………」}`
 `{ruby:"G‐George did...?!:「じょ、譲治が…？！}`
-`{ruby:He didn't show up, when did he come down?!":来てないわよ、いつ降りたのよ？！」}`
+`{ruby:He didn't show up,:来てないわよ、いつ降}{ruby:when did he come down?!":りたのよ？！」}`
 `{ruby:"......Wh‐when...?:「……い、いつって…。}`
 `{ruby:What time was that, again...?":あれは何時位だったっけ…？」}`
-`{ruby:"I think...it was probably about four or five.:「確か、…４時か５時くらいだったかなぁ。}`
+`{ruby:"I think...it was probably:「確か、…４時か５時く}{ruby:about four or five.:らいだったかなぁ。}`
 `{ruby:...It was at least an hour ago...":…最低でも１時間以上は前だよ…」}`
-`{ruby:"We got sleepy, and probably dozed off after that...:「俺たち、眠くなってその後は多分、居眠りしてたし…。}`
-`{ruby:But I think Jessica probably has it right.:でも多分、朱志香の言う通りだと思うぜ。}`
+`{ruby:"We got sleepy, and:「俺たち、眠くなってその後は}{ruby:probably dozed off after that...:多分、居眠りしてたし…。}`
+`{ruby:But I think Jessica:でも多分、朱志香の言う}{ruby:probably has it right.:通りだと思うぜ。}`
 `{ruby:About one or two hours ago.":１時間か２時間くらい前だった」}`
-`{ruby:"I, I also remember it being around that time.:「わ、私もそのくらいの頃だと記憶しています。}`
-`{ruby:Because I was asked whether I wanted more coffee...":コーヒーのお代わりはいるかと聞かれましたからな…」}`
-`{ruby:Something hard to believe had happened...:信じ難いことが起きた…。}`
-`{ruby:Apparently, when Auntie Eva had left for a second to visit the lavatory,:絵羽伯母さんが、ちょっとお手洗いに行っている間に、}`
-`{ruby:Uncle Krauss and Aunt Natsuhi had disappeared.:蔵臼伯父さんと夏妃伯母さんがいなくなってしまったというのだ。}`
-`{ruby:There's no way they went hiding somewhere.:どこかに隠れているわけもない。}`
-`{ruby:Of course, the doors and windows had all been rigorously checked, and all were locked from the inside.:もちろん、戸締りは全て厳重で、内側から鍵が掛けられている。}`
+`{ruby:"I, I also remember:「わ、私もそのくらいの頃}{ruby:it being around that time.:だと記憶しています。}`
+`{ruby:Because I was asked:コーヒーのお代わりはいるかと}{ruby:whether I wanted more coffee...":聞かれましたからな…」}`
+`{ruby:Something hard to:信じ難いことが}{ruby:believe had happened...:起きた…。}`
+`{ruby:Apparently, when Auntie Eva had left:絵羽伯母さんが、ちょっとお手}{ruby:for a second to visit the lavatory,:洗いに行っている間に、}`
+`{ruby:Uncle Krauss and:蔵臼伯父さんと夏妃伯母さんがいな}{ruby:Aunt Natsuhi had disappeared.:くなってしまったというのだ。}`
+`{ruby:There's no way:どこかに隠れている}{ruby:they went hiding somewhere.:わけもない。}`
+`{ruby:Of course, the doors and windows had all been:もちろん、戸締りは全て厳重で、内}{ruby:rigorously checked, and all were locked from the inside.:側から鍵が掛けられている。}`
 `{ruby:Not one of them was broken.:破られているものはひとつもない。}`
-`{ruby:And that wasn't just the first floor—the second floor was the same.:それは１階だけじゃない、２階も同様だ。}`
-`{ruby:Also, all of the doors and windows were designed in such a way that they couldn't be locked from the outside.:また、全ての扉や窓について、その構造上、外からは掛けられない形の鍵を有している。}`
-`{ruby:...In other words, there was no way that Uncle Krauss and Aunt Natsuhi had gone outside.:…つまり、蔵臼伯父さんたちが外へ出たわけもないのだ。}`
-`{ruby:{n}......And yet, they couldn't be found.:{n}……にもかかわらず、その姿がない。}`
-`{ruby:Furthermore, they weren't the only ones who had disappeared......astonishingly, George‐aniki had too.:そして、姿を消したのは二人だけではなく、……何と譲治の兄貴もだった。}`
-`{ruby:George‐aniki had left saying that he was going to get more coffee,:譲治の兄貴は、コーヒーのお代わりを取りに行くと言い残し、}`
-`{ruby:and had gone downstairs more than an hour earlier.:１時間以上は前に、下へ降りていったきりだ。}`
-`{ruby:I'd been under the impression that he was having a good conversation with Auntie Eva and the rest,:きっと、絵羽伯母さんたちと会話が弾んでいるのだろうと思い込んでいたのだが、}`
-`{ruby:......but Auntie Eva, who had been in the lobby the whole time, said that no one had come down.:……ずっとロビーにいた絵羽伯母さんは、誰も降りてこなかったと話す。}`
-`{ruby:Since all of the doors and windows are locked from the inside,:全ての扉と窓が内側から施錠されている以上、}`
-`{ruby:...it's hard to imagine that they went outside.:…彼らが外へ出て行ったとは考えられない。}`
-`{ruby:......Nevertheless, three humans had evaporated from this barricaded guesthouse, which had become a perfect locked room......:……しかし、この完全な密室と化した篭城のゲストハウスから、人間が３人も蒸発したのだ……。}`
-`{ruby:It's hard to imagine any reason why they'd hide themselves away for a surprise prank in a situation like this.:このような状況下で、驚かすなんて悪戯のために、彼らが隠れん坊をする理由など考えられない。}`
-`{ruby:......It's probably appropriate to think that they've become caught up in this crime...:……事件に巻き込まれたと考えるのが妥当だろう…。}`
-`{ruby:When Auntie Eva learned that her only son was missing,:絵羽伯母さんは、一人息子が失踪していたことを知り、}`
-`{ruby:she went half insane, running from room to room and yelling his name loudly.:錯乱状態になって、部屋から部屋へ大声でその名を呼びながら駆け回っている。}`
-`{ruby:...And Jessica, who had suddenly lost both of her parents, followed suit.:…そして、唐突に両親を失った朱志香も後に続く。}`
-`{ruby:Cries of "George, George" and "Mom, Dad" were even now continuing to echo through the guesthouse...:ゲストハウスの中には、譲治譲治という声と、父さん母さんという声が、いつまでも木霊し続けている…。}`
-`{ruby:I think George said something about wanting to see Shannon's face.:譲治の兄貴は、紗音ちゃんの死に顔を見たい、というようなことを口にしていたと思う。}`
-`{ruby:......It would be reasonable to imagine that he had snuck out of the guesthouse and gone to the mansion.:……こっそりとゲストハウスを抜け出して、屋敷へ行ったと考えるのが妥当だった。}`
-`{ruby:...However, I don't know about Uncle Krauss and Aunt Natsuhi.:…だが、蔵臼伯父さんたちについてはわからない。}`
-`{ruby:{n}...Maybe they guessed that's what happened, and went to the mansion to search for him...?:{n}…それを察して、屋敷へ探しに行ったのだろうか…？}`
+`{ruby:And that wasn't just the first:それは１階だけじゃない}{ruby:floor—the second floor was the same.:、２階も同様だ。}`
+`{ruby:Also, all of the doors and windows were designed in:また、全ての扉や窓について、その構造上、外}{ruby:such a way that they couldn't be locked from the outside.:からは掛けられない形の鍵を有している。}`
+`{ruby:...In other words, there was no way that:…つまり、蔵臼伯父さんたちが}{ruby:Uncle Krauss and Aunt Natsuhi had gone outside.:外へ出たわけもないのだ。}`
+`{ruby:{n}......And yet, they:{n}……にもかかわら}{ruby:couldn't be found.:ず、その姿がない。}`
+`{ruby:Furthermore, they weren't the only ones:そして、姿を消したのは二人だけではな}{ruby:who had disappeared......astonishingly, George‐aniki had too.:く、……何と譲治の兄貴もだった。}`
+`{ruby:George‐aniki had left saying that he:譲治の兄貴は、コーヒーのお代わ}{ruby:was going to get more coffee,:りを取りに行くと言い残し、}`
+`{ruby:and had gone downstairs:１時間以上は前に、下へ降}{ruby:more than an hour earlier.:りていったきりだ。}`
+`{ruby:I'd been under the impression that he was having:きっと、絵羽伯母さんたちと会話が弾んでい}{ruby:a good conversation with Auntie Eva and the rest,:るのだろうと思い込んでいたのだが、}`
+`{ruby:......but Auntie Eva, who had been in the lobby:……ずっとロビーにいた絵羽伯母さんは}{ruby:the whole time, said that no one had come down.:、誰も降りてこなかったと話す。}`
+`{ruby:Since all of the doors and:全ての扉と窓が内側から施}{ruby:windows are locked from the inside,:錠されている以上、}`
+`{ruby:...it's hard to imagine:…彼らが外へ出て行った}{ruby:that they went outside.:とは考えられない。}`
+`{ruby:......Nevertheless, three humans had evaporated from this barricaded:……しかし、この完全な密室と化した篭城のゲスト}{ruby:guesthouse, which had become a perfect locked room......:ハウスから、人間が３人も蒸発したのだ……。}`
+`{ruby:It's hard to imagine any reason why they'd hide themselves:このような状況下で、驚かすなんて悪戯のために、}{ruby:away for a surprise prank in a situation like this.:彼らが隠れん坊をする理由など考えられない。}`
+`{ruby:......It's probably appropriate to think that:……事件に巻き込まれたと考}{ruby:they've become caught up in this crime...:えるのが妥当だろう…。}`
+`{ruby:When Auntie Eva learned that:絵羽伯母さんは、一人息子が失}{ruby:her only son was missing,:踪していたことを知り、}`
+`{ruby:she went half insane, running from room:錯乱状態になって、部屋から部屋へ大声で}{ruby:to room and yelling his name loudly.:その名を呼びながら駆け回っている。}`
+`{ruby:...And Jessica, who had suddenly lost:…そして、唐突に両親を失っ}{ruby:both of her parents, followed suit.:た朱志香も後に続く。}`
+`{ruby:Cries of "George, George" and "Mom, Dad" were:ゲストハウスの中には、譲治譲治という声と、父さん母}{ruby:even now continuing to echo through the guesthouse...:さんという声が、いつまでも木霊し続けている…。}`
+`{ruby:I think George said something:譲治の兄貴は、紗音ちゃんの死に顔を見たい、}{ruby:about wanting to see Shannon's face.:というようなことを口にしていたと思う。}`
+`{ruby:......It would be reasonable to imagine that he had:……こっそりとゲストハウスを抜け出して、}{ruby:snuck out of the guesthouse and gone to the mansion.:屋敷へ行ったと考えるのが妥当だった。}`
+`{ruby:...However, I don't know about:…だが、蔵臼伯父さんたちに}{ruby:Uncle Krauss and Aunt Natsuhi.:ついてはわからない。}`
+`{ruby:{n}...Maybe they guessed that's what happened, and:{n}…それを察して、屋敷へ探}{ruby:went to the mansion to search for him...?:しに行ったのだろうか…？}`
 `{ruby:Without even telling Auntie Eva...?:絵羽伯母さんに声も掛けずに…？}`
-`{ruby:At this rate, it's only a matter of time before we start talking about leaving the guesthouse to search for them.:このままでは、ゲストハウスを出て彼らを探しに行こうという話になるのも、時間の問題だろう。}`
-`{ruby:.........At this point, I'd be in favor of that.:………この期に及んでは、俺もそれに賛成だ。}`
-`{ruby:We said that shutting ourselves up inside the guesthouse would be safe,:ゲストハウスに閉じ篭ってれば安全だと言って、}`
-`{ruby:and shut ourselves in this morning as a big, happy family of twelve people.:俺たちは今朝、１２人もの大所帯でここに閉じ篭ったはずなんだ。}`
-`{ruby:And yet, now there are only four people here.:なのにそれが、今やここには４人しかいない。}`
-`{ruby:......In other words, being here does not imply safety...:……つまり、ここにいることが安全を意味したりはしないのだ…。}`
-`{ruby:However, ...there's something even more important that we mustn't forget.:だが、…その前に忘れてはならないことがある。}`
-`{ruby:{n}That's the fact that all of the doors and windows were locked from the inside.:{n}全ての扉と窓が内側から閉ざされているということだ。}`
+`{ruby:At this rate, it's only a matter of time before:このままでは、ゲストハウスを出て彼らを探しに行}{ruby:we start talking about leaving the guesthouse to search for them.:こうという話になるのも、時間の問題だろう。}`
+`{ruby:.........At this point, I'd:………この期に及んでは、}{ruby:be in favor of that.:俺もそれに賛成だ。}`
+`{ruby:We said that shutting ourselves up:ゲストハウスに閉じ篭って}{ruby:inside the guesthouse would be safe,:れば安全だと言って、}`
+`{ruby:and shut ourselves in this morning as:俺たちは今朝、１２人もの大所帯で}{ruby:a big, happy family of twelve people.:ここに閉じ篭ったはずなんだ。}`
+`{ruby:And yet, now there:なのにそれが、今やここに}{ruby:are only four people here.:は４人しかいない。}`
+`{ruby:......In other words, being:……つまり、ここにいることが安全}{ruby:here does not imply safety...:を意味したりはしないのだ…。}`
+`{ruby:However, ...there's something even more:だが、…その前に忘れては}{ruby:important that we mustn't forget.:ならないことがある。}`
+`{ruby:{n}That's the fact that all of the:{n}全ての扉と窓が内側から閉}{ruby:doors and windows were locked from the inside.:ざされているということだ。}`
 `{ruby:......This is a locked room.:……ここは密室なのだ。}`
-`{ruby:{n}How had they vanished from this place?:{n}どうやって彼らはここから姿を消したというのか。}`
+`{ruby:{n}How had they:{n}どうやって彼らはここか}{ruby:vanished from this place?:ら姿を消したというのか。}`
 `{ruby:We'd searched around thoroughly.:俺たちは徹底的に探し回った。}`
-`{ruby:{n}However, we were unable to find any signs of anyone hiding.:{n}しかし、誰かが隠れている痕跡は見つけられなかった。}`
-`{ruby:...The three of them had almost certainly been taken outside the guesthouse.:…ほぼ間違いなく、彼ら３人はゲストハウスの外へは連れ出されている。}`
+`{ruby:{n}However, we were unable to:{n}しかし、誰かが隠れている}{ruby:find any signs of anyone hiding.:痕跡は見つけられなかった。}`
+`{ruby:...The three of them had almost:…ほぼ間違いなく、彼ら３人はゲストハ}{ruby:certainly been taken outside the guesthouse.:ウスの外へは連れ出されている。}`
 `{ruby:".........I wonder how they did it...:「………どうやってでしょう…。}`
-`{ruby:You don't think......there might be something like a hidden door?":まさか、……隠し扉とかがあるとか」}`
+`{ruby:You don't think......there might be:まさか、……隠し扉と}{ruby:something like a hidden door?":かがあるとか」}`
 `{ruby:"A hidden door...?":「隠し扉…？」}`
-`{ruby:"...The doors and the windows are impossible to lock from the outside by construction.:「…扉も窓も、外から閉めることは構造上、不可能です。}`
-`{ruby:Even using a fishing line of some kind, it would probably be impossible with the way they are constructed.:釣り糸の類を使っても、この構造では無理でしょうな。}`
-`{ruby:In that case, it's probably reasonable to think that they left through somewhere other than a door or a window...":となれば、扉や窓以外から出たと考えるのが妥当でしょう…」}`
+`{ruby:"...The doors and the windows are impossible:「…扉も窓も、外から閉めるこ}{ruby:to lock from the outside by construction.:とは構造上、不可能です。}`
+`{ruby:Even using a fishing line of some kind, it:釣り糸の類を使っても、この構}{ruby:would probably be impossible with the way they are constructed.:造では無理でしょうな。}`
+`{ruby:In that case, it's probably reasonable to think that they:となれば、扉や窓以外から出たと}{ruby:left through somewhere other than a door or a window...":考えるのが妥当でしょう…」}`
 `{ruby:".........You're right.:「………確かに。}`
 `{ruby:That does make logical sense.:そういう論法にもなるだろうよ。}`
-`{ruby:......No one can be sure that no hidden doors exist.:……隠し扉が存在しないなんて断言は誰にもできない。}`
-`{ruby:...However, before leaping to that conclusion, I suspect a much simpler possibility.":…しかし、そういう発想に飛躍する前に、俺はもっとシンプルな可能性も疑ってる」}`
+`{ruby:......No one can be sure:……隠し扉が存在しないなんて}{ruby:that no hidden doors exist.:断言は誰にもできない。}`
+`{ruby:...However, before leaping to that conclusion,:…しかし、そういう発想に飛躍する前に、俺}{ruby:I suspect a much simpler possibility.":はもっとシンプルな可能性も疑ってる」}`
 `{ruby:"And...what would that be......?":「と、…申しますと……？」}`
-`{ruby:For some time, Battler had been opening windows, opening the shutters, and checking outside,:戦人はさっきから、窓を開け、鎧戸を開けては外を確かめる仕草をして、}`
+`{ruby:For some time, Battler had been opening:戦人はさっきから、窓を開け、鎧戸を開}{ruby:windows, opening the shutters, and checking outside,:けては外を確かめる仕草をして、}`
 `{ruby:and repeating this for each window.:それを次々に繰り返していた。}`
 `{ruby:".........Hmm.:「………ん。}`
 `{ruby:...This window sure is quiet.:…この窓は静かだな。}`
-`{ruby:...I see, unlike the other windows, the building's construction means that the wind doesn't blow into this one.":…なるほど、この窓は他と違って建物の構造上、風が吹き込まないわけか」}`
+`{ruby:...I see, unlike the other windows, the building's construction:…なるほど、この窓は他と違って建物の}{ruby:means that the wind doesn't blow into this one.":構造上、風が吹き込まないわけか」}`
 `{ruby:"It appears that way...:「そのようですな…。}`
-`{ruby:It feels strange that no wind or rain comes in, even though there is so much of it outside.":こんなにも外は風雨なのに、雨も風も入ってこないとは不思議な気持ちです」}`
+`{ruby:It feels strange that no wind or rain comes:こんなにも外は風雨なのに、雨も風も入っ}{ruby:in, even though there is so much of it outside.":てこないとは不思議な気持ちです」}`
 `{ruby:"Doctor Nanjo.:「南條先生。}`
-`{ruby:...When I opened the window just now, did you hear a sound?":…今、窓を開けた時、音を感じたかい？」}`
+`{ruby:...When I opened the window just:…今、窓を開けた時、音}{ruby:now, did you hear a sound?":を感じたかい？」}`
 `{ruby:"Huh?:「え？}`
 `{ruby:......No, I did not notice it...:……いえ、気にはなりませんでしたな…。}`
 `{ruby:I believe it is well oiled.":よく油が効いてると思います」}`
 `{ruby:"In other words,:「つまり。}`
-`{ruby:it would be possible to slink out through this hall window, which no one was watching.:誰も見ていない廊下の窓から、ひょろっと抜け出すことは可能なわけだ。}`
-`{ruby:Furthermore, the wind doesn't blow in through this window,:しかも、この窓なら風も吹き込まないから、}`
-`{ruby:so the air pressure wouldn't cause the curtains or a door to make a sound.:風圧でカーテンや扉が音を立てることもない。}`
+`{ruby:it would be possible to slink out through:誰も見ていない廊下の窓から、ひょろっ}{ruby:this hall window, which no one was watching.:と抜け出すことは可能なわけだ。}`
+`{ruby:Furthermore, the wind doesn't:しかも、この窓なら風も}{ruby:blow in through this window,:吹き込まないから、}`
+`{ruby:so the air pressure wouldn't cause the:風圧でカーテンや扉が音を}{ruby:curtains or a door to make a sound.:立てることもない。}`
 `{ruby:......It'd be quiet.":……静かなもんさ」}`
-`{ruby:Battler leaned out and looked at the ground below.:戦人は身を乗り出し、下の地面を見る。}`
-`{ruby:{n}...He was searching for some sign that George had jumped down.:{n}…譲治が飛び降りたかもしれない跡を探しているのだ。}`
-`{ruby:......But at a glance, he didn't see any mark like that on the grass in the middle of the pouring rain.:……しかし、降りしきる雨の中の芝生には、一見、そういう痕跡は残っていないように思えた。}`
-`{ruby:"......There might also be a window like this on the first floor.:「……こういう窓が、１階にもあるのかもしれない。}`
-`{ruby:It is possible to go outside without anyone noticing.":誰にも気付かれずに表へ出ることは可能だぜ」}`
-`{ruby:"However, not only the doors, but the windows too were all locked, and the shutters were even down as well, correct...?:「しかし扉はおろか、窓は全て施錠されて鎧戸まで閉まっていましたぞ…？}`
-`{ruby:It is possible to go out, but it would be impossible to lock up...":出ることは可能でも、閉めることは不可能だ…」}`
+`{ruby:Battler leaned out and:戦人は身を乗り出し、}{ruby:looked at the ground below.:下の地面を見る。}`
+`{ruby:{n}...He was searching for some:{n}…譲治が飛び降りたかもし}{ruby:sign that George had jumped down.:れない跡を探しているのだ。}`
+`{ruby:......But at a glance, he didn't see any mark like:……しかし、降りしきる雨の中の芝生には、一見、}{ruby:that on the grass in the middle of the pouring rain.:そういう痕跡は残っていないように思えた。}`
+`{ruby:"......There might also be a window:「……こういう窓が、１階に}{ruby:like this on the first floor.:もあるのかもしれない。}`
+`{ruby:It is possible to:誰にも気付かれずに表へ出}{ruby:go outside without anyone noticing.":ることは可能だぜ」}`
+`{ruby:"However, not only the doors, but the windows too were:「しかし扉はおろか、窓は全て施錠され}{ruby:all locked, and the shutters were even down as well, correct...?:て鎧戸まで閉まっていましたぞ…？}`
+`{ruby:It is possible to go out, but:出ることは可能でも、閉める}{ruby:it would be impossible to lock up...":ことは不可能だ…」}`
 `{ruby:"But they can be locked, see?:「閉められるぜ？}`
 `{ruby:Just like this, click.":こうやって、カチャンとな」}`
-`{ruby:Battler closed the window and locked it, as though this was perfectly obvious.:戦人は、何を当り前なことをという仕草で、開いた窓を閉め、施錠する。}`
-`{ruby:"............B‐......Battler‐san, you aren't saying...............":「…………ま、……まさか、戦人さんは……………」}`
-`{ruby:"If someone inside locked it in the end, this locked room is as easy as pie.":「最後に、中の人間が鍵を閉めれば、こんな密室は朝飯前だ」}`
+`{ruby:Battler closed the window and locked:戦人は、何を当り前なことをという仕草}{ruby:it, as though this was perfectly obvious.:で、開いた窓を閉め、施錠する。}`
+`{ruby:"............B‐......Battler‐san, you:「…………ま、……まさか、}{ruby:aren't saying...............":戦人さんは……………」}`
+`{ruby:"If someone inside locked it in the end,:「最後に、中の人間が鍵を閉めれ}{ruby:this locked room is as easy as pie.":ば、こんな密室は朝飯前だ」}`
 `{ruby:"B‐but that means,:「し、しかしそれでは、}`
 `{ruby:.........that means,:……それでは、}`
 `{ruby:......ooooooohhhh......":…おおおぉぉ……」}`
-`{ruby:Nanjo turned pale and shook his head several times.:南條は青ざめながら首を何度も横に振る。}`
-`{ruby:...Because the thing that Battler said was presenting a certain truth to him that was frightening even to imagine...:…戦人が口にしたそれは、想像するのも恐ろしいある事実を突きつけているからだ…。}`
-`{ruby:"......That's {i:if} they used the trick I thought of, of course?:「……俺の想像したトリックならな？}`
-`{ruby:However, with this trick, only a very limited number of people can be suspected.":しかし、こんなトリックを使えば、怪しまれる人物は極めて限定される」}`
-`{ruby:He didn't want to say it in front of Nanjo, ...but after eliminating Jessica, who had been with him the whole time,:南條の前でそれを口にしたくないが、…戦人とずっと一緒にいた朱志香を除けば、}`
-`{ruby:...the only ones who could have done it were Nanjo...and Eva.:…それが出来るのは南條と、…絵羽しかいない。}`
-`{ruby:"I, ...I would not do anything of the sort...!:「わ、…私はそんなことをしませんぞ…！}`
+`{ruby:Nanjo turned pale and:南條は青ざめながら首を}{ruby:shook his head several times.:何度も横に振る。}`
+`{ruby:...Because the thing that Battler said was presenting a:…戦人が口にしたそれは、想像するのも恐ろし}{ruby:certain truth to him that was frightening even to imagine...:いある事実を突きつけているからだ…。}`
+`{ruby:"......That's {i:if} they used the:「……俺の想像したト}{ruby:trick I thought of, of course?:リックならな？}`
+`{ruby:However, with this trick, only a very:しかし、こんなトリックを使えば、怪し}{ruby:limited number of people can be suspected.":まれる人物は極めて限定される」}`
+`{ruby:He didn't want to say it in front of Nanjo, ...but:南條の前でそれを口にしたくないが、…戦人}{ruby:after eliminating Jessica, who had been with him the whole time,:とずっと一緒にいた朱志香を除けば、}`
+`{ruby:...the only ones who could:…それが出来るのは南條と}{ruby:have done it were Nanjo...and Eva.:、…絵羽しかいない。}`
+`{ruby:"I, ...I would not:「わ、…私はそんなこと}{ruby:do anything of the sort...!:をしませんぞ…！}`
 `{ruby:Y‐yes, I can swear it...!!":え、えぇ、誓ってもいい…！！」}`
-`{ruby:"......In this case, it would become a battle between Auntie Eva and you for an alibi.:「……となると、絵羽伯母さんと南條先生のアリバイ合戦ってことになる。}`
-`{ruby:...We'd just have to suspect both of you,:…俺たちは、二人とも怪しんで、}`
-`{ruby:and confine the two of you separately.":それぞれを別々に監禁すればいいだけの話」}`
-`{ruby:".........To say it the other way around, this might be an effective trick if there were more survivors,:「………逆に言えば、このトリックは、もっと生存者が多ければ有効かもしれないが、}`
-`{ruby:but since our numbers have shrunk so much, it isn't particularly effective at all.":これだけ人数が減った状況下では、大して有効ではないんだ」}`
-`{ruby:...No, in fact, there's a chance they could dig their own grave with it.:…いや、それどころか、自分の首を絞める可能性だってある。}`
-`{ruby:......It should have been more expedient to make it look like the culprit was outside,:……むしろ、外に犯人がいるように見せ掛けるため、}`
-`{ruby:and to intentionally leave a door unlocked, or break a window...:わざと鍵を開け放したり、窓を破ったりした方が好都合なはずなのだ…。}`
-`{ruby:"............If this disappearing act had taken place midday today,:「…………もしこの失踪劇が、今日の昼にでも起これば、}`
-`{ruby:I'd have probably announced this theory with full confidence.:俺は自信満々にこの説を発表しただろうよ。}`
-`{ruby:...But at this stage, I'm not confident at all.:…だが、この段階に至っては全然自信が持てないぜ。}`
+`{ruby:"......In this case, it would become a battle:「……となると、絵羽伯母さんと南條先}{ruby:between Auntie Eva and you for an alibi.:生のアリバイ合戦ってことになる。}`
+`{ruby:...We'd just have to:…俺たちは、二人と}{ruby:suspect both of you,:も怪しんで、}`
+`{ruby:and confine the:それぞれを別々に監禁す}{ruby:two of you separately.":ればいいだけの話」}`
+`{ruby:".........To say it the other way around, this might:「………逆に言えば、このトリックは、もっと}{ruby:be an effective trick if there were more survivors,:生存者が多ければ有効かもしれないが、}`
+`{ruby:but since our numbers have shrunk so:これだけ人数が減った状況下では}{ruby:much, it isn't particularly effective at all.":、大して有効ではないんだ」}`
+`{ruby:...No, in fact, there's a chance they:…いや、それどころか、自分の首}{ruby:could dig their own grave with it.:を絞める可能性だってある。}`
+`{ruby:......It should have been more expedient to:……むしろ、外に犯人がいる}{ruby:make it look like the culprit was outside,:ように見せ掛けるため、}`
+`{ruby:and to intentionally leave a:わざと鍵を開け放したり、窓を破ったり}{ruby:door unlocked, or break a window...:した方が好都合なはずなのだ…。}`
+`{ruby:"............If this disappearing act:「…………もしこの失踪劇が、}{ruby:had taken place midday today,:今日の昼にでも起これば、}`
+`{ruby:I'd have probably announced:俺は自信満々にこの説を}{ruby:this theory with full confidence.:発表しただろうよ。}`
+`{ruby:...But at this stage,:…だが、この段階に至っては}{ruby:I'm not confident at all.:全然自信が持てないぜ。}`
 `{ruby:............What's going on here?:…………何なんだ、こいつは。}`
 `{ruby:...What the hell does it {i:mean}?:…一体何を意味してやがるんだ。}`
 `{ruby:.........This "locked room"......":………この“密室”はよ……」}`
-`{ruby:"Y‐......you don't think, umm.........":「や、……やはりその………」}`
+`{ruby:"Y‐......you don't:「や、……やはり}{ruby:think, umm.........":その………」}`
 `{ruby:"Hmm?:「ん？}`
 `{ruby:What is it, Doctor Nanjo?:何だい、南條先生。}`
-`{ruby:...Even if it's just a thought, please say it.":…思いつきでもいいから言ってくれよ」}`
-`{ruby:Because Doctor Nanjo looked like he was trying to swallow his words despite having thought of something, I urged him on.:何かを思いついたようなのに、その言葉を飲み込んだように見えた為、俺はそれを促す。}`
-`{ruby:After he refused several times, saying that it was just a foolish idea, he finally said it out loud.:南條先生は、いえいえ下らない話ですと何度か断った挙句、ようやく口にした。}`
+`{ruby:...Even if it's just:…思いつきでもいいか}{ruby:a thought, please say it.":ら言ってくれよ」}`
+`{ruby:Because Doctor Nanjo looked like he was trying to swallow:何かを思いついたようなのに、その言葉を飲み}{ruby:his words despite having thought of something, I urged him on.:込んだように見えた為、俺はそれを促す。}`
+`{ruby:After he refused several times, saying that it was:南條先生は、いえいえ下らない話ですと何}{ruby:just a foolish idea, he finally said it out loud.:度か断った挙句、ようやく口にした。}`
 `{ruby:"......Well, umm,:「……いえその。}`
-`{ruby:............you don't think this actually might be...:…………やはりこれは本当に、}`
+`{ruby:............you don't think:…………やはりこ}{ruby:this actually might be...:れは本当に、}`
 `{ruby:...the work of the witch...?":……魔女の仕業ではないのか、と…」}`
 `{ruby:"R‐...ridiculous.:「ば、…馬鹿馬鹿しい。}`
 `{ruby:There's no way witches exist.":魔女なんているわけがねぇぜ」}`
-`{ruby:"......The witch is trying to make her case to us.:「……魔女は、私たちに訴えたいのです。}`
-`{ruby:...She must be showing us that she can do things that humans cannot,:…人間には出来ないことをやってのけるからこそ、}`
-`{ruby:...trying to make us accept her as a witch.":…自分を魔女だと認めさせたいに違いないのです」}`
-`{ruby:"...To me, this disappearance from the locked room of this entire guesthouse......feels like that kind of message from the witch......:「…私はこのゲストハウス全体の密室からの失踪は、……そういう、魔女からのメッセージだと感じています……。}`
+`{ruby:"......The witch is trying to:「……魔女は、私たちに}{ruby:make her case to us.:訴えたいのです。}`
+`{ruby:...She must be showing us that:…人間には出来ないことをや}{ruby:she can do things that humans cannot,:ってのけるからこそ、}`
+`{ruby:...trying to make us:…自分を魔女だと認めさせた}{ruby:accept her as a witch.":いに違いないのです」}`
+`{ruby:"...To me, this disappearance from the locked room of this:「…私はこのゲストハウス全体の密室からの失踪は、……そ}{ruby:entire guesthouse......feels like that kind of message from the witch......:ういう、魔女からのメッセージだと感じています……。}`
 `{ruby:............I must not think of it.:…………考えてはならないのです。}`
 `{ruby:Surely, it cannot mean anything.:意味なんてきっとないのです。}`
-`{ruby:...Oooh, ......I, ...I am frightened......":…おぉ、……わ、…私は恐ろしい……」}`
-`{ruby:As Doctor Nanjo shook with fear, it looked like he was he was trying to erase the fearsome thoughts that he kept imagining, one after the other.:南條先生はわなわなと震えながら、沸き起こる恐ろしい想像を次々に掻き消しているようだった。}`
-`{ruby:......When we went downstairs, Auntie Eva and Jessica were enraged,:……下へ降りると、絵羽伯母さんと朱志香は憤り、}`
-`{ruby:and were each making a lot of noise about leaving this place and searching for their respective families.:それぞれの家族を探すためにここを出ようと気炎を上げていた。}`
-`{ruby:It was a desire that naturally hits those who can no longer see their family.:家族の姿が見えなくなれば、駆られて当然の欲求だ。}`
-`{ruby:Auntie Eva told Doctor Nanjo and me to stay here, but I shook my head and started walking.:絵羽伯母さんは、俺と南條先生にここに残るように言うが、俺は首を横に振り、歩み出た。}`
-`{ruby:".........I've had enough of being shut up in here.:「………もう、引き篭りはたくさんだぜ。}`
-`{ruby:...I've started wanting to breathe some outside air.":…俺も外の空気を吸いたくなってきた」}`
-`{ruby:"Yeah, and if we're going, let's go right now...!!:「あぁ、行くならさっさと行こうぜ…！！}`
-`{ruby:I'm sick as hell of staying shut up in this place...!!:もうこんなところに閉じこもってるのは真っ平さ…！！}`
-`{ruby:Let's go and find Mom, Dad, and George nii‐san as fast as we can...!!":早く父さんや母さんや、譲治兄さんを探しに行こう…！！」}`
-`{ruby:The blood had all risen to Jessica's head.:朱志香はすっかり頭に血が上ってしまっている。}`
-`{ruby:{n}...I hope it doesn't set off her asthma.:{n}…喘息の発作にならなければいいのだが。}`
-`{ruby:"Anyone who wants to stay behind can do that themselves.:「残りたい人は勝手に残ってればいいわ。}`
-`{ruby:But we are going to search outside...!":とにかく私たちは表を探してくるわ…！」}`
+`{ruby:...Oooh, ......I,:…おぉ、……わ、…私}{ruby:...I am frightened......":は恐ろしい……」}`
+`{ruby:As Doctor Nanjo shook with fear, it looked like he was he was:南條先生はわなわなと震えながら、沸き起こる恐ろ}{ruby:trying to erase the fearsome thoughts that he kept imagining, one after the other.:しい想像を次々に掻き消しているようだった。}`
+`{ruby:......When we went downstairs, Auntie:……下へ降りると、絵羽伯母}{ruby:Eva and Jessica were enraged,:さんと朱志香は憤り、}`
+`{ruby:and were each making a lot of noise about:それぞれの家族を探すためにここを}{ruby:leaving this place and searching for their respective families.:出ようと気炎を上げていた。}`
+`{ruby:It was a desire that naturally hits:家族の姿が見えなくなれば、}{ruby:those who can no longer see their family.:駆られて当然の欲求だ。}`
+`{ruby:Auntie Eva told Doctor Nanjo and me to stay:絵羽伯母さんは、俺と南條先生にここに残るよう}{ruby:here, but I shook my head and started walking.:に言うが、俺は首を横に振り、歩み出た。}`
+`{ruby:".........I've had enough of:「………もう、引き篭り}{ruby:being shut up in here.:はたくさんだぜ。}`
+`{ruby:...I've started wanting to:…俺も外の空気を吸い}{ruby:breathe some outside air.":たくなってきた」}`
+`{ruby:"Yeah, and if we're:「あぁ、行くならさっさ}{ruby:going, let's go right now...!!:と行こうぜ…！！}`
+`{ruby:I'm sick as hell of:もうこんなところに閉じこもっ}{ruby:staying shut up in this place...!!:てるのは真っ平さ…！！}`
+`{ruby:Let's go and find Mom, Dad, and:早く父さんや母さんや、譲治兄さ}{ruby:George nii‐san as fast as we can...!!":んを探しに行こう…！！」}`
+`{ruby:The blood had all:朱志香はすっかり頭に血が}{ruby:risen to Jessica's head.:上ってしまっている。}`
+`{ruby:{n}...I hope it doesn't:{n}…喘息の発作になら}{ruby:set off her asthma.:なければいいのだが。}`
+`{ruby:"Anyone who wants to stay:「残りたい人は勝手に残}{ruby:behind can do that themselves.:ってればいいわ。}`
+`{ruby:But we are:とにかく私たちは表を探}{ruby:going to search outside...!":してくるわ…！」}`
 `{ruby:"What about you, Doctor Nanjo...?:「南條先生はどうする…？}`
-`{ruby:Gonna watch the place by yourself...?":ひとりで留守番してるかい…？」}`
+`{ruby:Gonna watch the:ひとりで留守番して}{ruby:place by yourself...?":るかい…？」}`
 `{ruby:"N‐no...:「い、いえ…。}`
 `{ruby:Please allow me to join you...":私もご一緒させてください…」}`
-`{ruby:If the alternative was holing up alone in a guesthouse whose security was by no means guaranteed,:安全がまったく保証されていないゲストハウスにひとりで篭るくらいなら、}`
-`{ruby:it would be better to be in a danger zone as a group of four people.:危険地帯ではあっても４人一緒の方がまだマシだろう。}`
+`{ruby:If the alternative was holing up alone in:安全がまったく保証されていないゲスト}{ruby:a guesthouse whose security was by no means guaranteed,:ハウスにひとりで篭るくらいなら、}`
+`{ruby:it would be better to be in a:危険地帯ではあっても４人一緒}{ruby:danger zone as a group of four people.:の方がまだマシだろう。}`
 `{ruby:Auntie Eva was holding the gun.:絵羽伯母さんは銃を持っている。}`
-`{ruby:Moving separately from her was almost like asking to be made into the next victim.:彼女と行動を別にするのは、自分を次の犠牲者にしてくれと名乗り出るようなものだ。}`
-`{ruby:In this way, the four of us decided to leave the guesthouse.:こうして俺たち４人はゲストハウスを出ることになった。}`
-`{ruby:......We'd barricaded ourselves in, saying we'd be safe if we did, ......and then lost eight people.:……ここに篭城すれば安全と言って俺たちは篭り、……そして８人を失った。}`
-`{ruby:It was almost as though this had been nothing more than a holding cell from which the sacrifices could be killed one after another.:それはまるで、生贄を順番に殺すための控え室でしかなかったかのようだ。}`
-`{ruby:We removed the chain, unlocked the front door, and opened it.:チェーンを外し、鍵を開けて玄関の扉を開く。}`
+`{ruby:Moving separately from her was almost like:彼女と行動を別にするのは、自分を次の犠牲者}{ruby:asking to be made into the next victim.:にしてくれと名乗り出るようなものだ。}`
+`{ruby:In this way, the four of:こうして俺たち４人はゲストハ}{ruby:us decided to leave the guesthouse.:ウスを出ることになった。}`
+`{ruby:......We'd barricaded ourselves in, saying we'd be safe:……ここに篭城すれば安全と言って俺たち}{ruby:if we did, ......and then lost eight people.:は篭り、……そして８人を失った。}`
+`{ruby:It was almost as though this had been nothing more than a:それはまるで、生贄を順番に殺すための}{ruby:holding cell from which the sacrifices could be killed one after another.:控え室でしかなかったかのようだ。}`
+`{ruby:We removed the chain, unlocked:チェーンを外し、鍵を開け}{ruby:the front door, and opened it.:て玄関の扉を開く。}`
 `{ruby:It was already pitch black out.:もう辺りは真っ暗だ。}`
-`{ruby:While there were some lights outside which dimly lit the pathway,:表には、一応、外灯があり、足元をそこそこには照らしてくれるが、}`
-`{ruby:......they didn't have enough power to illuminate the darkness that some suspicious person was likely to be hiding in.:……不審者が潜んでいそうな暗闇を照らし出すほどの力はない。}`
+`{ruby:While there were some lights:表には、一応、外灯があり、足元をそ}{ruby:outside which dimly lit the pathway,:こそこには照らしてくれるが、}`
+`{ruby:......they didn't have enough power to illuminate the darkness:……不審者が潜んでいそうな暗闇を}{ruby:that some suspicious person was likely to be hiding in.:照らし出すほどの力はない。}`
 `{ruby:"I'm going...!:「行くわよ…！}`
-`{ruby:If you fall behind, you're on your own, okay...?!":遅れても知らないんだからね…？！」}`
-`{ruby:Still holding her gun, Auntie Eva dashed out without an umbrella.:絵羽伯母さんが、銃を構えたまま、傘も差さずに飛び出していく。}`
+`{ruby:If you fall behind,:遅れても知らないんだ}{ruby:you're on your own, okay...?!":からね…？！」}`
+`{ruby:Still holding her gun, Auntie:絵羽伯母さんが、銃を構えたまま、}{ruby:Eva dashed out without an umbrella.:傘も差さずに飛び出していく。}`
 `{ruby:Jessica followed after her.:朱志香もその後に続く。}`
-`{ruby:After looking at each other, Doctor Nanjo and I chased after them.:俺と南條先生は顔を見合わせてから、二人のあとに続き、駆け出すのだった。}`
-`{ruby:...What in the world is happening in this mansion, on this island?:…一体、この屋敷では、この島では、何が起こってるっていうんだ。}`
-`{ruby:Since yesterday, I've just been shut up in the cousins' room in the guesthouse with the rest of my cousins.:俺はいとこみんなで、昨日からずっとゲストハウスのいとこ部屋に篭っているだけだ。}`
-`{ruby:So I don't know anything about what's been going on outside.:だからその外のことは何もわからない。}`
-`{ruby:Just what has been happening in those places I don't know about...:一体、俺の知らない、部屋の外では、屋敷では、}`
-`{ruby:outside the room, in the mansion, and on this island?:そしてこの島では何が起こっているっていうんだ。}`
-`{ruby:......Everything is occurring, everything is proceeding,:……俺に与り知れないうちに全てが起こり、全てが進み、}`
-`{ruby:...and everything is ending without my knowing it.:…そして、全てが終わろうとしている。}`
-`{ruby:Somewhere in my heart, I had already begun to give up.:俺は心のどこかで、すでに諦め始めていた。}`
-`{ruby:...Most likely, ......not one of us will see tomorrow morning.:…俺たちはおそらく、……誰一人、明日の朝を迎えられはしないだろう。}`
-`{ruby:When the seagulls cry, none shall be left alive...:うみねこのなく頃に、誰も生き残れはしない…。}`
+`{ruby:After looking at each other, Doctor:俺と南條先生は顔を見合わせてから、二人}{ruby:Nanjo and I chased after them.:のあとに続き、駆け出すのだった。}`
+`{ruby:...What in the world is happening:…一体、この屋敷では、この島では、}{ruby:in this mansion, on this island?:何が起こってるっていうんだ。}`
+`{ruby:Since yesterday, I've just been shut up in the cousins':俺はいとこみんなで、昨日からずっとゲストハ}{ruby:room in the guesthouse with the rest of my cousins.:ウスのいとこ部屋に篭っているだけだ。}`
+`{ruby:So I don't know anything:だからその外のことは}{ruby:about what's been going on outside.:何もわからない。}`
+`{ruby:Just what has been happening in:一体、俺の知らない、部屋}{ruby:those places I don't know about...:の外では、屋敷では、}`
+`{ruby:outside the room, in the:そしてこの島では何が起こっ}{ruby:mansion, and on this island?:ているっていうんだ。}`
+`{ruby:......Everything is occurring,:……俺に与り知れないうちに全}{ruby:everything is proceeding,:てが起こり、全てが進み、}`
+`{ruby:...and everything is ending:…そして、全てが終わ}{ruby:without my knowing it.:ろうとしている。}`
+`{ruby:Somewhere in my heart, I:俺は心のどこかで、すで}{ruby:had already begun to give up.:に諦め始めていた。}`
+`{ruby:...Most likely, ......not one of:…俺たちはおそらく、……誰一人、明日}{ruby:us will see tomorrow morning.:の朝を迎えられはしないだろう。}`
+`{ruby:When the seagulls cry,:うみねこのなく頃に、誰も}{ruby:none shall be left alive...:生き残れはしない…。}`

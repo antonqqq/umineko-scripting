@@ -1,216 +1,216 @@
-`{ruby:The vase was very, very beautiful, rich with history and value.:それは、とてもとても美しくて、価値と歴史のある素晴らしい壷でした。}`
-`{ruby:Even as young as I was, it still forced me to take a deep breath when I witnessed its beauty.:幼い私が見ても、その美しさにため息が堪えられないほどに。}`
-`{ruby:Of course, it was one of Grandfather's favorite collection pieces.:もちろんそれは、お祖父さまにとってもっともお気に入りのコレクションのひとつ。}`
-`{ruby:So that I didn't accidentally destroy its fragile beauty,:その儚き美しさが、間違って欠けてしまうようなことがないように、}`
-`{ruby:I was always strictly ordered never to touch it.:私には絶対触れてはならないと日頃から厳命されていました。}`
-`{ruby:......But that just made me want to touch it.:……でも、だから触れてみたかったのです。}`
-`{ruby:You could almost see right through it, and yet it was so elegant; it appeared so weightless, and yet it had an indescribable presence.:このような透き通るようで、だけれども気品があって、軽やかに見えながら物言わぬ重厚感があり。}`
-`{ruby:...I wanted to see what it felt like to touch a vase like that.:…そんな壷に触れたなら、どんな手触りなのか、試してみたかったのです。}`
-`{ruby:However, ...just as Grandfather had said, it was something that must not be touched.:しかし、…それはお祖父さまが言われた通り、触れてはならないものだったのです。}`
-`{ruby:This much beauty arises precisely because it must never be touched.:これほどの美しさは、触れてはならぬものだからこそ。}`
-`{ruby:It was a beauty that could only dwell in something so fragile it would break at a touch.:触れれば壊れるほどに儚いものにしか宿らぬ美しさ。}`
-`{ruby:Which is exactly why, if it were to be touched by my impudent finger, it would oh so easily—:だからこそ、私如きの指が触れたなら、それはあっさりと。}`
-`{ruby:Just like an enjoyable morning dream fading into nothing as you wake...:楽しい朝の夢が、ふぅっと消えて目が覚めてしまうように。}`
-`{ruby:......it vanished, fell, and broke into smithereens.:……消えて、落ちて、砕け散ってしまったのです。}`
-`{ruby:I realized that, because of my own foolish curiosity, I had done something that couldn't be taken back.:私は、自らの愚かな好奇心が取り返しのつかないことをしてしまったことを悟りました。}`
-`{ruby:No matter how much I regretted it, no matter how much I apologized.:いくら後悔しても、いくら謝っても。}`
-`{ruby:{n}The broken vase would not return to its original form...:{n}砕けてしまった壷は元の姿に戻ってはくれません…。}`
-`{ruby:I would probably be scolded by Grandfather.:私はお祖父さまに叱られるでしょう。}`
+`{ruby:The vase was very, very:それは、とてもとても美しくて、価値と}{ruby:beautiful, rich with history and value.:歴史のある素晴らしい壷でした。}`
+`{ruby:Even as young as I was, it still forced me:幼い私が見ても、その美しさにた}{ruby:to take a deep breath when I witnessed its beauty.:め息が堪えられないほどに。}`
+`{ruby:Of course, it was one:もちろんそれは、お祖父さまにとってもっと}{ruby:of Grandfather's favorite collection pieces.:もお気に入りのコレクションのひとつ。}`
+`{ruby:So that I didn't:その儚き美しさが、間違って欠けてし}{ruby:accidentally destroy its fragile beauty,:まうようなことがないように、}`
+`{ruby:I was always strictly:私には絶対触れてはならないと日}{ruby:ordered never to touch it.:頃から厳命されていました。}`
+`{ruby:......But that just made:……でも、だから触れて}{ruby:me want to touch it.:みたかったのです。}`
+`{ruby:You could almost see right through it, and yet it was so:このような透き通るようで、だけれども気品があって}{ruby:elegant; it appeared so weightless, and yet it had an indescribable presence.:、軽やかに見えながら物言わぬ重厚感があり。}`
+`{ruby:...I wanted to see what it felt:…そんな壷に触れたなら、どんな手触り}{ruby:like to touch a vase like that.:なのか、試してみたかったのです。}`
+`{ruby:However, ...just as Grandfather had said, it:しかし、…それはお祖父さまが言われた通り}{ruby:was something that must not be touched.:、触れてはならないものだったのです。}`
+`{ruby:This much beauty arises precisely:これほどの美しさは、触れては}{ruby:because it must never be touched.:ならぬものだからこそ。}`
+`{ruby:It was a beauty that could only dwell in:触れれば壊れるほどに儚いも}{ruby:something so fragile it would break at a touch.:のにしか宿らぬ美しさ。}`
+`{ruby:Which is exactly why, if it were to be:だからこそ、私如きの指が触れた}{ruby:touched by my impudent finger, it would oh so easily—:なら、それはあっさりと。}`
+`{ruby:Just like an enjoyable morning dream:楽しい朝の夢が、ふぅっと消えて}{ruby:fading into nothing as you wake...:目が覚めてしまうように。}`
+`{ruby:......it vanished, fell,:……消えて、落ちて、砕け散}{ruby:and broke into smithereens.:ってしまったのです。}`
+`{ruby:I realized that, because of my own foolish curiosity,:私は、自らの愚かな好奇心が取り返しのつかな}{ruby:I had done something that couldn't be taken back.:いことをしてしまったことを悟りました。}`
+`{ruby:No matter how much I regretted:いくら後悔しても、い}{ruby:it, no matter how much I apologized.:くら謝っても。}`
+`{ruby:{n}The broken vase would not:{n}砕けてしまった壷は元の姿}{ruby:return to its original form...:に戻ってはくれません…。}`
+`{ruby:I would probably:私はお祖父さまに叱ら}{ruby:be scolded by Grandfather.:れるでしょう。}`
 `{ruby:{n}Probably very harshly.:{n}とても厳しく叱られるでしょう。}`
-`{ruby:Frightened, I ended up breaking into tears and sobbing...:それに怯え、私はしくしくと、仕舞いにはわんわんと泣き出すのでした…。}`
-`{ruby:As I did, I noticed something............beautiful.:すると、…………美しく、}`
-`{ruby:Lightly dancing golden butterflies...:軽やかに舞う黄金の蝶が、}`
+`{ruby:Frightened, I ended up:それに怯え、私はしくしくと、仕舞いに}{ruby:breaking into tears and sobbing...:はわんわんと泣き出すのでした…。}`
+`{ruby:As I did,:すると、………}{ruby:I noticed something............beautiful.:…美しく、}`
+`{ruby:Lightly dancing:軽やかに舞う黄}{ruby:golden butterflies...:金の蝶が、}`
 `{ruby:were coming towards me.:ふわりふわりとやって来るのに気付きました。}`
-`{ruby:The beautiful butterflies began to gather, one at a time, glittering fantastically with glowing golden powder.:黄金の燐粉で幻想的に輝きながら、その美しき蝶が一匹、二匹と集まります。}`
+`{ruby:The beautiful butterflies began to gather, one at:黄金の燐粉で幻想的に輝きながら、その美}{ruby:a time, glittering fantastically with glowing golden powder.:しき蝶が一匹、二匹と集まります。}`
 `{ruby:Oh, it's {f:5:Beatrice}.:あぁ、ベアトリーチェです。}`
-`{ruby:{n}That reliable Golden Witch, {f:5:Beatrice} had arrived.:{n}頼もしき黄金の魔女、ベアトリーチェが来てくれたのです。}`
-`{ruby:The butterflies gathered one after another, grouped together, and there, became her form...:蝶が次々と集まって群れとなると、そこには彼女の姿が…。}`
+`{ruby:{n}That reliable Golden:{n}頼もしき黄金の魔女、ベアト}{ruby:Witch, {f:5:Beatrice} had arrived.:リーチェが来てくれたのです。}`
+`{ruby:The butterflies gathered one after another,:蝶が次々と集まって群れとなると}{ruby:grouped together, and there, became her form...:、そこには彼女の姿が…。}`
 `{ruby:She was always on my side.:彼女はいつだって私の味方。}`
-`{ruby:{n}Whenever I was in trouble, she would always appear and help me.:{n}私が困っていると、いつだって現れて助けてくれるのです。}`
+`{ruby:{n}Whenever I was in trouble, she:{n}私が困っていると、いつだっ}{ruby:would always appear and help me.:て現れて助けてくれるのです。}`
 `{ruby:"Good day to you, princess.":「御機嫌よう、お姫様」}`
 `{ruby:"{f:5:Beatrice}!:「ベアトリーチェ！}`
 `{ruby:......uuuughu, hic, hic...!":……ううぅ、ひっく、えっく…！」}`
 `{ruby:"Oh, my...:「おやおや…。}`
-`{ruby:Why are you crying so on a day so perfect for a tea party, my princess...?":このような絶好のお茶会日和に、どうして姫様はそのように涙を零されているのですか…？」}`
-`{ruby:"...I broke Grandfather's precious vase...:「…お祖父さまが大切にしていた壷を、壊してしまったの…。}`
-`{ruby:Uugh... Grandfather will get mad at me.:うぅ、お祖父さまに怒られます。}`
+`{ruby:Why are you crying so on a day:このような絶好のお茶会日和に、どうして姫様は}{ruby:so perfect for a tea party, my princess...?":そのように涙を零されているのですか…？」}`
+`{ruby:"...I broke:「…お祖父さまが大切にしていた}{ruby:Grandfather's precious vase...:壷を、壊してしまったの…。}`
+`{ruby:Uugh... Grandfather will:うぅ、お祖父さまに}{ruby:get mad at me.:怒られます。}`
 `{ruby:...I don't know what I should do...:…どうしたらいいかわからなくて…。}`
 `{ruby:hic...":ひっく…」}`
 `{ruby:"That is indeed worrying.:「それは困りましたね。}`
-`{ruby:I believe the Master greatly treasured this particular vase.:これはお館様が大層お気に入りになられていた壷のはず。}`
-`{ruby:......Hohohoho, it's terrifying even for me to think about what kind of punishment you'll receive.":……ほほほほ、どのような折檻があるか、このベアトリーチェ、想像するのも恐ろしゅうございます」}`
-`{ruby:Grandfather was a very frightening person.:お祖父さまはとても恐ろしい方です。}`
-`{ruby:And once he told you something, if you failed to follow it, he would become mad with a rage that would make even the fallen angels in hell quiver.:そして、一度言い聞かせたことが守られなかった時は、地獄の堕天使も震え上がるほどに怒りくるうのです。}`
-`{ruby:I was intimately familiar with that, which is why I couldn't do anything but shake like this and cry...:私はそれを骨身に染みてよく知っていましたから、こうして震えながら涙を零すしかないのです…。}`
-`{ruby:"I hold no magic to scoop up your fallen tears, princess,:「零してしまった姫様の涙を掬う魔法は持ち合わせておりませんが、}`
-`{ruby:but if you want magic that will make it possible for you to avoid being scolded by the Master, I might be able to do something.":姫様がお館様から折檻を受けなくて済むようにする魔法なら、何とかなるかもしれません」}`
+`{ruby:I believe the Master:これはお館様が大層お気に入り}{ruby:greatly treasured this particular vase.:になられていた壷のはず。}`
+`{ruby:......Hohohoho, it's terrifying even for me to:……ほほほほ、どのような折檻があるか、このベアト}{ruby:think about what kind of punishment you'll receive.":リーチェ、想像するのも恐ろしゅうございます」}`
+`{ruby:Grandfather was a:お祖父さまはとても恐}{ruby:very frightening person.:ろしい方です。}`
+`{ruby:And once he told you something, if you failed to follow it, he would:そして、一度言い聞かせたことが守られなかった時は、地}{ruby:become mad with a rage that would make even the fallen angels in hell quiver.:獄の堕天使も震え上がるほどに怒りくるうのです。}`
+`{ruby:I was intimately familiar with that, which is why:私はそれを骨身に染みてよく知っていましたから、こ}{ruby:I couldn't do anything but shake like this and cry...:うして震えながら涙を零すしかないのです…。}`
+`{ruby:"I hold no magic to:「零してしまった姫様の涙を掬う魔法}{ruby:scoop up your fallen tears, princess,:は持ち合わせておりませんが、}`
+`{ruby:but if you want magic that will make it possible for you to:姫様がお館様から折檻を受けなくて済むようにす}{ruby:avoid being scolded by the Master, I might be able to do something.":る魔法なら、何とかなるかもしれません」}`
 `{ruby:"R‐really...?":「ほ、本当…？」}`
-`{ruby:"If you will believe in my power, princess.:「姫様が私の力をお信じ下されば、でございます。}`
-`{ruby:The basis of magic power is the power of belief.:魔法の力の根源は、信じる力。}`
-`{ruby:......Miracles will only appear before those who strongly believe.":……奇跡は、それを強く信じる者の前にしか示されません」}`
+`{ruby:"If you will believe:「姫様が私の力をお信じ下さ}{ruby:in my power, princess.:れば、でございます。}`
+`{ruby:The basis of magic power:魔法の力の根源は}{ruby:is the power of belief.:、信じる力。}`
+`{ruby:......Miracles will only appear:……奇跡は、それを強く信じる者}{ruby:before those who strongly believe.":の前にしか示されません」}`
 `{ruby:"I, ...I believe...:「し、…信じる…。}`
-`{ruby:I believe in your magic, {f:5:Beatrice}.:ベアトリーチェの魔法を信じます。}`
+`{ruby:I believe in:ベアトリーチェの魔}{ruby:your magic, {f:5:Beatrice}.:法を信じます。}`
 `{ruby:So please fix this vase.:だからこの壷を直してください。}`
 `{ruby:Please...!":お願いします…！」}`
 `{ruby:"If that is what you want, princess.:「姫様がそれをお望みでしたら。}`
-`{ruby:......Very well, then leave it to me.":……それではこのベアトリーチェに、お任せを」}`
-`{ruby:When she extended her index finger, a golden butterfly softly landed there, and changed its form into her favorite magic wand.:彼女が人差し指を立てると、そこにふわりと黄金の蝶が止まり、彼女が愛用するケーンに姿を変えます。}`
-`{ruby:Even that was enough to give me a small glimpse at {f:5:Beatrice}'s wonderful and great magic power.:ただそれだけのことでも、私はベアトリーチェの素晴らしき、そして偉大なる魔法の力の一端を垣間見るのです。}`
-`{ruby:She pointed her wand at the broken vase, and, just like a child's lullaby, she began speaking the magic words...:彼女は、砕けた壷にケーンを向け、まるで赤ん坊に子守唄を聞かせるように、魔法の言葉を語りかけます…。}`
+`{ruby:......Very well, then:……それではこのベアトリ}{ruby:leave it to me.":ーチェに、お任せを」}`
+`{ruby:When she extended her index finger, a golden butterfly softly:彼女が人差し指を立てると、そこにふわりと黄金の蝶が}{ruby:landed there, and changed its form into her favorite magic wand.:止まり、彼女が愛用するケーンに姿を変えます。}`
+`{ruby:Even that was enough to give me a:ただそれだけのことでも、私はベアトリーチェの素晴らしき}{ruby:small glimpse at {f:5:Beatrice}'s wonderful and great magic power.:、そして偉大なる魔法の力の一端を垣間見るのです。}`
+`{ruby:She pointed her wand at the broken vase, and, just:彼女は、砕けた壷にケーンを向け、まるで赤ん坊に子守唄}{ruby:like a child's lullaby, she began speaking the magic words...:を聞かせるように、魔法の言葉を語りかけます…。}`
 `{ruby:"Come, try closing your eyes.:「さぁさ、目を閉じて御覧なさい。}`
 `{ruby:And try to remember.:そして思い出して御覧なさい。}`
 `{ruby:What form did you have?:あなたがどんな姿をしていたのか。}`
-`{ruby:It was surely a very, very beautiful form.:それはきっと、とてもとても美しい姿。}`
-`{ruby:Please, show me that form one more time...":どうか私に、あの姿をもう一度見せておくれ…」}`
+`{ruby:It was surely a:それはきっと、とても}{ruby:very, very beautiful form.:とても美しい姿。}`
+`{ruby:Please, show me that:どうか私に、あの姿をもう}{ruby:form one more time...":一度見せておくれ…」}`
 `{ruby:Were they words, or was it a song?:それは言葉なのか、唄なのか。}`
 `{ruby:No, it was surely magic.:いや、魔法に違いないのです。}`
-`{ruby:After all, can't you see? ...The pieces of the vase are gathering together in no time at all,:だってほら、みるみると壷の破片が寄り集まり、}`
-`{ruby:...and softly returning to the place where they had been displayed, ......returning to their original beautiful form.:…飾られていた場所にふわりふわりと戻っていって、……元の美しい姿に戻ったのですから。}`
+`{ruby:After all, can't you see? ...The pieces of the:だってほら、みるみると壷}{ruby:vase are gathering together in no time at all,:の破片が寄り集まり、}`
+`{ruby:...and softly returning to the place where they:…飾られていた場所にふわりふわりと戻っていっ}{ruby:had been displayed, ......returning to their original beautiful form.:て、……元の美しい姿に戻ったのですから。}`
 `{ruby:"......Incredible...":「……すごい…」}`
 `{ruby:"See?:「ほら。}`
 `{ruby:Now it's back to normal.:これで元通りですよ。}`
-`{ruby:This way, you will be able to avoid being yelled at by the Master.":これでお館様にお叱りを受けずに済みますね」}`
-`{ruby:"{f:5:Beatrice}, you sure are incredible.:「ベアトリーチェはすごいね。}`
-`{ruby:It was no trouble for you to repair a broken vase.":壊れた壷を直すなんて、造作もないんだね」}`
+`{ruby:This way, you will be able to:これでお館様にお叱りを受}{ruby:avoid being yelled at by the Master.":けずに済みますね」}`
+`{ruby:"{f:5:Beatrice}, you:「ベアトリーチェ}{ruby:sure are incredible.:はすごいね。}`
+`{ruby:It was no trouble for:壊れた壷を直すなんて、}{ruby:you to repair a broken vase.":造作もないんだね」}`
 `{ruby:"That's not true.:「そんなことはありませんよ。}`
-`{ruby:Returning something broken to its original form is a very, very difficult thing.:壊れてしまったものを、元に戻すのはとてもとても難しいことです。}`
-`{ruby:With my magic, I could do no more than make it remember what it was, for the time being.":私の魔法は、一時、それを思い出させるだけに過ぎませんよ」}`
+`{ruby:Returning something broken to its original:壊れてしまったものを、元に戻すのは}{ruby:form is a very, very difficult thing.:とてもとても難しいことです。}`
+`{ruby:With my magic, I could do no more than:私の魔法は、一時、それを思い出}{ruby:make it remember what it was, for the time being.":させるだけに過ぎませんよ」}`
 `{ruby:"......?:「……？}`
-`{ruby:But, the vase really turned back to the way it was, right...?":でも、壷はちゃんと元通りになったよ…？」}`
+`{ruby:But, the vase really turned back:でも、壷はちゃんと元通り}{ruby:to the way it was, right...?":になったよ…？」}`
 `{ruby:"That's right.:「そうですね。}`
-`{ruby:But that doesn't mean that I caused the vase to avoid its fate of being broken.:ですがそれは、壷が壊れたという運命を回避させたわけではありません。}`
-`{ruby:I did nothing but make the broken vase remember how it was before it broke for the time being.:壊れた壷に、一時、壊れる前の姿を思い出させるだけに過ぎません。}`
-`{ruby:Magic power that can repair a broken fate to its original form is at a very high level that even I have yet to reach.":壊れた運命を、元の姿に修復するほどの魔力は、このベアトリーチェにも未だ至らぬ遥かな高みなのです」}`
-`{ruby:At that time, the high‐pitched scream of a servant could be heard from inside the mansion.:その時、お屋敷から使用人の甲高い悲鳴が聞こえました。}`
+`{ruby:But that doesn't mean that I caused the:ですがそれは、壷が壊れたという運命を}{ruby:vase to avoid its fate of being broken.:回避させたわけではありません。}`
+`{ruby:I did nothing but make the broken vase remember:壊れた壷に、一時、壊れる前の姿を思}{ruby:how it was before it broke for the time being.:い出させるだけに過ぎません。}`
+`{ruby:Magic power that can repair a broken fate to its original form:壊れた運命を、元の姿に修復するほどの魔力は、このベ}{ruby:is at a very high level that even I have yet to reach.":アトリーチェにも未だ至らぬ遥かな高みなのです」}`
+`{ruby:At that time, the high‐pitched scream of a:その時、お屋敷から使用人の甲}{ruby:servant could be heard from inside the mansion.:高い悲鳴が聞こえました。}`
 `{ruby:When I went to see what had happened,:何事かと行ってみると、}`
-`{ruby:......I noticed that several of the servants had gathered, and were cleaning up the remains of the broken vase.:……使用人たちが何人か集まり、砕けてしまっている壷の後片付けをしているところでした。}`
-`{ruby:From what they said, it seemed that a black cat had sneaked in from somewhere, climbed up on the vase, and toppled it over.:使用人たちが言うには、どこからか紛れ込んできた黒猫が、壷によじ登って倒してしまった、と言うのです。}`
-`{ruby:I understood the meaning of what {f:5:Beatrice} had said.:私はベアトリーチェが言った意味を理解します。}`
-`{ruby:...At the time that I broke the vase, "the vase had been broken".:…私が壷を割ってしまった時点で、“壷は割れた”のです。}`
-`{ruby:{f:5:Beatrice} had shown me that the vase had been restored, but that had been a temporary thing.:ベアトリーチェは、壷を蘇らせて見せたが、それは仮のもの。}`
-`{ruby:It didn't mean the fate that "the vase had been broken" had changed.:“壷は割れた”という運命までも変えたわけではない。}`
-`{ruby:As a result, ......the vase had remembered its true fate, and "broke".:その結果、……壷は、本来の運命を思い出し、“割れた”。}`
-`{ruby:{n}But I hadn't broken it; instead, it had been a cat which had snuck in...:{n}しかし、割ったのは私ではなく、迷い込んだ猫に代わった…。}`
+`{ruby:......I noticed that several of the servants had gathered,:……使用人たちが何人か集まり、砕けてしまって}{ruby:and were cleaning up the remains of the broken vase.:いる壷の後片付けをしているところでした。}`
+`{ruby:From what they said, it seemed that a black cat had sneaked:使用人たちが言うには、どこからか紛れ込んできた黒猫が}{ruby:in from somewhere, climbed up on the vase, and toppled it over.:、壷によじ登って倒してしまった、と言うのです。}`
+`{ruby:I understood the meaning:私はベアトリーチェが言っ}{ruby:of what {f:5:Beatrice} had said.:た意味を理解します。}`
+`{ruby:...At the time that I broke:…私が壷を割ってしまった時点で}{ruby:the vase, "the vase had been broken".:、“壷は割れた”のです。}`
+`{ruby:{f:5:Beatrice} had shown me that the vase had:ベアトリーチェは、壷を蘇らせて}{ruby:been restored, but that had been a temporary thing.:見せたが、それは仮のもの。}`
+`{ruby:It didn't mean the fate that:“壷は割れた”という運命まで}{ruby:"the vase had been broken" had changed.:も変えたわけではない。}`
+`{ruby:As a result, ......the vase had:その結果、……壷は、本来の運命}{ruby:remembered its true fate, and "broke".:を思い出し、“割れた”。}`
+`{ruby:{n}But I hadn't broken it; instead, it:{n}しかし、割ったのは私ではなく}{ruby:had been a cat which had snuck in...:、迷い込んだ猫に代わった…。}`
 `{ruby:That's right.:そう。}`
-`{ruby:{f:5:Beatrice} hadn't said "Let's mend the vase".:ベアトリーチェは、壷を直しましょうとは言っていない。}`
-`{ruby:She had said she would make it so that I didn't have to be punished.:私が、折檻を受けずに済むようにしましょうと言ったのです。}`
-`{ruby:The fate of the vase breaking hadn't changed, but the fact that I had broken it certainly had...:壷が割れたという運命までは変えられなかったが、私が割ったという事実だけは、確かに変わった…。}`
-`{ruby:{f:5:Beatrice} had skillfully saved me from danger with that magic...:ベアトリーチェは、見事にその魔法で私の危機を救ってくれたのでした…。}`
+`{ruby:{f:5:Beatrice} hadn't said:ベアトリーチェは、壷を直しま}{ruby:"Let's mend the vase".:しょうとは言っていない。}`
+`{ruby:She had said she would make it:私が、折檻を受けずに済むように}{ruby:so that I didn't have to be punished.:しましょうと言ったのです。}`
+`{ruby:The fate of the vase breaking hadn't changed, but:壷が割れたという運命までは変えられなかったが、私}{ruby:the fact that I had broken it certainly had...:が割ったという事実だけは、確かに変わった…。}`
+`{ruby:{f:5:Beatrice} had skillfully saved me:ベアトリーチェは、見事にその魔法で私}{ruby:from danger with that magic...:の危機を救ってくれたのでした…。}`
 `{ruby:"It is very easy to break something.:「物を壊すことは、とても容易なことです。}`
-`{ruby:Just like how you, princess, did not require magic in order to break the vase.":姫様が壷を割るのに、魔法を必要としなかったように」}`
-`{ruby:"...Fixing something is very hard...?":「…直すことは、とても難しいこと…？」}`
+`{ruby:Just like how you, princess, did not:姫様が壷を割るのに、魔法を必}{ruby:require magic in order to break the vase.":要としなかったように」}`
+`{ruby:"...Fixing something:「…直すことは、とても}{ruby:is very hard...?":難しいこと…？」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:So much so that you were at a loss at what to do and started crying.":姫様が途方に暮れて泣き出してしまうほどに」}`
-`{ruby:"......So it's easier to use magic to do horrible things?:「……魔法というのは、恐ろしいことをする時の方が容易いの？}`
+`{ruby:So much so that you were at a:姫様が途方に暮れて泣き出}{ruby:loss at what to do and started crying.":してしまうほどに」}`
+`{ruby:"......So it's easier to use:「……魔法というのは、恐ろしいこ}{ruby:magic to do horrible things?:とをする時の方が容易いの？}`
 `{ruby:To break,:壊したり、}`
 `{ruby:......to kill is very easy,:……殺したりすることは簡単にできるのに、}`
-`{ruby:......but fixing and reviving things is very hard, as you say...":直したり、蘇らせたりするのは、とても難しいと言うし…」}`
+`{ruby:......but fixing and reviving things:直したり、蘇らせたりするのは、}{ruby:is very hard, as you say...":とても難しいと言うし…」}`
 `{ruby:"......That's right.:「……そうですね。}`
-`{ruby:With magic, it is much easier to do things like breaking and killing.:魔法は、殺めたり、壊したりすることの方がとても簡単です。}`
-`{ruby:Therefore, weak witches who lose to temptation become intoxicated with that power which they can easily obtain, and neglect their real magic training.":ゆえに、誘惑に負ける弱き魔女たちは、安易に身に付けられる力に酔い、本当の魔法の修行を怠ってしまいます」}`
-`{ruby:"......Real magic is the power to repair, to revive.:「……本当の魔法とは、直す力、蘇らせる力。}`
-`{ruby:To call back happiness which has disappeared, to call back love which has gotten cold.:散ってしまった幸せを呼び戻し、冷めてしまった愛をも呼び戻す。}`
-`{ruby:And it can call back a forgotten smile to a princess's face.":そして微笑を忘れてしまった姫様の顔に、笑顔を呼び戻せるのですよ」}`
-`{ruby:"Then, ......{f:5:Beatrice}, does that mean that since you could fix the vase, you are an incredible witch?":「なら、……壷を直すことができたベアトリーチェは、すごい魔女ということ？」}`
-`{ruby:"My days of training are far from over.:「私など、まだまだ修行の日々ですよ。}`
-`{ruby:After all, I couldn't make the vase forget its fate for even an hour.:壷が割れるという運命を、私の魔法ではほんの一時間も忘れさせることが出来なかったのですから。}`
-`{ruby:If it had been my master, who taught me magic,:私に魔法を教えてくれたお師匠様ならきっと、永遠に。}`
-`{ruby:I'm sure that she would have been able to restore the vase to its original form forever.":壷を元の姿に蘇らせることができたでしょうね」}`
-`{ruby:"If it broke and broke, she could fix it over and over again...?":「壊れても壊れても、何度でも何度でも直せる…？」}`
+`{ruby:With magic, it is much easier:魔法は、殺めたり、壊したりする}{ruby:to do things like breaking and killing.:ことの方がとても簡単です。}`
+`{ruby:Therefore, weak witches who lose to temptation become intoxicated with that:ゆえに、誘惑に負ける弱き魔女たちは、安易に身に付けられ}{ruby:power which they can easily obtain, and neglect their real magic training.":る力に酔い、本当の魔法の修行を怠ってしまいます」}`
+`{ruby:"......Real magic is the:「……本当の魔法とは、直}{ruby:power to repair, to revive.:す力、蘇らせる力。}`
+`{ruby:To call back happiness which has disappeared,:散ってしまった幸せを呼び戻し、冷}{ruby:to call back love which has gotten cold.:めてしまった愛をも呼び戻す。}`
+`{ruby:And it can call back a:そして微笑を忘れてしまった姫様の顔}{ruby:forgotten smile to a princess's face.":に、笑顔を呼び戻せるのですよ」}`
+`{ruby:"Then, ......{f:5:Beatrice}, does that mean that since you:「なら、……壷を直すことができたベアトリ}{ruby:could fix the vase, you are an incredible witch?":ーチェは、すごい魔女ということ？」}`
+`{ruby:"My days of training:「私など、まだまだ修}{ruby:are far from over.:行の日々ですよ。}`
+`{ruby:After all, I couldn't make the vase:壷が割れるという運命を、私の魔法ではほんの一時間}{ruby:forget its fate for even an hour.:も忘れさせることが出来なかったのですから。}`
+`{ruby:If it had been my:私に魔法を教えてくれたお師匠}{ruby:master, who taught me magic,:様ならきっと、永遠に。}`
+`{ruby:I'm sure that she would have been able:壷を元の姿に蘇らせること}{ruby:to restore the vase to its original form forever.":ができたでしょうね」}`
+`{ruby:"If it broke and broke, she:「壊れても壊れても、何度で}{ruby:could fix it over and over again...?":も何度でも直せる…？」}`
 `{ruby:"Yes.:「えぇ。}`
-`{ruby:When one reaches that level, they are possessed of endless magical power.:その境地に達した時、無限の魔力が備わるでしょう。}`
-`{ruby:That is the endless level that all witches should strive to reach.:それこそが、魔女の達するべき無限の境地。}`
-`{ruby:As a sign of the highest respect to those witches, we call them...":私たちはその魔女を、最大の敬いをもってこう呼びます」}`
+`{ruby:When one reaches that level, they:その境地に達した時、無限の}{ruby:are possessed of endless magical power.:魔力が備わるでしょう。}`
+`{ruby:That is the endless level that:それこそが、魔女の達す}{ruby:all witches should strive to reach.:るべき無限の境地。}`
+`{ruby:As a sign of the highest:私たちはその魔女を、最大の敬}{ruby:respect to those witches, we call them...":いをもってこう呼びます」}`
 `{ruby:"An Endless Witch...":「無限の魔女…」}`
 `{ruby:"That's right.:「そうです。}`
-`{ruby:......To witches holding the power to mend something endlessly, the concept of breaking doesn't even exist.:……無限に直す力を持つ魔女にとって、壊れるという概念はもはや存在しない。}`
-`{ruby:They are released from all of the sadness caused by losing things and are promised eternal bliss.":失うという全ての悲しみから解放され、永遠の至福を約束されるのです」}`
-`{ruby:Certainly, the human world is full of sadness caused by separation and loss.:確かに、人の世は離別と喪失の悲しみでいっぱいだ。}`
-`{ruby:To escape that sadness, people pray to God, and ask for the power to withstand the sadness, believing it to be a test...:その悲しみから逃れるために、神に祈り、それを試練だと信じて耐える力を乞う…。}`
-`{ruby:In other words, a human's life is a journey, searching for a way to withstand sadness.:つまり、人の人生とは、悲しみを如何にして堪えるかを探る旅なのだ。}`
-`{ruby:In that case, a witch who could revive all things would be freed from all sadness in the world.:だとしたら、万物を蘇らせることができる魔女は、この世の悲しみの全てから解き放たれている。}`
-`{ruby:......In other words, it is eternal bliss...:……つまりそれは、永遠の至福…。}`
-`{ruby:"I wonder......if I could become a witch like you, and gain eternal happiness.":「私も、……ベアトリーチェみたいな魔女になって、永遠に幸せになれるかな」}`
+`{ruby:......To witches holding the power to mend something:……無限に直す力を持つ魔女にとって、壊}{ruby:endlessly, the concept of breaking doesn't even exist.:れるという概念はもはや存在しない。}`
+`{ruby:They are released from all of the sadness:失うという全ての悲しみから解放され、}{ruby:caused by losing things and are promised eternal bliss.":永遠の至福を約束されるのです」}`
+`{ruby:Certainly, the human world is full:確かに、人の世は離別と喪失}{ruby:of sadness caused by separation and loss.:の悲しみでいっぱいだ。}`
+`{ruby:To escape that sadness, people pray to God, and ask for:その悲しみから逃れるために、神に祈り、そ}{ruby:the power to withstand the sadness, believing it to be a test...:れを試練だと信じて耐える力を乞う…。}`
+`{ruby:In other words, a human's life is a:つまり、人の人生とは、悲しみを如何}{ruby:journey, searching for a way to withstand sadness.:にして堪えるかを探る旅なのだ。}`
+`{ruby:In that case, a witch who could revive all:だとしたら、万物を蘇らせることができる魔女は、}{ruby:things would be freed from all sadness in the world.:この世の悲しみの全てから解き放たれている。}`
+`{ruby:......In other words,:……つまりそれは、}{ruby:it is eternal bliss...:永遠の至福…。}`
+`{ruby:"I wonder......if I could become a:「私も、……ベアトリーチェみたいな魔女}{ruby:witch like you, and gain eternal happiness.":になって、永遠に幸せになれるかな」}`
 `{ruby:"You, princess...?:「姫様が、ですか…？}`
-`{ruby:Hoh‐hoh‐ho... That would be a long, long, difficult path, you know?":ほっほっほ…、それはそれは長い長い、大変な修行となりますよ？」}`
+`{ruby:Hoh‐hoh‐ho... That would be a:ほっほっほ…、それはそれは長い長い}{ruby:long, long, difficult path, you know?":、大変な修行となりますよ？」}`
 `{ruby:"I want to be a witch.:「私、魔女になりたい。}`
 `{ruby:......I want to be happy.:……幸せになりたい。}`
 `{ruby:I want to be your disciple.":ベアトリーチェの弟子になりたい」}`
 `{ruby:"...............:「……………。}`
-`{ruby:Do you have even the slightest doubt in that feeling?":そのお気持ちに、些かの揺らぎもありませんか？」}`
+`{ruby:Do you have even the:そのお気持ちに、些かの揺ら}{ruby:slightest doubt in that feeling?":ぎもありませんか？」}`
 `{ruby:"No.:「はい。}`
 `{ruby:I want to become a witch too.":私も、魔女になりたいです」}`
 `{ruby:"......All right.:「……わかりました。}`
-`{ruby:Then, until you get tired of it, princess, I will allow you to be my disciple.:では、姫様がお飽きになるまで、私の弟子にして差し上げましょう。}`
+`{ruby:Then, until you get tired of it, princess,:では、姫様がお飽きになるまで、私の}{ruby:I will allow you to be my disciple.:弟子にして差し上げましょう。}`
 `{ruby:...Will you call me Master?":…私のことを、お師匠様と呼べますか？」}`
 `{ruby:"Yes, Master.":「はい、お師匠様」}`
 `{ruby:"That's a good answer.:「良い返事ですね。}`
-`{ruby:Then from now on, learn the depths of magic along with me.:ではこれからは私と一緒に、魔法の深淵を学んでいきましょう。}`
+`{ruby:Then from now on, learn the:ではこれからは私と一緒に、魔法の}{ruby:depths of magic along with me.:深淵を学んでいきましょう。}`
 `{ruby:I am also in training.:私とて修行の身。}`
-`{ruby:Let us both learn magic the right way, and do our best to reach that blissful level.":共に魔法を正しく学び、至福の境地を目指して頑張りましょう」}`
+`{ruby:Let us both learn magic the right way,:共に魔法を正しく学び、至福の境地}{ruby:and do our best to reach that blissful level.":を目指して頑張りましょう」}`
 `{ruby:"Yes, Master...!":「はい、お師匠様…！」}`
 `{ruby:"........................:「……………………。}`
 `{ruby:...Ah, a dream.:…夢、か。}`
 `{ruby:......That face brings me back...":……懐かしい顔だ」}`
 `{ruby:Endless Witch, was it?:無限の魔女、か。}`
-`{ruby:A name that I had yearned for in the past as the highest achievement...now just another one of my titles.:かつては憧れた、最高の到達点の称号は今や、妾にとってほんの肩書きのひとつでしかない。}`
+`{ruby:A name that I had yearned for in the past:かつては憧れた、最高の到達点の称号は今や、妾}{ruby:as the highest achievement...now just another one of my titles.:にとってほんの肩書きのひとつでしかない。}`
 `{ruby:No, you can even call it a name.:いや、代名詞とすら言っていいか。}`
-`{ruby:"...Every once in a while, it's nice to feel some satisfaction from that name.:「…たまには、その呼び名に充足を感じるのも乙なものかも知れぬな。}`
-`{ruby:Isn't it something that I gained as the result of many days of training?":長き修行の日々の果てに得たものではないか」}`
-`{ruby:"...It's a little bit of a waste if I don't feel some gratitude for it every once in a while.:「…たまには有難味を感じねば、少々勿体無いというものよ。}`
+`{ruby:"...Every once in a while, it's nice:「…たまには、その呼び名に充足を感}{ruby:to feel some satisfaction from that name.:じるのも乙なものかも知れぬな。}`
+`{ruby:Isn't it something that I gained as:長き修行の日々の果てに得}{ruby:the result of many days of training?":たものではないか」}`
+`{ruby:"...It's a little bit of a waste if I don't:「…たまには有難味を感じねば、}{ruby:feel some gratitude for it every once in a while.:少々勿体無いというものよ。}`
 `{ruby:......*cackle*cackle*cackle*.":……くっくくくくく」}`
 `{ruby:I shook my head lightly.:緩やかに頭を振る。}`
-`{ruby:If it is called the highest level, that means that there is nothing higher.:最高の到達点とは曰く、それ以上がないということ。}`
-`{ruby:{n}An eternal dead end, the beginning of eternal boredom.:{n}永遠の行き止まり、永遠の退屈の始まりだ。}`
+`{ruby:If it is called the highest level,:最高の到達点とは曰く、それ}{ruby:that means that there is nothing higher.:以上がないということ。}`
+`{ruby:{n}An eternal dead end,:{n}永遠の行き止まり、永}{ruby:the beginning of eternal boredom.:遠の退屈の始まりだ。}`
 `{ruby:"Master said it once.:「お師匠様は言っていたな。}`
-`{ruby:That when one is released from all sadness, it is the same as eternal bliss.:全ての悲しみから解き放たれることが即ち、永遠の至福だと。}`
+`{ruby:That when one is released from all:全ての悲しみから解き放たれるこ}{ruby:sadness, it is the same as eternal bliss.:とが即ち、永遠の至福だと。}`
 `{ruby:......Which is why I think...:……だからこそ、故に思う。}`
-`{ruby:Master {i:couldn't reach that level}.":お師匠様は{i:その域に至れなかった}とな」}`
+`{ruby:Master {i:couldn't:お師匠様は{i:その域に}{ruby:reach that level}.":至れなかった}とな」}`
 `{ruby:Eternal bliss means eternal boredom.:永遠の至福とはつまり、永遠の退屈。}`
-`{ruby:{n}...That's the beginning of eternal torture.:{n}…これは永遠の拷問の始まりなのだ。}`
-`{ruby:But perhaps all things depend on your point of view.:しかし、物は考えようか。}`
-`{ruby:Eternal boredom is the same as a sketchbook that doesn't run out of pages.:永遠の退屈とはつまり、ページの尽きぬスケッチブックのようなものだ。}`
-`{ruby:It means you can draw whatever you want, can put in as much effort to enjoy it as you want.:好きに描き、好きに楽しむ努力がいくらでも出来るということだ。}`
-`{ruby:Boredom is the worst poison that kills all witches.:退屈は全ての魔女を殺す最悪の毒。}`
-`{ruby:......To the Great Witches who hold the title "Lady", this is frighteningly true.:……卿の称号を持つ大魔女とて恐れるほどの。}`
-`{ruby:{n}It is the eternal poison that tortures them because of the eternal bliss that they have reached...:{n}永遠の至福に辿り着いた故に苛む、永遠の毒…。}`
-`{ruby:"Now that I have earned the name of Endless Witch, I truly wish to speak with my master again.:「無限の魔女の名を得た今だからこそ、再びお師匠様と語らいたいものよ。}`
-`{ruby:......Was the result of our training really "happiness"?:……我等の修行の果てにあったのは、本当に“幸せ”だったのか。}`
-`{ruby:And I want to talk with her about what true "happiness" is.":そして本当の“幸せ”とは何なのか、今こそ語り合いたいものよ」}`
+`{ruby:{n}...That's the beginning:{n}…これは永遠の拷}{ruby:of eternal torture.:問の始まりなのだ。}`
+`{ruby:But perhaps all things depend:しかし、物は考}{ruby:on your point of view.:えようか。}`
+`{ruby:Eternal boredom is the same as a:永遠の退屈とはつまり、ページの尽きぬ}{ruby:sketchbook that doesn't run out of pages.:スケッチブックのようなものだ。}`
+`{ruby:It means you can draw whatever you want, can put:好きに描き、好きに楽しむ努力がい}{ruby:in as much effort to enjoy it as you want.:くらでも出来るということだ。}`
+`{ruby:Boredom is the worst:退屈は全ての魔女を}{ruby:poison that kills all witches.:殺す最悪の毒。}`
+`{ruby:......To the Great Witches who hold:……卿の称号を持つ大魔女}{ruby:the title "Lady", this is frighteningly true.:とて恐れるほどの。}`
+`{ruby:{n}It is the eternal poison that tortures them:{n}永遠の至福に辿り着いた}{ruby:because of the eternal bliss that they have reached...:故に苛む、永遠の毒…。}`
+`{ruby:"Now that I have earned the name of Endless:「無限の魔女の名を得た今だからこそ、}{ruby:Witch, I truly wish to speak with my master again.:再びお師匠様と語らいたいものよ。}`
+`{ruby:......Was the result of:……我等の修行の果てにあったのは}{ruby:our training really "happiness"?:、本当に“幸せ”だったのか。}`
+`{ruby:And I want to talk with:そして本当の“幸せ”とは何なのか}{ruby:her about what true "happiness" is.":、今こそ語り合いたいものよ」}`
 `{ruby:― Training has no end.:“修行に終わりはありませんよ。}`
-`{ruby:When you think you have reached the eternal level, that is the time to regret your immaturity.:永遠の境地に辿り着いた、と思った時こそが、その未熟さを悔いる時なのです。”}`
-`{ruby:......As if in answer to my own words, a memory of her saying something like that entered my mind.:……自分の言葉に答えるかのように、そんなことを言っていたのを思い出す。}`
-`{ruby:"*cackle*cackle*, hahhahahahahahahahaha...:「くくくく、はっははははははははは…。}`
+`{ruby:When you think you have reached the eternal:永遠の境地に辿り着いた、と思った時こそが}{ruby:level, that is the time to regret your immaturity.:、その未熟さを悔いる時なのです。”}`
+`{ruby:......As if in answer to my own words, a:……自分の言葉に答えるかのように、そん}{ruby:memory of her saying something like that entered my mind.:なことを言っていたのを思い出す。}`
+`{ruby:"*cackle*cackle*,:「くくくく、はっははは}{ruby:hahhahahahahahahahaha...:はははははは…。}`
 `{ruby:I see, ......I am immature, am I?!:なるほど、……妾は未熟、か！}`
 `{ruby:How nice, how nice.:それは良い、それは良い。}`
 `{ruby:*cackle*cackle*cackle*cackle*...!":くっくっくっくっく…！」}`
-`{ruby:Some painfully shrill laughter could be heard.:黄色い耳障りな哄笑が聞こえてくる。}`
+`{ruby:Some painfully shrill:黄色い耳障りな哄笑が}{ruby:laughter could be heard.:聞こえてくる。}`
 `{ruby:It was from my furniture.:妾の家具たちのものだ。}`
 `{ruby:...Did they break their toy again?:…また玩具を壊したか。}`
 `{ruby:"{f:5:Beatrice}‐samaaa.:「ベアトリーチェさまぁ。}`
 `{ruby:This guy's stopped moving agaaain.":こいつ、また動かなくなっちゃいましたぁ」}`
-`{ruby:"Even though I haven't played enough at all.:「まだ私、全然遊び足りないのにぃ。}`
+`{ruby:"Even though I haven't:「まだ私、全然遊び足}{ruby:played enough at all.:りないのにぃ。}`
 `{ruby:What a pathetic man.":情けない男ぉ」}`
 `{ruby:"I hadn't even played at alllll!:「私なんか全然遊んでないのにぃー！}`
 `{ruby:Let me play, let me playyyy!":私にも遊ばせて遊ばせてぇー！」}`
 `{ruby:"Be silent, you filth!:「お黙りなさい、屑どもが！}`
-`{ruby:No matter how well {f:5:Beatrice}‐sama fixes him, he just breaks right away, because you all devour him like starving dogs.":お前たちが飢えた犬みたいにがっつくから、いくらベアトリーチェさまが直しても、すぐ壊しちゃうのよ」}`
+`{ruby:No matter how well {f:5:Beatrice}‐sama fixes him, he just breaks:お前たちが飢えた犬みたいにがっつくから、いくらベアト}{ruby:right away, because you all devour him like starving dogs.":リーチェさまが直しても、すぐ壊しちゃうのよ」}`
 `{ruby:"You broke him the most, Satan‐nee.:「サタン姉が一番壊してるよ。}`
 `{ruby:'Cause you don't know restraint.":加減を知らないから」}`
 `{ruby:"My apologies, {f:5:Beatrice}‐sama.:「申し訳ございません、ベアトリーチェさま。}`
-`{ruby:Please forgive my cretinous younger sisters.":愚妹どもをどうかお許し下さい」}`
+`{ruby:Please forgive my:愚妹どもをどうかお}{ruby:cretinous younger sisters.":許し下さい」}`
 `{ruby:"Fix him quicklyyy!:「早くこいつを直してー！}`
 `{ruby:I'm next, I'm neeext!":次は私、次は私ぃー！」}`
 `{ruby:"Can you not be silent, shut up!!":「静かにせぬか、やかましいッ！！」}`
 `{ruby:"""""""Eeek!!""""""":「「「「「「「ひぃッ！！」」」」」」」}`
-`{ruby:Just from that single yell, the noisy Sisters of the Seven Stakes disappeared and hid.:一喝しただけで、騒がしき七杭の姉妹は姿を消して隠れてしまう。}`
-`{ruby:They just mess around, having as much fun as they want breaking him.:好きなだけ騒いで、遊んで壊して。}`
-`{ruby:{n}They only come to me to clean up afterwards.:{n}後始末だけは妾に押し付ける。}`
-`{ruby:{n}...Good grief, my furniture doesn't let me get bored.:{n}…まったく退屈させない家具たちだ。}`
-`{ruby:What remained after the pieces of furniture hid themselves...was just the sloppy mess that was all that remained of the broken toy.:家具たちが姿を消した後には、…ぐちゃぐちゃに壊れた玩具の残骸が残されている。}`
+`{ruby:Just from that single yell, the noisy:一喝しただけで、騒がしき七杭の姉}{ruby:Sisters of the Seven Stakes disappeared and hid.:妹は姿を消して隠れてしまう。}`
+`{ruby:They just mess around, having as:好きなだけ騒いで、}{ruby:much fun as they want breaking him.:遊んで壊して。}`
+`{ruby:{n}They only come to:{n}後始末だけは妾}{ruby:me to clean up afterwards.:に押し付ける。}`
+`{ruby:{n}...Good grief, my furniture:{n}…まったく退屈さ}{ruby:doesn't let me get bored.:せない家具たちだ。}`
+`{ruby:What remained after the pieces of furniture hid themselves...was just the:家具たちが姿を消した後には、…ぐちゃぐち}{ruby:sloppy mess that was all that remained of the broken toy.:ゃに壊れた玩具の残骸が残されている。}`
 `{ruby:It had no form anymore.:もはや原型を留めてはいなかった。}`
-`{ruby:"...Even I find it hard to recall his original form when he looks like this.:「…このザマでは、妾とて元の姿を思い出すのも難しい。}`
-`{ruby:It's better to make him remember for himself.:当の本人に思い出させるのが一番か。}`
+`{ruby:"...Even I find it hard to recall:「…このザマでは、妾とて元の}{ruby:his original form when he looks like this.:姿を思い出すのも難しい。}`
+`{ruby:It's better to make:当の本人に思い出させ}{ruby:him remember for himself.:るのが一番か。}`
 `{ruby:......Oh, well.":……やれやれ」}`
 `{ruby:I waved my golden pipe.:妾は黄金の煙管を振り上げる。}`
 `{ruby:And I told.:そして告げる。}`
@@ -218,65 +218,65 @@
 `{ruby:I made it remember.:思い出させる。}`
 `{ruby:"......Come, try to remember.:「……さぁさ、思い出して御覧なさい。}`
 `{ruby:What form did you have?:あなたがどんな姿をしていたのか。}`
-`{ruby:...After all, right now, you look like nothing but a huge lump of scrap meat to me.":…何しろ妾には、今のそなたは肉の残骸の山にしか見えぬのでな」}`
-`{ruby:"I've no idea which parts are the arms and which parts are the legs.:「どれが腕やら足やら見当もつかぬ。}`
-`{ruby:If you don't remember for me, I won't even be able to recall your face.:そなたが思い出してくれなければ、妾にはそなたの面影も思い出せぬ。}`
+`{ruby:...After all, right now, you look like nothing:…何しろ妾には、今のそなたは肉の}{ruby:but a huge lump of scrap meat to me.":残骸の山にしか見えぬのでな」}`
+`{ruby:"I've no idea which parts are the:「どれが腕やら足やら}{ruby:arms and which parts are the legs.:見当もつかぬ。}`
+`{ruby:If you don't remember for me, I:そなたが思い出してくれなければ、妾}{ruby:won't even be able to recall your face.:にはそなたの面影も思い出せぬ。}`
 `{ruby:*cackle*cackle*cackle*!":くっくくくく！」}`
-`{ruby:By the power of the magic, the pitiful pieces of meat began to remember what their form had been.:哀れな肉片が、魔法の力によって、自分たちがどのような姿をしていたのか、思い出し始める。}`
+`{ruby:By the power of the magic, the pitiful pieces:哀れな肉片が、魔法の力によって、自分たちがどの}{ruby:of meat began to remember what their form had been.:ような姿をしていたのか、思い出し始める。}`
 `{ruby:Who was connected to who.:誰が誰と繋がっていたのか。}`
 `{ruby:Where was joined up with where.:どことどこがどう組みあがっていたのか。}`
 `{ruby:That's right, just like that.:そうそう、その調子。}`
-`{ruby:...No, no, you should be a finger on the left hand.:…違う違う、お前は左手の指だろう。}`
+`{ruby:...No, no, you should be:…違う違う、お前は左}{ruby:a finger on the left hand.:手の指だろう。}`
 `{ruby:And you, the right hand.:そちらは右手だ。}`
 `{ruby:That's it, good, good, *cackle*.:そうそう、よしよし、くっくっく。}`
 `{ruby:"...Good morning.:「…おはよう。}`
 `{ruby:Feeling awake, Ushiromiya Battler?:目が覚めたか、右代宮戦人ぁ。}`
-`{ruby:How truly ironic that being awake is even more like a nightmare.":もっとも、目が覚めた方が悪夢の中とは実に皮肉な話だがな」}`
+`{ruby:How truly ironic that being awake:もっとも、目が覚めた方が悪夢の}{ruby:is even more like a nightmare.":中とは実に皮肉な話だがな」}`
 `{ruby:".........*cough*, ...*cough*...:「………げほ、…げほっ…。}`
 `{ruby:.........eck, ...owowow......":………っく、…痛ててて……」}`
-`{ruby:"If you would just accept that I am a witch, you'll quickly awaken from this nightmare, and I'll send you to heaven.:「妾を魔女と認めさえすれば、すぐにそなたの悪夢を覚まし、天国へ誘ってやろうぞ。}`
+`{ruby:"If you would just accept that I am a witch, you'll:「妾を魔女と認めさえすれば、すぐにそなたの}{ruby:quickly awaken from this nightmare, and I'll send you to heaven.:悪夢を覚まし、天国へ誘ってやろうぞ。}`
 `{ruby:I am the king of Mount Purgatory.:妾こそは煉獄山の王。}`
-`{ruby:There's no way out of this hell without my approval.":妾の許し無しにこの地獄より抜け出す方法はないのだ」}`
+`{ruby:There's no way out of:妾の許し無しにこの地獄より抜}{ruby:this hell without my approval.":け出す方法はないのだ」}`
 `{ruby:"Heh, ...heheheheh.:「へ、…へへへへ。}`
 `{ruby:You call this hell? That's no good.:この程度で地獄かよ、駄目だな。}`
-`{ruby:Yeah, that's no goddamn good at all.":あぁ、全然駄目だぜ」}`
-`{ruby:"The pain of death, which humans only have to taste once,:「人ならば一度しか味わわずに済む死の苦しみを、}`
-`{ruby:has been given to you more times than I could count with all of my fingers, and yet, ...how can you keep talking like that?:もう両手の指では数え切れぬほど与えられたというのに、よくもそれだけの減らず口を叩けるものよ。}`
+`{ruby:Yeah, that's no:あぁ、全然駄}{ruby:goddamn good at all.":目だぜ」}`
+`{ruby:"The pain of death, which:「人ならば一度しか味わわず}{ruby:humans only have to taste once,:に済む死の苦しみを、}`
+`{ruby:has been given to you more times than I could count with:もう両手の指では数え切れぬほど与えられたというの}{ruby:all of my fingers, and yet, ...how can you keep talking like that?:に、よくもそれだけの減らず口を叩けるものよ。}`
 `{ruby:*cackle*!:くっくっく！}`
 `{ruby:That is why I never tire.:だからこそ飽きぬ。}`
 `{ruby:I never tire of you.":そなたには飽きぬのよ」}`
 `{ruby:"Yeah, I'm not tiring either.:「あぁ、全然飽きねぇぜ。}`
-`{ruby:I mean, I get to pick and choose from those busty babes with dazzling asses in my harem.:何しろ、太股の眩しいバインバインの姉ちゃんたちが選り取り見取りのハーレム状態なんだからよ。}`
-`{ruby:Thanks to that, I'm not getting tired at all.":お陰様でまるで退屈しねぇぜ」}`
-`{ruby:"*cackle*cackle*, *cackle*cackle*cackle*!:「くくくくく、くっくくくくくく！}`
+`{ruby:I mean, I get to pick and choose from:何しろ、太股の眩しいバインバインの姉ちゃんたちが}{ruby:those busty babes with dazzling asses in my harem.:選り取り見取りのハーレム状態なんだからよ。}`
+`{ruby:Thanks to that, I'm:お陰様でまるで退}{ruby:not getting tired at all.":屈しねぇぜ」}`
+`{ruby:"*cackle*cackle*,:「くくくくく、くっ}{ruby:*cackle*cackle*cackle*!:くくくくくく！}`
 `{ruby:I am glad to hear it.:それはよかった。}`
 `{ruby:Otherwise I too would be bored.:そうでなくては妾も退屈だ。}`
 `{ruby:So, my furniture.:それ、家具ども。}`
-`{ruby:I've fixed him, so you can play as much as you want.":直してやったぞ、また存分に遊ぶが良い」}`
+`{ruby:I've fixed him, so you can:直してやったぞ、また存}{ruby:play as much as you want.":分に遊ぶが良い」}`
 `{ruby:"Thank you very much!:「ありがとうございますぅ！}`
 `{ruby:Kyaha, dibs!":きゃっはッ、私がいただきぃ！」}`
-`{ruby:"Didn't I say you're done, you're done, I'm next!:「だからあんたは終わりよ終わり、次は私なのぉ！}`
+`{ruby:"Didn't I say you're:「だからあんたは終わりよ終}{ruby:done, you're done, I'm next!:わり、次は私なのぉ！}`
 `{ruby:Back off, waaah!":退きなさいよ、わあん！」}`
 `{ruby:"Huhuhuhuhu.:「うっふふふふ。}`
 `{ruby:Wonderful, isn't it, Battler‐kuuun?:素敵よね、戦人くぅん？}`
 `{ruby:You're so popular, aren't you?":モテモテじゃない」}`
 `{ruby:"It's hard being a popular guy.:「モテる男は辛いぜ。}`
 `{ruby:Get in line, you beasts.":畜生ども、順番に並びやがれってんだ」}`
-`{ruby:"If you stopped acting all tough and started being honest with yourself, this would be much easier on you.":「虚勢など張らずに素直になれば、もっと楽になれるのに」}`
+`{ruby:"If you stopped acting all tough and started being:「虚勢など張らずに素直になれば}{ruby:honest with yourself, this would be much easier on you.":、もっと楽になれるのに」}`
 `{ruby:"It's alright like this.:「いいのよこれで。}`
-`{ruby:His screams feel so much better this way.":その方が悲鳴が気持ちいいもの」}`
-`{ruby:"Alright, let's not break him easily this time.:「さぁ、今度は簡単に壊すんじゃないわよ。}`
+`{ruby:His screams feel so:その方が悲鳴が気持}{ruby:much better this way.":ちいいもの」}`
+`{ruby:"Alright, let's not break:「さぁ、今度は簡単に壊}{ruby:him easily this time.:すんじゃないわよ。}`
 `{ruby:Well?! Do you hear me?!":いいわね、返事は？！」}`
 `{ruby:"You aren't in control!":「あんたが仕切るんじゃないわよ！」}`
 `{ruby:"So, Battler‐kun.:「さぁ、戦人くん。}`
-`{ruby:Let's continue where we left off, alright?:さっきの続きよ？}`
-`{ruby:After locking Jessica‐chan's room with the master key, how did they return the key to the pocket of the corpse which was inside the room?":マスターキーで朱志香ちゃんの部屋を施錠した後、どうやって室内の死体のポケットに鍵を戻したというの？」}`
+`{ruby:Let's continue where:さっきの続}{ruby:we left off, alright?:きよ？}`
+`{ruby:After locking Jessica‐chan's room with the master key, how did they return:マスターキーで朱志香ちゃんの部屋を施錠した後、どうやっ}{ruby:the key to the pocket of the corpse which was inside the room?":て室内の死体のポケットに鍵を戻したというの？」}`
 `{ruby:"......For example...:「……例えばよぅ。}`
-`{ruby:...That's it, they used a fishing line or something, and just the key went back into the room through the crack of the door...":…そうさ、釣り糸か何かを使って、鍵だけを扉の隙間から室内に戻して…」}`
+`{ruby:...That's it, they used a fishing line or something, and just the:…そうさ、釣り糸か何かを使って、鍵だ}{ruby:key went back into the room through the crack of the door...":けを扉の隙間から室内に戻して…」}`
 `{ruby:"Kyahhahahahahahaha!!:「きゃっはははははははッ！！}`
 `{ruby:Wronnng!":ハーズレぇ！」}`
 `{ruby:"So naive.:「甘いな。}`
-`{ruby:{p:1:Of all of the doors that exist on Rokkenjima, none has a crack through which a key can slip}.":{p:1:六軒島に存在する全ての扉は、鍵が通り抜けられる隙間などない}」}`
+`{ruby:{p:1:Of all of the doors that exist on Rokkenjima,:{p:1:六軒島に存在する全ての扉は、}{ruby:none has a crack through which a key can slip}.":鍵が通り抜けられる隙間などない}」}`
 `{ruby:"He got it wrong? He got it wrong?!:「ハズレたね、ハズレたねぇ？！}`
 `{ruby:Right, this time me, my turn!:さぁ今度は私よ、私の番なのよ！}`
 `{ruby:Wherrre should I strike!":どぉこを貫いちゃおっかなぁ！」}`
@@ -287,47 +287,47 @@
 `{ruby:"Gwoaaahhh...!!":「ぐおぉぉっ…！！」}`
 `{ruby:"I'll take the tip of the nose!":「私は鼻の頭をもらっちゃおっと！」}`
 `{ruby:"Ga...gagah......!!":「がっ…ががっ……！！」}`
-`{ruby:"Why, why, let me do it too, let me strike too!:「何で何で、私にもやらせて、私にも貫かせてぇ！}`
+`{ruby:"Why, why, let me do:「何で何で、私にもやらせて}{ruby:it too, let me strike too!:、私にも貫かせてぇ！}`
 `{ruby:Waaah!!":わあん！！」}`
-`{ruby:"You're just slow, Levia‐nee, "you snooze you lose" has always been how we've done things!:「レヴィア姉はトロいのよ、いつだって私たちは早い者勝ちでしょうが！}`
-`{ruby:Then, I'll take the top of his foot!":じゃあ私は足の甲をいただいちゃおっと！」}`
+`{ruby:"You're just slow, Levia‐nee, "you snooze you:「レヴィア姉はトロいのよ、いつだって}{ruby:lose" has always been how we've done things!:私たちは早い者勝ちでしょうが！}`
+`{ruby:Then, I'll take the:じゃあ私は足の甲をいただ}{ruby:top of his foot!":いちゃおっと！」}`
 `{ruby:"Ugwaahh......!!":「うぐあっ……！！」}`
 `{ruby:"Waaah!!:「わぁん！！}`
 `{ruby:Me too, me toooo!:私も私もぉー！}`
-`{ruby:Fine, I don't care, I'll take his shoulder!":私は肩をもらっちゃうからいいもん！」}`
+`{ruby:Fine, I don't care,:私は肩をもらっちゃうか}{ruby:I'll take his shoulder!":らいいもん！」}`
 `{ruby:"Ga...hahh......!!":「がはっ……！！」}`
 `{ruby:"Keh...:「け…。}`
-`{ruby:You're sisters, right? Be nice to each other. ...:姉妹なんだろ、仲良くしやがれってんだ。…}`
+`{ruby:You're sisters, right? Be:姉妹なんだろ、仲良くし}{ruby:nice to each other. ...:やがれってんだ。…}`
 `{ruby:...Gwaaa, ......oh, .........hh...":…ぐぅおお、……ぉ、………ッ…」}`
 `{ruby:"......How can you withstand that?:「……よくも堪えるものだな。}`
-`{ruby:Why haven't you realized that your false courage actually makes us more excited?":お前のその痩せ我慢が、むしろ私たちを楽しませているだけだと、なぜ気付かない？」}`
+`{ruby:Why haven't you realized that your:お前のその痩せ我慢が、むしろ私たちを楽しま}{ruby:false courage actually makes us more excited?":せているだけだと、なぜ気付かない？」}`
 `{ruby:"Too bad.:「生憎だなぁ。}`
-`{ruby:False courage and being stubborn are my specialty.:痩せ我慢と意地の張り合いは俺の十八番なんだ。}`
-`{ruby:No matter how you all try to speak in riddles, I definitely won't accept witches and magic...!":お前らがどう俺を煙に巻こうとも、俺は絶対に魔女も魔法も認めねぇ…！」}`
-`{ruby:"Even though you can't explain anything with human tricks?:「人間とトリックで何も説明できないくせに？}`
+`{ruby:False courage and being:痩せ我慢と意地の張り合い}{ruby:stubborn are my specialty.:は俺の十八番なんだ。}`
+`{ruby:No matter how you all try to speak:お前らがどう俺を煙に巻こうとも、俺は}{ruby:in riddles, I definitely won't accept witches and magic...!":絶対に魔女も魔法も認めねぇ…！」}`
+`{ruby:"Even though you can't:「人間とトリックで何も説}{ruby:explain anything with human tricks?:明できないくせに？}`
 `{ruby:Are you a moron?!:馬ッ鹿じゃないの？！}`
 `{ruby:Know your place!":この身の程知らずが！」}`
-`{ruby:"It's alright, we don't have to force him to accept it.:「いいのよ、無理に認めさせなくても。}`
-`{ruby:Any moment now he'll break down crying with the desire to accept it.:今に泣きながら認めたくなるわ。}`
-`{ruby:Even now, he really wants to kneel down on the ground pitifully and beg our forgiveness!":今だって、本当は哀れに土下座しながら許しを乞いたいくせにぃ！」}`
+`{ruby:"It's alright, we don't have:「いいのよ、無理に認}{ruby:to force him to accept it.:めさせなくても。}`
+`{ruby:Any moment now he'll break down:今に泣きながら認め}{ruby:crying with the desire to accept it.:たくなるわ。}`
+`{ruby:Even now, he really wants to kneel down:今だって、本当は哀れに土下座しなが}{ruby:on the ground pitifully and beg our forgiveness!":ら許しを乞いたいくせにぃ！」}`
 `{ruby:"Ugaah, guahgehgehgyahh...!!":「うぐぉッ、ぐごげげげがぎゃがッ…！！」}`
 `{ruby:"Aahhhh, he's broken already!:「あーん、もう壊しちゃったぁ！}`
 `{ruby:{f:5:Beatrice}‐samaaa!":ベアトリーチェさまぁー！」}`
 `{ruby:"......Dear me.:「……やれやれ。}`
-`{ruby:Since they know that I can revive him over and over, my pieces of furniture don't even hesitate to break him.:妾がいくらでも蘇らせられることを知っているから、家具どもも壊すことに躊躇がない。}`
+`{ruby:Since they know that I can revive him over and:妾がいくらでも蘇らせられることを知っている}{ruby:over, my pieces of furniture don't even hesitate to break him.:から、家具どもも壊すことに躊躇がない。}`
 `{ruby:How troublesome.":困ったものよ」}`
-`{ruby:Endless rebirths give me free reign over endless deaths, too.:無限の蘇生は、無限の死をも自在にする。}`
-`{ruby:Before the Endless Witch {f:5:Beatrice}, all death and life has no meaning.:無限の魔女ベアトリーチェの前には、全ての生き死には意味をなさない。}`
-`{ruby:Even death can't serve as the key to escape from my cage.:死すらも、妾の檻から逃れる鍵にはなり得ないのだ。}`
+`{ruby:Endless rebirths give me free:無限の蘇生は、無限の死}{ruby:reign over endless deaths, too.:をも自在にする。}`
+`{ruby:Before the Endless Witch {f:5:Beatrice}, all:無限の魔女ベアトリーチェの前には、全}{ruby:death and life has no meaning.:ての生き死には意味をなさない。}`
+`{ruby:Even death can't serve as the:死すらも、妾の檻から逃れる}{ruby:key to escape from my cage.:鍵にはなり得ないのだ。}`
 `{ruby:"So, Battler.:「さぁ、戦人。}`
-`{ruby:Remember your original form once more.:再び元の姿を思い出すがいい。}`
-`{ruby:I'll toy with you over and over again!":何度でも弄んでやるぞ？」}`
-`{ruby:"I see, I see, it truly is pleasant to have a toy to play with for all eternity.:「なるほどなるほど、永久に遊べる玩具とは実に愉快よ。}`
-`{ruby:......I see, could this be the endless bliss witches gain at the endless level?":……なるほどな、これが無限の境地に至った魔女が得る至福の境地とやらなのか」}`
+`{ruby:Remember your original:再び元の姿を思い}{ruby:form once more.:出すがいい。}`
+`{ruby:I'll toy with you:何度でも弄んで}{ruby:over and over again!":やるぞ？」}`
+`{ruby:"I see, I see, it truly is pleasant to:「なるほどなるほど、永久に遊}{ruby:have a toy to play with for all eternity.:べる玩具とは実に愉快よ。}`
+`{ruby:......I see, could this be the endless:……なるほどな、これが無限の境地に至った}{ruby:bliss witches gain at the endless level?":魔女が得る至福の境地とやらなのか」}`
 `{ruby:"I see, I see.:「なるほどなるほど。}`
 `{ruby:This certainly is a pleasant bliss.:これは確かに愉快で至福だ。}`
 `{ruby:*cackle*cackle*cackle*cackle*!:くっくくくくくくくく！}`
 `{ruby:Wahhahahahahahahahahahaha!!:わっははははははははははは！！}`
-`{ruby:I'll revive you over and over, kill you over and over!":何度でも蘇らせてやる、何度でも殺してやるッ！」}`
-`{ruby:"Now then, what kind of murder spree shall I unleash on the next game board?:「さぁて、次なるゲーム盤ではどのような殺人劇を繰り広げよう？}`
-`{ruby:Come, bring the new game board. Why don't we begin the next game, Ushiromiya Battler!!":さぁ、新しきゲーム盤を持て。次なるゲームを始めようではないか、右代宮戦人ぁ！！」}`
+`{ruby:I'll revive you over and:何度でも蘇らせてやる、何度}{ruby:over, kill you over and over!":でも殺してやるッ！」}`
+`{ruby:"Now then, what kind of murder spree:「さぁて、次なるゲーム盤ではどの}{ruby:shall I unleash on the next game board?:ような殺人劇を繰り広げよう？}`
+`{ruby:Come, bring the new game board. Why:さぁ、新しきゲーム盤を持て。次なるゲームを}{ruby:don't we begin the next game, Ushiromiya Battler!!":始めようではないか、右代宮戦人ぁ！！」}`

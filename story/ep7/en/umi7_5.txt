@@ -1,406 +1,406 @@
 `{ruby:"Lieutenant Yamamoto.:「中尉。}`
-`{ruby:The Italians don't want us to tell the mainland about this gold.":イタリア人たちは、この黄金のことを、本土へ報告しないことを望んでいます」}`
+`{ruby:The Italians don't want us to:イタリア人たちは、この黄金のことを、本}{ruby:tell the mainland about this gold.":土へ報告しないことを望んでいます」}`
 `{ruby:".........Aha.:「………ふふん。}`
-`{ruby:So, they don't want our country to take possession of it.":我が国に横領されたくないからであろうな」}`
+`{ruby:So, they don't want our:我が国に横領されたくな}{ruby:country to take possession of it.":いからであろうな」}`
 `{ruby:"<What did he say?>":『彼は何と？』}`
-`{ruby:"<He's saying your group probably doesn't want it reported because you fear that Japan will take possession of the gold.>":『日本が黄金を横領するのを恐れているから、報告されたくないのだろうと言っている』}`
-`{ruby:"<Ensign Angelo is actually more afraid of Italy itself finding out.:『少尉はむしろ、イタリア本国に知られることを恐れているわ。}`
-`{ruby:To us, our homeland's current government is a mere puppet set up by the Allied Forces.:私たちにとって、今の祖国は連合国の傀儡政権。}`
-`{ruby:If they find out, the gold will be returned to them.:彼らに知られれば、黄金は返還することになる。}`
-`{ruby:However, that would be the same as handing the gold over to our enemies.>":しかしそれは、私たちの敵に黄金を渡すようなもの』}`
-`{ruby:They had come all this way to make sure that the gold didn't fall into enemy hands.:敵の手に黄金を渡さないために、彼らはここまでやって来たのだ。}`
-`{ruby:They needed to hide this gold from the puppet government...:彼らの真の祖国が復興する日まで、}`
-`{ruby:...until their homeland could be truly restored...:この黄金を傀儡の祖国の手から、彼らは隠さなくてはならない…。}`
+`{ruby:"<He's saying your group probably doesn't want it reported because:『日本が黄金を横領するのを恐れているから、}{ruby:you fear that Japan will take possession of the gold.>":報告されたくないのだろうと言っている』}`
+`{ruby:"<Ensign Angelo is actually more:『少尉はむしろ、イタリア本国に知}{ruby:afraid of Italy itself finding out.:られることを恐れているわ。}`
+`{ruby:To us, our homeland's current government is a:私たちにとって、今の祖国}{ruby:mere puppet set up by the Allied Forces.:は連合国の傀儡政権。}`
+`{ruby:If they find out, the:彼らに知られれば、黄金は}{ruby:gold will be returned to them.:返還することになる。}`
+`{ruby:However, that would be the same as:しかしそれは、私たちの敵に}{ruby:handing the gold over to our enemies.>":黄金を渡すようなもの』}`
+`{ruby:They had come all this way to make:敵の手に黄金を渡さないために、彼}{ruby:sure that the gold didn't fall into enemy hands.:らはここまでやって来たのだ。}`
+`{ruby:They needed to hide this:彼らの真の祖国が復}{ruby:gold from the puppet government...:興する日まで、}`
+`{ruby:...until their homeland:この黄金を傀儡の祖国の手から、彼}{ruby:could be truly restored...:らは隠さなくてはならない…。}`
 `{ruby:"Ushiromiya.:「右代宮。}`
 `{ruby:Make a proposal to the Italians.:イタリア人たちに提案せよ。}`
-`{ruby:Tell them that we wish to offer our assistance.":我々は協力を申し出たいとな」}`
+`{ruby:Tell them that we:我々は協力を申し}{ruby:wish to offer our assistance.":出たいとな」}`
 `{ruby:"What sort of assistance...?":「協力とは…？」}`
-`{ruby:"I understand what the Italians are trying to say.:「イタリア人たちの言い分はこうであろう？}`
-`{ruby:They want that gold to be hidden so that their homeland doesn't find out about it.:彼らはその黄金を、祖国に知られることなく隠したいわけだ。}`
-`{ruby:However, they would need to obtain at least a transport ship if they plan to take it from this island.:しかし、この島から運び出そうとすれば、輸送船を手配せねばならなくなる。}`
-`{ruby:If they tried that, however, the mainland would hear about it, which means that the Italian government would too.":そうすれば、本土に知られ、さらにはイタリア本国にも知られることとなる」}`
+`{ruby:"I understand what the:「イタリア人たちの言い}{ruby:Italians are trying to say.:分はこうであろう？}`
+`{ruby:They want that gold to be hidden so:彼らはその黄金を、祖国に知られる}{ruby:that their homeland doesn't find out about it.:ことなく隠したいわけだ。}`
+`{ruby:However, they would need to obtain at least a transport:しかし、この島から運び出そうとすれば、}{ruby:ship if they plan to take it from this island.:輸送船を手配せねばならなくなる。}`
+`{ruby:If they tried that, however, the mainland would hear:そうすれば、本土に知られ、さらにはイタ}{ruby:about it, which means that the Italian government would too.":リア本国にも知られることとなる」}`
 `{ruby:"That's right.:「そうなります。}`
-`{ruby:......In other words, there's no longer any way to take that gold off Rokkenjima.":……つまり、あの黄金は、もう六軒島からは運び出せない」}`
-`{ruby:Their mission must have been to hide that gold in absolute secrecy until the day of their homeland's restoration.:彼らの任務は恐らく、祖国再興の日まで、あの黄金を極秘の場所に隠すことだったに違いない。}`
-`{ruby:Later on, several plausible rumors would circulate...:ドイツでも、降伏直前にその隠し財産を、南米などの某所に極秘で運搬して隠した、}`
-`{ruby:about how Germany also moved much of its secret wealth to certain hidden areas in South America just prior to its surrender.:などという噂がまことしやかに流れる。}`
-`{ruby:It was a very natural conclusion to reach.:それは妥当な想像だった。}`
-`{ruby:That submarine was their only method of transporting the gold in secrecy, and it's become completely useless.:唯一の極秘輸送手段であった潜水艦は完全に航行不能で、}`
-`{ruby:They can't fully stop the water from seeping in, and it'll probably sink completely before much longer.:浸水は止められず、近い内に完全に沈没するだろう。}`
-`{ruby:There's no longer any way for them to transport the gold in secrecy.:黄金を極秘に輸送する手段は、もはや存在しないのだ。}`
-`{ruby:In other words, their mission has ended in failure here in the Far East.:それはつまり、彼らの任務がこの極東の地で、失敗に終わったことを示していた。}`
-`{ruby:So, just how is Lieutenant Yamamoto proposing that we assist them......?:その上で、山本中尉は何の協力を申し出ようと言うのか……。}`
-`{ruby:"The Rokkenjima base is top‐secret, and no one knows about it.:「この六軒島基地は、誰も知らぬ秘密基地だ。}`
-`{ruby:The islanders in the surrounding area believe this island to be ill‐omened and deserted, so they never come near it.:近隣の島民たちは、この島を不吉な無人島と信じて近寄りもしない。}`
-`{ruby:......Do you get my meaning, Ushiromiya?":……言っている意味がわかるか、右代宮」}`
+`{ruby:......In other words, there's no longer any:……つまり、あの黄金は、もう六}{ruby:way to take that gold off Rokkenjima.":軒島からは運び出せない」}`
+`{ruby:Their mission must have been to hide that gold:彼らの任務は恐らく、祖国再興の日まで、あの黄金}{ruby:in absolute secrecy until the day of their homeland's restoration.:を極秘の場所に隠すことだったに違いない。}`
+`{ruby:Later on, several:ドイツでも、降伏直前にその隠し財産を、南}{ruby:plausible rumors would circulate...:米などの某所に極秘で運搬して隠した、}`
+`{ruby:about how Germany also moved much of its secret wealth to:などという噂がまこと}{ruby:certain hidden areas in South America just prior to its surrender.:しやかに流れる。}`
+`{ruby:It was a very:それは妥当な想}{ruby:natural conclusion to reach.:像だった。}`
+`{ruby:That submarine was their only method of transporting:唯一の極秘輸送手段であった潜}{ruby:the gold in secrecy, and it's become completely useless.:水艦は完全に航行不能で、}`
+`{ruby:They can't fully stop the water from seeping:浸水は止められず、近い内に}{ruby:in, and it'll probably sink completely before much longer.:完全に沈没するだろう。}`
+`{ruby:There's no longer any way for:黄金を極秘に輸送する手段は、}{ruby:them to transport the gold in secrecy.:もはや存在しないのだ。}`
+`{ruby:In other words, their mission has ended:それはつまり、彼らの任務がこの極東の地で}{ruby:in failure here in the Far East.:、失敗に終わったことを示していた。}`
+`{ruby:So, just how is Lieutenant:その上で、山本中尉は何の協力を}{ruby:Yamamoto proposing that we assist them......?:申し出ようと言うのか……。}`
+`{ruby:"The Rokkenjima base is top‐secret,:「この六軒島基地は、誰も}{ruby:and no one knows about it.:知らぬ秘密基地だ。}`
+`{ruby:The islanders in the surrounding area believe this island to:近隣の島民たちは、この島を不吉な無}{ruby:be ill‐omened and deserted, so they never come near it.:人島と信じて近寄りもしない。}`
+`{ruby:......Do you get:……言っている意味がわ}{ruby:my meaning, Ushiromiya?":かるか、右代宮」}`
 `{ruby:"<What did he say?>":『彼は何と？』}`
-`{ruby:"<As we told you earlier, no one knows about this base.:『前にも話した通り、この六軒島基地は誰にも知られていない。}`
-`{ruby:And, as you can see, it's of no use strategically, so the higher‐ups have already forgotten about it.:見ての通り、戦略価値は何もなく、上層部にもすでに忘れられてる。}`
-`{ruby:......Sounds like Lieutenant Yamamoto's suggesting that you hide the gold on this island.>":……中尉は、この島に黄金を隠してはどうかと提案したいみたいだ』}`
-`{ruby:Beatrice quickly translated this and told Ensign Angelo.:ベアトリーチェはすぐにそれを翻訳し、アンジェロ少尉に伝える。}`
-`{ruby:The ensign began discussing rapidly with his subordinates.:少尉は下士官たちと早口に議論を始める。}`
+`{ruby:"<As we told you earlier,:『前にも話した通り、この六軒島基}{ruby:no one knows about this base.:地は誰にも知られていない。}`
+`{ruby:And, as you can see, it's of no use:見ての通り、戦略価値は何もなく、上}{ruby:strategically, so the higher‐ups have already forgotten about it.:層部にもすでに忘れられてる。}`
+`{ruby:......Sounds like Lieutenant Yamamoto's suggesting that:……中尉は、この島に黄金を隠しては}{ruby:you hide the gold on this island.>":どうかと提案したいみたいだ』}`
+`{ruby:Beatrice quickly translated this:ベアトリーチェはすぐにそれを翻訳}{ruby:and told Ensign Angelo.:し、アンジェロ少尉に伝える。}`
+`{ruby:The ensign began discussing:少尉は下士官たちと早口}{ruby:rapidly with his subordinates.:に議論を始める。}`
 `{ruby:They didn't look happy.:表情は苦々しい。}`
-`{ruby:Japan may have been their ally, but they probably didn't want the gold for reconstructing their motherland to be entrusted to Asians.:同盟国とはいえ、祖国再建の大切な黄金を、東洋人の手に委ねたくはないのだろう。}`
-`{ruby:Still, it's hard to imagine any other option for them.:しかし、選択の余地が残されているとは思えない。}`
+`{ruby:Japan may have been their ally, but they probably didn't want:同盟国とはいえ、祖国再建の大切な黄金を、}{ruby:the gold for reconstructing their motherland to be entrusted to Asians.:東洋人の手に委ねたくはないのだろう。}`
+`{ruby:Still, it's hard to imagine:しかし、選択の余地が残され}{ruby:any other option for them.:ているとは思えない。}`
 `{ruby:"<......It's a fierce debate.:『……激しく議論しているわ。}`
-`{ruby:Some say that there's no other option, while others think we should remain loyal to our homeland no matter the cost.:他に手はないと言う者もいるし、それでも祖国に忠誠を尽くすべきだと言う者もいる。}`
-`{ruby:......Ensign Angelo is stuck between a rock and a hard place.>":……少尉は板挟みになってるわ』}`
-`{ruby:Hiding this gold was the final order given to them by their fallen homeland.:黄金隠匿は、滅んだ祖国の最後の命令だ。}`
-`{ruby:{n}However, by now, there was no way for that order to be carried out successfully.:{n}しかしその命令はもはや遂行不能だ。}`
-`{ruby:If the mainland or their own homeland found out, the gold would probably be confiscated by the wrong people, from their point of view.:本土や祖国に知られれば、彼らの望まぬ人間たちに接収されることになる。}`
-`{ruby:If they really wanted to carry out their homeland's orders faithfully,:彼らが祖国の命令を忠実に実行しようとするなら、}`
-`{ruby:.........Lieutenant Yamamoto's proposal was extremely reasonable...:………山本中尉の、この島に隠せばいいという提案は、極めて妥当なものだ…。}`
-`{ruby:Though the lieutenant couldn't understand their words, it seemed he realized how divided they were.:たとえ言葉が理解できなくても、彼らが悩んでいることは、山本中尉にもわかっているようだった。}`
-`{ruby:"Heheheh, if we help out, we'll be able to hide the gold in the utmost secrecy.:「くっくっく、我々が協力すれば、あの黄金を厳重に隠すことが出来るぞ。}`
-`{ruby:Fortunately, there's an abandoned tunnel that stretches all the way across this island.":幸いなことに、廃棄された地下壕が長々と、この島の地下を横断している」}`
-`{ruby:"<......He's saying that, if you hide the gold underground and bury it on this island, no one will be able to find it.>":『……この島の地下に黄金を隠して埋めれば、誰にも発見できないと言ってる』}`
-`{ruby:"<Our side is saying that it sounds like a realistic proposal.:『現実的な申し出だと議論してるわ。}`
-`{ruby:......However, there seems to be some resistance against accepting Japanese assistance.>":……でも、日本人の手を借りるのに、抵抗を感じてるみたい』}`
-`{ruby:"......It seems they're having difficulty coming to a decision.":「……議論が難航しているようです」}`
+`{ruby:Some say that there's no other option, while others think:他に手はないと言う者もいるし、それでも祖国}{ruby:we should remain loyal to our homeland no matter the cost.:に忠誠を尽くすべきだと言う者もいる。}`
+`{ruby:......Ensign Angelo is stuck between:……少尉は板挟みに}{ruby:a rock and a hard place.>":なってるわ』}`
+`{ruby:Hiding this gold was the final order:黄金隠匿は、滅んだ祖国}{ruby:given to them by their fallen homeland.:の最後の命令だ。}`
+`{ruby:{n}However, by now, there was no way:{n}しかしその命令は}{ruby:for that order to be carried out successfully.:もはや遂行不能だ。}`
+`{ruby:If the mainland or their own homeland found out, the gold would:本土や祖国に知られれば、彼らの望まぬ}{ruby:probably be confiscated by the wrong people, from their point of view.:人間たちに接収されることになる。}`
+`{ruby:If they really wanted to:彼らが祖国の命令を忠実に実}{ruby:carry out their homeland's orders faithfully,:行しようとするなら、}`
+`{ruby:.........Lieutenant Yamamoto's proposal:………山本中尉の、この島に隠せばいいと}{ruby:was extremely reasonable...:いう提案は、極めて妥当なものだ…。}`
+`{ruby:Though the lieutenant couldn't understand their words,:たとえ言葉が理解できなくても、彼らが悩んでいるこ}{ruby:it seemed he realized how divided they were.:とは、山本中尉にもわかっているようだった。}`
+`{ruby:"Heheheh, if we help out, we'll be able:「くっくっく、我々が協力すれば、あの}{ruby:to hide the gold in the utmost secrecy.:黄金を厳重に隠すことが出来るぞ。}`
+`{ruby:Fortunately, there's an abandoned tunnel that:幸いなことに、廃棄された地下壕が長々}{ruby:stretches all the way across this island.":と、この島の地下を横断している」}`
+`{ruby:"<......He's saying that, if you hide the gold underground and bury:『……この島の地下に黄金を隠して埋めれ}{ruby:it on this island, no one will be able to find it.>":ば、誰にも発見できないと言ってる』}`
+`{ruby:"<Our side is saying that:『現実的な申し出だと}{ruby:it sounds like a realistic proposal.:議論してるわ。}`
+`{ruby:......However, there seems to be:……でも、日本人の手を借りるの}{ruby:some resistance against accepting Japanese assistance.>":に、抵抗を感じてるみたい』}`
+`{ruby:"......It seems they're having:「……議論が難航して}{ruby:difficulty coming to a decision.":いるようです」}`
 `{ruby:"Heheh.:「くっくっく。}`
-`{ruby:Do you really have a choice, Italians?:議論の余地などあるのか、イタリア人。}`
-`{ruby:You don't think you can hide that gold without our help, do you?:我々の協力なくば、あの黄金は隠せんぞ？}`
-`{ruby:And I doubt you want to leave it lying around on the beach for much longer.":まさか、いつまでも波打ち際に積み上げて置く訳にも行くまい？」}`
-`{ruby:"<Ensign Angelo wants to minimize the number of people who know about the gold.:『アンジェロ少尉は、黄金のことを知る人間を最小で抑えたいみたい。}`
-`{ruby:......He doesn't trust the Japanese, but it looks like he's decided that Lieutenant Yamamoto's plan is the best possible option.:……日本人は信用できないけど、山本中尉の申し出が、今は最善と見てるみたいよ。}`
+`{ruby:Do you really:議論の余地などあるの}{ruby:have a choice, Italians?:か、イタリア人。}`
+`{ruby:You don't think you can hide:我々の協力なくば、あの}{ruby:that gold without our help, do you?:黄金は隠せんぞ？}`
+`{ruby:And I doubt you want to leave it:まさか、いつまでも波打ち際に積み上}{ruby:lying around on the beach for much longer.":げて置く訳にも行くまい？」}`
+`{ruby:"<Ensign Angelo wants to minimize the number:『アンジェロ少尉は、黄金のことを知}{ruby:of people who know about the gold.:る人間を最小で抑えたいみたい。}`
+`{ruby:......He doesn't trust the Japanese, but it looks like he's:……日本人は信用できないけど、山本中尉の}{ruby:decided that Lieutenant Yamamoto's plan is the best possible option.:申し出が、今は最善と見てるみたいよ。}`
 `{ruby:But...he seems suspicious.>":でも、訝しがってるわ』}`
 `{ruby:"<About what?>":『何を？』}`
-`{ruby:"<He's wondering whether they really intend to move a full ten tons of gold and swear themselves to secrecy...without any sort of compensation......>":『１０ｔの黄金を隠すという労力の提供と守秘義務を、彼らが本当に無償で提供してくれるのかと、ね……』}`
+`{ruby:"<He's wondering whether they really intend to move a full ten:『１０ｔの黄金を隠すという労力の提供と守秘義務を、彼}{ruby:tons of gold and swear themselves to secrecy...without any sort of compensation......>":らが本当に無償で提供してくれるのかと、ね……』}`
 `{ruby:"Fifty‐fifty.":「五分と五分だ」}`
 `{ruby:"......Sir, you can't be—":「……中尉、それはまさか、」}`
 `{ruby:"Hand over half of the gold to us.:「あの黄金の半分を我々に寄越せ。}`
-`{ruby:With that as our work wages, we'll hide the other half nice and safe for them.":それを手間賃に、残りの半分を厳重に隠してやろう」}`
-`{ruby:"<......H‐he's telling you to give us half of it.>":『……は、半分を寄越せと言ってる』}`
-`{ruby:The instant Beatrice translated that sentence, Ensign Angelo slammed his hands on the desk and stood up.:ベアトリーチェがそれを通訳した途端、アンジェロ少尉はバンと机を叩いて立ち上がる。}`
-`{ruby:Instead of flinching, Lieutenant Yamamoto, true to his boasts of once being a thug that everyone feared,:山本中尉は、乱暴者と恐れられていたと自ら言うだけあり、}`
-`{ruby:actually looked even more relaxed and confident than he had previously.:気圧された様子もなく、……いやむしろ、さっきより余裕をもって言う。}`
-`{ruby:"After all, they really don't have the option of refusing.:「本来なら断りようのない話だ。}`
-`{ruby:I could demand eighty percent if I wanted.:８割を要求してもおかしくない。}`
-`{ruby:I've lowered that to an even split as a sign of good faith.":それを、敬意を表して五分と五分にしようと提案しているのだ」}`
-`{ruby:"......Of course, we aren't the only ones with leverage here.:「……これは我々だけに優位な話ではない。}`
-`{ruby:If the Italians decide to leak this to the outside, all of the gold will probably be taken by Japan or Italy.:イタリア人たちが外部にこのことを漏らせば、全ての黄金は日本かイタリアに接収されるだろう。}`
-`{ruby:We won't get even a single yen out of it.:我々には１円たりとも転がり込んで来ない。}`
-`{ruby:This can only work if we're both partners in crime here.":我々は全員が共犯でなくてはならないのだ」}`
-`{ruby:"<He's saying we should all be partners in the crime of embezzlement.:『全員に着服の共犯になれと言ってる。}`
-`{ruby:......By now, he's already moved on to speaking as an individual, not as a soldier...>":……中尉はすでに軍人としてでなく、個人として話をしている…』}`
+`{ruby:With that as our work wages, we'll hide:それを手間賃に、残りの半分}{ruby:the other half nice and safe for them.":を厳重に隠してやろう」}`
+`{ruby:"<......H‐he's telling you to:『……は、半分を寄越}{ruby:give us half of it.>":せと言ってる』}`
+`{ruby:The instant Beatrice translated that sentence, Ensign Angelo:ベアトリーチェがそれを通訳した途端、アンジ}{ruby:slammed his hands on the desk and stood up.:ェロ少尉はバンと机を叩いて立ち上がる。}`
+`{ruby:Instead of flinching, Lieutenant Yamamoto, true to his:山本中尉は、乱暴者と恐れられて}{ruby:boasts of once being a thug that everyone feared,:いたと自ら言うだけあり、}`
+`{ruby:actually looked even more relaxed:気圧された様子もなく、……いやむしろ}{ruby:and confident than he had previously.:、さっきより余裕をもって言う。}`
+`{ruby:"After all, they really don't:「本来なら断りよう}{ruby:have the option of refusing.:のない話だ。}`
+`{ruby:I could demand eighty:８割を要求してもお}{ruby:percent if I wanted.:かしくない。}`
+`{ruby:I've lowered that to an even:それを、敬意を表して五分と五分に}{ruby:split as a sign of good faith.":しようと提案しているのだ」}`
+`{ruby:"......Of course, we aren't the:「……これは我々だけに}{ruby:only ones with leverage here.:優位な話ではない。}`
+`{ruby:If the Italians decide to leak this to the outside, all:イタリア人たちが外部にこのことを漏らせば、全て}{ruby:of the gold will probably be taken by Japan or Italy.:の黄金は日本かイタリアに接収されるだろう。}`
+`{ruby:We won't get even a:我々には１円たりとも転}{ruby:single yen out of it.:がり込んで来ない。}`
+`{ruby:This can only work if:我々は全員が共犯でなく}{ruby:we're both partners in crime here.":てはならないのだ」}`
+`{ruby:"<He's saying we should all be:『全員に着服の共犯に}{ruby:partners in the crime of embezzlement.:なれと言ってる。}`
+`{ruby:......By now, he's already moved on to:……中尉はすでに軍人としてでなく}{ruby:speaking as an individual, not as a soldier...>":、個人として話をしている…』}`
 `{ruby:"<Insane......:『何てこと……。}`
 `{ruby:So, he's been blinded by greed...>":黄金に目が眩んだのね…』}`
 `{ruby:Lieutenant Yamamoto was grinning.:山本中尉はにやにやと笑う。}`
-`{ruby:It really did look as though he had been blinded by greed, just as Beatrice said...:ベアトリーチェの言う通り、その目は黄金に眩んでいるようだった…。}`
-`{ruby:"If they leave it just piled up where it is, you can be sure that it'll be noticed when the boat comes for them from the mainland.:「あのまま山積みにしていれば、やがて本土から来る迎えの連中の目に、否応なく入るだろう。}`
-`{ruby:If that happens, none of us will profit.:そうなれば、ここにいる誰もが得をしないぞ。}`
-`{ruby:They ought to accept our proposal and hide the gold as soon as possible.":我々の申し出を受けて、早急に黄金を隠すべきだ」}`
-`{ruby:"<......It sounds like Ensign Angelo is dead set on the Japanese and Italian governments not finding out about this.:『……アンジェロ少尉は、日本政府やイタリア政府にはどうしても知られたくないみたい。}`
-`{ruby:He wants to carry out his duty until the end.>":彼は自分が与えられた任務に、最後まで責任を持ちたいみたいよ』}`
+`{ruby:It really did look as though he had:ベアトリーチェの言う通り、その目は}{ruby:been blinded by greed, just as Beatrice said...:黄金に眩んでいるようだった…。}`
+`{ruby:"If they leave it just piled up where it is, you can be:「あのまま山積みにしていれば、やがて本土から来}{ruby:sure that it'll be noticed when the boat comes for them from the mainland.:る迎えの連中の目に、否応なく入るだろう。}`
+`{ruby:If that happens, none:そうなれば、ここにいる誰}{ruby:of us will profit.:もが得をしないぞ。}`
+`{ruby:They ought to accept our proposal and:我々の申し出を受けて、早急}{ruby:hide the gold as soon as possible.":に黄金を隠すべきだ」}`
+`{ruby:"<......It sounds like Ensign Angelo is dead set on:『……アンジェロ少尉は、日本政府やイタリア政}{ruby:the Japanese and Italian governments not finding out about this.:府にはどうしても知られたくないみたい。}`
+`{ruby:He wants to carry out:彼は自分が与えられた任務に、最後}{ruby:his duty until the end.>":まで責任を持ちたいみたいよ』}`
 `{ruby:"<So, what exactly does that mean?>":『つまりどういうことだ？』}`
-`{ruby:"<He wants the gold buried deep within the island, even if he has to pay some percentage to buy your silence.:『何割かを口止め料として与えてでも、島内に地中深く埋めることを望んでるわ。}`
-`{ruby:......Of course, some of his subordinates object strongly.:……もちろん、下士官たちには異論もあるみたい。}`
-`{ruby:They're saying that fifty percent is out of the question.>":５割は問題外だと憤慨してるわ』}`
+`{ruby:"<He wants the gold buried deep within the island, even:『何割かを口止め料として与えてでも、島内}{ruby:if he has to pay some percentage to buy your silence.:に地中深く埋めることを望んでるわ。}`
+`{ruby:......Of course, some of:……もちろん、下士官たちに}{ruby:his subordinates object strongly.:は異論もあるみたい。}`
+`{ruby:They're saying that fifty percent:５割は問題外だと憤}{ruby:is out of the question.>":慨してるわ』}`
 `{ruby:"Ushiromiya.:「右代宮。}`
 `{ruby:How is it going over?":イタリア人たちの感触はどうだ？」}`
-`{ruby:".........They also don't want any more people laying eyes on the gold.:「………彼らも黄金が、これ以上の人目につくことを望んでいないようです。}`
-`{ruby:......However, they seem to object to the portions.":……しかし、取り分に異論があるようです」}`
-`{ruby:"<Ensign Angelo says that they'll consider 10%.:『少尉は、１割ならば検討できると言ってるわ。}`
-`{ruby:......Though he's also saying that he's fairly sure Lieutenant Yamamoto won't accept that.>":……無論、山本中尉がそれで納得しないだろうとも言ってるけど』}`
+`{ruby:".........They also don't want any more:「………彼らも黄金が、これ以上の人目に}{ruby:people laying eyes on the gold.:つくことを望んでいないようです。}`
+`{ruby:......However, they seem to:……しかし、取り分に異}{ruby:object to the portions.":論があるようです」}`
+`{ruby:"<Ensign Angelo says:『少尉は、１割ならば検討}{ruby:that they'll consider 10%.:できると言ってるわ。}`
+`{ruby:......Though he's also saying that he's:……無論、山本中尉がそれで納得し}{ruby:fairly sure Lieutenant Yamamoto won't accept that.>":ないだろうとも言ってるけど』}`
 `{ruby:"Ushiromiya.:「右代宮。}`
 `{ruby:What is the Italians' answer?":イタリア人の返事は如何に？」}`
-`{ruby:"......They'll consider handing over ten percent.":「……１割なら検討すると」}`
-`{ruby:This time, it was Lieutenant Yamamoto who slammed down on the desk.:今度は山本中尉が激しく机を叩く。}`
-`{ruby:But the Italians didn't flinch either.:しかし、イタリア人たちも気圧されはしない。}`
-`{ruby:......An incredible tension filled the small room...:……狭い室内を、火薬の臭いのする緊迫感が満たしていく…。}`
-`{ruby:However, despite his violent outburst a second ago, Lieutenant Yamamoto's expression still looked smug and in control.:しかし、その乱暴な仕草とは裏腹に、やはり山本中尉の表情は不敵で余裕あるものだった。}`
-`{ruby:He was probably confident that he now had the initiative.:交渉のイニシアチブは自分にあるのだという、自信があるのだろう。}`
+`{ruby:"......They'll consider handing:「……１割なら検}{ruby:over ten percent.":討すると」}`
+`{ruby:This time, it was Lieutenant Yamamoto:今度は山本中尉が激}{ruby:who slammed down on the desk.:しく机を叩く。}`
+`{ruby:But the Italians:しかし、イタリア人たちも}{ruby:didn't flinch either.:気圧されはしない。}`
+`{ruby:......An incredible tension:……狭い室内を、火薬の臭いのす}{ruby:filled the small room...:る緊迫感が満たしていく…。}`
+`{ruby:However, despite his violent outburst a second ago,:しかし、その乱暴な仕草とは裏腹に、やはり山本}{ruby:Lieutenant Yamamoto's expression still looked smug and in control.:中尉の表情は不敵で余裕あるものだった。}`
+`{ruby:He was probably confident that:交渉のイニシアチブは自分にあるのだ}{ruby:he now had the initiative.:という、自信があるのだろう。}`
 `{ruby:"Ten percent!:「１割！}`
 `{ruby:Now there's a modest proposal.:１割か、それは慎ましやかな提案だ。}`
-`{ruby:......Very well, I'll give up ten percent.:……いいだろう、なら１割を譲ってやろう。}`
+`{ruby:......Very well, I'll:……いいだろう、なら１}{ruby:give up ten percent.:割を譲ってやろう。}`
 `{ruby:Forty‐sixty.:四分六だ。}`
-`{ruby:Tell them I won't go any further than that!":これ以上は譲らんと伝えろ！」}`
+`{ruby:Tell them I won't:これ以上は譲らん}{ruby:go any further than that!":と伝えろ！」}`
 `{ruby:Forty percent for the Japanese.:日本側４割。}`
 `{ruby:Sixty for the Italians.:イタリア側６割。}`
-`{ruby:The lieutenant made it sound like he was willing to stand firm on that, but in truth, these negotiations were not being made on an equal footing.:中尉は強気に出ているが、実際は決して互角の交渉ではない。}`
-`{ruby:If the Italians just wanted the gold for themselves, there wouldn't be much of a problem.:イタリア人たちが、自分たちもこの黄金を横領しようという考えでいるなら、大した問題ではない。}`
+`{ruby:The lieutenant made it sound like he was willing to stand firm on:中尉は強気に出ているが、実際は}{ruby:that, but in truth, these negotiations were not being made on an equal footing.:決して互角の交渉ではない。}`
+`{ruby:If the Italians just wanted the gold for:イタリア人たちが、自分たちもこの黄金を横領しよう}{ruby:themselves, there wouldn't be much of a problem.:という考えでいるなら、大した問題ではない。}`
 `{ruby:But what if...:しかしもし。}`
-`{ruby:what if they really were true patriots, ......and decided that they ought to return the gold,:彼らが高潔な愛国者であり、……たとえ滅んだ傀儡の祖国であっても、}`
-`{ruby:even to the defeated puppet government of their homeland, for the purpose of reconstruction?:再建のために黄金を返還すべきだという結論に至った場合。}`
-`{ruby:If so, they would probably report the existence of the gold to the Italian embassy.:彼らはむしろ逆に、黄金の存在をイタリア大使館員に告白するだろう。}`
-`{ruby:Eventually, the Italian government would petition the Allied nations for the retrieval of their gold.:イタリア政府はやがて連合国を通じてそれの返還を求める。}`
-`{ruby:......It probably wouldn't all make it back to Italy, but it might be used effectively to repair and rebuild the battered towns.:……全てがイタリアには戻らないだろうが、荒れ果てた街並みの再建に、その黄金は有効に利用されるかもしれない。}`
-`{ruby:If that happened, Lieutenant Yamamoto and his friends would only be able to sneak out a few ingots at most.:そうなれば山本中尉たちは、せいぜい数本のインゴットを誤魔化せるかどうかだ。}`
-`{ruby:He was greedily planning to make this his own treasure island, so that he and his subordinates could have an enormous fortune all to themselves.:欲深な彼は、この島を自分たちだけの宝島にして、巨万の富を独り占めしようと企んでいるのだ。}`
-`{ruby:......If he wanted those ambitions to bear out, the Italians would have to conceal the presence of the gold.:……その野望のためには、イタリア人たちが黄金のことを、秘匿しなくてはならない。}`
+`{ruby:what if they really were true patriots, ......and:彼らが高潔な愛国者であり、……たと}{ruby:decided that they ought to return the gold,:え滅んだ傀儡の祖国であっても、}`
+`{ruby:even to the defeated puppet government of:再建のために黄金を返還すべきだ}{ruby:their homeland, for the purpose of reconstruction?:という結論に至った場合。}`
+`{ruby:If so, they would probably report the:彼らはむしろ逆に、黄金の存在をイタ}{ruby:existence of the gold to the Italian embassy.:リア大使館員に告白するだろう。}`
+`{ruby:Eventually, the Italian government would petition the:イタリア政府はやがて連合国を通}{ruby:Allied nations for the retrieval of their gold.:じてそれの返還を求める。}`
+`{ruby:......It probably wouldn't all make it back to Italy, but it:……全てがイタリアには戻らないだろうが、荒れ果てた街並み}{ruby:might be used effectively to repair and rebuild the battered towns.:の再建に、その黄金は有効に利用されるかもしれない。}`
+`{ruby:If that happened, Lieutenant Yamamoto and his friends would only:そうなれば山本中尉たちは、せいぜい数本の}{ruby:be able to sneak out a few ingots at most.:インゴットを誤魔化せるかどうかだ。}`
+`{ruby:He was greedily planning to make this his own treasure island, so:欲深な彼は、この島を自分たちだけの宝島にして、}{ruby:that he and his subordinates could have an enormous fortune all to themselves.:巨万の富を独り占めしようと企んでいるのだ。}`
+`{ruby:......If he wanted those ambitions to bear out, the:……その野望のためには、イタリア人たちが黄}{ruby:Italians would have to conceal the presence of the gold.:金のことを、秘匿しなくてはならない。}`
 `{ruby:"<But there's one thing I don't get.:『しかし疑問だ。}`
-`{ruby:.........If Ensign Angelo doesn't want to let anyone have the gold, he could have just let the submarine sink.:………アンジェロ少尉が誰にも黄金を渡したくないなら、沈み行く潜水艦に任せて沈めれば良かったはず。}`
+`{ruby:.........If Ensign Angelo doesn't want to let anyone have:………アンジェロ少尉が誰にも黄金を渡したくないなら}{ruby:the gold, he could have just let the submarine sink.:、沈み行く潜水艦に任せて沈めれば良かったはず。}`
 `{ruby:Why did he have it unloaded?>":どうして荷揚げを？』}`
-`{ruby:"<......I'd rather not think about it,:『……考えたくはないけれど。}`
-`{ruby:......but Ensign Angelo might have started planning to embezzle the gold as soon as he found out that their mission would be impossible to complete.:……命令が遂行不能になった時点で、少尉はこの黄金を横領することを考え始めたのかも。}`
-`{ruby:Right now, he's asking his subordinates for their opinions both as soldiers...:彼は今、下士官たちに、軍人としての意見と、}`
-`{ruby:and as individuals with families waiting for them back home.:祖国に家族が待つ一個人としての意見を聞きたいと言っているわ。}`
-`{ruby:......The more straight‐laced soldiers are furious.>":……堅物の下士官たちが激高してる』}`
-`{ruby:The discussion between the Italians was becoming fierce and emotional.:イタリア人たちは、感情的になりながら激しい議論を交わし出す。}`
-`{ruby:Though their homeland had fallen, they had come all this way in accordance with its orders.:滅んだとはいえ、祖国の命令にひたすら従い、ここまでやって来たのだ。}`
-`{ruby:They had probably been given this mission because they were particularly faithful and duty‐minded troops.:このような任務に当てられるのだから、彼らは特に忠誠心が高い兵士たちだろう。}`
-`{ruby:It seemed they couldn't just agree to a foreigner's proposal to embezzle and split up the gold......:異国人に着服と山分けを唆され、素直に首を縦に振れるわけではなさそうだ……。}`
-`{ruby:Ensign Angelo looked like he was doing all he could to calm the unexpectedly fervent rage of his subordinates.:アンジェロ少尉は下士官たちの想像以上の激高に、なだめるのが精一杯のように見える。}`
-`{ruby:......Looks like the gold is blinding them too.:……やはり、黄金は彼らをも惑わせているのだ。}`
-`{ruby:It seems no one can sort out their own personal feelings and the way they want to be perceived......:誰もが、本音と建前を交錯し、どうすればいいのか戸惑っている……。}`
+`{ruby:"<......I'd rather not:『……考えたくは}{ruby:think about it,:ないけれど。}`
+`{ruby:......but Ensign Angelo might have started planning to embezzle the gold as:……命令が遂行不能になった時点で、少尉はこの}{ruby:soon as he found out that their mission would be impossible to complete.:黄金を横領することを考え始めたのかも。}`
+`{ruby:Right now, he's asking his subordinates:彼は今、下士官たちに、軍}{ruby:for their opinions both as soldiers...:人としての意見と、}`
+`{ruby:and as individuals with families:祖国に家族が待つ一個人としての意}{ruby:waiting for them back home.:見を聞きたいと言っているわ。}`
+`{ruby:......The more straight‐laced:……堅物の下士官たち}{ruby:soldiers are furious.>":が激高してる』}`
+`{ruby:The discussion between the Italians:イタリア人たちは、感情的になりな}{ruby:was becoming fierce and emotional.:がら激しい議論を交わし出す。}`
+`{ruby:Though their homeland had fallen, they had come:滅んだとはいえ、祖国の命令にひたすら}{ruby:all this way in accordance with its orders.:従い、ここまでやって来たのだ。}`
+`{ruby:They had probably been given this mission:このような任務に当てられるのだから、彼ら}{ruby:because they were particularly faithful and duty‐minded troops.:は特に忠誠心が高い兵士たちだろう。}`
+`{ruby:It seemed they couldn't just agree to a:異国人に着服と山分けを唆され、素直に首を}{ruby:foreigner's proposal to embezzle and split up the gold......:縦に振れるわけではなさそうだ……。}`
+`{ruby:Ensign Angelo looked like he was doing all he:アンジェロ少尉は下士官たちの想像以上の激高}{ruby:could to calm the unexpectedly fervent rage of his subordinates.:に、なだめるのが精一杯のように見える。}`
+`{ruby:......Looks like the gold:……やはり、黄金は彼らを}{ruby:is blinding them too.:も惑わせているのだ。}`
+`{ruby:It seems no one can sort out their own:誰もが、本音と建前を交錯し、どうす}{ruby:personal feelings and the way they want to be perceived......:ればいいのか戸惑っている……。}`
 `{ruby:"How's their answer coming?!:「ヤツらの返答は如何に？！}`
 `{ruby:Ushiromiya!!":右代宮ッ！！」}`
 `{ruby:"<......Bice.:『……ビーチェ。}`
-`{ruby:Lieutenant Yamamoto's asking for an answer.>":中尉が返事を求めてる』}`
-`{ruby:"<.........They're saying they want some time to think.:『………考える時間がほしいと言ってるわ。}`
-`{ruby:I had you to talk to, so I could let off some tension, but that wasn't true for the rest of them.>":私はあなたと話せたから、気が紛れて良かったけれど、他の人たちはそうじゃないの』}`
-`{ruby:"<......They lost a lot of comrades at the end of a very long journey, and now they're here in a tight spot.:『……とても長い航海の果てに、大勢の仲間を失って、極限状態でここにいるわ。}`
-`{ruby:They've even lost their mission, the one thing they could depend upon to guide them.:唯一の心の拠り所だった任務ももはや喪失してる。}`
+`{ruby:Lieutenant Yamamoto's asking:中尉が返事を求}{ruby:for an answer.>":めてる』}`
+`{ruby:"<.........They're saying they want:『………考える時間がほ}{ruby:some time to think.:しいと言ってるわ。}`
+`{ruby:I had you to talk to, so I could let off:私はあなたと話せたから、気が紛れて良かった}{ruby:some tension, but that wasn't true for the rest of them.>":けれど、他の人たちはそうじゃないの』}`
+`{ruby:"<......They lost a lot of comrades at the end of a:『……とても長い航海の果てに、大勢の仲間}{ruby:very long journey, and now they're here in a tight spot.:を失って、極限状態でここにいるわ。}`
+`{ruby:They've even lost their mission, the one:唯一の心の拠り所だった任務}{ruby:thing they could depend upon to guide them.:ももはや喪失してる。}`
 `{ruby:They don't know what to do...>":どうすればいいのか、彼らもわかってないの…』}`
 `{ruby:"Sir.:「中尉。}`
-`{ruby:......They say they'd like some time.":……彼らは時間が欲しいと言っています」}`
-`{ruby:"Heheh, sure, let 'em talk it over all they want.:「くっくっく、いいとも、大いに議論したらいい。}`
+`{ruby:......They say they'd:……彼らは時間が欲しい}{ruby:like some time.":と言っています」}`
+`{ruby:"Heheh, sure, let 'em talk:「くっくっく、いいとも、大}{ruby:it over all they want.:いに議論したらいい。}`
 `{ruby:But there isn't much time.:しかし時間はないぞ。}`
-`{ruby:If we're going to hide it, that'll take time and effort.:隠すとなったら、時間と手間がかかる。}`
-`{ruby:......Make your decision before noon tomorrow.:……明日の正午までに結論しろ。}`
+`{ruby:If we're going to hide:隠すとなったら、時間}{ruby:it, that'll take time and effort.:と手間がかかる。}`
+`{ruby:......Make your decision:……明日の正午まで}{ruby:before noon tomorrow.:に結論しろ。}`
 `{ruby:That's all, Italians!":以上だ、イタリア人ども！」}`
-`{ruby:"<......He's giving you until noon tomorrow.:『……回答期限は明日の正午だそうだ。}`
-`{ruby:......That bastard, it's like he's trying to threaten you.>":……中尉め、まるで脅迫だ』}`
-`{ruby:"<Ensign Angelo is saying he'll ask everyone's opinions...>":『少尉は、全員の意見を聞くと言ってるわ…』}`
+`{ruby:"<......He's giving you:『……回答期限は明日}{ruby:until noon tomorrow.:の正午だそうだ。}`
+`{ruby:......That bastard, it's like:……中尉め、まる}{ruby:he's trying to threaten you.>":で脅迫だ』}`
+`{ruby:"<Ensign Angelo is saying:『少尉は、全員の意見を聞}{ruby:he'll ask everyone's opinions...>":くと言ってるわ…』}`
 `{ruby:"<How does it look?>":『感触は？』}`
 `{ruby:"<It'll probably be tough going.:『多分、難航するわ。}`
-`{ruby:......It seems the ensign is willing to consider splitting it,:……少尉自身は山分けもありえると考えてるみたいだけど、}`
-`{ruby:but his subordinates and the others will probably oppose that.:下士官や、他の仲間たちは多分反対するわ。}`
-`{ruby:......All of them have lost close friends on their voyage to the Far East.:……みんな、この極東までの航海で、大切な仲間を大勢失ってる。}`
-`{ruby:They're firm in their desire to do their duty for our homeland.>":彼らは頑なに祖国への忠誠を貫きたがってる』}`
-`{ruby:"<......Will they refuse the lieutenant's proposal?>":『……中尉の申し出は断ると？』}`
-`{ruby:"<Even if they do, the gold will just fall into someone else's hands.:『断っても、どうせ黄金は誰かの手に渡るわ。}`
-`{ruby:......If nothing is going to be left anyway, Ensign Angelo suggests that they each sneak at least one ingot back with them, and some of the others seem to agree, but......:……何も残らないなら、せめてインゴットの１本ずつでも密かに持ち帰ろうという少尉の言い分に、同調者も出そうだけど……。}`
-`{ruby:Men always get carried away at times like this.:こういう時の男って、勢いだけが迷走するわ。}`
-`{ruby:Even I can't guess what they'll do...>":私も見当が付かない…』}`
-`{ruby:"......I imagine the Italians had some complicated feelings about all this.":「……イタリア人たちの胸中は、複雑でしょうね」}`
-`{ruby:"In their eyes, Italy after the surrender was probably like an enemy country.:「彼らにとって、降伏後のイタリアは敵国同然だろう。}`
-`{ruby:Letting the gold go back to that Italy would erase the meaning of their entire voyage.":黄金をそのイタリアに返還するのは、彼らの長い旅路を全て否定するのと同じだ」}`
+`{ruby:......It seems the ensign is:……少尉自身は山分けもありえる}{ruby:willing to consider splitting it,:と考えてるみたいだけど、}`
+`{ruby:but his subordinates and the:下士官や、他の仲間たち}{ruby:others will probably oppose that.:は多分反対するわ。}`
+`{ruby:......All of them have lost close friends:……みんな、この極東までの航海で}{ruby:on their voyage to the Far East.:、大切な仲間を大勢失ってる。}`
+`{ruby:They're firm in their desire to:彼らは頑なに祖国への忠誠}{ruby:do their duty for our homeland.>":を貫きたがってる』}`
+`{ruby:"<......Will they refuse:『……中尉の申し出}{ruby:the lieutenant's proposal?>":は断ると？』}`
+`{ruby:"<Even if they do, the gold:『断っても、どうせ黄金は}{ruby:will just fall into someone else's hands.:誰かの手に渡るわ。}`
+`{ruby:......If nothing is going to be left anyway, Ensign Angelo suggests that they each sneak:……何も残らないなら、せめてインゴットの１本ずつでも密かに持}{ruby:at least one ingot back with them, and some of the others seem to agree, but......:ち帰ろうという少尉の言い分に、同調者も出そうだけど……。}`
+`{ruby:Men always get carried:こういう時の男って、勢い}{ruby:away at times like this.:だけが迷走するわ。}`
+`{ruby:Even I can't:私も見当が付か}{ruby:guess what they'll do...>":ない…』}`
+`{ruby:"......I imagine the Italians had:「……イタリア人たちの胸中}{ruby:some complicated feelings about all this.":は、複雑でしょうね」}`
+`{ruby:"In their eyes, Italy after the:「彼らにとって、降伏後のイタ}{ruby:surrender was probably like an enemy country.:リアは敵国同然だろう。}`
+`{ruby:Letting the gold go back to that Italy:黄金をそのイタリアに返還するのは、彼らの}{ruby:would erase the meaning of their entire voyage.":長い旅路を全て否定するのと同じだ」}`
 `{ruby:"However,:「しかし、}`
-`{ruby:embezzling and splitting the gold would also erase the meaning of their journey...":黄金を着服して山分けすることも、彼らの旅路の否定になります…」}`
-`{ruby:"The country they felt obligated to serve had already fallen.:「彼らが義理立てすべき祖国はすでに滅んでる。}`
-`{ruby:That alone destroyed the significance of their journey.:その時点で、彼らの旅路の意味など、もう失われてる。}`
+`{ruby:embezzling and splitting the gold would:黄金を着服して山分けすることも、彼}{ruby:also erase the meaning of their journey...":らの旅路の否定になります…」}`
+`{ruby:"The country they felt obligated:「彼らが義理立てすべき祖}{ruby:to serve had already fallen.:国はすでに滅んでる。}`
+`{ruby:That alone destroyed the:その時点で、彼らの旅路の意味}{ruby:significance of their journey.:など、もう失われてる。}`
 `{ruby:Not a happy story for them.":気の毒な話だ」}`
-`{ruby:"......If it's bound to be meaningless anyway,:「……どうせ意味のないことなら、}`
-`{ruby:wouldn't keeping hold of even just a few ingots be better than nothing?":インゴットの１本でもありつけた方が、まだマシだと？」}`
-`{ruby:"Sure, if you want to calculate straight‐up profit and loss.:「損得勘定で言えばそうなる。}`
-`{ruby:............But men aren't like that.":…………そうならねぇのが、男ってもんだがな」}`
-`{ruby:The Italians were gathered in a cramped room, arguing fiercely.:狭い部屋にイタリア人たちが集まり、激論を交わしていた。}`
+`{ruby:"......If it's bound:「……どうせ意味の}{ruby:to be meaningless anyway,:ないことなら、}`
+`{ruby:wouldn't keeping hold of even just:インゴットの１本でもありつけ}{ruby:a few ingots be better than nothing?":た方が、まだマシだと？」}`
+`{ruby:"Sure, if you want to:「損得勘定で言え}{ruby:calculate straight‐up profit and loss.:ばそうなる。}`
+`{ruby:............But men:…………そうならねぇのが}{ruby:aren't like that.":、男ってもんだがな」}`
+`{ruby:The Italians were gathered in:狭い部屋にイタリア人たちが集ま}{ruby:a cramped room, arguing fiercely.:り、激論を交わしていた。}`
 `{ruby:«I don't like it!:“反対です！}`
-`{ruby:We must remain true to our soldier spirit until the end, for the sake of our fallen comrades!»:死んだ戦友たちのためにも、断固、軍人魂を貫くべきです！”}`
-`{ruby:«And how do you define "remaining true"?:“貫くとはどういうことか。}`
+`{ruby:We must remain true to our soldier spirit until:死んだ戦友たちのためにも、断固、}{ruby:the end, for the sake of our fallen comrades!»:軍人魂を貫くべきです！”}`
+`{ruby:«And how do:“貫くとはどうい}{ruby:you define "remaining true"?:うことか。}`
 `{ruby:By hiding the gold on this island?:この島に黄金を隠せということか。}`
-`{ruby:By accepting the proposal of those Asians?!»:東洋人たちの申し出を受けろということか！”}`
+`{ruby:By accepting the:東洋人たちの申し出を受け}{ruby:proposal of those Asians?!»:ろということか！”}`
 `{ruby:«We can't trust them!:“東洋人たちは信用できません！}`
 `{ruby:Especially that Yamamoto person!:特にあのヤマモトという男！}`
 `{ruby:We must not let our guards down!»:断じて油断できません！”}`
-`{ruby:«Unloading the gold and letting the Japanese see it was a huge mistake!:“黄金を荷揚げして日本人たちに見られたのはやはり失敗でした！}`
-`{ruby:We should have let it sink with the sub!»:艦と共に沈めるべきでした！”}`
-`{ruby:«Oh, wonderful idea, let's just sink it right inside a Japanese base!:“日本人の基地で沈めてどうする？！}`
-`{ruby:It would have been pulled up eventually.:やがていつかは引き上げられる。}`
+`{ruby:«Unloading the gold and letting the:“黄金を荷揚げして日本人たちに見}{ruby:Japanese see it was a huge mistake!:られたのはやはり失敗でした！}`
+`{ruby:We should have let:艦と共に沈めるべき}{ruby:it sink with the sub!»:でした！”}`
+`{ruby:«Oh, wonderful idea, let's just sink:“日本人の基地で沈め}{ruby:it right inside a Japanese base!:てどうする？！}`
+`{ruby:It would have:やがていつかは引き}{ruby:been pulled up eventually.:上げられる。}`
 `{ruby:That wouldn't hide anything!»:隠したことにはならない！”}`
-`{ruby:«There's no way to get the gold off this island without anyone knowing in any case.»:“いずれにせよ、この島から黄金を誰にも知られずに運び出す方法はない”}`
-`{ruby:«If we had just taken the honorable path and scuttled the sub, none of this would have happened...!!»:“洋上で名誉ある自沈を選んでいたらこんなことには…！！”}`
-`{ruby:«If we had known back then that the sub was already broken beyond repair......»:“艦のダメージが致命的だったことが、あの時点でわかっていたら……”}`
-`{ruby:«Why did you ask the Japanese military for help, Ensign?:“どうしてあの時、少佐は日本軍に救援要請を？}`
-`{ruby:How were you planning to carry out the mission if they found out about the gold?»:日本軍にこの黄金のことを知られたら、少佐はどう任務を遂行するつもりだったんだ？”}`
-`{ruby:«Our mission was a failure from the moment you asked them for help!»:“少佐が救援要請を出した時点で、我々の任務はもう、失敗していたんだ！”}`
-`{ruby:«All of us have families waiting for us back home.:“諸君にも、祖国で待つ家族がいるはずだ。}`
-`{ruby:And we've more than done our part, I'd say, voyaging all the way to this island country in the Far East.:そして極東の島国まで、よく航海に耐えた。}`
-`{ruby:You could call this a fair and just payment for our services.»:それに対する、これは正当な報酬なのだという、考え方もあるっ”}`
+`{ruby:«There's no way to get the gold off:“いずれにせよ、この島から黄金を誰に}{ruby:this island without anyone knowing in any case.»:も知られずに運び出す方法はない”}`
+`{ruby:«If we had just taken the honorable path and:“洋上で名誉ある自沈を選んでい}{ruby:scuttled the sub, none of this would have happened...!!»:たらこんなことには…！！”}`
+`{ruby:«If we had known back then that:“艦のダメージが致命的だったことが、}{ruby:the sub was already broken beyond repair......»:あの時点でわかっていたら……”}`
+`{ruby:«Why did you ask the:“どうしてあの時、少佐は}{ruby:Japanese military for help, Ensign?:日本軍に救援要請を？}`
+`{ruby:How were you planning to carry out the:日本軍にこの黄金のことを知られたら、少佐はど}{ruby:mission if they found out about the gold?»:う任務を遂行するつもりだったんだ？”}`
+`{ruby:«Our mission was a failure from:“少佐が救援要請を出した時点で、我々の}{ruby:the moment you asked them for help!»:任務はもう、失敗していたんだ！”}`
+`{ruby:«All of us have families:“諸君にも、祖国で待つ}{ruby:waiting for us back home.:家族がいるはずだ。}`
+`{ruby:And we've more than done our part, I'd say, voyaging:そして極東の島国まで、}{ruby:all the way to this island country in the Far East.:よく航海に耐えた。}`
+`{ruby:You could call this a fair:それに対する、これは正当な報酬な}{ruby:and just payment for our services.»:のだという、考え方もあるっ”}`
 `{ruby:«*chatter*chatter*!:“ざわざわざわ！}`
 `{ruby:*chatter*chatter*chatter*!!»:ざわざわざわざわ！！”}`
 `{ruby:«Ensign Angelo.:“少尉。}`
-`{ruby:......If the Japanese prove to be less than amicable, we need to be prepared to take extreme measures.»:……日本人が友好的でない場合、我々は最終的解決手段を辞さない覚悟が必要です”}`
-`{ruby:«......And what do you mean by extreme measures, Corporal?»:“……伍長、最終的解決手段とは何か”}`
+`{ruby:......If the Japanese prove to be less than amicable,:……日本人が友好的でない場合、我々は最終}{ruby:we need to be prepared to take extreme measures.»:的解決手段を辞さない覚悟が必要です”}`
+`{ruby:«......And what do you:“……伍長、最終的解}{ruby:mean by extreme measures, Corporal?»:決手段とは何か”}`
 `{ruby:Someone gulped.:ごくりと、誰かの喉が鳴る。}`
 `{ruby:A stiff tension hung over the room...:重苦しい緊張感が部屋を支配する…。}`
 `{ruby:«The Japanese here are pushovers.:“日本人たちは弛みきっています。}`
-`{ruby:They're all cowards with no battle experience.»:実戦経験もない、腰抜けばかりです”}`
+`{ruby:They're all cowards:実戦経験もない、腰抜}{ruby:with no battle experience.»:けばかりです”}`
 `{ruby:«And we are elites.:“我々は精兵です。}`
-`{ruby:We know the layout of almost the entire base, along with the number of Japanese troops and how they are arranged.:すでに基地内の間取りのほぼ全てと、日本人の人数、配置状況は把握しています。}`
-`{ruby:If Ensign Angelo gives the order, we should be able to subdue them quickly.»:少尉の命令があれば、短時間で制圧できるでしょう”}`
-`{ruby:«Only a few of them, Yamamoto included, look like fighters.:“戦闘員と思わしきはヤマモトを含めて数人程度。}`
-`{ruby:The rest are just laborers attached to the military.:残りは軍属の作業員風情です。}`
-`{ruby:It may look like they have the advantage of numbers, but we have the greater military force.»:上辺の人数は日本人が上ですが、実質兵力ではこちらが優位です”}`
-`{ruby:«If we kill the Japanese, how are we going to explain it when the boat comes for us?:“日本人を殺せば、迎えの船が来た時、それをどう説明する？}`
+`{ruby:We know the layout of almost the entire base, along:すでに基地内の間取りのほぼ全てと、日本人}{ruby:with the number of Japanese troops and how they are arranged.:の人数、配置状況は把握しています。}`
+`{ruby:If Ensign Angelo gives the order, we:少尉の命令があれば、短時間}{ruby:should be able to subdue them quickly.»:で制圧できるでしょう”}`
+`{ruby:«Only a few of them,:“戦闘員と思わしきはヤマモ}{ruby:Yamamoto included, look like fighters.:トを含めて数人程度。}`
+`{ruby:The rest are just:残りは軍属の作業}{ruby:laborers attached to the military.:員風情です。}`
+`{ruby:It may look like they have the advantage:上辺の人数は日本人が上ですが、実}{ruby:of numbers, but we have the greater military force.»:質兵力ではこちらが優位です”}`
+`{ruby:«If we kill the Japanese, how are we going:“日本人を殺せば、迎えの船が来}{ruby:to explain it when the boat comes for us?:た時、それをどう説明する？}`
 `{ruby:You really think that'll work?!»:誤魔化しようがないぞ？！”}`
-`{ruby:«There should be plenty of ways, as long as the corpses aren't found.»:“死体さえ見つからなければ、どうとでも誤魔化せます”}`
+`{ruby:«There should be plenty of ways,:“死体さえ見つからなければ、}{ruby:as long as the corpses aren't found.»:どうとでも誤魔化せます”}`
 `{ruby:«Ensign Angelo.:“少尉。}`
-`{ruby:......It will be easy to subdue this base.:……この基地を制圧するのは容易です。}`
-`{ruby:If we kill Yamamoto and the few strong fighters, the laborers will probably surrender easily.»:ヤマモト以下、主要な兵士数人を殺して見せれば、あっさりと作業員たちは降伏するでしょう”}`
-`{ruby:«Let's have them carry the gold and bury it.:“彼らに黄金を運ばせ、地中に埋めましょう。}`
-`{ruby:......Of course, we'll have to silence them afterwards.»:……もちろん、彼らの口は永遠に塞ぎますが”}`
-`{ruby:«Are you suggesting we massacre all of them......?»:“日本人たちを、皆殺しにするということか……”}`
+`{ruby:......It will be easy:……この基地を制圧す}{ruby:to subdue this base.:るのは容易です。}`
+`{ruby:If we kill Yamamoto and the few:ヤマモト以下、主要な兵士数人を殺して見せれば、}{ruby:strong fighters, the laborers will probably surrender easily.»:あっさりと作業員たちは降伏するでしょう”}`
+`{ruby:«Let's have them carry:“彼らに黄金を運ばせ、地}{ruby:the gold and bury it.:中に埋めましょう。}`
+`{ruby:......Of course, we'll have:……もちろん、彼らの口は}{ruby:to silence them afterwards.»:永遠に塞ぎますが”}`
+`{ruby:«Are you suggesting we:“日本人たちを、皆殺しにす}{ruby:massacre all of them......?»:るということか……”}`
 `{ruby:«Let's do it.:“殺しましょう。}`
-`{ruby:If we kill them all, no one will have to know about the gold.»:全員殺せば、黄金のことは誰にも知られずに済むのです”}`
-`{ruby:At that moment, the door, which had supposedly been locked, opened slightly, and a metal object was thrown in.:その時、施錠していたはずの鍵が開き、扉がわずかに開き、何かの金属物が放り込まれた。}`
+`{ruby:If we kill them all, no one:全員殺せば、黄金のことは誰に}{ruby:will have to know about the gold.»:も知られずに済むのです”}`
+`{ruby:At that moment, the door, which had supposedly been:その時、施錠していたはずの鍵が開き、扉がわず}{ruby:locked, opened slightly, and a metal object was thrown in.:かに開き、何かの金属物が放り込まれた。}`
 `{ruby:{a:c::{a:c:}`
 `{ruby:{e:120:«{ruby:Grenade:Granata}!!!»}}:{e:120:“手榴弾！！！”}}}`
-`{ruby:As the yell rang out, the table was kicked over to be used as a shield, and they all dropped to the floor.:その絶叫に、机を跳ね飛ばして楯にし、全員が一斉に床に伏せる。}`
-`{ruby:However, in this cramped room, it probably wouldn't do them any good.:しかしこの狭い室内では、それは恐らく無駄なことだ。}`
-`{ruby:The Italians were all prepared for death.:イタリア人たちは全員が死を覚悟する。}`
+`{ruby:As the yell rang out, the table was kicked over to:その絶叫に、机を跳ね飛ばして楯に}{ruby:be used as a shield, and they all dropped to the floor.:し、全員が一斉に床に伏せる。}`
+`{ruby:However, in this cramped room, it:しかしこの狭い室内では、それ}{ruby:probably wouldn't do them any good.:は恐らく無駄なことだ。}`
+`{ruby:The Italians were:イタリア人たちは全員}{ruby:all prepared for death.:が死を覚悟する。}`
 `{ruby:«...............?»:“……………？”}`
 `{ruby:«A dud! It's a dud!!»:“不発！　不発！！”}`
-`{ruby:Fortunately, the shoddy grenade was a dud.:粗悪な手榴弾は、幸運なことに不発だった。}`
-`{ruby:The door was slammed open, and three Japanese soldiers wielding pistols jumped in.:再び扉が荒々しく開き、拳銃を構えた日本人が３人飛び込んでくる。}`
+`{ruby:Fortunately, the shoddy:粗悪な手榴弾は、幸運な}{ruby:grenade was a dud.:ことに不発だった。}`
+`{ruby:The door was slammed open, and:再び扉が荒々しく開き、拳銃を構えた}{ruby:three Japanese soldiers wielding pistols jumped in.:日本人が３人飛び込んでくる。}`
 `{ruby:"Dammit, it's a dud!!:「クソッタレ、不発だ！！}`
-`{ruby:Kill the Italians, kill the Italians!!":イタリア人どもを殺せ殺せ殺せ！！」}`
+`{ruby:Kill the Italians,:イタリア人どもを殺せ}{ruby:kill the Italians!!":殺せ殺せ！！」}`
 `{ruby:«Return fire!! Fire at will!!»:“応戦しろ！！　各自自由発砲ッ！！”}`
-`{ruby:In this small room, no matter who shot where, it was bound to hit someone.:この狭い室内では、どこをどう撃っても、どう跳ねても誰かに当たるだろう。}`
-`{ruby:The exchange of bullets instantly caused a rain of blood, with casualties on both sides.:鉛弾の応酬は、瞬く間に血飛沫を飛び散らせ、双方に犠牲者を出す。}`
-`{ruby:The three who had jumped in were covered with bullet holes and fell over, moaning and thrashing...:飛び込んできた３人は全身に何発も鉛弾を浴びて倒れ、呻きながら痙攣している…。}`
+`{ruby:In this small room, no matter who:この狭い室内では、どこをどう撃っても、}{ruby:shot where, it was bound to hit someone.:どう跳ねても誰かに当たるだろう。}`
+`{ruby:The exchange of bullets instantly caused a:鉛弾の応酬は、瞬く間に血飛沫を飛び}{ruby:rain of blood, with casualties on both sides.:散らせ、双方に犠牲者を出す。}`
+`{ruby:The three who had jumped in were covered:飛び込んできた３人は全身に何発も鉛弾を浴}{ruby:with bullet holes and fell over, moaning and thrashing...:びて倒れ、呻きながら痙攣している…。}`
 `{ruby:«Gggghgggghghgh...:“ぐぐぐぐぐぐ、}`
 `{ruby:gghh...:ぐ、}`
 `{ruby:.........!:………ッ、}`
 `{ruby:*cough*...:ごほッ、}`
 `{ruby:*cough*......»:げほッ……、”}`
 `{ruby:«Gino!! Gino!!:“ジーノ！！　ジーノ！！}`
-`{ruby:Damn, they got his lung, we can't save him!!»:くそッ、肺をやられてる、助からない！！”}`
+`{ruby:Damn, they got his:くそッ、肺をやられてる、}{ruby:lung, we can't save him!!»:助からない！！”}`
 `{ruby:«We should consider ourselves lucky!:“幸運な犠牲だ！}`
-`{ruby:If that grenade had gone off, we'd all be dead!»:あの手榴弾が不発でなかったら、全員死んでる！”}`
-`{ruby:The grenade was still rolling about on the floor...:投げ込まれた手榴弾は、まだころころと、床の上を転がり続けていた…。}`
+`{ruby:If that grenade had gone:あの手榴弾が不発でなかった}{ruby:off, we'd all be dead!»:ら、全員死んでる！”}`
+`{ruby:The grenade was still:投げ込まれた手榴弾は、まだころころと}{ruby:rolling about on the floor...:、床の上を転がり続けていた…。}`
 `{ruby:It had been a surprise attack.:奇襲だった。}`
-`{ruby:......Lieutenant Yamamoto had probably judged that the negotiations would not go his way and had decided to make the first move.:……恐らく山本中尉は、アンジェロ少尉たちとの交渉で、彼らが言いなりにならないとの感触を得て先手を打ってきたのだ。}`
-`{ruby:Or else, maybe he had been planning from the beginning to put them in the position of having to take a vote...:いや、ひょっとすると、全員で決を採らねばならないように仕向け、}`
-`{ruby:in order to gather them all in one place.:集まったところを一網打尽にしようと、初めから狙っていたのかもしれない。}`
+`{ruby:......Lieutenant Yamamoto had probably judged that the negotiations would not:……恐らく山本中尉は、アンジェロ少尉たちとの交渉で、彼らが}{ruby:go his way and had decided to make the first move.:言いなりにならないとの感触を得て先手を打ってきたのだ。}`
+`{ruby:Or else, maybe he had been planning from the beginning to:いや、ひょっとすると、全員で決を採}{ruby:put them in the position of having to take a vote...:らねばならないように仕向け、}`
+`{ruby:in order to gather:集まったところを一網打尽にしようと、初}{ruby:them all in one place.:めから狙っていたのかもしれない。}`
 `{ruby:Rokkenjima belonged to the Japanese.:六軒島は彼らの島だ。}`
-`{ruby:If they killed all of the Italians, then not half, but all of the gold would go to them.:イタリア人を皆殺しにすれば、黄金は五分五分どころか、その全てが日本人のものなのだ。}`
-`{ruby:There was still a chance the grenade might go off late.:手榴弾が遅れて爆発しないとも限らない。}`
-`{ruby:{n}The Italians rushed out into the corridor.:{n}彼らは廊下へ飛び出る。}`
-`{ruby:They heard gunfire from down the hallway.:彼方より銃声が聞こえる。}`
-`{ruby:It was coming from the direction of the submarine dock.:潜水艦ドックの方だ。}`
-`{ruby:Clearly, the troops guarding the pile of gold were being attacked.:黄金の山を警備させている兵士たちが襲われているのは明白だ。}`
-`{ruby:«Ensign Angelo!! What are your orders?!!»:“少尉ッ！！　ご命令を！！”}`
+`{ruby:If they killed all of the Italians, then not:イタリア人を皆殺しにすれば、黄金は五分五分ど}{ruby:half, but all of the gold would go to them.:ころか、その全てが日本人のものなのだ。}`
+`{ruby:There was still a chance:手榴弾が遅れて爆発しな}{ruby:the grenade might go off late.:いとも限らない。}`
+`{ruby:{n}The Italians rushed:{n}彼らは廊下}{ruby:out into the corridor.:へ飛び出る。}`
+`{ruby:They heard gunfire:彼方より銃声が}{ruby:from down the hallway.:聞こえる。}`
+`{ruby:It was coming from the:潜水艦ドック}{ruby:direction of the submarine dock.:の方だ。}`
+`{ruby:Clearly, the troops guarding the:黄金の山を警備させている兵士たち}{ruby:pile of gold were being attacked.:が襲われているのは明白だ。}`
+`{ruby:«Ensign Angelo!! What:“少尉ッ！！　ご}{ruby:are your orders?!!»:命令を！！”}`
 `{ruby:«We have no choice!!:“やむを得ん！！}`
 `{ruby:Kill the Japanese!!»:日本人は殺せッ！！”}`
 `{ruby:"L‐Lieutenant!:「ちゅ、中尉！}`
 `{ruby:These guys are good.:あいつら出来ます！！}`
-`{ruby:Those Italians aren't your ordinary sailors!":この連中、ただの船乗りじゃねぇ！」}`
-`{ruby:"Heheh, I see, they needed men good enough to guard that gold.:「くっくっく、なるほど、黄金の番人を任されるだけの兵士ということか。}`
+`{ruby:Those Italians aren't:この連中、ただの船乗}{ruby:your ordinary sailors!":りじゃねぇ！」}`
+`{ruby:"Heheh, I see, they needed men:「くっくっく、なるほど、黄金の番人を}{ruby:good enough to guard that gold.:任されるだけの兵士ということか。}`
 `{ruby:We have the numbers.:人数はこちらが上だ。}`
-`{ruby:Keep your cool, surround them, and kill them!! Let's hunt some Italians!!":焦らず、囲んで殺せ！！　イタリア人狩りだ！！」}`
-`{ruby:As soon as I heard the sound of repeated gunfire, I knew.:連発する発砲音を聞いた時、私はすぐに直感した。}`
-`{ruby:I knew that whatever it was that had been smoldering since the time the gold was unloaded......had finally burst into flame.:あの黄金が荷揚げされた日から、燻っていた何かが、とうとう破裂したのだと直感した。}`
-`{ruby:The eyes of our soldiers when looking at the gold had not been normal.:中尉たちが黄金を見る目は、尋常ではなかった。}`
-`{ruby:Yes, those eyes had been entranced by demons.:そう、あれは悪魔に魅せられた目だった。}`
-`{ruby:The Italians had also been at breaking point due to the heavy burden they bore.:イタリア人たちも、重責から心がはちきれそうになっていた。}`
-`{ruby:Who wouldn't have snapped after becoming trapped in a distant land where you can't understand the language or the writing?:遠い異国の地で、言葉も文字もわからない世界に取り残されたら、おかしくならない方がおかしい。}`
-`{ruby:Thinking I had to do something, I ran towards the sound of gunfire.:とにかく、何とかしなくてはならないと思い、発砲音の聞こえる方へ走った。}`
-`{ruby:......Looking back on it, that was an extremely foolish thing to do.:……今にして思えば、それはとても愚かしいことだ。}`
-`{ruby:That sound meant that there were people shooting at each other.:それは銃撃戦を意味する音。}`
+`{ruby:Keep your cool, surround them, and:焦らず、囲んで殺せ！！　イ}{ruby:kill them!! Let's hunt some Italians!!":タリア人狩りだ！！」}`
+`{ruby:As soon as I heard the:連発する発砲音を聞いた時、}{ruby:sound of repeated gunfire, I knew.:私はすぐに直感した。}`
+`{ruby:I knew that whatever it was that had been smoldering:あの黄金が荷揚げされた日から、燻っていた何}{ruby:since the time the gold was unloaded......had finally burst into flame.:かが、とうとう破裂したのだと直感した。}`
+`{ruby:The eyes of our soldiers when looking:中尉たちが黄金を見る目は}{ruby:at the gold had not been normal.:、尋常ではなかった。}`
+`{ruby:Yes, those eyes had:そう、あれは悪魔に魅せ}{ruby:been entranced by demons.:られた目だった。}`
+`{ruby:The Italians had also been at breaking:イタリア人たちも、重責から心が}{ruby:point due to the heavy burden they bore.:はちきれそうになっていた。}`
+`{ruby:Who wouldn't have snapped after becoming trapped in a distant:遠い異国の地で、言葉も文字もわからない世界に取り}{ruby:land where you can't understand the language or the writing?:残されたら、おかしくならない方がおかしい。}`
+`{ruby:Thinking I had to do something,:とにかく、何とかしなくてはならないと思}{ruby:I ran towards the sound of gunfire.:い、発砲音の聞こえる方へ走った。}`
+`{ruby:......Looking back on it, that was:……今にして思えば、それは}{ruby:an extremely foolish thing to do.:とても愚かしいことだ。}`
+`{ruby:That sound meant that there:それは銃撃戦を意}{ruby:were people shooting at each other.:味する音。}`
 `{ruby:People killing each other.:殺し合いを意味する音。}`
-`{ruby:And yet, unarmed as I was, I dashed towards the sound, as though I was trying to mediate some schoolyard fight.:なのに私は丸腰で、まるで喧嘩の仲裁にでも行くようなつもりで、駆けている。}`
-`{ruby:......It didn't take long before I learned how foolish and naive such a thing was in the heat of battle.:……それが如何に愚かしく、この戦時に浮世離れしたものか、すぐに思い知る。}`
+`{ruby:And yet, unarmed as I was, I dashed towards the:なのに私は丸腰で、まるで喧嘩の仲裁にで}{ruby:sound, as though I was trying to mediate some schoolyard fight.:も行くようなつもりで、駆けている。}`
+`{ruby:......It didn't take long before I learned how foolish and:……それが如何に愚かしく、この戦時に浮}{ruby:naive such a thing was in the heat of battle.:世離れしたものか、すぐに思い知る。}`
 `{ruby:"......H‐Hiraoka?!":「……ひ、平岡兵曹？！」}`
-`{ruby:Warrant Officer Hiraoka was lying face down, his entire body drenched in blood.:彼は血で全身を濡らして、うつ伏せに倒れていた。}`
-`{ruby:Judging by the trail of blood behind him, it was clear that he had somehow managed to crawl here from a different room before dying.:血の跡がべっとりと続き、部屋から何とかここまで這いずってきて、絶命したことが見て取れた。}`
+`{ruby:Warrant Officer Hiraoka was lying face:彼は血で全身を濡らして、う}{ruby:down, his entire body drenched in blood.:つ伏せに倒れていた。}`
+`{ruby:Judging by the trail of blood behind him, it was clear that:血の跡がべっとりと続き、部屋から何とかここまで}{ruby:he had somehow managed to crawl here from a different room before dying.:這いずってきて、絶命したことが見て取れた。}`
 `{ruby:No, he was still twitching.:いや、まだ痙攣している。}`
 `{ruby:He might not be dead yet.:絶命はしていないのかもしれない。}`
-`{ruby:......But, on this island without a doctor—:……しかし、医者などいないこの島で、}`
+`{ruby:......But, on this:……しかし、医者など}{ruby:island without a doctor—:いないこの島で、}`
 `{ruby:no, even if we had a doctor...:……いや、医者がいたとしても、}`
 `{ruby:how could anyone possibly...:こんな、何発も撃たれて、胸が抉れて、}`
-`{ruby:...save a man who had been shot this many times in the chest...:……助かるはずなどあるものか…。}`
-`{ruby:When I looked into the room he must have crawled out of,:這い出てきたに違いない室内を見ると、荒れ果て、}`
-`{ruby:I saw two more blood‐stained Japanese corpses.:他にも２人の日本人の血塗れの死体があった。}`
+`{ruby:...save a man who had been:……助かるはずなど}{ruby:shot this many times in the chest...:あるものか…。}`
+`{ruby:When I looked into the room:這い出てきたに違いない室内}{ruby:he must have crawled out of,:を見ると、荒れ果て、}`
+`{ruby:I saw two:他にも２人の日本人の血塗}{ruby:more blood‐stained Japanese corpses.:れの死体があった。}`
 `{ruby:"Ah, aaah......aaaah......:「うッ、うわ、……わ、……ッ。}`
 `{ruby:Th‐......they're d......":し、……死ん……、」}`
-`{ruby:I fell backwards pathetically on my butt, my mouth hanging open in shock......:情けなく尻餅を付き、口を閉じることさえ忘れ、呆然とする……。}`
-`{ruby:......Come to think of it, that was the first time I had ever faced death in my life.:……思えばそれが、生まれて初めて知る、人の死というものだった。}`
+`{ruby:I fell backwards pathetically on my:情けなく尻餅を付き、口を閉じるこ}{ruby:butt, my mouth hanging open in shock......:とさえ忘れ、呆然とする……。}`
+`{ruby:......Come to think of it, that was the first:……思えばそれが、生まれて初めて知}{ruby:time I had ever faced death in my life.:る、人の死というものだった。}`
 `{ruby:The entire world was at war.:世界中が戦争をしている。}`
-`{ruby:Even though millions were dying both East and West,:洋の東西で、大勢の人が死んでいるこの戦時下でありながらも、}`
-`{ruby:......this was the first time I met with a person's death directly.:……それが初めて直面する人の死だったのだ。}`
+`{ruby:Even though millions were:洋の東西で、大勢の人が死んでいる}{ruby:dying both East and West,:この戦時下でありながらも、}`
+`{ruby:......this was the first time I:……それが初めて直面する}{ruby:met with a person's death directly.:人の死だったのだ。}`
 `{ruby:Ridiculous.:滑稽なものだ。}`
-`{ruby:......Didn't I join the army hoping to die?:……私は死にたくて軍隊を望んだのではないのか？}`
-`{ruby:Didn't I whine about not being sent to the front lines?:死にたくて、戦地に送られなかったことを嘆いたのではなかったか？}`
+`{ruby:......Didn't I join the:……私は死にたくて軍隊を望}{ruby:army hoping to die?:んだのではないのか？}`
+`{ruby:Didn't I whine about not:死にたくて、戦地に送られなかったこ}{ruby:being sent to the front lines?:とを嘆いたのではなかったか？}`
 `{ruby:Yeah, so rejoice, Kinzo.:あぁ、なら喜べ、金蔵。}`
-`{ruby:Isn't this the death you were looking for...?!:これが、私の望んだ死ではないか…！}`
-`{ruby:Why not spread your hands and yell out loud?:なぜ両手を広げてこう叫べない？}`
+`{ruby:Isn't this the death:これが、私の望んだ死}{ruby:you were looking for...?!:ではないか…！}`
+`{ruby:Why not spread your:なぜ両手を広げてこ}{ruby:hands and yell out loud?:う叫べない？}`
 `{ruby:"Come for me, magnificent death!!":来たれ、偉大なる死よッ、と！！}`
 `{ruby:Someone came running towards me.:誰かが駆けて来る。}`
-`{ruby:It was a colleague of mine, a Japanese man. Tajima‐kun.:同僚だ、日本人だ。田島くんだ。}`
+`{ruby:It was a colleague of:同僚だ、日本人だ。}{ruby:mine, a Japanese man. Tajima‐kun.:田島くんだ。}`
 `{ruby:"R‐ru—ru—r—...!!":「にッ、ににッ、にぃッ…！！」}`
-`{ruby:He dashed towards me, pale‐faced and out of breath.:顔面を蒼白にしながら、ものすごい形相で駆けて来る。}`
-`{ruby:His face seemed horribly contorted with terror.:くしゃくしゃに歪んだ酷い顔だった。}`
+`{ruby:He dashed towards me,:顔面を蒼白にしながら、ものす}{ruby:pale‐faced and out of breath.:ごい形相で駆けて来る。}`
+`{ruby:His face seemed:くしゃくしゃに歪んだ}{ruby:horribly contorted with terror.:酷い顔だった。}`
 `{ruby:Mine probably looked the same.:そしてそれが、きっと自分の顔でもあるのだ。}`
-`{ruby:"Tajima‐kun... Wh‐what happened......?":「田島くん…、な、何があったんだ……」}`
+`{ruby:"Tajima‐kun...:「田島くん…、な、何が}{ruby:Wh‐what happened......?":あったんだ……」}`
 `{ruby:"R‐run away...:「に、逃げろ…。}`
 `{ruby:W‐we'll...we'll all be killed!!":こ、殺、殺されるぅうぅうッ！！」}`
-`{ruby:Someone yelled in Italian, and at the same time, Tajima‐kun let out a scream...:イタリア語の怒声と共に、田島くんが爆ぜた悲鳴をあげる…。}`
-`{ruby:Then, he grabbed onto me as he fell to the floor.:そしてそのまま、腰を落として取っ組みかかってくるかのように、私に飛び込んできた。}`
-`{ruby:A red stain was spreading across his back before my eyes...:彼の背中から血が噴き出て、みるみる真っ赤に染まっていく…。}`
+`{ruby:Someone yelled in Italian, and at the:イタリア語の怒声と共に、田島く}{ruby:same time, Tajima‐kun let out a scream...:んが爆ぜた悲鳴をあげる…。}`
+`{ruby:Then, he grabbed onto me:そしてそのまま、腰を落として取っ組みかかっ}{ruby:as he fell to the floor.:てくるかのように、私に飛び込んできた。}`
+`{ruby:A red stain was spreading:彼の背中から血が噴き出て、みるみ}{ruby:across his back before my eyes...:る真っ赤に染まっていく…。}`
 `{ruby:"Tajima‐ku...n......":「田島く、ん……ッ、」}`
 `{ruby:"R‐:「に、}`
 `{ruby:......run...:……逃げ}`
 `{ruby:......:…………、}`
 `{ruby:*cough*...:ごぽッ、}`
 `{ruby:......":………」}`
-`{ruby:As he spat bubbles of blood, .........he said that one word......and died.:血の泡を吐きながら、………それだけを伝え、絶命する。}`
-`{ruby:But the shocking event of seeing someone die right in front of me did not capture my attention.:しかし私は、絶命の瞬間を目の当たりにするという衝撃的な出来事には、心を奪われなかった。}`
-`{ruby:......No living thing is concerned with the deaths of others at a fundamental level.:……生きとし生けるものは、本来、他人の死など関心はないのだ。}`
-`{ruby:The one thing that matters is whether they themselves die or not.:その唯一の関心は、自分が死ぬかどうかにだけ、割かれるのだ。}`
-`{ruby:My attention was fully occupied by the barrel of the gun the Italian soldier was pointing......:イタリア人が見せる、銃口の奥底だけが、私の心を奪っていた……。}`
-`{ruby:Tajima‐kun's back burst once more as he leaned against me.:私にもたれかかる田島くんの背中が再び爆ぜる。}`
+`{ruby:As he spat bubbles of blood,:血の泡を吐きながら、………そ}{ruby:.........he said that one word......and died.:れだけを伝え、絶命する。}`
+`{ruby:But the shocking event of seeing someone die right:しかし私は、絶命の瞬間を目の当たりにするという}{ruby:in front of me did not capture my attention.:衝撃的な出来事には、心を奪われなかった。}`
+`{ruby:......No living thing is concerned with the:……生きとし生けるものは、本来、}{ruby:deaths of others at a fundamental level.:他人の死など関心はないのだ。}`
+`{ruby:The one thing that matters is:その唯一の関心は、自分が死ぬかど}{ruby:whether they themselves die or not.:うかにだけ、割かれるのだ。}`
+`{ruby:My attention was fully occupied by the barrel:イタリア人が見せる、銃口の奥底だけ}{ruby:of the gun the Italian soldier was pointing......:が、私の心を奪っていた……。}`
+`{ruby:Tajima‐kun's back burst once more:私にもたれかかる田島くん}{ruby:as he leaned against me.:の背中が再び爆ぜる。}`
 `{ruby:Flesh tore, blood splattered.:肉が裂け、血飛沫が飛び散る。}`
-`{ruby:The warm splash of it covered my face.:その熱い飛沫が私の顔を覆った。}`
-`{ruby:Was the Italian still trying to finish him off, even though he had stopped moving for good?:すでに身動きも叶わない彼にさらにとどめを？}`
+`{ruby:The warm splash of:その熱い飛沫が私の}{ruby:it covered my face.:顔を覆った。}`
+`{ruby:Was the Italian still trying to finish him:すでに身動きも叶わない彼}{ruby:off, even though he had stopped moving for good?:にさらにとどめを？}`
 `{ruby:How foolish I've been......:あぁ、私は何と愚かなのか……。}`
-`{ruby:Can I still not understand the scene in front of me?!:この期に及んでまだ、私は直面したるこの惨事を理解できないのか！}`
+`{ruby:Can I still not understand:この期に及んでまだ、私は直面したる}{ruby:the scene in front of me?!:この惨事を理解できないのか！}`
 `{ruby:Rejoice, Kinzo!!:喜べ、金蔵！！}`
-`{ruby:Now you'll finally get what you've wanted all this time...!!:私が望んだものが、今、初めて与えられたというのに…！！}`
-`{ruby:The Italian hadn't fired to finish off Tajima‐kun.:イタリア人はとどめを刺すために撃ったのではない。}`
-`{ruby:He had been aiming at the man Tajima‐kun had fallen on: me, Ushiromiya Kinzo.:重なり合って倒れている、この、右代宮金蔵を狙って撃ったのだ。}`
+`{ruby:Now you'll finally get what:私が望んだものが、今、初めて与}{ruby:you've wanted all this time...!!:えられたというのに…！！}`
+`{ruby:The Italian hadn't fired:イタリア人はとどめを刺すた}{ruby:to finish off Tajima‐kun.:めに撃ったのではない。}`
+`{ruby:He had been aiming at the man:重なり合って倒れている、この、右}{ruby:Tajima‐kun had fallen on: me, Ushiromiya Kinzo.:代宮金蔵を狙って撃ったのだ。}`
 `{ruby:"Uu......uuu....uwaah......!!!":「ぅ、……ぅ、……わぁ………！！！」}`
-`{ruby:I pushed his corpse aside, scrabbled against the floor, and dashed away, tumbling over myself.:彼の死体を跳ね除け、私は床を掻きながら、転げるように走り出す。}`
-`{ruby:My hands had pushed off against the floor hard enough to tear off the ring finger fingernail on my left hand.:床を掻いた時、それだけのことで左手の薬指の爪が剥げた。}`
-`{ruby:{n}When faced with death, humans truly can resist with all they've got.:{n}どれだけ、人は死に対し、全身全霊で抗うというのか。}`
-`{ruby:I tumbled over and over as I ran, scraping up parts of my body.:床を転げ、体を削り取りながら走る。}`
+`{ruby:I pushed his corpse aside, scrabbled against:彼の死体を跳ね除け、私は床を掻きな}{ruby:the floor, and dashed away, tumbling over myself.:がら、転げるように走り出す。}`
+`{ruby:My hands had pushed off against the floor hard enough:床を掻いた時、それだけのことで}{ruby:to tear off the ring finger fingernail on my left hand.:左手の薬指の爪が剥げた。}`
+`{ruby:{n}When faced with death, humans truly:{n}どれだけ、人は死に対し、}{ruby:can resist with all they've got.:全身全霊で抗うというのか。}`
+`{ruby:I tumbled over and over as I:床を転げ、体を削り取}{ruby:ran, scraping up parts of my body.:りながら走る。}`
 `{ruby:It was painful, hot.:痛かった、熱かった。}`
 `{ruby:But that didn't matter at all!:でも、そんなことはどうでも良かった！}`
-`{ruby:I heard the yelling in Italian come from behind me over and over again.:後ろからイタリア語の怒鳴り声が何度も聞こえた。}`
-`{ruby:It felt like they were running, chasing after me.:それが走り、自分を追ってくるように感じられた。}`
+`{ruby:I heard the yelling in Italian come:後ろからイタリア語の怒鳴り}{ruby:from behind me over and over again.:声が何度も聞こえた。}`
+`{ruby:It felt like they:それが走り、自分を追ってく}{ruby:were running, chasing after me.:るように感じられた。}`
 `{ruby:I didn't want to look back.:振り返りたくもなかった。}`
-`{ruby:So I kept on running and running, as though the Italians were right behind me.:だからずっとイタリア人が追ってきているように思えて、どこまでも滅茶苦茶に、ぐちゃぐちゃに逃げた。}`
+`{ruby:So I kept on running and running,:だからずっとイタリア人が追ってきているように思えて}{ruby:as though the Italians were right behind me.:、どこまでも滅茶苦茶に、ぐちゃぐちゃに逃げた。}`
 `{ruby:This......is death......!!:これが、……死……！！}`
 `{ruby:{n}Didn't you want to die?:{n}死にたかったんじゃないのか？}`
 `{ruby:No, I don't want to die!!:嫌だ、死にたくないッ！！}`
 `{ruby:Why?:どうして？}`
 `{ruby:Didn't I want to die so badly?:あんなにも望んだのに？}`
 `{ruby:{n}But now, I know.:{n}私はもう、知ってしまった。}`
-`{ruby:{n}I know how wonderful it is to be alive.:{n}生きることの、素晴らしさを。}`
+`{ruby:{n}I know how wonderful:{n}生きることの、}{ruby:it is to be alive.:素晴らしさを。}`
 `{ruby:She taught me.:彼女が教えてくれた。}`
 `{ruby:Bice did.:ビーチェが教えてくれた。}`
-`{ruby:I can only be free when I talk with her.:彼女と話している時だけ解放された。}`
+`{ruby:I can only be free:彼女と話している時だ}{ruby:when I talk with her.:け解放された。}`
 `{ruby:No!:違う！}`
-`{ruby:{n}By talking with her, I was finally alive for the first time.:{n}彼女と話して、私は初めて生きたのだ。}`
+`{ruby:{n}By talking with her, I was:{n}彼女と話して、私は}{ruby:finally alive for the first time.:初めて生きたのだ。}`
 `{ruby:I was finally born!!:生まれたのだ！！}`
 `{ruby:I want to live.:生きたいッ。}`
-`{ruby:I want to live, I want to live, I want to live!!:生きたい生きたい生きたいッ！！}`
+`{ruby:I want to live, I want:生きたい生きたい生}{ruby:to live, I want to live!!:きたいッ！！}`
 `{ruby:I don't want to die!:死にたくない！！}`
-`{ruby:I want to live and see her, right now!!:生きて彼女と会いたい、今すぐに！！}`
-`{ruby:If I don't see her, I'll die! I'll be killed!!:会わなきゃ死ぬ、殺される！！}`
+`{ruby:I want to live:生きて彼女と会いたい}{ruby:and see her, right now!!:、今すぐに！！}`
+`{ruby:If I don't see her,:会わなきゃ死ぬ、殺}{ruby:I'll die! I'll be killed!!:される！！}`
 `{ruby:.........Stay cool, Kinzo.:………落ち着け金蔵、}`
 `{ruby:......She might be killed too...!:……彼女だって殺されるかもしれない…！}`
-`{ruby:If you live and she dies, you might as well be dead......!!:自分が生きても、彼女が殺されたら、それは同じことなんだ……！！}`
-`{ruby:Before I knew it, my face was covered in tears, snot, and drool.:気付けば顔は、涙と鼻水と涎でぐちゃぐちゃに歪んでいた。}`
-`{ruby:When I stumbled over something and fell, I was finally able to come to my senses a little.:何かに躓いて転ぶことで、ようやく私はわずかの正気を取り戻す。}`
+`{ruby:If you live and she dies,:自分が生きても、彼女が殺されたら、}{ruby:you might as well be dead......!!:それは同じことなんだ……！！}`
+`{ruby:Before I knew it, my face:気付けば顔は、涙と鼻水と涎でぐ}{ruby:was covered in tears, snot, and drool.:ちゃぐちゃに歪んでいた。}`
+`{ruby:When I stumbled over something and fell, I was:何かに躓いて転ぶことで、ようやく}{ruby:finally able to come to my senses a little.:私はわずかの正気を取り戻す。}`
 `{ruby:"..................Haah......haah...:「………………はぁ、……はぁ…。}`
 `{ruby:..................":………………」}`
-`{ruby:I could still hear intermittent gunfire.:発砲音は、まだ断続的に聞こえる。}`
+`{ruby:I could still:発砲音は、まだ断続}{ruby:hear intermittent gunfire.:的に聞こえる。}`
 `{ruby:The gunfight was still going on.:銃撃戦は続いている。}`
-`{ruby:And it had spread throughout the entire base.:そしてそれは、基地中に広がっている。}`
+`{ruby:And it had spread:そしてそれは、基地中}{ruby:throughout the entire base.:に広がっている。}`
 `{ruby:......Bice.:……ビーチェ。}`
 `{ruby:......Are you...okay......?:……君は、無事なのか……。}`
-`{ruby:I'll find her and take her to a safe place.:彼女を探し、安全な場所に匿おう。}`
-`{ruby:......The lieutenant will probably kill all of the Italians to steal the gold.:……中尉たちは黄金を奪うために、イタリア人たちを皆殺しにするだろう。}`
+`{ruby:I'll find her and take:彼女を探し、安全な}{ruby:her to a safe place.:場所に匿おう。}`
+`{ruby:......The lieutenant will probably kill all:……中尉たちは黄金を奪うために、イタ}{ruby:of the Italians to steal the gold.:リア人たちを皆殺しにするだろう。}`
 `{ruby:Bice probably won't be an exception.:ビーチェも例外にはなるまい。}`
 `{ruby:"Bice......:「ビーチェ……。}`
 `{ruby:.........Bice...!":………ビーチェ…！！」}`
-`{ruby:Meeting you was the first time I ever lived,:君に会って私は初めて生きた。}`
+`{ruby:Meeting you was the:君に会って私は初}{ruby:first time I ever lived,:めて生きた。}`
 `{ruby:the first time I was ever born.:生まれた。}`
 `{ruby:So if you die, I'll die again.:ならば私は君が死ねば再び死ぬ。}`
-`{ruby:I could feel every cell in my body being reborn, not as Ushiromiya Kinzo, ......but as a completely different Kinzo.:右代宮金蔵じゃない、……まったく別の金蔵に、全身の細胞が生まれ変わる感触。}`
-`{ruby:......Of course, I was terrified that I might really be shot if I went back.:……もちろん、再び戻れば、今度こそ撃たれるかもしれない恐怖はある。}`
+`{ruby:I could feel every cell in my body being reborn,:右代宮金蔵じゃない、……まったく別の金蔵}{ruby:not as Ushiromiya Kinzo, ......but as a completely different Kinzo.:に、全身の細胞が生まれ変わる感触。}`
+`{ruby:......Of course, I was terrified that I:……もちろん、再び戻れば、今度こそ撃}{ruby:might really be shot if I went back.:たれるかもしれない恐怖はある。}`
 `{ruby:But I no longer wanted to die,:だが、私はもう、死にたくはないのだ。}`
 `{ruby:in the truest possible sense.:真の意味で。}`
 `{ruby:So, I was able to overcome my fear.:だから、その恐怖を捻じ曲げることが出来る。}`
@@ -410,13 +410,13 @@
 `{ruby:What is all this?!»:この騒ぎは何？！”}`
 `{ruby:«There's no need for you to know.:“君は知らなくていい。}`
 `{ruby:Just stay hidden there.:そこにじっと隠れていろ。}`
-`{ruby:Don't come out until one of your fellow countrymen calls for you!»:同胞が呼び掛けるまで出てくるんじゃない！”}`
+`{ruby:Don't come out until one of:同胞が呼び掛けるまで出て}{ruby:your fellow countrymen calls for you!»:くるんじゃない！”}`
 `{ruby:"I heard an Italian voice!!:「イタリア人の声が聞こえたッ！！}`
 `{ruby:He's over there!!":そこにいるぞ！！」}`
 `{ruby:«Goddamn Asians!!»:“くそったれ、東洋人め！！”}`
-`{ruby:Rubens stood with Beatrice behind his back and neatly shot the two men rushing at him with two 9mm bullets from his Beretta M1934.:ルーベンスはベアトリーチェを背中で庇い、ベレッタＭ１９３４の９ｍｍ弾を正確に１発ずつ、飛び込んできた２人に撃ち込む。}`
-`{ruby:However, one of the 8mm bullets from their Type 94 semi‐auto pistols went straight into Rubens's chest.:しかし彼らも九四式自動拳銃の８ｍｍ弾を正確に１発、ルーベンスの胸に撃ち込む。}`
-`{ruby:All three of the shooters were struck in the chest and fell down in a heap.:銃を撃ち合った３人は、３人がそれぞれに銃弾を胸に受けて、もがきながら倒れる。}`
+`{ruby:Rubens stood with Beatrice behind his back and neatly shot the two:ルーベンスはベアトリーチェを背中で庇い、ベレッタＭ１９３４の}{ruby:men rushing at him with two 9mm bullets from his Beretta M1934.:９ｍｍ弾を正確に１発ずつ、飛び込んできた２人に撃ち込む。}`
+`{ruby:However, one of the 8mm bullets from their:しかし彼らも九四式自動拳銃の８ｍｍ弾を正}{ruby:Type 94 semi‐auto pistols went straight into Rubens's chest.:確に１発、ルーベンスの胸に撃ち込む。}`
+`{ruby:All three of the shooters were struck in:銃を撃ち合った３人は、３人がそれぞれに銃}{ruby:the chest and fell down in a heap.:弾を胸に受けて、もがきながら倒れる。}`
 `{ruby:«N‐no!!:“し、しっかりしてッ！！}`
 `{ruby:Rubens!!»:ルーベンス！！”}`
 `{ruby:«......Go up to the surface...:“……地上へ逃げろ…。}`
@@ -426,102 +426,102 @@
 `{ruby:«Rubens!!!»:“ルーベーンス！！！”}`
 `{ruby:"......Heheheh. My, my.:「……くっくっく、おやおや。}`
 `{ruby:Aren't we chatty?":賑やかではないか」}`
-`{ruby:The next person to appear......was the commanding officer of the Japanese soldiers, Yamamoto.:さらに現れたのは、……日本人たちの指揮官、山本だった。}`
-`{ruby:The blast of three guns had just sounded.:３人が殺し合う銃声を轟かせたのだ。}`
-`{ruby:Adding on Beatrice's screams, it was hardly surprising that he had noticed the encounter.:さらにその上、ベアトリーチェの叫びがあっては、気取られても不思議はない。}`
-`{ruby:"If it had to come to this anyway, we should've taken this woman as a hostage in the first place.:「こんなことなら、最初からこの女を人質に取ればよかった。}`
-`{ruby:Damn annoying, that's what they are!":クソ、忌々しい連中だ！」}`
+`{ruby:The next person to appear......was the:さらに現れたのは、……日本人た}{ruby:commanding officer of the Japanese soldiers, Yamamoto.:ちの指揮官、山本だった。}`
+`{ruby:The blast of three:３人が殺し合う銃声を}{ruby:guns had just sounded.:轟かせたのだ。}`
+`{ruby:Adding on Beatrice's screams, it was hardly:さらにその上、ベアトリーチェの叫びがあ}{ruby:surprising that he had noticed the encounter.:っては、気取られても不思議はない。}`
+`{ruby:"If it had to come to this anyway, we should've:「こんなことなら、最初からこの}{ruby:taken this woman as a hostage in the first place.:女を人質に取ればよかった。}`
+`{ruby:Damn annoying, that's:クソ、忌々しい}{ruby:what they are!":連中だ！」}`
 `{ruby:Yamamoto spat.:山本は唾を吐き捨てる。}`
-`{ruby:Beatrice used that moment to snatch up Rubens's gun.:その隙をついてベアトリーチェは素早くルーベンスの銃を拾う。}`
+`{ruby:Beatrice used that moment:その隙をついてベアトリーチェは素}{ruby:to snatch up Rubens's gun.:早くルーベンスの銃を拾う。}`
 `{ruby:«Aahh......!!!»:“きゃッ……！！！”}`
-`{ruby:"Oh, picking up a gun without hesitation!:「躊躇なく銃を拾おうとするとは！}`
+`{ruby:"Oh, picking up:「躊躇なく銃を拾お}{ruby:a gun without hesitation!:うとするとは！}`
 `{ruby:Italian women sure are scary!:イタリア女は実に物騒だッ！}`
-`{ruby:Dammit, you both managed to screw up...!!":クソ、二人掛りでしくじりやがって…！！」}`
-`{ruby:He spat this last part at the two dying men who lay moaning at his feet.:足元に転がり、苦しそうに呻いて最期の時を待つ二人に、憎々しげにそう言い放つ。}`
-`{ruby:However, it wasn't particularly surprising.:しかし、無理もないことだった。}`
-`{ruby:And this wasn't the only place it was happening.:そしてそれは、ここの撃ち合いだけではない。}`
-`{ruby:Nearly everyone met head on in these tiny, cramped tunnels.:この、狭く入り組んだ壕内では、ほとんどが出会い頭となる。}`
-`{ruby:When both sides shot recklessly in a situation like that, the result was two corpses.:互いに銃弾を無闇やたらに撃ち込み合えば、転がる骸は二つになる。}`
-`{ruby:So the way to be fastest was to pull the trigger immediately the moment you sensed another person.:だから、人の気配さえ感じたら直ちに引き金を引いた方が早い。}`
-`{ruby:That was the only way to make it through this battle without ending up with a bullet in your chest.:それが唯一、自分の胸に鉛弾を喰らわない生き残りの方法だ。}`
-`{ruby:Because of this, both Japanese and Italians killed each other without hesitation, and they sometimes even pulled the trigger on their own countrymen when they unexpectedly ran into each other.:そんなだから、日本人もイタリア人も、異邦人を容赦なく殺したし、時に出会い頭の同胞にさえ引き金を引いた。}`
-`{ruby:And in the midst of all this, large numbers of Japanese men who had no idea what was going on ran towards the noise and became victims one after another.:そんな中に、何事か何事かと、突然の騒ぎに駆けつけた大勢の日本人たちは次々に巻き込まれていった。}`
-`{ruby:It didn't matter whether the other person was holding a gun or not.:相手が銃を持っていようと持っていまいと関係ない。}`
-`{ruby:Everyone reflexively pulled the trigger at the sight of anyone other than themselves, trying to stay alive.:自分が生きるために自分以外の人影に対し、反射的に引き金を引く。}`
-`{ruby:The slaughter engulfed the entire base......:そんな殺人劇が、基地内を飲み込んでいった……。}`
-`{ruby:There was a fierce gun battle taking place in the submarine dock.:潜水艦ドックでは激しい銃撃戦が。}`
-`{ruby:And a massacre resembling a hunt was taking place inside the base.:そして基地内では狩猟のような惨劇が繰り広げられた。}`
-`{ruby:Most of the non‐combatants assigned to this base were killed before they knew what was going on.:軍属の非戦闘員のほとんどは、何事かもわからない内に撃ち殺された。}`
-`{ruby:The Italians were indeed quite seasoned troops, but their numbers began to drop bit by bit.:イタリア人は確かに精兵揃いだったが、少しずつ犠牲者を増やしていった。}`
-`{ruby:Blood‐stained corpses lay scattered all across the base......:基地内のそこかしこに、血塗れの死体がごろごろと横たわった……。}`
-`{ruby:At first, it had probably been a proper gunfight.:最初は、少なくとも彼らなりに意味のある銃撃戦だったかもしれない。}`
-`{ruby:However, as they gradually became desensitized,:しかし次第に、彼らの感覚は麻痺し、}`
-`{ruby:it devolved into that most basic cause of wars throughout humanity, the desire to kill all foreigners you don't understand...:理解できぬ異邦人は全て殺せという、人類が戦争を起こす理由の、最も根源的なものにすり替わっていった…。}`
-`{ruby:Whenever they heard words they didn't understand, they pulled the trigger.:自分に理解できない言葉を聞けば、構わず引き金を引いた。}`
-`{ruby:By that point, the screams of foreigners sounded no different from those of man‐shaped beasts.:異邦人の悲鳴はもはや、人型のケモノのそれと同じに聞こえた。}`
-`{ruby:After all, they couldn't understand pleading in another language.:異国の言葉の命乞いなど、理解も出来ないのだから。}`
-`{ruby:So, it had long ago turned into a mere massacre......:だからそれはもうとっくに、ただの殺人劇と成り果てていたのだ……。}`
-`{ruby:As the number of dead surpassed the number of living, ......silence began to return to the base.:そうして死者の数が生きた人間を上回り、……次第に基地内は静寂を取り戻していった。}`
-`{ruby:Just when it felt as though everyone had died and the desolate sound of the wind blew through the caves,:荒涼とした風の音が聞こえ、全ての人間が死に絶えたかと思った頃に、}`
-`{ruby:there would be a sudden scream, the crisp sound of a gun, and one would remember that the massacre still wasn't over.:唐突に悲鳴が聞こえては、乾いた銃声が、まだ惨劇が終わっていないことを思い出させる。}`
-`{ruby:This happened...over and over again...:そんなことが、何度も繰り返し、}`
-`{ruby:......until eventually, true silence fell.:………やがて、本当の静寂を迎えた。}`
-`{ruby:......It marked the pitiful end for those led astray by gold.:……黄金に惑わされた者たちの、哀れな最期だった。}`
-`{ruby:The leader of the Italian soldiers, Angelo, had managed to survive somehow.:イタリア人たちの指揮官、アンジェロは、何とか生き残っていた。}`
-`{ruby:He encountered......nothing but the corpses of friend and foe.:出くわすのは、……敵と、味方の、死体だけ。}`
+`{ruby:Dammit, you both:クソ、二人掛りでしくじり}{ruby:managed to screw up...!!":やがって…！！」}`
+`{ruby:He spat this last part at the two:足元に転がり、苦しそうに呻いて最期の時を}{ruby:dying men who lay moaning at his feet.:待つ二人に、憎々しげにそう言い放つ。}`
+`{ruby:However, it:しかし、無理もない}{ruby:wasn't particularly surprising.:ことだった。}`
+`{ruby:And this wasn't the:そしてそれは、ここの撃ち}{ruby:only place it was happening.:合いだけではない。}`
+`{ruby:Nearly everyone met head on:この、狭く入り組んだ壕内では、}{ruby:in these tiny, cramped tunnels.:ほとんどが出会い頭となる。}`
+`{ruby:When both sides shot recklessly in a:互いに銃弾を無闇やたらに撃ち込み合}{ruby:situation like that, the result was two corpses.:えば、転がる骸は二つになる。}`
+`{ruby:So the way to be fastest was to pull:だから、人の気配さえ感じたら直ち}{ruby:the trigger immediately the moment you sensed another person.:に引き金を引いた方が早い。}`
+`{ruby:That was the only way to make it through this:それが唯一、自分の胸に鉛弾を喰}{ruby:battle without ending up with a bullet in your chest.:らわない生き残りの方法だ。}`
+`{ruby:Because of this, both Japanese and Italians killed each other without hesitation, and they sometimes:そんなだから、日本人もイタリア人も、異邦人を容赦なく殺}{ruby:even pulled the trigger on their own countrymen when they unexpectedly ran into each other.:したし、時に出会い頭の同胞にさえ引き金を引いた。}`
+`{ruby:And in the midst of all this, large numbers of Japanese men who had no:そんな中に、何事か何事かと、突然の騒ぎに駆けつけた}{ruby:idea what was going on ran towards the noise and became victims one after another.:大勢の日本人たちは次々に巻き込まれていった。}`
+`{ruby:It didn't matter whether the other:相手が銃を持っていようと持}{ruby:person was holding a gun or not.:っていまいと関係ない。}`
+`{ruby:Everyone reflexively pulled the trigger at the sight:自分が生きるために自分以外の人影に}{ruby:of anyone other than themselves, trying to stay alive.:対し、反射的に引き金を引く。}`
+`{ruby:The slaughter engulfed:そんな殺人劇が、基地内を飲}{ruby:the entire base......:み込んでいった……。}`
+`{ruby:There was a fierce gun battle:潜水艦ドックでは激}{ruby:taking place in the submarine dock.:しい銃撃戦が。}`
+`{ruby:And a massacre resembling a hunt:そして基地内では狩猟のような}{ruby:was taking place inside the base.:惨劇が繰り広げられた。}`
+`{ruby:Most of the non‐combatants assigned to this base:軍属の非戦闘員のほとんどは、何事か}{ruby:were killed before they knew what was going on.:もわからない内に撃ち殺された。}`
+`{ruby:The Italians were indeed quite seasoned troops, but:イタリア人は確かに精兵揃いだったが、}{ruby:their numbers began to drop bit by bit.:少しずつ犠牲者を増やしていった。}`
+`{ruby:Blood‐stained corpses lay scattered:基地内のそこかしこに、血塗れの死体}{ruby:all across the base......:がごろごろと横たわった……。}`
+`{ruby:At first, it had:最初は、少なくとも彼らなりに意味の}{ruby:probably been a proper gunfight.:ある銃撃戦だったかもしれない。}`
+`{ruby:However, as they:しかし次第に、彼らの}{ruby:gradually became desensitized,:感覚は麻痺し、}`
+`{ruby:it devolved into that most basic cause of wars throughout:理解できぬ異邦人は全て殺せという、人類が戦争を起こす}{ruby:humanity, the desire to kill all foreigners you don't understand...:理由の、最も根源的なものにすり替わっていった…。}`
+`{ruby:Whenever they heard words they:自分に理解できない言葉を聞けば}{ruby:didn't understand, they pulled the trigger.:、構わず引き金を引いた。}`
+`{ruby:By that point, the screams of foreigners:異邦人の悲鳴はもはや、人型のケモ}{ruby:sounded no different from those of man‐shaped beasts.:ノのそれと同じに聞こえた。}`
+`{ruby:After all, they couldn't:異国の言葉の命乞いなど、理}{ruby:understand pleading in another language.:解も出来ないのだから。}`
+`{ruby:So, it had long ago:だからそれはもうとっくに、ただの殺}{ruby:turned into a mere massacre......:人劇と成り果てていたのだ……。}`
+`{ruby:As the number of dead surpassed the number:そうして死者の数が生きた人間を上回り、……}{ruby:of living, ......silence began to return to the base.:次第に基地内は静寂を取り戻していった。}`
+`{ruby:Just when it felt as though everyone had died and:荒涼とした風の音が聞こえ、全ての人}{ruby:the desolate sound of the wind blew through the caves,:間が死に絶えたかと思った頃に、}`
+`{ruby:there would be a sudden scream, the crisp sound of a:唐突に悲鳴が聞こえては、乾いた銃声が、まだ惨}{ruby:gun, and one would remember that the massacre still wasn't over.:劇が終わっていないことを思い出させる。}`
+`{ruby:This happened...over:そんなことが、何度}{ruby:and over again...:も繰り返し、}`
+`{ruby:......until eventually,:………やがて、本当の}{ruby:true silence fell.:静寂を迎えた。}`
+`{ruby:......It marked the pitiful end:……黄金に惑わされた者たち}{ruby:for those led astray by gold.:の、哀れな最期だった。}`
+`{ruby:The leader of the Italian soldiers,:イタリア人たちの指揮官、アンジェ}{ruby:Angelo, had managed to survive somehow.:ロは、何とか生き残っていた。}`
+`{ruby:He encountered......nothing but the:出くわすのは、……敵と、}{ruby:corpses of friend and foe.:味方の、死体だけ。}`
 `{ruby:All was quiet once more in the base.:基地内はシンと静まりかえっている。}`
-`{ruby:If he was careless enough to call out, he might be shot from the shadows somewhere.:迂闊に大声を出せば、物影から撃たれるかもしれない。}`
-`{ruby:......So, he snuck about like a panther, breathing quietly and searching for the remaining enemies...:……だからこうして息を殺しながら、残敵を探して、豹のように徘徊する…。}`
-`{ruby:There was no sign or trace of any living person.:生きた者の姿も、気配も、何もない。}`
-`{ruby:......Maybe all of the people in this base had died.:……この基地にいる全ての人間がもう、死に絶えたかもしれない。}`
+`{ruby:If he was careless enough to call out,:迂闊に大声を出せば、物影から}{ruby:he might be shot from the shadows somewhere.:撃たれるかもしれない。}`
+`{ruby:......So, he snuck about like a panther,:……だからこうして息を殺しながら、残敵}{ruby:breathing quietly and searching for the remaining enemies...:を探して、豹のように徘徊する…。}`
+`{ruby:There was no sign or:生きた者の姿も、気配}{ruby:trace of any living person.:も、何もない。}`
+`{ruby:......Maybe all of the people:……この基地にいる全ての人間がも}{ruby:in this base had died.:う、死に絶えたかもしれない。}`
 `{ruby:«......Damn Japanese......»:“……日本人め、おのれ……”}`
-`{ruby:The Japanese struck first, but at that time, we were also talking about killing them.:日本人が先に仕掛けて来たが、あの時、我々もまた、日本人を殺すことを相談していた。}`
-`{ruby:They simply made the first move as military men.:彼らは軍人として、機先を制しただけのことだ。}`
-`{ruby:{n}So, perhaps I should be grateful for today.:{n}だから、とりあえず今日に、感謝することにした。}`
-`{ruby:Even if the boat had come to take us away, there would have been no honor for us.:迎えの船が来たところで、自分たちにはもう名誉など与えられはしない。}`
-`{ruby:We would have been mere failures in our mission, unfit to face our dead comrades.:死んだ戦友たちに顔向け出来ない、哀れな任務失敗を思い知るだけ。}`
-`{ruby:Perhaps dying here in the Far East alongside my gun......is a more fitting end for a soldier.:この極東の地で銃を抱いて死ねるのは、………軍人として本懐かもしれないのだ。}`
-`{ruby:From around the corner, I noticed the sound of a leg being dragged along the ground, and I strained to hear.:曲がり角の向こうに、足を引き摺る音を聞き、耳をそばだてる。}`
-`{ruby:.........Is someone seriously wounded and shuffling with a limp?:………負傷して、足を引き摺っているのか？}`
-`{ruby:Noticing them before they notice me greatly helps my chances.:先に気配を気取れたのは、勝機。}`
-`{ruby:At this stage, there's no point in taking prisoners.:もうこの段階において、捕虜を取る意味はない。}`
-`{ruby:{n}We must dispose of all the Japanese.:{n}むしろ、全ての日本人を排除すべきだ。}`
-`{ruby:I'll dash around the corner, quickly check to see who they are, ......and shoot if it's a Japanese person.:曲がり角より飛び出して、素早く相手を確認し、……日本人だったら撃つ。}`
+`{ruby:The Japanese struck first, but at that:日本人が先に仕掛けて来たが、あの時、我々も}{ruby:time, we were also talking about killing them.:また、日本人を殺すことを相談していた。}`
+`{ruby:They simply made the:彼らは軍人として、機先を}{ruby:first move as military men.:制しただけのことだ。}`
+`{ruby:{n}So, perhaps I should:{n}だから、とりあえず今日}{ruby:be grateful for today.:に、感謝することにした。}`
+`{ruby:Even if the boat had come to take us:迎えの船が来たところで、自分たちには}{ruby:away, there would have been no honor for us.:もう名誉など与えられはしない。}`
+`{ruby:We would have been mere failures in:死んだ戦友たちに顔向け出来ない、哀}{ruby:our mission, unfit to face our dead comrades.:れな任務失敗を思い知るだけ。}`
+`{ruby:Perhaps dying here in the Far East alongside:この極東の地で銃を抱いて死ねるのは、……}{ruby:my gun......is a more fitting end for a soldier.:…軍人として本懐かもしれないのだ。}`
+`{ruby:From around the corner, I noticed the sound of a:曲がり角の向こうに、足を引き摺る}{ruby:leg being dragged along the ground, and I strained to hear.:音を聞き、耳をそばだてる。}`
+`{ruby:.........Is someone seriously wounded:………負傷して、足を引}{ruby:and shuffling with a limp?:き摺っているのか？}`
+`{ruby:Noticing them before they notice:先に気配を気取れた}{ruby:me greatly helps my chances.:のは、勝機。}`
+`{ruby:At this stage, there's:もうこの段階において、捕}{ruby:no point in taking prisoners.:虜を取る意味はない。}`
+`{ruby:{n}We must dispose:{n}むしろ、全ての日本}{ruby:of all the Japanese.:人を排除すべきだ。}`
+`{ruby:I'll dash around the corner, quickly check to see:曲がり角より飛び出して、素早く相手を}{ruby:who they are, ......and shoot if it's a Japanese person.:確認し、……日本人だったら撃つ。}`
 `{ruby:Nothing more.:それだけのことだ。}`
-`{ruby:I've been hiding my footsteps the whole time.:自分はずっと足音を殺していた。}`
+`{ruby:I've been hiding my:自分はずっと足音を}{ruby:footsteps the whole time.:殺していた。}`
 `{ruby:They probably don't know I'm here.:こちらは気取られていないはず。}`
-`{ruby:Once the shuffling footsteps had come close enough, Angelo leaned around the corner and raised his gun.:引き摺る足音が、充分な間合いまで近付いてきてから、アンジェロは身を乗り出し、銃を構える。}`
-`{ruby:The voice that reached him...spoke Italian.:そんな彼を迎えたのは、イタリア語だった。}`
+`{ruby:Once the shuffling footsteps had come close enough,:引き摺る足音が、充分な間合いまで近付いてきてか}{ruby:Angelo leaned around the corner and raised his gun.:ら、アンジェロは身を乗り出し、銃を構える。}`
+`{ruby:The voice that:そんな彼を迎えたのは、}{ruby:reached him...spoke Italian.:イタリア語だった。}`
 `{ruby:«R‐run......»:“に、逃げて……”}`
 `{ruby:«......?!:“……？！}`
 `{ruby:Y‐you......!!»:き、貴様……！！”}`
-`{ruby:"Heheheh, I've been looking for you, Ensign Angelo...:「くっくっく、貴様を探していたぞ、アンジェロ少尉…。}`
+`{ruby:"Heheheh, I've been looking:「くっくっく、貴様を探してい}{ruby:for you, Ensign Angelo...:たぞ、アンジェロ少尉…。}`
 `{ruby:That makes all of you.:これで全員だな。}`
-`{ruby:I've been counting Italian corpses, you see...!!":俺はしっかり、貴様らの死体を数えて回ってたんだからな…！！」}`
+`{ruby:I've been counting:俺はしっかり、貴様らの死体を数え}{ruby:Italian corpses, you see...!!":て回ってたんだからな…！！」}`
 `{ruby:«No, don't die!!:“しッ、しっかりして！！}`
 `{ruby:Ensign Angelo!»:アンジェロ少尉！”}`
 `{ruby:Blood poured from Angelo's chest,:アンジェロは胸から、こぽりと血が溢れ出し、}`
 `{ruby:......his gun fell to the floor,:……銃を落とす音、}`
 `{ruby:then his knees,:膝を落とす音に続き、}`
-`{ruby:and then the rest of his body crumpled...:どさりと床に崩れ落ちる音を聞かせ、}`
+`{ruby:and then the rest:どさりと床に崩れ落ち}{ruby:of his body crumpled...:る音を聞かせ、}`
 `{ruby:...and stopped moving.:……動かなくなった。}`
-`{ruby:Yamamoto's accuracy with a gun wasn't particularly stellar.:山本の銃の腕は決していい方ではない。}`
-`{ruby:However, Angelo had waited until they were fairly close before jumping out, so Yamamoto had been able to hit his target.:しかし、アンジェロが充分に間合いを詰めてから飛び出してくれたので、当てることが出来た。}`
-`{ruby:And he had managed it with a short‐barreled handgun in one hand......and a woman as a hostage in the other.:銃身の短い拳銃を片手で構え、……女を人質に取りながらでも、当てることが出来た。}`
-`{ruby:"Really, though, our Rokkenjima garrison was pathetic!:「それにしても、我が六軒島守備隊の情けないことよ！}`
+`{ruby:Yamamoto's accuracy with a:山本の銃の腕は決して}{ruby:gun wasn't particularly stellar.:いい方ではない。}`
+`{ruby:However, Angelo had waited until they were fairly close before:しかし、アンジェロが充分に間合いを詰めてから飛}{ruby:jumping out, so Yamamoto had been able to hit his target.:び出してくれたので、当てることが出来た。}`
+`{ruby:And he had managed it with a short‐barreled handgun in:銃身の短い拳銃を片手で構え、……女を人質に}{ruby:one hand......and a woman as a hostage in the other.:取りながらでも、当てることが出来た。}`
+`{ruby:"Really, though, our:「それにしても、我が六軒島守}{ruby:Rokkenjima garrison was pathetic!:備隊の情けないことよ！}`
 `{ruby:Am I the only one who's not dead?!:まさか私以外は全員死んだのではあるまいな？！}`
 `{ruby:Trash, all of them!":やれやれクズどもめ！」}`
-`{ruby:«Can't you fight without using a woman as a shield, you brute?!!:“女を楯に取らなきゃ戦えない、人でなし！！}`
+`{ruby:«Can't you fight without using a:“女を楯に取らなきゃ戦え}{ruby:woman as a shield, you brute?!!:ない、人でなし！！}`
 `{ruby:Let go!»:離してッ！”}`
 `{ruby:"Quiet!:「静かにしろ！}`
 `{ruby:Noisy, these Italian girls.:イタリア女は実に騒がしい。}`
-`{ruby:If you'd just be cooperative, I'd at least spare your life. Heheheh!":大人しくしてれば、命までは取らんというのにッ。くっくっく！」}`
-`{ruby:It was such an obvious lie that even he wore a bitter smile.:それは、彼自身が苦笑いしてしまうほどの嘘だ。}`
-`{ruby:"The Italians were spies working for the enemy, and they all died along with the garrison in a gunfight".:イタリア人たちは敵に内通したスパイで、銃撃戦になり、守備隊共々全滅した。}`
-`{ruby:That was the story Yamamoto wanted to tell, and so he couldn't afford to have any Italian survivors.:そういう筋書きにしたい山本にとって、イタリア人生存者は不都合なのだ。}`
-`{ruby:At this point, he wouldn't be able to keep the entire pile of gold,:もはや黄金の山を丸ごと手に入れることは出来ないが、}`
-`{ruby:but he could at least grab as many ingots as he could carry.:自分で持ち運べる程度の、インゴット数本をくすねることは出来るはず。}`
-`{ruby:Even that would be worth a huge amount of money.:そしてそれだけでも、十分な大金になるはず。}`
+`{ruby:If you'd just be cooperative, I'd:大人しくしてれば、命までは取らん}{ruby:at least spare your life. Heheheh!":というのにッ。くっくっく！」}`
+`{ruby:It was such an obvious lie:それは、彼自身が苦笑いし}{ruby:that even he wore a bitter smile.:てしまうほどの嘘だ。}`
+`{ruby:"The Italians were spies working for the enemy, and:イタリア人たちは敵に内通したスパイで、}{ruby:they all died along with the garrison in a gunfight".:銃撃戦になり、守備隊共々全滅した。}`
+`{ruby:That was the story Yamamoto wanted to tell, and:そういう筋書きにしたい山本にとって、}{ruby:so he couldn't afford to have any Italian survivors.:イタリア人生存者は不都合なのだ。}`
+`{ruby:At this point, he wouldn't be able:もはや黄金の山を丸ごと手に入}{ruby:to keep the entire pile of gold,:れることは出来ないが、}`
+`{ruby:but he could at least grab:自分で持ち運べる程度の、インゴット数}{ruby:as many ingots as he could carry.:本をくすねることは出来るはず。}`
+`{ruby:Even that would be worth:そしてそれだけでも、十分}{ruby:a huge amount of money.:な大金になるはず。}`
 `{ruby:Beatrice suddenly swung her head,:ベアトリーチェが、いきなり頭を大きく反らす。}`
 `{ruby:smashing Yamamoto's nose hard.:それは思いきり山本の鼻筋を打ちのめした。}`
 `{ruby:«Someone, help! Someoooooone!!!:“誰か助けてッ！　誰かぁあああぁあぁ！！！}`
@@ -529,59 +529,59 @@
 `{ruby:"Y‐......you...bitch......:「こ、……こンの、クソアマ……。}`
 `{ruby:Ngaaah......":うくくく……」}`
 `{ruby:She almost managed to escape.:頭突きの隙にうまく逃れるはずだった。}`
-`{ruby:However, Yamamoto quickly grabbed her leg and tripped her.:しかし山本は素早く彼女の足を引っ掛けて転ばせたのだ。}`
-`{ruby:She fell onto her back, and Yamamoto mercilessly stomped his foot down on her stomach and pointed his gun at her.:転んで仰向けになった彼女の腹を、山本は容赦なく踏みつけて、銃を構える。}`
-`{ruby:"Heheheh, I don't make a hobby of taming tomboys...!:「くっくっく、じゃじゃ馬を飼い慣らす趣味はないのでな…！}`
+`{ruby:However, Yamamoto quickly grabbed:しかし山本は素早く彼女の足を}{ruby:her leg and tripped her.:引っ掛けて転ばせたのだ。}`
+`{ruby:She fell onto her back, and Yamamoto mercilessly stomped his:転んで仰向けになった彼女の腹を、山本は}{ruby:foot down on her stomach and pointed his gun at her.:容赦なく踏みつけて、銃を構える。}`
+`{ruby:"Heheheh, I don't make:「くっくっく、じゃじゃ馬を飼い}{ruby:a hobby of taming tomboys...!:慣らす趣味はないのでな…！}`
 `{ruby:Die!!":貴様は死ねッ！！」}`
-`{ruby:"Lieutenant Yamamoto, she had nothing to do with this!:「中尉ッ、彼女は無関係だ！}`
+`{ruby:"Lieutenant Yamamoto, she had:「中尉ッ、彼女は}{ruby:nothing to do with this!:無関係だ！}`
 `{ruby:Let go of her!":放してやれッ！」}`
-`{ruby:Kinzo had jumped out from the shadows.:物影から飛び出したのは金蔵だった。}`
-`{ruby:{n}He was holding a gun he had stolen from one of the corpses.:{n}誰かの死体から奪った拳銃を構えていた。}`
+`{ruby:Kinzo had jumped:物影から飛び出したの}{ruby:out from the shadows.:は金蔵だった。}`
+`{ruby:{n}He was holding a gun he:{n}誰かの死体から奪っ}{ruby:had stolen from one of the corpses.:た拳銃を構えていた。}`
 `{ruby:"Hmmm? Ushiromiya?:「んんん？　右代宮か。}`
 `{ruby:Ah, so you're alive!":ほぅ、生きておったか！」}`
 `{ruby:"Let her go! You're hurting her...!!":「彼女を放せッ、苦しがってる…！！」}`
 `{ruby:"......It was you, wasn't it?:「……貴様であろう？}`
 `{ruby:You tipped the Italians off.":イタリア人どもに、攻撃があることを密告したのは」}`
 `{ruby:"What are you talking about...?!":「何の話だ…？！」}`
-`{ruby:Yamamoto didn't know that the grenade had been a dud.:山本は手榴弾が不発だったことを知らない。}`
-`{ruby:The surprise attack, which he had been certain would work, had failed,:絶対にうまく行くと思っていた奇襲が失敗したため、}`
-`{ruby:so he had decided that Kinzo must have tipped them off.:金蔵が密告したからに違いないと決め付けていたのだ。}`
-`{ruby:"It's your fault the surprise attack failed, and now look what's happened!:「貴様のせいで奇襲が失敗して、このザマだ！}`
+`{ruby:Yamamoto didn't know that the:山本は手榴弾が不発だっ}{ruby:grenade had been a dud.:たことを知らない。}`
+`{ruby:The surprise attack, which he had:絶対にうまく行くと思ってい}{ruby:been certain would work, had failed,:た奇襲が失敗したため、}`
+`{ruby:so he had decided that:金蔵が密告したからに違いない}{ruby:Kinzo must have tipped them off.:と決め付けていたのだ。}`
+`{ruby:"It's your fault the surprise attack:「貴様のせいで奇襲が失敗}{ruby:failed, and now look what's happened!:して、このザマだ！}`
 `{ruby:You turncoat...:この裏切り者め…。}`
-`{ruby:I know you've been working with them through this woman!":貴様がこのイタリア女を通じて内通していたことはお見通しよ！」}`
-`{ruby:"Can't you see that you caused all this because you were blinded by gold?!":「あなたが黄金に目が眩んだから、この事態を招いたのではないのか？！」}`
+`{ruby:I know you've been working:貴様がこのイタリア女を通じて内通}{ruby:with them through this woman!":していたことはお見通しよ！」}`
+`{ruby:"Can't you see that you caused all:「あなたが黄金に目が眩んだから、この}{ruby:this because you were blinded by gold?!":事態を招いたのではないのか？！」}`
 `{ruby:"<Run, Kinzo!:『逃げて、金蔵！}`
-`{ruby:This man has shot people begging for their lives!:この男は命乞いしてる人も撃ったわ！}`
+`{ruby:This man has shot:この男は命乞いしてる}{ruby:people begging for their lives!:人も撃ったわ！}`
 `{ruby:He'll shoot you too!>":あなたも撃たれる！』}`
 `{ruby:"Don't talk, Italian!:「喋るな、イタリア女！}`
-`{ruby:If you open your mouth again, I won't hesitate to shoot.":もう一度、口を利いたら、容赦なく撃つぞッ」}`
+`{ruby:If you open your mouth:もう一度、口を利いたら、}{ruby:again, I won't hesitate to shoot.":容赦なく撃つぞッ」}`
 `{ruby:"<I‐......it hurts......ggaahhh...>":『い、……痛い、…ぐぐ、……ぐッ、』}`
-`{ruby:Yamamoto ground his heel into Beatrice's gut.:山本の踵が、容赦なくベアトリーチェの仰向けの腹を踏み躙る。}`
+`{ruby:Yamamoto ground his:山本の踵が、容赦なくベアトリーチ}{ruby:heel into Beatrice's gut.:ェの仰向けの腹を踏み躙る。}`
 `{ruby:"Stop it, stop it!!:「よせ、やめろ！！}`
 `{ruby:She has nothing to do with this!!":彼女は何の関係もない！！」}`
 `{ruby:"Oho?:「あぁん？}`
-`{ruby:Are you pointing a gun at a superior officer?:銃を上官に向けるとはどういうつもりか。}`
+`{ruby:Are you pointing a:銃を上官に向けるとはど}{ruby:gun at a superior officer?:ういうつもりか。}`
 `{ruby:......Stop and think a bit, fool.:……頭を冷やせ、愚か者め。}`
-`{ruby:If we agree to keep to the same story, we can have that pile of gold all to ourselves, right?:私とお前で口裏を合わせれば、あの黄金の山は私たちだけのものではないか。}`
-`{ruby:......I could only grab a few for myself, but if we work together, we can sneak off with even more.:……私一人では少々をくすねるくらいしか出来んが、お前と二人でなら、もっと多くの数をくすねることが出来る。}`
-`{ruby:......I don't mean this as your superior officer.:……上官面をするつもりはないぞ。}`
+`{ruby:If we agree to keep to the same story, we:私とお前で口裏を合わせれば、あの黄金の}{ruby:can have that pile of gold all to ourselves, right?:山は私たちだけのものではないか。}`
+`{ruby:......I could only grab a few for myself, but if:……私一人では少々をくすねるくらいしか出来んが、お前と}{ruby:we work together, we can sneak off with even more.:二人でなら、もっと多くの数をくすねることが出来る。}`
+`{ruby:......I don't mean this:……上官面をするつ}{ruby:as your superior officer.:もりはないぞ。}`
 `{ruby:Let's split it between us as men.":男同士、二人できっちり山分けしようじゃないか」}`
-`{ruby:"Haven't you already killed the last people you said you'd split the gold with?!":「五分五分に分けようと言って、あなたは彼らの寝首を掻こうとしたのではないのか？！」}`
+`{ruby:"Haven't you already killed the last people:「五分五分に分けようと言って、あなたは彼らの}{ruby:you said you'd split the gold with?!":寝首を掻こうとしたのではないのか？！」}`
 `{ruby:"Tch.:「ちっ。}`
 `{ruby:Ushiromiya,:右代宮、}`
-`{ruby:looks like you prefer lead to gold!!":どうやら貴様は、黄金より鉛の方がお好みらしいなぁ？！」}`
-`{ruby:Without any hesitation, Yamamoto raised the barrel of his gun towards Kinzo and pulled the trigger.:まったく何の躊躇もなく、山本はその銃口を上げて、金蔵目掛けて引き金を引いた。}`
+`{ruby:looks like you:どうやら貴様は、黄金より鉛の方}{ruby:prefer lead to gold!!":がお好みらしいなぁ？！」}`
+`{ruby:Without any hesitation, Yamamoto raised the barrel of:まったく何の躊躇もなく、山本はその銃口を}{ruby:his gun towards Kinzo and pulled the trigger.:上げて、金蔵目掛けて引き金を引いた。}`
 `{ruby:It grazed Kinzo's right ear.:それは金蔵の右耳をわずかにかすめる。}`
-`{ruby:If Yamamoto's aim had been just a bit better, the bullet would undoubtedly have slammed into Kinzo's face.:もうわずかに、山本の銃の腕が確かだったら、その銃弾は確実に金蔵の顔面に叩き込まれていた。}`
+`{ruby:If Yamamoto's aim had been just a bit better,:もうわずかに、山本の銃の腕が確かだったら、その}{ruby:the bullet would undoubtedly have slammed into Kinzo's face.:銃弾は確実に金蔵の顔面に叩き込まれていた。}`
 `{ruby:"<Kinzo?!:『金蔵ッ？！}`
 `{ruby:H‐how could you?!!>":よ、よくもッ！！』}`
 `{ruby:"You.....gyah?!?!":「貴様ッ、……ぬごッ？！？！」}`
-`{ruby:Not letting Yamamoto's momentary distraction go to waste, Beatrice lashed out and planted her right foot in Yamamoto's crotch.:山本の注意が逸れたのを見過ごさず、ベアトリーチェが暴れ、突き上げた右足で山本の股間を強打する。}`
-`{ruby:After moaning in pain, a demonic expression flashed across Yamamoto's face, and he stomped on her chest.:一瞬、呻いた山本は、鬼のような形相を浮かべて激しく彼女の胸を踏みつける。}`
+`{ruby:Not letting Yamamoto's momentary distraction go to waste, Beatrice:山本の注意が逸れたのを見過ごさず、ベアトリーチェが}{ruby:lashed out and planted her right foot in Yamamoto's crotch.:暴れ、突き上げた右足で山本の股間を強打する。}`
+`{ruby:After moaning in pain, a demonic expression flashed:一瞬、呻いた山本は、鬼のような形相を浮}{ruby:across Yamamoto's face, and he stomped on her chest.:かべて激しく彼女の胸を踏みつける。}`
 `{ruby:"<Bice!!>":『ビーチェ！！』}`
-`{ruby:"You biiiiitch!! Diii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}ie!!":「このクソアマがぁああぁあ！！　死ねぇええええええええぇええ！！」}`
-`{ruby:Beatrice shut her eyes tightly, hoping that she could withstand the coming pain.:ベアトリーチェはぎゅっと目を瞑り、それが耐えられる痛みであることを祈った。}`
-`{ruby:No one would want to have their eyes open at the moment they were shot......:誰だって、自分が撃たれる瞬間に、目を開けていたいとは思わない……。}`
+`{ruby:"You:「このクソアマがぁああぁあ！！　死ね}{ruby:biiiiitch!! Diii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}ie!!":ぇええええええええぇええ！！」}`
+`{ruby:Beatrice shut her eyes tightly, hoping:ベアトリーチェはぎゅっと目を瞑り、それが}{ruby:that she could withstand the coming pain.:耐えられる痛みであることを祈った。}`
+`{ruby:No one would want to have their:誰だって、自分が撃たれる瞬間に、目を}{ruby:eyes open at the moment they were shot......:開けていたいとは思わない……。}`
 `{ruby:"Gy‐:「ぎ、}`
 `{ruby:......y...:……貴}`
 `{ruby:you...:…様}`
@@ -589,254 +589,254 @@
 `{ruby:Thick...:ぼろ、}`
 `{ruby:...spurts of blood...:……ぼろぼろっと、}`
 `{ruby:...squirted out of Yamamoto's chest.:…山本の胸から、転がり出るように血の塊が溢れ出す。}`
-`{ruby:"Just as you took many lives for your own sake,:「あんたがあんたの都合で、大勢の命を奪ったように。}`
+`{ruby:"Just as you took many:「あんたがあんたの都合で、大}{ruby:lives for your own sake,:勢の命を奪ったように。}`
 `{ruby:......I take your life...:……私も、私の都合で、あんたの命を、}`
 `{ruby:...for mine.":……奪う」}`
-`{ruby:Was Yamamoto able to hear the last of Kinzo's words to him?:金蔵の言葉を、山本は聞き届けられただろうか。}`
-`{ruby:In his last moments, Yamamoto seemed to grin.:山本は、多分、最期にニヤリと笑った。}`
+`{ruby:Was Yamamoto able to hear the:金蔵の言葉を、山本は聞き}{ruby:last of Kinzo's words to him?:届けられただろうか。}`
+`{ruby:In his last moments,:山本は、多分、最期に}{ruby:Yamamoto seemed to grin.:ニヤリと笑った。}`
 `{ruby:Then, slowly, he fell over backwards,:そして、ゆっくりと、一筋の血を迸らせながら、}`
-`{ruby:......a river of blood trailing from his body.:……大きく後ろへ倒れて行った。}`
+`{ruby:......a river of blood:……大きく後ろへ倒}{ruby:trailing from his body.:れて行った。}`
 `{ruby:"<Kinzo!:『金蔵！}`
 `{ruby:Are you okay?!:無事なの？！}`
 `{ruby:I was sure you'd been shot...!:てっきりあなたが撃たれたと…！}`
 `{ruby:Uggh...ggh......>":う、ぐ、ぐ……』}`
-`{ruby:Beatrice tried to stand up, but then doubled over and started coughing.:そう言いながら立ち上がろうとした時、ベアトリーチェが胸を押さえて呻く。}`
+`{ruby:Beatrice tried to stand up, but:そう言いながら立ち上がろうとした時、ベ}{ruby:then doubled over and started coughing.:アトリーチェが胸を押さえて呻く。}`
 `{ruby:"<Bice!:『ビーチェ！}`
 `{ruby:Are you hurt...?!>":怪我をしたのか…？！』}`
 `{ruby:"<......My ribs are hurting.:『……あばらが痛むわ。}`
-`{ruby:That brute really was stomping them hard.>":その人でなしが、激しく踏んだものだから』}`
+`{ruby:That brute really:その人でなしが、激しく}{ruby:was stomping them hard.>":踏んだものだから』}`
 `{ruby:"<Will you be alright...?:『大丈夫か…。}`
 `{ruby:I hope they aren't broken......>":折れていなければいいんだが……』}`
-`{ruby:"<Italian women don't break so easily.:『これくらいで折れるほど、イタリア女はヤワじゃないの。}`
+`{ruby:"<Italian women don't:『これくらいで折れるほど、イタ}{ruby:break so easily.:リア女はヤワじゃないの。}`
 `{ruby:......But...thanks.:……でも、ありがとう。}`
 `{ruby:I owe you my life.:あなたは命の恩人だわ。}`
-`{ruby:If you hadn't come, it'd have all ended there.:あなたが来なければ、私はきっとそこに転がっていたわ。}`
+`{ruby:If you hadn't come,:あなたが来なければ、私はきっ}{ruby:it'd have all ended there.:とそこに転がっていたわ。}`
 `{ruby:......Ggh......>":……、ぐ………』}`
 `{ruby:Yamamoto had shown no mercy.:山本は、相当に容赦なく踏みつけたのだろう。}`
-`{ruby:......Her ribs were probably cracked.:……彼女のあばらに、ひびが入ったかもしれない。}`
-`{ruby:......We didn't have the option of waiting, possibly for several days, for the ship that was coming.:……あと何日かかるかわからない迎えを待っている余裕は、もはやなかった。}`
-`{ruby:I made the decision to ferry her off this island.:私は、彼女をこの島から運び出す決意をした。}`
-`{ruby:The man who kept yelling about preserving the secrecy of the base is lying there dead.:秘密基地だから外部との交流を禁ずる云々を叫ぶ当の本人は、もうそこで息絶えている。}`
-`{ruby:......The next island over, Niijima, is close.:……隣の新島は近い。}`
-`{ruby:A small boat should be able to take us there.:小船でも充分に辿り着けるはずだ。}`
+`{ruby:......Her ribs:……彼女のあばらに、ひびが}{ruby:were probably cracked.:入ったかもしれない。}`
+`{ruby:......We didn't have the option of waiting, possibly:……あと何日かかるかわからない迎えを待}{ruby:for several days, for the ship that was coming.:っている余裕は、もはやなかった。}`
+`{ruby:I made the decision to:私は、彼女をこの島から運}{ruby:ferry her off this island.:び出す決意をした。}`
+`{ruby:The man who kept yelling about preserving the:秘密基地だから外部との交流を禁ずる云々を叫}{ruby:secrecy of the base is lying there dead.:ぶ当の本人は、もうそこで息絶えている。}`
+`{ruby:......The next island:……隣の新島}{ruby:over, Niijima, is close.:は近い。}`
+`{ruby:A small boat should be:小船でも充分に辿り}{ruby:able to take us there.:着けるはずだ。}`
 `{ruby:"<I need to take you to a hospital.:『君を病院へ運ばなければならない。}`
-`{ruby:......The wound might be more serious than you realize.>":……君が思っているより、傷が深かったらいけない』}`
+`{ruby:......The wound might be:……君が思っているより、傷}{ruby:more serious than you realize.>":が深かったらいけない』}`
 `{ruby:"<......That's interesting.:『……知らなかった。}`
-`{ruby:Never knew there was a hospital on this island.>":この島には病院もあるのね』}`
+`{ruby:Never knew there was:この島には病院も}{ruby:a hospital on this island.>":あるのね』}`
 `{ruby:"<There isn't.:『ない。}`
-`{ruby:I'll use a boat to take you to the next island.:隣の島へ船で運ぶ。}`
+`{ruby:I'll use a boat to:隣の島へ船で}{ruby:take you to the next island.:運ぶ。}`
 `{ruby:......I'll take you to a hospital,:……君は病院へ。}`
-`{ruby:but I need to return here and clean up the mess on this island, ......or it'll mean a court‐martial.>":私は、この島での出来事をうまく片付けないと、……とばっちりで軍法会議ものだ』}`
+`{ruby:but I need to return here and clean up:私は、この島での出来事をうまく片付けない}{ruby:the mess on this island, ......or it'll mean a court‐martial.>":と、……とばっちりで軍法会議ものだ』}`
 `{ruby:"<I have a request.:『頼みがあるの。}`
-`{ruby:......Please, don't take me to a hospital.>":……私を病院へ、連れて行かないで』}`
+`{ruby:......Please, don't take:……私を病院へ、連れ}{ruby:me to a hospital.>":て行かないで』}`
 `{ruby:"<Why...?>":『どうして…』}`
-`{ruby:"<If we go to a hospital and the embassy is contacted, I'll eventually be sent back to Italy.:『病院へ行って、大使館に連絡が行けば、私はやがて本国へ送還されるわ。}`
-`{ruby:......If that happens, I'll be interrogated about all kinds of things.:……そしてきっと、あれこれと尋問を受けるんだわ。}`
-`{ruby:I won't acknowledge those people, who let Mama die.>":私は、ママを見殺しにしたヤツらを、自分の祖国とは認めないの』}`
+`{ruby:"<If we go to a hospital and the embassy:『病院へ行って、大使館に連絡が行けば}{ruby:is contacted, I'll eventually be sent back to Italy.:、私はやがて本国へ送還されるわ。}`
+`{ruby:......If that happens, I'll be:……そしてきっと、あれこれ}{ruby:interrogated about all kinds of things.:と尋問を受けるんだわ。}`
+`{ruby:I won't acknowledge those:私は、ママを見殺しにしたヤツらを}{ruby:people, who let Mama die.>":、自分の祖国とは認めないの』}`
 `{ruby:"<........................>":『……………………』}`
-`{ruby:"<There's no homeland for me to return to now.:『もう、私の帰るべき祖国はないの。}`
+`{ruby:"<There's no homeland for:『もう、私の帰るべき}{ruby:me to return to now.:祖国はないの。}`
 `{ruby:This is the end for me.:ここが私の終点。}`
-`{ruby:So, there's nowhere I want to go anymore.:だからもう、私はどこへも行きたくないの。}`
-`{ruby:......The people who were so kind to me—Ensign Angelo,:……私にやさしくしてくれたアンジェロ少尉も、}`
+`{ruby:So, there's nowhere I:だからもう、私はどこへ}{ruby:want to go anymore.:も行きたくないの。}`
+`{ruby:......The people who were:……私にやさしくしてくれ}{ruby:so kind to me—Ensign Angelo,:たアンジェロ少尉も、}`
 `{ruby:Rubens,:ルーベンスも、}`
 `{ruby:and everyone else,:みんなみんな、}`
 `{ruby:......they're all dead.>":……死んでしまった』}`
-`{ruby:"<And because of that, you want to die here too?:『だから、君までここで死ぬと？}`
-`{ruby:I thought you said Italian women weren't weak.:イタリア女はヤワじゃないんだろう？}`
+`{ruby:"<And because of that, you:『だから、君までこ}{ruby:want to die here too?:こで死ぬと？}`
+`{ruby:I thought you said:イタリア女はヤワじゃ}{ruby:Italian women weren't weak.:ないんだろう？}`
 `{ruby:Live.>":生きるんだ』}`
 `{ruby:"<Hey, Kinzo?:『ねぇ、金蔵。}`
 `{ruby:What does it mean...to live?:生きるってどういう意味？}`
-`{ruby:You're the one who taught me, aren't you?:あなたが教えてくれたはずよ。}`
+`{ruby:You're the one who:あなたが教えてくれ}{ruby:taught me, aren't you?:たはずよ。}`
 `{ruby:Living is more than just breathing.:生きるってのは、ただ息をすることじゃないわ。}`
-`{ruby:.........I don't want to go back to Italy.>":………私は、イタリアへ帰りたくないの』}`
+`{ruby:.........I don't want to:………私は、イタリアへ}{ruby:go back to Italy.>":帰りたくないの』}`
 `{ruby:"<......Bice.>":『……ビーチェ』}`
-`{ruby:"<You've said that you were dead before you met me.:『あなたは私と出会うまで、死んでいたと言ってくれたわ。}`
+`{ruby:"<You've said that you were:『あなたは私と出会うまで、死ん}{ruby:dead before you met me.:でいたと言ってくれたわ。}`
 `{ruby:But it's the same for me.:でも、それは私も同じなの。}`
 `{ruby:......I died in that submarine.:……潜水艦の中で、私は死んでいた。}`
 `{ruby:My homeland fell, Mama died.:祖国も滅び、ママも死んだ。}`
 `{ruby:Even Papa died.>":パパもね』}`
-`{ruby:"<......I prayed that our sub would just sink to the bottom of the ocean.:『……私は、こんな船、沈んでしまえと願ったわ。}`
-`{ruby:So, when we reached this place, I was actually disappointed that we'd survived.:だから、ここに辿り着いた時、実は死に損ねたとがっかりした。}`
+`{ruby:"<......I prayed that our sub would just:『……私は、こんな船、沈ん}{ruby:sink to the bottom of the ocean.:でしまえと願ったわ。}`
+`{ruby:So, when we reached this place,:だから、ここに辿り着いた時、実は}{ruby:I was actually disappointed that we'd survived.:死に損ねたとがっかりした。}`
 `{ruby:.........Then, right after that,:………その矢先よ。}`
-`{ruby:Ensign Angelo started asking whether anyone could speak English.>":少尉が、英語がわかる者はいるかと騒ぎ出したのは』}`
-`{ruby:When Kinzo met Beatrice, he finally forgot about dying.:金蔵は、ベアトリーチェと出会うことで初めて、死ぬことを忘れた。}`
-`{ruby:And when Beatrice met Kinzo, ......she also forgot about dying.:そしてベアトリーチェもまた、……金蔵と出会うことで、死ぬことを忘れられたのだ。}`
+`{ruby:Ensign Angelo started asking:少尉が、英語がわかる者はい}{ruby:whether anyone could speak English.>":るかと騒ぎ出したのは』}`
+`{ruby:When Kinzo met Beatrice,:金蔵は、ベアトリーチェと出会うこと}{ruby:he finally forgot about dying.:で初めて、死ぬことを忘れた。}`
+`{ruby:And when Beatrice met Kinzo,:そしてベアトリーチェもまた、……金蔵と出会}{ruby:......she also forgot about dying.:うことで、死ぬことを忘れられたのだ。}`
 `{ruby:"<I...:『私は。}`
-`{ruby:......Now that I've lost my homeland, my family, and my friends,:……祖国も家族も友人たちも失った私を、}`
-`{ruby:............I wish you would whisk me away.>":…………あなたにさらって欲しいと願うの』}`
+`{ruby:......Now that I've lost my:……祖国も家族も友人た}{ruby:homeland, my family, and my friends,:ちも失った私を、}`
+`{ruby:............I wish you:…………あなたにさらっ}{ruby:would whisk me away.>":て欲しいと願うの』}`
 `{ruby:"<.........Bice......>":『………ビーチェ……』}`
-`{ruby:"<But, ......I know that's a wish that couldn't come true.:『でも、……それは叶えられない望みだともわかってる。}`
+`{ruby:"<But, ......I know that's a:『でも、……それは叶えられな}{ruby:wish that couldn't come true.:い望みだともわかってる。}`
 `{ruby:......So, at the very least,:……ならばせめて。}`
-`{ruby:......I want to be with you until the boat comes for us.:……迎えの船が来るまでの数日間を、あなたと一緒にいたいの。}`
-`{ruby:I don't care about the pain in my chest.:胸の痛みなんて、気にしない。}`
-`{ruby:After all, when the boat comes and takes me away, ......I'll die.>":だって、迎えの船に連れ去られたら、……私はもう、死んでしまうのだから』}`
+`{ruby:......I want to be with you:……迎えの船が来るまでの数日間を}{ruby:until the boat comes for us.:、あなたと一緒にいたいの。}`
+`{ruby:I don't care about:胸の痛みなんて、}{ruby:the pain in my chest.:気にしない。}`
+`{ruby:After all, when the boat comes:だって、迎えの船に連れ去られたら、……}{ruby:and takes me away, ......I'll die.>":私はもう、死んでしまうのだから』}`
 `{ruby:Beatrice spoke this, smiling softly.:ベアトリーチェはそう言い、やわらかに微笑んだ。}`
-`{ruby:......She did her best to hide the pain in her chest.:……胸が痛むのを、懸命に隠しながら。}`
+`{ruby:......She did her best to:……胸が痛むのを、懸}{ruby:hide the pain in her chest.:命に隠しながら。}`
 `{ruby:"<Please, Kinzo.:『お願い、金蔵。}`
-`{ruby:......Just for the few days until the boat comes,:……迎えが来るまでの数日間でいいから。}`
+`{ruby:......Just for the few:……迎えが来るまでの数}{ruby:days until the boat comes,:日間でいいから。}`
 `{ruby:......steal me away.>":……私をさらって』}`
 `{ruby:"<.........That's a wish...:『………その願いは、}`
 `{ruby:...I cannot grant.>":……叶えられない』}`
-`{ruby:Looking apologetic, Kinzo lifted Beato up and gently sat her in the boat.:金蔵は残念そうにそう言いながら、ベアトを抱え上げ、やさしく船に寝せる。}`
+`{ruby:Looking apologetic, Kinzo lifted Beato up:金蔵は残念そうにそう言いながら、ベアト}{ruby:and gently sat her in the boat.:を抱え上げ、やさしく船に寝せる。}`
 `{ruby:"<......Coward.:『……意気地なし。}`
-`{ruby:......So, Japanese men are weak after all.>":……やっぱり日本の男は軟弱だわ』}`
+`{ruby:......So, Japanese men:……やっぱり日本の}{ruby:are weak after all.>":男は軟弱だわ』}`
 `{ruby:"<You're right.:『そうだな。}`
 `{ruby:......I am a coward.:……私は意気地なしだ。}`
-`{ruby:So, I can only grant you half of your wish.>":だから君の願いは、片方しか叶えられない』}`
-`{ruby:With a clunk, he placed the object wrapped in a jacket into the boat.:ゴトリと、重い音をさせて、上着に包んだそれを船に積む。}`
+`{ruby:So, I can only grant:だから君の願いは、片方}{ruby:you half of your wish.>":しか叶えられない』}`
+`{ruby:With a clunk, he placed the object:ゴトリと、重い音をさせて、上着}{ruby:wrapped in a jacket into the boat.:に包んだそれを船に積む。}`
 `{ruby:"<What do you mean......?>":『片方とは……？』}`
-`{ruby:"<The part about "until the boat comes for you".:『迎えが来るまでの数日間でいいから。}`
+`{ruby:"<The part about "until:『迎えが来るまでの数}{ruby:the boat comes for you".:日間でいいから。}`
 `{ruby:......I can't make that a reality.>":……の方は、叶えられないということさ』}`
 `{ruby:"<......Huh?:『………え？}`
 `{ruby:What do you mean?>":どういう意味？』}`
 `{ruby:"<Stealing you away.:『君をさらう。}`
-`{ruby:......That wish, I will make come true.>":……そっちを叶えることにした』}`
+`{ruby:......That wish, I:……そっちを叶える}{ruby:will make come true.>":ことにした』}`
 `{ruby:"<......K‐......Kinzo.........>":『……き、……金蔵………』}`
 `{ruby:There has to be a doctor on Niijima.:新島にだって、医者はあるだろう。}`
 `{ruby:I'm wearing a Navy uniform.:海軍の服を着てるんだ。}`
-`{ruby:I should be able to pass myself off as a survivor of a boat carrying a VIP that was sunk by enemy ships.:要人護送の船が、敵潜に沈められてボートで云々と、いくらでも誤魔化せる。}`
-`{ruby:If the doctor happens to be of the greedy sort, all the better.:その医者が欲深であったなら、さらに好都合だ。}`
-`{ruby:......After all, I have right here the golden magic to make people do what I say.:……ここには、相手を言い成りに出来る、黄金の魔法があるのだから。}`
-`{ruby:She came from a distant country, took my lifeless body, and gave me a soul.:死人同然だった私に、魂を与えてくれた、遥か異国よりの、……魔女。}`
-`{ruby:The witch......who came bearing gold......revived me with her magic.:黄金と共にやって来た彼女は、……その魔法で私を蘇らせてくれた。}`
+`{ruby:I should be able to pass myself off as a survivor:要人護送の船が、敵潜に沈められてボート}{ruby:of a boat carrying a VIP that was sunk by enemy ships.:で云々と、いくらでも誤魔化せる。}`
+`{ruby:If the doctor happens to be:その医者が欲深であったな}{ruby:of the greedy sort, all the better.:ら、さらに好都合だ。}`
+`{ruby:......After all, I have right here the golden:……ここには、相手を言い成りに出来}{ruby:magic to make people do what I say.:る、黄金の魔法があるのだから。}`
+`{ruby:She came from a distant country, took:死人同然だった私に、魂を与えてくれ}{ruby:my lifeless body, and gave me a soul.:た、遥か異国よりの、……魔女。}`
+`{ruby:The witch......who came bearing:黄金と共にやって来た彼女は、……そ}{ruby:gold......revived me with her magic.:の魔法で私を蘇らせてくれた。}`
 `{ruby:"<You...are a witch.:『君は、魔女だな。}`
 `{ruby:......The Golden Witch.>":……黄金の魔女だ』}`
 `{ruby:"<*giggle*.:『くす。}`
 `{ruby:Yes, the Golden Witch.:えぇ、黄金の魔女よ。}`
-`{ruby:Even though I use the same recipe as everyone else, only my alchemy can turn pasta into a smoking black heap.>":みんなと同じレシピで作ってるのに、私だけがパスタから消し炭を生み出す錬金術が使えるの』}`
-`{ruby:"<Haha, haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.>":『はは、はっははははははははははは』}`
-`{ruby:"<......Just like you, I'm nothing but a corpse that's only allowed to live while you're there beside me.:『……あなたと同じく私も、あなたが居てくれる限り、生きることを許される屍。}`
-`{ruby:......If you disappear, I'll die within moments.>":……あなたがいなくなったら、私はすぐにでも死んでしまう』}`
+`{ruby:Even though I use the same recipe as everyone else,:みんなと同じレシピで作ってるのに、私だけがパス}{ruby:only my alchemy can turn pasta into a smoking black heap.>":タから消し炭を生み出す錬金術が使えるの』}`
+`{ruby:"<Haha,:『はは、はっはははは}{ruby:haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.>":ははははははは』}`
+`{ruby:"<......Just like you, I'm nothing but a corpse that's:『……あなたと同じく私も、あなたが居てく}{ruby:only allowed to live while you're there beside me.:れる限り、生きることを許される屍。}`
+`{ruby:......If you disappear,:……あなたがいなくなったら、私}{ruby:I'll die within moments.>":はすぐにでも死んでしまう』}`
 `{ruby:"<I won't let you die.>":『死なせない』}`
 `{ruby:"<Really?>":『本当に？』}`
 `{ruby:"<No matter what.>":『絶対に』}`
 `{ruby:"<Take some responsibility.:『取ってね、責任。}`
-`{ruby:.........After all, you're the one......who's spirited me away.>":………だってあなたは、私をさらったんだから』}`
+`{ruby:.........After all, you're the:………だってあなたは、私}{ruby:one......who's spirited me away.>":をさらったんだから』}`
 `{ruby:"......I see.:「……そうですか。}`
 `{ruby:So, Kinzo‐san told you that much.":金蔵さんが、そこまで話しましたか」}`
 `{ruby:"Then, ......wait, it was you?!:「では、……まさか、あなたなのですか！}`
-`{ruby:You're the Niijima doctor that Grandfather took Beatrice to...?":お祖父さまがベアトリーチェを連れて行った、新島の医者というのは…」}`
+`{ruby:You're the Niijima doctor:お祖父さまがベアトリーチェを連れて行}{ruby:that Grandfather took Beatrice to...?":った、新島の医者というのは…」}`
 `{ruby:"Why so shocked?:「驚くに値しねェ。}`
-`{ruby:He should've leapt to mind at the moment the words "Niijima doctor" showed up.":新島の医者って時点でピンと来る」}`
-`{ruby:"All of a sudden, a soldier of the Navy appeared along with a foreign woman.:「突然、海軍の兵隊さんが、外国人の女性を連れて現れたのです。}`
+`{ruby:He should've leapt to mind at the:新島の医者って時点}{ruby:moment the words "Niijima doctor" showed up.":でピンと来る」}`
+`{ruby:"All of a sudden, a soldier of:「突然、海軍の兵隊さんが、外国人}{ruby:the Navy appeared along with a foreign woman.:の女性を連れて現れたのです。}`
 `{ruby:Of course, I was astounded.:驚きましたとも。}`
-`{ruby:......What's more, he told me to treat her wounds confidentially, since their presence was a military secret.":……しかもその上、軍機なので、秘密で治療しろというのです」}`
-`{ruby:"Was that the first time you met Grandfather...?":「それが、お祖父さまとの初対面だったのですか…？」}`
+`{ruby:......What's more, he told me to treat her:……しかもその上、軍機なので、秘}{ruby:wounds confidentially, since their presence was a military secret.":密で治療しろというのです」}`
+`{ruby:"Was that the first:「それが、お祖父さまとの初対}{ruby:time you met Grandfather...?":面だったのですか…？」}`
 `{ruby:"......Yes.:「……そうです。}`
 `{ruby:That was when we first met.":それが、金蔵さんと初めての対面でした」}`
-`{ruby:"So, you're the greedy doctor who followed orders for the sake of the gold?":「黄金で言い成りになった、欲深な医者ってのも、お前のことなのか」}`
+`{ruby:"So, you're the greedy doctor who followed:「黄金で言い成りになった、欲深な医}{ruby:orders for the sake of the gold?":者ってのも、お前のことなのか」}`
 `{ruby:"That's a bit harsh......:「これは、手厳しいですな……。}`
-`{ruby:He suddenly brought in a foreign woman patient, told me it was a military secret,:突然、外国人の女性患者を連れ込み、軍機だから秘密にせよと言い、}`
-`{ruby:promised that he'd pay the medical fees later, and handed me a gold ingot as collateral.:治療代は必ず持って来るから担保にと言って、黄金のインゴットを差し出す相手ですぞ。}`
-`{ruby:I didn't want to get involved with any funny business.:厄介事はごめんでした。}`
+`{ruby:He suddenly brought in a foreign woman:突然、外国人の女性患者を連れ込み、}{ruby:patient, told me it was a military secret,:軍機だから秘密にせよと言い、}`
+`{ruby:promised that he'd pay the medical fees later,:治療代は必ず持って来るから担保にと言って、}{ruby:and handed me a gold ingot as collateral.:黄金のインゴットを差し出す相手ですぞ。}`
+`{ruby:I didn't want to get:厄介事はごめん}{ruby:involved with any funny business.:でした。}`
 `{ruby:I was reluctant to say the least.":渋々とですとも」}`
 `{ruby:"I see your point.:「確かに、それもそうですね。}`
-`{ruby:......But in the end, you did conceal Beatrice, didn't you?":……でも、南條先生はベアトリーチェを匿ってくれたんですね」}`
-`{ruby:"I may not be as skilled as Kinzo‐san, but I do have some familiarity with English.:「金蔵さんほどではありませんが、私にも英語の心得がありました。}`
-`{ruby:I managed to overhear part of their conversation, and that was enough to convince me that they were not troublesome people.":二人の会話を漏れ聞き、二人が決して厄介な何者かでないと確信したからです」}`
+`{ruby:......But in the end, you:……でも、南條先生はベアトリーチ}{ruby:did conceal Beatrice, didn't you?":ェを匿ってくれたんですね」}`
+`{ruby:"I may not be as skilled as Kinzo‐san,:「金蔵さんほどではありませんが、私}{ruby:but I do have some familiarity with English.:にも英語の心得がありました。}`
+`{ruby:I managed to overhear part of their conversation, and that:二人の会話を漏れ聞き、二人が決して厄介}{ruby:was enough to convince me that they were not troublesome people.":な何者かでないと確信したからです」}`
 `{ruby:"*cough*...:「コホン。}`
-`{ruby:......Of course, if I were to say that the ingot didn't tempt me, that would be a lie.:……もちろん、インゴットに目が眩まなかったと言えば、嘘が過ぎますがな。}`
+`{ruby:......Of course, if I were to say that the:……もちろん、インゴットに目が眩まなか}{ruby:ingot didn't tempt me, that would be a lie.:ったと言えば、嘘が過ぎますがな。}`
 `{ruby:I was much younger then, you see.":私も、今よりは若かったものですから」}`
 `{ruby:"What happened to her next?":「その後、彼女は？」}`
-`{ruby:"I treated her for some time before someone came to me on behalf of the Ushiromiya family and said that she would be moved to Odawara.:「しばらくの療養の後、右代宮家の使いの方が来て、小田原に移すと仰いましてな。}`
+`{ruby:"I treated her for some time before someone came to me on behalf:「しばらくの療養の後、右代宮家の使いの方}{ruby:of the Ushiromiya family and said that she would be moved to Odawara.:が来て、小田原に移すと仰いましてな。}`
 `{ruby:They took her away.":引き取られていきました」}`
-`{ruby:"So Grandfather didn't come to get her himself?":「お祖父さまが自分で迎えに行ったわけではないのですか」}`
-`{ruby:"Regardless of how Kinzo explained away the incident on Rokkenjima,:「金蔵がどう六軒島の事件を言い訳したにせよ。}`
-`{ruby:he probably wouldn't have been able to move about freely for some time afterwards.":しばらくの間は自由には動けなかっただろうよ」}`
+`{ruby:"So Grandfather didn't come:「お祖父さまが自分で迎えに行っ}{ruby:to get her himself?":たわけではないのですか」}`
+`{ruby:"Regardless of how Kinzo explained:「金蔵がどう六軒島の事件}{ruby:away the incident on Rokkenjima,:を言い訳したにせよ。}`
+`{ruby:he probably wouldn't have been able to:しばらくの間は自由には動}{ruby:move about freely for some time afterwards.":けなかっただろうよ」}`
 `{ruby:"Precisely.:「ですな。}`
-`{ruby:Kinzo‐san has said that deceiving the military was the greatest challenge of his life.":軍を誤魔化すのが、金蔵さんの人生で、一番の大勝負だったと言っておりましたな」}`
-`{ruby:"So, Beatrice went to Odawara, and then what...?":「ベアトリーチェは小田原に行って、それから…？」}`
-`{ruby:"I have heard that she hid in one of their unused villas.:「使われていない別荘の一つに匿ったと聞いています。}`
-`{ruby:......After all, Kinzo‐san already had a family at that time.:……当時の金蔵さんにはもう、家族がおられましたからな。}`
+`{ruby:Kinzo‐san has said that deceiving the military:軍を誤魔化すのが、金蔵さんの人生で、一番}{ruby:was the greatest challenge of his life.":の大勝負だったと言っておりましたな」}`
+`{ruby:"So, Beatrice went to:「ベアトリーチェは小田原に}{ruby:Odawara, and then what...?":行って、それから…？」}`
+`{ruby:"I have heard that she hid:「使われていない別荘の一つに}{ruby:in one of their unused villas.:匿ったと聞いています。}`
+`{ruby:......After all, Kinzo‐san already had:……当時の金蔵さんにはもう、家}{ruby:a family at that time.:族がおられましたからな。}`
 `{ruby:It must have been tricky to manage.":そこは、うまくやられたのでしょうなぁ」}`
-`{ruby:"So, Kinzo was a master of the double life before Kuwadorian even existed.:「九羽鳥庵以前から、二重生活はお手の物だったというわけだ。}`
+`{ruby:"So, Kinzo was a master of:「九羽鳥庵以前から、二重生活はお}{ruby:the double life before Kuwadorian even existed.:手の物だったというわけだ。}`
 `{ruby:.........Whoosh.":………サッ」}`
 `{ruby:"What are you doing...?:「何してるんですか…？}`
 `{ruby:Is your butt itching?":おしりにおできでも？」}`
 `{ruby:"......Tch.":「……ちっ」}`
 `{ruby:"And later on?:「それから？}`
-`{ruby:Beatrice and Grandfather continued their happy relationship in the villa from then on...?":ベアトリーチェはお祖父様の保護で、別荘でいつまでも…？」}`
-`{ruby:"I have heard that it was a modest, peaceful life.:「平穏に、慎ましやかに暮らしたと聞きます。}`
-`{ruby:......Several years later, they had a child.":……それから数年の後に、彼女に子供が生まれましてな。」}`
-`{ruby:"And so Kuwadorian's Beatrice was born.":「……九羽鳥庵のベアトリーチェの誕生、か。」}`
+`{ruby:Beatrice and Grandfather continued their happy:ベアトリーチェはお祖父様の保護で}{ruby:relationship in the villa from then on...?":、別荘でいつまでも…？」}`
+`{ruby:"I have heard that it:「平穏に、慎ましやかに暮}{ruby:was a modest, peaceful life.:らしたと聞きます。}`
+`{ruby:......Several years later,:……それから数年の後に、彼女に}{ruby:they had a child.":子供が生まれましてな。」}`
+`{ruby:"And so Kuwadorian's:「……九羽鳥庵のベアトリ}{ruby:Beatrice was born.":ーチェの誕生、か。」}`
 `{ruby:"The birth...didn't go well......:「出産が、うまく行かなかったそうで……。}`
 `{ruby:Truly a sad tale.":お気の毒なことです」}`
 `{ruby:"You don't mean...she died?!":「まさか、……亡くなったんですか？！」}`
 `{ruby:"Don't be surprised.:「驚くな。}`
-`{ruby:Kinzo believed his daughter was Beatrice reborn.:金蔵は娘を、生まれ変わりと信じたんだぞ。}`
-`{ruby:...Don't ignore the heart. It's possible to reason it out.":……心を、蔑ろにするんじゃねェ。推理は可能だ」}`
+`{ruby:Kinzo believed his:金蔵は娘を、生まれ変わ}{ruby:daughter was Beatrice reborn.:りと信じたんだぞ。}`
+`{ruby:...Don't ignore the heart. It's:……心を、蔑ろにするんじゃ}{ruby:possible to reason it out.":ねェ。推理は可能だ」}`
 `{ruby:"Y‐......you're right.:「そ、……そうですね。}`
 `{ruby:......My apologies.":……失礼」}`
-`{ruby:"I don't know how many years Kinzo‐san spent with her in Odawara.:「私は、金蔵さんが彼女と過ごされた小田原の数年間を知りません。}`
-`{ruby:.........However, judging by Kinzo‐san as we know him afterwards...:………しかし、その後の、今日までの金蔵さんを見れば、}`
-`{ruby:Even if it was only a few years, one can tell how deeply he loved her.":ほんの数年間であっても、彼が如何に彼女を深く愛したか、うかがい知ることが出来るでしょう」}`
+`{ruby:"I don't know how many years:「私は、金蔵さんが彼女と過ごされた}{ruby:Kinzo‐san spent with her in Odawara.:小田原の数年間を知りません。}`
+`{ruby:.........However, judging by Kinzo‐san:………しかし、その後の、今日}{ruby:as we know him afterwards...:までの金蔵さんを見れば、}`
+`{ruby:Even if it was only a few years,:ほんの数年間であっても、彼が如何に彼女を深く愛}{ruby:one can tell how deeply he loved her.":したか、うかがい知ることが出来るでしょう」}`
 `{ruby:"...........................:「………………………。}`
 `{ruby:......I see.":……そうですね」}`
-`{ruby:"So then, he made Kuwadorian for his daughter......":「そして、娘のために九羽鳥庵を作ったというわけか……」}`
-`{ruby:"Kinzo‐san cleverly made use of the submarine's gold to build up a fortune in a flash.:「金蔵さんは、潜水艦の黄金を元手に巧みに立ち回り、たちまちのうちに財産を築き上げていきました。}`
-`{ruby:Then, he made use of his considerable skills in English to make connections with the GHQ, becoming immensely wealthy in a short span of time.:また、持ち前の英語力を生かし、ＧＨＱに強いコネクションを作って、見る見るうちに大富豪となられたのです。}`
-`{ruby:I'm sure there's no need to explain this part to you, Lion‐san.":この辺は、理御さんに説明する必要はありますまい」}`
+`{ruby:"So then, he made:「そして、娘のために九羽鳥庵を}{ruby:Kuwadorian for his daughter......":作ったというわけか……」}`
+`{ruby:"Kinzo‐san cleverly made use of the submarine's gold:「金蔵さんは、潜水艦の黄金を元手に巧みに立ち回り、}{ruby:to build up a fortune in a flash.:たちまちのうちに財産を築き上げていきました。}`
+`{ruby:Then, he made use of his considerable skills in English to make:また、持ち前の英語力を生かし、ＧＨＱに強いコネクション}{ruby:connections with the GHQ, becoming immensely wealthy in a short span of time.:を作って、見る見るうちに大富豪となられたのです。}`
+`{ruby:I'm sure there's no need to:この辺は、理御さんに説明す}{ruby:explain this part to you, Lion‐san.":る必要はありますまい」}`
 `{ruby:"......Yes.:「……えぇ。}`
-`{ruby:He used that vast wealth, ......bought Rokkenjima, and built the mansion.:その莫大な財産で、……六軒島を買い取り、屋敷を建てます。}`
-`{ruby:The remaining relatives in Odawara scoffed at Grandfather, thinking he was crazy to buy an entire deserted island.":小田原の親族たちは、無人島を丸ごと買い取ったお祖父さまを、酔狂だと笑ったそうです」}`
-`{ruby:"If you could carry ten tons of gold around in your pocket, Kinzo probably wouldn't have bought Rokkenjima.":「１０ｔの黄金がポケットに収まる大きさだったなら、金蔵も島を買わなかったろうよ」}`
-`{ruby:He hid the gold somewhere in Rokkenjima,:六軒島の何処かに黄金を隠し、}`
-`{ruby:built up a fortune with the ingots he'd taken out of it, ......and then bought up the whole treasure island...:持ち出したインゴットで財を築いて、……宝島を丸ごと買い取ったわけだ…。}`
+`{ruby:He used that vast wealth,:その莫大な財産で、……六軒島を}{ruby:......bought Rokkenjima, and built the mansion.:買い取り、屋敷を建てます。}`
+`{ruby:The remaining relatives in Odawara scoffed at Grandfather, thinking:小田原の親族たちは、無人島を丸ごと買い取った}{ruby:he was crazy to buy an entire deserted island.":お祖父さまを、酔狂だと笑ったそうです」}`
+`{ruby:"If you could carry ten tons of gold around:「１０ｔの黄金がポケットに収まる大きさだっ}{ruby:in your pocket, Kinzo probably wouldn't have bought Rokkenjima.":たなら、金蔵も島を買わなかったろうよ」}`
+`{ruby:He hid the:六軒島の何処かに}{ruby:gold somewhere in Rokkenjima,:黄金を隠し、}`
+`{ruby:built up a fortune with the ingots he'd taken out:持ち出したインゴットで財を築いて、……}{ruby:of it, ......and then bought up the whole treasure island...:宝島を丸ごと買い取ったわけだ…。}`
 `{ruby:"Exactly.:「ですな。}`
-`{ruby:.........And that started the legend of the Ushiromiya gold.":………そして、右代宮家の黄金伝説が始まるのです」}`
-`{ruby:"......What about the mark of the One‐winged Eagle that was supposedly pressed into the ingots?":「……インゴットには、片翼の鷲が刻印されていたと聞くが？」}`
-`{ruby:"It was less a one‐winged eagle......than an eagle that appeared to have only one wing.":「片翼の鷲、……というよりは、片翼に見えてしまう鷲、というべきでしょうな」}`
+`{ruby:.........And that started the:………そして、右代宮家の黄}{ruby:legend of the Ushiromiya gold.":金伝説が始まるのです」}`
+`{ruby:"......What about the mark of the One‐winged:「……インゴットには、片翼の鷲が}{ruby:Eagle that was supposedly pressed into the ingots?":刻印されていたと聞くが？」}`
+`{ruby:"It was less a one‐winged eagle......than an:「片翼の鷲、……というよりは、片翼に見え}{ruby:eagle that appeared to have only one wing.":てしまう鷲、というべきでしょうな」}`
 `{ruby:"What do you mean?":「それはどういう意味ですか？」}`
-`{ruby:"You see it often in Europe, do you not?:「ヨーロッパに多いでしょう。}`
-`{ruby:A crest or coat of arms with an eagle spreading its wings on it.:翼を広げた鷲を紋章にしたものは。}`
-`{ruby:......The flag of the Salò Republic also had an eagle—or was it a hawk?—:……サロ共和国の国旗にも、鷲が、……いやいや、鷹でしたかな？、}`
+`{ruby:"You see it often:「ヨーロッパに多}{ruby:in Europe, do you not?:いでしょう。}`
+`{ruby:A crest or coat of arms with:翼を広げた鷲を紋章}{ruby:an eagle spreading its wings on it.:にしたものは。}`
+`{ruby:......The flag of the Salò Republic also:……サロ共和国の国旗にも、鷲が、…}{ruby:had an eagle—or was it a hawk?—:…いやいや、鷹でしたかな？、}`
 `{ruby:emblazoned on it.":が刻まれています」}`
-`{ruby:"So, the imprint was made too lightly......or else it was poorly done.":「刻印が薄かった、……あるいは粗雑だったということか」}`
+`{ruby:"So, the imprint was made too:「刻印が薄かった、……あるいは}{ruby:lightly......or else it was poorly done.":粗雑だったということか」}`
 `{ruby:"Correct.:「そうです。}`
-`{ruby:.........It was a hasty, wartime stamping.:………戦時下の粗雑な刻印でした。}`
-`{ruby:It was probably supposed to look like the crest of an eagle spreading its wings.:本来は翼を広げた鷲の紋章が刻印されるべきだったのでしょう。}`
-`{ruby:But half of it, cut off at a diagonal, was too faded to see.":それが、ちょうど斜めに断ち切ったように半分、薄れて消えていたのです」}`
-`{ruby:"So half of the eagle spreading its wings disappeared, ......making it look like a One‐winged Eagle?":「翼を広げた鷲が半分消えて、……それが、片翼の鷲に見えた？」}`
-`{ruby:"Kinzo thought the seal on the gold of Beatrice, the woman who had changed his fate, looked like a one‐winged eagle.:「金蔵は、自分の運命を大きく変えたベアトリーチェの黄金に片翼の鷲を見て。}`
-`{ruby:That must be why he decided to make that his own crest.":それを自分の紋章とすることを決めたに違いあるまい」}`
-`{ruby:"......If the imprint had been made correctly, it would have been the eagle of the Salò Republic's flag,:「……果たして正しく刻印されていたなら、それは共和国旗の鷹だったのか、}`
-`{ruby:......or could it have been the two‐headed......":……それともまさか、双頭の……」}`
-`{ruby:"......No, no, that would be ridiculous.:「……いやいや、そんなまさか。}`
-`{ruby:At any rate, passing the night away with Kinzo‐san in front of that massive pile of gold, drinking and dreaming, was truly an enjoyable experience.":あの莫大な黄金の山の前で、金蔵さんと杯を傾け合いながら、黄金ロマンで夜を明かすのは、なかなかに楽しいことでした」}`
-`{ruby:"However, Kinzo‐san didn't want anyone using that stamp to figure out where the gold had come from.:「もっとも、金蔵さんはその刻印から、黄金の出所を探られることを嫌いましてな。}`
-`{ruby:The gold he took outside was all re‐pressed with the One‐winged Eagle design he had created.":外部に持ち出す黄金には、わざわざ自分の片翼の鷲をデザインした、別の刻印を打ち直していたようですが」}`
-`{ruby:"And all he did was show you the gold?:「お前には見せるだけだったのか？}`
+`{ruby:.........It was a:………戦時下の粗雑}{ruby:hasty, wartime stamping.:な刻印でした。}`
+`{ruby:It was probably supposed to look like:本来は翼を広げた鷲の紋章が刻印さ}{ruby:the crest of an eagle spreading its wings.:れるべきだったのでしょう。}`
+`{ruby:But half of it, cut off at:それが、ちょうど斜めに断ち切ったよう}{ruby:a diagonal, was too faded to see.":に半分、薄れて消えていたのです」}`
+`{ruby:"So half of the eagle spreading its wings:「翼を広げた鷲が半分消えて、……}{ruby:disappeared, ......making it look like a One‐winged Eagle?":それが、片翼の鷲に見えた？」}`
+`{ruby:"Kinzo thought the seal on the gold of Beatrice, the:「金蔵は、自分の運命を大きく変えたベア}{ruby:woman who had changed his fate, looked like a one‐winged eagle.:トリーチェの黄金に片翼の鷲を見て。}`
+`{ruby:That must be why he decided:それを自分の紋章とすることを}{ruby:to make that his own crest.":決めたに違いあるまい」}`
+`{ruby:"......If the imprint had been made correctly, it would:「……果たして正しく刻印されていたなら}{ruby:have been the eagle of the Salò Republic's flag,:、それは共和国旗の鷹だったのか、}`
+`{ruby:......or could it:……それともまさか}{ruby:have been the two‐headed......":、双頭の……」}`
+`{ruby:"......No, no, that:「……いやいや、そ}{ruby:would be ridiculous.:んなまさか。}`
+`{ruby:At any rate, passing the night away with Kinzo‐san in front of:あの莫大な黄金の山の前で、金蔵さんと杯を傾け合いながら、黄}{ruby:that massive pile of gold, drinking and dreaming, was truly an enjoyable experience.":金ロマンで夜を明かすのは、なかなかに楽しいことでした」}`
+`{ruby:"However, Kinzo‐san didn't want anyone using that stamp:「もっとも、金蔵さんはその刻印から、黄金}{ruby:to figure out where the gold had come from.:の出所を探られることを嫌いましてな。}`
+`{ruby:The gold he took outside was all re‐pressed:外部に持ち出す黄金には、わざわざ自分の片翼の鷲をデザ}{ruby:with the One‐winged Eagle design he had created.":インした、別の刻印を打ち直していたようですが」}`
+`{ruby:"And all he did:「お前には見せるだ}{ruby:was show you the gold?:けだったのか？}`
 `{ruby:What a cheapskate.":金蔵もケチだな」}`
-`{ruby:"Of course, after he became immensely rich, Kinzo‐san came to me once more and paid me in full for the overdue medical expenses.:「無論、大富豪になった後、金蔵さんは再び私の元へ訪れ、未払いだった治療費をしっかり払ってくれましたとも。}`
-`{ruby:The amount he came with was a bit much for medical fees.:治療費には、ちと多過ぎましたのでな。}`
-`{ruby:Though I did make sure to give him his change.":ちゃんとお釣りを払いましたが」}`
-`{ruby:"And you've been friends ever since......?":「それ以来、お祖父さまと交流を……？」}`
+`{ruby:"Of course, after he became immensely rich, Kinzo‐san came to me:「無論、大富豪になった後、金蔵さんは再び私の元へ訪れ、}{ruby:once more and paid me in full for the overdue medical expenses.:未払いだった治療費をしっかり払ってくれましたとも。}`
+`{ruby:The amount he came with was:治療費には、ちと多過}{ruby:a bit much for medical fees.:ぎましたのでな。}`
+`{ruby:Though I did make sure:ちゃんとお釣りを払}{ruby:to give him his change.":いましたが」}`
+`{ruby:"And you've been:「それ以来、お祖父さま}{ruby:friends ever since......?":と交流を……？」}`
 `{ruby:"Yes.:「そうです。}`
-`{ruby:Kinzo‐san was extremely grateful to me for keeping his secret and concealing Beatrice.":金蔵さんは、私が秘密を守ってベアトリーチェを匿ったことを、殊のほか深く感謝してくれましてな」}`
-`{ruby:"......Grandfather always says that the old relatives in Odawara were a bunch of greedy liars.:「……お祖父さまは、かつての小田原の親族たちは欲深の嘘吐きばかりだと仰っていました。}`
-`{ruby:......I'm sure he appreciated your strong sense of duty, Doctor Nanjo.:……南條先生の義理堅さが、嬉しかったに違いありません。}`
-`{ruby:I think I understand why a person like Grandfather came to trust you.":お祖父さまのような方が、どうしてあなたにだけは心を開いたのか、わかる気がします」}`
-`{ruby:"I also had some interest in foreign countries, as well as a hobby of playing chess.:「私にも多少の異国趣味と、チェスの趣味がありましてな。}`
-`{ruby:Kinzo‐san and I have gotten along well ever since.:金蔵さんとは以来、意気を投合しまして。}`
-`{ruby:It was a friendship that built up gradually, but grew strong before we knew it.:こうして細々と、しかし気付けばずいぶんと。}`
-`{ruby:Yes, we have been friends a very long time......":長くお付き合いをさせてもらっています……」}`
-`{ruby:"People who deal with large amounts of money are quite mindful of small amounts as well.:「大きなカネを扱うヤツほど、小さなカネにもきっちりしてる。}`
-`{ruby:......When you refused to accept anything more than the medical fees, that must have earned you his admiration.":……治療費以上をもらおうとしなかったあんたの律儀さに、惹かれるところもあったんだろうよ」}`
+`{ruby:Kinzo‐san was extremely grateful to me:金蔵さんは、私が秘密を守ってベアトリーチェを匿っ}{ruby:for keeping his secret and concealing Beatrice.":たことを、殊のほか深く感謝してくれましてな」}`
+`{ruby:"......Grandfather always says that the old relatives:「……お祖父さまは、かつての小田原の親族たち}{ruby:in Odawara were a bunch of greedy liars.:は欲深の嘘吐きばかりだと仰っていました。}`
+`{ruby:......I'm sure he appreciated your:……南條先生の義理堅さが、嬉し}{ruby:strong sense of duty, Doctor Nanjo.:かったに違いありません。}`
+`{ruby:I think I understand why a:お祖父さまのような方が、どうしてあなたにだ}{ruby:person like Grandfather came to trust you.":けは心を開いたのか、わかる気がします」}`
+`{ruby:"I also had some interest in foreign countries,:「私にも多少の異国趣味と、チェ}{ruby:as well as a hobby of playing chess.:スの趣味がありましてな。}`
+`{ruby:Kinzo‐san and I have:金蔵さんとは以来、意気}{ruby:gotten along well ever since.:を投合しまして。}`
+`{ruby:It was a friendship that built up:こうして細々と、しかし気}{ruby:gradually, but grew strong before we knew it.:付けばずいぶんと。}`
+`{ruby:Yes, we have been:長くお付き合いをさせても}{ruby:friends a very long time......":らっています……」}`
+`{ruby:"People who deal with large amounts of money:「大きなカネを扱うヤツほど、小さ}{ruby:are quite mindful of small amounts as well.:なカネにもきっちりしてる。}`
+`{ruby:......When you refused to accept anything more than the:……治療費以上をもらおうとしなかったあんたの律}{ruby:medical fees, that must have earned you his admiration.":儀さに、惹かれるところもあったんだろうよ」}`
 `{ruby:"You think too highly of me.:「とんでもない。}`
-`{ruby:No, I was just frightened by the large quantity of money.:大きなお金に怯えてしまっただけです。}`
-`{ruby:I began to regret it later, ......wahahahaha.:後になってから後悔しましたとも、……わっはっはっは。}`
+`{ruby:No, I was just frightened:大きなお金に怯えてし}{ruby:by the large quantity of money.:まっただけです。}`
+`{ruby:I began to:後になってから後悔しましたと}{ruby:regret it later, ......wahahahaha.:も、……わっはっはっは。}`
 `{ruby:It seems I've never had real guts.":どうにも昔から、肝が小さいものでしてな」}`
 `{ruby:"No need to worry there.:「そんなことはねェ。}`
-`{ruby:Guts are one thing you've got no shortage of.":肝は、充分に太ぇさ」}`
+`{ruby:Guts are one thing:肝は、充分に}{ruby:you've got no shortage of.":太ぇさ」}`
 `{ruby:"You think so?:「そうでしょうか。}`
 `{ruby:Well, I appreciate the flattery.":お世辞でも嬉しいですな」}`
 `{ruby:"That wasn't flattery.":「世辞じゃねェ」}`
 `{ruby:".........?":「………？」}`
-`{ruby:......After Kinzo dies, Nanjo is complicit in keeping his death a secret for at least a whole year.:……金蔵の死後、少なくとも１年以上にもわたって、その死を隠す片棒を担ぐのだ。}`
-`{ruby:Of course, Natsuhi must have given him a fairly hefty sum of hush money.:もちろん夏妃から少なくない口止め料をもらってはいただろう。}`
-`{ruby:All the same, he's at least gutsy enough to withstand the pressure from Kinzo's children for that amount of time without slipping up once......:だが、カネの亡者の息子兄弟たちに迫られても、最後までボロを出さない程度の肝っ玉が、確かにあるのは間違いない……。}`
+`{ruby:......After Kinzo dies, Nanjo is complicit in keeping his:……金蔵の死後、少なくとも１年以上にもわ}{ruby:death a secret for at least a whole year.:たって、その死を隠す片棒を担ぐのだ。}`
+`{ruby:Of course, Natsuhi must have given him:もちろん夏妃から少なくない口止め}{ruby:a fairly hefty sum of hush money.:料をもらってはいただろう。}`
+`{ruby:All the same, he's at least gutsy enough to withstand the pressure:だが、カネの亡者の息子兄弟たちに迫られても、最後までボロを}{ruby:from Kinzo's children for that amount of time without slipping up once......:出さない程度の肝っ玉が、確かにあるのは間違いない……。}`
 `{ruby:"You're plenty gutsy, if you ask me.:「大した肝っ玉じゃねぇか。}`
-`{ruby:That sense of duty must be part of your character.":義理堅いのが、お前の性分なんだろうよ」}`
+`{ruby:That sense of duty must:義理堅いのが、お前の性}{ruby:be part of your character.":分なんだろうよ」}`
 `{ruby:"......Hahahah.:「……はっはっは。}`
-`{ruby:Perhaps that is my only redeeming quality...":それしか取り得がないものでして…」}`
-`{ruby:"I think Grandfather was blessed with a good friend.":「お祖父さまは、良い友人に恵まれたと思います」}`
+`{ruby:Perhaps that is:それしか取り得がない}{ruby:my only redeeming quality...":ものでして…」}`
+`{ruby:"I think Grandfather was:「お祖父さまは、良い友人}{ruby:blessed with a good friend.":に恵まれたと思います」}`

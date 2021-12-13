@@ -1,415 +1,415 @@
 `{ruby:Rosa returned to the lobby.:ロビーに楼座が戻ってくる。}`
 `{ruby:It was still her time to rest,:彼女はまだ休んでいい事になっていたが、}`
-`{ruby:but her expression made it look as though she couldn't sleep deeply with all this tension.:その表情の雰囲気から、緊張して熟睡できないという風に見えた。}`
-`{ruby:"......You have to force yourself to lie down.:「……無理してでも横になってろよ。}`
-`{ruby:It'll get tough for you later on at this rate.":後で堪えるぜ？」}`
+`{ruby:but her expression made it look as though:その表情の雰囲気から、緊張して熟}{ruby:she couldn't sleep deeply with all this tension.:睡できないという風に見えた。}`
+`{ruby:"......You have to force:「……無理してでも横}{ruby:yourself to lie down.:になってろよ。}`
+`{ruby:It'll get tough for you:後で堪える}{ruby:later on at this rate.":ぜ？」}`
 `{ruby:"Thanks for caring.:「ありがとう。}`
 `{ruby:I just can't sleep.:どうしても寝付けなくて。}`
-`{ruby:......I went and took a shower at least, so that will be enough.:……シャワーだけ浴びさせてもらったから、私はもう充分よ。}`
+`{ruby:......I went and took a shower:……シャワーだけ浴びさせてもら}{ruby:at least, so that will be enough.:ったから、私はもう充分よ。}`
 `{ruby:The next person can rest.":次の人、休んでもいいわ」}`
-`{ruby:"What about you two, Kyrie‐san? Rudolf‐san?":「霧江さんたちはいかがですか？」}`
+`{ruby:"What about you:「霧江さんたちはい}{ruby:two, Kyrie‐san? Rudolf‐san?":かがですか？」}`
 `{ruby:"......What will we do, Rudolf‐san?:「……どうする、留弗夫さん？}`
 `{ruby:Will we rest?":休ませてもらう？」}`
 `{ruby:"You can rest if you want.:「霧江は休んでいいぜ。}`
 `{ruby:I'll stay awake.:俺は起きてる。}`
-`{ruby:That's the only manly thing I can do right now.":それくらいしか男らしいことが出来ねぇ」}`
+`{ruby:That's the only manly thing:それくらいしか男らしい}{ruby:I can do right now.":ことが出来ねぇ」}`
 `{ruby:"Then I'll stay awake.:「じゃあ起きてるわ。}`
-`{ruby:Staying awake with my husband is the only womanly thing I can do right now.":夫と一緒に起きてるくらいしか、女らしいことが出来ないから」}`
+`{ruby:Staying awake with my husband is the:夫と一緒に起きてるくらいしか、女}{ruby:only womanly thing I can do right now.":らしいことが出来ないから」}`
 `{ruby:"......*giggle*.:「……くす。}`
 `{ruby:You two truly are close.":本当に仲のおよろしいことで」}`
 `{ruby:"As are you two.:「夏妃さんこそね。}`
 `{ruby:*giggle*.":くす」}`
-`{ruby:"It seems that Eva and Hideyoshi‐san are out cold.:「絵羽と秀吉さんはぐっすりみたいじゃないか。}`
-`{ruby:It appears as though, unlike Rosa, they can't fight against their age.":やはり楼座と違い、歳には勝てんね」}`
-`{ruby:As though in response to those words, the door to the hall clunked open.:その言葉に呼応したかのように、ガチャリと廊下の扉が開いた。}`
-`{ruby:Eva and Hideyoshi returned from the guest room.:絵羽と秀吉が客室から戻ってくる。}`
+`{ruby:"It seems that Eva:「絵羽と秀吉さんはぐっす}{ruby:and Hideyoshi‐san are out cold.:りみたいじゃないか。}`
+`{ruby:It appears as though, unlike Rosa,:やはり楼座と違い、歳}{ruby:they can't fight against their age.":には勝てんね」}`
+`{ruby:As though in response to those words,:その言葉に呼応したかのように、ガ}{ruby:the door to the hall clunked open.:チャリと廊下の扉が開いた。}`
+`{ruby:Eva and Hideyoshi returned:絵羽と秀吉が客室か}{ruby:from the guest room.:ら戻ってくる。}`
 `{ruby:"That's none of your business.:「余計なお世話よ。}`
-`{ruby:...Oh, Rosa, are you still alright without sleeping?":…あら楼座、もう休んでなくていいの？」}`
+`{ruby:...Oh, Rosa, are you:…あら楼座、もう休んで}{ruby:still alright without sleeping?":なくていいの？」}`
 `{ruby:"What about you, Nee‐san.:「姉さんこそ。}`
 `{ruby:Why not take it easy and rest?":無理しないで休んでたら？」}`
-`{ruby:"............I just can't get to sleep.:「…………何だか寝付けなくてね。}`
-`{ruby:After taking a shower, my drowsiness faded away.:シャワーを浴びたら眠気が醒めちゃったわ。}`
-`{ruby:Rudolf, Kyrie‐san, you can rest if you want.":留弗夫たち、良かったら休んでいいわよ」}`
+`{ruby:"............I just can't:「…………何だか寝}{ruby:get to sleep.:付けなくてね。}`
+`{ruby:After taking a shower,:シャワーを浴びたら眠気}{ruby:my drowsiness faded away.:が醒めちゃったわ。}`
+`{ruby:Rudolf, Kyrie‐san, you can:留弗夫たち、良かったら}{ruby:rest if you want.":休んでいいわよ」}`
 `{ruby:"Yeah, thanks.:「おう、サンキュ。}`
-`{ruby:For now the sentiment alone is enough.:今は気持ちだけでいいぜ。}`
+`{ruby:For now the:今は気持ちだけ}{ruby:sentiment alone is enough.:でいいぜ。}`
 `{ruby:Why don't you go first, Aniki?":兄貴たち、先に休んだらどうだ？」}`
 `{ruby:"How kind of you.:「ありがたいね。}`
 `{ruby:But I cannot rest first.:だが先に休むわけにはいかん。}`
-`{ruby:That is the most I can do as the oldest brother.":それくらいしか長男らしいことが出来ないのでね」}`
-`{ruby:"Do not worry, the two of us will be awake until the very end.":「私たちは最後まで起きていますのでご心配なく」}`
+`{ruby:That is the most I:それくらいしか長男らしいこ}{ruby:can do as the oldest brother.":とが出来ないのでね」}`
+`{ruby:"Do not worry, the two of us:「私たちは最後まで起きてい}{ruby:will be awake until the very end.":ますのでご心配なく」}`
 `{ruby:"......*giggle*.:「……くす。}`
-`{ruby:.........More importantly, Eva nee‐san,:………それより絵羽姉さん。}`
+`{ruby:.........More importantly,:………それより絵}{ruby:Eva nee‐san,:羽姉さん。}`
 `{ruby:are you alright?:大丈夫？}`
 `{ruby:You look a little pale.":少し顔色が悪いわ」}`
-`{ruby:"......Come to think of it, you're right.:「……そういやそうやな。}`
+`{ruby:"......Come to think:「……そういや}{ruby:of it, you're right.:そうやな。}`
 `{ruby:......Hmmm?:……んん？}`
 `{ruby:You're feelin' a bit hot, you know?":ちょいと熱っぽいで？」}`
-`{ruby:Hideyoshi put his hand up against Eva's forehead.:秀吉が絵羽の額に手を当てる。}`
-`{ruby:{n}...It seemed that Eva wasn't feeling her best.:{n}…どうも体調を崩しているようだった。}`
+`{ruby:Hideyoshi put his hand:秀吉が絵羽の額に}{ruby:up against Eva's forehead.:手を当てる。}`
+`{ruby:{n}...It seemed that Eva:{n}…どうも体調を崩し}{ruby:wasn't feeling her best.:ているようだった。}`
 `{ruby:"Told you so.:「言わんこっちゃねぇ。}`
-`{ruby:...That's what happens when you break your daily cycle at your age.:…歳のくせに生活リズムを崩すからだぜ。}`
+`{ruby:...That's what happens when you break:…歳のくせに生活リズム}{ruby:your daily cycle at your age.:を崩すからだぜ。}`
 `{ruby:......Is it a cold?":……風邪か？」}`
 `{ruby:"...Natsuhi.:「…夏妃。}`
 `{ruby:Could you call Doctor Nanjo down?":上の南條先生を呼んできてくれんかね」}`
 `{ruby:"Y‐yes.":「は、はい」}`
-`{ruby:"...I'm fine, you don't have to make such a big deal out of it.:「…いいわ、そこまで大袈裟じゃない。}`
-`{ruby:I have some medicine, so I'll be fine.:常備薬は持ってるから大丈夫よ。}`
-`{ruby:......I tend to get a fever when I'm tired.:……疲れるとすぐ熱に出るの。}`
+`{ruby:"...I'm fine, you don't have to make:「…いいわ、そこまで}{ruby:such a big deal out of it.:大袈裟じゃない。}`
+`{ruby:I have some medicine,:常備薬は持ってるか}{ruby:so I'll be fine.:ら大丈夫よ。}`
+`{ruby:......I tend to get:……疲れるとすぐ}{ruby:a fever when I'm tired.:熱に出るの。}`
 `{ruby:Don't worry.":心配しないで」}`
 `{ruby:"......Nee‐san, take it easy, okay?":「……姉さん、無理しないで？」}`
 `{ruby:".........Thank you.:「………ありがと。}`
-`{ruby:...When my siblings gather without me around, I get the feeling everyone is talking behind my back.:…私抜きで兄弟が集まってると、私の陰口でも言われてるような気がしちゃってね。}`
-`{ruby:...It's a persecution complex from long ago.:…昔からの被害妄想なの。}`
+`{ruby:...When my siblings gather without me around, I:…私抜きで兄弟が集まってると、私の陰口で}{ruby:get the feeling everyone is talking behind my back.:も言われてるような気がしちゃってね。}`
+`{ruby:...It's a persecution:…昔からの被害}{ruby:complex from long ago.:妄想なの。}`
 `{ruby:Sorry, okay?":ごめんね？」}`
 `{ruby:"...............I won't say anything.:「……………私は何も言わないわよ。}`
-`{ruby:I would never say something bad about you when you're away.":姉さんのいないところで姉さんの嫌な話なんて」}`
-`{ruby:".......................................":「…………………………………」}`
+`{ruby:I would never say something:姉さんのいないところで姉}{ruby:bad about you when you're away.":さんの嫌な話なんて」}`
+`{ruby::「……………………}{ruby:".......................................":……………」}`
 `{ruby:"......What is it?:「……どうしたの？}`
-`{ruby:Nee‐san, you've been acting strange for a while, you know?:姉さん、さっきから変よ？}`
-`{ruby:Shouldn't you get a little rest now?":もう少し休んだら？」}`
+`{ruby:Nee‐san, you've been acting strange:姉さん、さっきか}{ruby:for a while, you know?:ら変よ？}`
+`{ruby:Shouldn't you get:もう少し休んだ}{ruby:a little rest now?":ら？」}`
 `{ruby:"............You're right.:「…………そうね。}`
-`{ruby:I started thinking about {i:raising money by March} and it made my headache even worse.":{i:３月までの金策}を考えたら頭痛が酷くなって来ちゃったわ」}`
+`{ruby:I started thinking about {i:raising money by:{i:３月までの金策}を考えたら頭}{ruby:March} and it made my headache even worse.":痛が酷くなって来ちゃったわ」}`
 `{ruby:"That isn't good.:「それは良くないわね。}`
 `{ruby:Rest.:休んでて。}`
-`{ruby:...I'll restrain myself so that your headache doesn't get worse.:…姉さんの頭痛が酷くならないよう、私も自重してるわ。}`
-`{ruby:I've had a bad headache myself for a while now.":私だって頭痛、さっきから辛いし」}`
+`{ruby:...I'll restrain myself so that:…姉さんの頭痛が酷くならない}{ruby:your headache doesn't get worse.:よう、私も自重してるわ。}`
+`{ruby:I've had a bad headache:私だって頭痛、さっ}{ruby:myself for a while now.":きから辛いし」}`
 `{ruby:".........Thank you.:「………ありがと。}`
-`{ruby:......Well then, I'll count on what you've said and rest for a while.":……じゃあ私、お言葉に甘えてもう少し休ませてもらうわね」}`
+`{ruby:......Well then, I'll count on what:……じゃあ私、お言葉に甘えても}{ruby:you've said and rest for a while.":う少し休ませてもらうわね」}`
 `{ruby:"What's up, Eva?:「どうしたんや、絵羽。}`
-`{ruby:Why so bent out of shape all of a sudden?:急にヘソ曲げて。}`
-`{ruby:......Sorry 'bout this... Please let us rest a bit longer.:……すまんな、わしらもうちょい休ませてもらうわ。}`
+`{ruby:Why so bent out of:急にヘソ曲}{ruby:shape all of a sudden?:げて。}`
+`{ruby:......Sorry 'bout this... Please let:……すまんな、わしらもうち}{ruby:us rest a bit longer.:ょい休ませてもらうわ。}`
 `{ruby:Sorry... Sorry...":すまんな、すまんな…」}`
-`{ruby:After putting his hands together as though praying and apologizing several times,:秀吉は何度も拝んで謝るような仕草を見せてから、}`
-`{ruby:Hideyoshi went after Eva, and left the lobby.:絵羽の後を追い、ロビーを出て行った。}`
-`{ruby:"............I don't like this atmosphere.:「…………空気が悪いな。}`
+`{ruby:After putting his hands together as:秀吉は何度も拝んで謝るよう}{ruby:though praying and apologizing several times,:な仕草を見せてから、}`
+`{ruby:Hideyoshi went after Eva,:絵羽の後を追い、ロビ}{ruby:and left the lobby.:ーを出て行った。}`
+`{ruby:"............I don't:「…………空気}{ruby:like this atmosphere.:が悪いな。}`
 `{ruby:Everything's so strained.":どうにもギスギスしている」}`
 `{ruby:"That's no surprise.:「無理もない。}`
-`{ruby:......There was a murder early this morning.:……早朝に殺人事件。}`
-`{ruby:And since then, we've been eating canned food and holding guns.:それからずっと、ここで銃を抱きながら缶詰ですもの。}`
-`{ruby:...It's natural that we would start to build up stress.":…ストレスが溜まって当然ね」}`
-`{ruby:"I wonder if the kids up there have also built up stress.:「上の子たちも、だいぶストレスが溜まってるんじゃないかしら。}`
+`{ruby:......There was a:……早朝に殺}{ruby:murder early this morning.:人事件。}`
+`{ruby:And since then, we've been:それからずっと、ここで銃を抱}{ruby:eating canned food and holding guns.:きながら缶詰ですもの。}`
+`{ruby:...It's natural that we would:…ストレスが溜ま}{ruby:start to build up stress.":って当然ね」}`
+`{ruby:"I wonder if the kids up:「上の子たちも、だいぶストレスが}{ruby:there have also built up stress.:溜まってるんじゃないかしら。}`
 `{ruby:......I'm worried about Maria.:……真里亞が心配だわ。}`
-`{ruby:She tends to get irritable in times like this.":こういう時は癇癪を起こしやすいの」}`
-`{ruby:Just then, they heard the sound of wild footsteps from upstairs.:するとその時、２階で、どたどたどたっという慌しい足音が聞こえた。}`
-`{ruby:The guesthouse wasn't a cheap building, so if they had been any normal footsteps, there was no way they would have heard them.:ゲストハウスは安っぽい建物ではないので、普通の足音なら聞こえるわけもない。}`
-`{ruby:It was like the sound of someone stamping their feet in frustration.:踵で地団太を踏むような、そんな音だった。}`
-`{ruby:And not a moment later, in addition to the apparent sound of feet running out into the upstairs corridor,:すると間髪入れずに、２階廊下へ走り出たらしい音と、}`
-`{ruby:they could hear Maria calling "uu‐uu‐uu" over and over again, sounding displeased.:真里亞のうーうーうーと連呼する不機嫌そうな声が聞こえてきた。}`
-`{ruby:Rosa grabbed her head, ruffled up her hair, and voicelessly moaned in anguish...:楼座は髪を振り乱しながら頭を抱え、声なき声で苦悶の唸りをあげる…。}`
-`{ruby:The adults conscientiously turned their backs to her, pretending not to notice.:大人たちはその仕草にさりげなく背を向け、気付かぬフリをしてやるのだった。}`
-`{ruby:The noisy clamor came downstairs and flew into the lobby.:ドタドタドタと賑やかな音が２階から降りてきてロビーに飛び込んでくる。}`
-`{ruby:It was Maria, who was sobbing; the other children, who had come down with her; and Nanjo.:泣きじゃくる真里亞と、それに付いてきた子どもたち、そして南條だった。}`
-`{ruby:...In other words, everyone on the second floor had come downstairs because of Maria's tantrum.:…つまり、真里亞の大騒ぎのせいで、２階の全員が降りてきてしまったというわけだ。}`
-`{ruby:Rosa couldn't hide her dizziness at the scale of the annoyance her daughter was bringing to everyone...:楼座は自分の娘が掛けている迷惑の規模に、再び眩暈が起こるのを隠せずにいた…。}`
+`{ruby:She tends to get:こういう時は癇癪を起}{ruby:irritable in times like this.":こしやすいの」}`
+`{ruby:Just then, they heard the:するとその時、２階で、どたどたどた}{ruby:sound of wild footsteps from upstairs.:っという慌しい足音が聞こえた。}`
+`{ruby:The guesthouse wasn't a cheap building, so if they had been:ゲストハウスは安っぽい建物ではないので、}{ruby:any normal footsteps, there was no way they would have heard them.:普通の足音なら聞こえるわけもない。}`
+`{ruby:It was like the sound of:踵で地団太を踏むような}{ruby:someone stamping their feet in frustration.:、そんな音だった。}`
+`{ruby:And not a moment later, in addition to the:すると間髪入れずに、２階廊下}{ruby:apparent sound of feet running out into the upstairs corridor,:へ走り出たらしい音と、}`
+`{ruby:they could hear Maria calling "uu‐uu‐uu":真里亞のうーうーうーと連呼する不}{ruby:over and over again, sounding displeased.:機嫌そうな声が聞こえてきた。}`
+`{ruby:Rosa grabbed her head, ruffled up:楼座は髪を振り乱しながら頭を抱え、声}{ruby:her hair, and voicelessly moaned in anguish...:なき声で苦悶の唸りをあげる…。}`
+`{ruby:The adults conscientiously turned their backs:大人たちはその仕草にさりげなく背を向け}{ruby:to her, pretending not to notice.:、気付かぬフリをしてやるのだった。}`
+`{ruby:The noisy clamor came downstairs:ドタドタドタと賑やかな音が２階から降}{ruby:and flew into the lobby.:りてきてロビーに飛び込んでくる。}`
+`{ruby:It was Maria, who was sobbing; the other:泣きじゃくる真里亞と、それに付いてき}{ruby:children, who had come down with her; and Nanjo.:た子どもたち、そして南條だった。}`
+`{ruby:...In other words, everyone on the second:…つまり、真里亞の大騒ぎのせいで、２階の全}{ruby:floor had come downstairs because of Maria's tantrum.:員が降りてきてしまったというわけだ。}`
+`{ruby:Rosa couldn't hide her dizziness at the scale:楼座は自分の娘が掛けている迷惑の規模に、}{ruby:of the annoyance her daughter was bringing to everyone...:再び眩暈が起こるのを隠せずにいた…。}`
 `{ruby:"S‐sorry, Auntie Rosa...:「ご、ごめん楼座叔母さん…。}`
-`{ruby:We tried to calm her, but she just wouldn't listen...":私たちもなだめたんだけど、どうしても聞いてくれなくて…」}`
+`{ruby:We tried to calm her,:私たちもなだめたんだけど、どう}{ruby:but she just wouldn't listen...":しても聞いてくれなくて…」}`
 `{ruby:"Uu‐uu‐uu!!:「うーうーうー！！}`
 `{ruby:Uu‐uu‐uu!!:うーうーうー！！}`
 `{ruby:Waaaaaaaaaaaaaaaaahhh!!":うわあああぁあぁああぁん！！」}`
 `{ruby:"...What is it, Maria?:「…どうしたの、真里亞。}`
 `{ruby:Could you be a little more quiet?:少し静かにしなさい？}`
 `{ruby:Everyone's looking.":みんな見てるわよ？」}`
-`{ruby:"It's that rose of hers from the rose garden...:「例の薔薇庭園の真里亞の薔薇…。}`
-`{ruby:She suddenly started saying that she was worried about it.":あれが急に心配だと言い出して」}`
+`{ruby:"It's that rose of:「例の薔薇庭園の真}{ruby:hers from the rose garden...:里亞の薔薇…。}`
+`{ruby:She suddenly started saying that:あれが急に心配だと}{ruby:she was worried about it.":言い出して」}`
 `{ruby:"......I think she's half asleep.:「……寝惚けたみたいなんです。}`
-`{ruby:She suddenly woke up, and started going on about how worried she was for that rose.:急にがばっと起き出して、薔薇が心配だ薔薇が心配だって言い出して。}`
+`{ruby:She suddenly woke up, and started going on:急にがばっと起き出して、薔薇が心配}{ruby:about how worried she was for that rose.:だ薔薇が心配だって言い出して。}`
 `{ruby:.........Maria‐chan, calm down.:………真里亞ちゃん、落ち着いて。}`
 `{ruby:That was just a dream...":それは夢なんだよ…」}`
 `{ruby:"Uu‐uu‐uu‐uu!!:「うーうーうーうー！！}`
-`{ruby:That was {f:5:Beatrice}'s and my rooose!!:あれはベアトリーチェと真里亞の薔薇なのー！！}`
-`{ruby:So if I don't take care of it, {f:5:Beatrice} will get mad at meee!!:だから大切にしないとベアトリーチェに怒られちゃうのー！！}`
+`{ruby:That was {f:5:Beatrice}'s:あれはベアトリーチェと真里}{ruby:and my rooose!!:亞の薔薇なのー！！}`
+`{ruby:So if I don't take care of:だから大切にしないとベアトリーチ}{ruby:it, {f:5:Beatrice} will get mad at meee!!:ェに怒られちゃうのー！！}`
 `{ruby:It might be broken again!:また折れちゃってるかもしれない！}`
 `{ruby:Uu‐uu‐uu!:うーうーうー！}`
 `{ruby:Uu‐uu‐uu‐uu!!":うーうーうーうー！！」}`
 `{ruby:"......Haah...!:「……はぁッ。}`
-`{ruby:...Listen, I'm {i:telling} you to quiet down a bit, {i:alright}?!?!":…だから少し静かにしなさいッて言ってるでしょおおおッ？！？！」}`
-`{ruby:The children were taken aback by the sudden rise in the tone of Rosa's voice.:楼座が急に声のトーンを上げたので子どもたちは仰け反るくらいに驚く。}`
-`{ruby:But Maria's crying just grew louder, and her tantrum just grew fiercer.:しかし真里亞はますますに泣き声を大きくして、癇癪を激しくするだけだった。}`
+`{ruby:...Listen, I'm {i:telling} you to:…だから少し静かにしなさいッて言っ}{ruby:quiet down a bit, {i:alright}?!?!":てるでしょおおおッ？！？！」}`
+`{ruby:The children were taken aback by the:楼座が急に声のトーンを上げたので子ど}{ruby:sudden rise in the tone of Rosa's voice.:もたちは仰け反るくらいに驚く。}`
+`{ruby:But Maria's crying just grew louder,:しかし真里亞はますますに泣き声を大きく}{ruby:and her tantrum just grew fiercer.:して、癇癪を激しくするだけだった。}`
 `{ruby:"R‐...Rosa‐san.:「ろ、…楼座さん。}`
-`{ruby:You mustn't scold a child so bluntly without attending to what they say...:子どもを頭ごなしに叱ってはいけませんぞ…。}`
-`{ruby:...In times like this, it is good to give them some warm milk or something.":…こういう時は、温かい牛乳などを与えると良いものです」}`
+`{ruby:You mustn't scold a child so:子どもを頭ごなしに叱って}{ruby:bluntly without attending to what they say...:はいけませんぞ…。}`
+`{ruby:...In times like this, it is good:…こういう時は、温かい牛乳など}{ruby:to give them some warm milk or something.":を与えると良いものです」}`
 `{ruby:"......Is there any here?":「……ここにあるかね？」}`
-`{ruby:"The milk we served in place of breakfast earlier was the last...":「さっき、朝食代わりに出した牛乳で空っぽです…」}`
-`{ruby:"Doesn't anyone have a sedative to use on kids...?:「誰か子ども用の鎮静剤とか持ってるか…？}`
+`{ruby:"The milk we served in place:「さっき、朝食代わりに出し}{ruby:of breakfast earlier was the last...":た牛乳で空っぽです…」}`
+`{ruby:"Doesn't anyone have a:「誰か子ども用の鎮静剤}{ruby:sedative to use on kids...?:とか持ってるか…？}`
 `{ruby:You know, those silver pill things?":ほら、あの銀の粒みてぇなヤツとか」}`
 `{ruby:"Of course I do!!:「持ってるわよッ！！}`
-`{ruby:Yes, I'll search for them now and make her take them!!":あぁ、今探して飲ませるからッ！！」}`
-`{ruby:Without hiding her displeasure, Rosa grabbed her handbag that she had placed on the sofa and fished around for the medicine.:楼座は不機嫌を隠すことなく、ソファーに置いてあったハンドバッグを取り、中の常備薬を漁る。}`
-`{ruby:......It seemed that she had brought some child‐use sedatives for Maria's tantrums.:……真里亞の癇癪用に、小児用の鎮静剤を持ってきているようだった。}`
-`{ruby:She found it and tipped the bottle into her palm, but it seemed to be empty.:それを見つけ瓶を傾けるが、どうも空っぽらしい。}`
-`{ruby:{n}Irritated, Rosa shook the bottle several times, but that didn't change the fact that nothing was in there.:{n}楼座はイライラしながら瓶を何度も振るが、空である事実は変わらなかった。}`
-`{ruby:...All the while, Maria's crying was growing more and more intense...:…その間にも、真里亞はますますに泣き声を強めていく…。}`
-`{ruby:Meanwhile, Eva was lying in bed, covered by the bedding.:その頃、絵羽はベッドに横になり、布団を被っていた。}`
-`{ruby:Hideyoshi returned from the washroom, folding a handkerchief soaked in water.:水で濡らしたハンカチを畳みながら、秀吉が洗面所から戻ってくる。}`
+`{ruby:Yes, I'll search for them:あぁ、今探して飲ませ}{ruby:now and make her take them!!":るからッ！！」}`
+`{ruby:Without hiding her displeasure, Rosa grabbed her handbag that she:楼座は不機嫌を隠すことなく、ソファーに置いてあ}{ruby:had placed on the sofa and fished around for the medicine.:ったハンドバッグを取り、中の常備薬を漁る。}`
+`{ruby:......It seemed that she had brought:……真里亞の癇癪用に、小児用の鎮静}{ruby:some child‐use sedatives for Maria's tantrums.:剤を持ってきているようだった。}`
+`{ruby:She found it and tipped the bottle into:それを見つけ瓶を傾けるが、}{ruby:her palm, but it seemed to be empty.:どうも空っぽらしい。}`
+`{ruby:{n}Irritated, Rosa shook the bottle several times, but that:{n}楼座はイライラしながら瓶を何度も振}{ruby:didn't change the fact that nothing was in there.:るが、空である事実は変わらなかった。}`
+`{ruby:...All the while, Maria's crying:…その間にも、真里亞はますます}{ruby:was growing more and more intense...:に泣き声を強めていく…。}`
+`{ruby:Meanwhile, Eva was lying in:その頃、絵羽はベッドに横にな}{ruby:bed, covered by the bedding.:り、布団を被っていた。}`
+`{ruby:Hideyoshi returned from the washroom,:水で濡らしたハンカチを畳みながら、}{ruby:folding a handkerchief soaked in water.:秀吉が洗面所から戻ってくる。}`
 `{ruby:"......My, this is one nasty fever...:「……こら、ずいぶんひどい熱や…。}`
-`{ruby:......I'm sure it's the poisonous air at this family conference that got you...:……きっと、親族会議の毒気にやられてもうたんやな…。}`
-`{ruby:......For now, you can forget all about the other relatives.:……今はもう、他の親族たちのことは全部忘れるんや。}`
+`{ruby:......I'm sure it's the poisonous air:……きっと、親族会議の毒気に}{ruby:at this family conference that got you...:やられてもうたんやな…。}`
+`{ruby:......For now, you can forget:……今はもう、他の親族たちの}{ruby:all about the other relatives.:ことは全部忘れるんや。}`
 `{ruby:...Alright?":…な？」}`
-`{ruby:As Hideyoshi spoke to her kindly, he set the soaked handkerchief gently on Eva's burning forehead.:秀吉はやさしい言葉を掛けながら、火照った絵羽の額に濡れハンカチをそっと置いた。}`
-`{ruby:Eva rested her own hand on top of his.:その手に、絵羽は自らの手を重ねる。}`
+`{ruby:As Hideyoshi spoke to her kindly, he set:秀吉はやさしい言葉を掛けながら、火照った絵}{ruby:the soaked handkerchief gently on Eva's burning forehead.:羽の額に濡れハンカチをそっと置いた。}`
+`{ruby:Eva rested her own:その手に、絵羽は自ら}{ruby:hand on top of his.:の手を重ねる。}`
 `{ruby:".........Your hand...:「………あなたの手。}`
 `{ruby:feels wonderfully cool.":…ひんやりして気持ちいい」}`
-`{ruby:"If my hand feels wonderful, your fever must be pretty bad.:「わしの手が気持ちいいようじゃ、だいぶ熱が出とるな…。}`
-`{ruby:No worries, the medicine will start workin' soon.:安心せい、すぐに薬が効いてくるわ。}`
+`{ruby:"If my hand feels wonderful,:「わしの手が気持ちいいようじゃ}{ruby:your fever must be pretty bad.:、だいぶ熱が出とるな…。}`
+`{ruby:No worries, the medicine:安心せい、すぐに薬が}{ruby:will start workin' soon.:効いてくるわ。}`
 `{ruby:Plus, my hand is a magic hand.:それにな、わしの手は魔法の手なんや。}`
-`{ruby:If I just put my hand up against your forehead like this, see,:こうして絵羽の額に手を当てとるとな？}`
+`{ruby:If I just put my hand:こうして絵羽の額に手}{ruby:up against your forehead like this, see,:を当てとるとな？}`
 `{ruby:any fever will melt right away.":どんな熱もたちどころに治ってしまうんや」}`
 `{ruby:"You're right.:「そうね。}`
-`{ruby:......Your hand always makes my fevers fade...":……あなたの手で、私の熱が引かなかったことは、一度もないものね…」}`
+`{ruby:......Your hand always:……あなたの手で、私の熱が引かなかっ}{ruby:makes my fevers fade...":たことは、一度もないものね…」}`
 `{ruby:"Yep.:「そうや。}`
-`{ruby:No need for a doctor when you've got my hand.:わしの手があれば医者要らずやで。}`
+`{ruby:No need for a doctor:わしの手があれば医}{ruby:when you've got my hand.:者要らずやで。}`
 `{ruby:Don't worry and close your eyes.:安心して目を瞑るんや。}`
-`{ruby:......The fever will fade right away thanks to my magic...":……すぐにわしの魔法でグングン熱が下がるからな…」}`
+`{ruby:......The fever will fade right:……すぐにわしの魔法でグング}{ruby:away thanks to my magic...":ン熱が下がるからな…」}`
 `{ruby:"Yes, I know...:「うん、知ってる…。}`
 `{ruby:......I can feel your magic.":……あなたの魔法、感じるもの」}`
-`{ruby:Hideyoshi was about to say "they call that the placebo effect", but he stopped.:秀吉は、そういうのをプラシーボ効果と言うんやで、と口にしようと思ったが止めた。}`
-`{ruby:......If Eva said that she could feel magic from his hand, then that was alright for now...:……絵羽が自分の手から魔法を感じると言ってくれるなら、今はそれでいいのだ…。}`
-`{ruby:"............I wonder if magic really exists.":「…………魔法って、本当にあるのかしら」}`
+`{ruby:Hideyoshi was about to say "they call:秀吉は、そういうのをプラシーボ効果と言うん}{ruby:that the placebo effect", but he stopped.:やで、と口にしようと思ったが止めた。}`
+`{ruby:......If Eva said that she could feel magic:……絵羽が自分の手から魔法を感じると言っ}{ruby:from his hand, then that was alright for now...:てくれるなら、今はそれでいいのだ…。}`
+`{ruby:"............I wonder if:「…………魔法って、本}{ruby:magic really exists.":当にあるのかしら」}`
 `{ruby:"Yeah.:「あぁ。}`
 `{ruby:Sure does.:あるでぇ。}`
-`{ruby:Only those who believe can tell, though.:信じる者にしかわからへんけどな。}`
-`{ruby:...There's actually a lot of magic like that out there in the world.":…そういう魔法は、案外世の中にたくさんあるもんや」}`
-`{ruby:"...If magic is real, ......then I wonder if witches are real too.":「…魔法が実在するなら、……やっぱり魔女も実在するのかしら」}`
+`{ruby:Only those who:信じる者にしかわか}{ruby:believe can tell, though.:らへんけどな。}`
+`{ruby:...There's actually a lot of magic:…そういう魔法は、案外世の中}{ruby:like that out there in the world.":にたくさんあるもんや」}`
+`{ruby:"...If magic is real, ......then I:「…魔法が実在するなら、……やっ}{ruby:wonder if witches are real too.":ぱり魔女も実在するのかしら」}`
 `{ruby:"Oh?:「うん？}`
-`{ruby:You mean that witch of the forest, {f:5:Beatrice}?:森の魔女ベアトリーチェのことかいな？}`
-`{ruby:She probably does exist for those who believe.:信じる者にはおるやろな。}`
+`{ruby:You mean that witch:森の魔女ベアトリーチェ}{ruby:of the forest, {f:5:Beatrice}?:のことかいな？}`
+`{ruby:She probably does exist:信じる者にはおる}{ruby:for those who believe.:やろな。}`
 `{ruby:Just like God.:神様と同じや。}`
-`{ruby:Won't show himself except in front of those who strongly believe.":信心深い人の前にしか姿を現さんのや」}`
+`{ruby:Won't show himself except in:信心深い人の前にしか}{ruby:front of those who strongly believe.":姿を現さんのや」}`
 `{ruby:"...............You know,:「……………私もね？}`
-`{ruby:...long ago, I was able to use magic too.":…昔、魔法が使えたの」}`
+`{ruby:...long ago, I was:…昔、魔法が使}{ruby:able to use magic too.":えたの」}`
 `{ruby:"Oh?:「ほぅ。}`
 `{ruby:That so?:ほんまかいな。}`
 `{ruby:Then you've been a witch once too.":じゃあお前も魔女やったんやな」}`
-`{ruby:"......You know, whenever I had a dream that I wanted to come true no matter what,:「……私がね、絶対に叶えたい夢があって。}`
-`{ruby:if I wished strongly and tried hard, it came true every time.:それを強く願って努力すると、それは必ず叶ったの。}`
-`{ruby:......With my magic, my grades were always the best, and I even became the student council president, and got into the university I wanted by my own ability.:……私はその魔法で、いつも成績は一番だったし、生徒会長にだってなったし、入りたい大学にも実力で入れたし。}`
-`{ruby:......Everything I wished for was granted.":……いつだってどんな願いだって叶えてきたわ」}`
+`{ruby:"......You know, whenever I had a dream that:「……私がね、絶対に叶}{ruby:I wanted to come true no matter what,:えたい夢があって。}`
+`{ruby:if I wished strongly and tried:それを強く願って努力すると}{ruby:hard, it came true every time.:、それは必ず叶ったの。}`
+`{ruby:......With my magic, my grades were always the best, and I even became the:……私はその魔法で、いつも成績は一番だったし、生徒会長}{ruby:student council president, and got into the university I wanted by my own ability.:にだってなったし、入りたい大学にも実力で入れたし。}`
+`{ruby:......Everything I wished:……いつだってどんな願い}{ruby:for was granted.":だって叶えてきたわ」}`
 `{ruby:"That's right.:「そうやな。}`
-`{ruby:Your magic was always a thing to be reckoned with...:お前の魔法はいつだって大したもんや…。}`
+`{ruby:Your magic was always a:お前の魔法はいつだって}{ruby:thing to be reckoned with...:大したもんや…。}`
 `{ruby:You're definitely a witch.:お前は確かに魔女や。}`
 `{ruby:...And you work harder than anyone.:…そして誰にも負けん努力家や。}`
 `{ruby:......I know aaall about it.":……わしはよーぅ知っとるで」}`
 `{ruby:"...............You know,:「……………私ね。}`
-`{ruby:ever since I was a kid, the whole time, there's been another me inside myself, who always supported me.:子どもの頃から、ずっとずっと心の中に、もうひとりの自分がいて、いつも私を励ましてくれたの。}`
+`{ruby:ever since I was a kid, the whole time,:子どもの頃から、ずっとずっと心の中に、もうひとり}{ruby:there's been another me inside myself, who always supported me.:の自分がいて、いつも私を励ましてくれたの。}`
 `{ruby:...And that other self was a witch.":…そしてその自分は魔女だったわ」}`
-`{ruby:".........I didn't believe in {f:5:Beatrice}, the witch of the forest.:「………森の魔女ベアトリーチェなんて信じなかった。}`
-`{ruby:I always believed that if a witch of Rokkenjima did exist, it was the witch inside my heart.:もし六軒島に魔女がいるとしたら、それは私の心の中の魔女のことだってずっと信じてきた。}`
-`{ruby:.........I am so grateful to that witch inside myself.:………その魔女の自分に、私はすごい感謝してる。}`
-`{ruby:...I'm always so grateful......that she let me meet up with you...":…あなたに出会わせてくれて良かったなぁって、……いつも感謝してる…」}`
-`{ruby:"............You're always too timid when you get sick.:「…………病気の時のお前はいつも気弱過ぎや。}`
+`{ruby:".........I didn't believe in {f:5:Beatrice},:「………森の魔女ベアトリーチ}{ruby:the witch of the forest.:ェなんて信じなかった。}`
+`{ruby:I always believed that if a witch of Rokkenjima:もし六軒島に魔女がいるとしたら、それは私の心}{ruby:did exist, it was the witch inside my heart.:の中の魔女のことだってずっと信じてきた。}`
+`{ruby:.........I am so grateful:………その魔女の自分に、私}{ruby:to that witch inside myself.:はすごい感謝してる。}`
+`{ruby:...I'm always so grateful......that she:…あなたに出会わせてくれて良かったな}{ruby:let me meet up with you...":ぁって、……いつも感謝してる…」}`
+`{ruby:"............You're always too timid:「…………病気の時のお前}{ruby:when you get sick.:はいつも気弱過ぎや。}`
 `{ruby:...Don't say anythin' for now.:…今は何も言わんでええ。}`
-`{ruby:......I'll stay like this the whole time, until your fever has gone down, okay?":……熱が下がるまで、ずーっとこうしてるからな」}`
+`{ruby:......I'll stay like this the whole time,:……熱が下がるまで、ずーっ}{ruby:until your fever has gone down, okay?":とこうしてるからな」}`
 `{ruby:"......Yeah.:「……うん。}`
 `{ruby:......No matter what,:……絶対に手を、}`
 `{ruby:......don't take your hand away.:……離さないでね。}`
 `{ruby:.........Somehow, I...:………何だか私、}`
-`{ruby:...feel like I'm becoming something that isn't myself,:……自分が自分でなくなるような気がして、}`
-`{ruby:......and it's been scaring me for a while now.:……さっきから怖いの。}`
-`{ruby:...I get the feeling that the witch inside of me...:…私の中の魔女が、}`
-`{ruby:...was provoked by {f:5:Beatrice}, and is growing stronger and stronger.:……ベアトリーチェに触発されて、どんどん強くなるような気がして。}`
-`{ruby:...Somehow, it feels like she's going to swallow me up.":…何だか私を飲み込んでしまいそうな気がするの」}`
+`{ruby:...feel like I'm becoming:……自分が自分でなくな}{ruby:something that isn't myself,:るような気がして、}`
+`{ruby:......and it's been scaring:……さっきから}{ruby:me for a while now.:怖いの。}`
+`{ruby:...I get the feeling that:…私の中の魔}{ruby:the witch inside of me...:女が、}`
+`{ruby:...was provoked by {f:5:Beatrice}, and:……ベアトリーチェに触発されて、ど}{ruby:is growing stronger and stronger.:んどん強くなるような気がして。}`
+`{ruby:...Somehow, it feels like she's:…何だか私を飲み込んでしま}{ruby:going to swallow me up.":いそうな気がするの」}`
 `{ruby:"It's alright.:「大丈夫や。}`
-`{ruby:As long as I'm with you, there's not a thiiing to be afraid of!:わしが一緒にいる限り、なぁんも恐れることなんてあらへん！}`
-`{ruby:Remember the time we went to that dangerous country and the whole bus was robbed?:ほら、ちょいとヤバめな国に旅行に行った時、バスごと強盗にあったことあったやろ？}`
+`{ruby:As long as I'm with you, there's:わしが一緒にいる限り、なぁんも}{ruby:not a thiiing to be afraid of!:恐れることなんてあらへん！}`
+`{ruby:Remember the time we went to that:ほら、ちょいとヤバめな国に旅行に行った時、}{ruby:dangerous country and the whole bus was robbed?:バスごと強盗にあったことあったやろ？}`
 `{ruby:I repelled 'em!":わしが撃退したんやで！」}`
-`{ruby:"...Honey, you just handed over your gold watch and begged them to go away.:「…あなた、金時計を渡して拝み倒しただけだったじゃない。}`
-`{ruby:......It was pretty lame, ...but it was cool...":……格好悪いけど、…格好良かったわ…」}`
+`{ruby:"...Honey, you just handed over your gold:「…あなた、金時計を渡して拝み}{ruby:watch and begged them to go away.:倒しただけだったじゃない。}`
+`{ruby:......It was pretty lame,:……格好悪いけど、…格}{ruby:...but it was cool...":好良かったわ…」}`
 `{ruby:"............This hand...:「…………この手。}`
-`{ruby:...Please don't move it away, no matter what...:…絶対に離さないでね…。}`
+`{ruby:...Please don't move it:…絶対に離さな}{ruby:away, no matter what...:いでね…。}`
 `{ruby:......Not even if I fall asleep.:……眠っても、絶対に離さないでね。}`
-`{ruby:......And even if something creepy sneaks inside,:……そして何か不気味なものが忍び込んできても、}`
+`{ruby:......And even if:……そして何か不気味なもの}{ruby:something creepy sneaks inside,:が忍び込んできても、}`
 `{ruby:...protect me...":…私を守ってね…」}`
 `{ruby:"Yep, leave it to me.:「おう、任せとかんかい。}`
-`{ruby:......So stop worryin' now and get some sleep.:……だから今は安心して眠るんやで。}`
-`{ruby:The medicine and my magic will start workin' real soon...":すぐに薬と、わしの魔法が効いてくるからな…」}`
-`{ruby:Eva finally calmed her heart and closed her eyes.:絵羽はようやく心を安らかにして目を瞑る。}`
-`{ruby:......Just then, there was the sound of a door being opened violently from the direction of the lobby.:……その時、ロビーの方で、荒々しく扉が開く音がした。}`
-`{ruby:It seemed that Maria was having a tantrum, and screams of "uu‐uu" could be heard,:そして、真里亞が癇癪を起こしているらしい、うーうーという叫び声と、}`
+`{ruby:......So stop worryin' now:……だから今は安心し}{ruby:and get some sleep.:て眠るんやで。}`
+`{ruby:The medicine and my magic:すぐに薬と、わしの魔法が}{ruby:will start workin' real soon...":効いてくるからな…」}`
+`{ruby:Eva finally calmed her:絵羽はようやく心を安ら}{ruby:heart and closed her eyes.:かにして目を瞑る。}`
+`{ruby:......Just then, there was the sound of a door:……その時、ロビーの方で、荒}{ruby:being opened violently from the direction of the lobby.:々しく扉が開く音がした。}`
+`{ruby:It seemed that Maria was having a:そして、真里亞が癇癪を起こしているら}{ruby:tantrum, and screams of "uu‐uu" could be heard,:しい、うーうーという叫び声と、}`
 `{ruby:along with Rosa's rebuking yells.:それを叱責する楼座の怒鳴り声が聞こえてきた。}`
-`{ruby:...That was probably very annoying to listen to.:…それがよほど耳障りなのだろう。}`
-`{ruby:{n}Or maybe it was taking a toll on her headache.:{n}あるいは頭痛に堪えるのかもしれない。}`
-`{ruby:{n}Eva moaned as though in pain, and buried herself in the covers.:{n}絵羽は苦しそうに呻き、布団を被った。}`
-`{ruby:It was easy to guess what was happening.:おおよその想像はつく。}`
-`{ruby:Maria had probably had a tantrum for some reason, gone down to the lobby,:真里亞が何かの理由で癇癪を起こし、下のロビーに降りてきて、}`
-`{ruby:and when Rosa had scolded her for it, they had started arguing.:それを叱る楼座と口論になったのだろう。}`
-`{ruby:...And then, the looks of the rest of the family had been too much to bear, so Rosa had taken Maria out into the corridor.:…そして他の親族たちの目が痛々しかったので、廊下へ真里亞を連れ出した、というところなのか。}`
-`{ruby:......Hideyoshi had no desire to interfere with Rosa and Maria's problems.:……楼座と真里亞の問題に干渉する気は、秀吉にはまったくない。}`
-`{ruby:...But just for now, since Eva's condition was so bad, he wanted them to take their ruckus somewhere else.:…でも、絵羽が体調を悪くしている今だけは、その騒ぎは他所でやってほしいと思った。}`
+`{ruby:...That was probably very:…それがよほど耳障}{ruby:annoying to listen to.:りなのだろう。}`
+`{ruby:{n}Or maybe it was taking:{n}あるいは頭痛に堪え}{ruby:a toll on her headache.:るのかもしれない。}`
+`{ruby:{n}Eva moaned as though in pain,:{n}絵羽は苦しそうに呻}{ruby:and buried herself in the covers.:き、布団を被った。}`
+`{ruby:It was easy to:おおよその想像}{ruby:guess what was happening.:はつく。}`
+`{ruby:Maria had probably had a tantrum for:真里亞が何かの理由で癇癪を起こし}{ruby:some reason, gone down to the lobby,:、下のロビーに降りてきて、}`
+`{ruby:and when Rosa had scolded her:それを叱る楼座と口論に}{ruby:for it, they had started arguing.:なったのだろう。}`
+`{ruby:...And then, the looks of the rest of the family had been:…そして他の親族たちの目が痛々しかったので、廊下}{ruby:too much to bear, so Rosa had taken Maria out into the corridor.:へ真里亞を連れ出した、というところなのか。}`
+`{ruby:......Hideyoshi had no desire to:……楼座と真里亞の問題に干渉する}{ruby:interfere with Rosa and Maria's problems.:気は、秀吉にはまったくない。}`
+`{ruby:...But just for now, since Eva's condition was so:…でも、絵羽が体調を悪くしている今だけは、}{ruby:bad, he wanted them to take their ruckus somewhere else.:その騒ぎは他所でやってほしいと思った。}`
 `{ruby:"...Wait just a second.:「…ちょいと待っとれや。}`
 `{ruby:I'll go ask them to keep it down.":静かにするよう、お願いしてくるわ」}`
 `{ruby:".........C‐come back quickly...":「………は、早く戻ってきて…」}`
-`{ruby:"Don't worry, I won't leave this room.":「大丈夫や、この部屋から出んて」}`
-`{ruby:Hideyoshi removed the chain, opened the door, and stuck his face out into the corridor.:秀吉はチェーンを外すと扉を開け、廊下に顔を覗かせた。}`
+`{ruby:"Don't worry, I:「大丈夫や、この部}{ruby:won't leave this room.":屋から出んて」}`
+`{ruby:Hideyoshi removed the chain, opened the door,:秀吉はチェーンを外すと扉を開}{ruby:and stuck his face out into the corridor.:け、廊下に顔を覗かせた。}`
 `{ruby:He immediately met Rosa's gaze.:すぐに楼座と目が合う。}`
 `{ruby:"...Everythin' alright, Rosa‐san?":「…大丈夫かいな、楼座さん」}`
-`{ruby:"I'm sorry, did all this noise wake you up...?":「ごめんなさい、うるさくして起こしちゃったかしら…」}`
+`{ruby:"I'm sorry, did all:「ごめんなさい、うるさくして}{ruby:this noise wake you up...?":起こしちゃったかしら…」}`
 `{ruby:"Uu‐uu!:「うーうー！}`
 `{ruby:Uu‐uu‐uu‐uu!!!":うーうーうーうー！！！」}`
 `{ruby:"...Maria‐chan, sorry.:「…真里亞ちゃん、ごめんなぁ。}`
-`{ruby:Auntie Eva isn't feelin' well, and she's tryin' to sleep.:絵羽伯母さんな、具合が悪くて寝とるんや。}`
+`{ruby:Auntie Eva isn't feelin' well,:絵羽伯母さんな、具合が}{ruby:and she's tryin' to sleep.:悪くて寝とるんや。}`
 `{ruby:Could you quiet down a smidgen...?":すまんが、ちょいと静かにしてもらえるか…？」}`
-`{ruby:Maria's tone didn't change after being asked by Hideyoshi.:秀吉が頼んだところで、真里亞が声のトーンを下げるわけもない。}`
-`{ruby:She kept whining and repeating "My rose, my rose".:繰り返し、うーうーと叫び、真里亞の薔薇、真里亞の薔薇と連呼した。}`
-`{ruby:Rosa slapped Maria's cheek, lifted her up while covering her mouth,:楼座はその頬をぴしゃりと叩いた後、真里亞の口を塞ぎながら抱え上げ、}`
-`{ruby:and carried her off towards the entrance, trying to at least put some distance between her and Hideyoshi's room.:せめて秀吉たちの部屋から遠ざかるよう、玄関の方へ真里亞を連れて行った。}`
-`{ruby:...They would still probably be clamorous for a while yet, but he had at least warned her.:…まだしばらくは賑やかだろうが、一応の釘は刺した。}`
-`{ruby:{n}Hoping that Rosa would show her capabilities as a mother, Hideyoshi closed the door.:{n}秀吉は楼座の母親ぶりに期待しつつ扉を閉める。}`
-`{ruby:".........Is Maria‐chan crying again?":「………また真里亞ちゃんが泣いてるの？」}`
+`{ruby:Maria's tone didn't change:秀吉が頼んだところで、真里亞が声}{ruby:after being asked by Hideyoshi.:のトーンを下げるわけもない。}`
+`{ruby:She kept whining and:繰り返し、うーうーと叫び、真里亞の}{ruby:repeating "My rose, my rose".:薔薇、真里亞の薔薇と連呼した。}`
+`{ruby:Rosa slapped Maria's cheek, lifted:楼座はその頬をぴしゃりと叩いた後、真}{ruby:her up while covering her mouth,:里亞の口を塞ぎながら抱え上げ、}`
+`{ruby:and carried her off towards the entrance, trying to:せめて秀吉たちの部屋から遠ざかるよう、}{ruby:at least put some distance between her and Hideyoshi's room.:玄関の方へ真里亞を連れて行った。}`
+`{ruby:...They would still probably be clamorous for a:…まだしばらくは賑やかだろう}{ruby:while yet, but he had at least warned her.:が、一応の釘は刺した。}`
+`{ruby:{n}Hoping that Rosa would show her capabilities:{n}秀吉は楼座の母親ぶりに}{ruby:as a mother, Hideyoshi closed the door.:期待しつつ扉を閉める。}`
+`{ruby:".........Is Maria‐chan:「………また真里亞ちゃ}{ruby:crying again?":んが泣いてるの？」}`
 `{ruby:"Looks like it.:「そうみたいやな。}`
 `{ruby:...It's tough for Rosa‐san too.:…楼座さんも大変や。}`
-`{ruby:......When you think about that, our George is almost too good to be true.:……それを思えば、うちの譲治は出来過ぎや。}`
+`{ruby:......When you think about that, our George:……それを思えば、うちの}{ruby:is almost too good to be true.:譲治は出来過ぎや。}`
 `{ruby:We should be grateful.":親が感謝したいくらいやで」}`
 `{ruby:"...............You're right.:「……………そうね。}`
 `{ruby:.........nn,:………ん。}`
 `{ruby:......hand.":……手」}`
 `{ruby:"Oh, sorry, sorry.:「おぉ、すまんすまん。}`
-`{ruby:......Here you go, it's the magic hand.":……ほら、魔法の手やで」}`
-`{ruby:He put his hand on Eva's forehead again.:再び絵羽の額に手を載せる。}`
-`{ruby:......Maybe there really was magical power in that hand.:……その手には本当に魔法の力が宿っているのかもしれない。}`
-`{ruby:A truly peaceful look rose to Eva's face, and bit by bit, she began to drift off into the land of sleep.:絵羽は、本当に安らいだ表情を浮かべると、少しずつ眠りの世界へ入っていく。}`
-`{ruby:As he had promised, Hideyoshi kept his hand on her forehead......:秀吉は約束通り、ずっと手を額に当て続けているのだった……。}`
-`{ruby:By the entrance, with her hand still against Maria's mouth, Rosa was at a loss at what to do next.:玄関では、真里亞の口を押さえたまま、楼座は途方に暮れていた。}`
-`{ruby:She had been unable to withstand everyone's gaze in the lobby,:ロビーでみんなの視線に耐え切れず、}`
-`{ruby:and had yelled at the children to go upstairs, before dashing out of the lobby.:子どもたちには２階へ上がれと怒鳴りつけ、ロビーを飛び出してしまった。}`
-`{ruby:And when she went out into the corridor, Hideyoshi had told her that she was being too noisy.:そして廊下に出れば、秀吉たちにうるさいと言われてしまった。}`
+`{ruby:......Here you go,:……ほら、魔法}{ruby:it's the magic hand.":の手やで」}`
+`{ruby:He put his hand:再び絵羽の額に手}{ruby:on Eva's forehead again.:を載せる。}`
+`{ruby:......Maybe there really was:……その手には本当に魔法の力が}{ruby:magical power in that hand.:宿っているのかもしれない。}`
+`{ruby:A truly peaceful look rose to Eva's face, and bit by:絵羽は、本当に安らいだ表情を浮かべると}{ruby:bit, she began to drift off into the land of sleep.:、少しずつ眠りの世界へ入っていく。}`
+`{ruby:As he had promised, Hideyoshi:秀吉は約束通り、ずっと手を額に当}{ruby:kept his hand on her forehead......:て続けているのだった……。}`
+`{ruby:By the entrance, with her hand still against Maria's mouth,:玄関では、真里亞の口を押さえたま}{ruby:Rosa was at a loss at what to do next.:ま、楼座は途方に暮れていた。}`
+`{ruby:She had been unable to:ロビーでみんなの視線}{ruby:withstand everyone's gaze in the lobby,:に耐え切れず、}`
+`{ruby:and had yelled at the children to:子どもたちには２階へ上がれと怒鳴りつ}{ruby:go upstairs, before dashing out of the lobby.:け、ロビーを飛び出してしまった。}`
+`{ruby:And when she went out into the corridor, Hideyoshi:そして廊下に出れば、秀吉たちにう}{ruby:had told her that she was being too noisy.:るさいと言われてしまった。}`
 `{ruby:Where should I go now?:私はどこへ行けばいいというのか。}`
-`{ruby:......Where should I take this child who's having a tantrum?:……この癇癪持ちの娘を連れて、どこへ行けばいいというのか。}`
-`{ruby:She felt as though she was about to cry in frustration...:悔し涙が溢れそうになった…。}`
-`{ruby:As Maria kept struggling in an attempt to scream, Rosa put her mouth up to Maria's ear,:未だ、叫ぼうともがき続ける真里亞の耳元に口を寄せ、}`
-`{ruby:and tried to persuade Maria in as calm a voice as she could manage.:楼座はなるべく落ち着いた声で諭すように言う。}`
-`{ruby:".........Maria, you really want to see the rose that much...?":「………真里亞は、そんなにも薔薇が見たいのね…？」}`
-`{ruby:Maria nodded her head several times, moaning "uu‐uu".:真里亞は、うーうー唸りながら、何度も首を縦に振る。}`
-`{ruby:"...Why do you want to see the rose that much?:「…どうしてそんなに薔薇が見たいの？}`
-`{ruby:I'll listen to you, so will you tell me quietly?:お母さんが聞いてあげるから、静かに話して？}`
+`{ruby:......Where should I take this:……この癇癪持ちの娘を連れて、ど}{ruby:child who's having a tantrum?:こへ行けばいいというのか。}`
+`{ruby:She felt as though she:悔し涙が溢れそう}{ruby:was about to cry in frustration...:になった…。}`
+`{ruby:As Maria kept struggling in an attempt to:未だ、叫ぼうともがき続ける真}{ruby:scream, Rosa put her mouth up to Maria's ear,:里亞の耳元に口を寄せ、}`
+`{ruby:and tried to persuade Maria in as:楼座はなるべく落ち着いた}{ruby:calm a voice as she could manage.:声で諭すように言う。}`
+`{ruby:".........Maria, you really want to:「………真里亞は、そんなにも}{ruby:see the rose that much...?":薔薇が見たいのね…？」}`
+`{ruby:Maria nodded her head:真里亞は、うーうー唸りながら}{ruby:several times, moaning "uu‐uu".:、何度も首を縦に振る。}`
+`{ruby:"...Why do you want to:「…どうしてそんなに}{ruby:see the rose that much?:薔薇が見たいの？}`
+`{ruby:I'll listen to you, so:お母さんが聞いてあげるか}{ruby:will you tell me quietly?:ら、静かに話して？}`
 `{ruby:I'll hit you if you scream.":叫んだら殴るわよ」}`
 `{ruby:"............My rose...:「…………真里亞の薔薇…。}`
 `{ruby:{f:5:Beatrice} revived it.:ベアトリーチェに蘇らせてもらったの。}`
 `{ruby:......It might have broken again...:……また折れちゃってるかも…。}`
 `{ruby:...I'm worried about that...:…真里亞はそれが心配…。}`
 `{ruby:Can't sleep until I make sure...":確かめないと眠れない…」}`
-`{ruby:It seemed that she was still making a fuss about that marked rose from yesterday.:どうやら、昨日、目印をつけた薔薇についてまだ騒いでるらしい。}`
-`{ruby:Rosa felt her headache throbbing again,:楼座は再び頭痛が疼くのを感じたが、}`
-`{ruby:but she was at least a little relieved that Maria had now stopped her screaming.:とりあえず真里亞が叫ぶのだけはやめてくれたので、一安心する。}`
-`{ruby:"Anyway, everyone is having a hard time right now.:「とにかく、今はみんな大変なの。}`
-`{ruby:So don't bother Mama and everyone else.:だからママたちに迷惑を掛けないで。}`
-`{ruby:......You can worry about that rose all you want tomorrow, when it stops raining.:……薔薇の話は、明日、雨が上がったら好きにしていいから。}`
+`{ruby:It seemed that she was still making:どうやら、昨日、目印をつけた薔薇}{ruby:a fuss about that marked rose from yesterday.:についてまだ騒いでるらしい。}`
+`{ruby:Rosa felt her:楼座は再び頭痛が疼く}{ruby:headache throbbing again,:のを感じたが、}`
+`{ruby:but she was at least a little:とりあえず真里亞が叫ぶのだけはや}{ruby:relieved that Maria had now stopped her screaming.:めてくれたので、一安心する。}`
+`{ruby:"Anyway, everyone is having:「とにかく、今はみ}{ruby:a hard time right now.:んな大変なの。}`
+`{ruby:So don't bother:だからママたちに迷惑}{ruby:Mama and everyone else.:を掛けないで。}`
+`{ruby:......You can worry about that rose all:……薔薇の話は、明日、雨が上が}{ruby:you want tomorrow, when it stops raining.:ったら好きにしていいから。}`
 `{ruby:So just listen to me for now...!":だから今は聞き分けなさい…！」}`
 `{ruby:"No.:「やだ。}`
 `{ruby:...No no no no.:…やだやだやだやだ。}`
 `{ruby:My {f:5:Beatrice}'s rose...:真里亞のベアトリーチェの薔薇…。}`
 `{ruby:...Uuuu..., uu‐uu.:…ううぅ…、うーうー。}`
 `{ruby:WaaaaaaAAaaaahh!!":うわあああぁあああああぁあッ！！」}`
-`{ruby:Rosa reflexively covered Maria's mouth.:楼座は反射的にその口を塞ぐ。}`
-`{ruby:She had spoken a little too harshly, and had gotten her agitated again...:口調を少し厳しくし過ぎたので、また興奮してしまったのだ…。}`
-`{ruby:Rosa realized that it was partly her own fault and clicked her tongue in self‐hatred.:それが半ば自分のせいであることを自覚し、楼座は自己嫌悪の意味で舌打ちをする。}`
-`{ruby:But Maria thought that was directed at her, and her crying grew even fiercer...:しかし真里亞はそれが自分に対してのものだと思い、ますますに泣き声を荒げた…。}`
+`{ruby:Rosa reflexively:楼座は反射的にそ}{ruby:covered Maria's mouth.:の口を塞ぐ。}`
+`{ruby:She had spoken a little too:口調を少し厳しくし過ぎたので、ま}{ruby:harshly, and had gotten her agitated again...:た興奮してしまったのだ…。}`
+`{ruby:Rosa realized that it was partly her:それが半ば自分のせいであることを自覚し、}{ruby:own fault and clicked her tongue in self‐hatred.:楼座は自己嫌悪の意味で舌打ちをする。}`
+`{ruby:But Maria thought that was directed at:しかし真里亞はそれが自分に対してのものだ}{ruby:her, and her crying grew even fiercer...:と思い、ますますに泣き声を荒げた…。}`
 `{ruby:"...I'm begging you, be quiet...:「…お願いだから静かにして…。}`
-`{ruby:What can I do to make you stop crying?:どうしたらあなたは泣き止むの？}`
-`{ruby:What should I do to make you listen to what your Mama says?":どうしたらあなたはママの言うことを聞いてくれるの？」}`
+`{ruby:What can I do:どうしたらあなたは}{ruby:to make you stop crying?:泣き止むの？}`
+`{ruby:What should I do to make:どうしたらあなたはママの言うこ}{ruby:you listen to what your Mama says?":とを聞いてくれるの？」}`
 `{ruby:".........":「………」}`
 `{ruby:Abruptly.:ぴたりと。}`
-`{ruby:Maria stopped crying unnaturally fast.:真里亞が不自然なくらいに泣き止んだ。}`
-`{ruby:{n}......Then she turned around, and muttered.:{n}……すると振り返り、ぽつりと言った。}`
+`{ruby:Maria stopped:真里亞が不自然なくら}{ruby:crying unnaturally fast.:いに泣き止んだ。}`
+`{ruby:{n}......Then she turned:{n}……すると振り返り}{ruby:around, and muttered.:、ぽつりと言った。}`
 `{ruby:"............:「…………}`
-`{ruby:If I can see my rose, I'll be quiet until tomorrow.":真里亞の薔薇を見たら、ちゃんと明日まで静かにしてるよ」}`
+`{ruby:If I can see my:真里亞の薔薇を見たら、ちゃんと}{ruby:rose, I'll be quiet until tomorrow.":明日まで静かにしてるよ」}`
 `{ruby:"Really?":「本当？」}`
 `{ruby:"Yeah.:「うん。}`
-`{ruby:...If we go to the rose garden and see my rose, I'll behave.":…薔薇庭園に行って、真里亞の薔薇を見たら、もう大人しくする」}`
+`{ruby:...If we go to the rose:…薔薇庭園に行って、真里亞の薔薇}{ruby:garden and see my rose, I'll behave.":を見たら、もう大人しくする」}`
 `{ruby:"..................":「………………」}`
 `{ruby:"I mean it, Mama.":「本当だよ、ママ」}`
-`{ruby:"....................................":「………………………………」}`
-`{ruby:If it would keep Maria quiet for the time being,:楼座は、この風雨の中に出掛けることさえ、}`
-`{ruby:Rosa thought that even going out into this wind and rain would be a small price to pay.:とりあえず真里亞が静かにしてくれるなら、お安い御用だと思った。}`
-`{ruby:She did think it might be a bit reckless.:一応、少しだけ無用心ではないかと考えてみる。}`
-`{ruby:{n}............But in the end, no murder or anything of the sort had actually occurred.:{n}…………しかし結局、殺人事件など何も起こっていない。}`
-`{ruby:All of that clamor since this morning had been a farce set up by Kinzo.:朝から起きているどたばたは全て、金蔵たちが仕組んだ茶番なのだ。}`
-`{ruby:If you carefully thought about that chain of locked rooms, it communicated more clearly than anything that it was all an act by the victims themselves...:あの連鎖密室をよく考えれば、彼らの自作自演であることをこれ以上なく物語っている…。}`
-`{ruby:"......Will you really listen if you get to see the rose?":「……本当に、薔薇を見たらもう大人しくする？」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
+`{ruby:If it would keep Maria:楼座は、この風雨の中に}{ruby:quiet for the time being,:出掛けることさえ、}`
+`{ruby:Rosa thought that even going out into this wind:とりあえず真里亞が静かにしてくれる}{ruby:and rain would be a small price to pay.:なら、お安い御用だと思った。}`
+`{ruby:She did think it:一応、少しだけ無用心では}{ruby:might be a bit reckless.:ないかと考えてみる。}`
+`{ruby:{n}............But in the end, no murder or:{n}…………しかし結局、殺人事}{ruby:anything of the sort had actually occurred.:件など何も起こっていない。}`
+`{ruby:All of that clamor since this morning:朝から起きているどたばたは全て、金}{ruby:had been a farce set up by Kinzo.:蔵たちが仕組んだ茶番なのだ。}`
+`{ruby:If you carefully thought about that chain of locked rooms, it communicated more:あの連鎖密室をよく考えれば、彼らの自作自演で}{ruby:clearly than anything that it was all an act by the victims themselves...:あることをこれ以上なく物語っている…。}`
+`{ruby:"......Will you really listen if:「……本当に、薔薇を見たら}{ruby:you get to see the rose?":もう大人しくする？」}`
 `{ruby:"Yeah.:「うん。}`
 `{ruby:I mean it, Mama.:本当だよママ。}`
 `{ruby:......Kihihi.":……きひひ」}`
 `{ruby:".................................":「……………………………」}`
 `{ruby:"Ouch.":「あ痛」}`
-`{ruby:Rosa didn't overlook that creepy laugh, and lightly hit Maria with her fist.:気持ち悪い笑い声を見逃さず、軽いゲンコツを落とす。}`
-`{ruby:{n}And she shrugged, as though giving up.:{n}そして降参するかのように肩をすくめた。}`
+`{ruby:Rosa didn't overlook that creepy laugh,:気持ち悪い笑い声を見逃さず、}{ruby:and lightly hit Maria with her fist.:軽いゲンコツを落とす。}`
+`{ruby:{n}And she shrugged,:{n}そして降参するかの}{ruby:as though giving up.:ように肩をすくめた。}`
 `{ruby:"......Fine.:「……わかったわ。}`
 `{ruby:You have one look and be satisfied.:一目見たら納得するのよ。}`
 `{ruby:Understand?":いいわね？」}`
 `{ruby:"Yes, Mama.:「うん、ママ。}`
 `{ruby:I promise.:約束する。}`
-`{ruby:......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi.":……きひひひひひひひひひひひひひひ」}`
-`{ruby:Once again, Rosa tested the weight of her gun.:楼座は銃の重みをもう一度確かめる。}`
+`{ruby::……きひひひひひひひ}{ruby:......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi.":ひひひひひひひ」}`
+`{ruby:Once again, Rosa tested:楼座は銃の重みをもう}{ruby:the weight of her gun.:一度確かめる。}`
 `{ruby:......It's alright.:……大丈夫。}`
 `{ruby:It's only a farce.:どうせ茶番。}`
-`{ruby:{n}There was never a murderer on this island in the first place...:{n}殺人犯など元からこの島にはいたりしない…。}`
+`{ruby:{n}There was never a murderer on:{n}殺人犯など元からこの}{ruby:this island in the first place...:島にはいたりしない…。}`
 `{ruby:"Damn it, wait, Auntie Rosa...!!:「くそッ、待てよ楼座叔母さん…！！}`
-`{ruby:Are Auntie Rosa and Maria......the sacrifices for the second twilight?!:楼座叔母さんと真里亞が……、第二の晩の犠牲者なのか？！}`
-`{ruby:Damn it damn it damn it, someone, notice them, tell them to stop!!:くそくそくそッ、誰か気付けよ、呼び止めろ！！}`
-`{ruby:What are those guys in the living room and us kids doing?!!":居間の親父たちや俺たちは何をしてるんだ！！」}`
+`{ruby:Are Auntie Rosa and Maria......the:楼座叔母さんと真里亞が……、第}{ruby:sacrifices for the second twilight?!:二の晩の犠牲者なのか？！}`
+`{ruby:Damn it damn it damn it,:くそくそくそッ、誰か気付け}{ruby:someone, notice them, tell them to stop!!:よ、呼び止めろ！！}`
+`{ruby:What are those guys in the:居間の親父たちや俺たちは何}{ruby:living room and us kids doing?!!":をしてるんだ！！」}`
 `{ruby:"Hmm.:「うむ。}`
-`{ruby:They are being considerate of Rosa's pitiful relationship with her daughter, and are forcibly changing the subject.:楼座親子の痛々しい関係に気を遣って、わざわざ話題を変えておるぞ。}`
-`{ruby:The group you are in went upstairs, and are talking about something else while watching TV.":そなたらも２階へ上がり、テレビを見ながら話題を変えておる」}`
+`{ruby:They are being considerate of Rosa's pitiful relationship:楼座親子の痛々しい関係に気を遣って}{ruby:with her daughter, and are forcibly changing the subject.:、わざわざ話題を変えておるぞ。}`
+`{ruby:The group you are in went upstairs, and:そなたらも２階へ上がり、テレビを}{ruby:are talking about something else while watching TV.":見ながら話題を変えておる」}`
 `{ruby:"Goddammit!!:「くそったれぇ！！}`
 `{ruby:Someone, notice them!:誰か気付けよ！}`
-`{ruby:Who's the closest, is it Uncle Hideyoshi?!:一番近くにいるのは誰だよ、秀吉伯父さんか？！}`
-`{ruby:Please, notice that those two are leaving through the front door, aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahhh!!":頼むよ、玄関から二人が出て行くのを気付いてくれよ、うおおおおおおおぉおおお！！」}`
-`{ruby:"It won't reach, it won't reach, *cackle*!:「届かん届かん、くっくっく！}`
-`{ruby:Don't disturb their precious time together.:二人のささやかな時間を邪魔してくれるな。}`
+`{ruby:Who's the closest,:一番近くにいるのは誰だよ、}{ruby:is it Uncle Hideyoshi?!:秀吉伯父さんか？！}`
+`{ruby:Please, notice that those two are:頼むよ、玄関から二人が出て行くのを気付いてく}{ruby:leaving through the front door, aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahhh!!":れよ、うおおおおおおおぉおおお！！」}`
+`{ruby:"It won't reach,:「届かん届かん、}{ruby:it won't reach, *cackle*!:くっくっく！}`
+`{ruby:Don't disturb their:二人のささやかな時間を邪}{ruby:precious time together.:魔してくれるな。}`
 `{ruby:Fuhaha{0}ha{0}ha{0}hahaha...!":ふっははははははは…！」}`
-`{ruby:Hideyoshi kept talking kindly, his hand on Eva's forehead.:秀吉は絵羽の額に手を当てながら、ずっとやさしく語りかけている。}`
-`{ruby:He didn't notice that Rosa and Maria were going outside through the front door at all.:玄関から表へ出る楼座たちの気配になど、気付きもしない。}`
-`{ruby:In that case, there was no way that the others in the lobby, which was even further away, would notice either.:ならばさらに離れたロビーにいる人間たちにだって気付けるわけもない。}`
-`{ruby:And the cousins' room upstairs was even worse...!:２階のいとこ部屋ではとてもとても…！}`
+`{ruby:Hideyoshi kept talking kindly,:秀吉は絵羽の額に手を当てながら、ず}{ruby:his hand on Eva's forehead.:っとやさしく語りかけている。}`
+`{ruby:He didn't notice that Rosa and Maria were:玄関から表へ出る楼座たちの気配}{ruby:going outside through the front door at all.:になど、気付きもしない。}`
+`{ruby:In that case, there was no way that the others:ならばさらに離れたロビーにいる人間た}{ruby:in the lobby, which was even further away, would notice either.:ちにだって気付けるわけもない。}`
+`{ruby:And the cousins' room:２階のいとこ部屋では}{ruby:upstairs was even worse...!:とてもとても…！}`
 `{ruby:"Why are you so panicked?:「そなたは何を慌てておるのか。}`
-`{ruby:On the first twilight, didn't you defeat me with that bold move, saying that the culprit died in an accident on the first twilight?":第一の晩にて、犯人は事故死したとの大胆な指し手にて妾を打ち破ったではないか」}`
-`{ruby:"...Doesn't that mean that there is no longer a culprit on this island...?:「…ならばもうこの島に犯人はおらぬことになるぞ…？}`
-`{ruby:*cackle*cackle*cackle*, what is there to be so worried about...?":くっくくくくく、何を心配する必要があるというのか…」}`
-`{ruby:"Shut up, I can see right through you!!:「うるせえよ、白々しいんだよッ！！}`
-`{ruby:Someone stop them, those two'll be killed!!:誰か引き止めろ、二人が殺されるんだッ！！}`
-`{ruby:Someone, stop theee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeem, aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaahhh!!":誰か止めろォおおおおおおぉおおおおおぉ、うっをおおおおおおおおぉおおおッ！！」}`
-`{ruby:......There was no way that Battler's voiceless scream would reach Rosa or Maria.:……戦人の声無き叫びが、楼座たちに届くわけもない。}`
-`{ruby:The two of them could be seen in the rose garden.:二人の姿は薔薇庭園にあった。}`
-`{ruby:The rain was still awful, but fortunately, the wind had died down a little.:雨は相変わらずひどいが、風は少しだけ収まっているのが幸いだった。}`
-`{ruby:......No, maybe that wasn't fortunate.:……いや、幸いだったかはわからない。}`
-`{ruby:Because if the wind {i:had} been a little fiercer, Rosa would surely have hesitated to go outside...:もしも、もっとひどい風だったなら、楼座は表へ出ることを躊躇ったに違いないのだから…。}`
+`{ruby:On the first twilight, didn't you defeat me with that bold move,:第一の晩にて、犯人は事故死したとの大胆な}{ruby:saying that the culprit died in an accident on the first twilight?":指し手にて妾を打ち破ったではないか」}`
+`{ruby:"...Doesn't that mean that there is:「…ならばもうこの島に犯人は}{ruby:no longer a culprit on this island...?:おらぬことになるぞ…？}`
+`{ruby:*cackle*cackle*cackle*, what is there:くっくくくくく、何を心配する必}{ruby:to be so worried about...?":要があるというのか…」}`
+`{ruby:"Shut up, I can:「うるせえよ、白々し}{ruby:see right through you!!:いんだよッ！！}`
+`{ruby:Someone stop them,:誰か引き止めろ、二人が殺}{ruby:those two'll be killed!!:されるんだッ！！}`
+`{ruby:Someone, stop:誰か止めろォおおおおおおぉおおおおおぉ、う}{ruby:theee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeem, aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaahhh!!":っをおおおおおおおおぉおおおッ！！」}`
+`{ruby:......There was no way that Battler's:……戦人の声無き叫びが、楼座}{ruby:voiceless scream would reach Rosa or Maria.:たちに届くわけもない。}`
+`{ruby:The two of them could:二人の姿は薔薇庭}{ruby:be seen in the rose garden.:園にあった。}`
+`{ruby:The rain was still awful, but fortunately,:雨は相変わらずひどいが、風は少しだ}{ruby:the wind had died down a little.:け収まっているのが幸いだった。}`
+`{ruby:......No, maybe:……いや、幸いだった}{ruby:that wasn't fortunate.:かはわからない。}`
+`{ruby:Because if the wind {i:had} been a little:もしも、もっとひどい風だったなら、楼座は表へ}{ruby:fiercer, Rosa would surely have hesitated to go outside...:出ることを躊躇ったに違いないのだから…。}`
 `{ruby:"......Uu, uu, uu...:「……うー、うー、うー…。}`
 `{ruby:............Here it is...!":…………あった…！」}`
-`{ruby:Maria found her own rose with the gold lace and stared at it lovingly.:真里亞は金モールのついた自分の薔薇を見つけ、愛おしそうに眺める。}`
-`{ruby:Rosa had accepted with the promise that Maria would only have one look at it,:一目見たら納得するという約束ではあったが、}`
-`{ruby:but she didn't want Maria to complain that it hadn't been enough later on,:下手にケチって後でまた愚図られては堪らないと、}`
-`{ruby:so she decided to go along with her until she was satisfied.:楼座は真里亞が満足するまで、付き合うことにするのだった。}`
-`{ruby:......She believed that there wasn't a culprit,:……犯人などいないと信じているが、}`
-`{ruby:but if by any chance she was mistaken, they were now in an extremely dangerous position.:もしもそれが勘違いだとしたら、自分たちは今、非常に危険な場所にいる。}`
+`{ruby:Maria found her own rose with the:真里亞は金モールのついた自分の薔薇}{ruby:gold lace and stared at it lovingly.:を見つけ、愛おしそうに眺める。}`
+`{ruby:Rosa had accepted with the promise that:一目見たら納得するという}{ruby:Maria would only have one look at it,:約束ではあったが、}`
+`{ruby:but she didn't want Maria to complain:下手にケチって後でまた愚図}{ruby:that it hadn't been enough later on,:られては堪らないと、}`
+`{ruby:so she decided to go along:楼座は真里亞が満足するまで、付}{ruby:with her until she was satisfied.:き合うことにするのだった。}`
+`{ruby:......She believed that:……犯人などいないと}{ruby:there wasn't a culprit,:信じているが、}`
+`{ruby:but if by any chance she was mistaken,:もしもそれが勘違いだとしたら、自分た}{ruby:they were now in an extremely dangerous position.:ちは今、非常に危険な場所にいる。}`
 `{ruby:Rosa realized that faintly herself.:楼座はそれをわずかながらに自覚する。}`
-`{ruby:If things got bad, she would throw away her umbrella and ready her gun.:いざという時は、傘を放り出して銃を構える。}`
-`{ruby:{n}...Keeping the innocently rejoicing Maria in the corner of her eye, Rosa gazed warily in all directions.:{n}…楼座は無邪気に喜ぶ真里亞を尻目に、四方を用心深くうかがうのだった。}`
+`{ruby:If things got bad, she would throw:いざという時は、傘を放り}{ruby:away her umbrella and ready her gun.:出して銃を構える。}`
+`{ruby:{n}...Keeping the innocently rejoicing Maria in the corner:{n}…楼座は無邪気に喜ぶ真里亞を尻目に}{ruby:of her eye, Rosa gazed warily in all directions.:、四方を用心深くうかがうのだった。}`
 `{ruby:....................................?:………………………………？}`
 `{ruby:{n}......Were her eyes just tired?:{n}……目が疲れているのだろうか。}`
-`{ruby:Even though no one should have been there, she thought she saw something glitter in the dark rose garden with all its wind and rain.:誰もいるはずのない風雨の、そして暗黒の薔薇庭園で、何かが煌いたような気がした。}`
+`{ruby:Even though no one should have been there, she thought she saw:誰もいるはずのない風雨の、そして暗黒の薔薇}{ruby:something glitter in the dark rose garden with all its wind and rain.:庭園で、何かが煌いたような気がした。}`
 `{ruby:...Gold‐colored......?:…黄金色……？}`
 `{ruby:{n}It had to be her imagination.:{n}気のせいに決まっている。}`
-`{ruby:Because, to Rosa, it seemed as though gold butterflies were dancing through the rose bushes...:楼座にはそれが、黄金の蝶が薔薇の茂みの間を舞ったように感じられたからだ…。}`
+`{ruby:Because, to Rosa, it seemed as though:楼座にはそれが、黄金の蝶が薔薇の茂みの間}{ruby:gold butterflies were dancing through the rose bushes...:を舞ったように感じられたからだ…。}`
 `{ruby:"......Are you alright, Eva...?:「……大丈夫か、絵羽…。}`
-`{ruby:...Just take it easy...and should I call Doctor Nanjo after all...?!":…無理せんで、やっぱり南條先生を呼んで来んか…？！」}`
+`{ruby:...Just take it easy...and should:…無理せんで、やっぱり南條先}{ruby:I call Doctor Nanjo after all...?!":生を呼んで来んか…？！」}`
 `{ruby:"I...... ......I'm alright...:「だ……、……大丈夫だから…。}`
-`{ruby:......Don't take your hand away......:……この手を離さないで……。}`
-`{ruby:...I'm begging you, ......don't take your hand away......":…お願いだから、……離さないで……」}`
+`{ruby:......Don't take:……この手を離さ}{ruby:your hand away......:ないで……。}`
+`{ruby:...I'm begging you, ......don't:…お願いだから、……}{ruby:take your hand away......":離さないで……」}`
 `{ruby:Eva was breathing wildly.:絵羽の息は荒い。}`
-`{ruby:Beads of sweat were appearing on her forehead.:額にも汗の玉が浮いている。}`
-`{ruby:It certainly was true that she had stayed up all night last night, and that things had been rough since early this morning.:確かに昨夜は徹夜だし、今朝も早朝から慌しい。}`
-`{ruby:{n}It wasn't odd that her body wasn't keeping up.:{n}体が参ってしまったとしてもおかしくない。}`
+`{ruby:Beads of sweat were:額にも汗の玉が浮}{ruby:appearing on her forehead.:いている。}`
+`{ruby:It certainly was true that she had stayed up all night:確かに昨夜は徹夜だし、今}{ruby:last night, and that things had been rough since early this morning.:朝も早朝から慌しい。}`
+`{ruby:{n}It wasn't odd that:{n}体が参ってしまったと}{ruby:her body wasn't keeping up.:してもおかしくない。}`
 `{ruby:......Even though he understood that,:……そう理屈ではわかっていても、}`
-`{ruby:Hideyoshi suspected that Eva's sudden fever was the sign of some serious illness.:この絵羽の急な発熱は、何か良くない病気の発症ではないかと疑ってしまう。}`
-`{ruby:Several times, Hideyoshi suggested to call Doctor Nanjo, but Eva resisted firmly,:秀吉は何度か南條を呼ぼうと提案したが、絵羽はそれを頑なに拒み、}`
-`{ruby:...pleading with him and saying that it was even more important that he didn't take his hand away...:…それより、自分の手を離さないでほしいと懇願する…。}`
+`{ruby:Hideyoshi suspected that Eva's sudden fever:この絵羽の急な発熱は、何か良くない病気}{ruby:was the sign of some serious illness.:の発症ではないかと疑ってしまう。}`
+`{ruby:Several times, Hideyoshi suggested to call:秀吉は何度か南條を呼ぼうと提案した}{ruby:Doctor Nanjo, but Eva resisted firmly,:が、絵羽はそれを頑なに拒み、}`
+`{ruby:...pleading with him and saying that it was even:…それより、自分の手を離さな}{ruby:more important that he didn't take his hand away...:いでほしいと懇願する…。}`
 `{ruby:"I understand...:「わかった…。}`
-`{ruby:But you've gotta have Doctor Nanjo look at you by lunchtime.:でもな、お昼になったら必ず南條先生に診てもらうんやで。}`
-`{ruby:If you can promise me that, I'll stay here the whole time, grippin' your hand.:それを約束できるなら、ずっとここにいて、お前の手を握ったるからな。}`
+`{ruby:But you've gotta have Doctor:でもな、お昼になったら必ず南條}{ruby:Nanjo look at you by lunchtime.:先生に診てもらうんやで。}`
+`{ruby:If you can promise me that, I'll:それを約束できるなら、ずっとここにい}{ruby:stay here the whole time, grippin' your hand.:て、お前の手を握ったるからな。}`
 `{ruby:Tightly, like this.":こうして、ぎゅっとな」}`
 `{ruby:"......Thank you...:「……ありがとう…。}`
 `{ruby:......I'm fine...:……大丈夫よ…。}`
-`{ruby:The magic of your hand......will definitely make this fever subside......":あなたの手の魔法で、……必ずこんな熱なんか下がっちゃうから……」}`
-`{ruby:Even as she said that, Eva's harsh breathing didn't improve in the slightest.:そうは言いつつも、絵羽の呼吸は荒いままで一向に収まらない。}`
+`{ruby:The magic of your hand......will:あなたの手の魔法で、……必ずこんな}{ruby:definitely make this fever subside......":熱なんか下がっちゃうから……」}`
+`{ruby:Even as she said that, Eva's:そうは言いつつも、絵羽の呼吸は荒}{ruby:harsh breathing didn't improve in the slightest.:いままで一向に収まらない。}`
 `{ruby:"......Haah,:「……はぁ、}`
 `{ruby:......haah,:……はぁ、}`
 `{ruby:......haahh...:……はぁッ…。}`
@@ -417,306 +417,306 @@
 `{ruby:...don't let go......:…離さないで……、}`
 `{ruby:haah,:はぁ、}`
 `{ruby:......haahh,:……はあッ、}`
-`{ruby:............aaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaahhhh!!":…………ぅああああああああああぁああああああッ！！」}`
+`{ruby::…………ぅあああああああああ}{ruby:............aaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaahhhh!!":あぁああああああッ！！」}`
 `{ruby:"Wh‐............who's there...?!":「だ、…………誰…？！」}`
-`{ruby:She saw an umbrella moving from beyond the rose bush.:薔薇の茂みの向こうに、傘が動くのが見えた。}`
-`{ruby:Rosa threw away her umbrella and wildly lifted her gun...:楼座は傘を投げ出して銃を乱暴に構える…。}`
-`{ruby:When she did, the figure beyond the bush......showed itself.:すると茂みの向こうの人影が、……姿を現した。}`
+`{ruby:She saw an umbrella moving:薔薇の茂みの向こうに、傘}{ruby:from beyond the rose bush.:が動くのが見えた。}`
+`{ruby:Rosa threw away her umbrella:楼座は傘を投げ出して銃}{ruby:and wildly lifted her gun...:を乱暴に構える…。}`
+`{ruby:When she did, the:すると茂みの向こうの人影}{ruby:figure beyond the bush......showed itself.:が、……姿を現した。}`
 `{ruby:".........Uu?:「………うー？}`
 `{ruby:......Auntie Eva............:……絵羽伯母さん…………。}`
 `{ruby:.........?":………？」}`
 `{ruby:"...You scared me.:「…びっくりしたわ。}`
 `{ruby:So it was you, Nee‐san?:姉さんなの？}`
-`{ruby:............Do you have some business?:…………何か御用？}`
-`{ruby:...Do you want to continue our earlier discussion?":…さっきの話の続きなの？」}`
+`{ruby:............Do you:…………何か}{ruby:have some business?:御用？}`
+`{ruby:...Do you want to:…さっきの話の続}{ruby:continue our earlier discussion?":きなの？」}`
 `{ruby:"..............................:「…………………………。}`
 `{ruby:...Yes, that's right.:…えぇ、そうよぅ。}`
 `{ruby:Our discussion about Father's gold.":お父様の黄金の話よ」}`
-`{ruby:"......Please, restrain yourself in front of Maria.:「……お願いだから真里亞の前では遠慮して。}`
+`{ruby:"......Please, restrain yourself:「……お願いだから真里亞}{ruby:in front of Maria.:の前では遠慮して。}`
 `{ruby:I've been keeping my promise, okay?:ちゃんと約束は守ってるわよ？}`
-`{ruby:I won't get in the way of your scheming.":姉さんの悪巧みの邪魔はしないわ」}`
+`{ruby:I won't get in:姉さんの悪巧みの邪魔}{ruby:the way of your scheming.":はしないわ」}`
 `{ruby:"...............Scheming?:「……………悪巧み？}`
 `{ruby:What's that?":何それ」}`
-`{ruby:".........Whatever you're thinking, that's up to you.:「………姉さんが何を考えていても勝手よ。}`
+`{ruby:".........Whatever you're thinking,:「………姉さんが何を考}{ruby:that's up to you.:えていても勝手よ。}`
 `{ruby:I have no desire to get in the way.:私は邪魔する気なんてない。}`
 `{ruby:So please, not in front of Maria.:だから真里亞の前では許して。}`
-`{ruby:As long as I get my share, that will be enough.":私は分け前さえもらえれば充分なの」}`
+`{ruby:As long as I get:私は分け前さえもらえ}{ruby:my share, that will be enough.":れば充分なの」}`
 `{ruby:"Your share?:「分け前？}`
-`{ruby:Heheheheh, ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha.":ふふふふふふふ、あっはははははははははははははははは」}`
-`{ruby:Eva started laughing in a creepy voice...:絵羽が気色悪い声で笑い始める…。}`
-`{ruby:{n}Rosa was startled, but Maria stared blankly.:{n}楼座はぎょっとするが、真里亞はきょとんとしている。}`
-`{ruby:.........Then Maria said just one thing.:………そして真里亞は一言、言った。}`
+`{ruby:Heheheheh,:ふふふふふふふ、あっははははは}{ruby:ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha.":ははははははははははは」}`
+`{ruby:Eva started laughing:絵羽が気色悪い声で}{ruby:in a creepy voice...:笑い始める…。}`
+`{ruby:{n}Rosa was startled,:{n}楼座はぎょっとするが、真}{ruby:but Maria stared blankly.:里亞はきょとんとしている。}`
+`{ruby:.........Then Maria said:………そして真里亞は}{ruby:just one thing.:一言、言った。}`
 `{ruby:".........Uu......?:「………うー……？}`
 `{ruby:............Wait,:…………おばさん、}`
 `{ruby:............who are you...?":…………誰…？」}`
-`{ruby:"Hahahahahaha, ahhahhahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!:「はははははは、あっはっははははははははははははははははッ！！}`
+`{ruby:"Hahahahahaha,:「はははははは、あっはっははははは}{ruby:ahhahhahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!:はははははははははははッ！！}`
 `{ruby:Your shaaare?!:分け前ぇ？！}`
 `{ruby:Who would give that to you...?!:誰がお前にやるものか…！}`
 `{ruby:All of that is mine!:あれは全て私のもの！}`
-`{ruby:It all belongs to me, the Golden Witch, {f:5:Beatrice}...!!!":この黄金の魔女、ベアトリーチェのものよッ…！！！」}`
+`{ruby:It all belongs to:この黄金の魔女、ベアトリーチ}{ruby:me, the Golden Witch, {f:5:Beatrice}...!!!":ェのものよッ…！！！」}`
 `{ruby:"UaaaAAAAAAAAaaaAaaaaaa—!!":「うあああああああぁあああああぁッぁぁぁぁっ…ッ！」}`
 `{ruby:"Eva! Are you alright, Eva?!:「絵羽、大丈夫か絵羽！}`
 `{ruby:Eva!:絵羽っ！}`
 `{ruby:Eva!!":絵羽！！」}`
 `{ruby:"Hold on...!!:「握っていて…！！}`
 `{ruby:Don't let go!!:離さないでッ！！}`
-`{ruby:So that I don't get taken away by someone who isn't me...!!:私が私じゃない誰かに連れ去られないように…！！}`
+`{ruby:So that I don't get taken:私が私じゃない誰かに連れ去}{ruby:away by someone who isn't me...!!:られないように…！！}`
 `{ruby:Keep holding on to my hand...:私の手を握っていて…。}`
-`{ruby:Don't let gooo{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooo...!!!":離さないでぇええええぇ…ッ！！！」}`
+`{ruby:Don't:離さないでぇええええ}{ruby:let gooo{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooo...!!!":ぇ…ッ！！！」}`
 `{ruby:"When did you ever work hard?!:「お前が何を努力したの？！}`
 `{ruby:You never worked hard for anything!:何も努力してない！}`
-`{ruby:You were always hiding in our shadows!:いつも私たちの影に隠れてのらりくらり！}`
-`{ruby:You always ran about from shadow to shadow without fighting,:いつも戦わずに影から影へと逃げ回っていたお前に、}`
-`{ruby:and yet, you really think yourself qualified to ask me for the Ushiromiya family gold...?!":右代宮家の黄金を無心する資格など本当にあると思っているの…？！」}`
+`{ruby:You were always:いつも私たちの影に隠れ}{ruby:hiding in our shadows!:てのらりくらり！}`
+`{ruby:You always ran about from:いつも戦わずに影から影へと逃}{ruby:shadow to shadow without fighting,:げ回っていたお前に、}`
+`{ruby:and yet, you really think yourself qualified:右代宮家の黄金を無心する資格など本}{ruby:to ask me for the Ushiromiya family gold...?!":当にあると思っているの…？！」}`
 `{ruby:"All of that is mine!:「あれは全て私のもの！}`
-`{ruby:It's all mine and mine alone, as the head of the Ushiromiya family and the new Golden Witch, successor to the name of {f:5:Beatrice}!!":右代宮家当主にして新しき黄金の魔女、ベアトリーチェの名を継承した私だけのものッ！！」}`
+`{ruby:It's all mine and mine alone, as the head of the Ushiromiya:右代宮家当主にして新しき黄金の魔女、ベアトリー}{ruby:family and the new Golden Witch, successor to the name of {f:5:Beatrice}!!":チェの名を継承した私だけのものッ！！」}`
 `{ruby:".........{f:5:Beatrice}.:「………ベアトリーチェ。}`
 `{ruby:...............It's {f:5:Beatrice}!!:……………ベアトリーチェだ！！}`
 `{ruby:Mama, {f:5:Beatrice}!":ママっ、ベアトリーチェ！」}`
-`{ruby:Frolicking around, Maria jumped at her mother in ecstasy.:真里亞がはしゃぎ回りながら母親に飛びつく。}`
-`{ruby:{n}...Rosa treated Maria coldheartedly and raised her gun high.:{n}…楼座はそれを邪険にしながら銃を高々と構えた。}`
-`{ruby:"......Y‐......you're Nee‐san, right......?:「……ね、……姉さんよね……？}`
+`{ruby:Frolicking around, Maria jumped:真里亞がはしゃぎ回りなが}{ruby:at her mother in ecstasy.:ら母親に飛びつく。}`
+`{ruby:{n}...Rosa treated Maria coldheartedly:{n}…楼座はそれを邪険にし}{ruby:and raised her gun high.:ながら銃を高々と構えた。}`
+`{ruby:"......Y‐......you're:「……ね、……姉さ}{ruby:Nee‐san, right......?:んよね……？}`
 `{ruby:......You are Nee‐san, right......?":……姉さんなのよね……？」}`
 `{ruby:"Wrong.:「違うわ。}`
-`{ruby:...I am no longer the one who was your sister.":…私はもはや、あなたの姉であった存在ではないの」}`
+`{ruby:...I am no longer the:…私はもはや、あなたの姉で}{ruby:one who was your sister.":あった存在ではないの」}`
 `{ruby:"Then who are you?!!:「じゃああんた、誰なのよッ！！}`
-`{ruby:Are you going to say that you're {f:5:Beatrice}?!:ベアトリーチェだとでも言うのッ？！}`
+`{ruby:Are you going to:ベアトリーチェだとで}{ruby:say that you're {f:5:Beatrice}?!:も言うのッ？！}`
 `{ruby:That's impossible!:そんなはずはない！}`
 `{ruby:You died 19 years ago!!!":あんたは１９年前に死んだのよッ！！！」}`
-`{ruby:"Yes, you were definitely dead, after all, I clearly saw that your head was smashed.:「えぇ、確かに死んでいたわ、だって私、あなたの頭が割れているところをはっきり見たもの。}`
-`{ruby:I can remember your insides flowing out like it was yesterday!:その中身が溢れ出しているのを、昨日のことのように思い出せる！}`
-`{ruby:How could you be alive and right here noooooooooow?!?!":そのあんたがどうして生きてここに居るのよぉおおおおッ？！？！」}`
-`{ruby:"The concept of death does not exist for a Golden Witch.:「黄金の魔女に死の概念などないの。}`
-`{ruby:The names of the Golden Witch and {f:5:Beatrice} will be handed down for all eternity.":黄金の魔女とベアトリーチェの名は永遠に受け継がれてゆくわ」}`
-`{ruby:"Maybe the {f:5:Beatrice} you knew met with death, but that name is mine now...!:「お前が知っていたベアトリーチェは死を迎えたかもしれないが、今やそれは私の名である…！}`
+`{ruby:"Yes, you were definitely dead, after all,:「えぇ、確かに死んでいたわ、だって私、あなたの}{ruby:I clearly saw that your head was smashed.:頭が割れているところをはっきり見たもの。}`
+`{ruby:I can remember your insides:その中身が溢れ出しているのを、昨}{ruby:flowing out like it was yesterday!:日のことのように思い出せる！}`
+`{ruby:How could you be:そのあんたがどうして生きてここに居}{ruby:alive and right here noooooooooow?!?!":るのよぉおおおおッ？！？！」}`
+`{ruby:"The concept of death does:「黄金の魔女に死の概}{ruby:not exist for a Golden Witch.:念などないの。}`
+`{ruby:The names of the Golden Witch and:黄金の魔女とベアトリーチェの名は}{ruby:{f:5:Beatrice} will be handed down for all eternity.":永遠に受け継がれてゆくわ」}`
+`{ruby:"Maybe the {f:5:Beatrice} you knew met with:「お前が知っていたベアトリーチェは死を迎えたか}{ruby:death, but that name is mine now...!:もしれないが、今やそれは私の名である…！}`
 `{ruby:Therefore it is endless!:ゆえに無限！}`
-`{ruby:The concept of death does not exist for {f:5:Beatrice}!!":ベアトリーチェに死の概念はないのッ！！」}`
+`{ruby:The concept of death:ベアトリーチェに死の概念}{ruby:does not exist for {f:5:Beatrice}!!":はないのッ！！」}`
 `{ruby:"......How pitiful, Nee‐san...!":「……憐れね、姉さん…！」}`
-`{ruby:.........That gold has caused you to lose the distinction between fantasy and reality......:あの黄金に惑わされて、現実と妄想の区別もつかなくなったのか……。}`
+`{ruby:.........That gold has caused you to:あの黄金に惑わされて、現実と妄想の}{ruby:lose the distinction between fantasy and reality......:区別もつかなくなったのか……。}`
 `{ruby:"I said I'm not your sister anymore.:「もはや私はお前の姉ではないというのに。}`
-`{ruby:......Well then, as the new {f:5:Beatrice}, I have been tasked with my own resurrection ritual.:……さて、新しきベアトリーチェとして、自らの復活の儀式を引き継ぐわ。}`
+`{ruby:......Well then, as the new {f:5:Beatrice}, I:……さて、新しきベアトリーチェとして}{ruby:have been tasked with my own resurrection ritual.:、自らの復活の儀式を引き継ぐわ。}`
 `{ruby:.........Ronove!:………ロノウェ！}`
 `{ruby:What should I do?!":私はどうすればいいの？！」}`
 `{ruby:"That is up to you.:「ご随意のままに。}`
-`{ruby:{f:5:Beatrice}‐sama, you already have the power to make whatever you think reality.:もはやベアトリーチェさまには、どのような思いも実現できる力がおありです。}`
-`{ruby:You should grow used to it if you use it a little.":少し扱えば慣れるでしょう」}`
+`{ruby:{f:5:Beatrice}‐sama, you already have the power:もはやベアトリーチェさまには、どのよう}{ruby:to make whatever you think reality.:な思いも実現できる力がおありです。}`
+`{ruby:You should grow used to it:少し扱えば慣れる}{ruby:if you use it a little.":でしょう」}`
 `{ruby:"......You worthless former sister.:「……不甲斐なき元妹よ。}`
-`{ruby:You should consider it an honor to have been selected as my first sacrifice as a witch.:私が魔女として初めて奉げる最初の生贄に選ばれたことを、光栄に思うがいい。}`
-`{ruby:On the second twilight, I'll tear apart the two who are close, with my own hands...!!":第二の晩に、寄り添う二人を、私がこの手で引き裂く…！！」}`
-`{ruby:The first thing the new {f:5:Beatrice} wished,:新しきベアトリーチェが、最初に願った、}`
-`{ruby:......no, the first magic she tried to use, was to surpass the limitations given to humans.:……いや、最初に使おうと思った魔法は、人として制約を超えることだった。}`
+`{ruby:You should consider it an honor to have:私が魔女として初めて奉げる最初の生贄に}{ruby:been selected as my first sacrifice as a witch.:選ばれたことを、光栄に思うがいい。}`
+`{ruby:On the second twilight, I'll tear apart the:第二の晩に、寄り添う二人を、私}{ruby:two who are close, with my own hands...!!":がこの手で引き裂く…！！」}`
+`{ruby:The first thing:新しきベアトリーチェが}{ruby:the new {f:5:Beatrice} wished,:、最初に願った、}`
+`{ruby:......no, the first magic she tried to use,:……いや、最初に使おうと思った魔法は、}{ruby:was to surpass the limitations given to humans.:人として制約を超えることだった。}`
 `{ruby:...In particular, gravity.:…それは重力。}`
-`{ruby:She wanted to become fully aware of her transformation into a witch by being released from those shackles.:その束縛から解放されることで、自らが魔女になった自覚を得たいと思ったのだ。}`
-`{ruby:As the witch and Rosa stayed as they were...:魔女と楼座の二人をそのままに。}`
-`{ruby:......The ground retreated all by itself, into the distance below them.:……大地だけが眼下に遠退いていく。}`
-`{ruby:{n}By now, their feet were no longer attached to the ground.:{n}今や二人の足は大地に付いてはいない。}`
-`{ruby:Rosa finally realized that the ground hadn't retreated into the distance below her,:楼座はようやく、大地が眼下に遠退いたのではなく、}`
-`{ruby:but that she and the witch had been sucked up into the rainy sky.:自らと魔女が雨天の空へ吸い上げられたのだと知る。}`
+`{ruby:She wanted to become fully aware of her transformation:その束縛から解放されることで、自らが魔女}{ruby:into a witch by being released from those shackles.:になった自覚を得たいと思ったのだ。}`
+`{ruby:As the witch and:魔女と楼座の二人を}{ruby:Rosa stayed as they were...:そのままに。}`
+`{ruby:......The ground retreated all by:……大地だけが眼下に}{ruby:itself, into the distance below them.:遠退いていく。}`
+`{ruby:{n}By now, their feet were:{n}今や二人の足は大地}{ruby:no longer attached to the ground.:に付いてはいない。}`
+`{ruby:Rosa finally realized that the ground:楼座はようやく、大地が眼下}{ruby:hadn't retreated into the distance below her,:に遠退いたのではなく、}`
+`{ruby:but that she and the witch had:自らと魔女が雨天の空へ吸い}{ruby:been sucked up into the rainy sky.:上げられたのだと知る。}`
 `{ruby:"............huh...?:「…………ぇ…？}`
 `{ruby:...............Eeeek...?!":……………ひッ…？！」}`
-`{ruby:"Wh‐.........whoooooooooaaaa...... Awesome......!":「お、………おおおおおおおおぉ……。すごい……！」}`
-`{ruby:To humans, shackled by gravity, there is nothing more unnerving than not having their feet on solid earth.:重力によって束縛された人間にとって、足が大地に付かないことは、この上なく不安なこと。}`
-`{ruby:......However, to {f:5:Beatrice}, who had learned the joy of being released from gravity as a new witch,:……しかし、新しき魔女として重力から解放される喜びを知ったベアトリーチェは、}`
-`{ruby:it was enough to cause her whole body to shake with delight.:歓喜に全身を震わせる。}`
+`{ruby:"Wh‐.........whoooooooooaaaa......:「お、………おおおおおおおお}{ruby:Awesome......!":ぉ……。すごい……！」}`
+`{ruby:To humans, shackled by gravity, there is nothing more:重力によって束縛された人間にとって、足が大地}{ruby:unnerving than not having their feet on solid earth.:に付かないことは、この上なく不安なこと。}`
+`{ruby:......However, to {f:5:Beatrice}, who had learned the joy:……しかし、新しき魔女として重力から解放}{ruby:of being released from gravity as a new witch,:される喜びを知ったベアトリーチェは、}`
+`{ruby:it was enough to cause her:歓喜に全身を震}{ruby:whole body to shake with delight.:わせる。}`
 `{ruby:"......Hey, Rosa.:「……ねぇ、楼座。}`
-`{ruby:Do you remember, long ago, when we were small, when we used to talk about what it'd be like to become witches and fly around the sky?:昔、小さい頃、魔女になって空が飛べたらなって話したことあるの、覚えてる？}`
+`{ruby:Do you remember, long ago, when we were small, when we used to:昔、小さい頃、魔女になって空が飛べたら}{ruby:talk about what it'd be like to become witches and fly around the sky?:なって話したことあるの、覚えてる？}`
 `{ruby:......It's come true, you know?:……叶ったよ？}`
-`{ruby:I became a real witch and granted it for you.":私が本当の魔女になって叶えてあげたわ」}`
-`{ruby:"S‐............Stop it, .........wake me from this dream......":「や、…………やめてよ、………夢なら醒めて……」}`
+`{ruby:I became a real witch:私が本当の魔女になって}{ruby:and granted it for you.":叶えてあげたわ」}`
+`{ruby:"S‐............Stop it, .........wake:「や、…………やめてよ、…}{ruby:me from this dream......":……夢なら醒めて……」}`
 `{ruby:"You said it.:「あなた言ったわ。}`
-`{ruby:You said that you flew through the sky in your dream.:夢の中で空を飛んだって。}`
-`{ruby:And you also said that you hadn't wanted to wake up.:そして醒めたくなかったとも言ったわ。}`
-`{ruby:You were even mad at me for waking you, right?":起こした私を恨んだともね？」}`
+`{ruby:You said that you flew:夢の中で空を飛}{ruby:through the sky in your dream.:んだって。}`
+`{ruby:And you also said that:そして醒めたくなかっ}{ruby:you hadn't wanted to wake up.:たとも言ったわ。}`
+`{ruby:You were even mad at:起こした私を恨ん}{ruby:me for waking you, right?":だともね？」}`
 `{ruby:"......Don't worry.:「……安心して。}`
-`{ruby:You won't wake up this time, alright?:今度は醒めないわよ？}`
-`{ruby:Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh!!":ふっふふふふふふふふふふふふ！！」}`
-`{ruby:Come, dance with me in the vast, rainy sky.:さぁ、私と雨天の大空を踊ろう。}`
-`{ruby:Didn't we wish together to fly like seagulls in the sky,:狭くて退屈な六軒島から、うみねこのように飛び立って空に逃れたいと、}`
-`{ruby:and escape the cramped and boring island of Rokkenjima...?:私たちは共に願ったんじゃなかったっけ…？}`
-`{ruby:Now, I'll make that dream a reality for you.:その夢を、今、私が叶えてあげるの。}`
-`{ruby:That is why I want to share this joy with you, and no one else...!:だからこの喜びを、他の誰でもない、あなたと共有したい…！}`
+`{ruby:You won't wake:今度は醒めな}{ruby:up this time, alright?:いわよ？}`
+`{ruby::ふっふふふふふふふふ}{ruby:Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh!!":ふふふふ！！」}`
+`{ruby:Come, dance with me:さぁ、私と雨天の大}{ruby:in the vast, rainy sky.:空を踊ろう。}`
+`{ruby:Didn't we wish together to:狭くて退屈な六軒島から、うみねこのよ}{ruby:fly like seagulls in the sky,:うに飛び立って空に逃れたいと、}`
+`{ruby:and escape the cramped:私たちは共に願ったんじ}{ruby:and boring island of Rokkenjima...?:ゃなかったっけ…？}`
+`{ruby:Now, I'll make that:その夢を、今、私が叶}{ruby:dream a reality for you.:えてあげるの。}`
+`{ruby:That is why I want to share:だからこの喜びを、他の誰でもな}{ruby:this joy with you, and no one else...!:い、あなたと共有したい…！}`
 `{ruby:"Ahhahaha ahhahahahaha!!:「あっはははッあっはははははッ！！}`
-`{ruby:Isn't this so fun, Rosa, isn't this so fun?!!:楽しいね楼座、楽しいねッ！！}`
+`{ruby:Isn't this so fun,:楽しいね楼座、楽し}{ruby:Rosa, isn't this so fun?!!:いねッ！！}`
 `{ruby:":」}`
 `{ruby:"Take a look, below you!:「見てご覧、眼下を！}`
 `{ruby:Look at how small our mansion is.:私たちのお屋敷ってあんなにも小さいわ。}`
-`{ruby:I wonder how much time we spent in a place that small.:あんな小さな場所で、私たちはどれほどの長い時を過ごしたのかしら。}`
-`{ruby:...Now I'm especially shocked at how cramped and tiny it is.":…その狭さとちっぽけさに、今こそ本当に呆れるわ」}`
+`{ruby:I wonder how much time we:あんな小さな場所で、私たちはどれほ}{ruby:spent in a place that small.:どの長い時を過ごしたのかしら。}`
+`{ruby:...Now I'm especially shocked at:…その狭さとちっぽけさに、}{ruby:how cramped and tiny it is.":今こそ本当に呆れるわ」}`
 `{ruby:"So feel.:「だからこそ感じて。}`
 `{ruby:Enjoy.:楽しんで。}`
 `{ruby:Rejoice...!:喜んで…！}`
-`{ruby:That power we yearned for, the power to move through the sky at will!:私たちが憧れた、大空を自由にする力を！}`
+`{ruby:That power we yearned for, the power:私たちが憧れた、大空を}{ruby:to move through the sky at will!:自由にする力を！}`
 `{ruby:Come on, let's dance, Rosa!:さぁ踊ろうよ楼座！}`
 `{ruby:Through the rain, through the wind!:雨の中を、風の中を！}`
 `{ruby:Let's fly around like we're dancing!:私たちは踊るように飛び回ろう！}`
-`{ruby:The lightning will shine on us and bless us!!:稲光が私たちを照らして祝福してくれるわ！！}`
-`{ruby:Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":あっははははははははははははははははははッ！！」}`
-`{ruby:The witch and Rosa were like leaves fluttering around in a whirlwind.:魔女と楼座は、まるで旋風の中を舞う木の葉のよう。}`
-`{ruby:{n}As the rain pounded upon every part of their bodies, as the lightning occasionally shone upon them, they shook with the joy of being released from the ground.:{n}雨粒の拍手を全身に受けながら、時に稲光に照らされ、大地から解放された喜びに打ち震える。}`
-`{ruby:...However, it was only that way for the witch.:…もっともそれは魔女だけの話。}`
-`{ruby:{n}Rosa was holding onto her head, voicelessly screaming over and over.:{n}楼座は自らの頭を抱え込み、声無き叫びを上げ続けていた。}`
+`{ruby:The lightning will shine:稲光が私たちを照らして祝}{ruby:on us and bless us!!:福してくれるわ！！}`
+`{ruby::あっはははははははははははは}{ruby:Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":ははははははッ！！」}`
+`{ruby:The witch and Rosa were like:魔女と楼座は、まるで旋風の}{ruby:leaves fluttering around in a whirlwind.:中を舞う木の葉のよう。}`
+`{ruby:{n}As the rain pounded upon every part of their bodies, as the lightning occasionally:{n}雨粒の拍手を全身に受けながら、時に稲光に照}{ruby:shone upon them, they shook with the joy of being released from the ground.:らされ、大地から解放された喜びに打ち震える。}`
+`{ruby:...However, it was only:…もっともそれは魔}{ruby:that way for the witch.:女だけの話。}`
+`{ruby:{n}Rosa was holding onto her:{n}楼座は自らの頭を抱え込み、}{ruby:head, voicelessly screaming over and over.:声無き叫びを上げ続けていた。}`
 `{ruby:"Stop iiiiiiiiiiiiiitt!!:「やめてぇえええぇぇえぇ！！}`
-`{ruby:Please no mooo{-}o{-}o{-}ooore, let me dooo{-}o{-}o{-}ooown!!":許してぇええぇ、私を下へ下ろしてええぇ！！」}`
-`{ruby:"......You're right, it's more fitting for {y:0:Human}{n:0:human}s to crawl on the ground.:「……そうね、ニンゲンは大地を這うのがお似合いね。}`
+`{ruby:Please no mooo{-}o{-}o{-}ooore,:許してぇええぇ、私を下へ下}{ruby:let me dooo{-}o{-}o{-}ooown!!":ろしてええぇ！！」}`
+`{ruby:"......You're right, it's more fitting for:「……そうね、ニンゲンは大地}{ruby:{y:0:Human}{n:0:human}s to crawl on the ground.:を這うのがお似合いね。}`
 `{ruby:Then why not go back there?":なら地上にお帰りなさい？」}`
-`{ruby:A slightly displeased expression rose to the witch's face when she realized that her own joy was not being shared.:自分と同じ喜びを共有してくれないことに、魔女は少しだけ不愉快の表情を浮かべる。}`
-`{ruby:And she decided to listen to her former sister's request.:そして、元妹の願いを聞いてやることにした。}`
+`{ruby:A slightly displeased expression rose to the witch's face when:自分と同じ喜びを共有してくれないことに、魔}{ruby:she realized that her own joy was not being shared.:女は少しだけ不愉快の表情を浮かべる。}`
+`{ruby:And she decided to listen:そして、元妹の願いを聞い}{ruby:to her former sister's request.:てやることにした。}`
 `{ruby:"............?!:「…………ッ？！}`
-`{ruby:.........aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaAAA{0}A{0}A{0}AAHHHHH!!":………ぁあぁぁぁぁぁぁぁぁあああああああああ！！」}`
-`{ruby:The whirlwind that had been making Rosa dance around grew weaker, then stopped.:楼座を舞わせていた旋風が弱まり、そして止む。}`
-`{ruby:In other words, Rosa was once again bound by the restrictions of gravity, as a {y:0:Human}{n:0:human}.:それはつまり、楼座がニンゲンとしての重力の制約に再び縛られたということ。}`
-`{ruby:......Following the laws that were originally correct, Rosa began to descend towards the ground upside‐down.:……本来の正しい法則に従い、楼座は真っ逆さまに大地へ降りていく。}`
+`{ruby::………ぁあぁぁぁぁぁぁぁぁあ}{ruby:.........aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaAAA{0}A{0}A{0}AAHHHHH!!":ああああああああ！！」}`
+`{ruby:The whirlwind that had been making:楼座を舞わせていた旋風が}{ruby:Rosa dance around grew weaker, then stopped.:弱まり、そして止む。}`
+`{ruby:In other words, Rosa was once again bound:それはつまり、楼座がニンゲンとしての重}{ruby:by the restrictions of gravity, as a {y:0:Human}{n:0:human}.:力の制約に再び縛られたということ。}`
+`{ruby:......Following the laws that were originally correct,:……本来の正しい法則に従い、楼座は}{ruby:Rosa began to descend towards the ground upside‐down.:真っ逆さまに大地へ降りていく。}`
 `{ruby:No, she began to fall.:いや、落ちていく。}`
 `{ruby:"Oops...:「いけない…。}`
-`{ruby:That's right, if I don't take her down the right way, this is what happens!":そうか、ちゃんと下ろしてあげないと、こういうことになるのね！」}`
-`{ruby:The witch hadn't intended to send Rosa plummeting.:魔女は楼座を墜落させるつもりなどなかった。}`
-`{ruby:{n}But she still wasn't used to using magic.:{n}しかし、まだ魔法の使い方に慣れていなかったのだ。}`
-`{ruby:After plummeting about 100 meters into a rose bush,:薔薇の茂みに１００ｍ近くから墜落した楼座は、}`
-`{ruby:as a very, very natural result, Rosa died instantly.:とてもとても当然の結果として、即座に絶命した。}`
-`{ruby:But the witch hadn't intended to kill her.:しかし魔女に殺すつもりはなかった。}`
+`{ruby:That's right, if I don't take her:そうか、ちゃんと下ろしてあげないと}{ruby:down the right way, this is what happens!":、こういうことになるのね！」}`
+`{ruby:The witch hadn't intended:魔女は楼座を墜落させるつ}{ruby:to send Rosa plummeting.:もりなどなかった。}`
+`{ruby:{n}But she still wasn't:{n}しかし、まだ魔法の使い方}{ruby:used to using magic.:に慣れていなかったのだ。}`
+`{ruby:After plummeting about 100:薔薇の茂みに１００ｍ近く}{ruby:meters into a rose bush,:から墜落した楼座は、}`
+`{ruby:as a very, very:とてもとても当然の結果とし}{ruby:natural result, Rosa died instantly.:て、即座に絶命した。}`
+`{ruby:But the witch hadn't:しかし魔女に殺すつも}{ruby:intended to kill her.:りはなかった。}`
 `{ruby:{n}So she willed for Rosa not to die.:{n}だから死ぬなと念じた。}`
-`{ruby:When she did, gold butterflies coiled about Rosa's body, reviving that life just as the witch had wished.:すると楼座の体に黄金蝶たちが纏わり付いて、その命を望んだ通りに蘇らせる。}`
-`{ruby:Rosa's body, which had laid out a radial carpet of fresh blood, rapidly returned to normal.:放射状に鮮血の絨毯を敷いたはずの楼座の体が、みるみる元に戻っていく。}`
-`{ruby:The broken and crushed bones returned to normal.:折れたりひしゃげたりした骨が元に戻っていく。}`
-`{ruby:The torn and smashed flesh returned to normal.:裂けたり潰れたりした肉が元に戻っていく。}`
-`{ruby:......How easy it is to break things in this world, and how difficult it is to fix them...:……世の中、壊すことがどれほど簡単で、直すことがどれほど困難なことか。}`
+`{ruby:When she did, gold butterflies coiled about Rosa's body,:すると楼座の体に黄金蝶たちが纏わり付い}{ruby:reviving that life just as the witch had wished.:て、その命を望んだ通りに蘇らせる。}`
+`{ruby:Rosa's body, which had laid out a radial:放射状に鮮血の絨毯を敷いたはずの楼座}{ruby:carpet of fresh blood, rapidly returned to normal.:の体が、みるみる元に戻っていく。}`
+`{ruby:The broken and crushed:折れたりひしゃげたりした}{ruby:bones returned to normal.:骨が元に戻っていく。}`
+`{ruby:The torn and smashed:裂けたり潰れたりした肉}{ruby:flesh returned to normal.:が元に戻っていく。}`
+`{ruby:......How easy it is to break things in this:……世の中、壊すことがどれほど簡単で、}{ruby:world, and how difficult it is to fix them...:直すことがどれほど困難なことか。}`
 `{ruby:Anyone can take a life.:命を奪うことなんて、誰にでもできる。}`
-`{ruby:But no {y:0:Human}{n:0:human} can revive a lost life!:でも、失った命をよみがえらせることなんて、ニンゲンには誰にもできない！}`
-`{ruby:By surpassing the irreversible, one proves that they have surpassed {y:0:Human}{n:0:human}s.:その不可逆を超えたことは即ち、ニンゲンを超えたことの証明。}`
-`{ruby:......This surely gave her a much, much greater realization that she was a witch than flying through the sky had.:……それはきっと、空を飛べたことよりもはるかにはるかに、自身が魔女になったことを彼女に実感させるのだ。}`
+`{ruby:But no {y:0:Human}{n:0:human} can:でも、失った命をよみがえらせることなん}{ruby:revive a lost life!:て、ニンゲンには誰にもできない！}`
+`{ruby:By surpassing the irreversible, one:その不可逆を超えたことは即ち、ニ}{ruby:proves that they have surpassed {y:0:Human}{n:0:human}s.:ンゲンを超えたことの証明。}`
+`{ruby:......This surely gave her a much, much greater realization that:……それはきっと、空を飛べたことよりもはるかにはるかに}{ruby:she was a witch than flying through the sky had.:、自身が魔女になったことを彼女に実感させるのだ。}`
 `{ruby:".........Awesome...:「………すごい…。}`
-`{ruby:I can even revive......an ended life......!":死んだ命をも、……私は蘇らせられるの……！」}`
+`{ruby:I can even:死んだ命をも、……私は蘇}{ruby:revive......an ended life......!":らせられるの……！」}`
 `{ruby:"Of course.:「もちろんですとも。}`
-`{ruby:{f:5:Beatrice}‐sama, you are already an Endless Witch.":ベアトリーチェさまはすでに無限の魔女であらせられますよ」}`
+`{ruby:{f:5:Beatrice}‐sama, you are:ベアトリーチェさまはすでに無限}{ruby:already an Endless Witch.":の魔女であらせられますよ」}`
 `{ruby:"......To live and to die.:「……生きることも死すことも。}`
-`{ruby:To bring to life and to kill, all of it repeated endlessly.:生かすことも殺すことも、全ては無限に繰り返される。}`
-`{ruby:{f:5:Beatrice}‐sama, as the Endless Witch, you are the queen who controls that cycle of life and death.":その輪廻を支配する女王こそが、無限の魔女であられるベアトリーチェさまなのです」}`
+`{ruby:To bring to life and to:生かすことも殺すことも、全て}{ruby:kill, all of it repeated endlessly.:は無限に繰り返される。}`
+`{ruby:{f:5:Beatrice}‐sama, as the Endless Witch, you are the:その輪廻を支配する女王こそが、無限の魔女で}{ruby:queen who controls that cycle of life and death.":あられるベアトリーチェさまなのです」}`
 `{ruby:"Ahaha, aha.:「あはは、あは。}`
 `{ruby:One time, I dropped a goldfish bowl.:金魚鉢を落としたことがあるわ。}`
-`{ruby:The fragile and beautiful bowl broke, and I couldn't put it back together again.:涼しげな美しい鉢が割れてしまって、二度と元に戻らなかった。}`
-`{ruby:That cute pop‐eyed goldfish would never swim for me again after it landed on the floor.":床に叩き付けられた可愛い出目金は二度と泳ぐ姿を見せてくれなかった」}`
-`{ruby:".........No matter how much I cried, the servants shook their heads, saying that broken things and dead things could never be revived.":「………私がいくら泣いても使用人たちは、壊れたものと死んだものは蘇らせられない、首を横に振ったっけ」}`
+`{ruby:The fragile and beautiful bowl broke, and:涼しげな美しい鉢が割れてしまって}{ruby:I couldn't put it back together again.:、二度と元に戻らなかった。}`
+`{ruby:That cute pop‐eyed goldfish would never swim for:床に叩き付けられた可愛い出目金は二度}{ruby:me again after it landed on the floor.":と泳ぐ姿を見せてくれなかった」}`
+`{ruby:".........No matter how much I cried, the servants shook their heads,:「………私がいくら泣いても使用人たちは、壊れたものと}{ruby:saying that broken things and dead things could never be revived.":死んだものは蘇らせられない、首を横に振ったっけ」}`
 `{ruby:"...That's when I learned, you know?:「…あの時、学んだのよね。}`
-`{ruby:You mustn't break things, you mustn't kill people.:モノは壊しちゃいけない、ヒトは殺しちゃいけないって。}`
+`{ruby:You mustn't break things,:モノは壊しちゃいけない、ヒト}{ruby:you mustn't kill people.:は殺しちゃいけないって。}`
 `{ruby:After all, you can't fix them!!":だって、直せないんだもん！！」}`
 `{ruby:"So...if you {i:could} fix them...:「じゃあ、直せるなら、}`
-`{ruby:...then you wouldn't get in trouble for breaking them, right...?:……壊しても怒られないということでしょ…？}`
+`{ruby:...then you wouldn't get in:……壊しても怒られないと}{ruby:trouble for breaking them, right...?:いうことでしょ…？}`
 `{ruby:Haha, ahahahaha, .........awesome...:はは、あはははは、………すごい…。}`
 `{ruby:Awesome, awesome, awesome...!!:すごいすごいすごい…！！}`
-`{ruby:Ahhaha{0}ha{0}ha{0}ha{0}ha{0}haaha{0}ha{0}ha{0}ha{0}hahaah{0}hahah{0}hahhah{0}hahhaha!!":あっはははははははあははははははあっははっはっはっははッ！！」}`
-`{ruby:For a while, the witch became intoxicated with how terrible and wonderful the power she had succeeded was.:魔女はしばらくの間、自らが受け継いだ力の恐ろしさと素晴らしさに酔いしれた。}`
-`{ruby:Her laugh was pure, innocent, and also cruel.:その笑いは無垢で無邪気で、そして残酷。}`
-`{ruby:".........Uuuuuunnghh, ......au......":「………うううぅ、……ぁぅ……」}`
-`{ruby:Even though Rosa had been revived, she let out a cry of anguish at the pain from her fall.:楼座は蘇ったとは言え、墜落の痛みに苦悶の声をあげていた。}`
-`{ruby:The witch landed in front of her and held out her hand.:そこへ魔女は降り立ち手を差し出す。}`
-`{ruby:"Hahahahahahaha, sorry about that, Rosa.:「ははははははは、済まないわね楼座。}`
-`{ruby:I didn't think flying in the sky would be so much fun.:空を飛ぶのがこんなに楽しいとは思わなかったわ。}`
+`{ruby::あっはははははははあははははははあ}{ruby:Ahhaha{0}ha{0}ha{0}ha{0}ha{0}haaha{0}ha{0}ha{0}ha{0}hahaah{0}hahah{0}hahhah{0}hahhaha!!":っははっはっはっははッ！！」}`
+`{ruby:For a while, the witch became intoxicated with how:魔女はしばらくの間、自らが受け継いだ力の}{ruby:terrible and wonderful the power she had succeeded was.:恐ろしさと素晴らしさに酔いしれた。}`
+`{ruby:Her laugh was pure,:その笑いは無垢で無邪気}{ruby:innocent, and also cruel.:で、そして残酷。}`
+`{ruby:".........Uuuuuunnghh,:「………うううぅ、}{ruby:......au......":……ぁぅ……」}`
+`{ruby:Even though Rosa had been revived, she let out:楼座は蘇ったとは言え、墜落の痛}{ruby:a cry of anguish at the pain from her fall.:みに苦悶の声をあげていた。}`
+`{ruby:The witch landed in front of:そこへ魔女は降り立ち}{ruby:her and held out her hand.:手を差し出す。}`
+`{ruby:"Hahahahahahaha, sorry:「ははははははは、済}{ruby:about that, Rosa.:まないわね楼座。}`
+`{ruby:I didn't think flying in the:空を飛ぶのがこんなに楽しい}{ruby:sky would be so much fun.:とは思わなかったわ。}`
 `{ruby:Sorry, I'm really sorry.":ごめんなさい、本当にごめんなさい」}`
-`{ruby:"And I didn't know that {y:0:Human}{n:0:human}s could die so easily.:「そしてニンゲンがこんなに脆く死ぬとも知らなかったの。}`
-`{ruby:But I've brought you back to life, so you're fine now.:でも生き返らせてあげたからもう平気。}`
+`{ruby:"And I didn't know that:「そしてニンゲンがこんなに脆く}{ruby:{y:0:Human}{n:0:human}s could die so easily.:死ぬとも知らなかったの。}`
+`{ruby:But I've brought you back:でも生き返らせてあげ}{ruby:to life, so you're fine now.:たからもう平気。}`
 `{ruby:So get up, okay?:だから起きて？}`
 `{ruby:Play with me some more, okay?:私ともっと遊びましょう？}`
-`{ruby:*giggle*giggle*, ehehehaaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":くすくす、うふふあははははははははははははははははは！！」}`
-`{ruby:What were those dreams you told me about when you were a kid...?:あなたは子どもの頃、どんな夢を私に語ってくれたっけ…？}`
-`{ruby:Go ahead and tell me about all of them without holding back.:遠慮せずにその全てを教えて御覧なさい。}`
-`{ruby:As I am now, I can make anything come true, no matter how absurd...!:今の私には、それがどんなに荒唐無稽なことであっても叶えてあげられる…！}`
-`{ruby:I can let you drown in a ocean of jelly!:あなたをゼリーの海で溺れさせてあげることも！}`
-`{ruby:{n}I can swallow you up in a mountain of cake!:{n}ケーキの山で飲み込んであげることも！}`
-`{ruby:{n}I can even make you grow butterfly wings and let you fly around the garden!:{n}蝶の羽を生やしてお庭を散歩させてあげることさえね？！}`
-`{ruby:I'll do them one after another, let's start with the ocean of jelly, okay...?!:順番に叶えてあげるわ、まずはゼリーの海からね…？！}`
+`{ruby:*giggle*giggle*,:くすくす、うふふあははははははは}{ruby:ehehehaaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":はははははははははは！！」}`
+`{ruby:What were those dreams you told:あなたは子どもの頃、どんな夢を}{ruby:me about when you were a kid...?:私に語ってくれたっけ…？}`
+`{ruby:Go ahead and tell me about:遠慮せずにその全てを教}{ruby:all of them without holding back.:えて御覧なさい。}`
+`{ruby:As I am now, I can make:今の私には、それがどんなに荒唐無稽なこ}{ruby:anything come true, no matter how absurd...!:とであっても叶えてあげられる…！}`
+`{ruby:I can let you drown:あなたをゼリーの海で溺れ}{ruby:in a ocean of jelly!:させてあげることも！}`
+`{ruby:{n}I can swallow you up:{n}ケーキの山で飲み込}{ruby:in a mountain of cake!:んであげることも！}`
+`{ruby:{n}I can even make you grow butterfly:{n}蝶の羽を生やしてお庭を散歩}{ruby:wings and let you fly around the garden!:させてあげることさえね？！}`
+`{ruby:I'll do them one after another, let's:順番に叶えてあげるわ、まずは}{ruby:start with the ocean of jelly, okay...?!:ゼリーの海からね…？！}`
 `{ruby:"S‐stop,:「や、やめて、}`
 `{ruby:...............urgg!!":……………ふぐッ！！！」}`
-`{ruby:Rosa was once again thrown high into the rainy sky.:楼座は再び雨天の空へ高く放り上げられる。}`
-`{ruby:However, the sky wasn't filled with raindrops, but with drops of orange juice.:しかし雨天の空は雨粒ではなく、オレンジジュースの雫で満たされていた。}`
-`{ruby:When she looked down, Rosa had to doubt her eyes.:眼下を見て、楼座は目を疑う。}`
-`{ruby:The rose garden had disappeared, and the ground spread out beneath her was like a pastel‐colored jigsaw puzzle.:薔薇庭園は消え去り、パステルカラーのジグソーパズルのような大地が広がっていた。}`
-`{ruby:......It was from the dream she had talked about when she was young, an ocean of jelly.:……それは彼女が小さな頃に夢見て話した、ゼリーの海。}`
+`{ruby:Rosa was once again thrown:楼座は再び雨天の空へ高}{ruby:high into the rainy sky.:く放り上げられる。}`
+`{ruby:However, the sky wasn't filled with:しかし雨天の空は雨粒ではなく、オレン}{ruby:raindrops, but with drops of orange juice.:ジジュースの雫で満たされていた。}`
+`{ruby:When she looked down, Rosa:眼下を見て、楼座}{ruby:had to doubt her eyes.:は目を疑う。}`
+`{ruby:The rose garden had disappeared, and the ground spread:薔薇庭園は消え去り、パステルカラーのジグソ}{ruby:out beneath her was like a pastel‐colored jigsaw puzzle.:ーパズルのような大地が広がっていた。}`
+`{ruby:......It was from the dream she had talked:……それは彼女が小さな頃に夢}{ruby:about when she was young, an ocean of jelly.:見て話した、ゼリーの海。}`
 `{ruby:The black part was coffee jelly.:黒はコーヒーゼリー。}`
 `{ruby:The red was strawberry,:赤はイチゴ、}`
 `{ruby:the yellow was pineapple,:黄色はパイン、}`
 `{ruby:the green was melon.:緑はメロン。}`
-`{ruby:What was the white part, apple, perhaps...?:白は何だろう、リンゴかしら…？}`
-`{ruby:.........Did Rosa even have the time to think something like that?:………そんなこと、楼座に思考する余地があったのかどうか。}`
-`{ruby:Rosa fell towards that multi‐colored ocean.:楼座はその色とりどりの海に目掛けて墜落していく。}`
-`{ruby:......And sank deep into a grape‐flavored purple sea.:……そして紫色のグレープ味の海に深々と沈んだ。}`
+`{ruby:What was the:白は何だろう、リン}{ruby:white part, apple, perhaps...?:ゴかしら…？}`
+`{ruby:.........Did Rosa even have the:………そんなこと、楼座に思考す}{ruby:time to think something like that?:る余地があったのかどうか。}`
+`{ruby:Rosa fell towards:楼座はその色とりどりの海に}{ruby:that multi‐colored ocean.:目掛けて墜落していく。}`
+`{ruby:......And sank deep into:……そして紫色のグレープ味}{ruby:a grape‐flavored purple sea.:の海に深々と沈んだ。}`
 `{ruby:It really was an ocean of jelly.:それは本当にゼリーの海。}`
 `{ruby:It had no bottom.:底などない。}`
-`{ruby:As Rosa sank, she was shocked to see a school of transparent fish swimming through the grape jelly ocean.:楼座は沈みながら、グレープゼリーの海の中を泳ぐ透明な魚の群れを呆然と見ていた。}`
-`{ruby:They were probably made of grape skin.:それは多分、葡萄の果肉で出来ているに違いない。}`
-`{ruby:Then she sank on and on, deeper and deeper, as deep as the Mariana Trench,:そしてどこまでもどこまでも深く深く沈んで行き、マリアナ海溝くらい沈んで行き、}`
-`{ruby:......compressed tight by the water pressure of the jelly ocean,:……ゼリーの海の水圧でぎゅうぎゅうに押し潰されて、}`
-`{ruby:as her ribs crushed and crunched, as her spine snapped and cracked.:肋骨がぱきぽき、背骨がばきぼき。}`
-`{ruby:...In the end, she had become a small, frail meatball.:…最後は小ちゃなぐずぐずの肉団子になってしまった。}`
+`{ruby:As Rosa sank, she was shocked to see a:楼座は沈みながら、グレープゼリーの海の中を}{ruby:school of transparent fish swimming through the grape jelly ocean.:泳ぐ透明な魚の群れを呆然と見ていた。}`
+`{ruby:They were probably:それは多分、葡萄の果肉で出}{ruby:made of grape skin.:来ているに違いない。}`
+`{ruby:Then she sank on and on, deeper:そしてどこまでもどこまでも深く深く沈んで}{ruby:and deeper, as deep as the Mariana Trench,:行き、マリアナ海溝くらい沈んで行き、}`
+`{ruby:......compressed tight by the water:……ゼリーの海の水圧でぎゅう}{ruby:pressure of the jelly ocean,:ぎゅうに押し潰されて、}`
+`{ruby:as her ribs crushed and crunched,:肋骨がぱきぽき、背}{ruby:as her spine snapped and cracked.:骨がばきぼき。}`
+`{ruby:...In the end, she had:…最後は小ちゃなぐずぐずの肉}{ruby:become a small, frail meatball.:団子になってしまった。}`
 `{ruby:"Ahhahahahahahahahaha!:「あっはははははははははッ！}`
-`{ruby:What a truly wonderful experience, to drown to death in an ocean of jelly...!!:ゼリーの海で溺れ死ねるなんて、本当に素敵な体験よね…！！}`
-`{ruby:It's a dream no one else can imitate!!:誰にも真似できない夢！}`
-`{ruby:I granted it for you, ahhyahyahyahya!!":私が叶えてあげたッ、あっひゃひゃひゃひゃ！！」}`
-`{ruby:The instant I snapped my fingers, the meatball that had been Rosa was launched up into the sky.:楼座だった肉団子は、私が指を鳴らすと瞬時に大空へ打ち上げられる。}`
-`{ruby:And after being enveloped in a golden brilliance, she returned to her original form.:そして黄金色の輝きに包まれた後は、再び元の姿に戻っていた。}`
-`{ruby:It was as simple and easy as returning dried seaweed to its original form, and anyone could do it.:乾燥ワカメを元の姿に戻すのと同じくらいに簡単お手軽、誰でもできる。}`
+`{ruby:What a truly wonderful experience, to drown:ゼリーの海で溺れ死ねるなんて、本}{ruby:to death in an ocean of jelly...!!:当に素敵な体験よね…！！}`
+`{ruby:It's a dream no:誰にも真似でき}{ruby:one else can imitate!!:ない夢！}`
+`{ruby:I granted it:私が叶えてあげたッ、あっひ}{ruby:for you, ahhyahyahyahya!!":ゃひゃひゃひゃ！！」}`
+`{ruby:The instant I snapped my fingers, the meatball that:楼座だった肉団子は、私が指を鳴らす}{ruby:had been Rosa was launched up into the sky.:と瞬時に大空へ打ち上げられる。}`
+`{ruby:And after being enveloped in a golden:そして黄金色の輝きに包まれた後は}{ruby:brilliance, she returned to her original form.:、再び元の姿に戻っていた。}`
+`{ruby:It was as simple and easy as returning dried:乾燥ワカメを元の姿に戻すのと同じくら}{ruby:seaweed to its original form, and anyone could do it.:いに簡単お手軽、誰でもできる。}`
 `{ruby:If they were a witch!:魔女になら！}`
 `{ruby:That vacant look on Rosa's face...:放心する楼座のその表情は多分、}`
-`{ruby:had to be because of the joy from having that dream she had given up on as a child made into reality.:子どもの頃に見た、叶わぬと諦めていた夢が現実となったことへの喜びによるものに違いない。}`
+`{ruby:had to be because of the joy from having that dream:子どもの頃に見た、叶わぬと諦めていた夢が現実と}{ruby:she had given up on as a child made into reality.:なったことへの喜びによるものに違いない。}`
 `{ruby:Definitely. Probably.:きっと。多分。}`
 `{ruby:Next is the mountain of cake.:次はケーキの山。}`
-`{ruby:{n}In an instant, the sky was covered, and became patterned black and white like a chessboard.:{n}空が瞬時に覆われ、白と黒のチェス模様になった。}`
-`{ruby:That almost transparent white part was her favorite gelatin cheesecake.:透き通るような白は、大好きなレアチーズケーキ。}`
-`{ruby:{n}The elegant black part was a slightly bitter gâteau au chocolat.:{n}上品な黒は、ほんのりビターなガトーショコラ。}`
-`{ruby:They were a ceiling, they were a mountain, ......and those several billion cakes were thrown down towards Rosa.:それが天井となって、山となって、……数億個のケーキが楼座目掛けて振り落ちてくる。}`
-`{ruby:If you piled those cakes up, they would surely be taller than Everest.:そのケーキの山はきっと、積み上げればエベレストより高い。}`
+`{ruby:{n}In an instant, the sky was covered, and:{n}空が瞬時に覆われ、白と}{ruby:became patterned black and white like a chessboard.:黒のチェス模様になった。}`
+`{ruby:That almost transparent white part:透き通るような白は、大好き}{ruby:was her favorite gelatin cheesecake.:なレアチーズケーキ。}`
+`{ruby:{n}The elegant black part was:{n}上品な黒は、ほんのりビ}{ruby:a slightly bitter gâteau au chocolat.:ターなガトーショコラ。}`
+`{ruby:They were a ceiling, they were a mountain, ......and:それが天井となって、山となって、……数億個}{ruby:those several billion cakes were thrown down towards Rosa.:のケーキが楼座目掛けて振り落ちてくる。}`
+`{ruby:If you piled those cakes up,:そのケーキの山はきっと、積み上}{ruby:they would surely be taller than Everest.:げればエベレストより高い。}`
 `{ruby:So they probably weighed...:だから重さは多分、}`
-`{ruby:......I'm not too sure, but it was probably heavier than all the cakes across Japan put together.:………よくわからないけど、日本中のケーキを全部合わせたよりは重いと思う。}`
-`{ruby:It fell down like a ceiling and swallowed Rosa up,:それが落ち来る天井として楼座を飲み込んだのだから、}`
-`{ruby:......so as a very, very natural result, Rosa was crushed to death.:……とてもとても当然の結果として、楼座は圧死した。}`
+`{ruby:......I'm not too sure, but it was probably:………よくわからないけど、日本中のケー}{ruby:heavier than all the cakes across Japan put together.:キを全部合わせたよりは重いと思う。}`
+`{ruby:It fell down like a:それが落ち来る天井として楼座}{ruby:ceiling and swallowed Rosa up,:を飲み込んだのだから、}`
+`{ruby:......so as a very, very natural:……とてもとても当然の結果と}{ruby:result, Rosa was crushed to death.:して、楼座は圧死した。}`
 `{ruby:In less than a second,:１秒にも満たないわずかの時間で、}`
-`{ruby:her bones broke throughout her body and her insides were all smashed and forced out,:全身の骨が砕けて内臓が全て潰れてはみ出して、}`
+`{ruby:her bones broke throughout her body and:全身の骨が砕けて内臓が全}{ruby:her insides were all smashed and forced out,:て潰れてはみ出して、}`
 `{ruby:spladdasplutslop.:ぷちゃぐちゃぶちゃあ。}`
-`{ruby:And yet still an even greater number of cakes piled up on top,:それでもなおすごい数のケーキが積み上がるので、}`
-`{ruby:...and Rosa ended up as a layer of jam wedged between the cakes.:…楼座はケーキの間に挟まれたジャムの地層と成り果ててしまった。}`
-`{ruby:She became as thin as a single hair, and was probably smashed out into the area of a tennis court.:髪の毛程度の厚みになって、多分、テニスコートくらいの広さに潰れて広がっただろう。}`
-`{ruby:That world swallowed up by cake was once again absorbed by a golden flash.:そのケーキに飲み込まれた世界が再び黄金色の輝きに飲み込まれる。}`
-`{ruby:Then, as though it had all been a dream, Rosa was revived once again.:するとそれが夢であったとでも言うように、楼座は再び蘇っていた。}`
-`{ruby:......Of course, it definitely wasn't a dream.:……もちろん夢では断じてない。}`
+`{ruby:And yet still an even greater:それでもなおすごい数のケー}{ruby:number of cakes piled up on top,:キが積み上がるので、}`
+`{ruby:...and Rosa ended up as a:…楼座はケーキの間に挟まれたジャム}{ruby:layer of jam wedged between the cakes.:の地層と成り果ててしまった。}`
+`{ruby:She became as thin as a single hair, and was:髪の毛程度の厚みになって、多分、テニスコー}{ruby:probably smashed out into the area of a tennis court.:トくらいの広さに潰れて広がっただろう。}`
+`{ruby:That world swallowed up by cake was:そのケーキに飲み込まれた世界が再び}{ruby:once again absorbed by a golden flash.:黄金色の輝きに飲み込まれる。}`
+`{ruby:Then, as though it had all been:するとそれが夢であったとでも言うよ}{ruby:a dream, Rosa was revived once again.:うに、楼座は再び蘇っていた。}`
+`{ruby:......Of course, it:……もちろん夢では}{ruby:definitely wasn't a dream.:断じてない。}`
 `{ruby:{n}She had been revived after dying.:{n}死んだ後、再び蘇ったのだ。}`
-`{ruby:By that point, death, which most {y:0:Human}{n:0:human}s only have to experience once after they are born,:この時点で楼座は、ニンゲンに生まれたなら一度だけしか味わわなくていい死の経験を、}`
-`{ruby:had already been experienced repeatedly by Rosa.:すでに二度も味わったわけだ。}`
-`{ruby:In other words, she had gone through that which {y:0:Human}{n:0:human}s cannot, the precious experience of dying more than once.:つまり、ニンゲンには味わうこのとできない、二度の死という貴重な経験を味わったのだ。}`
-`{ruby:"Ahhahahahahahahaha, kyahha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!:「あっはははははははは、きゃっはっはははははははははははははは！！}`
-`{ruby:Isn't this fun, Rosa, isn't this fun?!:楽しいね楼座、楽しいねッ！}`
+`{ruby:By that point, death, which most {y:0:Human}{n:0:human}s only:この時点で楼座は、ニンゲンに生まれたなら一}{ruby:have to experience once after they are born,:度だけしか味わわなくていい死の経験を、}`
+`{ruby:had already been:すでに二度も味わ}{ruby:experienced repeatedly by Rosa.:ったわけだ。}`
+`{ruby:In other words, she had gone through that which:つまり、ニンゲンには味わうこのとできない、二}{ruby:{y:0:Human}{n:0:human}s cannot, the precious experience of dying more than once.:度の死という貴重な経験を味わったのだ。}`
+`{ruby:"Ahhahahahahahahaha,:「あっはははははははは、きゃっはっは}{ruby:kyahha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!:ははははははははははははは！！}`
+`{ruby:Isn't this fun,:楽しいね楼座、楽}{ruby:Rosa, isn't this fun?!:しいねッ！}`
 `{ruby:Next is the butterflies, look...!!":次は蝶々だよ、ほら…！！」}`
-`{ruby:"P‐please, have mercy...... .........aaaaaaaaaaaaaaaaahhh!!":「も、もう許して……ッ、………ああああぁあぁッ！！」}`
+`{ruby:"P‐please, have:「も、もう許して……ッ、……}{ruby:mercy...... .........aaaaaaaaaaaaaaaaahhh!!":…ああああぁあぁッ！！」}`
 `{ruby:"No waaay!:「駄目ぇ！}`
-`{ruby:Let's play more, let's play more...!!:もっと遊ぼうよ、もっと遊ぼう…！！}`
-`{ruby:Kyahihihiha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":きゃひひひはははははははははははッ！！」}`
-`{ruby:Laughing innocently, she pointed her gold staff at Rosa as she begged for mercy.:許しを懇願する楼座に、無邪気に笑いながらその黄金の杖を向ける。}`
-`{ruby:When she did, Rosa glittered gold and rapidly began to shrink.:すると楼座は黄金色に輝きながら見る見る縮んでいく。}`
-`{ruby:She shrank down to the size of a real butterfly.:本当の蝶々くらいの大きさにまで縮んでいく。}`
-`{ruby:Then, gold wings sprouted from her back...and she joined her fellow gold butterflies.:そして背中には黄金の羽が生え…、黄金蝶たちの仲間に加わった。}`
-`{ruby:However, while a human body could withstand this wind, it was a different matter for a butterfly's body.:でも、人の身には耐えられる風でも、蝶の身には辛いもの。}`
-`{ruby:The gold butterfly Rosa was invited to dance by each gale of wind, and she spun in circles around the rose garden.:黄金蝶となった楼座は、暴風たちに次々とダンスを申し込まれては、薔薇庭園をくるくると舞い踊った。}`
-`{ruby:"No, ...nooo{-}o{-}o{-}o{-}ooOO{-}O{-}OOoo{-}o{-}ooOO{-}OOooo!!:「もう嫌、…嫌ぁあああああぁああああぁ！！}`
+`{ruby:Let's play more,:もっと遊ぼうよ、もっ}{ruby:let's play more...!!:と遊ぼう…！！}`
+`{ruby::きゃひひひははははははは}{ruby:Kyahihihiha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":ははははッ！！」}`
+`{ruby:Laughing innocently, she pointed her gold staff:許しを懇願する楼座に、無邪気に笑い}{ruby:at Rosa as she begged for mercy.:ながらその黄金の杖を向ける。}`
+`{ruby:When she did, Rosa glittered:すると楼座は黄金色に輝きなが}{ruby:gold and rapidly began to shrink.:ら見る見る縮んでいく。}`
+`{ruby:She shrank down to the:本当の蝶々くらいの大きさ}{ruby:size of a real butterfly.:にまで縮んでいく。}`
+`{ruby:Then, gold wings sprouted from her:そして背中には黄金の羽が生え…、}{ruby:back...and she joined her fellow gold butterflies.:黄金蝶たちの仲間に加わった。}`
+`{ruby:However, while a human body could withstand this wind,:でも、人の身には耐えられる風で}{ruby:it was a different matter for a butterfly's body.:も、蝶の身には辛いもの。}`
+`{ruby:The gold butterfly Rosa was invited to dance by each gale:黄金蝶となった楼座は、暴風たちに次々とダンスを申し}{ruby:of wind, and she spun in circles around the rose garden.:込まれては、薔薇庭園をくるくると舞い踊った。}`
+`{ruby:"No,:「もう嫌、…嫌ぁああああ}{ruby:...nooo{-}o{-}o{-}o{-}ooOO{-}O{-}OOoo{-}o{-}ooOO{-}OOooo!!:あぁああああぁ！！}`
 `{ruby:.........ah—":………ぁッ…、」}`
-`{ruby:A gentle bed caught her as she tired from dancing.:ダンスに疲れた彼女を、やさしいベッドが受け止めてくれた。}`
-`{ruby:It was a soft, knit hammock in the shadows beneath the roof of the arbor.:それは東屋の屋根の影に編まれた天空の柔らかなハンモック。}`
-`{ruby:...The owner of that hammock lumbered into view, welcoming its rare guest who had wandered in on this stormy night...:…そのハンモックの主が、のっそりと姿を現し、嵐の晩に迷い込んだ珍客を出迎えた…。}`
-`{ruby:That owner, which should have been small enough to crush in the palm of your hand,:手の平で握り潰せるほどの大きさのはずのその主は、}`
-`{ruby:now looked as big as the top of a canopy bed to Rosa.:今の楼座から見れば、天蓋ベッドの屋根より大きい。}`
-`{ruby:"Giiyaaaaaaaaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaa!!!":「ぎやああああああああああああああああああぁああああああああああああああああああああああああああああぁあああああッ！！！」}`
-`{ruby:"Kyahhahaha{0}kya{0}hha{0}ha{0}ha{0}hahaha!:「きゃっはははきゃっはははははは！}`
-`{ruby:What a klutz, you got caught in a spider's web!:ドジね、蜘蛛の巣に引っ掛かってる！}`
+`{ruby:A gentle bed caught her:ダンスに疲れた彼女を、やさしい}{ruby:as she tired from dancing.:ベッドが受け止めてくれた。}`
+`{ruby:It was a soft, knit hammock in:それは東屋の屋根の影に編まれた}{ruby:the shadows beneath the roof of the arbor.:天空の柔らかなハンモック。}`
+`{ruby:...The owner of that hammock lumbered into view, welcoming its:…そのハンモックの主が、のっそりと姿を現し}{ruby:rare guest who had wandered in on this stormy night...:、嵐の晩に迷い込んだ珍客を出迎えた…。}`
+`{ruby:That owner, which should have been small enough:手の平で握り潰せるほどの大}{ruby:to crush in the palm of your hand,:きさのはずのその主は、}`
+`{ruby:now looked as big as the:今の楼座から見れば、天蓋ベ}{ruby:top of a canopy bed to Rosa.:ッドの屋根より大きい。}`
+`{ruby::「ぎやああああああああああああああああああぁああああああああああ}{ruby:"Giiyaaaaaaaaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaa!!!":ああああああああああああああああああぁあああああッ！！！」}`
+`{ruby::「きゃっはははきゃっ}{ruby:"Kyahhahaha{0}kya{0}hha{0}ha{0}ha{0}hahaha!:はははははは！}`
+`{ruby:What a klutz, you got:ドジね、蜘蛛の巣に引}{ruby:caught in a spider's web!:っ掛かってる！}`
 `{ruby:Ahhahaha, ahhahahahahaha!!":あっははは、あっはははははは！！」}`
-`{ruby:"This time, it's a dance with a spider.:「今度は蜘蛛とダンスなのね。}`
-`{ruby:That takes me back, remember the times we'd find a spider's web and play around by throwing pebbles at it?:懐かしいわね、蜘蛛の巣を見つけては石粒を投げつけて遊んだの、覚えてる？}`
-`{ruby:I've heard that spiders don't chew their prey,:蜘蛛って獲物をかじるんじゃなくて、}`
-`{ruby:but insert their venom, and when the insides melt into a sticky soup, they suck it out.":毒液を挿して、中身をどろどろのスープに溶かしてから啜るんだって聞いたことがあるわ」}`
+`{ruby:"This time, it's a:「今度は蜘蛛とダ}{ruby:dance with a spider.:ンスなのね。}`
+`{ruby:That takes me back, remember the times we'd find a:懐かしいわね、蜘蛛の巣を見つけては石粒}{ruby:spider's web and play around by throwing pebbles at it?:を投げつけて遊んだの、覚えてる？}`
+`{ruby:I've heard that spiders:蜘蛛って獲物をかじる}{ruby:don't chew their prey,:んじゃなくて、}`
+`{ruby:but insert their venom, and when the insides:毒液を挿して、中身をどろどろのスープに溶かし}{ruby:melt into a sticky soup, they suck it out.":てから啜るんだって聞いたことがあるわ」}`
 `{ruby:"......Hey, Rosa, remember?:「……ねぇ楼座、覚えてる？}`
-`{ruby:Remember how we'd throw butterflies into the spider's web on purpose, and play around by seeing how the spider would attack?":わざと蝶々を蜘蛛の巣に放って、どう蜘蛛が襲うか眺めて遊んでた時のこと、覚えてる？」}`
+`{ruby:Remember how we'd throw butterflies into the spider's web on:わざと蝶々を蜘蛛の巣に放って、どう蜘蛛が襲う}{ruby:purpose, and play around by seeing how the spider would attack?":か眺めて遊んでた時のこと、覚えてる？」}`
 `{ruby:"Kyahhahahahahahaha,:「きゃっははははははは、}`
-`{ruby:you don't remember, do you? This happened before you got into grade school...!!:覚えてないわね、あなた小学校に上がる前だったと思うもの…！！}`
-`{ruby:You'll be able to see it up close this time, you know!:今度はよく見れるわよ？}`
+`{ruby:you don't remember, do you? This:覚えてないわね、あなた小学校に上}{ruby:happened before you got into grade school...!!:がる前だったと思うもの…！！}`
+`{ruby:You'll be able to see it:今度はよく見れ}{ruby:up close this time, you know!:るわよ？}`
 `{ruby:Very close.:しげしげとね。}`
-`{ruby:Kyahihi{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}kyaaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":きゃひひははははははきゃーははははははははははははははははッ！！」}`
-`{ruby:"Noooooooooooooooooooooooooooooooooooooooo,:「嫌ぁああああああああああああああぁあああぁあああぁ、}`
+`{ruby::きゃひひははははははきゃーははははは}{ruby:Kyahihi{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}kyaaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":はははははははははははッ！！」}`
+`{ruby::「嫌ぁああああああああああああ}{ruby:"Noooooooooooooooooooooooooooooooooooooooo,:ああぁあああぁあああぁ、}`
 `{ruby:have mercy, Nee‐san,:許して姉さん、}`
 `{ruby:help me, Nee‐san!!:助けて姉さんッ！！}`
 `{ruby:":」}`
@@ -729,304 +729,304 @@
 `{ruby:ga—:がッ…、}`
 `{ruby:...ga—:がッ……、}`
 `{ruby:......gyuboh!!":ぎゅぼッ！！」}`
-`{ruby:"This girl's not bad. She truly can use magic at will!:「あいつ、やるなぁ、実に自由に魔法を使いこなす！}`
-`{ruby:Hiihyahha{0}ha{0}ha{0}ha{0}hakkuhi{0}hie{0}hie{0}hya{0}hyahya!!":ひぃっひゃっはははははッくひひぇひぇひゃひゃひゃッ！！」}`
-`{ruby:"Interesting interesting, interesting interesting!:「面白い面白い、面白い面白いッ！}`
-`{ruby:You feel like laughing too, right, Battleeeeeeer?!":戦人も笑えるだろぉおおぉ？！」}`
+`{ruby:"This girl's not bad. She:「あいつ、やるなぁ、実に自}{ruby:truly can use magic at will!:由に魔法を使いこなす！}`
+`{ruby::ひぃっひゃっはははははッくひひぇ}{ruby:Hiihyahha{0}ha{0}ha{0}ha{0}hakkuhi{0}hie{0}hie{0}hya{0}hyahya!!":ひぇひゃひゃひゃッ！！」}`
+`{ruby:"Interesting interesting,:「面白い面白い、面}{ruby:interesting interesting!:白い面白いッ！}`
+`{ruby:You feel like:戦人も笑えるだろぉ}{ruby:laughing too, right, Battleeeeeeer?!":おおぉ？！」}`
 `{ruby:"Stop this bullshit!!!:「ふざけんなッ！！}`
 `{ruby:Just STOOOOOOP!!!:もう止めろぉおおおおおおぉ！！}`
-`{ruby:What's so fun, you're insane, you're insane!!:何が楽しいんだよ、おかしいッ、てめぇおかしいぞッ！！}`
-`{ruby:What's so fun about doing something like this?!?!":こんなことをして何が楽しいってんだッ？！？！」}`
-`{ruby:"Doesn't she look like she's having so much fun?:「あんなに楽しそうじゃなぃかよォ。}`
-`{ruby:I don't blame her, magic {i:is} fun!!:無理もない、魔法は楽しいもんなぁ！！}`
-`{ruby:I remember, when I first became able to use magic, I played around so much!:思い出すよ、妾も魔法が使えるようになった時はすっごくはしゃいだもんさ！}`
-`{ruby:...Yeess, I understand, I understand, I understand that play from the bottom of my heart!":…あぁ、わかるぜわかるぜ、あのはしゃぎっぷりが心の底からわかるさ！」}`
-`{ruby:"......I expect I won't be able to share this joy and passion with you, Battler, aah, what a shame, what a shame!!:「……この喜びや感動、戦人には共感できないんだろうなァ、あぁ残念残念！！}`
-`{ruby:If you accepted me, I'd teach you magic anytime you wanted, you know?!:戦人だって、妾を認めればいつだって魔法を教えてやるぞ？！}`
-`{ruby:It's hard to describe the joy you receive in the instant you are freed from the shackles of {y:0:Human}{n:0:human}ity!":ニンゲンの束縛を逃れた瞬間の喜びは筆舌に尽くし難い！」}`
-`{ruby:"I want to teach you about it, that joy, that passion!:「そなたに教えてやりたいよ、あの喜び、あの感動ッ！}`
-`{ruby:I definitely would like to see the world of magic you would give birth to, just once!:そなたの生み出す魔法の世界も、ぜひ一度見てみたいものだ！}`
-`{ruby:Kihhihihihi, hhyahhya{0}haah{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":きっひひひっひっひ、ひゃっひゃっはははははははははは！！」}`
-`{ruby:"You're starting to enjoy yourself, right?:「楽しくなってきただろ？}`
-`{ruby:You've started wanting to use magic, right?!:魔法が使いたくなってきただろ？！}`
-`{ruby:It's pretty fun to be a witch, you know?!:魔女もなかなかに楽しいものであるぞ？！}`
+`{ruby:What's so fun,:何が楽しいんだよ、おかしいッ、}{ruby:you're insane, you're insane!!:てめぇおかしいぞッ！！}`
+`{ruby:What's so fun about:こんなことをして何が楽しい}{ruby:doing something like this?!?!":ってんだッ？！？！」}`
+`{ruby:"Doesn't she look like:「あんなに楽しそうじ}{ruby:she's having so much fun?:ゃなぃかよォ。}`
+`{ruby:I don't blame:無理もない、魔法は楽}{ruby:her, magic {i:is} fun!!:しいもんなぁ！！}`
+`{ruby:I remember, when I first became able:思い出すよ、妾も魔法が使えるようになっ}{ruby:to use magic, I played around so much!:た時はすっごくはしゃいだもんさ！}`
+`{ruby:...Yeess, I understand, I understand, I understand:…あぁ、わかるぜわかるぜ、あのはしゃぎ}{ruby:that play from the bottom of my heart!":っぷりが心の底からわかるさ！」}`
+`{ruby:"......I expect I won't be able to share this joy and:「……この喜びや感動、戦人には共感でき}{ruby:passion with you, Battler, aah, what a shame, what a shame!!:ないんだろうなァ、あぁ残念残念！！}`
+`{ruby:If you accepted me, I'd teach:戦人だって、妾を認めればいつだっ}{ruby:you magic anytime you wanted, you know?!:て魔法を教えてやるぞ？！}`
+`{ruby:It's hard to describe the joy you receive in:ニンゲンの束縛を逃れた瞬間の喜}{ruby:the instant you are freed from the shackles of {y:0:Human}{n:0:human}ity!":びは筆舌に尽くし難い！」}`
+`{ruby:"I want to teach you:「そなたに教えてやりたいよ、}{ruby:about it, that joy, that passion!:あの喜び、あの感動ッ！}`
+`{ruby:I definitely would like to see the world:そなたの生み出す魔法の世界も、ぜ}{ruby:of magic you would give birth to, just once!:ひ一度見てみたいものだ！}`
+`{ruby:Kihhihihihi,:きっひひひっひっひ、ひゃっひゃっ}{ruby:hhyahhya{0}haah{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":はははははははははは！！」}`
+`{ruby:"You're starting to:「楽しくなって}{ruby:enjoy yourself, right?:きただろ？}`
+`{ruby:You've started wanting:魔法が使いたくなって}{ruby:to use magic, right?!:きただろ？！}`
+`{ruby:It's pretty fun to:魔女もなかなかに楽しい}{ruby:be a witch, you know?!:ものであるぞ？！}`
 `{ruby:Just for you, I'll teach everything!:そなたには特別に教えてやる！}`
-`{ruby:About the joy of flying together in the sky, about the joy of diving together through the sea!":一緒に空を飛ぶ喜びとか、一緒に海を潜る喜びとか！」}`
-`{ruby:"I will teach you the excitement that you feel,:「ニンゲンの制約を超えた瞬間に知る、}`
-`{ruby:in the instant you surpass the bounds of {y:0:Human}{n:0:human}s and see how wide your world stretches!:世界がどれほどに広かったのかという感動をそなたにも教えてやる！}`
+`{ruby:About the joy of flying together in the sky,:一緒に空を飛ぶ喜びとか、一緒}{ruby:about the joy of diving together through the sea!":に海を潜る喜びとか！」}`
+`{ruby:"I will teach you:「ニンゲンの制約を超}{ruby:the excitement that you feel,:えた瞬間に知る、}`
+`{ruby:in the instant you surpass the bounds of:世界がどれほどに広かったのかという}{ruby:{y:0:Human}{n:0:human}s and see how wide your world stretches!:感動をそなたにも教えてやる！}`
 `{ruby:Wouldn't that be fun,:そしたら楽しいだろうなぁ、}`
-`{ruby:wahhyahhyaha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":わっひゃっひゃはっはははははははははははッ！！」}`
-`{ruby:There was no malice in Beato's expression.:ベアトの表情に邪気はなかった。}`
-`{ruby:...It was hard to believe, but she was genuinely enjoying this cruel show.:…信じられないことだが、この残酷なショーを、彼女は純粋に楽しんでいるのだ。}`
-`{ruby:And she thought she was sharing her appreciation with Battler.:そしてそれを、戦人と一緒に鑑賞しているつもりなのだ。}`
-`{ruby:{n}......Battler was aghast at that vastly...:{n}……その異常に、}`
-`{ruby:hopelessly different measure of value.:絶望的なまでの価値観の違いに、戦人は驚愕する。}`
-`{ruby:"This is unbelievable... There's definitely something screwed up with you!!:「信じられねぇ…てめぇ、絶対変だぞッ！！}`
+`{ruby::わっひゃっひゃはっはははは}{ruby:wahhyahhyaha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":はははははははッ！！」}`
+`{ruby:There was no:ベアトの表情に邪気}{ruby:malice in Beato's expression.:はなかった。}`
+`{ruby:...It was hard to believe, but:…信じられないことだが、この残酷なショー}{ruby:she was genuinely enjoying this cruel show.:を、彼女は純粋に楽しんでいるのだ。}`
+`{ruby:And she thought she was:そしてそれを、戦人と一緒に鑑}{ruby:sharing her appreciation with Battler.:賞しているつもりなのだ。}`
+`{ruby:{n}......Battler was aghast:{n}……その}{ruby:at that vastly...:異常に、}`
+`{ruby:hopelessly different:絶望的なまでの価値観の違い}{ruby:measure of value.:に、戦人は驚愕する。}`
+`{ruby:"This is unbelievable... There's definitely:「信じられねぇ…てめぇ}{ruby:something screwed up with you!!:、絶対変だぞッ！！}`
 `{ruby:Stop it already, goddammiiiiiiiiit!!:もう止めろ畜生ォオオオォ！！}`
-`{ruby:{f:5:Virgilia}, make her stop this insane farce!!:ワルギリアッ、このおかしな茶番を止めさせるんだ！！}`
+`{ruby:{f:5:Virgilia}, make her:ワルギリアッ、このおかしな茶}{ruby:stop this insane farce!!:番を止めさせるんだ！！}`
 `{ruby:What do I have to do?!!":どうすりゃいいんだ！！」}`
 `{ruby:".........We exist outside the board.:「………私たちは盤外の存在です。}`
 `{ruby:We cannot touch the board itself.":盤上には触れられません」}`
-`{ruby:{f:5:Virgilia} shook her head apologetically.:ワルギリアは申し訳なさそうに首を振る。}`
-`{ruby:{n}...She was one who had already been "killed".:{n}…彼女はすでに“殺された”身だ。}`
-`{ruby:{n}Did that mean she couldn't interfere in any way...?:{n}何の干渉もできないということなのか…。}`
-`{ruby:As Beato continued to enjoy it in a crazed sort of way, Battler lifted her up by the collar and yelled at her.:戦人は、イカれたように面白がり続けるベアトの胸倉を掴みあげて吼えた。}`
-`{ruby:"Stop it stop it stop iiiiiiiiiiiiiiiiit!!!:「止めろ止めろ止めろぉおおおおおおぉおぉッ！！！}`
-`{ruby:That's {i:enough}, you goddamn witch!!:いい加減にしろ魔女めッ！！}`
-`{ruby:Are you trying to tell me that's Auntie Eva?!":あれが絵羽伯母さんだってのか？！」}`
+`{ruby:{f:5:Virgilia} shook:ワルギリアは申し訳なさ}{ruby:her head apologetically.:そうに首を振る。}`
+`{ruby:{n}...She was one who:{n}…彼女はすでに“}{ruby:had already been "killed".:殺された”身だ。}`
+`{ruby:{n}Did that mean she:{n}何の干渉もできない}{ruby:couldn't interfere in any way...?:ということなのか…。}`
+`{ruby:As Beato continued to enjoy it in a crazed sort of:戦人は、イカれたように面白がり続ける}{ruby:way, Battler lifted her up by the collar and yelled at her.:ベアトの胸倉を掴みあげて吼えた。}`
+`{ruby:"Stop it stop:「止めろ止めろ止めろぉおお}{ruby:it stop iiiiiiiiiiiiiiiiit!!!:おおおおぉおぉッ！！！}`
+`{ruby:That's {i:enough},:いい加減にしろ魔}{ruby:you goddamn witch!!:女めッ！！}`
+`{ruby:Are you trying to:あれが絵羽伯母さんだ}{ruby:tell me that's Auntie Eva?!":ってのか？！」}`
 `{ruby:"That's impossible!!:「有り得ないッ！！}`
-`{ruby:While the Auntie Eva I know may be a bit mean at times,:俺の知ってる絵羽伯母さんは、確かに意地悪なとこも少しはあったけど、}`
-`{ruby:it's completely impossible that she's the kind of person that would do something this cruel!!":こんな残酷なことをする人じゃ、断じてありえないッ！！」}`
+`{ruby:While the Auntie Eva I know:俺の知ってる絵羽伯母さんは、確かに意}{ruby:may be a bit mean at times,:地悪なとこも少しはあったけど、}`
+`{ruby:it's completely impossible that she's the kind:こんな残酷なことをする人じゃ、}{ruby:of person that would do something this cruel!!":断じてありえないッ！！」}`
 `{ruby:"This is all part of your deception!!:「全てお前のまやかしだ！！}`
 `{ruby:Don't toy with Auntie Rosa!!:楼座叔母さんを弄ぶな！！}`
 `{ruby:Don't toy with Auntie Eva!!:絵羽伯母さんを弄ぶな！！}`
-`{ruby:Stop this farce RIGHT NOOOOOOOOOOOOOOOOOW!!":今すぐこの茶番を止めさせろぉおおおおおおおおぉ！！」}`
-`{ruby:"But I already said that it's not me playing with Rosa anymore.:「だから楼座と遊んでいるのはもう妾ではないと言うに。}`
-`{ruby:I told you, that's the new {f:5:Beatrice}.":新しきベアトリーチェだと言うにぃ」}`
-`{ruby:"Is it really so cruel that you have to squeal like that?:「そんなにぎゃあぎゃあ喚くほどに残酷かぁ？}`
-`{ruby:You're also pretty fond of stuff like this, aren't you?!:そなたもこういうの、実は結構好きだろうが！}`
-`{ruby:You actually have just a bit of interest in magic and—:実はちょっぴり魔法に興味を持ってきて、}`
+`{ruby:Stop this:今すぐこの茶番を止めさせろぉお}{ruby:farce RIGHT NOOOOOOOOOOOOOOOOOW!!":おおおおおおおぉ！！」}`
+`{ruby:"But I already said that it's:「だから楼座と遊んでいるのは}{ruby:not me playing with Rosa anymore.:もう妾ではないと言うに。}`
+`{ruby:I told you,:新しきベアトリーチェ}{ruby:that's the new {f:5:Beatrice}.":だと言うにぃ」}`
+`{ruby:"Is it really so cruel that:「そんなにぎゃあぎゃあ喚}{ruby:you have to squeal like that?:くほどに残酷かぁ？}`
+`{ruby:You're also pretty fond of:そなたもこういうの、実は}{ruby:stuff like this, aren't you?!:結構好きだろうが！}`
+`{ruby:You actually have just a:実はちょっぴり魔法に興}{ruby:bit of interest in magic and—:味を持ってきて、}`
 `{ruby:...ouch.:………あ痛っ！}`
 `{ruby:Wh‐what was that—":な、何をする…、」}`
-`{ruby:For the first time, Battler slapped Beato across the cheek.:戦人は初めてベアトの頬を叩いた。}`
-`{ruby:...Beato didn't know why something like that would be done to her, and a stunned expression rose to her face.:…なぜそんなことをされるのかわからず、ベアトはきょとんとした表情を浮かべる。}`
-`{ruby:Battler found that expression even more unforgivable, and he roared.:その表情がなお許せなくて、戦人は吼え猛った。}`
+`{ruby:For the first time, Battler:戦人は初めてベアト}{ruby:slapped Beato across the cheek.:の頬を叩いた。}`
+`{ruby:...Beato didn't know why something like that would be done:…なぜそんなことをされるのかわからず、ベ}{ruby:to her, and a stunned expression rose to her face.:アトはきょとんとした表情を浮かべる。}`
+`{ruby:Battler found that expression even:その表情がなお許せなくて}{ruby:more unforgivable, and he roared.:、戦人は吼え猛った。}`
 `{ruby:"HUUUUUUH?!:「あああああぁ？！}`
 `{ruby:You call this {i:interesting}?!:これが面白いだああッ？！}`
-`{ruby:What the shit is wrong with your head?!!:お前の頭はどうなってんだ！！}`
+`{ruby:What the shit is:お前の頭はどうなっ}{ruby:wrong with your head?!!:てんだ！！}`
 `{ruby:Go kill yourself!:死ねッ！}`
-`{ruby:Slice the top of your head off and try looking inside, you'll definitely find that the insides have been completely removed!!!":頭を輪切りにしててめえで覗いてみろ、絶対ぇに中身がごっそり抜けてるぜッ！！！」}`
-`{ruby:"Make her stop it right now, make her stop this disgusting farce!!:「今すぐ止めさせろ、この悪趣味な茶番を止めさせるんだ！！}`
+`{ruby:Slice the top of your head off and try looking:頭を輪切りにしててめえで覗いてみろ、絶対ぇ}{ruby:inside, you'll definitely find that the insides have been completely removed!!!":に中身がごっそり抜けてるぜッ！！！」}`
+`{ruby:"Make her stop it right now,:「今すぐ止めさせろ、この悪趣味}{ruby:make her stop this disgusting farce!!:な茶番を止めさせるんだ！！}`
 `{ruby:I'll never forgive you!!:俺はお前を許さないッ！！}`
 `{ruby:How dare you do something so cruel!!:よくもこんな残酷なことをッ！！}`
-`{ruby:I've sometimes thought that you're a bit of a funny person, but I'll never make that mistake again!":お前のこと、少しでも笑えるヤツだと思ったこともあったが、俺はもう二度と勘違いしないッ！」}`
-`{ruby:"You're just a monster who's nothing but cruel!!!:「お前はただ残酷なだけの怪物だッ！！！}`
+`{ruby:I've sometimes thought that you're a bit of a:お前のこと、少しでも笑えるヤツだと思ったこともあ}{ruby:funny person, but I'll never make that mistake again!":ったが、俺はもう二度と勘違いしないッ！」}`
+`{ruby:"You're just a monster:「お前はただ残酷なだけ}{ruby:who's nothing but cruel!!!:の怪物だッ！！！}`
 `{ruby:Don't show yourself in front of me!!:俺の前に現れるなッ！！}`
 `{ruby:Never again!!:二度とだ！！}`
-`{ruby:I won't accept you, I won't talk with you, I don't even want to look at your face!!":お前を認めない、お前と話さない、お前の顔など見たくもないッ！！」}`
+`{ruby:I won't accept you, I won't talk with you,:お前を認めない、お前と話さない、お前}{ruby:I don't even want to look at your face!!":の顔など見たくもないッ！！」}`
 `{ruby:"That get through to you?!!:「聞こえたかッ！！}`
 `{ruby:Don't show yourself in front of me!!:俺の前に現れるな！！}`
-`{ruby:Just—FUCK—OOOOOOOOOOOOOOOOOOOOOOFF!!!":お前なんか消えてしまえええええええええぇえええええぇッ！！！」}`
-`{ruby:The instant Battler screamed, the power that resisted the witch became a red wall which repelled Beato, knocking her back onto her butt.:戦人が叫んだ刹那、魔女を拒否する力が赤い壁となってベアトを弾き飛ばし、尻餅をつかせた。}`
+`{ruby::お前なんか消えてしまえええええええ}{ruby:Just—FUCK—OOOOOOOOOOOOOOOOOOOOOOFF!!!":ええぇえええええぇッ！！！」}`
+`{ruby:The instant Battler screamed, the power that resisted the witch became:戦人が叫んだ刹那、魔女を拒否する力が赤い壁とな}{ruby:a red wall which repelled Beato, knocking her back onto her butt.:ってベアトを弾き飛ばし、尻餅をつかせた。}`
 `{ruby:"......Owowowow...:「……痛ててて…。}`
-`{ruby:...What are you talking about, isn't it an interesting show...?":…何だと言うのだ、面白い見物ではないかよぉ…」}`
-`{ruby:She spoke as though making an excuse, but the person those words were directed at, Battler, was no longer there.:言い訳めいた言葉を口にするが、その言葉の相手である戦人の姿はない。}`
-`{ruby:His figure had suddenly disappeared into the darkness...:いつの間にか、戦人の姿は闇の中に消えていた…。}`
-`{ruby:...But Beato pouted her lips, and continued trying to explain herself.:…だがベアトは口を尖らせながら、なおも言い訳するような言葉を続ける。}`
-`{ruby:"......I‐it's not like I completely don't see where you're coming from,:「……そ、そりゃあ、確かにちょっとアレかなとは思うが、}`
-`{ruby:...but this is nothing more than an innocent prank, right...?:…こんなの無邪気な悪戯程度であろう…？}`
-`{ruby:No matter how she kills, that person will be brought back to life in the end, right?:どう殺そうが、結局は生き返らせておるではないか。}`
-`{ruby:...Aren't {y:0:Human}{n:0:human}s creatures that are fine with anything as long as it ends well......?!":…ニンゲンは終わりさえ良ければ何でも良い生き物ではなかったのか……？！」}`
+`{ruby:...What are you talking about,:…何だと言うのだ、面白い見}{ruby:isn't it an interesting show...?":物ではないかよぉ…」}`
+`{ruby:She spoke as though making an excuse, but the person:言い訳めいた言葉を口にするが、その言}{ruby:those words were directed at, Battler, was no longer there.:葉の相手である戦人の姿はない。}`
+`{ruby:His figure had suddenly:いつの間にか、戦人の姿は闇}{ruby:disappeared into the darkness...:の中に消えていた…。}`
+`{ruby:...But Beato pouted her lips,:…だがベアトは口を尖らせながら、なお}{ruby:and continued trying to explain herself.:も言い訳するような言葉を続ける。}`
+`{ruby:"......I‐it's not like I completely:「……そ、そりゃあ、確かにちょ}{ruby:don't see where you're coming from,:っとアレかなとは思うが、}`
+`{ruby:...but this is nothing more:…こんなの無邪気な悪戯}{ruby:than an innocent prank, right...?:程度であろう…？}`
+`{ruby:No matter how she kills, that person will:どう殺そうが、結局は生き返ら}{ruby:be brought back to life in the end, right?:せておるではないか。}`
+`{ruby:...Aren't {y:0:Human}{n:0:human}s creatures that are fine with:…ニンゲンは終わりさえ良ければ何でも良}{ruby:anything as long as it ends well......?!":い生き物ではなかったのか……？！」}`
 `{ruby:"R‐right, Master?:「の、のぅ、お師匠様。}`
-`{ruby:It's not something to get so angry about...!":そこまでヘソを曲げられるものでもあるまいに…！」}`
-`{ruby:She was hoping for approval, but {f:5:Virgilia} simply faced her with an indifferent expression.:同意を求めるが、ワルギリアは淡白な表情を向けるだけ。}`
-`{ruby:{n}...To Beato, at that moment, even an exasperated face would probably have seemed better.:{n}…むしろ呆れ顔の方が、今のベアトにとっては幾分、マシだったかもしれない。}`
-`{ruby:"............I have nothing in particular to say.:「…………私から特に言うことはありません。}`
-`{ruby:If you think it is fun, you can keep watching as long as you want.:あなたが楽しいと思うなら、いつまでも見続けていると良いでしょう。}`
+`{ruby:It's not something to:そこまでヘソを曲げられるも}{ruby:get so angry about...!":のでもあるまいに…！」}`
+`{ruby:She was hoping for approval, but {f:5:Virgilia}:同意を求めるが、ワルギリアは}{ruby:simply faced her with an indifferent expression.:淡白な表情を向けるだけ。}`
+`{ruby:{n}...To Beato, at that moment, even an:{n}…むしろ呆れ顔の方が、今のベアトにと}{ruby:exasperated face would probably have seemed better.:っては幾分、マシだったかもしれない。}`
+`{ruby:"............I have nothing:「…………私から特に言う}{ruby:in particular to say.:ことはありません。}`
+`{ruby:If you think it is fun, you:あなたが楽しいと思うなら、いつまで}{ruby:can keep watching as long as you want.:も見続けていると良いでしょう。}`
 `{ruby:...Call me when it's over.:…終わったら呼びなさい。}`
 `{ruby:I will erase my form until then.":それまで私も姿を消します」}`
-`{ruby:Following Battler's lead, {f:5:Virgilia} hid herself in the darkness...:戦人に続きワルギリアも闇に姿を消す…。}`
-`{ruby:Left sitting there on her own, Beato didn't have a clue what was going on, and felt like she had been made out to be the bad guy.:ぽつんと残されたベアトは、何が何だかわからず、自分が悪者にされたような気分だった。}`
+`{ruby:Following Battler's lead, {f:5:Virgilia}:戦人に続きワルギリアも}{ruby:hid herself in the darkness...:闇に姿を消す…。}`
+`{ruby:Left sitting there on her own, Beato didn't have a clue what was going:ぽつんと残されたベアトは、何が何だかわからず}{ruby:on, and felt like she had been made out to be the bad guy.:、自分が悪者にされたような気分だった。}`
 `{ruby:"..............................:「…………………………。}`
 `{ruby:......What's so wronnng?:……何だよォ。}`
-`{ruby:It's an interesting show, isn't it...?!:面白いショーじゃないかよぅ…！}`
-`{ruby:I‐it might be a little vulgar, ......but it's fairly interesting, isn't it...?!!:ちょ、ちょっとは悪趣味かもしれないけど、……割と面白いじゃないかよう…！！}`
+`{ruby:It's an interesting:面白いショーじゃな}{ruby:show, isn't it...?!:いかよぅ…！}`
+`{ruby:I‐it might be a little vulgar,:ちょ、ちょっとは悪趣味かもしれないけど、}{ruby:......but it's fairly interesting, isn't it...?!!:……割と面白いじゃないかよう…！！}`
 `{ruby:Right, Ronove...?!:なぁロノウェ…？！}`
-`{ruby:It's nothing to get so mad about, right...?!":あそこまで怒るほどじゃないよなぁ…？！」}`
+`{ruby:It's nothing to get:あそこまで怒るほどじゃな}{ruby:so mad about, right...?!":いよなぁ…？！」}`
 `{ruby:"Pu ku ku ku.:「ぷっくっくっく。}`
-`{ruby:......Something interesting for you, Milady, is not necessarily interesting for Battler‐sama.":……お嬢様の面白いが、戦人さまにも面白いとは限りませんよ」}`
+`{ruby:......Something interesting for you, Milady,:……お嬢様の面白いが、戦人さまに}{ruby:is not necessarily interesting for Battler‐sama.":も面白いとは限りませんよ」}`
 `{ruby:"Does he really...hate me that much?":「妾は、…そんなにも嫌われておるか？」}`
-`{ruby:"......Well, certainly, we are playing against each other, so it is true we are enemies,:「……そりゃあ確かに、対戦相手だから敵同士ではあるが、}`
-`{ruby:...but is our relationship really so bad that we can't laugh together at entertainment...?!:…座興を笑い合えぬほど、妾たちは不仲だというのかぁ…？！}`
-`{ruby:.........Since I applauded together with Battler, I thought I could at least laugh together with him...:………戦人と一緒に拍手できたように、一緒にげらげら笑い合えると思ったのに…。}`
-`{ruby:......Does he really reject me so much that we can't even do that...?":……その程度のことすら、妾は拒絶されるというのかよぉ…」}`
-`{ruby:"...He doesn't have to accept that I'm a witch.:「…魔女だと認めぬのはいいさ。}`
-`{ruby:Because the point of the game is to compete over that.:それを競い合うゲームなんだから。}`
-`{ruby:But still, saying he won't look at my face, that he won't talk to me,:でもよぉ、顔も見ない、話もしないって、}`
-`{ruby:......surely ignoring me is going too far...:……無視はいくらなんでもないだろぉ…。}`
-`{ruby:Am I really hated that muuuuuch......!":妾はそんなにも嫌われ者なのかよぉおおぉ……！」}`
-`{ruby:"The moves you have made thus far are certainly worthy of hatred, Milady.:「これまで、お嬢様は充分に嫌われるだけの指し手を致しました。}`
-`{ruby:Even a demon such as myself can slightly understand Battler‐sama's feelings.:悪魔の私でさえ、戦人さまの気持ちが、少しはわかろうというもの。}`
-`{ruby:......I wonder if you cannot understand that because you are especially thickheaded, Milady?:……それが理解できぬのは、お嬢様が特に鈍感が過ぎるのではないかと。}`
+`{ruby:"......Well, certainly, we are playing against each:「……そりゃあ確かに、対戦相手}{ruby:other, so it is true we are enemies,:だから敵同士ではあるが、}`
+`{ruby:...but is our relationship really so bad:…座興を笑い合えぬほど、妾たち}{ruby:that we can't laugh together at entertainment...?!:は不仲だというのかぁ…？！}`
+`{ruby:.........Since I applauded together with Battler, I thought:………戦人と一緒に拍手できたように、一緒に}{ruby:I could at least laugh together with him...:げらげら笑い合えると思ったのに…。}`
+`{ruby:......Does he really reject me so:……その程度のことすら、妾は拒}{ruby:much that we can't even do that...?":絶されるというのかよぉ…」}`
+`{ruby:"...He doesn't have to:「…魔女だと認めぬ}{ruby:accept that I'm a witch.:のはいいさ。}`
+`{ruby:Because the point of the:それを競い合うゲー}{ruby:game is to compete over that.:ムなんだから。}`
+`{ruby:But still, saying he won't look at:でもよぉ、顔も見ない、}{ruby:my face, that he won't talk to me,:話もしないって、}`
+`{ruby:......surely ignoring me:……無視はいくらなんで}{ruby:is going too far...:もないだろぉ…。}`
+`{ruby:Am I really:妾はそんなにも嫌われ者なの}{ruby:hated that muuuuuch......!":かよぉおおぉ……！」}`
+`{ruby:"The moves you have made thus:「これまで、お嬢様は充分に嫌われ}{ruby:far are certainly worthy of hatred, Milady.:るだけの指し手を致しました。}`
+`{ruby:Even a demon such as:悪魔の私でさえ、戦人さまの気持ちが}{ruby:myself can slightly understand Battler‐sama's feelings.:、少しはわかろうというもの。}`
+`{ruby:......I wonder if you cannot understand:……それが理解できぬのは、お嬢様が特}{ruby:that because you are especially thickheaded, Milady?:に鈍感が過ぎるのではないかと。}`
 `{ruby:Pukkukukukuku.":ぷっくくくくく」}`
 `{ruby:"Sh‐shut up shut up shut up shut up!!:「う、うるさいうるさいうるさいうるさいッ！！}`
 `{ruby:Why don't you disappear too?!!":お前も消えてしまえ！！」}`
 `{ruby:"Yes, certainly.:「はい、畏まりました。}`
 `{ruby:......Then, if you would excuse me.":……それでは失礼いたします」}`
-`{ruby:Even Ronove hid himself in the darkness, and Beato was left alone.:ロノウェまでもが闇に姿を消し、後にはベアトがたったひとり。}`
-`{ruby:The only one in the rainy rose garden.:雨天の薔薇庭園にたったひとり。}`
+`{ruby:Even Ronove hid himself in the:ロノウェまでもが闇に姿を消し、後}{ruby:darkness, and Beato was left alone.:にはベアトがたったひとり。}`
+`{ruby:The only one in:雨天の薔薇庭園にた}{ruby:the rainy rose garden.:ったひとり。}`
 `{ruby:No one will play with a lonely witch.:ひとりぼっちの魔女は、誰も遊んでくれない。}`
-`{ruby:Because no one would play with her, she was a lonely witch.:誰も遊んでくれないからこそ、ひとりぼっちの魔女。}`
+`{ruby:Because no one would play with:誰も遊んでくれないからこそ}{ruby:her, she was a lonely witch.:、ひとりぼっちの魔女。}`
 `{ruby:".....................:「…………………。}`
 `{ruby:......What's going on?:……何だよぉ。}`
 `{ruby:...Why won't anyone play with me...?:…何で妾と誰も遊んでくれないんだよぉ…。}`
-`{ruby:.........Am I really that weird, that cruel...?:………そんなに妾は変かよぉ、残酷かよぉ…。}`
-`{ruby:............Someone, answer meeeeeeeeee!!":…………誰か返事しろよぉおおォ！！」}`
-`{ruby:"Kyahhaha{0}ha{0}ha{0}ha{0}haha, isn't this fun, Rosa, isn't this fun!:「きゃっははははははは、楽しいね楼座、楽しいねッ！}`
+`{ruby:.........Am I really:………そんなに妾は変かよ}{ruby:that weird, that cruel...?:ぉ、残酷かよぉ…。}`
+`{ruby:............Someone,:…………誰か返事しろ}{ruby:answer meeeeeeeeee!!":よぉおおォ！！」}`
+`{ruby:"Kyahhaha{0}ha{0}ha{0}ha{0}haha, isn't this fun,:「きゃっははははははは、楽し}{ruby:Rosa, isn't this fun!:いね楼座、楽しいねッ！}`
 `{ruby:Hey, how should we play next?:さぁ、次は何をして遊ぶ？}`
-`{ruby:Of course, I'll play with Maria too, okay?":もちろん、真里亞も一緒に遊んであげるわ？」}`
-`{ruby:"Let's all have a friendly walk together!:「みんなで仲良くお散歩しよう？}`
-`{ruby:Let's swim in a pot of boiling chocolate, let's have a picnic in a cake‐rising oven!:煮えたぎるチョコレートの鍋を泳いで、ケーキ膨らむオーブンの中をピクニックしよう！}`
-`{ruby:Ahahaha, akya{0}kya{0}kya{0}kya{0}kyakya!!":あははは、あきゃきゃきゃきゃきゃきゃッ！！」}`
+`{ruby:Of course, I'll play:もちろん、真里亞も一緒に}{ruby:with Maria too, okay?":遊んであげるわ？」}`
+`{ruby:"Let's all have:「みんなで仲良くお}{ruby:a friendly walk together!:散歩しよう？}`
+`{ruby:Let's swim in a pot of boiling chocolate,:煮えたぎるチョコレートの鍋を泳いで、ケーキ膨}{ruby:let's have a picnic in a cake‐rising oven!:らむオーブンの中をピクニックしよう！}`
+`{ruby:Ahahaha,:あははは、あきゃきゃきゃき}{ruby:akya{0}kya{0}kya{0}kya{0}kyakya!!":ゃきゃきゃッ！！」}`
 `{ruby:".........H‐hey, new {f:5:Beatrice}.":「………の、のう、新しきベアトリーチェ」}`
-`{ruby:Behind the witch who was continuing her spree of tragedy, Beato showed herself.:惨劇の宴を続ける魔女の後ろに、ベアトは姿を現す。}`
-`{ruby:...Her expression was very rare for her.:…その表情はとても珍しい。}`
-`{ruby:It was kind of restrained, somehow unreliable, miserable.:何だか、遠慮するような、何とも頼りない、情けないものだった。}`
-`{ruby:"Oh, it's the predecessor {f:5:Beatrice}‐sama.:「あら、これは先代ベアトリーチェさま。}`
+`{ruby:Behind the witch who was continuing:惨劇の宴を続ける魔女の後ろ}{ruby:her spree of tragedy, Beato showed herself.:に、ベアトは姿を現す。}`
+`{ruby:...Her expression was:…その表情はとて}{ruby:very rare for her.:も珍しい。}`
+`{ruby:It was kind of:何だか、遠慮するような、何とも頼}{ruby:restrained, somehow unreliable, miserable.:りない、情けないものだった。}`
+`{ruby:"Oh, it's:「あら、これは先代ベア}{ruby:the predecessor {f:5:Beatrice}‐sama.:トリーチェさま。}`
 `{ruby:Were you watching?":ご覧下さりましたか？」}`
-`{ruby:"The power of magic is truly wonderful!:「魔法の力は本当に素晴らしい！}`
-`{ruby:Until now, I had never thought it would be so fun to be reborn as a witch.:魔女に生まれ変わることができたことを、今ほど楽しいと思ったことはありません。}`
-`{ruby:It's like playtime that never ends...!:まるでいつまでも終わらぬお遊戯の時間のよう…！}`
-`{ruby:Come on, let's play together, Predecessor‐sama...!!":さぁ、先代さまもご一緒に遊びましょう…！！」}`
+`{ruby:"The power of:「魔法の力は本当に}{ruby:magic is truly wonderful!:素晴らしい！}`
+`{ruby:Until now, I had never thought it would:魔女に生まれ変わることができたことを、今ほ}{ruby:be so fun to be reborn as a witch.:ど楽しいと思ったことはありません。}`
+`{ruby:It's like playtime:まるでいつまでも終わらぬお}{ruby:that never ends...!:遊戯の時間のよう…！}`
+`{ruby:Come on, let's:さぁ、先代さまもご一緒に遊}{ruby:play together, Predecessor‐sama...!!":びましょう…！！」}`
 `{ruby:"But first, wait for a second, okay?!:「その前にちょっとお待ちになってくださいね！}`
-`{ruby:The two of them were cooked to death in the oven, so I have to revive them again!":二人はオーブンの中で焼け焦げて死んでしまったから、また蘇らさないと！」}`
-`{ruby:"They're like bread rising because of yeast!:「まるでイーストで膨れるパンみたいに！}`
+`{ruby:The two of them were cooked to death in:二人はオーブンの中で焼け焦げて死んでし}{ruby:the oven, so I have to revive them again!":まったから、また蘇らさないと！」}`
+`{ruby:"They're like bread:「まるでイーストで膨れ}{ruby:rising because of yeast!:るパンみたいに！}`
 `{ruby:Like cookies expanding in an oven!:オーブンの中で膨れるクッキーみたいに！}`
 `{ruby:*giggle*giggle*giggle*!!":きゃっきゃっきゃっきゃッ！！」}`
 `{ruby:"L‐Listen to what I'm saying...":「は、話を聞けというのに…」}`
 `{ruby:"......Umm, well.:「……そのだな。}`
-`{ruby:Isn't that enough for the sacrifices of the second twilight?:第二の晩の生贄には、もう充分であろう？}`
-`{ruby:...Of course, it isn't specified how you kill them, but,:…確かに殺し方については指定がないが、}`
+`{ruby:Isn't that enough for the:第二の晩の生贄には、も}{ruby:sacrifices of the second twilight?:う充分であろう？}`
+`{ruby:...Of course, it isn't specified:…確かに殺し方について}{ruby:how you kill them, but,:は指定がないが、}`
 `{ruby:umm,:その、}`
-`{ruby:......maybe you shouldn't toy with them any more than that...":……それ以上弄ぶことはあるまいに…」}`
-`{ruby:"What are you saying, Predecessor‐sama?:「何を仰います先代さま。}`
-`{ruby:I heard from Ronove a short while ago.:さっきロノウェから聞きましたよ？}`
-`{ruby:That your magic was much, much more wonderful, cruel, and self‐indulgent!":先代さまの魔法はもっともっと素敵で残酷でやりたい放題だったってッ！」}`
-`{ruby:"A Halloween party where candies poured out of six people's stomachs, how truly wonderful!:「６人のお腹からお菓子が溢れ出すハロウィンパーティなんて本当に素敵ッ！}`
-`{ruby:As for me, maybe I'll act out Alice's tea party...!:ならば私はアリスのお茶会を演出しようかしら…！}`
-`{ruby:I'll invite everyone to a tea party to celebrate a happy unbirthday, and entertain them one by one with my magic!":何でもない日を祝うお茶会にみんなを招待して、私が魔法で次々おもてなしするの！」}`
-`{ruby:"I wonder if I can do it as wonderfully as you?:「先代さまみたいに素敵にできるかしら？}`
-`{ruby:I wonder if I can be cruel in my own pop, cute style?!":個性的に残酷にポップにキュートにできるかしら？！」}`
-`{ruby:"Now that I think about it, all fairy tales are cruel, aren't they?:「今思うとおとぎ話とかってどれも残酷でしたよね？}`
-`{ruby:Now that I'm a witch inside one of those fairy tales, I finally understand.:そのおとぎ話の魔女に自らがなってみて、ようやく理解しました。}`
-`{ruby:Kyahhaha{0}ha{0}ha{0}kukyahya{0}fuhyaha{0}ha{0}hahaha!!":きゃっははははくきゃひゃふひゃはははははッ！！」}`
+`{ruby:......maybe you shouldn't toy with:……それ以上弄ぶこと}{ruby:them any more than that...":はあるまいに…」}`
+`{ruby:"What are:「何を仰います}{ruby:you saying, Predecessor‐sama?:先代さま。}`
+`{ruby:I heard from Ronove:さっきロノウェから}{ruby:a short while ago.:聞きましたよ？}`
+`{ruby:That your magic was much,:先代さまの魔法はもっともっと素敵で残酷}{ruby:much more wonderful, cruel, and self‐indulgent!":でやりたい放題だったってッ！」}`
+`{ruby:"A Halloween party where candies poured out:「６人のお腹からお菓子が溢れ出すハロウ}{ruby:of six people's stomachs, how truly wonderful!:ィンパーティなんて本当に素敵ッ！}`
+`{ruby:As for me, maybe I'll:ならば私はアリスのお茶会を}{ruby:act out Alice's tea party...!:演出しようかしら…！}`
+`{ruby:I'll invite everyone to a tea party to celebrate a:何でもない日を祝うお茶会にみんなを招待して}{ruby:happy unbirthday, and entertain them one by one with my magic!":、私が魔法で次々おもてなしするの！」}`
+`{ruby:"I wonder if I can:「先代さまみたいに素敵}{ruby:do it as wonderfully as you?:にできるかしら？}`
+`{ruby:I wonder if I can be:個性的に残酷にポップにキュー}{ruby:cruel in my own pop, cute style?!":トにできるかしら？！」}`
+`{ruby:"Now that I think about it,:「今思うとおとぎ話とかって}{ruby:all fairy tales are cruel, aren't they?:どれも残酷でしたよね？}`
+`{ruby:Now that I'm a witch inside one:そのおとぎ話の魔女に自らがなってみ}{ruby:of those fairy tales, I finally understand.:て、ようやく理解しました。}`
+`{ruby::きゃっははははくきゃひゃふ}{ruby:Kyahhaha{0}ha{0}ha{0}kukyahya{0}fuhyaha{0}ha{0}hahaha!!":ひゃはははははッ！！」}`
 `{ruby:"...............I, I am, umm,:「……………わ、妾もその、}`
-`{ruby:...slightly of the opinion that, in the past,:…以前までのは少しやり過ぎたかなァと、}`
-`{ruby:...I, too, might have gone a little too far.:…少しは思っておるのだ。}`
-`{ruby:......Well, I think that as the Golden Witch, it's a good idea to have a little elegance...":……まぁ、黄金の魔女たる者、少しは気品があっても良いかと思うてな…」}`
+`{ruby:...slightly of the opinion:…以前までのは少しやり}{ruby:that, in the past,:過ぎたかなァと、}`
+`{ruby:...I, too, might have:…少しは思って}{ruby:gone a little too far.:おるのだ。}`
+`{ruby:......Well, I think that as the Golden Witch,:……まぁ、黄金の魔女たる者、少しは気}{ruby:it's a good idea to have a little elegance...":品があっても良いかと思うてな…」}`
 `{ruby:"..................???:「………………？？？}`
-`{ruby:I don't understand what you're saying, Predecessor‐sama.":先代さまが何を仰ってるのかわかりません」}`
-`{ruby:"But there's one thing I do understand.:「でも、ひとつだけわかります。}`
-`{ruby:No matter how hard I try now, I'm no match for how cruel you are.:今の私がどれほどを尽くしても、先代さまの残酷さには到底及びません。}`
+`{ruby:I don't understand:先代さまが何を仰ってるの}{ruby:what you're saying, Predecessor‐sama.":かわかりません」}`
+`{ruby:"But there's one:「でも、ひとつだけ}{ruby:thing I do understand.:わかります。}`
+`{ruby:No matter how hard I try now,:今の私がどれほどを尽くしても、先代さ}{ruby:I'm no match for how cruel you are.:まの残酷さには到底及びません。}`
 `{ruby:I've gotta try much, much harder.:もっともっとがんばらなくちゃ。}`
-`{ruby:I've gotta become more cruel, and become an excellent Golden Witch...!":もっと残酷になって、立派な黄金の魔女にならなくちゃ…！」}`
-`{ruby:"L‐like I said, you've already done enough here...!:「だ、だからそれはもう充分だと言うに…！}`
-`{ruby:A‐anyway, this is my order, as your predecessor.:と、とにかく妾の、先代としての命令だ。}`
-`{ruby:That's enough for the second twilight.:第二の晩はもう充分だ。}`
+`{ruby:I've gotta become more cruel,:もっと残酷になって、立派な黄金}{ruby:and become an excellent Golden Witch...!":の魔女にならなくちゃ…！」}`
+`{ruby:"L‐like I said, you've:「だ、だからそれはもう}{ruby:already done enough here...!:充分だと言うに…！}`
+`{ruby:A‐anyway, this is my:と、とにかく妾の、先代}{ruby:order, as your predecessor.:としての命令だ。}`
+`{ruby:That's enough for:第二の晩はもう}{ruby:the second twilight.:充分だ。}`
 `{ruby:I'll show you how it's done.:妾が少し手本を見せる。}`
 `{ruby:Stand back and watch...":下がって見ておれ…」}`
 `{ruby:"Yes, Predecessor‐sama.:「はい、先代さま。}`
-`{ruby:I can't wait to see what brutal, cruel, and disgusting method of killing you'll use.":どんな無惨で残酷でおぞましい殺し方を見せてくれるのか楽しみです」}`
-`{ruby:The new witch pinched the sides of her skirt and gave a graceful bow,:新しき魔女は、スカートの両脇を摘んで優雅にお辞儀をすると、}`
-`{ruby:stepping back as an expectant gaze rose to her face.:期待の眼差しを浮かべながら後ろへ下がる。}`
-`{ruby:......She was expecting an even more cruel magic that surpassed even herself.:……自らを超える、より残酷な魔法を期待しているのだ。}`
-`{ruby:"............Well, speaking of that...:「…………まぁそのだな…。}`
-`{ruby:You're only half a witch if you can only kill with methods like that.:そういう殺し方しかできない内は半人前なのだ。}`
-`{ruby:...I shall show you an elegant way to kill, worthy of the Golden Witch...":…妾が上品な、黄金の魔女らしい殺し方を見せようぞ…」}`
-`{ruby:When Beato waved her pipe, seven colors of smoke poured out, reviving Rosa and Maria.:ベアトが煙管を振るうと、七色の煙が噴出し、楼座と真里亞を蘇らせる。}`
-`{ruby:......Compared to how the new {f:5:Beatrice} had done it a short while ago, it was slightly gentler.:……先ほどまでの新しきベアトリーチェのそれに比べると、少しだけやさしかった。}`
-`{ruby:...It was probably gentler than how Beato had done it herself up until now.:…あるいは、それまでの自らのそれと比べても。}`
-`{ruby:Rosa's consciousness had already grown dim from the pain of so many repeated deaths.:楼座は幾度も繰り返された死の痛みに、すでに意識を朦朧とさせていた。}`
-`{ruby:...But even so, she pleaded that her daughter be spared...:…そしてそれでも、娘のために許しを哀願する…。}`
+`{ruby:I can't wait to see what brutal,:どんな無惨で残酷でおぞましい殺し方}{ruby:cruel, and disgusting method of killing you'll use.":を見せてくれるのか楽しみです」}`
+`{ruby:The new witch pinched the sides of:新しき魔女は、スカートの両脇を摘}{ruby:her skirt and gave a graceful bow,:んで優雅にお辞儀をすると、}`
+`{ruby:stepping back as an expectant:期待の眼差しを浮かべな}{ruby:gaze rose to her face.:がら後ろへ下がる。}`
+`{ruby:......She was expecting an even more:……自らを超える、より残酷な}{ruby:cruel magic that surpassed even herself.:魔法を期待しているのだ。}`
+`{ruby:"............Well, speaking:「…………まぁそ}{ruby:of that...:のだな…。}`
+`{ruby:You're only half a witch if you:そういう殺し方しかできな}{ruby:can only kill with methods like that.:い内は半人前なのだ。}`
+`{ruby:...I shall show you an elegant way:…妾が上品な、黄金の魔女らし}{ruby:to kill, worthy of the Golden Witch...":い殺し方を見せようぞ…」}`
+`{ruby:When Beato waved her pipe, seven colors:ベアトが煙管を振るうと、七色の煙が噴}{ruby:of smoke poured out, reviving Rosa and Maria.:出し、楼座と真里亞を蘇らせる。}`
+`{ruby:......Compared to how the new {f:5:Beatrice} had done:……先ほどまでの新しきベアトリーチェのそ}{ruby:it a short while ago, it was slightly gentler.:れに比べると、少しだけやさしかった。}`
+`{ruby:...It was probably gentler than how Beato:…あるいは、それまでの自}{ruby:had done it herself up until now.:らのそれと比べても。}`
+`{ruby:Rosa's consciousness had already grown dim from:楼座は幾度も繰り返された死の痛みに、}{ruby:the pain of so many repeated deaths.:すでに意識を朦朧とさせていた。}`
+`{ruby:...But even so, she pleaded:…そしてそれでも、娘のため}{ruby:that her daughter be spared...:に許しを哀願する…。}`
 `{ruby:"......Please......have mercy......:「……もう……許して……。}`
-`{ruby:...Even......if it's just Maria......have mercy......":…せめて、……真里亞だけでも……許して……」}`
-`{ruby:"Waaaaaaaaaaaaaaahhh, Mama, Mamaaaaaa!!":「わぁあああぁああぁん、ママ、ママぁあぁ！！」}`
+`{ruby:...Even......if it's:…せめて、……真里亞だけ}{ruby:just Maria......have mercy......":でも……許して……」}`
+`{ruby:"Waaaaaaaaaaaaaaahhh,:「わぁあああぁああぁん、マ}{ruby:Mama, Mamaaaaaa!!":マ、ママぁあぁ！！」}`
 `{ruby:".........Sorry.:「………すまぬ。}`
-`{ruby:My disciple just, umm, ...acted without restraint for a bit.:我が弟子がその、…少しハメを外しすぎたようだ。}`
+`{ruby:My disciple just, umm, ...acted:我が弟子がその、…少しハメ}{ruby:without restraint for a bit.:を外しすぎたようだ。}`
 `{ruby:...Umm,:…その、}`
 `{ruby:.........forgive me.":………許せ」}`
 `{ruby:"B‐{f:5:Beatriceeeeeeeeeeeee}!!:「ベ、ベアトリーチェぇえええぇええぇ！！}`
-`{ruby:Waaa{0}a{0}a{0}a{0}aaaahh, waaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaahh!!":わあああああああぁ、わぁああああぁああぁあん！！」}`
-`{ruby:When Maria realized it was the real {f:5:Beatrice}, she jumped onto her.:真里亞が、本当のベアトリーチェの姿を認めて飛びつく。}`
+`{ruby:Waaa{0}a{0}a{0}a{0}aaaahh,:わあああああああぁ、わぁああ}{ruby:waaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaahh!!":ああぁああぁあん！！」}`
+`{ruby:When Maria realized it was the:真里亞が、本当のベアトリーチ}{ruby:real {f:5:Beatrice}, she jumped onto her.:ェの姿を認めて飛びつく。}`
 `{ruby:"...You promised, right, Beato?!:「…ベアトは約束したよね？！}`
-`{ruby:You promised that you would take me to the Golden Land, right?!:真里亞を黄金郷へ連れてってくれるって約束したよね？！}`
-`{ruby:There I can be friends with Mama, and everyone will laugh together...!:そこではママとも仲良しになれて、みんなずっと笑い合えるの…！}`
-`{ruby:You promised that you would take us there, right?!":そこへ連れて行ってくれるって、約束してくれたよねッ？！」}`
+`{ruby:You promised that you would take:真里亞を黄金郷へ連れてってくれ}{ruby:me to the Golden Land, right?!:るって約束したよね？！}`
+`{ruby:There I can be friends with:そこではママとも仲良しになれて、み}{ruby:Mama, and everyone will laugh together...!:んなずっと笑い合えるの…！}`
+`{ruby:You promised that you:そこへ連れて行ってくれるって、約}{ruby:would take us there, right?!":束してくれたよねッ？！」}`
 `{ruby:".........A‐:「………そ、}`
 `{ruby:...about that.:…そのだな。}`
 `{ruby:...I can no longer...:…その約束はもう、}`
 `{ruby:keep that promise.:…守れぬ。}`
-`{ruby:.........Because someone appeared who could solve the riddle,:………碑文の謎を解く者が現れたから、}`
-`{ruby:......I am no longer the Golden Witch {f:5:Beatrice}.":……妾はもう、黄金の魔女ベアトリーチェではないのだ」}`
+`{ruby:.........Because someone appeared who:………碑文の謎を解く}{ruby:could solve the riddle,:者が現れたから、}`
+`{ruby:......I am no longer:……妾はもう、黄金の魔女ベア}{ruby:the Golden Witch {f:5:Beatrice}.":トリーチェではないのだ」}`
 `{ruby:"......So, I'm sorry.:「……だからすまぬ。}`
-`{ruby:...I can no longer keep my promise with you......":…そなたとの約束はもう守れぬ……」}`
+`{ruby:...I can no longer:…そなたとの約束はも}{ruby:keep my promise with you......":う守れぬ……」}`
 `{ruby:"Why...?:「なんで…？}`
 `{ruby:Why...?:どうして…？}`
 `{ruby:Beato, you promised...":ベアトは約束してくれた…」}`
 `{ruby:"......I'm sorry.:「……すまぬ。}`
 `{ruby:...I'm truly sorry...:…本当にすまぬ…。}`
-`{ruby:.........So at least, in apology for not being able to keep my promise...":………だからせめて、約束を守れなかった詫びに…」}`
-`{ruby:............I'll give you a truly quiet sleep,:…………本当に静かな。}`
-`{ruby:{n}which will never be disrupted again...:{n}そしてもう乱されぬ眠りを与えてやるから…。}`
-`{ruby:Beato embraced Maria with a loving expression...:真里亞を、ベアトは慈しみの表情で抱き締める…。}`
-`{ruby:Then, .........softly, a red bruise appeared on Maria's neck.:すると、………すぅっと、赤い痣が真里亞の首に浮いた。}`
+`{ruby:.........So at least, in apology for:………だからせめて、約束を}{ruby:not being able to keep my promise...":守れなかった詫びに…」}`
+`{ruby:............I'll give you:…………本当に}{ruby:a truly quiet sleep,:静かな。}`
+`{ruby:{n}which will never:{n}そしてもう乱されぬ眠}{ruby:be disrupted again...:りを与えてやるから…。}`
+`{ruby:Beato embraced Maria:真里亞を、ベアトは慈しみの}{ruby:with a loving expression...:表情で抱き締める…。}`
+`{ruby:Then, .........softly, a red:すると、………すぅっと、赤い}{ruby:bruise appeared on Maria's neck.:痣が真里亞の首に浮いた。}`
 `{ruby:{n}It was a very gentle bruise.:{n}それはとてもやさしい痣。}`
-`{ruby:...It grew redder and redder, ...and when it distinctly formed itself into the shape of a hand...:…それが少しずつ赤みを増し、…くっきりと手の形を浮かび上がらせた時。}`
+`{ruby:...It grew redder and redder, ...and when it:…それが少しずつ赤みを増し、…くっき}{ruby:distinctly formed itself into the shape of a hand...:りと手の形を浮かび上がらせた時。}`
 `{ruby:......Maria's neck tilted suddenly.:……真里亞はコテンと首を傾ぐ。}`
-`{ruby:{n}...Peacefully, as though she had fallen asleep.:{n}…眠ってしまったように、安らかに。}`
+`{ruby:{n}...Peacefully, as though:{n}…眠ってしまった}{ruby:she had fallen asleep.:ように、安らかに。}`
 `{ruby:"M‐Maria......:「ま、真里亞……。}`
 `{ruby:...MariaaaAAaaaAAAAAaa!!":…真里亞ぁああああぁああぁッ！！」}`
 `{ruby:"......Sorry.:「……すまぬ。}`
-`{ruby:......I won't apologize that you were the sacrifices for the second twilight.:……そなたが第二の晩の生贄であることは謝らぬ。}`
+`{ruby:......I won't apologize that you were:……そなたが第二の晩の生贄}{ruby:the sacrifices for the second twilight.:であることは謝らぬ。}`
 `{ruby:That is simply your fate.":そういう運命なのだから」}`
-`{ruby:"However, I must apologize for the vulgar way in which you were offered as sacrifices...:「しかし、その奉げ方が悪趣味であったことは謝らねばならぬ…。}`
+`{ruby:"However, I must apologize for the vulgar:「しかし、その奉げ方が悪趣味であ}{ruby:way in which you were offered as sacrifices...:ったことは謝らねばならぬ…。}`
 `{ruby:......This is your final sleep.:……これが最後の眠りだ。}`
-`{ruby:...Never again will it be disturbed...":…もう二度と妨げられることはない…」}`
-`{ruby:Beato softly, gently lifted her finger, as though touching the empty air in front of her nose.:ベアトが、すっと指をやさしく立てて、虚空の鼻先を触れるような仕草をする。}`
-`{ruby:...When she did, a light breeze lifted up, making Rosa's body dance lightly like a feather.:…すると、ふわっとした風が湧き上がって、楼座の体を羽毛のようにやさしく舞わせた。}`
+`{ruby:...Never again will:…もう二度と妨げられ}{ruby:it be disturbed...":ることはない…」}`
+`{ruby:Beato softly, gently lifted her finger, as though:ベアトが、すっと指をやさしく立てて、虚}{ruby:touching the empty air in front of her nose.:空の鼻先を触れるような仕草をする。}`
+`{ruby:...When she did, a light breeze lifted up,:…すると、ふわっとした風が湧き上がって、楼}{ruby:making Rosa's body dance lightly like a feather.:座の体を羽毛のようにやさしく舞わせた。}`
 `{ruby:Then, Rosa's body floated lightly,:すると楼座の体はふわっと浮いて、}`
-`{ruby:......and there was the garden fence, with its spear‐shaped prongs.:……そこには先端を槍状にしている庭園の柵が。}`
-`{ruby:The spear of the fence pierced Rosa's medulla oblongata.:その柵の槍が、楼座の延髄を貫いた。}`
-`{ruby:......Benevolently, without toying with her, in a single blow.:……慈悲深く、弄ぶことなく、一撃で。}`
+`{ruby:......and there was the garden:……そこには先端を槍状に}{ruby:fence, with its spear‐shaped prongs.:している庭園の柵が。}`
+`{ruby:The spear of the:その柵の槍が、楼座の}{ruby:fence pierced Rosa's medulla oblongata.:延髄を貫いた。}`
+`{ruby:......Benevolently, without toying with:……慈悲深く、弄ぶこ}{ruby:her, in a single blow.:となく、一撃で。}`
 `{ruby:{n}Rosa's life was snuffed out.:{n}ぷっつりと楼座の生を奪い去る。}`
-`{ruby:Compared to the earlier innocent yet cruel events, her end was surprisingly tame.:それまでの無邪気かつ残酷なそれに比べたら、その最期はあまりに呆気ない。}`
-`{ruby:...It just looked like a doll shaped like Rosa was leaning against the fence.:…楼座の姿をした人形が柵にもたれかかっているだけにしか見えない。}`
+`{ruby:Compared to the earlier innocent yet:それまでの無邪気かつ残酷なそれに比べた}{ruby:cruel events, her end was surprisingly tame.:ら、その最期はあまりに呆気ない。}`
+`{ruby:...It just looked like a doll shaped:…楼座の姿をした人形が柵にもたれか}{ruby:like Rosa was leaning against the fence.:かっているだけにしか見えない。}`
 `{ruby:...But, she had passed away.:…でも、絶命していた。}`
-`{ruby:".........W‐...well, that's pretty much how you do it.":「………ま、…まぁ、ざっとこんなものよ」}`
-`{ruby:Beato acted proud, but the new witch wore a blank expression, almost as though this was an anticlimax.:ベアトは得意げ風に装うが、新しき魔女の表情は淡白で、拍子抜けとでも言う風だった。}`
-`{ruby:And she was forthright with that opinion.:そしてそれを、率直に口にする。}`
+`{ruby:".........W‐...well, that's pretty much:「………ま、…まぁ、ざ}{ruby:how you do it.":っとこんなものよ」}`
+`{ruby:Beato acted proud, but the new witch wore a:ベアトは得意げ風に装うが、新しき魔女の表情}{ruby:blank expression, almost as though this was an anticlimax.:は淡白で、拍子抜けとでも言う風だった。}`
+`{ruby:And she was:そしてそれを、率直}{ruby:forthright with that opinion.:に口にする。}`
 `{ruby:"It's kinda plain...:「何だか地味です…。}`
-`{ruby:......Very different from the person Ronove told me about.":……ロノウェに聞いていた先代さまのそれとはずいぶん違います」}`
-`{ruby:"...Well, um, ...you must use magic with dignity, you see...?:「…そのだな、…魔法は上品に使わねばな…？}`
-`{ruby:If it's too, umm, ...undignified, that isn't very elegant...":あまりその、…品がないのはエレガントではないのだ…」}`
-`{ruby:".............................................:「………………………………………。}`
-`{ruby:......But you can do wonderful things endlessly with this magic.:……せっかく素敵なことが無限にできる魔法なのに。}`
+`{ruby:......Very different from the:……ロノウェに聞いていた先代さま}{ruby:person Ronove told me about.":のそれとはずいぶん違います」}`
+`{ruby:"...Well, um, ...you must use:「…そのだな、…魔法は上}{ruby:magic with dignity, you see...?:品に使わねばな…？}`
+`{ruby:If it's too, umm,:あまりその、…品がないのはエレ}{ruby:...undignified, that isn't very elegant...":ガントではないのだ…」}`
+`{ruby::「………………………}{ruby:".............................................:………………。}`
+`{ruby:......But you can do wonderful:……せっかく素敵なことが無}{ruby:things endlessly with this magic.:限にできる魔法なのに。}`
 `{ruby:......How boring.":……つまらない」}`
 `{ruby:"Now now! No complaining...!:「これ、愚痴るでない…！}`
-`{ruby:The path of a Golden Witch cannot be completed in a day.:黄金の魔女の道は一日にしてならずだ。}`
-`{ruby:You are still incomplete until you finish the tenth twilight...:そなたとて、第十の晩を終えるまでは半人前よ…。}`
-`{ruby:For now, stay quiet and follow my instructions.:今は黙って妾の指導に従うのだ。}`
+`{ruby:The path of a Golden Witch:黄金の魔女の道は一日に}{ruby:cannot be completed in a day.:してならずだ。}`
+`{ruby:You are still incomplete until:そなたとて、第十の晩を終え}{ruby:you finish the tenth twilight...:るまでは半人前よ…。}`
+`{ruby:For now, stay quiet:今は黙って妾の指導}{ruby:and follow my instructions.:に従うのだ。}`
 `{ruby:...Alright......?!":…良いな……？！」}`
-`{ruby:".......................................":「…………………………………」}`
+`{ruby::「……………………}{ruby:".......................................":……………」}`
 `{ruby:"Wh‐what happened to your answer?:「へ、返事はどうした。}`
 `{ruby:Your answer...!":返事は…！」}`
 `{ruby:"...........................:「………………………。}`
 `{ruby:...............Fiiine.":……………はァい」}`
 `{ruby:"...Better, much better.:「…それで良い、それで。}`
-`{ruby:......Well, there is still much to do for the resurrection ritual.:……まぁ、まだ復活の儀式の先は長いぞ。}`
-`{ruby:You still have to kill five people...:あと５人も殺さねばならないからな…。}`
-`{ruby:You should do it without toying with them too much, with beauty and dignity,:あまり弄ばずに、綺麗に上品に、}`
-`{ruby:...and with at least a little decorum, alright...?":…少しあっさり目でいいからな…？」}`
-`{ruby:"What Ronove told you about how I did it, ......that was a bad example.:「ロノウェがそなたに教えた妾のやり方はその、……悪い例だ。}`
+`{ruby:......Well, there is still much:……まぁ、まだ復活の儀}{ruby:to do for the resurrection ritual.:式の先は長いぞ。}`
+`{ruby:You still have:あと５人も殺さねばな}{ruby:to kill five people...:らないからな…。}`
+`{ruby:You should do it without toying with:あまり弄ばずに、綺}{ruby:them too much, with beauty and dignity,:麗に上品に、}`
+`{ruby:...and with at least:…少しあっさり目でい}{ruby:a little decorum, alright...?":いからな…？」}`
+`{ruby:"What Ronove told you about how I:「ロノウェがそなたに教えた妾のや}{ruby:did it, ......that was a bad example.:り方はその、……悪い例だ。}`
 `{ruby:You mustn't use that as a model.:模範にしてはならぬ。}`
 `{ruby:Engrave that into your heart.":よく心に刻んでおけぃ」}`
 `{ruby:"............Yes, Predecessor‐sama.":「…………はい、先代さま」}`
 `{ruby:"A good answer.:「良い返事だ。}`
-`{ruby:......Ronove, the Seven Stakes of Purgatory, arise...!":……ロノウェ、煉獄の七姉妹よ、出でよ…！」}`
+`{ruby:......Ronove, the Seven:……ロノウェ、煉獄の七姉}{ruby:Stakes of Purgatory, arise...!":妹よ、出でよ…！」}`
 `{ruby:"......Yes, Milady.:「……はい、お嬢様。}`
 `{ruby:Ronove, right here.":ロノウェ、ここに」}`
 `{ruby:"Lucifer the Proud, right here.":「傲慢のルシファー、ここにっ」}`
-`{ruby:"...Up until this point, umm, I've done things a little flashy, but,:「…これまではだな、その、妾も色々派手にやってきたわけだが。}`
+`{ruby:"...Up until this point, umm, I've:「…これまではだな、その、妾も色}{ruby:done things a little flashy, but,:々派手にやってきたわけだが。}`
 `{ruby:......umm,:……その、}`
-`{ruby:......well, the dignity of the Golden Witch is also important,:……まぁ、黄金の魔女としての威厳も大事であり、}`
+`{ruby:......well, the dignity of the:……まぁ、黄金の魔女として}{ruby:Golden Witch is also important,:の威厳も大事であり、}`
 `{ruby:so, what I'm trying to say is—":まぁ、そのだな…、」}`
-`{ruby:As Ronove chuckled at Beato's uncharacteristically flustered speech,:ベアトが、らしくもなくしどろもどろしながら言うのを、}`
+`{ruby:As Ronove chuckled at:ベアトが、らしくもなくしどろ}{ruby:Beato's uncharacteristically flustered speech,:もどろしながら言うのを、}`
 `{ruby:he summed it up for her.:ロノウェはぷっくっくと笑いながら聞き、それを要約した。}`
 `{ruby:"Certainly.:「畏まりました。}`
-`{ruby:From now on, we will be careful to perform in a graceful manner, suitable for the name of the Golden Witch.:以後は黄金の魔女の名に相応しい、気品に気をつけるように致します。}`
-`{ruby:......Even the Seven Sisters of Purgatory will reform their previous bad behavior,:……煉獄の七姉妹も、これまでのような悪ふざけは改め、}`
-`{ruby:and we shall espouse to perform our task in the quickest possible manner.:以後は最短の手順で任務を遂行するように。}`
-`{ruby:......Would that be acceptable? Milady?":……ということで、よろしいですか？　お嬢様？」}`
+`{ruby:From now on, we will be careful to perform in:以後は黄金の魔女の名に相応しい、気}{ruby:a graceful manner, suitable for the name of the Golden Witch.:品に気をつけるように致します。}`
+`{ruby:......Even the Seven Sisters of Purgatory:……煉獄の七姉妹も、これまで}{ruby:will reform their previous bad behavior,:のような悪ふざけは改め、}`
+`{ruby:and we shall espouse to perform:以後は最短の手順で任務}{ruby:our task in the quickest possible manner.:を遂行するように。}`
+`{ruby:......Would that:……ということで、よろしい}{ruby:be acceptable? Milady?":ですか？　お嬢様？」}`
 `{ruby:"M‐mm.:「う、うむ。}`
 `{ruby:That's it, more or less.:つまりはそういうことだ。}`
 `{ruby:Everyone, take it to heart!:皆、肝に銘じよ！}`
@@ -1038,22 +1038,22 @@
 `{ruby:"Certainly.:「畏まりました。}`
 `{ruby:If you would excuse me.":それでは失礼いたします」}`
 `{ruby:"Excuse us.":「失礼いたしますっ」}`
-`{ruby:"..........................................":「……………………………………」}`
+`{ruby::「……………………}{ruby:"..........................................":………………」}`
 `{ruby:"Well, ...that's all I want to say.:「ま、…妾が言いたいのはそれだけだ。}`
-`{ruby:So, take care as you continue, alright?:それでは引き続きしっかりな？}`
-`{ruby:Go with dignity, and, ...umm, decorum, befitting the Golden Witch, alright?:黄金の魔女らしく、貫禄を持って、…その、自重気味にな？}`
+`{ruby:So, take care:それでは引き続き}{ruby:as you continue, alright?:しっかりな？}`
+`{ruby:Go with dignity, and, ...umm,:黄金の魔女らしく、貫禄を持って}{ruby:decorum, befitting the Golden Witch, alright?:、…その、自重気味にな？}`
 `{ruby:......You should do your best.:……頑張るが良いぞ。}`
 `{ruby:I will be watching over you.":そなたを見守っておる」}`
-`{ruby:Acting unsure until the very end, Beato communicated only that to her,:ベアトは最後まで要領悪そうにしながらそれだけを伝え、}`
-`{ruby:became a group of gold butterflies, and vanished into thin air.:黄金の蝶の群れとなって、虚空に姿を消す。}`
-`{ruby:It may be fitting to say that she disappeared in a hurry because she was having trouble maintaining the conversation.:間が持たないので、そそくさと消えたという方が相応しいかもしれない。}`
-`{ruby:After that, all that remained was Maria's outstretched body, pounded by the rain,:後には、雨に打たれながら横たわる真里亞の遺体と、}`
-`{ruby:and Rosa's body, propped up by the fence and gazing up at the sky.:柵にもたれかかりながら空を見上げている楼座の遺体。}`
+`{ruby:Acting unsure until the very end,:ベアトは最後まで要領悪そうに}{ruby:Beato communicated only that to her,:しながらそれだけを伝え、}`
+`{ruby:became a group of gold:黄金の蝶の群れとなって}{ruby:butterflies, and vanished into thin air.:、虚空に姿を消す。}`
+`{ruby:It may be fitting to say that she disappeared in:間が持たないので、そそくさと消えたと}{ruby:a hurry because she was having trouble maintaining the conversation.:いう方が相応しいかもしれない。}`
+`{ruby:After that, all that remained was:後には、雨に打たれながら横}{ruby:Maria's outstretched body, pounded by the rain,:たわる真里亞の遺体と、}`
+`{ruby:and Rosa's body, propped up by the:柵にもたれかかりながら空を見}{ruby:fence and gazing up at the sky.:上げている楼座の遺体。}`
 `{ruby:......And the figure of the witch.:……そして魔女の姿が残るだけだった。}`
-`{ruby:".....................Show some decorum............you say.":「…………………自重しろ……、………か」}`
-`{ruby:Her expression looked just a little bored.:その表情は、少しだけ退屈そうだった。}`
+`{ruby:".....................Show some:「…………………自重し}{ruby:decorum............you say.":ろ……、………か」}`
+`{ruby:Her expression looked:その表情は、少しだけ}{ruby:just a little bored.:退屈そうだった。}`
 `{ruby:There was a popping sound.:爆ぜるような音がする。}`
-`{ruby:{n}...That was probably her clicking her tongue.:{n}…それは多分、彼女の舌打ち。}`
+`{ruby:{n}...That was probably:{n}…それは多分、}{ruby:her clicking her tongue.:彼女の舌打ち。}`
 `{ruby:".................................:「…………………………………………。}`
-`{ruby:...........................What a boring person.":………………………つまんないヤツぅ」}`
-`{ruby:Leaving that last sentence behind, she, too, vanished into thin air......:その捨て台詞を残し、彼女もまた、虚空に姿を消すのだった……。}`
+`{ruby:...........................What a:………………………つ}{ruby:boring person.":まんないヤツぅ」}`
+`{ruby:Leaving that last sentence behind,:その捨て台詞を残し、彼女もまた、}{ruby:she, too, vanished into thin air......:虚空に姿を消すのだった……。}`

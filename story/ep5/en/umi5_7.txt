@@ -1,85 +1,85 @@
 `{ruby:Knock‐knock‐knock‐knock!!!:ドンドンドンドン！！！}`
-`{ruby:The sudden sound of someone banging fiercely on the door brought Natsuhi to her senses.:突然の激しく扉を打ち鳴らす音に、夏妃は意識を取り戻す。}`
-`{ruby:She had probably nodded off in the study while planning how they would overcome the next day.:書斎で、明日をどう乗り越えるか思案している間に、つい、うつらうつらしてしまったのだろう。}`
+`{ruby:The sudden sound of someone banging fiercely:突然の激しく扉を打ち鳴らす音に}{ruby:on the door brought Natsuhi to her senses.:、夏妃は意識を取り戻す。}`
+`{ruby:She had probably nodded off in the study:書斎で、明日をどう乗り越えるか思案している間に}{ruby:while planning how they would overcome the next day.:、つい、うつらうつらしてしまったのだろう。}`
 `{ruby:But...what could it be...?:しかし、何事…？}`
 `{ruby:At a time like this...:このような時間に。}`
-`{ruby:More importantly, the knock itself was strange.:それよりも、ノックというのがおかしかった。}`
-`{ruby:If someone had wanted to contact her, they could have just used the internal phone line.:仮に何か連絡があるなら、内線電話を使えばいいだけの話だ。}`
-`{ruby:She had told them that she would be here.:自分はここにいると伝えてあるのに。}`
-`{ruby:Realizing that something strange was going on,:何かおかしな事態が起こりつつあることを気取り、}`
-`{ruby:Natsuhi shook her head one more time, completely throwing off her drowsiness.:夏妃はもう一度頭を振って、眠気を完全に振り払った。}`
+`{ruby:More importantly, the:それよりも、ノックという}{ruby:knock itself was strange.:のがおかしかった。}`
+`{ruby:If someone had wanted to contact her, they:仮に何か連絡があるなら、内線電}{ruby:could have just used the internal phone line.:話を使えばいいだけの話だ。}`
+`{ruby:She had told them:自分はここにいると伝}{ruby:that she would be here.:えてあるのに。}`
+`{ruby:Realizing that something:何かおかしな事態が起こりつ}{ruby:strange was going on,:つあることを気取り、}`
+`{ruby:Natsuhi shook her head one more:夏妃はもう一度頭を振って、眠}{ruby:time, completely throwing off her drowsiness.:気を完全に振り払った。}`
 `{ruby:"Father, Father...!!:「お父様、お父様…！！}`
 `{ruby:It's Eva.:絵羽です。}`
-`{ruby:I have something urgent and vital to talk to you about!":至急、重要なお話があります！」}`
+`{ruby:I have something urgent and:至急、重要なお話が}{ruby:vital to talk to you about!":あります！」}`
 `{ruby:It was Eva's voice.:それは絵羽の声だった。}`
 `{ruby:......What is this?:……どういうこと？}`
-`{ruby:I thought I told them to lock the doors and windows of the mansion tightly after everyone left for the guesthouse.:彼女らがゲストハウスへ行った後、屋敷は厳重に戸締りをさせたはず。}`
+`{ruby:I thought I told them to lock the doors and:彼女らがゲストハウスへ行った後、屋}{ruby:windows of the mansion tightly after everyone left for the guesthouse.:敷は厳重に戸締りをさせたはず。}`
 `{ruby:So why is Eva here...?!:それなのに、どうして絵羽がこんなところへ…？！}`
-`{ruby:Natsuhi ran up to the door, responded with a small knock, and spoke through the door in a quiet voice.:夏妃は扉に駆け寄ると、小さくノックを返し、扉越しに小声で告げた。}`
-`{ruby:".........What do you want? Keep your voice down.":「………何事ですか、騒々しいッ」}`
+`{ruby:Natsuhi ran up to the door, responded with a small:夏妃は扉に駆け寄ると、小さくノック}{ruby:knock, and spoke through the door in a quiet voice.:を返し、扉越しに小声で告げた。}`
+`{ruby:".........What do you want?:「………何事ですか}{ruby:Keep your voice down.":、騒々しいッ」}`
 `{ruby:"Natsuhi nee‐san...?!:「夏妃姉さん…？！}`
-`{ruby:Why are you in Father's study at this hour?!":何で、こんな時間にあんたがお父様の書斎にいるのよッ！」}`
+`{ruby:Why are you in:何で、こんな時間にあんたがお父}{ruby:Father's study at this hour?!":様の書斎にいるのよッ！」}`
 `{ruby:"......I told you to be quiet!:「……静かになさいと申し上げています！}`
-`{ruby:Have you forgotten that the head treasures peace and silence above all else...?!":当主様が何よりも沈黙と静寂を好まれることをお忘れですか…！」}`
-`{ruby:"Now's not the time to be saying that!!:「今はそんなこと言ってる場合じゃないのよ！！}`
-`{ruby:Stop harping on that and open up quickly!!:御託はいいから、とっととここを開けなさいッ！！}`
+`{ruby:Have you forgotten that the head:当主様が何よりも沈黙と静寂を好まれ}{ruby:treasures peace and silence above all else...?!":ることをお忘れですか…！」}`
+`{ruby:"Now's not the time:「今はそんなこと言ってる}{ruby:to be saying that!!:場合じゃないのよ！！}`
+`{ruby:Stop harping on that:御託はいいから、とっととこ}{ruby:and open up quickly!!:こを開けなさいッ！！}`
 `{ruby:Bring Father out!!":お父様を出して！！」}`
 `{ruby:"The head just went to sleep!:「当主様は先ほどお休みになられたばかりですッ！}`
-`{ruby:I don't know what business you have, but I will listen to it tomorrow!":何の御用か存じませんが、明日、私が伺います！」}`
+`{ruby:I don't know what business you have,:何の御用か存じませんが、明}{ruby:but I will listen to it tomorrow!":日、私が伺います！」}`
 `{ruby:"I don't have any business with you!!:「あんたなんかに用はないわよッ！！}`
 `{ruby:Just open up right now!!":いいからさっさとここを開けなさいッ！！」}`
-`{ruby:Sometimes, all one's schemes and assumptions can fall apart due to the most direct, simple, and emotional of strategies.:時に、数々の知略や想定は、もっとも愚直で単純で感情的な一手に翻弄されることがある。}`
+`{ruby:Sometimes, all one's schemes and assumptions can fall apart:時に、数々の知略や想定は、もっとも愚直で単純}{ruby:due to the most direct, simple, and emotional of strategies.:で感情的な一手に翻弄されることがある。}`
 `{ruby:This is bad...:このままでは、まずい…。}`
-`{ruby:If I open the door, Eva will probably throw herself forwards and rush into the study.:もしここを開ければ、絵羽は自分を突き飛ばして書斎の中に雪崩れ込んでくるだろう。}`
+`{ruby:If I open the door, Eva will probably:もしここを開ければ、絵羽は自分を突き飛ばし}{ruby:throw herself forwards and rush into the study.:て書斎の中に雪崩れ込んでくるだろう。}`
 `{ruby:Now, I can't even open this door...!:もはや、ここを開けることさえままならない…！}`
-`{ruby:At that moment, the phone suddenly rang.:その時、突然、電話が鳴った。}`
+`{ruby:At that moment,:その時、突然、電}{ruby:the phone suddenly rang.:話が鳴った。}`
 `{ruby:I‐it's alright.:だ、大丈夫。}`
-`{ruby:Both of the keys to the study are here.:書斎の鍵は、ここに２つともある。}`
+`{ruby:Both of the keys:書斎の鍵は、ここに}{ruby:to the study are here.:２つともある。}`
 `{ruby:No one can open this door...!:誰にもこの扉を開けることは出来ない…！}`
-`{ruby:Natsuhi inched away from the door and grabbed the receiver...:夏妃は、恐る恐る扉から離れ、受話器を取る…。}`
+`{ruby:Natsuhi inched away from the:夏妃は、恐る恐る扉から離}{ruby:door and grabbed the receiver...:れ、受話器を取る…。}`
 `{ruby:"H‐...hello!!:「も、…もしもし！！}`
 `{ruby:It's Natsuhi!":夏妃です！」}`
 `{ruby:"It's me...:「私だ…。}`
 `{ruby:Things are bad.:まずいことになった。}`
-`{ruby:I want you to come down to the parlor, quickly.":急いで、客間に下りて来てほしい」}`
+`{ruby:I want you to come:急いで、客間に下り}{ruby:down to the parlor, quickly.":て来てほしい」}`
 `{ruby:It was from Krauss.:蔵臼からだった。}`
 `{ruby:His tone was strained.:その声色は、緊迫している。}`
 `{ruby:......What in the world happened...?!:……一体何が起こったのか…？！}`
-`{ruby:"It seems that Battler‐kun and the guest called Erika...:「戦人くんと、あのヱリカという客人が、}`
-`{ruby:......solved the witch's epitaph and found the gold.":………魔女の碑文を解いて、黄金を発見したらしいのだ」}`
+`{ruby:"It seems that Battler‐kun:「戦人くんと、あのヱリ}{ruby:and the guest called Erika...:カという客人が、}`
+`{ruby:......solved the witch's epitaph:………魔女の碑文を解いて、黄}{ruby:and found the gold.":金を発見したらしいのだ」}`
 `{ruby:"Huh? ........................:「え、……………………。}`
 `{ruby:...Is, ...is that true?!":…そ、…それは、本当に？！」}`
-`{ruby:"Rudolf and the rest have forced their way in.:「留弗夫たちが押し掛けてきている。}`
-`{ruby:They're saying that Battler‐kun is going to show us all the way to the location of the hidden gold...":これから戦人くんが、全員立会いの下に黄金の場所に案内すると言っている…」}`
-`{ruby:"Right now, Eva‐san is just outside the door, yelling at me to open it...!:「今、書斎の扉の前で絵羽さんが開けろと騒いでいます…！}`
-`{ruby:If I open it now, she might push her way into the study...!!":今、開けたら、書斎の中に押し入って来るかもしれません…！！」}`
+`{ruby:"Rudolf and the rest:「留弗夫たちが押し掛}{ruby:have forced their way in.:けてきている。}`
+`{ruby:They're saying that Battler‐kun is going to show us:これから戦人くんが、全員立会いの下に黄}{ruby:all the way to the location of the hidden gold...":金の場所に案内すると言っている…」}`
+`{ruby:"Right now, Eva‐san is just outside the:「今、書斎の扉の前で絵羽さんが}{ruby:door, yelling at me to open it...!:開けろと騒いでいます…！}`
+`{ruby:If I open it now, she:今、開けたら、書斎の中に押し入って}{ruby:might push her way into the study...!!":来るかもしれません…！！」}`
 `{ruby:"...I, I understand.:「…わ、わかった。}`
 `{ruby:I will be there soon.:私もそこに行く。}`
 `{ruby:Don't worry about Eva.:絵羽には構うな。}`
-`{ruby:Just stay there and don't do anything...!:何もせずにそこにいるんだ…！}`
-`{ruby:I'll give you a signal once I've gotten Eva away from the door, so leave as soon as you hear that.:扉の前から絵羽を追い払ったら合図するから、すぐに出て来たまえ。}`
+`{ruby:Just stay there:何もせずにそこに}{ruby:and don't do anything...!:いるんだ…！}`
+`{ruby:I'll give you a signal once I've gotten Eva away:扉の前から絵羽を追い払ったら合図す}{ruby:from the door, so leave as soon as you hear that.:るから、すぐに出て来たまえ。}`
 `{ruby:Be ready...!":いいな…！」}`
-`{ruby:Right after that, Krauss came up the staircase, accompanied by Genji.:それからすぐに蔵臼が、源次を伴って階段を上がってきた。}`
-`{ruby:A heated debate started between him and Eva. "Open up!" "No, calm down.":絵羽と、そこを開けろ、ならん、落ち着きたまえと押し問答を始める。}`
-`{ruby:In the middle of that, there was a small knock as a signal.:その最中、小さくノックの合図がある。}`
-`{ruby:......Krauss had skillfully pushed Eva away from the door and distracted her.:……うまいこと、蔵臼が絵羽を扉の前から押しのけ、気を引いたのだ。}`
-`{ruby:During that gap, Natsuhi slipped out of the study and quickly shut the door...:その隙に、夏妃はするりと書斎を出て、素早く扉を閉める…。}`
-`{ruby:Eva noticed this, and her face twisted in disappointment,:絵羽がそれに気付き、しまったと顔を歪めるが、}`
-`{ruby:but the heavy sound of the auto‐lock had already rung out, and the door had been sealed.:もう重いオートロックの音が鳴り響き、扉を封印してしまった後だった。}`
-`{ruby:"The gold of the epitaph has been found!!:「碑文の黄金が見つかったのよ！！}`
-`{ruby:It's only natural that we should inform Father...!!:お父様にご報告するのが筋でしょうが…！！}`
+`{ruby:Right after that, Krauss came:それからすぐに蔵臼が、源次を伴}{ruby:up the staircase, accompanied by Genji.:って階段を上がってきた。}`
+`{ruby:A heated debate started between him:絵羽と、そこを開けろ、ならん、落ち}{ruby:and Eva. "Open up!" "No, calm down.":着きたまえと押し問答を始める。}`
+`{ruby:In the middle of that, there:その最中、小さくノッ}{ruby:was a small knock as a signal.:クの合図がある。}`
+`{ruby:......Krauss had skillfully pushed Eva away:……うまいこと、蔵臼が絵羽を扉の前}{ruby:from the door and distracted her.:から押しのけ、気を引いたのだ。}`
+`{ruby:During that gap, Natsuhi slipped out of:その隙に、夏妃はするりと書斎を}{ruby:the study and quickly shut the door...:出て、素早く扉を閉める…。}`
+`{ruby:Eva noticed this, and:絵羽がそれに気付き、しま}{ruby:her face twisted in disappointment,:ったと顔を歪めるが、}`
+`{ruby:but the heavy sound of the auto‐lock had:もう重いオートロックの音が鳴り響き、}{ruby:already rung out, and the door had been sealed.:扉を封印してしまった後だった。}`
+`{ruby:"The gold of the:「碑文の黄金が見つ}{ruby:epitaph has been found!!:かったのよ！！}`
+`{ruby:It's only natural that:お父様にご報告するのが筋}{ruby:we should inform Father...!!:でしょうが…！！}`
 `{ruby:Or else what?:それとも何？}`
-`{ruby:Is there some reason you can't tell Father about this?!":お父様にはそれを伝えられない都合でもあるのぉ？！」}`
-`{ruby:"We have strict orders from Father not to wake him after he goes to bed under any circumstances.:「親父殿からは、床に就いたら何があっても起こすなと厳命されていてね。}`
-`{ruby:Following those orders is the duty of the head's representative.:それを守るのは、当主代行の務めだよ。}`
+`{ruby:Is there some reason you:お父様にはそれを伝えられない}{ruby:can't tell Father about this?!":都合でもあるのぉ？！」}`
+`{ruby:"We have strict orders from Father not to wake:「親父殿からは、床に就いたら何があっ}{ruby:him after he goes to bed under any circumstances.:ても起こすなと厳命されていてね。}`
+`{ruby:Following those orders is the:それを守るのは、当主}{ruby:duty of the head's representative.:代行の務めだよ。}`
 `{ruby:Isn't that right, Genji‐san?":そうだろう、源次さん？」}`
 `{ruby:"............Yes.:「…………はい。}`
-`{ruby:The Master's sleep must not be disturbed, no matter the circumstances.":お館様のお休みは、何があろうとも乱すことは許されません」}`
-`{ruby:"There's a time and place for everything, isn't there...?!!:「それも時と場合によるでしょうが…！！}`
+`{ruby:The Master's sleep must not:お館様のお休みは、何があろうと}{ruby:be disturbed, no matter the circumstances.":も乱すことは許されません」}`
+`{ruby:"There's a time and:「それも時と場合による}{ruby:place for everything, isn't there...?!!:でしょうが…！！}`
 `{ruby:I mean, the epitaph was solved!!:だって、碑文が解けたのよ？！}`
-`{ruby:Father has a right to know straight away!":お父様には真っ先に知る権利があるわ！」}`
-`{ruby:"Of course, the two of us will report on everything to the head tomorrow.:「もちろん明日、当主様には全てを、私たちから報告します。}`
-`{ruby:That's our duty as the head's representatives.":それが当主代行である私たちの役目ですから」}`
+`{ruby:Father has a right:お父様には真っ先に知る}{ruby:to know straight away!":権利があるわ！」}`
+`{ruby:"Of course, the two of us will:「もちろん明日、当主様には全て}{ruby:report on everything to the head tomorrow.:を、私たちから報告します。}`
+`{ruby:That's our duty:それが当主代行である私た}{ruby:as the head's representatives.":ちの役目ですから」}`
 `{ruby:"I don't care about that!!:「そんなの知らないわよ！！}`
 `{ruby:Just open this door!!:いいから、この扉を開けなさいよ！！}`
 `{ruby:Let me see Father!!:お父様に会わせなさい！！}`
@@ -88,80 +88,80 @@
 `{ruby:Please open up!!":ここを開けて下さい！！」}`
 `{ruby:"Owowow, let go of me...!!:「痛たたたた、離してよ…！！}`
 `{ruby:Th‐that hurts...!!":い、痛い…！！」}`
-`{ruby:"We will bring this to his attention......!:「私たちが話を聞くと言っている……！}`
-`{ruby:Now stop knocking on the door so loudly......!!":やかましく扉を叩くな……！！」}`
+`{ruby:"We will bring:「私たちが話を聞くと}{ruby:this to his attention......!:言っている……！}`
+`{ruby:Now stop knocking on:やかましく扉を叩く}{ruby:the door so loudly......!!":な……！！」}`
 `{ruby:"Ouch, owowowowow...!!:「痛い、痛たたたたたたた…！！}`
 `{ruby:Let go, let go of me!!":離してよ、離しなさいよ！！」}`
 `{ruby:"Krauss‐sama, Eva‐sama.:「蔵臼さま、絵羽さまっ。}`
-`{ruby:You have been told that the Master is sleeping.:お館様がお休み中と申し上げております。}`
-`{ruby:Please refrain from disturbing him any further...!":これ以上は、お控え下さい…！」}`
-`{ruby:When Genji spoke firmly, the two finally ceased their scuffle.:源次がぴしゃりと言うと、二人はようやく取っ組み合いを解く。}`
-`{ruby:It seemed that Genji, the one who had spoken for Kinzo since they were very young, still possessed an air of dignity strong enough to handle both Krauss and Eva...:彼らが幼少の頃から金蔵の代弁者であった源次の威厳は、今なお、蔵臼にも絵羽にも通用するようだった…。}`
-`{ruby:Eva put her argument aside for the time being.:とりあえず、絵羽は矛先を収める。}`
-`{ruby:She could worry about that after seeing the gold with her own eyes.:黄金の発見をこの目で確認してからでも遅くはない。}`
-`{ruby:{n}After all, not even she had yet seen it for herself.:{n}絵羽とて、まだ自らの目で拝んではいないのだ。}`
-`{ruby:Natsuhi and the others had managed to deal with this crisis somehow.:何とか夏妃たちは急場を凌ぐ。}`
-`{ruby:......However, the demons' move which would sneer upon their efforts was already in motion...:……しかし、夏妃たちの努力を嘲笑おうとする悪魔たちの一手は、もう始まっているのだ…。}`
-`{ruby:"Battler.........solved the riddle of the epitaph, you say......?!":「戦人が、………碑文の謎を解いたというのか……！」}`
+`{ruby:You have been told:お館様がお休み中と申し}{ruby:that the Master is sleeping.:上げております。}`
+`{ruby:Please refrain from:これ以上は、お控え}{ruby:disturbing him any further...!":下さい…！」}`
+`{ruby:When Genji spoke firmly, the:源次がぴしゃりと言うと、二人はよ}{ruby:two finally ceased their scuffle.:うやく取っ組み合いを解く。}`
+`{ruby:It seemed that Genji, the one who had spoken for Kinzo since they were very:彼らが幼少の頃から金蔵の代弁者であった源次の威厳は、}{ruby:young, still possessed an air of dignity strong enough to handle both Krauss and Eva...:今なお、蔵臼にも絵羽にも通用するようだった…。}`
+`{ruby:Eva put her argument:とりあえず、絵羽は}{ruby:aside for the time being.:矛先を収める。}`
+`{ruby:She could worry about that after:黄金の発見をこの目で確認し}{ruby:seeing the gold with her own eyes.:てからでも遅くはない。}`
+`{ruby:{n}After all, not even she:{n}絵羽とて、まだ自らの目}{ruby:had yet seen it for herself.:で拝んではいないのだ。}`
+`{ruby:Natsuhi and the others had managed:何とか夏妃たちは}{ruby:to deal with this crisis somehow.:急場を凌ぐ。}`
+`{ruby:......However, the demons' move which would sneer:……しかし、夏妃たちの努力を嘲笑おうとする悪}{ruby:upon their efforts was already in motion...:魔たちの一手は、もう始まっているのだ…。}`
+`{ruby:"Battler.........solved the riddle of:「戦人が、………碑文の謎を解}{ruby:the epitaph, you say......?!":いたというのか……！」}`
 `{ruby:"Mm.:「うむ。}`
-`{ruby:......Though he had a lot of help from that Erika girl, Battler was the one who reached the answer.:……ヱリカなる娘にだいぶ助けられたとはいえ、辿り着いたのは戦人だった。}`
-`{ruby:Erika has proclaimed that she will renounce her rights to the Golden Land.:ヱリカは黄金郷の権利を放棄すると宣言している。}`
-`{ruby:......Therefore, Battler is the one who reached the Golden Land.":……よって、戦人が、黄金郷に辿り着きし者だ」}`
-`{ruby:".........Fate can be truly interesting.:「………運命とは、実に面白いものです。}`
-`{ruby:To think that Battler‐sama should be the one to reach that place...":戦人さまが、…辿り着くとは」}`
+`{ruby:......Though he had a lot of help from that:……ヱリカなる娘にだいぶ助けられたとは}{ruby:Erika girl, Battler was the one who reached the answer.:いえ、辿り着いたのは戦人だった。}`
+`{ruby:Erika has proclaimed that she will:ヱリカは黄金郷の権利を放棄}{ruby:renounce her rights to the Golden Land.:すると宣言している。}`
+`{ruby:......Therefore, Battler is the one:……よって、戦人が、黄金}{ruby:who reached the Golden Land.":郷に辿り着きし者だ」}`
+`{ruby:".........Fate can:「………運命とは、実に}{ruby:be truly interesting.:面白いものです。}`
+`{ruby:To think that Battler‐sama should be:戦人さまが、…辿}{ruby:the one to reach that place...":り着くとは」}`
 `{ruby:"What will you do, Beato?:「どうするのです、ベアト。}`
-`{ruby:......You made a promise to stop the ritual if anyone solved the epitaph's riddle.":……碑文の謎を解く者が現われたなら、儀式は取り止める約束ですよ」}`
+`{ruby:......You made a promise to stop the:……碑文の謎を解く者が現われたなら}{ruby:ritual if anyone solved the epitaph's riddle.":、儀式は取り止める約束ですよ」}`
 `{ruby:"Mm.:「うむ。}`
 `{ruby:...That was the agreement.":…そういう取り決めであったな」}`
 `{ruby:".........That is the agreement.:「………そういう取り決めだ。}`
 `{ruby:Yes.":うむ」}`
-`{ruby:"Apparently, Battler‐sama does not intend to become the master of the Golden Land.:「戦人さまはどうやら、黄金郷の主となられるおつもりがないようだ。}`
-`{ruby:......It now seems that no one will become our master.":……我らの主となる者は、もはや現われぬようですな」}`
+`{ruby:"Apparently, Battler‐sama does not intend to:「戦人さまはどうやら、黄金郷の主と}{ruby:become the master of the Golden Land.:なられるおつもりがないようだ。}`
+`{ruby:......It now seems that no:……我らの主となる者は、もは}{ruby:one will become our master.":や現われぬようですな」}`
 `{ruby:"That is also fate.:「それもまた運命です。}`
-`{ruby:It has been several decades since we first manifested in the {y:0:Human}{n:0:human} world through our bond with Lord {f:5:Goldsmith}.:ゴールドスミス卿とのご縁でニンゲンの世界に顕現して数十年。}`
+`{ruby:It has been several decades since we first manifested:ゴールドスミス卿とのご縁でニンゲ}{ruby:in the {y:0:Human}{n:0:human} world through our bond with Lord {f:5:Goldsmith}.:ンの世界に顕現して数十年。}`
 `{ruby:......It was all very fun.":……とても楽しい時間でしたよ」}`
-`{ruby:".........Come on, Lia, you sound like an old lady.:「………やぁだ、リーア、ババ臭ァい。}`
+`{ruby:".........Come on, Lia, you:「………やぁだ、リー}{ruby:sound like an old lady.:ア、ババ臭ァい。}`
 `{ruby:......So, what're we going to do?:……で、どうするわけ？}`
-`{ruby:According to Riiche and {f:5:Goldsmith}'s rules, now that Battler's solved the epitaph and decided not to become our master,:リーチェとゴールドスミスのルールなら、戦人が碑文を解き、主となることを選ばない以上、}`
-`{ruby:we've been relieved from duty, right?":私たちはこれでお役御免じゃないの？」}`
+`{ruby:According to Riiche and {f:5:Goldsmith}'s rules, now that Battler's:リーチェとゴールドスミスのルールなら、戦人が碑}{ruby:solved the epitaph and decided not to become our master,:文を解き、主となることを選ばない以上、}`
+`{ruby:we've been relieved:私たちはこれでお役御}{ruby:from duty, right?":免じゃないの？」}`
 `{ruby:"That's true.:「そうであるな。}`
 `{ruby:......I have no regrets at all.:……私に未練は何もない。}`
-`{ruby:I've been prepared to be kicked down into Cocytus all this time.":いつでも嘆ｷﾉ川へ蹴落とされる覚悟は出来ておるぞ」}`
+`{ruby:I've been prepared to be kicked:いつでも嘆ｷﾉ川へ蹴落とされ}{ruby:down into Cocytus all this time.":る覚悟は出来ておるぞ」}`
 `{ruby:"Wait.:「待て。}`
 `{ruby:We can't let that happen.:そうは行かぬ。}`
-`{ruby:......You might not have any regrets, but I still serve Natsuhi.:……そなたの心残りはないかもしれぬが、妾はまだ夏妃に仕えておるぞ。}`
-`{ruby:To let ourselves be relieved from duty just because Battler solved the epitaph would be quite irresponsible.:戦人が碑文を解いたからお役御免では、あまりに義理を欠くというもの。}`
-`{ruby:......Witches aren't allowed to break contracts, but they also must not fail to show gratitude.":……魔女は契約違反を許さぬが、不義理もまた許されぬ」}`
+`{ruby:......You might not have any:……そなたの心残りはないかもしれぬが}{ruby:regrets, but I still serve Natsuhi.:、妾はまだ夏妃に仕えておるぞ。}`
+`{ruby:To let ourselves be relieved from duty just:戦人が碑文を解いたからお役御免では、}{ruby:because Battler solved the epitaph would be quite irresponsible.:あまりに義理を欠くというもの。}`
+`{ruby:......Witches aren't allowed to break contracts, but:……魔女は契約違反を許さぬが}{ruby:they also must not fail to show gratitude.":、不義理もまた許されぬ」}`
 `{ruby:"......True.:「……でしょうな。}`
-`{ruby:We should serve her until the family conference ends.":親族会議を終えるまでは、きっちりとお仕えするべきでしょう」}`
-`{ruby:"In that case, you won't be relieved from duty for a while either, Lord {f:5:Goldsmith}.:「となると、ゴールドスミス卿も、もうしばらくはお役御免とはなりませんね。}`
-`{ruby:......Perhaps you should wait until you've overcome this family conference safely, said goodbye to Natsuhi‐sama at the very least,:……無事に親族会議を乗り越え、せめて夏妃さまにお別れの挨拶と、}`
-`{ruby:......and if possible, rewarded her for all her efforts.":……もし出来るなら、これまでの努力を労われるべきかと」}`
+`{ruby:We should serve her:親族会議を終えるまでは、きっちり}{ruby:until the family conference ends.":とお仕えするべきでしょう」}`
+`{ruby:"In that case, you won't be relieved:「となると、ゴールドスミス卿も、もうし}{ruby:from duty for a while either, Lord {f:5:Goldsmith}.:ばらくはお役御免とはなりませんね。}`
+`{ruby:......Perhaps you should wait until you've overcome this family:……無事に親族会議を乗り越え、せめ}{ruby:conference safely, said goodbye to Natsuhi‐sama at the very least,:て夏妃さまにお別れの挨拶と、}`
+`{ruby:......and if possible, rewarded:……もし出来るなら、これまでの}{ruby:her for all her efforts.":努力を労われるべきかと」}`
 `{ruby:"...............Hmm.:「……………ふむ。}`
-`{ruby:......She has done well supporting my foolish son.":……あれも、よく愚息を支えてきたものよ」}`
-`{ruby:"Aren't you a fallen angel with one of its wings plucked off?:「貴様など、片羽をもがれた堕天使ではないか。}`
-`{ruby:Just leave the other wing as a parting gift and go.":揃わぬ翼なら、置き土産に捨てて行けぃ」}`
+`{ruby:......She has done well:……あれも、よく愚息を}{ruby:supporting my foolish son.":支えてきたものよ」}`
+`{ruby:"Aren't you a fallen angel with:「貴様など、片羽をもがれ}{ruby:one of its wings plucked off?:た堕天使ではないか。}`
+`{ruby:Just leave the other wing:揃わぬ翼なら、置き土産}{ruby:as a parting gift and go.":に捨てて行けぃ」}`
 `{ruby:"......Hmm.:「……ふむ。}`
 `{ruby:......That is also fitting.:……それも良かろう。}`
-`{ruby:Natsuhi might be worthy to bear my wing.:夏妃ならば、我が翼を背負うに相応しいかも知れぬ。}`
-`{ruby:...However, .........we are approaching the critical moment.:…しかし、………ここからが正念場となるぞ。}`
-`{ruby:......Your reward is waiting for you.:……褒美は用意した。}`
-`{ruby:Try and overcome this test safely, ......Natsuhi...":無事にこの試練を乗り越えてみよ……、夏妃…」}`
-`{ruby:The mountain of gold left everyone speechless.:黄金の山に、誰もが絶句した。}`
-`{ruby:Regardless of how strongly they had believed in its existence,:その存在を、どれほど固く信じていたとしても、}`
-`{ruby:......no one could look at this much real gold and not be shocked...:……この実物の黄金を見て、驚かぬ者はいない…。}`
-`{ruby:"............To think that a place like this existed.........":「…………こんな、場所があるなんて………」}`
+`{ruby:Natsuhi might be worthy:夏妃ならば、我が翼を背負う}{ruby:to bear my wing.:に相応しいかも知れぬ。}`
+`{ruby:...However, .........we are:…しかし、………ここから}{ruby:approaching the critical moment.:が正念場となるぞ。}`
+`{ruby:......Your reward is:……褒美は用}{ruby:waiting for you.:意した。}`
+`{ruby:Try and overcome:無事にこの試練を乗り越え}{ruby:this test safely, ......Natsuhi...":てみよ……、夏妃…」}`
+`{ruby:The mountain of:黄金の山に、誰も}{ruby:gold left everyone speechless.:が絶句した。}`
+`{ruby:Regardless of how strongly they:その存在を、どれほど固く}{ruby:had believed in its existence,:信じていたとしても、}`
+`{ruby:......no one could look at this:……この実物の黄金を見て、}{ruby:much real gold and not be shocked...:驚かぬ者はいない…。}`
+`{ruby:"............To think that a:「…………こんな、場所が}{ruby:place like this existed.........":あるなんて………」}`
 `{ruby:"I can't believe it......:「信じられん……。}`
 `{ruby:......That Dad.........":……親父め………」}`
 `{ruby:Everyone was stunned by the gold.:誰もがその黄金に絶句する。}`
-`{ruby:The first one to break the silence and jump around in ecstasy was Hideyoshi.:最初に堰を破り、狂喜したのは秀吉だった。}`
-`{ruby:Letting out an excited laugh, he clung to the wall of gold,:上擦った笑い声を上げながら、黄金の壁にしがみ付く。}`
-`{ruby:and he felt the cold, hard touch of it all over his cheek.:{n}そしてその冷たく硬い感触を頬いっぱいで感じ取った。}`
-`{ruby:"W‐waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!:「う、うわはははははははははははは…！！}`
+`{ruby:The first one to break the silence:最初に堰を破り、狂喜し}{ruby:and jump around in ecstasy was Hideyoshi.:たのは秀吉だった。}`
+`{ruby:Letting out an excited laugh, he:上擦った笑い声を上げながら、}{ruby:clung to the wall of gold,:黄金の壁にしがみ付く。}`
+`{ruby:and he felt the cold, hard:{n}そしてその冷たく硬い感触}{ruby:touch of it all over his cheek.:を頬いっぱいで感じ取った。}`
+`{ruby::「う、うわはははははは}{ruby:"W‐waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!:はははははは…！！}`
 `{ruby:Th‐this is incredible!:こ、こりゃすごいで！}`
 `{ruby:It's the real thing!!":ホンマモンやで！！」}`
-`{ruby:"......Ha......ha{0}ha{0}ha{0}ha{0}ha{0}haha!!:「……はッ、……はっははははははは！！}`
-`{ruby:Damn you, old man, stockpiling all this gold in a crazy place like this!!":親父め、こんな黄金を、こんなふざけたところに溜め込みやがって！！」}`
+`{ruby::「……はッ、……はっは}{ruby:"......Ha......ha{0}ha{0}ha{0}ha{0}ha{0}haha!!:はははははは！！}`
+`{ruby:Damn you, old man, stockpiling all this:親父め、こんな黄金を、こんなふざけた}{ruby:gold in a crazy place like this!!":ところに溜め込みやがって！！」}`
 `{ruby:"If we have all this...:「これだけあれば、}`
 `{ruby:...there's...:……もう、}`
 `{ruby:nothing to be afraid of anymore...:…何も怖くない…。}`
@@ -169,449 +169,449 @@
 `{ruby:......we can overcome......!:……乗り越えられる……！}`
 `{ruby:Rosaaa......!!":楼座ぁ……！！」}`
 `{ruby:"Nee‐san...... Nee‐san......:「姉さん……、姉さん……。}`
-`{ruby:We'll be able to find happiness with this, right......?":これで、私たちは幸せになれるよね……？」}`
-`{ruby:Eva and Rosa started walking towards each other at the same time and hugged each other as they broke down crying...:絵羽と楼座は、どちらからともなく歩み寄り、肩を抱き合いながら泣き崩れる…。}`
+`{ruby:We'll be able to:これで、私たちは幸せに}{ruby:find happiness with this, right......?":なれるよね……？」}`
+`{ruby:Eva and Rosa started walking towards each other at the:絵羽と楼座は、どちらからともなく歩み寄り}{ruby:same time and hugged each other as they broke down crying...:、肩を抱き合いながら泣き崩れる…。}`
 `{ruby:Ecstasy and shock...wonder and sighs.:狂喜と呆然、感嘆と溜め息。}`
-`{ruby:After stepping forward in front of the pile of gold that caused these mixed emotions,:様々な感情が入り混じる黄金の山の前に歩み出て、}`
-`{ruby:......Erika spoke as though she were an announcer in some show.:……これがショーなら司会者が振舞うように、ヱリカが言った。}`
-`{ruby:".........If money is everything in this world, then this gold is the embodiment of happiness.:「………この世がカネなら、この黄金は幸せの結晶です。}`
+`{ruby:After stepping forward in front of the:様々な感情が入り混じる黄金}{ruby:pile of gold that caused these mixed emotions,:の山の前に歩み出て、}`
+`{ruby:......Erika spoke as though she:……これがショーなら司会者が振舞}{ruby:were an announcer in some show.:うように、ヱリカが言った。}`
+`{ruby:".........If money is everything in this world,:「………この世がカネなら、こ}{ruby:then this gold is the embodiment of happiness.:の黄金は幸せの結晶です。}`
 `{ruby:......Congratulations, everyone.:……おめでとうございます、皆さん。}`
-`{ruby:I pray with all my heart that this discovery enriches your lives.":この発見が、皆さんの人生をより豊かなものにすることを、心よりお祈りいたしております」}`
+`{ruby:I pray with all my heart:この発見が、皆さんの人生をより豊かなものにす}{ruby:that this discovery enriches your lives.":ることを、心よりお祈りいたしております」}`
 `{ruby:"I take my hat off to you......:「脱帽だわ……。}`
-`{ruby:......To think that you would solve the epitaph within a single day of coming to this island.":……この島に来て、丸一日さえ過ごしてないあなたが碑文を解いてしまうなんて」}`
-`{ruby:".........If it wasn't solvable in a single day, then it wouldn't have been solvable no matter how many days I spent on it.:「………一日で解けないなら、何日を掛けようとも解けません。}`
-`{ruby:After all, it doesn't take more than an instant for your little gray cells to give you a flash of intuition.:灰色の脳細胞は、閃きを与えるのに、瞬きする以上の時間を必要としませんので。}`
-`{ruby:......Also, I wouldn't have been able to solve this riddle on my own.:……そして、私一人ではこの謎を解くことは出来ませんでした。}`
-`{ruby:I ask that you praise Battler‐san's achievement as well, everyone.":戦人さんの功績も、どうか讃えて上げて下さい、皆さん」}`
+`{ruby:......To think that you would solve the epitaph:……この島に来て、丸一日さえ過ごしてない}{ruby:within a single day of coming to this island.":あなたが碑文を解いてしまうなんて」}`
+`{ruby:".........If it wasn't solvable in a single day, then it wouldn't:「………一日で解けないなら、何日}{ruby:have been solvable no matter how many days I spent on it.:を掛けようとも解けません。}`
+`{ruby:After all, it doesn't take more than an instant for:灰色の脳細胞は、閃きを与えるのに、瞬きす}{ruby:your little gray cells to give you a flash of intuition.:る以上の時間を必要としませんので。}`
+`{ruby:......Also, I wouldn't have been able:……そして、私一人ではこの謎を解}{ruby:to solve this riddle on my own.:くことは出来ませんでした。}`
+`{ruby:I ask that you praise:戦人さんの功績も、どうか讃え}{ruby:Battler‐san's achievement as well, everyone.":て上げて下さい、皆さん」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:"......I renounce any rights to this discovery.:「……私は、この発見を放棄します。}`
-`{ruby:My reasoning was proven correct, and that alone is enough to satisfy me.:推理が正しかったことが証明されただけで、もう満足していますので。}`
-`{ruby:Therefore, I want to give Battler‐san the full credit for discovering the gold.":黄金発見の功績の全てを、戦人さんに譲りたいと思います」}`
-`{ruby:"......I may be here, but please continue your discussion as though I am not.:「……私はここにおりますが、以後はいないものとして、どうぞお話をお続け下さい。}`
-`{ruby:Battler‐san called all of the adults here, making sure that none of his cousins would notice.:戦人さんは、いとこの皆さんに気付かれぬように、大人の皆さんだけを呼び出しました。}`
+`{ruby:"......I renounce any:「……私は、この発見}{ruby:rights to this discovery.:を放棄します。}`
+`{ruby:My reasoning was proven correct, and:推理が正しかったことが証明されただ}{ruby:that alone is enough to satisfy me.:けで、もう満足していますので。}`
+`{ruby:Therefore, I want to give Battler‐san:黄金発見の功績の全てを、戦人さ}{ruby:the full credit for discovering the gold.":んに譲りたいと思います」}`
+`{ruby:"......I may be here, but please continue:「……私はここにおりますが、以後はいないも}{ruby:your discussion as though I am not.:のとして、どうぞお話をお続け下さい。}`
+`{ruby:Battler‐san called all of the adults here, making:戦人さんは、いとこの皆さんに気付かれぬよう}{ruby:sure that none of his cousins would notice.:に、大人の皆さんだけを呼び出しました。}`
 `{ruby:That can only mean one thing.:それが意味するところはただひとつ。}`
-`{ruby:......He must wish for you all to conduct the true family conference.":……皆さんに、本当の親族会議を開いていただきたいからに他なりません」}`
+`{ruby:......He must wish for you all:……皆さんに、本当の親族会議を開いて}{ruby:to conduct the true family conference.":いただきたいからに他なりません」}`
 `{ruby:"......Erika.:「……ヱリカ。}`
 `{ruby:Quit trying to run the show.":勝手に仕切るんじゃねぇ」}`
 `{ruby:"Oh, how rude of me.:「これは失礼しました。}`
-`{ruby:............In that case, I'll step down as the facilitator of these proceedings.:…………それでは議事の進行役を譲ります。}`
+`{ruby:............In that case, I'll step down:…………それでは議事の}{ruby:as the facilitator of these proceedings.:進行役を譲ります。}`
 `{ruby:So, who will take my place?":では、誰に？」}`
-`{ruby:Shrugging, Erika looked around at everyone.:ヱリカが肩を竦めながら、一同を見回す。}`
-`{ruby:......After a short period of silence, Eva made the first move.:……しばらくの沈黙の末、絵羽が最初の口火を切った。}`
-`{ruby:"I assume none of us have forgotten......the deal we made earlier today.":「昼間の取り決め、……全員、忘れてないでしょうね？」}`
+`{ruby:Shrugging, Erika looked:ヱリカが肩を竦めながら}{ruby:around at everyone.:、一同を見回す。}`
+`{ruby:......After a short period of:……しばらくの沈黙の末、絵羽}{ruby:silence, Eva made the first move.:が最初の口火を切った。}`
+`{ruby:"I assume none of us have:「昼間の取り決め、……全員、}{ruby:forgotten......the deal we made earlier today.":忘れてないでしょうね？」}`
 `{ruby:"Yeah.:「あぁ。}`
-`{ruby:We divide it between the four of us, 2.5 billion each.:４人で２５億ずつを山分けだ。}`
-`{ruby:And then {i:the successor to the head} gets another 10 billion.":そして、{i:次期当主}にはさらに１００億」}`
+`{ruby:We divide it between the:４人で２５億ずつ}{ruby:four of us, 2.5 billion each.:を山分けだ。}`
+`{ruby:And then {i:the successor to:そして、{i:次期当主}}{ruby:the head} gets another 10 billion.":にはさらに１００億」}`
 `{ruby:".........W‐wait just a moment!:「………お、お待ちなさい！}`
-`{ruby:Who decided that the one who discovers the gold becomes the successor?!":黄金の発見が次期当主を決めるなどと、誰が決めたのですか？！」}`
-`{ruby:"Hold your horses, you're not gettin' away with that, Natsuhi‐san...!!:「おぉっと、そうは行かんで、夏妃さん…！！}`
-`{ruby:That's been the basis of all our talkin' this whole time!:これまで、ずうっとそれを前提に話を進めてきたはずやで？！}`
-`{ruby:Sayin' that now is shameful, don't ya think?!":今さらそれは、白々しいとちゃうんか？！」}`
+`{ruby:Who decided that the one who:黄金の発見が次期当主を決めるなどと}{ruby:discovers the gold becomes the successor?!":、誰が決めたのですか？！」}`
+`{ruby:"Hold your horses, you're not:「おぉっと、そうは行かん}{ruby:gettin' away with that, Natsuhi‐san...!!:で、夏妃さん…！！}`
+`{ruby:That's been the basis of:これまで、ずうっとそれを前提に話}{ruby:all our talkin' this whole time!:を進めてきたはずやで？！}`
+`{ruby:Sayin' that now is:今さらそれは、白々しいと}{ruby:shameful, don't ya think?!":ちゃうんか？！」}`
 `{ruby:"...That's right.:「…そうだわ。}`
-`{ruby:......Weren't you the one worrying about how if one of the servants solved the riddle, they might consider themselves the successor to the head...?":……使用人の誰かが碑文を解いてしまって、次期当主を名乗るかもしれないって、怯えてたのは夏妃姉さんじゃない…」}`
-`{ruby:"But nowhere is it explicitly written that that's the truth!":「どこにもそうだという明記はないがね？！」}`
+`{ruby:......Weren't you the one worrying about how if one of the servants:……使用人の誰かが碑文を解いてしまって、次期当主を名乗る}{ruby:solved the riddle, they might consider themselves the successor to the head...?":かもしれないって、怯えてたのは夏妃姉さんじゃない…」}`
+`{ruby:"But nowhere is it explicitly:「どこにもそうだという明}{ruby:written that that's the truth!":記はないがね？！」}`
 `{ruby:"You miserable coward!!!:「卑劣漢ッ！！！}`
-`{ruby:That was the way every single one of us interpreted it!!":私たち全員はそういう認識だったでしょうがッ！！」}`
+`{ruby:That was the way every:私たち全員はそういう認識だっ}{ruby:single one of us interpreted it!!":たでしょうがッ！！」}`
 `{ruby:"She's right, Aniki!:「そうだぜ、兄貴ッ！}`
-`{ruby:Are you really going to do a 180 on that now?!":今さら手の平を返そうってのか？！」}`
-`{ruby:"Though it was never written down, I believe it was most definitely common understanding between us.:「明文化されてなくても、それは間違いなく私たちの共通認識だったはず。}`
-`{ruby:I don't see how you can say it's completely irrelevant.":話にもならないと仰るのはどうなのかしら」}`
-`{ruby:"You can't just interpret the head's epitaph however you like!!:「当主様の碑文を勝手に解釈されるのは困ります！！}`
-`{ruby:Where is it written that the one who finds the gold becomes the successor?!:黄金を見つけたら、その者が次期当主になると、どこに記されているというのです？！}`
-`{ruby:The epitaph was decided upon by the head.:当主様の碑文は当主様が決めたもの。}`
-`{ruby:You have no right to decide these things for yourselves!!":皆さんに決め付ける権利などありませんッ！！」}`
+`{ruby:Are you really going to:今さら手の平を返そう}{ruby:do a 180 on that now?!":ってのか？！」}`
+`{ruby:"Though it was never written down, I believe:「明文化されてなくても、それは間違い}{ruby:it was most definitely common understanding between us.:なく私たちの共通認識だったはず。}`
+`{ruby:I don't see how you:話にもならないと仰るの}{ruby:can say it's completely irrelevant.":はどうなのかしら」}`
+`{ruby:"You can't just interpret the:「当主様の碑文を勝手に解釈}{ruby:head's epitaph however you like!!:されるのは困ります！！}`
+`{ruby:Where is it written that the one:黄金を見つけたら、その者が次期当主になると}{ruby:who finds the gold becomes the successor?!:、どこに記されているというのです？！}`
+`{ruby:The epitaph was decided:当主様の碑文は当主様}{ruby:upon by the head.:が決めたもの。}`
+`{ruby:You have no right to:皆さんに決め付ける権利な}{ruby:decide these things for yourselves!!":どありませんッ！！」}`
 `{ruby:".........Calm down, Natsuhi.":「………夏妃、落ち着きなさい」}`
 `{ruby:"How can I possibly calm down?!:「これが落ち着けるというのですか？！}`
-`{ruby:I certainly find it very impressive that Battler‐kun solved the epitaph!:確かに碑文を解いた功績は素晴らしいと思います！}`
-`{ruby:I do think it would be fair for him to receive some kind of a reward.:戦人くんにも何かの見返りがあっても良いとは思います。}`
-`{ruby:However, saying that reward should be half of everything here is clearly over the line,:しかし、それが半分というのは明らかに逸脱していますし、}`
-`{ruby:and the argument that the discoverer automatically becomes the successor is one that I absolutely will not permit to go unchallenged...!!":それ以上に、発見者だから次期当主という論法はなおまかり通りません…！！」}`
+`{ruby:I certainly find it very:確かに碑文を解いた功績は素}{ruby:impressive that Battler‐kun solved the epitaph!:晴らしいと思います！}`
+`{ruby:I do think it would be fair for:戦人くんにも何かの見返りがあっ}{ruby:him to receive some kind of a reward.:ても良いとは思います。}`
+`{ruby:However, saying that reward should be half:しかし、それが半分というのは明}{ruby:of everything here is clearly over the line,:らかに逸脱していますし、}`
+`{ruby:and the argument that the discoverer automatically becomes the successor:それ以上に、発見者だから次期当主という}{ruby:is one that I absolutely will not permit to go unchallenged...!!":論法はなおまかり通りません…！！」}`
 `{ruby:"Th‐that's low, Natsuhi nee‐san...!:「ひ、卑怯だわ、夏妃姉さん…！}`
-`{ruby:This is completely different from what you were saying earlier today...!":今日の昼間にしてた話と全然違う…！」}`
+`{ruby:This is completely different from:今日の昼間にしてた話と}{ruby:what you were saying earlier today...!":全然違う…！」}`
 `{ruby:"I agree!:「同感だぜ！}`
-`{ruby:It may not have been written down, but the fact that the guy who solves the epitaph becomes the successor has always been our greatest unwritten assumption...!:明文化されてなくても、碑文を解いたヤツが次期当主になるってのは、俺たちの不文律で最前提だったはずだ…！}`
-`{ruby:It's not exactly fair to start complaining about that at the last second, is it?!:それをこの土壇場でごちゃごちゃ言い出すのはフェアじゃねぇぜ？}`
+`{ruby:It may not have been written down, but the fact that the guy:明文化されてなくても、碑文を解いたヤツが次期当主になる}{ruby:who solves the epitaph becomes the successor has always been our greatest unwritten assumption...!:ってのは、俺たちの不文律で最前提だったはずだ…！}`
+`{ruby:It's not exactly fair to start complaining:それをこの土壇場でごちゃごちゃ言い}{ruby:about that at the last second, is it?!:出すのはフェアじゃねぇぜ？}`
 `{ruby:Yeah, not fair at all!!":あぁ、フェアじゃねぇ！！」}`
 `{ruby:"At any rate!!:「とにかくッ！！}`
 `{ruby:This gold belongs to Father!!:この黄金はお父様の黄金です！！}`
-`{ruby:We are not to decide how it will be split up without Father's permission!!":お父様の許可なく、勝手に分配を決めていいものではありません！！」}`
+`{ruby:We are not to decide how it:お父様の許可なく、勝手に分配を決めて}{ruby:will be split up without Father's permission!!":いいものではありません！！」}`
 `{ruby:"No way!!:「そらない！！}`
 `{ruby:That's real low, Natsuhi‐san!:そら卑怯やで夏妃さん！}`
-`{ruby:We were talkin' about this on and on earlier!:わしら、その話を延々と昼間にしたんやで？！}`
-`{ruby:Are you sayin' that whole conversation today was a bunch of bull?!:昼間の話は全部チャラや、言うんか？！}`
+`{ruby:We were talkin' about:わしら、その話を延々と昼}{ruby:this on and on earlier!:間にしたんやで？！}`
+`{ruby:Are you sayin' that whole conversation:昼間の話は全部チャラや}{ruby:today was a bunch of bull?!:、言うんか？！}`
 `{ruby:That's just not right!!":そらぁあんまりやでぇ！！」}`
 `{ruby:"Why don't we just vote on it?!!:「多数決で決めればいいのよぅ！！}`
-`{ruby:Battler‐kun, the one who found the gold, is the successor to the head!:黄金を発見した戦人くんが次期当主！}`
-`{ruby:My husband and I have no objections!!:私も夫も異議はないわ！！}`
-`{ruby:What about you, Rudolf and Kyrie‐san?:留弗夫たちは？}`
+`{ruby:Battler‐kun, the one who found the:黄金を発見した戦人く}{ruby:gold, is the successor to the head!:んが次期当主！}`
+`{ruby:My husband and:私も夫も異議はな}{ruby:I have no objections!!:いわ！！}`
+`{ruby:What about you,:留弗夫たち}{ruby:Rudolf and Kyrie‐san?:は？}`
 `{ruby:Rosa?!":楼座は？！」}`
-`{ruby:"No objections here. Nice going, Battler!!":「異議なんかねぇぜ、戦人、よくやった！！」}`
+`{ruby:"No objections here.:「異議なんかねぇぜ、戦人}{ruby:Nice going, Battler!!":、よくやった！！」}`
 `{ruby:"I have no objections either.:「私も異議はないわ。}`
-`{ruby:Battler‐kun is the true successor, chosen by the epitaph.:戦人くんは碑文に選ばれた、正当な跡継ぎよ。}`
-`{ruby:If you aren't satisfied, then why don't we just ask Father directly...?!":不満ならお父様に直接聞けばいいんだわ…！」}`
+`{ruby:Battler‐kun is the true:戦人くんは碑文に選ばれた}{ruby:successor, chosen by the epitaph.:、正当な跡継ぎよ。}`
+`{ruby:If you aren't satisfied, then why:不満ならお父様に直接聞け}{ruby:don't we just ask Father directly...?!":ばいいんだわ…！」}`
 `{ruby:"That's right.:「そうね。}`
-`{ruby:Like you just said, Natsuhi nee‐san, Father is the one who wrote the riddle of the epitaph.:夏妃姉さんの言ったとおり、碑文の謎を出題したのはお父様。}`
-`{ruby:And he's also the proper owner of this gold.:そしてこの黄金の本来の持ち主もお父様だわ。}`
-`{ruby:In that case, we should raise the matter with him, wouldn't you say?:だったら、お父様に話を聞くべきじゃないのかしら？}`
-`{ruby:What kind of treatment should Battler‐kun receive as the person who discovered the gold?:戦人くんという発見者はどう扱われるのか。}`
-`{ruby:I believe Father is the only one with the right to determine that...!":それについて決めていいのは、お父様だけのはずだわ…！」}`
+`{ruby:Like you just said, Natsuhi nee‐san, Father is:夏妃姉さんの言ったとおり、碑文}{ruby:the one who wrote the riddle of the epitaph.:の謎を出題したのはお父様。}`
+`{ruby:And he's also the:そしてこの黄金の本来の持}{ruby:proper owner of this gold.:ち主もお父様だわ。}`
+`{ruby:In that case, we should raise:だったら、お父様に話を聞く}{ruby:the matter with him, wouldn't you say?:べきじゃないのかしら？}`
+`{ruby:What kind of treatment should Battler‐kun receive:戦人くんという発見者はど}{ruby:as the person who discovered the gold?:う扱われるのか。}`
+`{ruby:I believe Father is the only:それについて決めていいのは、お}{ruby:one with the right to determine that...!":父様だけのはずだわ…！」}`
 `{ruby:"B‐...but......!!":「そ、…それは……！！」}`
-`{ruby:"......I told you to calm down.........":「……だから落ち着けと言ったのだ。………」}`
+`{ruby:"......I told you:「……だから落ち着けと言}{ruby:to calm down.........":ったのだ。………」}`
 `{ruby:"Rosa and Kyrie‐san are right.:「楼座と霧江さんの言うとおりだわ。}`
 `{ruby:Let's ask Father!!:お父様に聞きましょうよ、お父様に！！}`
-`{ruby:It's time for you two to step aside!!":もはやね、兄さんたちの出番じゃないのよ！！」}`
+`{ruby:It's time for you:もはやね、兄さんたちの出番}{ruby:two to step aside!!":じゃないのよ！！」}`
 `{ruby:"Darn right!!:「そやそや！！}`
 `{ruby:Bring Father down to us!!:お父さんを連れて来んかいッ！！}`
-`{ruby:We won't get anywhere with just you two!:あんたらじゃ話にならへん！}`
-`{ruby:Let's get the real family conference started!!:ホンマの親族会議を始めようやないか！！}`
-`{ruby:You think this looks like somethin' you can put off because he's {i:tired}?!:眠いから明日にしろっちゅう問題に見えまっかッ？！}`
-`{ruby:We don't do this properly, an' we'll have a massive problem on our hands...!":これ、舐めとったら偉い問題になりまっせ…！」}`
+`{ruby:We won't get anywhere:あんたらじゃ話に}{ruby:with just you two!:ならへん！}`
+`{ruby:Let's get the:ホンマの親族会議を始め}{ruby:real family conference started!!:ようやないか！！}`
+`{ruby:You think this looks like somethin':眠いから明日にしろっちゅう問}{ruby:you can put off because he's {i:tired}?!:題に見えまっかッ？！}`
+`{ruby:We don't do this properly, an' we'll:これ、舐めとったら偉い問題}{ruby:have a massive problem on our hands...!":になりまっせ…！」}`
 `{ruby:"Hey, ya listenin' to me?!!:「おう、聞いとるんかぃ！！}`
-`{ruby:I'm sayin' we're through with you two!!:お前らじゃ話にならんゆうとるんや！！}`
-`{ruby:Get off your asses and bring Father down right noooooow!!!":とっととお父さん、連れて来んかいぃいいッ！！！」}`
-`{ruby:"...............Are family conferences always like this?":「……………親族会議って、いつもこういうのなんですか？」}`
+`{ruby:I'm sayin' we're:お前らじゃ話にならんゆ}{ruby:through with you two!!:うとるんや！！}`
+`{ruby:Get off your asses and:とっととお父さん、連れて来ん}{ruby:bring Father down right noooooow!!!":かいぃいいッ！！！」}`
+`{ruby:"...............Are family conferences:「……………親族会議って、いつ}{ruby:always like this?":もこういうのなんですか？」}`
 `{ruby:"......How the hell'd I know?":「……俺が知るか」}`
-`{ruby:"They're probably always feeling like this on the inside.:「腹の中では、いつもこうなのでしょうね。}`
+`{ruby:"They're probably always feeling:「腹の中では、いつもこ}{ruby:like this on the inside.:うなのでしょうね。}`
 `{ruby:.........Heheheheh.:………うふふふふ。}`
-`{ruby:Looks like they won't be able to get this figured out right now without Kinzo‐san.":どうも、この場は金蔵さんじゃないと収められなくなるみたい」}`
-`{ruby:"......To think he's still being called out to settle his children's fights even though he's been told he only has a short while to live.:「……子どもの喧嘩に、余命あとわずかと宣告されてる今になっても、まだ呼び出されるなんて。}`
-`{ruby:......I wonder how he feels right about now.:……どういう気持ちかしらね、金蔵さん。}`
+`{ruby:Looks like they won't be able to:どうも、この場は金蔵さんじゃない}{ruby:get this figured out right now without Kinzo‐san.":と収められなくなるみたい」}`
+`{ruby:"......To think he's still being called out to settle his children's fights:「……子どもの喧嘩に、余命あとわずかと宣告され}{ruby:even though he's been told he only has a short while to live.:てる今になっても、まだ呼び出されるなんて。}`
+`{ruby:......I wonder how he:……どういう気持ちかし}{ruby:feels right about now.:らね、金蔵さん。}`
 `{ruby:......*giggle*.:……くすくす。}`
-`{ruby:Imagining that...no, deducing that will be a treat.":それを想像、…いいえ、推理するのも乙なものです」}`
-`{ruby:The parents ignored Battler and Erika and kept yelling at each other, on and on...:親たちは、戦人たちのことなど忘れ、延々と怒鳴り合いを続けている…。}`
-`{ruby:Even though Battler had more or less imagined that this sort of thing happened behind the scenes, this was the first time he had seen it.:戦人にとって、……その光景は薄々想像がついていながらも、初めて目にするものだった。}`
-`{ruby:He had suspected it since six years ago,:６年前から勘付いていたし、}`
-`{ruby:and he'd been able to get a pretty good idea of what this was like by the darkening expressions on his parents' faces when this time of year drew near...:この時期が近付くと暗くなる両親の表情からも、何となく想像はついていた…。}`
-`{ruby:However, this argument his relatives were having before his very eyes...:しかし、目の当たりにする親族たちの罵り合いは、}`
+`{ruby:Imagining that...no, deducing that:それを想像、…いいえ、推理}{ruby:will be a treat.":するのも乙なものです」}`
+`{ruby:The parents ignored Battler and Erika and:親たちは、戦人たちのことなど忘れ、延}{ruby:kept yelling at each other, on and on...:々と怒鳴り合いを続けている…。}`
+`{ruby:Even though Battler had more or less imagined that this sort of thing:戦人にとって、……その光景は薄々想像がついて}{ruby:happened behind the scenes, this was the first time he had seen it.:いながらも、初めて目にするものだった。}`
+`{ruby:He had suspected it:６年前から勘付い}{ruby:since six years ago,:ていたし、}`
+`{ruby:and he'd been able to get a pretty good idea of what this was like:この時期が近付くと暗くなる両親の表情か}{ruby:by the darkening expressions on his parents' faces when this time of year drew near...:らも、何となく想像はついていた…。}`
+`{ruby:However, this argument his relatives:しかし、目の当たりにする親}{ruby:were having before his very eyes...:族たちの罵り合いは、}`
 `{ruby:...was much more...:……想像を超えてあまりに、}`
 `{ruby:...ugly than he had imagined...:……醜いものだった…。}`
-`{ruby:He was very glad that he'd called the adults out here without letting the cousins catch wind of anything......:だから、いとこたちに内緒で大人たちをここへ連れ出して、本当に良かったと思った……。}`
-`{ruby:Perhaps because everyone was tired out from this seemingly endless argument, they took a short break.:いつ終わるとも知れぬ醜い罵り合いは、互いが疲れてきたのか、一度休止を迎える。}`
-`{ruby:It was decided that this family conference inside the Golden Land should be moved over to the mansion...:黄金郷での親族会議は、場を屋敷に移すこととなった…。}`
-`{ruby:This place may have been gorgeous, like a VIP room, but there was no ventilation, and it was a little cold.:確かに貴賓室のように煌びやかではあるが、空調はなく、少し寒い。}`
-`{ruby:It wasn't well suited for a long conversation.:長話をするには向かなかったためだ。}`
-`{ruby:They thought of the possibility that someone might carry the gold away while their backs were turned,:目を離している間に、黄金を誰かが持ち去るのでは、とも考えたが、}`
-`{ruby:but it wasn't as if anyone could manage much with just human hands and a small amount of time when they had ten tons of gold to deal with.:１０ｔもの黄金を、人間の手でわずかの時間にどうにか出来るわけがない。}`
-`{ruby:In fact, it even seemed as though having this mountain of gold in the background was robbing them of the ability to make sound decisions.:むしろ、黄金の山という異常な光景が、彼らから冷静な判断を奪っているのではないかとさえ思えた。}`
-`{ruby:So they agreed to return to the mansion, in part so that they could regain their composure and continue the conference more ruthlessly......:だから彼らは、冷静さを取り戻し、より冷酷に会議を続けるためにも、屋敷に戻ることに同意した……。}`
-`{ruby:"......Well then, I will retire for the night.:「……それでは、私は今夜はこれで失礼します。}`
-`{ruby:......I imagine I would just get in the way if I remained any longer.":……これ以上はお邪魔でしょうから」}`
+`{ruby:He was very glad that he'd called the adults:だから、いとこたちに内緒で大人たちをここへ連}{ruby:out here without letting the cousins catch wind of anything......:れ出して、本当に良かったと思った……。}`
+`{ruby:Perhaps because everyone was tired out from this:いつ終わるとも知れぬ醜い罵り合いは、互い}{ruby:seemingly endless argument, they took a short break.:が疲れてきたのか、一度休止を迎える。}`
+`{ruby:It was decided that this family conference inside the:黄金郷での親族会議は、場を屋}{ruby:Golden Land should be moved over to the mansion...:敷に移すこととなった…。}`
+`{ruby:This place may have been gorgeous, like a VIP room,:確かに貴賓室のように煌びやかではあ}{ruby:but there was no ventilation, and it was a little cold.:るが、空調はなく、少し寒い。}`
+`{ruby:It wasn't well suited:長話をするには向かな}{ruby:for a long conversation.:かったためだ。}`
+`{ruby:They thought of the possibility that someone might:目を離している間に、黄金を誰かが持}{ruby:carry the gold away while their backs were turned,:ち去るのでは、とも考えたが、}`
+`{ruby:but it wasn't as if anyone could manage much with just human hands and:１０ｔもの黄金を、人間の手でわずかの}{ruby:a small amount of time when they had ten tons of gold to deal with.:時間にどうにか出来るわけがない。}`
+`{ruby:In fact, it even seemed as though having this mountain of gold:むしろ、黄金の山という異常な光景が、彼らから冷静}{ruby:in the background was robbing them of the ability to make sound decisions.:な判断を奪っているのではないかとさえ思えた。}`
+`{ruby:So they agreed to return to the mansion, in part so:だから彼らは、冷静さを取り戻し、より冷酷に会議を続}{ruby:that they could regain their composure and continue the conference more ruthlessly......:けるためにも、屋敷に戻ることに同意した……。}`
+`{ruby:"......Well then, I will:「……それでは、私は今夜}{ruby:retire for the night.:はこれで失礼します。}`
+`{ruby:......I imagine I would just get in:……これ以上はお邪魔}{ruby:the way if I remained any longer.":でしょうから」}`
 `{ruby:"Yeah, sorry about this.:「おう、悪ぃな。}`
 `{ruby:Did we bother you too much?":気を遣わせちまったか？」}`
-`{ruby:"Please let us show our gratitude again tomorrow.:「あなたへのお礼は、明日、改めてさせて頂戴ね。}`
-`{ruby:Sorry for letting you see such an embarrassing side of us.":恥ずかしいところを見せてごめんなさい」}`
-`{ruby:"I know you said you were turning it down,:「あなたは辞退すると言ったけど、}`
-`{ruby:but we'll still prepare a fitting share, out of gratitude, for you as one of the first to discover the gold.:私たちはあなたへの感謝の気持ちを込めて、第一発見者の一人に相応しい分け前を用意させていただくわ。}`
+`{ruby:"Please let us show:「あなたへのお礼は、明日、}{ruby:our gratitude again tomorrow.:改めてさせて頂戴ね。}`
+`{ruby:Sorry for letting you see:恥ずかしいところを見せ}{ruby:such an embarrassing side of us.":てごめんなさい」}`
+`{ruby:"I know you said:「あなたは辞退する}{ruby:you were turning it down,:と言ったけど、}`
+`{ruby:but we'll still prepare a fitting share, out of gratitude,:私たちはあなたへの感謝の気持ちを込めて、第一発見者}{ruby:for you as one of the first to discover the gold.:の一人に相応しい分け前を用意させていただくわ。}`
 `{ruby:Right, Nii‐san?":ねぇ、兄さん？」}`
 `{ruby:"......Mm.:「……うむ。}`
 `{ruby:We know what you're capable of.:君ほどの人だ。}`
-`{ruby:I think you can grasp our current circumstances.":我々の事情は察してくれると思うがね」}`
-`{ruby:20 billion yen in gold wasn't something they wanted out in the open.:２００億の黄金は、表に出したくないものだ。}`
-`{ruby:They didn't want an outsider like Erika telling people about it.:部外者のヱリカが、その存在を口外することは好ましくない。}`
-`{ruby:Of course, Erika had already "deduced" that much.:もちろん、ヱリカもその辺りの事情はすでに、“推理”できている。}`
-`{ruby:She wore an unpleasant smile on her face, as though she understood all too well...:充分わかっていますのでという、いやらしい笑みを浮かべるのだった…。}`
-`{ruby:"......It's quite unnecessary for you to worry about me.:「……私のことはお気になされなくて結構です。}`
-`{ruby:I have no intention of telling anyone about this, of course.:もちろん口外する気もありません。}`
-`{ruby:......And even if I did, no one would believe me without proof.":……したところで、証拠を示せぬ限り、誰も信じないでしょうし」}`
-`{ruby:".........I had the pleasure of witnessing something very interesting tonight.:「………今夜は良いものを見せてもらいました。}`
-`{ruby:It was truly a feast for the eyes, so let me assure you that I'm more than satisfied.":眼福でしたので、私はこれでもう充分です」}`
+`{ruby:I think you can:我々の事情は察してく}{ruby:grasp our current circumstances.":れると思うがね」}`
+`{ruby:20 billion yen in gold wasn't:２００億の黄金は、表に出}{ruby:something they wanted out in the open.:したくないものだ。}`
+`{ruby:They didn't want an outsider:部外者のヱリカが、その存在を口}{ruby:like Erika telling people about it.:外することは好ましくない。}`
+`{ruby:Of course, Erika had:もちろん、ヱリカもその辺りの事情は}{ruby:already "deduced" that much.:すでに、“推理”できている。}`
+`{ruby:She wore an unpleasant smile on her:充分わかっていますのでという、いやら}{ruby:face, as though she understood all too well...:しい笑みを浮かべるのだった…。}`
+`{ruby:"......It's quite unnecessary for:「……私のことはお気にな}{ruby:you to worry about me.:されなくて結構です。}`
+`{ruby:I have no intention of:もちろん口外する気}{ruby:telling anyone about this, of course.:もありません。}`
+`{ruby:......And even if I did, no:……したところで、証拠を示せぬ限}{ruby:one would believe me without proof.":り、誰も信じないでしょうし」}`
+`{ruby:".........I had the pleasure of:「………今夜は良いものを}{ruby:witnessing something very interesting tonight.:見せてもらいました。}`
+`{ruby:It was truly a feast for the eyes, so:眼福でしたので、私はこ}{ruby:let me assure you that I'm more than satisfied.":れでもう充分です」}`
 `{ruby:"Heheh, I see.:「ふふっ、そうね。}`
-`{ruby:Yes, it's not every day you get to see ten tons of gold.":１０ｔの黄金なんて、なかなか見られるものじゃないもんねぇ」}`
-`{ruby:......Getting to see the gold was the feast for the eyes?:……黄金を見られて眼福？}`
+`{ruby:Yes, it's not every day you:１０ｔの黄金なんて、なかなか見ら}{ruby:get to see ten tons of gold.":れるものじゃないもんねぇ」}`
+`{ruby:......Getting to see the gold:……黄金を見ら}{ruby:was the feast for the eyes?:れて眼福？}`
 `{ruby:Of course not.:そんなはずない。}`
-`{ruby:{n}From Erika's dark nature, it was easy to guess what she was so happy about seeing.:{n}ヱリカの性悪が、何を見て喜んでいるのか察しがつく。}`
-`{ruby:I thought about telling her to get the hell out of here already, but I wanted out myself...:さっさと行っちまえと思ったが、俺もこの場はもう遠慮させてもらいたい…。}`
-`{ruby:I tried to head back to the guesthouse along with Erika.:ヱリカと一緒にゲストハウスへ戻ろうとする。}`
-`{ruby:{n}However, Kyrie‐san grabbed my shoulder.:{n}だが、霧江さんに肩を掴まれた。}`
+`{ruby:{n}From Erika's dark nature, it was easy to:{n}ヱリカの性悪が、何を見て}{ruby:guess what she was so happy about seeing.:喜んでいるのか察しがつく。}`
+`{ruby:I thought about telling her to get the hell:さっさと行っちまえと思ったが、俺もこの}{ruby:out of here already, but I wanted out myself...:場はもう遠慮させてもらいたい…。}`
+`{ruby:I tried to head back:ヱリカと一緒にゲストハウ}{ruby:to the guesthouse along with Erika.:スへ戻ろうとする。}`
+`{ruby:{n}However, Kyrie‐san:{n}だが、霧江さん}{ruby:grabbed my shoulder.:に肩を掴まれた。}`
 `{ruby:"Not you as well, Battler‐kun.:「戦人くんは駄目よ。}`
 `{ruby:You come with us, please.":あなたも一緒に来てちょうだい」}`
 `{ruby:"Darn right.:「そやそや。}`
-`{ruby:You're a real successor to the head now!:君は今や、立派な次期当主なんやで！}`
-`{ruby:You've gotta go see Father and make it all official...!":お父さんにお目通りして、早くそれを認めてもらわんとな…！」}`
-`{ruby:"Father is the only one who gets to decide that!!:「それを決めていいのは、当主様だけです！！}`
+`{ruby:You're a real successor:君は今や、立派な次期}{ruby:to the head now!:当主なんやで！}`
+`{ruby:You've gotta go see Father:お父さんにお目通りして、早くそれ}{ruby:and make it all official...!":を認めてもらわんとな…！」}`
+`{ruby:"Father is the only one:「それを決めていいのは、}{ruby:who gets to decide that!!:当主様だけです！！}`
 `{ruby:Don't make things up on your own!":勝手なことを決めないように！」}`
 `{ruby:"......Battler.:「……戦人。}`
-`{ruby:I know it's a pain, but you're gonna have to stick around with us for a little while longer.:面倒だろうが、もうしばらく付き合ってもらうぜ。}`
+`{ruby:I know it's a pain, but you're gonna have:面倒だろうが、もうしばらく}{ruby:to stick around with us for a little while longer.:付き合ってもらうぜ。}`
 `{ruby:Don't say a word.:お前は何も言うな。}`
-`{ruby:Just stay quiet and keep your head down.:黙って俯いてりゃいい。}`
+`{ruby:Just stay quiet and:黙って俯いてり}{ruby:keep your head down.:ゃいい。}`
 `{ruby:Got it?":わかったな？」}`
-`{ruby:"............Just do whatever you want.":「…………好きにしやがれ」}`
-`{ruby:It would have been easy to say that I had no interest in being successor to the head.:次期当主なんて興味ないと口にするのは簡単だった。}`
-`{ruby:......But I was sure that would only add more oil to the fire.:……しかしそれはきっと、さらに油を注ぐ結果になるだろう。}`
-`{ruby:Even if I hadn't been ordered to keep quiet, I was certain that staying shut up like a clam was the wisest thing to do...:口止めを命じられるまでもなく、俺は貝のように黙っているべきに違いない…。}`
-`{ruby:In that case, would it really be so bad if they just let me go back to the guesthouse...?:ならいっそのこと、ゲストハウスに帰らせてくれりゃいいのにな…。}`
-`{ruby:Dad put his arm firmly around my shoulder, and I told him to quit crowding me.:俺は、親父にがっちりと肩を組まれ、暑苦しいから離せよと文句を言う。}`
+`{ruby:"............Just do:「…………好きに}{ruby:whatever you want.":しやがれ」}`
+`{ruby:It would have been easy to say that I:次期当主なんて興味ないと口}{ruby:had no interest in being successor to the head.:にするのは簡単だった。}`
+`{ruby:......But I was sure that would:……しかしそれはきっと、さらに}{ruby:only add more oil to the fire.:油を注ぐ結果になるだろう。}`
+`{ruby:Even if I hadn't been ordered to keep quiet, I was certain:口止めを命じられるまでもなく、俺は貝の}{ruby:that staying shut up like a clam was the wisest thing to do...:ように黙っているべきに違いない…。}`
+`{ruby:In that case, would it really be so bad:ならいっそのこと、ゲストハウスに帰}{ruby:if they just let me go back to the guesthouse...?:らせてくれりゃいいのにな…。}`
+`{ruby:Dad put his arm firmly around my shoulder,:俺は、親父にがっちりと肩を組まれ、暑}{ruby:and I told him to quit crowding me.:苦しいから離せよと文句を言う。}`
 `{ruby:But it didn't make any difference...:だが、聞き入れてはくれなかった…。}`
 `{ruby:".........We solved the epitaph.:「………碑文、解けたな。}`
 `{ruby:Just like you wanted.":お前のお望み通りに」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:"When you were the Game Master, we'd always get those letters.:「お前がゲームマスターの時には、いつも手紙が来るもんな。}`
+`{ruby:"When you were the Game:「お前がゲームマスターの時には}{ruby:Master, we'd always get those letters.:、いつも手紙が来るもんな。}`
 `{ruby:......‘Try and solve the epitaph.:……碑文を解いてみろ。}`
 `{ruby:If you don't, I'll kill you all’.":解けなきゃ皆殺しだ、みたいな」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:.........Why did she want to make us solve the riddle of the epitaph?:………どうしてこいつは、碑文の謎を俺たちに解かせたかったのだろう。}`
-`{ruby:By solving it, we found a mountain of gold.:解いて辿り着いた先には黄金の山があった。}`
+`{ruby:.........Why did she want to make:………どうしてこいつは、碑文の謎を俺}{ruby:us solve the riddle of the epitaph?:たちに解かせたかったのだろう。}`
+`{ruby:By solving it, we:解いて辿り着いた先には}{ruby:found a mountain of gold.:黄金の山があった。}`
 `{ruby:{n}Yippee for us.:{n}俺たちは万々歳だ。}`
 `{ruby:And what about Beato?:そしてベアトは？}`
-`{ruby:......Does she gain anything......by having us find the gold?:……黄金を俺たちに見つけられて、……何かを得するのか？}`
+`{ruby:......Does she gain anything......by:……黄金を俺たちに見つけられて}{ruby:having us find the gold?:、……何かを得するのか？}`
 `{ruby:Or does she lose something...?:あるいは損をするのか…？}`
-`{ruby:"...As far as chessboard thinking tells us, ......people don't make moves which cause them to lose something.:「…チェス盤思考に則る限り、……人は自らが損になる一手は打たない。}`
-`{ruby:That means you must have something to gain by having us solve the epitaph...":だからお前は、俺たちが碑文を解くことで、何か得をするはずなんだ…」}`
+`{ruby:"...As far as chessboard thinking tells us, ......people:「…チェス盤思考に則る限り、……人は}{ruby:don't make moves which cause them to lose something.:自らが損になる一手は打たない。}`
+`{ruby:That means you must have something to:だからお前は、俺たちが碑文を解くこと}{ruby:gain by having us solve the epitaph...":で、何か得をするはずなんだ…」}`
 `{ruby:"No.:「いいえ。}`
-`{ruby:{p:1:This child has nothing to gain from having someone solve the epitaph}.":{p:1:碑文を誰かが解くことで、この子が何かを得ることはありません}」}`
-`{ruby:"............Are you sure that's alright?:「…………いいのか。}`
-`{ruby:Using the red truth like that without her permission.":こいつに断らずに、勝手に赤き真実を使っちまっても」}`
+`{ruby:{p:1:This child has nothing to gain:{p:1:碑文を誰かが解くことで、この}{ruby:from having someone solve the epitaph}.":子が何かを得ることはありません}」}`
+`{ruby:"............Are you:「…………い}{ruby:sure that's alright?:いのか。}`
+`{ruby:Using the red truth:こいつに断らずに、勝手に赤き}{ruby:like that without her permission.":真実を使っちまっても」}`
 `{ruby:"......It is what she would want.":「……この子もそれを、望むでしょうから」}`
-`{ruby:{f:5:Virgilia}, who had suddenly appeared there, gave me an immediate answer to my question with the red truth...:いつの間にかそこにいたワルギリアは、俺の疑問にあっさりと、赤き真実で答えを与える…。}`
-`{ruby:"In the past, I sometimes guessed that the reason Beato was trying to make us solve the epitaph...:「俺は過去に、ベアトが碑文を俺たちに解かせようとするのは、}`
-`{ruby:was that she wanted to make us find the gold's hiding place for her so that she could snatch it away.:黄金の隠し場所を見つけさせて、横取りするためだと推理したことがある。}`
+`{ruby:{f:5:Virgilia}, who had suddenly appeared there, gave me an:いつの間にかそこにいたワルギリアは、俺の疑問}{ruby:immediate answer to my question with the red truth...:にあっさりと、赤き真実で答えを与える…。}`
+`{ruby:"In the past, I sometimes guessed that the reason:「俺は過去に、ベアトが碑文を俺た}{ruby:Beato was trying to make us solve the epitaph...:ちに解かせようとするのは、}`
+`{ruby:was that she wanted to make us find the gold's:黄金の隠し場所を見つけさせて、横取り}{ruby:hiding place for her so that she could snatch it away.:するためだと推理したことがある。}`
 `{ruby:.........Is that wrong too?":………それも違うのか」}`
 `{ruby:"Yes.:「はい。}`
 `{ruby:......In the first place,:……第一、}`
-`{ruby:{p:1:the gold of the Golden Land belongs to her from the start}.:{p:1:もともと黄金郷の黄金はこの子のもの。}}`
-`{ruby:{p:1:She has absolutely no need to make anyone find it for her or to snatch it away herself}.":{p:1:見つけさせる必要も、横取りする必要も、何もありません}」}`
+`{ruby:{p:1:the gold of the Golden Land:{p:1:もともと黄金郷の}{ruby:belongs to her from the start}.:黄金はこの子のもの。}}`
+`{ruby:{p:1:She has absolutely no need to make anyone find:{p:1:見つけさせる必要も、横取り}{ruby:it for her or to snatch it away herself}.":する必要も、何もありません}」}`
 `{ruby:Of course.:当然だ。}`
-`{ruby:......Beato is {f:5:Beatrice} the Golden.:……ベアトは、黄金のベアトリーチェ。}`
-`{ruby:She's the master of the Golden Land and the Ushiromiya family alchemist.:黄金郷の主で、右代宮家顧問錬金術師じゃないか。}`
+`{ruby:......Beato is:……ベアトは、黄金の}{ruby:{f:5:Beatrice} the Golden.:ベアトリーチェ。}`
+`{ruby:She's the master of the Golden:黄金郷の主で、右代宮家顧問}{ruby:Land and the Ushiromiya family alchemist.:錬金術師じゃないか。}`
 `{ruby:{n}...That makes total sense.:{n}…それは極めて道理だ。}`
-`{ruby:However, if that's true, that makes me even more confused.:しかし、だからこそ一層わからない。}`
-`{ruby:......Even if someone exposes the answer to the epitaph's riddle, Beato gains nothing.:……碑文の謎を誰かが暴いたとて、ベアトには何も得るものがない。}`
-`{ruby:No, to the contrary, she might get her own gold stolen away.:いや、それどころか、自分の黄金を奪われてしまうかもしれない。}`
-`{ruby:"In that case, I'm understanding this less and less.:「なら、ますますにわからない。}`
-`{ruby:.........I understand the epitaph murders.:………碑文殺人はわかる。}`
-`{ruby:It could be revenge against the Ushiromiya family, or else a ritual to revive her powers as a witch.:右代宮家に対する復讐とか、あるいは魔女としての力を復活させるための儀式とか。}`
-`{ruby:...She's probably got some reason or goal of her own for it.":…こいつなりの理由や目的があって、やってるんだろうからな」}`
+`{ruby:However, if that's true, that:しかし、だからこそ一}{ruby:makes me even more confused.:層わからない。}`
+`{ruby:......Even if someone exposes the answer:……碑文の謎を誰かが暴いたとて、ベ}{ruby:to the epitaph's riddle, Beato gains nothing.:アトには何も得るものがない。}`
+`{ruby:No, to the contrary, she might:いや、それどころか、自分の黄金を}{ruby:get her own gold stolen away.:奪われてしまうかもしれない。}`
+`{ruby:"In that case, I'm:「なら、ますますに}{ruby:understanding this less and less.:わからない。}`
+`{ruby:.........I understand:………碑文殺人}{ruby:the epitaph murders.:はわかる。}`
+`{ruby:It could be revenge against the Ushiromiya family, or:右代宮家に対する復讐とか、あるいは魔女と}{ruby:else a ritual to revive her powers as a witch.:しての力を復活させるための儀式とか。}`
+`{ruby:...She's probably got some reason or:…こいつなりの理由や目的があって}{ruby:goal of her own for it.":、やってるんだろうからな」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:"But what's the point of her telling us to solve the epitaph?:「だが、“碑文の謎を解け”というのにはどんな意味があるんだ。}`
-`{ruby:Whether we solve it or not, she gains nothing.:俺たちが解いても解かなくても、こいつに得るものは何もない。}`
-`{ruby:......In other words, the whole issue of whether the epitaph is solved or not is immaterial in Beato's eyes.":……つまり、ベアトにとって、碑文の謎が解ける解けないという問題は、無価値なものなんだ」}`
+`{ruby:"But what's the point of her:「だが、“碑文の謎を解け”という}{ruby:telling us to solve the epitaph?:のにはどんな意味があるんだ。}`
+`{ruby:Whether we solve it:俺たちが解いても解かなくても、こ}{ruby:or not, she gains nothing.:いつに得るものは何もない。}`
+`{ruby:......In other words, the whole issue of whether the:……つまり、ベアトにとって、碑文の謎が解ける解}{ruby:epitaph is solved or not is immaterial in Beato's eyes.":けないという問題は、無価値なものなんだ」}`
 `{ruby:"......You could say that.:「……そうですね。}`
-`{ruby:{p:1:Whether the epitaph's riddle is solved or not, she has nothing at all to gain from it}.":{p:1:碑文の謎が解けても解けなくても、この子にとって得るものは何もありません}」}`
-`{ruby:"It doesn't matter whether it's solved or not.:「解けても解けなくても、何の意味もない。}`
-`{ruby:......Doesn't that mean that the epitaph's riddle {i:itself} has no value to Beato...?":……それはつまり、碑文の謎自体が、ベアトにとって無価値だということになるんじゃないのか…？」}`
+`{ruby:{p:1:Whether the epitaph's riddle is solved or not,:{p:1:碑文の謎が解けても解けなくても、こ}{ruby:she has nothing at all to gain from it}.":の子にとって得るものは何もありません}」}`
+`{ruby:"It doesn't matter whether:「解けても解けなくても}{ruby:it's solved or not.:、何の意味もない。}`
+`{ruby:......Doesn't that mean that the epitaph's:……それはつまり、碑文の謎自体が、ベアトにとって}{ruby:riddle {i:itself} has no value to Beato...?":無価値だということになるんじゃないのか…？」}`
 `{ruby:"..................:「………………。}`
 `{ruby:......I suppose.:……そうですね。}`
-`{ruby:The epitaph's riddle doesn't have any meaning for her.:碑文の謎は、この子にとって何の意味もない。}`
-`{ruby:So even if you take the extreme position that it's immaterial and has no value, it may not be possible to argue against your claim...":ならばそれを、無価値であると極論しても、言い返せないかもしれませんね…」}`
+`{ruby:The epitaph's riddle doesn't:碑文の謎は、この子にとっ}{ruby:have any meaning for her.:て何の意味もない。}`
+`{ruby:So even if you take the extreme position that it's immaterial and:ならばそれを、無価値であると極論しても}{ruby:has no value, it may not be possible to argue against your claim...":、言い返せないかもしれませんね…」}`
 `{ruby:".................................":「……………………………」}`
 `{ruby:Beato......:ベアト……。}`
-`{ruby:......Why are you making us solve the riddle of the epitaph...?:……お前は俺たちに、どうして碑文の謎解きなどを課したんだ…？}`
-`{ruby:If we liken the witch you are to a pair of scales, the epitaph murders lie on one plate...:お前という魔女を天秤に見立てた時、片方の皿には碑文殺人が。}`
-`{ruby:And the riddle of the epitaph lies on the other plate.:そしてもう片方の皿には碑文の謎が乗っかる。}`
-`{ruby:Because she's saying that she'll stop the epitaph murders if the epitaph is solved.:なぜなら、碑文の謎を解いたら、こいつは碑文殺人をやめると言ってる。}`
-`{ruby:......In other words, the epitaph murders and the epitaph's riddle are worth the same to Beato.:……つまり、碑文殺人と碑文の謎の価値は、ベアトにとって同じもの。}`
+`{ruby:......Why are you making us:……お前は俺たちに、どうして碑文}{ruby:solve the riddle of the epitaph...?:の謎解きなどを課したんだ…？}`
+`{ruby:If we liken the witch you are to a:お前という魔女を天秤に見立てた時}{ruby:pair of scales, the epitaph murders lie on one plate...:、片方の皿には碑文殺人が。}`
+`{ruby:And the riddle of the:そしてもう片方の皿には碑}{ruby:epitaph lies on the other plate.:文の謎が乗っかる。}`
+`{ruby:Because she's saying that she'll stop the:なぜなら、碑文の謎を解いたら、こいつ}{ruby:epitaph murders if the epitaph is solved.:は碑文殺人をやめると言ってる。}`
+`{ruby:......In other words, the epitaph murders and the:……つまり、碑文殺人と碑文の謎の価}{ruby:epitaph's riddle are worth the same to Beato.:値は、ベアトにとって同じもの。}`
 `{ruby:Like two sides on a balanced scale.:天秤の両端ということになる。}`
-`{ruby:That means that the epitaph's riddle and massacring the entire family...:ベアトにとって碑文の謎は、}`
-`{ruby:have equal significance from Beato's point of view......:親族を皆殺しにするのと同じ程度の意味がある、ってことなんだ……。}`
-`{ruby:But {f:5:Virgilia} responded with the red text.:しかしワルギリアは赤き真実で答えていた。}`
-`{ruby:{p:1:Regardless of whether the epitaph is solved or not, Beato has nothing to gain}.:{p:1:碑文が解かれようと解かれなかろうと、ベアトが何かを得ることはない。}}`
-`{ruby:If she has nothing to gain, then this epitaph's riddle...is meaningless and immaterial to Beato.:何も得ることのない、ベアトにとって無意味、無価値な…、碑文の謎。}`
-`{ruby:In that case, how much are the epitaph murders, which lie on the other side of the scales and are equal to the epitaph's riddle in value...:なら、天秤のもう一方にあり、それと価値を等しくする碑文殺人は、}`
+`{ruby:That means that the epitaph's:ベアトにとって碑}{ruby:riddle and massacring the entire family...:文の謎は、}`
+`{ruby:have equal significance from:親族を皆殺しにするのと同じ程度の意}{ruby:Beato's point of view......:味がある、ってことなんだ……。}`
+`{ruby:But {f:5:Virgilia} responded:しかしワルギリアは赤き}{ruby:with the red text.:真実で答えていた。}`
+`{ruby:{p:1:Regardless of whether the epitaph is solved:{p:1:碑文が解かれようと解かれなかろう}{ruby:or not, Beato has nothing to gain}.:と、ベアトが何かを得ることはない。}}`
+`{ruby:If she has nothing to gain, then:何も得ることのない、ベアトにとって}{ruby:this epitaph's riddle...is meaningless and immaterial to Beato.:無意味、無価値な…、碑文の謎。}`
+`{ruby:In that case, how much are the epitaph murders, which lie on the:なら、天秤のもう一方にあり、それと}{ruby:other side of the scales and are equal to the epitaph's riddle in value...:価値を等しくする碑文殺人は、}`
 `{ruby:......worth to her...?:………どういう価値なんだ…。}`
-`{ruby:......Think, don't stop thinking......:……考えろ、思考を止めるな……。}`
-`{ruby:The epitaph murders and solving the riddle of the epitaph have equal worth.:碑文殺人と、碑文の謎が解けることには、同等の価値がある。}`
-`{ruby:As long as the epitaph murders, which are Beato's goal each time, have this single way that they can be stopped, a way that she decided on herself, both are worth the same thing to her.:ベアトの毎回の目的である碑文殺人を、こいつが自発的に中止する唯一の方法である限り、その価値は同等なのだ。}`
+`{ruby:......Think, don't:……考えろ、思考を}{ruby:stop thinking......:止めるな……。}`
+`{ruby:The epitaph murders and solving the:碑文殺人と、碑文の謎が解けるこ}{ruby:riddle of the epitaph have equal worth.:とには、同等の価値がある。}`
+`{ruby:As long as the epitaph murders, which are Beato's goal each time, have this single way that they:ベアトの毎回の目的である碑文殺人を、こいつが自発的に中}{ruby:can be stopped, a way that she decided on herself, both are worth the same thing to her.:止する唯一の方法である限り、その価値は同等なのだ。}`
 `{ruby:X=Y.:Ｘ＝Ｙ。}`
-`{ruby:{n}And whether the epitaph's riddle is solved or not, Beato gains nothing.:{n}そして、碑文の謎が解けても、あるいは解けなくても、ベアトに得るものはない。}`
+`{ruby:{n}And whether the epitaph's riddle is:{n}そして、碑文の謎が解けても、あるいは}{ruby:solved or not, Beato gains nothing.:解けなくても、ベアトに得るものはない。}`
 `{ruby:{n}Y=0.:{n}Ｙ＝０。}`
-`{ruby:{n}So, in this case, ......what is X......?:{n}じゃあ、この時、……Ｘは……？}`
+`{ruby:{n}So, in this:{n}じゃあ、この時}{ruby:case, ......what is X......?:、……Ｘは……？}`
 `{ruby:".................................":「……………………………」}`
 `{ruby:"......Wait a sec.:「……おいおい。}`
-`{ruby:......That means the epitaph murders are also meaningless and immaterial.":……それじゃ、 碑文殺人もまた、無意味、無価値ってことになっちまうぞ」}`
-`{ruby:"......Beginning with politely sending us an advance notice,:「……こいつは、ご丁寧に予告状を出し、}`
-`{ruby:she's been willing to spend an incredible amount of effort killing us one by one, following the epitaph's steps in order, without getting exposed,:碑文に沿うように順番に、バレないように次々殺していくという、めちゃくちゃ面倒な手間を払ってまで、}`
-`{ruby:every time she performs that bizarre serial murder.:毎度あのおかしな連続殺人を起こしてるんだぜ。}`
-`{ruby:So all of that is meaningless to her...?":その意味が、なくなっちまうじゃねぇか…」}`
-`{ruby:I've flipped over the chessboard many times exploring Beato's moves.:チェス盤を引っ繰り返し、何度もベアトの指し手を探った。}`
-`{ruby:{n}This was always the first place I stumbled.:{n}その一番最初の躓きが、いつもここだった。}`
-`{ruby:The significance of the epitaph murders.:碑文殺人の、その意味。}`
-`{ruby:Why did she have to commit serial murders in a way that reproduced the witch's epitaph?:なぜ、魔女の碑文を再現するように連続殺人を犯さなければならないのか。}`
-`{ruby:If she wanted to kill the whole Ushiromiya family for revenge, it would be much simpler, safer, and more reliable if she just put poison into their dinner,:右代宮家を復讐のために皆殺しにする、というなら、晩餐の料理に毒でも盛るか、}`
-`{ruby:or else went around killing people one by one in the middle of the night while they were sleeping.:寝静まった深夜にひとりずつ殺して回る方が、よっぽど簡単で安全、確実だ。}`
-`{ruby:However, on the first evening, Beato sends us a letter that sounds like an advance notice,:しかしベアトは、最初の晩に予告状めいた手紙を送りつけ、}`
-`{ruby:and then carries out what could be broadly described as a three‐part serial murder,:第一の晩に６人、第二の晩に２人、第四の晩以降に５人と、}`
-`{ruby:killing six people on the first twilight, two on the second, and five on the fourth and later.:大きく分けて三度の連続殺人を行なう。}`
+`{ruby:......That means the epitaph murders:……それじゃ、 碑文殺人もまた、無意味}{ruby:are also meaningless and immaterial.":、無価値ってことになっちまうぞ」}`
+`{ruby:"......Beginning with politely sending:「……こいつは、ご丁寧}{ruby:us an advance notice,:に予告状を出し、}`
+`{ruby:she's been willing to spend an incredible amount of effort killing us:碑文に沿うように順番に、バレないように次々殺してい}{ruby:one by one, following the epitaph's steps in order, without getting exposed,:くという、めちゃくちゃ面倒な手間を払ってまで、}`
+`{ruby:every time she performs:毎度あのおかしな連続殺人}{ruby:that bizarre serial murder.:を起こしてるんだぜ。}`
+`{ruby:So all of that:その意味が、なくなっち}{ruby:is meaningless to her...?":まうじゃねぇか…」}`
+`{ruby:I've flipped over the chessboard:チェス盤を引っ繰り返し、何度も}{ruby:many times exploring Beato's moves.:ベアトの指し手を探った。}`
+`{ruby:{n}This was always the:{n}その一番最初の躓きが}{ruby:first place I stumbled.:、いつもここだった。}`
+`{ruby:The significance of:碑文殺人の、そ}{ruby:the epitaph murders.:の意味。}`
+`{ruby:Why did she have to commit serial murders:なぜ、魔女の碑文を再現するように連続}{ruby:in a way that reproduced the witch's epitaph?:殺人を犯さなければならないのか。}`
+`{ruby:If she wanted to kill the whole Ushiromiya family for revenge, it would be:右代宮家を復讐のために皆殺しにする、とい}{ruby:much simpler, safer, and more reliable if she just put poison into their dinner,:うなら、晩餐の料理に毒でも盛るか、}`
+`{ruby:or else went around killing people one by one:寝静まった深夜にひとりずつ殺して回る方}{ruby:in the middle of the night while they were sleeping.:が、よっぽど簡単で安全、確実だ。}`
+`{ruby:However, on the first evening, Beato sends us:しかしベアトは、最初の晩に予告}{ruby:a letter that sounds like an advance notice,:状めいた手紙を送りつけ、}`
+`{ruby:and then carries out what could be:第一の晩に６人、第二の晩に２人}{ruby:broadly described as a three‐part serial murder,:、第四の晩以降に５人と、}`
+`{ruby:killing six people on the first twilight, two on:大きく分けて三度の連}{ruby:the second, and five on the fourth and later.:続殺人を行なう。}`
 `{ruby:We aren't fools.:俺たちも馬鹿じゃない。}`
-`{ruby:Once the first murders occur, we barricade ourselves in somewhere to stave off any further murders.:最初の殺人が起こった時点で、篭城を開始し次なる殺人を抑止する。}`
-`{ruby:Furthermore, we quickly suspect a culprit among us and start analyzing each other's alibis.:また、内部犯行を早くから疑い、相互のアリバイを検証し始める。}`
-`{ruby:As the victims increase, the number of suspects decreases automatically,:犠牲者が増えれば増えるほど、自動的に容疑者の数は減り、}`
-`{ruby:and Beato's chances of completing the serial murder drop closer and closer to zero...:ベアトが連続殺人を完遂できる成功率は、ゼロに近付いていく…。}`
-`{ruby:Everything about the epitaph murders......is full of useless ornament and empty decoration...:碑文殺人の全てが、……連続殺人を遂行する上で自ら首を絞めるような、}`
-`{ruby:...that only seems to make it harder for her to carry out the serial murder.:……無駄な装飾、……虚飾に満ちている。}`
-`{ruby:".........She's raising the difficulty of completing her own objective.":「………こいつは、自分で自分の目的の難易度を、上げている」}`
+`{ruby:Once the first murders occur, we barricade ourselves:最初の殺人が起こった時点で、篭城を}{ruby:in somewhere to stave off any further murders.:開始し次なる殺人を抑止する。}`
+`{ruby:Furthermore, we quickly suspect a culprit among:また、内部犯行を早くから疑い、相}{ruby:us and start analyzing each other's alibis.:互のアリバイを検証し始める。}`
+`{ruby:As the victims increase, the:犠牲者が増えれば増えるほど、自}{ruby:number of suspects decreases automatically,:動的に容疑者の数は減り、}`
+`{ruby:and Beato's chances of completing the serial:ベアトが連続殺人を完遂できる成功}{ruby:murder drop closer and closer to zero...:率は、ゼロに近付いていく…。}`
+`{ruby:Everything about the epitaph murders......is full:碑文殺人の全てが、……連続殺人を遂行}{ruby:of useless ornament and empty decoration...:する上で自ら首を絞めるような、}`
+`{ruby:...that only seems to make it harder:……無駄な装飾、……虚}{ruby:for her to carry out the serial murder.:飾に満ちている。}`
+`{ruby:".........She's raising the difficulty:「………こいつは、自分で自分の目}{ruby:of completing her own objective.":的の難易度を、上げている」}`
 `{ruby:"That does follow.:「そうなりますね。}`
-`{ruby:......She's a strange child, isn't she?":……おかしな子ですね」}`
+`{ruby:......She's a strange:……おかしな子}{ruby:child, isn't she?":ですね」}`
 `{ruby:"Did you know?:「知ってるか？}`
-`{ruby:In mystery novels, there are sometimes murders that follow the events of a poem or nursery rhyme, just like these epitaph murders.:ミステリー小説では、こういう碑文殺人のことを“見立て殺人”という。}`
-`{ruby:......I think you can split the reasons these "nursery‐rhyme murders" occur into three major groups.":……この見立て殺人が行なわれる理由を、俺は３つに大別できると思ってる」}`
+`{ruby:In mystery novels, there are sometimes murders that follow the events:ミステリー小説では、こういう碑文殺人}{ruby:of a poem or nursery rhyme, just like these epitaph murders.:のことを“見立て殺人”という。}`
+`{ruby:......I think you can split the reasons:……この見立て殺人が行なわれる理由を、}{ruby:these "nursery‐rhyme murders" occur into three major groups.":俺は３つに大別できると思ってる」}`
 `{ruby:"......And what are those?":「……うかがいましょう」}`
-`{ruby:"The first would be when it benefits the culprit to follow the epitaph and thereby confuse the evidence and alibis.:「１つは、碑文に沿うことで、証拠やアリバイを誤魔化し、犯人に利するためだ。}`
-`{ruby:......The classic technique of pretending to be dead and mixing yourself in with the victims is an example of this,:……死んだふりをして、自らを犠牲者に交ぜる古典もこれだし、}`
-`{ruby:as is committing murders in an order that doesn't follow the epitaph so that you can cause the others to mistake the order and give yourself an alibi.":碑文に沿わずに殺人を犯し、その発生順序を誤解させることによって、アリバイを作るのもこれだ」}`
+`{ruby:"The first would be when it benefits the culprit to:「１つは、碑文に沿うことで、証拠やアリバ}{ruby:follow the epitaph and thereby confuse the evidence and alibis.:イを誤魔化し、犯人に利するためだ。}`
+`{ruby:......The classic technique of pretending to be dead and mixing:……死んだふりをして、自らを犠牲}{ruby:yourself in with the victims is an example of this,:者に交ぜる古典もこれだし、}`
+`{ruby:as is committing murders in an order that doesn't follow the epitaph so that:碑文に沿わずに殺人を犯し、その発生順序を誤解させ}{ruby:you can cause the others to mistake the order and give yourself an alibi.":ることによって、アリバイを作るのもこれだ」}`
 `{ruby:"I see.:「なるほど。}`
-`{ruby:So she could make it look as though she was carrying out the murders in accordance with the epitaph, ......when she was actually guiding everyone's thinking in a manner that benefited her.:碑文に沿って儀式的に殺していると見せかけて、……実は自分に利するように誘導しているわけですね。}`
+`{ruby:So she could make it look as though she was carrying out the murders in accordance:碑文に沿って儀式的に殺していると見せかけて、……実}{ruby:with the epitaph, ......when she was actually guiding everyone's thinking in a manner that benefited her.:は自分に利するように誘導しているわけですね。}`
 `{ruby:That sounds interesting.":面白いと思います」}`
-`{ruby:".........However, in our games, the dead are truly down for the count thanks to the red.:「………だが、俺たちのゲームでは、死者が赤でトドメを刺されちまう。}`
-`{ruby:...She might be able to trick everyone in the world of the game board, but she can't trick us up here in the same way.:…ゲーム盤の世界では誤魔化せても、ここから俯瞰する俺たちは誤魔化せない。}`
-`{ruby:......In other words, the most traditional purpose for this kind of murder...isn't what we're dealing with here.":……だから、このもっとも王道となる目的は、違うってことになる」}`
-`{ruby:"In that case, what are the other two reasons for carrying out a nursery‐rhyme murder?":「となると、見立て殺人を行う、あと２つの理由は？」}`
+`{ruby:".........However, in our games, the dead are truly:「………だが、俺たちのゲームでは、死}{ruby:down for the count thanks to the red.:者が赤でトドメを刺されちまう。}`
+`{ruby:...She might be able to trick everyone in the world of the:…ゲーム盤の世界では誤魔化せても、ここ}{ruby:game board, but she can't trick us up here in the same way.:から俯瞰する俺たちは誤魔化せない。}`
+`{ruby:......In other words, the most traditional purpose for:……だから、このもっとも王道となる}{ruby:this kind of murder...isn't what we're dealing with here.":目的は、違うってことになる」}`
+`{ruby:"In that case, what are the other:「となると、見立て殺人を行う}{ruby:two reasons for carrying out a nursery‐rhyme murder?":、あと２つの理由は？」}`
 `{ruby:"One is coincidence.:「１つは偶然。}`
-`{ruby:......The culprit carries out a serial murder which just happens to look similar to the epitaph without being intended to,:……意図せずして行なった連続殺人が、たまたま碑文をなぞる形になり、}`
-`{ruby:and the witnesses mistakenly think it's a nursery‐rhyme murder.:目撃者たちが勝手に見立て殺人だと誤解するケース。}`
-`{ruby:We humans try to find cause and effect in everything we see.:人間はどのような事象にも因果性を求めてしまう。}`
-`{ruby:......If we think we know what something is, then that's how it looks to us.":……きっとそうに違いないと思ったら、そう見えてしまう生き物だ」}`
+`{ruby:......The culprit carries out a serial murder which just happens:……意図せずして行なった連続殺人が、}{ruby:to look similar to the epitaph without being intended to,:たまたま碑文をなぞる形になり、}`
+`{ruby:and the witnesses mistakenly:目撃者たちが勝手に見立て殺}{ruby:think it's a nursery‐rhyme murder.:人だと誤解するケース。}`
+`{ruby:We humans try to find cause:人間はどのような事象にも因}{ruby:and effect in everything we see.:果性を求めてしまう。}`
+`{ruby:......If we think we know what something:……きっとそうに違いないと思ったら}{ruby:is, then that's how it looks to us.":、そう見えてしまう生き物だ」}`
 `{ruby:"......I see.:「……なるほど。}`
 `{ruby:That's also interesting.:それも面白いですね。}`
-`{ruby:...However, I'm not sure it's convincing.:…ですが、どうでしょう。}`
-`{ruby:In this child's games, there's always an advance notice of the crime given before the murders of the first twilight.:この子のゲームでは、第一の晩の殺人以前に、常に事件が予告されている。}`
-`{ruby:Also, I believe you find letters and circumstantial evidence one after another that clearly show the culprit is carrying out epitaph murders.":そして、明白に碑文殺人を遂行していることを示す手紙や状況証拠が、次々に見つかるはずです」}`
+`{ruby:...However, I'm not:…ですが、どう}{ruby:sure it's convincing.:でしょう。}`
+`{ruby:In this child's games, there's always an advance notice of:この子のゲームでは、第一の晩の殺人以}{ruby:the crime given before the murders of the first twilight.:前に、常に事件が予告されている。}`
+`{ruby:Also, I believe you find letters and circumstantial evidence one after:そして、明白に碑文殺人を遂行していることを示す}{ruby:another that clearly show the culprit is carrying out epitaph murders.":手紙や状況証拠が、次々に見つかるはずです」}`
 `{ruby:"Yeah, that's right.:「あぁ、そうだな。}`
 `{ruby:.........It isn't coincidence.:………偶然なんかじゃない。}`
-`{ruby:From the very beginning, Beato has been intentionally shoving the epitaph murders in our faces as she carries them out.:ベアトは、始めから碑文殺人を見せ付ける目的で遂行している。}`
+`{ruby:From the very beginning, Beato has been intentionally shoving the:ベアトは、始めから碑文殺人を見せ}{ruby:epitaph murders in our faces as she carries them out.:付ける目的で遂行している。}`
 `{ruby:We aren't just misunderstanding.:俺たちが誤解してるんじゃない。}`
-`{ruby:These murders clearly follow the epitaph.:これは明白な“見立て殺人”なんだ。}`
+`{ruby:These murders clearly:これは明白な“見立て}{ruby:follow the epitaph.:殺人”なんだ。}`
 `{ruby:So this can't be the reason either.":だから、この理由でもない」}`
-`{ruby:"In that case, ......it must be your final reason.":「となると、……最後の１つの理由になりますね」}`
-`{ruby:"The last one.........is to show the murders to someone.:「最後の１つは、………見せ付けること。}`
-`{ruby:In other words, to make them feel fear.:つまり恐怖だ。}`
-`{ruby:...By following the epitaph, she gives the others clear notice in advance that the murders will continue.:…碑文に沿うということは、殺人が連続するという明白な予告だ。}`
-`{ruby:The survivors are in constant fear of the murders, which they're certain will continue.":生存者たちは、続くに違いない殺人に、ずっと怯えさせられることになる」}`
-`{ruby:"....................................":「………………………………」}`
+`{ruby:"In that case, ......it:「となると、……最後の１つ}{ruby:must be your final reason.":の理由になりますね」}`
+`{ruby:"The last one.........is to:「最後の１つは、………}{ruby:show the murders to someone.:見せ付けること。}`
+`{ruby:In other words, to:つまり恐怖}{ruby:make them feel fear.:だ。}`
+`{ruby:...By following the epitaph, she gives the others:…碑文に沿うということは、殺人が}{ruby:clear notice in advance that the murders will continue.:連続するという明白な予告だ。}`
+`{ruby:The survivors are in constant fear of:生存者たちは、続くに違いない殺人に、}{ruby:the murders, which they're certain will continue.":ずっと怯えさせられることになる」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
 `{ruby:"In other words,:「つまりこの子は、}`
-`{ruby:......this child performed these epitaph murders to create a feeling of mortal terror?":……死の恐怖を味わわせるために、碑文殺人を？」}`
-`{ruby:"At least, ...putting it that way, everything makes a surprising amount of sense.:「と、思うと、…割と収まりがいい。}`
-`{ruby:......The grotesque mutilation of the bodies and the disturbing displays were all a show to terrify us......":……グロい遺体損壊も、悪趣味な装飾も全て、俺たちを怖がらせるための演出……」}`
+`{ruby:......this child performed these epitaph murders:……死の恐怖を味わわせるた}{ruby:to create a feeling of mortal terror?":めに、碑文殺人を？」}`
+`{ruby:"At least, ...putting it that way,:「と、思うと、…割と}{ruby:everything makes a surprising amount of sense.:収まりがいい。}`
+`{ruby:......The grotesque mutilation of the bodies and the:……グロい遺体損壊も、悪趣味な装飾も全て}{ruby:disturbing displays were all a show to terrify us......":、俺たちを怖がらせるための演出……」}`
 `{ruby:"To terrify whom......?":「誰を、怖がらせるためなのですか……？」}`
 `{ruby:"Huh?:「え？}`
 `{ruby:......Like I said, us.:……だから、それは俺たちを。}`
 `{ruby:..............................":…………………………」}`
-`{ruby:After hearing that one line {f:5:Virgilia} spoke so casually, ......my thoughts clouded over once again...:ワルギリアの何気ない一言に、……俺の思考が再び霧にかすむ…。}`
+`{ruby:After hearing that one line {f:5:Virgilia} spoke:ワルギリアの何気ない一言に、……}{ruby:so casually, ......my thoughts clouded over once again...:俺の思考が再び霧にかすむ…。}`
 `{ruby:Is it really enough...:俺たちを怖がらすため、}`
-`{ruby:to just use the vague word "us"......?:…と、抽象的な言い方で逃れていいのか……？}`
-`{ruby:There are a lot of people in the Ushiromiya family.:右代宮家の人間はこれだけ大勢いる。}`
-`{ruby:There's the head and the one who holds the rank of his successor...Grandfather and Uncle Krauss.:当主やその跡継ぎの肩書きを持つ祖父さまや蔵臼伯父さんたち。}`
-`{ruby:Our parents, who have some pull in the business world.:財界に影響力を持つ親類たち。}`
-`{ruby:......On the other side, you have the young cousins, who usually visit at most once a year,:……その一方で、せいぜい年に一度しか訪れない、未成年のいとこたちや、}`
-`{ruby:and the unfortunate servants, who just happened to be on duty.:たまたまその日にシフトが当たってしまった不幸な使用人たちなどがいる。}`
-`{ruby:......Even if the culprit hated all of us,:……俺たち全員を恨んでいるとしても、}`
-`{ruby:......they probably didn't hate all of us equally.:……その恨みの強さには、明白な違いがあるはず。}`
-`{ruby:In other words, they might have made it clear which of those among us they particularly wanted to take revenge against and terrify.:つまり、俺たちの中の、特に誰に復讐を、恐怖を与えたいのか、はっきりしててもいいはずなのだ。}`
-`{ruby:If we liken this to a kid eating dessert......:子どものデザートの話に例えると……。}`
-`{ruby:Isn't the strawberry on top of a shortcake the part you should eat last?:ショートケーキのイチゴってのは、最後のお楽しみじゃないのか？}`
-`{ruby:No one tells you that you shouldn't eat it first, but our mentality leads us into saving it for later.:最初に食べちゃいけないとは言わないが、なるべく後に取っておくのが心理ってもんだ。}`
-`{ruby:".........In that case, ...the culprit would want to leave the person they hated most until the end.:「………じゃあ、…もっとも恨んでいる人物を、最後まで残したがるってことになるよな。}`
-`{ruby:......Yeah, similar to what was said by my favorite character in this novel I like.:……あー、俺の好きな小説の好きなキャラが言ってたぜ。}`
-`{ruby:Something about how if you start by killing the people closest to someone, make them feel that sadness, then kill that person last of all,:“そいつの親しい者から先に殺していって、悲しみを味わわせてから、最後に本人を殺す”ってのが、}`
-`{ruby:that's the worst way to kill someone.":一番恐ろしい殺し方なんだ、みたいなことを」}`
-`{ruby:"Oh my, that must have been quite a terrifying novel.:「おやおや、恐ろしい小説もあったものですね。}`
+`{ruby:to just use:…と、抽象的な言い方で逃}{ruby:the vague word "us"......?:れていいのか……？}`
+`{ruby:There are a lot of:右代宮家の人間はこれ}{ruby:people in the Ushiromiya family.:だけ大勢いる。}`
+`{ruby:There's the head and the one who holds:当主やその跡継ぎの肩書きを持つ祖}{ruby:the rank of his successor...Grandfather and Uncle Krauss.:父さまや蔵臼伯父さんたち。}`
+`{ruby:Our parents, who have some:財界に影響力を持}{ruby:pull in the business world.:つ親類たち。}`
+`{ruby:......On the other side, you have the young:……その一方で、せいぜい年に一度しか}{ruby:cousins, who usually visit at most once a year,:訪れない、未成年のいとこたちや、}`
+`{ruby:and the unfortunate servants, who:たまたまその日にシフトが当たってしま}{ruby:just happened to be on duty.:った不幸な使用人たちなどがいる。}`
+`{ruby:......Even if the culprit:……俺たち全員を恨ん}{ruby:hated all of us,:でいるとしても、}`
+`{ruby:......they probably didn't hate:……その恨みの強さには、明}{ruby:all of us equally.:白な違いがあるはず。}`
+`{ruby:In other words, they might have made it clear which of:つまり、俺たちの中の、特に誰に復讐を、恐怖を与え}{ruby:those among us they particularly wanted to take revenge against and terrify.:たいのか、はっきりしててもいいはずなのだ。}`
+`{ruby:If we liken this:子どものデザートの話}{ruby:to a kid eating dessert......:に例えると……。}`
+`{ruby:Isn't the strawberry on top of a:ショートケーキのイチゴってのは、}{ruby:shortcake the part you should eat last?:最後のお楽しみじゃないのか？}`
+`{ruby:No one tells you that you shouldn't eat it first,:最初に食べちゃいけないとは言わないが、なる}{ruby:but our mentality leads us into saving it for later.:べく後に取っておくのが心理ってもんだ。}`
+`{ruby:".........In that case, ...the culprit would want to:「………じゃあ、…もっとも恨んでいる人物を、}{ruby:leave the person they hated most until the end.:最後まで残したがるってことになるよな。}`
+`{ruby:......Yeah, similar to what was said by:……あー、俺の好きな小説の好}{ruby:my favorite character in this novel I like.:きなキャラが言ってたぜ。}`
+`{ruby:Something about how if you start by killing the people closest to:“そいつの親しい者から先に殺していって、悲しみを}{ruby:someone, make them feel that sadness, then kill that person last of all,:味わわせてから、最後に本人を殺す”ってのが、}`
+`{ruby:that's the worst:一番恐ろしい殺し方なんだ}{ruby:way to kill someone.":、みたいなことを」}`
+`{ruby:"Oh my, that must have:「おやおや、恐ろしい小説}{ruby:been quite a terrifying novel.:もあったものですね。}`
 `{ruby:How frightening......":くわばらくわばら……」}`
-`{ruby:"......In that case, you could argue that the people who stay alive until the end are the ones Beato hates the most.:「……じゃあ、最後まで生き残るヤツが、もっともベアトに恨まれてるって論法になるぜ。}`
-`{ruby:......But the order people are killed in gets totally changed every single time.:……しかし、毎回毎回、殺される人間も順序もめちゃくちゃじゃねぇか。}`
+`{ruby:"......In that case, you could argue that the people who stay:「……じゃあ、最後まで生き残るヤツが、もっと}{ruby:alive until the end are the ones Beato hates the most.:もベアトに恨まれてるって論法になるぜ。}`
+`{ruby:......But the order people are killed:……しかし、毎回毎回、殺される人間も}{ruby:in gets totally changed every single time.:順序もめちゃくちゃじゃねぇか。}`
 `{ruby:......I mean, we all die in the end,:……最終的には死ぬにせよ、}`
-`{ruby:but if you go through looking for someone who lives at least until the last twilight every time, there's...:最後の晩まで毎回生き残るヤツなんて、}`
+`{ruby:but if you go through looking for someone who:最後の晩まで毎回生き}{ruby:lives at least until the last twilight every time, there's...:残るヤツなんて、}`
 `{ruby:.....................:…………………。}`
 `{ruby:...........................":………………………」}`
-`{ruby:"....................................":「………………………………」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
 `{ruby:......There's only me.:……俺しか、いねぇぞ。}`
-`{ruby:".........Let me first speak with the red.:「………先に赤で申し上げておきましょう。}`
-`{ruby:{p:1:Battler‐kun, you are not the culprit}.:{p:1:戦人くんは犯人ではありませんよ。}}`
+`{ruby:".........Let me first:「………先に赤で申し上}{ruby:speak with the red.:げておきましょう。}`
+`{ruby:{p:1:Battler‐kun, you are:{p:1:戦人くんは犯人}{ruby:not the culprit}.:ではありませんよ。}}`
 `{ruby:{p:1:You haven't killed anyone}.:{p:1:戦人くんは誰も殺してはいません。}}`
-`{ruby:{p:1:This can be said of all games}.":{p:1:これは全てのゲームにおいて言えることです}」}`
-`{ruby:"Then that.........just makes it even more likely that it's about me.:「ならなおのこと、………俺ってことになる。}`
-`{ruby:...It means the sole reason she had for bringing about the epitaph murders...was to show them to me.":…こいつが碑文殺人を起こす唯一の理由は、…俺に見せ付けるためってことになる」}`
-`{ruby:Beato's always making out that she chooses who to kill next by roulette.:ベアトは毎回、誰から今度は殺そうかと、殺人順序をルーレットで決めるとうそぶく。}`
-`{ruby:But I'm an exception. The only exception.:しかし、そのベアトが、いつも俺だけは殺さない。}`
-`{ruby:......Though she does kill me in the end, she always leaves me be until the very last moment.:{n}……最後には殺すにせよ、一番最後まで残す。}`
-`{ruby:In all of these supposedly random games, there's only this one unchanging constant......:気まぐれなはずの全てのゲームにおいて、それだけは不変にして普遍……。}`
-`{ruby:"She wants.........revenge? Against me?:「こいつは、………俺に、復讐を？}`
-`{ruby:So is she performing the epitaph murders to make me feel fear...?":俺に恐怖を味わわせるために、碑文殺人を行なっているというのか…？」}`
+`{ruby:{p:1:This can be:{p:1:これは全てのゲームに}{ruby:said of all games}.":おいて言えることです}」}`
+`{ruby:"Then that.........just makes it even:「ならなおのこと、………}{ruby:more likely that it's about me.:俺ってことになる。}`
+`{ruby:...It means the sole reason she had for bringing:…こいつが碑文殺人を起こす唯一の理由は、}{ruby:about the epitaph murders...was to show them to me.":…俺に見せ付けるためってことになる」}`
+`{ruby:Beato's always making out that she:ベアトは毎回、誰から今度は殺そうかと、殺人}{ruby:chooses who to kill next by roulette.:順序をルーレットで決めるとうそぶく。}`
+`{ruby:But I'm an:しかし、そのベアトが、いつ}{ruby:exception. The only exception.:も俺だけは殺さない。}`
+`{ruby:......Though she does kill me in the end, she:{n}……最後には殺すにせ}{ruby:always leaves me be until the very last moment.:よ、一番最後まで残す。}`
+`{ruby:In all of these supposedly random:気まぐれなはずの全てのゲームにおいて}{ruby:games, there's only this one unchanging constant......:、それだけは不変にして普遍……。}`
+`{ruby:"She wants.........revenge?:「こいつは、………}{ruby:Against me?:俺に、復讐を？}`
+`{ruby:So is she performing the epitaph:俺に恐怖を味わわせるために、碑文殺人}{ruby:murders to make me feel fear...?":を行なっているというのか…？」}`
 `{ruby:"That's wrong.:「それは違います。}`
-`{ruby:......{p:1:Her goal is not to make someone experience fear}.:……{p:1:恐怖を味わわせるのが目的ではありません。}}`
-`{ruby:{p:1:And it isn't to have revenge on someone either}.":{p:1:誰かに復讐するためのものでもありません}」}`
+`{ruby:......{p:1:Her goal is not:……{p:1:恐怖を味わわせる}{ruby:to make someone experience fear}.:のが目的ではありません。}}`
+`{ruby:{p:1:And it isn't to:{p:1:誰かに復讐するため}{ruby:have revenge on someone either}.":のものでもありません}」}`
 `{ruby:"In that case!:「なら！}`
-`{ruby:That means the epitaph murders really don't mean anything to her.:やはり、碑文殺人には意味なんてないことになる。}`
-`{ruby:The riddle of the epitaph is meaningless, and the corresponding epitaph murders are also meaningless.:碑文の謎も無意味、対となる碑文殺人も無意味。}`
+`{ruby:That means the epitaph murders:やはり、碑文殺人には意味な}{ruby:really don't mean anything to her.:んてないことになる。}`
+`{ruby:The riddle of the epitaph is meaningless,:碑文の謎も無意味、対とな}{ruby:and the corresponding epitaph murders are also meaningless.:る碑文殺人も無意味。}`
 `{ruby:X=Y=0!:Ｘ＝Ｙ＝０！}`
-`{ruby:But even so, she's clearly trying to show these meaningless things to me!":だが、その無意味をこいつは、明白に俺に対して見せ付けている！」}`
-`{ruby:"What could she want from me...which is worth the same to her as something meaningless?!:「無意味なことと同価値の何を、俺に求めているんだ？！}`
+`{ruby:But even so, she's clearly trying:だが、その無意味をこいつは、明白に}{ruby:to show these meaningless things to me!":俺に対して見せ付けている！」}`
+`{ruby:"What could she want from me...which is:「無意味なことと同価値の何を}{ruby:worth the same to her as something meaningless?!:、俺に求めているんだ？！}`
 `{ruby:......I don't get it!!:……わからねぇ！！}`
-`{ruby:The more I think about it, the less I understand what she's thinking!":考えれば考えるほどに、こいつが何を考えてるのか、俺にはわからねぇ！」}`
-`{ruby:"....................................":「………………………………」}`
+`{ruby:The more I think about it,:考えれば考えるほどに、こいつが何を考え}{ruby:the less I understand what she's thinking!":てるのか、俺にはわからねぇ！」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
 `{ruby:{f:5:Beatrice},:無意味、無価値な連続殺人を犯す、気紛れな魔女、}`
-`{ruby:the fickle witch who committed a meaningless, worthless serial murder.:ベアトリーチェ。}`
-`{ruby:Even the riddle of the epitaph, which she made into a condition to suspend the serial murders,:その魔女が連続殺人を中止する条件とする碑文の謎も、}`
+`{ruby:the fickle witch who committed:ベアトリー}{ruby:a meaningless, worthless serial murder.:チェ。}`
+`{ruby:Even the riddle of the epitaph, which she:その魔女が連続殺人を中止する}{ruby:made into a condition to suspend the serial murders,:条件とする碑文の謎も、}`
 `{ruby:is meaningless, immaterial.:無意味、無価値。}`
-`{ruby:And......she's thrusting this meaningless, immaterial thing in front of my face.:そして、その無意味、無価値を、……俺に突き付ける。}`
-`{ruby:......What is it......that you want from me...?:……お前は、……俺に何を求めているんだ…？}`
-`{ruby:{n}......Or else, what is it that you want to give me......?:{n}……あるいは、何を与えているんだ……？}`
-`{ruby:My idea that Beato must have been taking revenge on me...has already been refuted in red by {f:5:Virgilia}.:俺がベアトに復讐されているに違いないという想像は、すでにワルギリアによって赤で否定されている。}`
+`{ruby:And......she's thrusting this meaningless, immaterial:そして、その無意味、無価値を}{ruby:thing in front of my face.:、……俺に突き付ける。}`
+`{ruby:......What is it......that:……お前は、……俺に何を}{ruby:you want from me...?:求めているんだ…？}`
+`{ruby:{n}......Or else, what is it:{n}……あるいは、何を}{ruby:that you want to give me......?:与えているんだ……？}`
+`{ruby:My idea that Beato must have been taking revenge:俺がベアトに復讐されているに違いないという想像は、}{ruby:on me...has already been refuted in red by {f:5:Virgilia}.:すでにワルギリアによって赤で否定されている。}`
 `{ruby:Both X and Y...:ＸにもＹにも。}`
-`{ruby:{n}Both the epitaph murders and the epitaph's riddle...mean nothing to Beato.:{n}碑文殺人にも碑文の謎にも、ベアトには何も意味がない。}`
+`{ruby:{n}Both the epitaph murders and:{n}碑文殺人にも碑文の謎にも、}{ruby:the epitaph's riddle...mean nothing to Beato.:ベアトには何も意味がない。}`
 `{ruby:X=Y=0.:Ｘ＝Ｙ＝０。}`
-`{ruby:However, since she's thrusting that in front of me,:しかし、それを俺に突き付ける以上、}`
+`{ruby:However, since she's thrusting:しかし、それを俺に突}{ruby:that in front of me,:き付ける以上、}`
 `{ruby:...it must...:……意味が、}`
 `{ruby:...have some meaning.:……きっとある。}`
-`{ruby:She presents us a pair of scales representing "if you don't solve the epitaph, I'll carry out the epitaph murders".:“碑文の謎が解けなければ、碑文殺人を実行する”という天秤を、俺たちに、提示する。}`
-`{ruby:Neither the epitaph murders nor the epitaph's riddle have any significance by themselves.:つまり、碑文殺人も碑文の謎も、個々では確かに意味がない。}`
-`{ruby:However, it becomes meaningful when she puts both halves on the scales and thrusts it out before us.........no, before me.:しかし、天秤の両端に乗せて俺たちに、………いや、俺に突き付けることで、初めて意味が現れる。}`
-`{ruby:......In other words, it should be like this::……つまり、正しくはこうだ。}`
+`{ruby:She presents us a pair of scales representing "if you:“碑文の謎が解けなければ、碑文殺人を実行す}{ruby:don't solve the epitaph, I'll carry out the epitaph murders".:る”という天秤を、俺たちに、提示する。}`
+`{ruby:Neither the epitaph murders nor the:つまり、碑文殺人も碑文の謎も、}{ruby:epitaph's riddle have any significance by themselves.:個々では確かに意味がない。}`
+`{ruby:However, it becomes meaningful when she puts both halves on:しかし、天秤の両端に乗せて俺たちに、………いや、}{ruby:the scales and thrusts it out before us.........no, before me.:俺に突き付けることで、初めて意味が現れる。}`
+`{ruby:......In other words, it:……つまり、正し}{ruby:should be like this::くはこうだ。}`
 `{ruby:X=0.:Ｘ＝０。}`
 `{ruby:{n}Y=0.:{n}Ｙ＝０。}`
 `{ruby:{n}X+Y>0.:{n}Ｘ＋Ｙ＞０。}`
-`{ruby:A scale with meaningless, weightless things on both sides.:両端に、重みを持たぬ無意味が乗せられた天秤。}`
-`{ruby:{n}However, it has weight itself...and gives the rest meaning.:{n}しかし、それ自体が重みを伴い、意味を、成す。}`
+`{ruby:A scale with meaningless,:両端に、重みを持たぬ無意}{ruby:weightless things on both sides.:味が乗せられた天秤。}`
+`{ruby:{n}However, it has weight:{n}しかし、それ自体が重み}{ruby:itself...and gives the rest meaning.:を伴い、意味を、成す。}`
 `{ruby:"......It's almost like......playing.:「……まるで、……遊びだな。}`
-`{ruby:Like kids playing rock‐paper‐scissors.":子どものジャンケンみたいだ」}`
-`{ruby:Rock‐paper‐scissors is the most immediate method of randomly determining a winner and a loser.:ジャンケンはもっとも身近な、勝敗を決めるランダム発生器だ。}`
-`{ruby:You usually bet some sort of privilege on the outcome,:何かの権利を賭けて、勝負することも多いが、}`
-`{ruby:......but kids often do rock‐paper‐scissors just to play, without betting anything in particular.:……子どもなどは、特に何も賭けず、ただの遊びとしてジャンケンをすることも多い。}`
-`{ruby:Unless you bet something, nothing but a feeling of joy or disappointment will come from a win or a loss.:何か賭けない限り、勝っても負けても、嬉しい悔しい以上の何も生まれはしない。}`
-`{ruby:In other words, the two sides of the scale, winning and losing, are both valueless.:つまり、勝つことも負けることも、天秤の両端は無価値。}`
-`{ruby:However, the very act of seeing which way it will tip...:しかし、そのどちらに傾くかという、その行為そのものが、}`
-`{ruby:is the reason kids play rock‐paper‐scissors.:子どもたちがジャンケンで遊ぶ目的となっている。}`
-`{ruby:After all, the kids are enjoying the communication that surrounds the game,:だから子どもは、ジャンケンを巡ってのコミュニケーションを楽しんでいるのであり、}`
-`{ruby:......and they aren't purely interested in the value of winning or losing.:……勝敗に純粋な価値を求めているわけではない。}`
-`{ruby:They aren't overly concerned about who wins and who loses......:勝敗に、固執してはいないのだ……。}`
-`{ruby:"That would mean that it doesn't matter to Beato......whether the epitaph murders succeed or not.:「それじゃベアトにとって碑文殺人は、……成功してもしなくてもいいもの、ってことになっちまう。}`
-`{ruby:......It almost feels like she's just enjoying the process.":……まるで、その過程そのものを楽しんでいるかのようにさえ、思える」}`
+`{ruby:Like kids:子どものジャンケ}{ruby:playing rock‐paper‐scissors.":ンみたいだ」}`
+`{ruby:Rock‐paper‐scissors is the most immediate method of:ジャンケンはもっとも身近な、勝敗}{ruby:randomly determining a winner and a loser.:を決めるランダム発生器だ。}`
+`{ruby:You usually bet some sort:何かの権利を賭けて、勝負}{ruby:of privilege on the outcome,:することも多いが、}`
+`{ruby:......but kids often do rock‐paper‐scissors just:……子どもなどは、特に何も賭けず、ただの遊}{ruby:to play, without betting anything in particular.:びとしてジャンケンをすることも多い。}`
+`{ruby:Unless you bet something, nothing but a feeling of joy:何か賭けない限り、勝っても負けても、嬉し}{ruby:or disappointment will come from a win or a loss.:い悔しい以上の何も生まれはしない。}`
+`{ruby:In other words, the two sides of:つまり、勝つことも負けること}{ruby:the scale, winning and losing, are both valueless.:も、天秤の両端は無価値。}`
+`{ruby:However, the very act of:しかし、そのどちらに傾くかとい}{ruby:seeing which way it will tip...:う、その行為そのものが、}`
+`{ruby:is the reason:子どもたちがジャンケンで遊}{ruby:kids play rock‐paper‐scissors.:ぶ目的となっている。}`
+`{ruby:After all, the kids are enjoying:だから子どもは、ジャンケンを巡ってのコミュ}{ruby:the communication that surrounds the game,:ニケーションを楽しんでいるのであり、}`
+`{ruby:......and they aren't purely interested in:……勝敗に純粋な価値を求め}{ruby:the value of winning or losing.:ているわけではない。}`
+`{ruby:They aren't overly concerned about:勝敗に、固執してはい}{ruby:who wins and who loses......:ないのだ……。}`
+`{ruby:"That would mean that it doesn't matter:「それじゃベアトにとって碑文殺人は、……成功して}{ruby:to Beato......whether the epitaph murders succeed or not.:もしなくてもいいもの、ってことになっちまう。}`
+`{ruby:......It almost feels like:……まるで、その過程そのものを楽しん}{ruby:she's just enjoying the process.":でいるかのようにさえ、思える」}`
 `{ruby:"........................":「……………………」}`
-`{ruby:"......In the past, ...I would have cursed her, deciding that she was a heartless witch who kept murdering people for no reason.:「……以前の俺なら、…無意味な殺人を繰り返す非道な魔女だと決め付け、こいつを罵っただろうさ。}`
-`{ruby:......But now, I can't imagine that's true.":……だが、今の俺にはそうとは思えない」}`
+`{ruby:"......In the past, ...I would have cursed her, deciding that she:「……以前の俺なら、…無意味な殺人を繰り返す非道}{ruby:was a heartless witch who kept murdering people for no reason.:な魔女だと決め付け、こいつを罵っただろうさ。}`
+`{ruby:......But now, I:……だが、今の俺にはそ}{ruby:can't imagine that's true.":うとは思えない」}`
 `{ruby:".........Thank you.:「………ありがとう。}`
-`{ruby:In that case, I'll give you one more red.:だから、赤をもう一つ与えましょう。}`
-`{ruby:...{p:1:Beato never committed murder for the sake of pleasure}.":…{p:1:ベアトは、快楽目的で殺人を行なっていることはありません}」}`
-`{ruby:She didn't do it for pleasure, and she didn't do it to make anyone feel fear.:快楽目的でもなく、恐怖を味わわせるためでもない。}`
-`{ruby:She has nothing to gain from the epitaph murders,:碑文殺人に得るものはなく、}`
-`{ruby:and she doesn't care whether they succeed or fail.:完遂できようが、失敗しようが、構わない。}`
-`{ruby:It's almost like...a random game kids would play......:それはまるで、気まぐれな子どもの遊びのよう……。}`
+`{ruby:In that case, I'll:だから、赤をもう一つ}{ruby:give you one more red.:与えましょう。}`
+`{ruby:...{p:1:Beato never committed murder:…{p:1:ベアトは、快楽目的で殺人を}{ruby:for the sake of pleasure}.":行なっていることはありません}」}`
+`{ruby:She didn't do it for pleasure, and she:快楽目的でもなく、恐怖を味}{ruby:didn't do it to make anyone feel fear.:わわせるためでもない。}`
+`{ruby:She has nothing to:碑文殺人に得るも}{ruby:gain from the epitaph murders,:のはなく、}`
+`{ruby:and she doesn't care:完遂できようが、失敗し}{ruby:whether they succeed or fail.:ようが、構わない。}`
+`{ruby:It's almost like...a random:それはまるで、気まぐれな子}{ruby:game kids would play......:どもの遊びのよう……。}`
 `{ruby:"No.:「違う。}`
 `{ruby:......It must have meaning.:……意味があるんだ。}`
 `{ruby:To her.":こいつには」}`
-`{ruby:".........And what is...this meaning...?":「………意味とは、…何ですか…？」}`
+`{ruby:".........And what:「………意味とは、…}{ruby:is...this meaning...?":何ですか…？」}`
 `{ruby:"I don't know.:「わからない。}`
-`{ruby:Even though neither side of the scale has any value, ......the scale itself has some weight to it in her eyes.":天秤の両端は無価値でも、……こいつにとってこの天秤は、しっかりと重みあるものなんだ」}`
+`{ruby:Even though neither side of the scale has any value,:天秤の両端は無価値でも、……こいつにとってこ}{ruby:......the scale itself has some weight to it in her eyes.":の天秤は、しっかりと重みあるものなんだ」}`
 `{ruby:......Of course it isn't meaningless.:……無意味なもんか。}`
 `{ruby:Some meaning definitely exists.:絶対に意味はある。}`
-`{ruby:In the previous game, she urged me to remember my sin of six years ago.:こいつは前回のゲームで俺に、６年前の罪を思い出せと迫った。}`
+`{ruby:In the previous game, she urged me:こいつは前回のゲームで俺に、６年}{ruby:to remember my sin of six years ago.:前の罪を思い出せと迫った。}`
 `{ruby:......Was that "meaningless" too?:……あれも無意味だったというのか？}`
 `{ruby:No.:違う。}`
 `{ruby:There's no way that's the case.:絶対にそんなことはない。}`
-`{ruby:I clearly remember the serious look in her eyes at that moment.:あの時のベアトの真剣な眼差しを、俺はよく覚えてる。}`
-`{ruby:Unfortunately, I didn't have a clue what she was talking about.:残念ながら俺に、その心当たりはなかった。}`
+`{ruby:I clearly remember the serious look:あの時のベアトの真剣な眼差し}{ruby:in her eyes at that moment.:を、俺はよく覚えてる。}`
+`{ruby:Unfortunately, I didn't have a:残念ながら俺に、その心}{ruby:clue what she was talking about.:当たりはなかった。}`
 `{ruby:{n}......And she was devastated.:{n}……するとこいつはひどく落胆した。}`
 `{ruby:That's right.:そうなんだ。}`
-`{ruby:At that time, I'm sure she even went so far as to say that the crime wouldn't have occurred if I hadn't come.:こいつはあの時、俺が来なければ事件は起こらなかったとまで言い切ったはずだ。}`
+`{ruby:At that time, I'm sure she even went so far as:こいつはあの時、俺が来なければ事件は起こ}{ruby:to say that the crime wouldn't have occurred if I hadn't come.:らなかったとまで言い切ったはずだ。}`
 `{ruby:"There is a meaning.:「意味は、あるんだ。}`
 `{ruby:.........A meaning to her.:………こいつにとっては、意味が。}`
 `{ruby:And she wants me to provide it.":そしてそれを、俺に求めてる」}`
-`{ruby:"..........................................":「……………………………………」}`
-`{ruby:I laughed softly and poked Beato lightly on the head,:俺は、へらっと笑いながらベアトの頭を軽く小突き、}`
+`{ruby::「……………………}{ruby:"..........................................":………………」}`
+`{ruby:I laughed softly and poked:俺は、へらっと笑いながらベ}{ruby:Beato lightly on the head,:アトの頭を軽く小突き、}`
 `{ruby:......then patted her head.:……そして撫でる。}`
-`{ruby:"......Next time you want to send a love letter, I suggest that you just write "I love you".:「……ラブレターには、次からは“好きです”と短く書くことを勧めるぜ。}`
-`{ruby:...If you make it too roundabout and confusing, no one's gonna be able to figure it out.":…あまり回りくどくて難解だと、意味が伝わらねぇぞ」}`
+`{ruby:"......Next time you want to send a love letter,:「……ラブレターには、次からは“好き}{ruby:I suggest that you just write "I love you".:です”と短く書くことを勧めるぜ。}`
+`{ruby:...If you make it too roundabout and confusing,:…あまり回りくどくて難解だと}{ruby:no one's gonna be able to figure it out.":、意味が伝わらねぇぞ」}`
 `{ruby:".........*giggle*.":「………くす」}`
-`{ruby:"I still don't have a clue what she's thinking.:「こいつが何を考えてるのか、……相変わらずさっぱりさ。}`
+`{ruby:"I still don't have:「こいつが何を考えてるのか、…}{ruby:a clue what she's thinking.:…相変わらずさっぱりさ。}`
 `{ruby:......But even so,:……だが。}`
 `{ruby:I won't stop thinking.:俺は考えることを、止めないぜ。}`
-`{ruby:...I've only just started flipping over the chessboard.:…まだまだ、チェス盤を引っ繰り返せ。}`
-`{ruby:......I definitely won't give up......on this journey through your thoughts.":……お前の思考を辿る旅を、……俺は絶対に挫けないからな」}`
+`{ruby:...I've only just started:…まだまだ、チェス盤}{ruby:flipping over the chessboard.:を引っ繰り返せ。}`
+`{ruby:......I definitely won't give up......on:……お前の思考を辿る旅を、……}{ruby:this journey through your thoughts.":俺は絶対に挫けないからな」}`

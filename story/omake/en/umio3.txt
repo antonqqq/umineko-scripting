@@ -1,39 +1,39 @@
-`{ruby:{p:7:Disclaimer: This is nothing but a performance test (=}:{p:7:Disclaimer: This is nothing but a performance test (=}}`
+`{ruby:{p:7:Disclaimer: This is nothing:{p:7:Disclaimer: This is nothin}{ruby:but a performance test (=}:g but a performance test (=}}`
 `{ruby:"......Come, arise, goat attendants.":"......Come, arise, goat attendants."}`
 `{ruby:"........................":"........................"}`
-`{ruby:"Come, arise, Seven Stakes of Purgatory.":"Come, arise, Seven Stakes of Purgatory."}`
-`{ruby:""""""Kyahhahahahahahahaha{0}ha{0}ha{0}ha{0}ha!!"""""":""""""Kyahhahahahahahahaha{0}ha{0}ha{0}ha{0}ha!!""""""}`
-`{ruby:"Come, arise, furniture suitable for me...!!:"Come, arise, furniture suitable for me...!!}`
-`{ruby:Not that cheap furniture, much much stronger ones!:Not that cheap furniture, much much stronger ones!}`
+`{ruby:"Come, arise, Seven:"Come, arise, Seven St}{ruby:Stakes of Purgatory.":akes of Purgatory."}`
+`{ruby::""""""Kyahhahahahahahahaha{0}{ruby:""""""Kyahhahahahahahahaha{0}ha{0}ha{0}ha{0}ha!!"""""":}ha{0}ha{0}ha{0}ha!!""""""}`
+`{ruby:"Come, arise, furniture:"Come, arise, furniture}{ruby:suitable for me...!!: suitable for me...!!}`
+`{ruby:Not that cheap furniture,:Not that cheap furniture, m}{ruby:much much stronger ones!:uch much stronger ones!}`
 `{ruby:Cruel ones!!:Cruel ones!!}`
-`{ruby:Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahyahhyahhya!!!":Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahyahhyahhya!!!"}`
-`{ruby:"Chiester{ruby:four‐one‐zero:410}. Right here.":"Chiester{ruby:four‐one‐zero:410}. Right here."}`
-`{ruby:"Chiester{ruby:forty‐five:45}. Right here.":"Chiester{ruby:forty‐five:45}. Right here."}`
-`{ruby:{p:24:———}{p:22:{a:c:Choose your character}{p:24:———}{n}}:{p:24:———}{p:22:{a:c:Choose your character}{p:24:———}{n}}}`
-`{ruby:"Don't look down on the generation that loves westerns, got it?:"Don't look down on the generation that loves westerns, got it?}`
-`{ruby:Brats don't know jack squat about the refinement of a lever‐action.":Brats don't know jack squat about the refinement of a lever‐action."}`
-`{ruby:"You know, I can be pretty brutal when my husband isn't around.":"You know, I can be pretty brutal when my husband isn't around."}`
+`{ruby::Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{}{ruby:Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahyahhyahhya!!!":0}ha{0}ha{0}hahyahhyahhya!!!"}`
+`{ruby:"Chiester{ruby:four‐one‐zero:410}.:"Chiester{ruby:four‐one‐z}{ruby:Right here.":ero:410}. Right here."}`
+`{ruby:"Chiester{ruby:forty‐five:45}.:"Chiester{ruby:forty‐fi}{ruby:Right here.":ve:45}. Right here."}`
+`{ruby:{p:24:———}{p:22:{a:c:Choose:{p:24:———}{p:22:{a:c:Choose yo}{ruby:your character}{p:24:———}{n}}:ur character}{p:24:———}{n}}}`
+`{ruby:"Don't look down on the:"Don't look down on the generatio}{ruby:generation that loves westerns, got it?:n that loves westerns, got it?}`
+`{ruby:Brats don't know jack squat:Brats don't know jack squat about th}{ruby:about the refinement of a lever‐action.":e refinement of a lever‐action."}`
+`{ruby:"You know, I can be pretty:"You know, I can be pretty brutal}{ruby:brutal when my husband isn't around.": when my husband isn't around."}`
 `{ruby:"Ludicrous...!:"Ludicrous...!}`
-`{ruby:In any event, this does not leave the realm of nonsense...!":In any event, this does not leave the realm of nonsense...!"}`
+`{ruby:In any event, this does:In any event, this does not leav}{ruby:not leave the realm of nonsense...!":e the realm of nonsense...!"}`
 `{ruby:"I am Ushiromiya Natsuhi!!:"I am Ushiromiya Natsuhi!!}`
-`{ruby:Although I do not have the right to wear the One‐winged Eagle on my body, it is certainly engraved in my heart!!":Although I do not have the right to wear the One‐winged Eagle on my body, it is certainly engraved in my heart!!"}`
+`{ruby:Although I do not have the right to wear the One‐winged:Although I do not have the right to wear the One‐winged Ea}{ruby:Eagle on my body, it is certainly engraved in my heart!!":gle on my body, it is certainly engraved in my heart!!"}`
 `{ruby:"There you go!:"There you go!}`
 `{ruby:Well said!:Well said!}`
 `{ruby:How about some candy as a reward?!":How about some candy as a reward?!"}`
 `{ruby:"I'll show you...:"I'll show you...}`
-`{ruby:what a golden dream looks liiiiiiiiiiike!!!":what a golden dream looks liiiiiiiiiiike!!!"}`
+`{ruby:what a golden:what a golden dream loo}{ruby:dream looks liiiiiiiiiiike!!!":ks liiiiiiiiiiike!!!"}`
 `{ruby:{p:11:{c:ff0000:♥♥♥♥♥♥}}:{p:11:{c:ff0000:♥♥♥♥♥♥}}}`
 `{ruby:{p:11:{c:ff0000:♥♥♥♥♥}}:{p:11:{c:ff0000:♥♥♥♥♥}}}`
 `{ruby:{p:11:{c:ff0000:♥♥♥♥}}:{p:11:{c:ff0000:♥♥♥♥}}}`
 `{ruby:{p:11:{c:ff0000:♥♥♥}}:{p:11:{c:ff0000:♥♥♥}}}`
 `{ruby:{p:11:{c:ff0000:♥♥}}:{p:11:{c:ff0000:♥♥}}}`
 `{ruby:{p:11:{c:ff0000:♥}}:{p:11:{c:ff0000:♥}}}`
-`{ruby:{p:11:{c:ff0000:♥♥♥♥♥♥}{n}{n}On next reload: Golden Bullets}:{p:11:{c:ff0000:♥♥♥♥♥♥}{n}{n}On next reload: Golden Bullets}}`
-`{ruby:{p:11:{c:ff0000:♥♥♥♥♥}{n}{n}On next reload: Golden Bullets}:{p:11:{c:ff0000:♥♥♥♥♥}{n}{n}On next reload: Golden Bullets}}`
-`{ruby:{p:11:{c:ff0000:♥♥♥♥}{n}{n}On next reload: Golden Bullets}:{p:11:{c:ff0000:♥♥♥♥}{n}{n}On next reload: Golden Bullets}}`
-`{ruby:{p:11:{c:ff0000:♥♥♥}{n}{n}On next reload: Golden Bullets}:{p:11:{c:ff0000:♥♥♥}{n}{n}On next reload: Golden Bullets}}`
-`{ruby:{p:11:{c:ff0000:♥♥}{n}{n}On next reload: Golden Bullets}:{p:11:{c:ff0000:♥♥}{n}{n}On next reload: Golden Bullets}}`
-`{ruby:{p:11:{c:ff0000:♥}{n}{n}On next reload: Golden Bullets}:{p:11:{c:ff0000:♥}{n}{n}On next reload: Golden Bullets}}`
+`{ruby:{p:11:{c:ff0000:♥♥♥♥♥♥}{n}{n}On next:{p:11:{c:ff0000:♥♥♥♥♥♥}{n}{n}On}{ruby:reload: Golden Bullets}: next reload: Golden Bullets}}`
+`{ruby:{p:11:{c:ff0000:♥♥♥♥♥}{n}{n}On next:{p:11:{c:ff0000:♥♥♥♥♥}{n}{n}On }{ruby:reload: Golden Bullets}:next reload: Golden Bullets}}`
+`{ruby:{p:11:{c:ff0000:♥♥♥♥}{n}{n}On next:{p:11:{c:ff0000:♥♥♥♥}{n}{n}On }{ruby:reload: Golden Bullets}:next reload: Golden Bullets}}`
+`{ruby:{p:11:{c:ff0000:♥♥♥}{n}{n}On next:{p:11:{c:ff0000:♥♥♥}{n}{n}On n}{ruby:reload: Golden Bullets}:ext reload: Golden Bullets}}`
+`{ruby:{p:11:{c:ff0000:♥♥}{n}{n}On next:{p:11:{c:ff0000:♥♥}{n}{n}On n}{ruby:reload: Golden Bullets}:ext reload: Golden Bullets}}`
+`{ruby:{p:11:{c:ff0000:♥}{n}{n}On next:{p:11:{c:ff0000:♥}{n}{n}On ne}{ruby:reload: Golden Bullets}:xt reload: Golden Bullets}}`
 `{ruby:{p:11:{c:ffaa00:♥♥♥♥♥♥}}:{p:11:{c:ffaa00:♥♥♥♥♥♥}}}`
 `{ruby:{p:11:{c:ffaa00:♥♥♥♥♥}}:{p:11:{c:ffaa00:♥♥♥♥♥}}}`
 `{ruby:{p:11:{c:ffaa00:♥♥♥♥}}:{p:11:{c:ffaa00:♥♥♥♥}}}`
@@ -52,22 +52,22 @@
 `{ruby:{p:11:{c:ffaa00:⦿⦿}}:{p:11:{c:ffaa00:⦿⦿}}}`
 `{ruby:{p:11:{c:ffaa00:⦿}}:{p:11:{c:ffaa00:⦿}}}`
 `{ruby:{p:11:{c:ffaa00:RECHARGING}}:{p:11:{c:ffaa00:RECHARGING}}}`
-`{ruby:{p:10:——————}{p:9:{a:c: Level 1 }{p:10:——————}}:{p:10:——————}{p:9:{a:c: Level 1 }{p:10:——————}}}`
-`{ruby:{p:10:——————}{p:9:{a:c: Level 2 }{p:10:——————}}:{p:10:——————}{p:9:{a:c: Level 2 }{p:10:——————}}}`
-`{ruby:{p:10:——————}{p:9:{a:c: Level 3 }{p:10:——————}}:{p:10:——————}{p:9:{a:c: Level 3 }{p:10:——————}}}`
-`{ruby:{p:10:——————}{p:9:{a:c: Level 1 cleared! }{p:10:——————}}:{p:10:——————}{p:9:{a:c: Level 1 cleared! }{p:10:——————}}}`
-`{ruby:{p:10:——————}{p:9:{a:c: Level 2 cleared! }{p:10:——————}}:{p:10:——————}{p:9:{a:c: Level 2 cleared! }{p:10:——————}}}`
-`{ruby:{p:10:——————}{p:9:{a:c: Level 3 cleared! }{p:10:——————}}:{p:10:——————}{p:9:{a:c: Level 3 cleared! }{p:10:——————}}}`
-`{ruby:{p:41:{a:c:Golden bullets. Magic...to destroy...magic...}}:{p:41:{a:c:Golden bullets. Magic...to destroy...magic...}}}`
-`{ruby:{p:24:———}{p:22:{a:c:You undoubtedly failed!}{p:24:———}{n}}:{p:24:———}{p:22:{a:c:You undoubtedly failed!}{p:24:———}{n}}}`
-`{ruby:{p:7:You do not have enough wisdom to make any sense of it.}:{p:7:You do not have enough wisdom to make any sense of it.}}`
-`{ruby:{p:7:It takes energy to achieve your goals.}:{p:7:It takes energy to achieve your goals.}}`
-`{ruby:{p:7:You cannot destroy magic with mere iron.}:{p:7:You cannot destroy magic with mere iron.}}`
-`{ruby:{p:7:Goals are not achieved by waiting around.}:{p:7:Goals are not achieved by waiting around.}}`
-`{ruby:{p:7:Golden bullets are effective for making peppered rabbit.}:{p:7:Golden bullets are effective for making peppered rabbit.}}`
-`{ruby:{p:7:It is useless to just stand and wait forever.}:{p:7:It is useless to just stand and wait forever.}}`
+`{ruby:{p:10:——————}{p:9:{a:c: Level:{p:10:——————}{p:9:{a:c: L}{ruby:1 }{p:10:——————}}:evel 1 }{p:10:——————}}}`
+`{ruby:{p:10:——————}{p:9:{a:c: Level:{p:10:——————}{p:9:{a:c: L}{ruby:2 }{p:10:——————}}:evel 2 }{p:10:——————}}}`
+`{ruby:{p:10:——————}{p:9:{a:c: Level:{p:10:——————}{p:9:{a:c: L}{ruby:3 }{p:10:——————}}:evel 3 }{p:10:——————}}}`
+`{ruby:{p:10:——————}{p:9:{a:c: Level:{p:10:——————}{p:9:{a:c: Level}{ruby:1 cleared! }{p:10:——————}}: 1 cleared! }{p:10:——————}}}`
+`{ruby:{p:10:——————}{p:9:{a:c: Level:{p:10:——————}{p:9:{a:c: Level}{ruby:2 cleared! }{p:10:——————}}: 2 cleared! }{p:10:——————}}}`
+`{ruby:{p:10:——————}{p:9:{a:c: Level:{p:10:——————}{p:9:{a:c: Level}{ruby:3 cleared! }{p:10:——————}}: 3 cleared! }{p:10:——————}}}`
+`{ruby:{p:41:{a:c:Golden bullets.:{p:41:{a:c:Golden bullets. Mag}{ruby:Magic...to destroy...magic...}}:ic...to destroy...magic...}}}`
+`{ruby:{p:24:———}{p:22:{a:c:You:{p:24:———}{p:22:{a:c:You undoub}{ruby:undoubtedly failed!}{p:24:———}{n}}:tedly failed!}{p:24:———}{n}}}`
+`{ruby:{p:7:You do not have enough wisdom:{p:7:You do not have enough wis}{ruby:to make any sense of it.}:dom to make any sense of it.}}`
+`{ruby:{p:7:It takes energy:{p:7:It takes energy to}{ruby:to achieve your goals.}: achieve your goals.}}`
+`{ruby:{p:7:You cannot destroy:{p:7:You cannot destroy }{ruby:magic with mere iron.}:magic with mere iron.}}`
+`{ruby:{p:7:Goals are not:{p:7:Goals are not achiev}{ruby:achieved by waiting around.}:ed by waiting around.}}`
+`{ruby:{p:7:Golden bullets are effective:{p:7:Golden bullets are effectiv}{ruby:for making peppered rabbit.}:e for making peppered rabbit.}}`
+`{ruby:{p:7:It is useless to:{p:7:It is useless to just }{ruby:just stand and wait forever.}:stand and wait forever.}}`
 `{ruby:Congratulations!:Congratulations!}`
-`{ruby:It has been quite some time, but you made it here.:It has been quite some time, but you made it here.}`
-`{ruby:{n}{n}For all your effort, the Golden Witch gifted you with the keys to Lord {f:5:Goldsmith}'s Archive.:{n}{n}For all your effort, the Golden Witch gifted you with the keys to Lord {f:5:Goldsmith}'s Archive.}`
-`{ruby:For you, it may become a place of rest and long forgotten memories.:For you, it may become a place of rest and long forgotten memories.}`
-`{ruby:{n}{n}Good luck with reaching the end of the game!:{n}{n}Good luck with reaching the end of the game!}`
+`{ruby:It has been quite some:It has been quite some time}{ruby:time, but you made it here.:, but you made it here.}`
+`{ruby:{n}{n}For all your effort, the Golden Witch gifted:{n}{n}For all your effort, the Golden Witch gifted yo}{ruby:you with the keys to Lord {f:5:Goldsmith}'s Archive.:u with the keys to Lord {f:5:Goldsmith}'s Archive.}`
+`{ruby:For you, it may become a:For you, it may become a place of r}{ruby:place of rest and long forgotten memories.:est and long forgotten memories.}`
+`{ruby:{n}{n}Good luck with reaching:{n}{n}Good luck with reach}{ruby:the end of the game!:ing the end of the game!}`

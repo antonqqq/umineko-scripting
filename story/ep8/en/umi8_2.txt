@@ -1,9 +1,9 @@
-`{ruby:The cousins walked along the water's edge, playing.:いとこたちは、波打ち際を散歩しながら、色々と遊んだ。}`
-`{ruby:They searched for bits of glass, polished by the waves to become small and gem‐like.:波で研磨された、宝石のようなガラス石を探したり。}`
-`{ruby:{n}They caught up on news of each other's lives and joked around.:{n}それぞれの近況を語り合ったり、茶化したり。}`
+`{ruby:The cousins walked along:いとこたちは、波打ち際を散歩}{ruby:the water's edge, playing.:しながら、色々と遊んだ。}`
+`{ruby:They searched for bits of glass, polished:波で研磨された、宝石のよう}{ruby:by the waves to become small and gem‐like.:なガラス石を探したり。}`
+`{ruby:{n}They caught up on news of:{n}それぞれの近況を語り}{ruby:each other's lives and joked around.:合ったり、茶化したり。}`
 `{ruby:They wrote words in the sand.:砂に文字を書いてみたり。}`
-`{ruby:{n}They chased the receding waves and ran away from the coming ones.:{n}返す波を追ってみたり、寄せる波から逃げてみたり。}`
-`{ruby:The cousins enjoyed this time they had to themselves.:いとこだけの、楽しい時間が過ぎていった。}`
+`{ruby:{n}They chased the receding waves and:{n}返す波を追ってみたり、寄}{ruby:ran away from the coming ones.:せる波から逃げてみたり。}`
+`{ruby:The cousins enjoyed this:いとこだけの、楽しい時}{ruby:time they had to themselves.:間が過ぎていった。}`
 `{ruby:"Get back here, Maria!:「待て待て、真里亞ー！！}`
 `{ruby:You won't get off easy this time!!:今度は許さねぇぞー！！}`
 `{ruby:Wahahaha!":わっはっはっは！」}`
@@ -11,12 +11,12 @@
 `{ruby:No, no, no, no, kyahahahaha!":やだやだやだやだ、きゃっはっはっは！」}`
 `{ruby:"You'll get hurt if you fall.:「転ぶとケガをするよ。}`
 `{ruby:Be careful, you two.":二人とも気を付けて」}`
-`{ruby:"Feels like the wind's gotten stronger.:「風が強くなってきたかな。}`
+`{ruby:"Feels like the:「風が強くなって}{ruby:wind's gotten stronger.:きたかな。}`
 `{ruby:Maybe we should head back soon.":そろそろ引き上げた方がいいかもしれねぇぜ」}`
 `{ruby:"You're right.:「そうだね。}`
-`{ruby:I think the sky's getting cloudier too.:空も曇ってきた気がするよ。}`
+`{ruby:I think the:空も曇ってきた気}{ruby:sky's getting cloudier too.:がするよ。}`
 `{ruby:.........Battler‐kun, Maria‐chan!:………戦人くん、真里亞ちゃん！}`
-`{ruby:I think we should call it a day soon and head back to the guesthouse for the time being.":そろそろおしまいにして、一度ゲストハウスに戻ろうか」}`
+`{ruby:I think we should call it a day soon:そろそろおしまいにして、一度ゲ}{ruby:and head back to the guesthouse for the time being.":ストハウスに戻ろうか」}`
 `{ruby:"Uu? No way!:「うー？　やだー！}`
 `{ruby:I wanna play more!!":もっと遊ぶー！！」}`
 `{ruby:"Hey, don't ignore your cousin.:「こらこら、聞き分けろぃ。}`
@@ -31,598 +31,598 @@
 `{ruby:"What's wrong, Ange?:「どうした、縁寿。}`
 `{ruby:You look a little down.":少し元気ないぞ」}`
 `{ruby:"She's just tired out.:「疲れたんだよ。}`
-`{ruby:Come on, let's all head back together.":さ、みんなで戻ろう」}`
-`{ruby:True, Ange's expression probably looked tired.:確かに、縁寿の表情は、疲れたようにも見えただろう。}`
-`{ruby:{n}However, Battler alone thought he saw something else in it.:{n}でも戦人にだけは、少し違うものに見えた。}`
+`{ruby:Come on, let's:さ、みんなで}{ruby:all head back together.":戻ろう」}`
+`{ruby:True, Ange's expression:確かに、縁寿の表情は、疲れた}{ruby:probably looked tired.:ようにも見えただろう。}`
+`{ruby:{n}However, Battler alone thought he:{n}でも戦人にだけは、少}{ruby:saw something else in it.:し違うものに見えた。}`
 `{ruby:"What happened?:「何かあったのか。}`
 `{ruby:Can you tell me?":話してごらん」}`
 `{ruby:"............It's nothing.":「…………何でもない」}`
 `{ruby:She said that,:口ではそう言うが、}`
-`{ruby:but something in her expression showed that she was unsatisfied for some reason.:何か納得がいかないと表情が物語っているように見えた。}`
-`{ruby:However, since Ange wouldn't say what it was, and Battler couldn't think of anything,:縁寿がそれを口にせず、戦人にそれが思い当たらない以上、}`
-`{ruby:that was the limit of what he could figure out.:彼にそれ以上を察することは出来ない。}`
-`{ruby:So, he squeezed her small hand, silently letting her know that she could tell him whenever she was ready...:だから、その小さい手をそっと握って、いつでも話していいよと、無言で伝えることにするのだった…。}`
-`{ruby:It had seemed such a bright, sunny day until a short while ago...:さっきまではあんなにも暖かな陽気の一日だと思っていたのに。}`
-`{ruby:However, the sky had turned gray, and the wind had started to feel more annoying than pleasant.:空の色は鈍くなり、風も心地良さより意地悪さを感じさせるようになっていた。}`
-`{ruby:If they waited around, they might have to deal with scattered raindrops as well.:ぼやぼやしていれば、その内、雨粒さえ混じり出すかもしれない。}`
-`{ruby:"And I guess it'll be raining the whole time from now on.:「これで、あとはずーっと大雨ってわけか。}`
+`{ruby:but something in her expression showed:何か納得がいかないと表情が物}{ruby:that she was unsatisfied for some reason.:語っているように見えた。}`
+`{ruby:However, since Ange wouldn't say what it:縁寿がそれを口にせず、戦人にそ}{ruby:was, and Battler couldn't think of anything,:れが思い当たらない以上、}`
+`{ruby:that was the limit of:彼にそれ以上を察する}{ruby:what he could figure out.:ことは出来ない。}`
+`{ruby:So, he squeezed her small hand, silently letting her:だから、その小さい手をそっと握って、いつでも話して}{ruby:know that she could tell him whenever she was ready...:いいよと、無言で伝えることにするのだった…。}`
+`{ruby:It had seemed such a bright,:さっきまではあんなにも暖かな陽気}{ruby:sunny day until a short while ago...:の一日だと思っていたのに。}`
+`{ruby:However, the sky had turned gray, and the:空の色は鈍くなり、風も心地良さより意地}{ruby:wind had started to feel more annoying than pleasant.:悪さを感じさせるようになっていた。}`
+`{ruby:If they waited around, they might have:ぼやぼやしていれば、その内、雨粒}{ruby:to deal with scattered raindrops as well.:さえ混じり出すかもしれない。}`
+`{ruby:"And I guess it'll be raining:「これで、あとはずーっ}{ruby:the whole time from now on.:と大雨ってわけか。}`
 `{ruby:What a drag.":何だかゲンナリするぜ」}`
-`{ruby:"Still, even though it didn't last long, it was fun to be a kid again for a while.":「でも、短い時間だったけど、童心に戻れて楽しかったよ」}`
-`{ruby:"I can't wait to show Mama this glass gem!:「このガラス石、早くママに見せてあげるの！}`
+`{ruby:"Still, even though it didn't last long, it was:「でも、短い時間だったけど、童}{ruby:fun to be a kid again for a while.":心に戻れて楽しかったよ」}`
+`{ruby:"I can't wait to:「このガラス石、早くママ}{ruby:show Mama this glass gem!:に見せてあげるの！}`
 `{ruby:I'm gonna tell her I won!":真里亞が優勝したってママに教えるの！」}`
 `{ruby:"Ihihi.:「いっひっひ。}`
-`{ruby:Even though you only won 'cause I gave you mine.":俺が見つけたヤツを譲ったんだけどなー」}`
+`{ruby:Even though you only won:俺が見つけたヤツを譲っ}{ruby:'cause I gave you mine.":たんだけどなー」}`
 `{ruby:"Uu!:「うー！}`
 `{ruby:I got it, so it's mine!:真里亞がもらったから、真里亞のものなの！}`
 `{ruby:So I won!:だから真里亞が優勝なの！}`
 `{ruby:Uu‐uu‐uu!!":うーうーうー！！」}`
-`{ruby:Ange walked distractedly, pulled along by her brother.:縁寿は、兄に手を引かれながら、ぼんやりと歩いている。}`
-`{ruby:George and the others thought that she had probably woken up too early and was tired, so they didn't try to talk to her much.:きっと朝が早くて、もう眠いのだろうと譲治たちは思っていたので、特に言葉はかけなかった。}`
-`{ruby:As they reached the end of the forested path, the rose garden lay before them.:林道を抜け、薔薇庭園の景色が広がる。}`
-`{ruby:{n}They could see the strong winds making the rose bushes wave.:{n}強い風に、薔薇の茂みがうねるのが見えた。}`
+`{ruby:Ange walked distractedly, pulled:縁寿は、兄に手を引かれながら}{ruby:along by her brother.:、ぼんやりと歩いている。}`
+`{ruby:George and the others thought that she had probably woken up too:きっと朝が早くて、もう眠いのだろうと譲治たちは}{ruby:early and was tired, so they didn't try to talk to her much.:思っていたので、特に言葉はかけなかった。}`
+`{ruby:As they reached the end of the:林道を抜け、薔薇庭園}{ruby:forested path, the rose garden lay before them.:の景色が広がる。}`
+`{ruby:{n}They could see the strong:{n}強い風に、薔薇の茂み}{ruby:winds making the rose bushes wave.:がうねるのが見えた。}`
 `{ruby:"Mama!! Look!!:「ママー！！　見てー！！}`
 `{ruby:I won!!":真里亞が優勝したのー！！」}`
-`{ruby:Waving a hand about and yelling, Maria ran.:真里亞が手を振って叫びながら駆け出す。}`
-`{ruby:{n}Rosa was waving to her from the front of the guesthouse.:{n}見ると、ゲストハウスの前で楼座が手を振っていた。}`
-`{ruby:"I'm gonna head back to my room for a sec.:「私は一度、自分の部屋に戻るぜ。}`
-`{ruby:I'll meet you in the cousins' room right after.":そしたらすぐ、いとこ部屋に行くよ」}`
+`{ruby:Waving a hand about:真里亞が手を振って叫び}{ruby:and yelling, Maria ran.:ながら駆け出す。}`
+`{ruby:{n}Rosa was waving to her:{n}見ると、ゲストハウスの前}{ruby:from the front of the guesthouse.:で楼座が手を振っていた。}`
+`{ruby:"I'm gonna head back to:「私は一度、自分の}{ruby:my room for a sec.:部屋に戻るぜ。}`
+`{ruby:I'll meet you in:そしたらすぐ、いとこ}{ruby:the cousins' room right after.":部屋に行くよ」}`
 `{ruby:"Okay, got it.:「うん、わかったよ。}`
 `{ruby:See you later, then.":じゃあ、後ほどね」}`
-`{ruby:Jessica ran off in the direction of the mansion.:朱志香も屋敷の方へ駆け出していく。}`
-`{ruby:George turned around, as though suggesting that they had better get going too.:譲治が、僕たちも行こうかと振り返る。}`
-`{ruby:However, when he saw Ange standing still with a crabby look on her face,:でも、縁寿が気難しそうな顔をして、立ち尽くしているのに気付き、}`
-`{ruby:he realized that she might have been put into a bad mood by something.:何か事情があって機嫌を悪くしているのかもしれないと察する。}`
+`{ruby:Jessica ran off in:朱志香も屋敷の方へ駆}{ruby:the direction of the mansion.:け出していく。}`
+`{ruby:George turned around, as though suggesting:譲治が、僕たちも行こ}{ruby:that they had better get going too.:うかと振り返る。}`
+`{ruby:However, when he saw Ange standing still:でも、縁寿が気難しそうな顔をして、}{ruby:with a crabby look on her face,:立ち尽くしているのに気付き、}`
+`{ruby:he realized that she might have been:何か事情があって機嫌を悪くしてい}{ruby:put into a bad mood by something.:るのかもしれないと察する。}`
 `{ruby:"......Is everything okay?":「……大丈夫かい？」}`
 `{ruby:"Y‐yeah, she's fine.:「あ、あぁ、大丈夫だよ。}`
-`{ruby:Sorry, but would you mind going on ahead of us?":悪ぃけど、先に行っててくれねぇかな」}`
+`{ruby:Sorry, but would you mind:悪ぃけど、先に行って}{ruby:going on ahead of us?":てくれねぇかな」}`
 `{ruby:"Sure, got it.:「うん、わかったよ。}`
 `{ruby:See you later.":じゃあ、後で」}`
 `{ruby:George headed for the guesthouse.:譲治もゲストハウスへ向かう。}`
-`{ruby:The only ones left in the rose garden were Battler, who was waving at George, ......and Ange, who was still staring at the ground and holding Battler's hand.:薔薇庭園には、譲治に手を振る戦人と、……その戦人と手を繋ぎながら、ずっと俯いている縁寿が残った。}`
-`{ruby:For the past few minutes, he had repeatedly asked Ange what was wrong.:どうした縁寿？　……という言葉は、さっきからずっと掛けている。}`
-`{ruby:He realized that this wasn't anything like a stomachache, or something obvious that had put her into a bad mood.:お腹が痛いとか、明白な理由があって不機嫌であるとか、……そういうのでないことはわかっている。}`
-`{ruby:However, young girls sometimes get upset for reasons that only they can understand.:でも、幼い少女には、彼女にしかわかりえぬ理由で機嫌を崩すことだって、時にはあるはずだ。}`
-`{ruby:Battler knew this, so he didn't rush her in any way,:戦人はそれを理解しているから、急かすことは一切せず、}`
-`{ruby:and continued to gaze around the beautiful rose garden, holding her hand.:妹の手を握り締めたまま、美しい薔薇庭園の景色を眺めているのだった。}`
+`{ruby:The only ones left in the rose garden were Battler, who was waving at:薔薇庭園には、譲治に手を振る戦人と、……その戦人と}{ruby:George, ......and Ange, who was still staring at the ground and holding Battler's hand.:手を繋ぎながら、ずっと俯いている縁寿が残った。}`
+`{ruby:For the past few minutes, he:どうした縁寿？　……という言葉は、}{ruby:had repeatedly asked Ange what was wrong.:さっきからずっと掛けている。}`
+`{ruby:He realized that this wasn't anything like a stomachache, or:お腹が痛いとか、明白な理由があって不機嫌であると}{ruby:something obvious that had put her into a bad mood.:か、……そういうのでないことはわかっている。}`
+`{ruby:However, young girls sometimes get upset:でも、幼い少女には、彼女にしかわかりえぬ理由で}{ruby:for reasons that only they can understand.:機嫌を崩すことだって、時にはあるはずだ。}`
+`{ruby:Battler knew this, so he:戦人はそれを理解しているから}{ruby:didn't rush her in any way,:、急かすことは一切せず、}`
+`{ruby:and continued to gaze around the:妹の手を握り締めたまま、美しい薔薇庭}{ruby:beautiful rose garden, holding her hand.:園の景色を眺めているのだった。}`
 `{ruby:"............Onii‐chan.":「…………お兄ちゃん」}`
 `{ruby:"......What is it?":「……どうした」}`
 `{ruby:"Where...:「どこ。}`
 `{ruby:.........is this place?":…………ここ」}`
 `{ruby:She asked the question...:縁寿は問う。}`
-`{ruby:as though she was talking about something on the other side of the silver screen.:全てが銀幕の向こうの出来事かのように。}`
-`{ruby:Though Battler understood what that question meant, he played dumb.:戦人は、その問いの意味を理解しながらも、素っ気無く言った。}`
+`{ruby:as though she was talking about something:全てが銀幕の向こうの出}{ruby:on the other side of the silver screen.:来事かのように。}`
+`{ruby:Though Battler understood what that:戦人は、その問いの意味を理解しな}{ruby:question meant, he played dumb.:がらも、素っ気無く言った。}`
 `{ruby:"What do you mean, where?:「どこって。}`
 `{ruby:It's Rokkenjima.":六軒島だろ」}`
 `{ruby:"No, it isn't.":「違うわ」}`
 `{ruby:"Yes, it is.":「違わねぇさ」}`
-`{ruby:"How is this supposed to be Rokkenjima?":「これのどこが、六軒島だっていうのよ」}`
-`{ruby:"It's the Rokkenjima of October 4th, 1986.:「１９８６年１０月４日の。}`
-`{ruby:......The Rokkenjima you've wanted to see for so long.":……お前が知りたがってた六軒島だ」}`
+`{ruby:"How is this:「これのどこが、六軒島}{ruby:supposed to be Rokkenjima?":だっていうのよ」}`
+`{ruby:"It's the Rokkenjima:「１９８６年１０}{ruby:of October 4th, 1986.:月４日の。}`
+`{ruby:......The Rokkenjima you've wanted:……お前が知りたがっ}{ruby:to see for so long.":てた六軒島だ」}`
 `{ruby:"That's a lie.":「嘘よ」}`
 `{ruby:"Why do you say that?":「どうして」}`
 `{ruby:"This is all.........a pack of lies.":「こんなの、………嘘っぱちだわ」}`
-`{ruby:Ange wrenched her hand from her brother's grip.:縁寿は兄に握られていた手を払う。}`
-`{ruby:{n}That hand hit a rose and sent flower petals flying.:{n}その手が茂みの薔薇を叩き、はらりと花びらを散らせた。}`
+`{ruby:Ange wrenched her hand:縁寿は兄に握られて}{ruby:from her brother's grip.:いた手を払う。}`
+`{ruby:{n}That hand hit a rose:{n}その手が茂みの薔薇を叩き、}{ruby:and sent flower petals flying.:はらりと花びらを散らせた。}`
 `{ruby:"I don't lie.":「俺は嘘なんか吐かねぇ」}`
-`{ruby:"How is this supposed to be the truth?!":「これのどこが真実だって言うのっ」}`
+`{ruby:"How is this supposed:「これのどこが真実だ}{ruby:to be the truth?!":って言うのっ」}`
 `{ruby:Ange spat those words out.:縁寿がそう吐き捨てる。}`
-`{ruby:However, Battler's expression remained calm and composed.:しかし戦人の表情は、静かな落ち着いたものだった。}`
+`{ruby:However, Battler's expression:しかし戦人の表情は、静かな}{ruby:remained calm and composed.:落ち着いたものだった。}`
 `{ruby:"......What don't you like about it?":「……何が気に入らない？」}`
 `{ruby:"For one, Ushiromiya Kinzo!:「右代宮金蔵って！}`
-`{ruby:There's no way he was like that and you know it!":あんな人のわけないでしょう？！」}`
-`{ruby:"He's just seen his grandchildren again for the first time in a long while.:「孫たちとしばらくぶりに再会したなら。}`
-`{ruby:.........I think any grandfather would smile in that situation.":………どこの祖父さんだって目尻を下げるだろうぜ？」}`
-`{ruby:"Not Ushiromiya Kinzo, he wasn't that kind of person!!:「少なくとも右代宮金蔵は、そういう人じゃなかったでしょう？！}`
+`{ruby:There's no way he was:あんな人のわけないで}{ruby:like that and you know it!":しょう？！」}`
+`{ruby:"He's just seen his grandchildren again for:「孫たちとしばらくぶり}{ruby:the first time in a long while.:に再会したなら。}`
+`{ruby:.........I think any grandfather:………どこの祖父さんだって目}{ruby:would smile in that situation.":尻を下げるだろうぜ？」}`
+`{ruby:"Not Ushiromiya Kinzo, he:「少なくとも右代宮金蔵は、そうい}{ruby:wasn't that kind of person!!:う人じゃなかったでしょう？！}`
 `{ruby:Ushiromiya Kinzo was......":右代宮金蔵ってのはッ…！」}`
-`{ruby:"Strict, discontented, short‐tempered, and quick to anger?":「厳格で気難しく、短気で怒りっぽい？」}`
+`{ruby:"Strict, discontented, short‐tempered,:「厳格で気難しく、短気}{ruby:and quick to anger?":で怒りっぽい？」}`
 `{ruby:"So you do understand!!:「わかってるじゃない！！}`
 `{ruby:What was all that back there?!!:何よ、あれ！！}`
-`{ruby:How was that supposed to be Ushiromiya Kinzo?!:あれのどこが、右代宮金蔵なのよ？！}`
+`{ruby:How was that supposed:あれのどこが、右代宮}{ruby:to be Ushiromiya Kinzo?!:金蔵なのよ？！}`
 `{ruby:Halloween?:ハロウィン？}`
 `{ruby:Exchanging presents?!:プレゼント交換？！}`
 `{ruby:What the hell is that?!!:何よ、それッ！！}`
-`{ruby:That's nothing like Ushiromiya Kinzo... This is nothing like Rokkenjima...!!":こんなの、右代宮金蔵じゃない、六軒島じゃない…！！」}`
+`{ruby:That's nothing like Ushiromiya Kinzo...:こんなの、右代宮金蔵じゃない、}{ruby:This is nothing like Rokkenjima...!!":六軒島じゃない…！！」}`
 `{ruby:".........Don't you remember, Ange?":「………縁寿は、覚えてないのか」}`
 `{ruby:"Remember what...?!":「何がよ…！」}`
 `{ruby:"We did that every year, didn't we?":「こんなのは、いつも恒例だったじゃねぇか」}`
 `{ruby:"Every year...? That?!":「恒例…？　これが？！」}`
 `{ruby:"Well, I guess it's no surprise.:「そうだよな。}`
-`{ruby:The last time you went to a family conference, you weren't even six years old.:お前が親族会議に来たのは、６歳より前なんだもんな…。}`
-`{ruby:......So, it's only natural that you wouldn't remember.":……なら、覚えてなくても無理はない」}`
+`{ruby:The last time you went to a:お前が親族会議に来たのは、６}{ruby:family conference, you weren't even six years old.:歳より前なんだもんな…。}`
+`{ruby:......So, it's only natural:……なら、覚えてなく}{ruby:that you wouldn't remember.":ても無理はない」}`
 `{ruby:"It's...only natural that...:「覚えてなくてもって、}`
 `{ruby:............":…………」}`
-`{ruby:Ange understood what her brother was trying to say.:縁寿は、兄が言おうとしていることを理解はする。}`
-`{ruby:......However, she couldn't accept it.:……でも、それを受け容れることは出来なかった。}`
-`{ruby:"It's true that Ushiromiya Kinzo was a strict man.:「右代宮金蔵は、確かに厳しい人だったさ。}`
-`{ruby:When he was younger, he really did lash out at his kids, apparently.:若かった時は、相当、キツく息子たちに当たっていたらしい。}`
-`{ruby:......It was pretty traumatic for the old bastard and his siblings... You could say they're still a bit scared of him even now,:……それが半ばトラウマになって、クソ親父たちが未だ、祖父さまのことをおっかながっていることは、}`
-`{ruby:......and, well, you wouldn't be wrong.":……まぁ、確かにハズレじゃない」}`
-`{ruby:The grand tale of how Kinzo had restored the Ushiromiya family was more than enough to paint him as a rigid, terrifying man.:金蔵の右代宮家復興を巡る豪腕の物語は、彼を厳格で恐ろしい人物であると修飾するには、充分なものだった。}`
+`{ruby:Ange understood what her:縁寿は、兄が言おうとしてい}{ruby:brother was trying to say.:ることを理解はする。}`
+`{ruby:......However, she:……でも、それを受け容れる}{ruby:couldn't accept it.:ことは出来なかった。}`
+`{ruby:"It's true that Ushiromiya:「右代宮金蔵は、確かに}{ruby:Kinzo was a strict man.:厳しい人だったさ。}`
+`{ruby:When he was younger, he really:若かった時は、相当、キツく息子}{ruby:did lash out at his kids, apparently.:たちに当たっていたらしい。}`
+`{ruby:......It was pretty traumatic for the old bastard and his siblings...:……それが半ばトラウマになって、クソ親父たちが未だ}{ruby:You could say they're still a bit scared of him even now,:、祖父さまのことをおっかながっていることは、}`
+`{ruby:......and, well, you:……まぁ、確かにハ}{ruby:wouldn't be wrong.":ズレじゃない」}`
+`{ruby:The grand tale of how Kinzo had restored the Ushiromiya family:金蔵の右代宮家復興を巡る豪腕の物語は、彼を厳格で恐ろ}{ruby:was more than enough to paint him as a rigid, terrifying man.:しい人物であると修飾するには、充分なものだった。}`
 `{ruby:Furthermore, Kinzo was an investor.:それに、金蔵は投資家でもある。}`
-`{ruby:All the legends and tales that made him seem more mysterious had probably worked in his businesses' favor.:彼をより神秘的に見せる数々の伝説や武勇伝は、そのビジネスに有利に働いただろう。}`
-`{ruby:......At times, Kinzo may even have acted out this part people expected, endeavoring to make his presence all the more overpowering.:……金蔵も、自分の存在感をより高めるため、望んで彼らが期待する人物像を演じたところも、あったかもしれない。}`
-`{ruby:That's why the world at large spoke of Ushiromiya Kinzo as a strict, short‐tempered man.:だから、世間が右代宮金蔵を語る時、それは厳格で短気で怒りっぽく。}`
-`{ruby:And they even thought of him as a fickle, bold, incomprehensible eccentric...:そして気紛れで豪胆で理解し難い奇人であるかのように語られた…。}`
-`{ruby:"But that was just......the face Grandfather showed to the world.:「でもそれは、……祖父さまの外の顔だ。}`
-`{ruby:That's not how he acted in private, alone with his family.":右代宮家で、親類一同、水入らずで過ごす時の顔じゃない」}`
-`{ruby:"......Are you saying that weeping old man who doted on his grandchildren...:「……あの、目尻を下げて孫たちを溺愛する、涙腺の緩んだ老人が、}`
+`{ruby:All the legends and tales that made him seem:彼をより神秘的に見せる数々の伝説や武勇伝は}{ruby:more mysterious had probably worked in his businesses' favor.:、そのビジネスに有利に働いただろう。}`
+`{ruby:......At times, Kinzo may even have acted out this part:……金蔵も、自分の存在感をより高めるため、望んで彼らが期}{ruby:people expected, endeavoring to make his presence all the more overpowering.:待する人物像を演じたところも、あったかもしれない。}`
+`{ruby:That's why the world at large spoke:だから、世間が右代宮金蔵を語る時、}{ruby:of Ushiromiya Kinzo as a strict, short‐tempered man.:それは厳格で短気で怒りっぽく。}`
+`{ruby:And they even thought of him:そして気紛れで豪胆で理解し難い奇人}{ruby:as a fickle, bold, incomprehensible eccentric...:であるかのように語られた…。}`
+`{ruby:"But that was just......the face:「でもそれは、……祖父}{ruby:Grandfather showed to the world.:さまの外の顔だ。}`
+`{ruby:That's not how he acted:右代宮家で、親類一同、水入らず}{ruby:in private, alone with his family.":で過ごす時の顔じゃない」}`
+`{ruby:"......Are you saying that weeping old:「……あの、目尻を下げて孫たちを溺}{ruby:man who doted on his grandchildren...:愛する、涙腺の緩んだ老人が、}`
 `{ruby:...is the real Ushiromiya Kinzo?":……右代宮金蔵の、本当の姿だっていうの」}`
-`{ruby:"He must have played with you and patted your head many times.:「縁寿だって、遊んでもらったり、頭を撫でてもらったりしたことがあるはずだ。}`
+`{ruby:"He must have played with you:「縁寿だって、遊んでもらったり、頭を撫で}{ruby:and patted your head many times.:てもらったりしたことがあるはずだ。}`
 `{ruby:Do you really not remember......?":本当に覚えてないのか……？」}`
 `{ruby:"..............................":「…………………………」}`
-`{ruby:Things like that......might have happened once or twice.:そう言ったことが、……あったかもしれない。}`
-`{ruby:But that would only have been a mere whim of Kinzo's......:しかしそれは、金蔵のちょっとした気紛れで……。}`
+`{ruby:Things like that......might have:そう言ったことが、……あ}{ruby:happened once or twice.:ったかもしれない。}`
+`{ruby:But that would only have:しかしそれは、金蔵のちょっ}{ruby:been a mere whim of Kinzo's......:とした気紛れで……。}`
 `{ruby:My parents told me all the time.:いつも両親に言われてた。}`
-`{ruby:......Grandfather is a terrifying person, so make sure you don't mess up.:……お祖父さまはとても厳しい人だから、粗相がないようにって。}`
-`{ruby:......They always, always said......that he's very scary, so take care......:……怖い人だから、くれぐれもって、……いつも、……いつも……。}`
+`{ruby:......Grandfather is a terrifying person, so:……お祖父さまはとても厳しい人だ}{ruby:make sure you don't mess up.:から、粗相がないようにって。}`
+`{ruby:......They always, always said......that he's:……怖い人だから、くれぐれもって、}{ruby:very scary, so take care......:……いつも、……いつも……。}`
 `{ruby:".........And that means...:「………だから…。}`
 `{ruby:......he was a scary person...":………怖い人なのよ…」}`
-`{ruby:"When you were little, you never questioned your parents or what they told you... I guess I could say you were an obedient kid,:「幼いお前は、親の言い付けを過剰に聞いて鵜呑みにする、よく言えば素直な、}`
-`{ruby:......but I could also say you had an overactive imagination.:……悪く言えば思い込みの激しい子だった。}`
-`{ruby:......Dad and the others were just trying to make you realize how important it was to be polite.":……親父たちは、行儀よくしてるようにと念を押していただけなんだ」}`
+`{ruby:"When you were little, you never questioned your parents or what they:「幼いお前は、親の言い付けを過剰に聞い}{ruby:told you... I guess I could say you were an obedient kid,:て鵜呑みにする、よく言えば素直な、}`
+`{ruby:......but I could also say:……悪く言えば思い込み}{ruby:you had an overactive imagination.:の激しい子だった。}`
+`{ruby:......Dad and the others were just trying to make:……親父たちは、行儀よくしてるよう}{ruby:you realize how important it was to be polite.":にと念を押していただけなんだ」}`
 `{ruby:"......I, ......I saw it, though!:「……私、……見てたもん！}`
 `{ruby:I knew about it!:知ってたもん！}`
-`{ruby:I knew that Ushiromiya Kinzo was a scary person!:右代宮金蔵は恐ろしい人だ、って！}`
-`{ruby:I've even seen him yelling in anger!!:怒鳴ってるところを見たことがあるもん！！}`
-`{ruby:I remember that, I'll never forget it!!":私は覚えてる、忘れない！！」}`
-`{ruby:"Well, like you saw just now, Grandfather could be a bit abrupt at times.:「さっきも見た通り、祖父さまは唐突なお人だ。}`
-`{ruby:......He might just have been trying to surprise you.:……ひょっとすると、何かを驚かそうとしたのかもしれない。}`
-`{ruby:Or, it might just have slipped out when he was having a serious discussion with his kids.":あるいは、親たちとの真剣な議論の中で、つい怒鳴ってしまったこともあったかもしれない」}`
-`{ruby:"And you think I just got scared for no reason...:「それを、私が勝手に怯えて、}`
+`{ruby:I knew that Ushiromiya:右代宮金蔵は恐ろしい}{ruby:Kinzo was a scary person!:人だ、って！}`
+`{ruby:I've even seen:怒鳴ってるところを見たこ}{ruby:him yelling in anger!!:とがあるもん！！}`
+`{ruby:I remember that,:私は覚えてる、忘れ}{ruby:I'll never forget it!!":ない！！」}`
+`{ruby:"Well, like you saw just now, Grandfather:「さっきも見た通り、祖父}{ruby:could be a bit abrupt at times.:さまは唐突なお人だ。}`
+`{ruby:......He might just have:……ひょっとすると、何かを驚か}{ruby:been trying to surprise you.:そうとしたのかもしれない。}`
+`{ruby:Or, it might just have slipped out when:あるいは、親たちとの真剣な議論の中で、つい怒}{ruby:he was having a serious discussion with his kids.":鳴ってしまったこともあったかもしれない」}`
+`{ruby:"And you think I just:「それを、私が勝}{ruby:got scared for no reason...:手に怯えて、}`
 `{ruby:...and got the wrong idea?":……勝手にそうだと思い込んだって言うの？」}`
 `{ruby:"...........................":「………………………」}`
 `{ruby:"That can't be! That can't be true!!:「そんなはずないわ、そんなはずない！}`
 `{ruby:I mean, I still remember it!:だって私は覚えてるもの、忘れない！}`
-`{ruby:I know I saw Ushiromiya Kinzo yelling and being scary!:ちゃんと見たわ、右代宮金蔵が怒鳴ってる恐ろしいところを！}`
-`{ruby:Mom and Dad were terrified too, so I know I'm right!!":父さんも母さんも怯えていたわ、だからわかるの、私はわかる！！」}`
-`{ruby:".........The impression you had of Grandfather when you were young remained with you, and that impression grew inside you as you grew up.":「………幼いお前が抱いた祖父さまの印象は、そのまま残り、お前の成長と共に膨らんだ」}`
-`{ruby:How many times did Ange see Kinzo in her life?:縁寿は金蔵に何度出会ったというのだろう？}`
-`{ruby:{n}How old was she the last time she saw him?:{n}最後に出会ったのは、いくつの時だったというのだろう？}`
-`{ruby:Ange, who got sick easily when under pressure, couldn't have gone to Rokkenjima often.:緊張して体調を崩しやすかった縁寿が、何度も六軒島へ行けたとは思えない。}`
-`{ruby:And, since she was absent for the family conference when she was six, her last memories of him must have come from when she was just five years old.:そして、６歳の親族会議は欠席したのだから、その前に出会ったとしても、それは５歳の頃の記憶だ。}`
+`{ruby:I know I saw Ushiromiya:ちゃんと見たわ、右代宮金蔵が怒鳴}{ruby:Kinzo yelling and being scary!:ってる恐ろしいところを！}`
+`{ruby:Mom and Dad were terrified:父さんも母さんも怯えていたわ、だか}{ruby:too, so I know I'm right!!":らわかるの、私はわかる！！」}`
+`{ruby:".........The impression you had of Grandfather when you were young remained:「………幼いお前が抱いた祖父さまの印象は、そ}{ruby:with you, and that impression grew inside you as you grew up.":のまま残り、お前の成長と共に膨らんだ」}`
+`{ruby:How many times did Ange:縁寿は金蔵に何度出会っ}{ruby:see Kinzo in her life?:たというのだろう？}`
+`{ruby:{n}How old was she the:{n}最後に出会ったのは、いくつ}{ruby:last time she saw him?:の時だったというのだろう？}`
+`{ruby:Ange, who got sick easily when under:緊張して体調を崩しやすかった縁寿が、何}{ruby:pressure, couldn't have gone to Rokkenjima often.:度も六軒島へ行けたとは思えない。}`
+`{ruby:And, since she was absent for the family conference when she was six, her:そして、６歳の親族会議は欠席したのだから、その前}{ruby:last memories of him must have come from when she was just five years old.:に出会ったとしても、それは５歳の頃の記憶だ。}`
 `{ruby:"B‐......but even you...:「お、……お兄ちゃんだって、}`
-`{ruby:haven't seen Ushiromiya Kinzo for six years.":６年間、右代宮金蔵には会ってないじゃない」}`
+`{ruby:haven't seen Ushiromiya:６年間、右代宮金蔵には会}{ruby:Kinzo for six years.":ってないじゃない」}`
 `{ruby:"That's right.:「そうだな。}`
-`{ruby:But, when I finally came back after six years,:でも、６年ぶりに帰って来て、}`
-`{ruby:......I saw that Grandfather hadn't changed in the slightest.":……祖父さまは６年経っても、まったく変わってなかったって知ったぜ」}`
-`{ruby:"Kinzo was......fickle, so you could never understand what he was thinking,:「金蔵は、……気紛れで何を考えてるかわからなくて、}`
-`{ruby:......and he was an eccentric with a creepy love for the occult, and......":……不気味なオカルト趣味の奇人で……」}`
-`{ruby:"It's true that he had a love for the occult.:「オカルト趣味なのは間違いない。}`
-`{ruby:Yeah, it was a bit of a strange hobby for him to get into in his final years.:余生の趣味にしちゃ、ちょいと珍しいものだったのは事実だ。}`
-`{ruby:......I'll admit that his hobby of collecting strange objects to spook his grandchildren with wasn't exactly praiseworthy.":……その不気味な収集品で孫を怖がらせてからかう、悪い趣味があったことは、俺も認める」}`
-`{ruby:Even Battler had been pranked by Kinzo in the past.:戦人もかつて金蔵に、からかわれたことがある。}`
-`{ruby:He showed me an attaché case with seven strange stakes in it...:おかしな杭が７本も詰まったアタッシュケースを見せられ、}`
-`{ruby:...and said something about how witches in the Middle Ages used them in sacrificial rituals to gouge out the heart.:……これは中世の昔に、魔女が生贄の儀式で、心臓を抉るのに使った杭だ、みたいなことを。}`
-`{ruby:When Kinzo first showed me those, I was pretty frightened, but looking back on it, it really was the kind of prank that could only fool a child.:脅された当時はそこそこに怖かったが、今にして思うと、文字通りの子供騙しだ。}`
-`{ruby:Grandfather only scared his grandchildren......because he wanted to joke around with them.:祖父さまは孫とじゃれ合いたくて、……怖がらせてからかっていただけなんだ。}`
-`{ruby:"I'd be willing to bet......that Grandfather pulled a prank like that on you too.:「祖父さまはきっと、……お前にも同じことをしてからかったと思う。}`
-`{ruby:It's no surprise that, young as you were, you let that scare you and convince you that Grandfather was a strange, terrifying person.":幼いお前が、それに怯えて、祖父さまを不気味で恐ろしい人だと思い込んだとしても、無理もない話だと思う」}`
-`{ruby:".........I, ......I don't know what you're talking about, ......Onii‐chan......":「………お、……お兄ちゃんが何を言ってるのか、……わからないっ……」}`
-`{ruby:Ange bit her lower lip and stared at the ground.:縁寿は下唇を噛みながら俯く。}`
+`{ruby:But, when I finally:でも、６年ぶりに}{ruby:came back after six years,:帰って来て、}`
+`{ruby:......I saw that Grandfather:……祖父さまは６年経っても、まったく}{ruby:hadn't changed in the slightest.":変わってなかったって知ったぜ」}`
+`{ruby:"Kinzo was......fickle, so you could:「金蔵は、……気紛れで何を考}{ruby:never understand what he was thinking,:えてるかわからなくて、}`
+`{ruby:......and he was an eccentric with:……不気味なオカルト趣}{ruby:a creepy love for the occult, and......":味の奇人で……」}`
+`{ruby:"It's true that he had:「オカルト趣味なの}{ruby:a love for the occult.:は間違いない。}`
+`{ruby:Yeah, it was a bit of a strange hobby:余生の趣味にしちゃ、ちょいと珍}{ruby:for him to get into in his final years.:しいものだったのは事実だ。}`
+`{ruby:......I'll admit that his hobby of collecting strange:……その不気味な収集品で孫を怖がらせてからか}{ruby:objects to spook his grandchildren with wasn't exactly praiseworthy.":う、悪い趣味があったことは、俺も認める」}`
+`{ruby:Even Battler had been pranked:戦人もかつて金蔵に、から}{ruby:by Kinzo in the past.:かわれたことがある。}`
+`{ruby:He showed me an attaché case:おかしな杭が７本も詰まったアタ}{ruby:with seven strange stakes in it...:ッシュケースを見せられ、}`
+`{ruby:...and said something about how witches in the Middle Ages:……これは中世の昔に、魔女が生贄の儀式で、心}{ruby:used them in sacrificial rituals to gouge out the heart.:臓を抉るのに使った杭だ、みたいなことを。}`
+`{ruby:When Kinzo first showed me those, I was pretty frightened, but looking back on:脅された当時はそこそこに怖かったが、今に}{ruby:it, it really was the kind of prank that could only fool a child.:して思うと、文字通りの子供騙しだ。}`
+`{ruby:Grandfather only scared his grandchildren......because he:祖父さまは孫とじゃれ合いたくて、……怖}{ruby:wanted to joke around with them.:がらせてからかっていただけなんだ。}`
+`{ruby:"I'd be willing to bet......that Grandfather pulled:「祖父さまはきっと、……お前にも同}{ruby:a prank like that on you too.:じことをしてからかったと思う。}`
+`{ruby:It's no surprise that, young as you were, you let that:幼いお前が、それに怯えて、祖父さまを不気味で恐ろしい}{ruby:scare you and convince you that Grandfather was a strange, terrifying person.":人だと思い込んだとしても、無理もない話だと思う」}`
+`{ruby:".........I, ......I don't know:「………お、……お兄ちゃんが何を言っ}{ruby:what you're talking about, ......Onii‐chan......":てるのか、……わからないっ……」}`
+`{ruby:Ange bit her lower lip:縁寿は下唇を噛み}{ruby:and stared at the ground.:ながら俯く。}`
 `{ruby:She said she didn't understand,:何を言ってるかわからないと言っておきながら、}`
-`{ruby:......but in truth, she understood perfectly, and was refusing to accept it.:……理解し、それを受け容れまいと、抗っているようだった。}`
-`{ruby:"Remember how we traded Halloween presents in the parlor just now?":「さっき、客間でハロウィンのプレゼント交換があったな」}`
+`{ruby:......but in truth, she understood perfectly,:……理解し、それを受け容れまい}{ruby:and was refusing to accept it.:と、抗っているようだった。}`
+`{ruby:"Remember how we traded Halloween:「さっき、客間でハロウィンのプ}{ruby:presents in the parlor just now?":レゼント交換があったな」}`
 `{ruby:"......What was that all about?:「……何よ、あれ。}`
-`{ruby:The Ushiromiya family never did anything that sentimental...!":あんな甘ったるいこと、右代宮家でやるわけがない…！」}`
-`{ruby:"You......don't remember anything, huh...":「お前は、……まるで覚えてないんだな」}`
-`{ruby:"Are you saying I got presents once too?!:「私もかつて、プレゼントをもらったことがあるというの？！}`
-`{ruby:I don't remember anything like that!!:覚えてない！！}`
+`{ruby:The Ushiromiya family never:あんな甘ったるいこと、右代宮}{ruby:did anything that sentimental...!":家でやるわけがない…！」}`
+`{ruby:"You......don't remember:「お前は、……まるで覚}{ruby:anything, huh...":えてないんだな」}`
+`{ruby:"Are you saying I:「私もかつて、プレゼントをもら}{ruby:got presents once too?!:ったことがあるというの？！}`
+`{ruby:I don't remember:覚えてない}{ruby:anything like that!!:！！}`
 `{ruby:That could never happen!":そんなのあるわけがないッ！」}`
-`{ruby:"......Do you really think that Grandfather, a man who loved the occult and Western traditions, wouldn't celebrate Halloween?:「……オカルト好きで西洋かぶれの祖父さまが、ハロウィンをやらないと思うか？}`
-`{ruby:......Grandfather's "Happy Halloween" was pretty much the standard greeting at our family conferences.:……祖父さまのハッピーハロウィンは、もう親族会議の挨拶みたいなもんだったぜ。}`
+`{ruby:"......Do you really think that Grandfather, a man who:「……オカルト好きで西洋かぶれの祖父さま}{ruby:loved the occult and Western traditions, wouldn't celebrate Halloween?:が、ハロウィンをやらないと思うか？}`
+`{ruby:......Grandfather's "Happy Halloween" was pretty much:……祖父さまのハッピーハロウィンは、もう親}{ruby:the standard greeting at our family conferences.:族会議の挨拶みたいなもんだったぜ。}`
 `{ruby:......You must have been given one.":……縁寿だってもらってるはずだ」}`
 `{ruby:".........Youth can be so cruel.:「………幼いってのは残酷だな。}`
-`{ruby:Grandfather must have put all his heart into choosing that present for you, ......but it looks like your heart didn't remember.":祖父さまが心を込めて選んだろうプレゼントも、……お前の心にはまったく残らなかった」}`
-`{ruby:"Are you saying that I was just too young to remember,:「私が幼かったから覚えてないだけで……、}`
-`{ruby:......and that......and {i:that}......was the truth of October 4th?!":あれが、……あれがッ、……真実の１０月４日だというのッ？！」}`
+`{ruby:Grandfather must have put all his heart into choosing that:祖父さまが心を込めて選んだろうプレゼントも、}{ruby:present for you, ......but it looks like your heart didn't remember.":……お前の心にはまったく残らなかった」}`
+`{ruby:"Are you saying that I:「私が幼かったから覚え}{ruby:was just too young to remember,:てないだけで……、}`
+`{ruby:......and that......and {i:that}......was the:あれが、……あれがッ、……真実の}{ruby:truth of October 4th?!":１０月４日だというのッ？！」}`
 `{ruby:That day, just like six years before,:あの日も、６年前と何も変わらず、}`
-`{ruby:Grandfather entered the parlor with a cry of "Happy Halloween".:祖父さまはハッピーハロウィンの声とともに客間にやって来たよ。}`
-`{ruby:Then, he and I traded presents, ......as he shed tears over our long‐awaited reunion after a six‐year gap.:そして、俺との６年ぶりの再会に涙を零してくれながら、……俺とプレゼントの交換をした。}`
-`{ruby:......Grandfather was very sad that you weren't able to come.:……祖父さまは、縁寿が来れなかったことを残念がっていたよ。}`
-`{ruby:So, he gave your present to Kyrie‐san, telling her to make sure that you got it...:だから、縁寿にぜひ渡してくれと、霧江さんにプレゼントボックスを預けていた…。}`
-`{ruby:"I never heard anything about a present like that!:「そんなプレゼント、私は知らない、}`
+`{ruby:Grandfather entered the parlor with:祖父さまはハッピーハロウィンの声}{ruby:a cry of "Happy Halloween".:とともに客間にやって来たよ。}`
+`{ruby:Then, he and I traded presents, ......as he shed:そして、俺との６年ぶりの再会に涙を零してくれ}{ruby:tears over our long‐awaited reunion after a six‐year gap.:ながら、……俺とプレゼントの交換をした。}`
+`{ruby:......Grandfather was very sad that:……祖父さまは、縁寿が来れなかっ}{ruby:you weren't able to come.:たことを残念がっていたよ。}`
+`{ruby:So, he gave your present to Kyrie‐san, telling:だから、縁寿にぜひ渡してくれと、霧江さん}{ruby:her to make sure that you got it...:にプレゼントボックスを預けていた…。}`
+`{ruby:"I never heard anything:「そんなプレゼント、}{ruby:about a present like that!:私は知らない、}`
 `{ruby:I never got one!!":受け取ってない…！！」}`
 `{ruby:"......True.:「……そうだな。}`
 `{ruby:......She never...had the chance...":……お前に届けることは、出来なかったな…」}`
 `{ruby:"I don't believe it!!:「私は信じないッ！！}`
-`{ruby:I won't believe that was Ushiromiya Kinzo!:あんな右代宮金蔵なんて、信じない！}`
-`{ruby:Then what about the family conference itself?!:じゃあ親族会議はどうなの？！}`
-`{ruby:Wasn't that a tense argument over the distribution of the inheritance?!":遺産分配のためのきな臭いものじゃなかったの？！」}`
-`{ruby:"All of the adult siblings were in money trouble!:「親族兄弟たちはみんな資金繰りに困っていた！}`
-`{ruby:They all hungered for Kinzo's inheritance money...!":そのために金蔵の遺産を渇望していた…！」}`
-`{ruby:"............Ange, where did you hear that from?":「…………縁寿はそんなことを、どこで知った？」}`
+`{ruby:I won't believe:あんな右代宮金蔵なん}{ruby:that was Ushiromiya Kinzo!:て、信じない！}`
+`{ruby:Then what about:じゃあ親族会議はど}{ruby:the family conference itself?!:うなの？！}`
+`{ruby:Wasn't that a tense argument:遺産分配のためのきな臭いもの}{ruby:over the distribution of the inheritance?!":じゃなかったの？！」}`
+`{ruby:"All of the adult:「親族兄弟たちはみんな資}{ruby:siblings were in money trouble!:金繰りに困っていた！}`
+`{ruby:They all hungered:そのために金蔵の遺産を渇}{ruby:for Kinzo's inheritance money...!":望していた…！」}`
+`{ruby:"............Ange, where did:「…………縁寿はそんなこと}{ruby:you hear that from?":を、どこで知った？」}`
 `{ruby:"What do you mean, where?!:「どこって、……そうでしょ？！}`
 `{ruby:It's the truth, isn't it?!":それが真実でしょう？！」}`
-`{ruby:"Do you think Dad would talk to you about financial difficulties with his company when you were that age...?:「幼い縁寿に、親父が自分の会社の経営が苦しいなどと相談すると思うか…？}`
+`{ruby:"Do you think Dad would talk to you about:「幼い縁寿に、親父が自分の会社の経営が}{ruby:financial difficulties with his company when you were that age...?:苦しいなどと相談すると思うか…？}`
 `{ruby:And not just Dad.:親父だけじゃない。}`
-`{ruby:Even if Uncle Krauss, Auntie Eva, and Auntie Rosa talked about how they were in money trouble and wanted Kinzo's inheritance money,:蔵臼伯父さんや絵羽伯母さん、楼座叔母さんが、……幼い縁寿に、資金繰りに困っているから早く遺産がほしいなんて話を、}`
-`{ruby:......do you really think they'd talk about it in front of you...?":……仮にするにしても、お前がいる前ですると思うか…？」}`
+`{ruby:Even if Uncle Krauss, Auntie Eva, and Auntie Rosa talked about:蔵臼伯父さんや絵羽伯母さん、楼座叔母さんが、……幼い縁寿に}{ruby:how they were in money trouble and wanted Kinzo's inheritance money,:、資金繰りに困っているから早く遺産がほしいなんて話を、}`
+`{ruby:......do you really think they'd talk:……仮にするにしても、お前がい}{ruby:about it in front of you...?":る前ですると思うか…？」}`
 `{ruby:"B‐but...:「だ、だって、}`
 `{ruby:......But it's true, isn't it?!?!":……でも本当でしょう？！？！」}`
 `{ruby:That was the bottom line.:結論から言えば、事実だ。}`
 `{ruby:{n}Ange's words were not mistaken.:{n}縁寿の言うことに、間違いはない。}`
-`{ruby:Not only Rudolf, but Krauss, Hideyoshi, and Rosa as well...all had companies in money trouble.:留弗夫だけでなく、蔵臼も秀吉も楼座も、みんな会社の資金繰りに困っていた。}`
-`{ruby:......People started talking about the Rokkenjima Explosion Accident as though it was some sort of conspiracy,:……六軒島爆発事故が、まことしやかに陰謀説を囁かれるようになり、}`
-`{ruby:......and a "mystery" imagined by the public covered the island.:……世間が妄想したミステリーで島を覆うようになり。}`
-`{ruby:Weekly magazines and television shows researched the circumstances of Kinzo's children at the time, and in the future where Ange lived, that research had been made public.:週刊誌やテレビ番組が、親族兄弟たちの当時の内情を調べ、縁寿のいる未来に、それを発表したからだ。}`
-`{ruby:".........You learned about all of that.........after 1986.":「………お前がそれを知ったのは、………１９８６年よりも、後のことだ」}`
+`{ruby:Not only Rudolf, but Krauss, Hideyoshi, and:留弗夫だけでなく、蔵臼も秀吉も楼座も、}{ruby:Rosa as well...all had companies in money trouble.:みんな会社の資金繰りに困っていた。}`
+`{ruby:......People started talking about the Rokkenjima Explosion Accident:……六軒島爆発事故が、まことしやか}{ruby:as though it was some sort of conspiracy,:に陰謀説を囁かれるようになり、}`
+`{ruby:......and a "mystery" imagined by:……世間が妄想したミステリー}{ruby:the public covered the island.:で島を覆うようになり。}`
+`{ruby:Weekly magazines and television shows researched the circumstances of Kinzo's children at the:週刊誌やテレビ番組が、親族兄弟たちの当時の内情を調}{ruby:time, and in the future where Ange lived, that research had been made public.:べ、縁寿のいる未来に、それを発表したからだ。}`
+`{ruby:".........You learned about:「………お前がそれを知ったのは、……}{ruby:all of that.........after 1986.":…１９８６年よりも、後のことだ」}`
 `{ruby:"But it's a fact, isn't it?:「でも、事実でしょう？！}`
-`{ruby:There's no difference between facts and truth!":事実は真実ッ！」}`
-`{ruby:"And does that prove that the inheritance created a strained atmosphere between the relatives on Rokkenjima?:「だから、六軒島での親族たちは遺産を巡ってギスギスしていたってわけか？}`
-`{ruby:............I guess that seemed to fit with your memory of your parents telling you repeatedly to be extra polite at the family conference...":…………そこに、縁寿の幼い頃の、親族会議では粗相がないように、行儀よくしているようにと、親に重ねて言われて緊張した記憶が重なる…」}`
-`{ruby:"A‐......are you saying that what I know about Rokkenjima, ......what I know about the Ushiromiya family,:「わ、……私の知っている六軒島が、……右代宮家が、}`
+`{ruby:There's no difference:事実は真実ッ}{ruby:between facts and truth!":！」}`
+`{ruby:"And does that prove that the inheritance created:「だから、六軒島での親族たちは遺産を巡}{ruby:a strained atmosphere between the relatives on Rokkenjima?:ってギスギスしていたってわけか？}`
+`{ruby:............I guess that seemed to fit with your memory of your:…………そこに、縁寿の幼い頃の、親族会議では粗相がないように、行儀よ}{ruby:parents telling you repeatedly to be extra polite at the family conference...":くしているようにと、親に重ねて言われて緊張した記憶が重なる…」}`
+`{ruby:"A‐......are you saying that what I know about:「わ、……私の知っている六軒}{ruby:Rokkenjima, ......what I know about the Ushiromiya family,:島が、……右代宮家が、}`
 `{ruby:.........is wrong......?!":………間違ってるって言うの……？！」}`
-`{ruby:"....................................":「………………………………」}`
-`{ruby:"You're the one who's wrong, Onii‐chan!!:「間違ってるのはお兄ちゃんよ！！}`
-`{ruby:What I just saw can't be real, there's no way!!:あんなのありえない、あるわけがない！！}`
-`{ruby:I refuse to accept that as Ushiromiya Kinzo!:私は認めないわ、あんな右代宮金蔵ッ。}`
-`{ruby:I'll never, ever be able to accept that Ushiromiya Kinzo was like that!!":断じて断じて、あんな右代宮金蔵を受け容れることなんて出来ないッ！！」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
+`{ruby:"You're the one:「間違ってるのはお}{ruby:who's wrong, Onii‐chan!!:兄ちゃんよ！！}`
+`{ruby:What I just saw can't:あんなのありえない、あ}{ruby:be real, there's no way!!:るわけがない！！}`
+`{ruby:I refuse to accept:私は認めないわ、あんな}{ruby:that as Ushiromiya Kinzo!:右代宮金蔵ッ。}`
+`{ruby:I'll never, ever be able to:断じて断じて、あんな右代宮金蔵を受け}{ruby:accept that Ushiromiya Kinzo was like that!!":容れることなんて出来ないッ！！」}`
 `{ruby:"So, you don't believe, Ange?":「縁寿は、信じないのか」}`
 `{ruby:"That's right, I don't believe!!:「えぇ、信じない！！}`
-`{ruby:I just don't understand why you're showing me something like this!":お兄ちゃんがどういうつもりでこんなものを見せているのかわからないけれど！」}`
-`{ruby:"After all, this is your game...no, your game board, isn't it?!":「だって、これはお兄ちゃんのゲーム、いえ、ゲーム盤じゃない！」}`
+`{ruby:I just don't understand why:お兄ちゃんがどういうつもりでこんなものを}{ruby:you're showing me something like this!":見せているのかわからないけれど！」}`
+`{ruby:"After all, this is your:「だって、これはお兄ちゃんのゲーム}{ruby:game...no, your game board, isn't it?!":、いえ、ゲーム盤じゃない！」}`
 `{ruby:"........................":「……………………」}`
 `{ruby:"Beato and Bern!:「ベアトだのベルンだの！}`
-`{ruby:One witch after another has sneered at my fate, trying to make me surrender in their games.:何人もの魔女が、私の運命を嘲笑い、そのゲームで屈服させようとしてきたわ。}`
+`{ruby:One witch after another has sneered at my:何人もの魔女が、私の運命を嘲笑い、そのゲ}{ruby:fate, trying to make me surrender in their games.:ームで屈服させようとしてきたわ。}`
 `{ruby:But I seek the truth!:でも、私は真実を求めている！}`
-`{ruby:Those witches' deceptions won't work on me!:魔女たちのまやかしなんか通用しない！}`
-`{ruby:......Now I get it, you damn witches.:……なるほどね、魔女たちめ。}`
-`{ruby:So, you've sent Onii‐chan as a final assassin to finish me off.":最後の刺客に、お兄ちゃんを送り込んできたってわけだわ」}`
+`{ruby:Those witches' deceptions:魔女たちのまやかしなん}{ruby:won't work on me!:か通用しない！}`
+`{ruby:......Now I get:……なるほどね、魔}{ruby:it, you damn witches.:女たちめ。}`
+`{ruby:So, you've sent Onii‐chan as a:最後の刺客に、お兄ちゃんを送り}{ruby:final assassin to finish me off.":込んできたってわけだわ」}`
 `{ruby:"......You're right about one thing.:「……そうだな。}`
 `{ruby:......This is...my game.:……これは、俺のゲームだ。}`
-`{ruby:So, of course, this is my tale, and I'm the one telling it.:だから確かに、これは俺の物語であり、俺が紡いでいる。}`
-`{ruby:That's why I'm able to add in "what if" situations, like what would happen if you came to the island too.":だからこそ、もしもお前が島に来ることが出来たならという、ＩＦを混ぜることが出来る」}`
+`{ruby:So, of course, this is my:だから確かに、これは俺の物語}{ruby:tale, and I'm the one telling it.:であり、俺が紡いでいる。}`
+`{ruby:That's why I'm able to add in "what if" situations,:だからこそ、もしもお前が島に来ることが出来た}{ruby:like what would happen if you came to the island too.":ならという、ＩＦを混ぜることが出来る」}`
 `{ruby:"See!:「ほらッ！}`
 `{ruby:You made this tale!!:お兄ちゃんの物語じゃないッ！！}`
-`{ruby:It's all a pack of lies, ......a fiction you created!!":全部お兄ちゃんの、……嘘っぱちの作り話じゃない！！」}`
+`{ruby:It's all a pack of:全部お兄ちゃんの、……嘘っぱち}{ruby:lies, ......a fiction you created!!":の作り話じゃない！！」}`
 `{ruby:".....................You're right.:「…………………そうだな。}`
-`{ruby:......This is all...a fiction I created.":……これは全て俺の、作り話だ」}`
+`{ruby:......This is all...a:……これは全て俺の}{ruby:fiction I created.":、作り話だ」}`
 `{ruby:"See?!!:「ほら！！}`
-`{ruby:You've admitted it! You have, haven't you?!!:認めたわね？　認めたじゃない！！}`
-`{ruby:Just like I thought, this is all a lie you made...!:やっぱりこれは、お兄ちゃんの嘘なのよ…！}`
+`{ruby:You've admitted it!:認めたわね？　認めた}{ruby:You have, haven't you?!!:じゃない！！}`
+`{ruby:Just like I thought, this:やっぱりこれは、お兄ちゃ}{ruby:is all a lie you made...!:んの嘘なのよ…！}`
 `{ruby:Why are you lying to me?!:どうして嘘を吐くの？！}`
 `{ruby:Why won't you tell me the truth?!":どうして私に、真実を教えてくれないの？！」}`
-`{ruby:"......Because there's something......more important...:「……真実より。……もっと大切な。}`
+`{ruby:"......Because there's:「……真実より。……}{ruby:something......more important...:もっと大切な。}`
 `{ruby:...that I need to get across to you.":……どうしても伝えたいことがあるからだ」}`
-`{ruby:"Something more important than the truth......?!:「真実より大切なこと……？！}`
-`{ruby:What the hell are you talking about?!":何それ、わけわかんないッ」}`
-`{ruby:"The purpose of my game is to help you understand that.":「それをわからせるためのものが、俺のゲームだ」}`
-`{ruby:Just as Beato's games were made to make Battler believe in witches.:かつてベアトのゲームが、戦人に魔女の存在を信じさせようとすることが目的だったように。}`
-`{ruby:Battler's game......was made to communicate something to Ange that was more important than the truth.:戦人のゲームは、……縁寿に、真実より大切な何かを、伝えることを目的とする。}`
-`{ruby:Games never bring about their intended ends by force.:ゲームは、いつだってその結果を強制しない。}`
-`{ruby:After all, Beato's game could never be won for all eternity, unless Battler himself acknowledged his loss.:ベアトだって、戦人が自ら認めない限り、永遠に勝つことは出来ないゲームだった。}`
+`{ruby:"Something more important:「真実より大切な}{ruby:than the truth......?!:こと……？！}`
+`{ruby:What the hell:何それ、わけわか}{ruby:are you talking about?!":んないッ」}`
+`{ruby:"The purpose of my game:「それをわからせるためのも}{ruby:is to help you understand that.":のが、俺のゲームだ」}`
+`{ruby:Just as Beato's games were made:かつてベアトのゲームが、戦人に魔女の存在を信}{ruby:to make Battler believe in witches.:じさせようとすることが目的だったように。}`
+`{ruby:Battler's game......was made to communicate something to:戦人のゲームは、……縁寿に、真実より大切}{ruby:Ange that was more important than the truth.:な何かを、伝えることを目的とする。}`
+`{ruby:Games never bring about:ゲームは、いつだってその}{ruby:their intended ends by force.:結果を強制しない。}`
+`{ruby:After all, Beato's game could never be won:ベアトだって、戦人が自ら認めない限り、永}{ruby:for all eternity, unless Battler himself acknowledged his loss.:遠に勝つことは出来ないゲームだった。}`
 `{ruby:Battler's game was the same.:戦人のゲームも同じ。}`
-`{ruby:This was a game that Battler couldn't win......unless Ange acknowledged it herself.:縁寿が自ら認めない限り、……戦人に勝つことは出来ないゲームなのだ。}`
-`{ruby:So, Battler had advanced this game just as Beato had done in the past.:だから戦人は、かつてのベアトのようにゲームを進める。}`
-`{ruby:To believe, or not. To accept, or not.:信じるかどうか。}`
-`{ruby:{n}The decision lay solely in the hands of the opponent.:{n}納得するかどうかは、全て対戦相手が決める。}`
+`{ruby:This was a game that Battler:縁寿が自ら認めない限り、……戦人に勝}{ruby:couldn't win......unless Ange acknowledged it herself.:つことは出来ないゲームなのだ。}`
+`{ruby:So, Battler had advanced this game just:だから戦人は、かつてのベアト}{ruby:as Beato had done in the past.:のようにゲームを進める。}`
+`{ruby:To believe, or not.:信じるかど}{ruby:To accept, or not.:うか。}`
+`{ruby:{n}The decision lay solely in:{n}納得するかどうかは、}{ruby:the hands of the opponent.:全て対戦相手が決める。}`
 `{ruby:And so,:その為に、}`
-`{ruby:......Battler was trying to enshroud Ange with his own illusion......:……戦人は自分の幻想で、縁寿を包み込もうとしている……。}`
+`{ruby:......Battler was trying to enshroud:……戦人は自分の幻想で、縁寿を}{ruby:Ange with his own illusion......:包み込もうとしている……。}`
 `{ruby:"I finally get it.:「ようやく理解したわ。}`
-`{ruby:......This is a game between me and you, Onii‐chan.":………これは、私とお兄ちゃんのゲームなのね」}`
+`{ruby:......This is a game:………これは、私とお兄ち}{ruby:between me and you, Onii‐chan.":ゃんのゲームなのね」}`
 `{ruby:"Ange.:「縁寿。}`
-`{ruby:I'm not trying to challenge you to a game.":俺はお前とゲームをしているつもりはない」}`
+`{ruby:I'm not trying to:俺はお前とゲームをして}{ruby:challenge you to a game.":いるつもりはない」}`
 `{ruby:"No.:「いいえ。}`
 `{ruby:This is a game.:これはゲームだわ。}`
-`{ruby:......I made a wish, hoping to learn the truth of October 4th, 1986.:……私は１９８６年１０月４日の真実が知りたいと願った。}`
-`{ruby:And so, you invited me to this game, saying that you'd show me the truth.:そしてお兄ちゃんは私にそれを見せると言って、このゲームへ招いたわ。}`
-`{ruby:And now, you're showing me this strange illusion, trying to make me believe that it's the truth!:そして、おかしな幻想を見せて、それが真実だと私に信じ込ませようとしているッ。}`
+`{ruby:......I made a wish, hoping to:……私は１９８６年１０月４日の}{ruby:learn the truth of October 4th, 1986.:真実が知りたいと願った。}`
+`{ruby:And so, you invited me to this:そしてお兄ちゃんは私にそれを見せると}{ruby:game, saying that you'd show me the truth.:言って、このゲームへ招いたわ。}`
+`{ruby:And now, you're showing me this strange illusion,:そして、おかしな幻想を見せて、それが真実}{ruby:trying to make me believe that it's the truth!:だと私に信じ込ませようとしているッ。}`
 `{ruby:......Well, too bad.:……お生憎ね。}`
-`{ruby:I'm already used to dealing with witches.:私、魔女たちとのやり取りは慣れてるの。}`
-`{ruby:I'm fully aware that you're trying to use that kind face of yours to trick me...!!":お兄ちゃんが、やさしそうな顔をして私を騙そうとしてることなんて、百も承知なんだから…！！」}`
+`{ruby:I'm already used:私、魔女たちとのやり取}{ruby:to dealing with witches.:りは慣れてるの。}`
+`{ruby:I'm fully aware that you're trying to use:お兄ちゃんが、やさしそうな顔をして私を騙そうとし}{ruby:that kind face of yours to trick me...!!":てることなんて、百も承知なんだから…！！」}`
 `{ruby:"..............................":「…………………………」}`
-`{ruby:The big brother knew that no words of his would have any effect on his enraged little sister.:感情を昂らせる妹には、どのような言葉も無意味であることを、兄は知っていた。}`
-`{ruby:So, he just quietly listened to Ange's words.:だから、ただ静かに縁寿の言葉に耳を傾けていた。}`
-`{ruby:{n}But for Ange, ......even that was frustrating.:{n}しかしそれでも、……それが縁寿には気に入らない。}`
-`{ruby:"I've had more than enough of this stupid farce.:「もう下らない茶番は飽き飽きだわ。}`
-`{ruby:If you don't plan on telling me the truth, then end it all now!:お兄ちゃんに、真実を話す気がないというなら、もうおしまいにして！}`
+`{ruby:The big brother knew that no words of his:感情を昂らせる妹には、どのような言葉も無}{ruby:would have any effect on his enraged little sister.:意味であることを、兄は知っていた。}`
+`{ruby:So, he just quietly:だから、ただ静かに縁寿の言}{ruby:listened to Ange's words.:葉に耳を傾けていた。}`
+`{ruby:{n}But for Ange,:{n}しかしそれでも、……それ}{ruby:......even that was frustrating.:が縁寿には気に入らない。}`
+`{ruby:"I've had more than:「もう下らない茶番は}{ruby:enough of this stupid farce.:飽き飽きだわ。}`
+`{ruby:If you don't plan on telling me:お兄ちゃんに、真実を話す気がないと}{ruby:the truth, then end it all now!:いうなら、もうおしまいにして！}`
 `{ruby:I'll find my own truth for myself!:私は私の真実を自分で探す！}`
 `{ruby:I won't rely on you...!":お兄ちゃんには頼らない…！」}`
 `{ruby:".........That's right.:「………そうよ。}`
-`{ruby:There never was anyone I could rely on anyway...:元々、頼るべき人間なんて、……私にはいなかったじゃない…。}`
-`{ruby:......I've......always been......all alone......":……私は、……いつだって、……ひとりぼっちだったわよ……」}`
+`{ruby:There never was anyone:元々、頼るべき人間なんて、……私}{ruby:I could rely on anyway...:にはいなかったじゃない…。}`
+`{ruby:......I've......always:……私は、……いつだって、……ひ}{ruby:been......all alone......":とりぼっちだったわよ……」}`
 `{ruby:"Sorry,:「悪いが。}`
-`{ruby:but I won't let you leave this game.":このゲームから降りることは、許さない」}`
+`{ruby:but I won't let:このゲームから降りるこ}{ruby:you leave this game.":とは、許さない」}`
 `{ruby:"......Ah, that's right.:「……あぁ、そうだったわね。}`
-`{ruby:Unless the Game Master admits defeat, the game never ends, right?":ゲームマスターが負けを認めない限り、ゲームは永遠に終わらないんだったっけ」}`
+`{ruby:Unless the Game Master admits:ゲームマスターが負けを認めない限り、ゲー}{ruby:defeat, the game never ends, right?":ムは永遠に終わらないんだったっけ」}`
 `{ruby:"That's not what this is.:「そんなつもりはないさ。}`
-`{ruby:......I just want you to stay quiet and listen to what I have to say.":……黙って話を聞けってだけのことだ」}`
+`{ruby:......I just want you to stay quiet:……黙って話を聞けっ}{ruby:and listen to what I have to say.":てだけのことだ」}`
 `{ruby:"......Oh, okay.:「……あぁ、そう。}`
 `{ruby:I'll just stay quiet then.:なら黙ってることにするわ。}`
-`{ruby:......Even if a player isn't around, the pieces just move by themselves, and the game moves forward.:……プレイヤーがいなくても、駒は勝手に動き、ゲームは進む。}`
+`{ruby:......Even if a player isn't around, the pieces:……プレイヤーがいなくても、駒は}{ruby:just move by themselves, and the game moves forward.:勝手に動き、ゲームは進む。}`
 `{ruby:......Isn't that how it was?":……そうだったわよね」}`
 `{ruby:"...........................:「………………………。}`
 `{ruby:......Alright.:……そうだな。}`
-`{ruby:Step back from being a player, and become an observer for a little while.:プレイヤーを離れ、少し傍観者になるといい。}`
-`{ruby:You can come back whenever you feel like it.":そして、また戻って来たい時に、戻ればいい」}`
+`{ruby:Step back from being a player, and:プレイヤーを離れ、少し傍}{ruby:become an observer for a little while.:観者になるといい。}`
+`{ruby:You can come back:そして、また戻って来たい}{ruby:whenever you feel like it.":時に、戻ればいい」}`
 `{ruby:"I'll do just that.:「そうさせてもらうわ。}`
 `{ruby:This is an endurance contest.:これは根競べよ。}`
-`{ruby:..........It'll keep on going until you give up on trying to cover up the truth.":………お兄ちゃんが真実を誤魔化すことを諦めるまでのね」}`
+`{ruby:..........It'll keep on going until you give:………お兄ちゃんが真実を誤魔化}{ruby:up on trying to cover up the truth.":すことを諦めるまでのね」}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:"Something more important than the truth?:「真実より大切なこと？}`
-`{ruby:......You're not making any sense...!:……意味わかんない…！}`
+`{ruby:"Something more important:「真実より大切}{ruby:than the truth?:なこと？}`
+`{ruby:......You're not:……意味わかん}{ruby:making any sense...!:ない…！}`
 `{ruby:There's no such thing...!":そんなもの、あるわけがない…！」}`
 `{ruby:"There is, Ange.:「あるんだよ。縁寿。}`
-`{ruby:......Whether my tale is the truth or not,:……仮に、俺の物語が真実でなかったとしても、あったとしても。}`
-`{ruby:......the fact remains that you lost something precious on this island.":……お前は大切なものを、この島でなくしているんだ」}`
+`{ruby:......Whether my tale is:……仮に、俺の物語が真実でなかっ}{ruby:the truth or not,:たとしても、あったとしても。}`
+`{ruby:......the fact remains that you:……お前は大切なものを、この}{ruby:lost something precious on this island.":島でなくしているんだ」}`
 `{ruby:"Dad, Mom.:「お父さん、お母さん。}`
 `{ruby:And you, Onii‐chan.:そしてお兄ちゃん。}`
-`{ruby:......I lost my family...and everything that mattered to me.":……私がなくしたのは家族と、そして全てよ」}`
-`{ruby:She spat out those words as though no further questioning would do any good...and looked away.:それ以上の問答は何の意味もないと吐き捨て、縁寿はそっぽを向く。}`
-`{ruby:Even as he watched this, Battler's expression remained gentle.:そんな仕草にさえ、戦人の表情は穏やかなままだった。}`
+`{ruby:......I lost my family...and:……私がなくしたのは家族}{ruby:everything that mattered to me.":と、そして全てよ」}`
+`{ruby:She spat out those words as though no:それ以上の問答は何の意味もないと吐}{ruby:further questioning would do any good...and looked away.:き捨て、縁寿はそっぽを向く。}`
+`{ruby:Even as he watched:そんな仕草にさえ、戦人の表情}{ruby:this, Battler's expression remained gentle.:は穏やかなままだった。}`
 `{ruby:"Just keep going however you like.:「勝手に進めなさいよ。}`
 `{ruby:Later, Onii‐chan.":じゃあね、お兄ちゃん」}`
-`{ruby:".........At least make sure you watch the tale.:「………物語だけはちゃんと見ていろよ。}`
+`{ruby:".........At least make sure:「………物語だけはちゃ}{ruby:you watch the tale.:んと見ていろよ。}`
 `{ruby:Even just listening is enough.":聞くだけでもいい」}`
 `{ruby:"If I feel like it.:「気が向いたらね。}`
 `{ruby:......Later.":……じゃ」}`
 `{ruby:Ange's eyes clouded.:縁寿の目が、ぼんやりと曇る。}`
-`{ruby:Then, a particularly strong gust of wind blew by, sending her hair flying.:そして一際強い風が、ざぁっと吹いて、彼女の髪を大きく散らした。}`
-`{ruby:The wind must have been carrying some dust with it.:その風が埃を運んだのだろう。}`
-`{ruby:Ange's nose twitched, and she sneezed loudly.:縁寿は鼻をむずむずさせてから、大きなくしゃみをする。}`
+`{ruby:Then, a particularly strong gust of:そして一際強い風が、ざぁっと吹いて}{ruby:wind blew by, sending her hair flying.:、彼女の髪を大きく散らした。}`
+`{ruby:The wind must have been:その風が埃を運ん}{ruby:carrying some dust with it.:だのだろう。}`
+`{ruby:Ange's nose twitched,:縁寿は鼻をむずむずさせてから}{ruby:and she sneezed loudly.:、大きなくしゃみをする。}`
 `{ruby:".........Nnnnn.:「………ぅぅぅ。}`
 `{ruby:......Onii‐chan...?":……お兄ちゃん…？」}`
 `{ruby:"What is it?":「何だい」}`
-`{ruby:"......How long are we gonna stand here...? The weather's all weird.:「……いつまでここにいるの…？　何かお天気、変…。}`
-`{ruby:......Let's go back to the guesthouse.":……ゲストハウスに帰ろうよ」}`
+`{ruby:"......How long are we gonna:「……いつまでここにいるの…}{ruby:stand here...? The weather's all weird.:？　何かお天気、変…。}`
+`{ruby:......Let's go back:……ゲストハウス}{ruby:to the guesthouse.":に帰ろうよ」}`
 `{ruby:Ange's eyes weren't cloudy anymore.:もう、縁寿の瞳は曇っていない。}`
-`{ruby:However, the tone and atmosphere about those eyes seemed somehow different from before...:しかし、先ほどまでの縁寿とは、どこか瞳の色や雰囲気が、違うように見えた…。}`
-`{ruby:In a manner typical of young girls, Ange signaled that she was too bored and wanted to go do something.:縁寿は幼い少女特有の仕草で、飽きたからもう行こう行こうと催促する。}`
-`{ruby:This Ange was clearly a six‐year‐old Ange.:その縁寿は紛れもなく、６歳の縁寿だった。}`
+`{ruby:However, the tone and atmosphere about:しかし、先ほどまでの縁寿とは、どこか瞳の}{ruby:those eyes seemed somehow different from before...:色や雰囲気が、違うように見えた…。}`
+`{ruby:In a manner typical of young girls, Ange signaled that:縁寿は幼い少女特有の仕草で、飽きたか}{ruby:she was too bored and wanted to go do something.:らもう行こう行こうと催促する。}`
+`{ruby:This Ange was:その縁寿は紛れもなく、}{ruby:clearly a six‐year‐old Ange.:６歳の縁寿だった。}`
 `{ruby:"Good point.:「そうだね。}`
-`{ruby:......Then, why don't you head back to the guesthouse now?:……じゃあ、縁寿はゲストハウスに戻ってるといい。}`
+`{ruby:......Then, why don't you head:……じゃあ、縁寿はゲストハ}{ruby:back to the guesthouse now?:ウスに戻ってるといい。}`
 `{ruby:I'm going to stay here.":お兄ちゃんはまだここにいるよ」}`
 `{ruby:"Why...? It'll start raining soon.":「どうして…？　もうすぐ雨が降ってくるよ」}`
 `{ruby:"She should be here in a moment.:「そろそろ来るはずなんだ。}`
 `{ruby:So, I'll wait for her.":だから俺は待ってるよ」}`
 `{ruby:"Wait for her? .........For who?:「待ってるって？　………誰？}`
 `{ruby:...............Huh?":……………え？」}`
-`{ruby:Then, to Ange's eyes, it looked as though the strong winds were now carrying flakes of gold along with them.:その時、縁寿の目には、強い風に混じって、金箔が飛び散ったように見えた。}`
-`{ruby:No, she had definitely seen something, ......but she wasn't able to describe what she had seen,:いや、見えていたに違いないのだが、……それを自分でも正しく形容できなくて、}`
-`{ruby:so to her it had seemed like flakes of gold dancing on the wind.:風に舞う金箔のように感じたのだ。}`
+`{ruby:Then, to Ange's eyes, it looked as though the strong:その時、縁寿の目には、強い風に混じって}{ruby:winds were now carrying flakes of gold along with them.:、金箔が飛び散ったように見えた。}`
+`{ruby:No, she had definitely seen something, ......but she:いや、見えていたに違いないのだが、……そ}{ruby:wasn't able to describe what she had seen,:れを自分でも正しく形容できなくて、}`
+`{ruby:so to her it had seemed like:風に舞う金箔のよう}{ruby:flakes of gold dancing on the wind.:に感じたのだ。}`
 `{ruby:"There you are.:「来たか。}`
-`{ruby:......I've been waiting a while now.":……ずいぶん待ったぜ」}`
-`{ruby:It was as though he was talking to the wind.:まるで風に語りかけるように。}`
-`{ruby:......Battler spoke to the empty rose garden.:……戦人は誰の姿もない薔薇庭園に、そう告げる。}`
+`{ruby:......I've been waiting:……ずいぶん待}{ruby:a while now.":ったぜ」}`
+`{ruby:It was as though he:まるで風に語りか}{ruby:was talking to the wind.:けるように。}`
+`{ruby:......Battler spoke to:……戦人は誰の姿もない薔薇}{ruby:the empty rose garden.:庭園に、そう告げる。}`
 `{ruby:That can't be right.:そんなはずはない。}`
-`{ruby:After all, it was clear from his words that he was talking to someone right in front of him.:だって兄のその口調は、紛れもなく、目の前にいるかのような誰かに向けたものに違いなかったからだ。}`
-`{ruby:So, Ange thought it must be someone that she alone couldn't see, and she rubbed her eyes.:だから縁寿は、自分の目にだけは見えないのかと思い、ごしごしと両目を擦る。}`
-`{ruby:Then, when she opened her eyes wide, another large gust of wind blew past her.:そして目を大きく見開いた時、再び、ざぁっと大きな風が吹いた。}`
-`{ruby:She shut her eyes immediately, .........and when she timidly opened them...:咄嗟に目を瞑り、………恐る恐る開いた時。}`
-`{ruby:From the other end of the rose garden—:薔薇庭園の向こうに。}`
-`{ruby:yes, from the path that led up from the harbor,:そう、それは船着場から至る階段に。}`
+`{ruby:After all, it was clear from his words that:だって兄のその口調は、紛れもなく、目の前にいるかの}{ruby:he was talking to someone right in front of him.:ような誰かに向けたものに違いなかったからだ。}`
+`{ruby:So, Ange thought it must be someone that:だから縁寿は、自分の目にだけは見えない}{ruby:she alone couldn't see, and she rubbed her eyes.:のかと思い、ごしごしと両目を擦る。}`
+`{ruby:Then, when she opened her eyes wide,:そして目を大きく見開いた時、再び}{ruby:another large gust of wind blew past her.:、ざぁっと大きな風が吹いた。}`
+`{ruby:She shut her eyes immediately,:咄嗟に目を瞑り、………}{ruby:.........and when she timidly opened them...:恐る恐る開いた時。}`
+`{ruby:From the other end:薔薇庭園の向}{ruby:of the rose garden—:こうに。}`
+`{ruby:yes, from the path that:そう、それは船着場か}{ruby:led up from the harbor,:ら至る階段に。}`
 `{ruby:......a person appeared.:……人影が現れるのを見た。}`
-`{ruby:To Ange, it looked as though she had appeared along with a cloud of gold flakes carried by the wind......:まるで金箔の風と共に現れたように、縁寿の目には見えた……。}`
+`{ruby:To Ange, it looked as though she had appeared along:まるで金箔の風と共に現れたように}{ruby:with a cloud of gold flakes carried by the wind......:、縁寿の目には見えた……。}`
 `{ruby:"You're late, Beato.":「遅ぇぞ、ベアト」}`
 `{ruby:"Am I? I'd call it early.":「そうか？　むしろ早いぞ」}`
-`{ruby:"You should ride the boat with us every now and then.":「たまにはお前も一緒に船に乗ればいいんだ」}`
-`{ruby:"You mean grasp the handrail and scream alongside you?":「柵に掴まってお前と一緒に叫ぶか？」}`
-`{ruby:"Yeah, sure, let's scream. Gonna fall, gonna fall...":「いいぜ、叫ぼうぜ。落ちるー落ちるーってな」}`
+`{ruby:"You should ride the boat:「たまにはお前も一緒に船}{ruby:with us every now and then.":に乗ればいいんだ」}`
+`{ruby:"You mean grasp the:「柵に掴まってお前と}{ruby:handrail and scream alongside you?":一緒に叫ぶか？」}`
+`{ruby:"Yeah, sure, let's scream.:「いいぜ、叫ぼうぜ。落ち}{ruby:Gonna fall, gonna fall...":るー落ちるーってな」}`
 `{ruby:"*cackle*cackle*!:「くっくっくっく！}`
 `{ruby:I see, how interesting...!:なるほど、それも悪くなかった…！}`
-`{ruby:Yes, I suppose I did arrive too late.":認めよう、どうやら妾が来るのは遅かったらしい」}`
-`{ruby:The pair casually walked up to each other and hugged.:二人は自然と歩み寄り、抱擁を交わす。}`
-`{ruby:{n}It looked like a pair of friends being reunited after several years.:{n}それは、数年来の親友との再会のように見えた。}`
+`{ruby:Yes, I suppose I:認めよう、どうやら妾が来る}{ruby:did arrive too late.":のは遅かったらしい」}`
+`{ruby:The pair casually walked up:二人は自然と歩み寄り}{ruby:to each other and hugged.:、抱擁を交わす。}`
+`{ruby:{n}It looked like a pair of:{n}それは、数年来の親友と}{ruby:friends being reunited after several years.:の再会のように見えた。}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:Ange, surprised by this unfamiliar woman, looked for somewhere to hide.:縁寿は、見知らぬ女の姿に驚き、隠れる物陰を探す。}`
-`{ruby:However, her eyes met Beato's, and she lost her chance to escape...:しかし、ベアトと目が合ってしまい、逃げ損ねてしまう…。}`
+`{ruby:Ange, surprised by this unfamiliar:縁寿は、見知らぬ女の姿に驚}{ruby:woman, looked for somewhere to hide.:き、隠れる物陰を探す。}`
+`{ruby:However, her eyes met Beato's, and:しかし、ベアトと目が合ってしま}{ruby:she lost her chance to escape...:い、逃げ損ねてしまう…。}`
 `{ruby:"Oh, and you must be Ange.":「おお、そなたは縁寿か」}`
 `{ruby:"..................!":「………………っ」}`
-`{ruby:She was shocked to hear this unfamiliar woman suddenly use her name.:見知らぬ女に突然、自分の名を呼ばれて驚く。}`
-`{ruby:"Look how cute she was at the age of six.":「こやつも６歳の頃は、なかなかに可愛かったではないか」}`
+`{ruby:She was shocked to hear this:見知らぬ女に突然、自分の}{ruby:unfamiliar woman suddenly use her name.:名を呼ばれて驚く。}`
+`{ruby:"Look how cute she was:「こやつも６歳の頃は、なかなか}{ruby:at the age of six.":に可愛かったではないか」}`
 `{ruby:"......O‐......onii‐chan.:「……お、……お兄ちゃん。}`
-`{ruby:......Who......is this person......?":……この人、……誰……？」}`
+`{ruby:......Who......is:……この人、……}{ruby:this person......?":誰……？」}`
 `{ruby:"A friend of mine.":「お兄ちゃんの友人だ」}`
 `{ruby:"A friiiieeeend?!:「友人ぃぃいぃん？！}`
 `{ruby:How can you say that?!":それはあんまりであろうがぁあぁ！」}`
-`{ruby:"......Onii‐chan's......friend.........?":「……お兄ちゃんの、……友達………？」}`
+`{ruby::「……お兄ちゃんの、…}{ruby:"......Onii‐chan's......friend.........?":…友達………？」}`
 `{ruby:"This is {f:5:Beatrice}.:「こいつはベアトリーチェ。}`
-`{ruby:You've heard from Grandfather, haven't you?:お祖父ちゃんから聞いたことないか？}`
-`{ruby:About the Golden Witch, who gave the Ushiromiya family its gold?":右代宮家に黄金を授けてくれた、黄金の魔女の話を」}`
+`{ruby:You've heard from:お祖父ちゃんから聞い}{ruby:Grandfather, haven't you?:たことないか？}`
+`{ruby:About the Golden Witch, who:右代宮家に黄金を授けてくれた}{ruby:gave the Ushiromiya family its gold?":、黄金の魔女の話を」}`
 `{ruby:Have I......heard that before?:そんな話も、……あっただろうか。}`
 `{ruby:The Golden Witch.:黄金の魔女。}`
 `{ruby:......Now I remember.:……思い出した。}`
-`{ruby:That was the scary witch who would snatch you away off into the forest...:六軒島でお泊りの時、親の言うことを聞かなかったり、}`
-`{ruby:if you didn't listen to your parents or stayed up too late on Rokkenjiima.:いつまでも夜更かししていたりすると、森にさらっていってしまう、恐ろしい魔女のことだ。}`
+`{ruby:That was the scary witch who would:六軒島でお泊りの時、親の言う}{ruby:snatch you away off into the forest...:ことを聞かなかったり、}`
+`{ruby:if you didn't listen to your parents:いつまでも夜更かししていたりすると、森にさら}{ruby:or stayed up too late on Rokkenjiima.:っていってしまう、恐ろしい魔女のことだ。}`
 `{ruby:"On rainy nights,:「雨の夜。}`
-`{ruby:......if you look out the window at the dark forest,:……真っ暗な森を窓から眺めてると、}`
-`{ruby:......you might see the witch looking back at you and get snatched away...... That's what Mom told me.":……魔女と目が合って、さらわれてしまうかもしれないって、……お母さんに言われた」}`
+`{ruby:......if you look out the:……真っ暗な森を窓か}{ruby:window at the dark forest,:ら眺めてると、}`
+`{ruby:......you might see the witch looking back at you:……魔女と目が合って、さらわれてしまうかも}{ruby:and get snatched away...... That's what Mom told me.":しれないって、……お母さんに言われた」}`
 `{ruby:"Which must mean...:「ということは。}`
-`{ruby:I'm supposed to be wandering about in the cold rain, looking into each window to find kids staying up too late?:妾は夜更かしの子供を見張るため、寒い雨の中、窓をひとつひとつ覗き込まねばならぬというのか。}`
+`{ruby:I'm supposed to be wandering about in the cold rain,:妾は夜更かしの子供を見張るため、寒い雨の中、窓を}{ruby:looking into each window to find kids staying up too late?:ひとつひとつ覗き込まねばならぬというのか。}`
 `{ruby:How pitiful that would be...!":それはあまりに無体な…！」}`
 `{ruby:"Wahhahahaha, good point.:「わっはははは、確かに。}`
-`{ruby:Ange, your parents just made that story up to get you to go to bed on time.:縁寿、それはお前に夜更かしをさせない為の、親の作り話だ。}`
+`{ruby:Ange, your parents just made that story up:縁寿、それはお前に夜更かしをさ}{ruby:to get you to go to bed on time.:せない為の、親の作り話だ。}`
 `{ruby:She doesn't do stuff like that.":彼女はそんなことはしない」}`
-`{ruby:"Very well, allow me to introduce myself!:「よかろう、名乗ろうぞ！}`
-`{ruby:I am {f:5:Beatrice}, the Golden Witch!":妾は黄金の魔女ッ、ベアトリーチェ！」}`
+`{ruby:"Very well, allow:「よかろう、名}{ruby:me to introduce myself!:乗ろうぞ！}`
+`{ruby:I am {f:5:Beatrice},:妾は黄金の魔女ッ、ベア}{ruby:the Golden Witch!":トリーチェ！」}`
 `{ruby:"Or her grandchild, at least.":「の、お孫さんだ」}`
 `{ruby:"Grandchild......?":「孫………？」}`
-`{ruby:"Th‐......that grandchild part puts a bit of a damper on things.":「お、……お孫さんとは、何ともしまらぬ呼び名であるな」}`
+`{ruby:"Th‐......that grandchild part puts a:「お、……お孫さんとは、何とも}{ruby:bit of a damper on things.":しまらぬ呼び名であるな」}`
 `{ruby:"Well, it's true, isn't it?:「だってそうだろ。}`
-`{ruby:The person that Grandfather got the gold from and called the Golden Witch was your grandmother, right?":祖父さまに黄金を授けて、黄金の魔女と呼ばれたのは、お前の祖母さまの話だろうが」}`
-`{ruby:"Nn...nnggg...... That is true, I admit...:「む、むむむ、確かにそうではあるが。}`
-`{ruby:......Grandchild of the Golden Witch, is it?:……黄金の魔女の孫、か。}`
-`{ruby:......Nnngh, can't I get a better title than that?":……ううぅむ、そのキャッチコピー、もう少しマシなものにはならぬのか」}`
-`{ruby:"......Is this person...a witch......?":「……この人、魔女なの……？」}`
+`{ruby:The person that Grandfather got the gold from:祖父さまに黄金を授けて、黄金の魔女と呼ばれ}{ruby:and called the Golden Witch was your grandmother, right?":たのは、お前の祖母さまの話だろうが」}`
+`{ruby:"Nn...nnggg...... That is:「む、むむむ、確かに}{ruby:true, I admit...:そうではあるが。}`
+`{ruby:......Grandchild of the:……黄金の魔女}{ruby:Golden Witch, is it?:の孫、か。}`
+`{ruby:......Nnngh, can't I get:……ううぅむ、そのキャッチコピー、も}{ruby:a better title than that?":う少しマシなものにはならぬのか」}`
+`{ruby:"......Is this:「……この人、魔女}{ruby:person...a witch......?":なの……？」}`
 `{ruby:"Yep, she is.:「あぁ、そうだよ。}`
-`{ruby:She's a guest who's been invited to the family conference today.":今日の親族会議に招かれたお客さんだ」}`
+`{ruby:She's a guest who's been:今日の親族会議に招か}{ruby:invited to the family conference today.":れたお客さんだ」}`
 `{ruby:"......She isn't a scary witch?:「……怖い魔女じゃないの？}`
-`{ruby:She's not gonna take me away into the forest...?":暗い森に私をさらったりしない…？」}`
+`{ruby:She's not gonna take:暗い森に私をさらった}{ruby:me away into the forest...?":りしない…？」}`
 `{ruby:"Damn Rudolf and Kyrie.:「おのれ、留弗夫に霧江め。}`
-`{ruby:Just what do they think they're telling this kid about me!:一体、妾を何だと思って吹き込んだのやら！}`
+`{ruby:Just what do they think:一体、妾を何だと思って}{ruby:they're telling this kid about me!:吹き込んだのやら！}`
 `{ruby:I don't do things like that...!:妾はそんなことはせぬわ…！}`
-`{ruby:I'll lodge a firm protest later! *pout*!":後で厳重に抗議する！　ぷんぷん！」}`
-`{ruby:......She looked like a very emotional person,:……何だか感情の激しそうな人だが、}`
-`{ruby:......but she wasn't at all what Ange had expected the creepy Golden Witch would be like.:……縁寿がそれまでずっと抱いていた、黄金の魔女の不気味なイメージとは、かなり掛け離れた人だった。}`
-`{ruby:She was very loud, overreacting to everything.:いちいちオーバーアクションで、賑やか。}`
-`{ruby:......Nothing at all like the witch Maria onee‐chan had talked about, who had lived for a thousand years and had various servants from the demon world.:……千年を生きた魔女とか、魔界の様々な悪魔を使役し……、等と真里亞お姉ちゃんが教えてくれたイメージからは、あまりに離れている。}`
-`{ruby:She looked, well, like an energetic young woman whom Ange's mom might have been good friends with.:何と言うか、お母さんの友達にいてもおかしくなさそうな、元気なお姉さんという感じだった。}`
-`{ruby:Her brother and the witch talked together happily like a pair of close friends.:兄と魔女は、気心の知れた友人同士のように、楽しげに会話している。}`
-`{ruby:Dogs often don't trust people when meeting them for the first time.:犬などは、初対面の人間には心を許さない。}`
-`{ruby:However, people say that dogs feel more at ease with a person once they see their owner acting friendly towards them.:しかし、飼い主が親しげにしているのを見ることで、安心できる人物であると判断するという。}`
-`{ruby:Surely, something similar to this was taking place in Ange's heart.:多分、縁寿の心にも似たものが作用しているに違いない。}`
-`{ruby:As this pushy, temperamental woman who called herself a witch chatted happily with Battler,:ちょっと強引そうで気性の激しそうな、魔女と名乗る彼女が兄と親しげに話す様子を、}`
+`{ruby:I'll lodge a:後で厳重に抗議する！}{ruby:firm protest later! *pout*!":　ぷんぷん！」}`
+`{ruby:......She looked like:……何だか感情の激し}{ruby:a very emotional person,:そうな人だが、}`
+`{ruby:......but she wasn't at all what Ange had:……縁寿がそれまでずっと抱いていた、黄金の魔女の不}{ruby:expected the creepy Golden Witch would be like.:気味なイメージとは、かなり掛け離れた人だった。}`
+`{ruby:She was very:いちいちオーバーアクシ}{ruby:loud, overreacting to everything.:ョンで、賑やか。}`
+`{ruby:......Nothing at all like the witch Maria onee‐chan had talked about, who had:……千年を生きた魔女とか、魔界の様々な悪魔を使役し……、等と真里亞}{ruby:lived for a thousand years and had various servants from the demon world.:お姉ちゃんが教えてくれたイメージからは、あまりに離れている。}`
+`{ruby:She looked, well, like an energetic young woman:何と言うか、お母さんの友達にいてもおかしくなさ}{ruby:whom Ange's mom might have been good friends with.:そうな、元気なお姉さんという感じだった。}`
+`{ruby:Her brother and the witch talked together:兄と魔女は、気心の知れた友人同士の}{ruby:happily like a pair of close friends.:ように、楽しげに会話している。}`
+`{ruby:Dogs often don't trust people when:犬などは、初対面の人間}{ruby:meeting them for the first time.:には心を許さない。}`
+`{ruby:However, people say that dogs feel more at ease with:しかし、飼い主が親しげにしているのを見ることで}{ruby:a person once they see their owner acting friendly towards them.:、安心できる人物であると判断するという。}`
+`{ruby:Surely, something similar to this:多分、縁寿の心にも似たものが}{ruby:was taking place in Ange's heart.:作用しているに違いない。}`
+`{ruby:As this pushy, temperamental woman who called:ちょっと強引そうで気性の激しそうな、魔女と}{ruby:herself a witch chatted happily with Battler,:名乗る彼女が兄と親しげに話す様子を、}`
 `{ruby:Ange watched her behavior closely...:縁寿は傍らからじっと見守っているのだった…。}`
 `{ruby:"............What's that key for?":「…………その鍵は？」}`
-`{ruby:Beato noticed the gold key hanging from Ange's neck.:ベアトが、縁寿が首から下げる金色の鍵に気付く。}`
-`{ruby:{n}Ange automatically grasped it defensively.:{n}縁寿は思わず、守るように鍵を握り締めてしまう。}`
+`{ruby:Beato noticed the gold:ベアトが、縁寿が首から下げ}{ruby:key hanging from Ange's neck.:る金色の鍵に気付く。}`
+`{ruby:{n}Ange automatically:{n}縁寿は思わず、守るよう}{ruby:grasped it defensively.:に鍵を握り締めてしまう。}`
 `{ruby:"That's Ange's precious key.":「縁寿の、大切な鍵だ」}`
-`{ruby:After hearing these vague words, the witch stared blankly for a second.:その曖昧な言葉に、魔女は一瞬だけきょとんとした表情を浮かべる。}`
-`{ruby:But, almost immediately, she seemed to understand what he meant.:しかしすぐに、その意味を理解したようだった。}`
+`{ruby:After hearing these vague words, the:その曖昧な言葉に、魔女は一瞬だけき}{ruby:witch stared blankly for a second.:ょとんとした表情を浮かべる。}`
+`{ruby:But, almost immediately, she seemed:しかしすぐに、その意味を}{ruby:to understand what he meant.:理解したようだった。}`
 `{ruby:".........I see.:「………なるほど。}`
 `{ruby:Is that how it is?":そういうことか」}`
-`{ruby:"I thought it'd be easier to understand if I made it clear what she's supposed to do.":「すべきことを、明確にした方がわかりやすいだろうと思ってな」}`
+`{ruby:"I thought it'd be easier to understand if:「すべきことを、明確にした方がわ}{ruby:I made it clear what she's supposed to do.":かりやすいだろうと思ってな」}`
 `{ruby:"...........................":「………………………」}`
 `{ruby:"Don't worry, Ange.:「安心せよ、縁寿。}`
-`{ruby:I shall not steal your precious key.":そなたの大切な鍵を、奪ったりなどせぬぞ」}`
+`{ruby:I shall not:そなたの大切な鍵を、奪}{ruby:steal your precious key.":ったりなどせぬぞ」}`
 `{ruby:".........Really......?":「………本当に……？」}`
 `{ruby:"Of course.:「もちろんであるとも。}`
-`{ruby:That key belongs to you, and the choice is yours.:それはそなたの鍵であり、そなたが決めることである。}`
-`{ruby:Battler and the rest of us are merely signposts to guide you on your path.":戦人も、そして妾たちも、そなたを導く道標の役にしか過ぎぬのだから」}`
+`{ruby:That key belongs to you,:それはそなたの鍵であり、そな}{ruby:and the choice is yours.:たが決めることである。}`
+`{ruby:Battler and the rest of us are:戦人も、そして妾たちも、そなたを導く}{ruby:merely signposts to guide you on your path.":道標の役にしか過ぎぬのだから」}`
 `{ruby:"...............?":「……………？」}`
-`{ruby:When handing her this key, her brother had said that it was very important and she had to take good care of it.:兄に、とても大事な鍵だから大切にするようにといって渡された。}`
-`{ruby:Ange didn't have a clue what the key was for,:縁寿自身には、何の鍵なのかさっぱりわからないが、}`
+`{ruby:When handing her this key, her brother had said that it:兄に、とても大事な鍵だから大切に}{ruby:was very important and she had to take good care of it.:するようにといって渡された。}`
+`{ruby:Ange didn't have a clue:縁寿自身には、何の鍵なのか}{ruby:what the key was for,:さっぱりわからないが、}`
 `{ruby:......but it looked like Beato did.:……どうやら、ベアトには、それが何なのかわかっているようだった。}`
-`{ruby:However, just like her brother had done earlier, Beato only spoke in riddles.:しかし、兄がそうであるようにベアトもまた、謎めいた言い方をするだけ。}`
+`{ruby:However, just like her brother had:しかし、兄がそうであるようにベアトも}{ruby:done earlier, Beato only spoke in riddles.:また、謎めいた言い方をするだけ。}`
 `{ruby:This irritated Ange,:それが縁寿にはもどかしかったが、}`
-`{ruby:but for the time being, the Golden Witch had said that she didn't intend to steal this key, so Ange calmed down a little.:とりあえずは、黄金の魔女がこの鍵を奪うつもりはないと言ってくれたので、小さく胸を撫で下ろすことにした。}`
-`{ruby:"......Do you know what this key is...:「……あなたは、この鍵が何に使うものなのか、}`
+`{ruby:but for the time being, the Golden Witch had said that she:とりあえずは、黄金の魔女がこの鍵を奪うつもりはないと言}{ruby:didn't intend to steal this key, so Ange calmed down a little.:ってくれたので、小さく胸を撫で下ろすことにした。}`
+`{ruby:"......Do you know:「……あなたは、この鍵が}{ruby:what this key is...:何に使うものなのか、}`
 `{ruby:...used for...?":……知っているの…？」}`
 `{ruby:"But of course.:「もちろんであるとも。}`
 `{ruby:However, I cannot tell you.":だが、それを教えるわけにはいかぬ」}`
 `{ruby:"Why......?":「どうして……？」}`
-`{ruby:"Because you must decide how to use that key for yourself.":「その鍵をどう使うかは、そなたが自分で決めねばならぬからだ」}`
-`{ruby:The witch said the same thing as my brother.:魔女も、兄と同じことを言う。}`
-`{ruby:The pair nodded to each other, but it was all Greek to me.:二人は頷き合うが、私にはちんぷんかんぷん。}`
-`{ruby:It felt like someone had laid out a riddle that everyone knew but me, and everyone was making fun of me.:まるで、みんな答えを知っているのに、私だけ答えを知らないなぞなぞを出されて、笑われているかのように感じた。}`
+`{ruby:"Because you must decide how:「その鍵をどう使うかは、そなたが}{ruby:to use that key for yourself.":自分で決めねばならぬからだ」}`
+`{ruby:The witch said the:魔女も、兄と同じ}{ruby:same thing as my brother.:ことを言う。}`
+`{ruby:The pair nodded to each other,:二人は頷き合うが、私には}{ruby:but it was all Greek to me.:ちんぷんかんぷん。}`
+`{ruby:It felt like someone had laid out a riddle that:まるで、みんな答えを知っているのに、私だけ答えを知らない}{ruby:everyone knew but me, and everyone was making fun of me.:なぞなぞを出されて、笑われているかのように感じた。}`
 `{ruby:"You'll know soon enough.:「やがてわかる。}`
 `{ruby:You don't need to dwell on it.":無理に考える必要はない」}`
 `{ruby:".....................":「…………………」}`
 `{ruby:Ange held the key tightly.:縁寿は鍵をぎゅっと握り締める。}`
-`{ruby:Even if she didn't understand what it meant, ......it was her own key, and her big brother had told her to take good care of it.:意味が自分だけわからなくとも、……これは大切にしなさいといって兄にもらった、自分の鍵なのだ。}`
-`{ruby:With her youthful suspicion, she was scared that the witch might ask her to hand it over, saying that she'd teach her how to use it if she did.:幼さゆえの疑り深さを持つ彼女は、使い方を教えてやるから貸すが良いと魔女が言い出さないか、怯えていた。}`
-`{ruby:Of course, her thoughts showed up clearly on her face.:無論、その胸中は表情で丸わかり。}`
-`{ruby:{n}The witch couldn't help but laugh at that honest expression.:{n}魔女は、そのあけすけな表情に思わず笑ってしまう。}`
+`{ruby:Even if she didn't understand what it meant, ......it was her own key,:意味が自分だけわからなくとも、……これは大切にし}{ruby:and her big brother had told her to take good care of it.:なさいといって兄にもらった、自分の鍵なのだ。}`
+`{ruby:With her youthful suspicion, she was scared that the witch might ask her to:幼さゆえの疑り深さを持つ彼女は、使い方を教えてやるか}{ruby:hand it over, saying that she'd teach her how to use it if she did.:ら貸すが良いと魔女が言い出さないか、怯えていた。}`
+`{ruby:Of course, her thoughts showed:無論、その胸中は表}{ruby:up clearly on her face.:情で丸わかり。}`
+`{ruby:{n}The witch couldn't help but:{n}魔女は、そのあけすけな表}{ruby:laugh at that honest expression.:情に思わず笑ってしまう。}`
 `{ruby:"Fear not.:「安心せよ。}`
-`{ruby:It is impossible for anyone to steal that key from you.":そなたのその鍵は、誰にも奪うことは出来ぬのだ」}`
+`{ruby:It is impossible for anyone:そなたのその鍵は、誰にも奪}{ruby:to steal that key from you.":うことは出来ぬのだ」}`
 `{ruby:"......No one can steal it...?":「……誰にも奪えない…？」}`
-`{ruby:"You might say that it has been imbued with magic to make it so.:「そういう魔法が込められているとでも理解せよ。}`
+`{ruby:"You might say that it has been:「そういう魔法が込められて}{ruby:imbued with magic to make it so.:いるとでも理解せよ。}`
 `{ruby:At any rate, fear not.:とにかく、安心するが良い。}`
-`{ruby:Neither I, nor Battler, nor anyone else on this island can steal that key from you.":妾も戦人も、そして島の誰も、そなたから鍵を奪うようなことはせぬ」}`
+`{ruby:Neither I, nor Battler, nor anyone else on:妾も戦人も、そして島の誰も、そなた}{ruby:this island can steal that key from you.":から鍵を奪うようなことはせぬ」}`
 `{ruby:"Really......?":「本当に……？」}`
 `{ruby:"Yeah, really.:「あぁ。本当だよ。}`
 `{ruby:The magic won't let them.":そういう魔法が掛かってるんだ」}`
-`{ruby:The key was hanging around her neck like an ordinary necklace.:鍵は首飾りのように、普通に掛かっている。}`
-`{ruby:Ange could take it off right now if she wanted, and if an adult tried to use force, it seemed like it would be easy for them to take it away.:縁寿が望むなら、今すぐにでも外せるし、大人が力任せに奪おうとすれば、それはあまりに簡単なことのように思えた。}`
-`{ruby:However, both her brother and the witch said that it was protected by a magic that would stop anyone from stealing it...:しかし、兄と魔女は口を揃えて、誰にも奪えない魔法が掛かっていると言う…。}`
+`{ruby:The key was hanging around:鍵は首飾りのように、普}{ruby:her neck like an ordinary necklace.:通に掛かっている。}`
+`{ruby:Ange could take it off right now if she wanted, and if an adult tried:縁寿が望むなら、今すぐにでも外せるし、大人が力任せに奪お}{ruby:to use force, it seemed like it would be easy for them to take it away.:うとすれば、それはあまりに簡単なことのように思えた。}`
+`{ruby:However, both her brother and the witch said that it was:しかし、兄と魔女は口を揃えて、誰にも奪}{ruby:protected by a magic that would stop anyone from stealing it...:えない魔法が掛かっていると言う…。}`
 `{ruby:".........Does magic...:「………魔法なんて、}`
 `{ruby:.........really...exist...?":…………本当に…あるの…？」}`
-`{ruby:Even the six‐year‐old Ange knew about the word "magic".:６歳の縁寿とて、魔法という言葉は知っている。}`
-`{ruby:However, she also realized that real magic didn't exist,:しかし、実際には魔法は存在せず、}`
-`{ruby:......and that certain kinds of magic tricks were sometimes called magic.:……ある種のおまじないの時に、それを魔法と称することがあるというくらいは、もう理解していた。}`
-`{ruby:However, her brother and the witch were talking about magic itself.:しかし、兄と魔女は素直な意味で、魔法と口にする。}`
+`{ruby:Even the six‐year‐old Ange:６歳の縁寿とて、魔法とい}{ruby:knew about the word "magic".:う言葉は知っている。}`
+`{ruby:However, she also realized:しかし、実際には魔}{ruby:that real magic didn't exist,:法は存在せず、}`
+`{ruby:......and that certain kinds of:……ある種のおまじないの時に、それを魔法と称する}{ruby:magic tricks were sometimes called magic.:ことがあるというくらいは、もう理解していた。}`
+`{ruby:However, her brother and the:しかし、兄と魔女は素直な意}{ruby:witch were talking about magic itself.:味で、魔法と口にする。}`
 `{ruby:"Yeah.:「あぁ。}`
 `{ruby:Magic exists.":魔法は存在する」}`
 `{ruby:"......Really...?":「……本当に…？」}`
-`{ruby:"Maria speaks of me often, does she not?:「真里亞もよく妾のことを話しているであろう？}`
+`{ruby:"Maria speaks of me:「真里亞もよく妾のことを}{ruby:often, does she not?:話しているであろう？}`
 `{ruby:Witches exist,:魔女はいると。}`
-`{ruby:magic exists—she must have told you these things on many an occasion.":魔法は存在すると、そなたによく語ったはずだぞ」}`
-`{ruby:True, Maria had talked about that many times.:確かに、真里亞はよくそれを語ってくれた。}`
-`{ruby:{n}When it was part of a game, Ange had believed her, more or less.:{n}遊びの中でのことならば、縁寿も一応は信じていた。}`
-`{ruby:However, Ange was, in some ways, sharp for her age,:しかし、幼くして彼女はどこか醒めているところがあり、}`
-`{ruby:......and when she heard Maria talking happily about magic, she sometimes thought that such a thing couldn't really exist.:……真里亞が上機嫌に魔法のことを語るのを聞きながら、そんなものが本当にあるわけがないとも思っていた。}`
+`{ruby:magic exists—she must have told you:魔法は存在すると、そなたに}{ruby:these things on many an occasion.":よく語ったはずだぞ」}`
+`{ruby:True, Maria had talked:確かに、真里亞はよくそ}{ruby:about that many times.:れを語ってくれた。}`
+`{ruby:{n}When it was part of a game,:{n}遊びの中でのことならば、}{ruby:Ange had believed her, more or less.:縁寿も一応は信じていた。}`
+`{ruby:However, Ange was, in some:しかし、幼くして彼女はどこか}{ruby:ways, sharp for her age,:醒めているところがあり、}`
+`{ruby:......and when she heard Maria talking happily about magic,:……真里亞が上機嫌に魔法のことを語るのを聞きながら、}{ruby:she sometimes thought that such a thing couldn't really exist.:そんなものが本当にあるわけがないとも思っていた。}`
 `{ruby:"Then, ...show me.":「なら、見せて」}`
 `{ruby:"Hmm?":「うん？」}`
 `{ruby:"Show me magic!:「見せて、魔法！}`
 `{ruby:Or I won't believe you...!":じゃなきゃ信じない…！」}`
 `{ruby:"Hold up a sec...:「おいおい…。}`
-`{ruby:Beato just arrived on the island, and she hasn't even gone to say hi to everyone at the mansion yet...":ベアトは島に来たばかりで、まだ屋敷に挨拶にも行ってないんだぞ…」}`
-`{ruby:Battler spoke as though he was trying to smooth something over.:戦人が取り繕うように言う。}`
-`{ruby:When she heard that, Ange became sure that magic didn't exist after all.:それを聞き、やはり魔法など存在しないのだと縁寿は確信する。}`
+`{ruby:Beato just arrived on the island, and she hasn't even:ベアトは島に来たばかりで、まだ屋敷}{ruby:gone to say hi to everyone at the mansion yet...":に挨拶にも行ってないんだぞ…」}`
+`{ruby:Battler spoke as though he:戦人が取り繕うよ}{ruby:was trying to smooth something over.:うに言う。}`
+`{ruby:When she heard that, Ange became:それを聞き、やはり魔法など存在し}{ruby:sure that magic didn't exist after all.:ないのだと縁寿は確信する。}`
 `{ruby:"Witches are all a big fat lie...!:「魔女なんて嘘っぱち…！}`
 `{ruby:I know!":縁寿は知ってるもん！」}`
 `{ruby:"Hey, stop that.:「おい、よすんだ。}`
 `{ruby:You'll hurt Beato's feelings......":ベアトが気を悪くする……」}`
 `{ruby:"No, it's no problem.:「よいよい。}`
-`{ruby:Anyone would say that upon meeting a witch.:魔女に会えば、誰だって同じことを問うだろう。}`
-`{ruby:Normally, I would ignore provocation from such a small child, but she is your little sister, after all.:いつもならば、このような幼子の挑発に付き合いはせぬのだが、戦人の妹であるからな。}`
-`{ruby:Why don't we give her a special showing?":特別に披露してやってもよい」}`
+`{ruby:Anyone would say that:魔女に会えば、誰だって同}{ruby:upon meeting a witch.:じことを問うだろう。}`
+`{ruby:Normally, I would ignore provocation from such a small:いつもならば、このような幼子の挑発に付き合}{ruby:child, but she is your little sister, after all.:いはせぬのだが、戦人の妹であるからな。}`
+`{ruby:Why don't we give:特別に披露してや}{ruby:her a special showing?":ってもよい」}`
 `{ruby:"Are you sure...?":「いいのか…？」}`
 `{ruby:"Of course I am.:「よいよい。}`
 `{ruby:Watch carefully, Ange.":では見せよう、縁寿」}`
 `{ruby:"O‐......okay.":「う、……うん」}`
-`{ruby:Though Ange had challenged the witch to show her if she could,:やれるものならやってみろと挑発しておいて、}`
-`{ruby:now that she was about to be shown, she looked a bit hesitant.:いざ見せられるとなると、ちょっと臆してしまう。}`
-`{ruby:She gulped, then stared up at the witch's face.:ごくりと唾を飲んでから、魔女の顔をじっと見上げる。}`
-`{ruby:The witch held out her left hand, bringing it close to Ange's face.:魔女は、そっと左手を差し出し、縁寿の顔に近づけた。}`
-`{ruby:{n}Then, she slowly spread her fingers.:{n}そしてゆっくりと手の平を開いてみせた。}`
-`{ruby:Ange, thinking that she was about to be turned into a frog, shrank back.:縁寿は、まさか自分に、カエルになってしまう魔法を掛けたのではないかと怯える。}`
-`{ruby:However, after waiting a while with her teeth clenched, she realized that nothing was happening.:しかし、しばらくの間、歯を食いしばって待っていても、一向に何も起こる気配はない。}`
-`{ruby:So, as her fear turned to irritation, she began to argue.:だから、怯えた分、不機嫌になりながら反論する。}`
+`{ruby:Though Ange had challenged the witch:やれるものならやってみろ}{ruby:to show her if she could,:と挑発しておいて、}`
+`{ruby:now that she was about to:いざ見せられるとなると、ち}{ruby:be shown, she looked a bit hesitant.:ょっと臆してしまう。}`
+`{ruby:She gulped, then stared:ごくりと唾を飲んでから、魔女}{ruby:up at the witch's face.:の顔をじっと見上げる。}`
+`{ruby:The witch held out her left:魔女は、そっと左手を差し出し}{ruby:hand, bringing it close to Ange's face.:、縁寿の顔に近づけた。}`
+`{ruby:{n}Then, she slowly:{n}そしてゆっくりと手}{ruby:spread her fingers.:の平を開いてみせた。}`
+`{ruby:Ange, thinking that she was about to:縁寿は、まさか自分に、カエルになってしま}{ruby:be turned into a frog, shrank back.:う魔法を掛けたのではないかと怯える。}`
+`{ruby:However, after waiting a while with her:しかし、しばらくの間、歯を食いしばって待っ}{ruby:teeth clenched, she realized that nothing was happening.:ていても、一向に何も起こる気配はない。}`
+`{ruby:So, as her fear turned:だから、怯えた分、不機嫌に}{ruby:to irritation, she began to argue.:なりながら反論する。}`
 `{ruby:"Nothing's happening.":「何も起こらないよ」}`
-`{ruby:"Don't jump to conclusions so quickly.:「早とちりするでない。}`
+`{ruby:"Don't jump to:「早とちりする}{ruby:conclusions so quickly.:でない。}`
 `{ruby:I haven't used magic yet.:まだ魔法を使ってはおらぬぞ。}`
 `{ruby:See, look carefully at my palm.:ほれ、妾の手の平をよく見るが良い。}`
 `{ruby:I'm not hiding anything, correct?":タネも仕掛けもないな？」}`
-`{ruby:Oh, so that's what she was doing......:あぁ、そういうことか……。}`
-`{ruby:Now that she finally understood, Ange checked both sides of the witch's hand.:ようやく意味を理解し、縁寿は魔女の手の表と裏を確認する。}`
+`{ruby:Oh, so that's:あぁ、そういうこ}{ruby:what she was doing......:とか……。}`
+`{ruby:Now that she finally understood, Ange:ようやく意味を理解し、縁寿は魔}{ruby:checked both sides of the witch's hand.:女の手の表と裏を確認する。}`
 `{ruby:"......Yeah.:「……うん。}`
 `{ruby:There's nothing there.":何もないよ」}`
 `{ruby:"Watch closely.:「よく見ておれ。}`
 `{ruby:I'll make a fist,:こうして握る。}`
-`{ruby:......and then stretch out my index finger.":……そして人差し指を立てる」}`
-`{ruby:She stretched out her index finger and held it right in front of Ange's eyes.:人差し指を立て、ゆっくりと縁寿の目の前に突き出してくる。}`
-`{ruby:Ange, refusing to show weakness by pulling back, stood her ground and concentrated on the fingertip.:退いたら負けだと思った縁寿は、指の先端に集中しながら、その場に踏み止まる。}`
+`{ruby:......and then stretch:……そして人差し}{ruby:out my index finger.":指を立てる」}`
+`{ruby:She stretched out her index finger and:人差し指を立て、ゆっくりと縁寿}{ruby:held it right in front of Ange's eyes.:の目の前に突き出してくる。}`
+`{ruby:Ange, refusing to show weakness by pulling back,:退いたら負けだと思った縁寿は、指の先端に}{ruby:stood her ground and concentrated on the fingertip.:集中しながら、その場に踏み止まる。}`
 `{ruby:"Watch the tip of my finger closely.:「人差し指の先を、よぉく見ておれ。}`
 `{ruby:Ready? It'll be fast.":行くぞ？　早いぞ」}`
-`{ruby:The witch rapidly lifted her index finger high into the air, pointing at the heavens.:魔女は、その人差し指を素早く振り上げ、天を指差す。}`
-`{ruby:Just as Ange looked up to see the finger raised high, it swung down as though trying to dodge her gaze.:縁寿が天を指す指を見上げた時には、逃げるように指は下へ振り下ろされる。}`
+`{ruby:The witch rapidly lifted her index finger:魔女は、その人差し指を素早く}{ruby:high into the air, pointing at the heavens.:振り上げ、天を指差す。}`
+`{ruby:Just as Ange looked up to see the finger raised:縁寿が天を指す指を見上げた時には、逃げ}{ruby:high, it swung down as though trying to dodge her gaze.:るように指は下へ振り下ろされる。}`
 `{ruby:In that manner,:そんな調子で、}`
-`{ruby:...the finger swung up, down, left, right, then left again,:上、下、左、右、また左と、}`
-`{ruby:as though Ange was playing a game of {c:86EF9C:Acchi Muite Hoi}.:まるであっち向いてホイでもされてるような感じになる。}`
-`{ruby:Feeling as though she'd lose if she couldn't keep up with the fingertip, Ange swung her face this way and that, looking serious.:指先を目で追えなかったら負けになるような気がして、縁寿は真剣に顔をぶんぶん振る。}`
-`{ruby:Ever since she was very young, Ange had always hated to lose.:縁寿は幼い頃から、とても負けん気が強かった。}`
-`{ruby:She would take even the most trivial games seriously, determined not to lose to the adults.:大人には絶対に負けたくなくて、どんな下らないゲームでも真剣にやってしまう。}`
-`{ruby:The witch's hand moved faster and faster.:魔女の手の動きもどんどん早くなる。}`
+`{ruby:...the finger swung up, down,:上、下、左、右、}{ruby:left, right, then left again,:また左と、}`
+`{ruby:as though Ange was playing:まるであっち向いてホイでもさ}{ruby:a game of {c:86EF9C:Acchi Muite Hoi}.:れてるような感じになる。}`
+`{ruby:Feeling as though she'd lose if she couldn't keep up with:指先を目で追えなかったら負けになるような気}{ruby:the fingertip, Ange swung her face this way and that, looking serious.:がして、縁寿は真剣に顔をぶんぶん振る。}`
+`{ruby:Ever since she was very young,:縁寿は幼い頃から、とても}{ruby:Ange had always hated to lose.:負けん気が強かった。}`
+`{ruby:She would take even the most trivial games:大人には絶対に負けたくなくて、どんな下ら}{ruby:seriously, determined not to lose to the adults.:ないゲームでも真剣にやってしまう。}`
+`{ruby:The witch's hand:魔女の手の動きもどん}{ruby:moved faster and faster.:どん早くなる。}`
 `{ruby:Ange didn't lose track of it.:縁寿も負けない。}`
-`{ruby:Then, the witch's high pointing finger took a sudden swing downwards,:そして、天を指した指が一気に振り下ろされた時。}`
-`{ruby:......and when it stopped, her index finger was curled up, and her hand was held in a simple fist.:……人差し指は握られ、ただの拳になっていた。}`
-`{ruby:Could it be...that something was going to come out of that hand...?:まさか、その拳の中から、何か出てくるというのか…？}`
-`{ruby:Ange, suspecting that this might happen, had followed the finger very closely.:縁寿は、そんなこともあろうかと、ずっと指を追っていた。}`
-`{ruby:There had been no chance for that once empty hand to grab something.:空っぽだった手に、何かを握る隙などなかった。}`
+`{ruby:Then, the witch's high pointing:そして、天を指した指が一気}{ruby:finger took a sudden swing downwards,:に振り下ろされた時。}`
+`{ruby:......and when it stopped, her index finger was curled:……人差し指は握られ、た}{ruby:up, and her hand was held in a simple fist.:だの拳になっていた。}`
+`{ruby:Could it be...that something was going:まさか、その拳の中から、何か}{ruby:to come out of that hand...?:出てくるというのか…？}`
+`{ruby:Ange, suspecting that this might happen,:縁寿は、そんなこともあろうかと}{ruby:had followed the finger very closely.:、ずっと指を追っていた。}`
+`{ruby:There had been no chance for:空っぽだった手に、何かを}{ruby:that once empty hand to grab something.:握る隙などなかった。}`
 `{ruby:"...........................":「………………………」}`
 `{ruby:"Ready? I'm going to open my hand...":「よいか？　手を開くぞ…？」}`
-`{ruby:The witch slowly opened her right fist......:魔女はゆっくりと、その右手の拳を開く……。}`
+`{ruby:The witch slowly:魔女はゆっくりと、その右}{ruby:opened her right fist......:手の拳を開く……。}`
 `{ruby:{n}And there......:{n}すると、………そこには……。}`
 `{ruby:"............Wha? .........What?!:「…………え？　………え？！}`
 `{ruby:.........How?!:………どうして？！}`
 `{ruby:How, Onii‐chan?!":どうして、お兄ちゃん？！」}`
-`{ruby:The witch gave the cutely wrapped candy to Ange as a present.:魔女は、可愛らしく包装されたその飴玉を、縁寿にプレゼントする。}`
-`{ruby:Ange took it and desperately searched for some kind of trick on it, but it was just an everyday, ordinary candy......:縁寿はそれを受け取り、何か仕掛けがあるはずだと躍起になるが、それは何の変哲もない、本当にただの飴玉だった……。}`
+`{ruby:The witch gave the cutely wrapped:魔女は、可愛らしく包装されたその飴}{ruby:candy to Ange as a present.:玉を、縁寿にプレゼントする。}`
+`{ruby:Ange took it and desperately searched for some kind of:縁寿はそれを受け取り、何か仕掛けがあるはずだと躍起になるが}{ruby:trick on it, but it was just an everyday, ordinary candy......:、それは何の変哲もない、本当にただの飴玉だった……。}`
 `{ruby:"How?!:「どうして？！}`
-`{ruby:That was a trick, wasn't it, Onii‐chan?!:手品でしょ、お兄ちゃん？！}`
+`{ruby:That was a:手品でしょ、お兄}{ruby:trick, wasn't it, Onii‐chan?!:ちゃん？！}`
 `{ruby:Onii‐chan?!!":お兄ちゃん！！」}`
 `{ruby:"Nope. That was magic.:「いいや。魔法だよ。}`
-`{ruby:You were watching the whole time, weren't you?":縁寿も、ずっと見てただろ？」}`
+`{ruby:You were watching the:縁寿も、ずっと見}{ruby:whole time, weren't you?":てただろ？」}`
 `{ruby:"Nn, .........nnnnnnnn............!":「ん、………んんんんん…………！」}`
-`{ruby:I was watching the whole time, ......so how......?:ずっと見ていたはずなのに、……どうして……。}`
-`{ruby:{n}She didn't like it, but she was unable to see how that could have been anything other than magic.:納得は行かないが、少なくとも魔法でないとは、見破れなかった。}`
-`{ruby:As the little sister furrowed her brow and bit her lower lip, her brother gently told her once more that it was magic.:眉を歪めて下唇を噛む妹に、兄は、魔法だってばと、もう一度やさしく言う。}`
-`{ruby:"It's about time for me to head to the mansion to pay my respects.:「そろそろ、屋敷へ挨拶に行く。}`
+`{ruby:I was watching the:ずっと見ていたはずなのに}{ruby:whole time, ......so how......?:、……どうして……。}`
+`{ruby:{n}She didn't like it, but she was unable to:納得は行かないが、少なくとも魔法}{ruby:see how that could have been anything other than magic.:でないとは、見破れなかった。}`
+`{ruby:As the little sister furrowed her brow and bit her lower:眉を歪めて下唇を噛む妹に、兄は、魔法だ}{ruby:lip, her brother gently told her once more that it was magic.:ってばと、もう一度やさしく言う。}`
+`{ruby:"It's about time for me to head:「そろそろ、屋敷へ}{ruby:to the mansion to pay my respects.:挨拶に行く。}`
 `{ruby:You should come along, Battler.:戦人も付き合うが良い。}`
-`{ruby:I'll suffocate if I have to go alone.":妾一人では窒息してしまうわ」}`
+`{ruby:I'll suffocate if I:妾一人では窒息し}{ruby:have to go alone.":てしまうわ」}`
 `{ruby:"You sure? Then I'll join you.:「そうか？　じゃあお供させてもらうかな。}`
 `{ruby:......What about you, Ange?:……縁寿はどうする。}`
 `{ruby:Will you go back to the guesthouse?":ゲストハウスに戻ってるか？」}`
-`{ruby:"............I, I wanna stay with you, Onii‐chan.":「…………お、お兄ちゃんと一緒がいい」}`
+`{ruby:"............I, I wanna:「…………お、お兄ちゃ}{ruby:stay with you, Onii‐chan.":んと一緒がいい」}`
 `{ruby:She still couldn't accept it.:未だに納得は出来ない。}`
 `{ruby:But maybe, ......just maybe......:でも、……ひょっとすると本当に……。}`
 `{ruby:She still looked grumpy,:表情は相変わらず不機嫌なままだけど、}`
-`{ruby:.........but it looked like she was becoming at least slightly interested in this witch.:………魔女にわずかの、興味も湧いてきたようだった。}`
+`{ruby:.........but it looked like she was becoming:………魔女にわずかの、興味も}{ruby:at least slightly interested in this witch.:湧いてきたようだった。}`
 `{ruby:"Then let us go.:「さぁ、では行こうではないか。}`
 `{ruby:The Golden Witch returns...!":黄金の魔女の帰還であるぞ…！」}`
-`{ruby:"The Golden Witch's...grandchild returns, you mean.":「黄金の魔女の、孫の帰還だけどな」}`
-`{ruby:"We really need to do something about that name...!":「そのキャッチコピー、もう少し何とかならぬものか…！」}`
-`{ruby:The big brother and the witch really did seem close.:兄と魔女は、本当に仲良し。}`
-`{ruby:{n}Playing off each other like a pair of comedians, they started heading for the mansion.:{n}漫才コンビのように意気投合しながら、歩き出す。}`
-`{ruby:All the while, Ange held onto the corner of her brother's sleeve, trying to make sure he didn't forget about her...:縁寿は、自分のことを兄に忘れられないように、兄の服の裾をずっと握っているのだった…。}`
+`{ruby:"The Golden Witch's...grandchild:「黄金の魔女の、孫の}{ruby:returns, you mean.":帰還だけどな」}`
+`{ruby:"We really need to:「そのキャッチコピー、もう少し}{ruby:do something about that name...!":何とかならぬものか…！」}`
+`{ruby:The big brother and the:兄と魔女は、本当}{ruby:witch really did seem close.:に仲良し。}`
+`{ruby:{n}Playing off each other like a pair:{n}漫才コンビのように意気}{ruby:of comedians, they started heading for the mansion.:投合しながら、歩き出す。}`
+`{ruby:All the while, Ange held onto the corner of her:縁寿は、自分のことを兄に忘れられないように、}{ruby:brother's sleeve, trying to make sure he didn't forget about her...:兄の服の裾をずっと握っているのだった…。}`

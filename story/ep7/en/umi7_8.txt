@@ -2,100 +2,100 @@
 `{ruby:...who killed Beatrice?":ベアトリーチェを、誰が殺したのか」}`
 `{ruby:"Yeah.:「あぁ。}`
 `{ruby:More or less.":大体な」}`
-`{ruby:"I hope you're not going to suggest...:「まさか、当主様が殺した、}`
+`{ruby:"I hope you're:「まさか、当主様}{ruby:not going to suggest...:が殺した、}`
 `{ruby:...that the head killed her...":……などと仰るつもりはないでしょうね？」}`
-`{ruby:"{f:5:Bernkastel} isn't asking about the two Beatrices involved with Kinzo.:「ベルンカステルが求めてるのは、金蔵と係わった二人のベアトリーチェじゃない。}`
-`{ruby:She's talking about who killed the 1986 {f:5:Beatrice}.":１９８６年のベアトリーチェを誰が殺したかだ」}`
-`{ruby:"......I'm not really sure what you mean by "this year's {f:5:Beatrice}".:「……その、今年のベアトリーチェという意味がわかりません。}`
-`{ruby:What's all this about a witch called {f:5:Beatrice}?:魔女のベアトリーチェとは何の話なんです？}`
-`{ruby:You've mentioned a ghost story, you've mentioned an epitaph...:さっきの話といい、碑文とやらの話といい。}`
-`{ruby:Isn't it about time you explained all this to me?":そろそろ教えてくれませんか」}`
+`{ruby:"{f:5:Bernkastel} isn't asking about the:「ベルンカステルが求めてるのは、金蔵と係}{ruby:two Beatrices involved with Kinzo.:わった二人のベアトリーチェじゃない。}`
+`{ruby:She's talking about who:１９８６年のベアトリーチ}{ruby:killed the 1986 {f:5:Beatrice}.":ェを誰が殺したかだ」}`
+`{ruby:"......I'm not really sure what:「……その、今年のベアトリーチェ}{ruby:you mean by "this year's {f:5:Beatrice}".:という意味がわかりません。}`
+`{ruby:What's all this about:魔女のベアトリーチェと}{ruby:a witch called {f:5:Beatrice}?:は何の話なんです？}`
+`{ruby:You've mentioned a ghost:さっきの話といい、碑文と}{ruby:story, you've mentioned an epitaph...:やらの話といい。}`
+`{ruby:Isn't it about time you:そろそろ教えてく}{ruby:explained all this to me?":れませんか」}`
 `{ruby:"Alright.:「いいだろう。}`
 `{ruby:No point stringing you along.":もったいぶる気もねェ」}`
 `{ruby:"Let's start from the beginning.:「まず始めに。}`
-`{ruby:......Who is this witch {f:5:Beatrice}?":……魔女のベアトリーチェとは何のことです？」}`
-`{ruby:"Strictly speaking, it isn't a person.:「厳密には人ではない。}`
-`{ruby:"{f:5:Beatrice}, the Golden Witch" is the name of a concept.":黄金の魔女ベアトリーチェという名の、概念だ」}`
-`{ruby:"You mean the ghost stories themselves?":「怪談そのものだと？」}`
-`{ruby:"To be more specific, even the ghost stories are only one of the elements that create the concept.":「さらに厳密には、怪談さえも概念を生み出す一要素に過ぎない」}`
+`{ruby:......Who is:……魔女のベアトリーチェ}{ruby:this witch {f:5:Beatrice}?":とは何のことです？」}`
+`{ruby:"Strictly speaking, it:「厳密には人で}{ruby:isn't a person.:はない。}`
+`{ruby:"{f:5:Beatrice}, the Golden Witch" is:黄金の魔女ベアトリーチェ}{ruby:the name of a concept.":という名の、概念だ」}`
+`{ruby:"You mean the:「怪談そのもの}{ruby:ghost stories themselves?":だと？」}`
+`{ruby:"To be more specific, even the ghost stories are:「さらに厳密には、怪談さえも概念}{ruby:only one of the elements that create the concept.":を生み出す一要素に過ぎない」}`
 `{ruby:"You've lost me.":「話がさっぱりです」}`
-`{ruby:"Ghost stories are normally told in the third person or second person.:「怪談は本来、三人称や二人称で語るべきものだ。}`
-`{ruby:However, someone started telling those in the first person.":それを、一人称で語り出したヤツがいる」}`
-`{ruby:"You mean someone started saying that they were {f:5:Beatrice} themselves...?":「自分がベアトリーチェだと、誰かが自称し始めた…？」}`
-`{ruby:"The legend of Rokkenjima's evil spirits, and the made‐up story for keeping kids out of the forest...:「六軒島の悪霊伝説や、子供を森に近付けないための作り話が、}`
-`{ruby:These were combined with Kinzo's constant cries of "Beatrice, Beatrice" and gradually became the legend of the witch.:金蔵が繰り返す、ベアトリーチェベアトリーチェの嘆きで修飾されて、魔女伝説を醸成していった。}`
-`{ruby:Ushiromiya Maria became entranced by that fictional witch and begged for a chance to meet her.:その架空の魔女に憧れて、会いたいと懇願したのが右代宮真里亞だ。}`
+`{ruby:"Ghost stories are normally told in:「怪談は本来、三人称や二人}{ruby:the third person or second person.:称で語るべきものだ。}`
+`{ruby:However, someone started telling:それを、一人称で語り出}{ruby:those in the first person.":したヤツがいる」}`
+`{ruby:"You mean someone started saying:「自分がベアトリーチェだと、}{ruby:that they were {f:5:Beatrice} themselves...?":誰かが自称し始めた…？」}`
+`{ruby:"The legend of Rokkenjima's evil spirits, and the:「六軒島の悪霊伝説や、子供を森に}{ruby:made‐up story for keeping kids out of the forest...:近付けないための作り話が、}`
+`{ruby:These were combined with Kinzo's constant cries of "Beatrice,:金蔵が繰り返す、ベアトリーチェベアトリーチェの嘆}{ruby:Beatrice" and gradually became the legend of the witch.:きで修飾されて、魔女伝説を醸成していった。}`
+`{ruby:Ushiromiya Maria became entranced by that fictional witch:その架空の魔女に憧れて、会いたいと}{ruby:and begged for a chance to meet her.:懇願したのが右代宮真里亞だ。}`
 `{ruby:And then, someone...:……それに、}`
 `{ruby:{i:granted her wish}.":{i:応えた}ヤツがいる」}`
-`{ruby:".........I'm still not following, but I'll just nod and tell you to keep going.:「………さっぱりな話ですが、腰を折らずに相槌を打ちましょう。}`
-`{ruby:......What do you mean by "granted her wish"?":……応えたとは、どういう意味です？」}`
-`{ruby:"Because of the unfortunate way in which Ushiromiya Maria was brought up, she became obsessed with the occult.:「右代宮真里亞は気の毒な生い立ちにより、オカルトに執着するようになった。}`
-`{ruby:......Someone felt sympathy for her, acted the part of {f:5:Beatrice}, and played with her.":……その彼女に同情したヤツが、ベアトリーチェに扮して、真里亞と遊んでやったということだ」}`
-`{ruby:Maria tends to recognize people by their behavior instead of their physical appearance.:真里亞は、人を視覚より、内面で判断する傾向が強い。}`
-`{ruby:When Rosa becomes violent, Maria calls her "the black witch", and at these times, Maria views her as a different person, not her mother.:同じ母親であっても、暴力的な時は黒い魔女と呼び、決して母親と同一視しなかった。}`
+`{ruby:".........I'm still not following, but I'll just:「………さっぱりな話ですが、腰を}{ruby:nod and tell you to keep going.:折らずに相槌を打ちましょう。}`
+`{ruby:......What do you mean:……応えたとは、どう}{ruby:by "granted her wish"?":いう意味です？」}`
+`{ruby:"Because of the unfortunate way in which Ushiromiya Maria:「右代宮真里亞は気の毒な生い立ちにより}{ruby:was brought up, she became obsessed with the occult.:、オカルトに執着するようになった。}`
+`{ruby:......Someone felt sympathy for her, acted the:……その彼女に同情したヤツが、ベアトリーチェに}{ruby:part of {f:5:Beatrice}, and played with her.":扮して、真里亞と遊んでやったということだ」}`
+`{ruby:Maria tends to recognize people by:真里亞は、人を視覚より、内面}{ruby:their behavior instead of their physical appearance.:で判断する傾向が強い。}`
+`{ruby:When Rosa becomes violent, Maria calls her "the black witch", and at:同じ母親であっても、暴力的な時は黒い魔女と}{ruby:these times, Maria views her as a different person, not her mother.:呼び、決して母親と同一視しなかった。}`
 `{ruby:So,:即ち。}`
-`{ruby:this means that she tends to think of the same person as different people depending on their behavior.:視覚的には同一人物であっても、内面が異なれば、別の人間だと認識する傾向があるということだ。}`
-`{ruby:We can use this to see the scene where Maria first met {f:5:Beatrice} in a new light.:真里亞が初めてベアトリーチェに出会った時のエピソードは、以上から簡単に読み解ける。}`
-`{ruby:After being chased out of the mansion by the adults, Maria decided to drink some tea in the rose garden.:大人の話があるからと屋敷を追い出された真里亞は、薔薇庭園でお茶を飲むことにした。}`
-`{ruby:At that time, someone probably started talking to Maria.:恐らくその時、誰かが真里亞の話し相手になってくれた。}`
-`{ruby:Then, ......when they heard this occult‐loving girl talking happily about how she wanted to meet the witch {f:5:Beatrice},:そして、……魔女ベアトリーチェに会いたいと嬉しそうに話すオカルト少女に、}`
-`{ruby:.........this person acted as though {f:5:Beatrice} was possessing them.:………あたかも自分がベアトリーチェに憑依されたかのように振舞ったのだ。}`
-`{ruby:On the outside, they didn't look like {f:5:Beatrice}.:外見的には、それはベアトリーチェではない。}`
-`{ruby:However, when their manner of speech and behavior changed abruptly, Maria would recognize them as a different person.:しかし真里亞は、喋り方や振る舞いが急に変わった時点で、その人物を別の人間だと認識する。}`
-`{ruby:That's why "her" appearance was so sudden.:だからそれは、唐突に現れたのだ。}`
-`{ruby:"We can probably view Maria's love of witches and the occult as a form of escapism.:「真里亞にとっての魔女やオカルトは、ある種の現実逃避と見ていい。}`
-`{ruby:......She believed the power of witches could change her unfulfilling and incomplete life.:……彼女は、満たされない現状が、魔女の力で打ち破られると信じていたんだ。}`
-`{ruby:So, she {i:wanted} to believe in them.:だから、魔女の存在を信じたかった。}`
-`{ruby:Because if she believed in witches, she could also believe in her own happiness.":それを信じれば、自分が幸せになれると信じられるから」}`
-`{ruby:"......It's true that Aunt Rosa is bringing up Maria by herself, and that she's always busy with work.:「……確かに真里亞ちゃんは、楼座叔母さんひとりが育ててますし、楼座叔母さんも仕事で多忙。}`
-`{ruby:I do feel sorry for Maria, but still...":確かに少し気の毒な子とは思いますが…」}`
+`{ruby:this means that she tends to think of the:視覚的には同一人物であっても、内面が異なれば、別}{ruby:same person as different people depending on their behavior.:の人間だと認識する傾向があるということだ。}`
+`{ruby:We can use this to see the scene:真里亞が初めてベアトリーチェに出会った時のエ}{ruby:where Maria first met {f:5:Beatrice} in a new light.:ピソードは、以上から簡単に読み解ける。}`
+`{ruby:After being chased out of the mansion by the adults,:大人の話があるからと屋敷を追い出された真里}{ruby:Maria decided to drink some tea in the rose garden.:亞は、薔薇庭園でお茶を飲むことにした。}`
+`{ruby:At that time, someone:恐らくその時、誰かが真里亞の}{ruby:probably started talking to Maria.:話し相手になってくれた。}`
+`{ruby:Then, ......when they heard this occult‐loving girl talking happily:そして、……魔女ベアトリーチェに会いた}{ruby:about how she wanted to meet the witch {f:5:Beatrice},:いと嬉しそうに話すオカルト少女に、}`
+`{ruby:.........this person acted as:………あたかも自分がベアトリーチェに憑}{ruby:though {f:5:Beatrice} was possessing them.:依されたかのように振舞ったのだ。}`
+`{ruby:On the outside, they:外見的には、それはベアト}{ruby:didn't look like {f:5:Beatrice}.:リーチェではない。}`
+`{ruby:However, when their manner of speech and behavior changed:しかし真里亞は、喋り方や振る舞いが急に変わった}{ruby:abruptly, Maria would recognize them as a different person.:時点で、その人物を別の人間だと認識する。}`
+`{ruby:That's why "her":だからそれは、唐突}{ruby:appearance was so sudden.:に現れたのだ。}`
+`{ruby:"We can probably view Maria's love of witches:「真里亞にとっての魔女やオカルトは}{ruby:and the occult as a form of escapism.:、ある種の現実逃避と見ていい。}`
+`{ruby:......She believed the power of witches:……彼女は、満たされない現状が、魔女の}{ruby:could change her unfulfilling and incomplete life.:力で打ち破られると信じていたんだ。}`
+`{ruby:So, she {i:wanted}:だから、魔女の存在を}{ruby:to believe in them.:信じたかった。}`
+`{ruby:Because if she believed in witches, she:それを信じれば、自分が幸せに}{ruby:could also believe in her own happiness.":なれると信じられるから」}`
+`{ruby:"......It's true that Aunt Rosa is bringing up Maria:「……確かに真里亞ちゃんは、楼座叔母さんひとり}{ruby:by herself, and that she's always busy with work.:が育ててますし、楼座叔母さんも仕事で多忙。}`
+`{ruby:I do feel sorry:確かに少し気の毒な子と}{ruby:for Maria, but still...":は思いますが…」}`
 `{ruby:"Don't ignore the heart.:「心を、蔑ろにするんじゃねェ。}`
-`{ruby:......So, Maria believed {i:for the sake of believing}.:……だから真里亞は“信じる”ために、信じた。}`
-`{ruby:She believed in {f:5:Beatrice}'s simple conjuring trick from the bottom of her heart.:ベアトリーチェが見せた手品紛いも、心の底から信じたんだ。}`
+`{ruby:......So, Maria believed {i:for:……だから真里亞は“信じ}{ruby:the sake of believing}.:る”ために、信じた。}`
+`{ruby:She believed in {f:5:Beatrice}'s simple conjuring:ベアトリーチェが見せた手品紛い}{ruby:trick from the bottom of her heart.:も、心の底から信じたんだ。}`
 `{ruby:That probably comforted her a lot.:それは彼女の心を、大いに慰めただろう。}`
-`{ruby:......And at that moment, the witch {f:5:Beatrice} was born.":……そしてここに、魔女ベアトリーチェが誕生したんだ」}`
-`{ruby:"Someone saw that Maria‐chan wanted to meet a witch, so they decided to play witches with her...?":「魔女に会いたいと願う真里亞ちゃんのために、誰かが魔女ごっこに付き合ったと…？」}`
+`{ruby:......And at that moment,:……そしてここに、魔女ベアト}{ruby:the witch {f:5:Beatrice} was born.":リーチェが誕生したんだ」}`
+`{ruby:"Someone saw that Maria‐chan wanted to meet a:「魔女に会いたいと願う真里亞ちゃんのために}{ruby:witch, so they decided to play witches with her...?":、誰かが魔女ごっこに付き合ったと…？」}`
 `{ruby:"That's right.":「そうだ」}`
-`{ruby:This marks the birth of Beato the Elder.:これが、姉ベアトの誕生だ。}`
-`{ruby:All of that about living a thousand years and being bound to Rokkenjima.:千年を生き、六軒島に封じ込められて云々。}`
-`{ruby:That was all the result of mixing the legend of Rokkenjima's evil spirits with the story of a ghost wandering the mansion at night.:それらは六軒島の悪霊伝説に、屋敷を深夜に徘徊する亡霊の話がミックスされてる。}`
-`{ruby:As Furudo Erika guessed, the two ghost stories fused.:古戸ヱリカの推理通り、２つの怪談が融合したものだ。}`
-`{ruby:Someone fused the two stories together and acted the part.:誰かが、２つを融合し、それを演じた。}`
-`{ruby:So, {f:5:Beatrice} held traits from both ghost stories: she was the master of the mansion's night, while also fearing spiderwebs.:だからベアトリーチェは、屋敷の夜の主であると同時に、蜘蛛の糸を恐れるという、２つの怪談の特徴を兼ね備える。}`
-`{ruby:"So, when {f:5:Bernkastel} asks us who killed {f:5:Beatrice},:「ではつまり、ベルンカステルの問う、ベアトリーチェを殺したのは誰か、というのは、}`
-`{ruby:she means who killed the kind person who pretended to be {f:5:Beatrice}?":そのベアトリーチェを演じた心優しい誰かを殺したのは誰か？、という話なのですか」}`
+`{ruby:This marks the birth:これが、姉ベアト}{ruby:of Beato the Elder.:の誕生だ。}`
+`{ruby:All of that about living a:千年を生き、六軒島に封}{ruby:thousand years and being bound to Rokkenjima.:じ込められて云々。}`
+`{ruby:That was all the result of mixing the legend of Rokkenjima's evil:それらは六軒島の悪霊伝説に、屋敷を深夜に}{ruby:spirits with the story of a ghost wandering the mansion at night.:徘徊する亡霊の話がミックスされてる。}`
+`{ruby:As Furudo Erika guessed,:古戸ヱリカの推理通り、２つの}{ruby:the two ghost stories fused.:怪談が融合したものだ。}`
+`{ruby:Someone fused the two stories:誰かが、２つを融合し}{ruby:together and acted the part.:、それを演じた。}`
+`{ruby:So, {f:5:Beatrice} held traits from both ghost stories: she was:だからベアトリーチェは、屋敷の夜の主であると同時に、蜘蛛}{ruby:the master of the mansion's night, while also fearing spiderwebs.:の糸を恐れるという、２つの怪談の特徴を兼ね備える。}`
+`{ruby:"So, when {f:5:Bernkastel} asks:「ではつまり、ベルンカステルの問う、ベアト}{ruby:us who killed {f:5:Beatrice},:リーチェを殺したのは誰か、というのは、}`
+`{ruby:she means who killed the kind:そのベアトリーチェを演じた心優しい誰かを殺}{ruby:person who pretended to be {f:5:Beatrice}?":したのは誰か？、という話なのですか」}`
 `{ruby:"That's close, but not quite.:「似てて少し異なる。}`
 `{ruby:It's not the one who pretended.:演じたんじゃない。}`
-`{ruby:We're talking about two different people.:異なる２人なんだ。}`
-`{ruby:......In Maria's eyes, just like how her mother and the black witch are different people,:……真里亞にとって、黒い魔女と母は別人物であるように。}`
-`{ruby:{f:5:Beatrice} and the person who played that part are also different people.":真里亞にとって、ベアトリーチェとそれを演じた人間も、別人物になるんだ」}`
+`{ruby:We're talking about:異なる２人な}{ruby:two different people.:んだ。}`
+`{ruby:......In Maria's eyes, just like how her:……真里亞にとって、黒い魔女と}{ruby:mother and the black witch are different people,:母は別人物であるように。}`
+`{ruby:{f:5:Beatrice} and the person who played:真里亞にとって、ベアトリーチェとそれを}{ruby:that part are also different people.":演じた人間も、別人物になるんだ」}`
 `{ruby:It's just like Mariage Sorcière.:マリアージュ・ソルシエールのように。}`
-`{ruby:That was where one person would be the creator, and the other person would acknowledge those creations, thereby nurturing the illusion.:１人が生み出し、もう１人に認められることで、幻想を育む関係だったように。}`
-`{ruby:The Golden Witch {f:5:Beatrice} was also created by one person, and then nurtured when Maria acknowledged her.:黄金の魔女ベアトリーチェも、１人に生み出され、真里亞に認められることで育まれた。}`
-`{ruby:"You mean, even if you kill the acted character, that doesn't mean you've killed the kind person who was playing the part?":「つまり、演じた役を殺しても、それは演じた心優しい誰かを殺したことにはならないと？」}`
-`{ruby:"Even if {f:5:Beatrice}'s vessel is lost, that isn't the same as {f:5:Beatrice} being killed.":「依り代が失われただけでは、ベアトリーチェが殺されたことにはならないってことだ」}`
-`{ruby:"......It's easier to understand if we use a telephone as an example.:「……電話で例えるとわかりやすい。}`
+`{ruby:That was where one person would be the creator, and:１人が生み出し、もう１人に認められるこ}{ruby:the other person would acknowledge those creations, thereby nurturing the illusion.:とで、幻想を育む関係だったように。}`
+`{ruby:The Golden Witch {f:5:Beatrice} was also created by:黄金の魔女ベアトリーチェも、１人に生み出さ}{ruby:one person, and then nurtured when Maria acknowledged her.:れ、真里亞に認められることで育まれた。}`
+`{ruby:"You mean, even if you kill the acted character, that doesn't:「つまり、演じた役を殺しても、それは演じた心}{ruby:mean you've killed the kind person who was playing the part?":優しい誰かを殺したことにはならないと？」}`
+`{ruby:"Even if {f:5:Beatrice}'s vessel is lost, that:「依り代が失われただけでは、ベアトリーチェ}{ruby:isn't the same as {f:5:Beatrice} being killed.":が殺されたことにはならないってことだ」}`
+`{ruby:"......It's easier to understand if we:「……電話で例えると}{ruby:use a telephone as an example.:わかりやすい。}`
 `{ruby:Let's say I call you on the phone.:俺とお前が電話で話しているとする。}`
-`{ruby:From my perspective during the call, the phone is you, in the sense that it is what I talk to.":その時、俺にとって電話は、話し掛ける対象でありお前そのものだ」}`
+`{ruby:From my perspective during the call, the phone is you,:その時、俺にとって電話は、話し掛け}{ruby:in the sense that it is what I talk to.":る対象でありお前そのものだ」}`
 `{ruby:"But what if I destroy the phone?":「しかしもし、電話を壊したなら？」}`
 `{ruby:"......I see.:「……なるほど。}`
-`{ruby:If you kill the phone, you won't be able to talk to me, but that doesn't mean you've killed me.":電話を殺せば、私と話すことは出来なくなりますが、しかしそれは、私を殺したことにはならない」}`
-`{ruby:"We know Maria once offered to let {f:5:Beatrice} possess her, early on in their relationship.:「真里亞は初期のベアトリーチェに、自分に憑依してもいいと言った。}`
-`{ruby:That clearly shows that {f:5:Beatrice} did not look like the portrait at that time.":それは明白に、初期のベアトリーチェが、肖像画の姿を模していなかったことを示す」}`
-`{ruby:"So, if the person acting the part and the witch character they play are different people, ......we're talking about killing just the witch character itself.:「演じた魔女役と、演じた人物は別人という考え方で、……演じた魔女役のみを殺す。}`
+`{ruby:If you kill the phone, you won't be able to:電話を殺せば、私と話すことは出来なくなりますが、}{ruby:talk to me, but that doesn't mean you've killed me.":しかしそれは、私を殺したことにはならない」}`
+`{ruby:"We know Maria once offered to let:「真里亞は初期のベアトリーチェに、}{ruby:{f:5:Beatrice} possess her, early on in their relationship.:自分に憑依してもいいと言った。}`
+`{ruby:That clearly shows that {f:5:Beatrice} did not:それは明白に、初期のベアトリーチェが、肖像}{ruby:look like the portrait at that time.":画の姿を模していなかったことを示す」}`
+`{ruby:"So, if the person acting the part and the witch character they:「演じた魔女役と、演じた人物は別人という考}{ruby:play are different people, ......we're talking about killing just the witch character itself.:え方で、……演じた魔女役のみを殺す。}`
 `{ruby:......Is that even possible?":……そんなことが出来るんですか？」}`
-`{ruby:"Only the actor can kill the character.:「演じた本人にしか、殺せない。}`
-`{ruby:In other words, the person who killed {f:5:Beatrice} is the person who played the part of {f:5:Beatrice}.":即ち、ベアトリーチェを殺したヤツとは、ベアトリーチェを演じたヤツと同義だ」}`
-`{ruby:"You mean that the person who played witches with Maria‐chan is the culprit {f:5:Bernkastel}'s talking about?":「真里亞ちゃんと魔女ごっこをした相手が、ベルンカステルの求める犯人だということなんですか？」}`
+`{ruby:"Only the actor:「演じた本人にしか}{ruby:can kill the character.:、殺せない。}`
+`{ruby:In other words, the person who killed {f:5:Beatrice}:即ち、ベアトリーチェを殺したヤツとは、ベ}{ruby:is the person who played the part of {f:5:Beatrice}.":アトリーチェを演じたヤツと同義だ」}`
+`{ruby:"You mean that the person who played witches:「真里亞ちゃんと魔女ごっこをした相手が、ベルンカ}{ruby:with Maria‐chan is the culprit {f:5:Bernkastel}'s talking about?":ステルの求める犯人だということなんですか？」}`
 `{ruby:"That's it.:「そうなる。}`
-`{ruby:.........But, as if this wasn't confusing enough, this chapel is now a world inside a cat box.:………しかし、ややこしいことに、この礼拝堂は今、猫箱の内側の世界だ。}`
-`{ruby:The culprit is the cat, and there are now two cats existing at the same time—one alive, and one dead.":その犯人という名の猫は、生きた猫と死んだ猫の２匹がここに、同時に存在している」}`
+`{ruby:.........But, as if this wasn't confusing enough, this:………しかし、ややこしいことに、この}{ruby:chapel is now a world inside a cat box.:礼拝堂は今、猫箱の内側の世界だ。}`
+`{ruby:The culprit is the cat, and there are now two:その犯人という名の猫は、生きた猫と死んだ猫}{ruby:cats existing at the same time—one alive, and one dead.":の２匹がここに、同時に存在している」}`
 `{ruby:"......Confusing is right.:「……本当にややこしい。}`
 `{ruby:I'm still lost, but keep going.:さっぱりですが、先を促しましょう。}`
-`{ruby:You're saying that there are two culprits?":つまり、犯人が２人いると仰りたいので？」}`
+`{ruby:You're saying that:つまり、犯人が２人いる}{ruby:there are two culprits?":と仰りたいので？」}`
 `{ruby:"Right.:「そうだ。}`
-`{ruby:......The person who can create and kill {f:5:Beatrice}...:……ベアトリーチェを生み、殺すことが出来る人間と、}`
-`{ruby:...and the person who never gave birth to {f:5:Beatrice} in the first place, who can kill the entire concept of {f:5:Beatrice}.:……そもそもベアトリーチェなど生ませもしない、概念ごと殺すことが出来る人間。}`
+`{ruby:......The person who can:……ベアトリーチェを生み、殺}{ruby:create and kill {f:5:Beatrice}...:すことが出来る人間と、}`
+`{ruby:...and the person who never gave birth to {f:5:Beatrice} in:……そもそもベアトリーチェなど生ませもし}{ruby:the first place, who can kill the entire concept of {f:5:Beatrice}.:ない、概念ごと殺すことが出来る人間。}`
 `{ruby:Both of those people are here.":その２人が、ここにいるってことだ」}`
 `{ruby:"Then let me ask.:「では、お尋ねしましょう。}`
 `{ruby:In this {f:5:Beatrice} murder case,:ベアトリーチェ殺人事件。}`
@@ -108,360 +108,360 @@
 `{ruby:......:……ぁ}`
 `{ruby:......?":……？」}`
 `{ruby:"The logic is extremely simple.:「非常に単純な推理だ。}`
-`{ruby:Your world is the only one where the witch {f:5:Beatrice} doesn't exist.":お前の存在する世界にだけ、魔女ベアトリーチェが存在しない」}`
+`{ruby:Your world is the only one:お前の存在する世界にだけ、魔女ベ}{ruby:where the witch {f:5:Beatrice} doesn't exist.":アトリーチェが存在しない」}`
 `{ruby:"I don't understand.":「意味がわかりません」}`
-`{ruby:"Both Maria and Jessica told me stories about the witch {f:5:Beatrice}.:「真里亞も朱志香も、魔女ベアトリーチェとの話を聞かせてくれた。}`
-`{ruby:However, when they talked about the ranking system at the dining table, you weren't there.":しかし、彼女らの親族会議における食堂の席順には、お前が含まれていない」}`
+`{ruby:"Both Maria and Jessica told:「真里亞も朱志香も、魔女ベアトリー}{ruby:me stories about the witch {f:5:Beatrice}.:チェとの話を聞かせてくれた。}`
+`{ruby:However, when they talked about the ranking:しかし、彼女らの親族会議における食堂の}{ruby:system at the dining table, you weren't there.":席順には、お前が含まれていない」}`
 `{ruby:"I...wasn't there...?":「私が含まれて、いない…？」}`
-`{ruby:"Maria came to visit Rokkenjima with Rosa.:「真里亞は、楼座と共に六軒島を訪れた。}`
+`{ruby:"Maria came to:「真里亞は、楼座と共に}{ruby:visit Rokkenjima with Rosa.:六軒島を訪れた。}`
 `{ruby:And Rosa was sitting next to her.:そして、隣の席には楼座がいた。}`
 `{ruby:That's impossible.:ありえない。}`
-`{ruby:.........If you exist, then after Rosa comes you, then Jessica, then Maria.":………お前がいるならば、楼座の次の序列は、理御になり、そして朱志香になり、次が真里亞になるはず」}`
-`{ruby:There should be two people between Rosa and Maria in rank.:楼座と真里亞の序列の間には、理御と朱志香が二人入るはず。}`
-`{ruby:In that case, they should be across the table from each other and separated by one seat.:二人入ったら、席は右斜め前になる。}`
-`{ruby:......In other words, in the world where Lion exists, it's impossible for Maria to be sitting next to Rosa.:……つまり、真里亞の隣に楼座が座ることは、理御の存在する世界では、ありえない。}`
+`{ruby:.........If you exist, then after Rosa:………お前がいるならば、楼座の次の序列は、理御にな}{ruby:comes you, then Jessica, then Maria.":り、そして朱志香になり、次が真里亞になるはず」}`
+`{ruby:There should be two people:楼座と真里亞の序列の間には、理}{ruby:between Rosa and Maria in rank.:御と朱志香が二人入るはず。}`
+`{ruby:In that case, they should be across the:二人入ったら、席は右}{ruby:table from each other and separated by one seat.:斜め前になる。}`
+`{ruby:......In other words, in the world where Lion exists,:……つまり、真里亞の隣に楼座が座ることは、}{ruby:it's impossible for Maria to be sitting next to Rosa.:理御の存在する世界では、ありえない。}`
 `{ruby:"It was the same in Jessica's story.:「朱志香の話も同じだ。}`
-`{ruby:If you're included in the ranking, then when looking down the table towards Kinzo's seat, you should be on the left side and Jessica should be on the right.:お前が序列に加わっているなら、金蔵の席を正面に、左列に理御、右列に朱志香。}`
-`{ruby:After that comes George on the left side and Ange on the right.:そして左列に譲治、右列に縁寿となる。}`
-`{ruby:......Jessica and Ange will be sitting next to each other whether you're there or not.:……朱志香と縁寿は、理御がいてもいなくても隣り合う。}`
-`{ruby:However, which side of the table they're sitting on changes.":しかし、理御がいるかいないかで、その席が、右になるか左になるかが異なる」}`
-`{ruby:In the world where Lion exists, Ange's seat is on Jessica's left.:理御がいる世界ならば、朱志香の左が、縁寿の席となる。}`
-`{ruby:{n}However, if Lion doesn't exist, then Ange's seat is on Jessica's right.:{n}しかし、理御がいない序列だと、縁寿の席は、朱志香の右になる。}`
-`{ruby:"Every time someone talked about the witch {f:5:Beatrice} of 1986, they were all talking about a world where you don't exist.:「１９８６年の魔女ベアトリーチェを語る人間は、皆、お前のいない世界を語っている。}`
-`{ruby:And, in your world, there are no ghost stories about a witch.:そして、お前の世界では、魔女の怪談が存在しない。}`
-`{ruby:To you, "Beatrice" is either Kinzo's mistress or his benefactor, not a wandering ghost.":お前にとってベアトリーチェは、金蔵の愛人、もしくは恩人であって、化けて出る亡霊ではない」}`
-`{ruby:"The head loved Beatrice deeply, did he not?:「当主様は、ベアトリーチェと深い愛情を育まれたのでしょう？}`
-`{ruby:I can't imagine why she would be made into a ghost story.":どうして化けて出て怪談になるのかさっぱりわかりません」}`
+`{ruby:If you're included in the ranking, then when looking down the table towards Kinzo's:お前が序列に加わっているなら、金蔵の席を}{ruby:seat, you should be on the left side and Jessica should be on the right.:正面に、左列に理御、右列に朱志香。}`
+`{ruby:After that comes George on the:そして左列に譲治、右}{ruby:left side and Ange on the right.:列に縁寿となる。}`
+`{ruby:......Jessica and Ange will be sitting next:……朱志香と縁寿は、理御がい}{ruby:to each other whether you're there or not.:てもいなくても隣り合う。}`
+`{ruby:However, which side of the:しかし、理御がいるかいないかで、その席}{ruby:table they're sitting on changes.":が、右になるか左になるかが異なる」}`
+`{ruby:In the world where Lion exists,:理御がいる世界ならば、朱志香}{ruby:Ange's seat is on Jessica's left.:の左が、縁寿の席となる。}`
+`{ruby:{n}However, if Lion doesn't exist, then:{n}しかし、理御がいない序列だと、}{ruby:Ange's seat is on Jessica's right.:縁寿の席は、朱志香の右になる。}`
+`{ruby:"Every time someone talked about the witch {f:5:Beatrice} of 1986,:「１９８６年の魔女ベアトリーチェを語る人間}{ruby:they were all talking about a world where you don't exist.:は、皆、お前のいない世界を語っている。}`
+`{ruby:And, in your world, there are:そして、お前の世界では、魔}{ruby:no ghost stories about a witch.:女の怪談が存在しない。}`
+`{ruby:To you, "Beatrice" is either Kinzo's mistress:お前にとってベアトリーチェは、金蔵の愛人、もし}{ruby:or his benefactor, not a wandering ghost.":くは恩人であって、化けて出る亡霊ではない」}`
+`{ruby:"The head loved Beatrice:「当主様は、ベアトリーチェと深い}{ruby:deeply, did he not?:愛情を育まれたのでしょう？}`
+`{ruby:I can't imagine why she would:どうして化けて出て怪談になるの}{ruby:be made into a ghost story.":かさっぱりわかりません」}`
 `{ruby:"Exactly.:「そういうことだ。}`
-`{ruby:If you exist, the witch {f:5:Beatrice} doesn't.:お前が存在すると、魔女ベアトリーチェが存在しない。}`
+`{ruby:If you exist,:お前が存在すると、魔女ベアト}{ruby:the witch {f:5:Beatrice} doesn't.:リーチェが存在しない。}`
 `{ruby:Your existence...:お前の存在は、}`
 `{ruby:...{i:kills {f:7:Beatrice}}.":{i:ベアトリーチェを殺してる}」}`
-`{ruby:"Are you saying I'm the culprit who killed {f:5:Beatrice}......?:「私が、ベアトリーチェ殺しの犯人だと……？}`
+`{ruby:"Are you saying I'm:「私が、ベアトリーチェ殺}{ruby:the culprit who killed {f:5:Beatrice}......?:しの犯人だと……？}`
 `{ruby:That's......just crazy.:これは、……おかしな話になったものです。}`
-`{ruby:How can I be the culprit if I don't even understand her and have never met her?":会ったことはおろか、話もよくわからないのに、犯人だなんて」}`
+`{ruby:How can I be the culprit if I:会ったことはおろか、話もよくわか}{ruby:don't even understand her and have never met her?":らないのに、犯人だなんて」}`
 `{ruby:"Flip it around.:「裏を返せば。}`
-`{ruby:......If you don't exist, {f:5:Beatrice} will be born.":……お前が存在しなければ、ベアトリーチェが生まれるということだ」}`
+`{ruby:......If you don't exist,:……お前が存在しなければ、ベアトリ}{ruby:{f:5:Beatrice} will be born.":ーチェが生まれるということだ」}`
 `{ruby:"Flip it?:「裏を返せば？}`
-`{ruby:Are you trying to say {f:5:Beatrice} and I are two sides of a coin?":私とベアトリーチェが、コインの裏表とでも仰るので？」}`
+`{ruby:Are you trying to say {f:5:Beatrice} and:私とベアトリーチェが、コインの}{ruby:I are two sides of a coin?":裏表とでも仰るので？」}`
 `{ruby:"That's a good way to put it.:「いい例えだ。}`
 `{ruby:That's it exactly.:その通り。}`
-`{ruby:You're a coin, and {f:5:Beatrice} is on the other side.":お前というコインの裏側が、ベアトリーチェなんだ」}`
+`{ruby:You're a coin, and {f:5:Beatrice}:お前というコインの裏側が、}{ruby:is on the other side.":ベアトリーチェなんだ」}`
 `{ruby:"I don't get it at all.":「何のことやら、さっぱりです」}`
-`{ruby:"At first, I didn't get your existence either.:「俺も、お前の存在がさっぱりだった。}`
-`{ruby:......But, I have formed a theory about you, after hearing all this.:……だが、色々と話を聞いていく内に、お前の存在について、一つの仮説が立った。}`
-`{ruby:The important fact is that you're 19 years old.":それはお前が、１９歳だという点だ」}`
-`{ruby:"......I don't remember telling you my age, but you got it right.:「……あなたに年齢を明かした覚えはなかったのですが、ご名答です。}`
+`{ruby:"At first, I didn't:「俺も、お前の存在が}{ruby:get your existence either.:さっぱりだった。}`
+`{ruby:......But, I have formed a theory:……だが、色々と話を聞いていく内に、お前}{ruby:about you, after hearing all this.:の存在について、一つの仮説が立った。}`
+`{ruby:The important fact is:それはお前が、１９歳}{ruby:that you're 19 years old.":だという点だ」}`
+`{ruby:"......I don't remember telling you my:「……あなたに年齢を明かした覚えは}{ruby:age, but you got it right.:なかったのですが、ご名答です。}`
 `{ruby:......How?":……どうして？」}`
-`{ruby:"Jessica said you were already the student council vice‐president when she started, and that you became the president the next year.:「朱志香はお前のことを、入学した時にはもう副会長で、その翌年には生徒会長になったと言った。}`
-`{ruby:That means you're one year older than Jessica.":これは、お前の年齢が朱志香より１つ上であることを示す」}`
-`{ruby:Jessica is 18 years old, .........so Lion must be 19.:１８歳の朱志香の１つ上ならば、………理御は１９歳ということになる。}`
+`{ruby:"Jessica said you were already the student council vice‐president when:「朱志香はお前のことを、入学した時にはもう副会長}{ruby:she started, and that you became the president the next year.:で、その翌年には生徒会長になったと言った。}`
+`{ruby:That means you're one:これは、お前の年齢が朱志香より}{ruby:year older than Jessica.":１つ上であることを示す」}`
+`{ruby:Jessica is 18 years old,:１８歳の朱志香の１つ上ならば、………}{ruby:.........so Lion must be 19.:理御は１９歳ということになる。}`
 `{ruby:"I see...:「なるほど…。}`
-`{ruby:And what sort of theory can you make, now that you know I'm 19?":それで、私が１９歳だと、何の仮説が立つというんです？」}`
-`{ruby:"You aren't Ushiromiya Natsuhi's child, that's the theory.":「お前が右代宮夏妃の子ではない、という仮説だ」}`
+`{ruby:And what sort of theory can you:それで、私が１９歳だと、何の仮}{ruby:make, now that you know I'm 19?":説が立つというんです？」}`
+`{ruby:"You aren't Ushiromiya Natsuhi's:「お前が右代宮夏妃の子では}{ruby:child, that's the theory.":ない、という仮説だ」}`
 `{ruby:"...........................:「………………………。}`
 `{ruby:......How rude.:……失敬な。}`
-`{ruby:I don't know what game you're playing, but I demand that you take back that slanderous insult to both me and my mother.":何の気紛れかは存じませんが、私だけでなく、母も侮辱する発言には撤回を求めねばなりません」}`
-`{ruby:"Why are you the successor to the headship, instead of Krauss?":「なぜ、次期当主は蔵臼ではなく、お前なのか」}`
-`{ruby:"I will succeed the headship when I come of age.:「私が成人するから受け継がれるのです。}`
-`{ruby:When I have a kid, I'll probably pass the title down to them when they come of age.":私にも子が生まれたら、成人した時にそれを譲るべきでしょう」}`
-`{ruby:"Then why didn't Kinzo give the headship to Krauss when he came of age?":「なら、なぜ金蔵は蔵臼が成人した際に当主を譲らなかった？」}`
-`{ruby:".........You heard what our head said.:「………当主様の話を聞かれたでしょう。}`
-`{ruby:He was used by the cunning elders of the Ushiromiya family and suffered much.:当主様は右代宮家の老獪な親族たちに振り回され、辛い思いをされました。}`
-`{ruby:That's why he decided that only young people should inherit the headship from now—":だから、これからの当主は若者が受け継ぐべきだと思い、」}`
-`{ruby:"In the world without you in it, the silver ring for the successor to the headship doesn't even exist.:「お前のいない世界では、次期当主を証明する銀の指輪さえ存在しない。}`
-`{ruby:......That silver ring on your finger proves that Kinzo has a strong desire to see that you become the next head,:……お前が指にしているその銀の指輪は、金蔵がお前に当主を継承したいという、}`
-`{ruby:a desire which does not manifest in any other world.":他の世界にはない強い意思の証明だ」}`
-`{ruby:"......I can't deny that you may have a point there.:「……確かに、その点は否定できません。}`
-`{ruby:The head always seemed to adore me particularly.:当主様は、私を特に可愛がられておいでで、}`
-`{ruby:I was told from a young age that I would succeed the headship at once when I became an adult, and that it was very important for me to keep up with my studies in preparation for that day.":私が幼い頃から、成人したらすぐに当主を継承させる。その日に備え学業を怠るなと厳しく言われてきました」}`
-`{ruby:"......But I don't think my father was any less talented.:「……しかし、お父様にその資質がないとは思いません。}`
-`{ruby:Why did Grandfather skip over him and make me the successor?:なぜ、お父様を早々に飛び越して私が次期当主なのか。}`
-`{ruby:.........I've thought it strange from time to time, but since it's always been that way, I never said so aloud.":………不思議に思ったことはありますが、ずっとそうだったので、その疑問を口に出したことはありませんでした」}`
-`{ruby:"Do you know why Kinzo wanted you and not Krauss to become the next head?":「なぜ金蔵は、蔵臼よりお前に、強く当主を引き継がせたかったか、わかるか」}`
+`{ruby:I don't know what game you're playing, but I demand that:何の気紛れかは存じませんが、私だけでなく、母も}{ruby:you take back that slanderous insult to both me and my mother.":侮辱する発言には撤回を求めねばなりません」}`
+`{ruby:"Why are you the successor:「なぜ、次期当主は蔵臼で}{ruby:to the headship, instead of Krauss?":はなく、お前なのか」}`
+`{ruby:"I will succeed the headship:「私が成人するから受け}{ruby:when I come of age.:継がれるのです。}`
+`{ruby:When I have a kid, I'll probably pass the:私にも子が生まれたら、成人した時}{ruby:title down to them when they come of age.":にそれを譲るべきでしょう」}`
+`{ruby:"Then why didn't Kinzo give the headship:「なら、なぜ金蔵は蔵臼が成人した}{ruby:to Krauss when he came of age?":際に当主を譲らなかった？」}`
+`{ruby:".........You heard what:「………当主様の話を聞}{ruby:our head said.:かれたでしょう。}`
+`{ruby:He was used by the cunning elders:当主様は右代宮家の老獪な親族たちに振}{ruby:of the Ushiromiya family and suffered much.:り回され、辛い思いをされました。}`
+`{ruby:That's why he decided that only young:だから、これからの当主は若者が}{ruby:people should inherit the headship from now—":受け継ぐべきだと思い、」}`
+`{ruby:"In the world without you in it, the silver:「お前のいない世界では、次期当主を証}{ruby:ring for the successor to the headship doesn't even exist.:明する銀の指輪さえ存在しない。}`
+`{ruby:......That silver ring on your finger proves that Kinzo has:……お前が指にしているその銀の指輪は、金}{ruby:a strong desire to see that you become the next head,:蔵がお前に当主を継承したいという、}`
+`{ruby:a desire which does not:他の世界にはない強い}{ruby:manifest in any other world.":意思の証明だ」}`
+`{ruby:"......I can't deny that you:「……確かに、その点は}{ruby:may have a point there.:否定できません。}`
+`{ruby:The head always seemed:当主様は、私を特に可愛}{ruby:to adore me particularly.:がられておいでで、}`
+`{ruby:I was told from a young age that I would succeed the headship at once when I became an:私が幼い頃から、成人したらすぐに当主を継承させる。そ}{ruby:adult, and that it was very important for me to keep up with my studies in preparation for that day.":の日に備え学業を怠るなと厳しく言われてきました」}`
+`{ruby:"......But I don't think my:「……しかし、お父様にその資}{ruby:father was any less talented.:質がないとは思いません。}`
+`{ruby:Why did Grandfather skip over:なぜ、お父様を早々に飛び越し}{ruby:him and make me the successor?:て私が次期当主なのか。}`
+`{ruby:.........I've thought it strange from time to time, but since:………不思議に思ったことはありますが、ずっとそうだった}{ruby:it's always been that way, I never said so aloud.":ので、その疑問を口に出したことはありませんでした」}`
+`{ruby:"Do you know why Kinzo wanted you:「なぜ金蔵は、蔵臼よりお前に、強く当主}{ruby:and not Krauss to become the next head?":を引き継がせたかったか、わかるか」}`
 `{ruby:"How could I know?:「わかるわけもありません。}`
-`{ruby:.........Are you trying to tell me to stop ignoring the heart again?:………また、心を蔑ろにするんじゃないと仰るので？}`
-`{ruby:Tell me, what deduction can you make about how the head's heart works?":当主様のお心から、何が推理できると仰るんですか？」}`
-`{ruby:"It's because you're the child of Kinzo and Beatrice.":「お前が、ベアトリーチェと金蔵の、子供だからだ」}`
+`{ruby:.........Are you trying to tell me:………また、心を蔑ろにする}{ruby:to stop ignoring the heart again?:んじゃないと仰るので？}`
+`{ruby:Tell me, what deduction can you:当主様のお心から、何が推理で}{ruby:make about how the head's heart works?":きると仰るんですか？」}`
+`{ruby:"It's because you're the:「お前が、ベアトリーチェと}{ruby:child of Kinzo and Beatrice.":金蔵の、子供だからだ」}`
 `{ruby:"......Well done.:「……お見事。}`
 `{ruby:...*giggle*giggle*giggle*giggle*.":……くすくすくすくすくすくすくす」}`
-`{ruby:There was a crisp applause and a mocking laugh.:乾いた拍手と、小馬鹿にした笑い声。}`
+`{ruby:There was a crisp:乾いた拍手と、小馬鹿}{ruby:applause and a mocking laugh.:にした笑い声。}`
 `{ruby:"{f:5:Bernkastel}.":「ベルンカステルか」}`
-`{ruby:"......That was faster than I expected.:「……案外、早かったわ。}`
-`{ruby:I thought you'd let me play a bit longer.":もう少し、思考を遊ばせてくれると思ったら」}`
-`{ruby:{f:5:Bernkastel} appeared sitting on the altar,:もはやそこが、彼女の座るべきところとでも言うように、}`
-`{ruby:......almost as though it had become her own personal chair.:……ベルンカステルは祭壇に腰掛けた姿で現れる。}`
-`{ruby:"When did you realize that Lion shared Beatrice's blood?":「いつ、理御がベアトリーチェの血を引くと？」}`
-`{ruby:"As soon as I realized that Lion was 19.:「１９歳という年齢に気付いた時だ。}`
-`{ruby:......It was the same number as "the baby from 19 years ago", that hint which appeared in the fifth game.":……第５のゲームの時に登場したヒント、１９年前の赤ん坊と数字が合致する」}`
-`{ruby:"......Didn't that baby fall off a cliff?":「……その赤ん坊は、崖から落ちたのでは？」}`
-`{ruby:"Lion is the baby who was accepted by Natsuhi and didn't fall off the cliff.:「夏妃に受け入れられ、崖から落ちなかった１９年前の赤ん坊が、理御だ。}`
-`{ruby:In other words, if Natsuhi rejects the baby, Lion doesn't exist.":裏を返せば、夏妃に拒絶されれば、理御は存在しない」}`
-`{ruby:"You're saying......I'm not Mom's child...?!:「私が、……母さんの子じゃない…？！}`
+`{ruby:"......That was faster:「……案外、早}{ruby:than I expected.:かったわ。}`
+`{ruby:I thought you'd let:もう少し、思考を遊ばせて}{ruby:me play a bit longer.":くれると思ったら」}`
+`{ruby:{f:5:Bernkastel} appeared sitting:もはやそこが、彼女の座るべき}{ruby:on the altar,:ところとでも言うように、}`
+`{ruby:......almost as though it had:……ベルンカステルは祭壇に}{ruby:become her own personal chair.:腰掛けた姿で現れる。}`
+`{ruby:"When did you realize:「いつ、理御がベアトリー}{ruby:that Lion shared Beatrice's blood?":チェの血を引くと？」}`
+`{ruby:"As soon as I:「１９歳という年齢に}{ruby:realized that Lion was 19.:気付いた時だ。}`
+`{ruby:......It was the same number as "the baby from 19:……第５のゲームの時に登場したヒント、}{ruby:years ago", that hint which appeared in the fifth game.":１９年前の赤ん坊と数字が合致する」}`
+`{ruby:"......Didn't that baby:「……その赤ん坊は、崖か}{ruby:fall off a cliff?":ら落ちたのでは？」}`
+`{ruby:"Lion is the baby who was accepted:「夏妃に受け入れられ、崖から落ちなか}{ruby:by Natsuhi and didn't fall off the cliff.:った１９年前の赤ん坊が、理御だ。}`
+`{ruby:In other words, if Natsuhi:裏を返せば、夏妃に拒絶されれ}{ruby:rejects the baby, Lion doesn't exist.":ば、理御は存在しない」}`
+`{ruby:"You're saying......I'm:「私が、……母さんの}{ruby:not Mom's child...?!:子じゃない…？！}`
 `{ruby:That's insane......:馬鹿な……。}`
 `{ruby:.....................":…………………」}`
-`{ruby:"You say that, but you don't look too sure.:「そう言いつつも、心当たりはあるみたいね。}`
+`{ruby:"You say that, but:「そう言いつつも、心当た}{ruby:you don't look too sure.:りはあるみたいね。}`
 `{ruby:......*giggle*.:……くすくす。}`
 `{ruby:That's right.:そうよ。}`
-`{ruby:Ushiromiya Lion is not Natsuhi's child.:右代宮理御は、夏妃の子じゃないわ。}`
-`{ruby:This is the grown‐up version of the baby Kinzo got from somewhere 19 years ago.":１９年前に金蔵が何処かより連れてきた赤ん坊の成長した姿よ」}`
+`{ruby:Ushiromiya Lion is:右代宮理御は、夏妃の}{ruby:not Natsuhi's child.:子じゃないわ。}`
+`{ruby:This is the grown‐up version of the:１９年前に金蔵が何処かより連れて}{ruby:baby Kinzo got from somewhere 19 years ago.":きた赤ん坊の成長した姿よ」}`
 `{ruby:"Not "somewhere".:「何処か、じゃねェ。}`
-`{ruby:......Lion clearly shares Beatrice's blood.:……明白に、ベアトリーチェの血を引いている。}`
-`{ruby:The proof is the silver ring, which is only ever given to Lion across all of the many worlds.":その証拠が、数多の世界で理御にしか与えられない、銀の指輪だ」}`
-`{ruby:"Why does the ring prove that I share Beatrice's blood?":「この指輪があると、どうして私がベアトリーチェの血を引くと？」}`
-`{ruby:"In all of the many worlds, you are the only one who is given it.:「数多の世界で、お前にしか与えられない。}`
-`{ruby:That means that, in all worlds, you are the most important person to Kinzo, second only to Beatrice.:それは、全ての世界の中で、金蔵にとってお前は、ベアトリーチェの次に最も重要な人間であることを示している。}`
-`{ruby:And his love for you is far greater than it is for his son, Krauss, or his granddaughter, Jessica.:そしてそれは、実の息子の蔵臼や、孫の朱志香を遥かに超えている。}`
+`{ruby:......Lion clearly:……明白に、ベアトリーチ}{ruby:shares Beatrice's blood.:ェの血を引いている。}`
+`{ruby:The proof is the silver ring, which is only:その証拠が、数多の世界で理御にし}{ruby:ever given to Lion across all of the many worlds.":か与えられない、銀の指輪だ」}`
+`{ruby:"Why does the ring prove:「この指輪があると、どうして私がベ}{ruby:that I share Beatrice's blood?":アトリーチェの血を引くと？」}`
+`{ruby:"In all of the many worlds, you:「数多の世界で、お前に}{ruby:are the only one who is given it.:しか与えられない。}`
+`{ruby:That means that, in all worlds, you are the:それは、全ての世界の中で、金蔵にとってお前は、ベアトリ}{ruby:most important person to Kinzo, second only to Beatrice.:ーチェの次に最も重要な人間であることを示している。}`
+`{ruby:And his love for you is far greater than:そしてそれは、実の息子の蔵臼や、孫}{ruby:it is for his son, Krauss, or his granddaughter, Jessica.:の朱志香を遥かに超えている。}`
 `{ruby:And you are 19 years old.:そしてさらに、お前の年齢である１９。}`
-`{ruby:......In other words, if we look back to see what happened 19 years ago, we are led to one theory.":……即ち、１９年前に何があったかを遡れば、導き出される一つの推理がある」}`
+`{ruby:......In other words, if we look back to see what:……即ち、１９年前に何があったかを遡れ}{ruby:happened 19 years ago, we are led to one theory.":ば、導き出される一つの推理がある」}`
 `{ruby:"19 years ago?:「１９年前？}`
-`{ruby:What's supposed to have happened at the time I was born?":私が生まれた時に、何があったというんですか」}`
-`{ruby:".........You heard it too, didn't you?:「………あなたも聞いたはずよ？}`
+`{ruby:What's supposed to have happened:私が生まれた時に、何があっ}{ruby:at the time I was born?":たというんですか」}`
+`{ruby:".........You heard it:「………あなたも聞}{ruby:too, didn't you?:いたはずよ？}`
 `{ruby:Today, even.:それも今日。}`
 `{ruby:Will was with you.":ウィルと一緒にね？」}`
 `{ruby:"........................:「……………………。}`
-`{ruby:......You don't mean...Aunt Rosa's story?!":……まさか、楼座叔母さんの話だというのですか？！」}`
+`{ruby:......You don't:……まさか、楼座叔母さんの話}{ruby:mean...Aunt Rosa's story?!":だというのですか？！」}`
 `{ruby:"That's right.:「そうだ。}`
-`{ruby:Rosa's story came out in the third game, and when the age of the baby in the fifth game matched that date, a certain theory became possible.:第３のゲームで楼座の話が出て、第５のゲームでの赤ん坊の年齢が時間軸で一致した時、一つの推理が生まれた。}`
-`{ruby:The fact that Kinzo brought a baby from somewhere and tried to add it to his family...:あの金蔵が、どこからともなく赤ん坊を連れてきて、自分の血族に加えろというのは、}`
-`{ruby:proves that the baby was somehow important to him.":その赤ん坊が特別な存在であることの証拠だ」}`
+`{ruby:Rosa's story came out in the third game, and when the age of:第３のゲームで楼座の話が出て、第５のゲームでの赤ん坊の}{ruby:the baby in the fifth game matched that date, a certain theory became possible.:年齢が時間軸で一致した時、一つの推理が生まれた。}`
+`{ruby:The fact that Kinzo brought a baby from:あの金蔵が、どこからともなく赤ん坊を連れて}{ruby:somewhere and tried to add it to his family...:きて、自分の血族に加えろというのは、}`
+`{ruby:proves that the baby:その赤ん坊が特別な存在で}{ruby:was somehow important to him.":あることの証拠だ」}`
 `{ruby:"I'm...:「私が、}`
 `{ruby:...the Kuwadorian Beatrice's...:……九羽鳥庵のベアトリーチェの、}`
 `{ruby:...child......":……子供……」}`
-`{ruby:"The Kuwadorian Beatrice was the daughter of the Beatrice who came in the submarine.:「九羽鳥庵のベアトリーチェは、潜水艦で来たベアトリーチェの娘だ。}`
-`{ruby:......But Kinzo didn't think of her as a daughter.:……しかし金蔵は娘と思わなかった。}`
-`{ruby:He believed she was the same person, Beatrice reborn.:生き写しの、生まれ変わりと信じた。}`
-`{ruby:......When that "reincarnation" reached the same age as the first Beatrice, and truly looked like Beatrice's double,:……その生まれ変わりが、かつての年齢にまで成長し、まさに生き写しとなった時。}`
-`{ruby:......Kinzo made a terrible mistake.":金蔵は過ちを犯したんだ」}`
-`{ruby:".........I...I don't want to hear it!":「………き、聞きたくありませんっ」}`
+`{ruby:"The Kuwadorian Beatrice was the daughter of:「九羽鳥庵のベアトリーチェは、潜水}{ruby:the Beatrice who came in the submarine.:艦で来たベアトリーチェの娘だ。}`
+`{ruby:......But Kinzo didn't think:……しかし金蔵は娘と}{ruby:of her as a daughter.:思わなかった。}`
+`{ruby:He believed she was:生き写しの、生まれ変}{ruby:the same person, Beatrice reborn.:わりと信じた。}`
+`{ruby:......When that "reincarnation" reached the same age as:……その生まれ変わりが、かつての年齢にま}{ruby:the first Beatrice, and truly looked like Beatrice's double,:で成長し、まさに生き写しとなった時。}`
+`{ruby:......Kinzo made:金蔵は過ちを犯}{ruby:a terrible mistake.":したんだ」}`
+`{ruby:".........I...I don't want:「………き、聞きたく}{ruby:to hear it!":ありませんっ」}`
 `{ruby:"That's how it is.:「そういうこと。}`
-`{ruby:Kinzo got Beatrice pregnant with Beatrice,:金蔵はベアトリーチェにベアトリーチェを生ませ、}`
-`{ruby:and then he got that Beatrice pregnant with you.:さらにそのベアトリーチェにあんたを生ませたの。}`
-`{ruby:......So, you're both Kinzo's child and Beatrice's grandchild.":……あんたは金蔵の子であると同時に、ベアトリーチェの孫、ということね」}`
+`{ruby:Kinzo got Beatrice:金蔵はベアトリーチェにベア}{ruby:pregnant with Beatrice,:トリーチェを生ませ、}`
+`{ruby:and then he got:さらにそのベアトリーチェに}{ruby:that Beatrice pregnant with you.:あんたを生ませたの。}`
+`{ruby:......So, you're both Kinzo's:……あんたは金蔵の子であると同時に、ベ}{ruby:child and Beatrice's grandchild.":アトリーチェの孫、ということね」}`
 `{ruby:"...........................!":「………………………ッ…」}`
-`{ruby:"If we consider Kinzo's heart, this is the inevitable theory we reach for explaining why he treated you so specially.:「これが、金蔵の心から考える、金蔵がお前を誰よりも特別に扱う理由の、必然の推理だ。}`
-`{ruby:He regretted his mistake so badly that he attempted to have you formally accepted into the Ushiromiya family as a descendant.":金蔵は過ちを悔い、お前を今度こそ子孫として、右代宮家に正しい形で迎え入れようとしたんだ」}`
-`{ruby:"......In almost all cases, Natsuhi's pride is brutally hurt, and she refuses to raise you.:「……夏妃はほとんどの場合、プライドを酷く傷つけられ、理御の育児を拒否するわ。}`
-`{ruby:Because of that, you almost always fall from the cliff and disappear.":その結果、あんたは必然として崖から落ちて消える」}`
-`{ruby:".........I, I was told that after their marriage,:「………け、結婚後、}`
-`{ruby:......I was born after much hardship,:……ようやく授かった子供が私で、}`
-`{ruby:......and Jessica was born the next year...":……年子で生まれたのが朱志香だと……、聞かされてきました…」}`
-`{ruby:"If you really never suspected that Natsuhi wasn't your mother,:「もしお前が今日まで、自分が夏妃の子であることに疑問を感じたことがないのなら。}`
-`{ruby:......then you should thank her in this world.:……お前はこの世界の母に感謝すべきだ。}`
-`{ruby:The reason you never realized the truth is because she's shown as much affection for you as she did for Jessica.":お前にそれを悟らせずに今日まで、朱志香と平等に愛情を注いだ」}`
-`{ruby:".........There's no need to thank her.:「………感謝の必要はないわ。}`
-`{ruby:......After all, it took a staggering amount of effort just to find a fragment with you in it.":……だって、あんたというカケラを見つけるのに、気が遠くなるほどの苦労をしたもの」}`
+`{ruby:"If we consider Kinzo's heart, this is the inevitable theory:「これが、金蔵の心から考える、金蔵がお前を誰}{ruby:we reach for explaining why he treated you so specially.:よりも特別に扱う理由の、必然の推理だ。}`
+`{ruby:He regretted his mistake so badly that he attempted to:金蔵は過ちを悔い、お前を今度こそ子孫として、右}{ruby:have you formally accepted into the Ushiromiya family as a descendant.":代宮家に正しい形で迎え入れようとしたんだ」}`
+`{ruby:"......In almost all cases, Natsuhi's pride is:「……夏妃はほとんどの場合、プライドを酷く}{ruby:brutally hurt, and she refuses to raise you.:傷つけられ、理御の育児を拒否するわ。}`
+`{ruby:Because of that, you almost always:その結果、あんたは必然とし}{ruby:fall from the cliff and disappear.":て崖から落ちて消える」}`
+`{ruby:".........I, I was told:「………け、}{ruby:that after their marriage,:結婚後、}`
+`{ruby:......I was born:……ようやく授かっ}{ruby:after much hardship,:た子供が私で、}`
+`{ruby:......and Jessica was:……年子で生まれたのが朱志香だと}{ruby:born the next year...":……、聞かされてきました…」}`
+`{ruby:"If you really never suspected:「もしお前が今日まで、自分が夏妃の子である}{ruby:that Natsuhi wasn't your mother,:ことに疑問を感じたことがないのなら。}`
+`{ruby:......then you should thank:……お前はこの世界の母}{ruby:her in this world.:に感謝すべきだ。}`
+`{ruby:The reason you never realized the truth is because she's:お前にそれを悟らせずに今日まで、}{ruby:shown as much affection for you as she did for Jessica.":朱志香と平等に愛情を注いだ」}`
+`{ruby:".........There's no need:「………感謝の必}{ruby:to thank her.:要はないわ。}`
+`{ruby:......After all, it took a staggering amount of effort:……だって、あんたというカケラを見つけるの}{ruby:just to find a fragment with you in it.":に、気が遠くなるほどの苦労をしたもの」}`
 `{ruby:"Mathematically speaking,:「夏妃は数学的確率で見て、}`
-`{ruby:there's actually a {nobr:2,578,916/2,578,917} chance of her refusing to raise you.:２５７万８９１７分の２５７万８９１６の確率で、あんたの育児を拒否するわ。}`
-`{ruby:You should probably be thanking me for creating this miracle, not Natsuhi.:あんたが感謝すべきは、奇跡を紡いだ私であって、夏妃ではないわね、多分。}`
+`{ruby:there's actually a {nobr:2,578,916/2,578,917} chance:２５７万８９１７分の２５７万８９１６の}{ruby:of her refusing to raise you.:確率で、あんたの育児を拒否するわ。}`
+`{ruby:You should probably be thanking me:あんたが感謝すべきは、奇跡を紡いだ私で}{ruby:for creating this miracle, not Natsuhi.:あって、夏妃ではないわね、多分。}`
 `{ruby:......*giggle*giggle*.":……くすくすくすくす」}`
-`{ruby:"Enough with your stupid probability games.":「下らねェ確率遊びはやめろ」}`
+`{ruby:"Enough with your:「下らねェ確率遊}{ruby:stupid probability games.":びはやめろ」}`
 `{ruby:"Oh, I'm sorry.":「あら、ごめんなさい」}`
-`{ruby:"....................................":「………………………………」}`
-`{ruby:"No matter whose blood you bear, that doesn't change the debt you owe to the family that raised you.":「お前が誰の血を引こうと、育ててくれた家族への恩が変わるわけじゃない」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
+`{ruby:"No matter whose blood you bear, that doesn't change:「お前が誰の血を引こうと、育ててくれた}{ruby:the debt you owe to the family that raised you.":家族への恩が変わるわけじゃない」}`
 `{ruby:"I realize that.:「それはわかってます。}`
-`{ruby:......Still, I would like some time to calm down and think things through.:……ですが、少し心を落ち着ける時間が欲しいです。}`
-`{ruby:...That is, if you'll do me the kindness of not ignoring my heart.":…私の心を、蔑ろにしないでくれるなら」}`
+`{ruby:......Still, I would like some time:……ですが、少し心を落ち着}{ruby:to calm down and think things through.:ける時間が欲しいです。}`
+`{ruby:...That is, if you'll do me:…私の心を、蔑ろにしな}{ruby:the kindness of not ignoring my heart.":いでくれるなら」}`
 `{ruby:".........Sure.":「………そうだな」}`
-`{ruby:Lion took a deep breath and looked upwards.:理御は大きく溜息を漏らしながら、何かを見上げる仕草をする。}`
+`{ruby:Lion took a deep:理御は大きく溜息を漏らしながら、}{ruby:breath and looked upwards.:何かを見上げる仕草をする。}`
 `{ruby:......Anyone would be shocked...:……蔵臼たちを実の両親だと信じていたのに、それが違ったのだから、}`
-`{ruby:to find that their parents weren't who they believed them to be.:少なからぬショックもあるだろう。}`
-`{ruby:But all the same, Lion, ...you're allowed to feel grateful.:しかし、理御は感謝していい。}`
-`{ruby:Grateful to the family who raised you and met your every need...:今日まで何不自由なく育ててくれた家族に感謝していい…。}`
+`{ruby:to find that their parents weren't:少なからぬショック}{ruby:who they believed them to be.:もあるだろう。}`
+`{ruby:But all the same, Lion,:しかし、理御は感}{ruby:...you're allowed to feel grateful.:謝していい。}`
+`{ruby:Grateful to the family who raised:今日まで何不自由なく育ててくれ}{ruby:you and met your every need...:た家族に感謝していい…。}`
 `{ruby:"It is pretty interesting.:「面白ぇもんだ。}`
-`{ruby:......Hard to believe that the Golden Witch {f:5:Beatrice} might've lived such an ordinary life,:……黄金の魔女ベアトリーチェに、何百万分の一かの確率で、}`
+`{ruby:......Hard to believe that the Golden Witch:……黄金の魔女ベアトリーチェに}{ruby:{f:5:Beatrice} might've lived such an ordinary life,:、何百万分の一かの確率で、}`
 `{ruby:even at absurdly low probabilities.":こんな平凡な人生を送れる可能性があったなんてな」}`
 `{ruby:"Isn't it?:「でしょう？}`
-`{ruby:I think moments like this are hilarious......":こういう時、私はとても笑えると思うのよ……」}`
+`{ruby:I think moments:こういう時、私はとても笑え}{ruby:like this are hilarious......":ると思うのよ……」}`
 `{ruby:Will had said it plainly.:ウィルは、はっきりと断言する。}`
-`{ruby:Ushiromiya Lion......is how the Golden Witch {f:5:Beatrice} appears in a different world.:右代宮理御は、……異なる世界での、黄金の魔女ベアトリーチェの姿なのだ。}`
-`{ruby:The baby Natsuhi rejected 19 years previous.:夏妃が育児を拒否する１９年前の赤ん坊。}`
-`{ruby:If she accepts that child, this is the future that results...:それが、夏妃に受け入れられれば、このような未来があったのだ…。}`
-`{ruby:However, if she does not accept it, ......a witch is born.:しかし、受け入れられなければ、……魔女が、生まれる。}`
-`{ruby:The baby whose birth was not celebrated becomes a witch...:その生まれを祝福されなかった赤ん坊は、魔女となるのだ…。}`
+`{ruby:Ushiromiya Lion......is how the Golden Witch:右代宮理御は、……異なる世界での、黄金}{ruby:{f:5:Beatrice} appears in a different world.:の魔女ベアトリーチェの姿なのだ。}`
+`{ruby:The baby Natsuhi:夏妃が育児を拒否する１}{ruby:rejected 19 years previous.:９年前の赤ん坊。}`
+`{ruby:If she accepts that child,:それが、夏妃に受け入れられれば、こ}{ruby:this is the future that results...:のような未来があったのだ…。}`
+`{ruby:However, if she does not:しかし、受け入れられなければ}{ruby:accept it, ......a witch is born.:、……魔女が、生まれる。}`
+`{ruby:The baby whose birth was:その生まれを祝福されなかった赤}{ruby:not celebrated becomes a witch...:ん坊は、魔女となるのだ…。}`
 `{ruby:"Lion is the dead cat.:「死んだ猫は、理御だ。}`
-`{ruby:......However, Lion's existence has nothing to do with what you're interested in, the Rokkenjima Serial Murders.:……だが、理御の存在自体は、お前が関心を持っている、六軒島連続殺人事件とは何の関係もない。}`
-`{ruby:......In other words, Lion is the cat that disappears when you open the cat box.":……つまり、猫箱を開ければ消える猫が、理御だ」}`
+`{ruby:......However, Lion's existence has nothing to do with:……だが、理御の存在自体は、お前が関心を持ってい}{ruby:what you're interested in, the Rokkenjima Serial Murders.:る、六軒島連続殺人事件とは何の関係もない。}`
+`{ruby:......In other words, Lion is the cat:……つまり、猫箱を開ければ}{ruby:that disappears when you open the cat box.":消える猫が、理御だ」}`
 `{ruby:".........*giggle*, exactly.:「………くすくす、そういうことよ。}`
 `{ruby:Lion is just a disappearing cat.:理御など、所詮は消える猫。}`
-`{ruby:But this was a pretty entertaining diversion, don't you think?":でも、余興にしては面白かったでしょう？」}`
-`{ruby:"You're the only one who finds it entertaining.:「面白ぇのはお前だけだ。}`
-`{ruby:......If I wasn't trapped in here, I wouldn't have bothered to reason this out.":……ここに閉じ込められてなけりゃ、俺もこんな推理はわざわざしない」}`
+`{ruby:But this was a pretty:でも、余興にしては面白}{ruby:entertaining diversion, don't you think?":かったでしょう？」}`
+`{ruby:"You're the only one:「面白ぇのはお}{ruby:who finds it entertaining.:前だけだ。}`
+`{ruby:......If I wasn't trapped in here, I:……ここに閉じ込められてなけりゃ、俺}{ruby:wouldn't have bothered to reason this out.":もこんな推理はわざわざしない」}`
 `{ruby:".....................:「…………………。}`
-`{ruby:......I think I know why I was chosen to be your partner in this strange detective game.:……どうして私が、おかしな探偵ごっこの相棒に選ばれたのか、わかりました。}`
-`{ruby:......It seems this {f:5:Bernkastel} witch...:……どうやら、ベルンカステルという魔女は、}`
-`{ruby:enjoys toying with people's fates and making a mockery of them.":人の運命を弄んだり、あるいは嘲笑ったりするのがお好きな方らしい」}`
+`{ruby:......I think I know why I was chosen:……どうして私が、おかしな探偵ごっこの}{ruby:to be your partner in this strange detective game.:相棒に選ばれたのか、わかりました。}`
+`{ruby:......It seems:……どうやら、ベルンカス}{ruby:this {f:5:Bernkastel} witch...:テルという魔女は、}`
+`{ruby:enjoys toying with people's fates:人の運命を弄んだり、あるいは嘲笑っ}{ruby:and making a mockery of them.":たりするのがお好きな方らしい」}`
 `{ruby:"Wow, incredible.:「あら、すごい。}`
-`{ruby:......It's rare for someone to understand me the same day they meet me.:……会ってその日に私を理解する人なんて、珍しいわ。}`
+`{ruby:......It's rare for someone to understand:……会ってその日に私を理解す}{ruby:me the same day they meet me.:る人なんて、珍しいわ。}`
 `{ruby:......*giggle*.":……くすくす」}`
-`{ruby:"Apparently, ......I become something that's called a witch in another world.:「私は、……どうやら異なる世界では、魔女と呼ばれる存在になるらしい。}`
-`{ruby:And, apparently, I'm the cause of some sort of crime.:そしてどうやら、何かの事件を引き起こすらしい。}`
+`{ruby:"Apparently, ......I become something that's:「私は、……どうやら異なる世界では、}{ruby:called a witch in another world.:魔女と呼ばれる存在になるらしい。}`
+`{ruby:And, apparently, I'm the cause:そしてどうやら、何かの事件}{ruby:of some sort of crime.:を引き起こすらしい。}`
 `{ruby:Is that my sin to bear?":それは、私の罪なのですか？」}`
 `{ruby:"Of course it isn't.:「罪のわけねェ。}`
 `{ruby:You are you.:お前はお前だ。}`
-`{ruby:How things would be if the coin were flipped the other way shouldn't matter a bit.":コインが裏を向いていた時のことなんて、知ったことじゃねェ」}`
+`{ruby:How things would be if the coin were:コインが裏を向いていた時のことな}{ruby:flipped the other way shouldn't matter a bit.":んて、知ったことじゃねェ」}`
 `{ruby:"Thank you.:「ありがとう。}`
-`{ruby:Even so, to be told that I caused some sort of trouble in a world of a different fate...:しかし、異なる運命の世界では、お前は何らかの迷惑を掛けていたと言われて、}`
-`{ruby:I don't think anyone would be pleased to hear that.:心穏やかになる人間はいないと思います。}`
+`{ruby:Even so, to be told that I caused some:しかし、異なる運命の世界では、お前は何}{ruby:sort of trouble in a world of a different fate...:らかの迷惑を掛けていたと言われて、}`
+`{ruby:I don't think anyone would:心穏やかになる人間はい}{ruby:be pleased to hear that.:ないと思います。}`
 `{ruby:......Please, tell me.:……教えて下さい。}`
 `{ruby:What do I do in that other world?":私は、異なる世界で何を？」}`
 `{ruby:"............{f:5:Bernkastel}?":「…………ベルンカステル」}`
-`{ruby:"You have the fragments... Why not show them?":「カケラを、その子に見せたら？」}`
+`{ruby:"You have the fragments...:「カケラを、その子}{ruby:Why not show them?":に見せたら？」}`
 `{ruby:"...............":「……………」}`
 `{ruby:Will opened his hand...:ウィルが手の平を開くと、}`
-`{ruby:and something that looked like a pale‐blue, glowing shard of crystal appeared there.:……そこに青白く光る、水晶片のようなものが現れる。}`
-`{ruby:It contained the memories—no, the records—of all the games so far.:これまでのゲームの、全ての記憶、……いや、棋譜だ。}`
+`{ruby:and something that looked like a:……そこに青白く光る、水晶片}{ruby:pale‐blue, glowing shard of crystal appeared there.:のようなものが現れる。}`
+`{ruby:It contained the memories—no, the:これまでのゲームの、全ての記}{ruby:records—of all the games so far.:憶、……いや、棋譜だ。}`
 `{ruby:"......Touch this.:「……こいつに触れろ。}`
-`{ruby:You'll be able to see your fate in other worlds.":異なる世界での、お前の運命が見える」}`
-`{ruby:"...............I'll be happier not touching it,:「……………触れない方が幸せだ、}`
+`{ruby:You'll be able to see:異なる世界での、お前}{ruby:your fate in other worlds.":の運命が見える」}`
+`{ruby:"...............I'll be happier:「……………触れな}{ruby:not touching it,:い方が幸せだ、}`
 `{ruby:...is what your face is telling me.":…とでも言いたそうな顔ですね？」}`
 `{ruby:"Of course.:「当然だ。}`
-`{ruby:......I'm sure you guessed this, ...but it isn't pretty.":……予感しているだろうが、ロクな話じゃない」}`
+`{ruby:......I'm sure you guessed:……予感しているだろうが}{ruby:this, ...but it isn't pretty.":、ロクな話じゃない」}`
 `{ruby:"Even so......:「それでも、それは……。}`
-`{ruby:......Even if it is another world, ......it's still about me.":……異なる世界とはいえ、……私のことなのですね」}`
-`{ruby:"......You have both the right to know and the right not to know.:「……お前には知る権利も、知らぬ権利もどちらもある。}`
-`{ruby:If you can convince yourself that what you're seeing is a person similar to yet different from you—that it is not you but someone else—then go ahead and touch it.":お前があくまで、自分と連なりつつも異なる誰か、他人のことと割り切れるなら、……触れてみるといい」}`
+`{ruby:......Even if it is another:……異なる世界とはいえ、…}{ruby:world, ......it's still about me.":…私のことなのですね」}`
+`{ruby:"......You have both the right to:「……お前には知る権利も、知}{ruby:know and the right not to know.:らぬ権利もどちらもある。}`
+`{ruby:If you can convince yourself that what you're seeing is a person similar to yet:お前があくまで、自分と連なりつつも異なる誰か、他人}{ruby:different from you—that it is not you but someone else—then go ahead and touch it.":のことと割り切れるなら、……触れてみるといい」}`
 `{ruby:"You want to know, don't you...?:「知りたいわよねぇ…？}`
-`{ruby:About the path that fate could have chosen for you...":自分が、あるいはひょっとしたら、辿ったかもしれない運命なんて」}`
-`{ruby:"............I ask this as your partner.:「…………相棒として聞きます。}`
+`{ruby:About the path that fate:自分が、あるいはひょっとしたら、辿}{ruby:could have chosen for you...":ったかもしれない運命なんて」}`
+`{ruby:"............I ask this:「…………相棒とし}{ruby:as your partner.:て聞きます。}`
 `{ruby:Would you show that to me?":あなたはそれを私に、見せたいですか？」}`
 `{ruby:"As your partner, I'd say "look".:「相棒としてなら、見ろという。}`
-`{ruby:......But as a friend, I'd say "don't".":……しかし友人としてなら、見るなという」}`
+`{ruby:......But as a:……しかし友人としてな}{ruby:friend, I'd say "don't".":ら、見るなという」}`
 `{ruby:"Unfortunately,:「残念。}`
 `{ruby:I'm not your friend.":私は友人ではありませんので」}`
-`{ruby:"Then, as a partner, I have one last question.":「俺も、相棒として一つ聞きたい」}`
+`{ruby:"Then, as a partner,:「俺も、相棒として}{ruby:I have one last question.":一つ聞きたい」}`
 `{ruby:"What?":「何です？」}`
 `{ruby:"Are you............:「お前、…………。}`
 `{ruby:.........a man or a woman?":………男か。女か」}`
-`{ruby:"..................Well, that came out of nowhere.":「………………唐突なことを聞きますね」}`
-`{ruby:"I could see you as a fairly slender boy.:「男と思えば、線の細い男にも見える。}`
-`{ruby:But then again, I could also see you as a no‐nonsense sort of girl.:しかし、女と思えば、気丈に振舞う女にも見える。}`
-`{ruby:......Even {f:5:Bernkastel} has been intentionally keeping it a secret.:……ベルンカステルも、わかってて誤魔化してる。}`
-`{ruby:She made Jessica call you "the future heir" all the time, instead of "big brother" or "big sister".":朱志香にはお前を、兄とも姉とも呼ばせず、次期当主サマと抽象的な呼び方をさせ続けていた」}`
+`{ruby:"..................Well, that came:「………………唐突なこ}{ruby:out of nowhere.":とを聞きますね」}`
+`{ruby:"I could see you:「男と思えば、線の細}{ruby:as a fairly slender boy.:い男にも見える。}`
+`{ruby:But then again, I could also see:しかし、女と思えば、気丈に}{ruby:you as a no‐nonsense sort of girl.:振舞う女にも見える。}`
+`{ruby:......Even {f:5:Bernkastel} has been:……ベルンカステルも、わか}{ruby:intentionally keeping it a secret.:ってて誤魔化してる。}`
+`{ruby:She made Jessica call you "the future heir" all:朱志香にはお前を、兄とも姉とも呼ばせず、次期当}{ruby:the time, instead of "big brother" or "big sister".":主サマと抽象的な呼び方をさせ続けていた」}`
 `{ruby:"......*giggle*.:「……くすくす。}`
 `{ruby:You are quick.":本当に勘のいい男」}`
 `{ruby:"People often ask me about my gender.:「よく性別を聞かれます。}`
-`{ruby:It's become quite frustrating, so I always give the same response.:だから悔しくて、こう言い返してます。}`
-`{ruby:......‘Which do you think I look like?’":……どっちに見えますか？って」}`
-`{ruby:".........In the fifth game, you're treated as a man.:「………第５のゲームでは、お前は男ということになっている。}`
-`{ruby:But in countless other games, you're thought of as a woman.":しかし数多のゲームでは、女だと考えられてる」}`
-`{ruby:"......In the sixth game, when Ushiromiya Battler was the Master, two demons of different sexes appeared, but we didn't know which was which, referencing this again.:「……右代宮戦人がマスターを務めた第６のゲームでは、性別を違えつつも確定しない二人組の悪魔が登場し、それを暗示した。}`
-`{ruby:......In fact, strictly speaking, it started all the way back in the very first game.:……いや、厳密には、一番最初のゲームからだな。}`
-`{ruby:.........Your gender is one of the hidden mysteries that exists outside the games themselves.":………お前の性別は、ゲームの外側の、隠れた謎の一つだ」}`
-`{ruby:"Having to say it straight out frustrates me, so I won't give you an answer.:「素直に答えるのも悔しいので、お答えはしないことにします。}`
+`{ruby:It's become quite frustrating, so:だから悔しくて、こう}{ruby:I always give the same response.:言い返してます。}`
+`{ruby:......‘Which do you:……どっちに見えま}{ruby:think I look like?’":すか？って」}`
+`{ruby:".........In the fifth game,:「………第５のゲームでは、お前は}{ruby:you're treated as a man.:男ということになっている。}`
+`{ruby:But in countless other games,:しかし数多のゲームでは、}{ruby:you're thought of as a woman.":女だと考えられてる」}`
+`{ruby:"......In the sixth game, when Ushiromiya Battler was the Master, two demons of:「……右代宮戦人がマスターを務めた第６のゲームでは、性別を違}{ruby:different sexes appeared, but we didn't know which was which, referencing this again.:えつつも確定しない二人組の悪魔が登場し、それを暗示した。}`
+`{ruby:......In fact, strictly speaking, it started all:……いや、厳密には、一番最}{ruby:the way back in the very first game.:初のゲームからだな。}`
+`{ruby:.........Your gender is one of the hidden:………お前の性別は、ゲームの外}{ruby:mysteries that exists outside the games themselves.":側の、隠れた謎の一つだ」}`
+`{ruby:"Having to say it straight out frustrates:「素直に答えるのも悔しいので、お}{ruby:me, so I won't give you an answer.:答えはしないことにします。}`
 `{ruby:We're partners, right?:私はあなたの相棒でしょう？}`
-`{ruby:Does it really matter if I'm not the gender you'd prefer?":気に入らない性別だったら、何か不都合なことでもあるのですか？」}`
+`{ruby:Does it really matter if:気に入らない性別だったら、何か不都}{ruby:I'm not the gender you'd prefer?":合なことでもあるのですか？」}`
 `{ruby:"........................:「……………………。}`
 `{ruby:......You're right.:……その通りだ。}`
-`{ruby:If we're working together on this, I don't care what your gender is.":俺には、相棒の性別などどうでもいい」}`
+`{ruby:If we're working together on this,:俺には、相棒の性別な}{ruby:I don't care what your gender is.":どどうでもいい」}`
 `{ruby:"Thank you.:「ありがとう。}`
-`{ruby:......I've formed a bit of a complex about it, so your words are very gratifying.":……容姿にコンプレックスがあったので、あなたの言葉が嬉しいです」}`
+`{ruby:......I've formed a bit of a complex:……容姿にコンプレックスがあったの}{ruby:about it, so your words are very gratifying.":で、あなたの言葉が嬉しいです」}`
 `{ruby:"I'm all for gender equality.:「俺は男女平等主義だ。}`
-`{ruby:.........If someone's a waste of space, I'll smack 'em no matter who they are.":………使えねぇヤツは、平等に殴る」}`
-`{ruby:"And of course, I'll pinch rude people no matter which gender they are.":「私も、マナーのない方は男女平等に抓りますので」}`
-`{ruby:Slowly, ......Lion reached out and touched the fragment.:理御はゆっくりと……、カケラに触れる。}`
-`{ruby:A moment later, Lion seemed to undergo a violent bout of dizziness...and silently slumped over like a puppet with its strings cut.:すると猛烈な眩暈を起こし、操り人形の糸が切れたかのように、その場に無言でしゃがみ込む。}`
+`{ruby:.........If someone's a waste of space, I'll:………使えねぇヤツは}{ruby:smack 'em no matter who they are.":、平等に殴る」}`
+`{ruby:"And of course, I'll pinch rude:「私も、マナーのない方は男}{ruby:people no matter which gender they are.":女平等に抓りますので」}`
+`{ruby:Slowly, ......Lion reached out:理御はゆっくりと……、}{ruby:and touched the fragment.:カケラに触れる。}`
+`{ruby:A moment later, Lion seemed to undergo a violent bout of:すると猛烈な眩暈を起こし、操り人形の糸が切れた}{ruby:dizziness...and silently slumped over like a puppet with its strings cut.:かのように、その場に無言でしゃがみ込む。}`
 `{ruby:It was no surprise.:無理もない。}`
-`{ruby:When people who don't understand parallel universes have many different fates jammed into their heads,:平行世界について理解のない人間が、異なる運命を無理やり理解させられたら、}`
-`{ruby:they tend to feel like their heads are swelling and their sense of self is melting away.:脳が膨張して自我を失うような錯覚を味わうだろう。}`
-`{ruby:......Lion seemed to have lost consciousness.:……理御はしゃがみ込んだまま、意識を失っているようだった。}`
-`{ruby:"So, ......Lion had what it took to learn everything.":「こいつには、……全てを知る資格があったというわけだ」}`
-`{ruby:"A perfect piece to be your partner, wouldn't you say?":「あなたの相棒に、ぴったりの駒だったでしょう？」}`
+`{ruby:When people who don't understand parallel universes:平行世界について理解のない人間が、異な}{ruby:have many different fates jammed into their heads,:る運命を無理やり理解させられたら、}`
+`{ruby:they tend to feel like their heads are:脳が膨張して自我を失うよう}{ruby:swelling and their sense of self is melting away.:な錯覚を味わうだろう。}`
+`{ruby:......Lion seemed to:……理御はしゃがみ込んだまま、意}{ruby:have lost consciousness.:識を失っているようだった。}`
+`{ruby:"So, ......Lion had what:「こいつには、……全てを知る資}{ruby:it took to learn everything.":格があったというわけだ」}`
+`{ruby:"A perfect piece to be:「あなたの相棒に、ぴったり}{ruby:your partner, wouldn't you say?":の駒だったでしょう？」}`
 `{ruby:"I'll continue my reasoning.:「推理を続ける。}`
-`{ruby:......I've talked about the dead cat.":……死んだ猫の話はした」}`
+`{ruby:......I've talked about:……死んだ猫の}{ruby:the dead cat.":話はした」}`
 `{ruby:"Very true.:「そうね。}`
 `{ruby:Next up is the living cat.":次は、生きた猫の話だわ」}`
-`{ruby:"The only one who can kill the {f:5:Beatrice} of 1986 is the one who created her.":「１９８６年のベアトリーチェを殺せるのは、それを生み出したヤツだけだ」}`
+`{ruby:"The only one who can kill the {f:5:Beatrice}:「１９８６年のベアトリーチェを殺せるの}{ruby:of 1986 is the one who created her.":は、それを生み出したヤツだけだ」}`
 `{ruby:"There were tons of hints.:「ヒントは山ほどあったわ。}`
-`{ruby:If you think about it, they've been coming since back when {f:5:Beatrice} was running the games.":思えば、ベアトリーチェのゲームだった頃からね」}`
+`{ruby:If you think about it, they've been coming:思えば、ベアトリーチェのゲ}{ruby:since back when {f:5:Beatrice} was running the games.":ームだった頃からね」}`
 `{ruby:"That's true.:「そうだな。}`
-`{ruby:......In the fourth game between {f:5:Beatrice} and Battler, {f:5:Beatrice}'s origin became clear.:……ベアトリーチェと戦人の第４のゲームで、その因縁ははっきりとした。}`
-`{ruby:And, at that point, I learned who {f:5:Beatrice} was, and I understood that person's heart.":そしてその時点で、ベアトリーチェが誰であるか、そしてその心が、わかった」}`
+`{ruby:......In the fourth game between {f:5:Beatrice}:……ベアトリーチェと戦人の第４のゲー}{ruby:and Battler, {f:5:Beatrice}'s origin became clear.:ムで、その因縁ははっきりとした。}`
+`{ruby:And, at that point, I learned who:そしてその時点で、ベアトリーチェが誰で}{ruby:{f:5:Beatrice} was, and I understood that person's heart.":あるか、そしてその心が、わかった」}`
 `{ruby:"What do you mean by heart?":「心とは？」}`
-`{ruby:"......The reason for committing the crime.:「……動機だ。}`
-`{ruby:......The reason that {f:5:Beatrice} had to gamble her own fate in the commission of a game‐like crime on October 5th, 1986—:……ベアトリーチェが、１９８６年１０月５日に、自らの運命さえ賭す、ゲームのような事件を起こさねばならなかった、}`
+`{ruby:"......The reason for:「……動機}{ruby:committing the crime.:だ。}`
+`{ruby:......The reason that {f:5:Beatrice} had to gamble her own fate:……ベアトリーチェが、１９８６年１０月５日に、自らの運命さ}{ruby:in the commission of a game‐like crime on October 5th, 1986—:え賭す、ゲームのような事件を起こさねばならなかった、}`
 `{ruby:the motive.":動機だ」}`
 `{ruby:"Impressive.:「さすがだわ。}`
-`{ruby:So, you'd figured out the whodunit and the whydunit by the end of the fourth game.:第４のゲームの時点で、フーダニットとホワイダニットが推理できてたなんて。}`
+`{ruby:So, you'd figured out the whodunit and the:第４のゲームの時点で、フーダニットとホ}{ruby:whydunit by the end of the fourth game.:ワイダニットが推理できてたなんて。}`
 `{ruby:......Then what about the howdunit?":……じゃあハウダニットは？」}`
-`{ruby:"Once you know who the culprit is, theorizing about the howdunit isn't impossible.:「犯人が誰であるかわかれば、それを推理することは不可能じゃない。}`
-`{ruby:......Those linked locked rooms in the third game were so skillfully done, I felt like clapping.":……第３のゲームの連鎖密室は、なかなか器用にやったもんだと拍手さえしたくならァ」}`
-`{ruby:"And what about the riddle at the end of the fourth game,:「第４のゲームラストの、}`
+`{ruby:"Once you know who the culprit:「犯人が誰であるかわかれば、それを}{ruby:is, theorizing about the howdunit isn't impossible.:推理することは不可能じゃない。}`
+`{ruby:......Those linked locked rooms in the third game:……第３のゲームの連鎖密室は、なかなか器用}{ruby:were so skillfully done, I felt like clapping.":にやったもんだと拍手さえしたくならァ」}`
+`{ruby:"And what about the riddle at:「第４のゲーム}{ruby:the end of the fourth game,:ラストの、}`
 `{ruby:"who am I"......?":私はだぁれ？、はわかった……？」}`
-`{ruby:"The "culprit" who can kill you for certain at the stroke of midnight on October 5th no matter where you are.:「１０月５日２４時に必ず、場所を問わずに、殺せる“犯人”。}`
-`{ruby:It was possible to form a certain kind of hypothesis at the moment the question was asked.:その時点である種の仮定は可能だ。}`
-`{ruby:......You might call that the other treasure of the Golden Land.":……それこそ、黄金郷のもう一つのお宝、ってわけだ」}`
+`{ruby:"The "culprit" who can kill you for certain at the:「１０月５日２４時に必ず、場所を}{ruby:stroke of midnight on October 5th no matter where you are.:問わずに、殺せる“犯人”。}`
+`{ruby:It was possible to form a certain kind:その時点である種の}{ruby:of hypothesis at the moment the question was asked.:仮定は可能だ。}`
+`{ruby:......You might call that the:……それこそ、黄金郷のもう一}{ruby:other treasure of the Golden Land.":つのお宝、ってわけだ」}`
 `{ruby:"......Oh?:「……へぇ。}`
 `{ruby:So, you say that by the fourth game,:第４のゲームまでに、}`
-`{ruby:......in other words, with just {f:5:Beatrice}'s games, you managed to reach all of the answers?":……即ちあなたは、ベアトのゲームだけで、全ての答えに至れたと？」}`
+`{ruby:......in other words, with just {f:5:Beatrice}'s games,:……即ちあなたは、ベアトのゲームだ}{ruby:you managed to reach all of the answers?":けで、全ての答えに至れたと？」}`
 `{ruby:"It's possible.:「可能だ。}`
-`{ruby:......{f:5:Lambdadelta}'s and Battler's games after that were just an extra helping of hints.:……その後の、ラムダデルタのゲームと戦人のゲームは、それをさらに補足するヒントの塊だ。}`
+`{ruby:......{f:5:Lambdadelta}'s and Battler's games after that:……その後の、ラムダデルタのゲームと戦人のゲー}{ruby:were just an extra helping of hints.:ムは、それをさらに補足するヒントの塊だ。}`
 `{ruby:......As is this game of yours.":……この、お前のゲームさえもな」}`
 `{ruby:"*giggle*giggle*......:「くすくすくす……。}`
-`{ruby:......In that case, why don't you stop beating around the bush, and just tell me?:……それでは、そろそろ、はぐらかすのは終わりにして、教えてちょうだい？}`
+`{ruby:......In that case, why don't you stop:……それでは、そろそろ、はぐらかすのは}{ruby:beating around the bush, and just tell me?:終わりにして、教えてちょうだい？}`
 `{ruby:.........Who is...:………犯人は、}`
 `{ruby:the culprit......?":だぁれ……？」}`
-`{ruby:At that moment, .........though there hadn't been anyone but them in the chapel, quiet footsteps rang out.:その時、………彼ら以外、誰もいないはずの礼拝堂に、小さな足音が響く。}`
-`{ruby:That silhouetted figure slowly walked up to Will and {f:5:Bernkastel}...and gave a small bow.:その人影は、ゆっくりとウィルたちの前に来て、小さく会釈をした。}`
+`{ruby:At that moment, .........though there hadn't been anyone:その時、………彼ら以外、誰もいないは}{ruby:but them in the chapel, quiet footsteps rang out.:ずの礼拝堂に、小さな足音が響く。}`
+`{ruby:That silhouetted figure slowly walked up to:その人影は、ゆっくりとウィルたちの}{ruby:Will and {f:5:Bernkastel}...and gave a small bow.:前に来て、小さく会釈をした。}`
 `{ruby:".........So, you've come.":「………来たか」}`
 `{ruby:"Did you call this person here?":「呼んだの？」}`
 `{ruby:"Yeah.:「あぁ。}`
 `{ruby:......Whodunit.:……フーダニット。}`
 `{ruby:Howdunit.:ハウダニット。}`
 `{ruby:And...whydunit.:そして、ホワイダニット。}`
-`{ruby:......I understand this person's motive.":……こいつの動機を、理解した」}`
-`{ruby:"......And {i:you}, are you going to give up just because he's found out your motive...?:「……“あんた”、動機がわかられただけで、もう降参しちゃうの…？}`
+`{ruby:......I understand:……こいつの動機を}{ruby:this person's motive.":、理解した」}`
+`{ruby:"......And {i:you}, are you going to give:「……“あんた”、動機がわかられた}{ruby:up just because he's found out your motive...?:だけで、もう降参しちゃうの…？}`
 `{ruby:There's no concrete evidence, right?:具体的な証拠はないんでしょ？}`
-`{ruby:You could make a flashy fight of it, with red and blue.":赤とか青とかで、ガンガンと派手に応酬すればいいのに」}`
+`{ruby:You could make a flashy fight:赤とか青とかで、ガンガンと派手}{ruby:of it, with red and blue.":に応酬すればいいのに」}`
 `{ruby:"That's not what they want anymore.":「こいつは、もうそんなことは望んでない」}`
 `{ruby:The person nodded slightly.:その人物は、小さく頷く。}`
-`{ruby:Their wish......was for someone to realize.:望みは、……気付いてもらうこと。}`
-`{ruby:Now that this had happened, they had no intention of engaging in trivial excuses or pointless word games...:それが達せられた時点で、もう、下らぬ言葉遊びで、言い逃れを図るつもりはない…。}`
-`{ruby:"I believe that I understand your motive,:「俺はお前の動機を、}`
+`{ruby:Their wish......was for:望みは、……気付い}{ruby:someone to realize.:てもらうこと。}`
+`{ruby:Now that this had happened, they had no intention:それが達せられた時点で、もう、下らぬ言葉遊}{ruby:of engaging in trivial excuses or pointless word games...:びで、言い逃れを図るつもりはない…。}`
+`{ruby:"I believe that:「俺はお前の}{ruby:I understand your motive,:動機を、}`
 `{ruby:......your heart.:……心を理解したつもりでいる。}`
-`{ruby:......I am going to talk about it now.:……それをこれから、話す。}`
+`{ruby:......I am going to:……それをこれか}{ruby:talk about it now.:ら、話す。}`
 `{ruby:I called you here...:お前を呼んだのは、}`
 `{ruby:to listen...:それを聞き、}`
-`{ruby:...and correct me if I've gotten anything wrong.":……間違いがあったら、お前の言葉で正して欲しいからだ」}`
-`{ruby:"....................................":「………………………………」}`
-`{ruby:The two of them nodded to each other once more.:ウィルたちは、……互いにもう一度、小さく頷き合う。}`
-`{ruby:"I found the message you put into your four games.:「お前の４つのゲームで、お前のメッセージを受け取り。}`
-`{ruby:......And through three games with different Masters, I pictured the strange sort of fate that must have toyed with your life.:……そして、マスターの違う３つのゲームで、俺はお前をどんな不思議な運命が弄んだか想像し。}`
+`{ruby:...and correct me if:……間違いがあったら、お前の言}{ruby:I've gotten anything wrong.":葉で正して欲しいからだ」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
+`{ruby:The two of them nodded:ウィルたちは、……互いにもう}{ruby:to each other once more.:一度、小さく頷き合う。}`
+`{ruby:"I found the message you:「お前の４つのゲームで、お前}{ruby:put into your four games.:のメッセージを受け取り。}`
+`{ruby:......And through three games with different Masters, I pictured the:……そして、マスターの違う３つのゲームで、俺は}{ruby:strange sort of fate that must have toyed with your life.:お前をどんな不思議な運命が弄んだか想像し。}`
 `{ruby:......I was left speechless.:……言葉を失った。}`
-`{ruby:......In every game, you die without revealing that truth to anyone.":……お前はそれを、誰にも明かさずに、全てのゲームで死ぬ」}`
-`{ruby:Having you confess in this empty chapel might be pointless.:それを、この誰もいない礼拝堂で告解させても、何の意味もないかもしれない。}`
-`{ruby:However, even so, .........I believe it will bring you some measure of salvation.:しかし、それでもそれが、………何かの救いになると、俺は信じる。}`
-`{ruby:People are only saved when someone understands them.:人は、誰かに理解されて初めて、救われる。}`
-`{ruby:It's time someone forgave this pitiable witch, who went years after her death without being understood,:死後も、何年経っても、……そして、一番わかって欲しかった男に、理解されることなく生を終えた哀れな魔女を、}`
-`{ruby:............and whose life ended before the one man she wanted to understand her could do so.:…………もう誰かが赦してもいい。}`
-`{ruby:At the end of the fifth game, Battler finally understood.:戦人は第５のゲームの最後で、ようやくそれを理解する。}`
+`{ruby:......In every game, you die:……お前はそれを、誰にも明かさ}{ruby:without revealing that truth to anyone.":ずに、全てのゲームで死ぬ」}`
+`{ruby:Having you confess in this:それを、この誰もいない礼拝堂で告解させ}{ruby:empty chapel might be pointless.:ても、何の意味もないかもしれない。}`
+`{ruby:However, even so, .........I believe it:しかし、それでもそれが、………何か}{ruby:will bring you some measure of salvation.:の救いになると、俺は信じる。}`
+`{ruby:People are only saved:人は、誰かに理解されて}{ruby:when someone understands them.:初めて、救われる。}`
+`{ruby:It's time someone forgave this pitiable witch, who:死後も、何年経っても、……そして、一番わかって欲しかっ}{ruby:went years after her death without being understood,:た男に、理解されることなく生を終えた哀れな魔女を、}`
+`{ruby:............and whose life ended before the one man:…………もう誰かが}{ruby:she wanted to understand her could do so.:赦してもいい。}`
+`{ruby:At the end of the:戦人は第５のゲームの最後で、}{ruby:fifth game, Battler finally understood.:ようやくそれを理解する。}`
 `{ruby:......However,:……しかしそれは、}`
 `{ruby:.........it took him so long...:………遅く、}`
 `{ruby:...that he didn't make it in time.:間に合わなかった。}`
-`{ruby:So, even though she is alive here and now, Battler cannot save her.:だから、今ここで生きている彼女を、戦人は救えないのだ。}`
-`{ruby:That's why he's absent from {f:5:Beatrice}'s funeral. He won't come.:だから、戦人は、ベアトリーチェの葬儀に、いない。来ない。}`
+`{ruby:So, even though she is alive:だから、今ここで生きている彼女}{ruby:here and now, Battler cannot save her.:を、戦人は救えないのだ。}`
+`{ruby:That's why he's absent from:だから、戦人は、ベアトリーチェ}{ruby:{f:5:Beatrice}'s funeral. He won't come.:の葬儀に、いない。来ない。}`
 `{ruby:......He won't make it in time.:……間に合わない。}`
-`{ruby:"......This is {f:5:Beatrice}'s funeral.:「……これは、ベアトリーチェの葬儀だ。}`
+`{ruby:"......This is:「……これは、ベアトリ}{ruby:{f:5:Beatrice}'s funeral.:ーチェの葬儀だ。}`
 `{ruby:You will confess,:お前が告解し、}`
 `{ruby:......the divine Master will hear,:……神なるマスターが聞き、}`
 `{ruby:.........and I will forgive you.:………俺が赦す。}`
-`{ruby:.........That's supposed to be Battler's job, but he didn't make it in time.:………その役目は戦人が相応しいが、ヤツは間に合わなかった。}`
+`{ruby:.........That's supposed to be Battler's job,:………その役目は戦人が相応しいが}{ruby:but he didn't make it in time.:、ヤツは間に合わなかった。}`
 `{ruby:So, you'll have to settle for me.":だから、俺で諦めろ」}`
-`{ruby:"......Beato gave out so many hints, too.:「……あれだけベアトはヒントを出したのにね。}`
-`{ruby:Lambda also gave that bonehead Battler a ton of hints.:ラムダも馬鹿戦人のために、あれだけのヒントを与えたわ。}`
-`{ruby:......And his response, that game of repentance, that was hilarious as well.:……それに対する、戦人自身の懺悔のようなゲームも笑えた。}`
-`{ruby:......But I won't be making anyone laugh.:……でも、私は何も笑わせないわ。}`
-`{ruby:I'll just indifferently carry out your funeral.":ただ淡々と、……あんたの葬儀を執り行うだけよ」}`
+`{ruby:"......Beato gave out:「……あれだけベアトはヒ}{ruby:so many hints, too.:ントを出したのにね。}`
+`{ruby:Lambda also gave that bonehead:ラムダも馬鹿戦人のために、あれ}{ruby:Battler a ton of hints.:だけのヒントを与えたわ。}`
+`{ruby:......And his response, that game of:……それに対する、戦人自身の懺}{ruby:repentance, that was hilarious as well.:悔のようなゲームも笑えた。}`
+`{ruby:......But I won't:……でも、私は何も}{ruby:be making anyone laugh.:笑わせないわ。}`
+`{ruby:I'll just indifferently:ただ淡々と、……あんたの葬}{ruby:carry out your funeral.":儀を執り行うだけよ」}`
 `{ruby:"No more talking from you.:「お前は喋るな。}`
 `{ruby:That's my job.":話しているのは俺だ」}`
 `{ruby:"............*giggle*.":「…………くすくす」}`
 `{ruby:"If you're ready, let's begin.:「いいなら、始めよう。}`
 `{ruby:......No one will rush you.:……誰も急かさない。}`
-`{ruby:.........{f:5:Bernkastel} has closed off time for eternity until your funeral ends.:………お前の葬儀が終わるまで、ベルンカステルは永遠に時間を閉ざしてる。}`
-`{ruby:You have endless time to prepare yourself emotionally...":心の整理に必要な時間は、無限にある…」}`
-`{ruby:The shadowy figure slowly shook its head.:人影はゆっくりと首を横に振る。}`
-`{ruby:It had come here because it was already ready.:その覚悟がもうあるからこそ、ここにやって来たのだ。}`
+`{ruby:.........{f:5:Bernkastel} has closed off time:………お前の葬儀が終わるまで、ベルンカ}{ruby:for eternity until your funeral ends.:ステルは永遠に時間を閉ざしてる。}`
+`{ruby:You have endless time:心の整理に必要な時間は}{ruby:to prepare yourself emotionally...":、無限にある…」}`
+`{ruby:The shadowy figure:人影はゆっくりと首}{ruby:slowly shook its head.:を横に振る。}`
+`{ruby:It had come here:その覚悟がもうあるからこそ、}{ruby:because it was already ready.:ここにやって来たのだ。}`
 `{ruby:Will nodded to show he understood.:わかったと、ウィルも頷いて答える。}`
-`{ruby:......Then, the two of them looked into {f:5:Bernkastel}'s eyes,:……そして、二人でベルンカステルの目を見ながら。}`
+`{ruby:......Then, the two of:……そして、二人でベルンカ}{ruby:them looked into {f:5:Bernkastel}'s eyes,:ステルの目を見ながら。}`
 `{ruby:......and Will spoke out clearly.:……ウィルは、きっぱりと告げる。}`
 `{ruby:{a:c::{a:c:}`
 `{ruby:"Here's the culprit."}:「こいつが、犯人だ」}}`

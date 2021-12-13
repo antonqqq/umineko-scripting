@@ -1,330 +1,330 @@
-`{ruby:I saw a figure, apparently the driver, open an umbrella and come towards me...:傘を広げ、運転手らしき人影が、私に近付いてくるのが見える…。}`
+`{ruby:I saw a figure, apparently the driver,:傘を広げ、運転手らしき人影が、私}{ruby:open an umbrella and come towards me...:に近付いてくるのが見える…。}`
 `{ruby:".........Is this your garden?":「………ここはそなたの庭か？」}`
 `{ruby:The figure questioned me.:人影は問い掛ける。}`
 `{ruby:{n}Of course, I couldn't answer it...:{n}無論、私には返事をすることも出来ない…。}`
-`{ruby:"......If it is, then I must apologize.:「……そなたの庭ならば、私は謝らなければならないな。}`
-`{ruby:Yes, on a day with such fine weather, anyone would want to take a nap in such a lovely garden as this.:なるほど、このような良き天気の日には、昼寝と洒落込みたくなるような素晴らしき庭だ。}`
-`{ruby:......And yet, unless my memory fails me...":……しかし、私の記憶が確かなら」}`
-`{ruby:The figure crouched down and looked into my face.:人影がしゃがみ込み、私の顔を覗く。}`
+`{ruby:"......If it is,:「……そなたの庭ならば、私は}{ruby:then I must apologize.:謝らなければならないな。}`
+`{ruby:Yes, on a day with such fine weather, anyone would want:なるほど、このような良き天気の日には、昼寝と}{ruby:to take a nap in such a lovely garden as this.:洒落込みたくなるような素晴らしき庭だ。}`
+`{ruby:......And yet, unless:……しかし、私の記}{ruby:my memory fails me...":憶が確かなら」}`
+`{ruby:The figure crouched down:人影がしゃがみ込み、}{ruby:and looked into my face.:私の顔を覗く。}`
 `{ruby:.........It was a woman.:………女だった。}`
-`{ruby:"This is a public highway you're sleeping on.:「ここは天下の公道だ。}`
+`{ruby:"This is a public:「ここは天下の}{ruby:highway you're sleeping on.:公道だ。}`
 `{ruby:Do you want to become roadkill?:そなたは挽き肉になりたいのか？}`
-`{ruby:......Or maybe you already are roadkill.:……あるいはすでに挽き肉なのか。}`
+`{ruby:......Or maybe you:……あるいはすでに挽}{ruby:already are roadkill.:き肉なのか。}`
 `{ruby:Well now, which one is it?":どちらなのか教えて欲しい」}`
 `{ruby:I......clenched my chest.:私は、……下腹に力を込める。}`
-`{ruby:I felt I needed to answer somehow and establish communication.:何かの返事を返し、意思を疎通させなければならないと思った。}`
-`{ruby:So, after a lot of effort, ......I managed to let a short groan escape my lips.:だからようやく、……うぅ、という短い唸り声を発することが出来た。}`
+`{ruby:I felt I needed to:何かの返事を返し、意思を疎通させ}{ruby:answer somehow and establish communication.:なければならないと思った。}`
+`{ruby:So, after a lot of effort, ......I managed:だからようやく、……うぅ、という短}{ruby:to let a short groan escape my lips.:い唸り声を発することが出来た。}`
 `{ruby:"......I see.:「……なるほど。}`
 `{ruby:So you aren't roadkill yet.":まだ挽き肉ではなかったようだな」}`
 `{ruby:And that.........was how I met Ikuko.:それが私と、………幾子との出会いだった。}`
-`{ruby:"......The body is in a very frail condition.:「……非常に衰弱しております。}`
-`{ruby:Also, it is probable that there will be memory defects.:あと、記憶障害の可能性が高いですな。}`
-`{ruby:We won't know for sure until the CT scan, but brain damage is also a possibility.":ＣＴを見ないことにはわかりませんが、脳にダメージがある可能性もあります」}`
-`{ruby:"It's lucky that damage is all we have to deal with.:「ダメージ程度で済んで大いに結構でした。}`
-`{ruby:Spend much longer in a spot like that, and things would likely have been much worse.":あそこであのまま寝ていれば、それどころでは済まなかったでしょうから」}`
+`{ruby:"......The body is in:「……非常に衰弱し}{ruby:a very frail condition.:ております。}`
+`{ruby:Also, it is probable that:あと、記憶障害の可能}{ruby:there will be memory defects.:性が高いですな。}`
+`{ruby:We won't know for sure until the CT:ＣＴを見ないことにはわかりませんが、脳}{ruby:scan, but brain damage is also a possibility.":にダメージがある可能性もあります」}`
+`{ruby:"It's lucky that damage is:「ダメージ程度で済んで}{ruby:all we have to deal with.:大いに結構でした。}`
+`{ruby:Spend much longer in a spot like that,:あそこであのまま寝ていれば、それどこ}{ruby:and things would likely have been much worse.":ろでは済まなかったでしょうから」}`
 `{ruby:"......True.:「……ですな。}`
-`{ruby:In any event, I recommend getting this checked at a large hospital.":何れにせよ、大きな病院で一度診せた方がいいでしょう」}`
+`{ruby:In any event, I recommend getting:何れにせよ、大きな病院で一度}{ruby:this checked at a large hospital.":診せた方がいいでしょう」}`
 `{ruby:"Thank you, Doctor.:「ありがとう、先生。}`
-`{ruby:.........Please keep this off the record.:………この件は内密に。}`
-`{ruby:It may not be much, but here's some money for your troubles.":これはわずかですが、往診のお車代に」}`
-`{ruby:"I see no reason to speak of this needlessly, but...:「わざわざ他言はしませんが、}`
-`{ruby:......No, no, I couldn't possibly accept that much...":……いやいやっ、こんなにたくさんいただくわけには…」}`
-`{ruby:In the end, the doctor took the money and swore to keep quiet about the matter.:結局、医者は金を受け取り、他言はしないと誓わされた。}`
+`{ruby:.........Please keep this:………この件は}{ruby:off the record.:内密に。}`
+`{ruby:It may not be much, but:これはわずかですが、}{ruby:here's some money for your troubles.":往診のお車代に」}`
+`{ruby:"I see no reason to:「わざわざ他言は}{ruby:speak of this needlessly, but...:しませんが、}`
+`{ruby:......No, no, I couldn't:……いやいやっ、こんなにたく}{ruby:possibly accept that much...":さんいただくわけには…」}`
+`{ruby:In the end, the doctor took the money:結局、医者は金を受け取り、他}{ruby:and swore to keep quiet about the matter.:言はしないと誓わされた。}`
 `{ruby:Eventually, Hachijo returned.:やがて、八城が戻ってくる。}`
 `{ruby:"Oh, you've been awake.:「おや、起きていたのですか。}`
 `{ruby:How do you feel...?":具合は如何です…？」}`
-`{ruby:I nodded weakly, letting her know that it wasn't so bad for now.:私は小さく頷き、とりあえず悪くはないことを意思表示した。}`
+`{ruby:I nodded weakly, letting her know:私は小さく頷き、とりあえず悪く}{ruby:that it wasn't so bad for now.:はないことを意思表示した。}`
 `{ruby:......But...where is this place?:……しかし、ここはどこだろう。}`
-`{ruby:{n}A room I have absolutely no memory of, ......in a house I don't remember at all.:{n}まったく知らない家、……まったく知らない部屋だった。}`
-`{ruby:{n}And, first and foremost, here's a woman that I've never seen......:{n}そしてそれ以前に、まったく知らない女性だった……。}`
-`{ruby:"To start off, let me introduce myself.:「まずは私の自己紹介から。}`
+`{ruby:{n}A room I have absolutely no memory of,:{n}まったく知らない家、……ま}{ruby:......in a house I don't remember at all.:ったく知らない部屋だった。}`
+`{ruby:{n}And, first and foremost, here's:{n}そしてそれ以前に、まった}{ruby:a woman that I've never seen......:く知らない女性だった……。}`
+`{ruby:"To start off,:「まずは私の自己}{ruby:let me introduce myself.:紹介から。}`
 `{ruby:I'm Hachijo Ikuko.:私は八城幾子。}`
-`{ruby:I don't mind if you address me in a friendly manner as Ikuko, or if you prefer to call me Hachijo‐san and keep things more formal.":親しげに幾子と呼んでくれても、他人行儀に八城さんと呼んでくれても構いません」}`
+`{ruby:I don't mind if you address me in a friendly manner as Ikuko,:親しげに幾子と呼んでくれても、他人行儀に}{ruby:or if you prefer to call me Hachijo‐san and keep things more formal.":八城さんと呼んでくれても構いません」}`
 `{ruby:......Hachijo.........Ikuko.:……八城、………幾子。}`
-`{ruby:"The Hachijo family owns a lot of land and is well known in these parts.:「八城家はこの辺りではちょっと知られた大地主の名家。}`
-`{ruby:......Unlike my accomplished brothers, I'm what you might call a little eccentric.:……出来のいい兄たちと違い、私はどこかズレた変わり者。}`
-`{ruby:After I got into a bit too much mischief than was good for me, my parents finally ran out of patience and kicked me out.:色々と悪さが過ぎまして、とうとう親たちからも愛想を尽かされて追い出され。}`
+`{ruby:"The Hachijo family owns a lot of:「八城家はこの辺りではちょっ}{ruby:land and is well known in these parts.:と知られた大地主の名家。}`
+`{ruby:......Unlike my accomplished brothers, I'm what:……出来のいい兄たちと違い、私}{ruby:you might call a little eccentric.:はどこかズレた変わり者。}`
+`{ruby:After I got into a bit too much mischief than was good:色々と悪さが過ぎまして、とうとう親たち}{ruby:for me, my parents finally ran out of patience and kicked me out.:からも愛想を尽かされて追い出され。}`
 `{ruby:I'm now confined to this house.":今はここで蟄居をさせられています」}`
-`{ruby:"......As a hobby, I like to read detective novels...and also to write them.:「……趣味は推理小説を読むことと、そして書くこと。}`
+`{ruby:"......As a hobby, I like to:「……趣味は推理小説を読むこ}{ruby:read detective novels...and also to write them.:とと、そして書くこと。}`
 `{ruby:My age...is a single woman's secret.:歳は秘密の独身女。}`
-`{ruby:My heart is that of a girl, but I'm approaching the point where calling myself one would be increasingly absurd.:心は女子でも、そろそろそれを語るにはおこがましいかなという年頃です。}`
+`{ruby:My heart is that of a girl, but I'm approaching:心は女子でも、そろそろそれを語るには}{ruby:the point where calling myself one would be increasingly absurd.:おこがましいかなという年頃です。}`
 `{ruby:Heheheheh.":ふっふふふふ」}`
-`{ruby:With the haze my mind was in, it was extremely hard to make out what she was talking about.:私のぼんやりとした頭では、彼女が何を言っているのか、あまり理解は出来なかった。}`
-`{ruby:However, ......I was able to pick up on the fact...that she was trying to talk to me cheerfully.:でも、……彼女が私に対し、上機嫌に接していることだけは理解できた。}`
+`{ruby:With the haze my mind was in, it was:私のぼんやりとした頭では、彼女が何を言って}{ruby:extremely hard to make out what she was talking about.:いるのか、あまり理解は出来なかった。}`
+`{ruby:However, ......I was able to pick up on the:でも、……彼女が私に対し、上機嫌に接}{ruby:fact...that she was trying to talk to me cheerfully.:していることだけは理解できた。}`
 `{ruby:"......So, what's your name?":「……それで、そなたの名前は？」}`
 `{ruby:..................My......name......:………………私の、……名前……。}`
 `{ruby:..............................:…………………………。}`
-`{ruby:Logically, I know that, being a human, I must have a name.:人間である以上、誰にも名前があることは、理屈ではわかっている。}`
-`{ruby:And, I do have the feeling that I did indeed have a name.:そして恐らく、自分にも名前があったに違いないとは思う。}`
-`{ruby:......However, no matter how hard I tried to remember what it was, it just made my head hurt...:……しかし、自分のそれをいくら思い出そうとしても、頭が痛むだけだった…。}`
-`{ruby:"Is there anything you can remember besides your name...?":「何か、名前以外に覚えていることは…？」}`
-`{ruby:"..........................................":「……………………………………」}`
+`{ruby:Logically, I know that, being a:人間である以上、誰にも名前があるこ}{ruby:human, I must have a name.:とは、理屈ではわかっている。}`
+`{ruby:And, I do have the feeling:そして恐らく、自分にも名前があ}{ruby:that I did indeed have a name.:ったに違いないとは思う。}`
+`{ruby:......However, no matter how hard I tried to remember:……しかし、自分のそれをいくら思い出そ}{ruby:what it was, it just made my head hurt...:うとしても、頭が痛むだけだった…。}`
+`{ruby:"Is there anything you:「何か、名前以外に覚え}{ruby:can remember besides your name...?":ていることは…？」}`
+`{ruby::「……………………}{ruby:"..........................................":………………」}`
 `{ruby:Who......am I......?:私は、……誰だろう……。}`
 `{ruby:My head...:頭の中がぐちゃぐちゃで、}`
-`{ruby:...no, even my heart was a mess of torn flesh,:……いいや、心の中までぐちゃぐちゃの挽き肉で、}`
-`{ruby:......and I couldn't remember a thing, ......not even who or what I was...:……私は自分が誰なのか、何なのか、……何も、思い出すことが出来なかった…。}`
+`{ruby:...no, even my heart was:……いいや、心の中までぐち}{ruby:a mess of torn flesh,:ゃぐちゃの挽き肉で、}`
+`{ruby:......and I couldn't remember a thing,:……私は自分が誰なのか、何なのか、……何}{ruby:......not even who or what I was...:も、思い出すことが出来なかった…。}`
 `{ruby:But I must remember.:でも、私は思い出さなくてはならない。}`
-`{ruby:I had some kind of purpose......or maybe a mission.:私には、何か目的、……あるいは使命があったのだ。}`
-`{ruby:In order to remember that, .........I first have to remember who I am.:それを思い出すためにも、………まず、自分が誰だったのかを、思い出さなくてはならない。}`
+`{ruby:I had some kind:私には、何か目的、……ある}{ruby:of purpose......or maybe a mission.:いは使命があったのだ。}`
+`{ruby:In order to remember that, .........I:それを思い出すためにも、………まず、自分が誰}{ruby:first have to remember who I am.:だったのかを、思い出さなくてはならない。}`
 `{ruby:Who am I......?:私は誰……？}`
 `{ruby:What is my name......?:名前は……？}`
-`{ruby:Where was I born......and what was my birthday......?:生まれはどこだっけ、……誕生日は……？}`
-`{ruby:I need to remember something, anything............:何でもいい、何か覚えてることは…………。}`
-`{ruby:.......................................:…………………………………。}`
+`{ruby:Where was I born......and:生まれはどこだっけ、…}{ruby:what was my birthday......?:…誕生日は……？}`
+`{ruby:I need to:何でもいい、何か覚えて}{ruby:remember something, anything............:ることは…………。}`
+`{ruby::……………………}{ruby:.......................................:……………。}`
 `{ruby:"...............Age......":「……………歳……」}`
 `{ruby:"Age?:「歳？}`
 `{ruby:*giggle*.:くすくす。}`
 `{ruby:That's my little secret.":私の歳は秘密です」}`
 `{ruby:".........Eighteen...":「………１８歳…」}`
 `{ruby:"I look like I'm eighteen...?!":「私が、１８歳に見える……？！」}`
-`{ruby:"......I'm............eighteen............":「……私、…………１８歳…………」}`
+`{ruby::「……私、…………１}{ruby:"......I'm............eighteen............":８歳…………」}`
 `{ruby:"O‐oh, so that was your age...!:「あ、あぁ、そなたの年齢ですか…！}`
-`{ruby:Well now, I thought you were being a bit too flattering.:やれやれ、世辞が過ぎると思いました。}`
+`{ruby:Well now, I thought you:やれやれ、世辞が過ぎる}{ruby:were being a bit too flattering.:と思いました。}`
 `{ruby:Hahahaha.":はっはっはっは」}`
-`{ruby:When I asked myself how old I was, the number "eighteen" floated into my mind.:自分の年齢はと自問した時、浮かんできた数字が、１８だった。}`
-`{ruby:To be honest, I didn't really feel eighteen.:正直なところ、自分に１８歳だという自覚は少し薄い。}`
-`{ruby:......My mind felt much younger than that, ......and my pathetic body felt much older.:……心はそれよりずっと幼いように感じるし、……愚鈍な体は、それよりずっと老いて感じられた。}`
+`{ruby:When I asked myself how old I:自分の年齢はと自問した時、浮かん}{ruby:was, the number "eighteen" floated into my mind.:できた数字が、１８だった。}`
+`{ruby:To be honest, I:正直なところ、自分に１８歳だ}{ruby:didn't really feel eighteen.:という自覚は少し薄い。}`
+`{ruby:......My mind felt much younger than that,:……心はそれよりずっと幼いように感じるし、……愚}{ruby:......and my pathetic body felt much older.:鈍な体は、それよりずっと老いて感じられた。}`
 `{ruby:"I see.:「なるほど。}`
 `{ruby:So you're eighteen.:そなたは１８歳というわけだ。}`
 `{ruby:And that's all you can remember.":そして、それ以上のことは何も覚えていないと」}`
 `{ruby:I nodded weakly.:私は力なく頷く。}`
-`{ruby:I never knew that knowing nothing about yourself could make you feel so powerless.:自分で自分のことがわからないというのが、こんなにも無力に感じるとは知らなかった。}`
-`{ruby:"In that case, until you remember your name,:「では、そなたが自分の名を思い出すまで、１８という歳にちなみ、}`
-`{ruby:let's give you the name "Tohya", written with the characters for "eighteen".:十八と書いてトオヤと読む名前を与えましょう。}`
+`{ruby:I never knew that knowing nothing about:自分で自分のことがわからないというのが、こ}{ruby:yourself could make you feel so powerless.:んなにも無力に感じるとは知らなかった。}`
+`{ruby:"In that case, until:「では、そなたが自分の名を思い出す}{ruby:you remember your name,:まで、１８という歳にちなみ、}`
+`{ruby:let's give you the name "Tohya",:十八と書いてトオヤと読む}{ruby:written with the characters for "eighteen".:名前を与えましょう。}`
 `{ruby:......Hachijo Tohya.:……八城十八。}`
 `{ruby:What do you think?:如何です？}`
 `{ruby:Yeah, that sounds pretty cool.:うん、なかなかカッコイイです。}`
-`{ruby:Yes, I must say I've impressed myself very much with that one.":自画自賛、ウンウン」}`
-`{ruby:Hachijo......Ikuko gave a satisfied laugh.:八城……幾子は、ほくほくと笑う。}`
-`{ruby:From then on, I took the name Hachijo Tohya.:私は、八城十八と名乗ることになった。}`
-`{ruby:My inability to move my body was apparently due to a traffic accident.:体がうまく動かないのは、恐らく交通事故のせいだという。}`
-`{ruby:On that day, I had been hit by a car, and Ikuko had picked me up from where I lay on the street.:私はあの日、あそこで車にはねられ、倒れているところを、幾子に拾われたのだ。}`
+`{ruby:Yes, I must say I've impressed:自画自賛、ウ}{ruby:myself very much with that one.":ンウン」}`
+`{ruby:Hachijo......Ikuko gave:八城……幾子は、ほ}{ruby:a satisfied laugh.:くほくと笑う。}`
+`{ruby:From then on, I:私は、八城十八と名乗}{ruby:took the name Hachijo Tohya.:ることになった。}`
+`{ruby:My inability to move my body:体がうまく動かないのは、恐らく}{ruby:was apparently due to a traffic accident.:交通事故のせいだという。}`
+`{ruby:On that day, I had been hit by a car, and:私はあの日、あそこで車にはねられ、倒れて}{ruby:Ikuko had picked me up from where I lay on the street.:いるところを、幾子に拾われたのだ。}`
 `{ruby:If she hadn't hit the brakes...:もし彼女がブレーキを踏んでくれなかったら。}`
-`{ruby:She probably would've driven straight onwards, thinking she'd run over a dead dog or something.:犬の死骸でも踏んだかな程度に思われ、彼女はそのまま走り去っていただろう。}`
-`{ruby:......Later on, I—perhaps rudely—suspected that the one who hit me might have been Ikuko herself,:……ひょっとして、私をはねたのが、他ならぬ彼女なのではないかという失礼な想像も後に浮かんだが、}`
-`{ruby:but when I saw her completely undamaged front bumper, I gave up on that theory.:彼女の車の傷一つないバンパーを見て、その推理を引っ込めた。}`
-`{ruby:Hachijo Ikuko lived in a small but lovely mansion on the top of a small hill, in a village with a view of the sea.:八城幾子は、海の見える町の、小高い丘の上に、小さいがとても立派な邸宅に住んでいた。}`
-`{ruby:She also owned the hill behind her and was more than capable of enjoying the four seasons in privacy.:裏山も持ち、豊かな四季をプライベートに楽しむことも出来た。}`
-`{ruby:As time passed slowly, my rehabilitation continued, and my ability to move improved little by little.:ゆっくりと時間を掛けて、リハビリを進め、私は体の自由を少しずつ取り戻していった。}`
-`{ruby:However, ......it seemed I really had suffered some form of brain damage.:ただ、……やはり、脳にダメージが残っているらしい。}`
-`{ruby:Finding out who I was.........looked like it would be a very difficult task.:私が何者なのかを知るのは、………とても難しそうだった。}`
-`{ruby:In the beginning, when I couldn't bear not knowing my identity, my head often hurt so much it felt as though it would explode.:初めの頃は、自分の正体がわからないもどかしさに、頭が割れそうな痛みを訴えることも多かった。}`
-`{ruby:......However, as I slowly accepted the fact that I was a new person, with the new name of Hachijo Tohya,:……しかし、自分が八城十八という新しい名を与えられた、新しい人間なのだということを少しだけ受け容れられるようになると、}`
-`{ruby:......the headaches became less frequent.:……頭痛の頻度は少しずつ減っていった。}`
-`{ruby:The whole time, ......no memories returned to me except the fact that I had been eighteen.:相変わらず、……自分が１８歳だったという記憶しか、蘇らない。}`
-`{ruby:However, I was unable to remember any more, unable even to be sure that eighteen was my true age,:しかし、それ以上のことを思い出せず、そして１８歳という年齢さえも正しいのかわからず、}`
-`{ruby:......and eventually, I stopped trying to remember my former self.:……私はやがて、かつての自分を思い出そうとすることもやめた。}`
+`{ruby:She probably would've driven straight onwards, thinking:犬の死骸でも踏んだかな程度に思われ、彼}{ruby:she'd run over a dead dog or something.:女はそのまま走り去っていただろう。}`
+`{ruby:......Later on, I—perhaps rudely—suspected that the one:……ひょっとして、私をはねたのが、他ならぬ彼女なの}{ruby:who hit me might have been Ikuko herself,:ではないかという失礼な想像も後に浮かんだが、}`
+`{ruby:but when I saw her completely undamaged:彼女の車の傷一つないバンパーを見}{ruby:front bumper, I gave up on that theory.:て、その推理を引っ込めた。}`
+`{ruby:Hachijo Ikuko lived in a small but lovely mansion on the top:八城幾子は、海の見える町の、小高い丘の上に、}{ruby:of a small hill, in a village with a view of the sea.:小さいがとても立派な邸宅に住んでいた。}`
+`{ruby:She also owned the hill behind her and was:裏山も持ち、豊かな四季をプライベ}{ruby:more than capable of enjoying the four seasons in privacy.:ートに楽しむことも出来た。}`
+`{ruby:As time passed slowly, my rehabilitation continued, and:ゆっくりと時間を掛けて、リハビリを進め、私}{ruby:my ability to move improved little by little.:は体の自由を少しずつ取り戻していった。}`
+`{ruby:However, ......it seemed I really had:ただ、……やはり、脳にダメー}{ruby:suffered some form of brain damage.:ジが残っているらしい。}`
+`{ruby:Finding out who I was.........looked like:私が何者なのかを知るのは、……}{ruby:it would be a very difficult task.:…とても難しそうだった。}`
+`{ruby:In the beginning, when I couldn't bear not knowing my identity, my:初めの頃は、自分の正体がわからないもどかしさに、}{ruby:head often hurt so much it felt as though it would explode.:頭が割れそうな痛みを訴えることも多かった。}`
+`{ruby:......However, as I slowly accepted the fact that I was:……しかし、自分が八城十八という新しい名を与えられた、新しい人}{ruby:a new person, with the new name of Hachijo Tohya,:間なのだということを少しだけ受け容れられるようになると、}`
+`{ruby:......the headaches:……頭痛の頻度は少しず}{ruby:became less frequent.:つ減っていった。}`
+`{ruby:The whole time, ......no memories returned to me:相変わらず、……自分が１８歳だっ}{ruby:except the fact that I had been eighteen.:たという記憶しか、蘇らない。}`
+`{ruby:However, I was unable to remember any more, unable:しかし、それ以上のことを思い出せず、そして１}{ruby:even to be sure that eighteen was my true age,:８歳という年齢さえも正しいのかわからず、}`
+`{ruby:......and eventually, I stopped trying:……私はやがて、かつての自分を思}{ruby:to remember my former self.:い出そうとすることもやめた。}`
 `{ruby:"Good morning, Tohya.:「おはよう、十八。}`
-`{ruby:That was quite the storm last night. Were you able to sleep well?":昨日はひどい嵐でしたが、よく眠れましたか」}`
-`{ruby:".........I had some trouble falling asleep.:「………なかなか寝付けませんでした。}`
-`{ruby:So, I decided to read your manuscript.":だから、幾子さんの書いた原稿を読んでいました」}`
+`{ruby:That was quite the storm last:昨日はひどい嵐でしたが、}{ruby:night. Were you able to sleep well?":よく眠れましたか」}`
+`{ruby:".........I had some:「………なかなか寝付}{ruby:trouble falling asleep.:けませんでした。}`
+`{ruby:So, I decided:だから、幾子さんの書いた原}{ruby:to read your manuscript.":稿を読んでいました」}`
 `{ruby:"My, my.:「おやおや。}`
 `{ruby:How far did you manage to get?":どこまで読んでくれたのですか」}`
 `{ruby:"I finished it.":「全部読み終えました」}`
 `{ruby:"......Now there's a surprise.:「……これは驚いた。}`
-`{ruby:You managed to read through all that in a single night?":あの量の原稿用紙を、一晩で読み切ったというのですか」}`
+`{ruby:You managed to read through:あの量の原稿用紙を、一晩で読}{ruby:all that in a single night?":み切ったというのですか」}`
 `{ruby:"I was surprised too.:「私も驚いています。}`
-`{ruby:......Once I got into it, I'd finished before I knew it.:……夢中になっていたら、あっという間に読めてしまって。}`
-`{ruby:......It was like I was just skimming it, ......or maybe like I was reading each page in a glance......":……文章を斜めに読むというか、原稿用紙全体を一度に見るというべきか……」}`
-`{ruby:"It sounds like you have some talent at speed reading.:「どうやらそなたは、速読の心得があるようですね。}`
+`{ruby:......Once I got into it,:……夢中になっていたら、あっと}{ruby:I'd finished before I knew it.:いう間に読めてしまって。}`
+`{ruby:......It was like I was just skimming it, ......or:……文章を斜めに読むというか、原稿用紙}{ruby:maybe like I was reading each page in a glance......":全体を一度に見るというべきか……」}`
+`{ruby:"It sounds like you have:「どうやらそなたは、速読の}{ruby:some talent at speed reading.:心得があるようですね。}`
 `{ruby:......So, how was it?:……して、どうでしたか。}`
 `{ruby:What did you think of it?":感想は」}`
 `{ruby:"I liked it a lot.:「とても面白かったです。}`
-`{ruby:Still, if you don't explain that part about the ocean currents a bit more clearly, it might be a little unfair for the reader...:ただ、海流についての説明がもう少しないと、推理小説としてはアンフェアかもしれませんね…。}`
-`{ruby:Oh, but I thought it was great that you had the foreshadowing with the ring right there at the beginning.":でも、指輪についての伏線が、冒頭から出ていたのは、とても面白かったです」}`
-`{ruby:".........After I finished, I had to go back to the beginning and slap myself for being so easily tricked.:「………読み終えた後に、もう一度最初に戻り、やられたと思わず手を打ってしまいました。}`
-`{ruby:I think that feeling's the best part of a detective novel.":そういう気持ちこそ、推理小説の醍醐味だと思います」}`
-`{ruby:"....................................":「………………………………」}`
-`{ruby:"......Um, ......did I say something to offend you?:「……あの、……何か悪いことを言ったでしょうか。}`
+`{ruby:Still, if you don't explain that part about the ocean currents a:ただ、海流についての説明がもう少しないと、推理}{ruby:bit more clearly, it might be a little unfair for the reader...:小説としてはアンフェアかもしれませんね…。}`
+`{ruby:Oh, but I thought it was great that you had:でも、指輪についての伏線が、冒頭から出}{ruby:the foreshadowing with the ring right there at the beginning.":ていたのは、とても面白かったです」}`
+`{ruby:".........After I finished, I had to go back to:「………読み終えた後に、もう一度最初に戻り、}{ruby:the beginning and slap myself for being so easily tricked.:やられたと思わず手を打ってしまいました。}`
+`{ruby:I think that feeling's the:そういう気持ちこそ、推理小説}{ruby:best part of a detective novel.":の醍醐味だと思います」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
+`{ruby:"......Um, ......did I say:「……あの、……何か悪いこ}{ruby:something to offend you?:とを言ったでしょうか。}`
 `{ruby:......If I did, I apologize.":……だったら、ごめんなさい」}`
-`{ruby:"Of course not! Why are you apologizing...?!:「いや、なぜ謝るのです…！}`
+`{ruby:"Of course not!:「いや、なぜ謝る}{ruby:Why are you apologizing...?!:のです…！}`
 `{ruby:I'm just shocked, that's all.:驚いています。}`
-`{ruby:The pertinence of your remarks is commendable...:そなたの的確な感想は賞賛に値するでしょう…。}`
-`{ruby:It seems you must also have some talent as a critic or a detective novel writer.":そなたはどうやら、批評家か、あるいは推理小説作家の才能があるらしい」}`
-`{ruby:...............A detective novel...writer.:……………推理小説、作家。}`
+`{ruby:The pertinence of:そなたの的確な感想は賞賛}{ruby:your remarks is commendable...:に値するでしょう…。}`
+`{ruby:It seems you must also have some talent:そなたはどうやら、批評家か、あるいは}{ruby:as a critic or a detective novel writer.":推理小説作家の才能があるらしい」}`
+`{ruby:...............A:……………推理小}{ruby:detective novel...writer.:説、作家。}`
 `{ruby:......A critic.:……批評。}`
 `{ruby:{n}........................:{n}……………………。}`
 `{ruby:From across the fog of oblivion...:忘却の霞の向こうで。}`
-`{ruby:...I seem to remember myself fighting and arguing about......mysteries, ......or something like that.:私はかつて、……ミステリーとか、……そういうものについて、議論を交わして戦っていたことがある気がする。}`
-`{ruby:That way of fighting, which I must have learned in the past.........sent a surge of excitement through me.:その当時に身に付けた、ミステリーとの戦い方が、………疼く。}`
+`{ruby:...I seem to remember myself fighting:私はかつて、……ミステリーとか、……そういうものについ}{ruby:and arguing about......mysteries, ......or something like that.:て、議論を交わして戦っていたことがある気がする。}`
+`{ruby:That way of fighting, which I must have learned:その当時に身に付けた、ミステリー}{ruby:in the past.........sent a surge of excitement through me.:との戦い方が、………疼く。}`
 `{ruby:......Mystery.:……ミステリー。}`
 `{ruby:......Fighting......:……戦い……。}`
 `{ruby:My head......hurt.........:頭が、……痛む………。}`
-`{ruby:I accepted a painkiller and swallowed it with fresh water brought up from the well.:私は鎮痛剤をもらい、それを井戸から汲み上げた新鮮な水で飲み込んだ。}`
+`{ruby:I accepted a painkiller and swallowed it:私は鎮痛剤をもらい、それを井戸から汲}{ruby:with fresh water brought up from the well.:み上げた新鮮な水で飲み込んだ。}`
 `{ruby:Who am I......really.........?:私は本当に、……誰なんだろう………。}`
-`{ruby:......But no matter how much I thought, I couldn't remember.:……しかし、それをいくら考えても、思い出せない。}`
-`{ruby:I was told that the frequency of my headaches could be lessened by brain surgery, but also that there was no guarantee that it would do my memory any good.:脳の手術をすれば、頭痛の頻度は減るそうだが、それでも記憶回復に繋がるかどうかは保証できないと言われた。}`
-`{ruby:Ikuko said that she would let me have surgery if I wanted it.:幾子は、望むなら手術を受けても良いと言ってくれた。}`
+`{ruby:......But no matter how much:……しかし、それをいくら考}{ruby:I thought, I couldn't remember.:えても、思い出せない。}`
+`{ruby:I was told that the frequency of my headaches could be lessened by brain surgery,:脳の手術をすれば、頭痛の頻度は減るそうだが、それでも記}{ruby:but also that there was no guarantee that it would do my memory any good.:憶回復に繋がるかどうかは保証できないと言われた。}`
+`{ruby:Ikuko said that she would let:幾子は、望むなら手術を受けて}{ruby:me have surgery if I wanted it.:も良いと言ってくれた。}`
 `{ruby:However, I refused.:でも、私は断った。}`
-`{ruby:Even if I can't remember it, ......the real me is still there, sleeping inside my head.:たとえ思い出せなくても、……私の頭の中には、本当の私が、眠っている。}`
-`{ruby:I was scared......that the surgery might harm that "me" somehow.:手術でそれに傷を付けられるのが怖くて、……私は断ったのだ。}`
-`{ruby:By now, I've gotten used to dealing with headaches.:私も、今では頭痛との付き合い方に慣れている。}`
-`{ruby:......As long as I don't force myself to remember the past, the headaches don't torment me every day.:……無理に、過去のことを思い出そうとさえしなければ、頭痛も、連日私を苛んだりはしないのだ。}`
-`{ruby:So, ......bit by bit, I became free of the headaches...and got used to my new life as Hachijo Tohya......:だから、……私は次第に、頭痛から解放され、八城十八としての新しい生活に馴染んでいった……。}`
-`{ruby:Gradually, my interest shifted from myself to Ikuko.:次第に私の興味は、自分のことでなく、幾子に向いていった。}`
+`{ruby:Even if I can't remember it, ......the real:たとえ思い出せなくても、……私の頭の}{ruby:me is still there, sleeping inside my head.:中には、本当の私が、眠っている。}`
+`{ruby:I was scared......that the surgery:手術でそれに傷を付けられるのが怖}{ruby:might harm that "me" somehow.:くて、……私は断ったのだ。}`
+`{ruby:By now, I've gotten:私も、今では頭痛との付き}{ruby:used to dealing with headaches.:合い方に慣れている。}`
+`{ruby:......As long as I don't force myself to remember:……無理に、過去のことを思い出そうとさえしなけれ}{ruby:the past, the headaches don't torment me every day.:ば、頭痛も、連日私を苛んだりはしないのだ。}`
+`{ruby:So, ......bit by bit, I became free of the:だから、……私は次第に、頭痛から解放され、八城十}{ruby:headaches...and got used to my new life as Hachijo Tohya......:八としての新しい生活に馴染んでいった……。}`
+`{ruby:Gradually, my interest shifted:次第に私の興味は、自分のことで}{ruby:from myself to Ikuko.:なく、幾子に向いていった。}`
 `{ruby:Hachijo Ikuko.:八城幾子。}`
 `{ruby:A very strange woman.:不思議な女性だった。}`
-`{ruby:First off, she was apparently the daughter of a very well‐off family, just as she had said.:まず、彼女は本当に、どこかの良家のお嬢様だったらしい。}`
-`{ruby:However, she was considerably eccentric,:だが、相当のひねくれ者だったらしく、}`
-`{ruby:and the "various mischievous incidents" she spoke of had apparently gotten her within an inch of being disowned.:彼女が語るところの“愉快な事件の数々”により、勘当一歩前まで行ってしまったらしい。}`
-`{ruby:As a result, she had been given this house, and had been ordered to live here quietly and alone.:その結果、彼女はこの家を与えられ、ここでひとり隠居するように命じられたらしい。}`
-`{ruby:She had never been a particularly social person, so she happily accepted this new state of affairs,:彼女は元々、社交的な性格ではなかったらしく、それを喜んで受け入れ、}`
-`{ruby:living however she pleased with servants to take care of her.:ここで使用人たちに身の回りの世話をさせながら、悠々自適に暮らしているらしい。}`
+`{ruby:First off, she was apparently the daughter of:まず、彼女は本当に、どこかの良}{ruby:a very well‐off family, just as she had said.:家のお嬢様だったらしい。}`
+`{ruby:However, she:だが、相当のひねくれ}{ruby:was considerably eccentric,:者だったらしく、}`
+`{ruby:and the "various mischievous incidents" she spoke of had:彼女が語るところの“愉快な事件の数々”により}{ruby:apparently gotten her within an inch of being disowned.:、勘当一歩前まで行ってしまったらしい。}`
+`{ruby:As a result, she had been given this house,:その結果、彼女はこの家を与えられ、ここでひ}{ruby:and had been ordered to live here quietly and alone.:とり隠居するように命じられたらしい。}`
+`{ruby:She had never been a particularly social person,:彼女は元々、社交的な性格ではなかった}{ruby:so she happily accepted this new state of affairs,:らしく、それを喜んで受け入れ、}`
+`{ruby:living however she pleased with:ここで使用人たちに身の回りの世話をさせな}{ruby:servants to take care of her.:がら、悠々自適に暮らしているらしい。}`
 `{ruby:She had no friends.:友人はいない。}`
 `{ruby:No one ever came to visit.:訪ねてくる者もない。}`
-`{ruby:Besides me, the only one she ever talked to was Bern, an old black cat she kept as a pet.:彼女が話し掛けるのは、私がいなかったらペットの老いた黒猫、ベルンだけだ。}`
+`{ruby:Besides me, the only one she ever talked to was:彼女が話し掛けるのは、私がいなかったら}{ruby:Bern, an old black cat she kept as a pet.:ペットの老いた黒猫、ベルンだけだ。}`
 `{ruby:I didn't know her real age.:彼女の実際の年齢はわからない。}`
-`{ruby:She didn't seem to be too old to marry yet, but she wasn't likely to meet anyone new leading an isolated life like this.:婚期的には、まだ取り返しのつく年齢らしいが、こんなところで一人で隠居していては、出会いもあるわけがない。}`
-`{ruby:Despite her insistence that she just hadn't met anyone worth the trouble, I felt as though she'd already given up on marriage.:たまたま良い出会いがないだけだと言い張る彼女だが、多分、結婚はもう、諦めているのだろう。}`
-`{ruby:Her everyday life changed very little.:彼女の日々は、とても単調だ。}`
-`{ruby:She would either read through the many detective novels that were brought to her, or else write detective novels herself.:取り寄せた推理小説の数々を読み漁るか、あるいは自ら推理小説を執筆するか、そのどちらかだった。}`
-`{ruby:At first, I thought she was some novelist at a private retreat, plugging away at a new book.:最初は、庵に隠居して原稿に勤しむ小説家なのかと思った。}`
-`{ruby:However, the manuscripts she finished just ended up clipped together in a pile.:しかし、彼女が書き上げた原稿は、目玉クリップで留められ山積みにされるだけ。}`
-`{ruby:With me as the sole exception, it didn't look like she gave them to anyone else to read.:自分という例外を除けば、誰にも読ませているようには見えなかった。}`
-`{ruby:A novelist is someone who writes novels for other people to read.:小説家というのは、人に読ませるために小説を書く職業のことだ。}`
-`{ruby:So, I figured you could hardly call her a novelist when she kept writing novels no one would ever read.:だから人に読ませない小説ばかりを書く彼女は、多分、小説家とは呼ばないに違いないと思った。}`
-`{ruby:"......Ikuko‐san, why don't you ever show these to anyone?":「……幾子さんは、なぜこの原稿を誰かに見せようとしないのですか」}`
+`{ruby:She didn't seem to be too old to marry yet, but she:婚期的には、まだ取り返しのつく年齢らしいが、こんなとこ}{ruby:wasn't likely to meet anyone new leading an isolated life like this.:ろで一人で隠居していては、出会いもあるわけがない。}`
+`{ruby:Despite her insistence that she just hadn't met anyone worth the:たまたま良い出会いがないだけだと言い張る彼女だ}{ruby:trouble, I felt as though she'd already given up on marriage.:が、多分、結婚はもう、諦めているのだろう。}`
+`{ruby:Her everyday life:彼女の日々は、と}{ruby:changed very little.:ても単調だ。}`
+`{ruby:She would either read through the many detective novels that:取り寄せた推理小説の数々を読み漁るか、あるいは自}{ruby:were brought to her, or else write detective novels herself.:ら推理小説を執筆するか、そのどちらかだった。}`
+`{ruby:At first, I thought she was some novelist at:最初は、庵に隠居して原稿に勤し}{ruby:a private retreat, plugging away at a new book.:む小説家なのかと思った。}`
+`{ruby:However, the manuscripts she finished just:しかし、彼女が書き上げた原稿は、目玉クリ}{ruby:ended up clipped together in a pile.:ップで留められ山積みにされるだけ。}`
+`{ruby:With me as the sole exception, it didn't look:自分という例外を除けば、誰にも読ま}{ruby:like she gave them to anyone else to read.:せているようには見えなかった。}`
+`{ruby:A novelist is someone who writes:小説家というのは、人に読ませるた}{ruby:novels for other people to read.:めに小説を書く職業のことだ。}`
+`{ruby:So, I figured you could hardly call her a novelist:だから人に読ませない小説ばかりを書く彼女は、多}{ruby:when she kept writing novels no one would ever read.:分、小説家とは呼ばないに違いないと思った。}`
+`{ruby:"......Ikuko‐san, why don't you:「……幾子さんは、なぜこの原稿を誰}{ruby:ever show these to anyone?":かに見せようとしないのですか」}`
 `{ruby:"I show them to you.:「そなたには見せています。}`
 `{ruby:Only the better ones, of course.":無論、出来のマシなものに限りますが」}`
-`{ruby:"Haven't you ever thought of sending one to some publishing company?:「例えば、どこかの出版社に応募してみるとか。}`
-`{ruby:......It's a shame for things to be this way, when your works are so interesting.":……幾子さんの作品は、とても面白いのに、残念ですよ」}`
-`{ruby:"My works can't stand up against the pros.:「私の作品など、プロには通じぬ。}`
-`{ruby:I sent one in once, but it was absolutely no good.:一度送ったことがあるが、さっぱり駄目でした。}`
+`{ruby:"Haven't you ever thought of:「例えば、どこかの出版社}{ruby:sending one to some publishing company?:に応募してみるとか。}`
+`{ruby:......It's a shame for things to be:……幾子さんの作品は、とても}{ruby:this way, when your works are so interesting.":面白いのに、残念ですよ」}`
+`{ruby:"My works can't stand:「私の作品など、プ}{ruby:up against the pros.:ロには通じぬ。}`
+`{ruby:I sent one in once,:一度送ったことがあるが、}{ruby:but it was absolutely no good.:さっぱり駄目でした。}`
 `{ruby:I understand my position.:私にはわかっています。}`
 `{ruby:This is just an amateur's pastime.":こんなもの、素人の道楽です」}`
-`{ruby:"I don't think "amateur" is a fitting word for someone who's so well‐versed in detective novels from all times and places across the world.":「あれだけ古今東西の様々な推理小説に精通していて、素人ということはないと思います」}`
-`{ruby:"Being a big eater doesn't mean you'll make a good cook.:「大飯喰らいが、良き料理人になれるわけでもない。}`
-`{ruby:Reading every detective novel you can get your hands on provides no guarantee of being a good detective novelist.:推理小説を読み散らすことが、良き推理小説家であることを保証するわけでもない。}`
+`{ruby:"I don't think "amateur" is a fitting word for someone who's so:「あれだけ古今東西の様々な推理小説に精通して}{ruby:well‐versed in detective novels from all times and places across the world.":いて、素人ということはないと思います」}`
+`{ruby:"Being a big eater doesn't:「大飯喰らいが、良き料理人}{ruby:mean you'll make a good cook.:になれるわけでもない。}`
+`{ruby:Reading every detective novel you can get your hands:推理小説を読み散らすことが、良き推理小説}{ruby:on provides no guarantee of being a good detective novelist.:家であることを保証するわけでもない。}`
 `{ruby:That's how it is.:そういうことです。}`
-`{ruby:That's why this is nothing more than a pastime.":だからこんなものは、道楽に過ぎません」}`
-`{ruby:"......Is it really fun to write novels that you won't show to anyone?":「……誰にも見せない小説を書くことは、本当に楽しいですか？」}`
+`{ruby:That's why this is:だからこんなものは、道}{ruby:nothing more than a pastime.":楽に過ぎません」}`
+`{ruby:"......Is it really fun to write:「……誰にも見せない小説を書くこ}{ruby:novels that you won't show to anyone?":とは、本当に楽しいですか？」}`
 `{ruby:"It used to be.:「かつては楽しかった。}`
 `{ruby:......Once.":……かつては」}`
 `{ruby:"What about now?":「今は？」}`
-`{ruby:"I like getting to hear your opinions.:「そなたに感想を得ることが楽しい。}`
-`{ruby:.........At any rate, I've finished writing the chapter.:………とりあえず、一章を書き終えました。}`
-`{ruby:I'll go make some tea, so would you mind reading it again and sharing your thoughts with me?":お茶を用意させるので、また読んで感想を聞かせてもらえませんか」}`
-`{ruby:Saying this with a smile, Ikuko thrust a pile of manuscript paper at me.:幾子は、そう言って微笑みながら、原稿用紙の束を私に突き出す。}`
-`{ruby:When it comes to detective novels, reading and writing are the same.:推理小説は、読むのも書くのもきっと同じ。}`
-`{ruby:{n}It's boring if you just do it by yourself.:{n}自分ひとりだけじゃ、つまらない。}`
-`{ruby:You only get something really precious when you share the world with someone else.:誰かと一緒に、世界を共有して初めて、……何か大切なものが広がるのだ。}`
+`{ruby:"I like getting:「そなたに感想を得る}{ruby:to hear your opinions.:ことが楽しい。}`
+`{ruby:.........At any rate, I've:………とりあえず、一章}{ruby:finished writing the chapter.:を書き終えました。}`
+`{ruby:I'll go make some tea, so would you mind:お茶を用意させるので、また読んで感}{ruby:reading it again and sharing your thoughts with me?":想を聞かせてもらえませんか」}`
+`{ruby:Saying this with a smile, Ikuko thrust:幾子は、そう言って微笑みながら、}{ruby:a pile of manuscript paper at me.:原稿用紙の束を私に突き出す。}`
+`{ruby:When it comes to detective novels,:推理小説は、読むのも書}{ruby:reading and writing are the same.:くのもきっと同じ。}`
+`{ruby:{n}It's boring if you:{n}自分ひとりだけじ}{ruby:just do it by yourself.:ゃ、つまらない。}`
+`{ruby:You only get something really precious when:誰かと一緒に、世界を共有して初めて、}{ruby:you share the world with someone else.:……何か大切なものが広がるのだ。}`
 `{ruby:........................Headache.:……………………頭痛。}`
 `{ruby:"Tohya?:「十八？}`
 `{ruby:......Are you okay?:……しっかり？}`
 `{ruby:I'll go get some headache medicine.":今、頭痛薬を」}`
 `{ruby:"I'm fine.:「大丈夫です。}`
-`{ruby:I'm more interested in this manuscript.:それより原稿を。}`
+`{ruby:I'm more interested:それより原}{ruby:in this manuscript.:稿を。}`
 `{ruby:I can't wait for the new chapter.":新章が楽しみです」}`
 `{ruby:The seasons passed.:季節は移ろっていく。}`
-`{ruby:Together with Ikuko, in this town whose name I didn't even know,:私は幾子と二人で、この名も知らぬ町で、}`
-`{ruby:I spent my days debating detective novels and talking about ideas for new plots.:日々を推理小説の議論と、新しい小説のプロットのアイデアについて話し合って過ごした。}`
-`{ruby:At a glance, they may have appeared to be stale and unproductive days.:それは一見、代わり映えのしない日々だったかもしれない。}`
-`{ruby:However, ......I found satisfaction with my new life as Hachijo Tohya.:でも、……八城十八としての、新しい人生としては、満ち足りたものだった。}`
-`{ruby:"......And so, the curtain closes on the strange tale of Kurokubi Island.:「……“斯様にして、我が黒首島奇譚は幕を閉じるのである。”}`
+`{ruby:Together with Ikuko, in this town:私は幾子と二人で、この}{ruby:whose name I didn't even know,:名も知らぬ町で、}`
+`{ruby:I spent my days debating detective novels:日々を推理小説の議論と、新しい小説のプロット}{ruby:and talking about ideas for new plots.:のアイデアについて話し合って過ごした。}`
+`{ruby:At a glance, they may have:それは一見、代わり映えのしない}{ruby:appeared to be stale and unproductive days.:日々だったかもしれない。}`
+`{ruby:However, ......I found satisfaction with:でも、……八城十八としての、新しい人生}{ruby:my new life as Hachijo Tohya.:としては、満ち足りたものだった。}`
+`{ruby:"......And so, the curtain closes on:「……“斯様にして、我が黒首島奇}{ruby:the strange tale of Kurokubi Island.:譚は幕を閉じるのである。”}`
 `{ruby:.........The End.":………＜了＞」}`
-`{ruby:With a dramatic flourish of her fountain pen, Ikuko signified that her manuscript was now complete.:幾子は万年筆を大仰に振り上げ、原稿を完全に書ききったことを示す。}`
+`{ruby:With a dramatic flourish of her fountain pen,:幾子は万年筆を大仰に振り上げ、原稿}{ruby:Ikuko signified that her manuscript was now complete.:を完全に書ききったことを示す。}`
 `{ruby:"What do you think...?!:「どうであるか…！}`
-`{ruby:I tried using your plot to make Tsujiko's tragic love scene at the end a bit more moving.":そなたのプロットを活かしつつ、最後に辻子の悲恋をもう少し厚くしてみました」}`
+`{ruby:I tried using your plot to make Tsujiko's tragic:そなたのプロットを活かしつつ、最後に辻子}{ruby:love scene at the end a bit more moving.":の悲恋をもう少し厚くしてみました」}`
 `{ruby:"I think it's very good......:「とても良いと思います……。}`
-`{ruby:I think the last farewell is sad enough to make it moving as a story, not just a reasoning puzzle.":最後の別れが悲しく、推理物としてだけでなく、読み物としても厚みが出たと思います」}`
+`{ruby:I think the last farewell is sad enough to make:最後の別れが悲しく、推理物としてだけでなく}{ruby:it moving as a story, not just a reasoning puzzle.":、読み物としても厚みが出たと思います」}`
 `{ruby:"......That's thanks to your plot.:「……十八のプロットがあればこそです。}`
-`{ruby:......Compared to this work, everything I've written before now is worth little more than scrap paper.:……この作品の前には、私がこれまで書き溜めた原稿など、ちり紙の価値さえない。}`
-`{ruby:......Even as I was writing it, I was excited to be the first person in the world who got to read it.:……書きながらも、私が世界で一番最初の読者であることの興奮。}`
+`{ruby:......Compared to this work, everything I've written before:……この作品の前には、私がこれまで書き溜}{ruby:now is worth little more than scrap paper.:めた原稿など、ちり紙の価値さえない。}`
+`{ruby:......Even as I was writing it, I was excited to be:……書きながらも、私が世界で一番}{ruby:the first person in the world who got to read it.:最初の読者であることの興奮。}`
 `{ruby:......I've never felt that before.":……こんな経験は初めてです」}`
 `{ruby:"I just mentioned some ideas.:「私はアイデアを出しただけです。}`
-`{ruby:You're the one who turned them into such a fascinating story, Ikuko‐san.":それを、ここまで立派な読み物に昇華してくれたのは、全て幾子さんの筆のお陰です」}`
-`{ruby:Before I knew it, she had roped me in as well, and I too had dipped my toe into the world of detective novel writing.:いつしか彼女に誘われるようにして、私も推理小説を執筆する世界に足を踏み入れていた。}`
-`{ruby:......Apparently, the old me had possessed some knowledge of mysteries and detective novels and the like.:……かつての私は、推理小説というかミステリーというか、そういうものに多少の心得があったらしい。}`
-`{ruby:And my talent seemed to be of a fairly unorthodox kind.:そしてそれらに、相当、斜な角度から切り込んでいたようだ。}`
-`{ruby:I turned famous mysteries from across the world on their head, always looking to twist those ideas into something new.:私は古今東西の有名ミステリーを逆手に取り、アイデアだけは斬新なものをと考え続けた。}`
-`{ruby:However, a few ideas aren't enough to make a book.:しかし、アイデアだけで作品が仕上がったら、これほど楽なことはない。}`
-`{ruby:No meal is complete if all you can do is chop up vegetables.:野菜をぶつ切りにしただけでは、どんな料理だって完成しないのだ。}`
-`{ruby:It was thanks to Ikuko's writing, a skill she had built up over many years, that my ideas were transformed into a work of fiction.:その私のアイデアを、幾子は長年培ってきた筆力で作品に昇華してくれた。}`
-`{ruby:This first work that we had authored together, "The Strange Tale of Kurokubi Island", had brought out the best of our individual quirks,:初めて二人で書き上げた、この「黒首島奇譚」は、二人の素晴らしい個性を活かしあった、}`
-`{ruby:......and, though I hate to brag, it had turned into a masterpiece that we could show to anyone without shame.:……内輪褒めで恐縮だが、誰に見せても恥ずかしくない、傑作だった。}`
+`{ruby:You're the one who turned them:それを、ここまで立派な読み物に昇華してくれ}{ruby:into such a fascinating story, Ikuko‐san.":たのは、全て幾子さんの筆のお陰です」}`
+`{ruby:Before I knew it, she had roped me in as well, and:いつしか彼女に誘われるようにして、私も推理小}{ruby:I too had dipped my toe into the world of detective novel writing.:説を執筆する世界に足を踏み入れていた。}`
+`{ruby:......Apparently, the old me had possessed some knowledge:……かつての私は、推理小説というかミステリーという}{ruby:of mysteries and detective novels and the like.:か、そういうものに多少の心得があったらしい。}`
+`{ruby:And my talent seemed to:そしてそれらに、相当、斜な角度}{ruby:be of a fairly unorthodox kind.:から切り込んでいたようだ。}`
+`{ruby:I turned famous mysteries from across the world on their:私は古今東西の有名ミステリーを逆手に取り、ア}{ruby:head, always looking to twist those ideas into something new.:イデアだけは斬新なものをと考え続けた。}`
+`{ruby:However, a few ideas aren't:しかし、アイデアだけで作品が仕上がっ}{ruby:enough to make a book.:たら、これほど楽なことはない。}`
+`{ruby:No meal is complete if all:野菜をぶつ切りにしただけでは、どん}{ruby:you can do is chop up vegetables.:な料理だって完成しないのだ。}`
+`{ruby:It was thanks to Ikuko's writing, a skill she had built up:その私のアイデアを、幾子は長年培って}{ruby:over many years, that my ideas were transformed into a work of fiction.:きた筆力で作品に昇華してくれた。}`
+`{ruby:This first work that we had authored together, "The Strange Tale:初めて二人で書き上げた、この「黒首島奇譚」は}{ruby:of Kurokubi Island", had brought out the best of our individual quirks,:、二人の素晴らしい個性を活かしあった、}`
+`{ruby:......and, though I hate to brag, it had turned into:……内輪褒めで恐縮だが、誰に見せて}{ruby:a masterpiece that we could show to anyone without shame.:も恥ずかしくない、傑作だった。}`
 `{ruby:"Hello?:「もしもし？}`
 `{ruby:Please bring us some champagne.:書斎にシャンパンを持って来て下さい。}`
-`{ruby:......Bring a glass for yourself as well.:……グラスはあなたの分も。}`
-`{ruby:This is the best work ever created within these walls.:これまでで一番の作品が仕上がりました。}`
+`{ruby:......Bring a glass:……グラスはあな}{ruby:for yourself as well.:たの分も。}`
+`{ruby:This is the best work:これまでで一番の作品が}{ruby:ever created within these walls.:仕上がりました。}`
 `{ruby:Let's celebrate.":お祝いしましょう」}`
-`{ruby:Ikuko called for some champagne over the internal phone line.:幾子が内線電話でシャンパンを持って来させる。}`
-`{ruby:Joined by the servant who happened to be working that day and the cat Bern, we raised our glasses high and toasted our accomplishment.:私たちは、その日の当番だった使用人とベルンを交えての三人と一匹で、高々とグラスを掲げて乾杯をした。}`
+`{ruby:Ikuko called for some champagne:幾子が内線電話でシャンパ}{ruby:over the internal phone line.:ンを持って来させる。}`
+`{ruby:Joined by the servant who happened to be working that day and:私たちは、その日の当番だった使用人とベルンを交えての}{ruby:the cat Bern, we raised our glasses high and toasted our accomplishment.:三人と一匹で、高々とグラスを掲げて乾杯をした。}`
 `{ruby:".........Ikuko‐san.:「………幾子さん。}`
 `{ruby:I have an idea, if you don't mind.":提案があるんだけれど、いいですか」}`
 `{ruby:"Let's hear it.:「聞こう。}`
-`{ruby:There is never a wrong time for your ideas, as long as I'm not in the shower or on the can...!":そなたの話すアイデアなら、シャワーとトイレ中でなければ、いつだって耳を貸そう…！」}`
-`{ruby:"Why don't we try submitting our book?:「この私たちの作品を、投稿してみませんか。}`
-`{ruby:......I've never read something this interesting before.:……私は、これほど面白い作品を読んだことがありません。}`
-`{ruby:I'm sure lots of other people will want to read it.":きっと、読みたいと願う人が大勢現れるはずです」}`
+`{ruby:There is never a wrong time for your ideas, as:そなたの話すアイデアなら、シャワーとトイレ中}{ruby:long as I'm not in the shower or on the can...!":でなければ、いつだって耳を貸そう…！」}`
+`{ruby:"Why don't we:「この私たちの作品を、投}{ruby:try submitting our book?:稿してみませんか。}`
+`{ruby:......I've never read:……私は、これほど面白い作品を}{ruby:something this interesting before.:読んだことがありません。}`
+`{ruby:I'm sure lots of other:きっと、読みたいと願う人が}{ruby:people will want to read it.":大勢現れるはずです」}`
 `{ruby:"......You think so?:「……そうでしょうか。}`
-`{ruby:I tried once in the past, thinking the same thing, but the result was......":過去にもそう思い投稿しましたが、結果は……」}`
+`{ruby:I tried once in the past, thinking:過去にもそう思い投稿しま}{ruby:the same thing, but the result was......":したが、結果は……」}`
 `{ruby:"I believe in your talent, Ikuko‐san.:「私は、幾子さんの才能を確信しています。}`
 `{ruby:......What about you?":……幾子さんはどうですか」}`
-`{ruby:"Of course, I believe in your talent.":「私とて、そなたの才能を確信しています」}`
+`{ruby:"Of course, I:「私とて、そなたの才能}{ruby:believe in your talent.":を確信しています」}`
 `{ruby:"Then it's decided.:「なら、決まりです。}`
 `{ruby:......To Ikuko‐san's big debut.":……幾子さんの、メジャーデビューを祈って」}`
 `{ruby:"To Tohya's big debut!":「十八のメジャーデビューを祈って！」}`
 `{ruby:We clinked our glasses once more.:私たちは再びグラスをぶつけ合う。}`
 `{ruby:{n}The evening wore on.........:{n}そうして、夜は更けていった………。}`
 `{ruby:We must've had way too much to drink.:すっかり飲み過ぎてしまったらしい。}`
-`{ruby:Before I knew it, I must have passed out on the sofa.:私はいつの間にか酔い潰れ、ソファーで横になっていた。}`
+`{ruby:Before I knew it, I must:私はいつの間にか酔い潰れ、ソ}{ruby:have passed out on the sofa.:ファーで横になっていた。}`
 `{ruby:There was a blanket covering me.:毛布が掛かっている。}`
-`{ruby:......Ikuko‐san must've put it there.:……幾子さんが掛けてくれたのだろう。}`
-`{ruby:The lights were out in the study, but it wasn't dark.:書斎は灯りが消されていたが、暗くはなかった。}`
-`{ruby:{n}The computer's monitor was glowing.:{n}パソコンの、モニターが照らし出しているのだ。}`
+`{ruby:......Ikuko‐san must've:……幾子さんが掛けて}{ruby:put it there.:くれたのだろう。}`
+`{ruby:The lights were out in:書斎は灯りが消されていた}{ruby:the study, but it wasn't dark.:が、暗くはなかった。}`
+`{ruby:{n}The computer's:{n}パソコンの、モニターが}{ruby:monitor was glowing.:照らし出しているのだ。}`
 `{ruby:Outside, it had started to rain.:外はいつの間にか雨が降っていた。}`
-`{ruby:{n}......It reminded me of the day Ikuko‐san found me and took me in.:{n}……私が幾子さんに拾われたあの日のことを思い出す。}`
-`{ruby:Because of that, ......whenever it rains, I find myself wondering who I was, ......and I usually get headaches.:だから、雨が降ると、……私は何者なんだっけと考えてしまって、……頭痛を起こしやすい。}`
-`{ruby:So, I wasn't sure whether the pain was because of the rain or because I drank too much.:だから頭が痛むのは、雨のせいなのか、飲み過ぎたせいなのか、よくわからなかった。}`
+`{ruby:{n}......It reminded me of the day:{n}……私が幾子さんに拾われ}{ruby:Ikuko‐san found me and took me in.:たあの日のことを思い出す。}`
+`{ruby:Because of that, ......whenever it rains, I find myself:だから、雨が降ると、……私は何者なんだっけと}{ruby:wondering who I was, ......and I usually get headaches.:考えてしまって、……頭痛を起こしやすい。}`
+`{ruby:So, I wasn't sure whether the pain was because:だから頭が痛むのは、雨のせいなのか、飲み過}{ruby:of the rain or because I drank too much.:ぎたせいなのか、よくわからなかった。}`
 `{ruby:"......Ikuko‐san.:「……幾子さん。}`
 `{ruby:Turn on the lights.:明かりをつけて下さい。}`
-`{ruby:......Using a computer in the dark is bad for your eyes.":……こんな暗い部屋でパソコンじゃ、目を悪くしますよ」}`
+`{ruby:......Using a computer in the:……こんな暗い部屋でパソコン}{ruby:dark is bad for your eyes.":じゃ、目を悪くしますよ」}`
 `{ruby:"Oh, did I wake you up?":「おや、起こしてしまいましたか」}`
 `{ruby:"No, I slept well.:「いえ、ぐっすり眠っていました。}`
 `{ruby:Thanks to that, I feel refreshed.":お陰様で、頭もすっきりです」}`
-`{ruby:I turned on the light and looked out through a gap in the curtains.:部屋の明かりをつけ、私はカーテンの隙間から外を見る。}`
-`{ruby:{n}......As I'd thought, it was the sort of pouring rain that always reminded me of that day.:{n}……やはり、あの日を思い出させるような、大雨だった。}`
+`{ruby:I turned on the light and looked:部屋の明かりをつけ、私はカー}{ruby:out through a gap in the curtains.:テンの隙間から外を見る。}`
+`{ruby:{n}......As I'd thought, it was the sort of:{n}……やはり、あの日を思い出}{ruby:pouring rain that always reminded me of that day.:させるような、大雨だった。}`
 `{ruby:"It's raining pretty hard out there.:「ひどい雨ですね。}`
 `{ruby:The wind looks pretty strong too.:風もひどい。}`
-`{ruby:I hope the rain gutters don't get clogged with leaves again.":また雨どいが葉っぱで詰まらないといいのですが」}`
-`{ruby:"......I just had them cleaned the other day, so they should be fine for a while.":「……先日掃除をさせましたから、当分は大丈夫でしょう」}`
-`{ruby:Her answer sounded a little abstracted.:ちょっとだけ無関心な返事。}`
-`{ruby:{n}Apparently, her attention was absorbed by the computer.:{n}彼女はかなりパソコンに夢中になっているようだった。}`
-`{ruby:"You've been pretty hooked by that computer lately, Ikuko‐san.:「幾子さんは、最近はかなりパソコンに熱心なようですね。}`
-`{ruby:Did you find an interesting article or something?":何か面白い記事でもありますか？」}`
-`{ruby:".........It may be a bit juvenile, but it's still pretty interesting.:「………馬鹿馬鹿しいとは思いつつも、なかなか面白いのです。}`
-`{ruby:......You know, that Rokkenjima incident.":……ほら、例の六軒島事件」}`
+`{ruby:I hope the rain gutters:また雨どいが葉っぱで詰まら}{ruby:don't get clogged with leaves again.":ないといいのですが」}`
+`{ruby:"......I just had them cleaned the other day,:「……先日掃除をさせましたから}{ruby:so they should be fine for a while.":、当分は大丈夫でしょう」}`
+`{ruby:Her answer sounded:ちょっとだけ無関}{ruby:a little abstracted.:心な返事。}`
+`{ruby:{n}Apparently, her attention was:{n}彼女はかなりパソコンに夢}{ruby:absorbed by the computer.:中になっているようだった。}`
+`{ruby:"You've been pretty hooked:「幾子さんは、最近はかなりパソ}{ruby:by that computer lately, Ikuko‐san.:コンに熱心なようですね。}`
+`{ruby:Did you find an:何か面白い記事でも}{ruby:interesting article or something?":ありますか？」}`
+`{ruby:".........It may be a bit:「………馬鹿馬鹿しいとは思いつつ}{ruby:juvenile, but it's still pretty interesting.:も、なかなか面白いのです。}`
+`{ruby:......You know,:……ほら、例の六}{ruby:that Rokkenjima incident.":軒島事件」}`
 `{ruby:"......Rokkenjima.........?":「……六軒島………？」}`
-`{ruby:"I told you about the Rokkenjima mystery a few days ago, remember?:「六軒島ミステリーの話は先日したでしょう。}`
-`{ruby:It's been really huge on the net lately.:これが今、ネットでブームになっているのです。}`
-`{ruby:The discussions, theories, and especially the Forgeries have been quite entertaining.:それを巡る議論や考察、中でも偽書が実に面白い。}`
-`{ruby:......The "Forgeries" are stories with the premise that further message bottles signed by Ushiromiya Maria existed and washed up on one of the nearby islands......":……偽書というのは、付近の島に流れ着いた、右代宮真里亞の署名のあるボトルメッセージが、他にもあったと仮定して書いたもので……」}`
-`{ruby:Only too happy to share her knowledge of the subject, Ikuko continued her explanation at length.:幾子は得意気に語り続けている。}`
-`{ruby:......However, ......a huge bell was clanging inside my head.:……しかし、……私の頭の中の大きな鐘が、がらんがらんと鳴り続ける。}`
-`{ruby:The noise was so great that I thought my head would split open.:そのあまりに大きな音に、私の頭は割れそうになる。}`
-`{ruby:Unable to tell what was the floor and what was the ceiling, ......I crumpled and clutched at my head...:もはや、天井と床の区別さえわからず、……私は頭を抱えながら倒れ込んだ…。}`
+`{ruby:"I told you about the Rokkenjima:「六軒島ミステリーの話は}{ruby:mystery a few days ago, remember?:先日したでしょう。}`
+`{ruby:It's been really huge:これが今、ネットでブーム}{ruby:on the net lately.:になっているのです。}`
+`{ruby:The discussions, theories, and especially:それを巡る議論や考察、中で}{ruby:the Forgeries have been quite entertaining.:も偽書が実に面白い。}`
+`{ruby:......The "Forgeries" are stories with the premise that further message bottles signed:……偽書というのは、付近の島に流れ着いた、右代宮真里亞の署名のある}{ruby:by Ushiromiya Maria existed and washed up on one of the nearby islands......":ボトルメッセージが、他にもあったと仮定して書いたもので……」}`
+`{ruby:Only too happy to share her knowledge of:幾子は得意気に語り}{ruby:the subject, Ikuko continued her explanation at length.:続けている。}`
+`{ruby:......However, ......a huge bell:……しかし、……私の頭の中の大きな鐘}{ruby:was clanging inside my head.:が、がらんがらんと鳴り続ける。}`
+`{ruby:The noise was so great that:そのあまりに大きな音に、私}{ruby:I thought my head would split open.:の頭は割れそうになる。}`
+`{ruby:Unable to tell what was the floor and what:もはや、天井と床の区別さえわからず、…}{ruby:was the ceiling, ......I crumpled and clutched at my head...:…私は頭を抱えながら倒れ込んだ…。}`
 `{ruby:"Tohya......are you okay...?!":「十八っ、……大丈夫ですか…！」}`
-`{ruby:"......My head.........hurts.....................":「……頭が、………痛い…………………」}`
+`{ruby:"......My:「……頭が、………痛い}{ruby:head.........hurts.....................":…………………」}`
 `{ruby:The Rokkenjima Explosion Accident.:六軒島爆発事故。}`
-`{ruby:{n}The many disquieting rumors surrounding it.:{n}それを巡って囁かれる、不穏な噂の数々。}`
-`{ruby:The scheming of the relatives after Ushiromiya Kinzo's vast wealth and the hidden gold......:右代宮金蔵の莫大な財産と隠し黄金を巡って、親族たちが暗躍を……。}`
+`{ruby:{n}The many disquieting:{n}それを巡って囁かれ}{ruby:rumors surrounding it.:る、不穏な噂の数々。}`
+`{ruby:The scheming of the relatives after Ushiromiya:右代宮金蔵の莫大な財産と隠し黄金を}{ruby:Kinzo's vast wealth and the hidden gold......:巡って、親族たちが暗躍を……。}`
 `{ruby:And the truth?:真相は？}`
-`{ruby:Ushiromiya Eva, the sole survivor, said nothing.:唯一の生還者の右代宮絵羽は何も語らず。}`
-`{ruby:Eventually, the granddaughter, Ushiromiya Ange, who escaped harm because she was absent on that day, would inherit everything......:やがては、当日に欠席して難を逃れた孫娘、右代宮縁寿が全てを相続……。}`
-`{ruby:Ange, ......Ange... ............Ushiromiya...Ange............:縁寿、……縁寿、…………右代宮、縁寿…………。}`
-`{ruby:......I am...Ushiromiya...............:………私は、右代宮……………、}`
+`{ruby:Ushiromiya Eva, the:唯一の生還者の右代宮絵}{ruby:sole survivor, said nothing.:羽は何も語らず。}`
+`{ruby:Eventually, the granddaughter, Ushiromiya Ange, who escaped harm because:やがては、当日に欠席して難を逃れた孫}{ruby:she was absent on that day, would inherit everything......:娘、右代宮縁寿が全てを相続……。}`
+`{ruby:Ange,:縁寿、……縁寿、…………右}{ruby:......Ange... ............Ushiromiya...Ange............:代宮、縁寿…………。}`
+`{ruby:......I:………私は、右代宮}{ruby:am...Ushiromiya...............:……………、}`
 `{ruby:Ggghh......:ぐ、………。}`
-`{ruby:No good...my head is......splitting......:駄目、頭が、……割れる……。}`
-`{ruby:An incomprehensible scene pierced my eyelids from the inside like a blade of light.:わけのわからない光景が、光の刃になって、瞼を内側からざくざくと刺してくる。}`
+`{ruby:No good...my:駄目、頭が、……}{ruby:head is......splitting......:割れる……。}`
+`{ruby:An incomprehensible scene pierced my eyelids from:わけのわからない光景が、光の刃になって、}{ruby:the inside like a blade of light.:瞼を内側からざくざくと刺してくる。}`
 `{ruby:Just what......am I looking at......?:何これ、……知らない光景……。}`
-`{ruby:Who......are these people......calling to me.........but not by the name Tohya...?:誰、この人たち、……私を呼んでるけど、………それは十八という名じゃない。}`
+`{ruby:Who......are these people......calling to me.........but:誰、この人たち、……私を呼んでるけど、}{ruby:not by the name Tohya...?:………それは十八という名じゃない。}`
 `{ruby:......Who............am I.........?:……私、…………誰………。}`
 `{ruby:Who are these people......?:この人たちは誰……。}`
-`{ruby:What is............this memory.........?:この記憶は、…………何………。}`
+`{ruby:What:この記憶は、………}{ruby:is............this memory.........?:…何………。}`
 `{ruby:Help me, Ikuko.........:助けて、幾子………。}`
-`{ruby:.........Someone else's memory............is hurting me.........:………私じゃない誰かの記憶が、…………痛い………。}`
-`{ruby:My...head's......splitting.....................:頭が、割れ、……る…………………。}`
-`{ruby:{a:c:......I can hear the sorrowful sound of wind......:{a:c:……物悲しい、風の音が聞こえる……。}`
+`{ruby:.........Someone else's:………私じゃない誰かの記憶が}{ruby:memory............is hurting me.........:、…………痛い………。}`
+`{ruby::頭が、割れ、……る…}{ruby:My...head's......splitting.....................:………………。}`
+`{ruby:{a:c:......I can hear the:{a:c:……物悲しい、風}{ruby:sorrowful sound of wind......:の音が聞こえる……。}`
 `{ruby:{n}And......that must be rain.:{n}あと、……きっと、雨の音。}`
 `{ruby:{n}......Who......am I, again...?:{n}……私は……誰だっけ…。}`
 `{ruby:{n}I am......Ushiromiya......}:{n}私は、……右代宮……。}}`
@@ -336,7 +336,7 @@
 `{ruby:Voices calling to me}.:私を呼ぶ声。}}`
 `{ruby:{a:c:Dad......and Mom......}:{a:c:お父さんと、……お母さんの声……。}}`
 `{ruby:{a:c:......It can't be them......}:{a:c:……そんなはずない…。}}`
-`{ruby:{a:c:In 1986, ......on Rokkenjima,{n}......Mom and Dad......}:{a:c:だって、……お父さんとお母さんは、{n}……１９８６年の、六軒島で……。}}`
+`{ruby:{a:c:In 1986, ......on:{a:c:だって、……お父さんとお母さんは、}{ruby:Rokkenjima,{n}......Mom and Dad......}:{n}……１９８６年の、六軒島で……。}}`
 `{ruby:"......Ange, hang in there...!:「……縁寿っ、しっかりしろ…！}`
 `{ruby:Can you hear Daddy's voice...?!":お父さんの声が聞こえるか…！」}`
 `{ruby:"Please, say something!! Ange!!":「お願いだから返事をしてっ！！　縁寿っ！！」}`
@@ -345,339 +345,339 @@
 `{ruby:.........Mom......Dad.........:………お父さん、……お母さん………。}`
 `{ruby:"Ange...!!:「縁寿…！！}`
 `{ruby:Ange, thank goodness......!!":縁寿ッ、良かった……！！」}`
-`{ruby:I could feel my body being lifted up firmly......and hugged roughly.:私の体が力強く抱き上げられ、……乱暴に抱き締められるのを感じる。}`
-`{ruby:......Mom and Dad......were hugging me......:……私は、お父さんとお母さんに、抱き締められている……。}`
-`{ruby:My eyelids had been open for a while now.:私の瞼は、ずいぶん前から開いていた。}`
-`{ruby:{n}I could feel the light slowly returning to my eyes.:{n}ゆっくりと、瞳に光が戻ってくるのを自覚する。}`
-`{ruby:Just like your eyes get used to the dark, ......my eyes got used to the light, ......and bit by bit, the scene around me came into view.:闇に目が慣れてくるかのように、……私は光に目が慣れて、……少しずつ景色が見えてくる。}`
-`{ruby:However, it was an unusual sight, which seemed to be very far away.:でも、それはとても遠くのように見える、不思議な光景だった。}`
-`{ruby:My body......was being hugged by Mom and Dad.:私の体は、……お父さんとお母さんに抱き締められていた。}`
-`{ruby:Dad was sniffling, his face covered with tears.:お父さんは鼻水まで垂らして、顔は涙でぐしゃぐしゃ。}`
-`{ruby:There were tears in Mom's eyes too as she hugged me tight.:お母さんも目に涙を溜めて、ぎゅっと、私を抱き締めてくれていた。}`
-`{ruby:It was......so strong that it hurt a bit.:それは、……少し痛いくらいに力強い。}`
-`{ruby:I was......the bad kid, who wasn't obedient, who always had an excuse, ......and who always tried to do the opposite of what her parents said.:素直じゃなくて、いつも屁理屈ばかりで、……両親の言うことのまず逆を試す、悪い子の私が、}`
-`{ruby:.........That was why......they were holding me tight, .........to make sure I didn't head down the wrong path......:………誤った方向へ迷い込まないように、……ぎゅっと、………力強く……。}`
-`{ruby:As my eyes adjusted, I could see other people besides my parents.:目が慣れてくると、お父さんとお母さん以外の姿も目に入った。}`
+`{ruby:I could feel my body:私の体が力強く抱き上げられ、……乱}{ruby:being lifted up firmly......and hugged roughly.:暴に抱き締められるのを感じる。}`
+`{ruby:......Mom and:……私は、お父さんとお母さんに}{ruby:Dad......were hugging me......:、抱き締められている……。}`
+`{ruby:My eyelids had been:私の瞼は、ずいぶん前}{ruby:open for a while now.:から開いていた。}`
+`{ruby:{n}I could feel the light:{n}ゆっくりと、瞳に光が戻}{ruby:slowly returning to my eyes.:ってくるのを自覚する。}`
+`{ruby:Just like your eyes get used to the dark, ......my eyes got used:闇に目が慣れてくるかのように、……私は光に目}{ruby:to the light, ......and bit by bit, the scene around me came into view.:が慣れて、……少しずつ景色が見えてくる。}`
+`{ruby:However, it was an unusual sight,:でも、それはとても遠くのように見}{ruby:which seemed to be very far away.:える、不思議な光景だった。}`
+`{ruby:My body......was being hugged:私の体は、……お父さんとお母さ}{ruby:by Mom and Dad.:んに抱き締められていた。}`
+`{ruby:Dad was sniffling, his:お父さんは鼻水まで垂らして、}{ruby:face covered with tears.:顔は涙でぐしゃぐしゃ。}`
+`{ruby:There were tears in Mom's eyes:お母さんも目に涙を溜めて、ぎゅっと}{ruby:too as she hugged me tight.:、私を抱き締めてくれていた。}`
+`{ruby:It was......so strong that:それは、……少し痛い}{ruby:it hurt a bit.:くらいに力強い。}`
+`{ruby:I was......the bad kid, who wasn't obedient, who always had an excuse,:素直じゃなくて、いつも屁理屈ばかりで、……両親}{ruby:......and who always tried to do the opposite of what her parents said.:の言うことのまず逆を試す、悪い子の私が、}`
+`{ruby:.........That was why......they were holding me tight, .........to:………誤った方向へ迷い込まないように、}{ruby:make sure I didn't head down the wrong path......:……ぎゅっと、………力強く……。}`
+`{ruby:As my eyes adjusted, I could:目が慣れてくると、お父さんとお母}{ruby:see other people besides my parents.:さん以外の姿も目に入った。}`
 `{ruby:Everyone was there.:みんないた。}`
-`{ruby:George onii‐chan, Jessica onee‐chan, Maria onee‐chan.:譲治お兄ちゃんや朱志香お姉ちゃん、真里亞お姉ちゃん。}`
+`{ruby:George onii‐chan, Jessica:譲治お兄ちゃんや朱志香お姉ち}{ruby:onee‐chan, Maria onee‐chan.:ゃん、真里亞お姉ちゃん。}`
 `{ruby:My uncles and aunts.:伯父さんたちや伯母さんたち。}`
 `{ruby:......Even Sakutarou.:……さくたろうもいる。}`
-`{ruby:......And then, there was the witch {f:5:Virgilia}, and Ronove, and...............:……それから魔女のワルギリアやロノウェや、……………。}`
+`{ruby:......And then, there was the:……それから魔女のワルギリアや}{ruby:witch {f:5:Virgilia}, and Ronove, and...............:ロノウェや、……………。}`
 `{ruby:"...............Where............":「……………ここは…………」}`
 `{ruby:"You were fortunate.:「そなたは幸運だった。}`
-`{ruby:......By chance, we found you drifting in the waves of the sea of emptiness.:……偶然にも、虚無の海の波間を漂うそなたを見つけたのだ。}`
+`{ruby:......By chance, we found you drifting in:……偶然にも、虚無の海の波間を}{ruby:the waves of the sea of emptiness.:漂うそなたを見つけたのだ。}`
 `{ruby:......You were in a terrible state.:……酷い姿であったぞ。}`
-`{ruby:......It took much time to make you remember your true form.":……そなた自身がその姿を思い出すまでに、ずいぶんと時間を掛けた」}`
+`{ruby:......It took much time to:……そなた自身がその姿を思い出すま}{ruby:make you remember your true form.":でに、ずいぶんと時間を掛けた」}`
 `{ruby:".........{f:5:Beatrice}...:「………ベアトリーチェ…。}`
 `{ruby:............So, this is......":………じゃあここは……」}`
 `{ruby:"The Golden Land.:「黄金郷だ。}`
-`{ruby:......Your whole family has been waiting here for you to return.":……ここで、お父さんたちはみんな、お前が帰ってくるのを待ってたんだぞ」}`
+`{ruby:......Your whole family has been:……ここで、お父さんたちはみんな、お前}{ruby:waiting here for you to return.":が帰ってくるのを待ってたんだぞ」}`
 `{ruby:"......We knew you would come home.":「……絶対にあなたは帰ってくると、信じてたわ」}`
-`{ruby:Did I.........come home because I was supposed to...?:私は、………帰ってくるべくして、帰ってきたのだろうか…。}`
-`{ruby:......Didn't I............return to the form I was meant to have, ......and then...............:……私は、…………在るべき姿に戻って、……それで……………。}`
+`{ruby:Did I.........come home because:私は、………帰ってくるべくして}{ruby:I was supposed to...?:、帰ってきたのだろうか…。}`
+`{ruby:......Didn't I............return to the form I:……私は、…………在るべき姿に戻}{ruby:was meant to have, ......and then...............:って、……それで……………。}`
 `{ruby:"No, you did come home.":「いや、お前は帰ってきたんだ」}`
 `{ruby:"That's right.:「そうよ。}`
-`{ruby:You made it back here because you wanted to come home to us.":あなたが私たちのところへ帰りたいと願ったから、ここへ帰ってこられたのよ」}`
+`{ruby:You made it back here because:あなたが私たちのところへ帰りたいと願っ}{ruby:you wanted to come home to us.":たから、ここへ帰ってこられたのよ」}`
 `{ruby:".........Dad, ......Mom...:「………お父さん、……お母さん…。}`
 `{ruby:.........I...............":………私は……………」}`
 `{ruby:"You don't need to say anything.:「今は何も言わなくていいわ。}`
-`{ruby:.........You've been on a great and terrible journey, haven't you?:………大変な冒険をしてきたわね。}`
-`{ruby:......You took that journey all by yourself...":……あなたはひとりぼっちで、大変な冒険をしてきたわ…」}`
+`{ruby:.........You've been on a great:………大変な冒険を}{ruby:and terrible journey, haven't you?:してきたわね。}`
+`{ruby:......You took that:……あなたはひとりぼっちで、大}{ruby:journey all by yourself...":変な冒険をしてきたわ…」}`
 `{ruby:"You understand now, don't you?:「これでわかっただろ。}`
 `{ruby:You won't forget again?":もう、忘れないだろ」}`
 `{ruby:I understand, ......Dad...:わかるよ、……お父さん…。}`
-`{ruby:"......This is...a place you can always call home...":「……ここが、お前の帰るべきところだってことだ…」}`
+`{ruby:"......This is...a place you:「……ここが、お前の帰るべき}{ruby:can always call home...":ところだってことだ…」}`
 `{ruby:"............I know...":「…………うん…」}`
-`{ruby:When I gave that answer, Mom and Dad hugged me again.:私がそう答えると、お父さんとお母さんは、私を力強く抱き締めてくれた。}`
+`{ruby:When I gave that answer,:私がそう答えると、お父さんとお母さん}{ruby:Mom and Dad hugged me again.:は、私を力強く抱き締めてくれた。}`
 `{ruby:Hot tears fell onto my face.:熱い雫が、顔に落ちる。}`
 `{ruby:They were Mom and Dad's tears......:お父さんとお母さんの、涙だった……。}`
-`{ruby:"............‘All right’......might not be the best way to put it.:「…………無事で、とはとても言えない姿だったけれど。}`
+`{ruby:"............‘All right’......might not be the:「…………無事で、とはとても}{ruby:best way to put it.:言えない姿だったけれど。}`
 `{ruby:......But I'm so glad.:……良かったわ。}`
 `{ruby:Glad you came home.":帰って来て」}`
 `{ruby:"......Aunt.........Eva......":「……絵羽、………伯母さん……」}`
-`{ruby:"Feel free to hate me as much as you want.:「私のことをいくらでも、憎んでくれていいから。}`
-`{ruby:......But give your Mom and Dad a million kisses.:………だから、お父さんとお母さんに、百万回キスをしてあげて。}`
-`{ruby:......Give a kiss to everyone who cared about you so much.":……あなたのことをいつも想っているみんなにも、キスをしてあげて」}`
-`{ruby:"Aunt...... ............Eva.............":「絵羽……、…………伯母さん…………」}`
-`{ruby:".........And say "I'm home" to your other mother.":「………あなたのもう一人のお母さんに、どうかただいまと言ってあげて」}`
-`{ruby:Mom gave me a push from behind, ............and I stumbled forwards.:私はお母さんに背中を押され、…………たどたどしく歩み寄る。}`
+`{ruby:"Feel free to hate me:「私のことをいくらでも、憎}{ruby:as much as you want.:んでくれていいから。}`
+`{ruby:......But give your Mom:………だから、お父さんとお母さん}{ruby:and Dad a million kisses.:に、百万回キスをしてあげて。}`
+`{ruby:......Give a kiss to everyone:……あなたのことをいつも想っている}{ruby:who cared about you so much.":みんなにも、キスをしてあげて」}`
+`{ruby:"Aunt......:「絵羽……、…………伯}{ruby:............Eva.............":母さん…………」}`
+`{ruby:".........And say "I'm home":「………あなたのもう一人のお母さんに}{ruby:to your other mother.":、どうかただいまと言ってあげて」}`
+`{ruby:Mom gave me a push:私はお母さんに背中を押され、……}{ruby:from behind, ............and I stumbled forwards.:……たどたどしく歩み寄る。}`
 `{ruby:Towards my...other mother.:もう一人の、お母さんに。}`
-`{ruby:".........Eva...... ...............Mom............":「………絵羽……、……………お母さん…………」}`
+`{ruby:".........Eva......:「………絵羽……、…………}{ruby:...............Mom............":…お母さん…………」}`
 `{ruby:"......Ange‐chan...............":「……縁寿ちゃん……………」}`
-`{ruby:"If only............I'd called you that on that day,:「あの日、…………私が、そう呼べていれば…、}`
-`{ruby:.........I might never have messed up......:………私は、……何も誤ることがなかったかもしれない……。}`
-`{ruby:......We might have been able......to create a new world together......":……私たちは、……新しい世界を、二人で生み出せたかもしれない……」}`
+`{ruby:"If only............I'd called you:「あの日、…………私が、}{ruby:that on that day,:そう呼べていれば…、}`
+`{ruby:.........I might never:………私は、……何も誤ることが}{ruby:have messed up......:なかったかもしれない……。}`
+`{ruby:......We might have been able......to:……私たちは、……新しい世界を、二人}{ruby:create a new world together......":で生み出せたかもしれない……」}`
 `{ruby:"It's in the past now.:「もういいのよ。}`
 `{ruby:......You've come home.:……縁寿ちゃんは帰って来てくれたわ。}`
-`{ruby:.........You don't need to say anything else...":………だから、もう何も言わなくていいのよ…」}`
+`{ruby:.........You don't need:………だから、もう何も言}{ruby:to say anything else...":わなくていいのよ…」}`
 `{ruby:"Mom......:「お母さん……。}`
 `{ruby:............Mom..................":…………お母さん………………」}`
 `{ruby:"Welcome home, Ange‐chan...:「お帰り、縁寿ちゃん…。}`
-`{ruby:............You're my precious daughter......":…………あなたは私の可愛い娘よ……」}`
+`{ruby:............You're my:…………あなたは私の}{ruby:precious daughter......":可愛い娘よ……」}`
 `{ruby:"Mom......:「絵羽お母さん……。}`
-`{ruby:............You were always, ......to the very end, .........the one looking out for me the most............":………あなたはいつまでも、……そして最後まで、………私の一番の味方だった…………」}`
-`{ruby:The two of them hugged each other quietly, ......burying their faces in the other's shoulders and sobbing.:二人は静かに抱き合い、……互いの肩に顔を埋めて、泣いた。}`
-`{ruby:The truth...wasn't worth anything at all.:真実なんて、何の価値もなかった。}`
-`{ruby:In the first place, ......the truth is always in the past.:そもそも真実なんて、……いつだって過去のもの。}`
-`{ruby:The point of the future isn't to learn what happened in the past.:過去がどうだったかを知ることが、未来の役目だったりはしない。}`
-`{ruby:What really matters...is whether I truly live and prosper in the truth that is "the now".:本当に大事なのは、今という真実を、私が真に生きて、結実しているかということ。}`
-`{ruby:How can there be any truth......in a life not truly lived?:真に生きて、結実するから、真実。}`
-`{ruby:Back when I only ever tried to see the truth of the past, I was nothing more than a ghost trapped in that past.:過去の真実しか見ようとしなかった私は、過去に捕らわれただけの、ただの亡霊。}`
-`{ruby:Since that time, I haven't lived a single day.:私はあの日から、一日たりとも、生きてはいなかったのだ。}`
+`{ruby:............You were always, ......to the very end,:………あなたはいつまでも、……そして最後まで}{ruby:.........the one looking out for me the most............":、………私の一番の味方だった…………」}`
+`{ruby:The two of them hugged each other quietly,:二人は静かに抱き合い、……互い}{ruby:......burying their faces in the other's shoulders and sobbing.:の肩に顔を埋めて、泣いた。}`
+`{ruby:The truth...wasn't worth:真実なんて、何の価}{ruby:anything at all.:値もなかった。}`
+`{ruby:In the first place, ......the:そもそも真実なんて、……い}{ruby:truth is always in the past.:つだって過去のもの。}`
+`{ruby:The point of the future isn't:過去がどうだったかを知ることが、}{ruby:to learn what happened in the past.:未来の役目だったりはしない。}`
+`{ruby:What really matters...is whether I truly live and:本当に大事なのは、今という真実を、私が真}{ruby:prosper in the truth that is "the now".:に生きて、結実しているかということ。}`
+`{ruby:How can there be any:真に生きて、結実す}{ruby:truth......in a life not truly lived?:るから、真実。}`
+`{ruby:Back when I only ever tried to see the truth of the:過去の真実しか見ようとしなかった私は、過}{ruby:past, I was nothing more than a ghost trapped in that past.:去に捕らわれただけの、ただの亡霊。}`
+`{ruby:Since that time, I:私はあの日から、一日たりとも、}{ruby:haven't lived a single day.:生きてはいなかったのだ。}`
 `{ruby:......Now, I truly understand.:……私は今こそ、本当に理解する。}`
-`{ruby:This is what.........real truth is.........:本当の真実とは、………そういうことなんだ………。}`
+`{ruby:This is:本当の真実とは、………そう}{ruby:what.........real truth is.........:いうことなんだ………。}`
 `{ruby:"I will......live......:「私は、……生きるわ……。}`
-`{ruby:......And I've remembered how much everyone loved me......":……そして、どれほど、みんなに愛されていたかを思い出したわ……」}`
-`{ruby:Because I was young and selfish, I didn't even remember until now.:私が幼くて自分勝手だったから、覚えてさえいなかった。}`
-`{ruby:The kind grandpa who always spoiled me.:いつも私を甘やかしてくれる、やさしかったお祖父ちゃん。}`
+`{ruby:......And I've remembered how:……そして、どれほど、みんなに愛さ}{ruby:much everyone loved me......":れていたかを思い出したわ……」}`
+`{ruby:Because I was young and selfish,:私が幼くて自分勝手だったから}{ruby:I didn't even remember until now.:、覚えてさえいなかった。}`
+`{ruby:The kind grandpa:いつも私を甘やかしてくれる、や}{ruby:who always spoiled me.:さしかったお祖父ちゃん。}`
 `{ruby:The entertaining aunts and uncles.:愉快な伯父さんや伯母さんたち。}`
 `{ruby:All of the kind and gentle servants.:親切でやさしい、使用人のみんな。}`
 `{ruby:......It was always...warm.:……いつだって、温かかった。}`
-`{ruby:And yet, because I was young and cruel, I never even tried to retain any of those memories.:なのに、私が幼くて残酷だったから、それを記憶に留めようともしなかった。}`
-`{ruby:Everyone was distorted by my irresponsible imagination, ......and I completely forgot how things were......:そして勝手なイメージでみんなを歪曲して、……それをずっと忘れてきた……。}`
-`{ruby:Now, I can remember clearly, and I understand.:今こそ、はっきりと思い出し、私は理解する。}`
-`{ruby:It's true that the Halloween quiz party itself was an illusion.:あのハロウィンのクイズパーティー自体は、確かに幻。}`
+`{ruby:And yet, because I was young and cruel, I:なのに、私が幼くて残酷だったから、それ}{ruby:never even tried to retain any of those memories.:を記憶に留めようともしなかった。}`
+`{ruby:Everyone was distorted by my irresponsible imagination,:そして勝手なイメージでみんなを歪曲して}{ruby:......and I completely forgot how things were......:、……それをずっと忘れてきた……。}`
+`{ruby:Now, I can remember:今こそ、はっきりと思い出}{ruby:clearly, and I understand.:し、私は理解する。}`
+`{ruby:It's true that the Halloween:あのハロウィンのクイズパーテ}{ruby:quiz party itself was an illusion.:ィー自体は、確かに幻。}`
 `{ruby:We never did anything like that.:あんなことは、確かになかったけれど。}`
-`{ruby:......But there were all kinds of other fun things we {i:did} do when the relatives gathered,:……親族のみんなで集まる度に、………あのパーティーに勝るとも劣らない、}`
-`{ruby:.........things that were no more or less fun than that party.........:……楽しいことが、いつだってあったじゃない………。}`
-`{ruby:Then, ......for the first time since the start of the game...:そして私は、……このゲームが始まってから、初めて。}`
-`{ruby:...I went up to each and every one of them......to greet them, thank them, and apologize.:みんなに、ひとりひとりに、……挨拶と感謝と、謝罪をした。}`
-`{ruby:To thank Grandpa for always pampering me.:お祖父ちゃんに、いつもいつも可愛がってくれたことの感謝を。}`
+`{ruby:......But there were all kinds of other fun:……親族のみんなで集まる度に、………あ}{ruby:things we {i:did} do when the relatives gathered,:のパーティーに勝るとも劣らない、}`
+`{ruby:.........things that were no more:……楽しいことが、いつだって}{ruby:or less fun than that party.........:あったじゃない………。}`
+`{ruby:Then, ......for the first time:そして私は、……このゲームが}{ruby:since the start of the game...:始まってから、初めて。}`
+`{ruby:...I went up to each and every one:みんなに、ひとりひとりに、……}{ruby:of them......to greet them, thank them, and apologize.:挨拶と感謝と、謝罪をした。}`
+`{ruby:To thank Grandpa:お祖父ちゃんに、いつもいつも可愛}{ruby:for always pampering me.:がってくれたことの感謝を。}`
 `{ruby:To thank my aunts and uncles.:伯父さんや伯母さんたちにも、感謝を。}`
-`{ruby:To thank the cousins for always playing with me even though I was so selfish.:いとこのみんなにも、わがままな私といつも遊んでくれたことを、感謝を。}`
-`{ruby:......And to thank the creatures of fantasy......and apologize to them.:……そして、幻想の住人のみんなにも、感謝と謝罪をした。}`
-`{ruby:I think I said something horrible to Sakutarou once, in the past.:さくたろうには、かつて酷いことを言った気がする。}`
+`{ruby:To thank the cousins for always playing:いとこのみんなにも、わがままな私とい}{ruby:with me even though I was so selfish.:つも遊んでくれたことを、感謝を。}`
+`{ruby:......And to thank the creatures:……そして、幻想の住人のみんな}{ruby:of fantasy......and apologize to them.:にも、感謝と謝罪をした。}`
+`{ruby:I think I said something horrible:さくたろうには、かつて酷い}{ruby:to Sakutarou once, in the past.:ことを言った気がする。}`
 `{ruby:And to Maria onee‐chan too.:それは、真里亞お姉ちゃんにも。}`
-`{ruby:"......Maria onee‐chan, you really were a witch, weren't you?":「……真里亞お姉ちゃんは、本当の魔女だったんだわ」}`
+`{ruby:"......Maria onee‐chan, you really:「……真里亞お姉ちゃんは、本}{ruby:were a witch, weren't you?":当の魔女だったんだわ」}`
 `{ruby:"I've always been a witch.:「真里亞は最初から魔女だよ。}`
-`{ruby:......You approached that level yourself once, didn't you?":……縁寿だって、一度はその領域に近付けたのにね」}`
+`{ruby:......You approached that level:……縁寿だって、一度はその}{ruby:yourself once, didn't you?":領域に近付けたのにね」}`
 `{ruby:"No.:「うぅん。}`
 `{ruby:I never really understood.:本当の意味でわかってなんかいなかった。}`
-`{ruby:......I felt sorry for you and your magic.:……可哀想な真里亞お姉ちゃんの可哀想な魔法。}`
-`{ruby:......I could {i:only} feel sorry for you...:……そんな風にしか見ていなかった…。}`
-`{ruby:.........So, ......I couldn't pick up a fragment of happiness, couldn't even find one.:………だから、……私には幸せのカケラが拾えない、見つけられない。}`
-`{ruby:.........You told me that yourself once, Onee‐chan......":………かつてお姉ちゃんは私に、……そう言ったわ……」}`
+`{ruby:......I felt sorry for:……可哀想な真里亞お姉ち}{ruby:you and your magic.:ゃんの可哀想な魔法。}`
+`{ruby:......I could {i:only}:……そんな風にしか見}{ruby:feel sorry for you...:ていなかった…。}`
+`{ruby:.........So, ......I couldn't pick up a:………だから、……私には幸せのカケ}{ruby:fragment of happiness, couldn't even find one.:ラが拾えない、見つけられない。}`
+`{ruby:.........You told me:………かつてお姉ちゃんは私に}{ruby:that yourself once, Onee‐chan......":、……そう言ったわ……」}`
 `{ruby:"......It can't be helped.:「……仕方ないよ。}`
 `{ruby:It takes two to create a universe.:宇宙は、二人で作らないと生み出せない。}`
-`{ruby:......I had Beato, but you were all alone.":……真里亞にはベアトがいたけれど、縁寿はひとりぼっちだった」}`
+`{ruby:......I had Beato, but:……真里亞にはベアトがいたけれど}{ruby:you were all alone.":、縁寿はひとりぼっちだった」}`
 `{ruby:"No.:「いいえ。}`
-`{ruby:......If only I could have called Aunt Eva "Mom", there would have been two of us.:……もし絵羽伯母さんをお母さんと呼べていたら、私は二人だったわ。}`
-`{ruby:......I'm sure I'd have been able to create a new world with the same magic you used, Maria onee‐chan.":……きっと、真里亞お姉ちゃんと同じ魔法で、私は新しい世界を生み出せたわ」}`
+`{ruby:......If only I could have called Aunt Eva:……もし絵羽伯母さんをお母さんと呼}{ruby:"Mom", there would have been two of us.:べていたら、私は二人だったわ。}`
+`{ruby:......I'm sure I'd have been able to create a:……きっと、真里亞お姉ちゃんと同じ魔法}{ruby:new world with the same magic you used, Maria onee‐chan.":で、私は新しい世界を生み出せたわ」}`
 `{ruby:".........All of it is my fault.:「………全て妾のせいだ。}`
-`{ruby:The message bottles I threw into the sea for fun caused a distortion in your future and wore you down.:妾が面白半分に投じたボトルメッセージが、そなたの未来に歪みを生み、そなたを蝕んだ。}`
-`{ruby:......I bear responsibility for that.":……妾にもその責任がある」}`
+`{ruby:The message bottles I threw into the sea for fun:妾が面白半分に投じたボトルメッセージが、そな}{ruby:caused a distortion in your future and wore you down.:たの未来に歪みを生み、そなたを蝕んだ。}`
+`{ruby:......I bear:……妾にもその責}{ruby:responsibility for that.":任がある」}`
 `{ruby:"......Yeah, seriously.:「……まったくね。}`
-`{ruby:It's all because of your message bottles.:あんたのボトルメッセージのせいだわ。}`
-`{ruby:Because of those, people started copying you and making Forgeries, ......growing the story into something crazy.":そのせいで、あんたの真似をした偽書を書く連中が現れて、……どんどん、おかしな話が膨らんでいった」}`
-`{ruby:However, the message bottles thrown into the sea by Beato did not name a specific person as the culprit.:しかし、ベアトが投じたメッセージボトルには、特定の誰かが犯人であるかのように記したものはない。}`
-`{ruby:......One of the Forgers wrote a plausible Forgery that had Ushiromiya Eva as the culprit, ......which spread like wildfire...:……偽書作家の誰かが、右代宮絵羽が犯人であるとする、もっともらしい偽書を描き、……それが爆発的に広がって…。}`
-`{ruby:I should've known better than anyone that it couldn't possibly be true, ......but even I accepted it in the end.:そんなことがあるわけもないと、一番知っているはずの私さえも、……最後には飲み込んでしまった。}`
-`{ruby:"............It isn't your fault, Beato.:「…………ベアトのせいじゃないわ。}`
-`{ruby:......No matter how many people around me had their baseless suspicions,:……周りの誰が、どんな邪推を重ねようとも。}`
-`{ruby:......there should've been only one truth inside me.:……私の中の真実はたった一つのはずだった。}`
-`{ruby:And yet, so easily, ......I abandoned my warm memories of all of you,:なのに、安易に私は、……みんなの温かな思い出を手放し、}`
-`{ruby:......and surrendered my heart to them.":……心を彼らに明け渡してしまった」}`
+`{ruby:It's all because:あんたのボトルメッセ}{ruby:of your message bottles.:ージのせいだわ。}`
+`{ruby:Because of those, people started copying you and:そのせいで、あんたの真似をした偽書を書く連中が現れ}{ruby:making Forgeries, ......growing the story into something crazy.":て、……どんどん、おかしな話が膨らんでいった」}`
+`{ruby:However, the message bottles thrown into the sea by:しかし、ベアトが投じたメッセージボトルには、特定の}{ruby:Beato did not name a specific person as the culprit.:誰かが犯人であるかのように記したものはない。}`
+`{ruby:......One of the Forgers wrote a plausible Forgery that:……偽書作家の誰かが、右代宮絵羽が犯人であるとする、もっ}{ruby:had Ushiromiya Eva as the culprit, ......which spread like wildfire...:ともらしい偽書を描き、……それが爆発的に広がって…。}`
+`{ruby:I should've known better than anyone that it couldn't possibly:そんなことがあるわけもないと、一番知っているはず}{ruby:be true, ......but even I accepted it in the end.:の私さえも、……最後には飲み込んでしまった。}`
+`{ruby:"............It isn't:「…………ベアトのせ}{ruby:your fault, Beato.:いじゃないわ。}`
+`{ruby:......No matter how many people:……周りの誰が、どんな邪}{ruby:around me had their baseless suspicions,:推を重ねようとも。}`
+`{ruby:......there should've been only:……私の中の真実はたった}{ruby:one truth inside me.:一つのはずだった。}`
+`{ruby:And yet, so easily, ......I abandoned:なのに、安易に私は、……みんな}{ruby:my warm memories of all of you,:の温かな思い出を手放し、}`
+`{ruby:......and surrendered my:……心を彼らに明け渡}{ruby:heart to them.":してしまった」}`
 `{ruby:"No, no.:「いやいや。}`
-`{ruby:If I had not thrown the message bottles, future Rokkenjima would never have become a flourishing ground for such bizarre misconceptions.:そもそも妾がボトルメッセージなど投じなければ、未来の六軒島は、おかしな妄想の種にされることもなかったのだ。}`
+`{ruby:If I had not thrown the message bottles, future Rokkenjima:そもそも妾がボトルメッセージなど投じなければ、未来の六軒}{ruby:would never have become a flourishing ground for such bizarre misconceptions.:島は、おかしな妄想の種にされることもなかったのだ。}`
 `{ruby:I bear responsibility for it all.":全ては妾のせいだ」}`
 `{ruby:"......True.:「……そうね。}`
-`{ruby:That's right, it really is your fault after all.":それもそうだわ、やっぱりあんたのせいだわ」}`
+`{ruby:That's right, it really:それもそうだわ、やっぱり}{ruby:is your fault after all.":あんたのせいだわ」}`
 `{ruby:"Mgh.:「むっ。}`
-`{ruby:......It's a little irritating to hear you say it so boldly.:……素直にそう言われるとカチンと来るぞ。}`
-`{ruby:......I changed my mind, you have your share of the blame as well!":……妾のせいだけでなく、やはりそなたも悪いのだっ」}`
+`{ruby:......It's a little irritating to:……素直にそう言われる}{ruby:hear you say it so boldly.:とカチンと来るぞ。}`
+`{ruby:......I changed my mind, you have:……妾のせいだけでなく、やは}{ruby:your share of the blame as well!":りそなたも悪いのだっ」}`
 `{ruby:"........................:「……………………。}`
 `{ruby:......Yeah, you're right.:……えぇ、そうね。}`
 `{ruby:You were at fault, and so was I.:あんたも悪いし、私も悪いわ。}`
-`{ruby:......Still, it'd be stupid for us to attack each other.:……でも、お互い罵り合うのも馬鹿らしい。}`
-`{ruby:......After all, I'm a witch of the future.:……だって、私は未来の魔女。}`
+`{ruby:......Still, it'd be stupid for:……でも、お互い罵り合}{ruby:us to attack each other.:うのも馬鹿らしい。}`
+`{ruby:......After all, I'm a:……だって、私は}{ruby:witch of the future.:未来の魔女。}`
 `{ruby:You're a witch of the past.:あなたは過去の魔女。}`
-`{ruby:......I should be using that magic to build my future.:……未来に生きる私は、その魔法で未来を築くべきなのよ。}`
-`{ruby:......We both bear responsibility in some way,:……私たちはともに何らかの責任を負うけれど。}`
-`{ruby:but neither of us has the right to blame the other.":それを責める資格はどちらにもないわ」}`
-`{ruby:".........I knew you could do it, Ange.:「………縁寿なら。}`
-`{ruby:I knew you'd be able to understand Mariage Sorcière's teachings.":マリアージュ・ソルシエールの教えを、きっと理解してくれると思ってたよ」}`
+`{ruby:......I should be using that:……未来に生きる私は、その魔法}{ruby:magic to build my future.:で未来を築くべきなのよ。}`
+`{ruby:......We both bear:……私たちはともに何らか}{ruby:responsibility in some way,:の責任を負うけれど。}`
+`{ruby:but neither of us has:それを責める資格はど}{ruby:the right to blame the other.":ちらにもないわ」}`
+`{ruby:".........I knew you:「………縁寿}{ruby:could do it, Ange.:なら。}`
+`{ruby:I knew you'd be able:マリアージュ・ソルシエールの教えを、き}{ruby:to understand Mariage Sorcière's teachings.":っと理解してくれると思ってたよ」}`
 `{ruby:"You're right.:「そうね。}`
-`{ruby:......As the final member of Mariage Sorcière, ......it's my responsibility to pass on your magic.":……私はマリアージュ・ソルシエールの最後の一人として、……お姉ちゃんの魔法を伝える義務があるわ」}`
+`{ruby:......As the final member of Mariage Sorcière,:……私はマリアージュ・ソルシエールの最後の一人とし}{ruby:......it's my responsibility to pass on your magic.":て、……お姉ちゃんの魔法を伝える義務があるわ」}`
 `{ruby:"My magic can make everyone happy.":「真里亞の魔法は、みんなを幸せにする魔法なの」}`
 `{ruby:"Indeed...!:「うむ…！}`
-`{ruby:You have both pure magic and wicked magic at your fingertips...!":清らかなる魔法も、邪悪なる魔法も思いのままよ…！」}`
+`{ruby:You have both pure magic:清らかなる魔法も、邪悪なる魔}{ruby:and wicked magic at your fingertips...!":法も思いのままよ…！」}`
 `{ruby:".........That's true.:「………本当ね。}`
-`{ruby:Magic can change completely depending on your heart.:魔法は、心の持ち方でまったく違う姿に変わる。}`
-`{ruby:......You can't use magic properly without the proper guidance.:……正しい導きがなければ、正しい魔法は使えないわ。}`
-`{ruby:......And proper magic can guide people to happiness.":……そして、正しい魔法は、人を幸福に導くわ」}`
+`{ruby:Magic can change completely:魔法は、心の持ち方でまっ}{ruby:depending on your heart.:たく違う姿に変わる。}`
+`{ruby:......You can't use magic:……正しい導きがなければ、正}{ruby:properly without the proper guidance.:しい魔法は使えないわ。}`
+`{ruby:......And proper magic can:……そして、正しい魔法は}{ruby:guide people to happiness.":、人を幸福に導くわ」}`
 `{ruby:"It is a wonderful thing...:「素晴らしいことです…。}`
-`{ruby:.........Bringing people happiness is the sole reason that witches wield magic.:………人を幸せにすることこそが、魔女が魔法を振るう唯一の理由なのです。}`
-`{ruby:......I am very pleased that we were finally able to pass on this lesson to the last in the line of Endless Witches...":……その教えをようやく、我等が無限の魔女の系譜の、最後の魔女に伝えることが出来て、私は嬉しいですよ…」}`
-`{ruby:"Sorry for failing to pass it down myself at all.":「悪かったなー、全然、伝えてなくてよー」}`
-`{ruby:"Witch of the Future, {f:5:Ange Beatrice}.:「未来の魔女、エンジェ・ベアトリーチェ。}`
-`{ruby:......I hereby retract your expulsion from Mariage Sorcière.":……マリアージュ・ソルシエールは今こそ、あなたの除名を解く」}`
+`{ruby:.........Bringing people happiness is the:………人を幸せにすることこそが、魔女が}{ruby:sole reason that witches wield magic.:魔法を振るう唯一の理由なのです。}`
+`{ruby:......I am very pleased that we were finally able to pass:……その教えをようやく、我等が無限の魔女の系譜の、最後}{ruby:on this lesson to the last in the line of Endless Witches...":の魔女に伝えることが出来て、私は嬉しいですよ…」}`
+`{ruby:"Sorry for failing to pass:「悪かったなー、全然、}{ruby:it down myself at all.":伝えてなくてよー」}`
+`{ruby:"Witch of the:「未来の魔女、エンジェ}{ruby:Future, {f:5:Ange Beatrice}.:・ベアトリーチェ。}`
+`{ruby:......I hereby retract your:……マリアージュ・ソルシエールは}{ruby:expulsion from Mariage Sorcière.":今こそ、あなたの除名を解く」}`
 `{ruby:"Uryuu!:「うりゅー！}`
 `{ruby:I knew Ange would come back...!":縁寿はきっと帰って来てくれるって、信じてたよ…！」}`
 `{ruby:"Congratulations, Ange‐sama!":「おめでとうございます、縁寿さまっ」}`
-`{ruby:"......Back in the days when I traveled together with you all, I remember thinking I understood all this...but I didn't.:「……あなたたちと共に旅をした日に、私は一度は理解をしたつもりでいたのに。}`
+`{ruby:"......Back in the days when I traveled together with you:「……あなたたちと共に旅をした日に、私は}{ruby:all, I remember thinking I understood all this...but I didn't.:一度は理解をしたつもりでいたのに。}`
 `{ruby:......I'm sorry.:……ごめんね。}`
 `{ruby:I'm really sorry......":本当にごめんね……」}`
-`{ruby:"Witches cannot create a universe unless there are two.:「魔女は、二人でなければ宇宙を生み出せぬ。}`
-`{ruby:......In the future, you will be alone. ......Will you really be okay...?":……未来のそなたは一人だが、……本当に、大丈夫か…？」}`
+`{ruby:"Witches cannot create a:「魔女は、二人でなければ}{ruby:universe unless there are two.:宇宙を生み出せぬ。}`
+`{ruby:......In the future, you will be:……未来のそなたは一人だが、…}{ruby:alone. ......Will you really be okay...?":…本当に、大丈夫か…？」}`
 `{ruby:"Yeah, I'll be okay.:「えぇ、大丈夫。}`
 `{ruby:......I'm not alone anymore.:……私はもう、一人じゃないもの。}`
 `{ruby:......I'll...live.:……私は、生きるわ。}`
 `{ruby:......With everyone.:……みんなと一緒に。}`
 `{ruby:And I'll live in the future.:そして、未来に生きる。}`
-`{ruby:I swear to keep living, so that I can pass on the magic of Mariage Sorcière.":マリアージュ・ソルシエールの魔法を伝えるために、生き抜くことを誓うわ」}`
-`{ruby:"Maria onee‐chan's magic has saved me too.:「真里亞お姉ちゃんの魔法は、私でさえ救ってくれたもの。}`
-`{ruby:.........There are a lot of people out there who need magic.:………魔法を必要としている人たちは、もっと大勢いる。}`
-`{ruby:Teaching it the right way and saving as many people as I can...:それを正しく伝え、ひとりでも多くの人々を救うことが、}`
-`{ruby:...is my mission as the final witch of Mariage Sorcière.":……マリアージュ・ソルシエールの最後の魔女の、私の使命なんだわ」}`
+`{ruby:I swear to keep living, so that I:マリアージュ・ソルシエールの魔法を伝え}{ruby:can pass on the magic of Mariage Sorcière.":るために、生き抜くことを誓うわ」}`
+`{ruby:"Maria onee‐chan's magic:「真里亞お姉ちゃんの魔法は、私}{ruby:has saved me too.:でさえ救ってくれたもの。}`
+`{ruby:.........There are a lot of:………魔法を必要としている人}{ruby:people out there who need magic.:たちは、もっと大勢いる。}`
+`{ruby:Teaching it the right way and:それを正しく伝え、ひとりでも}{ruby:saving as many people as I can...:多くの人々を救うことが、}`
+`{ruby:...is my mission as the:……マリアージュ・ソルシエールの最}{ruby:final witch of Mariage Sorcière.":後の魔女の、私の使命なんだわ」}`
 `{ruby:"Will you truly be able to do so...?":「それは実現できそうか…？」}`
-`{ruby:"Of course. I have the power to do it.:「もちろんよ。そのための力だってあるわ。}`
-`{ruby:There's the golden magic that my predecessor, {f:5:Eva Beatrice}, spent so much time building.:私の先代さま、エヴァ・ベアトリーチェが、たっぷりと築き上げてくれた、黄金の魔法があるもの。}`
+`{ruby:"Of course. I have:「もちろんよ。そのため}{ruby:the power to do it.:の力だってあるわ。}`
+`{ruby:There's the golden magic that my predecessor,:私の先代さま、エヴァ・ベアトリーチェが、たっぷり}{ruby:{f:5:Eva Beatrice}, spent so much time building.:と築き上げてくれた、黄金の魔法があるもの。}`
 `{ruby:I've inherited all of that. Right?":私はそれを全て継承しているわ。ね？」}`
 `{ruby:"*giggle*.:「くすくす。}`
-`{ruby:......If only my health had held out a little longer, I was planning to spend all of it on myself.":……私がもう少し健康で長生き出来てたら、ぜーんぶ使い切っちゃうつもりだったんだけどねぇ」}`
-`{ruby:*giggle*, ......aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.:くすくす、……あはははははははははははは。}`
-`{ruby:As Ange laughed, tears poured from her eyes again.:縁寿は笑いながら、再び涙を零す。}`
-`{ruby:Everyone surrounded Ange with their kind, warm smiles......:みんなは温かく微笑みながら、縁寿をやさしく包み込むのだった……。}`
-`{ruby:Battler stood alone in the rose garden maze, letting the rain quietly fall on him......:戦人は一人、薔薇の迷路庭園で、静かに雨に打たれていた……。}`
-`{ruby:After searching for some time, Ange found him.:その姿を、縁寿はようやく見つける。}`
+`{ruby:......If only my health had held out a little longer,:……私がもう少し健康で長生き出来てたら、ぜーん}{ruby:I was planning to spend all of it on myself.":ぶ使い切っちゃうつもりだったんだけどねぇ」}`
+`{ruby:*giggle*,:くすくす、……あはははは}{ruby:......aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.:はははははははは。}`
+`{ruby:As Ange laughed, tears:縁寿は笑いながら、}{ruby:poured from her eyes again.:再び涙を零す。}`
+`{ruby:Everyone surrounded Ange with:みんなは温かく微笑みながら、縁寿を}{ruby:their kind, warm smiles......:やさしく包み込むのだった……。}`
+`{ruby:Battler stood alone in the rose garden:戦人は一人、薔薇の迷路庭園で、静}{ruby:maze, letting the rain quietly fall on him......:かに雨に打たれていた……。}`
+`{ruby:After searching for some:その姿を、縁寿はよう}{ruby:time, Ange found him.:やく見つける。}`
 `{ruby:"............Onii‐chan.........":「…………お兄ちゃん………」}`
 `{ruby:"..............................":「…………………………」}`
-`{ruby:Ange, who was feeling guilty, sensed anger in her brother's expression.:罪の意識のある縁寿には、戦人の表情は、どこか怒っているものに感じられた。}`
-`{ruby:So, ......she thought he was going to hit her.:だから、……叩かれると思った。}`
+`{ruby:Ange, who was feeling guilty,:罪の意識のある縁寿には、戦人の表情は、}{ruby:sensed anger in her brother's expression.:どこか怒っているものに感じられた。}`
+`{ruby:So, ......she thought he:だから、……叩かれ}{ruby:was going to hit her.:ると思った。}`
 `{ruby:She shut her eyes tight.:ぎゅっと、目を瞑る。}`
-`{ruby:However, her brother touched her softly.:しかし、兄は、そっと触れる。}`
+`{ruby:However, her brother:しかし、兄は、そ}{ruby:touched her softly.:っと触れる。}`
 `{ruby:He patted her head gently.:そしてやさしく頭を撫でてくれた。}`
 `{ruby:".........See?":「………な」}`
 `{ruby:"..................":「………………」}`
-`{ruby:"The truth......wasn't anything important, was it?":「真実なんて、……大したもんじゃなかっただろ」}`
+`{ruby:"The truth......wasn't anything:「真実なんて、……大したも}{ruby:important, was it?":んじゃなかっただろ」}`
 `{ruby:".........No, it wasn't.:「………うん。}`
-`{ruby:......Even though you were here, ......waiting for me to come home in such a......warm world......:……お兄ちゃんは、……こんなにも、……温かな世界でずっと、……私の帰りを待っててくれたのに、}`
-`{ruby:.........I had my back turned......the whole time......":………私だけがずっと、……背を向けていたから……」}`
+`{ruby:......Even though you were here, ......waiting for:……お兄ちゃんは、……こんなにも、……温かな世界}{ruby:me to come home in such a......warm world......:でずっと、……私の帰りを待っててくれたのに、}`
+`{ruby:.........I had my:………私だけがずっと、……背}{ruby:back turned......the whole time......":を向けていたから……」}`
 `{ruby:"You learned the truth.":「お前は、真実を知ってしまった」}`
 `{ruby:"...............Yeah...":「……………うん…」}`
-`{ruby:"So, any hopes you had of someone miraculously surviving and coming back......have been crushed.:「だから、誰かが生きて帰ってくるかもしれないっていう奇跡や希望は、……もう、潰えちまった。}`
-`{ruby:......However, you now have a new mission and a new hope to help you live in the future.":……でも、お前にはもう、未来を生きるための新しい希望や使命があるな」}`
-`{ruby:"......You kept those precious hopes safe for me.:「……お兄ちゃんが、その温かな希望を守ってくれてた。}`
-`{ruby:......And I opened the box with my own hands and let them all escape.:……それを、私が自ら開いて、逃がしてしまった。}`
-`{ruby:......It turned out worse than Pandora's box.:……パンドラの箱より始末が悪いわ。}`
-`{ruby:......A truth I didn't need to know flew out of the box, along with all my hopes, ......leaving nothing inside but empty space...":……私は知る必要のない真実も、……そして希望までも、全て全て逃がしてしまって、全てを空っぽにしてしまったのだから…」}`
+`{ruby:"So, any hopes you had of someone:「だから、誰かが生きて帰ってくるかもしれないって}{ruby:miraculously surviving and coming back......have been crushed.:いう奇跡や希望は、……もう、潰えちまった。}`
+`{ruby:......However, you now have a new mission and a:……でも、お前にはもう、未来を生きる}{ruby:new hope to help you live in the future.":ための新しい希望や使命があるな」}`
+`{ruby:"......You kept those precious:「……お兄ちゃんが、その温か}{ruby:hopes safe for me.:な希望を守ってくれてた。}`
+`{ruby:......And I opened the box with my:……それを、私が自ら開いて}{ruby:own hands and let them all escape.:、逃がしてしまった。}`
+`{ruby:......It turned out:……パンドラの箱より}{ruby:worse than Pandora's box.:始末が悪いわ。}`
+`{ruby:......A truth I didn't need to know flew out of the:……私は知る必要のない真実も、……そして希望までも、全て全て}{ruby:box, along with all my hopes, ......leaving nothing inside but empty space...":逃がしてしまって、全てを空っぽにしてしまったのだから…」}`
 `{ruby:"That's okay.:「いいさ。}`
-`{ruby:......It's open now, and that's that.:……開けちまったなら仕方ねぇさ。}`
-`{ruby:An empty box isn't so bad—it's a clean slate, a fresh start.:それで空っぽなら、後腐れがなくていいじゃねぇか。}`
-`{ruby:And anyway, if you're harboring false hopes, sometimes it's better just to pull out the thorn.":下手な希望は、かえってトゲになることもあるしな」}`
+`{ruby:......It's open now,:……開けちまったな}{ruby:and that's that.:ら仕方ねぇさ。}`
+`{ruby:An empty box isn't so bad—it's:それで空っぽなら、後腐れが}{ruby:a clean slate, a fresh start.:なくていいじゃねぇか。}`
+`{ruby:And anyway, if you're harboring false hopes, sometimes:下手な希望は、かえってトゲ}{ruby:it's better just to pull out the thorn.":になることもあるしな」}`
 `{ruby:Battler laughed heartily.:戦人は、わははははと元気に笑う。}`
-`{ruby:{n}Then, with that same smile on his face, he told her.:{n}そしてその笑みのまま、告げた。}`
+`{ruby:{n}Then, with that same smile:{n}そしてその笑み}{ruby:on his face, he told her.:のまま、告げた。}`
 `{ruby:"We're already dead.":「俺たちは、もう死んでる」}`
 `{ruby:"...............Yeah.":「……………うん」}`
-`{ruby:"You've lived twelve years on the hope that we might still be alive.:「ひょっとしたら生きてるかもしれないって希望が、お前の１２年間を生きる糧にしてくれた。}`
+`{ruby:"You've lived twelve years on the:「ひょっとしたら生きてるかもしれないって希望が}{ruby:hope that we might still be alive.:、お前の１２年間を生きる糧にしてくれた。}`
 `{ruby:Not anymore.:それはもう、これでおしまいだ。}`
 `{ruby:That's over and done with.":綺麗さっぱり、全部なしだ」}`
 `{ruby:"Yeah.:「うん。}`
 `{ruby:......I know.:……わかってる。}`
-`{ruby:Starting now, ......I'll step forward into a new life.":これからの私は、……新しい人生に踏み出すわ」}`
+`{ruby:Starting now, ......I'll step:これからの私は、……新し}{ruby:forward into a new life.":い人生に踏み出すわ」}`
 `{ruby:"Beato put Rokkenjima in the cat box.:「ベアトは六軒島を猫箱に閉ざし。}`
-`{ruby:The next witch, Auntie Eva, guarded the lid of that cat box her whole life.:次の魔女の絵羽伯母さんはその猫箱の蓋を生涯守った。}`
-`{ruby:......The witch after that was you, and you opened that lid, ......but so what?:……その次の魔女のお前は、その蓋を開けちまったが、……だからって何だってんだ。}`
-`{ruby:Why does the truth of the past matter?":過去の真実なんて、どうでもいいことじゃねぇか」}`
+`{ruby:The next witch, Auntie Eva, guarded the:次の魔女の絵羽伯母さんはその}{ruby:lid of that cat box her whole life.:猫箱の蓋を生涯守った。}`
+`{ruby:......The witch after that was you, and:……その次の魔女のお前は、その蓋を開けちま}{ruby:you opened that lid, ......but so what?:ったが、……だからって何だってんだ。}`
+`{ruby:Why does the truth:過去の真実なんて、どうでも}{ruby:of the past matter?":いいことじゃねぇか」}`
 `{ruby:".........Yeah.:「………えぇ。}`
 `{ruby:......From now on, I'll truly live.:……私はこれから、真に生きる。}`
-`{ruby:And I'll make my own personal truth prosper.":そして自分だけの真実を、結実するわ」}`
+`{ruby:And I'll make my:そして自分だけの真実}{ruby:own personal truth prosper.":を、結実するわ」}`
 `{ruby:"Good luck,:「がんばれよ。}`
 `{ruby:final witch of Mariage Sorcière.:マリアージュ・ソルシエールの最後の魔女。}`
 `{ruby:......I've read Maria's grimoire.:……真里亞の魔導書を読んだぜ。}`
-`{ruby:It's a great book, with some really good stuff written in it.":あれは、とても良いことを書いた、素晴らしい本だ」}`
+`{ruby:It's a great book, with some:あれは、とても良いことを書}{ruby:really good stuff written in it.":いた、素晴らしい本だ」}`
 `{ruby:"Even the Bible needs a translator.:「聖書だって翻訳がいる。}`
-`{ruby:So, Maria's grimoire probably needs one too.:なら、真里亞の魔導書にだって翻訳がいるだろう。}`
+`{ruby:So, Maria's grimoire:なら、真里亞の魔導書にだっ}{ruby:probably needs one too.:て翻訳がいるだろう。}`
 `{ruby:......You will be that translator.:……お前がそれを翻訳するんだ。}`
-`{ruby:......You've got to teach it to kids who are in the position you once were.:……そして、かつてのお前と同じ境遇の子供たちに伝えてやれ。}`
-`{ruby:That's your mission as the new Witch of the Future.":それが、お前の、新しき未来の魔女の使命だ」}`
+`{ruby:......You've got to teach it to kids:……そして、かつてのお前と同じ境}{ruby:who are in the position you once were.:遇の子供たちに伝えてやれ。}`
+`{ruby:That's your mission as the:それが、お前の、新しき未}{ruby:new Witch of the Future.":来の魔女の使命だ」}`
 `{ruby:"......Yeah.":「……うんっ」}`
 `{ruby:"I'm...gone.:「俺は、いない。}`
-`{ruby:But I'll always be behind you, watching over you.":でも、お前の後ろに、いつだっていて見守ってるからな」}`
+`{ruby:But I'll always be:でも、お前の後ろに、いつだっ}{ruby:behind you, watching over you.":ていて見守ってるからな」}`
 `{ruby:"I know.:「知ってるわ。}`
 `{ruby:......And not just you.:……お兄ちゃんだけじゃないわ。}`
 `{ruby:Everyone else too...":みんなも一緒よ…」}`
-`{ruby:".........We all love you......and we'll love you forever and ever.:「………俺もみんなも、……ずっとずっと永遠に、お前を愛してる。}`
+`{ruby:".........We all love you......and we'll:「………俺もみんなも、……ずっとず}{ruby:love you forever and ever.:っと永遠に、お前を愛してる。}`
 `{ruby:Don't forget that......":それを忘れるな……」}`
 `{ruby:"......I won't...:「……忘れないわ……。}`
-`{ruby:.........Never......never ever...............":………絶対、……永遠に……………」}`
-`{ruby:Ange leapt into Battler's chest......and sobbed.:縁寿は戦人の胸に飛び込み、……泣く。}`
-`{ruby:{y:0:Human}{n:0:Human}s are sad creatures, who can "learn" but not "unlearn".:ニンゲンは、“知る”ことは出来ても、“知らぬ”には戻れぬ、悲しい存在。}`
+`{ruby:.........Never......never:………絶対、……永遠}{ruby:ever...............":に……………」}`
+`{ruby:Ange leapt into:縁寿は戦人の胸に飛び}{ruby:Battler's chest......and sobbed.:込み、……泣く。}`
+`{ruby:{y:0:Human}{n:0:Human}s are sad creatures, who:ニンゲンは、“知る”ことは出来ても、“}{ruby:can "learn" but not "unlearn".:知らぬ”には戻れぬ、悲しい存在。}`
 `{ruby:She had already learned.:彼女はもう、知ってしまった。}`
-`{ruby:It was a cruel, terrifying, merciless thing, ......capable of destroying even the miracle called hope.:それは残酷で、恐ろしくて、……希望という名の奇跡さえ許さない無慈悲なものだけれど。}`
-`{ruby:......However, there was still one tiny fragment left gripped in her hand.:……それでも彼女の握り締める手には、一粒だけカケラが残った。}`
+`{ruby:It was a cruel, terrifying, merciless thing,:それは残酷で、恐ろしくて、……希望という名の}{ruby:......capable of destroying even the miracle called hope.:奇跡さえ許さない無慈悲なものだけれど。}`
+`{ruby:......However, there was still one tiny:……それでも彼女の握り締める手に}{ruby:fragment left gripped in her hand.:は、一粒だけカケラが残った。}`
 `{ruby:Her family's...love.:家族の、愛。}`
-`{ruby:If Ange could just remember that love and hold on to it tightly.........then she could surely live on...:それだけを思い出し、握り締めていれば、………きっと、縁寿は生きていける…。}`
-`{ruby:She could stop herself from taking that single step into nothingness......:あの日の、虚空へ踏み出す一歩を、踏み止まれる……。}`
-`{ruby:"Besides... The Rokkenjima cat box hasn't yet been opened completely.:「それに、六軒島の猫箱は、まだ完全に開かれたわけじゃない。}`
-`{ruby:......You've just taken a peek at what's inside.:……お前が中身を覗いちまっただけの話だ。}`
-`{ruby:So now...you must be the lid yourself.":だからお前が、自ら蓋となれ」}`
-`{ruby:"And, this time, you'll be the one to protect everyone inside the cat box.:「そして今度はお前が、猫箱の中のみんなを守るんだ。}`
-`{ruby:Me and Dad and Kyrie‐san, the cousins and the uncles and the aunts.:俺や親父や霧江さん、いとこのみんなや伯父さんたち伯母さんたち。}`
+`{ruby:If Ange could just remember that love and hold:それだけを思い出し、握り締めていれば、…}{ruby:on to it tightly.........then she could surely live on...:……きっと、縁寿は生きていける…。}`
+`{ruby:She could stop herself from:あの日の、虚空へ踏み出す一歩}{ruby:taking that single step into nothingness......:を、踏み止まれる……。}`
+`{ruby:"Besides... The Rokkenjima cat box:「それに、六軒島の猫箱は、まだ完}{ruby:hasn't yet been opened completely.:全に開かれたわけじゃない。}`
+`{ruby:......You've just taken a:……お前が中身を覗いち}{ruby:peek at what's inside.:まっただけの話だ。}`
+`{ruby:So now...you must:だからお前が、自}{ruby:be the lid yourself.":ら蓋となれ」}`
+`{ruby:"And, this time, you'll be the one:「そして今度はお前が、猫箱の}{ruby:to protect everyone inside the cat box.:中のみんなを守るんだ。}`
+`{ruby:Me and Dad and Kyrie‐san, the:俺や親父や霧江さん、いとこのみんな}{ruby:cousins and the uncles and the aunts.:や伯父さんたち伯母さんたち。}`
 `{ruby:Grandfather and the servants.:祖父さまや使用人のみんな。}`
-`{ruby:......And all of the fantasy people.":……幻想の住人のみんなをな」}`
+`{ruby:......And all of:……幻想の住人の}{ruby:the fantasy people.":みんなをな」}`
 `{ruby:"...............Yeah.:「……………うん。}`
-`{ruby:......This time......I have to......protect everyone.........":……今度は私が、……みんなを……、守らなきゃ………」}`
+`{ruby:......This time......I:……今度は私が、……みんなを}{ruby:have to......protect everyone.........":……、守らなきゃ………」}`
 `{ruby:{a:c::{a:c:}`
 `{ruby:"Then shouldn't you hurry up a bit?"}:「なら、それは急いだ方がいいんじゃなーい？」}}`
-`{ruby:From the other side of a rose bush came the sound of popcorn being eaten.:ボリボリとポップコーンを食べる音が、薔薇の茂みの向こうから聞こえる。}`
+`{ruby:From the other side of a rose:ボリボリとポップコーンを食べる音が、}{ruby:bush came the sound of popcorn being eaten.:薔薇の茂みの向こうから聞こえる。}`
 `{ruby:......It was {f:5:Lambdadelta}.:……ラムダデルタだった。}`
 `{ruby:"I'm pretty sure you know this,:「あんたも知ってると思うけど。}`
-`{ruby:......but Bern is just about to hold a big party for the Book of the Single Truth.:……ベルンはもうじき、一なる真実の書をパーティーで大公開するわ。}`
-`{ruby:She's gathered beings from heaven and from hell, from the spirit world and from parallel worlds.:会場には、天国から地獄から、異界から別世界から、あらゆる世界の面々が集まってる。}`
-`{ruby:If she announces what's in that book in a place like that, it'll all be too late, won't it?":そこで中身を公表されたら、もう何もかも手遅れよ？」}`
+`{ruby:......but Bern is just about to hold a:……ベルンはもうじき、一なる真実の}{ruby:big party for the Book of the Single Truth.:書をパーティーで大公開するわ。}`
+`{ruby:She's gathered beings from heaven and from hell,:会場には、天国から地獄から、異界から別世界}{ruby:from the spirit world and from parallel worlds.:から、あらゆる世界の面々が集まってる。}`
+`{ruby:If she announces what's in that book in a:そこで中身を公表されたら、も}{ruby:place like that, it'll all be too late, won't it?":う何もかも手遅れよ？」}`
 `{ruby:".........I'm...going.:「………私、行くわ。}`
-`{ruby:......I gave {f:5:Bernkastel} that key.:……ベルンカステルに、あの鍵を渡してしまった。}`
+`{ruby:......I gave:……ベルンカステルに、あの}{ruby:{f:5:Bernkastel} that key.:鍵を渡してしまった。}`
 `{ruby:It's my responsibility.:私の責任だわ。}`
 `{ruby:I'll go and bring it back.":私が行って、取り返してくる」}`
 `{ruby:"The City of Books, is it?:「図書の都にか。}`
 `{ruby:But there's no way for us to get in.:しかし、入る方法がない。}`
-`{ruby:There's a barrier around that place.":あそこには結界があるんだ」}`
+`{ruby:There's a barrier:あそこには結界が}{ruby:around that place.":あるんだ」}`
 `{ruby:"......She gave me this.:「……あいつがこれをくれたの。}`
-`{ruby:With it, I can come and go as I please.:これがあれば、自由に出入りできるって。}`
+`{ruby:With it, I can come:これがあれば、自由に出}{ruby:and go as I please.:入りできるって。}`
 `{ruby:.........What an idiot.:………馬鹿なヤツね。}`
-`{ruby:She forgot to collect it when she threw me away.":私を捨てる時、回収を忘れたんだわ」}`
-`{ruby:Ange fished through her pocket, and there was a jingling sound.:縁寿がポケットを探ると、そこから鈴の音が聞こえる。}`
-`{ruby:It was a bell with a blue ribbon tied to it.:それは、青リボンの結ばれた鈴だった。}`
+`{ruby:She forgot to collect it:私を捨てる時、回収を}{ruby:when she threw me away.":忘れたんだわ」}`
+`{ruby:Ange fished through her pocket,:縁寿がポケットを探ると、そこ}{ruby:and there was a jingling sound.:から鈴の音が聞こえる。}`
+`{ruby:It was a bell with:それは、青リボンの結}{ruby:a blue ribbon tied to it.:ばれた鈴だった。}`
 `{ruby:".........That's it.:「………それよ。}`
-`{ruby:One of those temporary entry passes that you get when you turn in your invitation.:招待状と引き換えに渡される、図書の都の臨時入館証。}`
-`{ruby:As long as you have that, at least one of you will be able to get into the City of Books.:それがあれば、とりあえず１人は、図書の都に乗り込めるわね。}`
-`{ruby:Well, as long as someone takes you across the sea of fragments first.":…まぁ、カケラの海を誰かが送ってくれればの話だけど」}`
+`{ruby:One of those temporary entry passes that:招待状と引き換えに渡される、}{ruby:you get when you turn in your invitation.:図書の都の臨時入館証。}`
+`{ruby:As long as you have that, at least one of:それがあれば、とりあえず１人は、}{ruby:you will be able to get into the City of Books.:図書の都に乗り込めるわね。}`
+`{ruby:Well, as long as someone takes:…まぁ、カケラの海を誰かが送}{ruby:you across the sea of fragments first.":ってくれればの話だけど」}`
 `{ruby:"{f:5:Lambdadelta}.:「ラムダデルタ。}`
 `{ruby:Take me to the City of Books.":私を図書の都に連れてって」}`
 `{ruby:"......Ange.":「……縁寿」}`
-`{ruby:"This is my way of taking responsibility.:「それが、私の責任の取り方だわ。}`
-`{ruby:.........I'll see that the Book of the Single Truth isn't made public.":………私が、一なる真実の書の公開を食い止める」}`
+`{ruby:"This is my:「それが、私の責任}{ruby:way of taking responsibility.:の取り方だわ。}`
+`{ruby:.........I'll see that the Book of:………私が、一なる真実の書}{ruby:the Single Truth isn't made public.":の公開を食い止める」}`
 `{ruby:".........Are you serious?:「………本気で言ってんの？}`
-`{ruby:That place is a den of monsters among monsters.:あそこはバケモノ中のバケモノの伏魔殿よ。}`
-`{ruby:Now that you've lost Bern's protection, you'll be weaker than a fly.:ベルンの庇護を失ったあんたなんて、ハエ以下の羽虫扱い。}`
-`{ruby:You'll be smushed and that'll be the end of you.":べちっと叩いて潰されておしまいよ」}`
+`{ruby:That place is a:あそこはバケモノ中のバケ}{ruby:den of monsters among monsters.:モノの伏魔殿よ。}`
+`{ruby:Now that you've lost Bern's protection,:ベルンの庇護を失ったあんたなん}{ruby:you'll be weaker than a fly.:て、ハエ以下の羽虫扱い。}`
+`{ruby:You'll be smushed and that'll:べちっと叩いて潰され}{ruby:be the end of you.":ておしまいよ」}`
 `{ruby:"Ah—":「あっ、」}`
-`{ruby:The bell was stolen from Ange's hands.:縁寿の手から、鈴が奪われる。}`
+`{ruby:The bell was:縁寿の手から、鈴}{ruby:stolen from Ange's hands.:が奪われる。}`
 `{ruby:"{f:5:Lambdadelta}.:「ラムダデルタ。}`
 `{ruby:I'll go there.:そこには俺が行こう。}`
-`{ruby:......I just need you to take me and send me on my way.:……お前は俺を送ってくれるだけでいい。}`
-`{ruby:I'm an empty creature anyway, unable to exist outside the cat box.:どうせ俺は、猫箱の中にしか存在できない、虚無の存在だ。}`
-`{ruby:Ange, on the other hand, has to live on into the future.:だが縁寿は未来に生きなくちゃならない。}`
-`{ruby:And you're also a person with a future.:そしてお前だって未来ある存在だ。}`
+`{ruby:......I just need you to take:……お前は俺を送ってく}{ruby:me and send me on my way.:れるだけでいい。}`
+`{ruby:I'm an empty creature anyway, unable:どうせ俺は、猫箱の中にしか存在}{ruby:to exist outside the cat box.:できない、虚無の存在だ。}`
+`{ruby:Ange, on the other hand, has:だが縁寿は未来に生きな}{ruby:to live on into the future.:くちゃならない。}`
+`{ruby:And you're also a:そしてお前だって未}{ruby:person with a future.:来ある存在だ。}`
 `{ruby:......So I'll go.:……だから俺が行く。}`
 `{ruby:I have nothing to lose.":俺には何も、失うものなんてないんだからな」}`
-`{ruby:"No! This is my responsibility, my way of making up for what I did!:「いいえッ、これは私の責任、そして私のけじめ！}`
-`{ruby:If I don't do it myself, the future won't change at all, and I won't be able to save the cat box of the future...!":私が自らの手でやらなきゃ、未来は何も変わらない、そして未来の猫箱を何も救えない…！」}`
-`{ruby:Ange tried to snatch the bell from Battler's hand, but Battler had no intention of giving it up.:縁寿は戦人の手から鈴を奪い返そうとするが、戦人も返す気はない。}`
-`{ruby:The two of them were grimly serious, but from the sidelines, it just looked like an ordinary squabble between two close siblings.:本人たちは真剣に奪い合いをしているのだが、傍目には仲の良い兄弟喧嘩にしか見えなかった。}`
-`{ruby:{f:5:Lambdadelta} watched this conversation and shrugged.:ラムダデルタは肩を竦めながら、そのやり取りを見ている。}`
-`{ruby:......If she just had to take either one of them to the City of Books, she wouldn't have to make any enemies, and there was no risk to her.:……どちらかひとりを図書の都に送り届けるだけなら、誰も敵に回さずに済むし、リスクもない。}`
-`{ruby:All she cared about was which one would make the story more interesting.:彼女が気にするのは、どちらを送り込んだら、物語が面白くなるか。}`
+`{ruby:"No! This is my responsibility, my way:「いいえッ、これは私の責任}{ruby:of making up for what I did!:、そして私のけじめ！}`
+`{ruby:If I don't do it myself, the future won't change at all,:私が自らの手でやらなきゃ、未来は何も変わらない}{ruby:and I won't be able to save the cat box of the future...!":、そして未来の猫箱を何も救えない…！」}`
+`{ruby:Ange tried to snatch the bell from Battler's hand,:縁寿は戦人の手から鈴を奪い返そうと}{ruby:but Battler had no intention of giving it up.:するが、戦人も返す気はない。}`
+`{ruby:The two of them were grimly serious, but from the sidelines,:本人たちは真剣に奪い合いをしているのだが、傍目}{ruby:it just looked like an ordinary squabble between two close siblings.:には仲の良い兄弟喧嘩にしか見えなかった。}`
+`{ruby:{f:5:Lambdadelta} watched this:ラムダデルタは肩を竦めながら、}{ruby:conversation and shrugged.:そのやり取りを見ている。}`
+`{ruby:......If she just had to take either one of them to the City of:……どちらかひとりを図書の都に送り届けるだけな}{ruby:Books, she wouldn't have to make any enemies, and there was no risk to her.:ら、誰も敵に回さずに済むし、リスクもない。}`
+`{ruby:All she cared about was which:彼女が気にするのは、どちらを送り込}{ruby:one would make the story more interesting.:んだら、物語が面白くなるか。}`
 `{ruby:Nothing else.:その一点だけだ。}`
 `{ruby:But then, she finally noticed.:しかし、やがて気付く。}`
 `{ruby:"Hold on.:「ストップ。}`
-`{ruby:......Hold on a sec, you two. Hold on!":……あんたたち、ちょっとストップ、ストーップ！」}`
-`{ruby:"What's your problem?! Save it for later!!":「何よ、後にしてよッ！！」}`
-`{ruby:"We're having an important sibling discussion here!":「今、兄妹で大切な話をしてるんだ！」}`
+`{ruby:......Hold on a sec,:……あんたたち、ちょっとス}{ruby:you two. Hold on!":トップ、ストーップ！」}`
+`{ruby:"What's your problem?!:「何よ、後にして}{ruby:Save it for later!!":よッ！！」}`
+`{ruby:"We're having an:「今、兄妹で大切な話}{ruby:important sibling discussion here!":をしてるんだ！」}`
 `{ruby:"Okay, first off,:「まず、あんたたち。}`
 `{ruby:let go of each other.:その組み合ってる手を解きなさい。}`
-`{ruby:......Battler's holding the bell now, right?:……鈴は戦人が持ってるのね？}`
+`{ruby:......Battler's holding the:……鈴は戦人が持}{ruby:bell now, right?:ってるのね？}`
 `{ruby:Jump, Battler.":戦人、跳ねてみて」}`
 `{ruby:"......Jump?:「……跳ねる？}`
 `{ruby:Like this?":こうか？」}`
@@ -688,27 +688,27 @@
 `{ruby:Jingle jingle.:チリンチリン。}`
 `{ruby:"Huh......?:「え……。}`
 `{ruby:......Why......?":……どうして……？」}`
-`{ruby:If Battler was holding the bell, where did that sound come from......?:鈴は戦人が持っているはずなのに、どうして鈴の音が……。}`
-`{ruby:Ange hurriedly searched through her pockets.:縁寿は慌てて、ポケットを探る。}`
-`{ruby:When she did, ......another blue‐ribboned bell came out of a different pocket than the first one.:すると、……さっき鈴を出したのとは別のポケットから、もう１つ、青いリボンの鈴が出てくる。}`
-`{ruby:"These are......the same, aren't they...?":「それ、……これと同じ鈴だよな…？」}`
+`{ruby:If Battler was holding the bell,:鈴は戦人が持っているはずなのに}{ruby:where did that sound come from......?:、どうして鈴の音が……。}`
+`{ruby:Ange hurriedly searched:縁寿は慌てて、ポケ}{ruby:through her pockets.:ットを探る。}`
+`{ruby:When she did, ......another blue‐ribboned bell came out:すると、……さっき鈴を出したのとは別のポケット}{ruby:of a different pocket than the first one.:から、もう１つ、青いリボンの鈴が出てくる。}`
+`{ruby:"These are......the:「それ、……これと同}{ruby:same, aren't they...?":じ鈴だよな…？」}`
 `{ruby:"......No way......:「……そんな……。}`
 `{ruby:Why are there two?:どうして２つ？}`
 `{ruby:I was only given one of them!":私は１つしかもらわなかったわよ？！」}`
 `{ruby:"I don't know why.:「どーしてかなんか知らないわ。}`
-`{ruby:But the point is, you've got two bells that'll get you into the City of Books.:でも、とにかくあんたは、図書の都に入れる鈴を、２つ持っている。}`
-`{ruby:Therefore, I don't have to sit here and watch the two of you play with each other anymore.":よって、あんたたちの仲睦まじいやり取りを、これ以上見ている必要がなくなったわけ」}`
-`{ruby:The pair of them gripped their bells and looked at each other.:二人はそれぞれ鈴を握り締め、見つめ合う。}`
+`{ruby:But the point is, you've got two bells:でも、とにかくあんたは、図書の都に}{ruby:that'll get you into the City of Books.:入れる鈴を、２つ持っている。}`
+`{ruby:Therefore, I don't have to sit here and watch:よって、あんたたちの仲睦まじいやり取りを、}{ruby:the two of you play with each other anymore.":これ以上見ている必要がなくなったわけ」}`
+`{ruby:The pair of them gripped their:二人はそれぞれ鈴を握り}{ruby:bells and looked at each other.:締め、見つめ合う。}`
 `{ruby:"From the very beginning,:「最初っから。}`
-`{ruby:this game has belonged to the two of you.:今回のゲームは、あんたたち二人のものだわ。}`
-`{ruby:......There's just been a slight change in who the opponent is.":……ただ、対決するプレイヤーには若干の変更があったみたいね」}`
-`{ruby:"......This game isn't a competition between you two.:「……あんたたち二人が競い合うゲームじゃない。}`
-`{ruby:It's a fight over the cat box, with you two who want to close the lid on one team, ......and Bern who wants it opened on the other.:……猫箱を巡って、蓋を閉ざそうとする戦人と縁寿と、……それを開こうとするベルンとの戦いだわ。}`
-`{ruby:Ange has moved from Bern's team to Battler's team.:縁寿は、ベルン側から戦人側にチームを変更した。}`
+`{ruby:this game has belonged:今回のゲームは、あんたた}{ruby:to the two of you.:ち二人のものだわ。}`
+`{ruby:......There's just been a slight:……ただ、対決するプレイヤーには}{ruby:change in who the opponent is.":若干の変更があったみたいね」}`
+`{ruby:"......This game isn't a:「……あんたたち二人が競い}{ruby:competition between you two.:合うゲームじゃない。}`
+`{ruby:It's a fight over the cat box, with you two who want to close:……猫箱を巡って、蓋を閉ざそうとする戦人と縁寿と}{ruby:the lid on one team, ......and Bern who wants it opened on the other.:、……それを開こうとするベルンとの戦いだわ。}`
+`{ruby:Ange has moved from:縁寿は、ベルン側から戦人側}{ruby:Bern's team to Battler's team.:にチームを変更した。}`
 `{ruby:That's all there is to it.":それだけの話」}`
 `{ruby:"{f:5:Lambdadelta}.:「ラムダデルタ。}`
 `{ruby:Take us to the City of Books.":俺たちを、図書の都へ連れて行ってくれ」}`
-`{ruby:".........I hope you know I'm just taking you there!:「………わかってるわよね、連れてくだけよ！}`
-`{ruby:After that, I'm done being anything but a spectator!:後は、今度こそ観劇者に徹するからね！}`
-`{ruby:I'm just gonna be sitting nearby and watching, to see exactly how you fight, what you do, and how Bern is going to make mincemeat out of you both...!":あんたたちが、図書の都で何をどう戦って、どうベルンにコテンパンにされるかを、じっくりたっぷり、間近で観劇してるだけだからね…！」}`
+`{ruby:".........I hope you know:「………わかってるわよね}{ruby:I'm just taking you there!:、連れてくだけよ！}`
+`{ruby:After that, I'm done:後は、今度こそ観劇者に}{ruby:being anything but a spectator!:徹するからね！}`
+`{ruby:I'm just gonna be sitting nearby and watching, to see exactly how you fight,:あんたたちが、図書の都で何をどう戦って、どうベルンにコテンパンにされ}{ruby:what you do, and how Bern is going to make mincemeat out of you both...!":るかを、じっくりたっぷり、間近で観劇してるだけだからね…！」}`
 `{ruby:"{f:5:Lambdadelta}...... Thank you!":「ラムダデルタ……、ありがとう！」}`

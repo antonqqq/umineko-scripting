@@ -1,185 +1,185 @@
 `{ruby:"I've brought Willard‐san.":「ウィラードさんをお連れしました」}`
 `{ruby:"........................":「……………………」}`
-`{ruby:Kinzo and Genji could be seen in the VIP room.:貴賓室には、金蔵と源次の姿があった。}`
-`{ruby:Kinzo was sitting back in a chair, his eyes closed as though in a troubled sleep.:金蔵は深々と椅子に腰掛け、不機嫌に眠っているかのように目を瞑っている。}`
+`{ruby:Kinzo and Genji could be:貴賓室には、金蔵と源}{ruby:seen in the VIP room.:次の姿があった。}`
+`{ruby:Kinzo was sitting back in a chair, his:金蔵は深々と椅子に腰掛け、不機嫌に眠っ}{ruby:eyes closed as though in a troubled sleep.:ているかのように目を瞑っている。}`
 `{ruby:"......My lord.:「……お館様。}`
 `{ruby:The guest has come to see you.":お客様がお見えになりました」}`
 `{ruby:"..............................nn.":「…………………………ん」}`
 `{ruby:Kinzo slowly opened his eyes.:金蔵はゆっくり目を開ける。}`
-`{ruby:{n}......Those eyes were red from crying.:{n}……その目は、泣き腫らして赤くなっていた。}`
-`{ruby:They regained their focus and slowly fell on Will.:その目に焦点が戻り、ゆっくりとウィルを捉える。}`
+`{ruby:{n}......Those eyes were:{n}……その目は、泣き腫}{ruby:red from crying.:らして赤くなっていた。}`
+`{ruby:They regained their focus:その目に焦点が戻り、ゆっく}{ruby:and slowly fell on Will.:りとウィルを捉える。}`
 `{ruby:"......I am...Ushiromiya Kinzo.":「……私が、右代宮金蔵である」}`
 `{ruby:"......Will.":「……ウィル」}`
 `{ruby:"I'm Willard.:「ウィラードだ。}`
 `{ruby:Allow me to express my condolences.":お悔やみ申し上げる」}`
-`{ruby:"......So, you've come to visit Beatrice's funeral.:「……ベアトリーチェの葬儀に訪ねてくるとは。}`
+`{ruby:"......So, you've come:「……ベアトリーチェの葬}{ruby:to visit Beatrice's funeral.:儀に訪ねてくるとは。}`
 `{ruby:......Just who are you?":……そなたは何者なのか」}`
-`{ruby:"I'm no one. I have no connections with anyone.:「誰でもない。誰とも関係ない。}`
+`{ruby:"I'm no one. I:「誰でもない。誰と}{ruby:have no connections with anyone.:も関係ない。}`
 `{ruby:Don't think too deeply about it.:深く考えるな。}`
 `{ruby:You'll just get a headache.:頭痛にならァ。}`
 `{ruby:.........Ow.":………痛ッ」}`
-`{ruby:"I ask that you choose your words a little more carefully.":「もう少し、言葉遣いにご注意をお願い致します」}`
+`{ruby:"I ask that you choose:「もう少し、言葉遣いにご注}{ruby:your words a little more carefully.":意をお願い致します」}`
 `{ruby:"......Hmph, what a strange guest.:「……ふっ、おかしな客人だ。}`
 `{ruby:So?:それで？}`
 `{ruby:What business do you have with me?":この私に何用か」}`
 `{ruby:"I want to ask about Beatrice.":「ベアトリーチェのことを聞きたい」}`
 `{ruby:"What..................?":「何………………？」}`
 `{ruby:Kinzo's gaze grew sharp.:金蔵の目つきがぎょろりと険しくなる。}`
-`{ruby:Lion felt a bit lightheaded and wondered why this guy had to be so direct.:理御は、あぁどうしてこの人はつくづく単刀直入なのかと、眩暈を起こす。}`
+`{ruby:Lion felt a bit lightheaded and wondered:理御は、あぁどうしてこの人はつくづく}{ruby:why this guy had to be so direct.:単刀直入なのかと、眩暈を起こす。}`
 `{ruby:"Why do you ask?:「聞いてどうする。}`
 `{ruby:I thought you were no one.:お前は誰でもないのであろうが。}`
-`{ruby:Why do you want to know about Beatrice?:ベアトリーチェのことを知ってどうするという。}`
+`{ruby:Why do you want:ベアトリーチェのことを知}{ruby:to know about Beatrice?:ってどうするという。}`
 `{ruby:What purpose could it serve?":何の意味があるというのか」}`
 `{ruby:"Because I am no one,:「俺が、誰でもないからこそ。}`
-`{ruby:I can listen to your tale without bias and record it.:お前の物語を公正に聞き、残すことが出来る。}`
-`{ruby:You will probably leave this world before too long.:お前は直にこの世を去るだろう。}`
-`{ruby:If you die without telling anything about Beatrice,:その時、ベアトリーチェのことを何も語らずに死んだなら、}`
-`{ruby:your children will adorn her with their own fanciful tales and write them into history.":お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう」}`
+`{ruby:I can listen to your:お前の物語を公正に聞き、}{ruby:tale without bias and record it.:残すことが出来る。}`
+`{ruby:You will probably leave:お前は直にこの世を}{ruby:this world before too long.:去るだろう。}`
+`{ruby:If you die without:その時、ベアトリーチェのことを}{ruby:telling anything about Beatrice,:何も語らずに死んだなら、}`
+`{ruby:your children will adorn her with their:お前の子供たちは、彼らが好き勝手に考えた物語で}{ruby:own fanciful tales and write them into history.":ベアトリーチェを修飾し、記録に残すだろう」}`
 `{ruby:"Pft, hahahahahahahahahaha!:「ふ、はっはははははははは！}`
 `{ruby:You entertain me, boy.:面白い若造だ。}`
-`{ruby:You think yourself a testament taker?!":お前は遺言屋を気取ろうというわけか！」}`
+`{ruby:You think yourself:お前は遺言屋を気取ろう}{ruby:a testament taker?!":というわけか！」}`
 `{ruby:"But that is wholly unnecessary.:「だが、それは余計なお世話というものよ。}`
 `{ruby:Beatrice is mine alone.:ベアトリーチェは、私だけのベアトリーチェだ。}`
 `{ruby:No matter what anyone says,:誰が何を語ろうとも、}`
-`{ruby:no one can defile our story. What they say is of no consequence!:私とあれの物語は、誰にも汚せぬ。何の意味も持たぬ！}`
-`{ruby:No matter how Krauss and the others misconstrue it, it matters nothing to me!":蔵臼たちがどう曲解しようとも、痛くも痒くもないわッ」}`
+`{ruby:no one can defile our story.:私とあれの物語は、誰にも汚せ}{ruby:What they say is of no consequence!:ぬ。何の意味も持たぬ！}`
+`{ruby:No matter how Krauss and the others:蔵臼たちがどう曲解しようとも、}{ruby:misconstrue it, it matters nothing to me!":痛くも痒くもないわッ」}`
 `{ruby:"......Willard‐sama.:「……ウィラードさま。}`
 `{ruby:The Master does not like wills.:お館様は遺言を好まれません。}`
-`{ruby:He is not one to abandon anything while he still lives.":生きているうちより、何事かを投げ出すお方ではございません」}`
+`{ruby:He is not one to:生きているうちより、何事かを投げ}{ruby:abandon anything while he still lives.":出すお方ではございません」}`
 `{ruby:"......Probably true.:「……だろうな。}`
-`{ruby:I thought it sounded a bit unlike him.":らしからぬこととは思っていた」}`
-`{ruby:"The spirit to struggle onward to our dying breaths is what makes us human!:「生ある限り足掻いてこそ人間であろうが！}`
-`{ruby:The idea that I would give up before my time and leave behind a will is laughably absurd!":それを早々に諦め遺言に残そうという浅ましさなど笑止千万！」}`
-`{ruby:"Yes, that does sound a bit more like you.:「確かに、その方がお前らしい。}`
-`{ruby:......It's not your style to ask someone to write about the past just because you feel you might die soon.":……死ぬかもしれないから、過去語りを記せと言い出すのは、確かにお前の柄じゃねェ」}`
-`{ruby:"......We know how deeply you loved Beatrice‐sama.:「……当主様が、ベアトリーチェさまのことを、深く深く愛しておられたことは存じ上げております。}`
-`{ruby:You are the model most worthy of respect that any of us know, and an example for us to follow in every aspect of our lives.":私たちにとって、当主様は最大の尊敬の対象であるとともに、生きる全ての模範です」}`
-`{ruby:"Please, for the sake of us wandering souls,:「どうか、迷える私たちのために、}`
-`{ruby:may we learn of how you loved her to the last, how your love for her guided you through life,:如何にしてお祖父さまが彼女を愛し抜いたか。愛ゆえに生き抜いたか。}`
-`{ruby:......and the strength of your love for her, so that your story might guide us through our own lives...?":……その愛の強さを、私たちにお導き下さるようお願いすることは出来ないでしょうか…」}`
+`{ruby:I thought it sounded:らしからぬこととは}{ruby:a bit unlike him.":思っていた」}`
+`{ruby:"The spirit to struggle onward to our:「生ある限り足掻いてこ}{ruby:dying breaths is what makes us human!:そ人間であろうが！}`
+`{ruby:The idea that I would give up before my:それを早々に諦め遺言に残そうとい}{ruby:time and leave behind a will is laughably absurd!":う浅ましさなど笑止千万！」}`
+`{ruby:"Yes, that does sound:「確かに、その方が}{ruby:a bit more like you.:お前らしい。}`
+`{ruby:......It's not your style to ask someone to write about:……死ぬかもしれないから、過去語りを記せと}{ruby:the past just because you feel you might die soon.":言い出すのは、確かにお前の柄じゃねェ」}`
+`{ruby:"......We know how:「……当主様が、ベアトリーチェさまのことを、深く}{ruby:deeply you loved Beatrice‐sama.:深く愛しておられたことは存じ上げております。}`
+`{ruby:You are the model most worthy of respect that any of us know,:私たちにとって、当主様は最大の尊敬の対象で}{ruby:and an example for us to follow in every aspect of our lives.":あるとともに、生きる全ての模範です」}`
+`{ruby:"Please, for the sake:「どうか、迷える私}{ruby:of us wandering souls,:たちのために、}`
+`{ruby:may we learn of how you loved her to the:如何にしてお祖父さまが彼女を愛し抜}{ruby:last, how your love for her guided you through life,:いたか。愛ゆえに生き抜いたか。}`
+`{ruby:......and the strength of your love for her, so:……その愛の強さを、私たちにお導き下さるよう}{ruby:that your story might guide us through our own lives...?":お願いすることは出来ないでしょうか…」}`
 `{ruby:"You're pretty good at this.":「なかなか達者だ」}`
-`{ruby:"It's your fault for being so tactless.":「あなたが言葉を選ばないからですっ」}`
+`{ruby:"It's your fault:「あなたが言葉を選ば}{ruby:for being so tactless.":ないからですっ」}`
 `{ruby:"Boy.:「若造。}`
 `{ruby:What do you know of Beatrice?:お前はベアトリーチェの何を知っているというのか？}`
-`{ruby:A truly ignorant person would not hold any interest at all.:真に無知なる者は関心さえ持たぬ。}`
-`{ruby:The mere fact that you know her name shows that you are neither ignorant nor unconnected.":ベアトリーチェの名を知っている時点で、無知なる者ではなく、縁なき者でもない」}`
+`{ruby:A truly ignorant person would:真に無知なる者は関心}{ruby:not hold any interest at all.:さえ持たぬ。}`
+`{ruby:The mere fact that you know her name:ベアトリーチェの名を知っている時点で、無}{ruby:shows that you are neither ignorant nor unconnected.":知なる者ではなく、縁なき者でもない」}`
 `{ruby:"Good point.:「道理だな。}`
 `{ruby:......The Beatrice I know of...:……俺が知っているベアトリーチェは、}`
-`{ruby:is the woman you loved, the one you met before the mansion on Rokkenjima was even built.:お前がかつて、六軒島に屋敷を設ける以前に出会った、最愛の女だ。}`
-`{ruby:However, she probably departed from this world, leaving behind a daughter.:しかし、恐らくは死別して、娘を残した。}`
-`{ruby:That is the girl who was raised in Kuwadorian.":それが九羽鳥庵で育てられていた娘だ」}`
+`{ruby:is the woman you loved, the one you:お前がかつて、六軒島に屋敷を設ける}{ruby:met before the mansion on Rokkenjima was even built.:以前に出会った、最愛の女だ。}`
+`{ruby:However, she probably departed from:しかし、恐らくは死別し}{ruby:this world, leaving behind a daughter.:て、娘を残した。}`
+`{ruby:That is the girl:それが九羽鳥庵で育て}{ruby:who was raised in Kuwadorian.":られていた娘だ」}`
 `{ruby:".........Oho.":「………ほう」}`
 `{ruby:"Willard‐sama.:「ウィラードさま。}`
-`{ruby:There is no building known as Kuwadorian on Rokkenjima.":当六軒島には、九羽鳥庵なる建物は存在いたしません」}`
+`{ruby:There is no building:当六軒島には、九羽鳥庵なる建}{ruby:known as Kuwadorian on Rokkenjima.":物は存在いたしません」}`
 `{ruby:"......That name, Kuwadorian...:「……その九羽鳥庵という名前、}`
-`{ruby:...You mentioned it when we were talking with Aunt Rosa too.:……さっき楼座叔母さんと話した時にも、口にしていました。}`
-`{ruby:......What in the world does it mean?":……それは一体、何なんですか？」}`
+`{ruby:...You mentioned it when we:……さっき楼座叔母さんと話した}{ruby:were talking with Aunt Rosa too.:時にも、口にしていました。}`
+`{ruby:......What in the:……それは一体、何}{ruby:world does it mean?":なんですか？」}`
 `{ruby:"You should have an idea by now.:「察しはついてるはずだ。}`
-`{ruby:It's the name of the hidden mansion deep in the forest where his mistress's daughter lived.":愛人の娘を囲う、六軒島の森の奥深くにある隠し屋敷の名だ」}`
+`{ruby:It's the name of the hidden mansion deep:愛人の娘を囲う、六軒島の森の奥}{ruby:in the forest where his mistress's daughter lived.":深くにある隠し屋敷の名だ」}`
 `{ruby:"Interesting.:「面白い。}`
-`{ruby:......So, you actually know the name of Kuwadorian.:……九羽鳥庵の名を知ろうとはな。}`
-`{ruby:......Continue. You have sparked my interest.":……続けよ、お前に興味が出たぞ」}`
+`{ruby:......So, you actually know:……九羽鳥庵の名を}{ruby:the name of Kuwadorian.:知ろうとはな。}`
+`{ruby:......Continue. You have:……続けよ、お前に}{ruby:sparked my interest.":興味が出たぞ」}`
 `{ruby:Kinzo shrugged and grinned......:金蔵は肩を竦めながら、にやりと笑う……。}`
-`{ruby:"The one living in Kuwadorian was probably Beatrice's daughter.:「九羽鳥庵にいたのは、ベアトリーチェの娘だろう。}`
-`{ruby:However, it seems that you didn't think of her that way.":だが、少なくともお前は、そうは思っていなかった」}`
+`{ruby:"The one living in:「九羽鳥庵にいたのは、ベア}{ruby:Kuwadorian was probably Beatrice's daughter.:トリーチェの娘だろう。}`
+`{ruby:However, it seems that you:だが、少なくともお前は、そ}{ruby:didn't think of her that way.":うは思っていなかった」}`
 `{ruby:"Oho.:「ほう。}`
 `{ruby:......Then how did I think of her?":……ならば、何だと思っていたというのか」}`
-`{ruby:"When Ushiromiya Rosa went to Kuwadorian, Beatrice told her a little about herself.:「右代宮楼座は九羽鳥庵にて、多少の身の上話を交わしている。}`
-`{ruby:......In that conversation, she referred to you as Kinzo.:……その中で、ベアトリーチェはお前のことを指して、金蔵と呼んでいる。}`
-`{ruby:It was the same when she spoke to you directly.":これはお前を前にしても同じだ」}`
-`{ruby:"Though she said that she thought of you as a father, she didn't call you Father.:「彼女はお前を父と思っていると言ったにもかかわらず、父とは呼んでいなかった。}`
-`{ruby:......She either didn't call you that, or she wasn't allowed to call you that.:……呼ばなかったのか、呼ぶことは許されなかったのか。}`
+`{ruby:"When Ushiromiya Rosa went to Kuwadorian,:「右代宮楼座は九羽鳥庵にて、多少}{ruby:Beatrice told her a little about herself.:の身の上話を交わしている。}`
+`{ruby:......In that conversation, she:……その中で、ベアトリーチェはお前の}{ruby:referred to you as Kinzo.:ことを指して、金蔵と呼んでいる。}`
+`{ruby:It was the same when:これはお前を前にし}{ruby:she spoke to you directly.":ても同じだ」}`
+`{ruby:"Though she said that she thought of you:「彼女はお前を父と思っていると言ったにも}{ruby:as a father, she didn't call you Father.:かかわらず、父とは呼んでいなかった。}`
+`{ruby:......She either didn't call you that, or:……呼ばなかったのか、呼ぶこ}{ruby:she wasn't allowed to call you that.:とは許されなかったのか。}`
 `{ruby:That can only mean one thing.":それが意味することは、一つしかない」}`
 `{ruby:"And what might that be......?":「それは何だと言うのか……」}`
 `{ruby:"Reincarnation.:「生まれ変わりだ。}`
-`{ruby:You didn't think of your daughter as a child Beatrice left behind.:お前は娘を、忘れ形見だとは思わなかった。}`
-`{ruby:You believed that the dead Beatrice had revived into a new body.:死んだベアトリーチェが、新しい体で蘇ったと信じたんだ。}`
+`{ruby:You didn't think of your daughter:お前は娘を、忘れ形見だ}{ruby:as a child Beatrice left behind.:とは思わなかった。}`
+`{ruby:You believed that the dead Beatrice:死んだベアトリーチェが、新しい}{ruby:had revived into a new body.:体で蘇ったと信じたんだ。}`
 `{ruby:......Genji.:……源次。}`
-`{ruby:Once in the past, you spoke in front of Natsuhi and several other family members,:あんたはかつて夏妃たちの前で、}`
-`{ruby:stating that there had never been a child between Kinzo and Beatrice.":金蔵とベアトリーチェに子供はいなかったと証言したことがあるな」}`
-`{ruby:".........I have no memory of saying this.":「………記憶にございませんが」}`
-`{ruby:Of course, "this game's" Genji probably wouldn't remember that.:“このゲームの”源次にその記憶はないだろう。}`
-`{ruby:However, near the end of the first game, when the survivors all gathered in Kinzo's study...:しかし、第１のゲーム終盤で、生存者たちが金蔵の書斎に篭城した時。}`
-`{ruby:...Genji was asked whether Kinzo and Beatrice ever had a child together,:源次は金蔵とベアトリーチェの間に子供はいたのかと聞かれ、}`
-`{ruby:and he denied it, saying "I have not heard of anything like that".:“そのような話は聞いたことがない”と、それを否定する返事をしている。}`
-`{ruby:"‘I have not heard that’... In a way, it was a perfect sort of answer for one of Kinzo's confidants.:「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。}`
-`{ruby:......After all, in Kinzo's eyes, she wasn't a daughter,:……何しろ、金蔵にとってその娘は、生まれ変わりであって、}`
+`{ruby:Once in the past, you spoke in:あんたはかつて夏妃}{ruby:front of Natsuhi and several other family members,:たちの前で、}`
+`{ruby:stating that there had never been:金蔵とベアトリーチェに子供はいなか}{ruby:a child between Kinzo and Beatrice.":ったと証言したことがあるな」}`
+`{ruby:".........I have no:「………記憶にござ}{ruby:memory of saying this.":いませんが」}`
+`{ruby:Of course, "this game's":“このゲームの”源次にそ}{ruby:Genji probably wouldn't remember that.:の記憶はないだろう。}`
+`{ruby:However, near the end of the first game,:しかし、第１のゲーム終盤で、生存者}{ruby:when the survivors all gathered in Kinzo's study...:たちが金蔵の書斎に篭城した時。}`
+`{ruby:...Genji was asked whether Kinzo and:源次は金蔵とベアトリーチェの間}{ruby:Beatrice ever had a child together,:に子供はいたのかと聞かれ、}`
+`{ruby:and he denied it, saying "I:“そのような話は聞いたことがない”と}{ruby:have not heard of anything like that".:、それを否定する返事をしている。}`
+`{ruby:"‘I have not heard that’... In a way, it was:「聞いたことがない……か、ある意味で金蔵}{ruby:a perfect sort of answer for one of Kinzo's confidants.:の腹心らしい、模範的な返答と言える。}`
+`{ruby:......After all, in Kinzo's:……何しろ、金蔵にとってその娘}{ruby:eyes, she wasn't a daughter,:は、生まれ変わりであって、}`
 `{ruby:but {i:Beatrice} reborn.":{i:娘ではない}んだからな。」}`
 `{ruby:"Will...!:「ウィル…！}`
-`{ruby:I don't know what you're talking about, but I will not let you slander the family head!":何の話かわかりませんが、当主様への冒涜は許しませんっ！」}`
+`{ruby:I don't know what you're talking about, but:何の話かわかりませんが、当主様へ}{ruby:I will not let you slander the family head!":の冒涜は許しませんっ！」}`
 `{ruby:"This isn't slander.:「冒涜じゃねぇ。}`
 `{ruby:It's reasoning.:推理だ。}`
-`{ruby:......However, I understand the heart.:……だが、心は理解する。}`
-`{ruby:Beatrice was the woman you loved most.:ベアトリーチェはお前にとって、最愛の女だった。}`
-`{ruby:She remained that way even after death, for all eternity, and without fading in the slightest.":死んでも、色褪せることなく永遠に」}`
-`{ruby:"However, given the child's blue eyes, beautiful blonde hair, and facial features which resembled Beatrice from a young age,:「だが、美しい金髪に青い瞳を持ち、その面影を幼くして持ち合わせていたその娘に、}`
-`{ruby:if you had gradually begun to think that she might actually be Beatrice reborn,:お前は次第に生まれ変わりではないかと信じるようになったとしても、}`
+`{ruby:......However, I:……だが、心は}{ruby:understand the heart.:理解する。}`
+`{ruby:Beatrice was the:ベアトリーチェはお前にとっ}{ruby:woman you loved most.:て、最愛の女だった。}`
+`{ruby:She remained that way even after death, for:死んでも、色褪せるこ}{ruby:all eternity, and without fading in the slightest.":となく永遠に」}`
+`{ruby:"However, given the child's blue eyes, beautiful blonde hair,:「だが、美しい金髪に青い瞳を持ち、その面影}{ruby:and facial features which resembled Beatrice from a young age,:を幼くして持ち合わせていたその娘に、}`
+`{ruby:if you had gradually begun to think:お前は次第に生まれ変わりではないか}{ruby:that she might actually be Beatrice reborn,:と信じるようになったとしても、}`
 `{ruby:that wouldn't be surprising.":それはおかしいことじゃねェ」}`
 `{ruby:"...............My lord.:「……………お館様。}`
 `{ruby:Shall I...?":よろしいのですか…？」}`
 `{ruby:Shall I throw this insolent man out?:この無礼者を摘み出しますか？}`
 `{ruby:Genji asked Kinzo.:源次は問い掛ける。}`
-`{ruby:For a while, Kinzo hung his head in silence, as though remembering something from his own past.:金蔵はしばらくの間、俯き、自らの過去を回想するかのように沈黙した。}`
-`{ruby:"Your daughter grew to be beautiful and nearly identical to her mother.:「娘は美しく育ち、生き写しになった。}`
+`{ruby:For a while, Kinzo hung his head in:金蔵はしばらくの間、俯き、自らの過去}{ruby:silence, as though remembering something from his own past.:を回想するかのように沈黙した。}`
+`{ruby:"Your daughter grew to be beautiful:「娘は美しく育ち、生}{ruby:and nearly identical to her mother.:き写しになった。}`
 `{ruby:You must have been ecstatic.:お前は狂喜したろうな。}`
-`{ruby:However, it's doubtful that you were fully satisfied by this.:だが、それでお前が全て満たされていたかは怪しい。}`
-`{ruby:......After all, though she was Beatrice reborn to you,:……なぜなら、お前にとってベアトリーチェは生まれ変わりであっても。}`
+`{ruby:However, it's doubtful that you:だが、それでお前が全て満た}{ruby:were fully satisfied by this.:されていたかは怪しい。}`
+`{ruby:......After all, though she:……なぜなら、お前にとってベアトリー}{ruby:was Beatrice reborn to you,:チェは生まれ変わりであっても。}`
 `{ruby:she didn't feel that way herself.":当の本人にとっては、そうではなかったからだ」}`
 `{ruby:"......How can you know that?":「……なぜ、そのようなことがわかるのか」}`
-`{ruby:"She couldn't shake the feeling that there was something out of place about her being called Beatrice.:「本人は、自分がベアトリーチェと呼ばれることに違和感を拭えずにいた。}`
-`{ruby:......People never feel anything out of place about the name they were given at the time of their birth.:……人は、生まれながらに与えられた自分の名前に違和感を覚えることはない。}`
+`{ruby:"She couldn't shake the feeling that there was:「本人は、自分がベアトリーチェと呼ば}{ruby:something out of place about her being called Beatrice.:れることに違和感を拭えずにいた。}`
+`{ruby:......People never feel anything out of place about the:……人は、生まれながらに与えられた自分}{ruby:name they were given at the time of their birth.:の名前に違和感を覚えることはない。}`
 `{ruby:However, she did have that feeling.:だが彼女は覚えた。}`
-`{ruby:That must mean that she was aware that the name "Beatrice" was not hers.":それは、ベアトリーチェという名が自分のものではないことを、彼女が自覚していたに他ならない」}`
-`{ruby:In Kuwadorian, she asked both Kinzo and Rosa about who she was.:九羽鳥庵で彼女は、自分は何者なのかと金蔵にも楼座にも問い掛けた。}`
+`{ruby:That must mean that she was aware:それは、ベアトリーチェという名が自分のものではな}{ruby:that the name "Beatrice" was not hers.":いことを、彼女が自覚していたに他ならない」}`
+`{ruby:In Kuwadorian, she asked both Kinzo:九羽鳥庵で彼女は、自分は何者なのか}{ruby:and Rosa about who she was.:と金蔵にも楼座にも問い掛けた。}`
 `{ruby:— Who am I?:“妾は何者なのか。}`
-`{ruby:......Everyone calls me {f:5:Beatrice}.:……皆は妾のことをベアトリーチェと呼ぶ。}`
-`{ruby:...And that does certainly seem to be the name of a great witch, as you say.:…それは確かに、そなたの言うように、偉大な魔女の名前らしい”}`
+`{ruby:......Everyone calls:……皆は妾のことをベア}{ruby:me {f:5:Beatrice}.:トリーチェと呼ぶ。}`
+`{ruby:...And that does certainly seem to be the:…それは確かに、そなたの言うよう}{ruby:name of a great witch, as you say.:に、偉大な魔女の名前らしい”}`
 `{ruby:— ......But that is not me.:“……しかし、それは妾ではないのだ。}`
 `{ruby:I cannot use any magic.:妾には魔法など何も使えぬ。}`
-`{ruby:......I simply have the soul of that witch sealed inside my body.:……妾はその魔女の魂をこの身に封じられているだけなのだ”}`
-`{ruby:"........................Her memory...:「……………………記憶は、}`
+`{ruby:......I simply have the soul of:……妾はその魔女の魂をこの身に}{ruby:that witch sealed inside my body.:封じられているだけなのだ”}`
+`{ruby:"........................Her:「…………………}{ruby:memory...:…記憶は、}`
 `{ruby:would have returned.:いずれ戻ったのだ。}`
-`{ruby:......She was without a doubt Beatrice reborn.:……あれは、紛れもなくベアトリーチェの生まれ変わり。}`
-`{ruby:......Her memory was coming back bit by bit.:……記憶は戻りつつあった。}`
-`{ruby:My magical rituals were helping her regain her memories one little bit at a time......":我が魔術の儀式によって、……僅かずつではあるが、記憶を取り戻しつつあった……」}`
+`{ruby:......She was without:……あれは、紛れもなくベアト}{ruby:a doubt Beatrice reborn.:リーチェの生まれ変わり。}`
+`{ruby:......Her memory was coming:……記憶は戻りつ}{ruby:back bit by bit.:つあった。}`
+`{ruby:My magical rituals were helping her regain:我が魔術の儀式によって、……僅かずつではあ}{ruby:her memories one little bit at a time......":るが、記憶を取り戻しつつあった……」}`
 `{ruby:"G‐......Grandfather......":「と、……当主様……」}`
 `{ruby:"There's no need to be surprised.:「驚くことじゃねェ。}`
-`{ruby:If you line up the information in all the games so far, this is the answer it leads you to.:これまでのゲームの情報を並べりゃ導かれる、そのままの答えだ。}`
-`{ruby:......The {f:5:Beatrice} on the higher plane talked about this in metaphor, saying that Kinzo refused to let the witch's soul escape even after death, and instead caught it and locked it up in a body of flesh.:……上層のベアトリーチェはそれを指して、死んで逃れた魔女の魂を逃がさず、肉の体に捕らえて閉じ込めたと。}`
-`{ruby:She also said that her power and memory had been sealed.:そして記憶も力も封じられていると例えた。}`
-`{ruby:If you match that interpretation of hers to this theory, it all makes sense.":その解釈も、この推理なら筋が通る」}`
+`{ruby:If you line up the information in all the games:これまでのゲームの情報を並べりゃ}{ruby:so far, this is the answer it leads you to.:導かれる、そのままの答えだ。}`
+`{ruby:......The {f:5:Beatrice} on the higher plane talked about this in metaphor, saying that Kinzo refused to let the:……上層のベアトリーチェはそれを指して、死んで逃れた魔}{ruby:witch's soul escape even after death, and instead caught it and locked it up in a body of flesh.:女の魂を逃がさず、肉の体に捕らえて閉じ込めたと。}`
+`{ruby:She also said that her:そして記憶も力も封じら}{ruby:power and memory had been sealed.:れていると例えた。}`
+`{ruby:If you match that interpretation of hers:その解釈も、この推理}{ruby:to this theory, it all makes sense.":なら筋が通る」}`
 `{ruby:"............Willard‐sama.:「…………ウィラードさま。}`
-`{ruby:Thanks to a powerful magical ritual, the Master gained a reborn child of the late Beatrice‐sama.:お館様は偉大なる魔法の儀式により、亡きベアトリーチェさまの生まれ変わりの赤子を得たのでございます。}`
+`{ruby:Thanks to a powerful magical ritual, the Master:お館様は偉大なる魔法の儀式により、亡きベアトリーチェ}{ruby:gained a reborn child of the late Beatrice‐sama.:さまの生まれ変わりの赤子を得たのでございます。}`
 `{ruby:That cannot be denied.":それを否定することは出来ません」}`
 `{ruby:"I won't contradict the stork.:「コウノトリを否定はしねェ。}`
-`{ruby:And I don't intend to doubt the depths of Kinzo's love for this woman called Beatrice.:そして金蔵がどれだけ、ベアトリーチェという女を深く愛していたかも、疑う気はねェ。}`
-`{ruby:.........It's no one's business how a person chooses to show their affection towards their only living reminder of the departed.:………忘れ形見にどういう愛情を注ぐかは人の勝手だ。}`
-`{ruby:If she grew to look more and more like Beatrice, and Kinzo's love gave rise to a new, special emotion,:育つほどに似ていくその姿に、金蔵が愛ゆえに特別な感情を持ったとしても、}`
+`{ruby:And I don't intend to doubt the depths:そして金蔵がどれだけ、ベアトリーチェという}{ruby:of Kinzo's love for this woman called Beatrice.:女を深く愛していたかも、疑う気はねェ。}`
+`{ruby:.........It's no one's business how a person chooses to show:………忘れ形見にどういう愛情}{ruby:their affection towards their only living reminder of the departed.:を注ぐかは人の勝手だ。}`
+`{ruby:If she grew to look more and more like Beatrice,:育つほどに似ていくその姿に、金蔵が愛ゆ}{ruby:and Kinzo's love gave rise to a new, special emotion,:えに特別な感情を持ったとしても、}`
 `{ruby:I find that a very human reaction.":俺はそれを人間らしい感情だと思うぜ」}`
 `{ruby:".........You think...:「………お前に、}`
-`{ruby:...you can understand my love.........?":……我が愛が理解できるというのか………」}`
+`{ruby:...you can:……我が愛が理解できる}{ruby:understand my love.........?":というのか………」}`
 `{ruby:"I'm not qualified to understand it.:「理解する資格はねェ。}`
-`{ruby:However, I'm also not qualified to deny it.":だが、否定する資格もねェ」}`
+`{ruby:However, I'm also not:だが、否定する資}{ruby:qualified to deny it.":格もねェ」}`
 `{ruby:"..................Oooh,:「………………おぉ、}`
 `{ruby:......Beatrice......:……ベアトリーチェ……。}`
 `{ruby:......Please,:……私を、}`
 `{ruby:.........forgive me.........":………許してくれ………」}`
-`{ruby:Kinzo sobbed quietly for a while, wiping away his tears...:金蔵は目頭を押さえながら、しばらくの間、静かに咽び泣いた…。}`
+`{ruby:Kinzo sobbed quietly for a:金蔵は目頭を押さえながら、しばら}{ruby:while, wiping away his tears...:くの間、静かに咽び泣いた…。}`
 `{ruby:Because of love,:愛ゆえに、}`
 `{ruby:he believed she was Beatrice reborn,:生まれ変わりと信じ、}`
 `{ruby:and raised her that way.:育てた。}`
 `{ruby:However, somewhere in his heart,:しかし心のどこかで、}`
 `{ruby:......he might have felt...:……ベアトリーチェとは異なる別人に、}`
 `{ruby:...pangs of conscience,:自分だけの想いを強いて、妄執の慰み者にしてしまっているかもしれないという、}`
-`{ruby:telling him that he might be forcing his emotions on someone who wasn't really Beatrice.:良心の呵責もあったのかもしれない。}`
-`{ruby:Then, the Beatrice of Kuwadorian had an unexpected guest, Rosa.:そして九羽鳥庵のベアトリーチェは、偶然の来客、楼座を迎える。}`
-`{ruby:Unable to believe that she was the Beatrice that Kinzo desired,:どうしても自分が、金蔵の求めるベアトリーチェだと思えない彼女は、}`
-`{ruby:and suffering from her inability to understand who she was, she expressed a desire to escape to the outside world.:自分の存在を理解できず苦しみ、外の世界へ逃れることを望む。}`
-`{ruby:Then, ............she fell from the cliff...and died.:そして、…………崖より転落して、死ぬ。}`
-`{ruby:"Genji handled that death, which couldn't become public knowledge, very quietly.":「源次は、表に出せぬその死を、内々で処理した」}`
-`{ruby:"....................................":「………………………………」}`
+`{ruby:telling him that he might be forcing:良心の呵責もあったの}{ruby:his emotions on someone who wasn't really Beatrice.:かもしれない。}`
+`{ruby:Then, the Beatrice of Kuwadorian:そして九羽鳥庵のベアトリーチェは}{ruby:had an unexpected guest, Rosa.:、偶然の来客、楼座を迎える。}`
+`{ruby:Unable to believe that she:どうしても自分が、金蔵の求めるベア}{ruby:was the Beatrice that Kinzo desired,:トリーチェだと思えない彼女は、}`
+`{ruby:and suffering from her inability to understand who she was,:自分の存在を理解できず苦しみ、外}{ruby:she expressed a desire to escape to the outside world.:の世界へ逃れることを望む。}`
+`{ruby:Then, ............she fell:そして、…………崖より}{ruby:from the cliff...and died.:転落して、死ぬ。}`
+`{ruby:"Genji handled that death, which:「源次は、表に出せぬその死}{ruby:couldn't become public knowledge, very quietly.":を、内々で処理した」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
 `{ruby:"Funerals aren't for the dead.:「葬式ってのは、死者のためにやるんじゃねェ。}`
-`{ruby:......They exist so that those who are alive can sever their ties with the dead.:……生きてる人間が、死んだ人間への未練を断ち切るために行なうもんだ。}`
+`{ruby:......They exist so that those who are:……生きてる人間が、死んだ人間への未}{ruby:alive can sever their ties with the dead.:練を断ち切るために行なうもんだ。}`
 `{ruby:......You could never do that.:……それが、出来なかった。}`
 `{ruby:That's why it festered within you.":だから、爛れたんだ」}`
 `{ruby:"......Beatrice......:「……ベアトリーチェ……、}`
@@ -187,9 +187,9 @@
 `{ruby:"G‐......Grandfather.........":「お、……お祖父さま………」}`
 `{ruby:"You lost your mistress's—:「あんたは、愛人の娘を、}`
 `{ruby:no, you lost Beatrice twice.:……いや、ベアトリーチェを二度失った。}`
-`{ruby:Unable to let that sorrow show on the outside, you kept it locked up in your heart,:その悲しみを表に出すことが出来ず胸の奥に押し込み、}`
-`{ruby:......and it eventually festered and turned to madness.:……それがやがて爛れて、狂気に変わった。}`
-`{ruby:That's what spurred on your abnormally strong interest in the occult in your later years.":それが晩年まで、異常なまでのオカルト趣味に駆り立てる」}`
+`{ruby:Unable to let that sorrow show on the:その悲しみを表に出すことが出}{ruby:outside, you kept it locked up in your heart,:来ず胸の奥に押し込み、}`
+`{ruby:......and it eventually festered:……それがやがて爛れて}{ruby:and turned to madness.:、狂気に変わった。}`
+`{ruby:That's what spurred on your abnormally strong:それが晩年まで、異常なまでのオ}{ruby:interest in the occult in your later years.":カルト趣味に駆り立てる」}`
 `{ruby:"Oooooooooohhhh!!:「おぉおおおおぉぉお！！}`
 `{ruby:Beatriceeeeee, Beatriceeeeee!!:ベアトリーチェぇええぇ、ベアトリーチェぇえええ！！}`
 `{ruby:Why?!!:なぜに！！}`
@@ -197,238 +197,238 @@
 `{ruby:Your smile,:お前の微笑みを、}`
 `{ruby:that beautiful hair,:その美しい髪を、}`
 `{ruby:those eyes...:瞳を、}`
-`{ruby:......Why did you die in my arms not once,:……私は二度も抱き締めながら、}`
+`{ruby:......Why did you die:……私は二度も抱き}{ruby:in my arms not once,:締めながら、}`
 `{ruby:......but twice?!":……なぜに二度も死すのか？！」}`
 `{ruby:"Is that how much...:「それほどまでに、}`
 `{ruby:...how much you...:……それほどまでに私を…、}`
 `{ruby:......ooo{-}o{-}o{-}o{-}ohhhh,:……おおぉおおぉお、}`
-`{ruby:oo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oohhhh...oohhh...":おおおおおぉおおおぉぉぉぉ…ぉ…」}`
-`{ruby:By now, Kinzo wasn't even trying to suppress his sobs.:金蔵はもう、嗚咽を隠そうともしなかった。}`
-`{ruby:Sometimes, he scratched at his head in anguish;:時に苦悶して頭を掻き毟り。}`
-`{ruby:other times, he faced the heavens like an opera singer.:{n}時にオペラの俳優のように大仰に。}`
-`{ruby:Kinzo yelled over and over again, repeating Beatrice's name......:金蔵はベアトリーチェの名を繰り返しながら、泣き喚いていた……。}`
-`{ruby:At that moment, there was a quiet sound of a door closing.:その時、小さく扉が閉まる音がした。}`
-`{ruby:......When they turned around, she was already there.:……振り返ると、いつの間にそこに居たのか。}`
+`{ruby::おおおおおぉおおおぉ}{ruby:oo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oohhhh...oohhh...":ぉぉぉ…ぉ…」}`
+`{ruby:By now, Kinzo wasn't even:金蔵はもう、嗚咽を隠そ}{ruby:trying to suppress his sobs.:うともしなかった。}`
+`{ruby:Sometimes, he scratched at:時に苦悶して頭を}{ruby:his head in anguish;:掻き毟り。}`
+`{ruby:other times, he faced the:{n}時にオペラの俳優}{ruby:heavens like an opera singer.:のように大仰に。}`
+`{ruby:Kinzo yelled over and:金蔵はベアトリーチェの名を繰り返し}{ruby:over again, repeating Beatrice's name......:ながら、泣き喚いていた……。}`
+`{ruby:At that moment, there was a:その時、小さく扉が閉}{ruby:quiet sound of a door closing.:まる音がした。}`
+`{ruby:......When they turned around,:……振り返ると、いつの間}{ruby:she was already there.:にそこに居たのか。}`
 `{ruby:{n}Kumasawa had appeared.:{n}熊沢の姿があった。}`
-`{ruby:".........If they already know that much,:「………そこまでをご存知でしたら。}`
-`{ruby:perhaps we can tell them the rest...?":もう全てをお話してもよろしいのではありませんか…？」}`
-`{ruby:"......Though, if they know that much,:「……そこまでを知るなら、}`
-`{ruby:I don't believe there is anything more to tell...":これ以上、何も語ることなどないとも思うが…？」}`
+`{ruby:".........If they already:「………そこまでをご}{ruby:know that much,:存知でしたら。}`
+`{ruby:perhaps we can:もう全てをお話してもよろしい}{ruby:tell them the rest...?":のではありませんか…？」}`
+`{ruby:"......Though, if they:「……そこまでを}{ruby:know that much,:知るなら、}`
+`{ruby:I don't believe there:これ以上、何も語ることなど}{ruby:is anything more to tell...":ないとも思うが…？」}`
 `{ruby:"No, we should tell them.:「いいえ、語るべきでございます。}`
 `{ruby:As a woman,:私は女として。}`
-`{ruby:......I've always thought that the heart of Kuwadorian's Beatrice is a story that should be told.:……九羽鳥庵のベアトリーチェさまのお心を、誰かに伝えねばと思ってまいりました。}`
-`{ruby:And now, someone has appeared who is worthy to hear it.:そして、その資格を持つ人間が現れました。}`
-`{ruby:I believe that now is the time to tell all, without holding back.":今こそ、全てを包み隠さず、お話すべき時かと存じます」}`
+`{ruby:......I've always thought that the heart of Kuwadorian's:……九羽鳥庵のベアトリーチェさまのお心を、}{ruby:Beatrice is a story that should be told.:誰かに伝えねばと思ってまいりました。}`
+`{ruby:And now, someone has appeared:そして、その資格を持つ}{ruby:who is worthy to hear it.:人間が現れました。}`
+`{ruby:I believe that now is the:今こそ、全てを包み隠さず、お}{ruby:time to tell all, without holding back.":話すべき時かと存じます」}`
 `{ruby:"..............................":「…………………………」}`
 `{ruby:"Kumasawa‐san, do you know something?:「熊沢さんは、知っているのですか？}`
 `{ruby:About Beatrice......?":ベアトリーチェのことを……」}`
 `{ruby:"Of course she does.:「知ってるだろう。}`
-`{ruby:......In the fourth game, we have testimony from the ferryboat captain saying that Kumasawa went in and out of Kuwadorian.:……第４のゲームの時、連絡船の船長は、熊沢が九羽鳥庵に出入りしていたことを証言している。}`
-`{ruby:I'd be willing to bet that Kumasawa had different work shifts at the mansion and Kuwadorian.:恐らく、熊沢は屋敷と九羽鳥庵の双方で、異なる勤務シフトを持っていたに違いない。}`
-`{ruby:There was a young girl to be taken care of.:若い娘の世話だ。}`
-`{ruby:Kumasawa, with her long experience in taking care of children, must have been of immense value.":育児経験の豊富な熊沢は、さぞ重宝されただろう」}`
+`{ruby:......In the fourth game, we have testimony from the ferryboat:……第４のゲームの時、連絡船の船長は、熊沢が九}{ruby:captain saying that Kumasawa went in and out of Kuwadorian.:羽鳥庵に出入りしていたことを証言している。}`
+`{ruby:I'd be willing to bet that Kumasawa had:恐らく、熊沢は屋敷と九羽鳥庵の双方で、異な}{ruby:different work shifts at the mansion and Kuwadorian.:る勤務シフトを持っていたに違いない。}`
+`{ruby:There was a young girl:若い娘の世}{ruby:to be taken care of.:話だ。}`
+`{ruby:Kumasawa, with her long experience in taking care:育児経験の豊富な熊沢は、さ}{ruby:of children, must have been of immense value.":ぞ重宝されただろう」}`
 `{ruby:".........That is correct.:「………左様でございます。}`
-`{ruby:You might even call me her wet nurse.":乳母であったと、仰っていただいてもよろしいかと思います」}`
+`{ruby:You might even call:乳母であったと、仰っていただい}{ruby:me her wet nurse.":てもよろしいかと思います」}`
 `{ruby:"No way......:「そんな……。}`
 `{ruby:......I can't believe it.:……信じられない。}`
-`{ruby:......So, ......everything Will‐san is saying is the truth.":……本当に、……ウィルさんの話は本当なんですか」}`
+`{ruby:......So, ......everything Will‐san is:……本当に、……ウィルさん}{ruby:saying is the truth.":の話は本当なんですか」}`
 `{ruby:".........Yes.:「………はい。}`
 `{ruby:It is a fact.:事実でございます。}`
-`{ruby:......There was a secret mansion constructed on the opposite side of the island for Beatrice‐sama.:……ベアトリーチェさまのために、島の反対側に建てられた秘密の屋敷。}`
-`{ruby:The existence of Kuwadorian is the truth.":九羽鳥庵の存在は、真実でございます」}`
-`{ruby:"I don't know when Kinzo married his official wife,:「金蔵が正妻といつ結婚したかは知らねぇが。}`
-`{ruby:but back when Kinzo already had an enormous store of wealth and had bought Rokkenjima whole,:当時、すでに莫大な財産を持ち、六軒島を丸ごと買い取った金蔵は、}`
-`{ruby:he built two mansions and set up two separate lives.":交わらぬ二つの屋敷を建てて、そこに二つの生活を両立させたんだ」}`
-`{ruby:Kinzo's children had also been aware of Kinzo's clandestine eccentricities at the time.:当時の金蔵の、人目を忍ぶような奇行は、蔵臼たちにも認識されている。}`
-`{ruby:It probably hadn't been easy to set up two lives.:二つの生活を両立させるのは容易ではなかったろう。}`
-`{ruby:{n}Moreover, Kinzo's wife had been suspicious and had sniffed around all the time...:{n}ましてや、金蔵の妻はそれを疑い、身辺を厳しく嗅ぎ回っていたのだから…。}`
-`{ruby:"The Master stayed in Kuwadorian as much as time allowed.:「お館様は、お時間の許す限り、九羽鳥庵へ通われました。}`
-`{ruby:He would sometimes pretend to go on a business trip and stay there for several days,:時にはご出張と偽られ、何日も滞在され、}`
-`{ruby:treasuring the time he spent with Beatrice‐sama.:ベアトリーチェさまとの生活を大切になさいました。}`
-`{ruby:......It was not simply a father‐daughter relationship.:……それは親子としての関係だけでなく。}`
-`{ruby:You could sometimes catch a glimpse of his great love for the late Beatrice‐sama, and it was a heart‐warming thing.":亡きベアトリーチェさまへの深い愛を垣間見れる、心温まるものでございましたとも」}`
-`{ruby:"The way you say it makes it sound like he sometimes treated her...:「それは、亡きベアトリーチェの代用品として扱ったこともあった、}`
+`{ruby:......There was a secret mansion constructed on:……ベアトリーチェさまのために、島の}{ruby:the opposite side of the island for Beatrice‐sama.:反対側に建てられた秘密の屋敷。}`
+`{ruby:The existence of:九羽鳥庵の存在は、真}{ruby:Kuwadorian is the truth.":実でございます」}`
+`{ruby:"I don't know when:「金蔵が正妻といつ結婚し}{ruby:Kinzo married his official wife,:たかは知らねぇが。}`
+`{ruby:but back when Kinzo already had an enormous:当時、すでに莫大な財産を持ち、六軒}{ruby:store of wealth and had bought Rokkenjima whole,:島を丸ごと買い取った金蔵は、}`
+`{ruby:he built two mansions and:交わらぬ二つの屋敷を建てて、そこに}{ruby:set up two separate lives.":二つの生活を両立させたんだ」}`
+`{ruby:Kinzo's children had also been aware:当時の金蔵の、人目を忍ぶような奇行は}{ruby:of Kinzo's clandestine eccentricities at the time.:、蔵臼たちにも認識されている。}`
+`{ruby:It probably hadn't been easy:二つの生活を両立させるのは}{ruby:to set up two lives.:容易ではなかったろう。}`
+`{ruby:{n}Moreover, Kinzo's wife had been suspicious:{n}ましてや、金蔵の妻はそれを疑い、身}{ruby:and had sniffed around all the time...:辺を厳しく嗅ぎ回っていたのだから…。}`
+`{ruby:"The Master stayed in Kuwadorian:「お館様は、お時間の許す限り、}{ruby:as much as time allowed.:九羽鳥庵へ通われました。}`
+`{ruby:He would sometimes pretend to go on a:時にはご出張と偽られ、}{ruby:business trip and stay there for several days,:何日も滞在され、}`
+`{ruby:treasuring the time:ベアトリーチェさまとの生活}{ruby:he spent with Beatrice‐sama.:を大切になさいました。}`
+`{ruby:......It was not:……それは親子としての}{ruby:simply a father‐daughter relationship.:関係だけでなく。}`
+`{ruby:You could sometimes catch a glimpse of his great love:亡きベアトリーチェさまへの深い愛を垣間見れ}{ruby:for the late Beatrice‐sama, and it was a heart‐warming thing.":る、心温まるものでございましたとも」}`
+`{ruby:"The way you say it makes:「それは、亡きベアトリーチェの代用}{ruby:it sound like he sometimes treated her...:品として扱ったこともあった、}`
 `{ruby:...as a substitute for Beatrice.":と言っているようにも聞こえるな」}`
 `{ruby:"Oho.:「おや。}`
-`{ruby:If it sounded that way, my apologies.:そう聞こえたなら、申し訳ございません。}`
-`{ruby:......Beatrice‐sama probably accepted her father's love.:……ベアトリーチェさまは、父からの愛は一身に受けられていたでしょう。}`
+`{ruby:If it sounded:そう聞こえたなら、申し}{ruby:that way, my apologies.:訳ございません。}`
+`{ruby:......Beatrice‐sama probably accepted:……ベアトリーチェさまは、父からの愛}{ruby:her father's love.:は一身に受けられていたでしょう。}`
 `{ruby:However, I will not deny...:しかし時に。}`
-`{ruby:that she was sometimes forced to bear a love she didn't understand.":ご自身に理解できぬ愛を強いられていたことは、否定できません」}`
-`{ruby:Kumasawa's tone made it sound as though she was scolding Kinzo.:熊沢の口調は、少しだけ金蔵を詰るようだった。}`
-`{ruby:As a mother who had raised many kids, Kumasawa had probably spotted that Kinzo's love was often of a mistaken sort.:熊沢は子を何人も育てた一人の母として、金蔵の愛が時に間違っていることを指摘したのだろう。}`
-`{ruby:However, the more the girl grew to look like her mother,:しかし、育てば育つほどに亡き母の面影を重ねていく娘に、}`
-`{ruby:the more distorted and twisted Kinzo's heart became......:金蔵の心と愛は、次第に歪みを深めていった……。}`
+`{ruby:that she was sometimes forced to:ご自身に理解できぬ愛を強いられて}{ruby:bear a love she didn't understand.":いたことは、否定できません」}`
+`{ruby:Kumasawa's tone made it sound:熊沢の口調は、少しだけ金}{ruby:as though she was scolding Kinzo.:蔵を詰るようだった。}`
+`{ruby:As a mother who had raised many kids, Kumasawa had:熊沢は子を何人も育てた一人の母として、金蔵の愛}{ruby:probably spotted that Kinzo's love was often of a mistaken sort.:が時に間違っていることを指摘したのだろう。}`
+`{ruby:However, the more the girl:しかし、育てば育つほどに亡き母}{ruby:grew to look like her mother,:の面影を重ねていく娘に、}`
+`{ruby:the more distorted and:金蔵の心と愛は、次第に歪み}{ruby:twisted Kinzo's heart became......:を深めていった……。}`
 `{ruby:Because of his deep love,:愛深きゆえに、}`
 `{ruby:it grew very,:深く、}`
 `{ruby:very...:深く、}`
 `{ruby:...twisted......:……歪んでいった……。}`
-`{ruby:".........You are right to scold me, my friend.:「………詰れ、我が友よ。}`
+`{ruby:".........You are right to:「………詰れ、}{ruby:scold me, my friend.:我が友よ。}`
 `{ruby:............I understand.:…………わかっておる。}`
 `{ruby:My love is eternal and undying.:我が愛は永遠に不滅。}`
-`{ruby:......However, there were times when I directed it at the wrong person, and...:……なれど、それが間違った相手に注がれたことがあったのを、}`
+`{ruby:......However, there were times when I:……なれど、それが間違った相手に}{ruby:directed it at the wrong person, and...:注がれたことがあったのを、}`
 `{ruby:...I...:……私は……、}`
 `{ruby:...must acknowledge that......":認めねばならぬっ……」}`
 `{ruby:"......Grandfather...:「……お祖父さま…。}`
-`{ruby:.........Wait, ......you don't mean......":………そんな、……まさか……」}`
+`{ruby:.........Wait, ......you:………そんな、……}{ruby:don't mean......":まさか……」}`
 `{ruby:"Lion‐sama.:「理御さま。}`
-`{ruby:All humans in this world are tied to each other.:世の中の全ての人間には、必ず何かの縁がございます。}`
-`{ruby:Even if they do not notice, there is always some sort of tie.:身に覚えがなくとも、必ず何かの縁がございます。}`
-`{ruby:Those ties......wrap themselves around people and bring them together.":その縁が、……人に絡み付き、引き寄せるのでございます」}`
+`{ruby:All humans in this world:世の中の全ての人間には、必ず}{ruby:are tied to each other.:何かの縁がございます。}`
+`{ruby:Even if they do not notice,:身に覚えがなくとも、必ず何}{ruby:there is always some sort of tie.:かの縁がございます。}`
+`{ruby:Those ties......wrap themselves around:その縁が、……人に絡み付き、引}{ruby:people and bring them together.":き寄せるのでございます」}`
 `{ruby:"No way...............:「そんな……………。}`
-`{ruby:............Grandfather...............":…………お祖父さま……………」}`
-`{ruby:Just as Kinzo had done, Lion also wiped away tears and stared down at the floor.:金蔵がそうするように、理御もまた目頭を押さえ、……静かに俯く。}`
-`{ruby:Apparently, the truth had been too much of a shock for the young successor to handle...:若過ぎる次期当主にとって真実は、あまりに衝撃が過ぎたのだろう…。}`
+`{ruby::…………お祖父さま}{ruby:............Grandfather...............":……………」}`
+`{ruby:Just as Kinzo had done, Lion also wiped:金蔵がそうするように、理御もまた目}{ruby:away tears and stared down at the floor.:頭を押さえ、……静かに俯く。}`
+`{ruby:Apparently, the truth had been too much of:若過ぎる次期当主にとって真実は、あ}{ruby:a shock for the young successor to handle...:まりに衝撃が過ぎたのだろう…。}`
 `{ruby:"......My lord.:「……お館様。}`
-`{ruby:Perhaps the time has come to speak of it.":もう、語る時ではございませんか？」}`
+`{ruby:Perhaps the time has:もう、語る時ではござ}{ruby:come to speak of it.":いませんか？」}`
 `{ruby:"..............................:「…………………………。}`
 `{ruby:......I see.:……そうか。}`
-`{ruby:So, that time has come, ......my friend.":その時が来たか、……我が友よ」}`
+`{ruby:So, that time:その時が来たか、…}{ruby:has come, ......my friend.":…我が友よ」}`
 `{ruby:"Unless you tell us,:「あんたが語らなきゃ。}`
-`{ruby:none of the truth will become clear.":何も真実は明らかにならない」}`
+`{ruby:none of the:何も真実は明らか}{ruby:truth will become clear.":にならない」}`
 `{ruby:".........My lord.:「………お館様。}`
-`{ruby:......I believe they may have the qualifications and the right to know.":……もはや、知る権利と資格が、あるかと思います」}`
+`{ruby:......I believe they may have the:……もはや、知る権利と資格}{ruby:qualifications and the right to know.":が、あるかと思います」}`
 `{ruby:"I know.:「わかっている。}`
-`{ruby:Perhaps on this day of my fickle funeral, Beatrice in heaven has given me a chance to atone...:今日という、私の気まぐれな葬儀に、天のベアトリーチェが贖罪の機会を与えたのだろう…。}`
-`{ruby:.........Forgive me for not telling you this before now.":………今日まで話さなかったことを、許せ」}`
-`{ruby:After taking a deep breath, Kinzo finally lowered the hands that had been covering his face,:金蔵は深く息をついてから、ようやく目頭を覆っていた手を下ろし、}`
-`{ruby:......and looked at Will and Lion with those red eyes.:……真っ赤になった目で一同を、……ウィルを、理御を、見回す。}`
+`{ruby:Perhaps on this day of my fickle funeral, Beatrice:今日という、私の気まぐれな葬儀に、天のベアト}{ruby:in heaven has given me a chance to atone...:リーチェが贖罪の機会を与えたのだろう…。}`
+`{ruby:.........Forgive me for not:………今日まで話さなか}{ruby:telling you this before now.":ったことを、許せ」}`
+`{ruby:After taking a deep breath, Kinzo finally lowered:金蔵は深く息をついてから、ようやく}{ruby:the hands that had been covering his face,:目頭を覆っていた手を下ろし、}`
+`{ruby:......and looked at Will and:……真っ赤になった目で一同を、…}{ruby:Lion with those red eyes.:…ウィルを、理御を、見回す。}`
 `{ruby:"...........................":「………………………」}`
 `{ruby:"..................Grandfather...":「………………お祖父さま……」}`
 `{ruby:"You listen too, Lion.:「理御も聞け。}`
 `{ruby:......Guest.:……客人よ。}`
 `{ruby:Willard, was it?":ウィラードと言ったか」}`
 `{ruby:"Yeah.":「あぁ」}`
-`{ruby:".........I thank you for giving me a chance to speak of the truth while I still am able.:「………この私が、自らの口より真実を話せる内に、この機会を設けてくれたことを感謝する。}`
-`{ruby:......You must surely be a messenger from heaven sent by Beatrice...:……お前はきっと、ベアトリーチェより遣わされた、天の使いに違いない…。}`
-`{ruby:......You have my gratitude.........":……感謝する………」}`
-`{ruby:"Beatrice isn't the one you have to thank.:「その機会を設けたのはベアトリーチェじゃねェ。}`
+`{ruby:".........I thank you for giving me a chance to:「………この私が、自らの口より真実を話せる内に}{ruby:speak of the truth while I still am able.:、この機会を設けてくれたことを感謝する。}`
+`{ruby:......You must surely be a:……お前はきっと、ベアトリーチェより遣}{ruby:messenger from heaven sent by Beatrice...:わされた、天の使いに違いない…。}`
+`{ruby:......You have:……感謝する}{ruby:my gratitude.........":………」}`
+`{ruby:"Beatrice isn't the one:「その機会を設けたのはベア}{ruby:you have to thank.:トリーチェじゃねェ。}`
 `{ruby:It was some witch.:どこぞの魔女だ。}`
-`{ruby:......Well, I guess they're both witches...":……いや、どっちも魔女には違いねェ…」}`
-`{ruby:"Hmph, ......I do not care who it was.:「ふ、……お前が誰でも良い。}`
+`{ruby:......Well, I guess:……いや、どっちも魔女}{ruby:they're both witches...":には違いねェ…」}`
+`{ruby:"Hmph, ......I do not:「ふ、……お前が}{ruby:care who it was.:誰でも良い。}`
 `{ruby:I have been given a chance.:私に機会を与えた。}`
 `{ruby:That is enough.:それで充分だ。}`
 `{ruby:......Thank you, Willard.":……感謝するぞ、ウィラードとやら」}`
-`{ruby:Kinzo slowly stood up and held out his right hand.:金蔵はゆっくりと立ち上がり、右手を突き出す。}`
+`{ruby:Kinzo slowly stood up and:金蔵はゆっくりと立ち上が}{ruby:held out his right hand.:り、右手を突き出す。}`
 `{ruby:{n}He was offering to shake hands.:{n}それは、握手を求めるものだった。}`
-`{ruby:It must have been Kinzo's way of expressing his gratitude...:金蔵なりの、感謝の気持ちを伝えるものだったに違いない…。}`
+`{ruby:It must have been Kinzo's:金蔵なりの、感謝の気持ちを伝え}{ruby:way of expressing his gratitude...:るものだったに違いない…。}`
 `{ruby:Will responded.:ウィルは、それに応える。}`
-`{ruby:{n}Then, the two hands gripped each other tightly in silence.:{n}そして二人の手が、静かに力強く握られた。}`
-`{ruby:When they did, ......a bright light poured out from the gap between the two hands.:すると、……二人の握手の隙間から、眩い光が漏れ出す。}`
+`{ruby:{n}Then, the two hands gripped:{n}そして二人の手が、静}{ruby:each other tightly in silence.:かに力強く握られた。}`
+`{ruby:When they did, ......a bright light poured:すると、……二人の握手の隙間}{ruby:out from the gap between the two hands.:から、眩い光が漏れ出す。}`
 `{ruby:"..................nn—":「………………ん、」}`
-`{ruby:Will felt as though something the size of a grain had burned itself into his palm.:ウィルは手の平に、一粒の火傷のような刺激を感じる。}`
-`{ruby:......It was that power that {f:5:Bernkastel} had given him.:……それは、ベルンカステルの与えた、あの力。}`
+`{ruby:Will felt as though something the size of:ウィルは手の平に、一粒の火傷}{ruby:a grain had burned itself into his palm.:のような刺激を感じる。}`
+`{ruby:......It was that power:……それは、ベルンカステ}{ruby:that {f:5:Bernkastel} had given him.:ルの与えた、あの力。}`
 `{ruby:The light grew brighter and brighter.:その光はどんどん眩しさを増してくる。}`
-`{ruby:However, it seemed that Kinzo and the others could not see it.:しかしそれは金蔵たちには見えていないようだった。}`
+`{ruby:However, it seemed that Kinzo and:しかしそれは金蔵たちには見}{ruby:the others could not see it.:えていないようだった。}`
 `{ruby:"......Now, I will speak.:「……今こそ、語ろう。}`
 `{ruby:I met Beatrice—:私が、ベアトリーチェに、}`
-`{ruby:Beatrice Castiglioni—just before the end of the war.:………ベアトリーチェ・カスティリオーニに出会ったのは、終戦間際。}`
+`{ruby:Beatrice Castiglioni—just before the:………ベアトリーチェ・カスティリオ}{ruby:end of the war.:ーニに出会ったのは、終戦間際。}`
 `{ruby:She came from across the sea......":彼女は、海の向こうからやって来た……」}`
 `{ruby:".................................":「……………………………」}`
 `{ruby:"......So, are you Kinzo?":「……お前は、金蔵なのか」}`
-`{ruby:"It's how Grandfather looked in the past.:「昔の、お祖父さまです。}`
+`{ruby:"It's how Grandfather:「昔の、お祖父}{ruby:looked in the past.:さまです。}`
 `{ruby:I've seen photos.:写真で見たことがあります。}`
 `{ruby:......Just what on Earth......":……これは、一体……」}`
-`{ruby:"It's the theatergoing power that {f:5:Bernkastel} gave me.:「ベルンカステルのくれた、観劇者の力だ。}`
+`{ruby:"It's the theatergoing power:「ベルンカステルのくれ}{ruby:that {f:5:Bernkastel} gave me.:た、観劇者の力だ。}`
 `{ruby:......Don't try to understand.":……無理に理解するな」}`
 `{ruby:"I'll just get a headache?":「頭痛にならァ？」}`
 `{ruby:"You're getting the hang of this.":「わかってきたな」}`
-`{ruby:At one time, Genji told Battler that he looked like Kinzo in his youth.:かつて戦人は源次に、若き日の金蔵に似ていると言われたことがある。}`
-`{ruby:Sure enough, though the young Kinzo wasn't exactly the same as Battler, they looked very similar.:確かに、若き日の金蔵は、瓜二つではないにしても、戦人とよく似ていた。}`
-`{ruby:".........Allow me to introduce myself again.:「………改めて名乗ろう。}`
+`{ruby:At one time, Genji told Battler that:かつて戦人は源次に、若き日の金蔵に}{ruby:he looked like Kinzo in his youth.:似ていると言われたことがある。}`
+`{ruby:Sure enough, though the young Kinzo wasn't exactly:確かに、若き日の金蔵は、瓜二つではな}{ruby:the same as Battler, they looked very similar.:いにしても、戦人とよく似ていた。}`
+`{ruby:".........Allow me to:「………改めて}{ruby:introduce myself again.:名乗ろう。}`
 `{ruby:......I am Ushiromiya Kinzo.":……私が、右代宮金蔵である」}`
 `{ruby:"Grandfather.........":「お祖父さま………」}`
-`{ruby:Even the voice seemed to resemble Battler's somehow.:声も、どこか戦人に似ているように感じられた。}`
-`{ruby:Clearly, Battler had inherited Kinzo's blood more thickly than any other...:もっとも金蔵の血を濃く受け継いだのが、きっと戦人に違いないのだ…。}`
-`{ruby:"I did not want to succeed the Ushiromiya family headship.:「私は右代宮家など、継ぎたくはなかった。}`
-`{ruby:......My being chosen as the head was nothing more than a prank of fate.":……私が当主に選ばれたのは、運命の悪戯に過ぎぬのだ」}`
-`{ruby:"......In the Great Kanto Earthquake, those in charge passed away, and you were selected from the branch families.":「……関東大震災で、主だった者が死に絶え、分家筋のお前が抜擢された」}`
+`{ruby:Even the voice seemed:声も、どこか戦人に似てい}{ruby:to resemble Battler's somehow.:るように感じられた。}`
+`{ruby:Clearly, Battler had inherited Kinzo's:もっとも金蔵の血を濃く受け継いだのが}{ruby:blood more thickly than any other...:、きっと戦人に違いないのだ…。}`
+`{ruby:"I did not want to:「私は右代宮家など、継}{ruby:succeed the Ushiromiya family headship.:ぎたくはなかった。}`
+`{ruby:......My being chosen as the head was:……私が当主に選ばれたのは、}{ruby:nothing more than a prank of fate.":運命の悪戯に過ぎぬのだ」}`
+`{ruby:"......In the Great Kanto Earthquake, those in charge passed:「……関東大震災で、主だった者が死に}{ruby:away, and you were selected from the branch families.":絶え、分家筋のお前が抜擢された」}`
 `{ruby:"That's correct.:「そうです。}`
-`{ruby:After all, Grandfather was wise despite his youth, and he already possessed a dignity fitting for the headship.":お祖父さまは若くとも聡明な方で、当主に相応しい貫禄を若くしてお持ちの方でしたから」}`
+`{ruby:After all, Grandfather was wise despite his youth, and:お祖父さまは若くとも聡明な方で、当主に相応し}{ruby:he already possessed a dignity fitting for the headship.":い貫禄を若くしてお持ちの方でしたから」}`
 `{ruby:"Fuhahahahahahahaha......:「ふ、はっははははははは……。}`
 `{ruby:Ridiculous.:とんでもない。}`
-`{ruby:......Those greedy elders were so intent on looking out for their own personal interests that they couldn't even decide on a new head.:……欲深な長老たちは、互いの利益ばかりを主張し合い、新しい当主を選び出すことさえ出来なかったのだ。}`
-`{ruby:They were like fools arguing about who the new captain should be on a sinking ship.":まるで、沈み行く船で、新しき船長は誰かと議論するような愚かさよ」}`
-`{ruby:"So, since you had no connections with anyone in the main family, you were selected right out of the blue.":「だからこそ、本家の誰ともしがらみのない、お前が突然に、抜擢を受けた」}`
+`{ruby:......Those greedy elders were so intent on looking out for their:……欲深な長老たちは、互いの利益ばかりを主張し合い、}{ruby:own personal interests that they couldn't even decide on a new head.:新しい当主を選び出すことさえ出来なかったのだ。}`
+`{ruby:They were like fools arguing about who the:まるで、沈み行く船で、新しき船長は}{ruby:new captain should be on a sinking ship.":誰かと議論するような愚かさよ」}`
+`{ruby:"So, since you had no connections with anyone in the:「だからこそ、本家の誰ともしがらみのな}{ruby:main family, you were selected right out of the blue.":い、お前が突然に、抜擢を受けた」}`
 `{ruby:"It's all because of my toes.:「全ては、この足の指のせいだ。}`
-`{ruby:If only I'd had one fewer toe on each foot, my life may have turned out quite differently......":足の指が１本ずつ足りなかったなら、我が人生はまったく異なるものになっていたであろう……」}`
-`{ruby:In the Ushiromiya family, polydactyly was seen as a sign of good fortune.:右代宮家では、多指症は吉兆の徴と尊ばれていた。}`
-`{ruby:{n}This was because it was a common factor among many of the greats in the family's history.:{n}歴代の名君に多指症が多かったためだ。}`
+`{ruby:If only I'd had one fewer toe on each:足の指が１本ずつ足りなかったなら、我が人生はま}{ruby:foot, my life may have turned out quite differently......":ったく異なるものになっていたであろう……」}`
+`{ruby:In the Ushiromiya family, polydactyly was:右代宮家では、多指症は吉兆}{ruby:seen as a sign of good fortune.:の徴と尊ばれていた。}`
+`{ruby:{n}This was because it was a common factor:{n}歴代の名君に多指症}{ruby:among many of the greats in the family's history.:が多かったためだ。}`
 `{ruby:"It was all very pathetic.:「下らぬ話よ。}`
-`{ruby:The elders didn't care whom they dragged in as long as it wouldn't favor any of them over the others.":長老どもは、自分たちの誰も得をしない馬の骨であれば、誰でも良かったのだ」}`
-`{ruby:"So, they just happened to hear that someone in one of the branch families had six toes,:「たまたま分家筋に、両足の指が６本ある者がいると耳に入り、}`
-`{ruby:and decided that would do well enough.":それでいいと決まったわけか」}`
+`{ruby:The elders didn't care whom they dragged in as long:長老どもは、自分たちの誰も得をしない馬}{ruby:as it wouldn't favor any of them over the others.":の骨であれば、誰でも良かったのだ」}`
+`{ruby:"So, they just happened to hear that someone:「たまたま分家筋に、両足の指が６}{ruby:in one of the branch families had six toes,:本ある者がいると耳に入り、}`
+`{ruby:and decided that:それでいいと決ま}{ruby:would do well enough.":ったわけか」}`
 `{ruby:"Precisely.:「そういうことだ。}`
-`{ruby:The elders didn't care what sort of novice became the head,:長老どもは、自分たちの操り人形になるなら、次期当主など、}`
-`{ruby:as long as they could make him their puppet.:どこの青二才でも良かったのだ。}`
-`{ruby:In fact, the more ignorant this person was of how to lead, the better it would be for them.":むしろ、帝王学に無知な人間ほど好ましい」}`
+`{ruby:The elders didn't care what:長老どもは、自分たちの操り人形}{ruby:sort of novice became the head,:になるなら、次期当主など、}`
+`{ruby:as long as they:どこの青二才でも良}{ruby:could make him their puppet.:かったのだ。}`
+`{ruby:In fact, the more ignorant this person was of:むしろ、帝王学に無知な}{ruby:how to lead, the better it would be for them.":人間ほど好ましい」}`
 `{ruby:"......Grandfather......":「……お祖父さま……」}`
 `{ruby:"Lion.:「理御。}`
 `{ruby:It is quite different in your case.:お前は違う。}`
-`{ruby:......You will be the one who inherits everything I have.:……お前は、我が全てを受け継ぐ者だ。}`
-`{ruby:That is the fate you were granted on the day of your birth.:お前が生を受けた日よりそれは運命付けられていた。}`
-`{ruby:That is why I gave you that silver ring and raised you so strictly.:だからこそお前に銀の指輪を与え、厳しく育ててきた。}`
-`{ruby:......You are quite different from me.:……そなたは私とは違う。}`
-`{ruby:You are already a splendid successor, of whom no one could be ashamed......":誰にも恥じることのない、立派な当主跡継ぎであるぞ……」}`
+`{ruby:......You will be the one:……お前は、我が全て}{ruby:who inherits everything I have.:を受け継ぐ者だ。}`
+`{ruby:That is the fate you were:お前が生を受けた日よりそれ}{ruby:granted on the day of your birth.:は運命付けられていた。}`
+`{ruby:That is why I gave you that:だからこそお前に銀の指輪を与}{ruby:silver ring and raised you so strictly.:え、厳しく育ててきた。}`
+`{ruby:......You are quite:……そなたは私}{ruby:different from me.:とは違う。}`
+`{ruby:You are already a splendid successor,:誰にも恥じることのない、立派な}{ruby:of whom no one could be ashamed......":当主跡継ぎであるぞ……」}`
 `{ruby:"...Y‐......yes, sir......":「…は、……はいっ……」}`
 `{ruby:"A puppet heir, huh...:「操り人形の当主か。}`
 `{ruby:...I doubt that could've been easy.":……気楽なものじゃねぇだろうな」}`
 `{ruby:".........Heh,:「………ふ、}`
 `{ruby:......hehahahahahahahahaha...":……ふっはっはははははは…」}`
-`{ruby:As he pondered about where to begin, Kinzo laughed bitterly.:金蔵は、何から語れば良いかと思案するように、苦々しく笑う。}`
-`{ruby:It would probably bring back nothing but painful memories no matter where he started from...:何から語っても、辛い思い出しか蘇らないのだろう…。}`
-`{ruby:"It......lasted for so long, that span of gray days.:「あれは、……あまりに長い長い、灰色の日々であった。}`
-`{ruby:That mind‐numbing stretch of time I spent dead passed like moss growing on a rock......":それは私には、岩に生す苔のような、気の遠くなるほど長い長い、死んだ時間……」}`
-`{ruby:I became the rope in the tug of war between the elders, who thought of nothing but their own profit,:己の利益しか考えぬ長老たちの綱引きの綱にされ、}`
-`{ruby:.....and I probably could have snapped at any moment.:……私はいつ引き千切れても、おかしくなかった。}`
-`{ruby:However, people are far more resilient than one would think.:しかし、人は呆れるくらいに頑丈だった。}`
-`{ruby:Though I spent so many days like a dead man, ......I was not killed.:あの殺されたような長き日々であっても、……私は殺されなかったのだ。}`
-`{ruby:So, I would have to search for death on my own......:だから私は、死に場所を、求めなければならなかった……。}`
-`{ruby:The next thing I knew, I had reached the age when I could no longer refer to myself as "young" without drawing laughter from those who were.:気付けばもう、自らを若者と呼べば、若者たちに笑われそうになる歳になっていた。}`
-`{ruby:They were long, dreary, gray days without any substance.:気が遠くなるような、長くても何も中身のない灰色の日々。}`
-`{ruby:And they lasted for a full twenty years.:それは２０年にも及んだ。}`
-`{ruby:In twenty years, a person can be born, find a purpose, and even become their own man with their own place in the world.:２０年あれば、人は生まれ、志を持ち、社会へ飛び出すことさえ出来る。}`
-`{ruby:In short, .....if one truly becomes a human only when they have become a working adult...:つまり、……社会人となって初めて人間と呼べるのだとしたら。}`
-`{ruby:...then I spent an amount of time long enough to create a human...:私は、人間が一人、生み出せるほどの膨大な時間を、}`
-`{ruby:...doing nothing except playing the part of puppet to those greedy old men.:……何もすることなく、欲深な老人たちの人形として過ごしてきたわけだ。}`
-`{ruby:Ironically, though that time aged my body, it did not age my mind.:そんな日々は、体を老いさせても、皮肉にも、心は老いさせない。}`
+`{ruby:As he pondered about where:金蔵は、何から語れば良いかと思案}{ruby:to begin, Kinzo laughed bitterly.:するように、苦々しく笑う。}`
+`{ruby:It would probably bring back nothing but:何から語っても、辛い思い出し}{ruby:painful memories no matter where he started from...:か蘇らないのだろう…。}`
+`{ruby:"It......lasted for so long,:「あれは、……あまりに長い長}{ruby:that span of gray days.:い、灰色の日々であった。}`
+`{ruby:That mind‐numbing stretch of time I spent:それは私には、岩に生す苔のような、気の遠}{ruby:dead passed like moss growing on a rock......":くなるほど長い長い、死んだ時間……」}`
+`{ruby:I became the rope in the tug of war between:己の利益しか考えぬ長老たち}{ruby:the elders, who thought of nothing but their own profit,:の綱引きの綱にされ、}`
+`{ruby:.....and I probably could:……私はいつ引き千切れても}{ruby:have snapped at any moment.:、おかしくなかった。}`
+`{ruby:However, people are far more:しかし、人は呆れるくら}{ruby:resilient than one would think.:いに頑丈だった。}`
+`{ruby:Though I spent so many days like:あの殺されたような長き日々であっても}{ruby:a dead man, ......I was not killed.:、……私は殺されなかったのだ。}`
+`{ruby:So, I would have to:だから私は、死に場所を、求めな}{ruby:search for death on my own......:ければならなかった……。}`
+`{ruby:The next thing I knew, I had reached the age when I could:気付けばもう、自らを若者と呼べば、若者た}{ruby:no longer refer to myself as "young" without drawing laughter from those who were.:ちに笑われそうになる歳になっていた。}`
+`{ruby:They were long, dreary,:気が遠くなるような、長くても何}{ruby:gray days without any substance.:も中身のない灰色の日々。}`
+`{ruby:And they lasted for:それは２０年に}{ruby:a full twenty years.:も及んだ。}`
+`{ruby:In twenty years, a person can be born, find a purpose, and:２０年あれば、人は生まれ、志を持ち、}{ruby:even become their own man with their own place in the world.:社会へ飛び出すことさえ出来る。}`
+`{ruby:In short, .....if one truly becomes a human:つまり、……社会人となって初めて}{ruby:only when they have become a working adult...:人間と呼べるのだとしたら。}`
+`{ruby:...then I spent an amount of:私は、人間が一人、生み出せ}{ruby:time long enough to create a human...:るほどの膨大な時間を、}`
+`{ruby:...doing nothing except playing the part:……何もすることなく、欲深な老人たち}{ruby:of puppet to those greedy old men.:の人形として過ごしてきたわけだ。}`
+`{ruby:Ironically, though that time aged my:そんな日々は、体を老いさせても、}{ruby:body, it did not age my mind.:皮肉にも、心は老いさせない。}`
 `{ruby:In my heart, I was still young,:心だけは、小田原に呼び出される直前の、}`
-`{ruby:and I looked back fondly on the fulfilling days before I was summoned to Odawara.:……あの充実した日々を懐かしむ、若いまま。}`
-`{ruby:Only my body continued to age, and at some point, the gulf between the two had widened to the point that it was hard to comprehend.:なのに体だけは老いを重ね、いつしか、その乖離は理解し難いほどにまで広がった。}`
-`{ruby:So, I could hardly believe that the worn‐out man in the mirror was really me.:だから、鏡に映る、疲れ切った男が、とても自分と思えない。}`
+`{ruby:and I looked back fondly on the:……あの充実した日々を懐}{ruby:fulfilling days before I was summoned to Odawara.:かしむ、若いまま。}`
+`{ruby:Only my body continued to age, and at some point, the gulf between:なのに体だけは老いを重ね、いつしか、その}{ruby:the two had widened to the point that it was hard to comprehend.:乖離は理解し難いほどにまで広がった。}`
+`{ruby:So, I could hardly believe that the:だから、鏡に映る、疲れ切った男}{ruby:worn‐out man in the mirror was really me.:が、とても自分と思えない。}`
 `{ruby:No, it really wasn't me.:いや、本当に自分ではないのだ。}`
-`{ruby:I was the "head of the Ushiromiya family" in name only.:右代宮家当主などとは、名ばかり。}`
+`{ruby:I was the "head of:右代宮家当主などと}{ruby:the Ushiromiya family" in name only.:は、名ばかり。}`
 `{ruby:I had no rights,:何の権限もない。}`
 `{ruby:no autonomy.:自主性も必要ない。}`
-`{ruby:There was no need for me to do anything other than what was asked of me.:余計なことをする必要もない。}`
-`{ruby:I was just a doll sitting there on the shelf, gathering dust.:ひな壇に飾られたまま、埃を積もらせ、……ただただじっとしているだけの、お人形。}`
-`{ruby:I remember nothing but lazily flipping through Western books I liked, locking myself in my own world,:私はぼんやりと、好きな洋書を漁り、自分だけの世界に閉じ篭り、}`
-`{ruby:......doing nothing but playing with roses and drinking terrible drinks.:……悪い酒と薔薇いじりを覚えただけ。}`
+`{ruby:There was no need for me to do:余計なことをする}{ruby:anything other than what was asked of me.:必要もない。}`
+`{ruby:I was just a doll sitting:ひな壇に飾られたまま、埃を積もらせ、……た}{ruby:there on the shelf, gathering dust.:だただじっとしているだけの、お人形。}`
+`{ruby:I remember nothing but lazily flipping through Western:私はぼんやりと、好きな洋書を漁り}{ruby:books I liked, locking myself in my own world,:、自分だけの世界に閉じ篭り、}`
+`{ruby:......doing nothing but playing with:……悪い酒と薔薇いじ}{ruby:roses and drinking terrible drinks.:りを覚えただけ。}`
 `{ruby:And it lasted a full twenty years.:それが、２０年も。}`
 `{ruby:Before I knew it...:気付けば。}`
 `{ruby:...I had a stranger for a wife.:いつの間にか、知らぬ妻がいた。}`
-`{ruby:......It wasn't any wife I had chosen.:……自分が選んだ妻ではない。}`
-`{ruby:She was someone that the elders had chosen and forced on me for their own reasons, the daughter of some noble family or something,:長老たちが、彼らの都合で選び、強いた、どこぞのやんごとなき一族の姫君らしかったが、}`
-`{ruby:......but that hardly mattered to me.:……どうでもいい。}`
-`{ruby:I did not love my wife, but neither did I dislike her.:妻を愛してなかったし、かといって毛嫌いもしなかった。}`
+`{ruby:......It wasn't any:……自分が選んだ}{ruby:wife I had chosen.:妻ではない。}`
+`{ruby:She was someone that the elders had chosen and forced on me:長老たちが、彼らの都合で選び、強いた、どこぞ}{ruby:for their own reasons, the daughter of some noble family or something,:のやんごとなき一族の姫君らしかったが、}`
+`{ruby:......but that hardly:……どうでも}{ruby:mattered to me.:いい。}`
+`{ruby:I did not love my wife,:妻を愛してなかったし、かとい}{ruby:but neither did I dislike her.:って毛嫌いもしなかった。}`
 `{ruby:......I just didn't care.:……どうでも良かったからだ。}`
-`{ruby:I fathered a few children, but that wasn't out of love for my wife.:子供を何人か儲けるが、それも妻を愛していたからではない。}`
+`{ruby:I fathered a few children, but that:子供を何人か儲けるが、それも妻}{ruby:wasn't out of love for my wife.:を愛していたからではない。}`
 `{ruby:They were just born before I knew it.:気付いたら、勝手に生まれていた。}`
 `{ruby:......That's all there was to it.:……それだけだ。}`
 `{ruby:None of it mattered.:全てが、どうでも良かった。}`
 `{ruby:No, that's not quite right.:いや、違う。}`
-`{ruby:......Everything was decided by someone other than me, and I simply obeyed.:……全てが、私でない誰かに決められ、私はただ従うだけ。}`
+`{ruby:......Everything was decided by someone other:……全てが、私でない誰かに決め}{ruby:than me, and I simply obeyed.:られ、私はただ従うだけ。}`
 `{ruby:That was the job...:それが、右代宮家の当主という、}`
-`{ruby:......of the "Ushiromiya family head"......:………仕事だったのだ……。}`
-`{ruby:"On some level, I felt as though my life was being slowly and quietly snuffed out.":「あぁ、このまま自分は、静かに殺されるなと、うっすらと感じていた」}`
+`{ruby:......of the:………仕事だった}{ruby:"Ushiromiya family head"......:のだ……。}`
+`{ruby:"On some level, I felt as though my:「あぁ、このまま自分は、静かに殺され}{ruby:life was being slowly and quietly snuffed out.":るなと、うっすらと感じていた」}`
 `{ruby:"I can't believe it.:「信じられません。}`
-`{ruby:You have always been praised for being such a bold and wise ruler, and yet you lived like that for so long......":豪胆なる名君と讃えられたお祖父さまが、そのような日々を送っていたなんて……」}`
+`{ruby:You have always been praised for being such a bold and:豪胆なる名君と讃えられたお祖父さまが、そ}{ruby:wise ruler, and yet you lived like that for so long......":のような日々を送っていたなんて……」}`
 `{ruby:"......Lion.:「……理御よ。}`
-`{ruby:There is nothing so long and insubstantial as a life you do not live for yourself.:自ら生きぬ人生ほど希薄で長いものはない。}`
+`{ruby:There is nothing so long and insubstantial as:自ら生きぬ人生ほど希薄}{ruby:a life you do not live for yourself.:で長いものはない。}`
 `{ruby:And yet, it passes in a blink.:なのに、それはあっという間に過ぎ去るのだ。}`
 `{ruby:......Take this to heart.":……心せよ」}`
-`{ruby:"A life...you live for yourself......":「自ら、生きる人生……」}`
+`{ruby:"A life...you:「自ら、生きる}{ruby:live for yourself......":人生……」}`
 `{ruby:"Living means having your own will.:「生きるってことは、意思を持つということだ。}`
-`{ruby:......You probably {i:were} dead during that time.":……殺された日々だったろうよ」}`
+`{ruby:......You probably {i:were}:……殺された日々だ}{ruby:dead during that time.":ったろうよ」}`
 `{ruby:"Precisely.:「そうだ。}`
 `{ruby:I wanted to live.:私は生きたかった。}`
 `{ruby:No, I wanted to die.:いや、死にたかった。}`
@@ -436,99 +436,99 @@
 `{ruby:".....................:「…………………。}`
 `{ruby:......Cut...the strings.":……糸を、断ち切ることです」}`
 `{ruby:"Correct.:「そうだ。}`
-`{ruby:That would be death, it would be life, and it would be...:それが死ぬことであり、生きることであり、}`
+`{ruby:That would be death, it would:それが死ぬことであり、}{ruby:be life, and it would be...:生きることであり、}`
 `{ruby:...release.":……解放だ」}`
-`{ruby:Before I realized it, the world had grown troubled.:気付けば、世界は慌しくなっていた。}`
+`{ruby:Before I realized it,:気付けば、世界は慌し}{ruby:the world had grown troubled.:くなっていた。}`
 `{ruby:World War II.:第二次世界大戦。}`
 `{ruby:The Pacific War.:太平洋戦争。}`
-`{ruby:Japan had extended their war fronts too far to the East and West, and the tide of war was changing.:日本は東西に戦線を広げ過ぎ、その風向きは変わりつつあった。}`
-`{ruby:Thanks to the influence of the elders, I was able to avoid conscription.:私は長老たちの働き掛けにより、徴兵が免除されていた。}`
-`{ruby:......Of course, this was not out of compassion for me.:……もちろん慈悲ではない。}`
-`{ruby:It was because I was their precious puppet.:彼らの大切なお人形だからだ。}`
-`{ruby:So, the war never really felt that close to me.:だから戦争を、それほど身近に感じていなかった。}`
-`{ruby:{n}However, when I personally decided to abandon their protection, it was very easy.:{n}しかし、私が自らそれを返上したいと望めば、それはとても容易い。}`
-`{ruby:At that time, the Ushiromiya family had almost completely collapsed,:その頃には、右代宮家は完全に没落しかかっており、}`
-`{ruby:and since the elders had apparently pilfered enough of the scraps to last them the rest of their lives,:長老たちは、自分たちの寿命分程度には財産をくすねられたようで、}`
-`{ruby:they seemed to care little for what I did, now that they no longer had any use for me.:もはや用済みの私が何をしようと、関心はないようだった。}`
-`{ruby:So, I realized that I had finally found my time to die.:だから私は、ようやく、死ねる時を得たのだと悟った。}`
+`{ruby:Japan had extended their war fronts too far to the:日本は東西に戦線を広げ過ぎ、その}{ruby:East and West, and the tide of war was changing.:風向きは変わりつつあった。}`
+`{ruby:Thanks to the influence of the:私は長老たちの働き掛けにより}{ruby:elders, I was able to avoid conscription.:、徴兵が免除されていた。}`
+`{ruby:......Of course, this was not:……もちろん慈悲}{ruby:out of compassion for me.:ではない。}`
+`{ruby:It was because I:彼らの大切なお人}{ruby:was their precious puppet.:形だからだ。}`
+`{ruby:So, the war never really:だから戦争を、それほど身近}{ruby:felt that close to me.:に感じていなかった。}`
+`{ruby:{n}However, when I personally decided to:{n}しかし、私が自らそれを返上した}{ruby:abandon their protection, it was very easy.:いと望めば、それはとても容易い。}`
+`{ruby:At that time, the Ushiromiya:その頃には、右代宮家は完全}{ruby:family had almost completely collapsed,:に没落しかかっており、}`
+`{ruby:and since the elders had apparently pilfered enough of:長老たちは、自分たちの寿命分程度に}{ruby:the scraps to last them the rest of their lives,:は財産をくすねられたようで、}`
+`{ruby:they seemed to care little for what I did,:もはや用済みの私が何をしようと}{ruby:now that they no longer had any use for me.:、関心はないようだった。}`
+`{ruby:So, I realized that I had:だから私は、ようやく、死ねる}{ruby:finally found my time to die.:時を得たのだと悟った。}`
 `{ruby:One by one,:私は自らを吊っていた糸を、}`
-`{ruby:I cut the threads I was hanging from,:一本一本、}`
+`{ruby:I cut the threads:一本一本}{ruby:I was hanging from,:、}`
 `{ruby:......and began to search...:切り落とし、}`
 `{ruby:...for a place to end my life.:……死ねる場所を探し始めた。}`
-`{ruby:"So, you searched for death on the battlefield?":「戦地で死を、求めようとしたのか」}`
-`{ruby:"......I thought that if I was going to die anyway, I should try to be of some use to someone.:「……同じ死ぬなら、誰かの役に立つべきと思った。}`
+`{ruby:"So, you searched for:「戦地で死を、求めよ}{ruby:death on the battlefield?":うとしたのか」}`
+`{ruby:"......I thought that if I was going to die anyway,:「……同じ死ぬなら、誰かの}{ruby:I should try to be of some use to someone.:役に立つべきと思った。}`
 `{ruby:......No, that's a lie.:……いや、違うな。}`
-`{ruby:I probably just lacked the willpower to end my own life.:私には自らの命を絶つ気力さえなかったのだろう。}`
-`{ruby:War was a suitable excuse for death.":もっともらしく死ねる理由が、戦争だったのだ」}`
-`{ruby:"I heard that your knowledge in public works and construction...:「お祖父さまは土木・建築の知識がありましたので、}`
-`{ruby:led to you being tasked with setting up facilities for the Navy construction team.":海軍設営隊にて、施設造成などに従事されたと聞いています」}`
-`{ruby:"Hmph, and what a miscalculation that was.:「ふっ、とんだ誤算よ。}`
-`{ruby:If I had just said that I had no useful skills, I would have been sent to the front lines where I could die at a moment's notice...":何の取り得もないと言っておけば、すぐにも死ねる最前線へ送られたものを…」}`
-`{ruby:"So, you ended up not having to go to the front lines?":「最前線に行かずに済んだのか」}`
-`{ruby:"Some of the others were overjoyed at their luck.:「幸いと喜ぶ仲間もいたよ。}`
+`{ruby:I probably just lacked the:私には自らの命を絶つ気力さ}{ruby:willpower to end my own life.:えなかったのだろう。}`
+`{ruby:War was a:もっともらしく死ねる理由}{ruby:suitable excuse for death.":が、戦争だったのだ」}`
+`{ruby:"I heard that your knowledge:「お祖父さまは土木・建築の}{ruby:in public works and construction...:知識がありましたので、}`
+`{ruby:led to you being tasked with setting:海軍設営隊にて、施設造成などに}{ruby:up facilities for the Navy construction team.":従事されたと聞いています」}`
+`{ruby:"Hmph, and what:「ふっ、とんだ}{ruby:a miscalculation that was.:誤算よ。}`
+`{ruby:If I had just said that I had no useful skills, I would have:何の取り得もないと言っておけば、すぐに}{ruby:been sent to the front lines where I could die at a moment's notice...":も死ねる最前線へ送られたものを…」}`
+`{ruby:"So, you ended up not having:「最前線に行かずに}{ruby:to go to the front lines?":済んだのか」}`
+`{ruby:"Some of the others:「幸いと喜ぶ仲間}{ruby:were overjoyed at their luck.:もいたよ。}`
 `{ruby:It was the opposite for me.:私には逆だった。}`
-`{ruby:My only desire was to get my hands on the intoxicating liquor of battle and drink myself to death.:戦って死ぬという、出来すぎた美酒のヤケ酒が欲しかっただけなのだ。}`
-`{ruby:......The US planes did nothing but cut across the skies of that forsaken island.:……忘れられた島の上空を、米軍の編隊は横切っていくだけ。}`
-`{ruby:......They didn't have even a bullet to spare for me, much less a bomb.":……彼らは私のために、爆弾一つどころか、鉛弾の一つさえ恵んではくれなかったのだよ」}`
-`{ruby:"Is this the time you met Beatrice, Grandfather......?":「お祖父さまは、その日々の中で、ベアトリーチェにお会いになられたのですか……？」}`
+`{ruby:My only desire was to get my hands on:戦って死ぬという、出来すぎた美酒の}{ruby:the intoxicating liquor of battle and drink myself to death.:ヤケ酒が欲しかっただけなのだ。}`
+`{ruby:......The US planes did nothing but cut:……忘れられた島の上空を、米軍}{ruby:across the skies of that forsaken island.:の編隊は横切っていくだけ。}`
+`{ruby:......They didn't have even a bullet to:……彼らは私のために、爆弾一つどころか、鉛弾}{ruby:spare for me, much less a bomb.":の一つさえ恵んではくれなかったのだよ」}`
+`{ruby:"Is this the time:「お祖父さまは、その日々の中で、ベアトリー}{ruby:you met Beatrice, Grandfather......?":チェにお会いになられたのですか……？」}`
 `{ruby:"Correct.:「そうだ。}`
 `{ruby:She came to me from the sea......":あれは、海からやってきた……」}`
 `{ruby:"Where did you meet her?:「どこで会った。}`
 `{ruby:You mentioned an island.":島と言ったが」}`
 `{ruby:"It was here.:「ここだよ。}`
 `{ruby:She came to this island.":この島に、やって来たのだ」}`
-`{ruby:"......So, you met here, on Rokkenjima?":「……お前たちは、六軒島で出会っていたというのか」}`
+`{ruby:"......So, you met:「……お前たちは、六軒島で出}{ruby:here, on Rokkenjima?":会っていたというのか」}`
 `{ruby:"What's going on...?:「どういうことですか…。}`
-`{ruby:......I heard that Rokkenjima was uninhabited until you bought it, Grandfather.:……お祖父さまが六軒島を買い取るまでは、無人島だったと聞いています。}`
-`{ruby:I never knew there was a Japanese military base here.":この島に日本軍の基地があったなどとは、初耳です」}`
+`{ruby:......I heard that Rokkenjima was:……お祖父さまが六軒島を買い取るまで}{ruby:uninhabited until you bought it, Grandfather.:は、無人島だったと聞いています。}`
+`{ruby:I never knew there was:この島に日本軍の基地があっ}{ruby:a Japanese military base here.":たなどとは、初耳です」}`
 `{ruby:"Pft, hahahahahahahaha......:「ふっ、はっはっはっはっははは……。}`
-`{ruby:Ah, yes, you could hardly call that a military base.:そうだな、あんなものは基地とは呼ばぬ。}`
+`{ruby:Ah, yes, you could hardly:そうだな、あんなものは}{ruby:call that a military base.:基地とは呼ばぬ。}`
 `{ruby:It was just a cave.:ただの岩窟よ。}`
-`{ruby:I was one of the guards of that cave.":私は、その岩窟の番人だったのだ」}`
+`{ruby:I was one of:私は、その岩窟の番}{ruby:the guards of that cave.":人だったのだ」}`
 `{ruby:{a:c:1944.}:{a:c:１９４４年。}}`
-`{ruby:Due to the honorable defeats at Saipan and Guam, Japan's Absolute National Defense Zone strategy was in shambles.:サイパン、グアムの玉砕により、日本の絶対国防圏は破られた。}`
-`{ruby:Where had the gallantry of the start of the war gone?:開戦時の勇ましさはどこへやら。}`
-`{ruby:{n}The old attackers were now the ones on the defensive.:{n}戦局はすでに、守勢へ完全に変わっていた。}`
-`{ruby:At that time, it was said that the final trump cards for the Japanese military were the so‐called "special attack weapons".:当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。}`
-`{ruby:It was said that these ultimate weapons were packed with 1.55 tons of explosives...:これは１.５５トンもの炸薬を搭載した強力無比なものであり、}`
-`{ruby:and capable of sinking any kind of warship with a single blast.:その一撃は如何なる艦船でも葬り去ると言われた。}`
+`{ruby:Due to the honorable defeats at Saipan and Guam,:サイパン、グアムの玉砕により、日}{ruby:Japan's Absolute National Defense Zone strategy was in shambles.:本の絶対国防圏は破られた。}`
+`{ruby:Where had the gallantry of:開戦時の勇ましさは}{ruby:the start of the war gone?:どこへやら。}`
+`{ruby:{n}The old attackers were now:{n}戦局はすでに、守勢へ}{ruby:the ones on the defensive.:完全に変わっていた。}`
+`{ruby:At that time, it was said that the final trump:当時、日本海軍の最後の切り札と呼ばれ}{ruby:cards for the Japanese military were the so‐called "special attack weapons".:たのは、いわゆる特攻兵器だった。}`
+`{ruby:It was said that these ultimate weapons:これは１.５５トンもの炸薬を搭載}{ruby:were packed with 1.55 tons of explosives...:した強力無比なものであり、}`
+`{ruby:and capable of sinking any kind:その一撃は如何なる艦船でも}{ruby:of warship with a single blast.:葬り去ると言われた。}`
 `{ruby:To strengthen homeland defense,:海軍は、本土防衛のため、}`
-`{ruby:the Navy drafted a plan to build a string of hidden bases from Hachijojima to Yokosuka, all to house submarines loaded with special attack weapons.:八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。}`
-`{ruby:"I knew that there was a base constructed on Hachijojima.:「八丈島に基地が作られたことは知っていました。}`
-`{ruby:To think there was one on Rokkenjima too......":しかしそれが、六軒島にもあったなんて……」}`
-`{ruby:"Just what sort of fool decided it would be a good idea to plant a base on this desolate island, I have no idea.:「どこの間抜けがこんな何もない島に作ろうと言い出したやら。}`
-`{ruby:......To better preserve its secrecy?:……秘匿上の都合？}`
+`{ruby:the Navy drafted a plan to build a string of hidden bases:八丈島と横須賀を結ぶ線上に、特攻兵器搭載}{ruby:from Hachijojima to Yokosuka, all to house submarines loaded with special attack weapons.:潜水艦の秘密基地建造計画を立案する。}`
+`{ruby:"I knew that there was:「八丈島に基地が作られたこ}{ruby:a base constructed on Hachijojima.:とは知っていました。}`
+`{ruby:To think there was:しかしそれが、六軒島にも}{ruby:one on Rokkenjima too......":あったなんて……」}`
+`{ruby:"Just what sort of fool decided it would be a good idea:「どこの間抜けがこんな何もない島}{ruby:to plant a base on this desolate island, I have no idea.:に作ろうと言い出したやら。}`
+`{ruby:......To better:……秘匿上の}{ruby:preserve its secrecy?:都合？}`
 `{ruby:Hmph, ridiculous.:ふ、馬鹿馬鹿しい。}`
-`{ruby:......I could never understand what the higher‐ups were thinking, and I didn't particularly care.":……お上の考えることなどわからぬし、私にとってもどうでもいいことだった」}`
-`{ruby:These truly were ultimate weapons, able to take down large warships in a single strike.:大型艦船を一撃で葬れるそれはまさに、必殺の兵器。}`
-`{ruby:It was hoped that the presence of submarines capable of loading these weapons in the waters just off of Japan would allow for a powerful sea ambush as a final line of defense.:それを搭載する潜水艦は本土近海での最終決戦で、強力な海の伏兵となることが期待された。}`
-`{ruby:So, to aid in the establishment of a base with absolute secrecy, the uninhabited island Rokkenjima was raised as a possible candidate.:そのため、絶対秘匿の秘密基地とするため、無人島である六軒島が候補に上がった。}`
-`{ruby:An investigation of the island resulted in the discovery of a large cave in the cliffs,:調査の結果、岸壁に大きな洞窟が発見され、}`
-`{ruby:and this was apparently deemed to be a suitable location for a submarine base.:潜水艦基地に転用することが充分可能と判断されたらしい。}`
-`{ruby:"So, you were tasked with aiding in the establishment of that base?":「お前は、その基地の建設にかかわったわけか」}`
+`{ruby:......I could never understand what the higher‐ups:……お上の考えることなどわからぬし、私}{ruby:were thinking, and I didn't particularly care.":にとってもどうでもいいことだった」}`
+`{ruby:These truly were ultimate weapons, able to:大型艦船を一撃で葬れるそれ}{ruby:take down large warships in a single strike.:はまさに、必殺の兵器。}`
+`{ruby:It was hoped that the presence of submarines capable of loading these weapons in the waters:それを搭載する潜水艦は本土近海での最終決戦で}{ruby:just off of Japan would allow for a powerful sea ambush as a final line of defense.:、強力な海の伏兵となることが期待された。}`
+`{ruby:So, to aid in the establishment of a base with absolute:そのため、絶対秘匿の秘密基地とするため、}{ruby:secrecy, the uninhabited island Rokkenjima was raised as a possible candidate.:無人島である六軒島が候補に上がった。}`
+`{ruby:An investigation of the island resulted in the:調査の結果、岸壁に大き}{ruby:discovery of a large cave in the cliffs,:な洞窟が発見され、}`
+`{ruby:and this was apparently deemed to be:潜水艦基地に転用することが充分}{ruby:a suitable location for a submarine base.:可能と判断されたらしい。}`
+`{ruby:"So, you were tasked with aiding:「お前は、その基地の建設}{ruby:in the establishment of that base?":にかかわったわけか」}`
 `{ruby:"Establishment?:「建設？}`
-`{ruby:Certainly, if you can call digging out a cave "establishment".:ふっ、岩窟を掘り広げただけを、建設と呼ぶならな。}`
-`{ruby:Not only that, the base was abandoned before its completion.":しかもその上、基地は未完成のまま放置されたのだから」}`
+`{ruby:Certainly, if you can call:ふっ、岩窟を掘り広げただけを}{ruby:digging out a cave "establishment".:、建設と呼ぶならな。}`
+`{ruby:Not only that, the base:しかもその上、基地は未完成の}{ruby:was abandoned before its completion.":まま放置されたのだから」}`
 `{ruby:"Why?":「どうしてです？」}`
 `{ruby:"Wahahahahaha!:「わっははははっはっは！}`
-`{ruby:Because at that time, Japan no longer had any submarines large enough to carry one of those weapons.:当時の日本に、そいつを積めるほどの大型潜水艦はもう、残っていなかったのよ。}`
+`{ruby:Because at that time, Japan no longer had any:当時の日本に、そいつを積めるほどの大型潜}{ruby:submarines large enough to carry one of those weapons.:水艦はもう、残っていなかったのよ。}`
 `{ruby:How truly laughable.:滑稽な話だ。}`
-`{ruby:What's the point in having a submarine base if there aren't any submarines left?:潜水艦もないのに、潜水艦基地など今さら、必要なものか。}`
-`{ruby:If there's one thing that never changes, it's politicians and their meaningless projects.":役人の無意味な箱物作りは、今も昔も変わらぬわ」}`
-`{ruby:The base on Hachijojima was actually outfitted with those weapons and became a base for direct attacks,:八丈島の基地には、実際に配備され、直接出撃する基地となったが、}`
-`{ruby:but Rokkenjima was never supplied with any.:六軒島には配備されなかった。}`
-`{ruby:Not only that, they cancelled the construction work entirely,:それどころか、工事を中断し、}`
-`{ruby:leaving only a crew of minimal size stationed on the island, waiting for orders from above that never came.:最低限の人間を残したまま、上層部は六軒島には何の命令も出さない。}`
-`{ruby:Could it be the fact that it was a hidden base sealed our fate?:まさか、秘密基地であったことが災いしたとでもいうのか？}`
-`{ruby:The higher‐ups had already completely forgotten about this useless and pointless cavern.:何の役にも立たない無用の岩窟は、もはや上層部にも完全に忘れ去られていたのだ。}`
-`{ruby:We were nothing more than guards for a mere cave.:私たちはただ、岩窟の番人をするだけで、何も命じられることはなかった。}`
-`{ruby:We spent our days farming, fishing, and playing with the dirt,:上空を横断する米軍の編隊を眺めながら、}`
-`{ruby:all the while gazing up at the American formations flying past.:毎日、畑作と釣り、土いじりで過ごした。}`
-`{ruby:......Some of our group were relieved at the prospect of the war ending before anyone remembered we were here...:……ある者は、このまま自分たちは忘れ去られて、}`
-`{ruby:and before any of us had to face a real battle.:一度も実戦を経験することなく終戦を迎えられるだろうと安堵していた。}`
-`{ruby:Of course, it was the opposite for me.:無論、私は逆だった。}`
-`{ruby:I hoped beyond hope for the American troops to advance and kill me as soon as possible.:早く米軍が押し寄せてきて、私を殺してほしいと願っていた。}`
-`{ruby:And then, on one of those hollow days...:そんな、虚ろな日々のことだった。}`
+`{ruby:What's the point in having a submarine:潜水艦もないのに、潜水艦基地な}{ruby:base if there aren't any submarines left?:ど今さら、必要なものか。}`
+`{ruby:If there's one thing that never:役人の無意味な箱物作りは、}{ruby:changes, it's politicians and their meaningless projects.":今も昔も変わらぬわ」}`
+`{ruby:The base on Hachijojima was actually outfitted with:八丈島の基地には、実際に配備され、}{ruby:those weapons and became a base for direct attacks,:直接出撃する基地となったが、}`
+`{ruby:but Rokkenjima was:六軒島には配備さ}{ruby:never supplied with any.:れなかった。}`
+`{ruby:Not only that, they:それどころか、工}{ruby:cancelled the construction work entirely,:事を中断し、}`
+`{ruby:leaving only a crew of minimal size stationed on:最低限の人間を残したまま、上層部は}{ruby:the island, waiting for orders from above that never came.:六軒島には何の命令も出さない。}`
+`{ruby:Could it be the fact that it:まさか、秘密基地であったことが}{ruby:was a hidden base sealed our fate?:災いしたとでもいうのか？}`
+`{ruby:The higher‐ups had already completely forgotten:何の役にも立たない無用の岩窟は、もはや上}{ruby:about this useless and pointless cavern.:層部にも完全に忘れ去られていたのだ。}`
+`{ruby:We were nothing more than:私たちはただ、岩窟の番人をするだけで}{ruby:guards for a mere cave.:、何も命じられることはなかった。}`
+`{ruby:We spent our days farming,:上空を横断する米軍の編}{ruby:fishing, and playing with the dirt,:隊を眺めながら、}`
+`{ruby:all the while gazing up:毎日、畑作と釣り、土い}{ruby:at the American formations flying past.:じりで過ごした。}`
+`{ruby:......Some of our group were relieved at the prospect:……ある者は、このまま自分}{ruby:of the war ending before anyone remembered we were here...:たちは忘れ去られて、}`
+`{ruby:and before any of us:一度も実戦を経験することなく終戦を迎}{ruby:had to face a real battle.:えられるだろうと安堵していた。}`
+`{ruby:Of course, it was:無論、私は逆}{ruby:the opposite for me.:だった。}`
+`{ruby:I hoped beyond hope for the American troops:早く米軍が押し寄せてきて、私を}{ruby:to advance and kill me as soon as possible.:殺してほしいと願っていた。}`
+`{ruby:And then, on one:そんな、虚ろな日々}{ruby:of those hollow days...:のことだった。}`
 `{ruby:Let us go back there now.:今こそ回想しよう。}`
-`{ruby:......Back to the turning point in my life and my fate,:……あの、私の人生と運命の転機と、}`
-`{ruby:......when Ushiromiya Kinzo finally became alive......:……右代宮金蔵が真の意味で生を受ける、あの日々を……。}`
+`{ruby:......Back to the turning point:……あの、私の人生と}{ruby:in my life and my fate,:運命の転機と、}`
+`{ruby:......when Ushiromiya Kinzo:……右代宮金蔵が真の意味で生}{ruby:finally became alive......:を受ける、あの日々を……。}`

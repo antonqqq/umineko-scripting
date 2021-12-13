@@ -1,427 +1,427 @@
 `{ruby:"Rumor has it, Ange‐chan,:「噂じゃ、縁寿ちゃん。}`
-`{ruby:that you jumped off the top of a building?":あんた、ビルの天辺から飛び降りたんだって？」}`
-`{ruby:"The groupies were getting annoying, so I thought I'd give them the slip.":「追っ掛けがウザかったんで、ちょっと撒こうと思って」}`
-`{ruby:Ange and an old gentleman wearing an expensive suit were alone in a massive, modern conference room.:広大で近代的な会議室に、縁寿と、上等なスーツを着た老紳士が二人きりでいた。}`
-`{ruby:The conference room was equipped with all the latest equipment for presentations,:プレゼンテーション用のあらゆる最新機材が準備され、}`
-`{ruby:while keeping intact a refined and composed atmosphere;:それでいて上品で落ち着いた雰囲気を損なっていないその会議室は、}`
-`{ruby:that alone was enough to make abundantly clear the worth of the corporation that was its owner.:ただそれだけで、この会議室の主である企業の格を知らしめ威圧している。}`
-`{ruby:However, Ange couldn't have cared less.:もっとも、縁寿にはどうでもいいことだ。}`
-`{ruby:Looking aloof from the world, she sat slovenly in one of the high‐class chairs for executives with salaries probably north of twenty million yen.:何千万もの年収を取るだろう役員たちが座る高級椅子にぞんざいに座り、飄々とした様子だった。}`
-`{ruby:"And anyway, I knew they were remodeling on the lower floors and had a safety net, so.":「下の方の階で、改装工事してて転落防止ネットがあるの、知ってましたし」}`
-`{ruby:Ange dismissed it with an offhand comment, but in reality, it had been a {i:miracle} among miracles.:縁寿はあっけらかんとした様子でそう言い放つが、実際には奇跡中の“奇跡”だ。}`
-`{ruby:She had shot through several layers of safety netting for the remodeling project,:改装工事中の転落防止ネットを何層も突き抜け、}`
-`{ruby:been caught by a multi‐colored banner adorning the atrium, slid down and off it,:アトリウムの宙を飾っていた色とりどりの横断幕に受け止められては滑り落とされ、}`
-`{ruby:...been softly caught by a final banner, landed on the ground without a scratch,:…最後の横断幕１枚にふわりと受け止められて無傷で地上に降り立ち、}`
-`{ruby:and then left that place at a brisk walk... It put Hong Kong movies to shame.:すたすたとその場を後にしたなんて…、香港映画顔負けだ。}`
-`{ruby:"So you knew there was a net—it was still a 200‐meter‐tall skyscraper, y'know.:「いくらネットがあるの知ってた、たってぇ、高さ２００ｍの超高層だよ？}`
-`{ruby:If things hadn't gone according to plan, there'd be a real mess to deal with right now.":もしも思い通りにならなかったら、今頃、大変なことになってただろうよ」}`
-`{ruby:"......I figured that if I died, then that would be the end of that, more or less.:「……死んだら死んだで、それまでってことでもいいかなって思いまして。}`
-`{ruby:Well, let's just say, I was testing my luck a bit.:まぁその、ちょっとした運試しです。}`
-`{ruby:Put it down to the rashness of youth.":若気の至りってことで」}`
-`{ruby:Ange shrugged coldly, as though saying that she'd had enough of that topic.:縁寿は、その話はもういいとでも言うように、素っ気無く肩をすくめる。}`
-`{ruby:At this, the old gentleman, who was looking at the world below through the window, burst into laughter.:その様子に、眼下の下界を見下ろす老紳士はからからと笑った。}`
+`{ruby:that you jumped off:あんた、ビルの天辺から飛}{ruby:the top of a building?":び降りたんだって？」}`
+`{ruby:"The groupies were getting annoying, so:「追っ掛けがウザかったんで、}{ruby:I thought I'd give them the slip.":ちょっと撒こうと思って」}`
+`{ruby:Ange and an old gentleman wearing an expensive:広大で近代的な会議室に、縁寿と、上等なス}{ruby:suit were alone in a massive, modern conference room.:ーツを着た老紳士が二人きりでいた。}`
+`{ruby:The conference room was equipped with:プレゼンテーション用のあらゆ}{ruby:all the latest equipment for presentations,:る最新機材が準備され、}`
+`{ruby:while keeping intact a:それでいて上品で落ち着いた雰囲気を}{ruby:refined and composed atmosphere;:損なっていないその会議室は、}`
+`{ruby:that alone was enough to make abundantly clear:ただそれだけで、この会議室の主である}{ruby:the worth of the corporation that was its owner.:企業の格を知らしめ威圧している。}`
+`{ruby:However, Ange couldn't:もっとも、縁寿にはどう}{ruby:have cared less.:でもいいことだ。}`
+`{ruby:Looking aloof from the world, she sat slovenly in one of the:何千万もの年収を取るだろう役員たちが座る高級椅}{ruby:high‐class chairs for executives with salaries probably north of twenty million yen.:子にぞんざいに座り、飄々とした様子だった。}`
+`{ruby:"And anyway, I knew they were remodeling on:「下の方の階で、改装工事してて転落防止}{ruby:the lower floors and had a safety net, so.":ネットがあるの、知ってましたし」}`
+`{ruby:Ange dismissed it with an offhand comment, but:縁寿はあっけらかんとした様子でそう言い放}{ruby:in reality, it had been a {i:miracle} among miracles.:つが、実際には奇跡中の“奇跡”だ。}`
+`{ruby:She had shot through several layers:改装工事中の転落防止ネッ}{ruby:of safety netting for the remodeling project,:トを何層も突き抜け、}`
+`{ruby:been caught by a multi‐colored banner adorning:アトリウムの宙を飾っていた色とりどりの横}{ruby:the atrium, slid down and off it,:断幕に受け止められては滑り落とされ、}`
+`{ruby:...been softly caught by a final banner,:…最後の横断幕１枚にふわりと受け止}{ruby:landed on the ground without a scratch,:められて無傷で地上に降り立ち、}`
+`{ruby:and then left that place at a brisk:すたすたとその場を後にしたなん}{ruby:walk... It put Hong Kong movies to shame.:て…、香港映画顔負けだ。}`
+`{ruby:"So you knew there was a:「いくらネットがあるの知ってた、たっ}{ruby:net—it was still a 200‐meter‐tall skyscraper, y'know.:てぇ、高さ２００ｍの超高層だよ？}`
+`{ruby:If things hadn't gone according to plan, there'd:もしも思い通りにならなかったら、今頃、}{ruby:be a real mess to deal with right now.":大変なことになってただろうよ」}`
+`{ruby:"......I figured that if I died, then that:「……死んだら死んだで、それまでって}{ruby:would be the end of that, more or less.:ことでもいいかなって思いまして。}`
+`{ruby:Well, let's just say, I:まぁその、ちょっとし}{ruby:was testing my luck a bit.:た運試しです。}`
+`{ruby:Put it down to:若気の至りって}{ruby:the rashness of youth.":ことで」}`
+`{ruby:Ange shrugged coldly, as though saying:縁寿は、その話はもういいとでも言うよ}{ruby:that she'd had enough of that topic.:うに、素っ気無く肩をすくめる。}`
+`{ruby:At this, the old gentleman, who was looking at:その様子に、眼下の下界を見下ろす}{ruby:the world below through the window, burst into laughter.:老紳士はからからと笑った。}`
 `{ruby:"So you were testing your luck...!:「運試しと来たか…！}`
-`{ruby:My, my, you truly are Kinzo‐san's grandchild.:いやはや、やっぱり金蔵さんのお孫さんだねぇ。}`
-`{ruby:The nerve to entrust yourself to chance, to put your life in the hands of the gods and think nothing of it.:運否天賦。天の流れに命を預けてもけろりとしてる、その度胸。}`
-`{ruby:...The Chairman was also a person who could stake her life on a bet like it was nothing—wonder if this is all part of the Ushiromiya blood.":…会長も博打に平気で命を賭けられる人だったが、これも右代宮の血なのかねぇ」}`
-`{ruby:"......You really are going to be something big in the future.:「……やっぱりあんた、将来大物になるよ。}`
+`{ruby:My, my, you:いやはや、やっぱり金蔵さん}{ruby:truly are Kinzo‐san's grandchild.:のお孫さんだねぇ。}`
+`{ruby:The nerve to entrust yourself to chance, to put your life:運否天賦。天の流れに命を預けても}{ruby:in the hands of the gods and think nothing of it.:けろりとしてる、その度胸。}`
+`{ruby:...The Chairman was also a person who could stake her life on a:…会長も博打に平気で命を賭けられる人だっ}{ruby:bet like it was nothing—wonder if this is all part of the Ushiromiya blood.":たが、これも右代宮の血なのかねぇ」}`
+`{ruby:"......You really are going to:「……やっぱりあんた、}{ruby:be something big in the future.:将来大物になるよ。}`
 `{ruby:Take my advice.:悪いことは言わない。}`
-`{ruby:Why not put this running away from home act behind you and return to the Sumadera family?":家出ごっこはこの辺で切り上げて、須磨寺の家に戻ったらどうだい」}`
-`{ruby:"I heard that Mom had a bad relationship with her family.:「お母さん、実家と仲が悪かったって聞いてます。}`
-`{ruby:I don't want to go to the house of people I first met at a funeral.":お葬式で初対面の人の家になんて、行きたくないです」}`
-`{ruby:The Sumadera ({p:0:須磨寺}) family is my mom's family.:須磨寺家は母の実家だ。}`
-`{ruby:It's a bit of an old family from Kyoto, and unbelievably strict in a way you could never have imagined from the frank way Mom acted.:京都のちょっとした旧家で、お母さんのフランクな様子からは想像もつかないくらいに厳格な一族だ。}`
-`{ruby:The only person in the Sumadera family I had been on good terms with was Grandpa, who was living separately under the guise of retirement.:私が唯一、須磨寺家で仲が良かったのは、隠居という名の別居をしているお祖父ちゃんだけだった。}`
-`{ruby:Mom, too, kept up contact only with Grandpa,:母も、お祖父ちゃんとだけは交流を持っていたが、}`
-`{ruby:and had nothing to do with the rest of the family at all, nor they with her, to an ugly degree.:他の親族には険悪なまでに一切、関わり合わなかった。}`
-`{ruby:Even for me, Grandpa's house was the only part of the Sumadera family I ever went to visit.:私も、須磨寺家で遊びに行ったのはお祖父ちゃんの家だけだ。}`
-`{ruby:Being young, I hadn't really understood it at the time,:幼い私は、当時はよくわからなかったが、}`
-`{ruby:but I hear that Grandpa, as a man who married into his wife's family, was in an extremely weak position, and his relationship with Grandma was also bad.:お祖父ちゃんは入り婿で立場も非常に弱く、お祖母ちゃんとの仲も悪かったという。}`
-`{ruby:...In fact, maybe you could even have said that he was hated by Grandma, and confined to the house.:…むしろ、お祖母ちゃんに嫌われ、蟄居させられていたとすら、言い切れたかもしれない。}`
-`{ruby:It isn't hard to imagine that because she had a soft spot for Grandpa alone,:そんなお祖父ちゃんにだけ心を許していたということは、}`
-`{ruby:Mom was probably also hated by the Sumadera family.:恐らく、母も、須磨寺家には嫌われていただろうことは、想像に難くない。}`
-`{ruby:As her daughter, I was probably also hated quite a bit.:その娘である私も、さぞや嫌われていたことだろう。}`
-`{ruby:And yet, they had appeared for the first time at my parents' funeral,:にもかかわらず、お母さんたちのお葬式の時に初めて現れて、}`
-`{ruby:shamelessly going on about how I'd grown, like they could actually act like family after all this time...:大きくなったわね、何てしゃあしゃあとのたまって、よくも今さら親族面が出来るものだ…。}`
-`{ruby:After Aunt Eva died, all the wealth of the Ushiromiya family was inherited by me.:絵羽伯母さんが死んだ後、右代宮家の全ての財産は私が相続している。}`
-`{ruby:If they weren't after that, there's no way they'd have been able to say such disgusting words.:それが目当てでなかったら、あんな虫唾が走るような言葉を口になんか出来るものか。}`
-`{ruby:"......Well, look, you're all alone now, it's not like I don't get why you'd just quit caring.":「……まぁ、ひとりぼっちになっちまって、自暴自棄になりたい縁寿ちゃんの気持ちも、わからなくもないなぁ」}`
+`{ruby:Why not put this running away from home:家出ごっこはこの辺で切り上げて、須}{ruby:act behind you and return to the Sumadera family?":磨寺の家に戻ったらどうだい」}`
+`{ruby:"I heard that Mom had:「お母さん、実家と仲が悪か}{ruby:a bad relationship with her family.:ったって聞いてます。}`
+`{ruby:I don't want to go to the house:お葬式で初対面の人の家になん}{ruby:of people I first met at a funeral.":て、行きたくないです」}`
+`{ruby:The Sumadera ({p:0:須磨寺}) family:須磨寺家は母の}{ruby:is my mom's family.:実家だ。}`
+`{ruby:It's a bit of an old family from Kyoto, and unbelievably strict in:京都のちょっとした旧家で、お母さんのフランクな様}{ruby:a way you could never have imagined from the frank way Mom acted.:子からは想像もつかないくらいに厳格な一族だ。}`
+`{ruby:The only person in the Sumadera family I had been on good:私が唯一、須磨寺家で仲が良かったのは、隠居という}{ruby:terms with was Grandpa, who was living separately under the guise of retirement.:名の別居をしているお祖父ちゃんだけだった。}`
+`{ruby:Mom, too, kept up:母も、お祖父ちゃんとだけは}{ruby:contact only with Grandpa,:交流を持っていたが、}`
+`{ruby:and had nothing to do with the rest of the:他の親族には険悪なまでに一切}{ruby:family at all, nor they with her, to an ugly degree.:、関わり合わなかった。}`
+`{ruby:Even for me, Grandpa's house was the only part:私も、須磨寺家で遊びに行ったの}{ruby:of the Sumadera family I ever went to visit.:はお祖父ちゃんの家だけだ。}`
+`{ruby:Being young, I hadn't really:幼い私は、当時はよくわ}{ruby:understood it at the time,:からなかったが、}`
+`{ruby:but I hear that Grandpa, as a man who married into his wife's family,:お祖父ちゃんは入り婿で立場も非常に弱く、}{ruby:was in an extremely weak position, and his relationship with Grandma was also bad.:お祖母ちゃんとの仲も悪かったという。}`
+`{ruby:...In fact, maybe you could even have said that:…むしろ、お祖母ちゃんに嫌われ、蟄居させられ}{ruby:he was hated by Grandma, and confined to the house.:ていたとすら、言い切れたかもしれない。}`
+`{ruby:It isn't hard to imagine that because:そんなお祖父ちゃんにだけ心を}{ruby:she had a soft spot for Grandpa alone,:許していたということは、}`
+`{ruby:Mom was probably also:恐らく、母も、須磨寺家には嫌われてい}{ruby:hated by the Sumadera family.:ただろうことは、想像に難くない。}`
+`{ruby:As her daughter, I was:その娘である私も、さぞや嫌}{ruby:probably also hated quite a bit.:われていたことだろう。}`
+`{ruby:And yet, they had appeared for:にもかかわらず、お母さんたちの}{ruby:the first time at my parents' funeral,:お葬式の時に初めて現れて、}`
+`{ruby:shamelessly going on about how I'd grown, like they:大きくなったわね、何てしゃあしゃあとのたまっ}{ruby:could actually act like family after all this time...:て、よくも今さら親族面が出来るものだ…。}`
+`{ruby:After Aunt Eva died, all the wealth:絵羽伯母さんが死んだ後、右代宮家の}{ruby:of the Ushiromiya family was inherited by me.:全ての財産は私が相続している。}`
+`{ruby:If they weren't after that, there's no way:それが目当てでなかったら、あんな虫唾が走る}{ruby:they'd have been able to say such disgusting words.:ような言葉を口になんか出来るものか。}`
+`{ruby:"......Well, look, you're all alone now, it's not:「……まぁ、ひとりぼっちになっちまって、自暴自棄になり}{ruby:like I don't get why you'd just quit caring.":たい縁寿ちゃんの気持ちも、わからなくもないなぁ」}`
 `{ruby:"It's not not caring.:「自暴自棄とかじゃないです。}`
-`{ruby:Annoying Aunt Eva has kicked the bucket at last, and I'm finally stretching my legs and taking a relaxing stroll, that's all.:小うるさい絵羽伯母さんもやっとくたばったんで、久し振りに伸び伸びと散歩してるだけじゃないですか。}`
-`{ruby:......Everyone else is just making too big a deal out of it.":……周りが大袈裟に騒ぎ過ぎなだけです」}`
-`{ruby:They're all just after the vast Ushiromiya wealth I'm shouldered with, anyway.:どうせみんなの目当ては、私が背負ってる莫大な右代宮家の財産なのだ。}`
-`{ruby:They must think if they become my guardians, they'll be able to do whatever they please with that wealth.:私の後見人になれば、財産を自由に出来ると思ってるに違いない。}`
-`{ruby:Just how many people have tried to act like a substitute parent and get close to me?:私の親代わりになろうと言って近付いてくる連中がどれだけ大勢いることか。}`
-`{ruby:"Ange‐chan, you know, if life's treating you rough, you can come talk to me anytime if you want some advice.:「縁寿ちゃんも、辛いことがあったら、俺で良かったらいつでも相談してな？}`
-`{ruby:I think of you as my true grandchild.":縁寿ちゃんのこと、実の孫みたいに思ってるんだからさ」}`
+`{ruby:Annoying Aunt Eva has kicked the bucket at last, and I'm:小うるさい絵羽伯母さんもやっとくたばったんで、久し}{ruby:finally stretching my legs and taking a relaxing stroll, that's all.:振りに伸び伸びと散歩してるだけじゃないですか。}`
+`{ruby:......Everyone else is just making too:……周りが大袈裟に騒ぎ}{ruby:big a deal out of it.":過ぎなだけです」}`
+`{ruby:They're all just after the vast:どうせみんなの目当ては、私が背負って}{ruby:Ushiromiya wealth I'm shouldered with, anyway.:る莫大な右代宮家の財産なのだ。}`
+`{ruby:They must think if they become my guardians, they'll:私の後見人になれば、財産を自由に}{ruby:be able to do whatever they please with that wealth.:出来ると思ってるに違いない。}`
+`{ruby:Just how many people have tried to act:私の親代わりになろうと言って近付いてく}{ruby:like a substitute parent and get close to me?:る連中がどれだけ大勢いることか。}`
+`{ruby:"Ange‐chan, you know, if life's treating you rough, you can:「縁寿ちゃんも、辛いことがあったら、俺}{ruby:come talk to me anytime if you want some advice.:で良かったらいつでも相談してな？}`
+`{ruby:I think of you:縁寿ちゃんのこと、実の孫みたい}{ruby:as my true grandchild.":に思ってるんだからさ」}`
 `{ruby:"...........................haah.:「………………………はぁ。}`
-`{ruby:...Let's make that a no‐thank‐you for now.:…当面はノーサンキューということで。}`
-`{ruby:...More importantly, let's get back on topic.":…それより、話を戻して下さい」}`
+`{ruby:...Let's make that:…当面はノーサンキュ}{ruby:a no‐thank‐you for now.:ーということで。}`
+`{ruby:...More importantly, let's:…それより、話を戻}{ruby:get back on topic.":して下さい」}`
 `{ruby:"Ange‐chan.:「縁寿ちゃん。}`
-`{ruby:Ask me as much as you want, but I'm hiding nothing.:何度聞かれたって、俺が隠してることは何もないよ。}`
-`{ruby:The Chairman was the only one to survive Rokkenjima that day.:あの日の六軒島の唯一の生き残りが会長なんだ。}`
-`{ruby:And she gave up the ghost without saying a thing.":その会長が、何も語らずに逝っちまった」}`
+`{ruby:Ask me as much as:何度聞かれたって、俺が隠し}{ruby:you want, but I'm hiding nothing.:てることは何もないよ。}`
+`{ruby:The Chairman was the only:あの日の六軒島の唯一の生}{ruby:one to survive Rokkenjima that day.:き残りが会長なんだ。}`
+`{ruby:And she gave up the:その会長が、何も語らず}{ruby:ghost without saying a thing.":に逝っちまった」}`
 `{ruby:"I myself understand nothing.:「俺だって何もわからないよ。}`
 `{ruby:We're all in the dark, as they say.":全ては闇の中、だ」}`
-`{ruby:The old gentleman was one of a number of corporate heavyweights who, after Eva had passed away, had been entrusted with the business group she had built up.:老紳士は、絵羽亡き後、彼女が築き上げた企業グループを任された重鎮の一人だった。}`
-`{ruby:The one he referred to as "the Chairman", technically the former chairwoman, was Ushiromiya Eva.:彼が会長と呼ぶのは、前会長、右代宮絵羽のことだ。}`
-`{ruby:His company had once had a friendly relationship with Hideyoshi's company,:彼の会社はかつて、秀吉の会社と友好的な関係にあり、}`
-`{ruby:and he had been a close friend of both Hideyoshi and Eva.:秀吉や絵羽とも親密な交流があった。}`
-`{ruby:For that reason, after Eva lost Hideyoshi, he had become the only person to whom she could reveal her true thoughts.:その為、秀吉を失った後の絵羽が、唯一本音を漏らせる人物だったともされる。}`
-`{ruby:When Eva's heart had been torn by the loss of her family, and she had taken it out on Ange,:家族を失った絵羽が心を病み、縁寿に辛く当たるようになると、}`
-`{ruby:he had also acted as a buffer between the two, so although Ange didn't trust him, she too found him an easy person to pay a visit...:彼はその間の緩衝材的な役割も担ってくれたため、心が許せるほどではないが、縁寿にとっても訪ねやすい人物だった…。}`
+`{ruby:The old gentleman was one of a number of corporate heavyweights who, after Eva:老紳士は、絵羽亡き後、彼女が築き上げた企業}{ruby:had passed away, had been entrusted with the business group she had built up.:グループを任された重鎮の一人だった。}`
+`{ruby:The one he referred to as "the:彼が会長と呼ぶのは、前会長}{ruby:Chairman", technically the former chairwoman, was Ushiromiya Eva.:、右代宮絵羽のことだ。}`
+`{ruby:His company had once had:彼の会社はかつて、秀吉の会社}{ruby:a friendly relationship with Hideyoshi's company,:と友好的な関係にあり、}`
+`{ruby:and he had been a close:秀吉や絵羽とも親密な}{ruby:friend of both Hideyoshi and Eva.:交流があった。}`
+`{ruby:For that reason, after Eva lost Hideyoshi, he had become:その為、秀吉を失った後の絵羽が、唯一本}{ruby:the only person to whom she could reveal her true thoughts.:音を漏らせる人物だったともされる。}`
+`{ruby:When Eva's heart had been torn by the loss of:家族を失った絵羽が心を病み、縁寿}{ruby:her family, and she had taken it out on Ange,:に辛く当たるようになると、}`
+`{ruby:he had also acted as a buffer between the two, so although Ange:彼はその間の緩衝材的な役割も担ってくれたため、心が許せるほ}{ruby:didn't trust him, she too found him an easy person to pay a visit...:どではないが、縁寿にとっても訪ねやすい人物だった…。}`
 `{ruby:"That crime,:「あの事件は、}`
 `{ruby:...no, accident, I guess.:…いや、事故か。}`
-`{ruby:If I call it a crime, I'll get in trouble.:事件なんて言っちまったら怒られちまうなぁ。}`
-`{ruby:...Sure, I had my questions, just like the rest of the public and the talk shows.":…そりゃ俺も世間やワイドショーと同じ程度の疑問は持ったさ」}`
-`{ruby:"......At the time of the accident, why was Aunt Eva in a place two kilometers away from the mansion, all alone?:「……どうして絵羽伯母さんは事故当時、屋敷から２ｋｍも離れたところに、たったひとりで？}`
+`{ruby:If I call it a:事件なんて言っちまったら}{ruby:crime, I'll get in trouble.:怒られちまうなぁ。}`
+`{ruby:...Sure, I had my questions, just like the:…そりゃ俺も世間やワイドショーと}{ruby:rest of the public and the talk shows.":同じ程度の疑問は持ったさ」}`
+`{ruby:"......At the time of the accident, why was Aunt Eva:「……どうして絵羽伯母さんは事故当時、屋敷から}{ruby:in a place two kilometers away from the mansion, all alone?:２ｋｍも離れたところに、たったひとりで？}`
 `{ruby:And on the night of a storm.":それも嵐の晩に」}`
-`{ruby:"At the time, Kinzo‐san was unsure as to who he would choose to be the next successor.:「当時、金蔵さんは次の跡継ぎに誰を選ぶかで迷われていた。}`
-`{ruby:......Publicly it was to be the eldest son, Krauss‐san, but he wasn't well trusted by Kinzo‐san.":……表向きは長男の蔵臼さんってことになってたんだが、蔵臼さんはあまり信頼されていなかったんだ」}`
-`{ruby:"......So, to fairly determine a successor from among the four siblings, he made this game‐like test called the riddle of the epitaph...?":「……それで、親兄弟４人の中から公平に跡継ぎを決めるため、碑文の謎というゲーム染みた試練を課した…？」}`
+`{ruby:"At the time, Kinzo‐san was unsure as to:「当時、金蔵さんは次の跡継ぎに}{ruby:who he would choose to be the next successor.:誰を選ぶかで迷われていた。}`
+`{ruby:......Publicly it was to be the eldest son,:……表向きは長男の蔵臼さんってことになってたんだが}{ruby:Krauss‐san, but he wasn't well trusted by Kinzo‐san.":、蔵臼さんはあまり信頼されていなかったんだ」}`
+`{ruby:"......So, to fairly determine a successor from among the four siblings,:「……それで、親兄弟４人の中から公平に跡継ぎを決めるた}{ruby:he made this game‐like test called the riddle of the epitaph...?":め、碑文の謎というゲーム染みた試練を課した…？」}`
 `{ruby:"Only officially speaking.:「それは表向きだなぁ。}`
-`{ruby:......Kinzo‐san probably planned to make Eva‐san the successor to the head from the beginning.":……恐らく金蔵さんは、初めから絵羽さんを当主跡継ぎにするつもりだったんだ」}`
-`{ruby:"He wanted to leave the family to Eva‐san, who unlike Krauss‐san was extremely diligent and brilliant, even at the cost of taking back his own rule that the eldest son would be the successor.":「長男が跡継ぎだという自らのルールを撤回してでも、蔵臼さんと違い、非常に勤勉で優秀だった絵羽さんに家を任せたかったんだ」}`
-`{ruby:"...The new rule about giving the family headship to the one who solved the epitaph...:「…碑文の謎を解いた者に家督を引き継ぐなどという新ルールは、}`
-`{ruby:was probably nothing more than a farce so that he could snatch the position of successor away from Krauss‐san.":蔵臼さんから次期当主の肩書きを奪うためだけの茶番だったんだろうな」}`
+`{ruby:......Kinzo‐san probably planned to make Eva‐san the:……恐らく金蔵さんは、初めから絵羽さんを}{ruby:successor to the head from the beginning.":当主跡継ぎにするつもりだったんだ」}`
+`{ruby:"He wanted to leave the family to Eva‐san, who unlike Krauss‐san was extremely diligent and brilliant, even:「長男が跡継ぎだという自らのルールを撤回してでも、蔵臼さんと違}{ruby:at the cost of taking back his own rule that the eldest son would be the successor.":い、非常に勤勉で優秀だった絵羽さんに家を任せたかったんだ」}`
+`{ruby:"...The new rule about giving the family:「…碑文の謎を解いた者に家督を引}{ruby:headship to the one who solved the epitaph...:き継ぐなどという新ルールは、}`
+`{ruby:was probably nothing more than a farce so that:蔵臼さんから次期当主の肩書きを奪うた}{ruby:he could snatch the position of successor away from Krauss‐san.":めだけの茶番だったんだろうな」}`
 `{ruby:"What do you mean by...farce?":「茶番って、どういう意味ですか？」}`
-`{ruby:"There was no need for anyone to solve that epitaph.:「あの碑文は誰にも解ける必要はなかったのさ。}`
-`{ruby:Once it had been displayed for an appropriate amount of time, Kinzo‐san would just call Eva‐san, who he truly wanted to succeed him,:適当に掲示期間を経た後、本当に金蔵さんが跡を継がせたかった絵羽さんを呼び出し、}`
+`{ruby:"There was no need for:「あの碑文は誰にも解ける}{ruby:anyone to solve that epitaph.:必要はなかったのさ。}`
+`{ruby:Once it had been displayed for an appropriate amount of time,:適当に掲示期間を経た後、本当に金蔵さんが跡}{ruby:Kinzo‐san would just call Eva‐san, who he truly wanted to succeed him,:を継がせたかった絵羽さんを呼び出し、}`
 `{ruby:{i:and give her the answer}.:{i:その答えを与える}だけでいい。}`
-`{ruby:In other words, that itself was the proof of the succession to the headship.":つまり、それこそが当主継承の証ってわけさ」}`
-`{ruby:"..................There hasn't been any mention of this on the talk shows, has there?":「………………それはワイドショーでは言われていない話ですね？」}`
-`{ruby:"Well, that's because if you start going on about the succession of the head, it's gonna strengthen the murder theory.:「まぁ、当主継承が云々なんて話をしたら、余計、陰謀説が優勢になっちゃうからねぇ。}`
+`{ruby:In other words, that itself was the:つまり、それこそが当主継}{ruby:proof of the succession to the headship.":承の証ってわけさ」}`
+`{ruby:"..................There hasn't been any mention of:「………………それはワイドショーで}{ruby:this on the talk shows, has there?":は言われていない話ですね？」}`
+`{ruby:"Well, that's because if you start going on about the:「まぁ、当主継承が云々なんて話をしたら、余}{ruby:succession of the head, it's gonna strengthen the murder theory.:計、陰謀説が優勢になっちゃうからねぇ。}`
 `{ruby:I'm no fool myself.:俺も馬鹿じゃないからさ。}`
-`{ruby:I'm not gonna go out of my way to say things that could invite misunderstandings.":誤解を招くようなことはわざわざ口にしないよ？」}`
+`{ruby:I'm not gonna go out of my:誤解を招くようなことはわざ}{ruby:way to say things that could invite misunderstandings.":わざ口にしないよ？」}`
 `{ruby:The way he told it went like this::彼の話はこうだった。}`
-`{ruby:At the time, the head of the Ushiromiya family, Kinzo, diagnosed with little time left to live, was troubled over the problem of who was to succeed him.:当時の右代宮家では、余命わずかと宣告された当主の金蔵が、跡継ぎ問題に頭を悩ませていた。}`
-`{ruby:Normally, the successor would be fixed as the oldest son, Krauss, as laid out by Kinzo himself.:本来なら跡継ぎは、自らが定めた長男の蔵臼に決まる。}`
-`{ruby:...But in his later years, Kinzo began to think that Eva was more fitting to be head.:…しかし、晩年の金蔵は、絵羽の方が当主に相応しいと思い始めていたというのだ。}`
-`{ruby:However, Kinzo, stubborn even to himself and obstructed by the title of successor that he had given to Krauss,:しかし自らにも頑固な金蔵は、自ら蔵臼に与えた次期当主という肩書きが邪魔で、}`
-`{ruby:searched for an {i:official stance} by which he could skip over Krauss and select Eva as his successor.:蔵臼を飛び越えて絵羽を次期当主に選ぶことの出来る{i:建前}を探していた。}`
-`{ruby:That official stance was the riddle of the epitaph.:その建前が、碑文の謎。}`
-`{ruby:The primary successor was still Krauss,:本来の当主跡継ぎは蔵臼だが、}`
-`{ruby:but there was a new rule, saying that if someone appeared who could solve the riddle, they would be chosen as the successor to the head.:もしもその謎を解く者が現れたなら、そちらを当主跡継ぎに選ぶという新たなルール。}`
-`{ruby:And on the day of what would probably be his final family conference, Kinzo had told Eva the answer to that riddle himself.:そして金蔵は、恐らく自分にとって最後になるであろう親族会議の日に、その謎を自ら絵羽に伝えた。}`
-`{ruby:......In short, it was the same as proclaiming that Eva was the successor.:……それはつまり、絵羽こそが次期当主であるという宣言にも等しいわけだ。}`
-`{ruby:"On that day, Eva‐san was summoned by Kinzo‐san, and that was revealed to her.:「絵羽さんは、あの日、金蔵さんに呼ばれ、それを打ち明けられたんだ。}`
-`{ruby:And so that she could succeed the head, he called Eva‐san to the hidden mansion Kuwadorian, known only to the head.":そして、当主を引き継ぐため、当主だけが知る隠し館である九羽鳥庵に絵羽さんを呼びつけたのだ」}`
-`{ruby:".........And the claim is that she escaped harm in that accident because she was waiting at the hidden mansion just beforehand?:「………で、一足早くその隠し館で待っていた絵羽伯母さんは、そのお陰で事故の難を逃れた、と？}`
-`{ruby:Maybe Aunt Eva just killed everyone and made it {i:look} like an accident so that she could steal all of the wealth,:絵羽伯母さんが、全ての財産を奪うために、事故を装ってみんなを殺し、}`
-`{ruby:and {i:that's} why she's the only one who escaped unharmed.":自分だけ難を逃れただけかもしれない」}`
-`{ruby:"Well, that's what the papers are shouting about.:「大衆紙はそう騒いでるなぁ。}`
+`{ruby:At the time, the head of the Ushiromiya family, Kinzo, diagnosed with little time:当時の右代宮家では、余命わずかと宣告された当主}{ruby:left to live, was troubled over the problem of who was to succeed him.:の金蔵が、跡継ぎ問題に頭を悩ませていた。}`
+`{ruby:Normally, the successor would be fixed as the:本来なら跡継ぎは、自らが定め}{ruby:oldest son, Krauss, as laid out by Kinzo himself.:た長男の蔵臼に決まる。}`
+`{ruby:...But in his later years, Kinzo began to:…しかし、晩年の金蔵は、絵羽の方が当主に}{ruby:think that Eva was more fitting to be head.:相応しいと思い始めていたというのだ。}`
+`{ruby:However, Kinzo, stubborn even to himself and obstructed by:しかし自らにも頑固な金蔵は、自ら蔵臼に与}{ruby:the title of successor that he had given to Krauss,:えた次期当主という肩書きが邪魔で、}`
+`{ruby:searched for an {i:official stance} by which he could:蔵臼を飛び越えて絵羽を次期当主に選ぶこと}{ruby:skip over Krauss and select Eva as his successor.:の出来る{i:建前}を探していた。}`
+`{ruby:That official stance was:その建前が、碑}{ruby:the riddle of the epitaph.:文の謎。}`
+`{ruby:The primary successor:本来の当主跡継ぎ}{ruby:was still Krauss,:は蔵臼だが、}`
+`{ruby:but there was a new rule, saying that if someone appeared who could:もしもその謎を解く者が現れたなら、そちらを}{ruby:solve the riddle, they would be chosen as the successor to the head.:当主跡継ぎに選ぶという新たなルール。}`
+`{ruby:And on the day of what would probably be his final:そして金蔵は、恐らく自分にとって最後になるであろ}{ruby:family conference, Kinzo had told Eva the answer to that riddle himself.:う親族会議の日に、その謎を自ら絵羽に伝えた。}`
+`{ruby:......In short, it was the same:……それはつまり、絵羽こそが次期当主で}{ruby:as proclaiming that Eva was the successor.:あるという宣言にも等しいわけだ。}`
+`{ruby:"On that day, Eva‐san was summoned by:「絵羽さんは、あの日、金蔵さんに呼ば}{ruby:Kinzo‐san, and that was revealed to her.:れ、それを打ち明けられたんだ。}`
+`{ruby:And so that she could succeed the head, he called:そして、当主を引き継ぐため、当主だけが知る隠し館}{ruby:Eva‐san to the hidden mansion Kuwadorian, known only to the head.":である九羽鳥庵に絵羽さんを呼びつけたのだ」}`
+`{ruby:".........And the claim is that she escaped harm in that:「………で、一足早くその隠し館で待っていた絵羽伯}{ruby:accident because she was waiting at the hidden mansion just beforehand?:母さんは、そのお陰で事故の難を逃れた、と？}`
+`{ruby:Maybe Aunt Eva just killed everyone and made it {i:look} like:絵羽伯母さんが、全ての財産を奪うため}{ruby:an accident so that she could steal all of the wealth,:に、事故を装ってみんなを殺し、}`
+`{ruby:and {i:that's} why she's the:自分だけ難を逃れただ}{ruby:only one who escaped unharmed.":けかもしれない」}`
+`{ruby:"Well, that's what the:「大衆紙はそう騒}{ruby:papers are shouting about.:いでるなぁ。}`
 `{ruby:However, I believe Eva‐san.:だが、俺は絵羽さんを信じてるよ。}`
-`{ruby:......I think there are several points that make her worthy of trust.":……信ずるに足るポイントが、いくつかあると思ってる」}`
+`{ruby:......I think there are several points:……信ずるに足るポイントが、}{ruby:that make her worthy of trust.":いくつかあると思ってる」}`
 `{ruby:"For example...?":「例えば…？」}`
-`{ruby:"That ring of the Ushiromiya family head, which is on your finger as we speak.:「今、縁寿ちゃんが指に通してるその、右代宮家当主の指輪だよ。}`
-`{ruby:That ring is the only one of its kind in the world, which Kinzo‐san had specially made.:その指輪は金蔵さんが特別に作らせた世界に１つしかない指輪だ。}`
-`{ruby:And even the artisan who made it acknowledges that the object on your finger is, without a doubt, that ring.":そして、今、縁寿ちゃんが指にしているものは、間違いなくそれだと、作った細工師も認めてる」}`
+`{ruby:"That ring of the Ushiromiya family head,:「今、縁寿ちゃんが指に通してるそ}{ruby:which is on your finger as we speak.:の、右代宮家当主の指輪だよ。}`
+`{ruby:That ring is the only one of its:その指輪は金蔵さんが特別に作らせ}{ruby:kind in the world, which Kinzo‐san had specially made.:た世界に１つしかない指輪だ。}`
+`{ruby:And even the artisan who made it acknowledges that the:そして、今、縁寿ちゃんが指にしているものは、間}{ruby:object on your finger is, without a doubt, that ring.":違いなくそれだと、作った細工師も認めてる」}`
 `{ruby:The Ushiromiya family...Head's Ring.:右代宮家、当主の指輪。}`
-`{ruby:That ring, with the heft of gold and the one‐winged crest on it,:黄金の重みがあり、片翼の紋章の入ったその指輪には、}`
-`{ruby:had diamonds adorning the pedestal, and possessed both stateliness and a sense of gaudy extravagance.:台座の部分にダイヤがあしらわれ、重厚感と金持ち的な悪趣味さを兼ね備えている。}`
-`{ruby:Kinzo had worn that on his finger, never removing it even for a moment.:それは、金蔵が一時も外すことなく指にはめていたものだ。}`
-`{ruby:The fact that Eva had it was apparently proof that Kinzo had acknowledged her as the successor to the head.:それを絵羽が持つということは、金蔵が当主跡継ぎと認めた証に他ならない、というのだ。}`
-`{ruby:"Because Eva‐san did indeed have that ring,:「その指輪を確かに絵羽さんが持つからこそ。}`
-`{ruby:and, if you take into consideration that Eva‐san was indeed more capable, and that Krauss‐san was known to have made a fool of himself numerous times in the business setting,:そして、実際に絵羽さんが優秀で、蔵臼さんにはビジネスシーンでの数々の醜態が知られていたことを加味すると、}`
-`{ruby:I cannot imagine that Eva‐san's story is completely made up.":絵羽さんの話はまったくの作り話とは思えないんだ」}`
-`{ruby:"............Although there's also the possibility that she murdered Grandfather in order to steal that ring.:「…………その指輪を奪うために、お祖父さまを殺害した可能性だってあるけれど。}`
-`{ruby:And then, using some kind of trick, she massacred everyone and made it look like an accident.":そして絵羽伯母さんは、何らかの細工をして、事故に見せ掛けて一族を皆殺しにした」}`
+`{ruby:That ring, with the heft of:黄金の重みがあり、片翼の紋章}{ruby:gold and the one‐winged crest on it,:の入ったその指輪には、}`
+`{ruby:had diamonds adorning the pedestal, and possessed:台座の部分にダイヤがあしらわれ、重厚感と}{ruby:both stateliness and a sense of gaudy extravagance.:金持ち的な悪趣味さを兼ね備えている。}`
+`{ruby:Kinzo had worn that on his finger,:それは、金蔵が一時も外すことな}{ruby:never removing it even for a moment.:く指にはめていたものだ。}`
+`{ruby:The fact that Eva had it was apparently proof that:それを絵羽が持つということは、金蔵が当主跡継}{ruby:Kinzo had acknowledged her as the successor to the head.:ぎと認めた証に他ならない、というのだ。}`
+`{ruby:"Because Eva‐san did:「その指輪を確かに絵羽さ}{ruby:indeed have that ring,:んが持つからこそ。}`
+`{ruby:and, if you take into consideration that Eva‐san was indeed more capable, and that Krauss‐san:そして、実際に絵羽さんが優秀で、蔵臼さんにはビジネスシ}{ruby:was known to have made a fool of himself numerous times in the business setting,:ーンでの数々の醜態が知られていたことを加味すると、}`
+`{ruby:I cannot imagine that Eva‐san's:絵羽さんの話はまったくの作}{ruby:story is completely made up.":り話とは思えないんだ」}`
+`{ruby:"............Although there's also the possibility that she:「…………その指輪を奪うために、お祖父さ}{ruby:murdered Grandfather in order to steal that ring.:まを殺害した可能性だってあるけれど。}`
+`{ruby:And then, using some kind of trick, she:そして絵羽伯母さんは、何らかの細工をして、}{ruby:massacred everyone and made it look like an accident.":事故に見せ掛けて一族を皆殺しにした」}`
 `{ruby:"Ah, yes.:「そうだなぁ。}`
-`{ruby:It seems the papers are accusing her of massacring her entire family with the aim of keeping all the wealth to herself.":大衆紙は財産の独り占めが目当てで一族を皆殺しにした、なんて言ってるようだなぁ」}`
-`{ruby:"It is true that Eva‐san was the kind of person to take drastic action when it came to the crunch.:「確かに、絵羽さんはここ一番ではずいぶん思い切ったこともしちゃう人だよ。}`
-`{ruby:It could be possible......that she committed the only murders she planned on committing in her life to grab this chance to make the Ushiromiya wealth all her own.:あるいは、……右代宮家の財産を独り占めできるチャンスに、生涯でただ一度の殺人を犯したかもしれない。}`
-`{ruby:............But you know, I don't think that's true.":…………だがね、俺はそうは思わない」}`
-`{ruby:"What's the second point making her worthy of that trust?":「そう信ずるに足るポイントの２つ目は？」}`
+`{ruby:It seems the papers are accusing her of massacring her entire:大衆紙は財産の独り占めが目当てで一族を皆殺}{ruby:family with the aim of keeping all the wealth to herself.":しにした、なんて言ってるようだなぁ」}`
+`{ruby:"It is true that Eva‐san was the kind of person:「確かに、絵羽さんはここ一番ではずいぶ}{ruby:to take drastic action when it came to the crunch.:ん思い切ったこともしちゃう人だよ。}`
+`{ruby:It could be possible......that she committed the only murders she planned on committing in:あるいは、……右代宮家の財産を独り占めできるチャンス}{ruby:her life to grab this chance to make the Ushiromiya wealth all her own.:に、生涯でただ一度の殺人を犯したかもしれない。}`
+`{ruby:............But you know, I:…………だがね、俺は}{ruby:don't think that's true.":そうは思わない」}`
+`{ruby:"What's the second point making:「そう信ずるに足るポイ}{ruby:her worthy of that trust?":ントの２つ目は？」}`
 `{ruby:"Eva‐san's family.:「絵羽さんのご家族だよ。}`
 `{ruby:Hideyoshi‐san and George‐kun.:秀吉さんに譲治くん。}`
-`{ruby:......You might find this difficult to believe, Ange‐chan, but Eva‐san was a person who treasured her family greatly.":……縁寿ちゃんはにわかには信じ難いだろうけど、絵羽さんはあれでかなり家族を大事にする人だったんだ」}`
-`{ruby:......He was right; I found it very hard to believe that, or admit it.:……確かににわかには信じたくないし、認めたくはない。}`
+`{ruby:......You might find this difficult to believe, Ange‐chan, but:……縁寿ちゃんはにわかには信じ難いだろうけど、絵羽さ}{ruby:Eva‐san was a person who treasured her family greatly.":んはあれでかなり家族を大事にする人だったんだ」}`
+`{ruby:......He was right; I found it very:……確かににわかには信じたく}{ruby:hard to believe that, or admit it.:ないし、認めたくはない。}`
 `{ruby:{n}But deep inside I knew.:{n}でも、薄々はわかっている。}`
-`{ruby:Aunt Eva really had been a person who treasured her family greatly.:確かに絵羽伯母さんは、家族をとても大切にしている人だった。}`
-`{ruby:The root of her twisted personality had been nothing more than the sadness of losing her beloved husband and son.:彼女の歪んだ人格の根底にあるのは、最愛の夫と息子を失った悲しみがあるだけなのだ。}`
-`{ruby:Having been used as an outlet for all that emotion, I had no feelings of sympathy for her at all,:それを紛らわせるために八つ当たりされてきた私には、まったく同情する気持ちはないが、}`
-`{ruby:......but even so, it's not like I couldn't imagine that losing her entire family had dealt her an incredible shock sufficient to transform her personality.:……それでも、彼女の人格を変容させるほどのショックを、家族全滅が与えたことは想像できなくもない。}`
-`{ruby:"......You're saying that there's no way Aunt Eva, who loved her family, would have abandoned her husband and her son?":「……家族を愛した絵羽伯母さんが、夫と息子を見捨てるわけがないと？」}`
+`{ruby:Aunt Eva really had been a:確かに絵羽伯母さんは、家族をとて}{ruby:person who treasured her family greatly.:も大切にしている人だった。}`
+`{ruby:The root of her twisted personality had been nothing more:彼女の歪んだ人格の根底にあるのは、最愛の夫}{ruby:than the sadness of losing her beloved husband and son.:と息子を失った悲しみがあるだけなのだ。}`
+`{ruby:Having been used as an outlet for all that emotion,:それを紛らわせるために八つ当たりされてきた私}{ruby:I had no feelings of sympathy for her at all,:には、まったく同情する気持ちはないが、}`
+`{ruby:......but even so, it's not like I couldn't imagine that losing her:……それでも、彼女の人格を変容させるほどのショック}{ruby:entire family had dealt her an incredible shock sufficient to transform her personality.:を、家族全滅が与えたことは想像できなくもない。}`
+`{ruby:"......You're saying that there's no way Aunt Eva, who loved:「……家族を愛した絵羽伯母さんが、夫}{ruby:her family, would have abandoned her husband and her son?":と息子を見捨てるわけがないと？」}`
 `{ruby:"That's right.:「そうだ。}`
-`{ruby:If Eva‐san really had been the culprit and massacred her entire family, making it look like an accident,:もし本当に絵羽さんが犯人で、一族を事故に見せ掛けて皆殺しにしたならば。}`
-`{ruby:......her husband and her son would definitely be alive right now.":……夫と息子が、絶対に生き残ってるはずなんだ」}`
-`{ruby:"She'd have tried to wriggle out of it by saying her family was the only one in the hidden mansion by coincidence.:「偶然、自分の家族だけが隠し館にいたと、屁理屈をこねてね。}`
-`{ruby:If Hideyoshi‐san and George‐kun had both been alright, even I would have probably suspected Eva‐san.":もし、秀吉さんと譲治くんも無事だったなら、さすがの俺でも、絵羽さんの陰謀を疑ったろうよ」}`
-`{ruby:"......It's impossible for me to believe that all that wailing Eva‐san did at Hideyoshi‐san's funeral was an act.":「……俺は、秀吉さんの葬儀で見せた、絵羽さんのあの号泣を演技だなんて到底思えんねぇ」}`
-`{ruby:".........Both of those are circumstantial evidence.:「………どっちも状況証拠的ですね。}`
-`{ruby:That isn't the same as physically showing Aunt Eva's innocence.":絵羽伯母さんの潔白を、物理的に示すには至らない」}`
+`{ruby:If Eva‐san really had been the culprit and massacred:もし本当に絵羽さんが犯人で、一族を事故}{ruby:her entire family, making it look like an accident,:に見せ掛けて皆殺しにしたならば。}`
+`{ruby:......her husband and her son:……夫と息子が、絶対に生き}{ruby:would definitely be alive right now.":残ってるはずなんだ」}`
+`{ruby:"She'd have tried to wriggle out of it by saying her:「偶然、自分の家族だけが隠し館に}{ruby:family was the only one in the hidden mansion by coincidence.:いたと、屁理屈をこねてね。}`
+`{ruby:If Hideyoshi‐san and George‐kun had both been:もし、秀吉さんと譲治くんも無事だったなら、さす}{ruby:alright, even I would have probably suspected Eva‐san.":がの俺でも、絵羽さんの陰謀を疑ったろうよ」}`
+`{ruby:"......It's impossible for me to believe that all that:「……俺は、秀吉さんの葬儀で見せた、絵羽さん}{ruby:wailing Eva‐san did at Hideyoshi‐san's funeral was an act.":のあの号泣を演技だなんて到底思えんねぇ」}`
+`{ruby:".........Both of those:「………どっちも状況}{ruby:are circumstantial evidence.:証拠的ですね。}`
+`{ruby:That isn't the same as:絵羽伯母さんの潔白を、物理}{ruby:physically showing Aunt Eva's innocence.":的に示すには至らない」}`
 `{ruby:"Hahahaha.:「はっはっはっは。}`
 `{ruby:That's just unconstructive.:それを言っちゃおしまいだよ。}`
 `{ruby:Eva‐san was the only one left alive.:生き残ったのは絵羽さんのみ。}`
 `{ruby:And she says that is the truth.":その彼女がそれが真実だ、と言うんだからさ」}`
 `{ruby:"But no one can prove her innocence.":「でも、彼女の潔白は誰にも証明できない」}`
 `{ruby:"Yes, that's right.:「あぁ、そうさ。}`
-`{ruby:And no one can prove that she committed a crime, either.":そして彼女の犯行も、誰にも証明できない」}`
+`{ruby:And no one can prove:そして彼女の犯行も、誰}{ruby:that she committed a crime, either.":にも証明できない」}`
 `{ruby:"..............................":「…………………………」}`
-`{ruby:"And the final point making her worthy of trust—is the police.:「そして信ずるべきポイントの最後が、警察だ。}`
-`{ruby:After all, it was one hell of an incident.:何しろ、派手な事件だったからね。}`
-`{ruby:Pushed forward by a public in an uproar over the murder theory, the police must have investigated her thoroughly.":陰謀説を騒ぐ世論に後押しされて、警察がずいぶんと絵羽さんを調べたはずさ」}`
-`{ruby:It's easy to feel something unnatural about the claim that Eva had escaped the accident by coincidence,:絵羽だけが隠し館に逃れていたために、偶然、事故を逃れた、}`
-`{ruby:because she and she alone had escaped to a hidden mansion.:とする点に不自然さを感じることも出来るだろう。}`
-`{ruby:Furthermore, at the time, Hideyoshi's company had been right in the middle of a takeover struggle, and had wanted a large sum of cash in order to buy off the big stockholders.:また、当時、秀吉の会社は乗っ取り騒ぎの真っ最中にあり、大株主の買収のために、多額の現金を欲しがっていた。}`
-`{ruby:It shouldn't be too hard to find a motive there.:その点に動機を見出すことも、難しくはないはずだ。}`
-`{ruby:But as a matter of fact, en route to the family conference, Eva's person had been perfectly clean.:しかし、親族会議に向かう絵羽の身辺は、まったくにもって普通だった。}`
-`{ruby:Nothing unnatural was found on her that could have been used to brutally murder her family and make it look like an accident.:一族を事故に見せ掛けて虐殺するような、あらゆる不自然な準備が見つけられなかったのだ。}`
-`{ruby:The servants who escaped harm by being off‐duty on that day also stated that they hadn't seen anything strange regarding anyone related to the event, Eva included.:当日は非番で難を逃れた使用人たちも、彼女を含め、全ての関係者について不自然な様子が見られなかったと証言した。}`
+`{ruby:"And the final point making:「そして信ずるべきポイン}{ruby:her worthy of trust—is the police.:トの最後が、警察だ。}`
+`{ruby:After all, it was:何しろ、派手な事件}{ruby:one hell of an incident.:だったからね。}`
+`{ruby:Pushed forward by a public in an uproar over:陰謀説を騒ぐ世論に後押しされて、警察が}{ruby:the murder theory, the police must have investigated her thoroughly.":ずいぶんと絵羽さんを調べたはずさ」}`
+`{ruby:It's easy to feel something unnatural about the:絵羽だけが隠し館に逃れていたた}{ruby:claim that Eva had escaped the accident by coincidence,:めに、偶然、事故を逃れた、}`
+`{ruby:because she and she alone:とする点に不自然さを感じる}{ruby:had escaped to a hidden mansion.:ことも出来るだろう。}`
+`{ruby:Furthermore, at the time, Hideyoshi's company had been right in the middle of a takeover struggle,:また、当時、秀吉の会社は乗っ取り騒ぎの真っ最中にあり、}{ruby:and had wanted a large sum of cash in order to buy off the big stockholders.:大株主の買収のために、多額の現金を欲しがっていた。}`
+`{ruby:It shouldn't be too hard:その点に動機を見出すことも}{ruby:to find a motive there.:、難しくはないはずだ。}`
+`{ruby:But as a matter of fact, en route to:しかし、親族会議に向かう絵羽の身辺は}{ruby:the family conference, Eva's person had been perfectly clean.:、まったくにもって普通だった。}`
+`{ruby:Nothing unnatural was found on her that could have been used:一族を事故に見せ掛けて虐殺するような、あらゆ}{ruby:to brutally murder her family and make it look like an accident.:る不自然な準備が見つけられなかったのだ。}`
+`{ruby:The servants who escaped harm by being off‐duty on that day also stated:当日は非番で難を逃れた使用人たちも、彼女を含め、全ての関}{ruby:that they hadn't seen anything strange regarding anyone related to the event, Eva included.:係者について不自然な様子が見られなかったと証言した。}`
 `{ruby:Putting all of that together,:それらを総合的に判断する限り、}`
-`{ruby:it could only be concluded that Ushiromiya Eva had headed to Rokkenjima for a normal family conference, no different from usual,:右代宮絵羽は普段の親族会議と何ら変わることなく、六軒島に向かい、}`
-`{ruby:and became involved in an accident...:事故に遭遇したと結論するしかないのだ…。}`
-`{ruby:"The police placed her under all that scrutiny, and they still couldn't find evidence that it was a crime.:「警察が、あれだけ散々調べて、事件性を見出すことが出来なかった。}`
-`{ruby:......That was the police's conclusion.:……警察がそう断じた。}`
-`{ruby:Doesn't that put an end to Rokkenjimagate?":それで六軒島疑惑は決着じゃないのかなぁ」}`
-`{ruby:"......That just means that the police:「……それは単に、警察は事件性を}`
-`{ruby:{i:couldn't find} the evidence of her crimes, doesn't it?":{i:発見できなかった}、ってだけの話じゃないんですか？」}`
-`{ruby:"Oh, come on, you could go on forever that way.:「それを言い出したらキリがないなぁ。}`
+`{ruby:it could only be concluded that Ushiromiya Eva had headed:右代宮絵羽は普段の親族会議と何ら変}{ruby:to Rokkenjima for a normal family conference, no different from usual,:わることなく、六軒島に向かい、}`
+`{ruby:and became involved:事故に遭遇したと結論す}{ruby:in an accident...:るしかないのだ…。}`
+`{ruby:"The police placed her under all that scrutiny, and:「警察が、あれだけ散々調べて、事件}{ruby:they still couldn't find evidence that it was a crime.:性を見出すことが出来なかった。}`
+`{ruby:......That was:……警察がそう}{ruby:the police's conclusion.:断じた。}`
+`{ruby:Doesn't that put:それで六軒島疑惑は決着}{ruby:an end to Rokkenjimagate?":じゃないのかなぁ」}`
+`{ruby:"......That just means:「……それは単に、}{ruby:that the police:警察は事件性を}`
+`{ruby:{i:couldn't find} the evidence:{i:発見できなかった}、ってだ}{ruby:of her crimes, doesn't it?":けの話じゃないんですか？」}`
+`{ruby:"Oh, come on, you could:「それを言い出したら}{ruby:go on forever that way.:キリがないなぁ。}`
 `{ruby:It becomes a Devil's Proof.:悪魔の証明になっちまうよ。}`
-`{ruby:To expose a crime, you just need to find the evidence.:犯罪を暴くには証拠を見つければいい。}`
-`{ruby:But what can you find to show someone's innocence?:でも、無実を示すには何を見つけりゃいいんだい？}`
-`{ruby:It's impossible to prove a negative fact.":消極的事実の証明は不可能だ」}`
-`{ruby:"......Did Aunt Eva commit a crime, or did she not...:「……絵羽伯母さんが、犯罪を犯したか、否か。}`
-`{ruby:Because we can't find the data to decide that, the truth will remain a mystery, in other words.":それを判断する材料が見付からないから、そのまま真相は迷宮入り、ということですね」}`
+`{ruby:To expose a crime, you:犯罪を暴くには証拠を}{ruby:just need to find the evidence.:見つければいい。}`
+`{ruby:But what can you:でも、無実を示すには何を見}{ruby:find to show someone's innocence?:つけりゃいいんだい？}`
+`{ruby:It's impossible to:消極的事実の証明は}{ruby:prove a negative fact.":不可能だ」}`
+`{ruby:"......Did Aunt Eva commit a:「……絵羽伯母さんが、犯}{ruby:crime, or did she not...:罪を犯したか、否か。}`
+`{ruby:Because we can't find the data to decide that,:それを判断する材料が見付からないから、その}{ruby:the truth will remain a mystery, in other words.":まま真相は迷宮入り、ということですね」}`
 `{ruby:".........Well,:「………そうだな。}`
-`{ruby:to put it in the words you're hoping for, that's how it is.:縁寿ちゃんの期待する言い方にするとそうなるな。}`
-`{ruby:Even Eva‐san couldn't conclusively prove her own innocence.":絵羽さん自身にだって、自分の無実は証明不能なのさ」}`
-`{ruby:"An unfortunate accident occurred on that island.:「あの島で不幸な事故があった。}`
+`{ruby:to put it in the words:縁寿ちゃんの期待する言い方}{ruby:you're hoping for, that's how it is.:にするとそうなるな。}`
+`{ruby:Even Eva‐san couldn't conclusively:絵羽さん自身にだって、自分の}{ruby:prove her own innocence.":無実は証明不能なのさ」}`
+`{ruby:"An unfortunate accident:「あの島で不幸な事}{ruby:occurred on that island.:故があった。}`
 `{ruby:And Eva‐san survived by chance.:そしてたまたま絵羽さんが生き残った。}`
 `{ruby:And that's literally all we know!":しかもそれ以上のことは何もわからない！」}`
-`{ruby:"In short, as Eva‐san is the only survivor, it all comes down to whether you can believe her story or not.":「つまるところ、唯一の生存者である、絵羽さんの話を、信じられるか否か、ってことになるわけさ」}`
+`{ruby:"In short, as Eva‐san is the only survivor, it all:「つまるところ、唯一の生存者である、絵羽さんの話}{ruby:comes down to whether you can believe her story or not.":を、信じられるか否か、ってことになるわけさ」}`
 `{ruby:"......I believed.:「……俺は信じたよ。}`
-`{ruby:What she told me about the ring, and her admirable love for her family.:指輪の話や、彼女の尊敬できる家族愛。}`
-`{ruby:And the tears she showed at the funeral.:そして葬儀で見せた涙。}`
-`{ruby:Taking all of that into consideration, I decided I would believe her story.":それらを加味して考えて、彼女の話を信じようと思ったんだ」}`
+`{ruby:What she told me about the ring,:指輪の話や、彼女の尊}{ruby:and her admirable love for her family.:敬できる家族愛。}`
+`{ruby:And the tears she:そして葬儀で見}{ruby:showed at the funeral.:せた涙。}`
+`{ruby:Taking all of that into consideration,:それらを加味して考えて、彼女の}{ruby:I decided I would believe her story.":話を信じようと思ったんだ」}`
 `{ruby:"......But I don't believe it.:「……でも、私は信じない。}`
-`{ruby:If she wanted to steal the ring, there were probably many ways for her to do so, and no one knows whether her relationship with her family really was good.:指輪なんて奪う気なら方法はいくらでもあるだろうし、家族仲が本当に良かったかなんて誰にもわからない。}`
-`{ruby:It's impossible to prove that the tears at the funeral were the real thing.":葬儀の涙が本物かなんて証明不能」}`
-`{ruby:"......Anyway, in the first place, I {i:hate} Aunt Eva.:「……というか、私はそもそも絵羽伯母さんなんて大嫌い。}`
-`{ruby:So that doesn't exactly inspire me to believe her story.":だから私は彼女の話を信じようなんて思わない」}`
+`{ruby:If she wanted to steal the ring, there were probably many ways for her to:指輪なんて奪う気なら方法はいくらでもあるだろうし、家}{ruby:do so, and no one knows whether her relationship with her family really was good.:族仲が本当に良かったかなんて誰にもわからない。}`
+`{ruby:It's impossible to prove that the tears:葬儀の涙が本物かな}{ruby:at the funeral were the real thing.":んて証明不能」}`
+`{ruby:"......Anyway, in the first:「……というか、私はそもそも絵}{ruby:place, I {i:hate} Aunt Eva.:羽伯母さんなんて大嫌い。}`
+`{ruby:So that doesn't exactly inspire:だから私は彼女の話を信じ}{ruby:me to believe her story.":ようなんて思わない」}`
 `{ruby:"Hahahaha...:「はっはっはっは…。}`
-`{ruby:How does one view the truth of the incident?:事件の真相をどう見るか。}`
-`{ruby:You and I are at loggerheads on the issue.:俺と縁寿ちゃんで真っ向から対立しちまったなぁ。}`
-`{ruby:Even though the information we're given is exactly the same, we develop completely different opinions.":俺たちに与えられてる情報はまったく同じなのに、まったく異なる見解を持っちまう」}`
-`{ruby:".........This kind of thing happens all the time in politics and economics.:「………こういうこと、政治や経済でもよくあるんだ。}`
-`{ruby:No matter the enterprise, it will always result in a division of opinions.:同じ事業をやっても、必ず評価は分かれちまう。}`
+`{ruby:How does one view:事件の真相をど}{ruby:the truth of the incident?:う見るか。}`
+`{ruby:You and I are:俺と縁寿ちゃんで真っ向から}{ruby:at loggerheads on the issue.:対立しちまったなぁ。}`
+`{ruby:Even though the information we're given is:俺たちに与えられてる情報はまったく同じなの}{ruby:exactly the same, we develop completely different opinions.":に、まったく異なる見解を持っちまう」}`
+`{ruby:".........This kind of thing happens all:「………こういうこと、政治や}{ruby:the time in politics and economics.:経済でもよくあるんだ。}`
+`{ruby:No matter the enterprise, it will:同じ事業をやっても、必ず}{ruby:always result in a division of opinions.:評価は分かれちまう。}`
 `{ruby:Do you know why?":どうしてかわかるかい？」}`
 `{ruby:".........No?":「………いいえ？」}`
 `{ruby:"It's about whether you have love.:「愛があるかどうか、さ。}`
-`{ruby:......Depending on whether you feel love for the other side, the way you see things is completely different.":……相手に愛を感じてるかどうかで、ものの見え方はまったく違うってことなんだ」}`
-`{ruby:"If a person you like gives to the poor, you can respect them, right?:「好きな人が貧しい人に施しをすれば、尊敬できるだろ？}`
-`{ruby:But if someone you hate starts donating, you fiercely protest that it's a publicity stunt or they're handing out favors.":でも嫌いなヤツが施しなんて始めたら、売名行為だとかバラ撒き行政だとか、非難轟々さ」}`
-`{ruby:"No matter what they do or don't do, you thank them if you have love and criticize them if you don't.:「何をしてもしなくても、愛があれば感謝し、愛がなければ非難する。}`
+`{ruby:......Depending on whether you feel love for the other:……相手に愛を感じてるかどうかで、ものの}{ruby:side, the way you see things is completely different.":見え方はまったく違うってことなんだ」}`
+`{ruby:"If a person you like gives to:「好きな人が貧しい人に施しを}{ruby:the poor, you can respect them, right?:すれば、尊敬できるだろ？}`
+`{ruby:But if someone you hate starts donating, you fiercely protest:でも嫌いなヤツが施しなんて始めたら、売名行為}{ruby:that it's a publicity stunt or they're handing out favors.":だとかバラ撒き行政だとか、非難轟々さ」}`
+`{ruby:"No matter what they do or don't do, you thank:「何をしてもしなくても、愛があれば}{ruby:them if you have love and criticize them if you don't.:感謝し、愛がなければ非難する。}`
 `{ruby:That's how the world works.":それが世の中ってもんなんだ」}`
 `{ruby:"Can you believe Aunt Eva or not...:「絵羽伯母さんのことを、信じられるか信じられないか、}`
-`{ruby:......You're saying that's the only difference?":……それだけの違いってことですか？」}`
-`{ruby:"Those who suspect her will probably take anything she does or doesn't do and view it as truly unnatural.:「彼女を疑う人間には、彼女が何をしてもしなくても、それは実に不自然に見えるだろうさ。}`
+`{ruby:......You're saying that's:……それだけの違いっ}{ruby:the only difference?":てことですか？」}`
+`{ruby:"Those who suspect her will probably take anything she:「彼女を疑う人間には、彼女が何をしてもしなく}{ruby:does or doesn't do and view it as truly unnatural.:ても、それは実に不自然に見えるだろうさ。}`
 `{ruby:And it works in reverse.:逆も然り。}`
 `{ruby:......As for me,:……俺はね。}`
-`{ruby:I think that perhaps, except in extreme cases, truth in this world doesn't exist.":世の中には真実なんてものは、よっぽどのことがない限り、存在しないんじゃないかと思うね」}`
+`{ruby:I think that perhaps, except in extreme:世の中には真実なんてものは、よっぽどのことがな}{ruby:cases, truth in this world doesn't exist.":い限り、存在しないんじゃないかと思うね」}`
 `{ruby:"No, even {i:if}...:「いや、仮にもし。}`
-`{ruby:even if truth {i:does} exist, whether you believe it or not is determined by whether or not you have love.":真実が存在したとしても、それを信じるか信じないかは、愛があるか否かで決められちまう」}`
-`{ruby:"......Can you really call truth "truth" if it isn't absolute?:「……絶対性の宿らない真実なんて、真実と呼べるのかい？}`
-`{ruby:Even if Eva‐san had been able to demonstrate a physical alibi, would you have been able to believe it?":絵羽さんが物理的なアリバイを示したとしても、君はそれを信じられたかい？」}`
+`{ruby:even if truth {i:does} exist, whether you believe it or:真実が存在したとしても、それを信じるか信じな}{ruby:not is determined by whether or not you have love.":いかは、愛があるか否かで決められちまう」}`
+`{ruby:"......Can you really call truth:「……絶対性の宿らない真実なん}{ruby:"truth" if it isn't absolute?:て、真実と呼べるのかい？}`
+`{ruby:Even if Eva‐san had been able to demonstrate a:絵羽さんが物理的なアリバイを示したとして}{ruby:physical alibi, would you have been able to believe it?":も、君はそれを信じられたかい？」}`
 `{ruby:"...........................":「………………………」}`
 `{ruby:He has a point.:それを言われると弱い。}`
-`{ruby:...I hate Aunt Eva, so I'll probably deny all information beneficial to her,:…私は絵羽伯母さんが大嫌いだから、彼女に利するあらゆる情報は否定するし、}`
-`{ruby:and maliciously interpret all neutral information.:中立的なあらゆる情報は悪意を以って解釈するだろう。}`
-`{ruby:......In other words, inside myself, the truth is already decided.:……つまり、私の中で、もう真実は決め付けられているのだ。}`
-`{ruby:And yet I'm still unsatisfied, still searching for the "truth"—so what exactly is this "truth" I'm searching for...?:にもかかわらず、なおも満たされずに探す“真実”とは一体、何物なのか…。}`
+`{ruby:...I hate Aunt Eva, so I'll:…私は絵羽伯母さんが大嫌いだから、彼女}{ruby:probably deny all information beneficial to her,:に利するあらゆる情報は否定するし、}`
+`{ruby:and maliciously interpret:中立的なあらゆる情報は悪意を}{ruby:all neutral information.:以って解釈するだろう。}`
+`{ruby:......In other words, inside myself,:……つまり、私の中で、もう真実}{ruby:the truth is already decided.:は決め付けられているのだ。}`
+`{ruby:And yet I'm still unsatisfied, still searching for the:にもかかわらず、なおも満たされずに探す}{ruby:"truth"—so what exactly is this "truth" I'm searching for...?:“真実”とは一体、何物なのか…。}`
 `{ruby:"That's how it is.:「そういうことさ。}`
-`{ruby:So no matter what you hear from me, as long as you still suspect Eva‐san,:つまり、俺から何を聞こうとも、縁寿ちゃんが絵羽さんを未だ疑っている以上、}`
-`{ruby:it won't change anything for you, not after all this time.":何を聞いても今さら何も変わらないってことなのさ」}`
-`{ruby:"Even if you got your hands on a piece of hitherto unknown information, I still don't think you'd be able to reach the truth, not the way you are now, at least.":「少なくとも、今の縁寿ちゃんじゃ、仮に未知の新事実を掴んだとしても、真相に至ることは出来んと思うねぇ」}`
+`{ruby:So no matter what you hear from:つまり、俺から何を聞こうとも、縁寿ちゃ}{ruby:me, as long as you still suspect Eva‐san,:んが絵羽さんを未だ疑っている以上、}`
+`{ruby:it won't change anything for:何を聞いても今さら何も変わ}{ruby:you, not after all this time.":らないってことなのさ」}`
+`{ruby:"Even if you got your hands on a piece of hitherto unknown information, I still don't:「少なくとも、今の縁寿ちゃんじゃ、仮に未知の新事実を掴}{ruby:think you'd be able to reach the truth, not the way you are now, at least.":んだとしても、真相に至ることは出来んと思うねぇ」}`
 `{ruby:".........So I'm incapable...:「………私では真相に、}`
 `{ruby:of reaching the truth?":…至れませんか」}`
 `{ruby:"Well, yeah.:「だって。}`
-`{ruby:No matter what kind of new information or proof you find, Ange‐chan, you aren't gonna change your stance that Eva‐san is the culprit, right?":縁寿ちゃんは、どんな新情報や新証拠が見付かったって、絵羽さんが犯人だってスタンスは変えないんだろ？」}`
-`{ruby:"Then it doesn't matter what else you look into, it isn't gonna mean anything, is it?:「なら、これ以上、何を調べたって意味はないじゃないか。}`
-`{ruby:{i:The truth inside of you is already decided}.":{i:君の中の真相はすでに決まっている}わけさ」}`
+`{ruby:No matter what kind of new information or proof you find, Ange‐chan,:縁寿ちゃんは、どんな新情報や新証拠が見付かったって、}{ruby:you aren't gonna change your stance that Eva‐san is the culprit, right?":絵羽さんが犯人だってスタンスは変えないんだろ？」}`
+`{ruby:"Then it doesn't matter what else you look:「なら、これ以上、何を調べたっ}{ruby:into, it isn't gonna mean anything, is it?:て意味はないじゃないか。}`
+`{ruby:{i:The truth inside of:{i:君の中の真相はすでに}{ruby:you is already decided}.":決まっている}わけさ」}`
 `{ruby:"...........................":「………………………」}`
 `{ruby:"But if...:「だが、もし。}`
-`{ruby:if you don't think of that as truth, and earnestly desire to arrive at the deeper, real truth, there is a single way.":縁寿ちゃんがそれを真相と思わずに、さらに奥深くの本当の真相に辿り着きたいと願うなら、一個だけ方法があるよ」}`
-`{ruby:"I believe I already mentioned that once, though.:「もう話したつもりなんだけどな。}`
+`{ruby:if you don't think of that as truth, and earnestly desire:縁寿ちゃんがそれを真相と思わずに、さらに奥深くの本当の真}{ruby:to arrive at the deeper, real truth, there is a single way.":相に辿り着きたいと願うなら、一個だけ方法があるよ」}`
+`{ruby:"I believe I already:「もう話したつもり}{ruby:mentioned that once, though.:なんだけどな。}`
 `{ruby:Know what it is?":何だかわかるかい」}`
 `{ruby:"......You mean...love?:「……愛、ですか？}`
-`{ruby:I don't really know what you mean by that.":よく意味がわからないです」}`
-`{ruby:"Right now, you are thinking about this while supposing that Eva‐san is the culprit.:「縁寿ちゃんは今、絵羽さんを犯人だと仮定し、物を考えている。}`
-`{ruby:But that is like looking at things with one eye.":でも、それじゃ片目で物を見てるようなものなんだ」}`
-`{ruby:"With one eye, no matter how much you squint, you can't see an object in three dimensions, right?:「片目じゃ、どんなに目を凝らしても物を立体的に見ることは出来ないだろ？}`
+`{ruby:I don't really know:よく意味がわから}{ruby:what you mean by that.":ないです」}`
+`{ruby:"Right now, you are thinking about this:「縁寿ちゃんは今、絵羽さんを犯人}{ruby:while supposing that Eva‐san is the culprit.:だと仮定し、物を考えている。}`
+`{ruby:But that is like looking:でも、それじゃ片目で物を見}{ruby:at things with one eye.":てるようなものなんだ」}`
+`{ruby:"With one eye, no matter how much you squint,:「片目じゃ、どんなに目を凝らしても物を}{ruby:you can't see an object in three dimensions, right?:立体的に見ることは出来ないだろ？}`
 `{ruby:That's why you need another eye.:だから、もうひとつ目がいるんだ。}`
-`{ruby:Of course, in a different position from the eye you have right now.":もちろん、今の目とは別の立場での」}`
-`{ruby:"............You're telling me to look at things based on the supposition that Aunt Eva isn't the culprit,:「…………絵羽伯母さんが、犯人ではない、}`
-`{ruby:...or else, that it actually was a real accident...?":…あるいは、本当に事故であるという仮定にも基づいて、物事を見ろと…？」}`
+`{ruby:Of course, in a different position:もちろん、今の目とは}{ruby:from the eye you have right now.":別の立場での」}`
+`{ruby:"............You're telling me to look at things based:「…………絵羽伯母さん}{ruby:on the supposition that Aunt Eva isn't the culprit,:が、犯人ではない、}`
+`{ruby:...or else, that it:…あるいは、本当に事故であるという仮定}{ruby:actually was a real accident...?":にも基づいて、物事を見ろと…？」}`
 `{ruby:"Yes, yes, exactly.:「そうそう、その通り。}`
-`{ruby:When you think about something, try to look at it from different perspectives.:物事を考える時には、異なる立ち位置から見るようにするんだ。}`
-`{ruby:If you don't, you won't understand anything about how it really is.":そうじゃないと、本当のことは何もわからない」}`
+`{ruby:When you think about something, try:物事を考える時には、異なる立ち位}{ruby:to look at it from different perspectives.:置から見るようにするんだ。}`
+`{ruby:If you don't, you won't understand:そうじゃないと、本当のこ}{ruby:anything about how it really is.":とは何もわからない」}`
 `{ruby:"It's the same with newspapers.:「新聞だってそうさ。}`
-`{ruby:With only a single newspaper, you can only see things from the single viewpoint of the writer who wrote the article.:ひとつの新聞だけじゃ、その記事を書いた記者の目線ひとつでしかものが見られない。}`
-`{ruby:Sometimes it takes reading multiple papers before you can process the information rationally and in three dimensions.":複数の新聞を読むことで初めて、立体的かつ冷静に分析が出来ることもある」}`
-`{ruby:"......Without love, the truth cannot be {y:1:‘seen’}{n:1:seen}.:「……愛がなければ真実は視えない。}`
-`{ruby:.........Mmm, that's got a nice ring to it, wahahaha.":………ん〜、いいねぇ、わっはっはっは」}`
-`{ruby:Maybe he found it amusing that a cheesy phrase like that had popped out of his mouth.:キザったらしい言葉が口を出たのが面白かったのだろう。}`
-`{ruby:{n}For a while, he laughed, looking pleased.:{n}しばらくの間、楽しそうに笑っていた。}`
-`{ruby:......By that, he was simultaneously declaring that he had told everything that he knew,:……それは同時に、知っていることは全て話した、}`
-`{ruby:and that it was about time for me to leave.:この辺で引き上げてくれないかという意思表示でもある。}`
-`{ruby:Understanding that, I got to my feet.:私はそれを理解し、腰を上げた。}`
-`{ruby:"I understand your feelings now, Ange‐chan.:「俺にも縁寿ちゃんの気持ちがわかったよ。}`
-`{ruby:You should do as you like for a while, until you're satisfied.:あんたが納得するように、しばらく好きにしたらいい。}`
-`{ruby:......You were six years old at the time.:……当時、君は６歳だった。}`
-`{ruby:You lost your family before you could even make sense of it, and I fully understand you feeling like you still don't have closure.":わけがわからない内に家族を失い、未だに心の整理がつかない気持ち、よくわかるんだ」}`
+`{ruby:With only a single newspaper, you can only see things:ひとつの新聞だけじゃ、その記事を書いた記者}{ruby:from the single viewpoint of the writer who wrote the article.:の目線ひとつでしかものが見られない。}`
+`{ruby:Sometimes it takes reading multiple papers before you:複数の新聞を読むことで初めて、立体的か}{ruby:can process the information rationally and in three dimensions.":つ冷静に分析が出来ることもある」}`
+`{ruby:"......Without love, the:「……愛がなければ真}{ruby:truth cannot be {y:1:‘seen’}{n:1:seen}.:実は視えない。}`
+`{ruby:.........Mmm, that's got a:………ん〜、いいねぇ、}{ruby:nice ring to it, wahahaha.":わっはっはっは」}`
+`{ruby:Maybe he found it amusing that a cheesy:キザったらしい言葉が口を出た}{ruby:phrase like that had popped out of his mouth.:のが面白かったのだろう。}`
+`{ruby:{n}For a while,:{n}しばらくの間、楽し}{ruby:he laughed, looking pleased.:そうに笑っていた。}`
+`{ruby:......By that, he was simultaneously declaring that:……それは同時に、知ってい}{ruby:he had told everything that he knew,:ることは全て話した、}`
+`{ruby:and that it was about:この辺で引き上げてくれないか}{ruby:time for me to leave.:という意思表示でもある。}`
+`{ruby:Understanding that, I:私はそれを理解し、}{ruby:got to my feet.:腰を上げた。}`
+`{ruby:"I understand your:「俺にも縁寿ちゃんの気}{ruby:feelings now, Ange‐chan.:持ちがわかったよ。}`
+`{ruby:You should do as you like:あんたが納得するように、しば}{ruby:for a while, until you're satisfied.:らく好きにしたらいい。}`
+`{ruby:......You were six years:……当時、君は６}{ruby:old at the time.:歳だった。}`
+`{ruby:You lost your family before you could even make sense of it,:わけがわからない内に家族を失い、未だに心の}{ruby:and I fully understand you feeling like you still don't have closure.":整理がつかない気持ち、よくわかるんだ」}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:"You may learn the truth, and you may not.:「真相はわかるかもしれない、わからないかもしれない。}`
-`{ruby:Eva‐san may be the culprit, and she may be a victim.":絵羽さんは犯人かもしれないし、犠牲者かもしれない」}`
-`{ruby:"......I pray that you find the "truth" you believe in, Ange‐chan.:「……縁寿ちゃんが信じる“真実”が見つけられるのを、祈ってるよ。}`
-`{ruby:A journey at such a young age may be a valuable experience.":若い内の旅も、貴重な経験かもしれない」}`
+`{ruby:"You may learn the:「真相はわかるかもしれない、}{ruby:truth, and you may not.:わからないかもしれない。}`
+`{ruby:Eva‐san may be the culprit,:絵羽さんは犯人かもしれないし}{ruby:and she may be a victim.":、犠牲者かもしれない」}`
+`{ruby:"......I pray that you find:「……縁寿ちゃんが信じる“真実”が}{ruby:the "truth" you believe in, Ange‐chan.:見つけられるのを、祈ってるよ。}`
+`{ruby:A journey at such a young:若い内の旅も、貴重な経}{ruby:age may be a valuable experience.":験かもしれない」}`
 `{ruby:"Thank you very much...:「ありがとうございます…。}`
-`{ruby:......I am truly sorry to be such a bother when you are so busy, Okonogi‐san.":……お忙しいところ、お邪魔して本当に済みませんでした、小此木さん」}`
+`{ruby:......I am truly sorry to be such:……お忙しいところ、お邪魔して本当に}{ruby:a bother when you are so busy, Okonogi‐san.":済みませんでした、小此木さん」}`
 `{ruby:"No trouble, no trouble.:「いいって、いいって。}`
 `{ruby:What are you going to do now?":これからどうするんだ？」}`
 `{ruby:"Well, whatever works.:「まぁ、適当に。}`
-`{ruby:......I've made appointments with several specialists and people related to the crime, so I plan to pay them a visit.":……事件関係者や、その道の専門家ってやつに何人かアポを入れてるので、そちらを当たるつもりです」}`
+`{ruby:......I've made appointments with several specialists and people related to:……事件関係者や、その道の専門家ってやつに何人かア}{ruby:the crime, so I plan to pay them a visit.":ポを入れてるので、そちらを当たるつもりです」}`
 `{ruby:"I see.:「そうか。}`
-`{ruby:I hope you can find an answer you can accept.":納得のいく答えが見つかるといいな」}`
-`{ruby:At that moment, company president Okonogi's secretary came in, and handed him a memo over his shoulder.:その時、小此木社長の秘書が入ってきて、メモを一枚、肩越しに手渡した。}`
-`{ruby:He read it and looked between it and my face.:それを読み、私の顔と見比べる。}`
+`{ruby:I hope you can find:納得のいく答えが見つ}{ruby:an answer you can accept.":かるといいな」}`
+`{ruby:At that moment, company president Okonogi's secretary came:その時、小此木社長の秘書が入ってきて}{ruby:in, and handed him a memo over his shoulder.:、メモを一枚、肩越しに手渡した。}`
+`{ruby:He read it and looked:それを読み、私の顔}{ruby:between it and my face.:と見比べる。}`
 `{ruby:"......Ange‐chan.:「……縁寿ちゃん。}`
-`{ruby:My apologies that this comes right after telling you to try going on a journey, but I have some information you should lend an ear to.:旅に出てごらんと言った矢先で申し訳ないんだが、耳に入れといた方がいい情報だ。}`
-`{ruby:......It looks like you're in a bit of a nasty fix right now.":……君、今だいぶヤバイらしいね？」}`
+`{ruby:My apologies that this comes right after telling you to try going on:旅に出てごらんと言った矢先で申し訳ないん}{ruby:a journey, but I have some information you should lend an ear to.:だが、耳に入れといた方がいい情報だ。}`
+`{ruby:......It looks like you're in a:……君、今だいぶヤバ}{ruby:bit of a nasty fix right now.":イらしいね？」}`
 `{ruby:"People after my money?:「私のカネを狙ってる連中ですか？}`
 `{ruby:This is why money is stupid.":だからお金なんて下らない」}`
-`{ruby:"Yes, but if you try to sell off the whole shebang and donate the entire sum to social welfare,:「だからって、財産丸ごと売っ払って、全額を福祉に寄付しようなんてしたら、}`
-`{ruby:those people already making plans for your fortune, you're gonna make their eyes pop out.":縁寿ちゃんの財産で皮算用してる連中が、目ン玉、飛び出しちまうよ」}`
+`{ruby:"Yes, but if you try to sell off the:「だからって、財産丸ごと売っ払って、全}{ruby:whole shebang and donate the entire sum to social welfare,:額を福祉に寄付しようなんてしたら、}`
+`{ruby:those people already making plans for your:縁寿ちゃんの財産で皮算用してる連中}{ruby:fortune, you're gonna make their eyes pop out.":が、目ン玉、飛び出しちまうよ」}`
 `{ruby:"Oh, so it's the Sumadera family.:「あぁ、須磨寺の家ですか。}`
-`{ruby:The arrogance of them trying to act like my guardians.":あいつら、何を偉そうに保護者面して」}`
+`{ruby:The arrogance of them trying:あいつら、何を偉そう}{ruby:to act like my guardians.":に保護者面して」}`
 `{ruby:I have the precedent of Aunt Eva.:絵羽伯母さんの前例がある。}`
-`{ruby:{n}Who would {i:ever} go under the care of the Sumadera family?:{n}誰が須磨寺の家に世話になんかなるもんか。}`
-`{ruby:They probably want, as Aunt Eva had so often threatened in the past,:それこそ、絵羽伯母さんがよく脅していたように、}`
-`{ruby:to cut off my arms and legs, throw me in a warehouse, and suck the Ushiromiya family's wealth dry.:両手両足をブツ切りにされて、蔵か何かに放り込まれて、右代宮の財産をしゃぶり尽くすつもりだろう。}`
-`{ruby:"A representative from the Sumadera family is coming here.:「須磨寺家の使いがここに来るそうだ。}`
-`{ruby:They're saying to hand you over...no no, that they want to protect you.":君を引き渡せと、いやいや、保護したいと言ってるな」}`
+`{ruby:{n}Who would {i:ever} go under:{n}誰が須磨寺の家に世話}{ruby:the care of the Sumadera family?:になんかなるもんか。}`
+`{ruby:They probably want, as Aunt Eva:それこそ、絵羽伯母さんがよ}{ruby:had so often threatened in the past,:く脅していたように、}`
+`{ruby:to cut off my arms and legs, throw me:両手両足をブツ切りにされて、蔵か何かに放り込まれて}{ruby:in a warehouse, and suck the Ushiromiya family's wealth dry.:、右代宮の財産をしゃぶり尽くすつもりだろう。}`
+`{ruby:"A representative from the:「須磨寺家の使いがこ}{ruby:Sumadera family is coming here.:こに来るそうだ。}`
+`{ruby:They're saying to hand you over...no:君を引き渡せと、いやいや、保}{ruby:no, that they want to protect you.":護したいと言ってるな」}`
 `{ruby:"Representative, you say?":「使いって？」}`
 `{ruby:"It's your aunt.:「君の叔母だよ。}`
 `{ruby:Kyrie‐san's younger sister.:霧江さんの妹さんだ。}`
-`{ruby:She has said before that she thinks of you as a little sister.":君の事を妹のように思っていると前に話してたな」}`
+`{ruby:She has said before that she:君の事を妹のように思ってい}{ruby:thinks of you as a little sister.":ると前に話してたな」}`
 `{ruby:"She must be kidding.:「ご冗談。}`
-`{ruby:At least call me a grandchild, you old granny.":せめて孫と言ってよ、あのババア」}`
-`{ruby:"Judging from the context, it seems they're not planning on taking your wishes into consideration.:「文脈から見るに、君の意思は聞く気がないようだ。}`
-`{ruby:I have a car waiting in the parking lot two stories underground.:地下２階の駐車場に車が待たせてある。}`
+`{ruby:At least call me:せめて孫と言ってよ}{ruby:a grandchild, you old granny.":、あのババア」}`
+`{ruby:"Judging from the context, it seems they're:「文脈から見るに、君の意思}{ruby:not planning on taking your wishes into consideration.:は聞く気がないようだ。}`
+`{ruby:I have a car waiting in:地下２階の駐車場に車}{ruby:the parking lot two stories underground.:が待たせてある。}`
 `{ruby:Go.":行きなさい」}`
-`{ruby:"......The Sumadera family is telling you to hand me over, right?:「……須磨寺の家から引き渡せって言われてるんでしょ。}`
+`{ruby:"......The Sumadera family is telling:「……須磨寺の家から引き渡せ}{ruby:you to hand me over, right?:って言われてるんでしょ。}`
 `{ruby:Is it really alright to let me go?":いいの、私を行かせて？」}`
-`{ruby:"You will definitely be someone big in the future, Ange‐chan.:「縁寿ちゃんはきっと将来大物になるよ。}`
-`{ruby:Let's call this a favor to be repaid upon your success.:この貸しは、その時の出世払いってことにしとこう。}`
+`{ruby:"You will definitely be someone:「縁寿ちゃんはきっと将}{ruby:big in the future, Ange‐chan.:来大物になるよ。}`
+`{ruby:Let's call this a favor:この貸しは、その時の出世払}{ruby:to be repaid upon your success.:いってことにしとこう。}`
 `{ruby:...Go, quickly...!":…行きな、早く…！」}`
-`{ruby:After bowing silently and deeply, Ange left that place at a dash.:縁寿は無言で深く会釈をしてから、早歩きにその場を退出した。}`
-`{ruby:After watching her leave, the secretary straightened her glasses and whispered.:彼女が出て行ったのを見届けてから、秘書の女性が眼鏡を直しながら囁く。}`
-`{ruby:"The Sumadera family told us to stall her...:「須磨寺家からは足止めをしておくように言われていますが…。}`
+`{ruby:After bowing silently and deeply, Ange:縁寿は無言で深く会釈をしてから、}{ruby:left that place at a dash.:早歩きにその場を退出した。}`
+`{ruby:After watching her leave, the:彼女が出て行ったのを見届けてから、秘}{ruby:secretary straightened her glasses and whispered.:書の女性が眼鏡を直しながら囁く。}`
+`{ruby:"The Sumadera family told:「須磨寺家からは足止めをしておく}{ruby:us to stall her...:ように言われていますが…。}`
 `{ruby:Is it alright to let her go?":行かせてよろしいのですか？」}`
 `{ruby:"We did stall her, more than enough.:「足止めならしたよ、充分に。}`
-`{ruby:If they still don't make it in time, that's the Sumaderas' error.:それに間に合わないのは須磨寺の過失だね。}`
-`{ruby:......I told Ange‐chan to run for it.:……縁寿ちゃんには逃げろと言ったし。}`
-`{ruby:And I informed the Sumaderas that Ange‐chan was here.:須磨寺には縁寿ちゃんが来てるよと通報したし。}`
-`{ruby:Whether she's caught or not, neither one of them will blame me.":捕まっても捕まらなくても双方に恨まれない」}`
-`{ruby:"......Everything in this world is...love, you see...:「……世の中はすべからく、愛、だねぇ…。}`
+`{ruby:If they still don't make it:それに間に合わないのは}{ruby:in time, that's the Sumaderas' error.:須磨寺の過失だね。}`
+`{ruby:......I told Ange‐chan:……縁寿ちゃんには逃}{ruby:to run for it.:げろと言ったし。}`
+`{ruby:And I informed the:須磨寺には縁寿ちゃんが来}{ruby:Sumaderas that Ange‐chan was here.:てるよと通報したし。}`
+`{ruby:Whether she's caught or not, neither:捕まっても捕まらなくても}{ruby:one of them will blame me.":双方に恨まれない」}`
+`{ruby:"......Everything in this:「……世の中はすべから}{ruby:world is...love, you see...:く、愛、だねぇ…。}`
 `{ruby:It's alright, she'll escape.:大丈夫、逃げ果せるよ。}`
-`{ruby:After all, she's the kind of kid who can jump off a building to lose her pursuers.":何しろ、追っ手撒くためにビルから飛び降りられる子だからねぇ」}`
-`{ruby:......Okonogi again looked down at the world below,:……小此木は再び下界を見下ろし、}`
-`{ruby:and muttered "yeah, that'd be beyond me...":さすがに俺には無理だなぁと呟くのだった。}`
+`{ruby:After all, she's the kind of kid who:何しろ、追っ手撒くためにビルから}{ruby:can jump off a building to lose her pursuers.":飛び降りられる子だからねぇ」}`
+`{ruby:......Okonogi again looked down:……小此木は再び下}{ruby:at the world below,:界を見下ろし、}`
+`{ruby:and muttered "yeah,:さすがに俺には無理だな}{ruby:that'd be beyond me...":ぁと呟くのだった。}`
 `{ruby:Ange was no fool herself.:縁寿も馬鹿ではない。}`
-`{ruby:She got off the elevator, and stepped out onto the third floor.:エレベーターから降りる彼女だが、そこは地上の３階だった。}`
-`{ruby:A taxi in the second level of the basement?:地下２階にタクシー？}`
-`{ruby:That's so overly courteous that it feels wrong.:ご丁寧すぎて気持ち悪い。}`
-`{ruby:It's probably better to decline that.:ここは辞退した方がいいだろう。}`
+`{ruby:She got off the elevator, and:エレベーターから降りる彼女だが}{ruby:stepped out onto the third floor.:、そこは地上の３階だった。}`
+`{ruby:A taxi in the:地下２階にタ}{ruby:second level of the basement?:クシー？}`
+`{ruby:That's so overly courteous:ご丁寧すぎて気}{ruby:that it feels wrong.:持ち悪い。}`
+`{ruby:It's probably better:ここは辞退した方が}{ruby:to decline that.:いいだろう。}`
 `{ruby:But my enemies aren't fools either.:だが、敵も馬鹿じゃない。}`
-`{ruby:They probably have control of not just the underground parking lot, but the first‐floor lobby as well.:地下駐車場だけでなく、１階ロビーも抑えられているだろう。}`
+`{ruby:They probably have control of not just the:地下駐車場だけでなく、１階ロビ}{ruby:underground parking lot, but the first‐floor lobby as well.:ーも抑えられているだろう。}`
 `{ruby:This is such a massive building.:これだけの巨大なビルなのだ。}`
-`{ruby:{n}Instead of getting anxious and escaping outside, maybe it's better to stay on the inside and wait it out?:{n}焦って外へ脱出せず、中でやり過ごした方がいいだろうか。}`
+`{ruby:{n}Instead of getting anxious and escaping outside, maybe it's:{n}焦って外へ脱出せず、中でや}{ruby:better to stay on the inside and wait it out?:り過ごした方がいいだろうか。}`
 `{ruby:No, that's no good.:いや、駄目だ。}`
-`{ruby:If they gain control of the security room in a modern building like this, I'll have nowhere to run to.:この近代的なビルは彼らがセキュリティルームを掌握してしまえば、私の逃げ場などなくなる。}`
-`{ruby:This entire building is like a massive dead end.:このビル全体が、巨大な袋小路も同じなのだ。}`
-`{ruby:The third floor is the business floor.:３階は業務フロア。}`
+`{ruby:If they gain control of the security room in a:この近代的なビルは彼らがセキュリティルームを掌}{ruby:modern building like this, I'll have nowhere to run to.:握してしまえば、私の逃げ場などなくなる。}`
+`{ruby:This entire building is:このビル全体が、巨大な袋}{ruby:like a massive dead end.:小路も同じなのだ。}`
+`{ruby:The third floor:３階は業務フ}{ruby:is the business floor.:ロア。}`
 `{ruby:A girl like me clearly sticks out.:小娘の私は、明らかに目立つ存在だ。}`
-`{ruby:Trying not to stand out any more than I had to, I walked at a quick pace, searching for an emergency staircase.:これ以上、不要に目立たぬよう、早足で歩きながら非常階段を探す。}`
-`{ruby:......One running down the outside of the building would be ideal.:……できればその階段が、外階段であれば理想的。}`
-`{ruby:I found the door to the emergency staircase.:非常階段の扉を見つける。}`
-`{ruby:After opening that heavy door, I found the outside stairs I was hoping to see.:その重い扉を開けると、期待通りの外階段だった。}`
-`{ruby:Once outside, I immediately encountered a man smoking a cigarette, who looked like an employee skipping work.:サボリで煙草を吸ってた社員風の男とばったり出くわす。}`
-`{ruby:{n}After glaring at me, he quickly crushed up his cigarette and went away.:{n}ぎろりと睨みつけると、そそくさと煙草を揉み消して姿を消す。}`
+`{ruby:Trying not to stand out any more than I had to,:これ以上、不要に目立たぬよう、早足}{ruby:I walked at a quick pace, searching for an emergency staircase.:で歩きながら非常階段を探す。}`
+`{ruby:......One running down the outside:……できればその階段が、外}{ruby:of the building would be ideal.:階段であれば理想的。}`
+`{ruby:I found the door:非常階段の扉を}{ruby:to the emergency staircase.:見つける。}`
+`{ruby:After opening that heavy door, I found:その重い扉を開けると、期待}{ruby:the outside stairs I was hoping to see.:通りの外階段だった。}`
+`{ruby:Once outside, I immediately encountered a man smoking:サボリで煙草を吸ってた社員風}{ruby:a cigarette, who looked like an employee skipping work.:の男とばったり出くわす。}`
+`{ruby:{n}After glaring at me, he quickly:{n}ぎろりと睨みつけると、そそく}{ruby:crushed up his cigarette and went away.:さと煙草を揉み消して姿を消す。}`
 `{ruby:It looks like there's no one below.:下には誰もいないように見える。}`
-`{ruby:{n}...If I'm going to escape, now is my only chance...!:{n}…逃げ出すなら今しかない…！}`
-`{ruby:Just when I thought that, with an incredible squealing of the tires, a black car slid directly below me and came to a sudden stop.:そう思った時、タイヤをすごい音で鳴かせながら、黒い乗用車が真下に滑り込んで急停車する。}`
-`{ruby:......It felt from the tire sounds like there were several more of them, and this one had come here to block this path.:……タイヤの音から、他にも数台お仲間がいて、ここを塞ぎに１台来た、という感じだった。}`
+`{ruby:{n}...If I'm going to escape,:{n}…逃げ出すなら}{ruby:now is my only chance...!:今しかない…！}`
+`{ruby:Just when I thought that, with an incredible squealing of the tires,:そう思った時、タイヤをすごい音で鳴かせながら、}{ruby:a black car slid directly below me and came to a sudden stop.:黒い乗用車が真下に滑り込んで急停車する。}`
+`{ruby:......It felt from the tire sounds like there were several more:……タイヤの音から、他にも数台お仲間がいて、}{ruby:of them, and this one had come here to block this path.:ここを塞ぎに１台来た、という感じだった。}`
 `{ruby:"......Not bad, Aunt Kasumi.:「……霞叔母さん、やるじゃない。}`
-`{ruby:Even your niece leaving by an emergency exit gets a car sent to pick her up.":非常口から出てくる姪にまで送迎車を送るなんて」}`
-`{ruby:Bam‐bam! The car doors opened forcefully, three men in black suits jumped out, and they looked up at the emergency staircase.:バンバン！　と威勢良く車の扉が開き、３人の黒服が飛び出してきて、この非常階段を見上げる。}`
+`{ruby:Even your niece leaving by an emergency exit:非常口から出てくる姪にまで}{ruby:gets a car sent to pick her up.":送迎車を送るなんて」}`
+`{ruby:Bam‐bam! The car doors opened forcefully, three men in black:バンバン！　と威勢良く車の扉が開き、３人の黒服}{ruby:suits jumped out, and they looked up at the emergency staircase.:が飛び出してきて、この非常階段を見上げる。}`
 `{ruby:......Ahhh shoot, our eyes met.:……いっけない、目が合った。}`
 `{ruby:"12, target found.:「１２、マル対発見。}`
-`{ruby:Northwest side emergency stairs, third floor, send support.":北西側非常階段３階、応援送れ」}`
+`{ruby:Northwest side emergency stairs,:北西側非常階段３階}{ruby:third floor, send support.":、応援送れ」}`
 `{ruby:"Ange‐sama!:「縁寿さま！}`
 `{ruby:Please do not move from there!:そこを動かれませんように！}`
 `{ruby:Forgive our roughness...!!":ご無礼を失礼します…！！」}`
-`{ruby:The three of them began to clamor up the emergency staircase.:３人がどかどかと非常階段を駆け上がってくる。}`
-`{ruby:......They already announced that they're planning to be rough.:……無礼を働くと予告済みだ。}`
+`{ruby:The three of them began:３人がどかどかと非常階段}{ruby:to clamor up the emergency staircase.:を駆け上がってくる。}`
+`{ruby:......They already announced that:……無礼を働くと}{ruby:they're planning to be rough.:予告済みだ。}`
 `{ruby:This is pretty bad.:かなりまずい。}`
-`{ruby:They've probably been ordered to bring me back by any means, with one of my arms yanked off if necessary, just so long as I'm still breathing.:息さえしてれば、腕の一本くらい引っこ抜けても構わないくらいに命じられてるのだろう。}`
+`{ruby:They've probably been ordered to bring me back by any means, with one:息さえしてれば、腕の一本くらい引っこ抜けても}{ruby:of my arms yanked off if necessary, just so long as I'm still breathing.:構わないくらいに命じられてるのだろう。}`
 `{ruby:Clankclankclankclank!!:どかどかどかどか！！}`
-`{ruby:Their heavy, wild footsteps became a helix and began to rise from the lower floors, getting closer...!:彼らの重く激しい足音が螺旋になって階下から昇って来る、近付いてくる…！}`
-`{ruby:In the entrance lobby of the building, a woman was walking forwards at a leisurely pace, with seven black‐suited guards in tow.:ビルの玄関ロビーには、黒服の護衛を７人も従えた婦人が、悠々と歩みを進めていた。}`
-`{ruby:Seeing this ostentatious entrance, the security guards for the building ran up to them, asking if they had an appointment.:その物々しい様子に、ビルの警備員が駆けつけ、アポイントはおありでしょうかと尋ねる。}`
-`{ruby:".........How typical of Tokyo people.:「………これだから東京人は。}`
-`{ruby:You require a name to even understand the status of the person you are talking to...?":名乗らせなければ相手の格もわからない…？」}`
+`{ruby:Their heavy, wild footsteps became a helix and:彼らの重く激しい足音が螺旋になって階下}{ruby:began to rise from the lower floors, getting closer...!:から昇って来る、近付いてくる…！}`
+`{ruby:In the entrance lobby of the building, a woman was walking:ビルの玄関ロビーには、黒服の護衛を７人も従}{ruby:forwards at a leisurely pace, with seven black‐suited guards in tow.:えた婦人が、悠々と歩みを進めていた。}`
+`{ruby:Seeing this ostentatious entrance, the security guards for the building:その物々しい様子に、ビルの警備員が駆けつけ、}{ruby:ran up to them, asking if they had an appointment.:アポイントはおありでしょうかと尋ねる。}`
+`{ruby:".........How typical:「………これだか}{ruby:of Tokyo people.:ら東京人は。}`
+`{ruby:You require a name to even understand the:名乗らせなければ相手の格}{ruby:status of the person you are talking to...?":もわからない…？」}`
 `{ruby:"M‐my apologies...:「し、失礼いたしました…。}`
-`{ruby:The policy at our company is for guests to take a securi—":当社ではご来賓の皆様にはフロントにてセキュリ、」}`
+`{ruby:The policy at our company is:当社ではご来賓の皆様にはフ}{ruby:for guests to take a securi—":ロントにてセキュリ、」}`
 `{ruby:"......Back down, plebeian.:「……下がれ下賎が。}`
-`{ruby:I came because I was called by your president.:私はお前たちの社長に呼ばれて来たんだよ。}`
+`{ruby:I came because I:私はお前たちの社長に呼}{ruby:was called by your president.:ばれて来たんだよ。}`
 `{ruby:Call Okonogi Tetsuro here.:小此木鉄郎を呼んでおいで。}`
-`{ruby:To think that he would call me here and then not welcome me... How typical of Tokyo people...":呼びつけておいて出迎えもないとはね、これだから東京人は…」}`
+`{ruby:To think that he would call me here and:呼びつけておいて出迎えもないとは}{ruby:then not welcome me... How typical of Tokyo people...":ね、これだから東京人は…」}`
 `{ruby:"My apologies.:「これは失礼。}`
-`{ruby:Welcome to the Ushiromiya Group, Sumadera Kasumi‐san.":ようこそ右代宮グループへ、須磨寺霞さん」}`
-`{ruby:With his secretary behind him, Okonogi dashingly appeared from the elevator.:小此木が秘書を従え、エレベーターから颯爽と現れる。}`
-`{ruby:Even though both of them wore bold smiles, they were caught in a tension reminiscent of the smell of gunpowder...:双方に不敵な笑みがありながらも、火薬の臭いを連想させる緊張感が張り詰めていた…。}`
+`{ruby:Welcome to the:ようこそ右代宮グループ}{ruby:Ushiromiya Group, Sumadera Kasumi‐san.":へ、須磨寺霞さん」}`
+`{ruby:With his secretary behind him,:小此木が秘書を従え、エレベー}{ruby:Okonogi dashingly appeared from the elevator.:ターから颯爽と現れる。}`
+`{ruby:Even though both of them wore bold smiles, they were:双方に不敵な笑みがありながらも、火薬の臭い}{ruby:caught in a tension reminiscent of the smell of gunpowder...:を連想させる緊張感が張り詰めていた…。}`
 `{ruby:".........Where is Ange?:「………縁寿はどこ？}`
-`{ruby:I came to collect my sister's darling, darling daughter.":姉さんの可愛い可愛い姪を、迎えに来たのよ私は」}`
-`{ruby:"Strict observance of time is our motto here at the Ushiromiya Group.:「右代宮グループでは時間厳守がモットーでしてなぁ。}`
-`{ruby:The former Chairman herself said that those who can't keep time can't keep contracts.":時間を守れない人間は契約も守れないってのが先代会長のお言葉でして」}`
-`{ruby:"......You call me all the way to Tokyo to be greeted by this mess?:「……東京まで呼びつけて、何てザマなの？}`
+`{ruby:I came to collect:姉さんの可愛い可愛い姪を、}{ruby:my sister's darling, darling daughter.":迎えに来たのよ私は」}`
+`{ruby:"Strict observance of time is our:「右代宮グループでは時間厳守}{ruby:motto here at the Ushiromiya Group.:がモットーでしてなぁ。}`
+`{ruby:The former Chairman herself said that those:時間を守れない人間は契約も守れないっ}{ruby:who can't keep time can't keep contracts.":てのが先代会長のお言葉でして」}`
+`{ruby:"......You call me all the way to:「……東京まで呼びつけ}{ruby:Tokyo to be greeted by this mess?:て、何てザマなの？}`
 `{ruby:You let her go, didn't you.":逃がしたわね」}`
-`{ruby:"She got away...is the wording I would have preferred.:「逃げられた、と言ってもらいたいですなぁ。}`
-`{ruby:We did stall her for quite some time, believe it or not.:これでもずいぶん足止めはしたんです。}`
+`{ruby:"She got away...is the:「逃げられた、と言っても}{ruby:wording I would have preferred.:らいたいですなぁ。}`
+`{ruby:We did stall her for quite:これでもずいぶん足止}{ruby:some time, believe it or not.:めはしたんです。}`
 `{ruby:I'm not surprised she smelled a rat.:さすがに気取られましてね。}`
-`{ruby:There wouldn't have been a problem if you had come on time, Sumadera‐san.":須磨寺さんが、時間通りに来てくれれば問題はなかったのですが」}`
-`{ruby:"This is why you provincials are such a hassle, you're never ever punctual.:「これだから地方人はルーズで困るんです。}`
+`{ruby:There wouldn't have been a problem:須磨寺さんが、時間通りに来てくれ}{ruby:if you had come on time, Sumadera‐san.":れば問題はなかったのですが」}`
+`{ruby:"This is why you provincials are:「これだから地方人はル}{ruby:such a hassle, you're never ever punctual.:ーズで困るんです。}`
 `{ruby:Wahhaha{0}ha{0}ha{0}ha{0}ha{0}haha!":わっはははははははは！」}`
-`{ruby:"............What did you say just now......?:「…………今何と……？}`
+`{ruby:"............What did you:「…………今何}{ruby:say just now......?:と……？}`
 `{ruby:What did you say to me...?":この私に何と…？」}`
-`{ruby:You couldn't sense any of Kyrie's sociability in the face of her younger sister Kasumi.:霧江の妹、霞の面影に霧江の気さくさはまったく感じられない。}`
-`{ruby:She wore on her face the arrogance of the ancient Sumadera family towards the ruined Ushiromiya family,:表情に浮かぶのは、没落した右代宮家に対する歴史ある須磨寺家の嘲りと、}`
-`{ruby:......as well as pride, because she didn't want anyone to notice that her family was declining so much that they couldn't ignore the Ushiromiya family's wealth.:……にもかかわらず、右代宮家の財産を無視出来ない程度に斜陽を迎えていることを気取られたくないプライド。}`
-`{ruby:Even at a glance, it was easy to understand why Ange hated everything about her aunt...:縁寿が、この叔母を毛嫌いする理由が、一見しただけで納得できるというものだった…。}`
-`{ruby:Kasumi couldn't stand even a slight insult, and while she still smiled, her eyebrows twitched.:わずかの侮辱にも耐えられない彼女は、笑顔のまま眉を引きつらせる。}`
-`{ruby:At that time, one of the men in black suits behind Kasumi whispered to her.:その時、後の黒服が霞に囁く。}`
+`{ruby:You couldn't sense any of Kyrie's sociability:霧江の妹、霞の面影に霧江の気さく}{ruby:in the face of her younger sister Kasumi.:さはまったく感じられない。}`
+`{ruby:She wore on her face the arrogance of:表情に浮かぶのは、没落した右代宮家に}{ruby:the ancient Sumadera family towards the ruined Ushiromiya family,:対する歴史ある須磨寺家の嘲りと、}`
+`{ruby:......as well as pride, because she didn't want anyone to notice that her:……にもかかわらず、右代宮家の財産を無視出来ない程度に}{ruby:family was declining so much that they couldn't ignore the Ushiromiya family's wealth.:斜陽を迎えていることを気取られたくないプライド。}`
+`{ruby:Even at a glance, it was easy to:縁寿が、この叔母を毛嫌いする理由が、一見し}{ruby:understand why Ange hated everything about her aunt...:ただけで納得できるというものだった…。}`
+`{ruby:Kasumi couldn't stand even a slight insult,:わずかの侮辱にも耐えられない彼女は}{ruby:and while she still smiled, her eyebrows twitched.:、笑顔のまま眉を引きつらせる。}`
+`{ruby:At that time, one of the men:その時、後の黒服}{ruby:in black suits behind Kasumi whispered to her.:が霞に囁く。}`
 `{ruby:"Ange‐sama has been found.:「縁寿さまを発見しました。}`
 `{ruby:We are dealing with her as I speak.":対応中です」}`
-`{ruby:"......Oh, I'm glad we made it in time.:「……あら、間に合って良かった。}`
+`{ruby:"......Oh, I'm glad we:「……あら、間に合}{ruby:made it in time.:って良かった。}`
 `{ruby:......Thank you, Okonogi.:……ありがとうね、小此木。}`
-`{ruby:It seems I can finally take my naughty niece home.:ようやくやんちゃな姪を連れて帰れそうだわ。}`
-`{ruby:......I've been so eager to have a nice long talk with that girl in my tea room that I already have the tools ready and waiting, you know.:……私、あの子と一緒に、ゆっくりとお茶室で語らいたくてお道具まで準備して待ってたんだから。}`
+`{ruby:It seems I can finally:ようやくやんちゃな姪を連}{ruby:take my naughty niece home.:れて帰れそうだわ。}`
+`{ruby:......I've been so eager to have a nice long talk with that girl in:……私、あの子と一緒に、ゆっくりとお茶室で語らい}{ruby:my tea room that I already have the tools ready and waiting, you know.:たくてお道具まで準備して待ってたんだから。}`
 `{ruby:Ehheheheheheheh...!":うっふふふふふふふ…！」}`
 `{ruby:Clankclankclankclank......!!:どかどかどかどか……！！}`
-`{ruby:As the violence of the sound drew a helix, it rushed up at me from below, threatening to swallow me up.:音の暴力が螺旋を描きながら、私を階下から飲み込もうと迫ってくる。}`
-`{ruby:Of course, even if I fight them, I stand no chance of winning.:無論、戦っても勝ち目はない。}`
-`{ruby:Even so, if I run into the building, it'll be like jumping into a dead end of my own accord.:さりとてビル内に逃げ込んだところで、自ら袋小路に飛び込むようなものだ。}`
-`{ruby:The enemies will increase in number with time.:時間と共に敵の応援は増える。}`
-`{ruby:If I can't do anything here, I won't have any more chances to escape.:この場をどうにか出来ないなら、もう私に逃げるチャンスはない。}`
-`{ruby:Then, three muscular black‐suits came into view below me.:そして３人の屈強な黒服たちが階段下に姿を現す。}`
+`{ruby:As the violence of the sound drew a helix, it:音の暴力が螺旋を描きながら、私を階}{ruby:rushed up at me from below, threatening to swallow me up.:下から飲み込もうと迫ってくる。}`
+`{ruby:Of course, even if I fight:無論、戦っても勝}{ruby:them, I stand no chance of winning.:ち目はない。}`
+`{ruby:Even so, if I run into the building, it'll be:さりとてビル内に逃げ込んだところで、自}{ruby:like jumping into a dead end of my own accord.:ら袋小路に飛び込むようなものだ。}`
+`{ruby:The enemies will increase:時間と共に敵の応}{ruby:in number with time.:援は増える。}`
+`{ruby:If I can't do anything here, I:この場をどうにか出来ないなら、も}{ruby:won't have any more chances to escape.:う私に逃げるチャンスはない。}`
+`{ruby:Then, three muscular black‐suits:そして３人の屈強な黒服たち}{ruby:came into view below me.:が階段下に姿を現す。}`
 `{ruby:One, two, three.:１、２、３。}`
 `{ruby:Three people.:３人だ。}`
-`{ruby:In other words, everyone who had gotten out of the car.:つまりそれは車から降りてきた全員。}`
-`{ruby:If there had been just one of them, I might have been able to wait for the moment of arrival to dropkick him as hard as I could, which might have worked out.:せめて１人だったなら、出会い頭に思い切り飛び蹴りでもブチかませば、何とか出来たかもしれない。}`
-`{ruby:......But it really is impossible with three of them.:……でも、さすがに３人じゃ無理だ。}`
+`{ruby:In other words, everyone who:つまりそれは車から降}{ruby:had gotten out of the car.:りてきた全員。}`
+`{ruby:If there had been just one of them, I might have been able to wait for:せめて１人だったなら、出会い頭に思い切り飛び蹴り}{ruby:the moment of arrival to dropkick him as hard as I could, which might have worked out.:でもブチかませば、何とか出来たかもしれない。}`
+`{ruby:......But it really is:……でも、さすがに３}{ruby:impossible with three of them.:人じゃ無理だ。}`
 `{ruby:Wait... Three, huh...:いや、３か…。}`
-`{ruby:......Three...might be just about doable...:……３くらいなら何とかなる…。}`
+`{ruby:......Three...might be:……３くらいなら何}{ruby:just about doable...:とかなる…。}`
 `{ruby:{n}......I can do it......!:{n}……やれる……！}`
 `{ruby:"Whew.........:「すぅ………。}`
 `{ruby:............haaaaAAAAHHH!!":…………はぁああああああ！！」}`
@@ -429,328 +429,328 @@
 `{ruby:Y‐you idiot, stop!!:ば、馬鹿やめろ！！}`
 `{ruby:Look ooooout!!:危ないいいい！！}`
 `{ruby:Uwaaaaaaaaaahhh...!!":うわあああああああ…！！」}`
-`{ruby:"01 calling 12, do you have her, please respond.:「０１より１２、確保したか、応答されたし。}`
+`{ruby:"01 calling 12, do:「０１より１２、確保した}{ruby:you have her, please respond.:か、応答されたし。}`
 `{ruby:......What's wrong?!:……どうした？！}`
 `{ruby:Respond!":応答しろ！」}`
-`{ruby:"Wh‐......what kind of person... Damn it......":「な、……何てヤツだ…、くそ……」}`
+`{ruby:"Wh‐......what kind of:「な、……何てヤツだ}{ruby:person... Damn it......":…、くそ……」}`
 `{ruby:.........Nggghh...:………つつつ…。}`
 `{ruby:......Ouchhh...:……痛たた…。}`
-`{ruby:{n}Look, see... That worked out, didn't it? It's just {i:three}.:{n}ほらね、…何とかなったでしょ。たった３だもんね。}`
-`{ruby:I've already experienced much higher places, after all.:もっと高いところを経験してるもの。}`
-`{ruby:{n}I knew I could jump down {i:just three floors}...!:{n}３階くらいなら飛び降りられると思った…！}`
-`{ruby:It's a good thing that the car they came in was right beneath me.:やつらが乗り付けてきた車が真下にあったのが幸いした。}`
-`{ruby:{n}Even if it wasn't as pleasant as a trampoline, it broke my fall, a little gently, a little roughly.:{n}快適なトランポリンとは行かないまでにも、私をそこそこにやさしく、そこそこに厳しく受け止めてくれた。}`
-`{ruby:"......Well, that makes me feel wonderful.:「……失礼しちゃうわ。}`
-`{ruby:No one asked you to go and dent that badly.":ここまでへこむこともないだろうに」}`
-`{ruby:Having broken my fall, the roof of the car now had a massive dent around my body.:車の屋根は私を受け止めて、私の体に沿ってべっこりとへこみを残している。}`
-`{ruby:I guess car roofs are more delicate than I thought.:案外、車の屋根って華奢なのね。}`
-`{ruby:{n}I don't think it's because of my weight.:{n}私の体重のせいじゃないと思うわ。}`
-`{ruby:Apparently, the three men on the stairs hadn't anticipated me jumping down.:階段の上の３人は、私が飛び降りるなんて想定はなかったらしい。}`
-`{ruby:Having realized that they had been outwitted, they were hurriedly rushing back down.:出し抜かれたと知り、大慌てで階段を駆け下りてくるようだ。}`
-`{ruby:I have to run and escape while I have the chance.:今のうちに走って逃げなければ。}`
-`{ruby:{n}As I moved my body, the car roof made buckling and popping sounds.:{n}私が体を起こすと、屋根がベコンボコンと音を立てた。}`
+`{ruby:{n}Look, see... That worked out,:{n}ほらね、…何とかなったで}{ruby:didn't it? It's just {i:three}.:しょ。たった３だもんね。}`
+`{ruby:I've already experienced much:もっと高いところを経}{ruby:higher places, after all.:験してるもの。}`
+`{ruby:{n}I knew I could:{n}３階くらいなら飛び降}{ruby:jump down {i:just three floors}...!:りられると思った…！}`
+`{ruby:It's a good thing that the car:やつらが乗り付けてきた車が真}{ruby:they came in was right beneath me.:下にあったのが幸いした。}`
+`{ruby:{n}Even if it wasn't as pleasant as a trampoline,:{n}快適なトランポリンとは行かないまでにも、私をそこ}{ruby:it broke my fall, a little gently, a little roughly.:そこにやさしく、そこそこに厳しく受け止めてくれた。}`
+`{ruby:"......Well, that makes:「……失礼しち}{ruby:me feel wonderful.:ゃうわ。}`
+`{ruby:No one asked you to:ここまでへこむことも}{ruby:go and dent that badly.":ないだろうに」}`
+`{ruby:Having broken my fall, the roof of the:車の屋根は私を受け止めて、私の体に沿っ}{ruby:car now had a massive dent around my body.:てべっこりとへこみを残している。}`
+`{ruby:I guess car roofs are:案外、車の屋根って}{ruby:more delicate than I thought.:華奢なのね。}`
+`{ruby:{n}I don't think it's:{n}私の体重のせいじ}{ruby:because of my weight.:ゃないと思うわ。}`
+`{ruby:Apparently, the three men on the:階段の上の３人は、私が飛び降りる}{ruby:stairs hadn't anticipated me jumping down.:なんて想定はなかったらしい。}`
+`{ruby:Having realized that they had been:出し抜かれたと知り、大慌てで階}{ruby:outwitted, they were hurriedly rushing back down.:段を駆け下りてくるようだ。}`
+`{ruby:I have to run and:今のうちに走って逃}{ruby:escape while I have the chance.:げなければ。}`
+`{ruby:{n}As I moved my body, the:{n}私が体を起こすと、屋根が}{ruby:car roof made buckling and popping sounds.:ベコンボコンと音を立てた。}`
 `{ruby:But I had been naive.:しかし、甘かった。}`
-`{ruby:There was no way they'd have all rushed up the stairs without leaving one person behind.:彼らが、この場所に１人も残さずに全員が階段を駆け上るはずはなかったのだ。}`
-`{ruby:There was one black‐suit left in the driver's seat of the car that had broken my fall.:私を受け止めた車の運転席には黒服が１人残っていた。}`
-`{ruby:{n}He stuck his head out of the window, and when he realized that the thing that had fallen on him was me, he jumped out.:{n}扉より顔を出し、落下物の正体が私だとわかると飛び出して来る。}`
-`{ruby:In a rush, I jumped off the roof, but his reaction was really fast.:慌てて屋根から飛び降りるが、黒服の対応はあまりに素早い。}`
-`{ruby:......Either there was a massive reward for capturing me, or a harsh punishment for letting me get away.:……よほど私に賞金が掛かってるのか、取り逃がした際のお仕置きが苛烈なのかのどちらかだ。}`
+`{ruby:There was no way they'd have all rushed:彼らが、この場所に１人も残さずに全員が}{ruby:up the stairs without leaving one person behind.:階段を駆け上るはずはなかったのだ。}`
+`{ruby:There was one black‐suit left in the driver's:私を受け止めた車の運転席には}{ruby:seat of the car that had broken my fall.:黒服が１人残っていた。}`
+`{ruby:{n}He stuck his head out of the window, and when he realized:{n}扉より顔を出し、落下物の正体が}{ruby:that the thing that had fallen on him was me, he jumped out.:私だとわかると飛び出して来る。}`
+`{ruby:In a rush, I jumped off the:慌てて屋根から飛び降りるが、黒}{ruby:roof, but his reaction was really fast.:服の対応はあまりに素早い。}`
+`{ruby:......Either there was a massive reward for capturing me,:……よほど私に賞金が掛かってるのか、取り逃がし}{ruby:or a harsh punishment for letting me get away.:た際のお仕置きが苛烈なのかのどちらかだ。}`
 `{ruby:"15, secured, secured...!":「１５、確保、確保…！」}`
 `{ruby:"Owowowow......!!:「痛たたたた……！！}`
-`{ruby:Ghhhh, get your hands off me, let GO!!":くっ、気安く触らないで、離してッ！！」}`
-`{ruby:I was mercilessly held down against the asphalt.:アスファルトの上に容赦なく組み伏せられる。}`
-`{ruby:I was being crushed face‐down, covered and pressed down on from above.:私はうつ伏せに潰され、上から覆い被さるように圧し掛かられた。}`
-`{ruby:It was a hold without a trace of elegance, but it really was logical and left me absolutely no room for resistance.:エレガントさの欠片もない捕まえ方だが、実に合理的で抵抗の余地はまったくない。}`
-`{ruby:I tried to push back with both hands, searching for a way to resist,:私は何かの抵抗手段を求めて両手で抗おうとするが、}`
-`{ruby:but I was being pushed down solidly, and I couldn't even tear myself off the asphalt.:がっちりと押さえ付けられ、自分の体をアスファルトから引き剥がすことさえ出来なかった。}`
-`{ruby:Then another car came, squealing its tires as it slid to a sudden stop.:そこへさらに一台の車がタイヤを鳴かせながら滑り込んできて急停車する。}`
+`{ruby:Ghhhh, get your hands:くっ、気安く触らないで}{ruby:off me, let GO!!":、離してッ！！」}`
+`{ruby:I was mercilessly held:アスファルトの上に容赦な}{ruby:down against the asphalt.:く組み伏せられる。}`
+`{ruby:I was being crushed face‐down, covered:私はうつ伏せに潰され、上から覆い}{ruby:and pressed down on from above.:被さるように圧し掛かられた。}`
+`{ruby:It was a hold without a trace of elegance, but it:エレガントさの欠片もない捕まえ方だが、実}{ruby:really was logical and left me absolutely no room for resistance.:に合理的で抵抗の余地はまったくない。}`
+`{ruby:I tried to push back with both:私は何かの抵抗手段を求めて}{ruby:hands, searching for a way to resist,:両手で抗おうとするが、}`
+`{ruby:but I was being pushed down solidly, and:がっちりと押さえ付けられ、自分の体をアスファ}{ruby:I couldn't even tear myself off the asphalt.:ルトから引き剥がすことさえ出来なかった。}`
+`{ruby:Then another car came, squealing its tires:そこへさらに一台の車がタイヤを鳴かせ}{ruby:as it slid to a sudden stop.:ながら滑り込んできて急停車する。}`
 `{ruby:Guess it's all over.:万事休すか。}`
 `{ruby:"Gyah!!!":「ぎゃッ！！！」}`
-`{ruby:The man that had been crushing me let out a sharp cry.:私を押し潰していた男が鋭い悲鳴をあげる。}`
-`{ruby:......He had yelled close to my left ear, making it ring.:……私の耳の近くで叫ばれたものだから、左耳がキーンとする。}`
+`{ruby:The man that had been crushing:私を押し潰していた男が}{ruby:me let out a sharp cry.:鋭い悲鳴をあげる。}`
+`{ruby:......He had yelled close to:……私の耳の近くで叫ばれたものだ}{ruby:my left ear, making it ring.:から、左耳がキーンとする。}`
 `{ruby:What in the world?!:一体何事？！}`
-`{ruby:The black‐suit and I were unceremoniously rolled over.:その黒服ごと、私たちはごろんと転がされる。}`
-`{ruby:After being turned face up, the first thing I saw was...an arm stuck out right in front of my eyes.:仰向けにされて最初に目に入ったのは、私の目の前にずいっと突き出された腕だった。}`
+`{ruby:The black‐suit and I:その黒服ごと、私たちはご}{ruby:were unceremoniously rolled over.:ろんと転がされる。}`
+`{ruby:After being turned face up, the first thing I saw:仰向けにされて最初に目に入ったのは、私の目}{ruby:was...an arm stuck out right in front of my eyes.:の前にずいっと突き出された腕だった。}`
 `{ruby:".........Amakusa...?:「………天草…？}`
 `{ruby:Why are you here...?":あんた、どうしてここに…」}`
-`{ruby:"Let's talk about that after we've lost them.:「その話は撒いてからにしましょうぜ。}`
+`{ruby:"Let's talk about that:「その話は撒いてから}{ruby:after we've lost them.:にしましょうぜ。}`
 `{ruby:To the car, quickly, missy...!":お嬢、車へ早く…！」}`
-`{ruby:Amakusa grabbed my arm and easily pulled me up, spinning me around with himself as the center of gravity.:天草は私の腕を掴むと、軽々と引き起こし、自身を重心に私をグルリと振り回す。}`
-`{ruby:The thought that it was a little like a dance lasted only the few brief moments before he flung me through the open door into the driver's seat.:ちょっぴりだけダンスみたいと思ったのも束の間、開け放たれた運転席へ私を放り込んだ。}`
-`{ruby:I climbed over the hand brake and slid into the passenger's seat.:私はサイドブレーキを乗り越え、助手席へ潜り込む。}`
-`{ruby:{n}Pushing me through, Amakusa also got in and took up the driver's seat.:{n}天草も私を押し込むようにして運転席へ乗り込んでくる。}`
-`{ruby:Since we had suddenly taken off while I was still on all fours, I had to kick and struggle around on the seat for a while, like a turtle flipped onto its back...:四つん這い状態のままで急発進されたので、私は椅子の上でしばらくの間、引っ繰り返された亀のようにジタバタしなくてはならなかった…。}`
-`{ruby:Amakusa checked the rear‐view mirror for cars in pursuit, but flew into the artery of the big city without lowering his speed in the slightest.:天草はバックミラーに追跡車両がないことを確認するが、わずかもスピードを落とさずに、大都会の動脈に飛び込んでいく。}`
-`{ruby:We sewed our way between cars one after another.:すいすいと縫うように、次々車両を追い越していく。}`
-`{ruby:{n}Just like a chase scene in some action movie.:{n}まるっきり、アクション映画そのままのカーアクションだ。}`
-`{ruby:......Tossed about by his horrible driving, I had trouble getting myself reseated.:……ひどい運転に揺らされ、私はなかなか座り直すことが出来なかった。}`
+`{ruby:Amakusa grabbed my arm and easily pulled me up,:天草は私の腕を掴むと、軽々と引き起こし、}{ruby:spinning me around with himself as the center of gravity.:自身を重心に私をグルリと振り回す。}`
+`{ruby:The thought that it was a little like a dance lasted only the few:ちょっぴりだけダンスみたいと思ったのも束の間}{ruby:brief moments before he flung me through the open door into the driver's seat.:、開け放たれた運転席へ私を放り込んだ。}`
+`{ruby:I climbed over the hand brake:私はサイドブレーキを乗り越}{ruby:and slid into the passenger's seat.:え、助手席へ潜り込む。}`
+`{ruby:{n}Pushing me through, Amakusa also got:{n}天草も私を押し込むようにし}{ruby:in and took up the driver's seat.:て運転席へ乗り込んでくる。}`
+`{ruby:Since we had suddenly taken off while I was still on all fours, I had to:四つん這い状態のままで急発進されたので、私は椅子の上でしばらくの間}{ruby:kick and struggle around on the seat for a while, like a turtle flipped onto its back...:、引っ繰り返された亀のようにジタバタしなくてはならなかった…。}`
+`{ruby:Amakusa checked the rear‐view mirror for cars in pursuit, but flew into:天草はバックミラーに追跡車両がないことを確認するが、わずか}{ruby:the artery of the big city without lowering his speed in the slightest.:もスピードを落とさずに、大都会の動脈に飛び込んでいく。}`
+`{ruby:We sewed our way:すいすいと縫うように、次々}{ruby:between cars one after another.:車両を追い越していく。}`
+`{ruby:{n}Just like a chase:{n}まるっきり、アクション映画}{ruby:scene in some action movie.:そのままのカーアクションだ。}`
+`{ruby:......Tossed about by his horrible driving,:……ひどい運転に揺らされ、私はなかな}{ruby:I had trouble getting myself reseated.:か座り直すことが出来なかった。}`
 `{ruby:"Any injuries, missy?":「お嬢、お怪我は？」}`
 `{ruby:"All good.:「問題ないわ。}`
 `{ruby:Humans are surprisingly durable.:人間って案外頑丈よ。}`
-`{ruby:From now on, whenever I miss a down elevator, I'll just jump out a window instead.":私、次からは降りのエレベーターを逃したら、窓から飛び降りることにするわ」}`
-`{ruby:"Hyahhahaha, looks like air dives are your hobby, missy.:「ひゃっははは、お嬢の趣味はエアダイブらしいや。}`
-`{ruby:Still, I recommend that you bring a parachute next time.":ただ、次からは落下傘をつけることをお勧めしますぜ」}`
-`{ruby:"I'll do that, if I remember after jumping.":「飛び降りた後に思い出せたらね」}`
+`{ruby:From now on, whenever I miss a down:私、次からは降りのエレベーターを逃した}{ruby:elevator, I'll just jump out a window instead.":ら、窓から飛び降りることにするわ」}`
+`{ruby:"Hyahhahaha, looks like air:「ひゃっははは、お嬢の趣味}{ruby:dives are your hobby, missy.:はエアダイブらしいや。}`
+`{ruby:Still, I recommend that you:ただ、次からは落下傘をつける}{ruby:bring a parachute next time.":ことをお勧めしますぜ」}`
+`{ruby:"I'll do that, if:「飛び降りた後に思}{ruby:I remember after jumping.":い出せたらね」}`
 `{ruby:"Hyahhahahahaha, <cool>!":「ひゃっははははは、クールッ！」}`
-`{ruby:He smacked the steering wheel, guffawing.:げらげら笑いながら、ハンドルを叩く。}`
-`{ruby:Need an explanation for this flippantly spoken man?:この軽薄そうな喋り方をする男について説明がいる？}`
-`{ruby:His name is Amakusa Juuza ({p:0:天草十三}).:彼の名は天草十三。}`
-`{ruby:He was originally one of Aunt Eva's guards.:元々は絵羽伯母さんの護衛の一人。}`
-`{ruby:If I remember correctly, she hated him for being too jokey and too chatty.:軽口とお喋りが過ぎて伯母さんには嫌われてたっけ。}`
-`{ruby:He was especially young amongst the guards, but contrary to his outward flippancy, he had hopped from the 1st Airborne of the JSDF to the French Foreign Legion,:護衛たちの中では一際若いが、見掛けの軽薄さとは裏腹に、自衛隊第一空挺からフランス外人部隊をハシゴして、}`
-`{ruby:placing himself in overseas private military companies and high‐class security companies one after another, making for a pretty incredible and unique career.:海外の民間軍事会社や高級警備会社に次々身を置くなど、なかなか優れたユニークな経歴を持つ。}`
-`{ruby:......But I heard that he ran off from both the JSDF and the French Foreign Legion, and that he'll be arrested if he enters France again.:……ただ、自衛隊とフランス外人部隊はいずれも脱走だそうで、彼はフランスに入国すると逮捕されるんだとか。}`
-`{ruby:{n}Both of these flippant episodes were very typical of him.:{n}これもまた彼らしい軽薄なエピソードだ。}`
-`{ruby:Apparently, the guards had been sternly told not to chat with me unnecessarily,:護衛たちは私に対し、余計なお喋りをしないように強く言われていたらしいが、}`
-`{ruby:but I recall that didn't stop him coming to take a pass at me.:彼はそんなのお構いなしに私にちょっかいを出してきたっけ。}`
-`{ruby:Aunt Eva had particularly disliked that, and I believe she dismissed him right before she died.:その辺を特に嫌われて、絵羽伯母さんが死ぬ直前頃に解雇されたはずだ。}`
-`{ruby:"It's nice to hear that casual tone again.:「その軽口が懐かしいわ。}`
-`{ruby:What have you been up to since getting fired?":クビになった後はどうしてたの？」}`
+`{ruby:He smacked the:げらげら笑いながら、}{ruby:steering wheel, guffawing.:ハンドルを叩く。}`
+`{ruby:Need an explanation for:この軽薄そうな喋り方をする}{ruby:this flippantly spoken man?:男について説明がいる？}`
+`{ruby:His name is:彼の名は天草}{ruby:Amakusa Juuza ({p:0:天草十三}).:十三。}`
+`{ruby:He was originally one:元々は絵羽伯母さん}{ruby:of Aunt Eva's guards.:の護衛の一人。}`
+`{ruby:If I remember correctly, she hated him:軽口とお喋りが過ぎて伯母さ}{ruby:for being too jokey and too chatty.:んには嫌われてたっけ。}`
+`{ruby:He was especially young amongst the guards, but contrary to his outward flippancy, he:護衛たちの中では一際若いが、見掛けの軽薄さとは裏腹に、}{ruby:had hopped from the 1st Airborne of the JSDF to the French Foreign Legion,:自衛隊第一空挺からフランス外人部隊をハシゴして、}`
+`{ruby:placing himself in overseas private military companies and high‐class security companies:海外の民間軍事会社や高級警備会社に次々身を置く}{ruby:one after another, making for a pretty incredible and unique career.:など、なかなか優れたユニークな経歴を持つ。}`
+`{ruby:......But I heard that he ran off from both the JSDF and the:……ただ、自衛隊とフランス外人部隊はいずれも脱走だそう}{ruby:French Foreign Legion, and that he'll be arrested if he enters France again.:で、彼はフランスに入国すると逮捕されるんだとか。}`
+`{ruby:{n}Both of these flippant episodes:{n}これもまた彼らしい}{ruby:were very typical of him.:軽薄なエピソードだ。}`
+`{ruby:Apparently, the guards had been sternly:護衛たちは私に対し、余計なお喋りをしな}{ruby:told not to chat with me unnecessarily,:いように強く言われていたらしいが、}`
+`{ruby:but I recall that didn't stop him:彼はそんなのお構いなしに私にち}{ruby:coming to take a pass at me.:ょっかいを出してきたっけ。}`
+`{ruby:Aunt Eva had particularly disliked that, and I:その辺を特に嫌われて、絵羽伯母さんが}{ruby:believe she dismissed him right before she died.:死ぬ直前頃に解雇されたはずだ。}`
+`{ruby:"It's nice to hear:「その軽口が懐}{ruby:that casual tone again.:かしいわ。}`
+`{ruby:What have you been:クビになった後はど}{ruby:up to since getting fired?":うしてたの？」}`
 `{ruby:"Coaching people at Blackwater.:「ブラックウォーターでエクササイズの指導を。}`
-`{ruby:I came back to this country for some time off, and President Okonogi offered me a high wage.":休暇で帰国したら小此木社長に高給を提示されまして」}`
+`{ruby:I came back to this country for some time:休暇で帰国したら小此木社長に}{ruby:off, and President Okonogi offered me a high wage.":高給を提示されまして」}`
 `{ruby:"......And you ran off again?:「……んで、また脱走？}`
-`{ruby:What use is a man like that, I wonder.":こんな男、何の役に立つのかしら」}`
-`{ruby:"It doesn't count as running off as long as I come back by next week.:「来週までに帰りゃ脱走にはなりませんので。}`
+`{ruby:What use is a:こんな男、何の役に立}{ruby:man like that, I wonder.":つのかしら」}`
+`{ruby:"It doesn't count as running off as:「来週までに帰りゃ脱走に}{ruby:long as I come back by next week.:はなりませんので。}`
 `{ruby:I talked with him yesterday.:話があったのは昨日です。}`
-`{ruby:I was told that you might attract some troublesome people.":お嬢が厄介な連中を呼び込むかもしれないと言われまして」}`
-`{ruby:"Sorry that it turned out to be exactly right.":「まさにその通りで申し訳ないわね」}`
-`{ruby:"My name probably came up since I know you, and I've got plenty of experience when things get crazy.:「お嬢と面識があって、ドタバタの経験も豊富ってことでご指名が来たんでしょうぜ。}`
-`{ruby:Thanks to you, it looks like this'll make for a happy break along with some pocket money.":お嬢のお陰で、ハッピーな休暇と小遣い稼ぎになりそうです」}`
-`{ruby:"......Okonogi‐san employed you as my guard?":「……小此木さんがあんたを、私の護衛に雇ったってこと？」}`
-`{ruby:"He probably wants you to owe him one, missy.:「お嬢に恩を売りたいんでしょうぜ。}`
-`{ruby:......After I got the axe, President Okonogi helped me out a bunch, you see.:……クビの後、小此木の社長には色々と世話になってましてね。}`
-`{ruby:He's got me right where he wants me, can't say no to him.:色々と弱みを握られてンで、逆らえんのですわ。}`
+`{ruby:I was told that you:お嬢が厄介な連中を呼び込むかも}{ruby:might attract some troublesome people.":しれないと言われまして」}`
+`{ruby:"Sorry that it turned:「まさにその通りで申}{ruby:out to be exactly right.":し訳ないわね」}`
+`{ruby:"My name probably came up since I know you,:「お嬢と面識があって、ドタバタの経験も豊富}{ruby:and I've got plenty of experience when things get crazy.:ってことでご指名が来たんでしょうぜ。}`
+`{ruby:Thanks to you, it looks like this'll make:お嬢のお陰で、ハッピーな休暇と}{ruby:for a happy break along with some pocket money.":小遣い稼ぎになりそうです」}`
+`{ruby:"......Okonogi‐san employed you:「……小此木さんがあんたを、私}{ruby:as my guard?":の護衛に雇ったってこと？」}`
+`{ruby:"He probably wants you:「お嬢に恩を売りたい}{ruby:to owe him one, missy.:んでしょうぜ。}`
+`{ruby:......After I got the axe, President Okonogi:……クビの後、小此木の社長には色}{ruby:helped me out a bunch, you see.:々と世話になってましてね。}`
+`{ruby:He's got me right where he:色々と弱みを握られてンで}{ruby:wants me, can't say no to him.:、逆らえんのですわ。}`
 `{ruby:Hyahha!":ヒャッハ！」}`
-`{ruby:"......Seems that if you let Okonogi‐san help you out, it'll be pretty costly in the future.:「……小此木さんの世話になると、後々で高く付きそうね。}`
-`{ruby:......So, where are you planning on taking me?":……で、あんたは私をどこに連れて行くつもりなの？」}`
+`{ruby:"......Seems that if you let Okonogi‐san help you:「……小此木さんの世話になると}{ruby:out, it'll be pretty costly in the future.:、後々で高く付きそうね。}`
+`{ruby:......So, where are you:……で、あんたは私をどこに連}{ruby:planning on taking me?":れて行くつもりなの？」}`
 `{ruby:"Wherever.:「どちらへでも。}`
 `{ruby:I'm employed until the weekend.:週末までは雇われてます。}`
-`{ruby:Anything after that'll cost you extra.":それ以降は別料金で」}`
+`{ruby:Anything after that'll:それ以降は別}{ruby:cost you extra.":料金で」}`
 `{ruby:"How much a day?":「一日いくら？」}`
 `{ruby:"I'll cut you a deal for 50K.:「５万で手を打ちます。}`
 `{ruby:Plus expenses.":経費は別ですぜ」}`
-`{ruby:"If you stop cracking jokes, I'll double it.:「軽口を叩かないなら倍払うわ。}`
-`{ruby:The period of employment is undetermined.:雇用期間は未定。}`
+`{ruby:"If you stop cracking:「軽口を叩かないな}{ruby:jokes, I'll double it.:ら倍払うわ。}`
+`{ruby:The period of:雇用期間は}{ruby:employment is undetermined.:未定。}`
 `{ruby:It might be several weeks.":何週間かになるかも」}`
 `{ruby:"...That'll be tough.:「…そりゃ大変だ。}`
-`{ruby:I'll have to call the boss to get an extension on my vacation.":ボスに休暇の延長を電話しねぇとなりませんぜ」}`
-`{ruby:"I just want to investigate that day, more than anything.":「私、どうしてもあの日のことが調べたいの」}`
-`{ruby:"......Oh, you're talking about Rokkenjima?":「……あぁ、例の六軒島の？」}`
+`{ruby:I'll have to call the boss:ボスに休暇の延長を電話し}{ruby:to get an extension on my vacation.":ねぇとなりませんぜ」}`
+`{ruby:"I just want to investigate:「私、どうしてもあの日の}{ruby:that day, more than anything.":ことが調べたいの」}`
+`{ruby:"......Oh, you're:「……あぁ、例の}{ruby:talking about Rokkenjima?":六軒島の？」}`
 `{ruby:"Yes.:「そうよ。}`
-`{ruby:What happened on that island twelve years ago?:１２年前にあの島で何があったのか。}`
-`{ruby:......I want to investigate it with my own hands, and find a satisfying explanation.":……私の手で、納得が行くように調べたいの」}`
-`{ruby:"Will you really make any new discoveries at this point, investigating something that happened so long ago...?":「そんな昔のことを今さら調べて、今さら新しい発見がありますかねぇ…？」}`
+`{ruby:What happened on that:１２年前にあの島で何}{ruby:island twelve years ago?:があったのか。}`
+`{ruby:......I want to investigate it with my:……私の手で、納得が行く}{ruby:own hands, and find a satisfying explanation.":ように調べたいの」}`
+`{ruby:"Will you really make any new discoveries at:「そんな昔のことを今さら調べて、今さら}{ruby:this point, investigating something that happened so long ago...?":新しい発見がありますかねぇ…？」}`
 `{ruby:"You're right.:「そうね。}`
-`{ruby:Which is why this is a journey for my own self‐satisfaction.:だからこれは、私の自己満足のための旅なのよ。}`
-`{ruby:......Once I'm done, I'll just throw my hands up and go to the Sumadera family.":……それを終えたら、ネギでも背負って須磨寺の家に行くわ」}`
-`{ruby:"......Didn't Aunt Kasumi say something about wanting to treat me to some {ruby:powdered tea:matcha}?:「……霞叔母さん、私にお抹茶をご馳走したいとか言ってたっけ。}`
-`{ruby:Maybe I'll be made to kneel on some sharp wooden blocks and clutch stones or something while we drink.":角材の上に正座させられて、石でも抱かされながらのお茶かしら」}`
-`{ruby:"Damn that sounds freaky, hyahhahahaha...!":「そりゃおっかねぇや、ひゃっはははは…！」}`
-`{ruby:"My apologies, we lost sight of her...:「申し訳ございません、見失いました…。}`
-`{ruby:A single man thought to be an associate assisted in her escape.:仲間と思われる男が１人、脱出を援護。}`
-`{ruby:Judging by his possession of a stun gun and his driving skills, he is no amateur.":スタンガン所持、運転技術その他から見て、素人ではありません」}`
+`{ruby:Which is why this is:だからこれは、私の自己満}{ruby:a journey for my own self‐satisfaction.:足のための旅なのよ。}`
+`{ruby:......Once I'm done, I'll just throw my:……それを終えたら、ネギでも背}{ruby:hands up and go to the Sumadera family.":負って須磨寺の家に行くわ」}`
+`{ruby:"......Didn't Aunt Kasumi say something about wanting:「……霞叔母さん、私にお抹茶をご}{ruby:to treat me to some {ruby:powdered tea:matcha}?:馳走したいとか言ってたっけ。}`
+`{ruby:Maybe I'll be made to kneel on some sharp:角材の上に正座させられて、石でも}{ruby:wooden blocks and clutch stones or something while we drink.":抱かされながらのお茶かしら」}`
+`{ruby:"Damn that:「そりゃおっかねぇや、ひ}{ruby:sounds freaky, hyahhahahaha...!":ゃっはははは…！」}`
+`{ruby:"My apologies, we:「申し訳ございません、}{ruby:lost sight of her...:見失いました…。}`
+`{ruby:A single man thought to be:仲間と思われる男が１}{ruby:an associate assisted in her escape.:人、脱出を援護。}`
+`{ruby:Judging by his possession of a stun gun:スタンガン所持、運転技術その他か}{ruby:and his driving skills, he is no amateur.":ら見て、素人ではありません」}`
 `{ruby:"............I see. Thank you.:「…………そう、ありがとう。}`
 `{ruby:.........I'm disappointed, Okonogi.:………残念よ、小此木。}`
-`{ruby:Shall I take this as your answer...?":これがあなたのお返事だということでよろしいかしら…？」}`
-`{ruby:"Letting her get away was your screwup.:「逃がしたのはあんたのヘマだ。}`
+`{ruby:Shall I take:これがあなたのお返事だというこ}{ruby:this as your answer...?":とでよろしいかしら…？」}`
+`{ruby:"Letting her get:「逃がしたのはあん}{ruby:away was your screwup.:たのヘマだ。}`
 `{ruby:Not my problem, I'm afraid.":俺の知ったこっちゃないねぇ」}`
-`{ruby:"............I'd dearly like to treat you to some matcha in the near future as well.:「…………あなたにもぜひ今度、お抹茶をご馳走したいわね。}`
-`{ruby:The next time you are in Kyoto, please do stop by.:京都にお出での際には、ぜひお立ち寄りなさいな。}`
+`{ruby:"............I'd dearly like to treat you to:「…………あなたにもぜひ今度、}{ruby:some matcha in the near future as well.:お抹茶をご馳走したいわね。}`
+`{ruby:The next time you are:京都にお出での際には、ぜひ}{ruby:in Kyoto, please do stop by.:お立ち寄りなさいな。}`
 `{ruby:.........Let's go.":………行くわよ」}`
 `{ruby:"Huh, leaving already?:「あれ、もう帰っちまうのかい。}`
-`{ruby:{c:86EF9C:You could have some chazuke before you go.}":お茶漬けでも食ってけばいいのに」}`
+`{ruby:{c:86EF9C:You could have some:お茶漬けでも食って}{ruby:chazuke before you go.}":けばいいのに」}`
 `{ruby:"..................*cackle*cackle*.:「………………くっくっくっく。}`
 `{ruby:...Hoh‐hoh‐hoh‐hoh‐ho...!!":…ほっほっほっほっほ…！！」}`
-`{ruby:Her back to Okonogi, she laughed at first lightly, but with an increasingly shrill and hateful tone, using that as a substitute for a sharp parting remark.:霞は小此木に背を向けたまま、軽やかに、そして徐々に甲高く憎々しく声色を変えて笑い、それを捨て台詞の代わりとする。}`
-`{ruby:At the exact moment she stopped laughing, the look on her face changed dramatically to that of a {ruby:hannya:demon},:笑い終えると同時に、その形相は般若のように豹変するが、}`
-`{ruby:but because her back was facing him, Okonogi never saw that expression.:背を向けられた小此木にその表情が見えることはなかった。}`
-`{ruby:Okonogi watched her go, laughing coolly.:小此木はそれを涼しげに笑いながら見送る。}`
-`{ruby:{n}His secretary whispered over his shoulder.:{n}その肩越しに、彼の秘書が囁きかける。}`
+`{ruby:Her back to Okonogi, she laughed at first lightly, but with an increasingly:霞は小此木に背を向けたまま、軽やかに、そして徐々に甲高く憎}{ruby:shrill and hateful tone, using that as a substitute for a sharp parting remark.:々しく声色を変えて笑い、それを捨て台詞の代わりとする。}`
+`{ruby:At the exact moment she stopped laughing, the look:笑い終えると同時に、その形相は}{ruby:on her face changed dramatically to that of a {ruby:hannya:demon},:般若のように豹変するが、}`
+`{ruby:but because her back was facing:背を向けられた小此木にその表情}{ruby:him, Okonogi never saw that expression.:が見えることはなかった。}`
+`{ruby:Okonogi watched her:小此木はそれを涼しげに}{ruby:go, laughing coolly.:笑いながら見送る。}`
+`{ruby:{n}His secretary whispered:{n}その肩越しに、彼の}{ruby:over his shoulder.:秘書が囁きかける。}`
 `{ruby:"......Is that alright?:「……よろしいのですか？}`
-`{ruby:Milady Ange is our company's primary stockholder.:縁寿お嬢様は我が社の筆頭株主です。}`
-`{ruby:If the Sumadera family becomes her guardian...":須磨寺家が後見人になれば…」}`
+`{ruby:Milady Ange is:縁寿お嬢様は我が社の}{ruby:our company's primary stockholder.:筆頭株主です。}`
+`{ruby:If the Sumadera:須磨寺家が後見人}{ruby:family becomes her guardian...":になれば…」}`
 `{ruby:"I get it.:「知ってらぁ。}`
-`{ruby:But you know, we're the one‐and‐only Ushiromiyas.:だがな、ウチも天下の右代宮だ。}`
+`{ruby:But you know,:だがな、ウチも天下}{ruby:we're the one‐and‐only Ushiromiyas.:の右代宮だ。}`
 `{ruby:We can't let them take us lightly.":舐められてたまるかってんだ」}`
-`{ruby:"......Still, looks like he outmanuevered them pretty well.:「……しかし、あいつ、うまく立ち回ってくれたようだな。}`
-`{ruby:......Now we'll just let Ange‐chan do as she pleases.:……あとは縁寿ちゃんの好きにさせるさ。}`
+`{ruby:"......Still, looks like he:「……しかし、あいつ、うまく立}{ruby:outmanuevered them pretty well.:ち回ってくれたようだな。}`
+`{ruby:......Now we'll just let:……あとは縁寿ちゃんの}{ruby:Ange‐chan do as she pleases.:好きにさせるさ。}`
 `{ruby:I'm counting on you, Amakusa.":頼むぜぇ、天草ぁ」}`
 `{ruby:"......Kasumi‐sama.:「……霞さま。}`
 `{ruby:The getaway vehicle was a rental.:逃走車両はレンタル。}`
-`{ruby:The license plate on display was a fake.:提示した免許証は偽装とのこと。}`
+`{ruby:The license plate on:提示した免許証は偽}{ruby:display was a fake.:装とのこと。}`
 `{ruby:He's clearly a pro.:明らかにプロです。}`
 `{ruby:They will probably abandon the car.:恐らく車両は放棄するでしょう。}`
 `{ruby:Pursuit will be difficult.:追跡は困難です。}`
-`{ruby:......Should we have the police chase them?":……警察に追わせますか」}`
+`{ruby:......Should we have:……警察に追わ}{ruby:the police chase them?":せますか」}`
 `{ruby:"............Let me see.:「…………そうね。}`
-`{ruby:Shall we have them search for a runaway daughter?:家出娘の捜索願でも出そうかしら？}`
-`{ruby:They are getting paid with our taxes, so we must have them be of some use every once in a while.:税金納めてるんだもの、警察にもたまには役に立ってもらわなきゃ。}`
+`{ruby:Shall we have them:家出娘の捜索願でも}{ruby:search for a runaway daughter?:出そうかしら？}`
+`{ruby:They are getting paid with our taxes, so we must:税金納めてるんだもの、警察にもたま}{ruby:have them be of some use every once in a while.:には役に立ってもらわなきゃ。}`
 `{ruby:Hoh‐hoh‐hoh‐ho............":ほっほっほっほ…………」}`
-`{ruby:"You do realize I left the mansion defiantly insisting to Mother that she should leave it to me?:「母上に、私にお任せをと啖呵を切ってお屋敷を出て来たんですよ？}`
-`{ruby:Do you intend to embarrass me further still......?":あなた、私にさらに恥をかかせるおつもり……？」}`
-`{ruby:"It looks like I need to serve some matcha to every single one of you, doesn't it?:「あんたらまとめて、お抹茶を振舞った方が良さそうねぇ？}`
-`{ruby:......Our underground tea room is cramped, so you'll have to wait in line, won't you......?":……地下のお茶室は狭いから、順番待ちの行列になっちゃうかしら……？」}`
+`{ruby:"You do realize I left the mansion defiantly insisting:「母上に、私にお任せをと啖呵を切っ}{ruby:to Mother that she should leave it to me?:てお屋敷を出て来たんですよ？}`
+`{ruby:Do you intend to:あなた、私にさらに恥をかか}{ruby:embarrass me further still......?":せるおつもり……？」}`
+`{ruby:"It looks like I need to serve some:「あんたらまとめて、お抹茶を振}{ruby:matcha to every single one of you, doesn't it?:舞った方が良さそうねぇ？}`
+`{ruby:......Our underground tea room is cramped, so:……地下のお茶室は狭いから、順番待ちの}{ruby:you'll have to wait in line, won't you......?":行列になっちゃうかしら……？」}`
 `{ruby:"N‐no...:「い、いえ…。}`
-`{ruby:We will search with everything we have.":全力で捜索します」}`
-`{ruby:"......Ahh, she really is a cute kid, just like Nee‐san.:「……あぁ、本当に可愛い子ねぇ、姉さんに本当にそっくり。}`
-`{ruby:......Especially that unrestrained, self‐centered side of her.:……自分勝手で自由奔放な辺りが本当にそっくり。}`
-`{ruby:......Ahh, now I can't see her as anyone but Nee‐san.":……あぁ、もう姉さんにしか見えなくなってきたわ」}`
-`{ruby:"Ahh, I'm truly looking forward to it.:「あぁ、本当に楽しみよ。}`
-`{ruby:To think I'll be able to invite Nee‐san's daughter to my tea room......:姉さんの娘をお茶室にお招きできるなんてね……？}`
+`{ruby:We will search:全力で捜索し}{ruby:with everything we have.":ます」}`
+`{ruby:"......Ahh, she really is a:「……あぁ、本当に可愛い子ねぇ}{ruby:cute kid, just like Nee‐san.:、姉さんに本当にそっくり。}`
+`{ruby:......Especially that unrestrained,:……自分勝手で自由奔放な辺}{ruby:self‐centered side of her.:りが本当にそっくり。}`
+`{ruby:......Ahh, now I can't see:……あぁ、もう姉さんにしか}{ruby:her as anyone but Nee‐san.":見えなくなってきたわ」}`
+`{ruby:"Ahh, I'm truly:「あぁ、本当に}{ruby:looking forward to it.:楽しみよ。}`
+`{ruby:To think I'll be able to:姉さんの娘をお茶室にお招き}{ruby:invite Nee‐san's daughter to my tea room......:できるなんてね……？}`
 `{ruby:Hoh‐hoh‐hoh‐hoh‐ho......!!":ほっほっほっほっほ……！！」}`
-`{ruby:"......The Sumadera family sure moved quickly.:「……須磨寺家、動きが早かったわね。}`
+`{ruby:"......The Sumadera family:「……須磨寺家、動き}{ruby:sure moved quickly.:が早かったわね。}`
 `{ruby:Did Okonogi‐san sell me out...?":私、小此木さんに売られた…？」}`
 `{ruby:"You're joking.:「ご冗談を。}`
 `{ruby:He's my client.:俺のクライアントですぜ。}`
-`{ruby:If he'd sold you out, he wouldn't have hired me, right...?":お嬢を売ったなら、俺を雇ったりはしませんぜ…？」}`
+`{ruby:If he'd sold you out,:お嬢を売ったなら、俺を雇っ}{ruby:he wouldn't have hired me, right...?":たりはしませんぜ…？」}`
 `{ruby:"...........................:「………………………。}`
 `{ruby:...I guess that's true.":…それもそうね」}`
-`{ruby:"......Ah, so that's why you got off the elevator at the third floor?":「……あぁ、だから３階でエレベーターを降りたんですか」}`
-`{ruby:"Having a car waiting in the underground parking lot was suspiciously well‐organized of him, you see.:「地下駐車場に車が待ってるなんて、手際が妙に良過ぎたから。}`
-`{ruby:I thought that he might have sold me out.:小此木さんに売られたかもしれないって思って。}`
-`{ruby:......Although at this point, it's impossible to prove whether there was an ambush set up in the parking lot or not.":……駐車場に待ち伏せがいたかどうかは、今となっては証明不能だけどね」}`
+`{ruby:"......Ah, so that's why you got:「……あぁ、だから３階でエレベ}{ruby:off the elevator at the third floor?":ーターを降りたんですか」}`
+`{ruby:"Having a car waiting in the underground parking:「地下駐車場に車が待ってるなんて}{ruby:lot was suspiciously well‐organized of him, you see.:、手際が妙に良過ぎたから。}`
+`{ruby:I thought that he:小此木さんに売られたかも}{ruby:might have sold me out.:しれないって思って。}`
+`{ruby:......Although at this point, it's impossible to prove whether there:……駐車場に待ち伏せがいたかどうかは}{ruby:was an ambush set up in the parking lot or not.":、今となっては証明不能だけどね」}`
 `{ruby:"Riiight... Damn, the poor guy.:「なるほどねぇ、社長め、気の毒に。}`
-`{ruby:Looks like he didn't have your trust, missy.:お嬢に信用されてないらしい。}`
+`{ruby:Looks like he didn't:お嬢に信用されて}{ruby:have your trust, missy.:ないらしい。}`
 `{ruby:That car in the basement was mine.":その地下の車って、俺のことです」}`
 `{ruby:"Huh......?:「え……？}`
 `{ruby:He was talking about you...?":天草のことだったの…？」}`
-`{ruby:"I freaked out when the elevator was empty.:「着いたエレベーターが空だったんで焦りましたぜ。}`
-`{ruby:If I hadn't been able to listen in on their radio, who knows what would have happened by now.":連中の無線を盗聴できてなきゃ、今頃どうなってたやら」}`
+`{ruby:"I freaked out when:「着いたエレベーターが空だ}{ruby:the elevator was empty.:ったんで焦りましたぜ。}`
+`{ruby:If I hadn't been able to listen in on:連中の無線を盗聴できてなきゃ}{ruby:their radio, who knows what would have happened by now.":、今頃どうなってたやら」}`
 `{ruby:"..................So...what?:「………………つまり何？}`
-`{ruby:If I had obediently believed Okonogi‐san and gone to the parking lot,:私が素直に小此木さんを信じて、駐車場に行ってれば、}`
-`{ruby:there would have been no need for me to do that jump off the third floor...?":私は３階から飛び降りるなんて真似、する必要もなかったってこと…？」}`
+`{ruby:If I had obediently believed Okonogi‐san:私が素直に小此木さんを信じて}{ruby:and gone to the parking lot,:、駐車場に行ってれば、}`
+`{ruby:there would have been no need for me:私は３階から飛び降りるなんて真似、す}{ruby:to do that jump off the third floor...?":る必要もなかったってこと…？」}`
 `{ruby:"Pretty much.:「そうなりますなぁ。}`
-`{ruby:Well, it turned out alright in the end.":まぁ、結果オーライですがね」}`
+`{ruby:Well, it turned out:まぁ、結果オーラ}{ruby:alright in the end.":イですがね」}`
 `{ruby:"........................":「……………………」}`
 `{ruby:.........Well that's something.:………何てことだろう。}`
-`{ruby:If I hadn't suspected President Okonogi,:もしも私が小此木社長を疑わなかったなら、}`
-`{ruby:......I could have easily escaped without getting caught in a tough spot.:……窮地に陥ることもなく、のんびりと脱出できていたのだ。}`
-`{ruby:{i:"President Okonogi might have sold me out."}:“小此木社長は私を売ったかもしれない”。}`
-`{ruby:No, because paranoia told me that it was better to suppose that he sold me out, I assumed and {i:decided} that he did.:いや、売ったことを想定した方がいい、という疑心暗鬼が、“彼は私を売った”と仮定し{i:決め付けた}。}`
+`{ruby:If I hadn't:もしも私が小此木社長を}{ruby:suspected President Okonogi,:疑わなかったなら、}`
+`{ruby:......I could have easily escaped without:……窮地に陥ることもなく、のん}{ruby:getting caught in a tough spot.:びりと脱出できていたのだ。}`
+`{ruby:{i:"President Okonogi might:“小此木社長は私を売っ}{ruby:have sold me out."}:たかもしれない”。}`
+`{ruby:No, because paranoia told me that it was better to suppose:いや、売ったことを想定した方がいい、という疑心暗鬼が}{ruby:that he sold me out, I assumed and {i:decided} that he did.:、“彼は私を売った”と仮定し{i:決め付けた}。}`
 `{ruby:Because I wasn't able to believe him,:彼を信じられなかったから、彼の真実にもかかわらず、}`
-`{ruby:my truth, regardless of his truth, became "he sold me out"......:私の真実は“彼が私を売った”となった……。}`
-`{ruby:I thought back on President Okonogi's words.:小此木社長の言葉が蘇る。}`
-`{ruby:Can you really call truth "truth" if it isn't absolute...?:絶対性のない真実なんて、それを真実と呼べるのかい…？}`
-`{ruby:Truth can change completely depending on whether you have love or not.:真実なんて、愛があるかないかでいくらでも変わる。}`
-`{ruby:In the end, ......perhaps this thing called "truth" doesn't exist.:結局のところ、……真実などというものは存在しないのかもしれない。}`
-`{ruby:For each person who speaks of it, another truth is born from their interpretations—that's all there is to it.:それを語る人間の数だけ、各々の解釈の真実が生み出される。ただそれだけなのだ。}`
-`{ruby:If I can't accept something that indeterminate as truth,:そんな不定形なものを真実だと認められないのなら、}`
-`{ruby:......then where {i:does} the truth that I really want to find exist?:……私が本当に見つけたいと思う真実は、どこに存在するというのか。}`
-`{ruby:......And is that something that can be seen with the eyes?:……そしてそれは、目で見えるものなのか。}`
-`{ruby:I might be surprised to discover...that even if the truth is thrust in front of me,:案外、…目の前にこれが真実だと突きつけられても、}`
-`{ruby:......it may be something that I cannot {y:1:‘see’}{n:1:see}...:……私には視えないモノなのかも知れない…。}`
-`{ruby:"......Without love, it cannot be {y:1:‘seen’}{n:1:seen}, is it...":「……愛がなければ視えない、か」}`
-`{ruby:".........This fragment of yours is very lively.:「………あなたのカケラはずいぶんと賑やかね。}`
+`{ruby:my truth, regardless of his:私の真実は“彼が私を売っ}{ruby:truth, became "he sold me out"......:た”となった……。}`
+`{ruby:I thought back:小此木社長の言}{ruby:on President Okonogi's words.:葉が蘇る。}`
+`{ruby:Can you really call truth:絶対性のない真実なんて、それ}{ruby:"truth" if it isn't absolute...?:を真実と呼べるのかい…？}`
+`{ruby:Truth can change completely depending on:真実なんて、愛があるかない}{ruby:whether you have love or not.:かでいくらでも変わる。}`
+`{ruby:In the end, ......perhaps this:結局のところ、……真実などというも}{ruby:thing called "truth" doesn't exist.:のは存在しないのかもしれない。}`
+`{ruby:For each person who speaks of it, another truth:それを語る人間の数だけ、各々の解釈の真実}{ruby:is born from their interpretations—that's all there is to it.:が生み出される。ただそれだけなのだ。}`
+`{ruby:If I can't accept:そんな不定形なものを真実だ}{ruby:something that indeterminate as truth,:と認められないのなら、}`
+`{ruby:......then where {i:does} the truth that:……私が本当に見つけたいと思う真実}{ruby:I really want to find exist?:は、どこに存在するというのか。}`
+`{ruby:......And is that something that:……そしてそれは、目で}{ruby:can be seen with the eyes?:見えるものなのか。}`
+`{ruby:I might be surprised to discover...that even if:案外、…目の前にこれが真実}{ruby:the truth is thrust in front of me,:だと突きつけられても、}`
+`{ruby:......it may be something:……私には視えないモノな}{ruby:that I cannot {y:1:‘see’}{n:1:see}...:のかも知れない…。}`
+`{ruby:"......Without love, it cannot:「……愛がなければ}{ruby:be {y:1:‘seen’}{n:1:seen}, is it...":視えない、か」}`
+`{ruby:".........This fragment of:「………あなたのカケラは}{ruby:yours is very lively.:ずいぶんと賑やかね。}`
 `{ruby:It doesn't bore me.":退屈しないわ」}`
 `{ruby:"You said to me.:「あなたは言ったわ。}`
-`{ruby:You told me to search for the truth of twelve years ago.:１２年前の真実を探れと私に命じた。}`
-`{ruby:......But I feel like it's not really clear to me anymore.":……でも、何だかわからなくなってしまった」}`
+`{ruby:You told me to search for:１２年前の真実を探れ}{ruby:the truth of twelve years ago.:と私に命じた。}`
+`{ruby:......But I feel like it's:……でも、何だかわからな}{ruby:not really clear to me anymore.":くなってしまった」}`
 `{ruby:"What isn't?":「何が？」}`
 `{ruby:"......What is truth?:「……真実って何？}`
-`{ruby:There are as many truths as there are people.:人の数だけ真実がある。}`
-`{ruby:There are as many interpretations as there are people.:人の数だけ解釈がある。}`
-`{ruby:And those can be twisted by opinions and changed indefinitely.:そしてそれは主観によって歪められ、いくらでも姿を変える。}`
-`{ruby:......Is truth really that indeterminate and vague?":……真実ってものは、そんなにも不定形であやふやなものなの？」}`
+`{ruby:There are as many:人の数だけ真実}{ruby:truths as there are people.:がある。}`
+`{ruby:There are as many:人の数だけ解釈}{ruby:interpretations as there are people.:がある。}`
+`{ruby:And those can be twisted:そしてそれは主観によって歪めら}{ruby:by opinions and changed indefinitely.:れ、いくらでも姿を変える。}`
+`{ruby:......Is truth really:……真実ってものは、そんなにも不}{ruby:that indeterminate and vague?":定形であやふやなものなの？」}`
 `{ruby:"It is.:「そうよ。}`
 `{ruby:......Truth is indeterminate.:……真実は不定形。}`
-`{ruby:It can be like a particle, or like a wave, and it can hold conflicting forms at the same time.":粒子のようであり、波のようでもあり、相反する形状を同時に持つ」}`
-`{ruby:"You are free to believe that the cat in the box is alive, or that it is dead.:「箱の中の猫が、生きていると思おうが死んでいると思おうが自由。}`
-`{ruby:......But the truth is very delicate.:……でも、真実はとても繊細。}`
-`{ruby:It changes its appearance just by being observed.":それは観測されただけで姿を変えてしまうわ」}`
-`{ruby:"You're talking about that Schrödinger's cat box?:「シュレディンガーの猫箱とかいう話？}`
+`{ruby:It can be like a particle, or like a wave,:粒子のようであり、波のようでもあり}{ruby:and it can hold conflicting forms at the same time.":、相反する形状を同時に持つ」}`
+`{ruby:"You are free to believe that the cat in:「箱の中の猫が、生きていると思おう}{ruby:the box is alive, or that it is dead.:が死んでいると思おうが自由。}`
+`{ruby:......But the truth:……でも、真実は}{ruby:is very delicate.:とても繊細。}`
+`{ruby:It changes its appearance:それは観測されただけで姿}{ruby:just by being observed.":を変えてしまうわ」}`
+`{ruby:"You're talking about:「シュレディンガーの}{ruby:that Schrödinger's cat box?:猫箱とかいう話？}`
 `{ruby:.........Nonsense.:………寝言よ。}`
-`{ruby:If you open the box, you learn the truth.:箱を開ければ真実はわかる。}`
-`{ruby:Debating what happens before you open it is armchair theorizing at best.":開ける前の議論なんて、机上の空論もいいところ」}`
+`{ruby:If you open the:箱を開ければ真実}{ruby:box, you learn the truth.:はわかる。}`
+`{ruby:Debating what happens before you open:開ける前の議論なんて、机上}{ruby:it is armchair theorizing at best.":の空論もいいところ」}`
 `{ruby:"Yes.:「そうね。}`
-`{ruby:And yet, in order to deny those armchair theories, you need to open the box.:にもかかわらず、その空論を否定するには箱を開ける必要がある。}`
-`{ruby:......If a box cannot be opened, any and all ideas about its contents are impossible to disprove.:……開けられない箱の中身についてのあらゆる想像は否定不能。}`
+`{ruby:And yet, in order to deny those:にもかかわらず、その空論を否定す}{ruby:armchair theories, you need to open the box.:るには箱を開ける必要がある。}`
+`{ruby:......If a box cannot be opened, any and:……開けられない箱の中身について}{ruby:all ideas about its contents are impossible to disprove.:のあらゆる想像は否定不能。}`
 `{ruby:In other words, truth.":つまりは真実ということ」}`
-`{ruby:".........As long as truth can't be denied, it keeps its form.":「………真実は、否定されない限り、その形状を維持する」}`
+`{ruby:".........As long as truth can't:「………真実は、否定されない限}{ruby:be denied, it keeps its form.":り、その形状を維持する」}`
 `{ruby:"That's right.:「そう。}`
-`{ruby:As long as truth can't be observed, it keeps its form.":真実は、観測されない限り、その形状を維持する」}`
-`{ruby:"So, any reckless statement can suffice as truth if it can't be exposed as a lie.":「つまり、暴けなきゃどんな妄言も真実たりえるわけね」}`
+`{ruby:As long as truth can't:真実は、観測されない限り、}{ruby:be observed, it keeps its form.":その形状を維持する」}`
+`{ruby:"So, any reckless statement can suffice as truth:「つまり、暴けなきゃどんな妄}{ruby:if it can't be exposed as a lie.":言も真実たりえるわけね」}`
 `{ruby:"Yes.:「えぇ。}`
-`{ruby:......Even if they contradict each other, endless ideas can exist as truth at the same time without being negated.":……無限の想像は、それらが互いに矛盾していたとしても否定されず同時に真実として存在できる」}`
-`{ruby:".........So even something as screwed up as my family being captured by the Rokkenjima witch and imprisoned twelve years in the past for all eternity...:「………家族みんなが、六軒島の魔女に捕らわれて、永遠に１２年前に閉じ込められているという、滅茶苦茶な話すら、}`
-`{ruby:can exist as truth as long as we don't know what happened twelve years ago...":１２年前に何があったかわからない限り、真実として存在できる…」}`
-`{ruby:"Twelve years ago, on Rokkenjima, the witch called {f:5:Beatrice} wrenched open a space for "endless" imagination, and swallowed everything up into it, using it as a cat box.:「ベアトリーチェという魔女は、１２年前の六軒島に“無限”の想像の余地を抉じ開け、そこを猫箱として全てを飲み込んだ。}`
-`{ruby:......Everything in the unopening box is truth.":……開かれぬ箱の中の全ては真実」}`
+`{ruby:......Even if they contradict each other, endless ideas can:……無限の想像は、それらが互いに矛盾していたとし}{ruby:exist as truth at the same time without being negated.":ても否定されず同時に真実として存在できる」}`
+`{ruby:".........So even something as screwed up as my family being captured by:「………家族みんなが、六軒島の魔女に捕らわれて、永遠に１}{ruby:the Rokkenjima witch and imprisoned twelve years in the past for all eternity...:２年前に閉じ込められているという、滅茶苦茶な話すら、}`
+`{ruby:can exist as truth as long as:１２年前に何があったかわからない限}{ruby:we don't know what happened twelve years ago...":り、真実として存在できる…」}`
+`{ruby:"Twelve years ago, on Rokkenjima, the witch called {f:5:Beatrice} wrenched open a space for:「ベアトリーチェという魔女は、１２年前の六軒島に“無限”の想}{ruby:"endless" imagination, and swallowed everything up into it, using it as a cat box.:像の余地を抉じ開け、そこを猫箱として全てを飲み込んだ。}`
+`{ruby:......Everything in the:……開かれぬ箱の中}{ruby:unopening box is truth.":の全ては真実」}`
 `{ruby:That's right.:そう。}`
-`{ruby:{i:We don't know what happened on that island}, so it becomes endless.:{i:あの島で何があったかわからないから}、無限になる。}`
-`{ruby:"......So long as it remains closed, that is.:「……閉まったままならね。}`
+`{ruby:{i:We don't know what happened on:{i:あの島で何があったかわか}{ruby:that island}, so it becomes endless.:らないから}、無限になる。}`
+`{ruby:"......So long as it:「……閉まったま}{ruby:remains closed, that is.:まならね。}`
 `{ruby:All I have to do is wrench it open.":私が抉じ開ければいいだけの話」}`
-`{ruby:".........But that box was closed up twelve years ago, and I don't even know where it is.:「………でも、その箱は１２年前に閉じられ、どこにあるのかもわからない。}`
-`{ruby:......Even if I were to visit Rokkenjima, just what would I be able to learn, there on that desolated island, about what happened twelve years ago?":……仮に六軒島に訪れたとしても、私は荒れ果てた島で、１２年前の何を知ることができるというの？」}`
+`{ruby:".........But that box was closed up twelve years:「………でも、その箱は１２年前に閉じら}{ruby:ago, and I don't even know where it is.:れ、どこにあるのかもわからない。}`
+`{ruby:......Even if I were to visit Rokkenjima, just what would I be able:……仮に六軒島に訪れたとしても、私は荒れ果てた島で}{ruby:to learn, there on that desolated island, about what happened twelve years ago?":、１２年前の何を知ることができるというの？」}`
 `{ruby:"Who knows?:「さぁ。}`
 `{ruby:What could you learn, I wonder.:何を知ることができるのかしら。}`
-`{ruby:.........In any event, that is something that can only be done by the person who is able to walk around freely in the world of 1998, twelve years in the future—:………いずれにせよそれは、１９９８年という１２年後の未来を自由に闊歩できる、}`
-`{ruby:the final witch, {f:5:Ange Beatrice}.":最後の魔女、エンジェ・ベアトリーチェにしかできないことよ」}`
+`{ruby:.........In any event, that is something that can only be done by the person who:………いずれにせよそれは、１９９８年とい}{ruby:is able to walk around freely in the world of 1998, twelve years in the future—:う１２年後の未来を自由に闊歩できる、}`
+`{ruby:the final:最後の魔女、エンジェ・ベアトリー}{ruby:witch, {f:5:Ange Beatrice}.":チェにしかできないことよ」}`
 `{ruby:"........................":「……………………」}`
-`{ruby:"{f:5:Beatrice}'s game board spans the two days from October 4th to the 5th, 1986.:「ベアトリーチェのゲーム盤は１９８６年１０月４日から５日の２日間。}`
-`{ruby:In other words, this means that you are a piece who can move freely outside her game board.:つまりそれは、あなたが彼女のゲーム盤の外へ自在に動ける駒だということ。}`
-`{ruby:......And even {f:5:Beatrice} cannot influence this future that lies outside the game board.":……そして、ベアトリーチェですらこのゲーム盤を越えた未来へは干渉できない」}`
-`{ruby:"......When you put it like that, it sounds like I'm a pretty overpowered piece.":「……そうやって言われると、私って、かなり優秀でズルイ駒だわ」}`
-`{ruby:"The future of twelve years later in which you are placed certainly is distant.:「あなたが身を置く１２年後という未来は確かに遠いわ。}`
-`{ruby:However, the further in the future a piece is placed, the stronger the power it holds.:しかし、駒は未来に位置すれば位置するほど、強い力を持つの。}`
+`{ruby:"{f:5:Beatrice}'s game board spans the two days:「ベアトリーチェのゲーム盤は１９８６}{ruby:from October 4th to the 5th, 1986.:年１０月４日から５日の２日間。}`
+`{ruby:In other words, this means that you are a:つまりそれは、あなたが彼女のゲーム盤の}{ruby:piece who can move freely outside her game board.:外へ自在に動ける駒だということ。}`
+`{ruby:......And even {f:5:Beatrice} cannot influence this:……そして、ベアトリーチェですらこのゲー}{ruby:future that lies outside the game board.":ム盤を越えた未来へは干渉できない」}`
+`{ruby:"......When you put it like that, it:「……そうやって言われると、私って}{ruby:sounds like I'm a pretty overpowered piece.":、かなり優秀でズルイ駒だわ」}`
+`{ruby:"The future of twelve years later in:「あなたが身を置く１２年後と}{ruby:which you are placed certainly is distant.:いう未来は確かに遠いわ。}`
+`{ruby:However, the further in the future a piece:しかし、駒は未来に位置すれば位置}{ruby:is placed, the stronger the power it holds.:するほど、強い力を持つの。}`
 `{ruby:......I told you, didn't I?:……言ったでしょう？}`
-`{ruby:Truth changes form when it's observed.":真実は、観測されると姿を変えると」}`
-`{ruby:"Come to think of it, I've heard something related to that.:「そう言えば、こんな話を聞いたことがあるわ。}`
-`{ruby:......Even if one day, all of a sudden, a star in Centaurus were to explode,:……ある日、突然、ケンタウルス座の恒星が爆発してしまっても、}`
-`{ruby:the light from that explosion would have to travel 4.4 light years, so it would take four and a half years to reach the Earth.":その爆発の光が地球に届くには、４.４光年だから４年半の月日が必要になる」}`
+`{ruby:Truth changes form:真実は、観測されると}{ruby:when it's observed.":姿を変えると」}`
+`{ruby:"Come to think of it,:「そう言えば、こんな話を}{ruby:I've heard something related to that.:聞いたことがあるわ。}`
+`{ruby:......Even if one day, all of a:……ある日、突然、ケンタウルス座}{ruby:sudden, a star in Centaurus were to explode,:の恒星が爆発してしまっても、}`
+`{ruby:the light from that explosion would have to travel 4.4 light years,:その爆発の光が地球に届くには、４.４光}{ruby:so it would take four and a half years to reach the Earth.":年だから４年半の月日が必要になる」}`
 `{ruby:"It would.:「そうね。}`
-`{ruby:In other words, even if the sun in Centaurus has already died, people on Earth wouldn't be able to perceive that fact for four and a half years.:つまり、ケンタウルスの太陽がすでになくなっているとしても、地球人は４年半の間、その事実を知覚できない。}`
-`{ruby:......Because no method of perception exists that is faster than the speed of light.":……光より早く知覚する手段は存在しないのだから」}`
-`{ruby:At the time we learn that the sun in Centaurus exploded...:ケンタウルスの太陽の爆発を知った時。}`
-`{ruby:...we Earth people will paint over our past four and a half years of history with a new truth.:私たち地球人は４年半前の歴史を新しい真実で塗り替える。}`
-`{ruby:{n}We will revise history with a new fact: that it exploded four and a half years ago.:{n}４年半前に爆発していたと、歴史を新しい真実で修正する。}`
-`{ruby:However, for the four‐and‐a‐half‐year period until we learn that, despite the fact that it has already died,:しかし、４年半を経てそれを知るまでの間、すでになくなっているにもかかわらず、}`
-`{ruby:the mistaken truth that the sun of Centaurus still exists will be able to exist as truth.:ケンタウルスの太陽がまだ存在しているという誤った真実は、真実として存在できた。}`
-`{ruby:The truth of the future wins out over the truth of the past.:未来の真実は、過去の真実に、勝る。}`
+`{ruby:In other words, even if the sun in Centaurus has already died, people on:つまり、ケンタウルスの太陽がすでになくなっているとして}{ruby:Earth wouldn't be able to perceive that fact for four and a half years.:も、地球人は４年半の間、その事実を知覚できない。}`
+`{ruby:......Because no method of perception exists that:……光より早く知覚する手段}{ruby:is faster than the speed of light.":は存在しないのだから」}`
+`{ruby:At the time we learn:ケンタウルスの太陽の}{ruby:that the sun in Centaurus exploded...:爆発を知った時。}`
+`{ruby:...we Earth people will paint over our past four:私たち地球人は４年半前の歴史を}{ruby:and a half years of history with a new truth.:新しい真実で塗り替える。}`
+`{ruby:{n}We will revise history with a new fact::{n}４年半前に爆発していたと、}{ruby:that it exploded four and a half years ago.:歴史を新しい真実で修正する。}`
+`{ruby:However, for the four‐and‐a‐half‐year period until we learn:しかし、４年半を経てそれを知るまでの間、}{ruby:that, despite the fact that it has already died,:すでになくなっているにもかかわらず、}`
+`{ruby:the mistaken truth that the sun of Centaurus:ケンタウルスの太陽がまだ存在しているという}{ruby:still exists will be able to exist as truth.:誤った真実は、真実として存在できた。}`
+`{ruby:The truth of the future wins:未来の真実は、過去の}{ruby:out over the truth of the past.:真実に、勝る。}`
 `{ruby:".........That's right.:「………そうよ。}`
-`{ruby:By itself, the Rokkenjima accident...:元々、六軒島の事故は、ただそれだけならば、}`
-`{ruby:would have given rise to nothing but suspicion of a murder plot revolving around Aunt Eva and the Ushiromiya estate.":絵羽伯母さんと右代宮家の財産を巡る陰謀疑惑でしかなかった」}`
-`{ruby:"......But in the years that followed...:「……しかしそれが、後年。}`
-`{ruby:it was dramatized through the occult, and the plot was painted over as the Legend of the Witch.":オカルトによって脚色され、陰謀は魔女伝説として塗り替えられる」}`
-`{ruby:Even though it was clamored over as a murder plot at the time of the incident,:事件当時は陰謀として騒がれたのに、}`
-`{ruby:in later years, strange occult theories which claimed that it had been the work of a witch ran rampant, and began to paint over the truth of October 5th, 1986...:後年、それらは魔女の仕業だったとするおかしなオカルト説が蔓延し、１９８６年１０月５日の真実を塗り替え始めた…。}`
-`{ruby:The murder theory will probably be forgotten over time.:陰謀説は時間と共に忘れられていくだろう。}`
-`{ruby:......And only the more bizarre, impressive witch theory will continue to remain as superstition, and eventually, paint over the murder theory entirely.:……そして、奇異で印象深い魔女説だけが、迷信的に残り続け、最後には陰謀説を、塗り潰す。}`
+`{ruby:By itself,:元々、六軒島の事故は、た}{ruby:the Rokkenjima accident...:だそれだけならば、}`
+`{ruby:would have given rise to nothing but suspicion of a:絵羽伯母さんと右代宮家の財産を巡}{ruby:murder plot revolving around Aunt Eva and the Ushiromiya estate.":る陰謀疑惑でしかなかった」}`
+`{ruby:"......But in the:「……しかしそれ}{ruby:years that followed...:が、後年。}`
+`{ruby:it was dramatized through the occult, and the plot:オカルトによって脚色され、陰謀は魔}{ruby:was painted over as the Legend of the Witch.":女伝説として塗り替えられる」}`
+`{ruby:Even though it was clamored over as a:事件当時は陰謀として}{ruby:murder plot at the time of the incident,:騒がれたのに、}`
+`{ruby:in later years, strange occult theories which claimed that it had been the work of:後年、それらは魔女の仕業だったとするおかしなオカルト説が蔓}{ruby:a witch ran rampant, and began to paint over the truth of October 5th, 1986...:延し、１９８６年１０月５日の真実を塗り替え始めた…。}`
+`{ruby:The murder theory will:陰謀説は時間と共に忘れ}{ruby:probably be forgotten over time.:られていくだろう。}`
+`{ruby:......And only the more bizarre, impressive witch theory will continue to:……そして、奇異で印象深い魔女説だけが、迷信的}{ruby:remain as superstition, and eventually, paint over the murder theory entirely.:に残り続け、最後には陰謀説を、塗り潰す。}`
 `{ruby:"Yes,:「そう。}`
-`{ruby:the false truth that exists before the light from an exploding star reaches Earth is a lot like the human murder theory.":恒星爆発の光が地球に届くまでの間の虚偽の真実が、陰謀説という人間説だったかのよう」}`
-`{ruby:".........The wine bottle with a letter inside that drifted ashore several years later, the "message bottle", began to retroactively paint over that theory with the occult witch theory.":「………数年後に漂着した手紙入りのワインボトル、『メッセージボトル』が、それをオカルト説という魔女説に遡って塗り替え始めた」}`
+`{ruby:the false truth that exists before the light from an exploding:恒星爆発の光が地球に届くまでの間の虚偽の真実}{ruby:star reaches Earth is a lot like the human murder theory.":が、陰謀説という人間説だったかのよう」}`
+`{ruby:".........The wine bottle with a letter inside that drifted ashore several years later, the:「………数年後に漂着した手紙入りのワインボトル、『メッセージボト}{ruby:"message bottle", began to retroactively paint over that theory with the occult witch theory.":ル』が、それをオカルト説という魔女説に遡って塗り替え始めた」}`
 `{ruby:"......That's right.:「……そうよ。}`
 `{ruby:No witch existed during 1986.:魔女なんて、１９８６年の時点では存在しなかった。}`
-`{ruby:The witch took control of Rokkenjima because she was "observed" several years later by us humans of the future, thanks to that message bottle...!":その数年後に、メッセージボトルによって私たち未来の人間に“観測”されたから、魔女が六軒島を支配した…！」}`
+`{ruby:The witch took control of Rokkenjima because she was "observed" several years:その数年後に、メッセージボトルによって私たち未来の人間}{ruby:later by us humans of the future, thanks to that message bottle...!":に“観測”されたから、魔女が六軒島を支配した…！」}`
 `{ruby:"......A small revision is necessary.:「……少し修正が必要よ。}`
-`{ruby:The witch could have existed even during 1986.:１９８６年の時点でも魔女は存在出来たわ。}`
-`{ruby:As one of many endless possibilities.":無限に存在できる数多の可能性の中のひとつとしてね」}`
+`{ruby:The witch could have:１９８６年の時点でも魔}{ruby:existed even during 1986.:女は存在出来たわ。}`
+`{ruby:As one of:無限に存在できる数多の可能性}{ruby:many endless possibilities.":の中のひとつとしてね」}`
 `{ruby:"Certainly.:「確かに。}`
-`{ruby:Curled up in the cat box, which would disappear if observed.:観測されたら消えてしまう、猫箱の中に縮こまってね。}`
-`{ruby:......That's why the message bottle is so pernicious.":……だからメッセージボトルは悪質なのよ」}`
-`{ruby:"...The witch tried to get out of the box.:「…魔女は、箱の外に出ようとした。}`
-`{ruby:She made it so that she would be observed, weeding out all possibilities other than the witch theory.:自らを観測させて、魔女説以外の可能性を淘汰した。}`
-`{ruby:......In other words, to make it impossible for herself to be negated, she negated all possibilities other than the witch theory.":……つまり、自らを否定できないように、魔女説以外の全ての可能性を否定したということ」}`
+`{ruby:Curled up in the cat:観測されたら消えてしまう、猫}{ruby:box, which would disappear if observed.:箱の中に縮こまってね。}`
+`{ruby:......That's why the message:……だからメッセージボ}{ruby:bottle is so pernicious.":トルは悪質なのよ」}`
+`{ruby:"...The witch tried to:「…魔女は、箱の外に}{ruby:get out of the box.:出ようとした。}`
+`{ruby:She made it so that she would be observed,:自らを観測させて、魔女説以}{ruby:weeding out all possibilities other than the witch theory.:外の可能性を淘汰した。}`
+`{ruby:......In other words, to make it impossible for herself to:……つまり、自らを否定できないように、魔女説}{ruby:be negated, she negated all possibilities other than the witch theory.":以外の全ての可能性を否定したということ」}`
 `{ruby:".........Well, I'll be damned.:「………何てこと。}`
-`{ruby:So in other words, {f:5:Beatrice} satisfied the Devil's Proof with a frontal attack.:つまりベアトリーチェは、悪魔の証明を正攻法で成し遂げたのよ。}`
-`{ruby:And that was part of the witch's plan from the beginning.":そして、それは初めから魔女の計画に組み込まれていた」}`
-`{ruby:"The message bottle is information observed in the future after 1986.:「メッセージボトルは１９８６年より未来に観測される情報ね。}`
-`{ruby:.........It cannot be observed by {f:5:Beatrice} or Battler.:………ベアトリーチェにも戦人にも観測できない。}`
-`{ruby:...It can only be observed by {f:5:Ange Beatrice}.":…エンジェ・ベアトリーチェにしか観測できない」}`
-`{ruby:"......In truth, I didn't want to investigate the message bottle.:「……本当はメッセージボトルのことなんて調べたくなかった。}`
-`{ruby:...After all, reading it would be like listening to the witch's side of the story.:…だってそれを読むことは、魔女の言い分を聞くのに同じ。}`
-`{ruby:Since I've been ignoring all that mad raving about a witch theory, I thought of it as nothing more than a waste of time.":魔女説なんて妄言を無視してる私には、時間の無駄でしかないと思ってた」}`
+`{ruby:So in other words, {f:5:Beatrice} satisfied:つまりベアトリーチェは、悪魔の証}{ruby:the Devil's Proof with a frontal attack.:明を正攻法で成し遂げたのよ。}`
+`{ruby:And that was part of:そして、それは初めから魔女の}{ruby:the witch's plan from the beginning.":計画に組み込まれていた」}`
+`{ruby:"The message bottle is information:「メッセージボトルは１９８６年よ}{ruby:observed in the future after 1986.:り未来に観測される情報ね。}`
+`{ruby:.........It cannot be observed:………ベアトリーチェにも戦}{ruby:by {f:5:Beatrice} or Battler.:人にも観測できない。}`
+`{ruby:...It can only be:…エンジェ・ベアトリーチェ}{ruby:observed by {f:5:Ange Beatrice}.":にしか観測できない」}`
+`{ruby:"......In truth, I didn't want:「……本当はメッセージボトルのこ}{ruby:to investigate the message bottle.:となんて調べたくなかった。}`
+`{ruby:...After all, reading it would be like:…だってそれを読むことは、魔女}{ruby:listening to the witch's side of the story.:の言い分を聞くのに同じ。}`
+`{ruby:Since I've been ignoring all that mad raving about a witch theory,:魔女説なんて妄言を無視してる私には、}{ruby:I thought of it as nothing more than a waste of time.":時間の無駄でしかないと思ってた」}`
 `{ruby:"......But Okonogi‐san told me.:「……でも、小此木さんに言われたわ。}`
-`{ruby:You can't see things in three dimensions with only one eye.":片方の目だけじゃ、物事を立体的に見られないって」}`
-`{ruby:"You mean that at the same time as looking at it from the viewpoint of denying witches, you must also look at it from the viewpoint of accepting witches?:「魔女否定の視点と同時に、魔女肯定の視点も必要ということ？}`
-`{ruby:......That is the correct way to think.:……それは正しい考え方よ。}`
-`{ruby:The number of viewpoints is like a denominator.:視点の数は分母に同じ。}`
-`{ruby:If the number of viewpoints is 1, the mystery in the numerator doesn't decrease in the slightest.:視点の数が１では、分子である謎はわずかほども減らない。}`
-`{ruby:However, the more your number of viewpoints increases, the more the mystery begins to be divided.":しかし、視点の数が増えれば増えるほど、謎は割り算されていく」}`
+`{ruby:You can't see things in:片方の目だけじゃ、物事を立}{ruby:three dimensions with only one eye.":体的に見られないって」}`
+`{ruby:"You mean that at the same time as looking at it from the viewpoint:「魔女否定の視点と同時に、魔女肯}{ruby:of denying witches, you must also look at it from the viewpoint of accepting witches?:定の視点も必要ということ？}`
+`{ruby:......That is the:……それは正しい}{ruby:correct way to think.:考え方よ。}`
+`{ruby:The number of viewpoints:視点の数は分母}{ruby:is like a denominator.:に同じ。}`
+`{ruby:If the number of viewpoints is 1, the:視点の数が１では、分子である謎}{ruby:mystery in the numerator doesn't decrease in the slightest.:はわずかほども減らない。}`
+`{ruby:However, the more your number of viewpoints increases,:しかし、視点の数が増えれば増える}{ruby:the more the mystery begins to be divided.":ほど、謎は割り算されていく」}`
 `{ruby:"I know that.:「わかってるわ。}`
-`{ruby:......The message bottle that washed up on a neighboring island several years after the crime.:……事件の数年後、近隣の島に流れ着いたメッセージボトル。}`
-`{ruby:It passed into the hands of a dilettante.:それは好事家の手に渡った。}`
-`{ruby:I've made an appointment, just in case.":アポイントは、一応取ってあるの」}`
-`{ruby:...I was able to hear Aunt Eva's side from Okonogi‐san.:…小此木さんから、絵羽伯母さんの言い分は聞き取ることが出来た。}`
+`{ruby:......The message bottle that washed up on:……事件の数年後、近隣の島に流}{ruby:a neighboring island several years after the crime.:れ着いたメッセージボトル。}`
+`{ruby:It passed into the:それは好事家の手}{ruby:hands of a dilettante.:に渡った。}`
+`{ruby:I've made an:アポイントは、一応}{ruby:appointment, just in case.":取ってあるの」}`
+`{ruby:...I was able to hear:…小此木さんから、絵羽伯母さんの言}{ruby:Aunt Eva's side from Okonogi‐san.:い分は聞き取ることが出来た。}`
 `{ruby:Next...would be the witch.:次は、魔女の言い分。}`
 `{ruby:Why not, I'll listen.:聞いてやろうじゃないの。}`
-`{ruby:{n}To what {f:5:Beatrice} has to say...!:{n}ベアトリーチェの言い分を…！}`
+`{ruby:{n}To what {f:5:Beatrice}:{n}ベアトリーチ}{ruby:has to say...!:ェの言い分を…！}`

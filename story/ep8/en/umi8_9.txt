@@ -1,885 +1,885 @@
-`{ruby:The tragedy of the first twilight was discovered at 6:00 in the morning on the following day.:第一の晩の惨劇は、翌朝の午前６時に発覚した。}`
-`{ruby:Gohda, who had woken up to get breakfast ready, went to check on the adult siblings, who had remained in the dining hall since the previous night because of the family conference.:朝食の準備のため、起き出して来た郷田は、親族会議で前夜からずっと食堂に篭っている親族兄弟たちの様子を見に行ったのだ。}`
-`{ruby:"Talk about when you discovered the crime.":「死体発見時のことを話してくれ」}`
-`{ruby:"{p:42:The dining hall was locked up}.:「{p:42:食堂は施錠されていました。}}`
-`{ruby:Of course, there is a lock on the doors to the dining hall, but they usually remained unlocked.:確かに食堂に鍵は付いていますが、普段、施錠することなどありません。}`
-`{ruby:I knocked, but there was no answer...":ノックしたのですが返事はなく…」}`
+`{ruby:The tragedy of the first twilight was discovered:第一の晩の惨劇は、翌朝の}{ruby:at 6:00 in the morning on the following day.:午前６時に発覚した。}`
+`{ruby:Gohda, who had woken up to get breakfast ready, went to check on the adult siblings,:朝食の準備のため、起き出して来た郷田は、親族会議で前夜からず}{ruby:who had remained in the dining hall since the previous night because of the family conference.:っと食堂に篭っている親族兄弟たちの様子を見に行ったのだ。}`
+`{ruby:"Talk about when:「死体発見時のこと}{ruby:you discovered the crime.":を話してくれ」}`
+`{ruby:"{p:42:The dining hall:「{p:42:食堂は施錠}{ruby:was locked up}.:されていました。}}`
+`{ruby:Of course, there is a lock on the doors:確かに食堂に鍵は付いていますが、普段}{ruby:to the dining hall, but they usually remained unlocked.:、施錠することなどありません。}`
+`{ruby:I knocked, but:ノックしたのですが}{ruby:there was no answer...":返事はなく…」}`
 `{ruby:"{p:42:That's when I arrived}.:「{p:42:そこに私が来たのです。}}`
-`{ruby:I recommended that he try unlocking the door, just in case.":万一のこともあるから、鍵を開けてみたらと勧めたのです」}`
-`{ruby:"When {p:42:I unlocked the door with a master key}, a terrifying sight awaited me inside......":「{p:42:マスターキーで扉を開ける}と、中は恐ろしいことに……」}`
-`{ruby:"{p:42:Eva‐sama, Hideyoshi‐sama, Rudolf‐sama, Kyrie‐sama, Rosa‐sama, and Genji‐san,:「{p:42:絵羽さま、秀吉さま、留弗夫さま、霧江さま、楼座さま、そして源次さんの、}`
-`{ruby:six people in all, were lying there, covered in blood......}":計６人が血塗れになって倒れていたのでございます……}」}`
+`{ruby:I recommended that he try:万一のこともあるから、鍵を開け}{ruby:unlocking the door, just in case.":てみたらと勧めたのです」}`
+`{ruby:"When {p:42:I unlocked the door with a:「{p:42:マスターキーで扉を開け}{ruby:master key}, a terrifying sight awaited me inside......":る}と、中は恐ろしいことに……」}`
+`{ruby:"{p:42:Eva‐sama, Hideyoshi‐sama, Rudolf‐sama,:「{p:42:絵羽さま、秀吉さま、留弗夫さま}{ruby:Kyrie‐sama, Rosa‐sama, and Genji‐san,:、霧江さま、楼座さま、そして源次さんの、}`
+`{ruby:six people in all, were:計６人が血塗れになって倒れてい}{ruby:lying there, covered in blood......}":たのでございます……}」}`
 `{ruby:"A great tumult followed.:「それで後は大騒ぎだ。}`
-`{ruby:{p:42:Everyone gathered in the dining hall}.":{p:42:全員が食堂に集まった}」}`
+`{ruby:{p:42:Everyone gathered in:{p:42:全員が食}{ruby:the dining hall}.":堂に集まった}」}`
 `{ruby:"I don't want to remember it...:「思い出したくもありません…。}`
-`{ruby:The sight of all the sobbing children crouched over the corpses of their own parents...":それぞれの親の亡骸にすがり、泣き叫ぶ子供たち…」}`
-`{ruby:"There was a chance they might've been alive still.:「ひょっとしたら生きているかもと。}`
-`{ruby:......Everyone was shaking them desperately.":……みんな懸命に揺さぶってたぜ」}`
+`{ruby:The sight of all the sobbing children:それぞれの親の亡骸にすがり}{ruby:crouched over the corpses of their own parents...":、泣き叫ぶ子供たち…」}`
+`{ruby:"There was a chance:「ひょっとしたら生き}{ruby:they might've been alive still.:ているかもと。}`
+`{ruby:......Everyone was:……みんな懸命に揺}{ruby:shaking them desperately.":さぶってたぜ」}`
 `{ruby:"But it was no use...:「しかし、駄目でした…。}`
-`{ruby:{p:42:The death of each parent was confirmed by their own child}...":{p:42:お子様方はそれぞれ、自分の親が間違いなく死んでいることを確認なさいました…}」}`
-`{ruby:"{p:42:Doctor Nanjo and I confirmed that Genji‐sama was dead}.":「{p:42:僕と南條先生は、源次さまが死んでいることを確認しました}」}`
-`{ruby:"It was such a terrible way to be killed......:「惨たらしい殺され方でした……。}`
-`{ruby:{p:42:Doctor or not, no one examining a body will reach the wrong conclusion}.":{p:42:私でなくとも、誰も検死は誤りません}」}`
-`{ruby:"Looks like {p:42:all of the victims died instantly}.:「{p:42:犠牲者はみんな、即死}だったろうね。}`
+`{ruby:{p:42:The death of each parent:{p:42:お子様方はそれぞれ、自分の親が間違い}{ruby:was confirmed by their own child}...":なく死んでいることを確認なさいました…}」}`
+`{ruby:"{p:42:Doctor Nanjo and I:「{p:42:僕と南條先生は、源次さま}{ruby:confirmed that Genji‐sama was dead}.":が死んでいることを確認しました}」}`
+`{ruby:"It was such a:「惨たらしい殺され}{ruby:terrible way to be killed......:方でした……。}`
+`{ruby:{p:42:Doctor or not, no one examining:{p:42:私でなくとも、誰}{ruby:a body will reach the wrong conclusion}.":も検死は誤りません}」}`
+`{ruby:"Looks like {p:42:all of:「{p:42:犠牲者はみんな}{ruby:the victims died instantly}.:、即死}だったろうね。}`
 `{ruby:......Kihi{0}hi{0}hihi.":……きひひひひひ」}`
-`{ruby:"{p:42:After inspecting the interior of the dining hall, we determined that all of the doors and windows had been locked, making it a locked room}.":「{p:42:食堂内を調べた結果、扉も窓も、全て施錠され、密室であったことがわかった}」}`
-`{ruby:"And {p:42:nothing suspicious was found inside the dining hall}.":「そして、{p:42:食堂内から、不審なものは何も見つからなかった}」}`
-`{ruby:"Of course, {p:42:there was no one hiding in the dining hall either}.":「もちろん、{p:42:食堂内に何者かが隠れているということもなかったよ}」}`
+`{ruby:"{p:42:After inspecting the interior of the dining hall, we determined that all:「{p:42:食堂内を調べた結果、扉も窓も、全}{ruby:of the doors and windows had been locked, making it a locked room}.":て施錠され、密室であったことがわかった}」}`
+`{ruby:"And {p:42:nothing suspicious was:「そして、{p:42:食堂内から、不審}{ruby:found inside the dining hall}.":なものは何も見つからなかった}」}`
+`{ruby:"Of course, {p:42:there was no one:「もちろん、{p:42:食堂内に何者かが}{ruby:hiding in the dining hall either}.":隠れているということもなかったよ}」}`
 `{ruby:"Naturally.:「隠れるも何も。}`
 `{ruby:All of us are here right now.:私たちは今ここに全員がいるではないかね。}`
-`{ruby:{p:42:It's clear that no one is hiding}.":{p:42:誰も隠れていないことは明白だ}」}`
-`{ruby:"But Dad, if that's true, it doesn't make sense...:「でも父さん、となると、おかしいよ…。}`
-`{ruby:Six people were killed, and the dining hall's a locked room!:殺された６人、食堂は密室！}`
-`{ruby:How could someone have killed them and escaped?!":どうやって殺して逃げたんだ？！」}`
+`{ruby:{p:42:It's clear that:{p:42:誰も隠れてい}{ruby:no one is hiding}.":ないことは明白だ}」}`
+`{ruby:"But Dad, if that's:「でも父さん、となると}{ruby:true, it doesn't make sense...:、おかしいよ…。}`
+`{ruby:Six people were killed, and:殺された６人、食}{ruby:the dining hall's a locked room!:堂は密室！}`
+`{ruby:How could someone have:どうやって殺して逃げ}{ruby:killed them and escaped?!":たんだ？！」}`
 `{ruby:"......I'd rather not think of it,:「……考えたくはありませんが、}`
-`{ruby:but perhaps the servants with their master keys are the most suspicious.":マスターキーを持つ、使用人が怪しいでしょう」}`
-`{ruby:"They killed the six, then left and locked the door with their master keys.:「６人を殺し、マスターキーで施錠して食堂を出た。}`
+`{ruby:but perhaps the servants with their:マスターキーを持つ、使用}{ruby:master keys are the most suspicious.":人が怪しいでしょう」}`
+`{ruby:"They killed the six, then left and:「６人を殺し、マスターキー}{ruby:locked the door with their master keys.:で施錠して食堂を出た。}`
 `{ruby:......It is a logical theory.":……妥当な推理だ」}`
 `{ruby:"E‐eeek!:「ひ、ひぃ！}`
 `{ruby:Th‐that's absurd!":と、とんでもありませんっ」}`
-`{ruby:Since there was no chance of the culprit hiding inside the dining hall,:食堂内に犯人が隠れている可能性がない以上、}`
-`{ruby:it made sense to assume that the culprit had locked the door after committing the murder and exiting the room.:犯人は殺害後に食堂を出て、施錠したと考えるのが妥当だ。}`
-`{ruby:It was only natural that the servants, with their master keys, would fall under suspicion.:マスターキーを持つ使用人たちが疑われるのは当然のこと。}`
-`{ruby:And, sadly enough, none of the servants had an alibi.:そして気の毒なことに、使用人たちの誰にもアリバイは存在しなかった。}`
-`{ruby:Then again, it wasn't only the servants. Everyone else lacked an alibi as well.:もっとも、使用人に限らず、誰にもアリバイは存在しなかったのだが。}`
-`{ruby:"Is there any way to lock up from the outside without a master key?":「マスターキー以外の方法で、外から施錠する手段は？」}`
+`{ruby:Since there was no chance of:食堂内に犯人が隠れている}{ruby:the culprit hiding inside the dining hall,:可能性がない以上、}`
+`{ruby:it made sense to assume that the culprit had locked:犯人は殺害後に食堂を出て、施錠}{ruby:the door after committing the murder and exiting the room.:したと考えるのが妥当だ。}`
+`{ruby:It was only natural that the servants,:マスターキーを持つ使用人たちが}{ruby:with their master keys, would fall under suspicion.:疑われるのは当然のこと。}`
+`{ruby:And, sadly enough, none of:そして気の毒なことに、使用人たちの誰}{ruby:the servants had an alibi.:にもアリバイは存在しなかった。}`
+`{ruby:Then again, it wasn't only the servants.:もっとも、使用人に限らず、誰にもア}{ruby:Everyone else lacked an alibi as well.:リバイは存在しなかったのだが。}`
+`{ruby:"Is there any way to lock up:「マスターキー以外の方法で、}{ruby:from the outside without a master key?":外から施錠する手段は？」}`
 `{ruby:"No, there isn't.:「存在しないわ。}`
 `{ruby:.........Hmm, that's not enough.:………うぅん、これじゃ駄目ね。}`
 `{ruby:I'll say it with the red truth.":赤き真実で語るわ」}`
-`{ruby:{p:1:All doors can only be locked or unlocked with a master key}.:{p:1:全ての扉の施錠、開錠は、マスターキーでしか行えない。}`
-`{ruby:{p:1:Of course, it is possible to lock or unlock the doors from inside the room even without a master key}.:もちろん、部屋の内側からはマスターキーがなくとも、施錠、開錠が可能。}}`
+`{ruby:{p:1:All doors can only be locked:{p:1:全ての扉の施錠、開錠は、}{ruby:or unlocked with a master key}.:マスターキーでしか行えない。}`
+`{ruby:{p:1:Of course, it is possible to lock or unlock the:もちろん、部屋の内側からはマスターキー}{ruby:doors from inside the room even without a master key}.:がなくとも、施錠、開錠が可能。}}`
 `{ruby:"There you have it.:「だそうよ。}`
 `{ruby:Any other questions?":他に質問は？」}`
-`{ruby:"Shouldn't there be keys to each individual room in addition to the master keys?":「マスターキーの他にも、各部屋固有の鍵があるはずでは？」}`
+`{ruby:"Shouldn't there be keys to each individual:「マスターキーの他にも、各部屋}{ruby:room in addition to the master keys?":固有の鍵があるはずでは？」}`
 `{ruby:"......Normally, those would exist.:「……本来なら存在するわね。}`
-`{ruby:However, they'd make the game more complicated, so I've eliminated them.:でも、ゲームが複雑になるので排除させてもらったわ。}`
+`{ruby:However, they'd make the game:でも、ゲームが複雑になるので}{ruby:more complicated, so I've eliminated them.:排除させてもらったわ。}`
 `{ruby:Red truth.:赤き真実。}`
-`{ruby:{p:1:In this game, we'll consider master keys to be the only keys that exist}.":{p:1:マスターキー以外の鍵は存在しないこととする}」}`
+`{ruby:{p:1:In this game, we'll consider master keys:{p:1:マスターキー以外の鍵}{ruby:to be the only keys that exist}.":は存在しないこととする}」}`
 `{ruby:"In other words,:「つまり。}`
-`{ruby:all of the locks that appear in this game can only be locked or unlocked by master keys.":このゲームに登場する全ての施錠は、マスターキーでしか開け閉めが出来ないってわけか」}`
+`{ruby:all of the locks that appear in this game:このゲームに登場する全ての施錠は、マスターキ}{ruby:can only be locked or unlocked by master keys.":ーでしか開け閉めが出来ないってわけか」}`
 `{ruby:"That's how it is.:「そうなるわね。}`
 `{ruby:It really is a simple game.":実にシンプルなゲームだわ」}`
-`{ruby:"In that case, we should now check the number of master keys and who holds them.":「となれば、次はマスターキーの本数と所持者を確定せねばな」}`
-`{ruby:"{p:1:There are five master keys total.:「{p:1:マスターキーは合計５本。}`
-`{ruby:One is held by each of the five servants}.:５人の使用人が１本ずつを持ってる。}}`
-`{ruby:The keys'll be managed by a particular method.:特別な方法で管理されていて、}`
-`{ruby:{p:1:The servants keep the master keys on their person at all times, so it is impossible for them to be stolen, handed over, or used by any human other than themselves}.":{p:1:マスターキーは常に身に付けられており、奪うことも譲渡することも、自分以外の人間が使用することも出来ない}」}`
+`{ruby:"In that case, we should now check the:「となれば、次はマスターキーの本}{ruby:number of master keys and who holds them.":数と所持者を確定せねばな」}`
+`{ruby:"{p:1:There are five:「{p:1:マスター}{ruby:master keys total.:キーは合計５本。}`
+`{ruby:One is held by:５人の使用人が１本ず}{ruby:each of the five servants}.:つを持ってる。}}`
+`{ruby:The keys'll be managed:特別な方法で管理}{ruby:by a particular method.:されていて、}`
+`{ruby:{p:1:The servants keep the master keys on their person at all times, so it is:{p:1:マスターキーは常に身に付けられており、奪うことも譲}{ruby:impossible for them to be stolen, handed over, or used by any human other than themselves}.":渡することも、自分以外の人間が使用することも出来ない}」}`
 `{ruby:"What the heck.:「何だそりゃ。}`
-`{ruby:Now they're sounding less like keys and more like a fingerprinting system.":それはもはや、鍵ってより、指紋認証システムみたいなもんだな」}`
+`{ruby:Now they're sounding less like keys:それはもはや、鍵ってより、指紋認}{ruby:and more like a fingerprinting system.":証システムみたいなもんだな」}`
 `{ruby:"That's an interesting metaphor.:「面白い例えよ。}`
-`{ruby:......In other words, in the world of this game, it isn't the master keys, but the five servants themselves that can lock or unlock doors.":……つまり、このゲームの世界では、マスターキー云々ではなく、使用人５人にしか、開閉は出来ぬというわけだ」}`
-`{ruby:"We tried to retrieve Genji‐san's master key, but had no luck.":「源次さんのマスターキーを回収しようとしたんだが、どうにもならなくてね」}`
-`{ruby:"To prevent trouble later on, {p:42:we destroyed Genji's master key}.":「後のトラブルを予防するため、{p:42:源次のマスターキーを破壊しておきました}」}`
-`{ruby:This was the crime of the first twilight.:これが、第一の晩の事件。}`
-`{ruby:{n}The scene was the fully locked room of the dining hall.:{n}犯行現場は、施錠された密室の食堂。}`
-`{ruby:None of the servants holding master keys have alibis.:マスターキーを持つ使用人たちは全員、アリバイがない。}`
-`{ruby:{n}Then again, no one else has an alibi either......:{n}しかし、使用人以外の誰にも、アリバイはない……。}`
-`{ruby:Everyone returned to the parlor to discuss what should be done next.:一同は客間に戻り、今後をどうするか議論した。}`
-`{ruby:The phones were out, so they couldn't contact the police.:電話は不通で警察に連絡は出来ない。}`
-`{ruby:Was the mysterious culprit hiding away somewhere, planning to attack their next victim at this very moment?:謎の犯人は、今もどこかに隠れて、次の犠牲者を狙っているのだろうか。}`
-`{ruby:Or was the culprit in here with them, mentally sticking out their tongue and tasting their next prey?:あるいは、この中に犯人がいて、心の中で舌を出しながら、次の獲物を吟味しているのだろうか。}`
-`{ruby:None of them had alibis, and it was possible for any one of them to be a culprit...:全員にアリバイがなく、誰にも犯人の可能性がある…。}`
-`{ruby:However, that tense feeling didn't last long.:しかし、そんな緊張感も、長くは続かない。}`
-`{ruby:By midday, everyone got tired of arguing, and they decided to take a break.:お昼頃には皆、腹の探り合いに疲れ果て、小休止のような状態になった。}`
-`{ruby:Krauss and Natsuhi announced that they wanted to talk with each other alone and went up to the second floor.:蔵臼夫妻は、二人で相談をすると告げ、２階へ上がる。}`
-`{ruby:That paved the way for everyone else to start going their separate ways, some breaking away to head to the bathroom, others to gaze at the endless rain.:それを皮切りに、一同もトイレに行ったり、止まない雨を眺めに行ったりと、皆、それぞれに散っていった。}`
-`{ruby:However, no matter how much time passed, Krauss and Natsuhi were the only ones who didn't return.:しかし、いつまで経っても、蔵臼夫妻だけが戻ってこない。}`
-`{ruby:Calls were sent to both Krauss and Natsuhi's rooms using the extension phone line, but there was no answer.:内線電話を蔵臼と夏妃の部屋にそれぞれ掛けるが、返事はない。}`
+`{ruby:......In other words, in the world of this game, it isn't the:……つまり、このゲームの世界では、マスターキー云々では}{ruby:master keys, but the five servants themselves that can lock or unlock doors.":なく、使用人５人にしか、開閉は出来ぬというわけだ」}`
+`{ruby:"We tried to retrieve Genji‐san's:「源次さんのマスターキーを回収しようと}{ruby:master key, but had no luck.":したんだが、どうにもならなくてね」}`
+`{ruby:"To prevent trouble later on,:「後のトラブルを予防するため、{p:42:源}{ruby:{p:42:we destroyed Genji's master key}.":次のマスターキーを破壊しておきました}」}`
+`{ruby:This was the crime:これが、第一の}{ruby:of the first twilight.:晩の事件。}`
+`{ruby:{n}The scene was the fully:{n}犯行現場は、施錠}{ruby:locked room of the dining hall.:された密室の食堂。}`
+`{ruby:None of the servants:マスターキーを持つ使用人たち}{ruby:holding master keys have alibis.:は全員、アリバイがない。}`
+`{ruby:{n}Then again, no one:{n}しかし、使用人以外の誰に}{ruby:else has an alibi either......:も、アリバイはない……。}`
+`{ruby:Everyone returned to the parlor to:一同は客間に戻り、今後を}{ruby:discuss what should be done next.:どうするか議論した。}`
+`{ruby:The phones were out, so:電話は不通で警察に連}{ruby:they couldn't contact the police.:絡は出来ない。}`
+`{ruby:Was the mysterious culprit hiding away somewhere, planning:謎の犯人は、今もどこかに隠れて、次の}{ruby:to attack their next victim at this very moment?:犠牲者を狙っているのだろうか。}`
+`{ruby:Or was the culprit in here with them, mentally:あるいは、この中に犯人がいて、心の中で舌を出し}{ruby:sticking out their tongue and tasting their next prey?:ながら、次の獲物を吟味しているのだろうか。}`
+`{ruby:None of them had alibis, and it was possible:全員にアリバイがなく、誰にも}{ruby:for any one of them to be a culprit...:犯人の可能性がある…。}`
+`{ruby:However, that tense:しかし、そんな緊張感も}{ruby:feeling didn't last long.:、長くは続かない。}`
+`{ruby:By midday, everyone got tired of arguing,:お昼頃には皆、腹の探り合いに疲れ果て}{ruby:and they decided to take a break.:、小休止のような状態になった。}`
+`{ruby:Krauss and Natsuhi announced that they wanted to talk with:蔵臼夫妻は、二人で相談をする}{ruby:each other alone and went up to the second floor.:と告げ、２階へ上がる。}`
+`{ruby:That paved the way for everyone else to start going their separate ways, some:それを皮切りに、一同もトイレに行ったり、止まない雨を}{ruby:breaking away to head to the bathroom, others to gaze at the endless rain.:眺めに行ったりと、皆、それぞれに散っていった。}`
+`{ruby:However, no matter how much time passed, Krauss:しかし、いつまで経っても、蔵臼}{ruby:and Natsuhi were the only ones who didn't return.:夫妻だけが戻ってこない。}`
+`{ruby:Calls were sent to both Krauss and Natsuhi's rooms:内線電話を蔵臼と夏妃の部屋にそれ}{ruby:using the extension phone line, but there was no answer.:ぞれ掛けるが、返事はない。}`
 `{ruby:Something might have happened.:何かあったのかもしれない。}`
-`{ruby:Everyone headed to Krauss's and Natsuhi's rooms together, ......and in Natsuhi's room, they found Krauss and Natsuhi lying sprawled on the floor.:一同は全員で蔵臼と夏妃の部屋に向かい、……夏妃の部屋で、蔵臼と夏妃が倒れているのを発見する。}`
+`{ruby:Everyone headed to Krauss's and Natsuhi's rooms together, ......and in Natsuhi's:一同は全員で蔵臼と夏妃の部屋に向かい、……夏妃の}{ruby:room, they found Krauss and Natsuhi lying sprawled on the floor.:部屋で、蔵臼と夏妃が倒れているのを発見する。}`
 `{ruby:"{p:42:Madam's room was locked}!:「{p:42:奥様の部屋は施錠されておりました！}}`
 `{ruby:It's just like the dining hall!":食堂の時と同じです！」}`
-`{ruby:"After getting everyone's permission, {p:42:I unlocked the door}...":「皆さんの許可を得て、{p:42:私が鍵を開けました…}」}`
-`{ruby:"{p:42:Krauss‐sama and Natsuhi‐sama lay sprawled on the floor inside the room}.":「{p:42:部屋の中には、蔵臼さまと夏妃さまが倒れていました}」}`
-`{ruby:"{p:42:Doctor Nanjo checked their pulse.:「{p:42:南條先生がすぐに脈を取ったぜ。}`
-`{ruby:Then, he announced that the two of them had died instantly}.":そして、二人とも即死だったと宣言した}」}`
+`{ruby:"After getting everyone's permission,:「皆さんの許可を得て、{p:42}{ruby:{p:42:I unlocked the door}..."::私が鍵を開けました…}」}`
+`{ruby:"{p:42:Krauss‐sama and Natsuhi‐sama lay sprawled:「{p:42:部屋の中には、蔵臼さま}{ruby:on the floor inside the room}.":と夏妃さまが倒れていました}」}`
+`{ruby:"{p:42:Doctor Nanjo:「{p:42:南條先生が}{ruby:checked their pulse.:すぐに脈を取ったぜ。}`
+`{ruby:Then, he announced that the:そして、二人とも即死だ}{ruby:two of them had died instantly}.":ったと宣言した}」}`
 `{ruby:"Correct.:「はい。}`
-`{ruby:{p:42:I confirmed both of their deaths.:{p:42:私が二人の死亡を確認しました。}`
-`{ruby:There can be no doubt that they died instantly}.":あれは間違いなく即死でした}」}`
-`{ruby:"I searched all over the room, looking for a clue...!:「私は何かの手掛りがないか部屋中を探し回ったよ…！}`
-`{ruby:In the end, {p:42:I found that the windows and doors were all locked, making it a locked room}.":その結果、{p:42:窓も扉も完全に施錠されていて、密室だったことがわかった}」}`
+`{ruby:{p:42:I confirmed both:{p:42:私が二人の死}{ruby:of their deaths.:亡を確認しました。}`
+`{ruby:There can be no:あれは間違いなく即}{ruby:doubt that they died instantly}.":死でした}」}`
+`{ruby:"I searched all over the:「私は何かの手掛りがないか部}{ruby:room, looking for a clue...!:屋中を探し回ったよ…！}`
+`{ruby:In the end, {p:42:I found that the windows and:その結果、{p:42:窓も扉も完全に施錠され}{ruby:doors were all locked, making it a locked room}.":ていて、密室だったことがわかった}」}`
 `{ruby:"Another locked room!:「またしても密室！}`
-`{ruby:And yet again, we servants who have master keys will be suspected...!":またしてもマスターキーを持つ私たちが疑われることに…！」}`
+`{ruby:And yet again, we servants who:またしてもマスターキーを持つ私た}{ruby:have master keys will be suspected...!":ちが疑われることに…！」}`
 `{ruby:"B‐but have no fear...!:「し、しかしご安心を…！}`
-`{ruby:After Madam began to suspect us, we started keeping an eye on each other!":奥様に疑われていた私たちは、互いを見張り合っていたのです！」}`
-`{ruby:"{p:42:All of us servants were together the whole time}.":「{p:42:私たち使用人全員は、常に一緒におりました}」}`
-`{ruby:"{p:42:All of us servants can prove an alibi for all of the other servants}.":「{p:42:僕たち使用人全員は、それぞれが使用人全員のアリバイを証明できます}」}`
+`{ruby:After Madam began to suspect us, we:奥様に疑われていた私たちは、互いを}{ruby:started keeping an eye on each other!":見張り合っていたのです！」}`
+`{ruby:"{p:42:All of us servants:「{p:42:私たち使用人全員は}{ruby:were together the whole time}.":、常に一緒におりました}」}`
+`{ruby:"{p:42:All of us servants can prove an:「{p:42:僕たち使用人全員は、それぞれが}{ruby:alibi for all of the other servants}.":使用人全員のアリバイを証明できます}」}`
 `{ruby:"Now that's interesting.:「こりゃ面白ぇ。}`
-`{ruby:So, you're saying that this locked room is even more perfect.":今度はさらに完璧な密室だって言いたいのか」}`
-`{ruby:".........In the case of the first locked room, no one had an alibi.:「………最初の密室には全員にアリバイがなかった。}`
-`{ruby:So, for this locked room, all of them have alibis.":そして今度の密室には、全員にアリバイがあることになっている」}`
-`{ruby:"In this world, the servants themselves are living master keys.:「この世界では、使用人たちそのものが、生きたマスターキーとなっている。}`
-`{ruby:As long as those servants have perfect alibis, locking Natsuhi's room is impossible...":その使用人たちのアリバイが完璧である以上、夏妃の部屋の施錠は不可能だぞ…」}`
-`{ruby:"We decided to preserve the crime scene as it was.":「僕たちは現場を保全することにした」}`
-`{ruby:"{p:42:We put duct tape all over the outside of the doors and windows, sealing them}!":「{p:42:外からガムテープでベタベタと、窓や扉を封印したよ！}」}`
-`{ruby:"I'm sure the culprit left some sort of clue in this room!:「きっとこの部屋に、犯人の何かの手掛りが残ってるはず！}`
-`{ruby:{p:42:We made sure that no one would be able to enter or leave until the police arrived}!":{p:42:警察が来るまで絶対、誰の出入りも出来ないようにした！}」}`
-`{ruby:"Then, we did the same to the dining hall.:「となりゃ、食堂も同じだ。}`
-`{ruby:{p:42:We also sealed the dining hall in the same way}.":{p:42:俺たちはさらに食堂も同様に封印した}」}`
-`{ruby:"We reached the conclusion that the entire mansion itself should be preserved.:「そもそも、屋敷自体を保全するべきではということになりましてな。}`
-`{ruby:{p:42:We also sealed the mansion itself, and all of us took refuge in the guesthouse}.":{p:42:屋敷自体にも封印をし、私たちは全員、ゲストハウスへ避難しました}」}`
+`{ruby:So, you're saying that this:今度はさらに完璧な密室だ}{ruby:locked room is even more perfect.":って言いたいのか」}`
+`{ruby:".........In the case of the first:「………最初の密室には全員}{ruby:locked room, no one had an alibi.:にアリバイがなかった。}`
+`{ruby:So, for this locked room,:そして今度の密室には、全員にアリ}{ruby:all of them have alibis.":バイがあることになっている」}`
+`{ruby:"In this world, the servants:「この世界では、使用人たちそのものが、}{ruby:themselves are living master keys.:生きたマスターキーとなっている。}`
+`{ruby:As long as those servants have:その使用人たちのアリバイが完璧である以上}{ruby:perfect alibis, locking Natsuhi's room is impossible...":、夏妃の部屋の施錠は不可能だぞ…」}`
+`{ruby:"We decided to preserve the:「僕たちは現場を保全}{ruby:crime scene as it was.":することにした」}`
+`{ruby:"{p:42:We put duct tape all over the:「{p:42:外からガムテープでベタ}{ruby:outside of the doors and windows, sealing them}!":ベタと、窓や扉を封印したよ！}」}`
+`{ruby:"I'm sure the culprit left some:「きっとこの部屋に、犯人の何か}{ruby:sort of clue in this room!:の手掛りが残ってるはず！}`
+`{ruby:{p:42:We made sure that no one would be:{p:42:警察が来るまで絶対、誰の出}{ruby:able to enter or leave until the police arrived}!":入りも出来ないようにした！}」}`
+`{ruby:"Then, we did the:「となりゃ、食堂}{ruby:same to the dining hall.:も同じだ。}`
+`{ruby:{p:42:We also sealed the dining:{p:42:俺たちはさらに食}{ruby:hall in the same way}.":堂も同様に封印した}」}`
+`{ruby:"We reached the conclusion that the:「そもそも、屋敷自体を保全するべき}{ruby:entire mansion itself should be preserved.:ではということになりましてな。}`
+`{ruby:{p:42:We also sealed the mansion itself, and:{p:42:屋敷自体にも封印をし、私たちは}{ruby:all of us took refuge in the guesthouse}.":全員、ゲストハウスへ避難しました}」}`
 `{ruby:"They sealed the whole mansion?:「屋敷全体に封印？}`
 `{ruby:Duct tape on all the windows?:窓全部をベタベタとか？}`
-`{ruby:They even used a ladder for the windows on the third floor?":梯子を掛けて３階の窓までか？」}`
-`{ruby:"......The game would get complicated otherwise, so I've simplified it.:「……ゲームが複雑になるので単純化するわ。}`
-`{ruby:{p:1:All of the windows have steel bars on them, so it is impossible to enter or leave by them}.:{p:1:全ての窓には鉄格子が入っており、窓からの出入りは不可能である。}}`
+`{ruby:They even used a ladder for:梯子を掛けて３階の}{ruby:the windows on the third floor?":窓までか？」}`
+`{ruby:"......The game would get complicated:「……ゲームが複雑になる}{ruby:otherwise, so I've simplified it.:ので単純化するわ。}`
+`{ruby:{p:1:All of the windows have steel bars on them,:{p:1:全ての窓には鉄格子が入っており}{ruby:so it is impossible to enter or leave by them}.:、窓からの出入りは不可能である。}}`
 `{ruby:Therefore,:よって、}`
-`{ruby:{p:1:we'll say that they can seal the whole mansion by sealing the two doors, the front one and the back one}.":{p:1:玄関と裏口の２つの扉を封印するだけで屋敷は封印できることにする}」}`
+`{ruby:{p:1:we'll say that they can seal the whole mansion by:{p:1:玄関と裏口の２つの扉を封印する}{ruby:sealing the two doors, the front one and the back one}.":だけで屋敷は封印できることにする}」}`
 `{ruby:"Got it. That makes it easy.":「なるほどな、そりゃ簡単だ」}`
 `{ruby:"What do you think?":「どう考える？」}`
-`{ruby:"Actually killing the two people in Aunt Natsuhi's room would be easy.:「夏妃伯母さんの部屋にいた二人を殺すこと自体は容易い。}`
-`{ruby:Someone just had to knock and get them to open the door.:ノックをして開けてもらえばいいだけの話だ。}`
-`{ruby:However, they couldn't lock it afterwards.":しかし、その後に施錠が出来ない」}`
+`{ruby:"Actually killing the two people in:「夏妃伯母さんの部屋にいた二人}{ruby:Aunt Natsuhi's room would be easy.:を殺すこと自体は容易い。}`
+`{ruby:Someone just had to knock and:ノックをして開けてもらえ}{ruby:get them to open the door.:ばいいだけの話だ。}`
+`{ruby:However, they couldn't:しかし、その後に施}{ruby:lock it afterwards.":錠が出来ない」}`
 `{ruby:"Only the servants can lock doors,:「施錠は使用人にしか出来ないが、}`
-`{ruby:but all of the servants have alibis.":使用人全員にはアリバイがあるぞ」}`
-`{ruby:"Unless the servants are all in it together.:「使用人全員がグルって可能性さえなけりゃぁな。}`
-`{ruby:More importantly, the first twilight has me suspicious.":俺はそれより、第一の晩をまだ疑ってるぜ」}`
-`{ruby:"You think that one of the six who died in the dining hall was actually alive and committed the crime?":「食堂で死んでいた６人の誰かが生きていて犯行を、ということか？」}`
+`{ruby:but all of:使用人全員にはアリ}{ruby:the servants have alibis.":バイがあるぞ」}`
+`{ruby:"Unless the servants are:「使用人全員がグルって可能}{ruby:all in it together.:性さえなけりゃぁな。}`
+`{ruby:More importantly, the first:俺はそれより、第一の晩}{ruby:twilight has me suspicious.":をまだ疑ってるぜ」}`
+`{ruby:"You think that one of the six who died in:「食堂で死んでいた６人の誰かが生き}{ruby:the dining hall was actually alive and committed the crime?":ていて犯行を、ということか？」}`
 `{ruby:"It's because of Erika.:「ヱリカの影響でな。}`
-`{ruby:I can't help but be suspicious when people are examining corpses.":どうにも検死ってヤツを疑わずにはいられねぇ」}`
-`{ruby:"So, you think that one of the first six victims was alive?":「つまり、最初の食堂の６人の犠牲者の誰かが生きていたと？」}`
+`{ruby:I can't help but be:どうにも検死ってヤツを疑}{ruby:suspicious when people are examining corpses.":わずにはいられねぇ」}`
+`{ruby:"So, you think that one of:「つまり、最初の食堂の６人の犠牲}{ruby:the first six victims was alive?":者の誰かが生きていたと？」}`
 `{ruby:"Yeah.:「あぁ。}`
-`{ruby:And afterwards, they killed Krauss and Natsuhi.:そしてその後、蔵臼夫妻を殺した。}`
-`{ruby:Then, they locked the door from the inside, hid inside the room, and found a good chance to escape.":そして内側から施錠し、室内に隠れていて、機を見て逃げ出したんだ」}`
-`{ruby:"Hmm, that theory does make logical sense.":「ふむ、筋の通った推理であるぞ」}`
+`{ruby:And afterwards, they:そしてその後、蔵臼}{ruby:killed Krauss and Natsuhi.:夫妻を殺した。}`
+`{ruby:Then, they locked the door from the inside, hid:そして内側から施錠し、室内に隠れて}{ruby:inside the room, and found a good chance to escape.":いて、機を見て逃げ出したんだ」}`
+`{ruby:"Hmm, that theory:「ふむ、筋の通った}{ruby:does make logical sense.":推理であるぞ」}`
 `{ruby:"......I'll say it in red.:「……赤で語るわ。}`
-`{ruby:{p:1:The culprit of the first twilight has definitely killed six people}.":{p:1:第一の晩の犯人は確実に６人を殺している}」}`
-`{ruby:"Then I'll take a shot with the blue truth.:「ならば、妾も青き真実で追及しようぞ。}`
-`{ruby:Here is the true nature of this locked room.:密室の正体はこうだ。}`
-`{ruby:{p:2:The culprit locked the door from the inside, then hid in Natsuhi's room.:{p:2:犯人は内側から施錠し、夏妃の部屋内に隠れていたのだ。}`
-`{ruby:Then, after everyone left, they found an opportunity to escape}.":そして一同が退出した後、機を見て脱出した}」}`
-`{ruby:".........Sure, I'll deny that in red.:「………いいわ、赤で否定する。}`
-`{ruby:{p:1:The group sealed the room at the same time they left.:{p:1:一同は退出と同時に部屋を封印した。}`
-`{ruby:No culprit joined the group as they left.:その退出に犯人は加われない。}`
-`{ruby:Also, all of the seals on Natsuhi's room, the dining hall, and the mansion itself will never be broken}.":そして、夏妃の部屋、食堂、屋敷の全ての封印は、決して破られることはない}」}`
+`{ruby:{p:1:The culprit of the first:{p:1:第一の晩の犯人は確}{ruby:twilight has definitely killed six people}.":実に６人を殺している}」}`
+`{ruby:"Then I'll take a:「ならば、妾も青き真実}{ruby:shot with the blue truth.:で追及しようぞ。}`
+`{ruby:Here is the true:密室の正体は}{ruby:nature of this locked room.:こうだ。}`
+`{ruby:{p:2:The culprit locked the door from:{p:2:犯人は内側から施錠し、夏}{ruby:the inside, then hid in Natsuhi's room.:妃の部屋内に隠れていたのだ。}`
+`{ruby:Then, after everyone left, they:そして一同が退出した後、}{ruby:found an opportunity to escape}.":機を見て脱出した}」}`
+`{ruby:".........Sure, I'll deny:「………いいわ、赤}{ruby:that in red.:で否定する。}`
+`{ruby:{p:1:The group sealed the room:{p:1:一同は退出と同}{ruby:at the same time they left.:時に部屋を封印した。}`
+`{ruby:No culprit joined the:その退出に犯人は}{ruby:group as they left.:加われない。}`
+`{ruby:Also, all of the seals on Natsuhi's room, the:そして、夏妃の部屋、食堂、屋敷の全ての封}{ruby:dining hall, and the mansion itself will never be broken}.":印は、決して破られることはない}」}`
 `{ruby:"Heheheheheh.:「うっふふふふ。}`
-`{ruby:In other words, you can't use that trick where they hide under the bed and slip out later.":ってことはつまり、ベッドの下に隠れて、あとでこっそり抜け出すというトリックは使えないってことなのね」}`
+`{ruby:In other words, you can't use that trick where:ってことはつまり、ベッドの下に隠れて、あとでこっそり}{ruby:they hide under the bed and slip out later.":抜け出すというトリックは使えないってことなのね」}`
 `{ruby:"......Interesting.:「……面白ぇ。}`
 `{ruby:Nice going, {f:5:Bernkastel}.":なかなかだぜ、ベルンカステル」}`
 `{ruby:"Thanks.":「どうも」}`
-`{ruby:This was the crime of the second twilight.:これが、第二の晩の事件。}`
-`{ruby:{n}The scene was Natsuhi's fully locked room.:{n}犯行現場は、施錠された密室の夏妃の部屋。}`
-`{ruby:This time, all of the servants with master keys have alibis.:今度は、マスターキーを持つ使用人たちは全員、アリバイがある。}`
-`{ruby:The whole group, realizing the dangers of being inside the mansion, took shelter in the guesthouse......:屋敷内に危険を察した一同は、ゲストハウスへ避難する……。}`
-`{ruby:All those who took refuge in the guesthouse decided to hole up in there until the typhoon passed.:ゲストハウスへ避難した一同は、ここに篭城することで台風が過ぎ去るのを待とうとする。}`
-`{ruby:There, if everyone watched everyone else, they should be able to prevent further crimes both from inside and outside.:そこで全員が、互いが互いを監視しあっていれば、内部犯行も外部犯行も防げるだろう。}`
-`{ruby:However, they couldn't do that without any breaks until the typhoon passed.:しかし、台風が過ぎ去るまでを、ずっと間断なくそうしていることは出来ない。}`
-`{ruby:Once again, their actions left a weak point open, and they were faced with yet another tragedy.:再び、彼らの行動には隙が生じ、新しい惨劇を迎えることになる。}`
-`{ruby:"Shannon‐chan and Kanon‐kun, who went outside on an errand, still haven't come back...!":「用事で表へ出た紗音ちゃんと嘉音くんが、いつまでも戻らないんだ…！」}`
-`{ruby:"George nii‐san got upset, so {p:42:we all went outside to look for them}.":「譲治兄さんが騒ぎ出し、{p:42:全員で外に出て紗音たちを探すことになったんだ}」}`
-`{ruby:"We found Shannon‐san lying there in the rose garden.:「紗音さんは薔薇庭園に倒れておりました。}`
+`{ruby:This was the crime:これが、第二の}{ruby:of the second twilight.:晩の事件。}`
+`{ruby:{n}The scene was:{n}犯行現場は、施錠され}{ruby:Natsuhi's fully locked room.:た密室の夏妃の部屋。}`
+`{ruby:This time, all of the:今度は、マスターキーを持つ使用人}{ruby:servants with master keys have alibis.:たちは全員、アリバイがある。}`
+`{ruby:The whole group, realizing the dangers of being:屋敷内に危険を察した一同は、ゲ}{ruby:inside the mansion, took shelter in the guesthouse......:ストハウスへ避難する……。}`
+`{ruby:All those who took refuge in the guesthouse decided:ゲストハウスへ避難した一同は、ここに篭城する}{ruby:to hole up in there until the typhoon passed.:ことで台風が過ぎ去るのを待とうとする。}`
+`{ruby:There, if everyone watched everyone else, they should be:そこで全員が、互いが互いを監視しあっていれ}{ruby:able to prevent further crimes both from inside and outside.:ば、内部犯行も外部犯行も防げるだろう。}`
+`{ruby:However, they couldn't do that without:しかし、台風が過ぎ去るまでを、ずっと間}{ruby:any breaks until the typhoon passed.:断なくそうしていることは出来ない。}`
+`{ruby:Once again, their actions left a weak point:再び、彼らの行動には隙が生じ、新}{ruby:open, and they were faced with yet another tragedy.:しい惨劇を迎えることになる。}`
+`{ruby:"Shannon‐chan and Kanon‐kun, who went outside:「用事で表へ出た紗音ちゃんと嘉音くん}{ruby:on an errand, still haven't come back...!":が、いつまでも戻らないんだ…！」}`
+`{ruby:"George nii‐san got upset, so {p:42:we:「譲治兄さんが騒ぎ出し、{p:42:全員で外}{ruby:all went outside to look for them}.":に出て紗音たちを探すことになったんだ}」}`
+`{ruby:"We found Shannon‐san lying:「紗音さんは薔薇庭園に}{ruby:there in the rose garden.:倒れておりました。}`
 `{ruby:Oh, poor, poor Shannon‐san......":おぉ、おいたわしや……」}`
 `{ruby:"I prayed she was still alive.:「生きててくれと願ったさ。}`
-`{ruby:However, {p:42:I was forced to acknowledge that she was dead}...":でも、{p:42:僕は彼女が死んでいることを認めなければならなかった…}」}`
-`{ruby:"Of course, {p:42:I also examined her and confirmed her death}.":「無論、{p:42:私も検死し、彼女の死亡を確認しました}」}`
-`{ruby:"When the two of them left, we were busy checking the locks around the guesthouse.:「二人が出掛けた時、私たちはゲストハウスの戸締りを確認するために色々とやっていました。}`
-`{ruby:So, {p:42:not one of us has an alibi}...!":だから、{p:42:私たちにはみんな、アリバイがないのです…！}」}`
+`{ruby:However, {p:42:I was forced to:でも、{p:42:僕は彼女が死んでいるこ}{ruby:acknowledge that she was dead}...":とを認めなければならなかった…}」}`
+`{ruby:"Of course, {p:42:I also examined:「無論、{p:42:私も検死し、}{ruby:her and confirmed her death}.":彼女の死亡を確認しました}」}`
+`{ruby:"When the two of them left, we:「二人が出掛けた時、私たちはゲストハウスの戸締}{ruby:were busy checking the locks around the guesthouse.:りを確認するために色々とやっていました。}`
+`{ruby:So, {p:42:not one of:だから、{p:42:私たちにはみんな}{ruby:us has an alibi}...!":、アリバイがないのです…！}」}`
 `{ruby:"Me, kill her?!:「僕が殺すものか！}`
 `{ruby:How could I have killed her?!!":僕に殺せるものか！！」}`
 `{ruby:"Yeah.:「うん。}`
-`{ruby:George onii‐chan couldn't kill her, uu.":譲治お兄ちゃんには殺せないね、うー」}`
-`{ruby:"Later on, we learned that George nii‐san alone had an alibi.:「その後、譲治兄さんにだけはアリバイがあることがわかったんだ。}`
-`{ruby:{p:42:At least regarding Shannon's death, it was impossible for George nii‐san to be the murderer}.":{p:42:紗音殺しに限っては、譲治兄さんには不可能なんだ}」}`
+`{ruby:George onii‐chan couldn't:譲治お兄ちゃんには殺}{ruby:kill her, uu.":せないね、うー」}`
+`{ruby:"Later on, we learned that:「その後、譲治兄さんにだけはアリバ}{ruby:George nii‐san alone had an alibi.:イがあることがわかったんだ。}`
+`{ruby:{p:42:At least regarding Shannon's death, it was:{p:42:紗音殺しに限っては、譲}{ruby:impossible for George nii‐san to be the murderer}.":治兄さんには不可能なんだ}」}`
 `{ruby:"To turn it around,:「逆に言えば。}`
-`{ruby:{p:42:......anyone could have killed her besides George‐aniki}.":{p:42:……譲治の兄貴以外なら誰にでも殺せたわけだ}」}`
-`{ruby:"To prevent the culprit from using it for any mischief,:「犯人に悪用されるのを防ぐため、}`
-`{ruby:{p:42:we destroyed the master key Shannon‐san had held on the spot}.":{p:42:紗音さんの持ってたマスターキーは、その場で破壊しました}」}`
-`{ruby:"......At the time Shannon is killed, Kanon goes missing forever.:「……紗音が殺されると同時に、嘉音は永遠に行方不明となるわ。}`
-`{ruby:.........{p:1:From now on, Kanon is treated as having been killed.:………{p:1:以後、嘉音は殺されたものとして扱う。}`
-`{ruby:Also, Kanon's master key is treated as having been destroyed}.":嘉音のマスターキーも破壊されたものとして扱うわ}」}`
-`{ruby:"Well, it'd be tasteless to go into it, so I won't, but...:「まぁ、無粋だから割愛するけど、}`
-`{ruby:...given that Shannon's dead, I wouldn't really expect anything else.":紗音が死んだんだから、そういうことになるわよねぇ」}`
+`{ruby:{p:42:......anyone could have:{p:42:……譲治の兄貴以外な}{ruby:killed her besides George‐aniki}.":ら誰にでも殺せたわけだ}」}`
+`{ruby:"To prevent the culprit from:「犯人に悪用される}{ruby:using it for any mischief,:のを防ぐため、}`
+`{ruby:{p:42:we destroyed the master key:{p:42:紗音さんの持ってたマスター}{ruby:Shannon‐san had held on the spot}.":キーは、その場で破壊しました}」}`
+`{ruby:"......At the time Shannon is:「……紗音が殺されると同時に、嘉}{ruby:killed, Kanon goes missing forever.:音は永遠に行方不明となるわ。}`
+`{ruby:.........{p:1:From now on, Kanon is:………{p:1:以後、嘉音は}{ruby:treated as having been killed.:殺されたものとして扱う。}`
+`{ruby:Also, Kanon's master key is:嘉音のマスターキーも破壊され}{ruby:treated as having been destroyed}.":たものとして扱うわ}」}`
+`{ruby:"Well, it'd be tasteless to go:「まぁ、無粋だから}{ruby:into it, so I won't, but...:割愛するけど、}`
+`{ruby:...given that Shannon's dead, I:紗音が死んだんだから、そうい}{ruby:wouldn't really expect anything else.":うことになるわよねぇ」}`
 `{ruby:"In other words,:「つまり。}`
-`{ruby:we can say that Shannon and Kanon were killed at the same time, even though we're missing a corpse?":死体はなくとも、紗音と嘉音は同時に殺された、という解釈で良いのか？」}`
+`{ruby:we can say that Shannon and Kanon were killed:死体はなくとも、紗音と嘉音は同時に殺}{ruby:at the same time, even though we're missing a corpse?":された、という解釈で良いのか？」}`
 `{ruby:"That's right.":「そうなるわ」}`
 `{ruby:"......Hmm.:「……ふむ。}`
-`{ruby:Looks like the crimes are moving along.":順調に事件が進んでいくな」}`
-`{ruby:This was the crime of the fourth twilight.:これが、第四の晩の事件。}`
+`{ruby:Looks like the:順調に事件が進ん}{ruby:crimes are moving along.":でいくな」}`
+`{ruby:This was the crime:これが、第四の}{ruby:of the fourth twilight.:晩の事件。}`
 `{ruby:The scene was the rose garden.:犯行現場は、薔薇庭園。}`
 `{ruby:There are no locks or doors.:鍵も扉も存在しない。}`
 `{ruby:It isn't a locked room.:密室ではないのだ。}`
-`{ruby:{n}So, the master keys no longer have anything to do with this.:{n}よって、もはやマスターキーは何の関係もない。}`
-`{ruby:Then, the pace of the crimes began to accelerate......:そして、事件は加速していく……。}`
-`{ruby:The group took shelter in the guesthouse.:ゲストハウスへ篭城する一同。}`
-`{ruby:They carefully sealed all doors and windows, sealing themselves in a locked room.:窓も扉も全てを厳重に閉ざし、自らを密室に閉ざす。}`
-`{ruby:However, several locked‐room murders had already occurred.:しかし、すでにいくつもの密室殺人が起きている。}`
-`{ruby:Could locking themselves in a locked room do anything more than invite another tragedy?:自らを密室へ閉ざす行為は、新しい惨劇を自ら招く行為に他ならないのか。}`
-`{ruby:After arguing fiercely in the cousins' room about finding the culprit, they decided to go to the servant room to double‐check the testimonies of Nanjo, Kumasawa, and Gohda.:いとこ部屋で犯人探しの議論を過熱させていた彼らは、南條や熊沢たちの証言を再確認するべく、使用人室に彼らを訪ねた。}`
-`{ruby:And there, ......they learned that a tragedy had occurred once more.:そして、……そこで再び惨劇が起こっていることを知る。}`
-`{ruby:"{p:42:Judging by these wounds, Gohda‐san and Kumasawa‐san died instantly}, I believe.:「{p:42:郷田さんも熊沢さんも、この傷では即死}だったでしょう。}`
+`{ruby:{n}So, the master keys no longer:{n}よって、もはやマスター}{ruby:have anything to do with this.:キーは何の関係もない。}`
+`{ruby:Then, the pace of:そして、事件は加速}{ruby:the crimes began to accelerate......:していく……。}`
+`{ruby:The group took:ゲストハウスへ篭}{ruby:shelter in the guesthouse.:城する一同。}`
+`{ruby:They carefully sealed all doors and:窓も扉も全てを厳重に閉ざし}{ruby:windows, sealing themselves in a locked room.:、自らを密室に閉ざす。}`
+`{ruby:However, several locked‐room:しかし、すでにいくつもの密}{ruby:murders had already occurred.:室殺人が起きている。}`
+`{ruby:Could locking themselves in a locked room:自らを密室へ閉ざす行為は、新しい惨劇}{ruby:do anything more than invite another tragedy?:を自ら招く行為に他ならないのか。}`
+`{ruby:After arguing fiercely in the cousins' room about finding the culprit, they decided to:いとこ部屋で犯人探しの議論を過熱させていた彼らは、南條や熊}{ruby:go to the servant room to double‐check the testimonies of Nanjo, Kumasawa, and Gohda.:沢たちの証言を再確認するべく、使用人室に彼らを訪ねた。}`
+`{ruby:And there, ......they learned that:そして、……そこで再び惨劇が}{ruby:a tragedy had occurred once more.:起こっていることを知る。}`
+`{ruby:"{p:42:Judging by these wounds, Gohda‐san:「{p:42:郷田さんも熊沢さんも、}{ruby:and Kumasawa‐san died instantly}, I believe.:この傷では即死}だったでしょう。}`
 `{ruby:Such a gruesome way to die...":惨たらしい死に方です…」}`
-`{ruby:"Like hell they could survive after this...!:「この傷で生きてるわけあるもんか…！}`
-`{ruby:{p:42:Gohda‐san and Kumasawa‐san are both dead}!":{p:42:死んでるよ、郷田さんも熊沢さんも！}」}`
-`{ruby:"Well, we have been busy, keeping a lookout and locking up and all that.:「戸締り確認とか見回りとか、色々やってたからな。}`
-`{ruby:Once again, {p:42:none of us has an alibi}.":今回もまた、{p:42:俺たちには全員、アリバイがない}」}`
+`{ruby:"Like hell they:「この傷で生きてるわ}{ruby:could survive after this...!:けあるもんか…！}`
+`{ruby:{p:42:Gohda‐san and Kumasawa‐san:{p:42:死んでるよ、郷田}{ruby:are both dead}!":さんも熊沢さんも！}」}`
+`{ruby:"Well, we have been busy, keeping a:「戸締り確認とか見回りとか}{ruby:lookout and locking up and all that.:、色々やってたからな。}`
+`{ruby:Once again, {p:42:none of:今回もまた、{p:42:俺たちに}{ruby:us has an alibi}.":は全員、アリバイがない}」}`
 `{ruby:"That's not true.:「そんなことはないよ。}`
 `{ruby:Look.:見てごらん。}`
-`{ruby:......Considering the way they were killed, the culprit would definitely get blood spatter on themselves.":……あんな殺し方をしたら、絶対に犯人は返り血を浴びるはずなんだ」}`
-`{ruby:"But Doctor Nanjo and all of the cousins have no blood on them.":「でも、いとこ全員も、そして南條先生も返り血は浴びてないね」}`
-`{ruby:"All of us...in other words, {p:42:the four cousins and Doctor Nanjo couldn't have killed Gohda‐san and Kumasawa‐san}.":「私たち全員は、……つまり、{p:42:いとこ４人と南條先生には、郷田さんと熊沢さんは殺せない}」}`
-`{ruby:"In that case, it's clear that the culprit is someone other than us.":「となれば、犯人は俺たち以外の誰かであることは明白だ」}`
-`{ruby:"I guessed that someone might have snuck in, so I checked around, {p:42:but the guesthouse was still completely locked up}.":「何者かの侵入を疑って調べたけれど、{p:42:ゲストハウスの戸締りは完璧だったよ}」}`
-`{ruby:"Perhaps the culprit has a master key after all...":「犯人はやはり、マスターキーを持っているのかもしれません…」}`
+`{ruby:......Considering the way they were killed, the:……あんな殺し方をしたら、絶対に犯}{ruby:culprit would definitely get blood spatter on themselves.":人は返り血を浴びるはずなんだ」}`
+`{ruby:"But Doctor Nanjo and all of:「でも、いとこ全員も、そして南條}{ruby:the cousins have no blood on them.":先生も返り血は浴びてないね」}`
+`{ruby:"All of us...in other words, {p:42:the four cousins:「私たち全員は、……つまり、{p:42:いとこ４人と}{ruby:and Doctor Nanjo couldn't have killed Gohda‐san and Kumasawa‐san}.":南條先生には、郷田さんと熊沢さんは殺せない}」}`
+`{ruby:"In that case, it's clear that:「となれば、犯人は俺たち以外の}{ruby:the culprit is someone other than us.":誰かであることは明白だ」}`
+`{ruby:"I guessed that someone might have snuck in, so I:「何者かの侵入を疑って調べたけれど、{p:42}{ruby:checked around, {p:42:but the guesthouse was still completely locked up}."::ゲストハウスの戸締りは完璧だったよ}」}`
+`{ruby:"Perhaps the culprit has:「犯人はやはり、マスターキーを持}{ruby:a master key after all...":っているのかもしれません…」}`
 `{ruby:"That's impossible.:「それはありえねぇぜ。}`
-`{ruby:{p:42:No master keys exist anymore except the two keys on the two people who lie dead here}.":{p:42:マスターキーはもう、ここで死んでる２人の２本以外、存在しない}」}`
-`{ruby:"Since the two master keys that exist are here inside the guesthouse,:「現存する２本のマスターキーが、こうしてゲストハウス内に残っている以上、}`
-`{ruby:......that makes this guesthouse a perfect locked room...!":……ゲストハウスは完璧な密室なんだ…！」}`
-`{ruby:"Well, since someone's dead, it obviously wasn't perfect.:「完璧でないから、人が死んだんだけどね。}`
-`{ruby:Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi......":きっひひひひひひひひ……」}`
-`{ruby:This was the crime of the fifth and sixth twilights.:これが、第五、第六の晩の事件。}`
-`{ruby:{n}The scene was the locked room known as the guesthouse.:{n}犯行現場は、ゲストハウスという名の密室。}`
-`{ruby:Gohda's and Kumasawa's master keys were also destroyed, meaning that all master keys had now been lost.:郷田と熊沢のマスターキーも破壊され、これで全てのマスターキーが失われた。}`
-`{ruby:Now, no one could break into this locked room guesthouse.:もう誰にも、ゲストハウスの密室を破ることは出来ない。}`
-`{ruby:At least, that should have been true......:そのはずだった……。}`
-`{ruby:This time, Doctor Nanjo was the one who was killed.:そして、今度は南條先生が殺された。}`
-`{ruby:He was killed in the entrance hall of the guesthouse.:殺されたのはゲストハウス内の玄関。}`
-`{ruby:It was far too foolish of him to come here alone to check that everything was locked.:戸締りの確認に、一人でここに訪れたのは、あまりに無用心が過ぎた。}`
+`{ruby:{p:42:No master keys exist anymore except the two:{p:42:マスターキーはもう、ここで死}{ruby:keys on the two people who lie dead here}.":んでる２人の２本以外、存在しない}」}`
+`{ruby:"Since the two master keys that:「現存する２本のマスターキーが、こうし}{ruby:exist are here inside the guesthouse,:てゲストハウス内に残っている以上、}`
+`{ruby:......that makes this guesthouse:……ゲストハウスは完璧}{ruby:a perfect locked room...!":な密室なんだ…！」}`
+`{ruby:"Well, since someone's dead,:「完璧でないから、人が}{ruby:it obviously wasn't perfect.:死んだんだけどね。}`
+`{ruby::きっひひひひひひ}{ruby:Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi......":ひひ……」}`
+`{ruby:This was the crime of:これが、第五、第六}{ruby:the fifth and sixth twilights.:の晩の事件。}`
+`{ruby:{n}The scene was the locked:{n}犯行現場は、ゲストハ}{ruby:room known as the guesthouse.:ウスという名の密室。}`
+`{ruby:Gohda's and Kumasawa's master keys were also destroyed,:郷田と熊沢のマスターキーも破壊され、こ}{ruby:meaning that all master keys had now been lost.:れで全てのマスターキーが失われた。}`
+`{ruby:Now, no one could break:もう誰にも、ゲストハウスの密}{ruby:into this locked room guesthouse.:室を破ることは出来ない。}`
+`{ruby:At least, that:そのはずだっ}{ruby:should have been true......:た……。}`
+`{ruby:This time, Doctor Nanjo was:そして、今度は南條先}{ruby:the one who was killed.:生が殺された。}`
+`{ruby:He was killed in the:殺されたのはゲストハ}{ruby:entrance hall of the guesthouse.:ウス内の玄関。}`
+`{ruby:It was far too foolish of him to:戸締りの確認に、一人でここに訪れた}{ruby:come here alone to check that everything was locked.:のは、あまりに無用心が過ぎた。}`
 `{ruby:"{p:42:H‐he's dead...:「{p:42:し、死んでる…。}`
 `{ruby:He's been killed......}!":殺されてる……！}」}`
-`{ruby:"Even I...can say for sure that {p:42:this was an instant death}...":「僕でさえ、{p:42:これは即死だったに違いない}と一目でわかるよ…」}`
-`{ruby:"{p:42:Everything is locked up perfectly}.:「{p:42:戸締りは完璧だよ。}}`
-`{ruby:How did it happen, if this is a locked room?":密室なのにどうして？」}`
-`{ruby:"Then that means the culprit is one of us...!":「じゃあ、俺たちの中に犯人がいるってことになるぞ…！」}`
+`{ruby:"Even I...can say for sure:「僕でさえ、{p:42:これは即死だっ}{ruby:that {p:42:this was an instant death}...":たに違いない}と一目でわかるよ…」}`
+`{ruby:"{p:42:Everything is:「{p:42:戸締り}{ruby:locked up perfectly}.:は完璧だよ。}}`
+`{ruby:How did it happen, if:密室なのにどう}{ruby:this is a locked room?":して？」}`
+`{ruby:"Then that means the:「じゃあ、俺たちの中に犯人がい}{ruby:culprit is one of us...!":るってことになるぞ…！」}`
 `{ruby:"Impossible!:「それはありえない！}`
-`{ruby:Judging by the circumstances, {p:42:Maria, Battler, George nii‐san and I all couldn't have killed Doctor Nanjo}!":状況から判断して、{p:42:私にも真里亞にも、戦人にも譲治兄さんにも、南條先生は殺せない！}」}`
-`{ruby:"In the first place, {p:42:no one could kill Doctor Nanjo inside the guesthouse}!":「そもそも、{p:42:ゲストハウス内で南條先生を殺すことは不可能}なんだ！」}`
+`{ruby:Judging by the circumstances, {p:42:Maria, Battler, George nii‐san:状況から判断して、{p:42:私にも真里亞にも、戦人}{ruby:and I all couldn't have killed Doctor Nanjo}!":にも譲治兄さんにも、南條先生は殺せない！}」}`
+`{ruby:"In the first place, {p:42:no one:「そもそも、{p:42:ゲストハウス内で南}{ruby:could kill Doctor Nanjo inside the guesthouse}!":條先生を殺すことは不可能}なんだ！」}`
 `{ruby:"And look at this.:「しかも、これを見ろよ。}`
-`{ruby:Simply put, {p:42:this is proof that Doctor Nanjo didn't leave the guesthouse}...!":つまりこいつは、{p:42:南條先生がゲストハウスを出ていない証拠だ…！}」}`
-`{ruby:"Then that means no one could kill Doctor Nanjo, right?:「じゃあ南條先生は殺せないってことになるね？}`
+`{ruby:Simply put, {p:42:this is proof that:つまりこいつは、{p:42:南條先生がゲ}{ruby:Doctor Nanjo didn't leave the guesthouse}...!":ストハウスを出ていない証拠だ…！}」}`
+`{ruby:"Then that means no one:「じゃあ南條先生は殺せな}{ruby:could kill Doctor Nanjo, right?:いってことになるね？}`
 `{ruby:So why was he killed?":なのに、なんで殺されてるの？」}`
-`{ruby:No one could answer that innocent question.:誰にも、その無垢な問い掛けに答えることは出来ない。}`
+`{ruby:No one could:誰にも、その無垢な問い掛けに}{ruby:answer that innocent question.:答えることは出来ない。}`
 `{ruby:This was the seventh twilight.:これが、第七の晩。}`
-`{ruby:Once again, the crime scene was the locked room known as the guesthouse.:犯行現場は、またしてもゲストハウスという密室。}`
-`{ruby:Various bits of evidence made this crime seem even more impossible.:数々の状況から、またしても不可能犯罪の様相を深める。}`
-`{ruby:Then, the tragedy reached the eighth twilight, the final one.:そして、惨劇は最後の第八の晩を迎える。}`
-`{ruby:By now, it was clear that holing up wouldn't keep them safe.:もう、篭城が自分たちの身を守ってくれないことは明白だった。}`
-`{ruby:Jessica might have chosen anger as a way to numb her fear.:恐怖を忘れるための麻酔として、朱志香は怒りを選んだのかもしれない。}`
-`{ruby:She flew out of the guesthouse in a rage, searching for the murderer that she was sure hid somewhere outside.:彼女は、屋外に潜むに違いない殺人犯を求め、激高しながらゲストハウスを飛び出していく。}`
-`{ruby:George, Battler, and Maria hurriedly chased after her.:慌てて朱志香を追う、譲治、戦人、真里亞の３人。}`
-`{ruby:Then, outside the building, they found Jessica lying on the ground.:そして３人は屋外にて、倒れている朱志香を見つける。}`
-`{ruby:It was, as anyone could tell by looking, a gruesome corpse......:それは誰が見ても一目でわかる、無残な死体だった……。}`
+`{ruby:Once again, the crime scene was:犯行現場は、またしてもゲス}{ruby:the locked room known as the guesthouse.:トハウスという密室。}`
+`{ruby:Various bits of evidence made:数々の状況から、またしても不}{ruby:this crime seem even more impossible.:可能犯罪の様相を深める。}`
+`{ruby:Then, the tragedy reached the:そして、惨劇は最後の第}{ruby:eighth twilight, the final one.:八の晩を迎える。}`
+`{ruby:By now, it was clear that:もう、篭城が自分たちの身を守って}{ruby:holing up wouldn't keep them safe.:くれないことは明白だった。}`
+`{ruby:Jessica might have chosen anger as:恐怖を忘れるための麻酔として、朱志香}{ruby:a way to numb her fear.:は怒りを選んだのかもしれない。}`
+`{ruby:She flew out of the guesthouse in a rage, searching:彼女は、屋外に潜むに違いない殺人犯を求め、激}{ruby:for the murderer that she was sure hid somewhere outside.:高しながらゲストハウスを飛び出していく。}`
+`{ruby:George, Battler, and Maria:慌てて朱志香を追う、譲治、}{ruby:hurriedly chased after her.:戦人、真里亞の３人。}`
+`{ruby:Then, outside the building, they:そして３人は屋外にて、倒れて}{ruby:found Jessica lying on the ground.:いる朱志香を見つける。}`
+`{ruby:It was, as anyone could:それは誰が見ても一目でわかる}{ruby:tell by looking, a gruesome corpse......:、無残な死体だった……。}`
 `{ruby:"Poor......Jessica‐chan.:「朱志香ちゃん、……可哀想に。}`
 `{ruby:{p:42:She probably died instantly}.":{p:42:即死だったろう}」}`
-`{ruby:"{p:42:There's no way she could live through this}.:「{p:42:これで生きているわけがない}もんね。}`
+`{ruby:"{p:42:There's no way she:「{p:42:これで生きてい}{ruby:could live through this}.:るわけがない}もんね。}`
 `{ruby:Kihihihihi.":きひひひひ」}`
-`{ruby:"The three of us were together the whole time!:「俺たちは３人でずっと一緒だった！}`
-`{ruby:{p:42:George‐aniki, Maria and I couldn't have killed Jessica}!":{p:42:俺も譲治の兄貴も真里亞も、朱志香は殺せねぇぞ！}」}`
+`{ruby:"The three of us:「俺たちは３人でずっ}{ruby:were together the whole time!:と一緒だった！}`
+`{ruby:{p:42:George‐aniki, Maria and I:{p:42:俺も譲治の兄貴も真里亞}{ruby:couldn't have killed Jessica}!":も、朱志香は殺せねぇぞ！}」}`
 `{ruby:"Yeah.:「うん。}`
-`{ruby:{p:42:The three of us couldn't have killed Jessica}.":{p:42:私たち３人に朱志香は殺せない}」}`
+`{ruby:{p:42:The three of us:{p:42:私たち３人に}{ruby:couldn't have killed Jessica}.":朱志香は殺せない}」}`
 `{ruby:"As if Maria‐chan could kill someone.:「真里亞ちゃんが人なんか殺すもんか。}`
-`{ruby:{p:42:Maria‐chan couldn't kill anyone}.":{p:42:真里亞ちゃんには誰も殺せないよ}」}`
+`{ruby:{p:42:Maria‐chan couldn't:{p:42:真里亞ちゃんに}{ruby:kill anyone}.":は誰も殺せないよ}」}`
 `{ruby:"Kihihi, thanks.:「きひひ、ありがとう。}`
-`{ruby:{p:42:George onii‐chan couldn't kill an adult.:{p:42:譲治お兄ちゃんだって、大人は殺せないよ。}`
+`{ruby:{p:42:George onii‐chan couldn't:{p:42:譲治お兄ちゃんだ}{ruby:kill an adult.:って、大人は殺せないよ。}`
 `{ruby:He could kill a kid though}.:子供は殺せるけれど。}}`
 `{ruby:Kihihihihihi.":きひひひひひひ」}`
-`{ruby:"Ah, I don't understand it at all...!!:「あぁ、何が何だかさっぱりわからねぇぜ…！！}`
-`{ruby:What the hell is going on here...?!!":一体、何がどうなってやがるんだ…！！」}`
+`{ruby:"Ah, I don't:「あぁ、何が何だかさっぱ}{ruby:understand it at all...!!:りわからねぇぜ…！！}`
+`{ruby:What the hell:一体、何がどうなってや}{ruby:is going on here...?!!":がるんだ…！！」}`
 `{ruby:This was the eighth twilight.:これが、第八の晩。}`
 `{ruby:The crime scene was...outside.:犯行現場は、屋外。}`
-`{ruby:However, the three who chased after Jessica have alibis.:しかし、朱志香の後を追った３人にはアリバイがある。}`
-`{ruby:{n}George, Battler, and Maria couldn't have killed Jessica.:{n}譲治、戦人、真里亞には、朱志香は殺せない。}`
-`{ruby:So, is there really someone hiding on this island apart from the Ushiromiya family......?:やはり、この島には、右代宮家以外の何者かが潜んでいるのだろうか……。}`
-`{ruby:The curtain is lowered on this tale, for now......:物語の幕は、ここで一度下りる……。}`
+`{ruby:However, the three who:しかし、朱志香の後を追った３}{ruby:chased after Jessica have alibis.:人にはアリバイがある。}`
+`{ruby:{n}George, Battler, and Maria:{n}譲治、戦人、真里亞に}{ruby:couldn't have killed Jessica.:は、朱志香は殺せない。}`
+`{ruby:So, is there really someone hiding on:やはり、この島には、右代宮家以外の何}{ruby:this island apart from the Ushiromiya family......?:者かが潜んでいるのだろうか……。}`
+`{ruby:The curtain is lowered:物語の幕は、ここで一}{ruby:on this tale, for now......:度下りる……。}`
 `{ruby:"......That's all for my tale.":「……これで、私の物語はおしまいよ」}`
 `{ruby:"It's pretty well made.:「なかなかよく出来てるじゃない。}`
-`{ruby:If you had a full‐on Reader, it'd stand up well against Beato's games.":ちゃんと朗読したなら、ベアトのゲームに混じってても不思議じゃない物語だったわ」}`
+`{ruby:If you had a full‐on Reader,:ちゃんと朗読したなら、ベアトのゲームに混じ}{ruby:it'd stand up well against Beato's games.":ってても不思議じゃない物語だったわ」}`
 `{ruby:"I agree there.:「それは認めるぜ。}`
 `{ruby:You did a good job.":よく出来てた」}`
-`{ruby:"Well, the real work comes from taking this, "reading" it, and making it worthy of proper theatergoing.":「まぁ、ここから朗読して観劇に耐えるものにするのが骨なのであるが」}`
+`{ruby:"Well, the real work comes from taking this,:「まぁ、ここから朗読して観劇に耐える}{ruby:"reading" it, and making it worthy of proper theatergoing.":ものにするのが骨なのであるが」}`
 `{ruby:"Still, I'm stumped.:「しかし、何が何だかさっぱりだぜ。}`
-`{ruby:On the face of it, the culprit has to be some mysterious person outside the Ushiromiya family.":まともに考えたら、犯人は右代宮家以外の、謎の人物ってことになっちまう」}`
-`{ruby:"And that would be the same as acknowledging the existence of a witch.:「それは魔女を認めるも同じだ。}`
-`{ruby:......We can also suspect the existence of some accomplices aiding the culprit.":……他にも、犯人に協力する共犯者の存在などが疑えるだろうな」}`
-`{ruby:"In the first place, what was that purple text all about?:「そもそも、あの紫の文字は何なんだ。}`
+`{ruby:On the face of it, the culprit has:まともに考えたら、犯人は右代宮家以外の}{ruby:to be some mysterious person outside the Ushiromiya family.":、謎の人物ってことになっちまう」}`
+`{ruby:"And that would be the same:「それは魔女を認め}{ruby:as acknowledging the existence of a witch.:るも同じだ。}`
+`{ruby:......We can also suspect the existence:……他にも、犯人に協力する共犯者}{ruby:of some accomplices aiding the culprit.":の存在などが疑えるだろうな」}`
+`{ruby:"In the first place, what:「そもそも、あの紫の}{ruby:was that purple text all about?:文字は何なんだ。}`
 `{ruby:A new rule?":新しいルールか？」}`
-`{ruby:"......I call them "purple statements".:「……“紫の発言”と呼ぶわ。}`
-`{ruby:It's a rule I made to make the story a bit easier to follow.:話をわかりやすくするために作ったルールよ。}`
-`{ruby:......Just think of the purple statements as important spoken statements.:……紫の発言は、重要な発言であると認識してくれれば結構よ。}`
-`{ruby:......In other words, you might be able to ignore the spoken statements that aren't purple.":……逆に言えば、紫でない発言は無視することも可能かもしれない」}`
+`{ruby:"......I call:「……“紫の発言}{ruby:them "purple statements".:”と呼ぶわ。}`
+`{ruby:It's a rule I made to make:話をわかりやすくするため}{ruby:the story a bit easier to follow.:に作ったルールよ。}`
+`{ruby:......Just think of the purple:……紫の発言は、重要な発言である}{ruby:statements as important spoken statements.:と認識してくれれば結構よ。}`
+`{ruby:......In other words, you might be able:……逆に言えば、紫でない発言は無視}{ruby:to ignore the spoken statements that aren't purple.":することも可能かもしれない」}`
 `{ruby:"Oho......:「ほう……。}`
 `{ruby:Well, that's nice of you.":そりゃ親切な話だな」}`
-`{ruby:"Then, are the purple statements as reliable as red truth?":「では、紫の発言は、赤き真実に準ずるのか」}`
+`{ruby:"Then, are the purple statements:「では、紫の発言は、赤き}{ruby:as reliable as red truth?":真実に準ずるのか」}`
 `{ruby:"Yes.:「えぇ。}`
-`{ruby:You can think of the purple statements as having the same power as red truth.:紫の発言は、赤き真実と同じ力があると考えて良いわ。}`
-`{ruby:.........However, there's one exception.:………ただし、一つだけ例外がある。}`
-`{ruby:The culprit can tell lies with purple statements.":それは、犯人は紫の発言でウソをつくことが出来るということよ」}`
+`{ruby:You can think of the purple statements:紫の発言は、赤き真実と同じ力}{ruby:as having the same power as red truth.:があると考えて良いわ。}`
+`{ruby:.........However, there's:………ただし、一つだ}{ruby:one exception.:け例外がある。}`
+`{ruby:The culprit can tell:それは、犯人は紫の発言でウソをつ}{ruby:lies with purple statements.":くことが出来るということよ」}`
 `{ruby:"......I see.:「……なるほど。}`
-`{ruby:To turn it around, anyone who isn't a culprit can't tell lies.":逆に言えば、犯人以外はウソをつけないってわけか」}`
+`{ruby:To turn it around, anyone who:逆に言えば、犯人以外はウソ}{ruby:isn't a culprit can't tell lies.":をつけないってわけか」}`
 `{ruby:"Purple statements.:「紫の発言。}`
-`{ruby:......These seem to be the key to Lady {f:5:Bernkastel}'s game.":……これがどうやら、ベルンカステル卿のゲームの鍵であるわけだな」}`
+`{ruby:......These seem to be the:……これがどうやら、ベルンカステル}{ruby:key to Lady {f:5:Bernkastel}'s game.":卿のゲームの鍵であるわけだな」}`
 `{ruby:"Yeah, that's right.:「えぇ、そうよ。}`
-`{ruby:......I'll explain the rules for my game.":………私のゲームの、ルールの前提を説明するわ」}`
+`{ruby:......I'll explain the:………私のゲームの、ルール}{ruby:rules for my game.":の前提を説明するわ」}`
 `{ruby:{e:100::{e:080:}`
-`{ruby:• The definition of "culprit" is "one who murders".:●犯人の定義とは、殺人者のことである。}`
-`{ruby:• It is possible for a culprit to lie.:●犯人はウソをつく可能性がある。}`
-`{ruby:• It is possible for a culprit to lie even before committing murder.:●犯人は殺人以前にもウソをつく可能性がある。}`
-`{ruby:• Characters who are not culprits only speak the truth.:●犯人でない人物は、真実のみを語る。}`
-`{ruby:• Characters who are not culprits cannot cooperate with a culprit.:●犯人でない人物は、犯人に協力しない。}`
-`{ruby:• A culprit must carry out all murders directly, by their own hands.:●犯人は全ての殺人を、自らの手で直接行なう。}`
+`{ruby:• The definition of:●犯人の定義とは、殺人}{ruby:"culprit" is "one who murders".:者のことである。}`
+`{ruby:• It is possible:●犯人はウソをつく}{ruby:for a culprit to lie.:可能性がある。}`
+`{ruby:• It is possible for a:●犯人は殺人以前にもウソ}{ruby:culprit to lie even before committing murder.:をつく可能性がある。}`
+`{ruby:• Characters who are not:●犯人でない人物は、}{ruby:culprits only speak the truth.:真実のみを語る。}`
+`{ruby:• Characters who are not:●犯人でない人物は、犯}{ruby:culprits cannot cooperate with a culprit.:人に協力しない。}`
+`{ruby:• A culprit must carry out:●犯人は全ての殺人を、自}{ruby:all murders directly, by their own hands.:らの手で直接行なう。}`
 `{ruby:• A culprit must not die.:●犯人が死ぬことはない。}`
-`{ruby:• A culprit must be among the characters appearing in the story.:●犯人は登場人物の中にいる。}`
-`{ruby:• Purple statements are as absolute as red truths.:●紫の発言は、赤き真実と同じ価値がある。}`
-`{ruby:However, a culprit can lie with purple statements.}:ただし、犯人のみ、紫の発言でウソがつける。}}`
+`{ruby:• A culprit must be among:●犯人は登場人物}{ruby:the characters appearing in the story.:の中にいる。}`
+`{ruby:• Purple statements are:●紫の発言は、赤き真実}{ruby:as absolute as red truths.:と同じ価値がある。}`
+`{ruby:However, a culprit can:ただし、犯人のみ、紫の発}{ruby:lie with purple statements.}:言でウソがつける。}}`
 `{ruby:"That's all.":「以上よ」}`
-`{ruby:"The definition of "culprit" is "one who murders"...:「“犯人の定義は殺人者である”、か。}`
+`{ruby:"The definition of "culprit":「“犯人の定義は殺人}{ruby:is "one who murders"...:者である”、か。}`
 `{ruby:Makes sense.":もっともな話だぜ」}`
 `{ruby:"It is possible for a culprit to lie.:「“犯人はウソをつく可能性がある”。}`
 `{ruby:That seems reasonable enough too.":これももっともな話であるぞ」}`
-`{ruby:"It is possible for a culprit to lie even before committing murder.:「“犯人は殺人以前にもウソをつける”。}`
+`{ruby:"It is possible for a culprit:「“犯人は殺人以前にも}{ruby:to lie even before committing murder.:ウソをつける”。}`
 `{ruby:Well, no surprises there.":そりゃそうだろうな」}`
-`{ruby:"Characters who are not culprits only speak the truth.:「“犯人でない人物は、真実のみを語る”。}`
-`{ruby:That is one we should be grateful for!":ありがたい話であるな！」}`
-`{ruby:"Characters who are not culprits cannot cooperate with a culprit, right?":「“犯人でない人物は、犯人に協力しない”、ですって」}`
-`{ruby:"So, the culprit can't use any accomplices to create an alibi.":「これはつまり、口裏を合わせる共犯者がいないということか」}`
+`{ruby:"Characters who are not:「“犯人でない人物は、}{ruby:culprits only speak the truth.:真実のみを語る”。}`
+`{ruby:That is one we:ありがたい話で}{ruby:should be grateful for!":あるな！」}`
+`{ruby:"Characters who are not culprits:「“犯人でない人物は、犯人に}{ruby:cannot cooperate with a culprit, right?":協力しない”、ですって」}`
+`{ruby:"So, the culprit can't use:「これはつまり、口裏を合わせる共}{ruby:any accomplices to create an alibi.":犯者がいないということか」}`
 `{ruby:"Damn.:「やられたな。}`
-`{ruby:My guess was that someone had manufactured an alibi to cover for the culprit, but...":犯人を庇って、アリバイを捏造しているヤツがいると疑ってたんだが…」}`
+`{ruby:My guess was that someone had manufactured:犯人を庇って、アリバイを捏造している}{ruby:an alibi to cover for the culprit, but...":ヤツがいると疑ってたんだが…」}`
 `{ruby:"......Too bad for you.":「……お生憎ね」}`
-`{ruby:"A culprit must carry out all murders directly, by their own hands.:「“犯人は全ての殺人を、自らの手で直接行なう”。}`
-`{ruby:......In other words, there are no remote or indirect methods of murder, like traps.":……つまり、トラップなどの遠距離殺人、間接殺人はないというわけだ」}`
+`{ruby:"A culprit must carry out all:「“犯人は全ての殺人を、自}{ruby:murders directly, by their own hands.:らの手で直接行なう”。}`
+`{ruby:......In other words, there are no remote:……つまり、トラップなどの遠距離殺人}{ruby:or indirect methods of murder, like traps.":、間接殺人はないというわけだ」}`
 `{ruby:"A culprit must not die.:「“犯人が死ぬことはない”。}`
-`{ruby:In other words, no one can commit murder, set up a locked room, then commit suicide inside it.":つまり、殺害後、密室を構築して自殺ってことはないってわけか」}`
-`{ruby:"And doesn't it also mean that dead people can't be culprits?":「それはつまり、死者は犯人ではないってことにもなるわね？」}`
+`{ruby:In other words, no one can commit murder, set:つまり、殺害後、密室を構築して自}{ruby:up a locked room, then commit suicide inside it.":殺ってことはないってわけか」}`
+`{ruby:"And doesn't it also mean:「それはつまり、死者は犯人ではな}{ruby:that dead people can't be culprits?":いってことにもなるわね？」}`
 `{ruby:"......Hmm.:「……ふむ。}`
-`{ruby:This is a fairly vital piece of information.":それは地味に重要な情報であるぞ」}`
-`{ruby:"A culprit must be among the characters appearing in the story.:「“犯人は登場人物の中にいる”。}`
-`{ruby:......So, no mysterious strangers sneaking onto the island.":……未知の人物が島に紛れ込んで、ってのはなしってわけだ」}`
-`{ruby:"The appearing characters are the same old seventeen people after Kinzo is removed.:「登場人物は、金蔵を除いた、いつものお約束の１７人よ。}`
-`{ruby:No one else appears in the story, so no one else matters.":それ以外は登場しないし、関係もない」}`
-`{ruby:"Purple statements are as absolute as red truths.:「“紫の発言は、赤き真実と同じ価値がある。}`
-`{ruby:However, a culprit can lie with purple statements.:ただし、犯人のみ、紫の発言でウソがつける”。}`
+`{ruby:This is a fairly:それは地味に重要な}{ruby:vital piece of information.":情報であるぞ」}`
+`{ruby:"A culprit must be among:「“犯人は登場人物}{ruby:the characters appearing in the story.:の中にいる”。}`
+`{ruby:......So, no mysterious strangers:……未知の人物が島に紛れ込んで}{ruby:sneaking onto the island.":、ってのはなしってわけだ」}`
+`{ruby:"The appearing characters are the same:「登場人物は、金蔵を除いた、い}{ruby:old seventeen people after Kinzo is removed.:つものお約束の１７人よ。}`
+`{ruby:No one else appears in the:それ以外は登場しない}{ruby:story, so no one else matters.":し、関係もない」}`
+`{ruby:"Purple statements are as:「“紫の発言は、赤き真実}{ruby:absolute as red truths.:と同じ価値がある。}`
+`{ruby:However, a culprit can:ただし、犯人のみ、紫の発}{ruby:lie with purple statements.:言でウソがつける”。}`
 `{ruby:......Now here's a troublesome one.":……これが厄介であるな」}`
-`{ruby:"This could be the heart of this game.:「ゲームの肝ってところだろうぜ。}`
-`{ruby:Is that all for the game's premises?":それでゲームの前提とやらは終わりか？」}`
-`{ruby:".........Besides that, I guess there's only "the Reader will tell no lies".:「………最後に付け加えるとしたら、“朗読者はウソをつかない”、というくらいかしら。}`
-`{ruby:In other words, {p:1:there are no lies in the non‐dialogue narrative text}.:つまり、{p:1:セリフでないト書き部分に、ウソは存在しないということよ。}}`
-`{ruby:......I could've done that if I wanted, but it'd be a pain and make things complicated.":……やっても良かったけれど、ゲームが複雑になって面倒臭いし」}`
-`{ruby:"So, you willingly abandon a witch's privileges.:「魔女の特権を自ら手放すとは。}`
+`{ruby:"This could be the:「ゲームの肝ってと}{ruby:heart of this game.:ころだろうぜ。}`
+`{ruby:Is that all:それでゲームの前提とや}{ruby:for the game's premises?":らは終わりか？」}`
+`{ruby:".........Besides that, I guess there's only:「………最後に付け加えるとしたら、“朗読者は}{ruby:"the Reader will tell no lies".:ウソをつかない”、というくらいかしら。}`
+`{ruby:In other words, {p:1:there are no:つまり、{p:1:セリフでないト書き部分}{ruby:lies in the non‐dialogue narrative text}.:に、ウソは存在しないということよ。}}`
+`{ruby:......I could've done that if I wanted, but:……やっても良かったけれど、ゲー}{ruby:it'd be a pain and make things complicated.":ムが複雑になって面倒臭いし」}`
+`{ruby:"So, you willingly:「魔女の特権を自ら}{ruby:abandon a witch's privileges.:手放すとは。}`
 `{ruby:You seem quite confident.":大した余裕であるな」}`
-`{ruby:"She probably plans to win despite that.":「それでも勝てるつもりなんだろうぜ」}`
+`{ruby:"She probably plans:「それでも勝てるつも}{ruby:to win despite that.":りなんだろうぜ」}`
 `{ruby:"That's all from me.:「私からは以上で全てよ。}`
-`{ruby:......I don't intend to give you any more hints or answer any more questions.":……これ以上は、何の質問もヒントも出すつもりはないわ」}`
-`{ruby:"As the observer, I'll proclaim this once again.:「立会い人として、最後に改めて宣言するわ。}`
-`{ruby:{p:1:I guarantee that it's possible to identify the culprit with this information}.":{p:1:以上の情報で、犯人が特定できることを保証する}」}`
+`{ruby:......I don't intend to give you any:……これ以上は、何の質問もヒン}{ruby:more hints or answer any more questions.":トも出すつもりはないわ」}`
+`{ruby:"As the observer, I'll:「立会い人として、最後に}{ruby:proclaim this once again.:改めて宣言するわ。}`
+`{ruby:{p:1:I guarantee that it's possible to:{p:1:以上の情報で、犯人が特}{ruby:identify the culprit with this information}.":定できることを保証する}」}`
 `{ruby:"Okay.:「よし。}`
 `{ruby:.........Got it.":………了解した」}`
 `{ruby:"I can't wait to get started.:「腕が鳴るぞ。}`
-`{ruby:I can't believe the two of us are going to take on the same mystery together once more...!":そなたと共にまた、同じミステリーに挑めるとはな…！」}`
+`{ruby:I can't believe the two of us are going:そなたと共にまた、同じミステ}{ruby:to take on the same mystery together once more...!":リーに挑めるとはな…！」}`
 `{ruby:"Yeah.:「あぁ。}`
 `{ruby:Let's make the most of it...!":楽しませてもらおうぜ…！」}`
-`{ruby:......This is a real game between you and me.:……これは、私とあなたの、本当のゲーム。}`
-`{ruby:{n}I recommend finding some paper and something to write with.:{n}紙と筆記用具を用意することをお奨めするわ。}`
-`{ruby:{n}That is, if you really intend to fight me.:{n}私と、本当に戦う気があるのならね。}`
-`{ruby:If you do get completely stuck, maybe you should listen in on Battler and Beato's reasoning.:もしどうしても行き詰まるなら、戦人とベアトの推理に耳を傾けるのもいいかもね。}`
-`{ruby:{n}We'll have those be "hints", for when you get absolutely stumped and can't move forward.:{n}それが、あなたがどうしても困った時の、“ヒント”。}`
-`{ruby:Still, I'd rather fight you one‐on‐one.:でも、私はあなたと一騎打ちが楽しみたいの。}`
-`{ruby:{n}If you plan to enjoy our little duel...:{n}あなたも、私との一騎打ちを楽しんでくれるなら。}`
-`{ruby:{n}Then try defeating me by your own power alone, without relying on hints.:{n}ヒントなんて頼らずに、あなたの力だけで私に打ち勝ってみて。}`
-`{ruby:So, ......let's enjoy ourselves, shall we?:さぁ、……楽しみましょう？}`
-`{ruby:{n}Enjoy this game that I've created...just for you......:{n}あなたのためだけに、生み出した私のゲームを……。}`
-`{ruby:"These purple statement things are quite a problem...":「紫の発言とやらが厄介であるな…」}`
-`{ruby:"We know that they're statements important enough to be on par with red truth.:「赤き真実並に重要な発言だってことはわかってるんだ。}`
-`{ruby:But they also contain the culprit's lies.":だが、犯人のウソが混じってる」}`
-`{ruby:"Even the dumbest idiot wouldn't try swallowing a bread roll whole if there might be a needle inside.":「針が混じってるかもしれないパンを、そのまま丸呑みにして食べる馬鹿はいないわ」}`
+`{ruby:......This is a real:……これは、私とあなた}{ruby:game between you and me.:の、本当のゲーム。}`
+`{ruby:{n}I recommend finding some paper:{n}紙と筆記用具を用意す}{ruby:and something to write with.:ることをお奨めするわ。}`
+`{ruby:{n}That is, if you:{n}私と、本当に戦う}{ruby:really intend to fight me.:気があるのならね。}`
+`{ruby:If you do get completely stuck, maybe you:もしどうしても行き詰まるなら、戦人とベア}{ruby:should listen in on Battler and Beato's reasoning.:トの推理に耳を傾けるのもいいかもね。}`
+`{ruby:{n}We'll have those be "hints", for when:{n}それが、あなたがどうして}{ruby:you get absolutely stumped and can't move forward.:も困った時の、“ヒント”。}`
+`{ruby:Still, I'd rather:でも、私はあなたと一騎打}{ruby:fight you one‐on‐one.:ちが楽しみたいの。}`
+`{ruby:{n}If you plan to:{n}あなたも、私との一騎打}{ruby:enjoy our little duel...:ちを楽しんでくれるなら。}`
+`{ruby:{n}Then try defeating me by your:{n}ヒントなんて頼らずに、あなた}{ruby:own power alone, without relying on hints.:の力だけで私に打ち勝ってみて。}`
+`{ruby:So, ......let's enjoy:さぁ、……楽しみ}{ruby:ourselves, shall we?:ましょう？}`
+`{ruby:{n}Enjoy this game that:{n}あなたのためだけに、生み}{ruby:I've created...just for you......:出した私のゲームを……。}`
+`{ruby:"These purple statement things:「紫の発言とやらが厄}{ruby:are quite a problem...":介であるな…」}`
+`{ruby:"We know that they're statements important enough:「赤き真実並に重要な発言だっ}{ruby:to be on par with red truth.:てことはわかってるんだ。}`
+`{ruby:But they also:だが、犯人のウソが}{ruby:contain the culprit's lies.":混じってる」}`
+`{ruby:"Even the dumbest idiot wouldn't try swallowing a bread:「針が混じってるかもしれないパンを、そのま}{ruby:roll whole if there might be a needle inside.":ま丸呑みにして食べる馬鹿はいないわ」}`
 `{ruby:"True.:「うむ。}`
-`{ruby:If we accept the purple blindly, there's no chance the truth will come to light.":全ての紫を鵜呑みにしていると、まったく真相が見えてこない」}`
-`{ruby:"A roll with a needle in it... I like that analogy.:「針の混じったパンか、いい例えだな。}`
-`{ruby:This precious, vital information might all be wasted thanks to one, tiny lie.":せっかくの貴重な情報も、一粒のウソのせいで台無しってわけだ」}`
-`{ruby:"Just which ones of this vast collection of purple have lies in them?:「この大量の紫の中の、どれが一体ウソなのか。}`
-`{ruby:......Just thinking about it makes my head hurt.":……考えるだけで頭が痛くなるというものよ」}`
-`{ruby:"Then why don't we try turning the chessboard over?":「なら、ここでチェス盤を引っ繰り返してみようじゃねぇか」}`
+`{ruby:If we accept the purple blindly, there's:全ての紫を鵜呑みにしていると、ま}{ruby:no chance the truth will come to light.":ったく真相が見えてこない」}`
+`{ruby:"A roll with a needle:「針の混じったパンか}{ruby:in it... I like that analogy.:、いい例えだな。}`
+`{ruby:This precious, vital information might all:せっかくの貴重な情報も、一粒のウ}{ruby:be wasted thanks to one, tiny lie.":ソのせいで台無しってわけだ」}`
+`{ruby:"Just which ones of this vast:「この大量の紫の中の、ど}{ruby:collection of purple have lies in them?:れが一体ウソなのか。}`
+`{ruby:......Just thinking about it:……考えるだけで頭が痛く}{ruby:makes my head hurt.":なるというものよ」}`
+`{ruby:"Then why don't we:「なら、ここでチェス盤を引っ繰}{ruby:try turning the chessboard over?":り返してみようじゃねぇか」}`
 `{ruby:"Hoh?:「ほう？}`
 `{ruby:What do you mean?":というと？」}`
 `{ruby:"It's simple.:「簡単な話さ。}`
 `{ruby:Forget which ones are lies.:どれがウソか、じゃない。}`
-`{ruby:Let's concentrate on finding out which ones must be true.":どれは確実に真実かってことに注目するんだ」}`
-`{ruby:"Are there any purple statements that we know must be true?":「確実に真実とわかる紫など存在するのか」}`
+`{ruby:Let's concentrate on finding out:どれは確実に真実かってこ}{ruby:which ones must be true.":とに注目するんだ」}`
+`{ruby:"Are there any purple statements:「確実に真実とわかる紫}{ruby:that we know must be true?":など存在するのか」}`
 `{ruby:"That's what we're looking for.:「それを探すんだ。}`
-`{ruby:We'll look for people who couldn't possibly be the culprit.:絶対に犯人じゃないと確定できるヤツを探す。}`
-`{ruby:If we can do that, then all of their purple statements are the same as red truth.":それを見つけることが出来れば、そいつの紫の発言は、全て赤き真実と同じってことになるんだ」}`
+`{ruby:We'll look for people who:絶対に犯人じゃないと確定}{ruby:couldn't possibly be the culprit.:できるヤツを探す。}`
+`{ruby:If we can do that, then all of:それを見つけることが出来れば、そいつの紫の発言}{ruby:their purple statements are the same as red truth.":は、全て赤き真実と同じってことになるんだ」}`
 `{ruby:"I see.:「なるほど。}`
-`{ruby:Instead of searching for the culprit, we'll start by searching for those who couldn't be the culprit!:犯人を捜すのではなく、まずは絶対に犯人でない人物を探すというわけか！}`
+`{ruby:Instead of searching for the culprit, we'll start:犯人を捜すのではなく、まずは絶対に犯}{ruby:by searching for those who couldn't be the culprit!:人でない人物を探すというわけか！}`
 `{ruby:Hmm, quite a fundamental strategy!":ふむ、基本であるな！」}`
 `{ruby:"That's it.:「そういうことさ。}`
-`{ruby:There's got to be someone, so let's look through it carefully.":必ずいるはずだ。丹念に探してみよう」}`
+`{ruby:There's got to be someone,:必ずいるはずだ。丹念}{ruby:so let's look through it carefully.":に探してみよう」}`
 `{ruby:"Well, that's a start, I guess?":「まずは第一歩というところね？」}`
-`{ruby:".........Let's see what they can do from here.":「………お手並み拝見と行くわ」}`
-`{ruby:"How can we know for sure that someone isn't the culprit?":「絶対に犯人でない人物とはどういうことだろう？」}`
-`{ruby:"One of the rules is that the culprit can't die.:「ルールに、犯人は死なないってのがある。}`
-`{ruby:In other words, though it might sound cruel, we can trust anyone who's dead.":つまり、酷ぇ話だが、死んだヤツは信用できるってことになる」}`
+`{ruby:".........Let's see what they:「………お手並み拝}{ruby:can do from here.":見と行くわ」}`
+`{ruby:"How can we know for:「絶対に犯人でない人物とは}{ruby:sure that someone isn't the culprit?":どういうことだろう？」}`
+`{ruby:"One of the rules is:「ルールに、犯人は死な}{ruby:that the culprit can't die.:ないってのがある。}`
+`{ruby:In other words, though it might sound:つまり、酷ぇ話だが、死んだヤツは}{ruby:cruel, we can trust anyone who's dead.":信用できるってことになる」}`
 `{ruby:"Hoh, that makes it easy!:「ほう、それはわかりやすい！}`
-`{ruby:Almost all of the characters were killed.:ほとんどの人物は殺された。}`
-`{ruby:So, we can trust the purple of all those people!":それらの人物の紫は全て信用できるというわけか！」}`
+`{ruby:Almost all of:ほとんどの人物は}{ruby:the characters were killed.:殺された。}`
+`{ruby:So, we can trust the:それらの人物の紫は全て信用}{ruby:purple of all those people!":できるというわけか！」}`
 `{ruby:"But it isn't quite that simple.:「ところが、そう簡単な話じゃない。}`
-`{ruby:There's the issue of people playing dead, which popped up so often even in our games.":俺とお前のゲームでも度々問題になった、死んだフリ問題ってのがあるんだ」}`
-`{ruby:"The bodies of all victims were examined, were they not?:「どの犠牲者も、皆、検死をしているではないか。}`
-`{ruby:Nanjo even said with the purple that no one would reach a wrong conclusion when examining a body.":南條も紫で、誰も検死を誤らないと断言している」}`
-`{ruby:"If Doctor Nanjo is the culprit, then we can't even rely on that.:「南條先生が犯人だったら、それもアテにはならねぇぜ。}`
-`{ruby:At a glance, it may look as though all the victims were examined, but all confirmations of their deaths are in purple statements.:一見、どの犠牲者も検死されているように見えるが、どの死亡確認も紫発言だ。}`
+`{ruby:There's the issue of people playing dead, which:俺とお前のゲームでも度々問題になった、}{ruby:popped up so often even in our games.":死んだフリ問題ってのがあるんだ」}`
+`{ruby:"The bodies of all victims:「どの犠牲者も、皆、検死を}{ruby:were examined, were they not?:しているではないか。}`
+`{ruby:Nanjo even said with the purple that no one:南條も紫で、誰も検死を誤ら}{ruby:would reach a wrong conclusion when examining a body.":ないと断言している」}`
+`{ruby:"If Doctor Nanjo is the culprit,:「南條先生が犯人だったら、そ}{ruby:then we can't even rely on that.:れもアテにはならねぇぜ。}`
+`{ruby:At a glance, it may look as though all the victims:一見、どの犠牲者も検死されているように}{ruby:were examined, but all confirmations of their deaths are in purple statements.:見えるが、どの死亡確認も紫発言だ。}`
 `{ruby:We can't be 100% sure.":１００％じゃない」}`
-`{ruby:"......Then whose death can we be sure about?":「……では、誰の死ならば信用できるというのか」}`
-`{ruby:"At any rate, let's check all the examinations over again.:「とにかく、犠牲者全員の検死を、もう一度見直すんだ。}`
-`{ruby:Let's look for someone who we can be absolutely certain is dead, in some way more reliable than these purple statements.":紫発言なんてあやふやなものじゃなくて、絶対確実に死んだ人間を探すんだ」}`
+`{ruby:"......Then whose death can:「……では、誰の死ならば信}{ruby:we be sure about?":用できるというのか」}`
+`{ruby:"At any rate, let's check:「とにかく、犠牲者全員の検死}{ruby:all the examinations over again.:を、もう一度見直すんだ。}`
+`{ruby:Let's look for someone who we can be absolutely certain:紫発言なんてあやふやなものじゃなくて、}{ruby:is dead, in some way more reliable than these purple statements.":絶対確実に死んだ人間を探すんだ」}`
 `{ruby:"Yes, I've got it!:「そうか、わかったぞ！}`
 `{ruby:Battler, it's the narration!:戦人、ト書きだ！}`
-`{ruby:We've been told that there are no lies in the narrative text outside the dialogue!":セリフ以外のト書き部分にウソはないことになっていたぞ！」}`
+`{ruby:We've been told that there are no:セリフ以外のト書き部分にウソはな}{ruby:lies in the narrative text outside the dialogue!":いことになっていたぞ！」}`
 `{ruby:"Ah, I just realized that too.:「おう、俺も今、気付いたとこだ。}`
-`{ruby:{f:5:Bernkastel} announced with the red truth that there are no lies in the narration.":ベルンカステルは赤き真実で、ト書き部分にはウソがないことを宣言している」}`
-`{ruby:"Oh, looks like they figured it out...":「あら、気付かれちゃったみたいよ…？」}`
-`{ruby:"......They wouldn't get anywhere if they didn't.":「……気付かなくちゃ始まらないわよ」}`
-`{ruby:"Are there any deaths confirmed by the narration?!:「ト書きで、死亡を宣告されているヤツはおらぬか？！}`
-`{ruby:That would mean we can say for sure that the person in question is dead!":そいつは、本当に死んでいると断言できることになる！」}`
-`{ruby:"And that automatically means they aren't the culprit.":「そしてそいつは、自動的に犯人でないということになる」}`
-`{ruby:"And on top of that, it means we can trust their purple!":「のみならず、そやつの紫は信頼できるということになる！」}`
-`{ruby:"Let's look for deaths that are mentioned in the narration.:「ト書きで死亡を語られている人物を探してみよう。}`
-`{ruby:Ones that aren't vague about whether the person is alive or dead, like "X was lying on the ground".":“横たわっていた”、みたいな、生きてるようにも死んでるようにも見える曖昧な表現でないヤツをだ」}`
-`{ruby:"Yes, let's read through it once more from the start!":「うむッ、頭からもう一度探すぞ！」}`
+`{ruby:{f:5:Bernkastel} announced with the red truth that:ベルンカステルは赤き真実で、ト書き部分}{ruby:there are no lies in the narration.":にはウソがないことを宣言している」}`
+`{ruby:"Oh, looks like:「あら、気付かれちゃっ}{ruby:they figured it out...":たみたいよ…？」}`
+`{ruby:"......They wouldn't get:「……気付かなくちゃ}{ruby:anywhere if they didn't.":始まらないわよ」}`
+`{ruby:"Are there any deaths:「ト書きで、死亡を宣告されて}{ruby:confirmed by the narration?!:いるヤツはおらぬか？！}`
+`{ruby:That would mean we can say for:そいつは、本当に死んでいると断}{ruby:sure that the person in question is dead!":言できることになる！」}`
+`{ruby:"And that automatically means:「そしてそいつは、自動的に犯人}{ruby:they aren't the culprit.":でないということになる」}`
+`{ruby:"And on top of that, it:「のみならず、そやつの紫は信頼}{ruby:means we can trust their purple!":できるということになる！」}`
+`{ruby:"Let's look for deaths that:「ト書きで死亡を語られてい}{ruby:are mentioned in the narration.:る人物を探してみよう。}`
+`{ruby:Ones that aren't vague about whether the person is:“横たわっていた”、みたいな、生きてるようにも死ん}{ruby:alive or dead, like "X was lying on the ground".":でるようにも見える曖昧な表現でないヤツをだ」}`
+`{ruby:"Yes, let's read through it:「うむッ、頭からもう}{ruby:once more from the start!":一度探すぞ！」}`
 `{ruby:"Battler, look!:「戦人、見よ！}`
-`{ruby:The narration clearly says that Nanjo was killed on the seventh twilight...!":第七の晩の南條については、ト書きではっきりと、殺されたと記されているぞ…！」}`
+`{ruby:The narration clearly says that Nanjo:第七の晩の南條については、ト書きではっきり}{ruby:was killed on the seventh twilight...!":と、殺されたと記されているぞ…！」}`
 `{ruby:"I found one too!:「俺も見つけたぜ！}`
-`{ruby:On the eighth twilight, the narration clearly mentions Jessica's gruesome corpse.":第八の晩の朱志香について、ト書きではっきりと、無残な死体だったと記している」}`
+`{ruby:On the eighth twilight, the:第八の晩の朱志香について、ト書きではっきり}{ruby:narration clearly mentions Jessica's gruesome corpse.":と、無残な死体だったと記している」}`
 `{ruby:"So, in other words......":「ということは、つまり……」}`
 `{ruby:"Doctor Nanjo and Jessica.:「南條先生と朱志香。}`
 `{ruby:Those two are definitely dead.:この二人は確実に死んでいるということ。}`
 `{ruby:And that means—":そしてそれは、」}`
-`{ruby:"We've proven that Nanjo and Jessica aren't culprits...!:「南條と朱志香が、犯人ではないことを示しているというわけだ…！}`
+`{ruby:"We've proven that Nanjo:「南條と朱志香が、犯人ではないこと}{ruby:and Jessica aren't culprits...!:を示しているというわけだ…！}`
 `{ruby:And that means—":そしてそれは、」}`
-`{ruby:"All of their purple statements are the same as red truth!":「この二人の紫発言は、赤き真実も同然、というわけだ！」}`
+`{ruby:"All of their purple statements:「この二人の紫発言は、赤き真実}{ruby:are the same as red truth!":も同然、というわけだ！」}`
 `{ruby:"Yes!! That's right!":「うむ！！　そういうことだ！」}`
 `{ruby:The pair gave each other a high five.:二人はパンと手を打ち合わせる。}`
-`{ruby:Finally, they had found their first big clue.:ようやく、最初の大きな手掛りが見つかった。}`
-`{ruby:{n}A safe slice on the roll with a needle in it.:{n}針の混じったパンの、安全な一切れ。}`
-`{ruby:{n}They had discovered some purple statements they could trust.:{n}信頼できる紫の発言の一部を見つける。}`
-`{ruby:"Let's try writing out Nanjo's and Jessica's purple statements!:「南條と朱志香の紫発言を書き出してみよう！}`
+`{ruby:Finally, they had found:ようやく、最初の大きな手}{ruby:their first big clue.:掛りが見つかった。}`
+`{ruby:{n}A safe slice on the:{n}針の混じったパン}{ruby:roll with a needle in it.:の、安全な一切れ。}`
+`{ruby:{n}They had discovered some:{n}信頼できる紫の発言}{ruby:purple statements they could trust.:の一部を見つける。}`
+`{ruby:"Let's try writing out:「南條と朱志香の紫発言を}{ruby:Nanjo's and Jessica's purple statements!:書き出してみよう！}`
 `{ruby:These are the same as red truth.:これは赤き真実も同然だ。}`
 `{ruby:We're finally getting somewhere...!":ようやく見えてきたぞ…！」}`
-`{ruby:"If we're sure that Doctor Nanjo isn't the culprit, then his purple statement for the first twilight,:「南條先生が犯人でないことが確定なら、第一の晩の彼の紫発言である、}`
-`{ruby:"doctor or not, no one examining a body will reach the wrong conclusion", becomes very important.":“私でなくとも、誰も検死を誤らない”が大きな意味を持ってくる」}`
-`{ruby:"In other words, no one will make any mistakes when confirming deaths...!":「つまり、誰であっても検死は誤らないということ…！」}`
-`{ruby:"So, any time Doctor Nanjo or Jessica confirms a death, we can be absolutely sure that it's true.":「犯人でないことが確定したこの二人、南條先生と朱志香によって行なわれた検死は、絶対に信用できるってことだ」}`
-`{ruby:"So, anyone whose death was confirmed by Nanjo or Jessica cannot be the culprit...!":「つまり、南條と朱志香が死亡を確認した人物もまた、犯人ではないことが確実になるというわけだ…！」}`
+`{ruby:"If we're sure that Doctor Nanjo isn't the:「南條先生が犯人でないことが確定なら}{ruby:culprit, then his purple statement for the first twilight,:、第一の晩の彼の紫発言である、}`
+`{ruby:"doctor or not, no one examining a body:“私でなくとも、誰も検死を誤らない}{ruby:will reach the wrong conclusion", becomes very important.":”が大きな意味を持ってくる」}`
+`{ruby:"In other words, no one will:「つまり、誰であっても検死は}{ruby:make any mistakes when confirming deaths...!":誤らないということ…！」}`
+`{ruby:"So, any time Doctor Nanjo or Jessica confirms a:「犯人でないことが確定したこの二人、南條先生と朱志香によ}{ruby:death, we can be absolutely sure that it's true.":って行なわれた検死は、絶対に信用できるってことだ」}`
+`{ruby:"So, anyone whose death was confirmed by:「つまり、南條と朱志香が死亡を確認した人物もまた、}{ruby:Nanjo or Jessica cannot be the culprit...!":犯人ではないことが確実になるというわけだ…！」}`
 `{ruby:".........Uh‐oh.:「………あちゃー。}`
 `{ruby:Looks like they're moving along.":順調ねぇ？」}`
 `{ruby:"......It's strange.:「……不思議なものね。}`
-`{ruby:I find it annoying that they're moving along, ......but if they did get stuck, that would just be boring.":順調だと悔しいけれど、……行き詰られても、それはそれで退屈だわ」}`
-`{ruby:"Okay, let's check their examinations and find some more characters who can't be the culprit!":「よし、この二人の検死をチェックして、犯人ではありえない人物を探してみよう！」}`
+`{ruby:I find it annoying that they're moving along, ......but:順調だと悔しいけれど、……行き詰ら}{ruby:if they did get stuck, that would just be boring.":れても、それはそれで退屈だわ」}`
+`{ruby:"Okay, let's check their examinations and find:「よし、この二人の検死をチェックして、犯人}{ruby:some more characters who can't be the culprit!":ではありえない人物を探してみよう！」}`
 `{ruby:"Yes!!":「うむ！！」}`
-`{ruby:"Battler, I've finished checking Nanjo's and Jessica's purple statements...!":「戦人ッ、南條と朱志香の紫発言のチェックを終えたぞ…！」}`
-`{ruby:"People whose deaths were confirmed by those two are definitely dead.:「この二人が死亡を確認した人物は、間違いなく死んでいる。}`
-`{ruby:And that means they can't be the culprit.":そして、それは間違いなく犯人でないことを示す」}`
-`{ruby:"Which in turn increases the number of purple statements we can trust!":「そうなれば、信頼できる紫発言がさらに増えるということだな！」}`
+`{ruby:"Battler, I've finished checking:「戦人ッ、南條と朱志香の紫発言}{ruby:Nanjo's and Jessica's purple statements...!":のチェックを終えたぞ…！」}`
+`{ruby:"People whose deaths were confirmed:「この二人が死亡を確認した人物}{ruby:by those two are definitely dead.:は、間違いなく死んでいる。}`
+`{ruby:And that means they:そして、それは間違いなく犯}{ruby:can't be the culprit.":人でないことを示す」}`
+`{ruby:"Which in turn increases the number:「そうなれば、信頼できる紫発言がさ}{ruby:of purple statements we can trust!":らに増えるということだな！」}`
 `{ruby:"Let's start with Doctor Nanjo.:「まず南條先生だ。}`
-`{ruby:He confirmed the deaths of the victims of the second twilight, Uncle Krauss and Aunt Natsuhi.":第二の晩の犠牲者の、蔵臼伯父さん、夏妃伯母さんの死亡を確認している」}`
-`{ruby:"Then, on the fourth twilight, he also confirmed Shannon's death.":「さらに第四の晩に、紗音の死亡も確認しているな」}`
-`{ruby:"On the fifth and sixth twilights, he even confirmed Gohda‐san and Kumasawa‐san's deaths.":「第五、第六の晩の、郷田さんと熊沢さんの死亡も確認している」}`
-`{ruby:"The number of innocent people has skyrocketed!:「一気にシロが増えたぞ！}`
-`{ruby:In addition to Nanjo and Jessica, we now know that Krauss, Natsuhi, Shannon, Gohda, and Kumasawa cannot be the culprit...!":南條、朱志香に加え、蔵臼、夏妃、紗音、郷田、熊沢は犯人ではないということだ…！」}`
+`{ruby:He confirmed the deaths of the victims of:第二の晩の犠牲者の、蔵臼伯父さん、夏}{ruby:the second twilight, Uncle Krauss and Aunt Natsuhi.":妃伯母さんの死亡を確認している」}`
+`{ruby:"Then, on the fourth twilight,:「さらに第四の晩に、紗音の}{ruby:he also confirmed Shannon's death.":死亡も確認しているな」}`
+`{ruby:"On the fifth and sixth twilights,:「第五、第六の晩の、郷田さんと熊}{ruby:he even confirmed Gohda‐san and Kumasawa‐san's deaths.":沢さんの死亡も確認している」}`
+`{ruby:"The number of:「一気にシロが}{ruby:innocent people has skyrocketed!:増えたぞ！}`
+`{ruby:In addition to Nanjo and Jessica, we now know that:南條、朱志香に加え、蔵臼、夏妃、紗音、郷田、}{ruby:Krauss, Natsuhi, Shannon, Gohda, and Kumasawa cannot be the culprit...!":熊沢は犯人ではないということだ…！」}`
 `{ruby:"That's not all.:「それだけじゃない。}`
-`{ruby:On the fourth twilight, {f:5:Bernkastel} announced Kanon‐kun's death with the red truth.:第四の晩にベルンカステルの赤き真実で、嘉音くんの死亡も宣言されてる。}`
-`{ruby:The culprit can't die, so Kanon‐kun isn't the culprit either!":犯人は死なないんだから、嘉音くんも犯人じゃない！」}`
+`{ruby:On the fourth twilight, {f:5:Bernkastel} announced:第四の晩にベルンカステルの赤き真実で}{ruby:Kanon‐kun's death with the red truth.:、嘉音くんの死亡も宣言されてる。}`
+`{ruby:The culprit can't die, so:犯人は死なないんだから、嘉音}{ruby:Kanon‐kun isn't the culprit either!":くんも犯人じゃない！」}`
 `{ruby:"Nanjo, Jessica, Krauss,:「南條、朱志香、蔵臼、}`
 `{ruby:Natsuhi, Shannon, Kanon,:夏妃、紗音、嘉音、}`
 `{ruby:Gohda, and Kumasawa.:郷田、熊沢。}`
-`{ruby:All eight of them are not the culprit!":この８人は犯人ではない！」}`
+`{ruby:All eight of them:この８人は犯人で}{ruby:are not the culprit!":はない！」}`
 `{ruby:"Oooh......:「あらら……。}`
-`{ruby:All of a sudden, they now have eight suspects less.":いきなり、容疑者が８人も減らされちゃったわよ？」}`
-`{ruby:"......It's only natural that they'd make it this far.:「……ここまでは順当でしょ。}`
+`{ruby:All of a sudden, they:いきなり、容疑者が８人も減}{ruby:now have eight suspects less.":らされちゃったわよ？」}`
+`{ruby:"......It's only natural that:「……ここまでは}{ruby:they'd make it this far.:順当でしょ。}`
 `{ruby:This is where it really begins.":ここからよ」}`
-`{ruby:"Now, the number of purple statements we can trust has grown tremendously.:「これで信用できる紫発言がどっと増えたぞ。}`
-`{ruby:We're really getting into the thick of it...!":ここからが本番だ…！」}`
+`{ruby:"Now, the number of purple statements:「これで信用できる紫発言}{ruby:we can trust has grown tremendously.:がどっと増えたぞ。}`
+`{ruby:We're really getting into:ここからが本番}{ruby:the thick of it...!":だ…！」}`
 `{ruby:"Yeah!:「あぁ！}`
-`{ruby:Let's check through the purple statements of the characters we've just proven innocent...!":新しく犯人でないことがわかった人物の紫発言も確認するぞ…！」}`
+`{ruby:Let's check through the purple statements:新しく犯人でないことがわかった人物}{ruby:of the characters we've just proven innocent...!":の紫発言も確認するぞ…！」}`
 `{ruby:"Krauss, Natsuhi, Shannon,:「蔵臼、夏妃、紗音、}`
 `{ruby:Kanon, Gohda, Kumasawa.:嘉音、郷田、熊沢。}`
-`{ruby:I've looked through the purple statements for all the people we just proved innocent!":この新しく無実が証明された人物の紫発言を吟味したぞ！」}`
+`{ruby:I've looked through the purple statements for:この新しく無実が証明された人物}{ruby:all the people we just proved innocent!":の紫発言を吟味したぞ！」}`
 `{ruby:"Yeah.:「あぁ。}`
-`{ruby:And as a result, we've proven that Genji‐san isn't the culprit.":その結果、源次さんが犯人でないことも新たに証明された」}`
-`{ruby:"For the first twilight, Kanon announces in a purple statement that he confirmed Genji's death.:「嘉音が第一の晩に、紫発言で源次の死を確認したと宣言している。}`
-`{ruby:That clears Genji of suspicion as well...!":これで源次もシロというわけだ…！」}`
-`{ruby:"So now, a total of nine people have been proven innocent.:「これで、合計９人の無実が証明されたな。}`
+`{ruby:And as a result, we've:その結果、源次さんが犯人でない}{ruby:proven that Genji‐san isn't the culprit.":ことも新たに証明された」}`
+`{ruby:"For the first twilight, Kanon announces in:「嘉音が第一の晩に、紫発言で源次の}{ruby:a purple statement that he confirmed Genji's death.:死を確認したと宣言している。}`
+`{ruby:That clears Genji:これで源次もシロとい}{ruby:of suspicion as well...!":うわけだ…！」}`
+`{ruby:"So now, a total of:「これで、合計９人の無}{ruby:nine people have been proven innocent.:実が証明されたな。}`
 `{ruby:Things are going pretty well.":いい感じだぜ」}`
-`{ruby:"Ah, right. It looks like Shannon's and Kumasawa's purple statements confirm that the six people of the first twilight all died.":「そうそう、紗音と熊沢の紫発言で、第一の晩の６人の死亡も確認しているようだぞ」}`
-`{ruby:".........We shouldn't accept that so easily.":「………それは、鵜呑みに出来ねぇな」}`
+`{ruby:"Ah, right. It looks like Shannon's and Kumasawa's purple statements:「そうそう、紗音と熊沢の紫発言で、第一の晩}{ruby:confirm that the six people of the first twilight all died.":の６人の死亡も確認しているようだぞ」}`
+`{ruby:".........We shouldn't accept:「………それは、鵜呑}{ruby:that so easily.":みに出来ねぇな」}`
 `{ruby:"Why not?:「なぜか？}`
-`{ruby:We can trust Shannon's and Kumasawa's statements, can we not?":紗音と熊沢の発言は信用できるのではないか？」}`
+`{ruby:We can trust Shannon's and:紗音と熊沢の発言は信用でき}{ruby:Kumasawa's statements, can we not?":るのではないか？」}`
 `{ruby:"Yeah, right?:「そうよねぇ？}`
-`{ruby:If you're sure they aren't culprits, why can't you trust their purple statements?":紗音と熊沢が犯人でないことが確定したのに、どうしてその発言が信用できないの？」}`
-`{ruby:"Kumasawa‐san, for example, only said they were "lying there, covered in blood".:「例えば熊沢さんだが、第一の晩の犠牲者の６人が食堂で、“血塗れになって倒れていた”としか言ってない。}`
-`{ruby:So, it's not clear whether they were alive or dead.:つまり、生死は不明ってわけだ。}`
-`{ruby:We can't call this a perfect examination of the six dining hall victims.":食堂の６人の犠牲者の検死は、絶対とは言えないわけだ」}`
-`{ruby:"Shannon speaks of those six in a different way.:「食堂の６人について、紗音は別の言い方もしているぞ。}`
-`{ruby:She says "the death of each parent was confirmed by their own child".":“お子様方はそれぞれ、自分の親がまちがいなく死んでいることを確認”したとな」}`
-`{ruby:"That means George‐aniki, Maria, and I each examined our own parents in the dining hall.:「食堂でそれぞれの親を検死したのは、俺と譲治の兄貴、そして真里亞の３人ってことだ。}`
-`{ruby:However, we haven't proven yet that any of those three are innocent.":しかし、この３人がシロであることはまだ証明されていない」}`
+`{ruby:If you're sure they aren't culprits,:紗音と熊沢が犯人でないことが確定したのに、}{ruby:why can't you trust their purple statements?":どうしてその発言が信用できないの？」}`
+`{ruby:"Kumasawa‐san, for example, only said they:「例えば熊沢さんだが、第一の晩の犠牲者の６人が食堂で}{ruby:were "lying there, covered in blood".:、“血塗れになって倒れていた”としか言ってない。}`
+`{ruby:So, it's not clear whether:つまり、生死は不明}{ruby:they were alive or dead.:ってわけだ。}`
+`{ruby:We can't call this a perfect:食堂の６人の犠牲者の検死は、}{ruby:examination of the six dining hall victims.":絶対とは言えないわけだ」}`
+`{ruby:"Shannon speaks of those:「食堂の６人について、紗音は}{ruby:six in a different way.:別の言い方もしているぞ。}`
+`{ruby:She says "the death of each:“お子様方はそれぞれ、自分の親がまちがい}{ruby:parent was confirmed by their own child".":なく死んでいることを確認”したとな」}`
+`{ruby:"That means George‐aniki, Maria, and I each:「食堂でそれぞれの親を検死したのは、俺と譲治}{ruby:examined our own parents in the dining hall.:の兄貴、そして真里亞の３人ってことだ。}`
+`{ruby:However, we haven't proven yet that:しかし、この３人がシロであるこ}{ruby:any of those three are innocent.":とはまだ証明されていない」}`
 `{ruby:"Oh, I get it.:「あぁ、なるほど、そういうことね。}`
-`{ruby:.........Shannon's words prove that the children confirmed each of the six deaths in the dining hall,:………紗音は、食堂の６人の死亡を、それぞれの親の子供が確認したことは証明したけれど、}`
-`{ruby:but they don't prove that the examinations those kids performed were legitimate.":それぞれの子供が真実の検死をしたかまでは、証明していないわ」}`
+`{ruby:.........Shannon's words prove that the children confirmed each:………紗音は、食堂の６人の死亡を、それぞれの}{ruby:of the six deaths in the dining hall,:親の子供が確認したことは証明したけれど、}`
+`{ruby:but they don't prove that the:それぞれの子供が真実の検死をした}{ruby:examinations those kids performed were legitimate.":かまでは、証明していないわ」}`
 `{ruby:"That's it.:「そういうことだ。}`
-`{ruby:Since we can't deny the possibility that the kids are lying, we still can't remove any of the six in the dining hall from suspicion.":子供が嘘をついている可能性が、否定できない以上、まだ食堂の連中全員を疑いから外すわけにはいかない」}`
+`{ruby:Since we can't deny the possibility that the kids are lying, we:子供が嘘をついている可能性が、否定できない以上、まだ}{ruby:still can't remove any of the six in the dining hall from suspicion.":食堂の連中全員を疑いから外すわけにはいかない」}`
 `{ruby:"How troublesome......:「これは厄介であるな……。}`
-`{ruby:All three of those are survivors who live until the end.:その３人は最後まで生き残った生存者。}`
-`{ruby:Since they are alive, that makes it impossible to prove that they aren't culprits...":生きているということは即ち、犯人でないと証明不能というわけだ…」}`
+`{ruby:All three of those are:その３人は最後まで生}{ruby:survivors who live until the end.:き残った生存者。}`
+`{ruby:Since they are alive, that makes it:生きているということは即ち、犯人で}{ruby:impossible to prove that they aren't culprits...":ないと証明不能というわけだ…」}`
 `{ruby:"Battler, George, Maria.:「戦人、譲治、真里亞。}`
-`{ruby:.....These survivors are not only likely to be culprits, they are also probably the hardest people to prove innocent.":……生き残ったこの３人は犯人である可能性が高いと同時に、シロであることの証明がもっとも難しいと言えるだろう」}`
+`{ruby:.....These survivors are not only likely to be culprits,:……生き残ったこの３人は犯人である可能性が高いと同時に、}{ruby:they are also probably the hardest people to prove innocent.":シロであることの証明がもっとも難しいと言えるだろう」}`
 `{ruby:"At any rate,:「とりあえず。}`
-`{ruby:it looks like those nine are the only ones we can say are definitely dead and therefore definitely innocent.":確実な死亡によってシロであると断言できるのは、この９人までのようであるな」}`
-`{ruby:"From here on out, it'll just be pure reasoning based off the purple statements of the nine we can trust.":「ここからは、信頼できる９人の紫発言で、純粋に推理していくしかない」}`
+`{ruby:it looks like those nine are the only ones:確実な死亡によってシロであると断言できる}{ruby:we can say are definitely dead and therefore definitely innocent.":のは、この９人までのようであるな」}`
+`{ruby:"From here on out, it'll just be pure reasoning based:「ここからは、信頼できる９人の紫発言}{ruby:off the purple statements of the nine we can trust.":で、純粋に推理していくしかない」}`
 `{ruby:"Nanjo, Jessica, Krauss,:「南條、朱志香、蔵臼、}`
 `{ruby:Natsuhi, Shannon, Kanon,:夏妃、紗音、嘉音、}`
 `{ruby:Gohda, Kumasawa, Genji.:郷田、熊沢、源次。}`
-`{ruby:We can only read through their purple statements once more...":この９人の紫発言を読み直すしかないな…」}`
-`{ruby:"Things are going to get hard starting now.:「ここからは難度が上がるぞ。}`
-`{ruby:Let's steel ourselves and take a shot at it...!":覚悟して掛かろうぜ…！」}`
+`{ruby:We can only read through:この９人の紫発言を読み}{ruby:their purple statements once more...":直すしかないな…」}`
+`{ruby:"Things are going to:「ここからは難度}{ruby:get hard starting now.:が上がるぞ。}`
+`{ruby:Let's steel ourselves and:覚悟して掛かろ}{ruby:take a shot at it...!":うぜ…！」}`
 `{ruby:"Mm.:「うむ。}`
-`{ruby:It's finally starting to feel like a real mystery...!":ようやくミステリーらしくなってきたというところよ…！」}`
+`{ruby:It's finally starting to:ようやくミステリーらしくなって}{ruby:feel like a real mystery...!":きたというところよ…！」}`
 `{ruby:"Hey, Beato.:「おい、ベアト。}`
-`{ruby:I've found out something interesting.:興味深いことがわかったぞ。}`
-`{ruby:In this series of crimes, master keys can never be used.":この一連の事件、マスターキーは一切使えない」}`
-`{ruby:"Come to think of it, the group of nine innocent people includes all five servants, doesn't it?":「そう言えば、シロである９人の中に、使用人５人が含まれるのであったな？」}`
-`{ruby:"Only the servants can use master keys.:「マスターキーは使用人にしか使えない。}`
-`{ruby:They can't hand them over to someone else.:渡せもしない。}`
-`{ruby:And, since people who aren't culprits themselves can't assist culprits, the master keys cannot be used for crimes.":そして犯人でない人物は犯人に協力しないのだから、犯行にマスターキーを用いることは出来ないんだ」}`
-`{ruby:Since it's been guaranteed that all five servants are innocent,:使用人５人全員がシロであることが保証されている以上、}`
-`{ruby:we know that the master keys have nothing to do with the crimes.:マスターキーは、事件には絡まないということになる。}`
+`{ruby:I've found:興味深いことがわ}{ruby:out something interesting.:かったぞ。}`
+`{ruby:In this series of crimes,:この一連の事件、マスター}{ruby:master keys can never be used.":キーは一切使えない」}`
+`{ruby:"Come to think of it, the group of:「そう言えば、シロである９人の中に、使}{ruby:nine innocent people includes all five servants, doesn't it?":用人５人が含まれるのであったな？」}`
+`{ruby:"Only the servants:「マスターキーは使用人}{ruby:can use master keys.:にしか使えない。}`
+`{ruby:They can't hand them:渡せもしな}{ruby:over to someone else.:い。}`
+`{ruby:And, since people who aren't culprits themselves can't assist:そして犯人でない人物は犯人に協力しないのだから、犯}{ruby:culprits, the master keys cannot be used for crimes.":行にマスターキーを用いることは出来ないんだ」}`
+`{ruby:Since it's been guaranteed that:使用人５人全員がシロであるこ}{ruby:all five servants are innocent,:とが保証されている以上、}`
+`{ruby:we know that the master keys:マスターキーは、事件には絡ま}{ruby:have nothing to do with the crimes.:ないということになる。}`
 `{ruby:"Yes, that's right...!:「確かに、そうなる…！}`
-`{ruby:And that makes this even more troublesome, correct?:となるとますますに厄介ではないか？}`
+`{ruby:And that makes this:となるとますますに厄}{ruby:even more troublesome, correct?:介ではないか？}`
 `{ruby:All of these locked room murders!:何度も起こった密室殺人！}`
-`{ruby:Every one of them must be constructed without any master keys...!":それらをマスターキー抜きで構築せねばならんことになる…！」}`
+`{ruby:Every one of them must:それらをマスターキー抜きで構築せ}{ruby:be constructed without any master keys...!":ねばならんことになる…！」}`
 `{ruby:"No.:「違うな。}`
 `{ruby:Turn the chessboard over.:チェス盤を引っ繰り返すぜ。}`
-`{ruby:This just means that none of the tricks need master keys to construct.":ってことはつまり、マスターキーがなくても、構築可能なトリックってワケさ」}`
+`{ruby:This just means that none of:ってことはつまり、マスターキーがなくて}{ruby:the tricks need master keys to construct.":も、構築可能なトリックってワケさ」}`
 `{ruby:"I see...!:「なるほど…！}`
-`{ruby:First twilight, the locked room of the dining hall.:第一の晩、食堂の密室。}`
-`{ruby:Second twilight, Natsuhi's locked room.:第二の晩、夏妃の部屋の密室。}`
-`{ruby:Starting with the fifth twilight, the locked room of the guesthouse.:第五の晩以降のゲストハウスの密室。}`
-`{ruby:It seems we must look closely through those again...":じっくり考え直す必要がありそうだな…」}`
-`{ruby:"Let's read it through once more carefully.:「もう一度、じっくりと読み直してみよう。}`
-`{ruby:......All of the servants are innocent.:……使用人は全員シロなんだ。}`
+`{ruby:First twilight, the locked:第一の晩、食堂}{ruby:room of the dining hall.:の密室。}`
+`{ruby:Second twilight,:第二の晩、夏妃の}{ruby:Natsuhi's locked room.:部屋の密室。}`
+`{ruby:Starting with the fifth twilight,:第五の晩以降のゲスト}{ruby:the locked room of the guesthouse.:ハウスの密室。}`
+`{ruby:It seems we must:じっくり考え直す必要が}{ruby:look closely through those again...":ありそうだな…」}`
+`{ruby:"Let's read it:「もう一度、じっくりと}{ruby:through once more carefully.:読み直してみよう。}`
+`{ruby:......All of the:……使用人は全員}{ruby:servants are innocent.:シロなんだ。}`
 `{ruby:Master keys can't be used.:マスターキーは使えない。}`
-`{ruby:Let's think through it again with that in mind.":そこを念頭に、もう一度考えるんだ」}`
-`{ruby:"I think I have a theory about the dining hall locked room of the first twilight.":「第一の晩の、食堂の密室についてだが、このような推理はどうだろうか」}`
+`{ruby:Let's think through it:そこを念頭に、もう一}{ruby:again with that in mind.":度考えるんだ」}`
+`{ruby:"I think I have a theory about the:「第一の晩の、食堂の密室についてだが}{ruby:dining hall locked room of the first twilight.":、このような推理はどうだろうか」}`
 `{ruby:"Let's hear it.":「拝聴しよう」}`
-`{ruby:"The corpse examinations of the victims in the first twilight still aren't certain.:「第一の晩の犠牲者の検死は、未だ定かではない。}`
-`{ruby:In other words, what if one of them was really the culprit?!:つまり、その中の誰かが実は犯人で！}`
-`{ruby:They killed the other five, locked the dining hall from the inside, then played dead...!":他の５人を殺した後に死んだフリをして、内側から食堂を施錠したのだ…！」}`
-`{ruby:"True, they could create a locked room without using master keys that way.:「確かに、それならマスターキーを使わずに密室を生み出せるな。}`
-`{ruby:That leaves us with a problem though.":とすると１つ疑問が出てくる」}`
+`{ruby:"The corpse examinations of the victims:「第一の晩の犠牲者の検死は}{ruby:in the first twilight still aren't certain.:、未だ定かではない。}`
+`{ruby:In other words, what if one:つまり、その中の誰か}{ruby:of them was really the culprit?!:が実は犯人で！}`
+`{ruby:They killed the other five, locked the:他の５人を殺した後に死んだフリをして、}{ruby:dining hall from the inside, then played dead...!":内側から食堂を施錠したのだ…！」}`
+`{ruby:"True, they could create a locked:「確かに、それならマスターキーを}{ruby:room without using master keys that way.:使わずに密室を生み出せるな。}`
+`{ruby:That leaves us:とすると１つ疑問}{ruby:with a problem though.":が出てくる」}`
 `{ruby:"What problem?":「疑問とは何か」}`
 `{ruby:"Remember?:「覚えてるか？}`
-`{ruby:When we were talking about the second twilight, {f:5:Bernkastel} said this with the red truth::第二の晩のやり取りの時、ベルンカステルに赤き真実でこう宣言された。}`
-`{ruby:"The culprit of the first twilight has definitely killed six people."":“第一の晩の犯人は確実に６人を殺している”とな」}`
+`{ruby:When we were talking about the second:第二の晩のやり取りの時、ベルンカステ}{ruby:twilight, {f:5:Bernkastel} said this with the red truth::ルに赤き真実でこう宣言された。}`
+`{ruby:"The culprit of the first:“第一の晩の犯人は確実に６}{ruby:twilight has definitely killed six people."":人を殺している”とな」}`
 `{ruby:"Yes, now that you mention it...:「そういえばそうであったな…。}`
 `{ruby:.........Mgh......":………むぅ……」}`
-`{ruby:"Because of that red truth, it seems all six people in the dining hall were dead after all.:「この赤き真実がある以上、やはり食堂の６人は死んでいたってことになる。}`
-`{ruby:So, how did someone lock the dining hall from the outside?:なら、外部の人間がどうやって食堂に施錠を。}`
+`{ruby:"Because of that red truth, it seems all six:「この赤き真実がある以上、やはり食堂の}{ruby:people in the dining hall were dead after all.:６人は死んでいたってことになる。}`
+`{ruby:So, how did someone lock:なら、外部の人間がどうや}{ruby:the dining hall from the outside?:って食堂に施錠を。}`
 `{ruby:Without using a key......":マスターキーを使わずに……」}`
 `{ruby:"Hey, Battler.:「なぁ、戦人。}`
-`{ruby:Does that red truth really confirm the deaths of all six people in the dining hall?":その赤き真実は食堂の６人の死亡を確実なものにしているのではないか？」}`
-`{ruby:"......Hmm, ......well, ......it does, doesn't it...?":「……うむ、……まぁ、……そういうことになるんだろうな…」}`
-`{ruby:"In that case, the six in the dining hall are all innocent, and excluding Genji, whose innocence has already been confirmed, that gives us five more people we can remove from the list of suspects, does it not?:「となれば、食堂の６人もシロということで、すでにシロとわかっている源次を除き、新しく５人がシロと判明したことになるのではないか？}`
-`{ruby:In other words, 9+5=14 people have been proved innocent...!:つまり、９＋５で１４人の無実が証明できたというわけだ…！}`
+`{ruby:Does that red truth really confirm the deaths:その赤き真実は食堂の６人の死亡を確実}{ruby:of all six people in the dining hall?":なものにしているのではないか？」}`
+`{ruby:"......Hmm, ......well, ......it:「……うむ、……まぁ、……そうい}{ruby:does, doesn't it...?":うことになるんだろうな…」}`
+`{ruby:"In that case, the six in the dining hall are all innocent, and excluding Genji, whose innocence has already:「となれば、食堂の６人もシロということで、すでにシロとわかっている}{ruby:been confirmed, that gives us five more people we can remove from the list of suspects, does it not?:源次を除き、新しく５人がシロと判明したことになるのではないか？}`
+`{ruby:In other words, 9+5=14:つまり、９＋５で１４人の無実が証}{ruby:people have been proved innocent...!:明できたというわけだ…！}`
 `{ruby:There are only three left!:残るは３人！}`
-`{ruby:Either Battler, George, or Maria must be the culprit...!":戦人、譲治、真里亞の３人の中に犯人がいるに違いないのだ…！」}`
+`{ruby:Either Battler, George, or:戦人、譲治、真里亞の３人の中に犯人}{ruby:Maria must be the culprit...!":がいるに違いないのだ…！」}`
 `{ruby:"Wait a second!:「ちょっと待ってくれ！}`
-`{ruby:......That doesn't seem right for some reason.:……どうもそいつは引っ掛かるんだ。}`
-`{ruby:That red truth did say that the culprit killed six people.:赤き真実で、犯人は６人を殺したと宣言はされてる。}`
-`{ruby:However, she didn't say that red during the first twilight.":でも、それを第一の晩の時に言われたわけじゃない」}`
-`{ruby:"I believe she said it back when we were talking about the second twilight, yes...?":「確か、第二の晩のやり取りの時に、言われたのであったな…？」}`
-`{ruby:"I'd like to read through that bit again.:「もう一度その部分を読み直したい。}`
+`{ruby:......That doesn't seem:……どうもそいつは引}{ruby:right for some reason.:っ掛かるんだ。}`
+`{ruby:That red truth did say:赤き真実で、犯人は６人を殺}{ruby:that the culprit killed six people.:したと宣言はされてる。}`
+`{ruby:However, she didn't say that:でも、それを第一の晩の時に}{ruby:red during the first twilight.":言われたわけじゃない」}`
+`{ruby:"I believe she said it back when:「確か、第二の晩のやり取りの時に}{ruby:we were talking about the second twilight, yes...?":、言われたのであったな…？」}`
+`{ruby:"I'd like to read:「もう一度その部分を}{ruby:through that bit again.:読み直したい。}`
 `{ruby:Let's search.:探してみよう。}`
-`{ruby:It feels like that was a strange time for her to say it...":不自然なタイミングで言われたような、そんな違和感を覚えるんだ…」}`
+`{ruby:It feels like that was a:不自然なタイミングで言われたような}{ruby:strange time for her to say it...":、そんな違和感を覚えるんだ…」}`
 `{ruby:"............Not bad.":「…………やるじゃない」}`
 `{ruby:"Can't underestimate these two.:「この二人、さすがね。}`
 `{ruby:Even their instincts are sharp.":勘も実に冴えてるわ」}`
-`{ruby:"I've been thinking about the second twilight's locked room, but no matter how many times I try, I keep ending up with the same theory...":「第二の晩の密室について考えているのだが、同じ推理しか浮かばぬ…」}`
-`{ruby:"You mean someone killing the pair of them, then locking the door from the inside and hiding?":「蔵臼伯父さんたちを殺した後、内側より施錠して隠れたって推理か？」}`
+`{ruby:"I've been thinking about the second twilight's locked room, but no matter:「第二の晩の密室について考えているの}{ruby:how many times I try, I keep ending up with the same theory...":だが、同じ推理しか浮かばぬ…」}`
+`{ruby:"You mean someone killing the pair of them,:「蔵臼伯父さんたちを殺した後、内側よ}{ruby:then locking the door from the inside and hiding?":り施錠して隠れたって推理か？」}`
 `{ruby:"Mm.:「うむ。}`
-`{ruby:......Since the master keys can't be used, the door must have been locked from the inside.:……マスターキーが使えぬ以上、施錠は内側より行なう他ない。}`
-`{ruby:So, it only makes sense if the culprit was hiding somewhere in Natsuhi's room.":となれば、犯人は夏妃の部屋のどこかに隠れていたとしか考えられぬ」}`
+`{ruby:......Since the master keys can't be used, the:……マスターキーが使えぬ以上、施}{ruby:door must have been locked from the inside.:錠は内側より行なう他ない。}`
+`{ruby:So, it only makes sense if the:となれば、犯人は夏妃の部屋のどこか}{ruby:culprit was hiding somewhere in Natsuhi's room.":に隠れていたとしか考えられぬ」}`
 `{ruby:"Right.:「そう。}`
 `{ruby:That is weird.:そこがおかしいんだ。}`
 `{ruby:It says this in the narration::ト書きにこうある。}`
-`{ruby:"no matter how much time passed, Krauss and Natsuhi were the only ones who didn't return.":“いつまで経っても、蔵臼夫妻だけが戻ってこない”。}`
+`{ruby:"no matter how much time passed, Krauss and:“いつまで経っても、蔵臼夫妻}{ruby:Natsuhi were the only ones who didn't return.":だけが戻ってこない”。}`
 `{ruby:And then it continues::そして、こう続く。}`
-`{ruby:"everyone headed to Krauss's and Natsuhi's rooms together."":“一同は全員で蔵臼と夏妃の部屋に向かい、”」}`
-`{ruby:"If Krauss and Natsuhi were the only ones who didn't return, .........that implies that everyone else did return to the parlor.":「“蔵臼夫妻だけが戻ってこない”ということはつまり、………それ以外の人間は全員、客間に戻ってきたということか」}`
+`{ruby:"everyone headed to Krauss's:“一同は全員で蔵臼と夏妃}{ruby:and Natsuhi's rooms together."":の部屋に向かい、”」}`
+`{ruby:"If Krauss and Natsuhi were the only ones who didn't:「“蔵臼夫妻だけが戻ってこない”ということはつまり、………}{ruby:return, .........that implies that everyone else did return to the parlor.":それ以外の人間は全員、客間に戻ってきたということか」}`
 `{ruby:"That's right.:「そういうことだ。}`
-`{ruby:If the culprit locked themselves in Natsuhi's room after committing the crime, they shouldn't have been able to return.:犯行後、密室に閉じ篭って隠れていたなら、そいつも戻ってこないことになるはず。}`
-`{ruby:And yet, everyone except the victims did return.":なのに、犠牲者を除く全員が戻ってきている」}`
-`{ruby:"That would make this crime impossible for all the survivors......:「生存者の誰にも、犯行は不可能ということになってしまうな……。}`
-`{ruby:......So, maybe we really should follow your theory of someone in the dining hall surviving and committing crimes later...":……やはり、戦人の推理通り、食堂の誰かが生きていて犯行に及んだと考えるべきではないのか…」}`
+`{ruby:If the culprit locked themselves in Natsuhi's room after:犯行後、密室に閉じ篭って隠れていたなら、}{ruby:committing the crime, they shouldn't have been able to return.:そいつも戻ってこないことになるはず。}`
+`{ruby:And yet, everyone except:なのに、犠牲者を除く全員}{ruby:the victims did return.":が戻ってきている」}`
+`{ruby:"That would make this crime:「生存者の誰にも、犯行は不可能とい}{ruby:impossible for all the survivors......:うことになってしまうな……。}`
+`{ruby:......So, maybe we really should follow your theory of:……やはり、戦人の推理通り、食堂の誰かが生きてい}{ruby:someone in the dining hall surviving and committing crimes later...":て犯行に及んだと考えるべきではないのか…」}`
 `{ruby:"......Come to think of it,:「……そういえば。}`
-`{ruby:......when I mentioned that theory, I was hit with a red truth.":……その推理を口にしたら、俺は赤き真実を食らったんだ」}`
-`{ruby:My theory was that someone in the dining hall was alive and killed Krauss and Natsuhi.:食堂の誰かが生きていて、蔵臼夫妻を殺した、という俺の推理。}`
-`{ruby:That theory was countered by this red truth: "The culprit of the first twilight has definitely killed six people"......:それに対し、赤き真実で、“第一の晩の犯人は確実に６人を殺してる”と反論されたんだ……。}`
+`{ruby:......when I mentioned that theory, I:……その推理を口にしたら、俺は}{ruby:was hit with a red truth.":赤き真実を食らったんだ」}`
+`{ruby:My theory was that someone in the dining:食堂の誰かが生きていて、蔵臼夫妻}{ruby:hall was alive and killed Krauss and Natsuhi.:を殺した、という俺の推理。}`
+`{ruby:That theory was countered by this red truth: "The:それに対し、赤き真実で、“第一の晩の犯人は確実}{ruby:culprit of the first twilight has definitely killed six people"......:に６人を殺してる”と反論されたんだ……。}`
 `{ruby:"Well, that's is hardly surprising.:「まぁ、当然であろうな。}`
-`{ruby:After all, the culprit went on to kill Krauss and Natsuhi, so they've killed a total of not just six, but eight people.":蔵臼、夏妃まで殺しているのだから、６人どころか、８人は殺していることになるのだから」}`
+`{ruby:After all, the culprit went on to kill Krauss and Natsuhi,:蔵臼、夏妃まで殺しているのだから、６人どころ}{ruby:so they've killed a total of not just six, but eight people.":か、８人は殺していることになるのだから」}`
 `{ruby:"........................:「……………………。}`
 `{ruby:......Huh......?:……うん……？}`
 `{ruby:Hold on......:何か引っ掛かるぞ……？}`
-`{ruby:............They went on to kill Krauss and Natsuhi......:…………蔵臼、夏妃まで殺しているのだから……。}`
-`{ruby:.........So......the culprit has definitely killed......six.........":………犯人は確実に、……６人を………」}`
+`{ruby:............They went on to:…………蔵臼、夏妃まで殺し}{ruby:kill Krauss and Natsuhi......:ているのだから……。}`
+`{ruby:.........So......the culprit:………犯人は確実に、…}{ruby:has definitely killed......six.........":…６人を………」}`
 `{ruby:"I've got it!!:「わかった！！}`
 `{ruby:We've been fooled.:やられたぜ。}`
-`{ruby:I know what she meant by saying the culprit killed six people...!!":犯人が確実に６人を殺したの意味がわかった…！！」}`
-`{ruby:"What do you mean "you know what she meant"?:「意味がわかったとはどういうことか。}`
+`{ruby:I know what she meant by:犯人が確実に６人を殺したの}{ruby:saying the culprit killed six people...!!":意味がわかった…！！」}`
+`{ruby:"What do you mean:「意味がわかったとは}{ruby:"you know what she meant"?:どういうことか。}`
 `{ruby:Explain yourself...!":説明せよ…！」}`
-`{ruby:"‘The culprit of the first twilight has definitely killed six people.’:「“第一の晩の犯人は確実に６人を殺している”。}`
-`{ruby:If she had said that at the time of the first twilight, I might've accepted it as it seemed.:もしこいつを、第一の晩の時点で言われていたなら、俺は素直に受け取っていたかもしれない。}`
-`{ruby:However, if we remember that she said it after the second twilight, a new possibility shows itself...!":しかし、第二の晩の時点で言われたことを加味すると、別の意味も見えてくる…！」}`
-`{ruby:"You don't mean.........that the murders of the second twilight...:「まさか、………第二の晩の殺人までを含めて、}`
-`{ruby:...are included in the "six people" who were definitely killed...?!":“確実に６人を殺している”という意味なのか…？！」}`
+`{ruby:"‘The culprit of the first:「“第一の晩の犯人は確実に}{ruby:twilight has definitely killed six people.’:６人を殺している”。}`
+`{ruby:If she had said that at the time of:もしこいつを、第一の晩の時点で言われていたなら}{ruby:the first twilight, I might've accepted it as it seemed.:、俺は素直に受け取っていたかもしれない。}`
+`{ruby:However, if we remember that she said it:しかし、第二の晩の時点で言われたことを加}{ruby:after the second twilight, a new possibility shows itself...!":味すると、別の意味も見えてくる…！」}`
+`{ruby:"You don't mean.........that the:「まさか、………第二の晩}{ruby:murders of the second twilight...:の殺人までを含めて、}`
+`{ruby:...are included in the "six:“確実に６人を殺している”と}{ruby:people" who were definitely killed...?!":いう意味なのか…？！」}`
 `{ruby:"That's it!:「そういうことだ！}`
-`{ruby:The culprit really was hiding among the six in the dining hall!:やはり、食堂の６人の中に犯人が混じって死んだフリをしていたんだ！}`
-`{ruby:Later on, they snuck out of the dining hall, killed the two people in Aunt Natsuhi's room, locked the door from the inside, and hid somewhere in the room...!":そしてそいつは食堂を抜け出し、夏妃伯母さんの部屋で２人を殺して、内側から施錠して室内に隠れたんだ…！」}`
-`{ruby:The culprit could only have killed five people at most in the dining hall.:犯人は食堂では５人しか殺せなかったろう。}`
-`{ruby:However, if we add on the victims of the second twilight, they would definitely have killed at least six times...!:しかし、第二の晩の犠牲者を足せば、確実に６人は殺していることになると言い切れる…！}`
+`{ruby:The culprit really was hiding among:やはり、食堂の６人の中に犯人が混じっ}{ruby:the six in the dining hall!:て死んだフリをしていたんだ！}`
+`{ruby:Later on, they snuck out of the dining hall, killed the two people in:そしてそいつは食堂を抜け出し、夏妃伯母さんの部屋で２人}{ruby:Aunt Natsuhi's room, locked the door from the inside, and hid somewhere in the room...!":を殺して、内側から施錠して室内に隠れたんだ…！」}`
+`{ruby:The culprit could only have killed five:犯人は食堂では５人しか}{ruby:people at most in the dining hall.:殺せなかったろう。}`
+`{ruby:However, if we add on the victims of the second:しかし、第二の晩の犠牲者を足せば、確実に６人}{ruby:twilight, they would definitely have killed at least six times...!:は殺していることになると言い切れる…！}`
 `{ruby:"I see, now it all adds up...!:「なるほど、それで辻褄は合うぞ…！}`
-`{ruby:You can construct the locked rooms of both the first and second twilights without using master keys...!!":第一の晩も第二の晩も、どちらの密室もマスターキーなしで構築できる…！！」}`
-`{ruby:"Well, ......you'd think so, but that reminds me of something else.:「と、……思ったところで、おかしなことも思い出しちまったぜ。}`
-`{ruby:......Aunt Natsuhi's room was sealed immediately afterwards...":……夏妃伯母さんの部屋は、すぐに封印しちまったんだったな…」}`
+`{ruby:You can construct the locked rooms of both:第一の晩も第二の晩も、どちらの密室もマス}{ruby:the first and second twilights without using master keys...!!":ターキーなしで構築できる…！！」}`
+`{ruby:"Well, ......you'd think so, but:「と、……思ったところで、おかし}{ruby:that reminds me of something else.:なことも思い出しちまったぜ。}`
+`{ruby:......Aunt Natsuhi's room:……夏妃伯母さんの部屋は、すぐに}{ruby:was sealed immediately afterwards...":封印しちまったんだったな…」}`
 `{ruby:"Yes, come to think of it...:「そういえばそうだったな…。}`
-`{ruby:Lady {f:5:Bernkastel} used the red truth to say this: ‘The group sealed the room at the same time they left.:ベルンカステル卿に赤き真実で、“一同は退出と同時に部屋を封印した。}`
-`{ruby:No culprit joined the group as they left.’":その退出に犯人は加われない”と言われている」}`
+`{ruby:Lady {f:5:Bernkastel} used the red truth to say this: ‘The:ベルンカステル卿に赤き真実で、“一同}{ruby:group sealed the room at the same time they left.:は退出と同時に部屋を封印した。}`
+`{ruby:No culprit joined the:その退出に犯人は加われな}{ruby:group as they left.’":い”と言われている」}`
 `{ruby:"And she also said this::「さらにこうも言った。}`
-`{ruby:‘All of the seals will never be broken.’":“全ての封印は、決して破られることはない”ともな」}`
-`{ruby:"In other words, ......the culprit is trapped in a locked room again.":「つまり、……再び密室に閉じ込められた、ということなのか」}`
-`{ruby:"That theory might explain the first and second twilights.:「今の推理で、確かに第一の晩と第二の晩は説明できる。}`
-`{ruby:......However, the culprit would be sealed inside Aunt Natsuhi's room, unable to leave.":……しかし、その犯人は夏妃伯母さんの部屋に閉じ込められ、二度と出られなくなっちまうんだ」}`
-`{ruby:"And that means they wouldn't be able to carry out the fourth twilight and onwards!:「それでは、第四の晩以降の事件を起こせなくなってしまうではないか！}`
-`{ruby:......Gyah, I thought it was such a nice theory, ......but I guess it's wrong......":……うぅむ、良い推理だと思ったのだが……、やはり、違うのか……」}`
-`{ruby:"I don't think we're wrong about this theory, but......:「この推理で間違っていないはずなんだが……。}`
-`{ruby:......Maybe it just needs some more tweaking.........":……もう一捻り………」}`
+`{ruby:‘All of the seals:“全ての封印は、決して破られ}{ruby:will never be broken.’":ることはない”ともな」}`
+`{ruby:"In other words, ......the culprit is:「つまり、……再び密室に閉じ込め}{ruby:trapped in a locked room again.":られた、ということなのか」}`
+`{ruby:"That theory might explain:「今の推理で、確かに第一の晩}{ruby:the first and second twilights.:と第二の晩は説明できる。}`
+`{ruby:......However, the culprit would be sealed:……しかし、その犯人は夏妃伯母さんの部屋に閉じ}{ruby:inside Aunt Natsuhi's room, unable to leave.":込められ、二度と出られなくなっちまうんだ」}`
+`{ruby:"And that means they wouldn't be able:「それでは、第四の晩以降の事件を起こ}{ruby:to carry out the fourth twilight and onwards!:せなくなってしまうではないか！}`
+`{ruby:......Gyah, I thought it was such a:……うぅむ、良い推理だと思ったのだが}{ruby:nice theory, ......but I guess it's wrong......":……、やはり、違うのか……」}`
+`{ruby:"I don't think we're:「この推理で間違っていな}{ruby:wrong about this theory, but......:いはずなんだが……。}`
+`{ruby:......Maybe it just:……もう一捻り}{ruby:needs some more tweaking.........":………」}`
 `{ruby:"No, it does work.:「いや、いいんだ。}`
-`{ruby:There's no problem if the culprit gets sealed up.:犯人が閉じ込められても。}`
-`{ruby:......Not as long as there's a second culprit!":……犯人がもう１人いればいい！」}`
+`{ruby:There's no problem if:犯人が閉じ込め}{ruby:the culprit gets sealed up.:られても。}`
+`{ruby:......Not as long as:……犯人がもう１人}{ruby:there's a second culprit!":いればいい！」}`
 `{ruby:"A multiple culprit theory...!:「複数犯人説…！}`
-`{ruby:Yes, that does seem to be the only way.:やはりそう来るしかないな。}`
-`{ruby:That way, even if one culprit is sealed up, the other can continue murdering...":それならば、犯人の片方が閉じ込められても、続く殺人を継続できる…」}`
+`{ruby:Yes, that does seem:やはりそう来るし}{ruby:to be the only way.:かないな。}`
+`{ruby:That way, even if one culprit is:それならば、犯人の片方が閉じ込められ}{ruby:sealed up, the other can continue murdering...":ても、続く殺人を継続できる…」}`
 `{ruby:"If you think about it,:「考えてみりゃ、そもそも。}`
-`{ruby:our theory has needed an accomplice from the very beginning.:俺たちの推理に共犯は必須だったんだ。}`
-`{ruby:Excluding Genji‐san, who we already know to be innocent, the other five of the first twilight's six victims—Auntie Eva, Uncle Hideyoshi, my old bastard, Kyrie‐san, and Auntie Rosa—:第一の晩の６人のうち、シロが確定している源次さんを除く５人、絵羽伯母さん、秀吉伯父さん、クソ親父、霧江さん、そして楼座叔母さん。}`
-`{ruby:all had their deaths confirmed by people who {i:also} haven't been confirmed innocent.:この５人は全員、それぞれシロが確定しない人物によって検死されている。}`
-`{ruby:Unless those people were accomplices—fellow culprits—no one would've been able to play dead.":その検死者が共犯でない限り、死んだフリなんか出来ないんだ」}`
+`{ruby:our theory has needed an:俺たちの推理に共犯は}{ruby:accomplice from the very beginning.:必須だったんだ。}`
+`{ruby:Excluding Genji‐san, who we already know to be innocent, the other five of the:第一の晩の６人のうち、シロが確定している源次さんを除く５人、絵羽伯}{ruby:first twilight's six victims—Auntie Eva, Uncle Hideyoshi, my old bastard, Kyrie‐san, and Auntie Rosa—:母さん、秀吉伯父さん、クソ親父、霧江さん、そして楼座叔母さん。}`
+`{ruby:all had their deaths confirmed by:この５人は全員、それぞれシロが確定し}{ruby:people who {i:also} haven't been confirmed innocent.:ない人物によって検死されている。}`
+`{ruby:Unless those people were accomplices—fellow culprits—no:その検死者が共犯でない限り、死ん}{ruby:one would've been able to play dead.":だフリなんか出来ないんだ」}`
 `{ruby:"You're right...!:「確かに…！}`
-`{ruby:After all, the rules say that only culprits can cooperate with other culprits...!":犯人でない者は犯人に協力しないことになっているからな…！」}`
-`{ruby:"Culprits are capable of lying even before they commit murder.:「犯人は、殺人以前にもウソをつくことが出来る。}`
-`{ruby:......So, we have ourselves a theory.":……つまりこういうことだ」}`
-`{ruby:"The culprit who carried out the first twilight murders also carried out the second twilight, then locked themselves up in Natsuhi's room.":「第一の晩の殺人を行なった犯人は、第二の晩までを実行し、夏妃の部屋に閉じ込められる」}`
-`{ruby:"Then, the other culprit, who lied about the first culprit's death, carried on with the murders starting at the fourth twilight...!":「そして、その犯人の検死を偽ったもう１人の犯人が、第四の晩以降の殺人を引き継ぐんだ…！」}`
+`{ruby:After all, the rules say that:犯人でない者は犯人に協力しないこ}{ruby:only culprits can cooperate with other culprits...!":とになっているからな…！」}`
+`{ruby:"Culprits are capable of lying:「犯人は、殺人以前にもウソ}{ruby:even before they commit murder.:をつくことが出来る。}`
+`{ruby:......So, we have:……つまりこうい}{ruby:ourselves a theory.":うことだ」}`
+`{ruby:"The culprit who carried out the first twilight murders also carried:「第一の晩の殺人を行なった犯人は、第二の晩ま}{ruby:out the second twilight, then locked themselves up in Natsuhi's room.":でを実行し、夏妃の部屋に閉じ込められる」}`
+`{ruby:"Then, the other culprit, who lied about the first culprit's:「そして、その犯人の検死を偽ったもう１人の犯人}{ruby:death, carried on with the murders starting at the fourth twilight...!":が、第四の晩以降の殺人を引き継ぐんだ…！」}`
 `{ruby:"Yes, it all matches up that way...!!:「なるほど、それならば筋が通るぞ…！！}`
 `{ruby:So, which of them was it?!":そしてそれは誰だと言うのか？！」}`
-`{ruby:"Unfortunately, so far, any one of them could be a culprit.:「残念ながら、現時点では誰が犯人でもありえる。}`
-`{ruby:However, we can say for sure that the crime wasn't committed by a single person.:しかし、単独犯はありえないと断言できる。}`
-`{ruby:And, we know that the culprit locked up in Natsuhi's room was one of those five victims in the dining hall.:そして、閉じ込められたのは、食堂犠牲者５人の誰か。}`
-`{ruby:And we also know that the person who continued with the crimes was one of those who inspected the five suspicious corpses on the first twilight...!":そして、殺人を引き継いだのは、その５人を検死した人間ということになる…！」}`
-`{ruby:"One of those who inspected the five suspicious corpses in the dining hall...?:「食堂の５人を検死した人間とな…？}`
+`{ruby:"Unfortunately, so far, any one:「残念ながら、現時点では誰}{ruby:of them could be a culprit.:が犯人でもありえる。}`
+`{ruby:However, we can say for sure that:しかし、単独犯はありえ}{ruby:the crime wasn't committed by a single person.:ないと断言できる。}`
+`{ruby:And, we know that the culprit locked up in Natsuhi's:そして、閉じ込められたのは、}{ruby:room was one of those five victims in the dining hall.:食堂犠牲者５人の誰か。}`
+`{ruby:And we also know that the person who continued with the crimes was:そして、殺人を引き継いだのは、その５人を}{ruby:one of those who inspected the five suspicious corpses on the first twilight...!":検死した人間ということになる…！」}`
+`{ruby:"One of those who inspected the:「食堂の５人を検死し}{ruby:five suspicious corpses in the dining hall...?:た人間とな…？}`
 `{ruby:That would be......":それはつまり……」}`
 `{ruby:"Battler, George, and Maria.:「戦人、譲治、真里亞。}`
-`{ruby:We know that one of those three committed the murders later on!":この３人の誰かが確実に、以後の殺人を引き継いでいる！」}`
+`{ruby:We know that one of those:この３人の誰かが確実に、以後の}{ruby:three committed the murders later on!":殺人を引き継いでいる！」}`
 `{ruby:"Excellent......:「よし……。}`
-`{ruby:Let's focus on those three and find the truth about those later crimes...!":その３人に注目して、以後の事件を追ってみようではないか…！」}`
-`{ruby:"The next crime is the fourth twilight.:「続く事件は第四の晩だ。}`
+`{ruby:Let's focus on those three and:その３人に注目して、以後の事件を}{ruby:find the truth about those later crimes...!":追ってみようではないか…！」}`
+`{ruby:"The next crime:「続く事件は第}{ruby:is the fourth twilight.:四の晩だ。}`
 `{ruby:Shannon‐chan was the one killed.:殺されたのは紗音ちゃん。}`
-`{ruby:No one has an alibi, with one exception.":全員にアリバイがないが、１人だけ例外がいる」}`
+`{ruby:No one has an:全員にアリバイがないが、}{ruby:alibi, with one exception.":１人だけ例外がいる」}`
 `{ruby:"George.:「譲治であるな。}`
-`{ruby:Jessica, who has been confirmed innocent, used the purple text to say that it was impossible for George to kill Shannon.:シロが確定している朱志香が紫発言にて、譲治には紗音殺しは不可能であると断言している。}`
-`{ruby:So, doesn't that mean either Battler or Maria must have killed her?":となれば、殺したのは戦人か真里亞のどちらかということか？」}`
-`{ruby:"I'd like to think that, but it's too soon to be sure.:「そう思いたいところだが早計だ。}`
-`{ruby:Battler, Maria, and every other person except George lacks an alibi.:戦人と真里亞、そして譲治以外の人物にだって、アリバイはない。}`
-`{ruby:I've managed to prove the crime wasn't committed by a single person, but I didn't prove that there were exactly two culprits.:俺は単独犯説を否定したが、犯人が二人であることを断言したつもりもない。}`
-`{ruby:At this point in time, it's still too soon to be sure.":現時点では、それを断言するにはまだ早過ぎるからな」}`
+`{ruby:Jessica, who has been confirmed innocent, used the purple text:シロが確定している朱志香が紫発言にて、譲治に}{ruby:to say that it was impossible for George to kill Shannon.:は紗音殺しは不可能であると断言している。}`
+`{ruby:So, doesn't that mean either Battler:となれば、殺したのは戦人か真里亞}{ruby:or Maria must have killed her?":のどちらかということか？」}`
+`{ruby:"I'd like to think that, but:「そう思いたいとこ}{ruby:it's too soon to be sure.:ろだが早計だ。}`
+`{ruby:Battler, Maria, and every other:戦人と真里亞、そして譲治以外の人}{ruby:person except George lacks an alibi.:物にだって、アリバイはない。}`
+`{ruby:I've managed to prove the crime wasn't committed by a single:俺は単独犯説を否定したが、犯人が二人で}{ruby:person, but I didn't prove that there were exactly two culprits.:あることを断言したつもりもない。}`
+`{ruby:At this point in time, it's:現時点では、それを断言するに}{ruby:still too soon to be sure.":はまだ早過ぎるからな」}`
 `{ruby:"I see.:「なるほどな。}`
-`{ruby:In addition to the culprit of the first and second twilights and the culprit who lied about the first culprit's death,:第一の晩と第二の晩の犯人と、その死んだフリを虚偽の検死で助けたもう１人の犯人と。}`
-`{ruby:......there might be yet another completely separate culprit as well.:……さらに、それとは無関係の犯人が存在する可能性があるというわけか。}`
-`{ruby:......Yes, it was a mistake to overlook that...":……なるほど、これは盲点であった…」}`
-`{ruby:"The murder of Shannon‐chan was possible for anyone, with only one single exception.:「紗音ちゃんの事件は、譲治の兄貴ただ一人の例外を除いて、誰にでも犯行可能だ。}`
-`{ruby:Also, that fact alone isn't enough to prove that George‐aniki is innocent overall.":そして、その事実だけを以って、譲治の兄貴がシロであることを証明するわけでもない」}`
-`{ruby:"......I thought this would be an easy one since there's no locked room,:「……密室殺人ではないから気楽だなどと思っていたが。}`
-`{ruby:but on the contrary, we have no suspicious circumstances and no information to lead us to the culprit...":むしろ、おかしな条件がない分、犯人の絞り込みに使える情報もない、というわけであるな…」}`
-`{ruby:"The pace of the crimes starts picking up here.:「ここからは事件のペースが早い。}`
-`{ruby:Instead of getting stuck on this one part, we should take a look at the fifth twilight too.":これだけに固執せず、次の第五の晩の事件も見てみようぜ」}`
-`{ruby:"It seems we have a problem with the fifth and sixth twilights...!:「第五、第六の晩であるが、厄介であるぞ…！}`
-`{ruby:We can trust Jessica's purple statements, and she said this::信頼できる朱志香の紫発言がこう言っている！}`
-`{ruby:"The four cousins and Nanjo couldn't have killed Gohda and Kumasawa"...!":“いとこ４人と南條には、郷田と熊沢は殺せない”とな…！」}`
+`{ruby:In addition to the culprit of the first and second:第一の晩と第二の晩の犯人と、その死んだフリ}{ruby:twilights and the culprit who lied about the first culprit's death,:を虚偽の検死で助けたもう１人の犯人と。}`
+`{ruby:......there might be yet another:……さらに、それとは無関係の犯人が存}{ruby:completely separate culprit as well.:在する可能性があるというわけか。}`
+`{ruby:......Yes, it was a:……なるほど、これは}{ruby:mistake to overlook that...":盲点であった…」}`
+`{ruby:"The murder of Shannon‐chan was possible:「紗音ちゃんの事件は、譲治の兄貴ただ一人}{ruby:for anyone, with only one single exception.:の例外を除いて、誰にでも犯行可能だ。}`
+`{ruby:Also, that fact alone isn't enough:そして、その事実だけを以って、譲治の兄貴が}{ruby:to prove that George‐aniki is innocent overall.":シロであることを証明するわけでもない」}`
+`{ruby:"......I thought this would be an:「……密室殺人ではないから気}{ruby:easy one since there's no locked room,:楽だなどと思っていたが。}`
+`{ruby:but on the contrary, we have no suspicious circumstances:むしろ、おかしな条件がない分、犯人の絞り込みに}{ruby:and no information to lead us to the culprit...":使える情報もない、というわけであるな…」}`
+`{ruby:"The pace of the:「ここからは事件の}{ruby:crimes starts picking up here.:ペースが早い。}`
+`{ruby:Instead of getting stuck on this one part, we:これだけに固執せず、次の第五の}{ruby:should take a look at the fifth twilight too.":晩の事件も見てみようぜ」}`
+`{ruby:"It seems we have a problem:「第五、第六の晩であるが}{ruby:with the fifth and sixth twilights...!:、厄介であるぞ…！}`
+`{ruby:We can trust Jessica's purple:信頼できる朱志香の紫発言}{ruby:statements, and she said this::がこう言っている！}`
+`{ruby:"The four cousins and Nanjo:“いとこ４人と南條には、郷田と熊}{ruby:couldn't have killed Gohda and Kumasawa"...!":沢は殺せない”とな…！」}`
 `{ruby:"The four cousins and Doctor Nanjo.:「いとこ４人と南條先生。}`
-`{ruby:In other words, all of the survivors at this point in time.:これはつまり、この時点での生存者全員を指す。}`
-`{ruby:Thinking about it on normal lines, that would make this an impossible crime.":普通に考えたら不可能犯罪だ」}`
-`{ruby:"However, that's where we can turn the chessboard over, correct?":「しかし、そこでチェス盤を引っ繰り返すわけであるな？」}`
+`{ruby:In other words, all of the:これはつまり、この時点で}{ruby:survivors at this point in time.:の生存者全員を指す。}`
+`{ruby:Thinking about it on normal lines,:普通に考えたら不}{ruby:that would make this an impossible crime.":可能犯罪だ」}`
+`{ruby:"However, that's where we can:「しかし、そこでチェス盤を引っ}{ruby:turn the chessboard over, correct?":繰り返すわけであるな？」}`
 `{ruby:"You've got it.:「あぁ。}`
-`{ruby:This actually gives us a simple answer.:ってことはあるシンプルな答えが現れる。}`
-`{ruby:This crime proves that there's a culprit who isn't Doctor Nanjo or one of the cousins.":いとこ４人と南條先生以外の何者かが犯人だってことを、この事件は証明しているってわけだ」}`
-`{ruby:"Other than these survivors, everyone is supposed to be dead.:「生存者以外は、全員が死亡していることになっている。}`
-`{ruby:And yet, it was impossible for the survivors to commit the crime......":にもかかわらず、生存者には犯行不能ということは……」}`
-`{ruby:"It's absolute proof that one of the culprits faked their death.":「死んだフリをした犯人が、１００％存在することの証明ってわけだ」}`
-`{ruby:"And, since there exists a culprit who faked his or her death, that's absolute proof that there were multiple culprits.:「そして、死んだフリをした犯人の存在は、犯人が複数であることも１００％証明する。}`
-`{ruby:Only a culprit can fake an examination and lie...!":検死を偽りウソをつくこともまた、犯人にしか出来ないからな…！」}`
-`{ruby:"The fifth and sixth twilights may seem to be a perfect impossible crime,:「この一見、完全な不可能犯罪に見える第五、第六の晩は、}`
-`{ruby:but this one incident alone tells us so much.":ただそれだけで雄弁にこれだけのことを語っちまうわけだ」}`
-`{ruby:"Impossible crimes are a double‐edged sword—they have the power to break your opponents, but they also make it possible for theories to break deep into your lines of defense.:「不可能犯罪は、相手を屈服させる力も持つが、逆に一気に推理を切り込まれる危険性も持つ諸刃の刃よ。}`
-`{ruby:......Long ago, you would surely have surrendered.:……昔のそなたなら、きっと屈服していただろうに。}`
+`{ruby:This actually gives:ってことはあるシンプル}{ruby:us a simple answer.:な答えが現れる。}`
+`{ruby:This crime proves that there's a culprit who:いとこ４人と南條先生以外の何者かが犯人だってこ}{ruby:isn't Doctor Nanjo or one of the cousins.":とを、この事件は証明しているってわけだ」}`
+`{ruby:"Other than these survivors, everyone:「生存者以外は、全員が死亡し}{ruby:is supposed to be dead.:ていることになっている。}`
+`{ruby:And yet, it was impossible for:にもかかわらず、生存者には犯}{ruby:the survivors to commit the crime......":行不能ということは……」}`
+`{ruby:"It's absolute proof that one:「死んだフリをした犯人が、１００％}{ruby:of the culprits faked their death.":存在することの証明ってわけだ」}`
+`{ruby:"And, since there exists a culprit who faked his or:「そして、死んだフリをした犯人の存在は、犯}{ruby:her death, that's absolute proof that there were multiple culprits.:人が複数であることも１００％証明する。}`
+`{ruby:Only a culprit can:検死を偽りウソをつくこともまた、犯}{ruby:fake an examination and lie...!":人にしか出来ないからな…！」}`
+`{ruby:"The fifth and sixth twilights may:「この一見、完全な不可能犯罪に}{ruby:seem to be a perfect impossible crime,:見える第五、第六の晩は、}`
+`{ruby:but this one incident:ただそれだけで雄弁にこれだけの}{ruby:alone tells us so much.":ことを語っちまうわけだ」}`
+`{ruby:"Impossible crimes are a double‐edged sword—they have the power to break your opponents, but:「不可能犯罪は、相手を屈服させる力も持つが、逆に一}{ruby:they also make it possible for theories to break deep into your lines of defense.:気に推理を切り込まれる危険性も持つ諸刃の刃よ。}`
+`{ruby:......Long ago, you:……昔のそなたなら、きっと}{ruby:would surely have surrendered.:屈服していただろうに。}`
 `{ruby:How far you've come.":本当に逞しくなったものよ」}`
 `{ruby:"Heheh.:「へへ。}`
-`{ruby:It's all because you've trained me so well.":お前にはだいぶ鍛えられたからな」}`
+`{ruby:It's all because you've:お前にはだいぶ鍛え}{ruby:trained me so well.":られたからな」}`
 `{ruby:The pair grinned at each other.:戦人たちはニヤリと笑い合う。}`
-`{ruby:They had been to the brink of death and back in their many intellectual games before now.:数々の知的ゲームにて死線を潜った。}`
-`{ruby:{n}They wouldn't be discouraged by a riddle like this.:{n}これくらいの謎で、へこたれるわけにはいかない。}`
-`{ruby:"Now let's move on to the crimes of the seventh and eighth twilights.:「さらに続けて、第七、第八の晩の事件も見てみよう。}`
-`{ruby:I think we're getting pretty close to the core of things.":もう、かなり核心に踏み込んでるはずだ」}`
+`{ruby:They had been to the brink of death:数々の知的ゲームにて}{ruby:and back in their many intellectual games before now.:死線を潜った。}`
+`{ruby:{n}They wouldn't be discouraged:{n}これくらいの謎で、へこ}{ruby:by a riddle like this.:たれるわけにはいかない。}`
+`{ruby:"Now let's move on to the:「さらに続けて、第七、第八の}{ruby:crimes of the seventh and eighth twilights.:晩の事件も見てみよう。}`
+`{ruby:I think we're getting pretty:もう、かなり核心に踏み}{ruby:close to the core of things.":込んでるはずだ」}`
 `{ruby:"Yeah, let's keep our wits about us!":「そうだな、気を引き締めて行こう！」}`
-`{ruby:"The situation's exactly the same on the seventh twilight.:「第七の晩も、状況はまったく同じだ。}`
-`{ruby:Jessica's purple statement, which we can trust, shows that the four cousins, which means all of the survivors, couldn't have committed the crime.":信頼できる朱志香の紫発言が、いとこ４人、即ち、生存者の誰にも殺せないと断言している」}`
-`{ruby:"And yet, ......there's something I don't quite get.:「しかし、……少しわからぬのだ。}`
-`{ruby:The culprit of the first and second twilights was one of those five victims from the first twilight.:第一の晩、第二の晩の犯人は、第一の晩の犠牲者５人の中の誰かだ。}`
-`{ruby:That person was sealed in Natsuhi's room, but we know their child was a culprit too, who lied when examining the death of their parent.:そやつは夏妃の部屋に閉じ込められたが、検死を偽った、そやつの子供もまた犯人であることがわかっている。}`
-`{ruby:......However, the only kids who can be a culprit are Battler, George, and Maria.":……しかし、犯人である可能性のある子供は、戦人、譲治、真里亞の３人のみだ」}`
+`{ruby:"The situation's exactly the:「第七の晩も、状況は}{ruby:same on the seventh twilight.:まったく同じだ。}`
+`{ruby:Jessica's purple statement, which we can trust, shows that the four:信頼できる朱志香の紫発言が、いとこ４人、即ち}{ruby:cousins, which means all of the survivors, couldn't have committed the crime.":、生存者の誰にも殺せないと断言している」}`
+`{ruby:"And yet, ......there's something:「しかし、……少し}{ruby:I don't quite get.:わからぬのだ。}`
+`{ruby:The culprit of the first and second twilights was:第一の晩、第二の晩の犯人は、第一の}{ruby:one of those five victims from the first twilight.:晩の犠牲者５人の中の誰かだ。}`
+`{ruby:That person was sealed in Natsuhi's room, but we know their child:そやつは夏妃の部屋に閉じ込められたが、検死を偽った、}{ruby:was a culprit too, who lied when examining the death of their parent.:そやつの子供もまた犯人であることがわかっている。}`
+`{ruby:......However, the only kids who can be:……しかし、犯人である可能性のある子供は}{ruby:a culprit are Battler, George, and Maria.":、戦人、譲治、真里亞の３人のみだ」}`
 `{ruby:"That's right.:「そうだな。}`
-`{ruby:And we've proven that they couldn't have committed murder for the fifth, sixth, and seventh twilights.":その３人は、第五、第六、第七の３つの事件において、殺人不能であると断言されている」}`
+`{ruby:And we've proven that they couldn't have committed:その３人は、第五、第六、第七の３つの事件にお}{ruby:murder for the fifth, sixth, and seventh twilights.":いて、殺人不能であると断言されている」}`
 `{ruby:"In other words,:「つまりこれは、}`
-`{ruby:.........this shows us that yet another culprit exists.":………さらにもう１人犯人がいることを指し示すのではないか」}`
+`{ruby:.........this shows us that:………さらにもう１人犯人がいるこ}{ruby:yet another culprit exists.":とを指し示すのではないか」}`
 `{ruby:"Interesting.:「面白い。}`
-`{ruby:It also happens to be a theory that makes sense.:しかも妥当な推理だな。}`
-`{ruby:Plus, it would mean that the third culprit was also one of those who played dead.:そして、その３人目の犯人もまた、死んだフリをした何者かってことになるな。}`
-`{ruby:......It might even be possible to have four or five culprits this way.":……これはひょっとすると、犯人が４人、５人ということもありえるかもしれねぇぜ」}`
+`{ruby:It also happens to be:しかも妥当な推}{ruby:a theory that makes sense.:理だな。}`
+`{ruby:Plus, it would mean that the third culprit:そして、その３人目の犯人もまた、死んだ}{ruby:was also one of those who played dead.:フリをした何者かってことになるな。}`
+`{ruby:......It might even be possible to:……これはひょっとすると、犯人が４人、５人}{ruby:have four or five culprits this way.":ということもありえるかもしれねぇぜ」}`
 `{ruby:"*cackle*, I'm not sure about that.:「くっくっく、それはどうだかわからぬが。}`
-`{ruby:At any rate, Gohda, Kumasawa, and Nanjo couldn't have been killed if there were only two culprits.:とにかく、いずれにせよ、犯人が２人だけでは、郷田、熊沢、南條を殺すことは出来ぬのだ。}`
+`{ruby:At any rate, Gohda, Kumasawa, and Nanjo couldn't:とにかく、いずれにせよ、犯人が２人だけでは、}{ruby:have been killed if there were only two culprits.:郷田、熊沢、南條を殺すことは出来ぬのだ。}`
 `{ruby:There can be no doubt of that...!":それだけは間違いない…！」}`
 `{ruby:"This is getting complicated.:「こりゃ、ややこしいことになって来たぜ。}`
 `{ruby:Was it a group of three culprits?:３人組が犯人なのか。}`
-`{ruby:Or was it a pair working together and someone else on their own?:それとも２人組と単独犯なのか。}`
-`{ruby:......Ah, right, we can't forget the possibility that there are more than three culprits.":……いやいや、３人以上犯人がいる可能性だって否定しちゃいけねぇな？」}`
-`{ruby:"Of the seventeen people who appear in the story, nine have been confirmed innocent.:「１７人の登場人物の内、シロは９人。}`
-`{ruby:Eight are left, and let's put Battler, George, and Maria to the side since they survived.:残る８人の内、戦人、譲治、真里亞の３人は生存しているから除く。}`
-`{ruby:That leaves five people who were supposedly dead, but have not been proved innocent::シロが確定せず、死んだことになっているのは、５人。}`
-`{ruby:Eva, Hideyoshi, Rudolf, Kyrie, and Rosa.:絵羽、秀吉、留弗夫、霧江、楼座。}`
-`{ruby:All were victims of the first twilight.":全て、第一の晩の犠牲者だ」}`
-`{ruby:"Now, the question is which of those five victims in the dining hall was faking death.:「この、食堂の犠牲者５人の中の、何人が死んだフリをしていたかって問題なわけか。}`
+`{ruby:Or was it a pair working:それとも２人組と単}{ruby:together and someone else on their own?:独犯なのか。}`
+`{ruby:......Ah, right, we can't forget the possibility:……いやいや、３人以上犯人がいる可能}{ruby:that there are more than three culprits.":性だって否定しちゃいけねぇな？」}`
+`{ruby:"Of the seventeen people who appear in:「１７人の登場人物の}{ruby:the story, nine have been confirmed innocent.:内、シロは９人。}`
+`{ruby:Eight are left, and let's put Battler, George,:残る８人の内、戦人、譲治、真里亞の}{ruby:and Maria to the side since they survived.:３人は生存しているから除く。}`
+`{ruby:That leaves five people who were supposedly:シロが確定せず、死んだことに}{ruby:dead, but have not been proved innocent::なっているのは、５人。}`
+`{ruby:Eva, Hideyoshi, Rudolf,:絵羽、秀吉、留弗夫}{ruby:Kyrie, and Rosa.:、霧江、楼座。}`
+`{ruby:All were victims:全て、第一の晩の}{ruby:of the first twilight.":犠牲者だ」}`
+`{ruby:"Now, the question is which of those five:「この、食堂の犠牲者５人の中の、何人が死ん}{ruby:victims in the dining hall was faking death.:だフリをしていたかって問題なわけか。}`
 `{ruby:......We're getting close.:……いよいよだな。}`
 `{ruby:I'm starting to like this...!":面白くなってきたぜ…！」}`
-`{ruby:"As for the eighth twilight in the end,:「最後の、第八の晩についても、}`
+`{ruby:"As for the eighth:「最後の、第八の晩}{ruby:twilight in the end,:についても、}`
 `{ruby:the layout's exactly the same.":状況はまったく変わらないな」}`
 `{ruby:"Indeed.:「うむ。}`
-`{ruby:The narration says that George, Battler, and Maria could not have killed Jessica.:ト書きにて、譲治、戦人、真里亞には、朱志香は殺せないと断言されている。}`
-`{ruby:The three survivors couldn't have done it.":朱志香は、生存者の３人には殺せないのだ」}`
-`{ruby:"The purple statements here sound like they have a lot of hints for us.":「ここの紫発言は、結構、ヒントになりそうなことを色々と喋ってるんだよな」}`
-`{ruby:"George's and Maria's purple statements are particularly interesting.:「譲治と真里亞の紫発言が興味深いな。}`
-`{ruby:If only we could trust them, they would be quite a powerful clue......":信頼できるなら、強力な手掛りになりそうなのだが……」}`
-`{ruby:"If George‐aniki is innocent, then his purple statement about Maria being unable to kill anyone would be true, and Maria would be confirmed innocent.:「譲治の兄貴がシロなら、“真里亞には誰も殺せない”って紫発言が有効になって、真里亞のシロも確定できる。}`
-`{ruby:In the same way, if Maria is innocent, then her statement about George being unable to kill an adult would be true, and that would consequently prove George‐aniki innocent as well.":同様に真里亞がシロなら、“譲治に大人は殺せない”が有効になって、結果的に譲治の兄貴のシロも確定できる」}`
-`{ruby:"It would, but we cannot confirm that either of them is innocent...":「ではあるが、どちらもシロであると確定できぬ…」}`
-`{ruby:"If either George‐aniki or Maria could prove that the other was innocent, they would be innocent too.:「譲治の兄貴と真里亞は、互いに相手が先にシロであることを証明できれば、自分もシロになるという、}`
+`{ruby:The narration says that George, Battler,:ト書きにて、譲治、戦人、真里亞には、朱}{ruby:and Maria could not have killed Jessica.:志香は殺せないと断言されている。}`
+`{ruby:The three survivors:朱志香は、生存者の３人}{ruby:couldn't have done it.":には殺せないのだ」}`
+`{ruby:"The purple statements here sound like they:「ここの紫発言は、結構、ヒントになりそ}{ruby:have a lot of hints for us.":うなことを色々と喋ってるんだよな」}`
+`{ruby:"George's and Maria's purple:「譲治と真里亞の紫発}{ruby:statements are particularly interesting.:言が興味深いな。}`
+`{ruby:If only we could trust them,:信頼できるなら、強力な手掛り}{ruby:they would be quite a powerful clue......":になりそうなのだが……」}`
+`{ruby:"If George‐aniki is innocent, then his purple statement about Maria being unable:「譲治の兄貴がシロなら、“真里亞には誰も殺せない”って}{ruby:to kill anyone would be true, and Maria would be confirmed innocent.:紫発言が有効になって、真里亞のシロも確定できる。}`
+`{ruby:In the same way, if Maria is innocent, then her statement about George being unable:同様に真里亞がシロなら、“譲治に大人は殺せない”が有効}{ruby:to kill an adult would be true, and that would consequently prove George‐aniki innocent as well.":になって、結果的に譲治の兄貴のシロも確定できる」}`
+`{ruby:"It would, but we cannot confirm:「ではあるが、どちらもシロ}{ruby:that either of them is innocent...":であると確定できぬ…」}`
+`{ruby:"If either George‐aniki or Maria could prove that:「譲治の兄貴と真里亞は、互いに相手が先にシロである}{ruby:the other was innocent, they would be innocent too.:ことを証明できれば、自分もシロになるという、}`
 `{ruby:It's like a chicken and egg dilemma.:まるでニワトリとタマゴのようなジレンマに陥ってる。}`
-`{ruby:It almost feels like a useful hint, but not quite.:ヒントになりそうでならない。}`
+`{ruby:It almost feels like a:ヒントになりそう}{ruby:useful hint, but not quite.:でならない。}`
 `{ruby:Pretty annoying.":何とももどかしい話だ」}`
-`{ruby:"Proving innocence for either of them probably won't be easy.:「その二人の潔白は、容易には証明できないだろう。}`
-`{ruby:At least we've gotten the suspects down to a small number.:それにもはや、容疑者は少数に絞り込まれている。}`
-`{ruby:From here on out, there's probably nothing left to do except check each one to see if they could have been a culprit.":ここからは、もしも誰々が犯人だったならと、個別に検証していくしかないだろうな」}`
+`{ruby:"Proving innocence for either of:「その二人の潔白は、容易に}{ruby:them probably won't be easy.:は証明できないだろう。}`
+`{ruby:At least we've gotten the:それにもはや、容疑者は少数}{ruby:suspects down to a small number.:に絞り込まれている。}`
+`{ruby:From here on out, there's probably nothing left to do except:ここからは、もしも誰々が犯人だったならと、}{ruby:check each one to see if they could have been a culprit.":個別に検証していくしかないだろうな」}`
 `{ruby:"You're right.:「そうだな。}`
-`{ruby:Feels like we're getting to the final stretch!":いよいよ最後の詰めに入ってきたようだぜ！」}`
-`{ruby:"So, looks like they've almost made it, doesn't it......?":「いよいよ、推理も大詰めへ、って感じ……？」}`
-`{ruby:"............I feel like a plucked fish.":「…………まな板の上の何とやらの心境よ」}`
-`{ruby:"First, let's test the theory that Maria could have been a culprit.:「まず、真里亞犯人説から検証してみよう。}`
-`{ruby:If she's guilty, then Rosa could've been playing dead.:真里亞が犯人なら、楼座を死んだフリに出来る。}`
-`{ruby:She could've carried out the crimes on the first and second twilights.:楼座には第一、第二の晩の殺人が実行可能。}`
-`{ruby:Then, she gets locked in Aunt Natsuhi's room, and Maria takes over for the following murders.":そして、夏妃伯母さんの部屋に閉じ込められ、真里亞が第四の晩以降の殺人を引き継ぐことになる」}`
-`{ruby:"It was impossible for Maria to commit any of the murders in the guesthouse.:「真里亞には、ゲストハウスでの全ての殺人が不可能だ。}`
-`{ruby:So, the most Maria could do was kill Shannon.":よって、真里亞は紗音を殺すのが精一杯ということになるな」}`
-`{ruby:"Which means a third culprit would be needed for the guesthouse murders.":「となると、ゲストハウスでの殺人のために３人目の犯人が必要になる」}`
-`{ruby:"The third one would have to be Eva, Hideyoshi, Rudolf, or Kyrie.:「３人目は、絵羽、秀吉、留弗夫、霧江の中の誰かということになるな。}`
-`{ruby:And that would mean we'd need a fourth culprit too, right?":そしてそれは、さらに４人目の犯人を必要としてしまうぞ？」}`
+`{ruby:Feels like we're getting:いよいよ最後の詰めに入っ}{ruby:to the final stretch!":てきたようだぜ！」}`
+`{ruby:"So, looks like they've:「いよいよ、推理も大詰め}{ruby:almost made it, doesn't it......?":へ、って感じ……？」}`
+`{ruby:"............I feel like:「…………まな板の上の}{ruby:a plucked fish.":何とやらの心境よ」}`
+`{ruby:"First, let's test the theory that:「まず、真里亞犯人説か}{ruby:Maria could have been a culprit.:ら検証してみよう。}`
+`{ruby:If she's guilty, then:真里亞が犯人なら、楼座を}{ruby:Rosa could've been playing dead.:死んだフリに出来る。}`
+`{ruby:She could've carried out the crimes:楼座には第一、第二の晩}{ruby:on the first and second twilights.:の殺人が実行可能。}`
+`{ruby:Then, she gets locked in Aunt Natsuhi's room,:そして、夏妃伯母さんの部屋に閉じ込められ、真里亞}{ruby:and Maria takes over for the following murders.":が第四の晩以降の殺人を引き継ぐことになる」}`
+`{ruby:"It was impossible for Maria to commit:「真里亞には、ゲストハウスで}{ruby:any of the murders in the guesthouse.:の全ての殺人が不可能だ。}`
+`{ruby:So, the most Maria:よって、真里亞は紗音を殺すのが}{ruby:could do was kill Shannon.":精一杯ということになるな」}`
+`{ruby:"Which means a third culprit would:「となると、ゲストハウスでの殺人のた}{ruby:be needed for the guesthouse murders.":めに３人目の犯人が必要になる」}`
+`{ruby:"The third one would have to:「３人目は、絵羽、秀吉、留弗夫、霧江}{ruby:be Eva, Hideyoshi, Rudolf, or Kyrie.:の中の誰かということになるな。}`
+`{ruby:And that would mean we'd:そしてそれは、さらに４人目の犯}{ruby:need a fourth culprit too, right?":人を必要としてしまうぞ？」}`
 `{ruby:"......You're right.:「……そうだな。}`
-`{ruby:In order for one of those four adults to play dead, the child who checked them would have to be a culprit too.:絵羽伯母さんたち４人の誰かが死んだフリをするためには、それを検死する子供も犯人でなくてはならない。}`
-`{ruby:In other words, if Maria is a culprit, we'll need to have at least four culprits total.":つまり、真里亞が犯人である時点で、犯人は４人にまで膨れ上がるわけだ」}`
-`{ruby:"If there are four culprits, then each one of them must kill at least one person.":「４人が犯人であるためには、４人全員がそれぞれ、最低１人は殺していなくてはならない」}`
-`{ruby:The definition of "culprit" is a murderer.:犯人の定義とは、殺人犯であること。}`
+`{ruby:In order for one of those four adults to play dead,:絵羽伯母さんたち４人の誰かが死んだフリをするためには}{ruby:the child who checked them would have to be a culprit too.:、それを検死する子供も犯人でなくてはならない。}`
+`{ruby:In other words, if Maria is a culprit,:つまり、真里亞が犯人である時点で、犯}{ruby:we'll need to have at least four culprits total.":人は４人にまで膨れ上がるわけだ」}`
+`{ruby:"If there are four culprits, then each one:「４人が犯人であるためには、４人全員がそれぞ}{ruby:of them must kill at least one person.":れ、最低１人は殺していなくてはならない」}`
+`{ruby:The definition of:犯人の定義とは、殺人}{ruby:"culprit" is a murderer.:犯であること。}`
 `{ruby:"......In which case,:「……だとするとだ。}`
-`{ruby:......things don't quite seem to add up.":……ちょいとおかしくなってくるんだよな」}`
-`{ruby:"The four culprits would then be two adults and two children.:「犯人４人の内訳は、大人２人、子供２人となる。}`
-`{ruby:One adult is in charge of the murders on the first and second twilights.:大人１人は第一、第二の晩の殺人を担当。}`
-`{ruby:The other adult handles the murders from the guesthouse onwards.:もう１人の大人は、ゲストハウスの殺人を担当する。}`
-`{ruby:Yes, this is where we get a contradiction.":そう、ここで矛盾が生じるのだ」}`
-`{ruby:"A culprit is defined as "one who murders".:「犯人は殺人者であるという定義。}`
-`{ruby:......That means anyone who's a culprit must commit murder at least once.":……これは即ち、犯人は絶対に、殺人をしなくてはならないという義務も意味する」}`
-`{ruby:"Simply put, there are very few people that a child culprit could murder.:「実は、子供の犯人は、殺人可能な相手がほとんど存在しないのだ。}`
-`{ruby:The children could not have killed on the first and second twilights.:第一、第二の晩は、子供には犯行不能。}`
-`{ruby:They also can't commit murder after the first deaths in the guesthouse take place.:そしてゲストハウス以降も犯行不能。}`
-`{ruby:The only one they can possibly commit is Shannon's murder on the fourth twilight.":唯一可能なのは、紗音殺しの第四の晩だけ」}`
-`{ruby:"......A child culprit can only kill Shannon.:「……子供の犯人は紗音１人しか殺せない。}`
-`{ruby:A second child culprit couldn't kill anyone, so they couldn't be a culprit at all.:つまり、２人目の子供の犯人は、誰も殺せないから、犯人にはなれないんだ。}`
-`{ruby:......It means there can be only one child culprit.":……子供の犯人は、２人以上存在できないってことになる」}`
-`{ruby:"As soon as we pick Maria as a culprit, we need another adult culprit besides Rosa.:「真里亞が犯人である時点で、楼座以外にもう１人大人が必要になる。}`
-`{ruby:However, it's impossible for there to be a second child culprit to lie about their parent's death.:だが、その検死を偽れるもう１人の子供の犯人は、存在できないのだ。}`
-`{ruby:......In other words, it's impossible for Maria to be a culprit...!":……つまり、真里亞が犯人であることはありえない…！」}`
-`{ruby:"Next, let's try a theory with George as a culprit.:「次に、譲治犯人説を検証してみよう。}`
+`{ruby:......things don't quite:……ちょいとおかしくな}{ruby:seem to add up.":ってくるんだよな」}`
+`{ruby:"The four culprits would then:「犯人４人の内訳は、大人２}{ruby:be two adults and two children.:人、子供２人となる。}`
+`{ruby:One adult is in charge of the:大人１人は第一、第二の}{ruby:murders on the first and second twilights.:晩の殺人を担当。}`
+`{ruby:The other adult handles the:もう１人の大人は、ゲストハ}{ruby:murders from the guesthouse onwards.:ウスの殺人を担当する。}`
+`{ruby:Yes, this is where:そう、ここで矛盾が}{ruby:we get a contradiction.":生じるのだ」}`
+`{ruby:"A culprit is defined:「犯人は殺人者であ}{ruby:as "one who murders".:るという定義。}`
+`{ruby:......That means anyone who's a culprit:……これは即ち、犯人は絶対に、殺人をしな}{ruby:must commit murder at least once.":くてはならないという義務も意味する」}`
+`{ruby:"Simply put, there are very few:「実は、子供の犯人は、殺人可能な相}{ruby:people that a child culprit could murder.:手がほとんど存在しないのだ。}`
+`{ruby:The children could not have killed:第一、第二の晩は、子}{ruby:on the first and second twilights.:供には犯行不能。}`
+`{ruby:They also can't commit murder after the:そしてゲストハウス以}{ruby:first deaths in the guesthouse take place.:降も犯行不能。}`
+`{ruby:The only one they can possibly commit:唯一可能なのは、紗音殺}{ruby:is Shannon's murder on the fourth twilight.":しの第四の晩だけ」}`
+`{ruby:"......A child culprit:「……子供の犯人は紗音}{ruby:can only kill Shannon.:１人しか殺せない。}`
+`{ruby:A second child culprit couldn't kill anyone,:つまり、２人目の子供の犯人は、誰も殺せ}{ruby:so they couldn't be a culprit at all.:ないから、犯人にはなれないんだ。}`
+`{ruby:......It means there can:……子供の犯人は、２人以上存在}{ruby:be only one child culprit.":できないってことになる」}`
+`{ruby:"As soon as we pick Maria as a:「真里亞が犯人である時点で、楼座以}{ruby:culprit, we need another adult culprit besides Rosa.:外にもう１人大人が必要になる。}`
+`{ruby:However, it's impossible for there to be a:だが、その検死を偽れるもう１人の子}{ruby:second child culprit to lie about their parent's death.:供の犯人は、存在できないのだ。}`
+`{ruby:......In other words, it's impossible:……つまり、真里亞が犯人であ}{ruby:for Maria to be a culprit...!":ることはありえない…！」}`
+`{ruby:"Next, let's try a theory:「次に、譲治犯人説を}{ruby:with George as a culprit.:検証してみよう。}`
 `{ruby:Only one child culprit can exist.:子供の犯人は１人しか存在できない。}`
-`{ruby:So, if George‐aniki is a culprit, that means Auntie Eva and Uncle Hideyoshi are the only adults who could've been playing dead.":よって、譲治の兄貴が犯人である時点で、絵羽伯母さんと秀吉伯父さん以外に、死んだフリが出来る人物は存在しない」}`
-`{ruby:"So, a three person group, with two adults and one kid?:「大人２人に子供１人で、犯人は３人組？}`
-`{ruby:I see, that sounds like it'd explain all the crimes so far, doesn't it?":なるほど、それならこれまでの全ての事件に、説明がつけられそうね？」}`
+`{ruby:So, if George‐aniki is a culprit, that means Auntie Eva and:よって、譲治の兄貴が犯人である時点で、絵羽伯母さんと秀吉}{ruby:Uncle Hideyoshi are the only adults who could've been playing dead.":伯父さん以外に、死んだフリが出来る人物は存在しない」}`
+`{ruby:"So, a three person group,:「大人２人に子供１人で}{ruby:with two adults and one kid?:、犯人は３人組？}`
+`{ruby:I see, that sounds like it'd explain:なるほど、それならこれまでの全ての事}{ruby:all the crimes so far, doesn't it?":件に、説明がつけられそうね？」}`
 `{ruby:"But hold it!:「ところがどっこい！}`
 `{ruby:That's actually impossible too.":実はこれもありえねぇんだ」}`
 `{ruby:"Indeed.:「うむ。}`
-`{ruby:It's clearly shown that George cannot be a culprit.":譲治が犯人であることは、明白に否定されている」}`
+`{ruby:It's clearly shown that:譲治が犯人であることは、明}{ruby:George cannot be a culprit.":白に否定されている」}`
 `{ruby:"*giggle*.:「くす。}`
 `{ruby:......Pretty sharp.:……そうなのよねぇ？}`
-`{ruby:The only one the kids can kill is Shannon on the fourth twilight.":子供に殺人可能なのは第四の晩の紗音のみ」}`
-`{ruby:"A trustworthy purple statement has already proven that George couldn't have been the culprit in Shannon's murder...!":「紗音殺しについては、信頼できる紫発言で譲治には殺せないと、すでに断言されている…！」}`
+`{ruby:The only one the kids can:子供に殺人可能なのは第四}{ruby:kill is Shannon on the fourth twilight.":の晩の紗音のみ」}`
+`{ruby:"A trustworthy purple statement has already proven that:「紗音殺しについては、信頼できる紫発言で譲治に}{ruby:George couldn't have been the culprit in Shannon's murder...!":は殺せないと、すでに断言されている…！」}`
 `{ruby:"That's it.:「そういうことだ。}`
-`{ruby:Just one tiny alibi that only works for Shannon‐chan's murder.:紗音ちゃんの殺しについてのみ持つ、たった一つのアリバイ。}`
-`{ruby:That's what proves George‐aniki innocent for all of the crimes...!":それが譲治の兄貴に、全ての事件において潔白であることを証明しているんだ…！」}`
+`{ruby:Just one tiny alibi that:紗音ちゃんの殺しについてのみ持}{ruby:only works for Shannon‐chan's murder.:つ、たった一つのアリバイ。}`
+`{ruby:That's what proves George‐aniki innocent:それが譲治の兄貴に、全ての事件において潔}{ruby:for all of the crimes...!":白であることを証明しているんだ…！」}`
 `{ruby:"So, we need not suspect George...!:「つまり、譲治はシロということだ…！}`
-`{ruby:Which means all of his purple statements can be relied upon...!":となれば、譲治の紫発言は全て信頼できるものになるということだな…！」}`
-`{ruby:"Once we're sure that George is innocent,:「譲治がシロであることが確定すると、}`
-`{ruby:that automatically makes Maria innocent too.":自動的に真里亞もシロということになる」}`
+`{ruby:Which means all of his:となれば、譲治の紫発言は全て信頼できる}{ruby:purple statements can be relied upon...!":ものになるということだな…！」}`
+`{ruby:"Once we're sure:「譲治がシロであるこ}{ruby:that George is innocent,:とが確定すると、}`
+`{ruby:that automatically makes:自動的に真里亞もシロと}{ruby:Maria innocent too.":いうことになる」}`
 `{ruby:"Yeah.:「あぁ。}`
-`{ruby:It confirms George‐aniki's purple statement saying "Maria couldn't kill anyone".:譲治の兄貴の紫発言“真里亞には誰も殺せない”が有効になるからな。}`
-`{ruby:Since she couldn't kill anyone, she can't be a culprit.:誰も殺せない以上、犯人にはなれない。}`
-`{ruby:So, Maria is also confirmed innocent.":よって、真里亞のシロも確定する」}`
+`{ruby:It confirms George‐aniki's purple statement:譲治の兄貴の紫発言“真里亞には誰も}{ruby:saying "Maria couldn't kill anyone".:殺せない”が有効になるからな。}`
+`{ruby:Since she couldn't kill anyone,:誰も殺せない以上、犯}{ruby:she can't be a culprit.:人にはなれない。}`
+`{ruby:So, Maria is:よって、真里亞のシ}{ruby:also confirmed innocent.":ロも確定する」}`
 `{ruby:"Since George and Maria are innocent,:「譲治と真里亞がシロである事実は、}`
-`{ruby:that also proves that their examinations of their parents' deaths were also trustworthy.":自動的にその親の検死も間違いないことを示す」}`
+`{ruby:that also proves that their examinations:自動的にその親の検死も間}{ruby:of their parents' deaths were also trustworthy.":違いないことを示す」}`
 `{ruby:"That's right.:「そういうことだ。}`
-`{ruby:No one will reach a wrong conclusion when examining a body,:検死は誰も誤らない。}`
-`{ruby:and people who aren't culprits can't lie.:そして犯人でない人間はウソをつけない。}`
-`{ruby:So, the deaths of their parents have been confirmed, and those parents are also innocent.":よって、二人が検死した大人の死亡は確定し、彼らもまたシロとなる」}`
-`{ruby:"We've gotten rid of almost everyone......:「もう、ほとんど絞り込まれたな……。}`
-`{ruby:......The answer is already clear, is it not...?":……答えは、もはや明白ではないか…？」}`
-`{ruby:"First off, there are multiple culprits.:「まず、犯人は複数犯である。}`
+`{ruby:No one will reach a:検死は誰も誤}{ruby:wrong conclusion when examining a body,:らない。}`
+`{ruby:and people who:そして犯人でない人間は}{ruby:aren't culprits can't lie.:ウソをつけない。}`
+`{ruby:So, the deaths of their parents have:よって、二人が検死した大人の死亡は}{ruby:been confirmed, and those parents are also innocent.":確定し、彼らもまたシロとなる」}`
+`{ruby:"We've gotten rid:「もう、ほとんど絞り}{ruby:of almost everyone......:込まれたな……。}`
+`{ruby:......The answer is already:……答えは、もはや明白}{ruby:clear, is it not...?":ではないか…？」}`
+`{ruby:"First off, there:「まず、犯人は複}{ruby:are multiple culprits.:数犯である。}`
 `{ruby:That's confirmed.:これは確定してる。}`
-`{ruby:These crimes would be impossible for a single person.":単独犯では不可能な事件なんだ」}`
-`{ruby:"To start, one of the adult culprits...:「まず大人の犯人が１人。}`
-`{ruby:carried out the first twilight, then played dead.":第一の晩を実行し、犠牲者のフリをしてやり過ごした」}`
-`{ruby:"Since we know that all of the servants with master keys are innocent,:「マスターキーを持つ使用人全員がシロであることが確定しているため、}`
-`{ruby:there's no way for the culprit to lock the door to the dining hall from the outside.:犯人に、食堂の扉を外から施錠する方法は存在しない。}`
-`{ruby:So, we know that the one who locked it did so from inside the room and must have been playing dead.":よって、施錠者は室内にいると断言できるからだ」}`
+`{ruby:These crimes would be:単独犯では不可能な}{ruby:impossible for a single person.":事件なんだ」}`
+`{ruby:"To start, one:「まず大人の犯}{ruby:of the adult culprits...:人が１人。}`
+`{ruby:carried out the first:第一の晩を実行し、犠牲者のフ}{ruby:twilight, then played dead.":リをしてやり過ごした」}`
+`{ruby:"Since we know that all of:「マスターキーを持つ使用人全員がシロ}{ruby:the servants with master keys are innocent,:であることが確定しているため、}`
+`{ruby:there's no way for the culprit to lock:犯人に、食堂の扉を外から施錠}{ruby:the door to the dining hall from the outside.:する方法は存在しない。}`
+`{ruby:So, we know that the one who locked it did:よって、施錠者は室内にいる}{ruby:so from inside the room and must have been playing dead.":と断言できるからだ」}`
 `{ruby:"And, in order for them to play dead,:「そして、死んだフリをするためには、}`
-`{ruby:they needed another culprit to lie when examining their death.":検死を偽ってくれるもう１人の犯人が必要になる」}`
-`{ruby:"Since Genji‐san is innocent, there are only five suspicious victims, each examined by their respective children.:「源次さんがシロである以上、残る５人の大人の検死者は各々の子供。}`
-`{ruby:So that gives us our second culprit: the child of the first culprit.":つまり、犯人の子供が、２人目の犯人となる」}`
-`{ruby:"And the child culprit can't carry out the crimes once they start occurring in the guesthouse.:「そして、子供の犯人にはゲストハウス以降の事件を実行できない。}`
-`{ruby:Plus, the adult culprit is sealed up in Natsuhi's room.:しかし、大人の犯人は夏妃の部屋に閉じ込められている。}`
-`{ruby:So, a second adult culprit is needed.":その為、２人目の大人の犯人が必要になる」}`
+`{ruby:they needed another culprit to:検死を偽ってくれるもう１人}{ruby:lie when examining their death.":の犯人が必要になる」}`
+`{ruby:"Since Genji‐san is innocent, there are only five:「源次さんがシロである以上、残る５}{ruby:suspicious victims, each examined by their respective children.:人の大人の検死者は各々の子供。}`
+`{ruby:So that gives us our second:つまり、犯人の子供が、２}{ruby:culprit: the child of the first culprit.":人目の犯人となる」}`
+`{ruby:"And the child culprit can't carry out the:「そして、子供の犯人にはゲストハウ}{ruby:crimes once they start occurring in the guesthouse.:ス以降の事件を実行できない。}`
+`{ruby:Plus, the adult culprit is:しかし、大人の犯人は夏妃の部}{ruby:sealed up in Natsuhi's room.:屋に閉じ込められている。}`
+`{ruby:So, a second:その為、２人目の大人の}{ruby:adult culprit is needed.":犯人が必要になる」}`
 `{ruby:"Two adults, one kid.:「大人２人、子供１人。}`
-`{ruby:That's what our culprit group looks like.":これが犯人グループの構成ってわけだ」}`
+`{ruby:That's what our:これが犯人グループの}{ruby:culprit group looks like.":構成ってわけだ」}`
 `{ruby:"It should be obvious by now.:「もはや言うには及ぶまい。}`
-`{ruby:The name of the child culprit in this culprit group is clear.":犯人グループの、子供の犯人が誰かは、すでに明白であろう」}`
+`{ruby:The name of the child culprit:犯人グループの、子供の犯人が誰}{ruby:in this culprit group is clear.":かは、すでに明白であろう」}`
 `{ruby:"Pretty much.:「だな。}`
-`{ruby:All of the kids have been proven innocent, with one exception.":子供は、たった１人の例外を除いて全員、シロが確定している」}`
-`{ruby:"And the only corpse inspections that a child culprit could lie about were the inspections of that child's own parents.:「そして、その子供の犯人が誤魔化せる検死は、自分の担当した親２人だけ。}`
-`{ruby:So, the culprit group was a family of two adults and one child.":つまり、犯人グループは大人２人、子供１人で、全員が家族であるということだ」}`
+`{ruby:All of the kids have:子供は、たった１人の例外を除いて}{ruby:been proven innocent, with one exception.":全員、シロが確定している」}`
+`{ruby:"And the only corpse inspections that a child culprit could:「そして、その子供の犯人が誤魔化せる検}{ruby:lie about were the inspections of that child's own parents.:死は、自分の担当した親２人だけ。}`
+`{ruby:So, the culprit group was a:つまり、犯人グループは大人２人、子供１人}{ruby:family of two adults and one child.":で、全員が家族であるということだ」}`
 `{ruby:"Murder with the family.:「家族で殺人か。}`
 `{ruby:How sweet.":仲のいいことだぜ」}`
 `{ruby:"So, who are the three culprits?:「犯人は誰と誰と誰か。}`
-`{ruby:There's hardly any point in stretching this out further, is there?":これ以上、もったいぶることもあるまい？」}`
+`{ruby:There's hardly any point in:これ以上、もったいぶる}{ruby:stretching this out further, is there?":こともあるまい？」}`
 `{ruby:"Aw, come on.:「やれやれ。}`
 `{ruby:What a messed up answer.:ふざけた答えだぜ。}`
 `{ruby:Looks like I was the child culprit.":子供の犯人が、俺だとはな」}`
 `{ruby:"Hmph.:「ふっ。}`
-`{ruby:Even in my games, Battler culprit theories were some of the most popular, weren't they?":妾のゲームでも、戦人犯人説はもっとも多かった推理の一つではないか」}`
+`{ruby:Even in my games, Battler culprit theories:妾のゲームでも、戦人犯人説はもっとも}{ruby:were some of the most popular, weren't they?":多かった推理の一つではないか」}`
 `{ruby:"It seems so.:「らしいな。}`
-`{ruby:Sheesh, why does everyone think I did it...?!":ったく、世の中、俺を疑う推理が多過ぎるぜ…！」}`
-`{ruby:"If you're a culprit, that automatically makes your parents culprits too.:「戦人が犯人ならば、自動的に大人の犯人も確定する。}`
-`{ruby:There's no need to think this over anymore.:もはや、何も悩むことなどない。}`
+`{ruby:Sheesh, why does everyone:ったく、世の中、俺を疑う推}{ruby:think I did it...?!":理が多過ぎるぜ…！」}`
+`{ruby:"If you're a culprit, that:「戦人が犯人ならば、自動的に}{ruby:automatically makes your parents culprits too.:大人の犯人も確定する。}`
+`{ruby:There's no need to:もはや、何も悩むこ}{ruby:think this over anymore.:となどない。}`
 `{ruby:We've already won.":これで妾たちの勝ちであるな」}`
-`{ruby:"There's no need for any more discussions or hints.:「もう、これ以上の議論もヒントも必要ないな。}`
-`{ruby:Let's move ahead with the answer...!":ズバリ、解答と行こう…！」}`
+`{ruby:"There's no need for:「もう、これ以上の議論も}{ruby:any more discussions or hints.:ヒントも必要ないな。}`
+`{ruby:Let's move ahead:ズバリ、解答と行}{ruby:with the answer...!":こう…！」}`
 `{ruby:"Is it over?":「これは勝負アリかしら？」}`
 `{ruby:"......Well done.:「……見事だわ。}`
-`{ruby:......It seems a mystery of this level wasn't enough to beat those two after all.":……やっぱり、この程度のミステリーじゃ、この二人には通用しなかったわね」}`
+`{ruby:......It seems a mystery of this level:……やっぱり、この程度のミステリーじゃ}{ruby:wasn't enough to beat those two after all.":、この二人には通用しなかったわね」}`

@@ -1,750 +1,750 @@
-`{ruby:.........The eerie sound of the wind and rain.:………不気味な雨と、風の音。}`
-`{ruby:Once again, I hazily regained consciousness on top of the bed...:俺はぼんやりと再び、ベッドの上で意識を取り戻す…。}`
-`{ruby:The finger that the witch had bitten off...:魔女に食い千切られた指は、}`
+`{ruby:.........The eerie sound of:………不気味な雨}{ruby:the wind and rain.:と、風の音。}`
+`{ruby:Once again, I hazily regained:俺はぼんやりと再び、ベッドの}{ruby:consciousness on top of the bed...:上で意識を取り戻す…。}`
+`{ruby:The finger that the:魔女に食い千切ら}{ruby:witch had bitten off...:れた指は、}`
 `{ruby:...was still attached.:……くっ付いてる。}`
-`{ruby:I didn't say "it was all an illusion"...:あれは幻だった、ではなく、}`
+`{ruby:I didn't say "it:あれは幻だった、}{ruby:was all an illusion"...:ではなく、}`
 `{ruby:...just that it was still attached.:……くっ付いてると、表現する。}`
-`{ruby:...After all, the pain and the teeth marks as though a witch had bitten it...:…なぜなら、魔女に噛まれたかのような歯型と痛みが、}`
+`{ruby:...After all, the pain and the teeth:…なぜなら、魔女に噛まれたか}{ruby:marks as though a witch had bitten it...:のような歯型と痛みが、}`
 `{ruby:......were still there.:……残っていたから。}`
-`{ruby:And yet, the window, which I had supposedly smashed, had been fixed as though it had never been broken in the first place...:なのに叩き割ったはずの窓ガラスは、最初からそうだったかのように平然と直っている…。}`
-`{ruby:.........How can I escape this creepy room?:………俺は、どうすればこの気味の悪い部屋から逃げられるんだ。}`
-`{ruby:Why am I locked up in this eerie room......all alone...?:どうして俺だけが、……こんな不気味な部屋に閉じ込められているんだ…。}`
+`{ruby:And yet, the window, which I had supposedly smashed, had been:なのに叩き割ったはずの窓ガラスは、最初からそ}{ruby:fixed as though it had never been broken in the first place...:うだったかのように平然と直っている…。}`
+`{ruby:.........How can I:………俺は、どうすればこの気味の}{ruby:escape this creepy room?:悪い部屋から逃げられるんだ。}`
+`{ruby:Why am I locked up:どうして俺だけが、……こんな不気味な}{ruby:in this eerie room......all alone...?:部屋に閉じ込められているんだ…。}`
 `{ruby:I want to get out.:出たい。}`
 `{ruby:......I have to get out.:……出なくちゃ。}`
 `{ruby:......Let me out of here.........:……ここから出して………。}`
-`{ruby:......The door was sealed with a firm chain.:……扉は厳重な鎖によって封じられている。}`
-`{ruby:I could open it a crack, but only enough to peek out into the corridor at best.:わずかの隙間は許されるが、せいぜい廊下を覗き見られる程度。}`
-`{ruby:......It would probably be hard even to get just a fist through it.:……握り拳ひとつさえ、通すのは難しいだろう。}`
+`{ruby:......The door was sealed:……扉は厳重な鎖によっ}{ruby:with a firm chain.:て封じられている。}`
+`{ruby:I could open it a crack, but only:わずかの隙間は許されるが、せいぜ}{ruby:enough to peek out into the corridor at best.:い廊下を覗き見られる程度。}`
+`{ruby:......It would probably be hard even:……握り拳ひとつさえ、通}{ruby:to get just a fist through it.:すのは難しいだろう。}`
 `{ruby:The windows wouldn't budge either.:窓も、びくともしない。}`
-`{ruby:{n}They were no better than barred prison windows...:{n}鉄格子の入った、監獄の窓も同然だった…。}`
-`{ruby:The bathroom didn't even have a window.:風呂場は、その窓さえない。}`
-`{ruby:......The only thing that could get out through there was the water that flowed out if you turned on the tap.:……そこから出られるのは、蛇口を捻って溢れ出す流水だけだ。}`
-`{ruby:......No matter how hard I tried, ......I couldn't think of any way out of here.:……どうやっても、……ここを出られる方法が思いつかない。}`
-`{ruby:Shut in here like this, I was no more or less than a prisoner.:ここに閉じ込められている自分は、まさに虜。}`
-`{ruby:Unless someone came from outside to save me, ......I wouldn't be able to get out for all eternity.:誰かが外から助けてくれない限り、……ここを永遠に出られはしないのだ。}`
-`{ruby:.........In that case, couldn't I just call for help?:………なら、助けを呼べばいいのでは。}`
-`{ruby:Yes, the tiny gap I could make in that door had to exist so that I could call for help.:そう、あの扉に出来るわずかの隙間はやはり、助けを呼ぶためのものなのだ。}`
-`{ruby:But......could I make the words come out...?:でも、……口から言葉は、出せるだろうか…？}`
-`{ruby:I had tried to call out for help before,:前にも、ここから助けを求めようとしたが、}`
-`{ruby:but for some reason, the words couldn't escape my mouth.:なぜか俺の口から言葉を出すことは出来なかった。}`
-`{ruby:......I might have made some kind of mistake.:……何かの、間違いかもしれない。}`
-`{ruby:I might have just lost my voice in my haste and confusion.:焦って混乱していたので、声がかすれてしまっただけかもしれない。}`
-`{ruby:I cracked the door open one more time.:もう一度、扉を開けて隙間を作る。}`
-`{ruby:The warm light of the hallway flowed in, making the darkness of the room stand out all the more...:温かな廊下の明かりが漏れ、一層、部屋の闇を引き立たせる…。}`
-`{ruby:Though I couldn't hear any voices, I did feel something peaceful.:声は聞こえずとも、やはり和やかな気配が感じられる。}`
-`{ruby:......I was sure that everyone was in a room at the other end of the hallway, chatting happily about something.:……廊下の向こうの部屋にきっとみんながいて、楽しそうに談笑してるに違いないのだ。}`
-`{ruby:If I could just call out, someone would surely come to save me......:声さえ出せれば、きっと誰かが助けに来てくれる……。}`
-`{ruby:".........Haah, .........haah, ............nng...":「………はぁ、………はぁ、…………んっ、…」}`
-`{ruby:Holding back some indescribable fear, I tried yelling once more...:形容し難い、何かの恐怖感に耐えつつ、再び大きな声を出そうと試みる…。}`
+`{ruby:{n}They were no better:{n}鉄格子の入った、監獄}{ruby:than barred prison windows...:の窓も同然だった…。}`
+`{ruby:The bathroom didn't:風呂場は、その窓}{ruby:even have a window.:さえない。}`
+`{ruby:......The only thing that could get out through there was:……そこから出られるのは、蛇口を}{ruby:the water that flowed out if you turned on the tap.:捻って溢れ出す流水だけだ。}`
+`{ruby:......No matter how hard I tried, ......I:……どうやっても、……ここを出}{ruby:couldn't think of any way out of here.:られる方法が思いつかない。}`
+`{ruby:Shut in here like this, I was:ここに閉じ込められている}{ruby:no more or less than a prisoner.:自分は、まさに虜。}`
+`{ruby:Unless someone came from outside to save me, ......I:誰かが外から助けてくれない限り、……}{ruby:wouldn't be able to get out for all eternity.:ここを永遠に出られはしないのだ。}`
+`{ruby:.........In that case, couldn't:………なら、助けを呼}{ruby:I just call for help?:べばいいのでは。}`
+`{ruby:Yes, the tiny gap I could make in that door:そう、あの扉に出来るわずかの隙間はやは}{ruby:had to exist so that I could call for help.:り、助けを呼ぶためのものなのだ。}`
+`{ruby:But......could I make:でも、……口から言葉は、}{ruby:the words come out...?:出せるだろうか…？}`
+`{ruby:I had tried to:前にも、ここから助けを}{ruby:call out for help before,:求めようとしたが、}`
+`{ruby:but for some reason, the:なぜか俺の口から言葉を出す}{ruby:words couldn't escape my mouth.:ことは出来なかった。}`
+`{ruby:......I might have made:……何かの、間違い}{ruby:some kind of mistake.:かもしれない。}`
+`{ruby:I might have just lost my:焦って混乱していたので、声がかすれ}{ruby:voice in my haste and confusion.:てしまっただけかもしれない。}`
+`{ruby:I cracked the door:もう一度、扉を開け}{ruby:open one more time.:て隙間を作る。}`
+`{ruby:The warm light of the hallway flowed in, making:温かな廊下の明かりが漏れ、一層、}{ruby:the darkness of the room stand out all the more...:部屋の闇を引き立たせる…。}`
+`{ruby:Though I couldn't hear any:声は聞こえずとも、やはり和や}{ruby:voices, I did feel something peaceful.:かな気配が感じられる。}`
+`{ruby:......I was sure that everyone was in a room at:……廊下の向こうの部屋にきっとみんながいて}{ruby:the other end of the hallway, chatting happily about something.:、楽しそうに談笑してるに違いないのだ。}`
+`{ruby:If I could just call out,:声さえ出せれば、きっと誰かが}{ruby:someone would surely come to save me......:助けに来てくれる……。}`
+`{ruby:".........Haah,:「………はぁ、………はぁ}{ruby:.........haah, ............nng...":、…………んっ、…」}`
+`{ruby:Holding back some indescribable fear,:形容し難い、何かの恐怖感に耐えつつ、}{ruby:I tried yelling once more...:再び大きな声を出そうと試みる…。}`
 `{ruby:"..................!!:「………………ッッッ！！}`
 `{ruby:...............!!!:……………！！！}`
 `{ruby:.....................!!!!":…………………ッッッ！！！」}`
 `{ruby:But the result was the same.:だが、結果は同じ。}`
-`{ruby:It was like trying to yell underwater.:まるで水の中で叫ぼうとしているが如く、}`
-`{ruby:......All I did was get out of breath, unable to call out in the slightest.:……息苦しくなるだけで、何も声を出すことが出来ない。}`
+`{ruby:It was like:まるで水の中で叫ぼうと}{ruby:trying to yell underwater.:しているが如く、}`
+`{ruby:......All I did was get out of:……息苦しくなるだけで、何も}{ruby:breath, unable to call out in the slightest.:声を出すことが出来ない。}`
 `{ruby:".........Haah!!:「………ッはあ！！}`
-`{ruby:Haah, ......haah, ............haah............":はぁ、……はあ、…………はぁ…………」}`
-`{ruby:Even though I could say as much as I wanted if I just grumbled to myself inside the room,:室内で独り言を愚痴るだけなら、いくらでも喋れるのに、}`
-`{ruby:......whenever I tried to make my voice reach outside, I choked and was unable to say anything.:……外に声を伝えようとすると、何も喋ることが出来ず、窒息する。}`
+`{ruby:Haah,:はぁ、……はあ、………}{ruby:......haah, ............haah............":…はぁ…………」}`
+`{ruby:Even though I could say as much as I:室内で独り言を愚痴るだけなら}{ruby:wanted if I just grumbled to myself inside the room,:、いくらでも喋れるのに、}`
+`{ruby:......whenever I tried to make my voice reach:……外に声を伝えようとすると、何も}{ruby:outside, I choked and was unable to say anything.:喋ることが出来ず、窒息する。}`
 `{ruby:I understood.:理解する。}`
-`{ruby:......My body wasn't the only thing imprisoned in this eerie locked room.:……この不気味な密室に閉じ込められているのは、俺の体だけじゃない。}`
+`{ruby:......My body wasn't the only thing:……この不気味な密室に閉じ込められて}{ruby:imprisoned in this eerie locked room.:いるのは、俺の体だけじゃない。}`
 `{ruby:......My voice was, as well......:……声もなんだ……。}`
-`{ruby:Thinking that I could use some other kind of sound to call for help, I tried opening and closing the door violently, making the chain rattle.:声が駄目なら、音で呼べないかと思い、扉を激しく開け閉めして鎖を鳴らしてみた。}`
-`{ruby:It did sound as though it was making a noisy clanking sound, ......but I was sure it was no good.:確かにそれはガシャガシャと賑やかな音を立てているように聞こえたが、……きっと無駄なのだ。}`
-`{ruby:Even this sound......was imprisoned within the locked room.:この音もまた、……この密室に閉じ込められているのだ。}`
-`{ruby:No matter how harsh a sound I made, ......I was certain it would be quieter than a leaf falling by the time it reached the other end of the corridor......:どんなに激しい音を立てても、……きっと廊下の向こうには、木の葉が落ちる音程度にも、聞こえていまい……。}`
-`{ruby:I tried using the hateful chain that sealed the door to make a sound to call for someone,:この扉を閉ざす憎々しい鎖に音を立てさせて、それによって誰かを呼ぶ試みもまた、}`
+`{ruby:Thinking that I could use some other kind of sound to call for:声が駄目なら、音で呼べないかと思い、扉を}{ruby:help, I tried opening and closing the door violently, making the chain rattle.:激しく開け閉めして鎖を鳴らしてみた。}`
+`{ruby:It did sound as though it was making a noisy:確かにそれはガシャガシャと賑やかな音を立ててい}{ruby:clanking sound, ......but I was sure it was no good.:るように聞こえたが、……きっと無駄なのだ。}`
+`{ruby:Even this sound......was imprisoned:この音もまた、……この密室に}{ruby:within the locked room.:閉じ込められているのだ。}`
+`{ruby:No matter how harsh a sound I made, ......I was certain it would be quieter:どんなに激しい音を立てても、……きっと廊下の向こうには}{ruby:than a leaf falling by the time it reached the other end of the corridor......:、木の葉が落ちる音程度にも、聞こえていまい……。}`
+`{ruby:I tried using the hateful chain that sealed the:この扉を閉ざす憎々しい鎖に音を立てさせて}{ruby:door to make a sound to call for someone,:、それによって誰かを呼ぶ試みもまた、}`
 `{ruby:but that only deepened my despair...:一層の絶望を掻き立てるだけだった…。}`
 `{ruby:"..................?:「………………？}`
 `{ruby:......This......chain......?":……この、……鎖……？」}`
 `{ruby:That's insane...:そんな馬鹿な…。}`
-`{ruby:Even though just a second ago, it was a stiff chain that looked like it was used to seal a monster away......:ついさっきまで、まるで化け物を封印するかのような厳しい鎖だったはずなのに……。}`
+`{ruby:Even though just a second ago, it was a stiff chain:ついさっきまで、まるで化け物を封印するかの}{ruby:that looked like it was used to seal a monster away......:ような厳しい鎖だったはずなのに……。}`
 `{ruby:At some point, .........:それはいつの間にか、………}`
-`{ruby:it had transformed into a normal chain lock.:普通のチェーンロックに、変わっていた。}`
+`{ruby:it had transformed into:普通のチェーンロックに}{ruby:a normal chain lock.:、変わっていた。}`
 `{ruby:This changed everything.:これなら、話はまるで違う。}`
-`{ruby:{n}Now I could just undo it from the inside...!:{n}内側から、普通に開けることが出来る…！}`
-`{ruby:I tried to undo the chain, but I couldn't pull it off, the chain not being long enough for that while the door was still open a crack.:チェーンを開けようとするが、隙間を開けたままの状態ではチェーンの長さが足りず、外すことは出来ない。}`
+`{ruby:{n}Now I could just:{n}内側から、普通に開}{ruby:undo it from the inside...!:けることが出来る…！}`
+`{ruby:I tried to undo the chain, but I couldn't pull it off, the chain:チェーンを開けようとするが、隙間を開けたままの状態で}{ruby:not being long enough for that while the door was still open a crack.:はチェーンの長さが足りず、外すことは出来ない。}`
 `{ruby:Of course.:当たり前だ。}`
 `{ruby:"......C‐calm down......:「……お、落ち着け……。}`
 `{ruby:.....................*gulp*...":…………………ごくり…」}`
-`{ruby:I swallowed, ......and calmly closed the door.:唾を飲み込んでから、……冷静に扉を閉める。}`
-`{ruby:Then, ......when I saw that the chain had slackened enough, ...I touched it with my finger to make sure.:そして、……充分にチェーンが弛んだのを見届け、…実際に指で触れてそれを確認する。}`
-`{ruby:......When I was little, ......I hated chains, because I could never get them undone right.:……小さい頃は、チェーンが上手に外せなくて、……大嫌いだった。}`
-`{ruby:However, ......that was a long time ago.:でもそれは、……大昔の話なんだ。}`
-`{ruby:{n}I could unfasten them normally now.:{n}今はこんなの、普通に開けられる。}`
-`{ruby:{n}......Anyone could... It was easy...:{n}……誰だって、簡単に…。}`
+`{ruby:I swallowed, ......and:唾を飲み込んでから、……}{ruby:calmly closed the door.:冷静に扉を閉める。}`
+`{ruby:Then, ......when I saw that the chain had slackened:そして、……充分にチェーンが弛んだのを見届}{ruby:enough, ...I touched it with my finger to make sure.:け、…実際に指で触れてそれを確認する。}`
+`{ruby:......When I was little, ......I hated chains,:……小さい頃は、チェーンが上手に外}{ruby:because I could never get them undone right.:せなくて、……大嫌いだった。}`
+`{ruby:However, ......that was:でもそれは、……大}{ruby:a long time ago.:昔の話なんだ。}`
+`{ruby:{n}I could unfasten:{n}今はこんなの、普}{ruby:them normally now.:通に開けられる。}`
+`{ruby:{n}......Anyone could...:{n}……誰だって}{ruby:It was easy...:、簡単に…。}`
 `{ruby:Clink......:カチャリ……。}`
-`{ruby:At that moment, that terrible thought,:この部屋に俺を閉じ込めた悪魔が、}`
-`{ruby:that the demon who had locked me in this room might have been using this as a trap to give me hope and then make me despair even more,:もうすぐ出られると思わせて絶望させようと企む罠かもしれないという妄想は、}`
+`{ruby:At that moment,:この部屋に俺を閉じ}{ruby:that terrible thought,:込めた悪魔が、}`
+`{ruby:that the demon who had locked me in this room might have been using:もうすぐ出られると思わせて絶望させよう}{ruby:this as a trap to give me hope and then make me despair even more,:と企む罠かもしれないという妄想は、}`
 `{ruby:......finally stopped haunting me.:……今、払われた。}`
 `{ruby:The chain lock unfastened,:チェーンロックは外れ、}`
-`{ruby:......and the chain dangled there right before my eyes.:……ぶらぶらと今、俺の目の前にぶら下がっている。}`
+`{ruby:......and the chain dangled:……ぶらぶらと今、俺の目の}{ruby:there right before my eyes.:前にぶら下がっている。}`
 `{ruby:......Now,:……もう、この扉を封じる鍵は、}`
-`{ruby:......there was no lock sealing this door.:……存在しない。}`
+`{ruby:......there was no:……存在し}{ruby:lock sealing this door.:ない。}`
 `{ruby:Please,:頼む、}`
 `{ruby:......don't torment me anymore...:……もう、何の意地悪もなく、}`
 `{ruby:...and just...:……普通に、}`
 `{ruby:......open normally......!:………開いてくれ……！}`
 `{ruby:......Slowly......the door opened.:……ゆっくり、……扉を開く。}`
-`{ruby:I had closed the door in order to undo the chain,:チェーンを外すために一度扉を閉めたから。}`
-`{ruby:......so the warm light from the hallway had been cut off.:……廊下の温かな明かりは断絶されている。}`
-`{ruby:What if......I opened it again and that warm light was gone this time?:もし、……再び開けたら、今度は廊下からその温かさが失われていないだろうか。}`
+`{ruby:I had closed the door:チェーンを外すために一}{ruby:in order to undo the chain,:度扉を閉めたから。}`
+`{ruby:......so the warm light from:……廊下の温かな明かり}{ruby:the hallway had been cut off.:は断絶されている。}`
+`{ruby:What if......I opened it again and:もし、……再び開けたら、今度は廊下からそ}{ruby:that warm light was gone this time?:の温かさが失われていないだろうか。}`
 `{ruby:......I was even afraid of that.:……そんなことにさえ怯えた。}`
 `{ruby:However, that was............:しかし、それは…………、}`
 `{ruby:......just me over‐imagining things.:……思い過ごし。}`
 `{ruby:Slowly,:ゆっくり、}`
 `{ruby:......expanding before my eyes,:……みるみる、}`
-`{ruby:...no, this is normal for a door......:…いや、これは扉なら当たり前……。}`
-`{ruby:As the door let out an annoying creak,:耳障りな軋みで鳴きながら、}`
-`{ruby:.........the exit from this cursed locked room finally opened......:………この呪われた密室は、ようやくその出口を開く……。}`
+`{ruby:...no, this is:…いや、これは扉なら}{ruby:normal for a door......:当たり前……。}`
+`{ruby:As the door let:耳障りな軋みで鳴}{ruby:out an annoying creak,:きながら、}`
+`{ruby:.........the exit from this:………この呪われた密室は、よう}{ruby:cursed locked room finally opened......:やくその出口を開く……。}`
 `{ruby:"...............!!:「……………！！}`
 `{ruby:..................!!!":………………ッ！！」}`
-`{ruby:Ha...hahaha, I did it......I did it......!:は、ははは、やった、……やった……！}`
+`{ruby:Ha...hahaha, I did:は、ははは、やった、}{ruby:it......I did it......!:……やった……！}`
 `{ruby:Even my cry of joy was strangled.:その喜びの声さえ、窒息させられてしまう。}`
-`{ruby:{n}......But that didn't matter anymore.:{n}……でももう、そんなことはどうでもいい。}`
-`{ruby:{n}All that mattered was that I could get out!:{n}ここから出られさえすれば！}`
-`{ruby:I poked my head out and looked left and right down the corridor.:そっと首を出し、廊下の左右を窺う。}`
+`{ruby:{n}......But that:{n}……でももう、そんな}{ruby:didn't matter anymore.:ことはどうでもいい。}`
+`{ruby:{n}All that mattered was:{n}ここから出ら}{ruby:that I could get out!:れさえすれば！}`
+`{ruby:I poked my head out and:そっと首を出し、廊下}{ruby:looked left and right down the corridor.:の左右を窺う。}`
 `{ruby:The warm corridor.:温かな廊下。}`
-`{ruby:I can sense people having fun at the other end.:向こうの方から、楽しそうな気配を感じる。}`
+`{ruby:I can sense people having:向こうの方から、楽しそ}{ruby:fun at the other end.:うな気配を感じる。}`
 `{ruby:......Everyone's right there.:……みんな、向こうにいるんだ。}`
 `{ruby:Let's go, right now.:行こう、早く。}`
 `{ruby:"............Gyeh...k.........?!?!":「…………ぐえ、…ッ、………？！？！」}`
-`{ruby:At that moment, something cold and heartless crushed my throat.:その時、冷たく無慈悲な何かが、俺の喉を潰した。}`
-`{ruby:It was as though an iron loop had been fastened around my neck and pulled on hard from behind.:まるで、鉄の輪が首に括りつけられていて、それを思い切り後ろから引っ張られたかのようだった。}`
+`{ruby:At that moment, something cold:その時、冷たく無慈悲な何か}{ruby:and heartless crushed my throat.:が、俺の喉を潰した。}`
+`{ruby:It was as though an iron loop had been:まるで、鉄の輪が首に括りつけられていて、それを思}{ruby:fastened around my neck and pulled on hard from behind.:い切り後ろから引っ張られたかのようだった。}`
 `{ruby:No...not "as though".:ようだった、じゃない。}`
 `{ruby:......Without my knowing,:……本当に、}`
 `{ruby:......at some point...:……いつの間にか俺の首に、}`
-`{ruby:...a thick, metal collar had been fastened around my neck.:……無骨な鉄の首輪が括りつけられているのだ。}`
+`{ruby:...a thick, metal collar had:……無骨な鉄の首輪が括り}{ruby:been fastened around my neck.:つけられているのだ。}`
 `{ruby:When had this happened?!:こんなの、いつの間にッ？！}`
-`{ruby:And when I turned around, I despaired even more.:そして、振り返ってさらに絶望する。}`
-`{ruby:From the inner side of the door I had just opened,:今、開いたばかりの扉の内側から、}`
+`{ruby:And when I turned:そして、振り返ってさ}{ruby:around, I despaired even more.:らに絶望する。}`
+`{ruby:From the inner side of:今、開いたばかりの}{ruby:the door I had just opened,:扉の内側から、}`
 `{ruby:......a thick chain extended...:……太い鎖が伸びていて、}`
 `{ruby:...which was connected to my collar.:……俺のこの首輪に、繋がっているのだ。}`
-`{ruby:I pulled on it, but it didn't even budge.:その鎖を引っ張るが、びくともしない。}`
-`{ruby:{n}When I shook it, the whole door creaked.:{n}揺すると、扉ごとぎしぎしと鳴く。}`
+`{ruby:I pulled on it,:その鎖を引っ張るが、}{ruby:but it didn't even budge.:びくともしない。}`
+`{ruby:{n}When I shook it,:{n}揺すると、扉ごと}{ruby:the whole door creaked.:ぎしぎしと鳴く。}`
 `{ruby:......What...:……何だよ、}`
 `{ruby:...th‐...:……こ、}`
 `{ruby:......the hell.........:………これ………。}`
-`{ruby:The chain that connected to my collar......was attached to the inner side of the door.:俺の首輪に繋がる鎖は、………扉の内側に、繋がっている。}`
+`{ruby:The chain that connected to my collar......was:俺の首輪に繋がる鎖は、………扉}{ruby:attached to the inner side of the door.:の内側に、繋がっている。}`
 `{ruby:Yes.:そう。}`
-`{ruby:The same heartless chain that had secured the door a short while back...had suddenly become a chain holding {i:me} in place...:さっきまで扉を封じていたあの、無情な鎖が、いつの間にか俺を縛る鎖と変わっていたのだ…。}`
+`{ruby:The same heartless chain that had secured the door a:さっきまで扉を封じていたあの、無情な鎖が、いつ}{ruby:short while back...had suddenly become a chain holding {i:me} in place...:の間にか俺を縛る鎖と変わっていたのだ…。}`
 `{ruby:That's insane... That's insane...!!:そんな馬鹿な、そんな馬鹿な…！！}`
 `{ruby:{n}Dammit, what's going on here?!!:{n}畜生、こんなことって、こんなことってッ！！}`
-`{ruby:I pulled with all my strength, trying to tear the whole door off,:扉ごと引き千切ろうと力任せに引っ張るが、}`
-`{ruby:but I already knew from repeated experiments that it wouldn't even budge.:そんなことではビクともしないのは、すでにさんざん試して知っている。}`
-`{ruby:......I was sure this chain would disappear once I went back inside the room.:……きっとこの鎖は、俺が再び部屋に戻れば消えるのだ。}`
-`{ruby:{n}But it would never let me leave it.:{n}しかし、部屋から出ることだけは、決して許さない。}`
-`{ruby:Though it had appeared to revert to being a normal chain lock, ......nothing had actually changed.:一見、普通のチェーンロックに戻ったかのように見えていたが、……何も変わっていなかった。}`
-`{ruby:The fact that a "chain lock" bound me to that room was just as true now as ever...:“チェーンロック”が、俺をあの部屋に縛り付けているという事実は、何も変わらなかったのだ…。}`
-`{ruby:"......Uuu......nnngh......aaaaaaaaahhhh......!!!":「……う、……く、……ぅぐぉぉおおおぉぉ……！！！」}`
-`{ruby:Tears flowing down my face, I pulled with all I had.:涙をぼろぼろと零しながら、渾身の力で引っ張る。}`
+`{ruby:I pulled with all my strength,:扉ごと引き千切ろうと力}{ruby:trying to tear the whole door off,:任せに引っ張るが、}`
+`{ruby:but I already knew from repeated:そんなことではビクともしないのは、す}{ruby:experiments that it wouldn't even budge.:でにさんざん試して知っている。}`
+`{ruby:......I was sure this chain would disappear:……きっとこの鎖は、俺が再び}{ruby:once I went back inside the room.:部屋に戻れば消えるのだ。}`
+`{ruby:{n}But it would never:{n}しかし、部屋から出ること}{ruby:let me leave it.:だけは、決して許さない。}`
+`{ruby:Though it had appeared to revert to being:一見、普通のチェーンロックに戻ったかのように見}{ruby:a normal chain lock, ......nothing had actually changed.:えていたが、……何も変わっていなかった。}`
+`{ruby:The fact that a "chain lock" bound me to:“チェーンロック”が、俺をあの部屋に縛り付けてい}{ruby:that room was just as true now as ever...:るという事実は、何も変わらなかったのだ…。}`
+`{ruby::「……う、……く、……ぅぐぉ}{ruby:"......Uuu......nnngh......aaaaaaaaahhhh......!!!":ぉおおおぉぉ……！！！」}`
+`{ruby:Tears flowing down my face,:涙をぼろぼろと零しながら、}{ruby:I pulled with all I had.:渾身の力で引っ張る。}`
 `{ruby:{n}......It was completely useless.:{n}……無駄なことだ。}`
-`{ruby:No matter what I did, I'd never tear it loose.:どうやったって、千切れるわけがない。}`
-`{ruby:And I wasn't even permitted to call out for help.:そして助けを呼ぶ声さえ許されない。}`
-`{ruby:......I felt a confused anger at how the demon had mercilessly made me think for just an instant that I'd escaped.:……ならば、部屋から出られたと一瞬だけ思わせる悪魔の無慈悲に、錯乱するような怒りを覚える。}`
-`{ruby:But no matter how much I yelled, no voice came out, and no one on the other end of the corridor could hear me...:しかし叫べども叫べども、それは声にはならず、廊下の向こうの誰の耳にも、届きはしない…。}`
+`{ruby:No matter what I did,:どうやったって、千切}{ruby:I'd never tear it loose.:れるわけがない。}`
+`{ruby:And I wasn't even permitted:そして助けを呼ぶ声さ}{ruby:to call out for help.:え許されない。}`
+`{ruby:......I felt a confused anger at how the demon had:……ならば、部屋から出られたと一瞬だけ思わせる悪}{ruby:mercilessly made me think for just an instant that I'd escaped.:魔の無慈悲に、錯乱するような怒りを覚える。}`
+`{ruby:But no matter how much I yelled, no voice came out, and:しかし叫べども叫べども、それは声にはならず、廊}{ruby:no one on the other end of the corridor could hear me...:下の向こうの誰の耳にも、届きはしない…。}`
 `{ruby:Then,:その時、}`
 `{ruby:.........I noticed...:………廊下の壁に、}`
-`{ruby:...an odd stain on the wall of the corridor.:……違和感のある汚れを見つけた。}`
+`{ruby:...an odd stain on:……違和感のある汚}{ruby:the wall of the corridor.:れを見つけた。}`
 `{ruby:It wasn't a stain.:汚れじゃない。}`
-`{ruby:......They were letters, traced out by a finger that had been covered in red paint.:……それは、赤い塗料を塗った指でなぞったような、……文字だった。}`
+`{ruby:......They were letters, traced out by a:……それは、赤い塗料を塗った指でな}{ruby:finger that had been covered in red paint.:ぞったような、……文字だった。}`
 `{ruby:".........?!:「………？！}`
 `{ruby:............?!?!":…………ッ？！？！」}`
-`{ruby:Those letters, ......which looked like they had been drawn in blood,:その、……血で書かれたような文字は、}`
+`{ruby:Those letters, ......which looked like:その、……血で書かれ}{ruby:they had been drawn in blood,:たような文字は、}`
 `{ruby:answered my biggest question...:今の俺がもっとも知りたいことに答えてくれていた…。}`
 `{ruby:The chain lock must be set.:チェーンロックは閉じていなければならない。}`
-`{ruby:You may unset it, but it must then be reset.:開けても良いが、必ず閉じなければならない。}`
-`{ruby:Unless it is set, this exit of yours will be unusable.:閉じなければお前の出口もまた、閉ざされる。}`
-`{ruby:I instantly understood the meaning of that unsettling message.:俺はその不気味なメッセージの意味をすぐに理解する。}`
-`{ruby:{n}Then I tried it out, and understood completely.:{n}そして実際に試し、完全に理解した。}`
-`{ruby:When I return to the room and reset the chain lock, ......the binding around my neck disappears.:部屋に戻り、チェーンロックを戻すと、……首輪の拘束は消えるのだ。}`
-`{ruby:When I undo the chain lock again, ......that heavy feeling around my neck returns.:チェーンロックを再び開けると、……再び首に、重みある感触が蘇る。}`
-`{ruby:In other words, I cannot escape this room while the chain lock is still unset.:つまり、チェーンロックを開けたままでは、俺は部屋から出られないのだ。}`
-`{ruby:But that means all I need to do is set the chain while outside the room...!:じゃあつまり、この部屋の外からチェーンを掛ければいいってことじゃないか…！}`
+`{ruby:You may unset it, but:開けても良いが、必ず閉じ}{ruby:it must then be reset.:なければならない。}`
+`{ruby:Unless it is set, this:閉じなければお前の出口も}{ruby:exit of yours will be unusable.:また、閉ざされる。}`
+`{ruby:I instantly understood the:俺はその不気味なメッセージの}{ruby:meaning of that unsettling message.:意味をすぐに理解する。}`
+`{ruby:{n}Then I tried it:{n}そして実際に試し}{ruby:out, and understood completely.:、完全に理解した。}`
+`{ruby:When I return to the room and reset:部屋に戻り、チェーンロックを戻すと}{ruby:the chain lock, ......the binding around my neck disappears.:、……首輪の拘束は消えるのだ。}`
+`{ruby:When I undo the chain lock again,:チェーンロックを再び開けると、……}{ruby:......that heavy feeling around my neck returns.:再び首に、重みある感触が蘇る。}`
+`{ruby:In other words, I cannot escape this:つまり、チェーンロックを開けたままで}{ruby:room while the chain lock is still unset.:は、俺は部屋から出られないのだ。}`
+`{ruby:But that means all I need to do:じゃあつまり、この部屋の外からチェーンを}{ruby:is set the chain while outside the room...!:掛ければいいってことじゃないか…！}`
 `{ruby:I undid the chain one more time.:もう一度チェーンを開ける。}`
-`{ruby:The weighty collar and chain appeared around my neck again.:ずしりと、首に首輪と鎖が現れる。}`
-`{ruby:I stepped out into the corridor and closed the door behind me, leaving only the slightest of cracks.:そして廊下に出てすぐ扉を閉め、最小限の隙間を作る。}`
-`{ruby:I stuck my hand through that crack, grabbed the dangling chain, and tried to reset it somehow.:そこから手を入れ、ぶらさがるチェーンを摘み、……何とか元通りに掛け直そうとする。}`
+`{ruby:The weighty collar and chain:ずしりと、首に首輪}{ruby:appeared around my neck again.:と鎖が現れる。}`
+`{ruby:I stepped out into the corridor and closed the:そして廊下に出てすぐ扉を閉め}{ruby:door behind me, leaving only the slightest of cracks.:、最小限の隙間を作る。}`
+`{ruby:I stuck my hand through that crack, grabbed:そこから手を入れ、ぶらさがるチェーンを摘み}{ruby:the dangling chain, and tried to reset it somehow.:、……何とか元通りに掛け直そうとする。}`
 `{ruby:......D‐......dammit......:……く、……くそ……。}`
-`{ruby:......It's so easy to do from the inside...:……内側からなら簡単に出来るのに、}`
+`{ruby:......It's so easy to:……内側からなら簡単}{ruby:do from the inside...:に出来るのに、}`
 `{ruby:......so why...:……何で、}`
-`{ruby:...is it so hard to do from the outside...?:……外側からだとこうもうまく行かないんだよ…。}`
-`{ruby:The gap needed to be wide if I wanted to manipulate the chain well.:うまく作業をするには隙間が広いほうがいい。}`
-`{ruby:{n}However, that made the chain too short to reach.:{n}しかし隙間が広いとチェーンが短く、届かない。}`
-`{ruby:To bring the chain even close to reaching, I had to close the door as much as possible.:チェーンが少しでも届くようにするには、扉を少しでも閉めなければならない。}`
-`{ruby:But doing that meant that there wouldn't be enough of a gap to fit my hand in.:しかしそうすると手を入れる隙間さえ失われる。}`
-`{ruby:......Of course, that was perfectly natural.:……当然だ。}`
-`{ruby:Chain locks are made to be done from the inside.:チェーンロックは内鍵。}`
-`{ruby:They'd be completely pointless if you could set and unset them from the outside.:外から開け閉めが出来るようでは、その意味がまったくない。}`
-`{ruby:That's why the length of the chain is specially chosen...:だからチェーンの長さが絶妙に調整されていて、}`
-`{ruby:to prevent anyone from setting or unsetting it from the outside.:決して外からは開けることも閉めることも出来ないようになっているのだ。}`
-`{ruby:Maybe I could manage it with some kind of hard and thin tool?:じゃあ、細くて頑丈な何かの道具で、うまくできないだろうか。}`
-`{ruby:If the gap of the door was just a finger's width across, the chain would have enough length to reach.:指一本分の隙間があれば、チェーンの長さは充分。}`
-`{ruby:......If I could just bend a wire hanger so that it fits through the crack...:……例えば、針金ハンガーを潰したものを隙間から通し、}`
+`{ruby:...is it so hard:……外側からだとこうもうま}{ruby:to do from the outside...?:く行かないんだよ…。}`
+`{ruby:The gap needed to be wide if:うまく作業をするには隙間}{ruby:I wanted to manipulate the chain well.:が広いほうがいい。}`
+`{ruby:{n}However, that made the:{n}しかし隙間が広いとチェ}{ruby:chain too short to reach.:ーンが短く、届かない。}`
+`{ruby:To bring the chain even close to reaching, I:チェーンが少しでも届くようにするには、}{ruby:had to close the door as much as possible.:扉を少しでも閉めなければならない。}`
+`{ruby:But doing that meant that there wouldn't be:しかしそうすると手を入れ}{ruby:enough of a gap to fit my hand in.:る隙間さえ失われる。}`
+`{ruby:......Of course, that:……当然}{ruby:was perfectly natural.:だ。}`
+`{ruby:Chain locks are made to:チェーンロック}{ruby:be done from the inside.:は内鍵。}`
+`{ruby:They'd be completely pointless if you could:外から開け閉めが出来るようでは}{ruby:set and unset them from the outside.:、その意味がまったくない。}`
+`{ruby:That's why the length of:だからチェーンの長さが絶}{ruby:the chain is specially chosen...:妙に調整されていて、}`
+`{ruby:to prevent anyone from setting:決して外からは開けることも閉めること}{ruby:or unsetting it from the outside.:も出来ないようになっているのだ。}`
+`{ruby:Maybe I could manage it with:じゃあ、細くて頑丈な何かの道具で}{ruby:some kind of hard and thin tool?:、うまくできないだろうか。}`
+`{ruby:If the gap of the door was just a finger's:指一本分の隙間があれば、チ}{ruby:width across, the chain would have enough length to reach.:ェーンの長さは充分。}`
+`{ruby:......If I could just bend a wire:……例えば、針金ハンガーを潰}{ruby:hanger so that it fits through the crack...:したものを隙間から通し、}`
 `{ruby:and work the chain with that......:うまくチェーンを引っ掛けることが出来れば……。}`
-`{ruby:That's right, there's a closet just to the side of the door.:そうだ、扉のすぐ脇にクローゼットが。}`
-`{ruby:Could there be some hangers in there?:ハンガーが掛かってないだろうか？}`
+`{ruby:That's right, there's a closet just:そうだ、扉のすぐ脇に}{ruby:to the side of the door.:クローゼットが。}`
+`{ruby:Could there be:ハンガーが掛かって}{ruby:some hangers in there?:ないだろうか？}`
 `{ruby:".........Found one...!!:「………あった…！！}`
 `{ruby:O‐......ohh, thank God...!!":お、……おぉ、神よ…！！」}`
-`{ruby:A single, cheap‐looking hanger, like one you might find in a laundry room, was hanging there.:クリーニング屋でもらえるような安っぽい針金ハンガーが一つ、ぽつんと掛かっていた。}`
+`{ruby:A single, cheap‐looking hanger, like one you might:クリーニング屋でもらえるような安っぽい針金}{ruby:find in a laundry room, was hanging there.:ハンガーが一つ、ぽつんと掛かっていた。}`
 `{ruby:......Really?:……そうだったっけ。}`
-`{ruby:I'm pretty sure that when I last looked a short while ago...:ここをさっき確かめた時には、}`
-`{ruby:...nothing like this was in the closet...:……こんなものはなかったはず…。}`
+`{ruby:I'm pretty sure that when I:ここをさっき確か}{ruby:last looked a short while ago...:めた時には、}`
+`{ruby:...nothing like this:……こんなものはな}{ruby:was in the closet...:かったはず…。}`
 `{ruby:Ah, who cares...!:何でも構わない…！}`
 `{ruby:Quickly......quickly......!!:早く、……早く……！！}`
-`{ruby:I twisted the wire hanger, bending the end with the tip around.:針金ハンガーを捻って絞り、先端を少し曲げて加工する。}`
-`{ruby:I formed a loop at the end to grab at things with,:うまく引っ掛けられるよう、輪の部分を作り、}`
-`{ruby:......making for a sort of burglar's tool.:……泥棒の小道具のようなものを作り上げる。}`
-`{ruby:I then dashed out into the corridor again and closed the door almost as far as it would go.:そして廊下に再び飛び出し、ぎりぎりまで扉を閉める。}`
-`{ruby:My wrist could never pass through this.:手首は到底通せない。}`
-`{ruby:But with the door closed this far, the chain should have extra length to spare...!:しかしこれだけ閉めれば、チェーンの長さは充分余るはず…！}`
-`{ruby:And this crack is large enough for me to stick the hanger through...!:そしてこの隙間なら、針金ハンガーは通せる…！}`
-`{ruby:Now it's just a matter of technique...!:あとは要領とコツの問題なんだ…！}`
-`{ruby:{n}I'll definitely be able to do it if I try enough times... I'm certain of it!!:{n}何度も試せばきっと出来る、絶対出来る！！}`
-`{ruby:".........Hah......haah.........haah.........haah...!":「………は、……はぁッ、…………はぁ、………はぁ…！」}`
+`{ruby:I twisted the wire hanger, bending:針金ハンガーを捻って絞り、先}{ruby:the end with the tip around.:端を少し曲げて加工する。}`
+`{ruby:I formed a loop at the:うまく引っ掛けられるよう}{ruby:end to grab at things with,:、輪の部分を作り、}`
+`{ruby:......making for a:……泥棒の小道具のような}{ruby:sort of burglar's tool.:ものを作り上げる。}`
+`{ruby:I then dashed out into the corridor again and:そして廊下に再び飛び出し、ぎ}{ruby:closed the door almost as far as it would go.:りぎりまで扉を閉める。}`
+`{ruby:My wrist could:手首は到底通}{ruby:never pass through this.:せない。}`
+`{ruby:But with the door closed this far,:しかしこれだけ閉めれば、チェー}{ruby:the chain should have extra length to spare...!:ンの長さは充分余るはず…！}`
+`{ruby:And this crack is large enough:そしてこの隙間なら、針金}{ruby:for me to stick the hanger through...!:ハンガーは通せる…！}`
+`{ruby:Now it's just:あとは要領とコツの}{ruby:a matter of technique...!:問題なんだ…！}`
+`{ruby:{n}I'll definitely be able to do it if:{n}何度も試せばきっと出}{ruby:I try enough times... I'm certain of it!!:来る、絶対出来る！！}`
+`{ruby::「………は、……はぁッ、………}{ruby:".........Hah......haah.........haah.........haah...!":…はぁ、………はぁ…！」}`
 `{ruby:It's harder than it looks...:一筋縄では行かない…。}`
-`{ruby:.......But the chain {i:is} long enough.:……しかし、チェーンの長さは充分。}`
+`{ruby:.......But the chain:……しかし、チェーン}{ruby:{i:is} long enough.:の長さは充分。}`
 `{ruby:{n}......It isn't impossible...!:{n}……不可能じゃないんだ…！}`
-`{ruby:I had finally gotten my hands on the one way to escape.:ようやく手に入れた唯一の脱出方法。}`
-`{ruby:{n}......It was hard, yes, but it was theoretically possible.:{n}……難しくはあっても、理論上は可能。}`
-`{ruby:If it was possible, then I would be able to get out.:可能なら、出られる。}`
-`{ruby:{n}I would be able to escape from here...!!:{n}俺はここから逃げ出すことが出来るんだ…！！}`
-`{ruby:""......Hihi......hihihihihihihihihi......"":「「……ひ、……ひっひひひひひひひひひひひひひ……」」}`
+`{ruby:I had finally gotten my hands:ようやく手に入れた唯}{ruby:on the one way to escape.:一の脱出方法。}`
+`{ruby:{n}......It was hard, yes,:{n}……難しくはあって}{ruby:but it was theoretically possible.:も、理論上は可能。}`
+`{ruby:If it was possible, then I:可能なら、出}{ruby:would be able to get out.:られる。}`
+`{ruby:{n}I would be able:{n}俺はここから逃げ出す}{ruby:to escape from here...!!:ことが出来るんだ…！！}`
+`{ruby::「「……ひ、……ひっひひひひひ}{ruby:""......Hihi......hihihihihihihihihi......"":ひひひひひひひひ……」」}`
 `{ruby:"......! ...?!?!":「……ッッッ、…？！？！」}`
-`{ruby:At that moment, ......I felt a heavy weight on the far side of the door.:その時、扉の向こう側からずしりと、……何かの重みを感じた。}`
-`{ruby:It felt as though someone inside the room had leaned against the door...:まるで、部屋の内側から誰かが、扉に額を押し付けて寄り掛かって来ているような、}`
+`{ruby:At that moment, ......I felt a heavy:その時、扉の向こう側からずしりと}{ruby:weight on the far side of the door.:、……何かの重みを感じた。}`
+`{ruby:It felt as though someone inside:まるで、部屋の内側から誰かが、扉に額を押}{ruby:the room had leaned against the door...:し付けて寄り掛かって来ているような、}`
 `{ruby:...with their forehead.:……そんな感じがした。}`
 `{ruby:And she...:そしてそいつが、}`
 `{ruby:...the witch...:……魔女が、}`
 `{ruby:...had laughed.:……笑ったのだ。}`
-`{ruby:Then, I felt a powerful and strange force on the wire hanger.:その瞬間、針金ハンガーに強い力の違和感。}`
-`{ruby:......Is she trying to grab it away from me?!:……向こう側から、こいつを奪い取ろうとしている？！}`
+`{ruby:Then, I felt a powerful and:その瞬間、針金ハンガー}{ruby:strange force on the wire hanger.:に強い力の違和感。}`
+`{ruby:......Is she trying to:……向こう側から、こいつを奪}{ruby:grab it away from me?!:い取ろうとしている？！}`
 `{ruby:Yeah right, like hell I'll let go!!:ふざけるな、手放すもんか！！}`
-`{ruby:{n}Like hell I'll let my one key out of here get stolen while my guard's down!!:{n}俺の戒めを解く、唯一の鍵を絶対に手放すもんかッ！！}`
-`{ruby:Fortunately, I had stuck my wrist through it so that I wouldn't drop it if my hand got tired.:手が疲れても落としてしまうことがないよう、手首に通すような形にしていたのが幸いだった。}`
-`{ruby:You won't be able to snatch this out of my hands...!:俺の手からこいつを奪い取ろうとしても、出来るものか…！}`
+`{ruby:{n}Like hell I'll let my one key out:{n}俺の戒めを解く、唯一の鍵}{ruby:of here get stolen while my guard's down!!:を絶対に手放すもんかッ！！}`
+`{ruby:Fortunately, I had stuck my wrist through it so:手が疲れても落としてしまうことがないよう、手首}{ruby:that I wouldn't drop it if my hand got tired.:に通すような形にしていたのが幸いだった。}`
+`{ruby:You won't be able to:俺の手からこいつを奪い取ろうと}{ruby:snatch this out of my hands...!:しても、出来るものか…！}`
 `{ruby:""Hihihi, hihihihihihihihihi......"":「「ひひひ、ひっひっひっひっひっひっひ……」」}`
-`{ruby:The witch on the other side of the door watched me and laughed once more......:そんな俺を、再び扉の向こうの魔女は、嘲笑う……。}`
-`{ruby:Then, ......I noticed something weird.:その時、……俺は妙なものに気付く。}`
-`{ruby:I looked at my left hand, which I had pressed against the door to hold it in place,:力比べをするために扉に添えていた左手。}`
-`{ruby:......and between the fingers of that hand,:……その左手の指の間から、}`
+`{ruby:The witch on the other side of:そんな俺を、再び扉の向こう}{ruby:the door watched me and laughed once more......:の魔女は、嘲笑う……。}`
+`{ruby:Then, ......I:その時、……俺は妙な}{ruby:noticed something weird.:ものに気付く。}`
+`{ruby:I looked at my left hand, which I had:力比べをするために扉に}{ruby:pressed against the door to hold it in place,:添えていた左手。}`
+`{ruby:......and between the:……その左手の指}{ruby:fingers of that hand,:の間から、}`
 `{ruby:......I could see something red.:……何か赤いものが見えるのだ。}`
 `{ruby:.........It was...:………それは、}`
 `{ruby:......red...text.:……赤い、文字。}`
 `{ruby:I realized immediately.:すぐに気付く。}`
-`{ruby:At some point in time, even more bloody letters had been written on the door,:いつの間にか、扉にまた別の血文字が書かれていて、}`
-`{ruby:and my left hand had been covering them up.:自分の左手がそれを覆って隠してしまっているのだ。}`
-`{ruby:Still fighting against the vice‐like strength of the witch beyond the door, ......I moved my left hand to the side.:扉の向こうの、万力のような力の魔女と戦いながら、……俺は左手をどける。}`
+`{ruby:At some point in time, even more:いつの間にか、扉にまた別の}{ruby:bloody letters had been written on the door,:血文字が書かれていて、}`
+`{ruby:and my left hand:自分の左手がそれを覆って隠}{ruby:had been covering them up.:してしまっているのだ。}`
+`{ruby:Still fighting against the vice‐like strength of the witch beyond:扉の向こうの、万力のような力の魔女と戦}{ruby:the door, ......I moved my left hand to the side.:いながら、……俺は左手をどける。}`
 `{ruby:Where that hand had been...:するとそこにはやはり、}`
-`{ruby:...bloody letters had indeed been written.:……血文字が書かれていた。}`
-`{ruby:It read.........as though someone had predicted that I'd struggle this way from the very beginning...:そしてそれは、………俺のこの足掻きを初めから予見していたかのような、}`
-`{ruby:...a message directly from the witch to me.:……いや、まさに魔女から俺への、メッセージそのものなのだ。}`
+`{ruby:...bloody letters had:……血文字が書か}{ruby:indeed been written.:れていた。}`
+`{ruby:It read.........as though someone had predicted that:そしてそれは、………俺のこの足掻きを}{ruby:I'd struggle this way from the very beginning...:初めから予見していたかのような、}`
+`{ruby:...a message directly from:……いや、まさに魔女から俺への、}{ruby:the witch to me.:メッセージそのものなのだ。}`
 `{ruby:No matter the method,:チェーンロックは、如何なる方法によっても、}`
-`{ruby:it is impossible to set or unset the chain lock from the outside.:外側から開けることも閉めることも出来ない。}`
-`{ruby:All tricks done from the corridor......had been sealed by the red letters.:廊下側からの、どんな小細工も、……赤き文字によって、禁じられている。}`
+`{ruby:it is impossible to set or:外側から開けることも閉め}{ruby:unset the chain lock from the outside.:ることも出来ない。}`
+`{ruby:All tricks done from the corridor......had:廊下側からの、どんな小細工も、……赤}{ruby:been sealed by the red letters.:き文字によって、禁じられている。}`
 `{ruby:"N‐.........no way...............":「そ、………そんな……………」}`
 `{ruby:""Hihihihihihihi.:「「ひひひひひひひ。}`
-`{ruby:......Hihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!!"":……ひっひっひっひっひっひっひっひ…！！」」}`
-`{ruby:There was suddenly a terrible sound, and the force that had been pulling on the hanger was suddenly released.:その時、バリボリっと凄まじい音がして、ふいに針金ハンガーを引っ張る力が解放された。}`
-`{ruby:And....when I looked at the hanger that was finally free, I lost all hope.:そして、……引き抜いたそれを見て、絶望する。}`
-`{ruby:As though it had been hit by the acid of the room's darkness,:針金ハンガーの先端が、}`
+`{ruby::……ひっひっひっひっひっ}{ruby:......Hihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!!"":ひっひっひ…！！」」}`
+`{ruby:There was suddenly a terrible sound, and the force:その時、バリボリっと凄まじい音がして、ふいに}{ruby:that had been pulling on the hanger was suddenly released.:針金ハンガーを引っ張る力が解放された。}`
+`{ruby:And....when I looked at the hanger that:そして、……引き抜いたそ}{ruby:was finally free, I lost all hope.:れを見て、絶望する。}`
+`{ruby:As though it had been hit:針金ハンガーの}{ruby:by the acid of the room's darkness,:先端が、}`
 `{ruby:.........the tip of the hanger...:………室内の闇という硫酸で溶かされたかのように、}`
 `{ruby:...had burnt and bubbled...:……焼け爛れて、}`
 `{ruby:...and melted away.:…溶けて失われていたのだ。}`
 `{ruby:Now it was pitifully short.:これでは、もう長さがまるでない。}`
 `{ruby:It couldn't be used for anything...!:道具にならない…！}`
-`{ruby:It would be useless to search for a substitute.:別の代用品を見つけても無駄なことだ。}`
-`{ruby:......All schemes to fasten the chain from the outside...had been sealed...!:……外からチェーンを閉めようとする全ての目論見は、封じられている…！}`
+`{ruby:It would be useless:別の代用品を見つけて}{ruby:to search for a substitute.:も無駄なことだ。}`
+`{ruby:......All schemes to fasten the:……外からチェーンを閉めようとする全}{ruby:chain from the outside...had been sealed...!:ての目論見は、封じられている…！}`
 `{ruby:Dammit...:畜生、}`
 `{ruby:...dammit, dammit, dammit...!!:……畜生、畜生、畜生…！！}`
-`{ruby:I threw the remnants of the wire hanger against the floor,:針金ハンガーの残骸を床に叩き付け、}`
-`{ruby:.......faced the hallway filled with a warm light,:……温かな明かりで満ちた廊下で、}`
+`{ruby:I threw the remnants of:針金ハンガーの残骸を}{ruby:the wire hanger against the floor,:床に叩き付け、}`
+`{ruby:.......faced the hallway filled:……温かな明かりで}{ruby:with a warm light,:満ちた廊下で、}`
 `{ruby:......and called for help.:……俺は助けを叫ぶ。}`
-`{ruby:However, I just choked, unable to speak at all.:しかし、声を出すことは許されず、ただ窒息するだけだ。}`
+`{ruby:However, I just choked,:しかし、声を出すことは許され}{ruby:unable to speak at all.:ず、ただ窒息するだけだ。}`
 `{ruby:Everyone's just down the corridor.:廊下の向こうに、みんながいる。}`
 `{ruby:{n}And everything's peaceful there!:{n}そして和やかにしている！}`
-`{ruby:I can't hear their voices, but I know!:声は聞こえないけどわかるんだ！}`
-`{ruby:{n}I'm sure they're all having a good time playing cards!:{n}きっとみんなで、トランプでもして遊んでいるんだ！}`
+`{ruby:I can't hear their:声は聞こえないけど}{ruby:voices, but I know!:わかるんだ！}`
+`{ruby:{n}I'm sure they're all having:{n}きっとみんなで、トランプ}{ruby:a good time playing cards!:でもして遊んでいるんだ！}`
 `{ruby:{n}Please, someone notice me!!:{n}頼む、誰か気付いてくれ！！}`
 `{ruby:Someone...save me!!!:誰かッ、助けて！！！}`
 `{ruby:""Hi...hihihihihihihi...:「「ひ、ひひひひひひひ、}`
 `{ruby:...hi:……ひっ}`
 `{ruby:hi:ひっ}`
-`{ruby:hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!!"":ひひひひひひひひひひひひひひひひひ！！」」}`
-`{ruby:Aaaaaaaahgggyaaaaaaaaaaaaaaaaaaahhh{0}hh...!!!:ぅおぉおおおおおおおああああぁああああああぁあぁあぁぁ…ッ！！！}`
-`{ruby:"""......Ahahahaha, hahahahahahahaha.""":「「「……あはははは、はっはっはっはははははははは」」」}`
-`{ruby:This time, it wasn't the witch's voice.:これは魔女の声ではない。}`
-`{ruby:......It was the happy voices of everyone else, which I could hear from the other end of the hallway...:……廊下の彼方から聞こえてくる、みんなの楽しそうな声…。}`
+`{ruby::ひひひひひひひひひひひひ}{ruby:hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!!"":ひひひひひ！！」」}`
+`{ruby::ぅおぉおおおおおおおああああぁああ}{ruby:Aaaaaaaahgggyaaaaaaaaaaaaaaaaaaahhh{0}hh...!!!:ああああぁあぁあぁぁ…ッ！！！}`
+`{ruby:"""......Ahahahaha,:「「「……あはははは、はっはっ}{ruby:hahahahahahahaha.""":はっはははははははは」」」}`
+`{ruby:This time, it:これは魔女の声}{ruby:wasn't the witch's voice.:ではない。}`
+`{ruby:......It was the happy voices of everyone else, which:……廊下の彼方から聞こえてくる}{ruby:I could hear from the other end of the hallway...:、みんなの楽しそうな声…。}`
 `{ruby:Someone, come over here...:誰か来て、}`
-`{ruby:...and save mee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eee......:……助けてくれぇえぇぇぇぇぇぇ……。}`
+`{ruby:...and:……助けてくれぇえぇ}{ruby:save mee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eee......:ぇぇぇぇぇ……。}`
 `{ruby:"Sorry, but I'm out!":「悪いね、これでアガリだ！」}`
-`{ruby:George slammed his last card down, ending the game with his victory once again.:譲治が最後のカードを叩き付けると、再び譲治の勝利で決着した。}`
+`{ruby:George slammed his last card down, ending:譲治が最後のカードを叩き付けると}{ruby:the game with his victory once again.:、再び譲治の勝利で決着した。}`
 `{ruby:Everyone gasped in unison.:みんなが一斉にどよめく。}`
-`{ruby:The cousins' room was filled with laughter as they enjoyed their card game...:いとこ部屋は、楽しくトランプを遊ぶ笑い声に満ちていた…。}`
-`{ruby:"Whoooooooa, so you really did have it, George‐aniki!:「うぉおおおおぉ、やっぱり譲治の兄貴が持ってたかぁ！}`
-`{ruby:Damn you...damn you, six of spaa{-}a{-}a{-}a{-}a{-}ades!":憎い、スペードの６が憎いぃいぃ！」}`
-`{ruby:"Your eight of diamonds was pretty nasty too.:「戦人のダイヤの８もエグかったぜ。}`
-`{ruby:Aah, I was so close, aha{0}ha{0}ha{0}ha{0}ha!":あーもー、悔しいッ、あっははははは！」}`
+`{ruby:The cousins' room was filled with:いとこ部屋は、楽しくトランプを}{ruby:laughter as they enjoyed their card game...:遊ぶ笑い声に満ちていた…。}`
+`{ruby:"Whoooooooa, so you really:「うぉおおおおぉ、やっぱり譲}{ruby:did have it, George‐aniki!:治の兄貴が持ってたかぁ！}`
+`{ruby:Damn you...damn you,:憎い、スペードの６が}{ruby:six of spaa{-}a{-}a{-}a{-}a{-}ades!":憎いぃいぃ！」}`
+`{ruby:"Your eight of diamonds:「戦人のダイヤの８も}{ruby:was pretty nasty too.:エグかったぜ。}`
+`{ruby:Aah, I was:あーもー、悔しいッ、あ}{ruby:so close, aha{0}ha{0}ha{0}ha{0}ha!":っははははは！」}`
 `{ruby:"Uu‐uu‐uu!!:「うーうーうー！！}`
-`{ruby:You're incredible, George onii‐chan! You won again!!":譲治お兄ちゃんすごい、また勝ったー！！」}`
+`{ruby:You're incredible, George:譲治お兄ちゃんすごい、ま}{ruby:onii‐chan! You won again!!":た勝ったー！！」}`
 `{ruby:"Yep, looks like we've won again.:「そうだよ、また僕たちの勝ちだね。}`
 `{ruby:Ahahahahaha.":あはははははは」}`
-`{ruby:Maria couldn't really hold her own in an all‐out battle.:本気勝負になったら真里亞は歯が立たない。}`
-`{ruby:So, she had teamed up with George, which was why she was celebrating his victory.:だから譲治と組んでいることになっていたので、譲治の勝利に大喜びする。}`
+`{ruby:Maria couldn't really hold her:本気勝負になったら真里}{ruby:own in an all‐out battle.:亞は歯が立たない。}`
+`{ruby:So, she had teamed up with George,:だから譲治と組んでいることになってい}{ruby:which was why she was celebrating his victory.:たので、譲治の勝利に大喜びする。}`
 `{ruby:"......Gah.....................:「………く、…………………。}`
 `{ruby:......Utter defeat.":……完敗です」}`
-`{ruby:Kanon winced and let his cards drop to the table.:嘉音は苦々しく、手持ちのカードをバラりとテーブルに零す。}`
-`{ruby:The game of sevens that Kanon and the cousins had been playing had been a fierce battle.:いとこたちと嘉音の５人での七並べは、熱戦だった。}`
-`{ruby:Normally, they would take things easy since Maria was there, so this sort of game was rare.:普段なら、真里亞もいるわけだから、のんびりとしたゲームになるのに、今日は珍しい。}`
-`{ruby:Kanon had started taking the game seriously, unwilling to lose,:負けず嫌いの嘉音が大真面目に勝負を挑んできたため、}`
-`{ruby:so George and Battler had responded and the battle had grown fierce.:譲治も戦人もそれを受けて立ち、徹底的に堰き止めあう苛烈なバトルに展開したためだ。}`
-`{ruby:Unlike Battler, who was carefree enough to enjoy it whether he won or lost, Kanon's mood changed drastically with every victory and defeat.:勝ちも負けも、あっけらかんと楽しむ戦人に比べると、嘉音は勝敗に激しく一喜一憂しているようだった。}`
-`{ruby:......It was less of a dislike for losing and more that he just wasn't used to playing games.:……負けず嫌いというよりは、遊び慣れていないのだ。}`
-`{ruby:He wasn't used to the idea that "you win some, you lose some",:勝ったり負けたりというやり取りに慣れていないから、}`
-`{ruby:so even a loss in a game played for fun was something he took very seriously.:遊びの負けにも大真面目になってしまう。}`
-`{ruby:Since he had resolved to win and had unfortunately challenged the veteran players George and Battler,:そんな彼が勝ちに固執して戦って、ベテランの譲治や戦人を挑発してしまったら、}`
+`{ruby:Kanon winced and let his:嘉音は苦々しく、手持ちのカード}{ruby:cards drop to the table.:をバラりとテーブルに零す。}`
+`{ruby:The game of sevens that Kanon and the:いとこたちと嘉音の５人での}{ruby:cousins had been playing had been a fierce battle.:七並べは、熱戦だった。}`
+`{ruby:Normally, they would take things easy since Maria:普段なら、真里亞もいるわけだから、のんびり}{ruby:was there, so this sort of game was rare.:としたゲームになるのに、今日は珍しい。}`
+`{ruby:Kanon had started taking the:負けず嫌いの嘉音が大真面目に}{ruby:game seriously, unwilling to lose,:勝負を挑んできたため、}`
+`{ruby:so George and Battler had responded:譲治も戦人もそれを受けて立ち、徹底的に堰き}{ruby:and the battle had grown fierce.:止めあう苛烈なバトルに展開したためだ。}`
+`{ruby:Unlike Battler, who was carefree enough to enjoy it whether he:勝ちも負けも、あっけらかんと楽しむ戦人に比べると、}{ruby:won or lost, Kanon's mood changed drastically with every victory and defeat.:嘉音は勝敗に激しく一喜一憂しているようだった。}`
+`{ruby:......It was less of a dislike for losing and:……負けず嫌いというよりは、}{ruby:more that he just wasn't used to playing games.:遊び慣れていないのだ。}`
+`{ruby:He wasn't used to the idea:勝ったり負けたりというやり取}{ruby:that "you win some, you lose some",:りに慣れていないから、}`
+`{ruby:so even a loss in a game played:遊びの負けにも大真面目}{ruby:for fun was something he took very seriously.:になってしまう。}`
+`{ruby:Since he had resolved to win and had:そんな彼が勝ちに固執して戦って、ベテラン}{ruby:unfortunately challenged the veteran players George and Battler,:の譲治や戦人を挑発してしまったら、}`
 `{ruby:the result was plain to see.:結果は火を見るより明らかなのだ。}`
-`{ruby:As Kanon slumped his shoulders, Jessica slapped him on the back.:がっくりと肩を落とす嘉音の肩を、朱志香が叩く。}`
+`{ruby:As Kanon slumped his shoulders,:がっくりと肩を落とす嘉音の}{ruby:Jessica slapped him on the back.:肩を、朱志香が叩く。}`
 `{ruby:"Hey, you almost had it...!:「惜しかった惜しかった…！}`
 `{ruby:Ahaha, but man, I love this stuff!:あははっ、でも、楽しいぜ。}`
 `{ruby:Fighting all‐out!":本気で戦うのはね！」}`
-`{ruby:"......Whether I go all‐out or not, it's all meaningless if I lose in the end...":「……本気だろうとそうでなかろうと、結果が負けでは何の意味も…」}`
+`{ruby:"......Whether I go all‐out or not, it's:「……本気だろうとそうでなかろうと}{ruby:all meaningless if I lose in the end...":、結果が負けでは何の意味も…」}`
 `{ruby:"Are you kidding me?:「とんでもない。}`
-`{ruby:If you really give it your all, you can feel good about yourself even if you lose.:本気で戦った結果の負けなら清々しいもんだぜ。}`
-`{ruby:If you lose after hardly trying, then you feel like grumbling and complaining about how you'd have won if you'd taken it seriously, right?":いい加減に戦っての負けじゃ、本気出してたら勝ってた云々で未練タラタラでしょ？」}`
+`{ruby:If you really give it your all, you:本気で戦った結果の負けな}{ruby:can feel good about yourself even if you lose.:ら清々しいもんだぜ。}`
+`{ruby:If you lose after hardly trying, then you feel like grumbling and:いい加減に戦っての負けじゃ、本気出してたら}{ruby:complaining about how you'd have won if you'd taken it seriously, right?":勝ってた云々で未練タラタラでしょ？」}`
 `{ruby:"That's right.:「そうだな。}`
-`{ruby:People who really give it their all never complain.:全力を尽くしたヤツは言い訳しない。}`
-`{ruby:Those guys are always cheery no matter what the result.":そして、結果にかかわらず爽やかなもんさ」}`
+`{ruby:People who really give:全力を尽くしたヤツは}{ruby:it their all never complain.:言い訳しない。}`
+`{ruby:Those guys are always cheery:そして、結果にかかわら}{ruby:no matter what the result.":ず爽やかなもんさ」}`
 `{ruby:"That's right.:「そうだね。}`
-`{ruby:And those people are scarier than anyone else.:そしてそういう人間が一番怖いのさ。}`
-`{ruby:They always learn something from their experience and grow.":そこから必ず何かを学び、成長するからね」}`
+`{ruby:And those people are:そしてそういう人間が}{ruby:scarier than anyone else.:一番怖いのさ。}`
+`{ruby:They always learn something:そこから必ず何かを学び}{ruby:from their experience and grow.":、成長するからね」}`
 `{ruby:"......Very true.:「……確かに。}`
-`{ruby:...I was a coward, so I could never learn anything.:…僕は臆病だから、何も学ばなかった。}`
+`{ruby:...I was a coward, so:…僕は臆病だから、何}{ruby:I could never learn anything.:も学ばなかった。}`
 `{ruby:...So even now, I am yet to mature.":…だから、未だに未熟なんだ」}`
-`{ruby:I am furniture, so it is useless to dream.:家具だから、何を夢見ても無駄。}`
-`{ruby:{n}Because he had rigidly believed that, he had distanced himself from everything and shut himself away.:{n}そう決め付け、全てから自分を遠ざけ閉じ篭っていた。}`
-`{ruby:However, during that time, Shannon had undergone many life adventures.:しかしその間に紗音は、いくつもの人生の冒険を繰り広げた。}`
-`{ruby:And now, her hand rested on the door separating furniture and {y:0:Human}{n:0:human}s......:そして今、家具からニンゲンへと続く扉に、手を掛けている……。}`
-`{ruby:The old Kanon would only have seen this card game as a way to pass the time.:これまでの嘉音だったら、このトランプは、ただの付き合いに過ぎない。}`
-`{ruby:However, ......the new Kanon was now capable of gaining something new from this experience.:しかし、……今の嘉音は、そこからも、何かを得ることが出来るようになっていた。}`
-`{ruby:That could probably be called...growth.:それを多分、成長と呼ぶ。}`
-`{ruby:{n}Furniture does nothing but rot with the passage of time.:{n}家具は、時を経ても朽ちていくだけだ。}`
-`{ruby:Being able to grow......is a privilege given only to {y:0:Human}{n:0:human}s.:成長できるのは、……ニンゲンだけの特権なのだ。}`
+`{ruby:I am furniture, so:家具だから、何を夢}{ruby:it is useless to dream.:見ても無駄。}`
+`{ruby:{n}Because he had rigidly believed that, he had:{n}そう決め付け、全てから自}{ruby:distanced himself from everything and shut himself away.:分を遠ざけ閉じ篭っていた。}`
+`{ruby:However, during that time, Shannon:しかしその間に紗音は、いくつも}{ruby:had undergone many life adventures.:の人生の冒険を繰り広げた。}`
+`{ruby:And now, her hand rested on:そして今、家具からニンゲンへと続}{ruby:the door separating furniture and {y:0:Human}{n:0:human}s......:く扉に、手を掛けている……。}`
+`{ruby:The old Kanon would only have seen this:これまでの嘉音だったら、このトランプ}{ruby:card game as a way to pass the time.:は、ただの付き合いに過ぎない。}`
+`{ruby:However, ......the new Kanon was now capable:しかし、……今の嘉音は、そこからも、何か}{ruby:of gaining something new from this experience.:を得ることが出来るようになっていた。}`
+`{ruby:That could:それを多分、成}{ruby:probably be called...growth.:長と呼ぶ。}`
+`{ruby:{n}Furniture does nothing but rot:{n}家具は、時を経ても}{ruby:with the passage of time.:朽ちていくだけだ。}`
+`{ruby:Being able to grow......is a:成長できるのは、……ニンゲ}{ruby:privilege given only to {y:0:Human}{n:0:human}s.:ンだけの特権なのだ。}`
 `{ruby:"Thanks for playing with us.:「一緒に遊んでくれてありがとう。}`
-`{ruby:You probably had work to do, like filling in the log, right...?:日誌とか書いたり、忙しかったんだろ…？}`
-`{ruby:Seriously, thanks for going along with us.":付き合ってくれて、本当にサンキューだぜ」}`
+`{ruby:You probably had work to do,:日誌とか書いたり、忙し}{ruby:like filling in the log, right...?:かったんだろ…？}`
+`{ruby:Seriously, thanks for:付き合ってくれて、本当に}{ruby:going along with us.":サンキューだぜ」}`
 `{ruby:"......Not at all.:「……いいえ。}`
 `{ruby:I had fun too.:僕も楽しかったです。}`
-`{ruby:......Or perhaps I should say......I now understand why doing things like that is fun.:……いえ、……これが楽しいことなんだって、理解できました。}`
-`{ruby:Thank you very much for forcing me to come.":僕を無理に誘ってくれて、ありがとうございます」}`
-`{ruby:"Let's challenge ourselves more and more.:「私たちはさ、もっともっと色々なことに挑戦していこう。}`
-`{ruby:And let's go and find more and more things you didn't know about.":そして、君が知らなかったものを探しに行こう」}`
+`{ruby:......Or perhaps I should say......I now understand:……いえ、……これが楽しいことな}{ruby:why doing things like that is fun.:んだって、理解できました。}`
+`{ruby:Thank you very much:僕を無理に誘ってくれて、あ}{ruby:for forcing me to come.":りがとうございます」}`
+`{ruby:"Let's challenge ourselves:「私たちはさ、もっともっと色々}{ruby:more and more.:なことに挑戦していこう。}`
+`{ruby:And let's go and find more:そして、君が知らなかった}{ruby:and more things you didn't know about.":ものを探しに行こう」}`
 `{ruby:"......O‐:「……あ、}`
 `{ruby:oh,:あー、}`
 `{ruby:so,:それでー、}`
 `{ruby:about what we were talking about...:さっきの話だけどさ。}`
 `{ruby:Do you wanna try, like, ...g‐guitar?:ギ、ギターとか興味ない？}`
-`{ruby:I, I mean, it's not like you have to or anything, but...":い、いやぁ、別に無理にとは言わないけどその、」}`
+`{ruby:I, I mean, it's not like:い、いやぁ、別に無理にとは}{ruby:you have to or anything, but...":言わないけどその、」}`
 `{ruby:".........It must be very difficult.":「………きっと、難しいでしょうね」}`
 `{ruby:"Y‐yeah, I guess.:「ま、まぁね。}`
-`{ruby:But I'll do a good job teaching you, and I'll even practice with you.:でもさ、そこは丁寧に教えるし、練習は私も付き合うからっ。}`
-`{ruby:Well, I guess I'm not that much of an expert myself, hahaha...":まぁ、言うほど私もうまくないんだけどね、ははは…」}`
-`{ruby:At first, Kanon was scared of touching a musical instrument for the first time in his life, certain he would make a complete fool of himself.:嘉音は最初、ギターという初めての楽器に触れれば、無様な醜態を晒すに違いないと恐れていた。}`
-`{ruby:......He knew that screwing up like that would make him feel bad.:……その醜態が、自分を不愉快にさせることをわかっていたからだ。}`
-`{ruby:......However, Kanon was starting to learn.:……しかし、嘉音は少しずつ学び始めている。}`
-`{ruby:"It's only natural that I'll be bad when I first start.:「初めてで下手なのは、当たり前です。}`
-`{ruby:......If I just try to run away from that, I'll never learn a thing for all eternity.:……それから逃げてたら、永遠に何も、学べない。}`
+`{ruby:But I'll do a good job teaching:でもさ、そこは丁寧に教えるし、}{ruby:you, and I'll even practice with you.:練習は私も付き合うからっ。}`
+`{ruby:Well, I guess I'm not that:まぁ、言うほど私もうまくない}{ruby:much of an expert myself, hahaha...":んだけどね、ははは…」}`
+`{ruby:At first, Kanon was scared of touching a musical instrument for the first:嘉音は最初、ギターという初めての楽器に触れれば}{ruby:time in his life, certain he would make a complete fool of himself.:、無様な醜態を晒すに違いないと恐れていた。}`
+`{ruby:......He knew that screwing up like:……その醜態が、自分を不愉快にさせ}{ruby:that would make him feel bad.:ることをわかっていたからだ。}`
+`{ruby:......However, Kanon was:……しかし、嘉音は少しず}{ruby:starting to learn.:つ学び始めている。}`
+`{ruby:"It's only natural that I'll:「初めてで下手なのは}{ruby:be bad when I first start.:、当たり前です。}`
+`{ruby:......If I just try to run away from:……それから逃げてたら、永}{ruby:that, I'll never learn a thing for all eternity.:遠に何も、学べない。}`
 `{ruby:I'll never achieve anything.":何にも、至れない」}`
 `{ruby:"Yep.:「そうさ。}`
-`{ruby:Isn't that why people love it when they feel themselves improving?:だからこそ人は、上達を実感して面白くなるんじゃねぇかよ。}`
-`{ruby:Even I sucked at making my left and right hands move at the same time when I first started...!:私だって最初はさ、右手と左手が別々に動くってだけでもう全然駄目だったぜ…！}`
-`{ruby:But I slowly got the knack of it, and it started to feel more and more natural...!":でも少しずつコツがわかってくるとさ、だんだん当たり前になってきて…！」}`
+`{ruby:Isn't that why people love:だからこそ人は、上達を実感して}{ruby:it when they feel themselves improving?:面白くなるんじゃねぇかよ。}`
+`{ruby:Even I sucked at making my left and right:私だって最初はさ、右手と左手が別々に動く}{ruby:hands move at the same time when I first started...!:ってだけでもう全然駄目だったぜ…！}`
+`{ruby:But I slowly got the knack of it,:でも少しずつコツがわかってくるとさ、だ}{ruby:and it started to feel more and more natural...!":んだん当たり前になってきて…！」}`
 `{ruby:"........................:「……………………。}`
-`{ruby:......I'd like to reach that level too.:……僕も、その境地に至りたいです。}`
-`{ruby:If one path to that goal is playing music with you, Milady, ......I would love to do that with you.":その為の道の一つにお嬢様との音楽活動があるなら、……ぜひご一緒させて下さい」}`
+`{ruby:......I'd like to:……僕も、その境地に}{ruby:reach that level too.:至りたいです。}`
+`{ruby:If one path to that goal is playing music with:その為の道の一つにお嬢様との音楽活動があ}{ruby:you, Milady, ......I would love to do that with you.":るなら、……ぜひご一緒させて下さい」}`
 `{ruby:"R‐really...?!":「ほ、本当に…？！」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:......I'm sure I'll be horrible when I start, and I might even make you lose hope in me at times.:……きっと最初は不出来で、お嬢様を失望させてしまうこともあるでしょう。}`
-`{ruby:......But if I've given it my all, I can take failure in my stride.:……でも、本気でやっての失敗だったら、それは清々しいものに違いないと。}`
-`{ruby:......That's what I learned from you all just now.":……さっきお嬢様たちに教わりましたから」}`
+`{ruby:......I'm sure I'll be horrible when I start, and I:……きっと最初は不出来で、お嬢様を失望}{ruby:might even make you lose hope in me at times.:させてしまうこともあるでしょう。}`
+`{ruby:......But if I've given it my all,:……でも、本気でやっての失敗だったら、}{ruby:I can take failure in my stride.:それは清々しいものに違いないと。}`
+`{ruby:......That's what I learned:……さっきお嬢様たちに}{ruby:from you all just now.":教わりましたから」}`
 `{ruby:"......Hahahahahahaha,:「……はははははは。}`
 `{ruby:you're embarrassing me...":照れるぜ…」}`
-`{ruby:"Now, .........I love you even more, Milady.:「お嬢様のことを、………もっと好きになりました。}`
-`{ruby:Because I averted my eyes for so long, even though you shone like the sun,:あなたは、太陽のような人なのに、僕が目を背けていたから、}`
-`{ruby:I never noticed you when you were right there next to me...":こんなにもずっと近くにいたのに、それに気付けなかった…」}`
+`{ruby:"Now, .........I love:「お嬢様のことを、………も}{ruby:you even more, Milady.:っと好きになりました。}`
+`{ruby:Because I averted my eyes for so:あなたは、太陽のような人なのに}{ruby:long, even though you shone like the sun,:、僕が目を背けていたから、}`
+`{ruby:I never noticed you when you:こんなにもずっと近くにいたのに}{ruby:were right there next to me...":、それに気付けなかった…」}`
 `{ruby:"Eheheheh.:「えへへへへ。}`
-`{ruby:Then I'd better work even harder to make you love me even more...:じゃあもっと好きになってもらえるように頑張っちゃうぜ…。}`
+`{ruby:Then I'd better work even harder:じゃあもっと好きになってもらえ}{ruby:to make you love me even more...:るように頑張っちゃうぜ…。}`
 `{ruby:Ehehihi, hahyahyahya...":いやあは、てひゃひゃひゃ…」}`
-`{ruby:Kanon's serious and competitive words were more than enough to make Jessica shy.:勝負同様、全て大真面目な嘉音の言葉は、朱志香を照れさせるには充分だった。}`
-`{ruby:However, Kanon's expression unexpectedly clouded......:しかし不意に、嘉音の表情が曇る……。}`
-`{ruby:".........Milady, the reason I love you is so clear.:「………僕がお嬢様を好きになれる理由は、こんなにもはっきりしています。}`
-`{ruby:......That's why...I can't bear not knowing.":……だから、わからなくて辛いです」}`
+`{ruby:Kanon's serious and competitive words were:勝負同様、全て大真面目な嘉音の言葉は、}{ruby:more than enough to make Jessica shy.:朱志香を照れさせるには充分だった。}`
+`{ruby:However, Kanon's:しかし不意に、嘉音の}{ruby:expression unexpectedly clouded......:表情が曇る……。}`
+`{ruby:".........Milady, the reason I:「………僕がお嬢様を好きになれる理由は}{ruby:love you is so clear.:、こんなにもはっきりしています。}`
+`{ruby:......That's why...I can't:……だから、わからな}{ruby:bear not knowing.":くて辛いです」}`
 `{ruby:"N‐not knowing what......?":「な、何が……？」}`
-`{ruby:"......Why you would start to like me.:「……お嬢様が、僕を好きになる理由です。}`
-`{ruby:.........Unlike you, I do not shine in any sense.:………お嬢様と違い、僕は何も照らしてない。}`
-`{ruby:......Even now, I'm just clinging to your back as you shine the way.:……今だって、お嬢様に照らされながら、その背中に付いて行ってるだけです。}`
-`{ruby:......I can't think of any reason why you would like a wretch like me.":……そんなみすぼらしい僕を、お嬢様が好きになる理由が、……何一つ、思い付かないんです」}`
+`{ruby:"......Why you would:「……お嬢様が、僕を好}{ruby:start to like me.:きになる理由です。}`
+`{ruby:.........Unlike you, I do:………お嬢様と違い、僕は}{ruby:not shine in any sense.:何も照らしてない。}`
+`{ruby:......Even now, I'm just clinging to:……今だって、お嬢様に照らされながら、}{ruby:your back as you shine the way.:その背中に付いて行ってるだけです。}`
+`{ruby:......I can't think of any reason why:……そんなみすぼらしい僕を、お嬢様が好きになる}{ruby:you would like a wretch like me.":理由が、……何一つ、思い付かないんです」}`
 `{ruby:"Th‐......that's not true, okay?!:「そ、……そんなことはないぜ？！}`
-`{ruby:There are all kinds of good things about you, Kanon‐kun...":嘉音くんにだって、いいところはいっぱいある…」}`
-`{ruby:"......Let me swallow my pride and ask.:「……恥を忍んでお聞きします。}`
-`{ruby:......What about me made you like me, Milady?":……お嬢様は、…僕の何が気に入られたのですか」}`
+`{ruby:There are all kinds of:嘉音くんにだって、いいとこ}{ruby:good things about you, Kanon‐kun...":ろはいっぱいある…」}`
+`{ruby:"......Let me swallow:「……恥を忍んでお}{ruby:my pride and ask.:聞きします。}`
+`{ruby:......What about me made:……お嬢様は、…僕の何が気}{ruby:you like me, Milady?":に入られたのですか」}`
 `{ruby:Kanon hung his head.:嘉音は俯く。}`
-`{ruby:......He had never learned anything, so he had never been able to take the lead with her.:……何も学んでこなかった自分に、彼女をリードできるようなことなんて、何一つない。}`
-`{ruby:It made him sad and frustrated that he had always been the one‐sided recipient of her affection...:なのに、一方的に好意を受け、……自分に出来ることが、それに応えるだけだなんて、}`
-`{ruby:...and could do nothing but respond to it.:……悲しくて、……そして自分が悔しかった。}`
+`{ruby:......He had never learned anything, so he had:……何も学んでこなかった自分に、彼女をリー}{ruby:never been able to take the lead with her.:ドできるようなことなんて、何一つない。}`
+`{ruby:It made him sad and frustrated that he:なのに、一方的に好意を受け、……自分に出来}{ruby:had always been the one‐sided recipient of her affection...:ることが、それに応えるだけだなんて、}`
+`{ruby:...and could do nothing:……悲しくて、……そして}{ruby:but respond to it.:自分が悔しかった。}`
 `{ruby:Jessica was lost for words.:朱志香は、掛ける言葉を失う。}`
-`{ruby:......After all, compared to the reason that Kanon had fallen for Jessica,:……嘉音が朱志香を好きになった理由に比べたら、}`
-`{ruby:.........Jessica's reason......was a lot more vague.:………朱志香が嘉音を好きになった理由は、……漠然としたものだったからだ。}`
-`{ruby:She had listened to Shannon talk about her love with George,:紗音から譲治との恋の話を聞かされ、}`
-`{ruby:......and at school, she and her friends always talked about relationships with boys.:……そして学校でも、男女の交際について友人たちと話に花を咲かせていた。}`
-`{ruby:There was nothing strange about a girl fascinated by the idea of romance developing an interest in a nearby member of the opposite sex.:そんな、恋愛に憧れる年頃の彼女のすぐ近くにいる異性に関心が芽生えたとしても、それは何も不思議なことではない。}`
-`{ruby:......However, if she were to put that into words,:……しかし、それを正直に口にすれば、}`
-`{ruby:she would be misinterpreted as saying that any nearby boy would have done just as well......:身近にいる男だったら誰もよかったのかと誤解されてしまう……。}`
-`{ruby:However, ......if nothing else, she knew what she felt at this moment.:でも、……今この瞬間の、自分の気持ちだけは、胸を張れる。}`
-`{ruby:She really did love Kanon, ......and she truly wanted a relationship with him.:嘉音のことが本当に好きで、……本気で恋愛をしたいと思っている。}`
-`{ruby:They might end up together as a result, or they might not.:その結果、結ばれるかもしれないし、結ばれないかもしれない。}`
-`{ruby:But whatever the outcome, she could accept it as long as she held nothing back.:でも、本気での結果なら、そのどちらであっても、受け入れられる。}`
-`{ruby:That allowed her to stay true to her feelings, what she knew she felt right now, and act on them seriously.:だから彼女は、今の自分の感情に素直に、そして本気になれるのだ。}`
-`{ruby:However, ......she couldn't find the right words to tell Kanon this.:でも、それを嘉音にどう伝えればいいか、……うまい言葉が見つけられなかった。}`
-`{ruby:When Kanon saw Jessica bite her lower lip in frustration,:そのもどかしさに下唇を噛む朱志香を見て、}`
+`{ruby:......After all, compared to the reason:……嘉音が朱志香を好きにな}{ruby:that Kanon had fallen for Jessica,:った理由に比べたら、}`
+`{ruby:.........Jessica's reason......was a:………朱志香が嘉音を好きになった理由は}{ruby:lot more vague.:、……漠然としたものだったからだ。}`
+`{ruby:She had listened to Shannon:紗音から譲治との恋の}{ruby:talk about her love with George,:話を聞かされ、}`
+`{ruby:......and at school, she and her:……そして学校でも、男女の交際について}{ruby:friends always talked about relationships with boys.:友人たちと話に花を咲かせていた。}`
+`{ruby:There was nothing strange about a girl fascinated by the idea of:そんな、恋愛に憧れる年頃の彼女のすぐ近くにいる異性に関心}{ruby:romance developing an interest in a nearby member of the opposite sex.:が芽生えたとしても、それは何も不思議なことではない。}`
+`{ruby:......However, if she were:……しかし、それを正}{ruby:to put that into words,:直に口にすれば、}`
+`{ruby:she would be misinterpreted as saying that any:身近にいる男だったら誰もよかった}{ruby:nearby boy would have done just as well......:のかと誤解されてしまう……。}`
+`{ruby:However, ......if nothing else, she knew:でも、……今この瞬間の、自分の}{ruby:what she felt at this moment.:気持ちだけは、胸を張れる。}`
+`{ruby:She really did love Kanon, ......and:嘉音のことが本当に好きで、……本気}{ruby:she truly wanted a relationship with him.:で恋愛をしたいと思っている。}`
+`{ruby:They might end up together as:その結果、結ばれるかもしれないし}{ruby:a result, or they might not.:、結ばれないかもしれない。}`
+`{ruby:But whatever the outcome, she could accept:でも、本気での結果なら、そのどちら}{ruby:it as long as she held nothing back.:であっても、受け入れられる。}`
+`{ruby:That allowed her to stay true to her feelings, what:だから彼女は、今の自分の感情に素直}{ruby:she knew she felt right now, and act on them seriously.:に、そして本気になれるのだ。}`
+`{ruby:However, ......she couldn't find the:でも、それを嘉音にどう伝えればいいか、…}{ruby:right words to tell Kanon this.:…うまい言葉が見つけられなかった。}`
+`{ruby:When Kanon saw Jessica bite:そのもどかしさに下唇を}{ruby:her lower lip in frustration,:噛む朱志香を見て、}`
 `{ruby:............he finally realized...:…………嘉音はようやく悟る…。}`
 `{ruby:"......I'm such a fool.":「……馬鹿だな、僕は」}`
 `{ruby:"Huh?":「え？」}`
 `{ruby:"What about me do you like?:「僕のどこが気に入ったんですかなんて質問。}`
 `{ruby:......That very question is foolish.:……本当に馬鹿らしいと思ったんです。}`
-`{ruby:It's proof that I'm not serious about myself, and that I haven't been able to understand myself.:自分に本気じゃないから、自分のことさえ、理解できてない証拠なんだ。}`
-`{ruby:......It's horrible of me to try and make you say it for me.":……そんなことをお嬢様に言わせようとするなんて、僕は最低だ」}`
+`{ruby:It's proof that I'm not serious about myself,:自分に本気じゃないから、自分のことさ}{ruby:and that I haven't been able to understand myself.:え、理解できてない証拠なんだ。}`
+`{ruby:......It's horrible of me to try:……そんなことをお嬢様に言わせよ}{ruby:and make you say it for me.":うとするなんて、僕は最低だ」}`
 `{ruby:"Th‐that's not true...!:「そ、そんなことないよ…！}`
-`{ruby:A‐after all, it's the first question any girl would like to ask after being given a love confession...!:お、女の子だって男子に告白されたら、最初に聞いてみたい質問だもん…！}`
-`{ruby:Th‐the question "What part of me do you like?"...":じ、自分のどこを気に入ってくれたの、って…」}`
-`{ruby:"It was immature of me to ask you that.:「それを相手に尋ねる時点で、僕は未熟なんです。}`
-`{ruby:How could anyone like someone so immature?":そんな未熟者に、……気に入ってもらえるようなものが、あるわけがない」}`
+`{ruby:A‐after all, it's the first question any girl would:お、女の子だって男子に告白されたら、最}{ruby:like to ask after being given a love confession...!:初に聞いてみたい質問だもん…！}`
+`{ruby:Th‐the question "What part:じ、自分のどこを気に入って}{ruby:of me do you like?"...":くれたの、って…」}`
+`{ruby:"It was immature of:「それを相手に尋ねる時点で}{ruby:me to ask you that.:、僕は未熟なんです。}`
+`{ruby:How could anyone:そんな未熟者に、……気に入ってもらえ}{ruby:like someone so immature?":るようなものが、あるわけがない」}`
 `{ruby:"W‐wait, that's not...":「い、いやそうじゃなくてその、」}`
-`{ruby:Jessica panicked, trying desperately to explain how she felt.:朱志香は焦りながら、何とか自分の気持ちを伝えようとあたふたする。}`
+`{ruby:Jessica panicked, trying desperately:朱志香は焦りながら、何とか自分の気}{ruby:to explain how she felt.:持ちを伝えようとあたふたする。}`
 `{ruby:However, Kanon was calm.:しかし、嘉音は落ち着いていた。}`
 `{ruby:And then, he spoke.:そして、言った。}`
 `{ruby:"In that case,:「だから。}`
-`{ruby:.........I want you to grow to love me...:………僕がお嬢様を好きになるように、}`
+`{ruby:.........I want you to:………僕がお嬢様を好}{ruby:grow to love me...:きになるように、}`
 `{ruby:...the way I already love you.:……お嬢様にも僕を好きになってほしい。}`
-`{ruby:......I've decided to change myself so that can happen.:……その為に、僕は自分を変えていくことにします。}`
-`{ruby:I can't possibly hope for you to love me the way I am.:今はまだこんな自分を、お嬢様に好きになってもらえるとは、到底思えません。}`
-`{ruby:......But someday............no matter what...":……でもいつか、…………必ず」}`
+`{ruby:......I've decided to change:……その為に、僕は自分を変}{ruby:myself so that can happen.:えていくことにします。}`
+`{ruby:I can't possibly hope for you:今はまだこんな自分を、お嬢様に好きにな}{ruby:to love me the way I am.:ってもらえるとは、到底思えません。}`
+`{ruby:......But someday............no:……でもいつか、…}{ruby:matter what...":………必ず」}`
 `{ruby:"......Yeah.:「……あぁ。}`
-`{ruby:I'm absolutely sure you'll become a wonderful person, Kanon‐kun.:絶対、素敵な嘉音くんになれるよ。}`
-`{ruby:A guy so cool that I can't keep my eyes off you.:私がベタベタに惚れちゃうくらいの、素敵な男の子になれる。}`
-`{ruby:Until then, I'll stick by you all the way.:私はそれまで、ずっと一緒にいるから。}`
-`{ruby:......We have all the time in the world...!":……時間なんて、いくらでもある…！」}`
+`{ruby:I'm absolutely sure you'll:絶対、素敵な嘉音く}{ruby:become a wonderful person, Kanon‐kun.:んになれるよ。}`
+`{ruby:A guy so cool that I:私がベタベタに惚れちゃうくらい}{ruby:can't keep my eyes off you.:の、素敵な男の子になれる。}`
+`{ruby:Until then, I'll stick:私はそれまで、ずっと}{ruby:by you all the way.:一緒にいるから。}`
+`{ruby:......We have all the:……時間なんて、いく}{ruby:time in the world...!":らでもある…！」}`
 `{ruby:"..............................:「…………………………。}`
-`{ruby:......Unfortunately, there isn't that much time left.":……ただ時間が、そうないのが、悔やまれます」}`
+`{ruby:......Unfortunately, there isn't:……ただ時間が、そうない}{ruby:that much time left.":のが、悔やまれます」}`
 `{ruby:"......What about time?":「……時間て？」}`
-`{ruby:"When I talk about furniture......it usually saddens you.:「家具の話をすると、……お嬢様が悲しまれます。}`
-`{ruby:......But this is something I must talk to you about.:……でも、話さなければなりません。}`
-`{ruby:And it is also something I must fight for with all my soul.":そしてそれは、僕が本気で戦わなければならないことでも、あるのです」}`
+`{ruby:"When I talk about:「家具の話をすると、……お}{ruby:furniture......it usually saddens you.:嬢様が悲しまれます。}`
+`{ruby:......But this is something I:……でも、話さなけれ}{ruby:must talk to you about.:ばなりません。}`
+`{ruby:And it is also something I:そしてそれは、僕が本気で戦わなければ}{ruby:must fight for with all my soul.":ならないことでも、あるのです」}`
 `{ruby:"What are you talking about...?:「何の話……？}`
-`{ruby:I don't want to hear any more of that "I'm furniture so I can't fall in love" talk.:家具だから恋ができないとか、そういう話ならもう、聞きたくないよ。}`
-`{ruby:You're a {y:0:Human}{n:0:human}, not furniture...!":嘉音くんは家具なんかじゃない、ニンゲンだよ…！」}`
+`{ruby:I don't want to hear any more of that:家具だから恋ができないとか、そういう}{ruby:"I'm furniture so I can't fall in love" talk.:話ならもう、聞きたくないよ。}`
+`{ruby:You're a:嘉音くんは家具なんかじゃな}{ruby:{y:0:Human}{n:0:human}, not furniture...!":い、ニンゲンだよ…！」}`
 `{ruby:"I understand.:「はい。}`
-`{ruby:That's why I intend to become {y:0:Human}{n:0:human}.:だから、ニンゲンになろうと思います。}`
+`{ruby:That's why I:だから、ニンゲンにな}{ruby:intend to become {y:0:Human}{n:0:human}.:ろうと思います。}`
 `{ruby:But at the moment, I am furniture.":ですが、まだ家具なんです」}`
-`{ruby:"Just do it, then! Become {y:0:Human}{n:0:human}...!":「なら、なろうよ、ニンゲンに…！」}`
+`{ruby:"Just do it,:「なら、なろうよ、ニ}{ruby:then! Become {y:0:Human}{n:0:human}...!":ンゲンに…！」}`
 `{ruby:"The witch taught me once.:「かつて魔女は、教えてくれました。}`
-`{ruby:......The single element of this world.:……この世の一なる元素。}`
+`{ruby:......The single element:……この世の一}{ruby:of this world.:なる元素。}`
 `{ruby:She said it was love.:それは愛だと。}`
-`{ruby:......It's something that {y:0:Human}{n:0:human}s born into this world can take for granted.":……それは、この世に住まうニンゲンは、当たり前のように享受できるものです」}`
-`{ruby:"......However, it is not something that those not from this world, who were born as furniture, can take for granted.:「……しかし、家具として生み出された、この世ならざる身には、当たり前ではないのです。}`
-`{ruby:.........In order to gain it for themselves, they must have magic or a miracle.":………その当たり前でないものを得るには、魔法か、奇跡が必要なんです」}`
-`{ruby:......In the same way that Nee‐san and George‐sama...:……姉さんと譲治さまとて、}`
-`{ruby:...would never have ended up as they have without borrowing the power of that golden butterfly brooch.:……あの黄金蝶のブローチの魔法を借りなければ、今日を迎えられなかったように。}`
+`{ruby:......It's something that {y:0:Human}{n:0:human}s born into:……それは、この世に住まうニンゲンは、当}{ruby:this world can take for granted.":たり前のように享受できるものです」}`
+`{ruby:"......However, it is not something that those not from this:「……しかし、家具として生み出された、この世}{ruby:world, who were born as furniture, can take for granted.:ならざる身には、当たり前ではないのです。}`
+`{ruby:.........In order to gain it for themselves,:………その当たり前でないものを得るに}{ruby:they must have magic or a miracle.":は、魔法か、奇跡が必要なんです」}`
+`{ruby:......In the same way:……姉さんと譲治}{ruby:that Nee‐san and George‐sama...:さまとて、}`
+`{ruby:...would never have ended up as they have:……あの黄金蝶のブローチの魔法を借りなけ}{ruby:without borrowing the power of that golden butterfly brooch.:れば、今日を迎えられなかったように。}`
 `{ruby:"I don't really get this last part.":「さっきから、これがわからないの」}`
-`{ruby:"......What is it that you do not understand?:「……何がわからぬというか。}`
+`{ruby:"......What is it that:「……何がわから}{ruby:you do not understand?:ぬというか。}`
 `{ruby:......Let me hear it.":……聞かせよ」}`
-`{ruby:"Since this game began, ......a large portion of the time has been spent on Shannon and Kanon's determination to fall in love.:「今回のゲームが始まり、……短くない時間が、紗音や嘉音の恋への決意に割かれてきたわ。}`
-`{ruby:......I have no problem with interpreting that as a story of growth and teenage determination for a girl and boy who call themselves furniture.:……それ自体は、自らを家具と蔑んできた少年少女の、青春の決意と成長の物語と、好意的に見てもいい。}`
-`{ruby:However, one of the assumptions they make feels really out of place to me.":でも、二人のある前提に、さっきから強い違和感を覚えるの」}`
-`{ruby:"...............‘Why is magic necessary?’:「……………なぜ、魔法が必要なのか。}`
+`{ruby:"Since this game began, ......a large portion of the time has:「今回のゲームが始まり、……短くない時間が、}{ruby:been spent on Shannon and Kanon's determination to fall in love.:紗音や嘉音の恋への決意に割かれてきたわ。}`
+`{ruby:......I have no problem with interpreting that as a story of growth:……それ自体は、自らを家具と蔑んできた少年少女の、}{ruby:and teenage determination for a girl and boy who call themselves furniture.:青春の決意と成長の物語と、好意的に見てもいい。}`
+`{ruby:However, one of the assumptions they make:でも、二人のある前提に、さっき}{ruby:feels really out of place to me.":から強い違和感を覚えるの」}`
+`{ruby:"...............‘Why is:「……………なぜ、魔}{ruby:magic necessary?’:法が必要なのか。}`
 `{ruby:......Is that it...?":……であるか…？」}`
-`{ruby:"Both Shannon and Kanon—no, I'll purposefully refer to them as "furniture".:「紗音も嘉音も、……いえ、あえて“家具”と呼ぶわ。}`
-`{ruby:......The {i:furniture} has always claimed that there cannot be love between furniture and {y:0:Human}{n:0:human}s.:……家具たちは最初から一貫して、ニンゲンとは恋愛が出来ないと主張してきた。}`
-`{ruby:That's where the magic of the golden butterfly brooch came into play—it was the miraculous result of that magic that love was established between Shannon and George onii‐chan.:そこに、黄金蝶のブローチという魔法が介在し、その魔法という奇跡の結果、譲治お兄ちゃんとの恋愛が成立した。}`
+`{ruby:"Both Shannon and Kanon—no, I'll:「紗音も嘉音も、……いえ、あ}{ruby:purposefully refer to them as "furniture".:えて“家具”と呼ぶわ。}`
+`{ruby:......The {i:furniture} has always claimed that there:……家具たちは最初から一貫して、ニンゲン}{ruby:cannot be love between furniture and {y:0:Human}{n:0:human}s.:とは恋愛が出来ないと主張してきた。}`
+`{ruby:That's where the magic of the golden butterfly brooch came into play—it was the:そこに、黄金蝶のブローチという魔法が介在し、その魔法と}{ruby:miraculous result of that magic that love was established between Shannon and George onii‐chan.:いう奇跡の結果、譲治お兄ちゃんとの恋愛が成立した。}`
 `{ruby:That's what they claim.":そう主張してるわ」}`
-`{ruby:"Surely it would not be a stretch if they thought that forbidden love across class boundaries...:「身分の違いによる、許されぬ恋が実るには、}`
-`{ruby:...could never bear fruit without a miracle of magic......?":……魔法の奇跡でもないことには有り得ぬと、そう考えたとしても無理はあるまい……？」}`
+`{ruby:"Surely it would not be a stretch if:「身分の違いによる、許さ}{ruby:they thought that forbidden love across class boundaries...:れぬ恋が実るには、}`
+`{ruby:...could never bear fruit:……魔法の奇跡でもないことには有り得ぬと、そ}{ruby:without a miracle of magic......?":う考えたとしても無理はあるまい……？」}`
 `{ruby:"Oh, I agree.:「そうね。}`
-`{ruby:Shannon and Kanon are both servants in love with members of the Ushiromiya family,:だから、使用人の身分である紗音と嘉音が、ともに右代宮家の人間に恋をし、}`
-`{ruby:so it makes perfect sense to me that they might disparage themselves as furniture while suffering from their forbidden love.":許されざる恋に苦悩して、自らを家具と卑下したとしても、それは納得できるの」}`
-`{ruby:"......Then what is it that does not make sense to you...?":「……では、そなたの納得できない点とは…？」}`
-`{ruby:"‘Without the power of magic once more, marriage will be impossible’.:「“再び魔法の力がなければ、結婚は出来ない”。}`
-`{ruby:......Shannon and Kanon both seem to share that view.:……それが紗音と嘉音の、二人の共通認識になってる。}`
-`{ruby:......That's the part that I just can't understand.":……これがどうしても、よく理解できないの」}`
-`{ruby:After meeting in secret for quite some time, George and Shannon had finally gotten engaged.:譲治と紗音は、短くない逢瀬を重ね、とうとう婚約にまで至った。}`
-`{ruby:Both were fully prepared for it emotionally,:二人には充分な心の準備があり、}`
-`{ruby:and though there would be some trouble with the relatives, it had gotten to the point where it would probably be impossible for anyone to prevent their marriage.:親族的な意味で多少の波乱はありつつも、もう二人の結婚を阻むことは誰にも出来ないだろう。}`
-`{ruby:".........Trying to stand between two who wish to be wed is as foolish as standing in the path of an arrow in flight and trying to catch it.":「………結ばれようとする二人の間に立つなぞ、飛ぶ矢の前に立ちて、それを掴もうとするにも等しい愚行よ」}`
+`{ruby:Shannon and Kanon are both servants in:だから、使用人の身分である紗音と嘉音が}{ruby:love with members of the Ushiromiya family,:、ともに右代宮家の人間に恋をし、}`
+`{ruby:so it makes perfect sense to me that they might:許されざる恋に苦悩して、自らを家具と卑下}{ruby:disparage themselves as furniture while suffering from their forbidden love.":したとしても、それは納得できるの」}`
+`{ruby:"......Then what is it that:「……では、そなたの納得}{ruby:does not make sense to you...?":できない点とは…？」}`
+`{ruby:"‘Without the power of magic:「“再び魔法の力がなければ}{ruby:once more, marriage will be impossible’.:、結婚は出来ない”。}`
+`{ruby:......Shannon and Kanon both:……それが紗音と嘉音の、二人}{ruby:seem to share that view.:の共通認識になってる。}`
+`{ruby:......That's the part that:……これがどうしても、よ}{ruby:I just can't understand.":く理解できないの」}`
+`{ruby:After meeting in secret for quite some:譲治と紗音は、短くない逢瀬を重ね}{ruby:time, George and Shannon had finally gotten engaged.:、とうとう婚約にまで至った。}`
+`{ruby:Both were fully:二人には充分な心の}{ruby:prepared for it emotionally,:準備があり、}`
+`{ruby:and though there would be some trouble with the relatives, it had gotten to:親族的な意味で多少の波乱はありつつも、もう二人}{ruby:the point where it would probably be impossible for anyone to prevent their marriage.:の結婚を阻むことは誰にも出来ないだろう。}`
+`{ruby:".........Trying to stand between two who wish to be wed is as foolish as:「………結ばれようとする二人の間に立つなぞ、飛ぶ矢の}{ruby:standing in the path of an arrow in flight and trying to catch it.":前に立ちて、それを掴もうとするにも等しい愚行よ」}`
 `{ruby:"Exactly.:「そういうこと。}`
-`{ruby:George onii‐chan has sworn to protect his partner for the rest of their lives and no longer fears opposition or disinheritance from his parents.:伴侶を生涯、守りきると誓った譲治お兄ちゃんにとって、両親の反対や勘当さえ、恐れるものではない。}`
-`{ruby:......On the contrary, he even considers them to be the perfect tests to demonstrate his love for her.":……むしろ、それらさえも、彼女への愛を示すちょうどいい試練だとさえ思っているわ」}`
-`{ruby:".........In other words, they will be married no matter what.:「………つまり、二人は必ず結婚する。}`
+`{ruby:George onii‐chan has sworn to protect his partner for the rest of:伴侶を生涯、守りきると誓った譲治お兄ちゃんにとって}{ruby:their lives and no longer fears opposition or disinheritance from his parents.:、両親の反対や勘当さえ、恐れるものではない。}`
+`{ruby:......On the contrary, he even considers them to be:……むしろ、それらさえも、彼女への愛を示す}{ruby:the perfect tests to demonstrate his love for her.":ちょうどいい試練だとさえ思っているわ」}`
+`{ruby:".........In other words, they will:「………つまり、二人}{ruby:be married no matter what.:は必ず結婚する。}`
 `{ruby:No one can stop them.:誰も拒めない。}`
-`{ruby:And they have both consented to the engagement.":そして二人は婚約を快諾した」}`
+`{ruby:And they have both:そして二人は婚約}{ruby:consented to the engagement.":を快諾した」}`
 `{ruby:"No one can stop them or impede them.:「誰にも拒めない、阻めない。}`
-`{ruby:Trying to break apart lovers is a foolhardy venture...":馬に蹴られて何とやらであるな…」}`
+`{ruby:Trying to break apart:馬に蹴られて何とや}{ruby:lovers is a foolhardy venture...":らであるな…」}`
 `{ruby:"Yeah.:「そう。}`
 `{ruby:And that's what's strange.:だから不思議なの。}`
 `{ruby:There's no need for magic.":魔法なんて、必要ない」}`
 `{ruby:If George and Shannon...:もしも。}`
-`{ruby:...had wanted Eva's approval for their engagement...:……譲治と紗音に、自分たちの婚約を絵羽に認めてもらいたいという気持ちがあったなら。}`
-`{ruby:.........then magic really might have been necessary.:………確かに魔法が必要だろう。}`
-`{ruby:After all, Eva had forbidden his relationship with her.:絵羽は、紗音との交際を否定しているのだから。}`
-`{ruby:No matter how much George spoke on Shannon's behalf, the chances of Eva being convinced were virtually zero.:譲治がいくら、紗音のことを語ろうとも、絵羽を説得できる確率はゼロに等しい。}`
-`{ruby:If that were the case, it would be understandable if they wanted a magical miracle to make Eva acknowledge their engagement.:それならば再び、魔法の奇跡で、絵羽にも婚約を認めて欲しいという気持ちが生まれても、理解は出来る。}`
-`{ruby:"But George onii‐chan has already sworn to it.:「しかし、譲治お兄ちゃんはきっぱりと誓ってるわ。}`
-`{ruby:He doesn't care whether his parents approve of the engagement or not.:両親に婚約を認められなくても構わないと。}`
+`{ruby:...had wanted Eva's:……譲治と紗音に、自分たちの婚約を絵羽に認め}{ruby:approval for their engagement...:てもらいたいという気持ちがあったなら。}`
+`{ruby:.........then magic really:………確かに魔法が}{ruby:might have been necessary.:必要だろう。}`
+`{ruby:After all, Eva had:絵羽は、紗音との交際を否}{ruby:forbidden his relationship with her.:定しているのだから。}`
+`{ruby:No matter how much George spoke on Shannon's behalf,:譲治がいくら、紗音のことを語ろうとも、絵}{ruby:the chances of Eva being convinced were virtually zero.:羽を説得できる確率はゼロに等しい。}`
+`{ruby:If that were the case, it would be understandable if:それならば再び、魔法の奇跡で、絵羽にも婚約を認めて}{ruby:they wanted a magical miracle to make Eva acknowledge their engagement.:欲しいという気持ちが生まれても、理解は出来る。}`
+`{ruby:"But George onii‐chan has:「しかし、譲治お兄ちゃんは}{ruby:already sworn to it.:きっぱりと誓ってるわ。}`
+`{ruby:He doesn't care whether his parents:両親に婚約を認められな}{ruby:approve of the engagement or not.:くても構わないと。}`
 `{ruby:......Yeah.:……そう。}`
-`{ruby:There's nothing standing in the way of their engagement.:二人の婚約を阻む理由は、何も存在しないの。}`
-`{ruby:And Shannon should know that well herself.:そしてそれは紗音だってよく知ってるはず。}`
-`{ruby:So why is it that now, on this night where the proposal went so smoothly, she's still praying for a miracle of magic?":なのになぜ、彼女はこの順風満帆の婚約を受けたこの夜に、なおも魔法の奇跡を祈るの？」}`
-`{ruby:"......Without such a miracle, she will not have the right to marry,:「……魔法の奇跡を得なければ、結ばれる資格もないというのが、}`
+`{ruby:There's nothing standing in:二人の婚約を阻む理由は、}{ruby:the way of their engagement.:何も存在しないの。}`
+`{ruby:And Shannon should:そしてそれは紗音だって}{ruby:know that well herself.:よく知ってるはず。}`
+`{ruby:So why is it that now, on this night where the:なのになぜ、彼女はこの順風満帆の婚約を受けた}{ruby:proposal went so smoothly, she's still praying for a miracle of magic?":この夜に、なおも魔法の奇跡を祈るの？」}`
+`{ruby:"......Without such a miracle, she will:「……魔法の奇跡を得なければ、結}{ruby:not have the right to marry,:ばれる資格もないというのが、}`
 `{ruby:is what the furniture claim...":家具たちの主張であるな…」}`
 `{ruby:"And there you go.:「つまりこういうこと。}`
-`{ruby:It means that Shannon has accepted George's proposal,:紗音は譲治の婚約を受けているけど。}`
-`{ruby:......but she knows that there's still some kind of obstacle remaining that can't be overcome without a magical miracle.:……魔法の奇跡がなければ成就されない障害が残っていると知っていることになる。}`
-`{ruby:And that obstacle isn't something that they can overcome by their own efforts.:そしてその障害は、二人の努力では取り除けないとも。}`
-`{ruby:That's why they need this miracle called magic.":だから、魔法という奇跡が必要」}`
+`{ruby:It means that Shannon:紗音は譲治の婚約を受}{ruby:has accepted George's proposal,:けているけど。}`
+`{ruby:......but she knows that there's still some kind of:……魔法の奇跡がなければ成就されない障害}{ruby:obstacle remaining that can't be overcome without a magical miracle.:が残っていると知っていることになる。}`
+`{ruby:And that obstacle isn't something that:そしてその障害は、二人の努力}{ruby:they can overcome by their own efforts.:では取り除けないとも。}`
+`{ruby:That's why they need:だから、魔法という}{ruby:this miracle called magic.":奇跡が必要」}`
 `{ruby:"Why do they need magic?:「どうして魔法がいるの？}`
-`{ruby:If two people love each other, what other miracle could they possibly need to be together?!":愛し合う二人に、結ばれるための他にどんな奇跡が必要だっていうの？！」}`
+`{ruby:If two people love each other, what other:愛し合う二人に、結ばれるための他にどん}{ruby:miracle could they possibly need to be together?!":な奇跡が必要だっていうの？！」}`
 `{ruby:"............Hmm, I see...":「…………ふむ、なるほど…」}`
-`{ruby:{f:5:Featherine} listened to Ange's interpretation, smiling in a satisfied way.:フェザリーヌは縁寿の解釈を聞きながら、満足げに微笑む。}`
-`{ruby:......Apparently, she had already reached that conclusion and was enjoying watching Ange finally manage to do the same.:……すでに彼女も同じ思考に至っており、ようやく縁寿がそれに至ったことを、面白がっているように見えた。}`
-`{ruby:"And that same question applies to Kanon as well.:「そしてその疑問は、嘉音にも向けられるわ。}`
-`{ruby:......The love between him and Jessica onee‐chan has just begun, but their emotions are pure.:……朱志香お姉ちゃんとの恋路は始まったばかりだけど、二人の気持ちはまっすぐ。}`
-`{ruby:There's nothing standing in their way.":何の障害もないわ」}`
-`{ruby:"They're already in a loving relationship even without the golden butterfly brooch.:「黄金蝶のブローチの力なんか関係なく、もう恋仲になれてる。}`
-`{ruby:......It'd be no surprise if the relationship they've started lasts for years and eventually results in marriage.:……何年もの交際を経て、やがては結婚に行き着いても、何もおかしくない。}`
-`{ruby:There's nothing standing in their way either.":こっちも障害は何も存在しないのよ」}`
-`{ruby:"......As long as they do not seek approval from Krauss and Natsuhi, it seems that they will not need a magical miracle either...":「……蔵臼と夏妃に結婚を認めさせようと思わない限り、こちらもまた、魔法の奇跡は必要なさそうであるな…」}`
+`{ruby:{f:5:Featherine} listened to Ange's interpretation,:フェザリーヌは縁寿の解釈を聞き}{ruby:smiling in a satisfied way.:ながら、満足げに微笑む。}`
+`{ruby:......Apparently, she had already reached that conclusion and was:……すでに彼女も同じ思考に至っており、ようやく縁寿が}{ruby:enjoying watching Ange finally manage to do the same.:それに至ったことを、面白がっているように見えた。}`
+`{ruby:"And that same question:「そしてその疑問は、嘉音}{ruby:applies to Kanon as well.:にも向けられるわ。}`
+`{ruby:......The love between him and Jessica onee‐chan:……朱志香お姉ちゃんとの恋路は始まったば}{ruby:has just begun, but their emotions are pure.:かりだけど、二人の気持ちはまっすぐ。}`
+`{ruby:There's nothing standing:何の障害もな}{ruby:in their way.":いわ」}`
+`{ruby:"They're already in a loving relationship:「黄金蝶のブローチの力なんか関係}{ruby:even without the golden butterfly brooch.:なく、もう恋仲になれてる。}`
+`{ruby:......It'd be no surprise if the relationship they've:……何年もの交際を経て、やがては結婚に}{ruby:started lasts for years and eventually results in marriage.:行き着いても、何もおかしくない。}`
+`{ruby:There's nothing standing:こっちも障害は何も存}{ruby:in their way either.":在しないのよ」}`
+`{ruby:"......As long as they do not seek approval from Krauss and:「……蔵臼と夏妃に結婚を認めさせようと思わない限り、こ}{ruby:Natsuhi, it seems that they will not need a magical miracle either...":ちらもまた、魔法の奇跡は必要なさそうであるな…」}`
 `{ruby:"Exactly.:「そういうこと。}`
-`{ruby:......Kanon watched how Shannon lived, and changed his own way of life.:……紗音の生き方を見て、嘉音もまた生き方を変えた。}`
-`{ruby:Then, he let his true feelings be known and started a relationship with Jessica onee‐chan.:そして素直な気持ちを伝え、朱志香お姉ちゃんと二人で恋路を歩み始めた。}`
-`{ruby:......There's no need for magic anymore.":……必要ないのよ、もはや魔法は」}`
-`{ruby:"......If it were a one‐sided love, then he might need a love charm or something.:「……片思いの相手になら、恋のおまじないも必要かもしれない。}`
-`{ruby:But their feelings are already mutual.:でも、もはや両者は相思相愛。}`
-`{ruby:They've already communicated their intentions to one another.:意思も疎通できてる。}`
-`{ruby:......So why do they need a miracle on top of that?":………なのにどうしてその上、魔法の奇跡が必要なの？」}`
-`{ruby:Both pieces of furniture are in relationships of mutual love.:家具たちはどちらも、相思相愛。}`
-`{ruby:{n}There shouldn't be any need for a miracle any longer.:{n}もはや、何の奇跡も必要ないはず。}`
+`{ruby:......Kanon watched how Shannon lived, and:……紗音の生き方を見て、嘉音}{ruby:changed his own way of life.:もまた生き方を変えた。}`
+`{ruby:Then, he let his true feelings be:そして素直な気持ちを伝え、朱志香お姉}{ruby:known and started a relationship with Jessica onee‐chan.:ちゃんと二人で恋路を歩み始めた。}`
+`{ruby:......There's no need:……必要ないのよ、}{ruby:for magic anymore.":もはや魔法は」}`
+`{ruby:"......If it were a one‐sided love, then:「……片思いの相手になら、恋のお}{ruby:he might need a love charm or something.:まじないも必要かもしれない。}`
+`{ruby:But their feelings:でも、もはや両者}{ruby:are already mutual.:は相思相愛。}`
+`{ruby:They've already communicated their:意思も疎通で}{ruby:intentions to one another.:きてる。}`
+`{ruby:......So why do they need:………なのにどうしてその上、}{ruby:a miracle on top of that?":魔法の奇跡が必要なの？」}`
+`{ruby:Both pieces of furniture are:家具たちはどちらも}{ruby:in relationships of mutual love.:、相思相愛。}`
+`{ruby:{n}There shouldn't be any need:{n}もはや、何の奇跡}{ruby:for a miracle any longer.:も必要ないはず。}`
 `{ruby:So why...:なのにどうして二人は、}`
-`{ruby:...do they still desire a miracle of magic?:……この上なおも、魔法の奇跡を欲する？}`
-`{ruby:And on top of that, the single brooch is portrayed as bestowing only a single miracle.:しかも、どうやら、一個のブローチは、一度の奇跡しか与えないかのような描写が見て取れる。}`
-`{ruby:It feels almost as though Shannon is hesitating because, if she uses up that miracle for herself,:だから紗音は、そのたった一つの奇跡を自分が消費してしまうことで、}`
-`{ruby:Kanon's chances at love will be automatically sealed away for eternity...:嘉音の恋路が自動的に永遠に閉ざされてしまうことに、躊躇していたかのように思えるのだ…。}`
+`{ruby:...do they still desire:……この上なおも、魔法}{ruby:a miracle of magic?:の奇跡を欲する？}`
+`{ruby:And on top of that, the single brooch:しかも、どうやら、一個のブローチは、一度の奇跡}{ruby:is portrayed as bestowing only a single miracle.:しか与えないかのような描写が見て取れる。}`
+`{ruby:It feels almost as though Shannon is hesitating:だから紗音は、そのたった一つの奇跡}{ruby:because, if she uses up that miracle for herself,:を自分が消費してしまうことで、}`
+`{ruby:Kanon's chances at love will:嘉音の恋路が自動的に永遠に閉ざされてしまうこと}{ruby:be automatically sealed away for eternity...:に、躊躇していたかのように思えるのだ…。}`
 `{ruby:"So the question is this::「つまりこういうことよ。}`
-`{ruby:‘Why is furniture not allowed to love?’":“どうして家具は、恋をしてはいけないの？”」}`
-`{ruby:"......So, you ask why love is not permitted without the miracle known as magic.":「……魔法という奇跡なくしては、なぜ恋が許されぬことになっているのか、か」}`
+`{ruby:‘Why is furniture:“どうして家具は、恋をし}{ruby:not allowed to love?’":てはいけないの？”」}`
+`{ruby:"......So, you ask why love is not:「……魔法という奇跡なくしては、なぜ恋が}{ruby:permitted without the miracle known as magic.":許されぬことになっているのか、か」}`
 `{ruby:"And also,:「そして。}`
-`{ruby:......there's that golden butterfly brooch that can allow the lamenting furniture to have the love they insisted they were incapable of.:……頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチって。}`
+`{ruby:......there's that golden butterfly brooch that can allow the lamenting:……頑なに恋が出来ないと嘆いていた家具たちに、そ}{ruby:furniture to have the love they insisted they were incapable of.:れを許すことの出来る、黄金蝶のブローチって。}`
 `{ruby:Just what on Earth is that?":一体、何だって言うの？」}`
-`{ruby:"Of course, it is a crystallization of magic.:「もちろん、魔法の結晶であるぞ。}`
-`{ruby:However, like most magics, it can be burnt by the anti‐magic toxin.":ただし、多くの魔法と同様に、反魔法の毒素で焼かれもする」}`
-`{ruby:"......So, it can only have an effect for those who believe in magic and witches.":「……つまり、魔女や魔法を信じる者にしか、効果がないということなんですね」}`
+`{ruby:"Of course, it is:「もちろん、魔法の}{ruby:a crystallization of magic.:結晶であるぞ。}`
+`{ruby:However, like most magics, it can:ただし、多くの魔法と同様に、反}{ruby:be burnt by the anti‐magic toxin.":魔法の毒素で焼かれもする」}`
+`{ruby:"......So, it can only have an effect:「……つまり、魔女や魔法を信じる者にしか}{ruby:for those who believe in magic and witches.":、効果がないということなんですね」}`
 `{ruby:"Correct.:「その通りだ。}`
-`{ruby:So, Shannon, who was capable of interacting with me, was able to make use of its benefits.:よって、妾と交流することが出来た紗音には、その効果を発揮した。}`
-`{ruby:However, if Shannon had dropped it in a sandy beach and someone who knew nothing picked it up...":しかしもし、紗音がそのブローチを砂浜に落とし、何も知らぬ者が拾ったとしたら」}`
-`{ruby:"......If that person was shrouded in the anti‐magic toxin, they wouldn't be able to make use of the brooch's magic power...":「……その者が反魔法の毒を纏っていたら、ブローチの魔法は力を発揮できない…」}`
+`{ruby:So, Shannon, who was capable of interacting with:よって、妾と交流することが出来た紗}{ruby:me, was able to make use of its benefits.:音には、その効果を発揮した。}`
+`{ruby:However, if Shannon had dropped it in a sandy:しかしもし、紗音がそのブローチを砂浜に落}{ruby:beach and someone who knew nothing picked it up...":とし、何も知らぬ者が拾ったとしたら」}`
+`{ruby:"......If that person was shrouded in the anti‐magic toxin, they:「……その者が反魔法の毒を纏っていたら、}{ruby:wouldn't be able to make use of the brooch's magic power...":ブローチの魔法は力を発揮できない…」}`
 `{ruby:"Precisely.:「そういうことだ。}`
-`{ruby:A witch's magical items often lose their power if they are not handed over directly.":魔女のアイテムは、直接の手渡しでなければ力を失うことが多いということだ」}`
-`{ruby:"However, in just the same way that a witch can manifest herself if her existence is acknowledged by a great many {y:0:Human}{n:0:human}s and the anti‐magic toxin disappears,:「しかし、魔女の存在を大勢のニンゲンが認めることで反魔法の毒素がなくなり、顕現することが出来るのと同じに、}`
-`{ruby:the power of that magical item can also be preserved if it is believed in by a great many people.":大勢のニンゲンが、そのアイテムの魔力を信じれば、逆に魔力を維持することもある」}`
+`{ruby:A witch's magical items often lose their:魔女のアイテムは、直接の手渡しでなけれ}{ruby:power if they are not handed over directly.":ば力を失うことが多いということだ」}`
+`{ruby:"However, in just the same way that a witch can manifest herself if:「しかし、魔女の存在を大勢のニンゲンが認めることで反魔法}{ruby:her existence is acknowledged by a great many {y:0:Human}{n:0:human}s and the anti‐magic toxin disappears,:の毒素がなくなり、顕現することが出来るのと同じに、}`
+`{ruby:the power of that magical item can also be preserved:大勢のニンゲンが、そのアイテムの魔力を信じ}{ruby:if it is believed in by a great many people.":れば、逆に魔力を維持することもある」}`
 `{ruby:"That's ironic.:「皮肉な話ですね。}`
-`{ruby:......No matter what kind of magic we witches give out, everything depends on whether the {y:0:Human}{n:0:human} we give it to can accept it.":……私たち魔女がどんな魔法を授けても、それを受け取れるかどうかは全て、ニンゲン次第なんですね」}`
-`{ruby:"I have heard that the same goes for medicine.:「薬もそうだと聞いているぞ。}`
-`{ruby:Even with the exact same medicine, {y:0:Human}{n:0:human}s who know of the medicine's effect experience it to a greater degree.":同じ薬を飲んでも、その効果を知らされているニンゲンには、より大きい効果が出るという」}`
+`{ruby:......No matter what kind of magic we witches give out, everything:……私たち魔女がどんな魔法を授けても、それを受け取}{ruby:depends on whether the {y:0:Human}{n:0:human} we give it to can accept it.":れるかどうかは全て、ニンゲン次第なんですね」}`
+`{ruby:"I have heard that:「薬もそうだと聞}{ruby:the same goes for medicine.:いているぞ。}`
+`{ruby:Even with the exact same medicine, {y:0:Human}{n:0:human}s who know:同じ薬を飲んでも、その効果を知らされているニ}{ruby:of the medicine's effect experience it to a greater degree.":ンゲンには、より大きい効果が出るという」}`
 `{ruby:"......Oh, I think I understand.:「……あ、ちょっとわかります。}`
-`{ruby:When taking cold medicine, I've gotten the feeling that it's more effective when you read the description on the bottle.":風邪薬とか飲んだ時、薬効の解説書とか読んでると、薬の効きがいいような気がしますよね」}`
-`{ruby:As she listened, Beato thought that magic sounded a bit like a charm.:ベアトはその話を聞きながら、魔法ってちょっぴり、おまじないに似てるなと思っていた。}`
-`{ruby:When most {y:0:Human}{n:0:human}s think of magic,:ニンゲンが考える魔法というのは、}`
-`{ruby:they think of incredible miracles being performed one after another in front of a crowd.:大勢のニンゲンの前で、まるで手品のように、すごい奇跡をポンポンと見せてくれるものだ。}`
-`{ruby:However, this true magic that the older sister spoke of sounded almost like a charm,:しかし、姉が語る本当の魔法とは、}`
-`{ruby:something that had no effect if the person using it didn't believe.:信じようとしない者には何の効果もない、まるでおまじないのようなものだった。}`
-`{ruby:......Shannon's heart was captured by George bit by bit as he grew by leaps and bounds.:……年々、見違えるように成長していく譲治に、紗音は心を奪われ始めていた。}`
-`{ruby:However, she had given up, thinking that one of lower status such as herself would never find love with him.:しかし、身分の違う自分とは恋仲になれるわけがないと、諦めていた。}`
-`{ruby:That was when {f:5:Beatrice} had given her the golden butterfly brooch and encouraged her.:そんな彼女に、黄金蝶のブローチを与え、励ました。}`
-`{ruby:Giving up means that you have zero chance of success.:諦めるということは、確率ゼロということ。}`
-`{ruby:But if, with the power of magic, you think there just might be some chance of your wish coming true,:しかし、魔法の力で、ひょっとしたら叶うかもしれないと思えば、}`
-`{ruby:the probability then rises to something greater than zero at the very least.:確率は、少なくともゼロよりは高くなる。}`
-`{ruby:Zero remains zero forever, but if even a faint probability were to exist,:ゼロは永遠にゼロだが、ほんのわずかでも確率が存在するなら、}`
-`{ruby:......it would be no exaggeration to say that an impossible miracle had occurred, compared to the time when the probability was zero.:……ゼロの時と比べれば、あり得ない奇跡が起こったと言っても過言ではないだろう。}`
-`{ruby:Humans can use magic to take "resignation", by which they themselves make the probability of success zero, and cancel it out.:ニンゲンが、自ら確率をゼロに閉ざす“諦め”を、魔法によってそこだけを取り除く。}`
-`{ruby:When a {y:0:Human}{n:0:human} does not give up, though their chances of success may be small, those chances do exist.:諦めないニンゲンには、どんなにわずかであっても、達する可能性がある。}`
-`{ruby:And the stronger their belief, the more those odds rise.:そしてそれは、確信すればするほど、高くなる。}`
-`{ruby:It was easy to imagine that Shannon had made earnest wishes upon the brooch, believed in its effect,:紗音が黄金蝶のブローチに強く願い、その効果を確信し、}`
-`{ruby:......and made many little efforts to get George to like her.:……譲治に気に入られるために、小さな努力を積み重ねただろうことは、想像に難くない。}`
-`{ruby:"The power of belief becomes magic......":「信じる力が、魔法になる……」}`
-`{ruby:"And those who make others believe are witches.":「そして、それを信じさせる者が、魔女だ」}`
+`{ruby:When taking cold medicine, I've gotten the feeling that it's:風邪薬とか飲んだ時、薬効の解説書とか読んでる}{ruby:more effective when you read the description on the bottle.":と、薬の効きがいいような気がしますよね」}`
+`{ruby:As she listened, Beato thought that:ベアトはその話を聞きながら、魔法ってちょっぴ}{ruby:magic sounded a bit like a charm.:り、おまじないに似てるなと思っていた。}`
+`{ruby:When most {y:0:Human}{n:0:human}s:ニンゲンが考える魔}{ruby:think of magic,:法というのは、}`
+`{ruby:they think of incredible miracles being performed:大勢のニンゲンの前で、まるで手品のように、す}{ruby:one after another in front of a crowd.:ごい奇跡をポンポンと見せてくれるものだ。}`
+`{ruby:However, this true magic that the older:しかし、姉が語る本}{ruby:sister spoke of sounded almost like a charm,:当の魔法とは、}`
+`{ruby:something that had no effect if:信じようとしない者には何の効果もない、ま}{ruby:the person using it didn't believe.:るでおまじないのようなものだった。}`
+`{ruby:......Shannon's heart was captured by George bit by:……年々、見違えるように成長していく譲}{ruby:bit as he grew by leaps and bounds.:治に、紗音は心を奪われ始めていた。}`
+`{ruby:However, she had given up, thinking that one of lower:しかし、身分の違う自分とは恋仲にな}{ruby:status such as herself would never find love with him.:れるわけがないと、諦めていた。}`
+`{ruby:That was when {f:5:Beatrice} had given her:そんな彼女に、黄金蝶のブロ}{ruby:the golden butterfly brooch and encouraged her.:ーチを与え、励ました。}`
+`{ruby:Giving up means that you:諦めるということは、確}{ruby:have zero chance of success.:率ゼロということ。}`
+`{ruby:But if, with the power of magic, you think there:しかし、魔法の力で、ひょっとした}{ruby:just might be some chance of your wish coming true,:ら叶うかもしれないと思えば、}`
+`{ruby:the probability then rises to something:確率は、少なくともゼロ}{ruby:greater than zero at the very least.:よりは高くなる。}`
+`{ruby:Zero remains zero forever, but if:ゼロは永遠にゼロだが、ほんのわず}{ruby:even a faint probability were to exist,:かでも確率が存在するなら、}`
+`{ruby:......it would be no exaggeration to say that an impossible miracle:……ゼロの時と比べれば、あり得ない奇跡が起}{ruby:had occurred, compared to the time when the probability was zero.:こったと言っても過言ではないだろう。}`
+`{ruby:Humans can use magic to take "resignation", by which they:ニンゲンが、自ら確率をゼロに閉ざす“諦め”}{ruby:themselves make the probability of success zero, and cancel it out.:を、魔法によってそこだけを取り除く。}`
+`{ruby:When a {y:0:Human}{n:0:human} does not give up, though their:諦めないニンゲンには、どんなにわずか}{ruby:chances of success may be small, those chances do exist.:であっても、達する可能性がある。}`
+`{ruby:And the stronger their belief,:そしてそれは、確信すれば}{ruby:the more those odds rise.:するほど、高くなる。}`
+`{ruby:It was easy to imagine that Shannon had made:紗音が黄金蝶のブローチに強く}{ruby:earnest wishes upon the brooch, believed in its effect,:願い、その効果を確信し、}`
+`{ruby:......and made many little efforts:……譲治に気に入られるために、小さな努力を積}{ruby:to get George to like her.:み重ねただろうことは、想像に難くない。}`
+`{ruby:"The power of:「信じる力が、魔法}{ruby:belief becomes magic......":になる……」}`
+`{ruby:"And those who make:「そして、それを信じさ}{ruby:others believe are witches.":せる者が、魔女だ」}`
 `{ruby:Those who make others believe...:信じさせる者が、}`
 `{ruby:...are witches.:……魔女。}`
-`{ruby:......That's an interesting way to put it.:……面白い言い方だった。}`
+`{ruby:......That's an interesting:……面白い言い}{ruby:way to put it.:方だった。}`
 `{ruby:If you think about it, it's true.:考えてみると、確かにそうだ。}`
-`{ruby:Let's say a witch steps out into a spotlight, waves her staff in front of a crowd of onlookers,:ある魔女が、スポットライトを浴びながら、大勢の観衆の前でステッキを振るい、}`
-`{ruby:and makes a rabbit appear out of thin air.:ポンとウサギを現したとする。}`
-`{ruby:The many people who see it will surely think that it was a sleight of hand.:それを見た大勢の人は、それを手品だと思うに違いない。}`
-`{ruby:They might wonder at how it was accomplished, but they would be sure that it wasn't magic,:どうやったのだろうと不思議がりながらも、魔法のわけがないと確信し、}`
-`{ruby:and they would applaud the splendid trick that had appeared to be magic.:そう思わせるかのような見事なトリックに、喝采を送るのだ。}`
+`{ruby:Let's say a witch steps out into a spotlight,:ある魔女が、スポットライトを浴びながら、}{ruby:waves her staff in front of a crowd of onlookers,:大勢の観衆の前でステッキを振るい、}`
+`{ruby:and makes a rabbit:ポンとウサギを現}{ruby:appear out of thin air.:したとする。}`
+`{ruby:The many people who see it will surely:それを見た大勢の人は、それを}{ruby:think that it was a sleight of hand.:手品だと思うに違いない。}`
+`{ruby:They might wonder at how it was accomplished,:どうやったのだろうと不思議がりながら}{ruby:but they would be sure that it wasn't magic,:も、魔法のわけがないと確信し、}`
+`{ruby:and they would applaud the splendid:そう思わせるかのような見事なト}{ruby:trick that had appeared to be magic.:リックに、喝采を送るのだ。}`
 `{ruby:But what if...:しかしもし。}`
-`{ruby:What if they conducted a sacred ceremony inside a great ancient temple in front of a crowd of believers...:荘厳な太古の神殿で、大勢の信者たちの前で神聖な儀式を執り行い、}`
+`{ruby:What if they conducted a sacred ceremony inside a:荘厳な太古の神殿で、大勢の信者たち}{ruby:great ancient temple in front of a crowd of believers...:の前で神聖な儀式を執り行い、}`
 `{ruby:culminating in the exact same thing?:その末にまったく同じことをして見せたなら。}`
-`{ruby:......Would any of the people there think that was a sleight of hand?:……それを手品だと思う人間はいないのではないだろうか。}`
-`{ruby:In fact, in the ancient past, when magic tricks as a form of entertainment didn't even exist and divine spirits were worshiped,:そもそも、手品というエンターテイメントが存在せず、}`
-`{ruby:this would doubtlessly have been a miracle of magic...:神霊が神聖な存在だと崇められていた太古においては、それは紛れもない魔法の奇跡だったはず…。}`
+`{ruby:......Would any of the people there:……それを手品だと思う人間はい}{ruby:think that was a sleight of hand?:ないのではないだろうか。}`
+`{ruby:In fact, in the ancient past, when magic tricks as a:そもそも、手品というエンター}{ruby:form of entertainment didn't even exist and divine spirits were worshiped,:テイメントが存在せず、}`
+`{ruby:this would doubtlessly have:神霊が神聖な存在だと崇められていた太古においては}{ruby:been a miracle of magic...:、それは紛れもない魔法の奇跡だったはず…。}`
 `{ruby:"I‐in that case,:「な、なら。}`
 `{ruby:......would this...:……これは魔法に、}`
 `{ruby:...count as magic?":……なるでしょうか？」}`
 `{ruby:"Oh?:「ほう。}`
-`{ruby:Will the witch who cannot use magic now perform it for the first time?":魔法の使えぬ魔女のそなたが、初めて振るう魔法とはどんなものか」}`
-`{ruby:"H‐......here I have an empty tea cup.:「こ、……ここに、空の紅茶のカップがあります。}`
+`{ruby:Will the witch who cannot use magic:魔法の使えぬ魔女のそなたが、初めて}{ruby:now perform it for the first time?":振るう魔法とはどんなものか」}`
+`{ruby:"H‐......here I have:「こ、……ここに、空の紅茶}{ruby:an empty tea cup.:のカップがあります。}`
 `{ruby:There is nothing inside it.":中身は空です」}`
 `{ruby:"Mhm, it is empty.:「うむ、空っぽであるぞ。}`
 `{ruby:*giggle*, go on.":くすくす、それから？」}`
 `{ruby:"I will take this cup,:「これを、}`
 `{ruby:......turn it like this,:……こうして、}`
-`{ruby:......and place it upside down on the table.":……テーブルの上に伏せておきます」}`
+`{ruby:......and place it upside:……テーブルの上に伏}{ruby:down on the table.":せておきます」}`
 `{ruby:"Heheheheheheh.:「ふっふふふふふ。}`
 `{ruby:And then? What next?":それからそれから？」}`
 `{ruby:"Umm,:「えっと、}`
-`{ruby:......le‐let's both close our eyes and chant the incantation.":……い、一緒に目を閉じて、魔法の呪文を唱えます」}`
-`{ruby:It was......the same magic that had been used to give Maria candies.:それは、………かつて真里亞にキャンディを与えたのと、同じ魔法。}`
-`{ruby:Beato the Elder grinned and closed her eyes.:姉のベアトは、にやりと笑いながら目を閉じる。}`
-`{ruby:When she saw this, ......Beato slowly chanted the incantation.:それを見届けてから、……ベアトはゆっくりと呪文を唱える。}`
+`{ruby:......le‐let's both close our:……い、一緒に目を閉じて、}{ruby:eyes and chant the incantation.":魔法の呪文を唱えます」}`
+`{ruby:It was......the same magic that had:それは、………かつて真里亞にキャン}{ruby:been used to give Maria candies.:ディを与えたのと、同じ魔法。}`
+`{ruby:Beato the Elder grinned:姉のベアトは、にやりと笑}{ruby:and closed her eyes.:いながら目を閉じる。}`
+`{ruby:When she saw this,:それを見届けてから、……ベアト}{ruby:......Beato slowly chanted the incantation.:はゆっくりと呪文を唱える。}`
 `{ruby:"C‐come, try to remember.:「さ、さぁさ思い出して御覧なさい。}`
 `{ruby:......What was inside the cup?":……カップの中に、何が入っていたのか」}`
 `{ruby:"Hmm.:「うむ。}`
 `{ruby:Come, try to remember.:さぁさ、思い出して御覧なさい。}`
 `{ruby:What was inside the cup?":カップの中に、何が入っていたのか」}`
 `{ruby:As she chanted,:ベアトは呪文を唱えながら、ゆっくりと目を開き、}`
-`{ruby:Beato slowly opened her eyes and made sure that the older sister was repeating her with her eyes closed.:姉がしっかり目を閉じて復唱してくれているのを見届ける。}`
-`{ruby:Then, a single gold butterfly appeared out of nowhere,:すると、どこからともなく、黄金の蝶が１匹、ふわりと現れて、}`
-`{ruby:......fluttered down onto the overturned cup, and scattered away in a spray of gold.:……伏せたカップの上にふわりと舞い降り、黄金の飛沫となって散って消えた。}`
+`{ruby:Beato slowly opened her eyes and made sure that:姉がしっかり目を閉じて復唱して}{ruby:the older sister was repeating her with her eyes closed.:くれているのを見届ける。}`
+`{ruby:Then, a single gold:すると、どこからともなく、黄金の}{ruby:butterfly appeared out of nowhere,:蝶が１匹、ふわりと現れて、}`
+`{ruby:......fluttered down onto the overturned cup, and:……伏せたカップの上にふわりと舞い降り}{ruby:scattered away in a spray of gold.:、黄金の飛沫となって散って消えた。}`
 `{ruby:"May I open my eyes now?":「もう良いか、目を開けても？」}`
 `{ruby:".........Y‐yes.:「………は、はい。}`
-`{ruby:Please open your eyes and inspect the contents of the cup.":目を開けて、カップの中身を検めて下さい」}`
+`{ruby:Please open your eyes and:目を開けて、カップの中}{ruby:inspect the contents of the cup.":身を検めて下さい」}`
 `{ruby:"Well now.:「さてさて。}`
-`{ruby:......Let us see how well your first bit of magic has worked.":……そなたが初めて使う魔法は、如何程のものか」}`
-`{ruby:Taking her time and dragging out the suspense a little, the older sister......lifted up the cup.:もったいぶるように焦らしながら、姉はゆっくりと、……カップを持ち上げる。}`
+`{ruby:......Let us see how well your:……そなたが初めて使う魔法}{ruby:first bit of magic has worked.":は、如何程のものか」}`
+`{ruby:Taking her time and dragging out the suspense:もったいぶるように焦らしながら、姉はゆ}{ruby:a little, the older sister......lifted up the cup.:っくりと、……カップを持ち上げる。}`
 `{ruby:".........Aha.":「………おや」}`
 `{ruby:"H‐how is it......?":「い、如何でしょうか……」}`
 `{ruby:When the cup was lifted up,:カップを持ち上げると。}`
-`{ruby:.........there lay......a single golden rose petal.:………そこには、……黄金のバラの花びらが１枚、置かれていた。}`
-`{ruby:"D‐...does this count as...magic......?":「こ、…これは、魔法になるでしょうか……？」}`
+`{ruby:.........there lay......a single:………そこには、……黄金のバラの}{ruby:golden rose petal.:花びらが１枚、置かれていた。}`
+`{ruby:"D‐...does this:「こ、…これは、魔法にな}{ruby:count as...magic......?":るでしょうか……？」}`
 `{ruby:"*cackle*cackle*cackle*......:「くっくくくくく……。}`
 `{ruby:Yes, it most certainly does.:うむっ、なるとも。}`
-`{ruby:{p:41:You used magic to create a golden flower petal inside an overturned cup.:{p:41:そなたが魔法にて、伏せたカップの中に黄金の花びらを生み出した。}`
+`{ruby:{p:41:You used magic to create a:{p:41:そなたが魔法にて、伏せたカッ}{ruby:golden flower petal inside an overturned cup.:プの中に黄金の花びらを生み出した。}`
 `{ruby:It was a splendid bit of magic}.":見事な魔法であったぞ}」}`
-`{ruby:"‘Without love, it cannot be {y:1:‘seen’}{n:1:seen}’.:「“愛がなければ視えない”。}`
+`{ruby:"‘Without love, it:「“愛がなければ}{ruby:cannot be {y:1:‘seen’}{n:1:seen}’.:視えない”。}`
 `{ruby:That much I understand.":それは理解できてるの」}`
 `{ruby:"It may be viewed as a trick.:「これを手品だと断じるも良し。}`
 `{ruby:It may also be believed to be magic.:魔法だと信じるも良し。}`
-`{ruby:......It all depends upon the toxin of the individual...":……その者の毒素次第であろうな…」}`
-`{ruby:"Then again, ......while this can explain some of the magic that's been used in the past, it can't explain everything.":「でもこれは、……かつての魔法の一部を説明は出来るけど、全てを説明することは出来ないわ」}`
-`{ruby:"To get back to the point, none of this stuff about believing in magic and charms can answer the question::「話を戻すけれど、この程度の、魔法やおまじないを信じるという程度の話では、}`
-`{ruby:"What is the golden butterfly brooch that can allow the lamenting furniture to have the love they insisted they were incapable of?":“頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチとは一体何か？”}`
+`{ruby:......It all depends upon:……その者の毒素次第}{ruby:the toxin of the individual...":であろうな…」}`
+`{ruby:"Then again, ......while this can explain some of the magic:「でもこれは、……かつての魔法の一部を説明は出}{ruby:that's been used in the past, it can't explain everything.":来るけど、全てを説明することは出来ないわ」}`
+`{ruby:"To get back to the point, none of this stuff:「話を戻すけれど、この程度の、魔法やおま}{ruby:about believing in magic and charms can answer the question::じないを信じるという程度の話では、}`
+`{ruby:"What is the golden butterfly brooch that can allow the lamenting:“頑なに恋が出来ないと嘆いていた家具たちに、それを許}{ruby:furniture to have the love they insisted they were incapable of?":すことの出来る、黄金蝶のブローチとは一体何か？”}`
 `{ruby:It's not enough for an answer.":という問いに、答えられない」}`
-`{ruby:"......To take what we heard from the two Beatos at face value,:「……そこにいる２人のベアトの話を鵜呑みにするなら、}`
-`{ruby:......would it not make sense to consider that magic has the power to cancel out the furniture's "resignation"?":……魔法には、彼らの“諦め”を取り除く力があると考えるのが妥当であろう？」}`
-`{ruby:"‘Why mustn't furniture fall in love?’:「“どうして家具は恋をしてはいけないの？”。}`
-`{ruby:"Why is the power of the magic brooch necessary?":“どうして魔法のブローチの力が必要なの？”。}`
-`{ruby:......Yes, it does seem at a glance as though what you and the Beatos are saying provides an answer, though a vague one.:……確かに、あんたやベアトたちの話は一見、それにおぼろげとはいえ、答えを与えてるような気がする。}`
-`{ruby:However, let me say this as a Reader.:でも、朗読者だから言わせて。}`
-`{ruby:......I can't accept this as you've presented it.":……それでは納得が行かないの」}`
+`{ruby:"......To take what we heard from:「……そこにいる２人のベアト}{ruby:the two Beatos at face value,:の話を鵜呑みにするなら、}`
+`{ruby:......would it not make sense to consider that magic:……魔法には、彼らの“諦め”を取り除く力}{ruby:has the power to cancel out the furniture's "resignation"?":があると考えるのが妥当であろう？」}`
+`{ruby:"‘Why mustn't furniture:「“どうして家具は恋をし}{ruby:fall in love?’:てはいけないの？”。}`
+`{ruby:"Why is the power:“どうして魔法のブローチ}{ruby:of the magic brooch necessary?":の力が必要なの？”。}`
+`{ruby:......Yes, it does seem at a glance as though what you:……確かに、あんたやベアトたちの話は一見、それにお}{ruby:and the Beatos are saying provides an answer, though a vague one.:ぼろげとはいえ、答えを与えてるような気がする。}`
+`{ruby:However, let me say:でも、朗読者だか}{ruby:this as a Reader.:ら言わせて。}`
+`{ruby:......I can't accept this:……それでは納得が}{ruby:as you've presented it.":行かないの」}`
 `{ruby:"You cannot accept it, you say...?":「納得とは…」}`
-`{ruby:"......The fate that those pieces of furniture were fighting to overturn was something much more immense than this would allow for.:「……家具たちは、もっともっと悲壮な宿命に抗おうとしているわ。}`
-`{ruby:I doubt they could reform their way of thinking just because they were given a charm for making relationships.":恋愛成就のお守りを託されたくらいで、自己改革が出来る程度のものだったとは思えないの」}`
-`{ruby:"It's true that the brooch gave Shannon the chance she needed to get together with George onii‐chan,:「現に紗音はかつて、譲治お兄ちゃんとの出会いのきっかけを作ったのはブローチのお陰だけど、}`
-`{ruby:but after that, she said she wanted to deepen their relationship without borrowing the power of magic, and she even tried to give the brooch back to Beato.:それ以降は魔法の力を借りずに関係を深めたいと言って、ベアトにブローチを返そうとさえしたわ。}`
-`{ruby:She put the miracle of magic behind her at that point.:彼女はその時点で、一度は魔法の奇跡と決別したはず。}`
-`{ruby:......In that case, why is she once again in need of its power?":……なのになぜ再び、その力を必要としているの？」}`
+`{ruby:"......The fate that those pieces of furniture were fighting to:「……家具たちは、もっともっと悲壮}{ruby:overturn was something much more immense than this would allow for.:な宿命に抗おうとしているわ。}`
+`{ruby:I doubt they could reform their way of thinking:恋愛成就のお守りを託されたくらいで、自己改革}{ruby:just because they were given a charm for making relationships.":が出来る程度のものだったとは思えないの」}`
+`{ruby:"It's true that the brooch gave Shannon the:「現に紗音はかつて、譲治お兄ちゃんとの出会いの}{ruby:chance she needed to get together with George onii‐chan,:きっかけを作ったのはブローチのお陰だけど、}`
+`{ruby:but after that, she said she wanted to deepen their relationship without borrowing the:それ以降は魔法の力を借りずに関係を深めたいと言っ}{ruby:power of magic, and she even tried to give the brooch back to Beato.:て、ベアトにブローチを返そうとさえしたわ。}`
+`{ruby:She put the miracle of:彼女はその時点で、一度は魔法}{ruby:magic behind her at that point.:の奇跡と決別したはず。}`
+`{ruby:......In that case, why is she:……なのになぜ再び、その力}{ruby:once again in need of its power?":を必要としているの？」}`
 `{ruby:"Well now.:「さぁて。}`
-`{ruby:......Perhaps there is no way to say it except that love and marriage are very different things.":……恋と結婚は別物としか、言い様がないであろうな」}`
+`{ruby:......Perhaps there is no way to say it:……恋と結婚は別物としか、言}{ruby:except that love and marriage are very different things.":い様がないであろうな」}`
 `{ruby:{f:5:Featherine} laughed lightly.:フェザリーヌは薄く笑う。}`
-`{ruby:......She had probably formed a theory of her own and was laughing at Ange, who hadn't reached it yet.:……多分、彼女なりの仮説はすでに立ててあって、まだそれに至らぬ縁寿を嘲笑っているのだろう。}`
+`{ruby:......She had probably formed a theory of her own:……多分、彼女なりの仮説はすでに立ててあって、ま}{ruby:and was laughing at Ange, who hadn't reached it yet.:だそれに至らぬ縁寿を嘲笑っているのだろう。}`
 `{ruby:"Let me hear it.:「聞かせてよ。}`
 `{ruby:What's your view?":あんたの見解」}`
-`{ruby:"I'd like to keep that to myself for just a while longer.:「もう少し寝かせたい。}`
-`{ruby:......And of course, watching you form doubts and let your mind race is one of the joys of being read aloud to.:……それに、疑問を持ち、思考を巡らすそなたを見ることもまた、朗読の楽しみだ。}`
-`{ruby:If I gave you my views, you would accept them and stop thinking.:私の見解を話せば、そなたはそれに納得し、思考を止める。}`
-`{ruby:Then, having you read aloud would be no fun.":それでは朗読が面白くない」}`
-`{ruby:".........So, you're having me read a mystery novel you already know the answer to, just so you can enjoy watching me blunder about.":「………すでに答えを知ってる推理小説を読ませて、右往左往するところを見て楽しんでるってわけね」}`
-`{ruby:"Well, I am the Witch of Theatergoing.:「それが観劇の魔女というものだ。}`
-`{ruby:......If you wish to laugh at my bad taste, please do not hold back, my miko.":……悪趣味と笑いたくば笑うが良い、我が巫女よ」}`
+`{ruby:"I'd like to keep that to:「もう少し寝か}{ruby:myself for just a while longer.:せたい。}`
+`{ruby:......And of course, watching you form doubts and let your mind:……それに、疑問を持ち、思考を巡らすそな}{ruby:race is one of the joys of being read aloud to.:たを見ることもまた、朗読の楽しみだ。}`
+`{ruby:If I gave you my views,:私の見解を話せば、そなたはそれ}{ruby:you would accept them and stop thinking.:に納得し、思考を止める。}`
+`{ruby:Then, having you read:それでは朗読が面}{ruby:aloud would be no fun.":白くない」}`
+`{ruby:".........So, you're having me read a mystery novel you already know:「………すでに答えを知ってる推理小説を読ませて、右}{ruby:the answer to, just so you can enjoy watching me blunder about.":往左往するところを見て楽しんでるってわけね」}`
+`{ruby:"Well, I am:「それが観劇の魔女}{ruby:the Witch of Theatergoing.:というものだ。}`
+`{ruby:......If you wish to laugh at my bad:……悪趣味と笑いたくば笑う}{ruby:taste, please do not hold back, my miko.":が良い、我が巫女よ」}`
 `{ruby:"‘Wa‐ha‐ha‐ha.’":「“わっはっはっは”」}`
-`{ruby:"Pft, ......*giggle*giggle*, haha{0}ha{0}ha{0}ha{0}haha...":「ぷっ、……くすくすくす、はっははははははははは…」}`
-`{ruby:I understand that a part of magic is created by a believing heart.:魔法の一部が、信じる心で生み出されてることはわかっているの。}`
-`{ruby:And that magic probably permeates deep into the world of us {y:0:Human}{n:0:human}s as well.:そしてその魔法は多分、私たちニンゲンの世界にも深く浸透しているわ。}`
-`{ruby:However, though it does permeate so far, the power that dwells within magic is small.:でも、そんな浸透し切った魔法に宿る力は、小さい。}`
-`{ruby:Visiting a shrine before an important exam to pray that you'll pass is something that many people do.:大事な受験の前に、合格祈願のお参りに行くのは、誰だってやる願掛け。}`
-`{ruby:However, not many people will actually credit that visit as the reason for their success.:でも、だからと言って、そのお陰で合格できたとまで言う者はいないはず。}`
-`{ruby:Praying like this contains no power except as a calming influence.:願掛けなど本来は、気休めか、せいぜいそれ以上程度の力しか宿らないのだ。}`
-`{ruby:In love, where even a small chance and a little bit of courage can cause a major change,:ほんの小さな勇気やきっかけが、大きな変化をもたらすこともある恋愛になら、}`
-`{ruby:this power might cause a massive upheaval...:その力が激変を見せることもあるかもしれない…。}`
-`{ruby:However, .........would the insurmountable fate that those pieces of furniture claim to be in the middle of...:しかし、………家具たちが自称する悲壮な運命は、}`
-`{ruby:really change because of something like that......?:その程度のことで変わる程度のものなのだろうか……？}`
-`{ruby:I think that in the past, the magical power of the brooch as it joined Shannon and George was little more than a good‐luck charm.:かつて、紗音と譲治を結びつけたブローチの魔力は多分、おまじない程度だったと思う。}`
+`{ruby:"Pft,:「ぷっ、……くすくすくす、は}{ruby:......*giggle*giggle*, haha{0}ha{0}ha{0}ha{0}haha...":っははははははははは…」}`
+`{ruby:I understand that a part of:魔法の一部が、信じる心で生み出さ}{ruby:magic is created by a believing heart.:れてることはわかっているの。}`
+`{ruby:And that magic probably permeates deep into:そしてその魔法は多分、私たちニンゲン}{ruby:the world of us {y:0:Human}{n:0:human}s as well.:の世界にも深く浸透しているわ。}`
+`{ruby:However, though it does permeate so far,:でも、そんな浸透し切った魔}{ruby:the power that dwells within magic is small.:法に宿る力は、小さい。}`
+`{ruby:Visiting a shrine before an important exam to pray:大事な受験の前に、合格祈願のお参りに}{ruby:that you'll pass is something that many people do.:行くのは、誰だってやる願掛け。}`
+`{ruby:However, not many people will actually credit:でも、だからと言って、そのお陰で合格}{ruby:that visit as the reason for their success.:できたとまで言う者はいないはず。}`
+`{ruby:Praying like this contains no:願掛けなど本来は、気休めか、せいぜいそ}{ruby:power except as a calming influence.:れ以上程度の力しか宿らないのだ。}`
+`{ruby:In love, where even a small chance and a:ほんの小さな勇気やきっかけが、大きな変}{ruby:little bit of courage can cause a major change,:化をもたらすこともある恋愛になら、}`
+`{ruby:this power might:その力が激変を見せることも}{ruby:cause a massive upheaval...:あるかもしれない…。}`
+`{ruby:However, .........would the insurmountable fate that those pieces:しかし、………家具たちが自}{ruby:of furniture claim to be in the middle of...:称する悲壮な運命は、}`
+`{ruby:really change because:その程度のことで変わる程度の}{ruby:of something like that......?:ものなのだろうか……？}`
+`{ruby:I think that in the past, the magical power of the brooch:かつて、紗音と譲治を結びつけたブローチの魔}{ruby:as it joined Shannon and George was little more than a good‐luck charm.:力は多分、おまじない程度だったと思う。}`
 `{ruby:However, at this point,:しかし今。}`
-`{ruby:the magical power that the pieces of furniture are seeking from the brooch, praying for their love to succeed...:家具たちが、それぞれの恋愛の成就を願ってブローチに求めている魔力は。}`
-`{ruby:......It's not something as vague as a charm.:……おまじないのような、曖昧なものではなく。}`
-`{ruby:It feels much stronger, like {i:a whole different interpretation of magic}.:もっともっと強力な、そして、{i:別の解釈の魔法}のように思えるのだ。}`
-`{ruby:If you believe in a sleight of hand, it becomes magic.:手品も信じれば魔法になる。}`
-`{ruby:......But that's no more than a child's trick.:……しかしそんなのは子供騙しだ。}`
-`{ruby:{n}And that only explains one part of magic.:{n}そしてそれは、魔法の一部を説明するに過ぎない。}`
+`{ruby:the magical power that the pieces of furniture are:家具たちが、それぞれの恋愛の成就を願}{ruby:seeking from the brooch, praying for their love to succeed...:ってブローチに求めている魔力は。}`
+`{ruby:......It's not something as:……おまじないのような、}{ruby:vague as a charm.:曖昧なものではなく。}`
+`{ruby:It feels much stronger, like:もっともっと強力な、そして、{i:別の}{ruby:{i:a whole different interpretation of magic}.:解釈の魔法}のように思えるのだ。}`
+`{ruby:If you believe in a:手品も信じれば魔}{ruby:sleight of hand, it becomes magic.:法になる。}`
+`{ruby:......But that's no more:……しかしそんなの}{ruby:than a child's trick.:は子供騙しだ。}`
+`{ruby:{n}And that only explains:{n}そしてそれは、魔法の一}{ruby:one part of magic.:部を説明するに過ぎない。}`
 `{ruby:They...are hoping for something.:彼らは、望んでいる。}`
-`{ruby:They're hoping for something with much, much more power...:もっともっと大きな力を持った、}`
-`{ruby:...for true magic, not a sleight of hand.:……手品などではない、本当の魔法を。}`
-`{ruby:"......So then, just what kind of magic...:「……家具たちは、黄金蝶のブローチに、}`
-`{ruby:......are the pieces of furniture expecting from that brooch......?":………どんな魔法を期待しているというの……」}`
-`{ruby:".........A golden butterfly...brooch...?":「………黄金蝶の、ブローチ…？」}`
+`{ruby:They're hoping for something:もっともっと大きな}{ruby:with much, much more power...:力を持った、}`
+`{ruby:...for true magic, not:……手品などではない}{ruby:a sleight of hand.:、本当の魔法を。}`
+`{ruby:"......So then, just:「……家具たちは、黄金}{ruby:what kind of magic...:蝶のブローチに、}`
+`{ruby:......are the pieces of:………どんな魔法を期待し}{ruby:furniture expecting from that brooch......?":ているというの……」}`
+`{ruby:".........A:「………黄金蝶の、}{ruby:golden butterfly...brooch...?":ブローチ…？」}`
 `{ruby:"The Golden Witch {f:5:Beatrice}...:「黄金の魔女ベアトリーチェが。}`
-`{ruby:......gave a magic charm to Shannon in exchange for smashing a mirror—a charm that makes love succeed.:………霊鏡を割るのと引き換えに、紗音に与えた、恋を成就させる、魔法のお守り。}`
+`{ruby:......gave a magic charm to Shannon in exchange:………霊鏡を割るのと引き換えに、紗音に与}{ruby:for smashing a mirror—a charm that makes love succeed.:えた、恋を成就させる、魔法のお守り。}`
 `{ruby:......That's what this is.":……これが、それです」}`
 `{ruby:From his pocket, ......:嘉音はポケットから、……}`
-`{ruby:Kanon pulled a wing of a gold butterfly.:黄金の蝶の片羽を取り出す。}`
-`{ruby:Though it was just a single wing, it was easy to tell from its distinctive shape that it had originally been part of something with a butterfly motif.:たとえ片羽であっても、その特徴的な形から、蝶をモチーフにしたものだとすぐに理解できた。}`
-`{ruby:"The magic of this brooch gave Shannon the chance she needed to start her relationship with George‐sama.:「このブローチの魔法は、紗音に譲治さまと恋仲になる機会を与えました。}`
-`{ruby:......However, before that magic was fully realized, she left it to me.:……しかし、それを最後まで成就する前に、僕に譲りました。}`
-`{ruby:......So, thanks to the power of this brooch,:……だから僕はこのブローチの力で、}`
-`{ruby:.........I gained your affection, Milady.":………お嬢様の好意を得ました」}`
+`{ruby:Kanon pulled a wing:黄金の蝶の片羽を}{ruby:of a gold butterfly.:取り出す。}`
+`{ruby:Though it was just a single wing, it was easy to tell from its:たとえ片羽であっても、その特徴的な形から、蝶を}{ruby:distinctive shape that it had originally been part of something with a butterfly motif.:モチーフにしたものだとすぐに理解できた。}`
+`{ruby:"The magic of this brooch gave Shannon the:「このブローチの魔法は、紗音に譲治さ}{ruby:chance she needed to start her relationship with George‐sama.:まと恋仲になる機会を与えました。}`
+`{ruby:......However, before that magic was fully:……しかし、それを最後まで成就}{ruby:realized, she left it to me.:する前に、僕に譲りました。}`
+`{ruby:......So, thanks to the:……だから僕はこのブ}{ruby:power of this brooch,:ローチの力で、}`
+`{ruby:.........I gained:………お嬢様の好意}{ruby:your affection, Milady.":を得ました」}`
 `{ruby:"That's not true...:「そんなわけないよ…。}`
-`{ruby:I started liking you because of my own honest feelings...":私が嘉音くんを好きになったのは、自分の素直な気持ちだぜ…」}`
+`{ruby:I started liking you because:私が嘉音くんを好きになったのは、}{ruby:of my own honest feelings...":自分の素直な気持ちだぜ…」}`
 `{ruby:"......Thank you very much.:「……ありがとうございます。}`
-`{ruby:...You are {y:0:Human}{n:0:human}, so you do not believe in witches or magic.:…お嬢様はニンゲンだから、魔女も魔法も信じない。}`
+`{ruby:...You are {y:0:Human}{n:0:human}, so you do:…お嬢様はニンゲンだから、}{ruby:not believe in witches or magic.:魔女も魔法も信じない。}`
 `{ruby:It's only natural.:無理もないことです。}`
-`{ruby:......However, as furniture created by magic, my very existence here...:……しかし、魔法で生み出された家具の、僕がここに存在すること自体が、}`
-`{ruby:...is proof that the miracle of magic exists.":……魔法の奇跡の存在する証拠なのです」}`
+`{ruby:......However, as furniture created by:……しかし、魔法で生み出された家具の}{ruby:magic, my very existence here...:、僕がここに存在すること自体が、}`
+`{ruby:...is proof that the:……魔法の奇跡の存在す}{ruby:miracle of magic exists.":る証拠なのです」}`
 `{ruby:"S‐sorry,:「ご、ごめん。}`
 `{ruby:what are you talking about...?":何の話…？」}`
-`{ruby:Jessica tried her hardest to grasp what Kanon was trying to say.:朱志香は、何とか嘉音が言おうとしている意味を汲み取ろうとする。}`
-`{ruby:However, she couldn't understand it, and had to ask him to repeat it with a bitter smile...:しかし、それが理解できず、苦笑いしながら聞き直さざるを得ない…。}`
+`{ruby:Jessica tried her hardest to grasp:朱志香は、何とか嘉音が言おうとして}{ruby:what Kanon was trying to say.:いる意味を汲み取ろうとする。}`
+`{ruby:However, she couldn't understand it, and had to:しかし、それが理解できず、苦笑いし}{ruby:ask him to repeat it with a bitter smile...:ながら聞き直さざるを得ない…。}`
 `{ruby:"...........................:「………………………。}`
 `{ruby:......Both Shannon and I...:……僕も紗音も。}`
 `{ruby:...need magic to succeed in love.:……恋を成就させるには、魔法が必要なのです。}`
 `{ruby:The key for that is this brooch.:そのための鍵が、この、ブローチ。}`
-`{ruby:......I stepped on it and crushed it, so we each have one part.":……僕が踏んで割ったので、僕たちは１つずつ持ち合っています」}`
-`{ruby:The brooch had lost its power when it was split in half.:２つに分かれたブローチは、その魔力を失っている。}`
-`{ruby:{n}However, if it was ever joined together again, ......its magic would be revived.:{n}しかし、再び一組の姿に戻せば、……魔力が蘇る。}`
-`{ruby:It would revive the miraculous power that could join furniture and a {y:0:Human}{n:0:human} together...:家具とニンゲンが結ばれる奇跡の力を、再び蘇らせる…。}`
-`{ruby:"However, a single brooch can only grant one person's wish.:「しかし、１つのブローチは１人の願いしか叶えない。}`
-`{ruby:......Only one of us furniture can be joined by this single brooch.":……家具の僕たちは、この１つのブローチによって、どちらかしか、結ばれ得ないのです」}`
-`{ruby:It was the single spark of love that the old {f:5:Beatrice} with her shrill laugh had sown on a day long ago.:これが、在りし日の、甲高く笑うベアトリーチェが蒔いて残した、恋の火種の、最後の一粒。}`
-`{ruby:That {f:5:Beatrice} had likened humans who were tormented by this spark to ripe fruit and taken evil pleasure in their suffering.:かつてのベアトリーチェは、恋の火種に悶え苦しむ人間模様を、熟れた果実と呼んで悪趣味に楽しんだ。}`
-`{ruby:However, the magic infused within this spark...was real.:しかし、その種に込められている魔法は、…本物。}`
-`{ruby:It was the only crystallization of magic that the Golden Witch {f:5:Beatrice} ever left in this world......:黄金の魔女ベアトリーチェが、この世に与えて残した、唯一の魔法の結晶……。}`
+`{ruby:......I stepped on it and crushed:……僕が踏んで割ったので、僕たち}{ruby:it, so we each have one part.":は１つずつ持ち合っています」}`
+`{ruby:The brooch had lost its power:２つに分かれたブローチは、}{ruby:when it was split in half.:その魔力を失っている。}`
+`{ruby:{n}However, if it was ever joined:{n}しかし、再び一組の姿に}{ruby:together again, ......its magic would be revived.:戻せば、……魔力が蘇る。}`
+`{ruby:It would revive the miraculous power that:家具とニンゲンが結ばれる奇跡}{ruby:could join furniture and a {y:0:Human}{n:0:human} together...:の力を、再び蘇らせる…。}`
+`{ruby:"However, a single brooch can:「しかし、１つのブローチは１}{ruby:only grant one person's wish.:人の願いしか叶えない。}`
+`{ruby:......Only one of us furniture can:……家具の僕たちは、この１つのブローチによっ}{ruby:be joined by this single brooch.":て、どちらかしか、結ばれ得ないのです」}`
+`{ruby:It was the single spark of love that the old {f:5:Beatrice}:これが、在りし日の、甲高く笑うベアトリーチェ}{ruby:with her shrill laugh had sown on a day long ago.:が蒔いて残した、恋の火種の、最後の一粒。}`
+`{ruby:That {f:5:Beatrice} had likened humans who were tormented by this:かつてのベアトリーチェは、恋の火種に悶え苦しむ人間}{ruby:spark to ripe fruit and taken evil pleasure in their suffering.:模様を、熟れた果実と呼んで悪趣味に楽しんだ。}`
+`{ruby:However, the magic infused:しかし、その種に込められて}{ruby:within this spark...was real.:いる魔法は、…本物。}`
+`{ruby:It was the only crystallization of magic that:黄金の魔女ベアトリーチェが、この世に与}{ruby:the Golden Witch {f:5:Beatrice} ever left in this world......:えて残した、唯一の魔法の結晶……。}`
 `{ruby:Its shine......grew brighter.:その輝きが、……増す。}`
 `{ruby:"Huh? ......Wh‐...what the...?!":「え、……な、……何…？！」}`
 `{ruby:"It's okay.:「大丈夫です。}`
-`{ruby:......But please don't look right at it.:……でも、直接は見ないで。}`
+`{ruby:......But please don't:……でも、直接は}{ruby:look right at it.:見ないで。}`
 `{ruby:It'll blind you.":目をやられます」}`
 `{ruby:"Gh, .........ghhh.........!":「う、………ぅうう………！」}`
-`{ruby:It grew more brilliant still, shining like the sun.:輝きはなおも一層強さを増し、まるで太陽のように眩く。}`
-`{ruby:Jessica didn't need Kanon to tell her to put her hands over her eyes......:嘉音に言われずとも、朱志香は自分の目を両手で覆わざるを得なかった……。}`
-`{ruby:As the light grew stronger, ......a sound like the roaring of the wind or the tide also grew in intensity.:光が強くなるに連れて、……風か潮のような唸るような音も強くなる。}`
-`{ruby:It already drowned out the sound of the wind and rain outside...:もう、外の風雨の音さえ飲み込まれてしまって…。}`
-`{ruby:Jessica could no longer even stand, and she crouched on the floor......:朱志香は立っていることさえ出来なくなり、しゃがみ込んでしまう……。}`
+`{ruby:It grew more brilliant:輝きはなおも一層強さを増し、}{ruby:still, shining like the sun.:まるで太陽のように眩く。}`
+`{ruby:Jessica didn't need Kanon to tell her:嘉音に言われずとも、朱志香は自分の目を}{ruby:to put her hands over her eyes......:両手で覆わざるを得なかった……。}`
+`{ruby:As the light grew stronger, ......a sound like the roaring:光が強くなるに連れて、……風か潮の}{ruby:of the wind or the tide also grew in intensity.:ような唸るような音も強くなる。}`
+`{ruby:It already drowned out the sound:もう、外の風雨の音さえ飲み}{ruby:of the wind and rain outside...:込まれてしまって…。}`
+`{ruby:Jessica could no longer even stand,:朱志香は立っていることさえ出来なくな}{ruby:and she crouched on the floor......:り、しゃがみ込んでしまう……。}`
 `{ruby:It was a flood of sound and light...:光と音の洪水…。}`
-`{ruby:And until it withdrew, Jessica could do nothing but moan......:それが引くまで、朱志香は呻くことしか出来なかった……。}`
+`{ruby:And until it withdrew, Jessica:それが引くまで、朱志香は呻く}{ruby:could do nothing but moan......:ことしか出来なかった……。}`

@@ -1,464 +1,464 @@
 `{ruby:"Step it up!!:「貴様、弛んでいるぞッ！！}`
-`{ruby:What are you doing, slacking off when the fighting's so close?!":決戦は間近というのにそのへっぴり腰は何かッ！！」}`
-`{ruby:Stars seemed to spin around inside my head.:頭の中に細やかな星がいっぱいに広がる。}`
-`{ruby:I could just lie down on the floor, but that'd only make him more angry.:もっさり寝転がっていれば、買わなくてよい怒りを、さらに買い込むことになる。}`
+`{ruby:What are you doing, slacking:決戦は間近というのにそのへっ}{ruby:off when the fighting's so close?!":ぴり腰は何かッ！！」}`
+`{ruby:Stars seemed to spin:頭の中に細やかな星がい}{ruby:around inside my head.:っぱいに広がる。}`
+`{ruby:I could just lie down on the:もっさり寝転がっていれば、買わなくてよい}{ruby:floor, but that'd only make him more angry.:怒りを、さらに買い込むことになる。}`
 `{ruby:I've no intention of being obedient.:従順なつもりなどない。}`
-`{ruby:......Still, it'd be stupid to get myself punched for no reason, so I got up and stood at attention...:……しかし殴られ損なのは馬鹿馬鹿しいので、さっさと起き上がり、直立不動の姿勢を取る…。}`
+`{ruby:......Still, it'd be stupid to get myself punched for:……しかし殴られ損なのは馬鹿馬鹿しいので、さっ}{ruby:no reason, so I got up and stood at attention...:さと起き上がり、直立不動の姿勢を取る…。}`
 `{ruby:".................................":「……………………………」}`
 `{ruby:The fighting's close, is it?:決戦は間近？}`
-`{ruby:You really think the American troops are likely to show up on this forgotten island?:米兵がこの忘れられた無人島に来て下さるってのか？}`
+`{ruby:You really think the American troops are:米兵がこの忘れられた無人島に}{ruby:likely to show up on this forgotten island?:来て下さるってのか？}`
 `{ruby:Then let them come right now.:なら早く来てくれ。}`
-`{ruby:{n}That's what I've been waiting for all this time.:{n}俺はその日をずっと待ってるってのに。}`
-`{ruby:"What's this cowardly look you're wearing?!:「その腐った目つきは何か！}`
-`{ruby:Is this how afraid you are of death?!:貴様、そんなに死にたくないか？！}`
-`{ruby:Are you so scared of those Americans?!:そんなに米兵が恐ろしいか？！}`
-`{ruby:You won't be killin' any of them with an attitude like that!!":そんな気合では、討ち取れんぞ！！」}`
+`{ruby:{n}That's what I've been:{n}俺はその日をずっと}{ruby:waiting for all this time.:待ってるってのに。}`
+`{ruby:"What's this cowardly:「その腐った目つ}{ruby:look you're wearing?!:きは何か！}`
+`{ruby:Is this how afraid:貴様、そんなに死にた}{ruby:you are of death?!:くないか？！}`
+`{ruby:Are you so:そんなに米兵が恐ろ}{ruby:scared of those Americans?!:しいか？！}`
+`{ruby:You won't be killin' any of:そんな気合では、討ち}{ruby:them with an attitude like that!!":取れんぞ！！」}`
 `{ruby:"..............................":「…………………………」}`
 `{ruby:They hit me again.:また、殴られる。}`
-`{ruby:......Could you please quit your whining already?:……キャンキャン喚くなってんだ。}`
+`{ruby:......Could you please:……キャンキャン喚}{ruby:quit your whining already?:くなってんだ。}`
 `{ruby:Filthy cowards.:臆病な犬が。}`
-`{ruby:They give themselves over to this inexplicable anger because it's the only way to distract themselves from their own fear.:彼らがわけのわからない怒りに身を任せているのは、そうしなければ彼らが、恐怖を忘れられないからだ。}`
-`{ruby:Heart and spirit aren't any use when the battle becomes hopeless.:絶望的な戦局は、もはや気合や精神でどうにかなるものではない。}`
-`{ruby:When trapped by an insurmountable hopelessness, humans rely on several other emotions to escape their fear.:不可避な絶望に立ちはだかられた時、人はその恐怖から逃れようと、様々な感情に逃れる。}`
-`{ruby:These young, inexperienced soldiers found anger to be a very convenient emotion to fall back upon.:人間的に未熟である、若き軍人の彼らにとって、怒りという感情は非常に都合がよかったのだ。}`
-`{ruby:They did "drills" by shouting in loud voices and swinging their bamboo spears around.:声高々に教練と称して竹槍を振り回させるのも、}`
-`{ruby:Drinking the wine called anger was simply what they needed to do to numb their fear.:彼らが恐怖を麻痺させるために必要な、怒りという名の酒なのだ。}`
-`{ruby:The more one drinks wine, the more one needs to drink to get drunk.:酒は、飲めば飲むほどに、さらに酔うためにより多くを必要とする。}`
-`{ruby:Their useless anger continued to pile up, day after day, without pause.:彼らの無意味な堆積する怒りは、日々、収まることを知らなかった。}`
+`{ruby:They give themselves over to this inexplicable anger because it's:彼らがわけのわからない怒りに身を任せているのは、そ}{ruby:the only way to distract themselves from their own fear.:うしなければ彼らが、恐怖を忘れられないからだ。}`
+`{ruby:Heart and spirit aren't any:絶望的な戦局は、もはや気合や精神}{ruby:use when the battle becomes hopeless.:でどうにかなるものではない。}`
+`{ruby:When trapped by an insurmountable hopelessness, humans rely:不可避な絶望に立ちはだかられた時、人はその恐}{ruby:on several other emotions to escape their fear.:怖から逃れようと、様々な感情に逃れる。}`
+`{ruby:These young, inexperienced soldiers found anger to be:人間的に未熟である、若き軍人の彼らにとって、怒}{ruby:a very convenient emotion to fall back upon.:りという感情は非常に都合がよかったのだ。}`
+`{ruby:They did "drills" by shouting in loud:声高々に教練と称して竹槍}{ruby:voices and swinging their bamboo spears around.:を振り回させるのも、}`
+`{ruby:Drinking the wine called anger was simply what:彼らが恐怖を麻痺させるために必要}{ruby:they needed to do to numb their fear.:な、怒りという名の酒なのだ。}`
+`{ruby:The more one drinks wine, the more:酒は、飲めば飲むほどに、さらに酔う}{ruby:one needs to drink to get drunk.:ためにより多くを必要とする。}`
+`{ruby:Their useless anger continued to pile:彼らの無意味な堆積する怒りは、日々}{ruby:up, day after day, without pause.:、収まることを知らなかった。}`
 `{ruby:As for me, I did not fear death.:私は、死を恐れない。}`
-`{ruby:So, I had no need of the wine called anger.:だから、怒りなどというヤケ酒を必要としない。}`
-`{ruby:This made their cowardice all the more apparent to me.:だからこそ一層、彼らの臆病さがくっきりと理解できたのだ。}`
-`{ruby:"There you go again, that look in your eyes!:「その目つきだ！！}`
-`{ruby:Ushiromiya, your spirit is rotten to the core!!:右代宮ッ、貴様の魂は腐りきっておるわ！！}`
+`{ruby:So, I had no need:だから、怒りなどというヤ}{ruby:of the wine called anger.:ケ酒を必要としない。}`
+`{ruby:This made their cowardice all:だからこそ一層、彼らの臆病さが}{ruby:the more apparent to me.:くっきりと理解できたのだ。}`
+`{ruby:"There you go again,:「その目つき}{ruby:that look in your eyes!:だ！！}`
+`{ruby:Ushiromiya, your spirit is:右代宮ッ、貴様の魂は腐り}{ruby:rotten to the core!!:きっておるわ！！}`
 `{ruby:You're a fish, that's what you are.:魚だ。}`
-`{ruby:You've got the eyes of a dead fish!!":貴様の目は死んだ魚の目だ！！」}`
+`{ruby:You've got the eyes:貴様の目は死んだ魚}{ruby:of a dead fish!!":の目だ！！」}`
 `{ruby:However, it went both ways.:しかしそれはお互い様だ。}`
-`{ruby:Just as I was able to spot their cowardice...:私に彼らの臆病さが理解できるように、彼らもまた。}`
-`{ruby:{n}They were able to pick up on my lethargy.:{n}私の無気力さが理解できただろうから。}`
+`{ruby:Just as I was:私に彼らの臆病さが理解でき}{ruby:able to spot their cowardice...:るように、彼らもまた。}`
+`{ruby:{n}They were able to:{n}私の無気力さが理解}{ruby:pick up on my lethargy.:できただろうから。}`
 `{ruby:"Is Ushiromiya Kinzo here?!:「右代宮金蔵はいるかッ！}`
 `{ruby:The lieutenant's looking for you!":中尉殿がお呼びだ！」}`
 `{ruby:"Stand up!:「立てッ！}`
 `{ruby:No slouching about!:もたもたするなッ！}`
 `{ruby:Double tiiiiime!!":駆けあぁぁぁしッ！！」}`
-`{ruby:First Lieutenant Yamamoto was the commanding officer in charge of the Rokkenjima garrison.:山本中尉は、この六軒島守備隊の指揮官だった。}`
-`{ruby:He was just another filthy coward trying to forget his fear with violence,:部下たちを些細なことで弛んでいると叱責して、}`
-`{ruby:and would reprimand his subordinates for slacking off at the drop of a hat.:一時の暴力で恐怖を忘れる、臆病な犬の一人。}`
-`{ruby:The stories of his life he'd spout off when in a good mood were all about how much of a thug he had been, ignoring the rules of society.:上機嫌な時に語り出す武勇伝は、自分が如何に乱暴者で、社会のルールを無視してきたかという話ばかり。}`
-`{ruby:On and on about how so‐and‐so was a prick so he taught them a lesson, or how everyone was so scared of him that he got special treatment.:誰々が鼻持ちならないから教育してやった云々、自分は恐れられていたから特別扱いだった云々。}`
-`{ruby:......He kept on talking about what a vile human he was as though it was a badge of honor.:……如何に自分が卑しい人間であるかを、さも立派なものであるかのように語るのだ。}`
-`{ruby:Normally, I had nothing to do with this disagreeable lieutenant.:そんな、まったく尊敬できない中尉と自分に、普段は接点などない。}`
-`{ruby:He would always hang around with his non‐commissioned subordinates,:子分である下士官たちといつもつるんでいるので、}`
-`{ruby:so as long as I treated him with a snappy salute, I could more or less ignore him for the time being.:敬礼さえ機敏にこなして見せれば、私にとってはとりあえず、どうでもいい男だったのだが。}`
-`{ruby:Now that the construction project on this island had been suspended indefinitely, there was no longer any use for an engineer like me.:工事が無期限に放棄されたこの島において、技術者である自分に特別な意味はない。}`
-`{ruby:So, why did the lieutenant ask for me specifically?:なのになぜ中尉は、わざわざ自分を名指しで呼ぶのか。}`
-`{ruby:{n}At that moment, I couldn't think of anything......:{n}まったく心当たりはなかった……。}`
+`{ruby:First Lieutenant Yamamoto was the commanding:山本中尉は、この六軒島守}{ruby:officer in charge of the Rokkenjima garrison.:備隊の指揮官だった。}`
+`{ruby:He was just another filthy coward:部下たちを些細なことで弛}{ruby:trying to forget his fear with violence,:んでいると叱責して、}`
+`{ruby:and would reprimand his subordinates for slacking:一時の暴力で恐怖を忘れる}{ruby:off at the drop of a hat.:、臆病な犬の一人。}`
+`{ruby:The stories of his life he'd spout off when in a good mood were:上機嫌な時に語り出す武勇伝は、自分が如何に乱暴者で}{ruby:all about how much of a thug he had been, ignoring the rules of society.:、社会のルールを無視してきたかという話ばかり。}`
+`{ruby:On and on about how so‐and‐so was a prick so he taught them a:誰々が鼻持ちならないから教育してやった云々、自}{ruby:lesson, or how everyone was so scared of him that he got special treatment.:分は恐れられていたから特別扱いだった云々。}`
+`{ruby:......He kept on talking about what a vile human:……如何に自分が卑しい人間であるかを、さも}{ruby:he was as though it was a badge of honor.:立派なものであるかのように語るのだ。}`
+`{ruby:Normally, I had nothing to:そんな、まったく尊敬できない中尉と}{ruby:do with this disagreeable lieutenant.:自分に、普段は接点などない。}`
+`{ruby:He would always hang:子分である下士官たちといつ}{ruby:around with his non‐commissioned subordinates,:もつるんでいるので、}`
+`{ruby:so as long as I treated him with a snappy salute,:敬礼さえ機敏にこなして見せれば、私にとっては}{ruby:I could more or less ignore him for the time being.:とりあえず、どうでもいい男だったのだが。}`
+`{ruby:Now that the construction project on this island had been suspended:工事が無期限に放棄されたこの島において、}{ruby:indefinitely, there was no longer any use for an engineer like me.:技術者である自分に特別な意味はない。}`
+`{ruby:So, why did the:なのになぜ中尉は、わざわざ自}{ruby:lieutenant ask for me specifically?:分を名指しで呼ぶのか。}`
+`{ruby:{n}At that moment, I:{n}まったく心当たり}{ruby:couldn't think of anything......:はなかった……。}`
 `{ruby:"Ushiromiya!:「右代宮！}`
-`{ruby:I hear you're good at speaking foreign languages, is that true?!":貴様、外国語が堪能であると聞いたが、事実であるか！」}`
-`{ruby:"I am proficient in both English and Chinese, sir.":「英語と中国語を話せるであります。中尉殿」}`
-`{ruby:The lieutenant liked to brag about his education in front of the non‐commissioned officers,:中尉は、下士官たちの前では学歴を威張ることもあったが、}`
-`{ruby:but he held a bit of a grudge against me for being even more highly educated than him.:それを超える学歴を持つ私には、強いコンプレックスを持っていた。}`
-`{ruby:He also felt uncomfortable about having me as a subordinate because he was younger than me,:また、私より階級的に上であるにもかかわらず、年下であることにもコンプレックスを持っているようで、}`
-`{ruby:so I was definitely not the kind of person he could hit it off with.:決して私とは打ち解けることの出来ない人間だった。}`
-`{ruby:Just the fact that I knew several languages must have hurt his pride.:今も、私が他国語に堪能であるという事実に、彼のプライドが傷つけられているに違いない。}`
-`{ruby:"What about Italian, do you speak that?":「ならばイタリア語はどうか」}`
+`{ruby:I hear you're good at:貴様、外国語が堪能であると聞い}{ruby:speaking foreign languages, is that true?!":たが、事実であるか！」}`
+`{ruby:"I am proficient in:「英語と中国語を話せるで}{ruby:both English and Chinese, sir.":あります。中尉殿」}`
+`{ruby:The lieutenant liked to brag about his:中尉は、下士官たちの前では学歴}{ruby:education in front of the non‐commissioned officers,:を威張ることもあったが、}`
+`{ruby:but he held a bit of a grudge against:それを超える学歴を持つ私には、強い}{ruby:me for being even more highly educated than him.:コンプレックスを持っていた。}`
+`{ruby:He also felt uncomfortable about having me as:また、私より階級的に上であるにもかかわらず、年下で}{ruby:a subordinate because he was younger than me,:あることにもコンプレックスを持っているようで、}`
+`{ruby:so I was definitely not the kind:決して私とは打ち解けること}{ruby:of person he could hit it off with.:の出来ない人間だった。}`
+`{ruby:Just the fact that I knew:今も、私が他国語に堪能であるという事実に、彼}{ruby:several languages must have hurt his pride.:のプライドが傷つけられているに違いない。}`
+`{ruby:"What about Italian,:「ならばイタリア}{ruby:do you speak that?":語はどうか」}`
 `{ruby:"I'm afraid not.":「わかりません」}`
-`{ruby:"So, you wouldn't be much help as an Italian interpreter, then.":「では貴様に、イタリア人との通訳は務まらんというわけか」}`
-`{ruby:"It should be possible if one of them speaks English as well, sir.":「英語を喋れる者がいれば可能と思います」}`
+`{ruby:"So, you wouldn't be much:「では貴様に、イタリア人との通}{ruby:help as an Italian interpreter, then.":訳は務まらんというわけか」}`
+`{ruby:"It should be possible if one:「英語を喋れる者がいれ}{ruby:of them speaks English as well, sir.":ば可能と思います」}`
 `{ruby:"......Ah, yes, very true!:「……なるほど、確かに！}`
-`{ruby:Have you ever talked with a foreigner in English?!":貴様、外国人と英語で話した経験はあるのか！」}`
+`{ruby:Have you ever talked:貴様、外国人と英語で話した}{ruby:with a foreigner in English?!":経験はあるのか！」}`
 `{ruby:"I have, sir.":「あります」}`
-`{ruby:Why on Earth would he need an interpreter in a cave on an uninhabited island that even our superiors have forgotten?:この、上層部にさえ忘れ去られた無人島の岩窟で、どうして通訳が必要になるというのか。}`
-`{ruby:His question made it clear that someone who would need an interpreter would be visiting Rokkenjima.:中尉のその質問は、この六軒島に、通訳の必要のある客人が訪れることを示していた。}`
+`{ruby:Why on Earth would he need an interpreter in a:この、上層部にさえ忘れ去られた無人島の岩窟で}{ruby:cave on an uninhabited island that even our superiors have forgotten?:、どうして通訳が必要になるというのか。}`
+`{ruby:His question made it clear that someone who:中尉のその質問は、この六軒島に、通訳の必要}{ruby:would need an interpreter would be visiting Rokkenjima.:のある客人が訪れることを示していた。}`
 `{ruby:"Good!:「よし！}`
-`{ruby:Ushiromiya, you'll be my interpreter, that's an order!":右代宮、貴様を俺の通訳に命ずる！」}`
-`{ruby:That evening, I found out exactly what he was talking about.:その日の夕方には、それが何の話か、全てを理解することが出来た。}`
-`{ruby:That pointless cavern submarine dock that had never been used...:一度も主を迎えたことがない、出来損ないの岩窟潜水艦ドックに、}`
-`{ruby:.........was now being approached slowly by a submarine of the Italian Navy.:………イタリア海軍の潜水艦が、ゆっくりと入港する。}`
-`{ruby:Of course, I knew that the Italians had been our allies.:イタリアが同盟国であることは、知識としては知っている。}`
-`{ruby:{n}However, this was the first time I had seen anything from their military with my own eyes.:{n}しかし、実際にイタリア軍をこの目で見たのは、初めてだった。}`
-`{ruby:"What was the Italian Navy doing here......?:「どうしてイタリア軍が……。}`
+`{ruby:Ushiromiya, you'll be my:右代宮、貴様を俺の通}{ruby:interpreter, that's an order!":訳に命ずる！」}`
+`{ruby:That evening, I found out:その日の夕方には、それが何の話か、}{ruby:exactly what he was talking about.:全てを理解することが出来た。}`
+`{ruby:That pointless cavern submarine dock:一度も主を迎えたことがない、出来}{ruby:that had never been used...:損ないの岩窟潜水艦ドックに、}`
+`{ruby:.........was now being approached slowly by:………イタリア海軍の潜水艦が}{ruby:a submarine of the Italian Navy.:、ゆっくりと入港する。}`
+`{ruby:Of course, I knew that:イタリアが同盟国であることは、}{ruby:the Italians had been our allies.:知識としては知っている。}`
+`{ruby:{n}However, this was the first time I had:{n}しかし、実際にイタリア軍をこ}{ruby:seen anything from their military with my own eyes.:の目で見たのは、初めてだった。}`
+`{ruby:"What was the:「どうしてイタリ}{ruby:Italian Navy doing here......?:ア軍が……。}`
 `{ruby:Didn't Italy surrender in 1943?:確か、１９４３年にイタリアは降伏しているはずです。}`
 `{ruby:What's going on...?":これはどういうことでしょう…」}`
-`{ruby:"It was the Kingdom of Italy that surrendered.:「降伏したのはイタリア王国だ。}`
-`{ruby:......However, the ones who couldn't accept that surrender formed a pro‐German government called the RSI so that they could continue fighting.":……だが、それを受け入れない者たちは親独政権ＲＳＩを樹立させ、戦争を続けたのだ」}`
+`{ruby:"It was the Kingdom:「降伏したのはイタ}{ruby:of Italy that surrendered.:リア王国だ。}`
+`{ruby:......However, the ones who couldn't accept that surrender formed a:……だが、それを受け入れない者たちは親独政}{ruby:pro‐German government called the RSI so that they could continue fighting.":権ＲＳＩを樹立させ、戦争を続けたのだ」}`
 `{ruby:"The RSI?":「ＲＳＩ？」}`
 `{ruby:"The Italian Social Republic.:「イタリア社会共和国。}`
 `{ruby:Also known as the Salò Republic.":別名、サロ共和国だ」}`
 `{ruby:"You know your history.:「詳しいな。}`
-`{ruby:......The ignorant often call the Italians cowards, saying that they surrendered first of the Axis powers in 1943.:……何も知らぬ者は、イタリアは枢軸国の中で１９４３年にいち早く降伏した腰抜けなどと呼んでいるが、}`
+`{ruby:......The ignorant often call the Italians cowards, saying that:……何も知らぬ者は、イタリアは枢軸国の中で１９４３}{ruby:they surrendered first of the Axis powers in 1943.:年にいち早く降伏した腰抜けなどと呼んでいるが、}`
 `{ruby:That's not true.:それは間違いだ。}`
-`{ruby:The military of the Italian Social Republic fought bravely from the outbreak of war until April 29th, 1945.":イタリア社会共和国軍は開戦から１９４５年４月２９日まで勇敢に戦ったのだ」}`
-`{ruby:"And Berlin fell just three days after that.:「ベルリン降伏はその３日後だ。}`
-`{ruby:Far from being cowards, they gave one hell of a fight.:腰抜けどころか、大健闘だな。}`
-`{ruby:......Still, I'm surprised the RSI Navy even had possession of a submarine that could travel all the way to Japan.":……しかし、ＲＳＩ海軍が日本まで航行できるような潜水艦を持っていたとは、驚きだ」}`
-`{ruby:"......Even if they did, it's a surprise that they'd come out this far at all.:「……そうでなくとも、遥々日本までやって来たこと自体が驚きです。}`
+`{ruby:The military of the Italian Social Republic fought bravely:イタリア社会共和国軍は開戦から１９４５}{ruby:from the outbreak of war until April 29th, 1945.":年４月２９日まで勇敢に戦ったのだ」}`
+`{ruby:"And Berlin fell just:「ベルリン降伏はそ}{ruby:three days after that.:の３日後だ。}`
+`{ruby:Far from being cowards, they:腰抜けどころか、}{ruby:gave one hell of a fight.:大健闘だな。}`
+`{ruby:......Still, I'm surprised the RSI Navy even had possession of:……しかし、ＲＳＩ海軍が日本まで航行できる}{ruby:a submarine that could travel all the way to Japan.":ような潜水艦を持っていたとは、驚きだ」}`
+`{ruby:"......Even if they did, it's a surprise:「……そうでなくとも、遥々日本まで}{ruby:that they'd come out this far at all.:やって来たこと自体が驚きです。}`
 `{ruby:......Why would they come to Japan?:……彼らはなぜ日本に？}`
 `{ruby:To Rokkenjima?":六軒島に？」}`
-`{ruby:The submarine was both weather‐worn and massive.:それはぼろぼろの大型潜水艦だった。}`
-`{ruby:This dock had never even been used by one of our own country's submarines.:自国の潜水艦さえ迎えたことのないドックに、}`
-`{ruby:I doubt anyone here imagined that it would end up welcoming in one from a far‐off nation.:……遥か遠くの、異国の潜水艦を迎え入れることになろうとは、誰も想像しなかったに違いない。}`
-`{ruby:All of the guards of Rokkenjima, of which there were only about thirty, stood at attention as the submarine docked.:３０人ほどしかいない六軒島の番人たちが、全員総出で潜水艦を迎える。}`
-`{ruby:"......Never seen the Italian military before......":「……イタリア軍なんて初めて見たぜ……」}`
-`{ruby:"I heard a mine or some kinda accident trashed their sub.":「何でも、事故か触雷で航行不能になったんだと」}`
-`{ruby:"From what I heard, their ventilation system was hit and they couldn't stop the cabin filling up with chlorine gas.":「換気装置がやられて、塩素ガスが換気出来なくなったって聞いたぞ」}`
-`{ruby:"The lieutenant was hinting about there being something very important in there......":「中尉殿の話によると、何か重要なものを運んでるって話だ……」}`
-`{ruby:"You mean like a code machine or the blueprints for some new kind of engine?":「暗号変換機か、新型エンジンなんかの設計図じゃないのか？」}`
-`{ruby:"I couldn't care less what they're carrying, I'm more surprised that the higher‐ups still remember we exist...":「俺ぁ積荷云々より、上層部がまだここを覚えててくれたことの方が驚きだぜ…」}`
+`{ruby:The submarine was:それはぼろぼろの大型}{ruby:both weather‐worn and massive.:潜水艦だった。}`
+`{ruby:This dock had never even been used:自国の潜水艦さえ迎えたこ}{ruby:by one of our own country's submarines.:とのないドックに、}`
+`{ruby:I doubt anyone here imagined that it would:……遥か遠くの、異国の潜水艦を迎え入れることに}{ruby:end up welcoming in one from a far‐off nation.:なろうとは、誰も想像しなかったに違いない。}`
+`{ruby:All of the guards of Rokkenjima, of which there were:３０人ほどしかいない六軒島の番人たち}{ruby:only about thirty, stood at attention as the submarine docked.:が、全員総出で潜水艦を迎える。}`
+`{ruby:"......Never seen the:「……イタリア軍なんて}{ruby:Italian military before......":初めて見たぜ……」}`
+`{ruby:"I heard a mine or:「何でも、事故か触雷で航行}{ruby:some kinda accident trashed their sub.":不能になったんだと」}`
+`{ruby:"From what I heard, their ventilation system was hit and:「換気装置がやられて、塩素ガスが換}{ruby:they couldn't stop the cabin filling up with chlorine gas.":気出来なくなったって聞いたぞ」}`
+`{ruby:"The lieutenant was hinting about there:「中尉殿の話によると、何か重要な}{ruby:being something very important in there......":ものを運んでるって話だ……」}`
+`{ruby:"You mean like a code machine or:「暗号変換機か、新型エンジンなん}{ruby:the blueprints for some new kind of engine?":かの設計図じゃないのか？」}`
+`{ruby:"I couldn't care less what they're carrying, I'm:「俺ぁ積荷云々より、上層部がまだここを覚}{ruby:more surprised that the higher‐ups still remember we exist...":えててくれたことの方が驚きだぜ…」}`
 `{ruby:"Move it, Ushiromiya!!:「右代宮ッ、早く来い！！}`
-`{ruby:How're you supposed to interpret from over there?!!":貴様は通訳だろうがッ！！」}`
+`{ruby:How're you supposed to:貴様は通訳だろう}{ruby:interpret from over there?!!":がッ！！」}`
 `{ruby:"Yes, sir......":「はい、中尉殿……」}`
-`{ruby:On top of the hatch was a young Italian saluting us.:ハッチの上では、若いイタリア人が敬礼をしている。}`
-`{ruby:......Normally, this should have been the job of a commissioned officer, but his clothes looked like those of a sailor,:……普通、それは将校であるべきだが、身形はまるで水夫のようで、}`
-`{ruby:and it really didn't look like he had the dignity and composure of a ship's captain.:到底、艦長のような貫禄があるようには見えなかった。}`
-`{ruby:That probably meant that all of the commissioned officers in charge had died in the accident that had befallen this sub.:それは、艦内の事故で、責任ある将校たちが皆、命を落としてしまったことを指すのだろう。}`
-`{ruby:Crew members crawled out of the hatch one by one, but they all looked pale and entirely worn out.:潜水艦のハッチからぞろぞろと搭乗員が現れるが、皆、血色が悪く、疲労しきっていた。}`
-`{ruby:I wasn't sure how long ago the accident had happened,:いつ事故を起こしたか知らないが、}`
-`{ruby:but being crammed together in a tiny sub filled with chlorine gas for any amount of time can't be good for your health.:塩素ガスの充満した狭い艦内に長く押し込まれたら、相当の健康被害を起こすだろう。}`
-`{ruby:Adding to the problem of the broken ventilation system was the fact that they couldn't afford to travel about carelessly on the surface of the waters around Japan right now.:換気装置の故障に加え、今の日本近海では迂闊に水上航行も出来ない。}`
-`{ruby:......They had essentially traveled here inside a can of poison gas.:……毒ガスの缶詰の中で航行してきたようなものだった。}`
-`{ruby:Almost all of them were unable to walk without leaning on someone else—it looked like a bunch of people staggering out of a hospital boat.:彼らは肩を借りずには歩けない者がほとんどで、まるで病院船のような有様だった。}`
+`{ruby:On top of the hatch:ハッチの上では、若いイタリ}{ruby:was a young Italian saluting us.:ア人が敬礼をしている。}`
+`{ruby:......Normally, this should have been the job of a commissioned:……普通、それは将校であるべきだが}{ruby:officer, but his clothes looked like those of a sailor,:、身形はまるで水夫のようで、}`
+`{ruby:and it really didn't look like he had:到底、艦長のような貫禄がある}{ruby:the dignity and composure of a ship's captain.:ようには見えなかった。}`
+`{ruby:That probably meant that all of the commissioned officers in:それは、艦内の事故で、責任ある将校たちが皆、}{ruby:charge had died in the accident that had befallen this sub.:命を落としてしまったことを指すのだろう。}`
+`{ruby:Crew members crawled out of the hatch one by:潜水艦のハッチからぞろぞろと搭乗員が現れる}{ruby:one, but they all looked pale and entirely worn out.:が、皆、血色が悪く、疲労しきっていた。}`
+`{ruby:I wasn't sure how long:いつ事故を起こした}{ruby:ago the accident had happened,:か知らないが、}`
+`{ruby:but being crammed together in a tiny sub filled with chlorine:塩素ガスの充満した狭い艦内に長く押し込まれ}{ruby:gas for any amount of time can't be good for your health.:たら、相当の健康被害を起こすだろう。}`
+`{ruby:Adding to the problem of the broken ventilation system was the fact that they couldn't:換気装置の故障に加え、今の日本近海}{ruby:afford to travel about carelessly on the surface of the waters around Japan right now.:では迂闊に水上航行も出来ない。}`
+`{ruby:......They had essentially traveled here:……毒ガスの缶詰の中で航行し}{ruby:inside a can of poison gas.:てきたようなものだった。}`
+`{ruby:Almost all of them were unable to walk without leaning on someone:彼らは肩を借りずには歩けない者がほとんど}{ruby:else—it looked like a bunch of people staggering out of a hospital boat.:で、まるで病院船のような有様だった。}`
 `{ruby:"Ushiromiya!:「右代宮！}`
 `{ruby:Ask them who the captain is!:艦長は誰か聞け！}`
-`{ruby:Tell them that I'm in charge of this island!":私がこの島の指揮官であることを説明せよ！」}`
+`{ruby:Tell them that I'm:私がこの島の指揮官である}{ruby:in charge of this island!":ことを説明せよ！」}`
 `{ruby:"<......Welcome to Japan.:『……ようこそ、日本へ。}`
 `{ruby:Do any of you speak English?>":英語がわかる者は？』}`
-`{ruby:The crew members seemed to understand that I was speaking English, but it looked as though none of them could speak it.:搭乗員たちは、それが英語であることはわかるようだが、話せる者はいないようだった。}`
-`{ruby:Eventually, someone who seemed to be dressed as an officer saluted.:やがて、士官らしい身形の者に敬礼を受ける。}`
+`{ruby:The crew members seemed to understand that I was speaking English,:搭乗員たちは、それが英語であることはわかる}{ruby:but it looked as though none of them could speak it.:ようだが、話せる者はいないようだった。}`
+`{ruby:Eventually, someone who seemed to:やがて、士官らしい身形の}{ruby:be dressed as an officer saluted.:者に敬礼を受ける。}`
 `{ruby:"<Welcome to Japan.:『ようこそ、日本へ。}`
 `{ruby:Are you the captain?>":艦長でありますか』}`
 `{ruby:"<I cannot speak English>......:「アイキャンノットスピーク、イングリッシュ……。}`
 `{ruby:<Please, wait.>":プリーズ、ウェイト」}`
-`{ruby:The officer answered in slow, laborious English.:士官は片言の英語でそう答える。}`
-`{ruby:......After asking us to wait, he shouted something to his subordinates in rapid Italian.:……待てと告げ、早口のイタリア語で部下たちに何かを喚いている。}`
-`{ruby:It looked as though he was telling them to get someone among them who could speak English.:彼らの中にいる、英語のわかる人間を呼ばせている、という風だった。}`
-`{ruby:"Ushiromiya, what're they talking about?!":「右代宮、何と言っているッ？！」}`
+`{ruby:The officer answered:士官は片言の英語で}{ruby:in slow, laborious English.:そう答える。}`
+`{ruby:......After asking us to wait, he shouted:……待てと告げ、早口のイタリア語で}{ruby:something to his subordinates in rapid Italian.:部下たちに何かを喚いている。}`
+`{ruby:It looked as though he was telling them:彼らの中にいる、英語のわかる人間を}{ruby:to get someone among them who could speak English.:呼ばせている、という風だった。}`
+`{ruby:"Ushiromiya, what're:「右代宮、何と言っ}{ruby:they talking about?!":ているッ？！」}`
 `{ruby:"They've asked us to wait.:「待てと言っています。}`
-`{ruby:They might be looking for someone there who can speak English.":英語のわかる人間を呼んでいるのかもしれません」}`
-`{ruby:At that moment, I heard a high‐pitched cough.:その時、ケホンケホンと、甲高い咳の音が聞こえた。}`
+`{ruby:They might be looking for:英語のわかる人間を呼んでい}{ruby:someone there who can speak English.":るのかもしれません」}`
+`{ruby:At that moment, I:その時、ケホンケホンと、甲}{ruby:heard a high‐pitched cough.:高い咳の音が聞こえた。}`
 `{ruby:{n}It wasn't a man's cough.:{n}男の咳ではない。}`
 `{ruby:......It was a woman's.:……女の咳だった。}`
 `{ruby:"<I speak English.>":『私、英語わかるわ』}`
-`{ruby:As she came down from the hatch, .........a woman with beautiful golden hair said this in English.:そう英語で言い、………美しい黄金の髪の女が、ハッチより降りてきた。}`
+`{ruby:As she came down from the hatch, .........a:そう英語で言い、………美しい黄金の髪}{ruby:woman with beautiful golden hair said this in English.:の女が、ハッチより降りてきた。}`
 `{ruby:In this filthy cavern,:この、むさ苦しき岩窟に、彼女という美しい存在は、}`
-`{ruby:the appearance of one as beautiful as she was seemed like an angel descending upon us......:まるで天使が舞い降りてきたかのようにさえ、感じられた……。}`
+`{ruby:the appearance of one as beautiful as she:まるで天使が舞い降りてきたかのよ}{ruby:was seemed like an angel descending upon us......:うにさえ、感じられた……。}`
 `{ruby:"<Welcome to Japan.:『ようこそ、日本へ。}`
 `{ruby:Is the captain there?>":艦長はいますか』}`
 `{ruby:"<The captain is dead.:『艦長は死んだわ。}`
-`{ruby:That man over there is the only officer left.>":士官はあそこの彼だけよ』}`
+`{ruby:That man over there:士官はあそこの}{ruby:is the only officer left.>":彼だけよ』}`
 `{ruby:"<My condolences.:『お悔やみ申し上げます。}`
 `{ruby:Can we do anything to assist you?>":何かお手伝いは出来ますか？』}`
-`{ruby:"<Well, we would like some fresh air and water.:『新鮮な空気と水が欲しいわ。}`
-`{ruby:Some of us are still having trouble breathing.:まだ息のある人間もいる。}`
+`{ruby:"<Well, we would like:『新鮮な空気と水}{ruby:some fresh air and water.:が欲しいわ。}`
+`{ruby:Some of us are:まだ息のある人}{ruby:still having trouble breathing.:間もいる。}`
 `{ruby:We'd like a place to rest.>":休ませる場所が欲しいわ』}`
 `{ruby:"<We would be happy to help.:『協力しましょう。}`
-`{ruby:Do any of the others understand English?>":他に英語のわかる人間はいますか？』}`
-`{ruby:"<There were some who did, but they're all dead.:『いたけどみんな死んだわ。}`
+`{ruby:Do any of:他に英語のわかる人間}{ruby:the others understand English?>":はいますか？』}`
+`{ruby:"<There were some who:『いたけどみんな}{ruby:did, but they're all dead.:死んだわ。}`
 `{ruby:I'm the only one now.>":私だけよ』}`
-`{ruby:"Ushiromiya! What's that woman talking about?!:「右代宮ッ、女は何を言っている？！}`
-`{ruby:Who's the captain? That man from a second ago?!:艦長は誰だ？　さっきの男なのか？！}`
-`{ruby:Who is that woman?! Let's see some translating, dammit!!":その女は何者なのか！　早く通訳しろッ！！」}`
+`{ruby:"Ushiromiya! What's that:「右代宮ッ、女は何を}{ruby:woman talking about?!:言っている？！}`
+`{ruby:Who's the captain? That:艦長は誰だ？　さっき}{ruby:man from a second ago?!:の男なのか？！}`
+`{ruby:Who is that woman?!:その女は何者なのか！　早}{ruby:Let's see some translating, dammit!!":く通訳しろッ！！」}`
 `{ruby:The lieutenant wouldn't shut up.:中尉がさっきからうるさい。}`
-`{ruby:......He must have been surprised to see such a beautiful woman appear from the submarine...:……まさか潜水艦から、美しいご婦人が現れるとは思わず、}`
-`{ruby:and more than a little annoyed to see all of her attention focused on me alone.:しかもそれを私に独占されて悔しいに違いないな。}`
-`{ruby:It was a mark......of how divinely beautiful she was.:それくらいに、……彼女は神々しくて美しかった。}`
+`{ruby:......He must have been surprised to see:……まさか潜水艦から、美しいご}{ruby:such a beautiful woman appear from the submarine...:婦人が現れるとは思わず、}`
+`{ruby:and more than a little annoyed to see:しかもそれを私に独占されて}{ruby:all of her attention focused on me alone.:悔しいに違いないな。}`
+`{ruby:It was a mark......of:それくらいに、……彼女は神}{ruby:how divinely beautiful she was.:々しくて美しかった。}`
 `{ruby:"Sir,:「中尉殿。}`
-`{ruby:it seems that she's the only one who understands English.:彼女だけが英語をわかるようです。}`
+`{ruby:it seems that she's the:彼女だけが英語をわ}{ruby:only one who understands English.:かるようです。}`
 `{ruby:She will act as their interpreter.:彼女が、彼らの通訳になります。}`
 `{ruby:Their captain is dead.:艦長は死亡。}`
-`{ruby:That officer seems to be acting in his place.":代表者は先ほどの士官のようです」}`
-`{ruby:"<Who's that loud man who keeps yelling at you?:『あのうるさくあなたに叫んでいる男は何者？}`
+`{ruby:That officer seems to:代表者は先ほどの士}{ruby:be acting in his place.":官のようです」}`
+`{ruby:"<Who's that loud man:『あのうるさくあなたに叫}{ruby:who keeps yelling at you?:んでいる男は何者？}`
 `{ruby:Don't tell me he's your superior.>":まさかあなたの上司なの？』}`
 `{ruby:"<Yes, unfortunately.:『不幸なことに。}`
-`{ruby:He probably doesn't like seeing me have such a beautiful lady all to myself.>":私が美しいお嬢さんを独り占めしているのが、気に入らないんでしょう』}`
+`{ruby:He probably doesn't like seeing me have:私が美しいお嬢さんを独り占めしている}{ruby:such a beautiful lady all to myself.>":のが、気に入らないんでしょう』}`
 `{ruby:"<Oho.:『あら。}`
-`{ruby:I didn't expect such flattery from an Asian.:東洋人にお世辞をもらえるとは思わなかったわ。}`
+`{ruby:I didn't expect such:東洋人にお世辞をもらえる}{ruby:flattery from an Asian.:とは思わなかったわ。}`
 `{ruby:Your English is superb.:綺麗な英語ね。}`
-`{ruby:I imagine you've been brought up very well.:あなたは育ちが良さそうだわ。}`
-`{ruby:Unlike that rude man who keeps on shouting.:あの怒鳴ってるみっともない男とは大違い。}`
-`{ruby:They should have made you the officer in charge around here.>":あなたがここの将校だったら良かったのに』}`
+`{ruby:I imagine you've been:あなたは育ちが良}{ruby:brought up very well.:さそうだわ。}`
+`{ruby:Unlike that rude man:あの怒鳴ってるみっとも}{ruby:who keeps on shouting.:ない男とは大違い。}`
+`{ruby:They should have made you:あなたがここの将校だっ}{ruby:the officer in charge around here.>":たら良かったのに』}`
 `{ruby:"<Oh?:『おや。}`
-`{ruby:I didn't expect such flattery from a Westerner.>":私も西洋人にお世辞をもらえるとは思いませんでした』}`
+`{ruby:I didn't expect such:私も西洋人にお世辞をもらえる}{ruby:flattery from a Westerner.>":とは思いませんでした』}`
 `{ruby:"<*giggle*!:『くす！}`
 `{ruby:You're an interesting man.:あなた面白い人だわ。}`
 `{ruby:What's your name?>":名前は？』}`
 `{ruby:"<Ushiromiya...Kinzo.:『右代宮、金蔵です。}`
-`{ruby:If you don't mind, may I ask for your name as well?>":よろしければ、お嬢さんの名前も、ぜひ』}`
+`{ruby:If you don't mind, may I:よろしければ、お嬢さん}{ruby:ask for your name as well?>":の名前も、ぜひ』}`
 `{ruby:"<Beatrice Castiglioni.>":『ベアトリーチェ・カスティリオーニ』}`
 `{ruby:"<Welcome, Beatrice.:『ようこそ、ベアトリーチェ。}`
 `{ruby:Welcome to Japan.>":日本へ』}`
-`{ruby:That was when I first met Beatrice, the woman who would capture my heart for the rest of my life......:それが、私を生涯虜にする、ベアトリーチェとの最初の出会いだった……。}`
+`{ruby:That was when I first met Beatrice, the woman who:それが、私を生涯虜にする、ベアトリー}{ruby:would capture my heart for the rest of my life......:チェとの最初の出会いだった……。}`
 `{ruby:"......So, Beatrice was an Italian.":「……ベアトリーチェとは、イタリア人だったのですか」}`
 `{ruby:"Yes.:「そうだ。}`
-`{ruby:She was the daughter of a high‐ranking RSI official.:彼女はＲＳＩ高官の娘だった。}`
-`{ruby:Apparently, their most important cargo was her father himself.:どうやら、彼女の父親こそが、一番の積荷だったらしい。}`
-`{ruby:......Sadly, he had already died by the time they reached Rokkenjima.":……残念ながら、六軒島に辿り着いた時には、もう死んでいた」}`
-`{ruby:"Why would a high official like that come to Japan?:「その高官が、なぜ日本に？}`
-`{ruby:You're saying he went through the Suez Canal and crossed the Indian Ocean to come all the way here?":スエズ運河からインド洋を越えて、はるばる日本まで来たと言うのか？」}`
+`{ruby:She was the daughter:彼女はＲＳＩ高官}{ruby:of a high‐ranking RSI official.:の娘だった。}`
+`{ruby:Apparently, their most important:どうやら、彼女の父親こそが、}{ruby:cargo was her father himself.:一番の積荷だったらしい。}`
+`{ruby:......Sadly, he had already died:……残念ながら、六軒島に辿り着い}{ruby:by the time they reached Rokkenjima.":た時には、もう死んでいた」}`
+`{ruby:"Why would a high official:「その高官が、な}{ruby:like that come to Japan?:ぜ日本に？}`
+`{ruby:You're saying he went through the Suez Canal and:スエズ運河からインド洋を越えて、はる}{ruby:crossed the Indian Ocean to come all the way here?":ばる日本まで来たと言うのか？」}`
 `{ruby:"That's a good point.:「確かに。}`
-`{ruby:If they wanted to reach one of their allies, Germany should have been much closer.:同盟国としてはドイツの方がはるかに近いはず。}`
-`{ruby:......So, why would they make the long trip to Japan?":……なぜわざわざ日本までやって来たのでしょう」}`
-`{ruby:".........It may have been part of some grand, outrageous strategy.:「………途方もない規模の、遠大な作戦か何かだったのかもしれぬ。}`
+`{ruby:If they wanted to reach one of:同盟国としてはドイツの方}{ruby:their allies, Germany should have been much closer.:がはるかに近いはず。}`
+`{ruby:......So, why would they make:……なぜわざわざ日本までや}{ruby:the long trip to Japan?":って来たのでしょう」}`
+`{ruby:".........It may have been part:「………途方もない規模の、遠大な作}{ruby:of some grand, outrageous strategy.:戦か何かだったのかもしれぬ。}`
 `{ruby:......I don't know all the details,:……その全容はわからぬが、}`
-`{ruby:but shortly after, I learned that this submarine's mission was far from a minor one...":その潜水艦が只ならぬ任務を帯びていたらしいことは、後に理解することとなる…」}`
-`{ruby:They said that there had been about sixty of them at the time of their departure.:出航時には６０人近くの搭乗員がいたという。}`
-`{ruby:However, only about ten of them, including Beatrice, had survived.:しかし、ベアトリーチェを含め、ほんの１０人ほどしか、生き残れなかった。}`
-`{ruby:Their submarine had apparently hit a mine or something in the nearby waters and sustained a great deal of damage.:どうやら近海で機雷か何かに接触し、艦に重大なダメージを受けたらしい。}`
-`{ruby:They told us that it had flooded rapidly with water, which had taken out the batteries and released a large amount of chlorine gas.:かなり激しい浸水を受け、電池がやられて塩素ガスを発生させてしまったとのことだった。}`
-`{ruby:Their sub had become completely incapable of continuing further,:彼らの潜水艦は、もう完全に航行不能に陥ってしまい、}`
-`{ruby:nothing but a massive lump of metal floating in the dock.:ドックに浮かぶ巨大な鉄の塊に成り果てていた。}`
-`{ruby:Since the sub seemed to be carrying "something of immense value",:上層部は、この艦が“何か重要なもの”を運んでいるらしいので、}`
-`{ruby:the higher‐ups ordered us to investigate.:それを確認するようにと我々に命じていた。}`
-`{ruby:After questioning the Italians, with Beatrice and me acting as double interpreters,:彼らを私とベアトリーチェによる二重通訳で尋問した結果、その重要な何かとは、}`
-`{ruby:we concluded that this thing of immense value must have been her father himself.:彼女の父親自身ではないかという結論に至った。}`
-`{ruby:Apparently, Beatrice's father was extremely high up in the RSI hierarchy,:どうも、ベアトリーチェの父親は、ＲＳＩの相当の高官らしく、}`
-`{ruby:and it was thought that he might have worked alongside the Italian Prime Minister himself.:首相側近ではないかと思われた。}`
-`{ruby:Though their massive voyage had apparently been part of some top‐secret mission, now that the man himself and all of the commissioned officers had died,:何かの密命を帯びての大航海らしいが、本人も艦長以下将校たちも皆、死んでしまった今、}`
-`{ruby:their reason for coming to Japan remained a mystery.:その任務と日本を目指した理由は闇の中だった。}`
-`{ruby:And, since the higher‐ups were telling us to investigate, that meant that even they didn't know what it was.:そして、それを我々に調べさせようとする以上、上層部自身も、それを知り得ないということだ。}`
-`{ruby:Their ship had broken down, their mission was unknown, and the high official they had been carrying was dead.:艦も故障し、任務も不明で、要人である高官も死亡。}`
-`{ruby:{n}And even the Japanese government didn't know why they were here.:{n}そして日本側も、彼らの目的を何も知らない。}`
-`{ruby:......The Italians' great and perilous voyage...:……イタリアから遥々、命を賭けての大航海の果てにあったものは、}`
-`{ruby:...had come to a meaningless and utterly fruitless end...:……何の達成もない、無意味な到着だったのだ…。}`
+`{ruby:but shortly after, I learned that this:その潜水艦が只ならぬ任務を帯びていたらし}{ruby:submarine's mission was far from a minor one...":いことは、後に理解することとなる…」}`
+`{ruby:They said that there had been about sixty:出航時には６０人近くの搭}{ruby:of them at the time of their departure.:乗員がいたという。}`
+`{ruby:However, only about ten of:しかし、ベアトリーチェを含め、ほんの１}{ruby:them, including Beatrice, had survived.:０人ほどしか、生き残れなかった。}`
+`{ruby:Their submarine had apparently hit a mine or something in:どうやら近海で機雷か何かに接触し、艦}{ruby:the nearby waters and sustained a great deal of damage.:に重大なダメージを受けたらしい。}`
+`{ruby:They told us that it had flooded rapidly with water, which had:かなり激しい浸水を受け、電池がやられて塩素ガ}{ruby:taken out the batteries and released a large amount of chlorine gas.:スを発生させてしまったとのことだった。}`
+`{ruby:Their sub had become:彼らの潜水艦は、もう完全に航}{ruby:completely incapable of continuing further,:行不能に陥ってしまい、}`
+`{ruby:nothing but a massive lump:ドックに浮かぶ巨大な鉄の}{ruby:of metal floating in the dock.:塊に成り果てていた。}`
+`{ruby:Since the sub seemed to:上層部は、この艦が“何か重要なも}{ruby:be carrying "something of immense value",:の”を運んでいるらしいので、}`
+`{ruby:the higher‐ups ordered:それを確認するようにと}{ruby:us to investigate.:我々に命じていた。}`
+`{ruby:After questioning the Italians, with Beatrice:彼らを私とベアトリーチェによる二重通訳で}{ruby:and me acting as double interpreters,:尋問した結果、その重要な何かとは、}`
+`{ruby:we concluded that this thing of immense:彼女の父親自身ではないか}{ruby:value must have been her father himself.:という結論に至った。}`
+`{ruby:Apparently, Beatrice's father was extremely:どうも、ベアトリーチェの父親は、}{ruby:high up in the RSI hierarchy,:ＲＳＩの相当の高官らしく、}`
+`{ruby:and it was thought that he might:首相側近ではないか}{ruby:have worked alongside the Italian Prime Minister himself.:と思われた。}`
+`{ruby:Though their massive voyage had apparently been part of some top‐secret mission,:何かの密命を帯びての大航海らしいが、本人も艦}{ruby:now that the man himself and all of the commissioned officers had died,:長以下将校たちも皆、死んでしまった今、}`
+`{ruby:their reason for coming:その任務と日本を目指した}{ruby:to Japan remained a mystery.:理由は闇の中だった。}`
+`{ruby:And, since the higher‐ups were telling us to investigate,:そして、それを我々に調べさせようとする以上、上}{ruby:that meant that even they didn't know what it was.:層部自身も、それを知り得ないということだ。}`
+`{ruby:Their ship had broken down, their mission was unknown,:艦も故障し、任務も不明で、}{ruby:and the high official they had been carrying was dead.:要人である高官も死亡。}`
+`{ruby:{n}And even the Japanese government:{n}そして日本側も、彼ら}{ruby:didn't know why they were here.:の目的を何も知らない。}`
+`{ruby:......The Italians' great:……イタリアから遥々、命を賭けての}{ruby:and perilous voyage...:大航海の果てにあったものは、}`
+`{ruby:...had come to a:……何の達成もない、無意味}{ruby:meaningless and utterly fruitless end...:な到着だったのだ…。}`
 `{ruby:"<That's a relief.:『良かった。}`
-`{ruby:I always assumed the Japanese ocean air would smell like soy sauce.>":日本の潮風はてっきり、醤油の匂いがすると思ってたわ』}`
+`{ruby:I always assumed the Japanese ocean:日本の潮風はてっきり、醤油の}{ruby:air would smell like soy sauce.>":匂いがすると思ってたわ』}`
 `{ruby:"<What a coincidence.:『お互い様です。}`
-`{ruby:I've always thought Italians had hair made of pasta.>":イタリア人の髪はパスタで出来てるって思ってました』}`
+`{ruby:I've always thought Italians:イタリア人の髪はパスタで出来}{ruby:had hair made of pasta.>":てるって思ってました』}`
 `{ruby:"<Of course we do.:『あら、そうよ？}`
-`{ruby:You don't know how hard it is to get that perfect al dente texture.:アルデンテに仕上げるには茹で加減が難しいの。}`
-`{ruby:I imagine you Japanese all wear spaghetti al nero?>":なら日本人はみんな、スパゲティ・ネーロだわ』}`
+`{ruby:You don't know how hard it is:アルデンテに仕上げるには茹}{ruby:to get that perfect al dente texture.:で加減が難しいの。}`
+`{ruby:I imagine you Japanese:なら日本人はみんな、スパ}{ruby:all wear spaghetti al nero?>":ゲティ・ネーロだわ』}`
 `{ruby:"<Oh, you know quite a lot, I see.:『よくご存知で。}`
-`{ruby:In Japan, we like to use squid ink instead of shampoo.>":日本人はシャンプーの代わりにイカ墨を使います』}`
+`{ruby:In Japan, we like to:日本人はシャンプーの代わり}{ruby:use squid ink instead of shampoo.>":にイカ墨を使います』}`
 `{ruby:"<*giggle*!:『きゃっはは！}`
 `{ruby:You really are amazing, Kinzo.:金蔵はすごいわ。}`
 `{ruby:It seems you know everything!:何でも知っているのね！}`
 `{ruby:Have you ever been to Italy?>":イタリアに来たことがあるの？』}`
 `{ruby:"<Never.:『ありません。}`
-`{ruby:I have read a lot of your books, though.>":しかし、本は色々と読みました』}`
-`{ruby:"<An Asian man reading Italian books?!:『東洋人がイタリアの本を？！}`
+`{ruby:I have read a:しかし、本は色々と}{ruby:lot of your books, though.>":読みました』}`
+`{ruby:"<An Asian man:『東洋人がイタリ}{ruby:reading Italian books?!:アの本を？！}`
 `{ruby:Wow, what kinds of books?>":へぇ、例えばどんな？』}`
 `{ruby:"<Niccolò Machiavelli.:『ニッコロ・マキャヴェッリ。}`
 `{ruby:And Dante Alighieri.:ダンテ・アリギエーリも。}`
-`{ruby:So, I know of course that you are the eternal lady.>":だからあなたが永遠の淑女であることも存じていますよ』}`
+`{ruby:So, I know of course:だからあなたが永遠の淑女であ}{ruby:that you are the eternal lady.>":ることも存じていますよ』}`
 `{ruby:"<Oh, what a surprise...:『おぉ、何てこと…。}`
 `{ruby:You must be quite the bookworm.:金蔵はとんでもない勉強家だわ。}`
-`{ruby:Does this mean you came from some Japanese noble family?>":あなたはひょっとして、日本では高貴な家の出身なのでは？』}`
+`{ruby:Does this mean you came:あなたはひょっとして、日本では}{ruby:from some Japanese noble family?>":高貴な家の出身なのでは？』}`
 `{ruby:"<.........Who knows?>":『………さぁ、どうでしょう』}`
-`{ruby:"<You're completely different from those other savage‐looking Japanese soldiers.:『あなたは他の野蛮そうな日本人とはまるで違うわ。}`
+`{ruby:"<You're completely different from:『あなたは他の野蛮そうな日}{ruby:those other savage‐looking Japanese soldiers.:本人とはまるで違うわ。}`
 `{ruby:I can tell!:私にはわかるの！}`
-`{ruby:You must've come from a noble family.:あなたはきっと、高貴な家の人間だわ。}`
-`{ruby:Are the Ushiromiyas some sort of Japanese aristocrats?>":右代宮家は、日本の貴族の家柄なの？』}`
+`{ruby:You must've come:あなたはきっと、高貴な}{ruby:from a noble family.:家の人間だわ。}`
+`{ruby:Are the Ushiromiyas some:右代宮家は、日本の貴}{ruby:sort of Japanese aristocrats?>":族の家柄なの？』}`
 `{ruby:"<......Of course not.:『……とんでもない。}`
-`{ruby:They just managed to strike it rich in the spinning industry in recent generations.:紡績で一山当てただけの、ただの成金の一族です。}`
-`{ruby:I didn't study to prepare myself for nobility or anything like that.:私が勉強していたのは、高貴なる者としての嗜みではなく、}`
-`{ruby:......I just wasn't allowed to do anything else.:……何をすることも許されなかったら、}`
-`{ruby:Reading books, playing around with roses,:本を読むか、薔薇をいじるか、}`
-`{ruby:and getting myself drunk were the only ways I had to occupy myself.>":酒に溺れるかしかやることがなかったからですよ』}`
-`{ruby:Beatrice hadn't asked that question out of malice.:ベアトリーチェは、決して悪気があって聞いたのではない。}`
-`{ruby:{n}It had just been a curious question asked to a friend from a faraway country.:{n}遠い異国の地の友人に、好奇心で問い掛けただけなのだ。}`
-`{ruby:However, ......Beatrice was from a noble family herself, so she could tell.:しかし、……ベアトリーチェ自身も、やんごとなき家柄だからわかるのだろう。}`
-`{ruby:......She could see the faint gloomy look on Kinzo's face.:……金蔵の顔のわずかの憂いに。}`
+`{ruby:They just managed to strike it rich:紡績で一山当てただけの、た}{ruby:in the spinning industry in recent generations.:だの成金の一族です。}`
+`{ruby:I didn't study to prepare myself:私が勉強していたのは、高貴なる}{ruby:for nobility or anything like that.:者としての嗜みではなく、}`
+`{ruby:......I just wasn't allowed:……何をすることも許}{ruby:to do anything else.:されなかったら、}`
+`{ruby:Reading books, playing:本を読むか、薔薇}{ruby:around with roses,:をいじるか、}`
+`{ruby:and getting myself drunk were the:酒に溺れるかしかやることが}{ruby:only ways I had to occupy myself.>":なかったからですよ』}`
+`{ruby:Beatrice hadn't asked that:ベアトリーチェは、決して悪気が}{ruby:question out of malice.:あって聞いたのではない。}`
+`{ruby:{n}It had just been a curious question:{n}遠い異国の地の友人に、好奇}{ruby:asked to a friend from a faraway country.:心で問い掛けただけなのだ。}`
+`{ruby:However, ......Beatrice was from a noble:しかし、……ベアトリーチェ自身も、やん}{ruby:family herself, so she could tell.:ごとなき家柄だからわかるのだろう。}`
+`{ruby:......She could see the faint:……金蔵の顔のわず}{ruby:gloomy look on Kinzo's face.:かの憂いに。}`
 `{ruby:"<Forgive me, Kinzo.:『許して、金蔵。}`
-`{ruby:I was so surprised that a high‐class person like you would be a simple soldier in a place like this...:あなたのような高貴な人が、どうしてこんなおかしなところで、兵卒の身分に甘んじているのか、}`
-`{ruby:...that I didn't stop to think about why.>":……深く考えなかったわ』}`
-`{ruby:"<I don't really care about my family line.:『私の一族など、どうでもいいことです。}`
-`{ruby:The name Ushiromiya will mean nothing when I'm dead.:死ねば、右代宮などという姓は、何の意味もない。}`
-`{ruby:And that will be what finally sets me free.>":そしてそれこそが、ようやく私を解き放ってくれるのです』}`
-`{ruby:"<.........So, you joined the army because you wanted to die?:『………金蔵は、死にたくて軍隊に？}`
+`{ruby:I was so surprised that a high‐class person like you:あなたのような高貴な人が、どうしてこんなおかし}{ruby:would be a simple soldier in a place like this...:なところで、兵卒の身分に甘んじているのか、}`
+`{ruby:...that I didn't stop:……深く考えな}{ruby:to think about why.>":かったわ』}`
+`{ruby:"<I don't really care:『私の一族など、どうで}{ruby:about my family line.:もいいことです。}`
+`{ruby:The name Ushiromiya will:死ねば、右代宮などという姓}{ruby:mean nothing when I'm dead.:は、何の意味もない。}`
+`{ruby:And that will be:そしてそれこそが、ようやく私を}{ruby:what finally sets me free.>":解き放ってくれるのです』}`
+`{ruby:"<.........So, you joined the army:『………金蔵は、死に}{ruby:because you wanted to die?:たくて軍隊に？}`
 `{ruby:You mustn't do that.:そんなの駄目。}`
 `{ruby:Your family would be so sad.>":家族が悲しむわ』}`
 `{ruby:"<Family?:『家族など。}`
 `{ruby:......I have no family.>":……私には誰も』}`
-`{ruby:I have a wife for the sake of public appearances...and children.:上辺だけの妻と、子供はいる。}`
-`{ruby:{n}However, I've never wanted any of them.:{n}しかし、それを望んだことなど一度もない。}`
-`{ruby:......Everything, everything......is a fleeting daydream created by selfish, greedy old men.:……全て全て、……欲深な老人たちが勝手に作り上げた、まやかしの白昼夢。}`
-`{ruby:......So, at least being stuck on this island, I can forget about all of that......and find some peace.:……だから、この島にいると、それらを全て忘れられて、……まだ気楽なのだ。}`
+`{ruby:I have a wife for:上辺だけの妻と、}{ruby:the sake of public appearances...and children.:子供はいる。}`
+`{ruby:{n}However, I've never:{n}しかし、それを望んだ}{ruby:wanted any of them.:ことなど一度もない。}`
+`{ruby:......Everything, everything......is a fleeting daydream:……全て全て、……欲深な老人たちが勝手}{ruby:created by selfish, greedy old men.:に作り上げた、まやかしの白昼夢。}`
+`{ruby:......So, at least being stuck on this island, I:……だから、この島にいると、それらを全}{ruby:can forget about all of that......and find some peace.:て忘れられて、……まだ気楽なのだ。}`
 `{ruby:Peace.........?:気楽………？}`
-`{ruby:But haven't I spent each and every day complaining that I wasn't sent to the front and haven't managed to die yet......?:最前線に行き損ねて、未だに死に損ねていることに、悪態をつくだけの日々だったのでは……？}`
-`{ruby:"<......I can't understand the pain you're going through, but I do realize that my thoughtless words have hurt you.:『……私にあなたの苦しみはわからないけれど、私の心ない言葉が傷つけてしまったことはわかるわ。}`
+`{ruby:But haven't I spent each and every day complaining that I:最前線に行き損ねて、未だに死に損ねていることに}{ruby:wasn't sent to the front and haven't managed to die yet......?:、悪態をつくだけの日々だったのでは……？}`
+`{ruby:"<......I can't understand the pain you're going through, but:『……私にあなたの苦しみはわからないけれど、私の}{ruby:I do realize that my thoughtless words have hurt you.:心ない言葉が傷つけてしまったことはわかるわ。}`
 `{ruby:Forgive me, Kinzo.>":許して、金蔵』}`
 `{ruby:Forgive me, Kinzo.:許して、金蔵。}`
-`{ruby:Ohh, those words...I think...they set me free.:あぁ、多分、この一言が、私を解放しているのだ。}`
-`{ruby:All of the Japanese people call me Ushiromiya.:日本人たちは皆、私のことを右代宮と呼ぶ。}`
-`{ruby:......Every time I hear it, it's a constant reminder that I'm the property of the Ushiromiya family.:……それは私が右代宮家の所有物であることを、聞かされる度に私に思い出させる。}`
+`{ruby:Ohh, those words...I:あぁ、多分、この一言が、私}{ruby:think...they set me free.:を解放しているのだ。}`
+`{ruby:All of the Japanese:日本人たちは皆、私のこ}{ruby:people call me Ushiromiya.:とを右代宮と呼ぶ。}`
+`{ruby:......Every time I hear it, it's a constant:……それは私が右代宮家の所有物であること}{ruby:reminder that I'm the property of the Ushiromiya family.:を、聞かされる度に私に思い出させる。}`
 `{ruby:But she is different.:しかし彼女は違う。}`
 `{ruby:{n}She calls me...Kinzo.:{n}私を、金蔵と呼ぶ。}`
 `{ruby:Not Ushiromiya.:右代宮とは呼ばない。}`
-`{ruby:So maybe.........just for the time I chat with her like this,:だからこそ私は、………彼女とこうして話している時だけ、}`
-`{ruby:......I can forget that cursed family.:……あの呪わしい一族を忘れられるのかもしれない。}`
+`{ruby:So maybe.........just for the time:だからこそ私は、………彼女とこ}{ruby:I chat with her like this,:うして話している時だけ、}`
+`{ruby:......I can forget:……あの呪わしい一族を忘れ}{ruby:that cursed family.:られるのかもしれない。}`
 `{ruby:"<............Kinzo.>":『…………金蔵』}`
-`{ruby:I hadn't meant to make Beatrice feel guilty,:彼女のことを責めているつもりはまったくないのだが、}`
-`{ruby:but she seemed certain that her thoughtless words had hurt me.:ベアトリーチェは私が心ない言葉で傷ついてしまったに違いないと、信じているようだった。}`
+`{ruby:I hadn't meant to:彼女のことを責めているつもり}{ruby:make Beatrice feel guilty,:はまったくないのだが、}`
+`{ruby:but she seemed certain that:ベアトリーチェは私が心ない言葉で傷ついてしま}{ruby:her thoughtless words had hurt me.:ったに違いないと、信じているようだった。}`
 `{ruby:"<Thank you.>":『ありがとう』}`
 `{ruby:"<Huh?>":『え？』}`
-`{ruby:"<You calling me "Kinzo" makes me feel like I can finally be my own man.:『あなたが私を金蔵と呼んでくれるから、私はやっと自分を取り戻すことが出来る。}`
-`{ruby:......I think...that I've finally met a person who truly sees me for who I am.>":……私はようやく、本当の意味で私を見てくれる人に出会えた気がします』}`
+`{ruby:"<You calling me "Kinzo" makes me feel:『あなたが私を金蔵と呼んでくれるから、私}{ruby:like I can finally be my own man.:はやっと自分を取り戻すことが出来る。}`
+`{ruby:......I think...that I've finally met a person:……私はようやく、本当の意味で私を見}{ruby:who truly sees me for who I am.>":てくれる人に出会えた気がします』}`
 `{ruby:"<Kinzo.:『金蔵。}`
-`{ruby:You may be a foreigner I met in a distant land,:あなたはとても遠い異国で出会った外国人だけれど。}`
-`{ruby:......but I know your heart is very sensitive and beautiful.:……あなたの心はとても繊細で美しい。}`
-`{ruby:If we had grown up in the same neighborhood, I'm sure we'd have become quick friends.>":私たちはきっと、近所に住んでいたなら、とても当り前な友人になっていたわ』}`
+`{ruby:You may be a foreigner:あなたはとても遠い異国で出}{ruby:I met in a distant land,:会った外国人だけれど。}`
+`{ruby:......but I know your heart:……あなたの心はとて}{ruby:is very sensitive and beautiful.:も繊細で美しい。}`
+`{ruby:If we had grown up in the same:私たちはきっと、近所に住んでいたなら、}{ruby:neighborhood, I'm sure we'd have become quick friends.>":とても当り前な友人になっていたわ』}`
 `{ruby:"<......I'm happy too.:『……私も嬉しいのよ。}`
 `{ruby:You always call me Beatrice.:あなたは私のことをベアトリーチェと呼ぶ。}`
-`{ruby:Not "the daughter of the Castiglioni family".>":カスティリオーニのご令嬢とは呼ばないわ』}`
+`{ruby:Not "the daughter:カスティリオーニのご令}{ruby:of the Castiglioni family".>":嬢とは呼ばないわ』}`
 `{ruby:We were both in the same position.:二人の立場は、同じだったのだ。}`
-`{ruby:Her Castiglioni family must have been a rigid place as well.:彼女のカスティリオーニ家も、さぞや堅苦しいところに違いない。}`
-`{ruby:......Though we came from different countries, we had finally found something we could truly understand about each other.:……ようやく二人は、異国の人間同士なのに、互いを理解し合えるものを見つける。}`
-`{ruby:"<Do you have a nickname that people close to you use?>":『金蔵は親しい者には何て名前で？』}`
+`{ruby:Her Castiglioni family must have:彼女のカスティリオーニ家も、さぞ}{ruby:been a rigid place as well.:や堅苦しいところに違いない。}`
+`{ruby:......Though we came from different countries, we had finally:……ようやく二人は、異国の人間同士なのに}{ruby:found something we could truly understand about each other.:、互いを理解し合えるものを見つける。}`
+`{ruby:"<Do you have a nickname:『金蔵は親しい者には}{ruby:that people close to you use?>":何て名前で？』}`
 `{ruby:"<No.:『いえ。}`
 `{ruby:They would just call me Kinzo.>":普通に金蔵と呼ばれていました』}`
-`{ruby:"<Well then, you should stop calling me Beatrice.:『じゃあ、あなたは私をベアトリーチェと呼ぶのを改めるべきだわ。}`
-`{ruby:All of my close friends used to call me Bice.:親しい人間は私のことを、ビーチェと呼んでいた。}`
+`{ruby:"<Well then, you should:『じゃあ、あなたは私をベアトリーチ}{ruby:stop calling me Beatrice.:ェと呼ぶのを改めるべきだわ。}`
+`{ruby:All of my close friends:親しい人間は私のことを、ビ}{ruby:used to call me Bice.:ーチェと呼んでいた。}`
 `{ruby:I'd like you to call me that too.>":あなたもそうしてくれると嬉しいわ』}`
 `{ruby:"<Very well.:『わかりました。}`
-`{ruby:From this point onwards, I will call you Bice as a sign of our friendship.>":これからは親しみを込めて、ビーチェとお呼びを』}`
+`{ruby:From this point onwards, I will call:これからは親しみを込めて、}{ruby:you Bice as a sign of our friendship.>":ビーチェとお呼びを』}`
 `{ruby:"<Ah, come on.:『ダメダメ。}`
 `{ruby:You can't talk all stiff like that.:堅苦しい言葉はダ〜メ。}`
 `{ruby:We're friends now, okay?>":だって私たちはもう、友人なのだから』}`
-`{ruby:A bright smile stretched across Beatrice's face......:ベアトリーチェは、とびきりの笑顔で、そう微笑んでくれた……。}`
+`{ruby:A bright smile:ベアトリーチェは、とびきりの笑顔}{ruby:stretched across Beatrice's face......:で、そう微笑んでくれた……。}`
 `{ruby:"No matter how many decades pass,:「あの微笑が、……あれから何十年を経ようとも、}`
-`{ruby:......that smile will never fade from my memory......":……我が記憶より薄れることはない……」}`
-`{ruby:"......So, by meeting Beatrice, you managed to regain your sense of self.":「……お祖父さまはベアトリーチェと出会うことで、自分を取り戻されたのですね」}`
-`{ruby:"Or, as most people would put it, he cheated on his wife.:「平たく言やァ、浮気だな。}`
+`{ruby:......that smile will never:……我が記憶より薄れる}{ruby:fade from my memory......":ことはない……」}`
+`{ruby:"......So, by meeting Beatrice, you managed:「……お祖父さまはベアトリーチェと出会う}{ruby:to regain your sense of self.":ことで、自分を取り戻されたのですね」}`
+`{ruby:"Or, as most people would put:「平たく言やァ、}{ruby:it, he cheated on his wife.:浮気だな。}`
 `{ruby:.........Nggyaahh, ggrrrrkkk......":………ぬぐおッ、ぐぎぐごごごご……、」}`
-`{ruby:"If you plan to continue being rude, I suggest you get in the habit of covering your butt.":「ウィルさんは今後も失言を繰り返されるなら、おしりを庇われるくせをつけることをお勧めします」}`
-`{ruby:After having his butt pinched once more, Will hopped around in pathetic agony...:またしても理御におしりをつねられ、ウィルは情けない格好で跳ねながら悶絶する…。}`
-`{ruby:"So, in your eyes, Grandfather, Rokkenjima was...:「お祖父さまにとって、六軒島は、}`
-`{ruby:always special for being the place you first met Beatrice.":ベアトリーチェと初めて出会われた、特別な場所だったのですね」}`
+`{ruby:"If you plan to continue being rude, I suggest:「ウィルさんは今後も失言を繰り返されるなら、おし}{ruby:you get in the habit of covering your butt.":りを庇われるくせをつけることをお勧めします」}`
+`{ruby:After having his butt pinched once:またしても理御におしりをつねられ、ウィルは}{ruby:more, Will hopped around in pathetic agony...:情けない格好で跳ねながら悶絶する…。}`
+`{ruby:"So, in your:「お祖父さまにとっ}{ruby:eyes, Grandfather, Rokkenjima was...:て、六軒島は、}`
+`{ruby:always special for being the:ベアトリーチェと初めて出会われた}{ruby:place you first met Beatrice.":、特別な場所だったのですね」}`
 `{ruby:".........Mm.:「………うむ。}`
-`{ruby:...If I had never come to this island, I would never have met her... It truly is an island of miracles...":…私がこの島に来ることがなければ、出会うこともなかった、奇跡の島なのだ…」}`
-`{ruby:"Is there anything left of that submarine base today?":「その潜水艦基地の名残とやらは、今も残っているのか」}`
-`{ruby:"Yes, it's still there, close to Kuwadorian.:「九羽鳥庵の近くに、今も残っている。}`
-`{ruby:It's in the shadows of a cove that can't be seen from the outside.:外界からは見えぬ入り江の影だ。}`
-`{ruby:After all, fishermen never approach this supposedly ill‐omened island.:不吉がって漁師たちも近寄らなかった島だ。}`
-`{ruby:It is unlikely that anyone besides me still knows of its existence.":私以外に知る者はもはやいるまい」}`
-`{ruby:"Is the two‐kilometer‐long underground passage between Kuwadorian and the mansion a remnant of that base?":「九羽鳥庵と屋敷を結ぶ、２ｋｍにも及ぶ地下道は、その基地の名残なのか」}`
+`{ruby:...If I had never come to this island, I would:…私がこの島に来ることがなければ、出会う}{ruby:never have met her... It truly is an island of miracles...":こともなかった、奇跡の島なのだ…」}`
+`{ruby:"Is there anything left:「その潜水艦基地の名残とやら}{ruby:of that submarine base today?":は、今も残っているのか」}`
+`{ruby:"Yes, it's still:「九羽鳥庵の近くに、}{ruby:there, close to Kuwadorian.:今も残っている。}`
+`{ruby:It's in the shadows of a cove:外界からは見えぬ入}{ruby:that can't be seen from the outside.:り江の影だ。}`
+`{ruby:After all, fishermen never:不吉がって漁師たちも近}{ruby:approach this supposedly ill‐omened island.:寄らなかった島だ。}`
+`{ruby:It is unlikely that anyone besides:私以外に知る者はも}{ruby:me still knows of its existence.":はやいるまい」}`
+`{ruby:"Is the two‐kilometer‐long underground passage between Kuwadorian:「九羽鳥庵と屋敷を結ぶ、２ｋｍにも及ぶ}{ruby:and the mansion a remnant of that base?":地下道は、その基地の名残なのか」}`
 `{ruby:"That is correct.:「そうだ。}`
-`{ruby:There was some nonsense about carving a network of tunnels out of the limestone caverns...:鍾乳洞を改造した広大な地下壕で地下を網羅し、}`
-`{ruby:which would connect a number of bunkers across the island.:島内各地を要塞化する、……などという寝言の残骸だ。}`
-`{ruby:I made use of those tunnels and had two mansions built, one at each end of the island.":私はその地下道を生かし、島の両端に二つの屋敷を作らせたのだ」}`
+`{ruby:There was some nonsense about carving a:鍾乳洞を改造した広大な地}{ruby:network of tunnels out of the limestone caverns...:下壕で地下を網羅し、}`
+`{ruby:which would connect a number:島内各地を要塞化する、……な}{ruby:of bunkers across the island.:どという寝言の残骸だ。}`
+`{ruby:I made use of those tunnels and had two:私はその地下道を生かし、島の両端}{ruby:mansions built, one at each end of the island.":に二つの屋敷を作らせたのだ」}`
 `{ruby:"Two mansions, two families.:「二つの屋敷、二つの家族。}`
-`{ruby:......The Ushiromiya family mansion, ......and the mansion for "Kinzo", released from the shackles of the Ushiromiya family.":……右代宮家の屋敷と、……右代宮家から解放された、金蔵の屋敷だったのですね」}`
+`{ruby:......The Ushiromiya family mansion, ......and the mansion for:……右代宮家の屋敷と、……右代宮家から解}{ruby:"Kinzo", released from the shackles of the Ushiromiya family.":放された、金蔵の屋敷だったのですね」}`
 `{ruby:"............Correct.:「…………そうだ。}`
 `{ruby:......It was something I needed.:……私には、必要だったのだ。}`
-`{ruby:......A place for me to escape from the cursed name of Ushiromiya.":……右代宮という、呪われた姓から逃れる、もう一つの場所が」}`
-`{ruby:"....................................":「………………………………」}`
+`{ruby:......A place for me to escape:……右代宮という、呪われた姓から}{ruby:from the cursed name of Ushiromiya.":逃れる、もう一つの場所が」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
 `{ruby:"<Still, I do feel bad for you.:『しかし、同情するよ。}`
-`{ruby:It must be awful to have come all the way out here and been unable to fulfill your mission.>":遥々、日本までやって来て、任務を成し遂げられなかったとは、気の毒の限りだ』}`
-`{ruby:"<I don't really know what Papa's plan was.:『パパの任務が何だったか、よくわからないわ。}`
-`{ruby:He said that we needed to run far away to hide "it" until the time came.>":どこか遠くへ逃げ、大切な日まで“それ”を隠さなければならないと言っていた』}`
+`{ruby:It must be awful to have come all the:遥々、日本までやって来て、任務を成し遂げ}{ruby:way out here and been unable to fulfill your mission.>":られなかったとは、気の毒の限りだ』}`
+`{ruby:"<I don't really know:『パパの任務が何だったか}{ruby:what Papa's plan was.:、よくわからないわ。}`
+`{ruby:He said that we needed to run far:どこか遠くへ逃げ、大切な日まで“それ”を}{ruby:away to hide "it" until the time came.>":隠さなければならないと言っていた』}`
 `{ruby:"<And what is "it"?>":『“それ”とは？』}`
 `{ruby:"<I don't know.:『わからないわ。}`
-`{ruby:......‘It’ was something very important,:……“それ”はとても大切なもので、}`
-`{ruby:and he planned to hide it for many years until the right moment.:大切な日まで、何年も隠しているつもりだったみたい。}`
-`{ruby:Oh, and he planned for us to remain hidden along with it.:いえ、それと一緒に隠れているつもりだったみたい。}`
-`{ruby:I know because he apologized to me that I might be spending a very long time on foreign soil.>":私に、異国の地で長い時間を過ごすことになるかもしれないと謝っていたから』}`
-`{ruby:"<Didn't Ensign Angelo say that you had no cargo in particular,:『アンジェロ少尉は、積荷は特になく、}`
-`{ruby:and that you were transporting your father instead?>":君の父上が輸送すべき要人だったと言っていたが？』}`
-`{ruby:"<The ensign doesn't trust you or the others.:『少尉はあなたたちを信用してないわ。}`
-`{ruby:Even I know a few things he's kept hidden from you.:私でさえ知っていることを、いくつも隠してる。}`
-`{ruby:......He might even know what Papa's goal was...and what the cargo is.>":……ひょっとすると少尉は、パパの目的と積荷を知っているのかも』}`
-`{ruby:"<Whatever it is, that's a mission for the Italian military.:『それが何だったにせよ、それはイタリア軍の任務さ。}`
+`{ruby:......‘It’ was:……“それ”はとても}{ruby:something very important,:大切なもので、}`
+`{ruby:and he planned to hide it:大切な日まで、何年も隠してい}{ruby:for many years until the right moment.:るつもりだったみたい。}`
+`{ruby:Oh, and he planned for us:いえ、それと一緒に隠れてい}{ruby:to remain hidden along with it.:るつもりだったみたい。}`
+`{ruby:I know because he apologized to me that I:私に、異国の地で長い時間を過ごすことに}{ruby:might be spending a very long time on foreign soil.>":なるかもしれないと謝っていたから』}`
+`{ruby:"<Didn't Ensign Angelo say that:『アンジェロ少尉は、}{ruby:you had no cargo in particular,:積荷は特になく、}`
+`{ruby:and that you were:君の父上が輸送すべき要人だ}{ruby:transporting your father instead?>":ったと言っていたが？』}`
+`{ruby:"<The ensign doesn't trust:『少尉はあなたたちを}{ruby:you or the others.:信用してないわ。}`
+`{ruby:Even I know a few:私でさえ知っていることを}{ruby:things he's kept hidden from you.:、いくつも隠してる。}`
+`{ruby:......He might even know what Papa's:……ひょっとすると少尉は、パパの目}{ruby:goal was...and what the cargo is.>":的と積荷を知っているのかも』}`
+`{ruby:"<Whatever it is, that's a:『それが何だったにせよ、それ}{ruby:mission for the Italian military.:はイタリア軍の任務さ。}`
 `{ruby:It has nothing to do with us.:俺らには関係ないね。}`
 `{ruby:In fact, given that we're allies,:むしろ、同盟国なんだ。}`
-`{ruby:we'd be willing to help if only they asked.>":頼ってくれればいいのに』}`
-`{ruby:"<I have no doubts that you're a good person, Kinzo.:『金蔵が良い人であることは疑わないわ。}`
-`{ruby:I've even told Ensign Angelo that you're a man we can trust, but...:少尉にも、あなたは信頼できる人間だと伝えてるんだけれど。}`
-`{ruby:......Why is it that men always get so rigid and uptight when they're in a strange land?>":……どうして男というのは、異郷ではむやみやたらと厳格になるの？』}`
-`{ruby:"<Normally, they're all very bright and cheery people.:『普段はみんな、もっと陽気な人たちばかりなのに。}`
-`{ruby:Ever since we came here, there's been this strange feeling of tension.:ここへ来てからみんな、妙に空気が張り詰めているわ。}`
-`{ruby:......Ensign Angelo has ordered that his subordinates be armed at all times.:……少尉は部下たち全員に常時、銃を手放さないように命じてる。}`
-`{ruby:It's almost as though we're in enemy territory.>":まるでここが敵地かのようだわ』}`
+`{ruby:we'd be willing to:頼ってくれれば}{ruby:help if only they asked.>":いいのに』}`
+`{ruby:"<I have no doubts that:『金蔵が良い人であるこ}{ruby:you're a good person, Kinzo.:とは疑わないわ。}`
+`{ruby:I've even told Ensign Angelo that:少尉にも、あなたは信頼できる人}{ruby:you're a man we can trust, but...:間だと伝えてるんだけれど。}`
+`{ruby:......Why is it that men always get so:……どうして男というのは、異郷では}{ruby:rigid and uptight when they're in a strange land?>":むやみやたらと厳格になるの？』}`
+`{ruby:"<Normally, they're all very:『普段はみんな、もっと陽気}{ruby:bright and cheery people.:な人たちばかりなのに。}`
+`{ruby:Ever since we came here, there's:ここへ来てからみんな、妙に空}{ruby:been this strange feeling of tension.:気が張り詰めているわ。}`
+`{ruby:......Ensign Angelo has ordered that his:……少尉は部下たち全員に常時、銃}{ruby:subordinates be armed at all times.:を手放さないように命じてる。}`
+`{ruby:It's almost as though:まるでここが敵地か}{ruby:we're in enemy territory.>":のようだわ』}`
 `{ruby:That was true.:それは事実だった。}`
-`{ruby:The Italians were clearly the very opposite of relaxed.:イタリア人たちは皆、リラックスしているようには到底見えなかった。}`
-`{ruby:The Japanese soldiers, watching this, began to suspect that the Italians didn't really trust them at all.:日本人たちはそれを見て、彼らが自分たちのことを信用していないのではと訝しがっていた。}`
+`{ruby:The Italians were clearly:イタリア人たちは皆、リラックスして}{ruby:the very opposite of relaxed.:いるようには到底見えなかった。}`
+`{ruby:The Japanese soldiers, watching this, began to suspect:日本人たちはそれを見て、彼らが自分たちのこと}{ruby:that the Italians didn't really trust them at all.:を信用していないのではと訝しがっていた。}`
 `{ruby:"<That's normal for a soldier.:『軍人ならおかしいことじゃないさ。}`
-`{ruby:This is precisely the time for them to straighten up their guard, so they don't embarrass themselves in front of a friendly army.>":むしろ、こういう時こそ規律を引締めて、友軍に恥ずかしいところを見せたくないんじゃないか』}`
-`{ruby:"<They have a person stand watch every time they sleep,:『就寝時には必ず不寝番を立てるし、}`
-`{ruby:and they're still keeping a lookout to make sure none of you approach the submarine, even though it's nothing more than an unusable scrap heap now.:もう航行できないスクラップ同然の潜水艦に、今もあなたたちを近付けないように見張りを立てているわ。}`
-`{ruby:It almost feels as though they're acting openly hostile towards the Japanese, and that bothers me.>":私は何だか、日本人を露骨に毛嫌いしているように見えて、気持ちが悪い』}`
-`{ruby:True, they had set up a constant sentry by the submarine and had refused to let any of the Japanese soldiers come near.:確かに、彼らは潜水艦に常に歩哨を立て、日本人の接近を一切、許さなかった。}`
-`{ruby:This hadn't made the Japanese particularly happy.:そのことは、日本人たちの間でも不快に思われていた。}`
-`{ruby:......However, submarines are treated as classified in all countries.:……しかし、潜水艦はどこの国でも機密扱いだ。}`
-`{ruby:Maybe it was just natural for them to stop foreigners from approaching it without reason.:濫りに外国人を近付けないのは、当然と言えば当然かもしれないが。}`
-`{ruby:"<They're probably uncomfortable with being made to live in a way they aren't used to.:『慣れない生活を強いられて、みんな気が立ってるんだろう。}`
-`{ruby:......That boat which is supposed to take you back to the mainland is still being delayed by weather and problems up the command chain.:……天候とお上の都合で、君たちを本土へ運ぶ船の派遣がまた遅れてる。}`
-`{ruby:Just how long will it take before they can send you there...>":君たちをいつ、本土へ送ってあげられるやら…』}`
-`{ruby:We had been told that a boat was being sent for them directly from the mainland,:本土の方から直接、迎えの船が来ることになっているのだが、}`
-`{ruby:but apparently, thanks to the weather, problems up the command chain, and the recent air raids,:天候とお上の都合、あと、先日の空襲の影響があるようで、}`
-`{ruby:there were no ships to spare for a forgotten island like this.:こんな忘れられた島に船を送る余裕がないようだった。}`
-`{ruby:There might have been some sort of diplomatic problem.:ひょっとすると、外交上のトラブルもあるのかもしれない。}`
-`{ruby:......After all, their homeland had already surrendered to the Allies.:……何しろ、彼女らの母国はすでに、連合国に降伏しているのだから。}`
+`{ruby:This is precisely the time for them to straighten up their:むしろ、こういう時こそ規律を引締めて、友軍に恥}{ruby:guard, so they don't embarrass themselves in front of a friendly army.>":ずかしいところを見せたくないんじゃないか』}`
+`{ruby:"<They have a person stand:『就寝時には必ず不寝}{ruby:watch every time they sleep,:番を立てるし、}`
+`{ruby:and they're still keeping a lookout to make sure none of you approach:もう航行できないスクラップ同然の潜水艦に、今もあな}{ruby:the submarine, even though it's nothing more than an unusable scrap heap now.:たたちを近付けないように見張りを立てているわ。}`
+`{ruby:It almost feels as though they're acting openly:私は何だか、日本人を露骨に毛嫌いして}{ruby:hostile towards the Japanese, and that bothers me.>":いるように見えて、気持ちが悪い』}`
+`{ruby:True, they had set up a constant sentry by the submarine:確かに、彼らは潜水艦に常に歩哨を立て、}{ruby:and had refused to let any of the Japanese soldiers come near.:日本人の接近を一切、許さなかった。}`
+`{ruby:This hadn't made:そのことは、日本人たちの間で}{ruby:the Japanese particularly happy.:も不快に思われていた。}`
+`{ruby:......However, submarines are treated:……しかし、潜水艦はどこ}{ruby:as classified in all countries.:の国でも機密扱いだ。}`
+`{ruby:Maybe it was just natural for them:濫りに外国人を近付けないのは、当然}{ruby:to stop foreigners from approaching it without reason.:と言えば当然かもしれないが。}`
+`{ruby:"<They're probably uncomfortable with being made to:『慣れない生活を強いられて、み}{ruby:live in a way they aren't used to.:んな気が立ってるんだろう。}`
+`{ruby:......That boat which is supposed to take you back to the mainland:……天候とお上の都合で、君たちを本土}{ruby:is still being delayed by weather and problems up the command chain.:へ運ぶ船の派遣がまた遅れてる。}`
+`{ruby:Just how long will it take:君たちをいつ、本土へ送っ}{ruby:before they can send you there...>":てあげられるやら…』}`
+`{ruby:We had been told that a boat was:本土の方から直接、迎えの船が来}{ruby:being sent for them directly from the mainland,:ることになっているのだが、}`
+`{ruby:but apparently, thanks to the weather, problems up:天候とお上の都合、あと、先日の}{ruby:the command chain, and the recent air raids,:空襲の影響があるようで、}`
+`{ruby:there were no ships to spare:こんな忘れられた島に船を送る}{ruby:for a forgotten island like this.:余裕がないようだった。}`
+`{ruby:There might have been:ひょっとすると、外交上のトラブ}{ruby:some sort of diplomatic problem.:ルもあるのかもしれない。}`
+`{ruby:......After all, their homeland had:……何しろ、彼女らの母国はすでに、}{ruby:already surrendered to the Allies.:連合国に降伏しているのだから。}`
 `{ruby:......I didn't know the details.:……細かい事情はわからない。}`
 `{ruby:The only thing I knew for sure...:確実にわかるのは、}`
-`{ruby:was that they'd been stuck on Rokkenjima for two whole weeks and no one had come to get them.:彼女らが六軒島にやって来てから２週間も足止めされ、未だに迎えが来ないことだけだ。}`
-`{ruby:Of course, we had some small boats on Rokkenjima.:もちろん、六軒島にも小船はある。}`
-`{ruby:{n}There was nothing physically stopping us from taking them to a nearby island.:{n}近くの島に彼らを運べないわけじゃない。}`
-`{ruby:Still, Rokkenjima was technically a top‐secret base, and contact with the outside world had been strictly forbidden...:しかし、六軒島は秘密基地という建前があり、島外との接触は厳しく禁じられていた…。}`
-`{ruby:"<Well, nothing we can do about it, and it isn't all that bad, really.:『仕方がないし、それも悪くないわ。}`
-`{ruby:After all, if a boat did come for us, I'd probably never see you again, Kinzo.>":だって船が来てしまったら、金蔵とはもう会えなくなってしまうんでしょう？』}`
+`{ruby:was that they'd been stuck on Rokkenjima for two:彼女らが六軒島にやって来てから２週間も足止}{ruby:whole weeks and no one had come to get them.:めされ、未だに迎えが来ないことだけだ。}`
+`{ruby:Of course, we had:もちろん、六軒島に}{ruby:some small boats on Rokkenjima.:も小船はある。}`
+`{ruby:{n}There was nothing physically stopping us:{n}近くの島に彼らを運}{ruby:from taking them to a nearby island.:べないわけじゃない。}`
+`{ruby:Still, Rokkenjima was technically a top‐secret base, and:しかし、六軒島は秘密基地という建前があり、}{ruby:contact with the outside world had been strictly forbidden...:島外との接触は厳しく禁じられていた…。}`
+`{ruby:"<Well, nothing we can do about it,:『仕方がないし、それ}{ruby:and it isn't all that bad, really.:も悪くないわ。}`
+`{ruby:After all, if a boat did come for:だって船が来てしまったら、金蔵とはもう}{ruby:us, I'd probably never see you again, Kinzo.>":会えなくなってしまうんでしょう？』}`
 `{ruby:"<.........True.>":『………確かに』}`
-`{ruby:To me, those two weeks......were the first I'd ever truly {i:lived}.:私にとってこの２週間は、……初めて、{i:生きた}日々だった。}`
-`{ruby:The faint twenty years before all seemed to vanish in the sparkle of those two weeks.:これまでの希薄な２０年間の全ては、この２週間の輝きの前に霞んだ。}`
-`{ruby:......I realized that she would have to leave this place eventually.:……やがて彼女がここを去ることは知っている。}`
-`{ruby:And yet, this one moment felt so rich and dazzling...:しかし、今の一瞬が、永遠であればいいと思うほどに、}`
-`{ruby:...that I felt myself wishing it could last forever......:……濃密で眩い時間だった……。}`
-`{ruby:Then, I heard a voice calling for Beatrice in Italian.:その時、イタリア語でベアトリーチェを呼ぶ声が聞こえた。}`
+`{ruby:To me, those two weeks......were:私にとってこの２週間は、……初めて}{ruby:the first I'd ever truly {i:lived}.:、{i:生きた}日々だった。}`
+`{ruby:The faint twenty years before all seemed to:これまでの希薄な２０年間の全ては、}{ruby:vanish in the sparkle of those two weeks.:この２週間の輝きの前に霞んだ。}`
+`{ruby:......I realized that she would:……やがて彼女がここを去}{ruby:have to leave this place eventually.:ることは知っている。}`
+`{ruby:And yet, this one moment:しかし、今の一瞬が、永遠であ}{ruby:felt so rich and dazzling...:ればいいと思うほどに、}`
+`{ruby:...that I felt myself:……濃密で眩い時間}{ruby:wishing it could last forever......:だった……。}`
+`{ruby:Then, I heard a voice:その時、イタリア語でベアトリー}{ruby:calling for Beatrice in Italian.:チェを呼ぶ声が聞こえた。}`
 `{ruby:"<......It's Ensign Angelo.:『……アンジェロ少尉だよ。}`
-`{ruby:Looks like he wants you for something.>":君に用事みたいだ』}`
+`{ruby:Looks like he:君に用事みた}{ruby:wants you for something.>":いだ』}`
 `{ruby:"<Probably to scold me.:『またお小言かしら。}`
-`{ruby:These days, he keeps yapping on about how I shouldn't get too friendly with the Japanese soldiers.>":日本人とあまり親しくするなと、最近うるさいのよ』}`
-`{ruby:The ensign approached, saluting Kinzo,:少尉はやって来ると、金蔵に敬礼し、}`
-`{ruby:and after glancing at Beatrice as though asking her to translate something, he began to speak in Italian.:通訳を求めるようにベアトリーチェの方をちらりと見てから、イタリア語を話し始める。}`
-`{ruby:Judging by his tone, it sounded like something serious.:口調からして、どうやらかなり真剣な話のようだった。}`
-`{ruby:"<......Ensign Angelo has something very important to say, so he wants to talk with your commanding officer.:『……少尉は、とても重要な話があるから、あなたたちの指揮官に会わせてほしいと言ってるわ。}`
-`{ruby:......He seeks assistance with something.:……協力を求めたいと言っている。}`
+`{ruby:These days, he keeps yapping on about how:日本人とあまり親しくするな}{ruby:I shouldn't get too friendly with the Japanese soldiers.>":と、最近うるさいのよ』}`
+`{ruby:The ensign:少尉はやって来ると、}{ruby:approached, saluting Kinzo,:金蔵に敬礼し、}`
+`{ruby:and after glancing at Beatrice as though asking her:通訳を求めるようにベアトリーチェの方をちら}{ruby:to translate something, he began to speak in Italian.:りと見てから、イタリア語を話し始める。}`
+`{ruby:Judging by his tone,:口調からして、どうやらかなり}{ruby:it sounded like something serious.:真剣な話のようだった。}`
+`{ruby:"<......Ensign Angelo has something very important to say,:『……少尉は、とても重要な話があるから、あなた}{ruby:so he wants to talk with your commanding officer.:たちの指揮官に会わせてほしいと言ってるわ。}`
+`{ruby:......He seeks:……協力を求めたい}{ruby:assistance with something.:と言っている。}`
 `{ruby:I don't know what.>":何のことかわからないわ』}`
 `{ruby:"<Something important...?:『重要な話…？}`
 `{ruby:Got it.:わかった。}`
 `{ruby:I'll go find Lieutenant Yamamoto.>":山本中尉を探そう』}`
-`{ruby:Ensign Angelo had two of his subordinates with him and wore a stern expression on his face.:アンジェロ少尉は、２名の下士官を引き連れて、かなりの真剣な表情を浮かべていた。}`
-`{ruby:They didn't have to say anything for us to realize that this must be something very serious......:彼らが重要な話を口にせずとも、それをうかがうことが出来た……。}`
+`{ruby:Ensign Angelo had two of his subordinates with:アンジェロ少尉は、２名の下士官を引き連れて}{ruby:him and wore a stern expression on his face.:、かなりの真剣な表情を浮かべていた。}`
+`{ruby:They didn't have to say anything for us:彼らが重要な話を口にせずとも、それ}{ruby:to realize that this must be something very serious......:をうかがうことが出来た……。}`
 `{ruby:"That's it!!:「いいぞー！！}`
 `{ruby:Lift it up!!":上げろー！！」}`
-`{ruby:The winch creaked and the thick chains rang out with a dull clang.:ウィンチが唸り、太い鎖が重い金属音を鳴かせる。}`
-`{ruby:Very, very slowly, ......{i:it} was lifted up out of the submarine's cargo hold.:潜水艦の貨物倉から、……ゆっくり、ゆっくりと、それが引き上げられていく。}`
+`{ruby:The winch creaked and the thick:ウィンチが唸り、太い鎖が重}{ruby:chains rang out with a dull clang.:い金属音を鳴かせる。}`
+`{ruby:Very, very slowly, ......{i:it} was lifted:潜水艦の貨物倉から、……ゆっくり、ゆっ}{ruby:up out of the submarine's cargo hold.:くりと、それが引き上げられていく。}`
 `{ruby:"......Now I get it!:「……なるほどッ。}`
-`{ruby:......So this is why those Italians didn't want us near their sub...!":……イタリア人どもが、我々を潜水艦に近付けたがらないわけだ…！」}`
-`{ruby:The lieutenant and the others looked up at what the winch was slowly lifting up,:中尉たちが、憎々しげな引きつった笑みを浮かべながら、}`
-`{ruby:......all of them wearing unpleasant, forced smiles......:……ゆっくりとウィンチに引き上げられて行く、それを見上げる……。}`
+`{ruby:......So this is why those Italians:……イタリア人どもが、我々を潜水艦}{ruby:didn't want us near their sub...!":に近付けたがらないわけだ…！」}`
+`{ruby:The lieutenant and the others looked up:中尉たちが、憎々しげな引きつ}{ruby:at what the winch was slowly lifting up,:った笑みを浮かべながら、}`
+`{ruby:......all of them:……ゆっくりとウィンチに引き上げら}{ruby:wearing unpleasant, forced smiles......:れて行く、それを見上げる……。}`
 `{ruby:"<.........Unbelievable...:『………何てこと…。}`
-`{ruby:......So this is what Papa brought all this way...?>":……これが、パパの運んでいた積荷だというの…？』}`
+`{ruby:......So this is what:……これが、パパの運んでい}{ruby:Papa brought all this way...?>":た積荷だというの…？』}`
 `{ruby:"<I‐......incredible......:『す、……すごい……。}`
-`{ruby:......I've never seen anything like this......>":……こんなの、生まれて初めて見た……』}`
+`{ruby:......I've never seen:……こんなの、生まれて}{ruby:anything like this......>":初めて見た……』}`
 `{ruby:It was...a mountain of gold ingots.:それは、黄金のインゴットの山だった。}`
-`{ruby:Those carefully piled bars were being slowly lifted out of the cargo hold, one group after another......:緻密に積み上げられたそれが、ゆっくりと、次々と、貨物倉から引き上げられて行く……。}`
+`{ruby:Those carefully piled bars were being slowly lifted:緻密に積み上げられたそれが、ゆっくりと、次々}{ruby:out of the cargo hold, one group after another......:と、貨物倉から引き上げられて行く……。}`
 `{ruby:This gold had been their true cargo.:この黄金こそが、彼らの本当の積荷だったのだ。}`
-`{ruby:I don't know where they were planning to take it.:彼らがそれを、どこへ運び込もうとしていたのかはわからない。}`
-`{ruby:They might have been trying to sneak it into Japan, one of their allies,:同盟国の日本へ運び込もうとしたのかもしれないし、}`
-`{ruby:......or they might have been on their way to hide it in some remote area.:……あるいはどこかの辺境へ、それを隠しに行く途中だったのかもしれない。}`
+`{ruby:I don't know where they:彼らがそれを、どこへ運び込もうと}{ruby:were planning to take it.:していたのかはわからない。}`
+`{ruby:They might have been trying to sneak:同盟国の日本へ運び込もうと}{ruby:it into Japan, one of their allies,:したのかもしれないし、}`
+`{ruby:......or they might have been on their:……あるいはどこかの辺境へ、それを隠し}{ruby:way to hide it in some remote area.:に行く途中だったのかもしれない。}`
 `{ruby:Was it some sort of strategy?:何かの作戦？}`
 `{ruby:A conspiracy? Embezzlement?:陰謀？　横領？}`
 `{ruby:Top‐secret transportation of wealth?:極秘輸送？}`
-`{ruby:This incomprehensible amount of gold led to all sorts of dark suspicions, but we didn't know anything about the truth.:あまりの桁違いの黄金に、あらゆる邪推が交錯するが、真実など何もわかりはしない。}`
-`{ruby:All told, the gold weighed an incredible ten tons.:その莫大な黄金の総量は、１０ｔ。}`
-`{ruby:{n}That was the only truth we could wrap our minds around at the moment......:{n}それだけが、今、理解できる唯一の真実だった……。}`
-`{ruby:They had strongly resisted showing this to us.:彼らはそれを極力、我々には見せたくないようだった。}`
-`{ruby:{n}However, the submarine could no longer make sea, and it was apparently continuing to take in water bit by bit.:{n}しかし、潜水艦が航行不能に陥り、さらに浸水も続いていたらしい。}`
-`{ruby:Rokkenjima had been outfitted in an extremely slipshod way, so we had no means of repairing it.:六軒島の設備は極めて未熟な状態で放置されており、修理能力はまったくない。}`
-`{ruby:Also, while we could unload the sub, there was no way we could lift it up again once it had filled with water and sunk to the bottom.:また、荷揚げは出来ても、沈没して着底した潜水艦を引き上げることなど到底出来ない。}`
-`{ruby:It was clear that unless action was taken, the gold would soon become completely impossible to transport.:このままでは黄金が完全に輸送不能になってしまうことが明白となり、}`
-`{ruby:............And so, they had made the decision to unload it.:…………彼らは荷揚げする決断をしたらしい。}`
-`{ruby:Of course, they made no effort to explain the reason for all this gold.:もちろん彼らは、この黄金が何であるかは一切説明しない。}`
-`{ruby:{n}They just asked us to help them take it out......:{n}ただ、荷揚げしてほしいと依頼してきただけだ……。}`
-`{ruby:"<Why would they take so much gold out of the country...?:『なぜ、こんな大量の黄金を国外へ…？}`
-`{ruby:Couldn't they have changed the course of the war with this much wealth...?>":これだけあれば、イタリアの戦局を変えられたかもしれないのに…？』}`
-`{ruby:"<......Weapons change the course of war,:『……戦局を変えるのは武器よ。}`
-`{ruby:but after the war, they aren't useful for anything.:でも戦後は何の役にも立たないわ。}`
-`{ruby:......Money may also change the course,:……確かにお金も戦局を変えはするでしょうよ。}`
-`{ruby:but it remains just as valuable after the war.>":でも、戦後にもその価値は、変わらないわ』}`
-`{ruby:There was no longer any way to change the course of this war.:もう戦局は覆らない。}`
-`{ruby:{n}The Axis powers would probably all surrender, leading to an Allied victory.:{n}枢軸国は全て降伏し、連合国の勝利に終わるだろう。}`
-`{ruby:Anyone could tell this simply by looking at the American planes flying across the sky day after day.:それは連日、空を往復する米軍機の群を見て誰もが知っている。}`
-`{ruby:However, gold would still be valuable after the war was over.:しかし、戦争が終わっても、黄金の価値は、変わらない。}`
+`{ruby:This incomprehensible amount of gold led to all sorts of:あまりの桁違いの黄金に、あらゆる邪推が交錯}{ruby:dark suspicions, but we didn't know anything about the truth.:するが、真実など何もわかりはしない。}`
+`{ruby:All told, the gold:その莫大な黄金の総}{ruby:weighed an incredible ten tons.:量は、１０ｔ。}`
+`{ruby:{n}That was the only truth we could:{n}それだけが、今、理解でき}{ruby:wrap our minds around at the moment......:る唯一の真実だった……。}`
+`{ruby:They had strongly resisted:彼らはそれを極力、我々には見}{ruby:showing this to us.:せたくないようだった。}`
+`{ruby:{n}However, the submarine could no longer make sea, and it:{n}しかし、潜水艦が航行不能に陥り}{ruby:was apparently continuing to take in water bit by bit.:、さらに浸水も続いていたらしい。}`
+`{ruby:Rokkenjima had been outfitted in an extremely slipshod:六軒島の設備は極めて未熟な状態で放置さ}{ruby:way, so we had no means of repairing it.:れており、修理能力はまったくない。}`
+`{ruby:Also, while we could unload the sub, there was no way we could lift:また、荷揚げは出来ても、沈没して着底した潜}{ruby:it up again once it had filled with water and sunk to the bottom.:水艦を引き上げることなど到底出来ない。}`
+`{ruby:It was clear that unless action was taken,:このままでは黄金が完全に輸送不能に}{ruby:the gold would soon become completely impossible to transport.:なってしまうことが明白となり、}`
+`{ruby:............And so, they had made:…………彼らは荷揚げする}{ruby:the decision to unload it.:決断をしたらしい。}`
+`{ruby:Of course, they made no effort to:もちろん彼らは、この黄金が何で}{ruby:explain the reason for all this gold.:あるかは一切説明しない。}`
+`{ruby:{n}They just asked us to:{n}ただ、荷揚げしてほしいと}{ruby:help them take it out......:依頼してきただけだ……。}`
+`{ruby:"<Why would they take so:『なぜ、こんな大量の}{ruby:much gold out of the country...?:黄金を国外へ…？}`
+`{ruby:Couldn't they have changed the course:これだけあれば、イタリアの戦局を変え}{ruby:of the war with this much wealth...?>":られたかもしれないのに…？』}`
+`{ruby:"<......Weapons change the:『……戦局を変える}{ruby:course of war,:のは武器よ。}`
+`{ruby:but after the war,:でも戦後は何の役に}{ruby:they aren't useful for anything.:も立たないわ。}`
+`{ruby:......Money may also:……確かにお金も戦局を変}{ruby:change the course,:えはするでしょうよ。}`
+`{ruby:but it remains just:でも、戦後にもその価値}{ruby:as valuable after the war.>":は、変わらないわ』}`
+`{ruby:There was no longer any way:もう戦局は覆}{ruby:to change the course of this war.:らない。}`
+`{ruby:{n}The Axis powers would probably all:{n}枢軸国は全て降伏し、連合}{ruby:surrender, leading to an Allied victory.:国の勝利に終わるだろう。}`
+`{ruby:Anyone could tell this simply by looking at the:それは連日、空を往復する米軍機の}{ruby:American planes flying across the sky day after day.:群を見て誰もが知っている。}`
+`{ruby:However, gold would still be:しかし、戦争が終わっても、黄}{ruby:valuable after the war was over.:金の価値は、変わらない。}`
 `{ruby:Everyone stared upwards,:誰もがウィンチに吊り上げられる、}`
 `{ruby:dumbfounded...:黄金の鈍い輝きを……、}`
-`{ruby:...as the winch slowly lifted the dully sparkling gold......:呆然と見上げていた……。}`
+`{ruby:...as the winch slowly:呆然と見上げて}{ruby:lifted the dully sparkling gold......:いた……。}`

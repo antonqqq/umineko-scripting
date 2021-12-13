@@ -1,515 +1,515 @@
-`{ruby:Erika had returned to the room that had been given to her on the second floor of the guesthouse.:ヱリカは、与えられたゲストハウス２階の自室に戻っていた。}`
+`{ruby:Erika had returned to the room that had been:ヱリカは、与えられたゲストハウ}{ruby:given to her on the second floor of the guesthouse.:ス２階の自室に戻っていた。}`
 `{ruby:The next room over was empty.:隣は空室。}`
 `{ruby:It was very quiet there...:とても静かな部屋だった…。}`
-`{ruby:Even pressing her ear against the wall wouldn't enable her to listen in on the voices in the cousins' room.:耳をつけても、いとこ部屋の声は何も聞くことが出来ない。}`
-`{ruby:Even with hearing power boosted by the detective's authority, it would probably be impossible to make out anything.:探偵権限に裏付けられた聴力を以ってしても、何かを気取ることは不可能だろう。}`
-`{ruby:This room was the farthest down the hall, a long ways away from the cousins' room......:この部屋は、いとこ部屋から遠く離された一番奥の部屋だった……。}`
-`{ruby:"Last time, my room was right next to theirs.:「前回は私の部屋は、いとこ部屋の隣だったのに。}`
-`{ruby:......I see...so he's placed my room farther away this time.":……なるほど、今回は私の部屋を遠ざけてきましたか」}`
-`{ruby:"The powers of authority given to the Game Master permit this level of modification to the initial {f:5:arrangement}.:「ゲームマスター権限で許された範囲の、初期配置の変更デス。}`
-`{ruby:It is, perhaps, a quite reasonable first {f:5:move}.":妥当な初手カト」}`
+`{ruby:Even pressing her ear against the wall wouldn't enable her:耳をつけても、いとこ部屋の声は}{ruby:to listen in on the voices in the cousins' room.:何も聞くことが出来ない。}`
+`{ruby:Even with hearing power boosted by the detective's authority,:探偵権限に裏付けられた聴力を以ってしても}{ruby:it would probably be impossible to make out anything.:、何かを気取ることは不可能だろう。}`
+`{ruby:This room was the farthest down the hall,:この部屋は、いとこ部屋から遠く離さ}{ruby:a long ways away from the cousins' room......:れた一番奥の部屋だった……。}`
+`{ruby:"Last time, my room:「前回は私の部屋は、いとこ}{ruby:was right next to theirs.:部屋の隣だったのに。}`
+`{ruby:......I see...so he's placed my:……なるほど、今回は私の部屋}{ruby:room farther away this time.":を遠ざけてきましたか」}`
+`{ruby:"The powers of authority given to the Game Master:「ゲームマスター権限で許された範}{ruby:permit this level of modification to the initial {f:5:arrangement}.:囲の、初期配置の変更デス。}`
+`{ruby:It is, perhaps, a:妥当な初手}{ruby:quite reasonable first {f:5:move}.":カト」}`
 `{ruby:"Well, that suits me too.:「まぁ、その方が私もいいです。}`
-`{ruby:I have no desire to listen to those brats' squeaky voices as they play cards.":あのクソガキどもの、トランプで遊ぶ黄色い声なんて、聞きたくもありませんから」}`
+`{ruby:I have no desire to listen to:あのクソガキどもの、トランプで遊ぶ黄色い}{ruby:those brats' squeaky voices as they play cards.":声なんて、聞きたくもありませんから」}`
 `{ruby:"..................":「………………」}`
-`{ruby:This whole time, Erika had been sitting at the desk working at something.:ヱリカはずっと机に向かって、作業をしていた。}`
-`{ruby:{n}......She was preparing some of those duct tape seals from before.:{n}それは、……例の、封印のガムテープの製作だった。}`
-`{ruby:She had asked Kumasawa for the stickiest tape available.:熊沢に一番粘着力の強いガムテープを所望したのだ。}`
-`{ruby:She drew a complicated, unforgeable signature on it with a permanent marker, then added slits through it.:それに油性マジックで複製不能の複雑なサインを書き入れ、切れ目を入れる。}`
-`{ruby:By sticking this over a place that she wanted to prove had remained closed,:こうして、塞がれていたことを証明したい箇所に貼り付けることで、}`
-`{ruby:she could create a powerful seal equal in strength to the red truth.:それは赤き真実に匹敵する強力な封印となる。}`
-`{ruby:Those menacing seals had cornered Natsuhi so thoroughly in the previous game...:前回のゲームで猛威を振るい、夏妃を徹底的に追い詰めた、あの封印だ…。}`
+`{ruby:This whole time, Erika had been:ヱリカはずっと机に向かっ}{ruby:sitting at the desk working at something.:て、作業をしていた。}`
+`{ruby:{n}......She was preparing some of:{n}それは、……例の、封印の}{ruby:those duct tape seals from before.:ガムテープの製作だった。}`
+`{ruby:She had asked Kumasawa:熊沢に一番粘着力の強いガム}{ruby:for the stickiest tape available.:テープを所望したのだ。}`
+`{ruby:She drew a complicated, unforgeable signature on it:それに油性マジックで複製不能の複雑なサ}{ruby:with a permanent marker, then added slits through it.:インを書き入れ、切れ目を入れる。}`
+`{ruby:By sticking this over a place that:こうして、塞がれていたことを証明し}{ruby:she wanted to prove had remained closed,:たい箇所に貼り付けることで、}`
+`{ruby:she could create a powerful seal:それは赤き真実に匹敵する}{ruby:equal in strength to the red truth.:強力な封印となる。}`
+`{ruby:Those menacing seals had cornered Natsuhi:前回のゲームで猛威を振るい、夏妃を徹}{ruby:so thoroughly in the previous game...:底的に追い詰めた、あの封印だ…。}`
 `{ruby:".........nn......:「………ん、……。}`
 `{ruby:......Great...":……これ…」}`
 `{ruby:"Is something {f:5:wrong}?":「如何しましタカ」}`
 `{ruby:"......He got me.:「……やられました。}`
-`{ruby:......That Battler doesn't let anything get by him, does he?":……戦人め、周到ですね」}`
-`{ruby:Erika shrugged and showed the piece of duct tape she had cut off to Dlanor.:ヱリカは肩を竦めて、切り取ったガムテープ片をドラノールに示す。}`
-`{ruby:By sight alone, Dlanor couldn't tell what had annoyed Erika.:一見しただけでは、ヱリカが何を不満なのかわからない。}`
-`{ruby:{n}However, as soon as she held the tape, she realized the difference right away.:{n}しかしそれを受け取ってすぐに、違いに気が付いた。}`
+`{ruby:......That Battler doesn't let anything:……戦人め、周}{ruby:get by him, does he?":到ですね」}`
+`{ruby:Erika shrugged and showed the piece of:ヱリカは肩を竦めて、切り取ったガム}{ruby:duct tape she had cut off to Dlanor.:テープ片をドラノールに示す。}`
+`{ruby:By sight alone, Dlanor couldn't:一見しただけでは、ヱリカが何}{ruby:tell what had annoyed Erika.:を不満なのかわからない。}`
+`{ruby:{n}However, as soon as she held the:{n}しかしそれを受け取ってす}{ruby:tape, she realized the difference right away.:ぐに、違いに気が付いた。}`
 `{ruby:"......This won't be any {f:5:good}.":「……これでは駄目デス」}`
 `{ruby:"Yes.:「えぇ。}`
 `{ruby:It's barely sticky at all.:粘着力、ほとんどないです。}`
-`{ruby:This won't reach even close to the red truth.":これじゃ、赤き真実には至れない」}`
-`{ruby:Even duct tape can be of low quality, and it sometimes gets weaker with age.:ガムテープも、品質の悪いものもあれば、経年で劣化するものもある。}`
-`{ruby:The tape Kumasawa had found was a bit too weak even for normal use.:熊沢に持ってきてもらったそれは、本来の用途でも少々微妙。}`
-`{ruby:It wasn't nearly sticky enough to be used as a detective's seal.:探偵の封印として使うには、まったく粘着力の足りないものだった。}`
-`{ruby:"It is possible to tear it off {f:5:cleanly}.:「綺麗に剥がすことが可能デス。}`
-`{ruby:This cannot serve as proof of a {f:5:seal}.":これでは、封印を示す証拠にはなりえマセン」}`
-`{ruby:"......I guess Battler isn't as totally incompetent as I thought.:「……戦人も、そこまで見下げ果てたほど、無能じゃないってことですね。}`
-`{ruby:He probably tampered with all the duct tape on the island using the authority of the Game Master.":おそらく、ゲームマスター権限で、この島の全てのガムテープに干渉したんでしょう」}`
-`{ruby:Letting Erika get her hands on duct tape gave her a fatal weapon to use against witches.:彼女にガムテープを持たせるだけで、それは魔女にとって致命的な武器となりうる。}`
-`{ruby:The previous game had proven this fact.:それは前回、証明済みだ。}`
-`{ruby:And so, Battler had removed that weapon from the entire mansion......:だから戦人は、その武器を屋敷中から取り除いたのだ……。}`
+`{ruby:This won't reach even:これじゃ、赤き真実}{ruby:close to the red truth.":には至れない」}`
+`{ruby:Even duct tape can be of low:ガムテープも、品質の悪いものもあれ}{ruby:quality, and it sometimes gets weaker with age.:ば、経年で劣化するものもある。}`
+`{ruby:The tape Kumasawa had found was a:熊沢に持ってきてもらったそれは}{ruby:bit too weak even for normal use.:、本来の用途でも少々微妙。}`
+`{ruby:It wasn't nearly sticky enough to:探偵の封印として使うには、まったく}{ruby:be used as a detective's seal.:粘着力の足りないものだった。}`
+`{ruby:"It is possible to:「綺麗に剥がすこと}{ruby:tear it off {f:5:cleanly}.:が可能デス。}`
+`{ruby:This cannot serve as:これでは、封印を示す証拠}{ruby:proof of a {f:5:seal}.":にはなりえマセン」}`
+`{ruby:"......I guess Battler isn't as:「……戦人も、そこまで見下げ果てたほ}{ruby:totally incompetent as I thought.:ど、無能じゃないってことですね。}`
+`{ruby:He probably tampered with all the duct tape on:おそらく、ゲームマスター権限で、この島の全}{ruby:the island using the authority of the Game Master.":てのガムテープに干渉したんでしょう」}`
+`{ruby:Letting Erika get her hands on duct tape:彼女にガムテープを持たせるだけで、それは}{ruby:gave her a fatal weapon to use against witches.:魔女にとって致命的な武器となりうる。}`
+`{ruby:The previous game:それは前回、証}{ruby:had proven this fact.:明済みだ。}`
+`{ruby:And so, Battler had removed:だから戦人は、その武器を屋敷中}{ruby:that weapon from the entire mansion......:から取り除いたのだ……。}`
 `{ruby:"Most likely,:「恐らく、}`
-`{ruby:all possible substitutes for duct tape have also been tampered {f:5:with}.":ガムテープに代わる品も、全て干渉を受けているに違いないデス」}`
+`{ruby:all possible substitutes for duct:ガムテープに代わる品も、全て干渉}{ruby:tape have also been tampered {f:5:with}.":を受けているに違いないデス」}`
 `{ruby:"......Probably.:「……ですね。}`
 `{ruby:Well, it isn't really so bad.:ま、良かったことにしておきます。}`
-`{ruby:At least this way, I won't have to look like a fool crawling all over the outer wall in the cold rain.":お陰で、この冷たい雨の中、みっともない姿で外壁を這い回らなくて済みますから」}`
-`{ruby:Erika tossed the duct tape aside and flopped spread‐eagled onto the bed...:ヱリカはガムテープを無造作に放り投げると、ベッドに転げて大の字になる…。}`
-`{ruby:"Well, detectives do have a penchant for puffing on a pipe while waiting calmly for a crime to occur.:「事件が起こるのを、パイプふかして悠然と待つのも、探偵の嗜みですし。}`
-`{ruby:......I doubt there'll be any part for you to play until the first twilight begins,:……あんたも、どうせ第一の晩が発覚するまで出番ないんですから、}`
-`{ruby:so why not vanish off somewhere and take a smoking break?:どこかに姿消して、一服でもしてたらどうですか。}`
-`{ruby:.........I imagine that looking at my face will do nothing more than tire you out.":………私の顔なんか、見てても疲れるだけでしょうし」}`
+`{ruby:At least this way, I won't have to look like a:お陰で、この冷たい雨の中、みっともない姿}{ruby:fool crawling all over the outer wall in the cold rain.":で外壁を這い回らなくて済みますから」}`
+`{ruby:Erika tossed the duct tape aside:ヱリカはガムテープを無造作に放り投げる}{ruby:and flopped spread‐eagled onto the bed...:と、ベッドに転げて大の字になる…。}`
+`{ruby:"Well, detectives do have a penchant for puffing on:「事件が起こるのを、パイプふかして悠}{ruby:a pipe while waiting calmly for a crime to occur.:然と待つのも、探偵の嗜みですし。}`
+`{ruby:......I doubt there'll be any part for:……あんたも、どうせ第一の晩が発覚}{ruby:you to play until the first twilight begins,:するまで出番ないんですから、}`
+`{ruby:so why not vanish off:どこかに姿消して、一服でも}{ruby:somewhere and take a smoking break?:してたらどうですか。}`
+`{ruby:.........I imagine that looking at my face:………私の顔なんか、見てても}{ruby:will do nothing more than tire you out.":疲れるだけでしょうし」}`
 `{ruby:"......I do not {f:5:smoke}.:「……煙草は吸わないデス。}`
 `{ruby:I am just a {f:5:kid}.":子供ですノデ」}`
 `{ruby:"Oh, really?:「そーですか。}`
 `{ruby:......I wish I could.:……私は吸いたいです。}`
-`{ruby:...Well, only if it really is as refreshing as smokers claim.":…喫煙者たちが謳うほどの、気分を爽快にさせる効果があるならの話ですが」}`
-`{ruby:"......It seems...that you are not in high {f:5:spirits}.":「……ご機嫌が、優れられないようデス」}`
+`{ruby:...Well, only if it really:…喫煙者たちが謳うほどの、気分を爽快に}{ruby:is as refreshing as smokers claim.":させる効果があるならの話ですが」}`
+`{ruby:"......It seems...that you are:「……ご機嫌が、優れら}{ruby:not in high {f:5:spirits}.":れないようデス」}`
 `{ruby:".........Does it look that way?":「………そう見えます？」}`
-`{ruby:Erika answered lazily, still looking up at the ceiling.:ヱリカは天井を見上げたまま、気だるそうにそう答える。}`
-`{ruby:{n}That in itself was half an answer...:{n}それは半ば、質問の答えになっていた…。}`
-`{ruby:The silence between the two was filled by the sound of the wind and rain.:二人の沈黙は、室内を雨と風の音で満たす。}`
+`{ruby:Erika answered lazily, still:ヱリカは天井を見上げたまま、}{ruby:looking up at the ceiling.:気だるそうにそう答える。}`
+`{ruby:{n}That in itself:{n}それは半ば、質問の}{ruby:was half an answer...:答えになっていた…。}`
+`{ruby:The silence between the two was filled:二人の沈黙は、室内を雨}{ruby:by the sound of the wind and rain.:と風の音で満たす。}`
 `{ruby:It was so quiet...:時計が時を刻む音に気付いてしまうほどに、}`
-`{ruby:...that it was hard not to listen to the ticking of the clock.:……静かだった。}`
+`{ruby:...that it was hard not to:……静かだ}{ruby:listen to the ticking of the clock.:った。}`
 `{ruby:".........Lady {f:5:Erika}.:「………ヱリカ卿。}`
 `{ruby:May I ask a {f:5:question}?":お尋ねしてもよろしいデスカ」}`
 `{ruby:"Depends on what it is.:「内容によります。}`
 `{ruby:Answer's probably <no> though.":多分、ノーですが」}`
 `{ruby:"...........................":「………………………」}`
 `{ruby:"...............:「……………。}`
-`{ruby:Well, we're just killing time anyway.:一応、暇潰しに聞いてあげます。}`
+`{ruby:Well, we're just:一応、暇潰しに聞い}{ruby:killing time anyway.:てあげます。}`
 `{ruby:What is it?":何です？」}`
 `{ruby:Erika was probably bored as well.:ヱリカも退屈なのだろうか。}`
-`{ruby:{n}......Or maybe the sound of the rain was making her sentimental.:{n}……あるいは雨の音に感傷でも覚えたのか。}`
-`{ruby:She assented, which was very unlike her.:彼女らしくもなく、ドラノールの話に付き合う。}`
+`{ruby:{n}......Or maybe the sound of:{n}……あるいは雨の音に}{ruby:the rain was making her sentimental.:感傷でも覚えたのか。}`
+`{ruby:She assented, which:彼女らしくもなく、ドラノ}{ruby:was very unlike her.:ールの話に付き合う。}`
 `{ruby:"Why is it...:「ナゼ。}`
 `{ruby:...that you hate {f:5:magic}?":……ヱリカ卿は、魔法を嫌われるのデス」}`
 `{ruby:"......Oh,:「……あぁ。}`
-`{ruby:......you mean that thing downstairs with Maria?":……さっきの下の、真里亞とのやり取りの件ですか」}`
-`{ruby:"That was nothing more than a foolish trick to deceive {f:5:children}.:「あんなの、子供騙しの下らない手品デス。}`
+`{ruby:......you mean that:……さっきの下の、真里亞と}{ruby:thing downstairs with Maria?":のやり取りの件ですか」}`
+`{ruby:"That was nothing more than:「あんなの、子供騙しの}{ruby:a foolish trick to deceive {f:5:children}.:下らない手品デス。}`
 `{ruby:Everyone knew {f:5:that}.:誰だってわかっていマス。}`
-`{ruby:......Was it really necessary to go so far to destroy that {f:5:illusion}?:……あぁまでして、幻想を打ち砕く必要があったのデスカ。}`
+`{ruby:......Was it really necessary to go:……あぁまでして、幻想を打ち砕}{ruby:so far to destroy that {f:5:illusion}?:く必要があったのデスカ。}`
 `{ruby:...I cannot {f:5:understand}.":…私にはわからないデス」}`
 `{ruby:It had been a childish fight.:ドラノールに言われるまでもなく、}`
-`{ruby:......Erika didn't need Dlanor to tell her that.:……ヱリカも、大人げない喧嘩だったことはわかっている。}`
-`{ruby:"......Well, I am a self‐proclaimed intellectual rapist.:「……自称、知的蹂躙者としましては。}`
-`{ruby:I can't stand having magic confuse the truth.":魔法なんてもので、真実をうやむやにすることが許せないわけです」}`
-`{ruby:"And so, you feel pleasure from exposing {f:5:that}?:「それを暴くことに愉悦を感じられている、ということデスカ。}`
-`{ruby:......I sense a different {f:5:emotion}.":……私には、他の感情が感じられマス」}`
+`{ruby:......Erika didn't need Dlanor:……ヱリカも、大人げない喧嘩だ}{ruby:to tell her that.:ったことはわかっている。}`
+`{ruby:"......Well, I am:「……自称、知的蹂躙}{ruby:a self‐proclaimed intellectual rapist.:者としましては。}`
+`{ruby:I can't stand having:魔法なんてもので、真実をうやむやに}{ruby:magic confuse the truth.":することが許せないわけです」}`
+`{ruby:"And so, you feel:「それを暴くことに愉悦を感じられ}{ruby:pleasure from exposing {f:5:that}?:ている、ということデスカ。}`
+`{ruby:......I sense:……私には、他の感情}{ruby:a different {f:5:emotion}.":が感じられマス」}`
 `{ruby:"A different emotion?:「他の感情？}`
 `{ruby:.........What's that?":………何です？」}`
 `{ruby:"To me, it feels less like pleasure,:「愉悦というよりは、}`
-`{ruby:......and more like a different, negative {f:5:emotion}.":……もっと何か別の、負の感情を感じマス」}`
-`{ruby:"Hah, ......you really are a murder doll, aren't you?:「はっ、……やっぱりあんたはただの殺人人形です。}`
+`{ruby:......and more like:……もっと何か別の、負}{ruby:a different, negative {f:5:emotion}.":の感情を感じマス」}`
+`{ruby:"Hah, ......you really are:「はっ、……やっぱりあんた}{ruby:a murder doll, aren't you?:はただの殺人人形です。}`
 `{ruby:Even your eyes are like knotholes.":その目も節穴みたいですね」}`
 `{ruby:".........My {f:5:apologies}.:「………失礼しまシタ。}`
 `{ruby:Please forgive {f:5:me}.":許してほしいデス」}`
-`{ruby:Erika rolled over grumpily, turning her back to Dlanor.:ヱリカは不機嫌そうに寝返りをうち、ドラノールに背中を向ける。}`
-`{ruby:Because of this, Dlanor couldn't see her expression.:だからその表情はドラノールには見えない。}`
+`{ruby:Erika rolled over grumpily,:ヱリカは不機嫌そうに寝返りをうち}{ruby:turning her back to Dlanor.:、ドラノールに背中を向ける。}`
+`{ruby:Because of this, Dlanor:だからその表情はドラノ}{ruby:couldn't see her expression.:ールには見えない。}`
 `{ruby:......Even so...:……それでも。}`
-`{ruby:...for some reason, she could guess that this completely unobserved expression was one of pain...:その、誰にも見えない、観測者なき表情は苦々しいものに違いないと、なぜか想像することが出来た…。}`
-`{ruby:Interpreting this to mean that Erika wanted her to go away,:ひとりにしてくれという意味だと理解し、}`
+`{ruby:...for some reason, she could guess that:その、誰にも見えない、観測者なき表情は苦々しいもの}{ruby:this completely unobserved expression was one of pain...:に違いないと、なぜか想像することが出来た…。}`
+`{ruby:Interpreting this to mean that:ひとりにしてくれという}{ruby:Erika wanted her to go away,:意味だと理解し、}`
 `{ruby:Dlanor gave a bow and made to leave.:ドラノールは一礼してから姿を消そうとする。}`
 `{ruby:Then, Erika suddenly spoke.:するとヱリカが不意に、言った。}`
-`{ruby:The words came so far out of the blue that Dlanor doubted her ears,:あまりに唐突な言葉だったので、}`
-`{ruby:and she had to ask Erika to say it again.:ドラノールは自分の耳を疑って、聞き直さなければならなかった。}`
+`{ruby:The words came so far out of:あまりに唐突な言葉}{ruby:the blue that Dlanor doubted her ears,:だったので、}`
+`{ruby:and she had to ask:ドラノールは自分の耳を疑って、聞}{ruby:Erika to say it again.:き直さなければならなかった。}`
 `{ruby:"......What did you just {f:5:say}?":「……今、何と仰いましタカ」}`
 `{ruby:"I love you.":「あなたのことが好きです」}`
 `{ruby:It really was......out of the blue.:それは、……本当にあまりに唐突な言葉だった。}`
-`{ruby:Dlanor wanted to ascertain what Erika really meant,:その真意を確かめたかったが、}`
-`{ruby:but the latter still had her back turned, and her face was out of sight...:ヱリカは相変わらず背中を向けたままで、その表情はわからない…。}`
-`{ruby:"............Thank you very {f:5:much}.":「…………ありがとうございマス」}`
-`{ruby:"I was going out with another girl before, but I've completely broken up with her.:「以前は、別の子と付き合っていましたが、今は完全に切れています。}`
-`{ruby:Others are gonna be jealous of us and say things that aren't true, but don't pay them any attention.":周りの人たちは僕たちを妬んでありもしないことを言いますが、気にしないで下さい」}`
+`{ruby:Dlanor wanted to ascertain:その真意を確かめ}{ruby:what Erika really meant,:たかったが、}`
+`{ruby:but the latter still had her back:ヱリカは相変わらず背中を向けたまま}{ruby:turned, and her face was out of sight...:で、その表情はわからない…。}`
+`{ruby:"............Thank you:「…………ありがと}{ruby:very {f:5:much}.":うございマス」}`
+`{ruby:"I was going out with another girl:「以前は、別の子と付き合っていまし}{ruby:before, but I've completely broken up with her.:たが、今は完全に切れています。}`
+`{ruby:Others are gonna be jealous of us and say:周りの人たちは僕たちを妬んでありもしないこ}{ruby:things that aren't true, but don't pay them any attention.":とを言いますが、気にしないで下さい」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:"I'm gonna devote my whole life to you, so I want you to do the same for me.:「俺は君に、生涯の全てを捧げるから、君も俺に、全てを捧げて欲しい。}`
+`{ruby:"I'm gonna devote my whole life to you, so:「俺は君に、生涯の全てを捧げるから、}{ruby:I want you to do the same for me.:君も俺に、全てを捧げて欲しい。}`
 `{ruby:Let's find happiness together.":二人で一緒に、幸せになろう」}`
-`{ruby:Dlanor avoided asking what she was talking about and stood there in silence.:ドラノールはあえて、何の話デスカと聞き返さず、黙っていた。}`
-`{ruby:For a while, Erika kept on speaking in that dull and emotionless tone,:ヱリカはしばらくの間、少女漫画にでも出て来そうな、}`
-`{ruby:repeating soppy phrases that might have popped up in some shoujo manga...:くすぐったい言葉を、無感情に淡々と続ける…。}`
-`{ruby:Then, unexpectedly, she once again followed up with a complete non sequitur.:そして不意にまた、脈絡のないことを口にした。}`
+`{ruby:Dlanor avoided asking what she was:ドラノールはあえて、何の話デスカ}{ruby:talking about and stood there in silence.:と聞き返さず、黙っていた。}`
+`{ruby:For a while, Erika kept on:ヱリカはしばらくの間、少女漫}{ruby:speaking in that dull and emotionless tone,:画にでも出て来そうな、}`
+`{ruby:repeating soppy phrases that might have:くすぐったい言葉を、無感}{ruby:popped up in some shoujo manga...:情に淡々と続ける…。}`
+`{ruby:Then, unexpectedly, she once again followed:そして不意にまた、脈絡の}{ruby:up with a complete non sequitur.:ないことを口にした。}`
 `{ruby:".........A new wallet.":「………新しい財布」}`
 `{ruby:"..................?":「………………？」}`
-`{ruby:Of course, she had no idea what Erika was saying.:もちろん、何を言っているのか、わからない。}`
-`{ruby:However, with her back still to Dlanor, ......Erika kept on saying disconnected words.:しかしヱリカは相変わらず背中を向けたまま、……その脈絡のない言葉を続けた。}`
+`{ruby:Of course, she had no:もちろん、何を言っている}{ruby:idea what Erika was saying.:のか、わからない。}`
+`{ruby:However, with her back still to:しかしヱリカは相変わらず背中を向けたまま}{ruby:Dlanor, ......Erika kept on saying disconnected words.:、……その脈絡のない言葉を続けた。}`
 `{ruby:"A strange cat keychain.:「変な猫のキーホルダー。}`
 `{ruby:A different style of cologne.:趣味の合わないアロマオイル。}`
-`{ruby:A music tape that's not his style...which he said he borrowed from an acting colleague.:演劇の先輩に借りたという、趣味違いの音楽テープ。}`
-`{ruby:.........A colleague asked him to come and he couldn't turn him down.:………先輩の付き合いで断れなくて。}`
+`{ruby:A music tape that's not his style...which:演劇の先輩に借りたという、}{ruby:he said he borrowed from an acting colleague.:趣味違いの音楽テープ。}`
+`{ruby:.........A colleague asked him to come:………先輩の付き合い}{ruby:and he couldn't turn him down.:で断れなくて。}`
 `{ruby:Work suddenly called him in.:急にバイトが入っちゃって。}`
-`{ruby:His buddy called him up and he couldn't get off the phone.":ダチの電話が長くてなかなか切れなくって」}`
+`{ruby:His buddy called him up and:ダチの電話が長くてなか}{ruby:he couldn't get off the phone.":なか切れなくって」}`
 `{ruby:{e:090:He made too much curry.:{e:090:作り過ぎたカレー。}`
-`{ruby:{n}He started going to theater practice more often.:{n}増えた演劇の稽古。}`
-`{ruby:{n}He started folding paper towels differently.:{n}キッチンペーパーの畳み方。}`
+`{ruby:{n}He started going to:{n}増えた演}{ruby:theater practice more often.:劇の稽古。}`
+`{ruby:{n}He started folding:{n}キッチンペー}{ruby:paper towels differently.:パーの畳み方。}`
 `{ruby:{n}‘Thanks, I've already eaten.’:{n}もう食べてきたから。}`
-`{ruby:{n}He knew more than before about cosmetics.:{n}化粧道具に詳しくなった。}`
+`{ruby:{n}He knew more:{n}化粧道具に詳}{ruby:than before about cosmetics.:しくなった。}`
 `{ruby:{n}‘Sorry, I was sleeping.’:{n}ごめん、寝てた。}`
 `{ruby:{n}The toilet seat was left down.:{n}便座の蓋が閉じていた。}`
-`{ruby:{n}He spent the night over at his stage friends' place.:{n}舞台仲間のところで泊り掛け。}`
-`{ruby:{n}‘Me and my acting friends had a party here.:{n}演劇仲間とここで飲み会してさ。}`
+`{ruby:{n}He spent the night over:{n}舞台仲間のとこ}{ruby:at his stage friends' place.:ろで泊り掛け。}`
+`{ruby:{n}‘Me and my acting:{n}演劇仲間とここ}{ruby:friends had a party here.:で飲み会してさ。}`
 `{ruby:Someone just left it behind.’:誰かの忘れ物だよ。}`
-`{ruby:{n}The drain and sink were cleaned out.:{n}綺麗になった排水溝と三角コーナー。}`
-`{ruby:{n}There were receipts and point cards from places he didn't usually go.}:{n}行動圏外のレシート、ポイントカード。}}`
-`{ruby:{e:090:The muddy soles are evidence that you went out on Monday when it was raining.:{e:090:靴底の泥は雨天の日曜日に外出した証拠。}`
-`{ruby:{n}It matches the strange symbol on the calendar.:{n}カレンダーの謎の記号との合致。}`
-`{ruby:{n}None of your theater friends have hair this long.:{n}あなたの演劇仲間にこの長さの髪の毛の人間は存在しません。}`
+`{ruby:{n}The drain and:{n}綺麗になった排水}{ruby:sink were cleaned out.:溝と三角コーナー。}`
+`{ruby:{n}There were receipts and point cards:{n}行動圏外のレシート}{ruby:from places he didn't usually go.}:、ポイントカード。}}`
+`{ruby:{e:090:The muddy soles are evidence that you:{e:090:靴底の泥は雨天}{ruby:went out on Monday when it was raining.:の日曜日に外出した証拠。}`
+`{ruby:{n}It matches the strange:{n}カレンダーの謎}{ruby:symbol on the calendar.:の記号との合致。}`
+`{ruby:{n}None of your theater:{n}あなたの演劇仲間にこの長さの}{ruby:friends have hair this long.:髪の毛の人間は存在しません。}`
 `{ruby:{n}Leading questions.:{n}誘導尋問。}`
-`{ruby:{n}How do you know the plot of a movie you haven't seen yet?}:{n}どうしてまだ見てない映画の筋書きを？}}`
+`{ruby:{n}How do you know the plot:{n}どうしてまだ見てな}{ruby:of a movie you haven't seen yet?}:い映画の筋書きを？}}`
 `{ruby:{e:090:Evidence,:{e:090:証拠、}`
 `{ruby:evidence,:証拠、}`
-`{ruby:circumstantial evidence. Observation,:状況証拠。観察、}`
+`{ruby:circumstantial:状況証拠。}{ruby:evidence. Observation,:観察、}`
 `{ruby:surveillance,:監視、}`
 `{ruby:tracking,:追跡、}`
 `{ruby:tailing. Information gathering,:尾行。採取、}`
 `{ruby:wiretapping,:盗聴、}`
 `{ruby:asking around,:聞き込み、}`
 `{ruby:questioning.}:問い詰め。}}`
-`{ruby:{e:090:I found plenty of evidence that I loved you.:{e:090:私があなたを愛した、たくさんの証拠が見つかった。}`
-`{ruby:{n}I found plenty of evidence that you loved me.:{n}あなたが私を愛した、たくさんの証拠が見つかった。}`
-`{ruby:{n}But I can't find any evidence that you haven't been cheating on me.}:{n}あなたが浮気をしてない証拠だけ、見つけられない。}}`
+`{ruby:{e:090:I found plenty of:{e:090:私があなたを愛した、}{ruby:evidence that I loved you.:たくさんの証拠が見つかった。}`
+`{ruby:{n}I found plenty of:{n}あなたが私を愛した、たく}{ruby:evidence that you loved me.:さんの証拠が見つかった。}`
+`{ruby:{n}But I can't find any evidence:{n}あなたが浮気をしてない証}{ruby:that you haven't been cheating on me.}:拠だけ、見つけられない。}}`
 `{ruby:{e:090:Give it a rest.:{e:090:いい加減にしろよ、}`
 `{ruby:If you love me, then trust me.:俺のこと愛してんなら信じろよ。}`
-`{ruby:If you can't do that, then you don't love me anymore.:それが出来ないなら、お前はもう俺のことを愛してないんだよ。}`
+`{ruby:If you can't do that,:それが出来ないなら、お前はもう俺}{ruby:then you don't love me anymore.:のことを愛してないんだよ。}`
 `{ruby:How could I love someone like that?:そんなやつ、俺だって愛せるわけねえだろ。}`
-`{ruby:I'll treasure you for all my life, but I want to do well in theater just as much.:お前を一生大事にするし、演劇も同じくらい頑張りたいんだよ。}`
-`{ruby:You said you liked seeing me act, right?:お前は演劇やってる俺が好きだって言ったろ。}`
-`{ruby:So why are you telling me to stop acting now?:そのお前が何で演劇やめろなんて言い出すんだよ。}`
-`{ruby:Why do I have to choose between you and acting?:どうしてお前と演劇のどっちかなんてことになるんだよ。}`
-`{ruby:What's wrong with you? I'm seriously tired of this, alright?:お前、変だよ、疲れてんだろマジで。}`
-`{ruby:Look, if all we do is fight when we see each other, maybe we both need some time to cool off, okay?:あのさ、お互いの顔見て喧嘩しかしないんなら、お互い少し冷却期間を置かね？}`
-`{ruby:I need to concentrate for my next performance anyway.:俺も次の舞台まで集中したいし。}`
+`{ruby:I'll treasure you for all my life, but I:お前を一生大事にするし、演劇も同}{ruby:want to do well in theater just as much.:じくらい頑張りたいんだよ。}`
+`{ruby:You said you liked:お前は演劇やってる俺が好}{ruby:seeing me act, right?:きだって言ったろ。}`
+`{ruby:So why are you telling:そのお前が何で演劇やめろな}{ruby:me to stop acting now?:んて言い出すんだよ。}`
+`{ruby:Why do I have to:どうしてお前と演劇のどっちか}{ruby:choose between you and acting?:なんてことになるんだよ。}`
+`{ruby:What's wrong with you? I'm:お前、変だよ、疲れて}{ruby:seriously tired of this, alright?:んだろマジで。}`
+`{ruby:Look, if all we do is fight when we see each:あのさ、お互いの顔見て喧嘩しかしないん}{ruby:other, maybe we both need some time to cool off, okay?:なら、お互い少し冷却期間を置かね？}`
+`{ruby:I need to concentrate:俺も次の舞台まで集}{ruby:for my next performance anyway.:中したいし。}`
 `{ruby:One of my colleagues,:先輩のとこの女の子、}`
-`{ruby:she's suddenly told us she won't be able to perform.:急に出れないとか言い出してさ。}`
-`{ruby:I need to rewrite the script by tomorrow.:脚本、明日までに書き換えなくちゃならないんだよ。}`
+`{ruby:she's suddenly told us she:急に出れないとか言}{ruby:won't be able to perform.:い出してさ。}`
+`{ruby:I need to rewrite:脚本、明日までに書き換えな}{ruby:the script by tomorrow.:くちゃならないんだよ。}`
 `{ruby:I don't have the time for this.}:こうしてる時間も惜しいわけ。}}`
-`{ruby:{e:090:You know what, if you really find it that hard to trust me, we're through.:{e:090:つかさ、そこまで俺が信用できないんなら、もう俺たちは終わってんだよ。}`
+`{ruby:{e:090:You know what, if you really find:{e:090:つかさ、そこまで俺が信用できな}{ruby:it that hard to trust me, we're through.:いんなら、もう俺たちは終わってんだよ。}`
 `{ruby:Don't bother coming over again,:来んなよ、}`
 `{ruby:just go home,:帰れよ、}`
 `{ruby:I don't love you anymore.:お前なんかもう愛してねぇよ。}`
 `{ruby:Stop crying, God you're obnoxious,:泣くなよウゼェな、}`
 `{ruby:go kill yourself, you creep.:キメェんだよ死ねよ。}`
-`{ruby:Stop shouting, dammit, I've got neighbors.:近所迷惑だろ喚くんじゃねぇよ。}`
-`{ruby:Just get the hell away from me and never come back.}:マジうぜえ消えろ二度と来ンな。}}`
-`{ruby:"......Without love, it cannot be {y:1:‘seen’}{n:1:seen}?:「……愛がなければ視えない？}`
+`{ruby:Stop shouting, dammit,:近所迷惑だろ喚くん}{ruby:I've got neighbors.:じゃねぇよ。}`
+`{ruby:Just get the hell away:マジうぜえ消えろ二}{ruby:from me and never come back.}:度と来ンな。}}`
+`{ruby:"......Without love, it:「……愛がなければ}{ruby:cannot be {y:1:‘seen’}{n:1:seen}?:視えない？}`
 `{ruby:............Hah.:…………はっ。}`
 `{ruby:That's backwards.":逆なんですよ」}`
-`{ruby:"....................................":「………………………………」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
 `{ruby:"Because of love,:「愛なんかあるから、}`
-`{ruby:you end up {y:1:‘seeing’}{n:1:seeing} things that don't even exist.":ありもしないものが、視えてしまう」}`
-`{ruby:......It's nothing more than an illusion, one that no one except you can {y:1:‘see’}{n:1:see}, and one that even you can never touch.:……それは、自分にしか視えず、なのに自分でも触れられない、ただの幻。}`
-`{ruby:Without love, {y:0:Human}{n:0:human}s would never need to {y:1:‘see’}{n:1:see} that fiction.:愛さえなければ、ニンゲンは虚構など何も視ずに済むのだ。}`
-`{ruby:Because we can {y:1:‘see’}{n:1:see} it, ......we doubt.:虚構が視えてしまうから、……惑う。}`
+`{ruby:you end up {y:1:‘seeing’}{n:1:seeing}:ありもしないものが、}{ruby:things that don't even exist.":視えてしまう」}`
+`{ruby:......It's nothing more than an illusion, one that no one except:……それは、自分にしか視えず、なのに}{ruby:you can {y:1:‘see’}{n:1:see}, and one that even you can never touch.:自分でも触れられない、ただの幻。}`
+`{ruby:Without love, {y:0:Human}{n:0:human}s would never:愛さえなければ、ニンゲンは虚構}{ruby:need to {y:1:‘see’}{n:1:see} that fiction.:など何も視ずに済むのだ。}`
+`{ruby:Because we can:虚構が視えてしまうか}{ruby:{y:1:‘see’}{n:1:see} it, ......we doubt.:ら、……惑う。}`
 `{ruby:We suffer.:苦しみ。}`
 `{ruby:We cry out loud.:泣き叫ぶ。}`
 `{ruby:".........Right now, I am happy.:「………私は今、幸せです。}`
-`{ruby:.........Though it may be temporary, I have become the Witch of Truth.:………仮とはいえ、真実の魔女になれて。}`
+`{ruby:.........Though it may be temporary, I:………仮とはいえ、真実}{ruby:have become the Witch of Truth.:の魔女になれて。}`
 `{ruby:......As I am now,:……今の私は、もう、}`
-`{ruby:......I no longer need to worry about being tormented by non‐red words.":……赤くない言葉に、苦しめられなくて済むのだから」}`
+`{ruby:......I no longer need to worry:……赤くない言葉に、苦しめら}{ruby:about being tormented by non‐red words.":れなくて済むのだから」}`
 `{ruby:"...........................":「………………………」}`
 `{ruby:"..............................:「…………………………。}`
-`{ruby:......What about you? How would you have countered my endgame?":……あんたなら。私のエンドゲーム、どう返しますか」}`
+`{ruby:......What about you? How would:……あんたなら。私のエンドゲ}{ruby:you have countered my endgame?":ーム、どう返しますか」}`
 `{ruby:"How would...{f:5:I}?":「私、デスカ」}`
-`{ruby:"That useless man wasn't fit to be my opponent.:「あの凡庸な男じゃ、ゲームの相手は務まりませんでしたから。}`
-`{ruby:......I was wondering how you would have countered it?":……あんたなら、どう返してくれるかと思いまして」}`
-`{ruby:"....................................":「………………………………」}`
-`{ruby:Dlanor was suddenly thrust into the position of Erika's opponent in the witch's game she had once challenged that man with.:ドラノールは突然に、かつてヱリカが、その男に挑んだ魔女のゲームの相手を求められる。}`
-`{ruby:Dlanor shared in the fragments of Erika's past, allowing her to grasp the full situation.:ヱリカの過去のカケラが共有され、ドラノールも全ての状況を把握させられた。}`
-`{ruby:The board was reproduced in full inside their heads...:盤面は二人の脳裏に完全に再現されている…。}`
+`{ruby:"That useless man wasn't:「あの凡庸な男じゃ、ゲームの相手}{ruby:fit to be my opponent.:は務まりませんでしたから。}`
+`{ruby:......I was wondering how:……あんたなら、どう返して}{ruby:you would have countered it?":くれるかと思いまして」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
+`{ruby:Dlanor was suddenly thrust into the position of Erika's opponent:ドラノールは突然に、かつてヱリカが、その男に}{ruby:in the witch's game she had once challenged that man with.:挑んだ魔女のゲームの相手を求められる。}`
+`{ruby:Dlanor shared in the fragments of Erika's:ヱリカの過去のカケラが共有され、ドラノ}{ruby:past, allowing her to grasp the full situation.:ールも全ての状況を把握させられた。}`
+`{ruby:The board was reproduced:盤面は二人の脳裏に完全に}{ruby:in full inside their heads...:再現されている…。}`
 `{ruby:The situation...was one‐sided.:状況は、一方的。}`
-`{ruby:Erika's side had constructed a blue truth based on countless bits of circumstantial evidence, had turned all of those into pieces,:ヱリカ側は無数の状況証拠で青き真実を構築し、それら全てを駒化し、}`
-`{ruby:and was already cornering the opponent.:もはや詰め将棋のような局面となっている。}`
-`{ruby:For some time, Dlanor thought in silence...:ドラノールはしばし、沈思黙考し、}`
-`{ruby:...and announced her by‐the‐book response.:……定石に従い、自分の一手を告げた。}`
+`{ruby:Erika's side had constructed a blue truth based on countless:ヱリカ側は無数の状況証拠で青き真実}{ruby:bits of circumstantial evidence, had turned all of those into pieces,:を構築し、それら全てを駒化し、}`
+`{ruby:and was already:もはや詰め将棋のような}{ruby:cornering the opponent.:局面となっている。}`
+`{ruby:For some time,:ドラノールはしばし}{ruby:Dlanor thought in silence...:、沈思黙考し、}`
+`{ruby:...and announced:……定石に従い、自分}{ruby:her by‐the‐book response.:の一手を告げた。}`
 `{ruby:"First {f:5:move}.:「初手。}`
 `{ruby:......:……}`
-`{ruby:I request that you submit evidence that I have been {f:5:cheating}.":私が浮気している証拠の提出を要求しマス」}`
+`{ruby:I request that you submit:私が浮気している証拠の}{ruby:evidence that I have been {f:5:cheating}.":提出を要求しマス」}`
 `{ruby:"Counter with the blue truth.:「青き真実で反論。}`
-`{ruby:I present eighty‐four points of circumstantial and physical evidence.":構築に状況証拠、物的証拠を８４点提出」}`
+`{ruby:I present eighty‐four points:構築に状況証拠、物的証}{ruby:of circumstantial and physical evidence.":拠を８４点提出」}`
 `{ruby:"Counter with the blue {f:5:truth}.:「青き真実で反論。}`
-`{ruby:I present six points of circumstantial and physical evidence that I still love {f:5:you}.":今も愛し続けている状況証拠、物的証拠を６点提出デス」}`
+`{ruby:I present six points of circumstantial and:今も愛し続けている状況証拠、}{ruby:physical evidence that I still love {f:5:you}.":物的証拠を６点提出デス」}`
 `{ruby:"<Good>.:「グッド。}`
-`{ruby:Blue and blue cancel each other out, but the number of pieces used to construct each is overwhelmingly unbalanced.":青と青では相殺ですが、構築する駒の数が圧倒的ですね」}`
-`{ruby:When both opponents meet with the blue truth,:双方、青き真実で相殺された場合、}`
-`{ruby:the decision is almost always based on which side has more pieces of evidence, regardless of the actual circumstances.:状況、物的を問わず、証拠という名の駒の数量で判定が行なわれることがほとんどだ。}`
-`{ruby:......This is especially true in the {y:0:Human}{n:0:human} world.:……ニンゲンの世界の場合は特に。}`
-`{ruby:So, by the standard rules, Erika would win...:よって、スタンダードルールの場合、ヱリカの判定勝ちとなる…。}`
+`{ruby:Blue and blue cancel each other out, but the:青と青では相殺ですが、構築す}{ruby:number of pieces used to construct each is overwhelmingly unbalanced.":る駒の数が圧倒的ですね」}`
+`{ruby:When both opponents meet:双方、青き真実で相}{ruby:with the blue truth,:殺された場合、}`
+`{ruby:the decision is almost always based on which side:状況、物的を問わず、証拠という名の駒の数量}{ruby:has more pieces of evidence, regardless of the actual circumstances.:で判定が行なわれることがほとんどだ。}`
+`{ruby:......This is especially true:……ニンゲンの世界}{ruby:in the {y:0:Human}{n:0:human} world.:の場合は特に。}`
+`{ruby:So, by the standard:よって、スタンダードルールの場合}{ruby:rules, Erika would win...:、ヱリカの判定勝ちとなる…。}`
 `{ruby:"First point to me.:「１点先取。}`
 `{ruby:Your next move?":次なる手は？」}`
-`{ruby:"............I will attempt to switch offense and {f:5:defense}.:「…………攻守逆転を狙いマス。}`
-`{ruby:I ask that you, Lady {f:5:Erika}, provide proof that you are not {f:5:cheating}.":逆にヱリカ卿が浮気をしていない証拠の提出を求めマス」}`
+`{ruby:"............I will attempt to:「…………攻守逆転}{ruby:switch offense and {f:5:defense}.:を狙いマス。}`
+`{ruby:I ask that you, Lady {f:5:Erika},:逆にヱリカ卿が浮気をしていな}{ruby:provide proof that you are not {f:5:cheating}.":い証拠の提出を求めマス」}`
 `{ruby:"Perpetual check.:「パーペチュアルチェック。}`
-`{ruby:That's a forbidden move, since it'd result in an endless repetition of the same question going both ways.":お互いが同じ質問を無限連鎖する千日手となりますから禁じ手です」}`
-`{ruby:"Then I frankly declare that, despite a lack of proof, I still love you even {f:5:now}.":「では証拠無くも、現在もヱリカ卿を愛していることを、率直に表明しマス」}`
+`{ruby:That's a forbidden move, since it'd result in an:お互いが同じ質問を無限連鎖する千日}{ruby:endless repetition of the same question going both ways.":手となりますから禁じ手です」}`
+`{ruby:"Then I frankly declare that, despite a lack:「では証拠無くも、現在もヱリカ卿を愛し}{ruby:of proof, I still love you even {f:5:now}.":ていることを、率直に表明しマス」}`
 `{ruby:"Not red truth and therefore invalid.:「赤き真実でないから無効です。}`
-`{ruby:Even if it was red, that'd be a stalemate.:仮に赤かったとしてもそれ、ステイルメイトです。}`
-`{ruby:After all, I'd have no move to counter with.":私に反論する手が、なくなりますから」}`
+`{ruby:Even if it was:仮に赤かったとしてもそれ、}{ruby:red, that'd be a stalemate.:ステイルメイトです。}`
+`{ruby:After all, I'd have:私に反論する手が、な}{ruby:no move to counter with.":くなりますから」}`
 `{ruby:"..............................":「…………………………」}`
 `{ruby:Dlanor remained silent for a while.:ドラノールはしばしの間、沈黙する。}`
-`{ruby:She responded quietly to Erika's moves...:それから静かに、ヱリカがチェックメイトに至るまで、}`
-`{ruby:...as Erika drew closer and closer to checkmate.:……ドラノールは無言で応手を続けた。}`
-`{ruby:A stalemate is a forbidden move in the game of witches, since it means the ruin of the game.:ステイルメイトは、魔女たちのゲームにおいては、ゲームの破綻を意味し、禁じ手となっている。}`
-`{ruby:However, in chess, it also represents a draw.:しかし、チェスにおいては同時に、引き分けも意味する。}`
-`{ruby:Because of this, it is a splendid final move that the weaker player can pull off if they are already unable to win outright.:ゆえに、もはや逆転不可能の劣勢側が狙う、最後の妙手となっている。}`
-`{ruby:In this situation, Erika clearly had the advantage.:この場合、明らかに優勢なのはヱリカ。}`
-`{ruby:......It was natural that Dlanor, her opponent, would seek a stalemate to obtain a draw.:……対するドラノールは、引き分けに持ち込むために、ステイルメイトを狙うのは当然。}`
+`{ruby:She responded quietly:それから静かに、ヱリカがチェ}{ruby:to Erika's moves...:ックメイトに至るまで、}`
+`{ruby:...as Erika drew closer:……ドラノールは無言}{ruby:and closer to checkmate.:で応手を続けた。}`
+`{ruby:A stalemate is a forbidden move in the game:ステイルメイトは、魔女たちのゲームにおいては、}{ruby:of witches, since it means the ruin of the game.:ゲームの破綻を意味し、禁じ手となっている。}`
+`{ruby:However, in chess, it:しかし、チェスにおいては同時}{ruby:also represents a draw.:に、引き分けも意味する。}`
+`{ruby:Because of this, it is a splendid final move that the weaker:ゆえに、もはや逆転不可能の劣勢側が}{ruby:player can pull off if they are already unable to win outright.:狙う、最後の妙手となっている。}`
+`{ruby:In this situation, Erika:この場合、明らかに優}{ruby:clearly had the advantage.:勢なのはヱリカ。}`
+`{ruby:......It was natural that Dlanor, her opponent,:……対するドラノールは、引き分けに持ち込む}{ruby:would seek a stalemate to obtain a draw.:ために、ステイルメイトを狙うのは当然。}`
 `{ruby:However, that only worked in chess.:しかし、それはチェスならばの場合。}`
-`{ruby:{n}......In the game where witches fought over the truth, it was a forbidden move.:{n}……魔女たちが真実を弄ぶゲームでは、禁じ手。}`
-`{ruby:So, it was already checkmate from the very beginning.:ゆえにもはや、チェックメイトも同然。}`
-`{ruby:{n}Dlanor had no way to turn the game around...:{n}ドラノールに、返す手は存在しない…。}`
-`{ruby:But that meant that regardless of what the real truth had been,:しかしそれではこのゲームは、}`
+`{ruby:{n}......In the game where witches fought over:{n}……魔女たちが真実を弄}{ruby:the truth, it was a forbidden move.:ぶゲームでは、禁じ手。}`
+`{ruby:So, it was already:ゆえにもはや、チェッ}{ruby:checkmate from the very beginning.:クメイトも同然。}`
+`{ruby:{n}Dlanor had no way:{n}ドラノールに、返す}{ruby:to turn the game around...:手は存在しない…。}`
+`{ruby:But that meant that regardless of:しかしそれではこ}{ruby:what the real truth had been,:のゲームは、}`
 `{ruby:............this game would...:…………本当の二人の真実にかかわりなく、}`
 `{ruby:...............:……………。}`
 `{ruby:"......Any other moves?:「……他に手は？}`
-`{ruby:O witch‐hunting archbishop, protector of the truth?":真実を守る魔女狩り大司教？」}`
+`{ruby:O witch‐hunting archbishop,:真実を守る魔女狩り}{ruby:protector of the truth?":大司教？」}`
 `{ruby:".........{f:5:No}.:「…………イエ。}`
 `{ruby:......I {f:5:resign}.":……リザインデス」}`
 `{ruby:"See? There you go.:「ね？　ほら。}`
 `{ruby:..................Hmph...":………………ふん…」}`
-`{ruby:Erika had succeeded in crushing her opponent with the truth she espoused...:ヱリカは見事、}`
-`{ruby:...that her former boyfriend no longer loved her and was cheating on her.:……かつての想い人が、もはや自分を愛していなくて浮気しているという、彼女の主張する真実で、打ち破る。}`
-`{ruby:Her opponent had no way to argue back.:相手に反論の方法はない。}`
-`{ruby:.........After all, {y:0:Human}{n:0:human}s are not allowed to use {m:-5:――}{m:-5:――}.:………なぜなら、ニンゲンには、――――が、許されていないから。}`
-`{ruby:A splendid game, a splendid finish from a superior position.:見事なゲーム、見事な詰めの優勢勝ち。}`
-`{ruby:{n}Regardless of the truth of her opponent, Erika could win.:{n}相手の真実がどうであれ、ヱリカが勝利できる。}`
+`{ruby:Erika had succeeded in crushing her:ヱリカは見}{ruby:opponent with the truth she espoused...:事、}`
+`{ruby:...that her former boyfriend no longer:……かつての想い人が、もはや自分を愛していなくて浮気}{ruby:loved her and was cheating on her.:しているという、彼女の主張する真実で、打ち破る。}`
+`{ruby:Her opponent had no:相手に反論の方}{ruby:way to argue back.:法はない。}`
+`{ruby:.........After all, {y:0:Human}{n:0:human}s are:………なぜなら、ニンゲンには、――}{ruby:not allowed to use {m:-5:――}{m:-5:――}.:――が、許されていないから。}`
+`{ruby:A splendid game, a splendid:見事なゲーム、見事な}{ruby:finish from a superior position.:詰めの優勢勝ち。}`
+`{ruby:{n}Regardless of the truth of:{n}相手の真実がどうであれ}{ruby:her opponent, Erika could win.:、ヱリカが勝利できる。}`
 `{ruby:{n}A splendid......victory.:{n}見事な、……勝利。}`
-`{ruby:Dlanor could only respond with silence.:ドラノールは、沈黙で応えるしかない。}`
+`{ruby:Dlanor could only:ドラノールは、沈黙で}{ruby:respond with silence.:応えるしかない。}`
 `{ruby:And with that, Erika spoke no more.:それっきりヱリカはもう、何も喋らない。}`
-`{ruby:{n}......She was probably done talking and wanted Dlanor to leave.:{n}……もう何も話す気はないから、消えろということだろう。}`
+`{ruby:{n}......She was probably done talking:{n}……もう何も話す気はないか}{ruby:and wanted Dlanor to leave.:ら、消えろということだろう。}`
 `{ruby:Dlanor understood this, but even so,:ドラノールもそれを理解したが、それでも。}`
-`{ruby:.........she wanted to tell Erika just one thing before leaving.:{n}………姿を消す前に、一言だけ伝えたかった。}`
+`{ruby:.........she wanted to tell Erika:{n}………姿を消す前に、}{ruby:just one thing before leaving.:一言だけ伝えたかった。}`
 `{ruby:"A splendid game, Lady {f:5:Erika}.":「見事なゲームデス、ヱリカ卿」}`
-`{ruby:"It's only natural that the detective wins.":「探偵は勝利して、当然ですから」}`
-`{ruby:"Even before you became Lady {f:5:Bernkastel}'s piece, you truly were a splendid wielder of the blue {f:5:truth}.:「あなたはベルンカステル卿の駒になる以前から、実に見事な青き真実の使い手デス。}`
+`{ruby:"It's only natural:「探偵は勝利して、}{ruby:that the detective wins.":当然ですから」}`
+`{ruby:"Even before you became Lady {f:5:Bernkastel}'s piece, you:「あなたはベルンカステル卿の駒になる以前か}{ruby:truly were a splendid wielder of the blue {f:5:truth}.:ら、実に見事な青き真実の使い手デス。}`
 `{ruby:.........However, Lady {f:5:Erika}.:………しかし、ヱリカ卿。}`
-`{ruby:{y:0:Human}{n:0:Human}s are only allowed to use the blue {f:5:truth}.:ニンゲンに許されるのは、青き真実だけデス。}`
-`{ruby:And the only thing that can counter blue truth is red {f:5:truth}.:そして、青き真実に反論できるのは赤き真実だけデス。}`
-`{ruby:And {y:0:Human}{n:0:human}s are not allowed to use the red {f:5:truth}.":そして赤き真実は、ニンゲンには許されていマセン」}`
+`{ruby:{y:0:Human}{n:0:Human}s are only allowed:ニンゲンに許されるのは、}{ruby:to use the blue {f:5:truth}.:青き真実だけデス。}`
+`{ruby:And the only thing that can:そして、青き真実に反論できる}{ruby:counter blue truth is red {f:5:truth}.:のは赤き真実だけデス。}`
+`{ruby:And {y:0:Human}{n:0:human}s are not allowed:そして赤き真実は、ニンゲン}{ruby:to use the red {f:5:truth}.":には許されていマセン」}`
 `{ruby:"............In that case,:「…………ならばどうやって。}`
-`{ruby:...how should your opponent have shown his {f:5:truth}?":…あなたのお相手は、彼の真実を示せば良かったのデスカ」}`
+`{ruby:...how should your opponent:…あなたのお相手は、彼の真実を}{ruby:have shown his {f:5:truth}?":示せば良かったのデスカ」}`
 `{ruby:".........Who knows.:「………さぁ。}`
-`{ruby:......Maybe he should have used that gold truth or whatever, which is supposed to be stronger than the red truth at times.":……赤き真実に時に勝るとかいう、例の黄金の真実とやらでも持ち出したらどうですか」}`
+`{ruby:......Maybe he should have used that gold truth or whatever, which:……赤き真実に時に勝るとかいう、例の黄金の}{ruby:is supposed to be stronger than the red truth at times.":真実とやらでも持ち出したらどうですか」}`
 `{ruby:"...........................:「………………………。}`
-`{ruby:......You certainly were the victor in that {f:5:game}.:……ゲームは確かにヱリカ卿の勝ちデス。}`
-`{ruby:However, allow me to say this as a protector of the {f:5:truth}.":しかし、真実の守護者として申し上げマス」}`
+`{ruby:......You certainly were the:……ゲームは確かにヱリ}{ruby:victor in that {f:5:game}.:カ卿の勝ちデス。}`
+`{ruby:However, allow me to say this:しかし、真実の守護者と}{ruby:as a protector of the {f:5:truth}.":して申し上げマス」}`
 `{ruby:"What?:「何です。}`
-`{ruby:......I imagine it's something unpleasant, so say it and go away.":……どうせ不愉快なことでしょうから、それを言ったら、とっとと消えて下さい」}`
+`{ruby:......I imagine it's something unpleasant,:……どうせ不愉快なことでしょうから、それ}{ruby:so say it and go away.":を言ったら、とっとと消えて下さい」}`
 `{ruby:"......{f:5:Yes}.:「……ハイ。}`
-`{ruby:.........Our game did end with your {f:5:victory}.:………確かにこのゲームはヱリカ卿の勝ちデス。}`
+`{ruby:.........Our game did:………確かにこのゲームは}{ruby:end with your {f:5:victory}.:ヱリカ卿の勝ちデス。}`
 `{ruby:However,:しかし。}`
-`{ruby:......you still have not denied the six points of blue truth evidence that I showed to claim that I still loved {f:5:you}.:……私が示した、あなたを今も愛している青き真実の証拠６点は、未だ否定されていマセン。}`
-`{ruby:......Even you are {f:5:{y:0:Human}{n:0:human}}.:……あなたさえ、ニンゲン。}`
-`{ruby:You are unable to use the red truth that would disprove those {f:5:points}.":それを否定する赤き真実を使えは、しないのデス」}`
-`{ruby:"Later on, I used the detective's authority to have all eighty‐four points transformed into red truth.:「探偵権限で、８４点の証拠を赤き真実に、後に昇格させました。}`
+`{ruby:......you still have not denied the six points of blue truth:……私が示した、あなたを今も愛している青き真}{ruby:evidence that I showed to claim that I still loved {f:5:you}.:実の証拠６点は、未だ否定されていマセン。}`
+`{ruby:......Even you:……あなたさえ、}{ruby:are {f:5:{y:0:Human}{n:0:human}}.:ニンゲン。}`
+`{ruby:You are unable to use the:それを否定する赤き真実を使}{ruby:red truth that would disprove those {f:5:points}.":えは、しないのデス」}`
+`{ruby:"Later on, I used the detective's authority to:「探偵権限で、８４点の証拠を赤き}{ruby:have all eighty‐four points transformed into red truth.:真実に、後に昇格させました。}`
 `{ruby:By the power of my master...!:我が主のお力によって…！}`
-`{ruby:I am {y:0:Human}{n:0:human}, yet superior to {y:0:Human}{n:0:human}s.:私はニンゲンにしてニンゲンを超えた存在。}`
+`{ruby:I am {y:0:Human}{n:0:human},:私はニンゲンにしてニンゲ}{ruby:yet superior to {y:0:Human}{n:0:human}s.:ンを超えた存在。}`
 `{ruby:A detective and a witch.:探偵にして魔女。}`
-`{ruby:I am the Witch of Truth, Furudo {f:5:Erika}.:真実の魔女、古戸ヱリカです。}`
-`{ruby:Any other questions? Parting remarks?":他に質問は？　捨て台詞は？」}`
+`{ruby:I am the Witch:真実の魔女、古戸}{ruby:of Truth, Furudo {f:5:Erika}.:ヱリカです。}`
+`{ruby:Any other:他に質問は？　捨}{ruby:questions? Parting remarks?":て台詞は？」}`
 `{ruby:".........I have {f:5:none}.:「………ありマセン。}`
-`{ruby:......In that case, please excuse {f:5:me}.":……それでは、失礼いたしマス」}`
+`{ruby:......In that case,:……それでは、失礼}{ruby:please excuse {f:5:me}.":いたしマス」}`
 `{ruby:Dlanor bowed and disappeared.:ドラノールは一礼してから姿を消す。}`
-`{ruby:......After that, all that remained was a single Witch of Truth laughing off a bitter past...:……後には、苦い過去を、相応しい苦い笑顔で笑い捨てる真実の魔女がひとり、}`
+`{ruby:......After that, all that remained was a single:……後には、苦い過去を、相応しい苦い笑}{ruby:Witch of Truth laughing off a bitter past...:顔で笑い捨てる真実の魔女がひとり、}`
 `{ruby:with an equally bitter smile...:残されるだけだった…。}`
-`{ruby:Erika glanced at the bedside clock and saw that it was almost exactly midnight.:ベッドサイドの置時計を見ると、今まさに２４時になるところだった。}`
-`{ruby:"......Well, I suppose I should get a little sleep.:「……さぁて。ひと寝入りさせてもらいますか。}`
-`{ruby:The curtain has finally risen on the second day, October 5th.:いよいよ二日目、１０月５日の幕開けです。}`
-`{ruby:......I wonder if the first of this game's murders is happening somewhere about now.:……今頃どこかで。今回の殺人が起こっているんでしょうかね。}`
-`{ruby:I hope our victims leave us some interesting dying messages this time.:今回の犠牲者さん、せいぜい色々なダイイングメッセージをよろしくお願いしますね。}`
-`{ruby:Ehheh{0}eh{0}eh{0}eh{0}eeh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh...!":うっふふふふっふっふっふっふ…！」}`
-`{ruby:"Why didn't you discuss this with your mother?!!:「どうして母さんに相談しなかったのッ！！}`
-`{ruby:This is about the partner who's supposed to support you throughout the rest of your life!!":あなたの人生を最後まで支えるパートナーの話なのよ？！」}`
+`{ruby:Erika glanced at the bedside clock and:ベッドサイドの置時計を見ると、今ま}{ruby:saw that it was almost exactly midnight.:さに２４時になるところだった。}`
+`{ruby:"......Well, I suppose I:「……さぁて。ひと寝入り}{ruby:should get a little sleep.:させてもらいますか。}`
+`{ruby:The curtain has finally risen:いよいよ二日目、１０月}{ruby:on the second day, October 5th.:５日の幕開けです。}`
+`{ruby:......I wonder if the first of this:……今頃どこかで。今回の殺人が起}{ruby:game's murders is happening somewhere about now.:こっているんでしょうかね。}`
+`{ruby:I hope our victims leave us:今回の犠牲者さん、せいぜい色々なダイイング}{ruby:some interesting dying messages this time.:メッセージをよろしくお願いしますね。}`
+`{ruby::うっふふふふっふっふ}{ruby:Ehheh{0}eh{0}eh{0}eh{0}eeh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh...!":っふっふ…！」}`
+`{ruby:"Why didn't you discuss:「どうして母さんに相談}{ruby:this with your mother?!!:しなかったのッ！！}`
+`{ruby:This is about the partner who's supposed to:あなたの人生を最後まで支えるパ}{ruby:support you throughout the rest of your life!!":ートナーの話なのよ？！」}`
 `{ruby:"That's right.:「そうだよ。}`
-`{ruby:She's the woman I want to spend the rest of my life with.":生涯、一緒にいたい女性なんだ」}`
-`{ruby:"And that's why you need to choose very carefully, right?!:「だからこそ真剣に決めなければいけないんでしょう？！}`
+`{ruby:She's the woman I want to:生涯、一緒にいたい}{ruby:spend the rest of my life with.":女性なんだ」}`
+`{ruby:"And that's why you need:「だからこそ真剣に決めなけれ}{ruby:to choose very carefully, right?!:ばいけないんでしょう？！}`
 `{ruby:How can you be so rash?!!":どうしてそんな軽率にッ！！」}`
-`{ruby:Eva and George could be seen beneath the eaves of the guesthouse.:ゲストハウスの外の、……ひさしの陰に、絵羽と譲治の姿があった。}`
-`{ruby:George had revealed his engagement with Shannon.:紗音との婚約を、打ち明けたのだ。}`
-`{ruby:......Eva's anger had exploded almost instantly.:……間髪入れず、絵羽は怒りを爆発させた。}`
-`{ruby:This had been no more than George had expected, so he had responded with an ice‐cold calm...:譲治にとって想像の範囲内だったので、彼は冷え切ったくらいに冷静に受け答えしていた…。}`
-`{ruby:".........Don't tell me you consummated your relationship already.:「………まさかもう関係を？}`
-`{ruby:She told you she was pregnant to force you into a marriage, didn't she?!":子供が出来たとか言われて、結婚を迫られたんでしょう！」}`
+`{ruby:Eva and George could be seen:ゲストハウスの外の、……ひさしの陰}{ruby:beneath the eaves of the guesthouse.:に、絵羽と譲治の姿があった。}`
+`{ruby:George had revealed:紗音との婚約を、打}{ruby:his engagement with Shannon.:ち明けたのだ。}`
+`{ruby:......Eva's anger had:……間髪入れず、絵羽は}{ruby:exploded almost instantly.:怒りを爆発させた。}`
+`{ruby:This had been no more than George had:譲治にとって想像の範囲内だったので、彼は冷え}{ruby:expected, so he had responded with an ice‐cold calm...:切ったくらいに冷静に受け答えしていた…。}`
+`{ruby:".........Don't tell me you:「………まさかも}{ruby:consummated your relationship already.:う関係を？}`
+`{ruby:She told you she was pregnant to:子供が出来たとか言われて、結婚}{ruby:force you into a marriage, didn't she?!":を迫られたんでしょう！」}`
 `{ruby:"How rude.:「失礼だな。}`
-`{ruby:I'm a strong believer that chastity is to be preserved before marriage.":僕は婚前の貞操は厳しくあるべき主義なんだ」}`
+`{ruby:I'm a strong believer that chastity:僕は婚前の貞操は厳しくあ}{ruby:is to be preserved before marriage.":るべき主義なんだ」}`
 `{ruby:"Then why an engagement?!":「じゃあどうして婚約なんてッ？！」}`
 `{ruby:"I asked her.:「僕は求めた。}`
 `{ruby:She accepted.:彼女は受けた。}`
 `{ruby:What more could be needed?":それで成立じゃないか」}`
 `{ruby:"No, it's all wrong!!:「ううん、違うわ違うわ！！}`
-`{ruby:Marriage isn't as easy as it looks in manga or whatever you're thinking of!!":結婚はね、あんたが思ってるような、漫画か何かみたいに簡単なものじゃないのッ！！」}`
+`{ruby:Marriage isn't as easy as it looks:結婚はね、あんたが思ってるような、漫画か何か}{ruby:in manga or whatever you're thinking of!!":みたいに簡単なものじゃないのッ！！」}`
 `{ruby:"What about her parents?:「先方のご両親は？}`
-`{ruby:Relationships between the two families?:両家の交流は？}`
-`{ruby:You're not some stray alley cat! You are Ushiromiya George!!:あんた、野良猫じゃないのよ？！　右代宮譲治なのよ？！}`
-`{ruby:How could you be so rash now, when you might even be selected as Grandfather's successor?!!:ひょっとしたらお祖父さまの後継者に指名されるかもしれないこの時期に、どうしてそんな軽率なッ！！}`
+`{ruby:Relationships between:両家の交流}{ruby:the two families?:は？}`
+`{ruby:You're not some stray alley:あんた、野良猫じゃないのよ？！}{ruby:cat! You are Ushiromiya George!!:　右代宮譲治なのよ？！}`
+`{ruby:How could you be so rash now, when:ひょっとしたらお祖父さまの後継者に指名されるかもし}{ruby:you might even be selected as Grandfather's successor?!!:れないこの時期に、どうしてそんな軽率なッ！！}`
 `{ruby:Why didn't you consult me...?!!":どうして、母さんに相談してくれなかったの…！！」}`
 `{ruby:"I'm consulting you right now.:「今、こうして相談してるよ。}`
 `{ruby:No, not consulting, I suppose.:いや、相談じゃないか。}`
 `{ruby:I'm just informing you.:これはただの報告だね。}`
-`{ruby:......I've never pinned my hopes on being selected as Grandfather's successor.:……お祖父さまの後継者に指名されるのはまったく期待してないよ。}`
-`{ruby:In fact, I'd rather refuse if it did come to that.:いや、むしろ辞退したいくらいさ。}`
-`{ruby:I want to build up my own country and castle from scratch, just like Father did.":僕は、自分の国と城を、父さんがそうしたように、何もない原野に築き上げたい」}`
+`{ruby:......I've never pinned my hopes:……お祖父さまの後継者に指名される}{ruby:on being selected as Grandfather's successor.:のはまったく期待してないよ。}`
+`{ruby:In fact, I'd rather refuse:いや、むしろ辞退し}{ruby:if it did come to that.:たいくらいさ。}`
+`{ruby:I want to build up my own country:僕は、自分の国と城を、父さんがそうしたよ}{ruby:and castle from scratch, just like Father did.":うに、何もない原野に築き上げたい」}`
 `{ruby:"L‐look...!!:「あ、あのね…！！}`
-`{ruby:Do you realize how hard your father worked to get where he is?!:父さんが今日までどれくらいの苦労をしたのかわかってるの？！}`
-`{ruby:That's not something you could duplicate just by imitating him!!:あんたが真似て出来るようなことじゃないの！！}`
-`{ruby:Do you have any idea how often he was saved by luck and coincidence?!!":今日まで、どれほどの運や偶然に助けられたことか！！」}`
-`{ruby:"And he got through it because he had you, his wonderful life partner, by his side.:「そして、母さんという良き理解者の伴侶がいたからだよ。}`
-`{ruby:Sayo is the kind of person who'll support me and transform me into an even stronger man.:紗代は僕を支え、より強く生まれ変わらせてくれる人だ。}`
-`{ruby:......You've praised me for becoming the adult that I am, but that could never have happened without her.":……母さんが、たくましくなったと褒めてくれた今の僕は、彼女がいなかったらありえない」}`
+`{ruby:Do you realize how hard your:父さんが今日までどれくらいの苦労}{ruby:father worked to get where he is?!:をしたのかわかってるの？！}`
+`{ruby:That's not something you could:あんたが真似て出来るような}{ruby:duplicate just by imitating him!!:ことじゃないの！！}`
+`{ruby:Do you have any idea how often:今日まで、どれほどの運や偶然に}{ruby:he was saved by luck and coincidence?!!":助けられたことか！！」}`
+`{ruby:"And he got through it because he had:「そして、母さんという良き理解}{ruby:you, his wonderful life partner, by his side.:者の伴侶がいたからだよ。}`
+`{ruby:Sayo is the kind of person who'll support:紗代は僕を支え、より強く生ま}{ruby:me and transform me into an even stronger man.:れ変わらせてくれる人だ。}`
+`{ruby:......You've praised me for becoming the adult that I:……母さんが、たくましくなったと褒めてくれた}{ruby:am, but that could never have happened without her.":今の僕は、彼女がいなかったらありえない」}`
 `{ruby:"Huh...?!!!:「はぁッ…！！！}`
 `{ruby:Listen, George!:いい？！　譲治？！}`
-`{ruby:Just let your mother handle this for now.:とにかくここは一度母さんに任せなさい。}`
-`{ruby:Cool your head and think very carefully!:頭を冷やして、よーく考えて！}`
-`{ruby:Shannon‐chan isn't the only person interested in you, you know...?!:紗音ちゃんだけが、あなたに好意を持ってるわけじゃないのよ…？！}`
-`{ruby:The girl you had that marriage meeting with, Ayumi‐san, really took a liking to you!!":お見合いした亜由美さんだって、あなたのことをとても気に入ったそうよ？！」}`
+`{ruby:Just let your mother:とにかくここは一度母さ}{ruby:handle this for now.:んに任せなさい。}`
+`{ruby:Cool your head:頭を冷やして、よ}{ruby:and think very carefully!:ーく考えて！}`
+`{ruby:Shannon‐chan isn't the only person:紗音ちゃんだけが、あなたに好意を持}{ruby:interested in you, you know...?!:ってるわけじゃないのよ…？！}`
+`{ruby:The girl you had that marriage meeting:お見合いした亜由美さんだって、あなたのこ}{ruby:with, Ayumi‐san, really took a liking to you!!":とをとても気に入ったそうよ？！」}`
 `{ruby:"That's the first I've heard of it.":「初耳だね」}`
 `{ruby:"I thought you knew...!!:「あなたもわかってると思ってたのよ…！！}`
-`{ruby:Her parents were also very impressed by you!!:先方のご両親も大変あなたのことを気に入ってるそうよ？！}`
-`{ruby:If you really dream to build your own castle like your father, Ayumi‐san is the one who'd really be able to help you, right?!:もしあなたに、父さんのように一国一城を築きたい夢があるなら、その手伝いが出来るのは亜由美さんの方でしょうッ？！}`
-`{ruby:Do you intend to betray her feelings?!":彼女の気持ちを裏切るの？！」}`
+`{ruby:Her parents were also:先方のご両親も大変あなたのこと}{ruby:very impressed by you!!:を気に入ってるそうよ？！}`
+`{ruby:If you really dream to build your own castle like your father,:もしあなたに、父さんのように一国一城を築きたい夢があるなら}{ruby:Ayumi‐san is the one who'd really be able to help you, right?!:、その手伝いが出来るのは亜由美さんの方でしょうッ？！}`
+`{ruby:Do you intend:彼女の気持ちを裏切}{ruby:to betray her feelings?!":るの？！」}`
 `{ruby:"......There's nothing to betray.:「……裏切るも何も。}`
-`{ruby:There was never any special relationship between Ayumi‐san and me.:僕は亜由美さんと、特に交流があったわけじゃない。}`
-`{ruby:We just had a marriage meeting and our parents got all fired up afterwards.:お見合いをして、その後、親たちが勝手に盛り上がってるだけじゃないか。}`
-`{ruby:You made us go out together several times, but we never even looked each other in the eye.":数度、無理やり引き合わされたけど、僕たちは互いに、目さえ合わせちゃいない」}`
-`{ruby:"Ayumi‐san is a well‐bred, modest woman!!:「亜由美さんは育ちのいい、奥ゆかしい女性でしょ！！}`
-`{ruby:She just couldn't look at you because you're a man and it would be embarrassing and ill‐mannered...!!:男性の譲治に目を合わせるなんて、恥ずかしいし不躾で出来なかっただけよ…！！}`
-`{ruby:If you can't feel anything from her unless she looks at you when she talks, I'll advise her of that.:あなたが、目を見て話してくれなきゃ気持ちが感じられないというなら、彼女にそう注意するわ。}`
-`{ruby:I'm sure she'll look at you from now on...!!":きっとこれからはあなたの目を見て話してくれるはずよ…！！」}`
-`{ruby:"You want me to marry Ayumi‐san because it will benefit you.:「亜由美さんと結婚させたいのは、それが母さんにとって利するからさ。}`
-`{ruby:......You aren't pushing that engagement for the sake of anyone but yourself...!":……母さんの縁談には、僕の気持ちがわずかほども含まれていないっ」}`
+`{ruby:There was never any special:僕は亜由美さんと、特に交流}{ruby:relationship between Ayumi‐san and me.:があったわけじゃない。}`
+`{ruby:We just had a marriage meeting and:お見合いをして、その後、親たちが勝手}{ruby:our parents got all fired up afterwards.:に盛り上がってるだけじゃないか。}`
+`{ruby:You made us go out together several times, but:数度、無理やり引き合わされたけど、僕たち}{ruby:we never even looked each other in the eye.":は互いに、目さえ合わせちゃいない」}`
+`{ruby:"Ayumi‐san is a:「亜由美さんは育ちのいい、奥}{ruby:well‐bred, modest woman!!:ゆかしい女性でしょ！！}`
+`{ruby:She just couldn't look at you because you're:男性の譲治に目を合わせるなんて、恥ずかし}{ruby:a man and it would be embarrassing and ill‐mannered...!!:いし不躾で出来なかっただけよ…！！}`
+`{ruby:If you can't feel anything from her unless she looks:あなたが、目を見て話してくれなきゃ気持ちが感じら}{ruby:at you when she talks, I'll advise her of that.:れないというなら、彼女にそう注意するわ。}`
+`{ruby:I'm sure she'll look:きっとこれからはあなたの目を見て}{ruby:at you from now on...!!":話してくれるはずよ…！！」}`
+`{ruby:"You want me to marry:「亜由美さんと結婚させたいのは、それ}{ruby:Ayumi‐san because it will benefit you.:が母さんにとって利するからさ。}`
+`{ruby:......You aren't pushing that engagement for:……母さんの縁談には、僕の気持ちが}{ruby:the sake of anyone but yourself...!":わずかほども含まれていないっ」}`
 `{ruby:"George!!:「譲治ッ！！}`
 `{ruby:How can you say that?!!:どうしてそんなことを言うの！！}`
-`{ruby:Have I ever failed to think about what's best for you?!":母さんがあなたのことを考えないことなんてあった？！」}`
+`{ruby:Have I ever failed to:母さんがあなたのことを考えない}{ruby:think about what's best for you?!":ことなんてあった？！」}`
 `{ruby:"I haven't, have I?!:「ないでしょう？！}`
-`{ruby:How is the ‘parent’ ({p:0:親}) kanji written?!:親という漢字はどういう字？！}`
-`{ruby:It's {nobr:‘stand’ ({p:0:立})} on top of a {nobr:‘tree’ ({p:0:木})} and {nobr:‘look’ ({p:0:見})!}":“木”の上に“立”って“見”ると書いて“親”なのよ？！」}`
-`{ruby:"That's what we've been doing, surveying your entire future from a height far greater than you have access to!!:「母さんたちはね、あなたよりはるかに高みから、人生の遠くまでを展望してるの！！}`
-`{ruby:And from our vantage point, we can see that you're letting your momentary youthful emotions lead you down the wrong path!!:そしてあなたが、若さゆえの一時の感情で、間違った道へ進もうとしているのが見えているの！！}`
-`{ruby:That's why I'm saying what I am even though I know you'll hate me for it!!":だからこうして、憎まれることを承知で言ってるのよ？！」}`
-`{ruby:"If I didn't care for you, we wouldn't be having this fight!:「あんたがどうでもいい子だったら、こんな喧嘩しないわ！}`
-`{ruby:I'd just tell you to marry whatever strange girl you like and leave you be...!":どこの変な女とでも勝手に結婚しなさいって、放っておいてるわよ…！」}`
+`{ruby:How is the:親という漢字はどう}{ruby:‘parent’ ({p:0:親}) kanji written?!:いう字？！}`
+`{ruby:It's {nobr:‘stand’ ({p:0:立})} on top of:“木”の上に“立”って“見”ると}{ruby:a {nobr:‘tree’ ({p:0:木})} and {nobr:‘look’ ({p:0:見})!}":書いて“親”なのよ？！」}`
+`{ruby:"That's what we've been doing, surveying your entire future:「母さんたちはね、あなたよりはるかに高みか}{ruby:from a height far greater than you have access to!!:ら、人生の遠くまでを展望してるの！！}`
+`{ruby:And from our vantage point, we can see that you're:そしてあなたが、若さゆえの一時の感情で、間違った}{ruby:letting your momentary youthful emotions lead you down the wrong path!!:道へ進もうとしているのが見えているの！！}`
+`{ruby:That's why I'm saying what I am even:だからこうして、憎まれることを}{ruby:though I know you'll hate me for it!!":承知で言ってるのよ？！」}`
+`{ruby:"If I didn't care for you,:「あんたがどうでもいい子だった}{ruby:we wouldn't be having this fight!:ら、こんな喧嘩しないわ！}`
+`{ruby:I'd just tell you to marry whatever:どこの変な女とでも勝手に結婚しなさい}{ruby:strange girl you like and leave you be...!":って、放っておいてるわよ…！」}`
 `{ruby:"You hear me, George?:「ね、譲治？}`
 `{ruby:Leave this to your mother.:母さんに全て任せなさいッ。}`
-`{ruby:There's no need for you to meet with Shannon‐chan anymore.:もうあなたは紗音ちゃんに会わなくていいわ。}`
-`{ruby:We'll take care of everything for you.":全部、母さんたちで話をつけてあげる」}`
-`{ruby:"......Don't worry, we won't have Shannon‐chan mistreated.:「……大丈夫よ、紗音ちゃんにも悪いようにはしない。}`
-`{ruby:After all, it's thanks to her that you've grown so much, right...?:だって、譲治に、成長のきっかけをくれた人だものねぇ…？}`
+`{ruby:There's no need for you:もうあなたは紗音ちゃんに}{ruby:to meet with Shannon‐chan anymore.:会わなくていいわ。}`
+`{ruby:We'll take care:全部、母さんたちで話}{ruby:of everything for you.":をつけてあげる」}`
+`{ruby:"......Don't worry, we:「……大丈夫よ、紗音ちゃんに}{ruby:won't have Shannon‐chan mistreated.:も悪いようにはしない。}`
+`{ruby:After all, it's thanks to her:だって、譲治に、成長のきっかけ}{ruby:that you've grown so much, right...?:をくれた人だものねぇ…？}`
 `{ruby:We'll take that into account.:ちゃんとそれに配慮してあげるから。}`
 `{ruby:So leave the rest to us......:だからあとはもう、母さんたちに任せなさい……。}`
 `{ruby:George............":譲治…………」}`
-`{ruby:".......................................":「………………………………」}`
-`{ruby:Sometime during Eva's rage, tears had started to drip from her eyes.:激情の絵羽は、いつの間にか目から涙を零していた。}`
-`{ruby:As though those tears had caused him to hesitate, ......George turned his back and sagged his shoulders...:その涙に戸惑いを覚えたのだろうか、……譲治は、背中を向け、肩を落とす…。}`
-`{ruby:George was, after all, only a child of man...:やはり譲治も人の子…。}`
-`{ruby:......Though he understood that marriage required nothing more than the consent of both people,:……結婚は愛し合う二人の同意さえあれば、他には何もいらないとわかってはいても、}`
-`{ruby:.........he couldn't get over his desire for his parents' acceptance...:………それを親に認めてもらいたいという気持ちは拭えない…。}`
-`{ruby:And so, he was torn between the tears of the mother who had always helped him and the fiancée he had chosen.........:だから、今日まで世話になった母の涙と、自分が選んだ婚約者の間で、葛藤して………、}`
+`{ruby::「…………………}{ruby:".......................................":……………」}`
+`{ruby:Sometime during Eva's rage, tears had:激情の絵羽は、いつの間にか}{ruby:started to drip from her eyes.:目から涙を零していた。}`
+`{ruby:As though those tears had caused him to:その涙に戸惑いを覚えたのだろうか、……}{ruby:hesitate, ......George turned his back and sagged his shoulders...:譲治は、背中を向け、肩を落とす…。}`
+`{ruby:George was, after all,:やはり譲治も人}{ruby:only a child of man...:の子…。}`
+`{ruby:......Though he understood that marriage required nothing:……結婚は愛し合う二人の同意さえあれば、他}{ruby:more than the consent of both people,:には何もいらないとわかってはいても、}`
+`{ruby:.........he couldn't get over his:………それを親に認めてもらいたい}{ruby:desire for his parents' acceptance...:という気持ちは拭えない…。}`
+`{ruby:And so, he was torn between the tears of the mother:だから、今日まで世話になった母の涙と、自分}{ruby:who had always helped him and the fiancée he had chosen.........:が選んだ婚約者の間で、葛藤して………、}`
 `{ruby:...:………}`
 `{ruby:or was he...?:いない…？}`
 `{ruby:".........I think it's......time.:「………もう、いいよね。}`
 `{ruby:It's time, now.":そろそろ」}`
 `{ruby:"Huh............?":「え…………？」}`
 `{ruby:"All my life,:「今日まで。}`
-`{ruby:you've done a great job raising me, and I'm truly grateful for that.:立派に育ててもらって、本当に感謝してる。}`
-`{ruby:When I have children and become a parent,:僕も子を持って親になったら。}`
+`{ruby:you've done a great job raising:立派に育ててもらって、}{ruby:me, and I'm truly grateful for that.:本当に感謝してる。}`
+`{ruby:When I have children:僕も子を持って親}{ruby:and become a parent,:になったら。}`
 `{ruby:......I'll become a parent like you.:………母さんみたいな親になるよ。}`
-`{ruby:I'll be the kind of parent most worthy of respect in the entire world, one who can truly fight for his children's sake.":子供のために、本当に戦える、世界で一番尊敬できる親にね」}`
+`{ruby:I'll be the kind of parent most worthy of respect in:子供のために、本当に戦える、世}{ruby:the entire world, one who can truly fight for his children's sake.":界で一番尊敬できる親にね」}`
 `{ruby:"George............":「譲治…………」}`
 `{ruby:With his back still towards her,:譲治は背中を向けたまま、}`
-`{ruby:......George threw away his umbrella,:……傘を捨て、}`
-`{ruby:......and slowly stepped out from beneath the eaves into the rain.:……ゆっくりひさしを出て、雨の中に出る。}`
+`{ruby:......George threw:……傘を捨}{ruby:away his umbrella,:て、}`
+`{ruby:......and slowly stepped out from:……ゆっくりひさしを出}{ruby:beneath the eaves into the rain.:て、雨の中に出る。}`
 `{ruby:Then, ......he slowly turned around.:そして、……ゆっくりと、振り返る。}`
-`{ruby:It was, without a doubt, the familiar face of Eva's beloved son.:それは確かに、絵羽のよく見知った、最愛の息子の顔。}`
-`{ruby:......However, he stood there now as his own man,:……だけれども、血の繋がりさえ忘れる、}`
-`{ruby:self‐controlled and independent enough that the blood connection between them might even be forgotten.:……克己した、一人の男としても存在していた。}`
+`{ruby:It was, without a doubt, the:それは確かに、絵羽のよく見知}{ruby:familiar face of Eva's beloved son.:った、最愛の息子の顔。}`
+`{ruby:......However, he stood there:……だけれども、血の繋}{ruby:now as his own man,:がりさえ忘れる、}`
+`{ruby:self‐controlled and independent enough that the blood:……克己した、一人の男と}{ruby:connection between them might even be forgotten.:しても存在していた。}`
 `{ruby:"I think it's about time, now.":「もう、そろそろいいと思うんだよ」}`
 `{ruby:"......For......what...?":「……何が、……よ……」}`
 `{ruby:"For you to let go......:「子離れしても、}`
 `{ruby:of your son, Mother.":いいんじゃないかな。母さんは」}`
 `{ruby:".........Geo—":「…………譲、……、」}`
-`{ruby:"Let's talk the rest of this out as people, not as mother and son.:「ここからはもう、親子の関係はなしで話そうじゃないか。}`
+`{ruby:"Let's talk the rest of this out:「ここからはもう、親子の関係は}{ruby:as people, not as mother and son.:なしで話そうじゃないか。}`
 `{ruby:I am George.:僕は譲治。}`
 `{ruby:You are Eva.:君は、絵羽。}`
-`{ruby:Let's drop the "because I'm your parent" routine, speak for ourselves, and say what we really mean.":親だからどうこうというのは抜きにして、互いの立場から本音をぶつけようじゃないか」}`
-`{ruby:".........The reason you want to choose the person I marry......is for financial reasons, public appearances,:「………君が、僕を望み通りの相手と結婚させたい理由は、……経済的事情、世間体、}`
-`{ruby:......and so that you can posture in that still continuing quarrel between you and your siblings.:……それから、未だ諍いのなくならない、伯父さんたちへの見栄。}`
+`{ruby:Let's drop the "because I'm your parent" routine,:親だからどうこうというのは抜きにして、互い}{ruby:speak for ourselves, and say what we really mean.":の立場から本音をぶつけようじゃないか」}`
+`{ruby:".........The reason you want to choose the:「………君が、僕を望み通りの相手と結婚させ}{ruby:person I marry......is for financial reasons, public appearances,:たい理由は、……経済的事情、世間体、}`
+`{ruby:......and so that you can posture in that:……それから、未だ諍いのなくなら}{ruby:still continuing quarrel between you and your siblings.:ない、伯父さんたちへの見栄。}`
 `{ruby:......You have no other reason.":……それ以外に、何もない」}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:"You'd do well to just come clean and admit it now.:「いっそ、それをすっきり認めてくれた方が、潔いね。}`
-`{ruby:......I'm going to start speaking on my own behalf.:……僕はこれから、僕の立場だけで語るから。}`
+`{ruby:"You'd do well to just:「いっそ、それをすっきり認め}{ruby:come clean and admit it now.:てくれた方が、潔いね。}`
+`{ruby:......I'm going to start:……僕はこれから、僕の立}{ruby:speaking on my own behalf.:場だけで語るから。}`
 `{ruby:I suggest you do the same.:君もそうした方が、いいんじゃないかな。}`
-`{ruby:...............You'll lose, I'm warning you.":……………負けるよ？　君」}`
+`{ruby:...............You'll lose,:……………負ける}{ruby:I'm warning you.":よ？　君」}`
 `{ruby:George's eyes...:譲治の瞳にはもう、}`
-`{ruby:...no longer contained any trace of his love and respect for his mother.:……母に対する敬愛は、一切浮かんでいない。}`
-`{ruby:There was only a frigid glare as he gazed ruthlessly down at the witch who was trying to bind his future.:ただただ、……自分の未来を縛ろうとする魔女を冷酷に見下す、冷え切った光があるだけだ。}`
+`{ruby:...no longer contained any trace of:……母に対する敬愛は、一}{ruby:his love and respect for his mother.:切浮かんでいない。}`
+`{ruby:There was only a frigid glare as he gazed ruthlessly:ただただ、……自分の未来を縛ろうとする魔女を}{ruby:down at the witch who was trying to bind his future.:冷酷に見下す、冷え切った光があるだけだ。}`
 `{ruby:"......George,:「……譲治……、}`
 `{ruby:......why...:……どうして、}`
-`{ruby:...are you looking at your mother like that......?":……母さんをそんな目で見るの……」}`
-`{ruby:"Because I'm not looking at my mother right now.:「今、僕は、母さんを見ていないからさ。}`
-`{ruby:......All I see is a wall, a trial standing in the way of the future I'm trying to grasp.:……僕の目に映っているのは、……僕の選び取ろうとする未来の前に立ち塞がる、試練の壁だけさ。}`
+`{ruby:...are you looking at:……母さんをそんな目}{ruby:your mother like that......?":で見るの……」}`
+`{ruby:"Because I'm not looking:「今、僕は、母さんを見}{ruby:at my mother right now.:ていないからさ。}`
+`{ruby:......All I see is a wall, a trial standing:……僕の目に映っているのは、……僕の選び取ろうと}{ruby:in the way of the future I'm trying to grasp.:する未来の前に立ち塞がる、試練の壁だけさ。}`
 `{ruby:......You're your own person too.:……母さんだって人間だ。}`
-`{ruby:I know that you have dreams and ambitions, and that you're still chasing after those.:夢や野心があって、それを今も追い続けてるのは知ってる。}`
-`{ruby:And I think that's a wonderful thing.:そしてそれを、素晴らしいと思う。}`
-`{ruby:......We also know how hard it is for a person to chase their dreams without giving up.":……自分の夢を決して諦めないことの大変さを、僕たちは知っているのだから」}`
-`{ruby:I need to inherit your wonderful strength.:だから、その素晴らしき力を、僕も受け継がなきゃならない。}`
-`{ruby:I've learned a lot from my parents, my friends, and Sayo...and I've grown.:僕は、両親や友人たち、そして紗代から、様々なものを学んで成長してきた。}`
+`{ruby:I know that you have dreams and:夢や野心があって、それを今も追}{ruby:ambitions, and that you're still chasing after those.:い続けてるのは知ってる。}`
+`{ruby:And I think:そしてそれを、素晴}{ruby:that's a wonderful thing.:らしいと思う。}`
+`{ruby:......We also know how hard it is for:……自分の夢を決して諦めないことの大変}{ruby:a person to chase their dreams without giving up.":さを、僕たちは知っているのだから」}`
+`{ruby:I need to:だから、その素晴らしき力を、僕}{ruby:inherit your wonderful strength.:も受け継がなきゃならない。}`
+`{ruby:I've learned a lot from my:僕は、両親や友人たち、そして紗代から、}{ruby:parents, my friends, and Sayo...and I've grown.:様々なものを学んで成長してきた。}`
 `{ruby:"And that final, finished product,:「その最後に学び、}`
-`{ruby:after everything I learned and acquired,:獲得して完成されるのが本当の、}`
+`{ruby:after everything I:獲得して完成される}{ruby:learned and acquired,:のが本当の、}`
 `{ruby:......is the real Ushiromiya George!:………右代宮譲治という男なんだ！}`
-`{ruby:Now I'll overcome the final barrier—you!!":僕は今、あなたという最後の壁を、超えるッ！！」}`
+`{ruby:Now I'll overcome:僕は今、あなたという最後の}{ruby:the final barrier—you!!":壁を、超えるッ！！」}`
 `{ruby:"..................!!!":「………………ッッッ！！！」}`
 `{ruby:".........What...?":「………何…？」}`
 `{ruby:Eva had disappeared.:絵羽の姿が、消えた。}`
-`{ruby:{n}The pouring rain landed evenly across the ground everywhere.:{n}降り注ぐ雨は、全ての地面を等しく叩いている。}`
-`{ruby:No, ......it was blocked very slightly in one place.:いや、……わずかに遮られている場所があった。}`
+`{ruby:{n}The pouring rain landed:{n}降り注ぐ雨は、全ての地}{ruby:evenly across the ground everywhere.:面を等しく叩いている。}`
+`{ruby:No, ......it was blocked:いや、……わずかに遮られ}{ruby:very slightly in one place.:ている場所があった。}`
 `{ruby:{n}However, there was no one there.:{n}しかしそこに、誰の影もない。}`
-`{ruby:......Standing on the ground isn't the only way to block the path of the rain.:……雨を遮るのは、地上に立つだけじゃない。}`
+`{ruby:......Standing on the ground isn't the only:……雨を遮るのは、地上に}{ruby:way to block the path of the rain.:立つだけじゃない。}`
 `{ruby:Then,:なら、}`
 `{ruby:...........could it be.........:…………まさか………、}`
 `{ruby:"............!!":「…………ッ！！」}`
-`{ruby:"Alright then... Sometimes it's good to be brutally honest!:「いいわよぅ、本音をぶつけ合うのもたまにはいいじゃない！}`
+`{ruby:"Alright then... Sometimes it's:「いいわよぅ、本音をぶつけ合う}{ruby:good to be brutally honest!:のもたまにはいいじゃない！}`
 `{ruby:I'll speak my mind.:私も言っちゃうわ。}`
-`{ruby:So why don't you just lay it out there forever?!:だからあなたも言っちゃえばぁ？！}`
-`{ruby:Ahha{0}ha{0}ha{0}ha{0}haa{0}ha{0}hah!!":あっはははははっはっはっは！！」}`
-`{ruby:In the rain‐filled sky, with the moon that shouldn't have been visible behind her,:この降り注ぐ雨の中空に、浮かぶはずのない月を背負って、}`
-`{ruby:......was the Golden Witch of the future who had finally obtained everything of the Ushiromiya family.:……やがて右代宮家の全てを手に入れる、未来の黄金の魔女が、そこにいた。}`
-`{ruby:Even the drastic change in his mother's appearance didn't faze George.:母の姿のその変わり様にも、譲治はまったく動じない。}`
-`{ruby:On the contrary, he seemed to be moved by her boldness.:むしろ譲治はそれを、潔し、と短く一言、感嘆する。}`
-`{ruby:Because his mother had honestly and truly displayed...:母は正直に素直に、}`
+`{ruby:So why don't you just:だからあなたも言っ}{ruby:lay it out there forever?!:ちゃえばぁ？！}`
+`{ruby::あっはははははっはっ}{ruby:Ahha{0}ha{0}ha{0}ha{0}haa{0}ha{0}hah!!":はっは！！」}`
+`{ruby:In the rain‐filled sky, with the moon:この降り注ぐ雨の中空に、浮かぶ}{ruby:that shouldn't have been visible behind her,:はずのない月を背負って、}`
+`{ruby:......was the Golden Witch of the future who:……やがて右代宮家の全てを手に入れる、}{ruby:had finally obtained everything of the Ushiromiya family.:未来の黄金の魔女が、そこにいた。}`
+`{ruby:Even the drastic change in:母の姿のその変わり様にも、譲}{ruby:his mother's appearance didn't faze George.:治はまったく動じない。}`
+`{ruby:On the contrary, he seemed:むしろ譲治はそれを、潔し、}{ruby:to be moved by her boldness.:と短く一言、感嘆する。}`
+`{ruby:Because his mother had:母は正直に素}{ruby:honestly and truly displayed...:直に、}`
 `{ruby:...her true nature.:……本当の姿を晒してくれたからだ。}`
-`{ruby:Now, ......I can confidently show her...:これでこそ、……僕は安心して、}`
+`{ruby:Now, ......I can:これでこそ、……僕}{ruby:confidently show her...:は安心して、}`
 `{ruby:my true self...:本当の自分へ、今度こそ姿を晒せる…。}`
 `{ruby:"Here we go, Mother.:「行くよ、母さん。}`
 `{ruby:Here we go......Eva.:そして、……絵羽。}`
-`{ruby:This is my first step......towards escaping from your shackles...!":これが僕の、……君の束縛から踏み出る、最初の第一歩だ…！」}`
+`{ruby:This is my first:これが僕の、……君の束縛から踏み}{ruby:step......towards escaping from your shackles...!":出る、最初の第一歩だ…！」}`
 `{ruby:"First steeeeeeep...?!?!":「第一歩ォおぉおおおォオ…？！？！」}`
-`{ruby:With that first step, he felt something odd beneath his feet.:その第一歩の足元に、違和感。}`
-`{ruby:He knew that this sticky sensation, which didn't quite feel like mud, represented his mother's arrogance trying to prevent him from making that first step.:泥濘とは違うネバつく感触に、譲治はその第一歩さえ許そうとしない、母の傲慢を確信する。}`
-`{ruby:"I used to read to you all the time when you were little, didn't I?:「小さい頃、お話をたくさん読んであげたわね？}`
-`{ruby:Do you remember your favorite story, "Journey to the West"?":あなたが大好きだった西遊記、覚えてるゥ？」}`
+`{ruby:With that first step, he:その第一歩の足元}{ruby:felt something odd beneath his feet.:に、違和感。}`
+`{ruby:He knew that this sticky sensation, which didn't quite feel like mud,:泥濘とは違うネバつく感触に、譲治はその第一歩}{ruby:represented his mother's arrogance trying to prevent him from making that first step.:さえ許そうとしない、母の傲慢を確信する。}`
+`{ruby:"I used to read to you all:「小さい頃、お話をたくさ}{ruby:the time when you were little, didn't I?:ん読んであげたわね？}`
+`{ruby:Do you remember your favorite:あなたが大好きだった西遊}{ruby:story, "Journey to the West"?":記、覚えてるゥ？」}`
 `{ruby:".........That takes me back.:「………懐かしいね。}`
-`{ruby:That's probably the first fantasy I really loved.":多分、僕が、一番最初に愛したファンタジーだ」}`
-`{ruby:Sun Wukong, the Monkey King, wanted to become a god and was tested by the Buddha.:神の座を求めた孫悟空に、お釈迦様は試す。}`
-`{ruby:The Buddha told him, "If you can jump free from the palm of my hand, I will grant you your wish.":この手の平から飛び出すことが出来たなら、それを認めようと。}`
-`{ruby:Then, Sun Wukong managed to reach what he thought was the end of the world, and found five pillars standing there......:そして孫悟空が辿り着いたと思った世界の果てにそびえ立つ五本の柱は……、}`
-`{ruby:only to discover that they were the Buddha's fingers, and that he still hadn't left the Buddha's hand.:お釈迦様の指で、未だその手の平を脱してさえいなかった、というエピソード。}`
-`{ruby:"......Are you saying that's what my first step is like...?":「……僕が母さんから決別すると宣言した第一歩が、それだと言いたいわけだね…？」}`
+`{ruby:That's probably the first:多分、僕が、一番最初に愛}{ruby:fantasy I really loved.":したファンタジーだ」}`
+`{ruby:Sun Wukong, the Monkey King, wanted to become:神の座を求めた孫悟空に}{ruby:a god and was tested by the Buddha.:、お釈迦様は試す。}`
+`{ruby:The Buddha told him, "If you can jump free from:この手の平から飛び出すことが出来}{ruby:the palm of my hand, I will grant you your wish.":たなら、それを認めようと。}`
+`{ruby:Then, Sun Wukong managed to reach what he thought was:そして孫悟空が辿り着いたと思った世界の}{ruby:the end of the world, and found five pillars standing there......:果てにそびえ立つ五本の柱は……、}`
+`{ruby:only to discover that they were the Buddha's fingers,:お釈迦様の指で、未だその手の平を脱して}{ruby:and that he still hadn't left the Buddha's hand.:さえいなかった、というエピソード。}`
+`{ruby:"......Are you saying that's what:「……僕が母さんから決別すると宣言した第一}{ruby:my first step is like...?":歩が、それだと言いたいわけだね…？」}`
 `{ruby:"Ehhehehhahahahahaahahaha!!:「うっふっふっははははっはっはッ！！}`
-`{ruby:Your resistance, your conflict, your anguish and self‐restraint and everything else!!:あなたの反抗も葛藤も、苦悩も克己も全て全て！！}`
-`{ruby:All of it is a road I once traveled down...!:私がすでに通ってきた道…！}`
-`{ruby:This first step of yours would be overwhelmed by my life!!:あなたのその第一歩など、私という人生に飲み込まれる程度！！}`
-`{ruby:How long are you gonna turn a blind eye to it?:いつまで目を背けてるのゥ？}`
+`{ruby:Your resistance, your conflict, your:あなたの反抗も葛藤も、苦悩}{ruby:anguish and self‐restraint and everything else!!:も克己も全て全て！！}`
+`{ruby:All of it is a:私がすでに通って}{ruby:road I once traveled down...!:きた道…！}`
+`{ruby:This first step of yours:あなたのその第一歩など、私という}{ruby:would be overwhelmed by my life!!:人生に飲み込まれる程度！！}`
+`{ruby:How long are you gonna:いつまで目を背け}{ruby:turn a blind eye to it?:てるのゥ？}`
 `{ruby:Why not look?!:見ちゃえばァ？！}`
 `{ruby:At what you're standing on!!!":足元ぉ！！！」}`
-`{ruby:On the pitch‐black earth soaked by the pounding rain...:譲治の足元には、雨が叩く濡れた漆黒の大地が。}`
+`{ruby:On the pitch‐black earth:譲治の足元には、雨が叩く}{ruby:soaked by the pounding rain...:濡れた漆黒の大地が。}`
 `{ruby:...there were what appeared to be...:そこに、うっすらと赤く、}`
-`{ruby:...ominously glowing bands of faint red, ......and George had placed his first step directly on top of one.:禍々しく光る帯のようなものがあって、……それを譲治の第一歩が踏んでいる。}`
-`{ruby:It was deep and viscous, and it held George's foot in place.:それは粘性と深みを持っていて、譲治の第一歩を咥え込んでいるのだ。}`
-`{ruby:From Eva's perspective as she looked down from the sky,:空に浮かんで見下ろす絵羽から見ればそれは、}`
-`{ruby:......it looked like a vast red spiderweb that radiated out with George at the center.:……譲治を中心に放射状に広がる、広大で真っ赤な、蜘蛛の巣。}`
+`{ruby:...ominously glowing bands of faint red, ......and George had:禍々しく光る帯のようなものがあって、…}{ruby:placed his first step directly on top of one.:…それを譲治の第一歩が踏んでいる。}`
+`{ruby:It was deep and viscous, and:それは粘性と深みを持っていて、譲治}{ruby:it held George's foot in place.:の第一歩を咥え込んでいるのだ。}`
+`{ruby:From Eva's perspective as she:空に浮かんで見下ろす絵羽}{ruby:looked down from the sky,:から見ればそれは、}`
+`{ruby:......it looked like a vast red spiderweb:……譲治を中心に放射状に広がる、}{ruby:that radiated out with George at the center.:広大で真っ赤な、蜘蛛の巣。}`
 `{ruby:".........That's right.:「…………そうさ。}`
 `{ruby:This is me.:これが僕さ。}`
-`{ruby:This is me, tied down by a life of constant instruction...:生まれた時から数々の習い事で縛り付けられ、}`
-`{ruby:...and raised solely for the sake of your ambitions.":……あんたの野望のためだけに育てられてきた僕の姿さ」}`
+`{ruby:This is me, tied down:生まれた時から数々の習い}{ruby:by a life of constant instruction...:事で縛り付けられ、}`
+`{ruby:...and raised solely for:……あんたの野望のためだけに}{ruby:the sake of your ambitions.":育てられてきた僕の姿さ」}`
 `{ruby:"No, you're wrong about that.:「いいえ、それは違うわ。}`
-`{ruby:Let me make it so that you can understand.:なら、わかるようにしてあげる。}`
+`{ruby:Let me make it:なら、わかるように}{ruby:so that you can understand.:してあげる。}`
 `{ruby:I'll show you.:見せてあげる。}`
-`{ruby:And then, you'll realize the truth forever!!:そして悟っちゃえばぁ？！}`
-`{ruby:Ahaha{0}ha{0}ha{0}ha{0}hyah{0}haaah!!!":あっははははっひゃっはアぁあ！！！」}`
-`{ruby:The vast, red spiderweb on the ground scooped up George as easily as scooping scum out of a pot.:大地の広大な赤い蜘蛛の巣が、鍋に浮く灰汁を掬うかのようにあっさり、譲治を大地から掬い上げる。}`
-`{ruby:Then, it lifted him into the air like a deer caught in a net and swung him about.:そして網の罠で捕らえた鹿のように宙に釣り上げ、振り回す。}`
-`{ruby:{f:5:Eva}'s insane laugh was as innocent as a grade schooler happily swinging about a bag filled with her gym clothes...:エヴァの狂った笑い声とのそれは、まるで小学生が体操服の入った巾着袋を振り回すみたいに無邪気で、}`
+`{ruby:And then, you'll:そして悟っちゃ}{ruby:realize the truth forever!!:えばぁ？！}`
+`{ruby::あっははははっひゃっは}{ruby:Ahaha{0}ha{0}ha{0}ha{0}hyah{0}haaah!!!":アぁあ！！！」}`
+`{ruby:The vast, red spiderweb on the ground scooped up:大地の広大な赤い蜘蛛の巣が、鍋に浮く灰汁を掬うか}{ruby:George as easily as scooping scum out of a pot.:のようにあっさり、譲治を大地から掬い上げる。}`
+`{ruby:Then, it lifted him into the air like a:そして網の罠で捕らえた鹿のよう}{ruby:deer caught in a net and swung him about.:に宙に釣り上げ、振り回す。}`
+`{ruby:{f:5:Eva}'s insane laugh was as innocent as a grade schooler:エヴァの狂った笑い声とのそれは、まるで小学生が体操}{ruby:happily swinging about a bag filled with her gym clothes...:服の入った巾着袋を振り回すみたいに無邪気で、}`
 `{ruby:...and cruel in equal measure.:……そして残酷だ。}`
-`{ruby:"...Gah...............gwooh.........kkhh...!!":「…う……………ぐお………ッッ…ッ！！」}`
+`{ruby::「…う……………ぐお…}{ruby:"...Gah...............gwooh.........kkhh...!!":……ッッ…ッ！！」}`
 `{ruby:"*giggle*giggle*!!:「くすくすくすくす！！}`
 `{ruby:Come on, try to remember, okay?:さぁさ思い出して御覧なさい？}`
 `{ruby:What happened on Tuesdays...?!!":火曜日には何があったのか…！！」}`
@@ -517,339 +517,339 @@
 `{ruby:Guh, ......gggh............:ぐ、……ご…………。}`
 `{ruby:......Of course I remember.:……覚えてるさ。}`
 `{ruby:......That was piano lessons.:……ピアノ教室だよ。}`
-`{ruby:I still cringe whenever I hear "I Stepped on the Cat".":今でも、猫踏んじゃったを聞くと、背中の毛が逆立つね」}`
+`{ruby:I still cringe whenever I:今でも、猫踏んじゃったを聞く}{ruby:hear "I Stepped on the Cat".":と、背中の毛が逆立つね」}`
 `{ruby:"You did violin in kindergarten.:「幼稚園の頃はバイオリン教室だったわぁ。}`
-`{ruby:That's the sort of instrument you'd expect smart kids to play, right?:デキる子はやってそうでしょオ？}`
-`{ruby:But you didn't seem to have the talent.:あんた才能なさそうだったからね。}`
+`{ruby:That's the sort of instrument you'd:デキる子はやってそ}{ruby:expect smart kids to play, right?:うでしょオ？}`
+`{ruby:But you didn't seem:あんた才能なさそうだ}{ruby:to have the talent.:ったからね。}`
 `{ruby:So we switched you over to piano!!":途中でピアノに変えたけどッ！！」}`
 `{ruby:"Then, do you remember Wednesdays?!":「じゃあ水曜日は覚えてるゥ？！」}`
 `{ruby:"I, .........I remember.:「お、………覚えてるさ。}`
 `{ruby:That was the day for cram school.:進学塾の日だよ。}`
-`{ruby:It was so far away, and a real pain to have to travel to...":遠くてね、通うのが苦痛だった…」}`
+`{ruby:It was so far away, and a:遠くてね、通うのが}{ruby:real pain to have to travel to...":苦痛だった…」}`
 `{ruby:"And Thursdays?:「じゃあ木曜日は？}`
 `{ruby:Ahhahahahahaahahahha!!!":あっはははっはっはっはっはァ！！！」}`
 `{ruby:"Supplemental lessons.:「補習塾だわ。}`
-`{ruby:You were just terrible at subjects with memorization, weren't you?:暗記科目は苦手だったものねぇ？！}`
-`{ruby:You could apply your knowledge but were horrible at learning by rote, a classic "he can do it if he tries" kid!":あなた、応用は出来るのに暗記は苦手な、典型的な“やれば出来る子”だったわァ！」}`
+`{ruby:You were just terrible at:暗記科目は苦手だっ}{ruby:subjects with memorization, weren't you?:たものねぇ？！}`
+`{ruby:You could apply your knowledge but were horrible at learning by:あなた、応用は出来るのに暗記は苦手な、典型}{ruby:rote, a classic "he can do it if he tries" kid!":的な“やれば出来る子”だったわァ！」}`
 `{ruby:".........That one stung.:「………痛烈だね。}`
-`{ruby:Those are the most annoying words a kid can hear at a parent‐teacher conference.":子供が三者面談で言われて、一番イラつく言葉だよ」}`
-`{ruby:"‘You can lead a horse to water, but you can't make it drink.’":「“馬を水場に連れて行くことは出来るが、水を飲ますことは出来ない”」}`
+`{ruby:Those are the most annoying words a:子供が三者面談で言われて、}{ruby:kid can hear at a parent‐teacher conference.":一番イラつく言葉だよ」}`
+`{ruby:"‘You can lead a horse to:「“馬を水場に連れて行くことは出来る}{ruby:water, but you can't make it drink.’":が、水を飲ますことは出来ない”」}`
 `{ruby:"That's a British proverb, isn't it?":「イギリスの格言だね」}`
-`{ruby:"Making you motivated and keeping you that way...:「あなたのやる気を出して維持させるのが}`
-`{ruby:was the hardest thing to do{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oo!!!":一番苦労したわァあぁあおぁおおおおおオぁああああああぁああッ！！！」}`
+`{ruby:"Making you motivated and:「あなたのやる気を出し}{ruby:keeping you that way...:て維持させるのが}`
+`{ruby:was the hardest:一番苦労したわァあぁあおぁおおおおお}{ruby:thing to do{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oo!!!":オぁああああああぁああッ！！！」}`
 `{ruby:"Gah,:「ごッ、}`
 `{ruby:............gwah,:…………ぐはッ、}`
 `{ruby:gghhh...!!":がは…！！」}`
-`{ruby:George was bound hand and foot by the bright red spiderweb, reduced to the witch's plaything...:真っ赤な蜘蛛の糸で雁字搦めにされた譲治は、もはや魔女の玩具…。}`
-`{ruby:She would innocently swing him around, then smash him about, all with an insane laugh.:狂った笑いとともに、無邪気に振り回されては、打ちのめされる。}`
+`{ruby:George was bound hand and foot by the:真っ赤な蜘蛛の糸で雁字搦めにされた}{ruby:bright red spiderweb, reduced to the witch's plaything...:譲治は、もはや魔女の玩具…。}`
+`{ruby:She would innocently swing him around, then:狂った笑いとともに、無邪気に振り}{ruby:smash him about, all with an insane laugh.:回されては、打ちのめされる。}`
 `{ruby:Again and again.:何度も、何度も。}`
 `{ruby:"Do you remember Friday?!":「金曜日は覚えてるゥ？！」}`
 `{ruby:".........Of course.:「………もちろんさ。}`
-`{ruby:As far as after‐school lessons go, that one was pretty unique.:ユニークな塾だったね。}`
-`{ruby:Having a parent present while I studied was a trying experience in multiple ways.":親と一緒の塾なんて、色々な意味で窮屈だったよ」}`
-`{ruby:"‘Don't buy your child a fishing rod; go fishing with him.’":「“子に釣竿を買うな。一緒に釣りに行け”」}`
-`{ruby:"You do like a British education, don't you, Mother?:「母さんはイギリスの教育論が好きだね。}`
+`{ruby:As far as after‐school lessons:ユニークな塾だ}{ruby:go, that one was pretty unique.:ったね。}`
+`{ruby:Having a parent present while I studied:親と一緒の塾なんて、色々な}{ruby:was a trying experience in multiple ways.":意味で窮屈だったよ」}`
+`{ruby:"‘Don't buy your child a:「“子に釣竿を買うな。一}{ruby:fishing rod; go fishing with him.’":緒に釣りに行け”」}`
+`{ruby:"You do like a:「母さんはイギリスの教}{ruby:British education, don't you, Mother?:育論が好きだね。}`
 `{ruby:.........Agh!!!":………ぅおッ！！！」}`
-`{ruby:"Those lessons were a pain for us parents too!!:「親にとっても辛い塾だったわねェ！！}`
-`{ruby:But for you, that was the most effective one!:でもあれが一番、あんたには効果的だったわ！}`
-`{ruby:The monthly fee was high, and it was a pain to have to spend Friday nights there every week!!:高いお月謝、毎週、金曜の夜を費やさなければならない面倒！！}`
+`{ruby:"Those lessons were a:「親にとっても辛い塾だ}{ruby:pain for us parents too!!:ったわねェ！！}`
+`{ruby:But for you, that:でもあれが一番、あんたに}{ruby:was the most effective one!:は効果的だったわ！}`
+`{ruby:The monthly fee was high, and it was a:高いお月謝、毎週、金曜の夜を費やさ}{ruby:pain to have to spend Friday nights there every week!!:なければならない面倒！！}`
 `{ruby:But it was the most effective!:でもね、一番効果があった！}`
 `{ruby:That's when I realized!!:その時悟ったの！！}`
-`{ruby:Kids don't grow unless their parents watch over them!!:子供はね、親が見ていないと伸びないの！！}`
-`{ruby:If children are sprouts, then parents are the sun!:子が芽なら親は太陽だわ！}`
-`{ruby:No plants will bud, and no flowers will bloom without the sun!!":太陽なくして芽吹く草木も、咲かせる花も存在しないの！！」}`
-`{ruby:Still bound hand and foot, George was thrown, slammed, and smashed.:雁字搦めのまま、譲治は、投げられ、叩き付けられ、打ちのめされる。}`
+`{ruby:Kids don't grow unless:子供はね、親が見ていな}{ruby:their parents watch over them!!:いと伸びないの！！}`
+`{ruby:If children are sprouts,:子が芽なら親は太}{ruby:then parents are the sun!:陽だわ！}`
+`{ruby:No plants will bud, and no:太陽なくして芽吹く草木も、咲か}{ruby:flowers will bloom without the sun!!":せる花も存在しないの！！」}`
+`{ruby:Still bound hand and foot,:雁字搦めのまま、譲治は、投げられ、}{ruby:George was thrown, slammed, and smashed.:叩き付けられ、打ちのめされる。}`
 `{ruby:He could do nothing...:譲治に出来ることは何もない…。}`
-`{ruby:{n}He was still like Sun Wukong, unable to leave the palm of his mother's hand.:{n}未だ母の手の平を出ることの出来ない孫悟空と同じ。}`
-`{ruby:However, since he wouldn't surrender, he could still show resistance at any time...:しかし、彼は屈服しないということで、いつ如何なる時も、抵抗を見せることが出来る…。}`
-`{ruby:"Then what about Saturday?! What about Saturday?!":「じゃあ、土曜日は？！　土曜日は？！」}`
+`{ruby:{n}He was still like Sun Wukong, unable:{n}未だ母の手の平を出ること}{ruby:to leave the palm of his mother's hand.:の出来ない孫悟空と同じ。}`
+`{ruby:However, since he wouldn't surrender, he:しかし、彼は屈服しないということで、いつ如何}{ruby:could still show resistance at any time...:なる時も、抵抗を見せることが出来る…。}`
+`{ruby:"Then what about:「じゃあ、土曜日は？！}{ruby:Saturday?! What about Saturday?!":　土曜日は？！」}`
 `{ruby:"......That's when the tutor came.":「……家庭教師が来てくれてたね」}`
-`{ruby:"He came to our house, which made it much easier, right?!":「向こうから来てくれるから楽だったでしょう？！」}`
-`{ruby:"......It was painful to have to invite some other person into my own room, my sacred space, every single week.:「……聖域である自室に、毎週他人を迎え入れるのは苦痛だったよ。}`
-`{ruby:......I hated the sweaty smell he left behind so much that I can still remember it.":……先生が帰った後に残る汗の匂いが、今でも思い出せるくらいに嫌だったね」}`
-`{ruby:"He was a wonderful teacher who drilled a scholarly attitude into you!:「あなたに学習姿勢を叩き込んでくれる素晴らしい先生だったわよ！}`
-`{ruby:His monthly fees were on par with a lawyer's consultation fee, and it was well worth it!!":弁護士の相談費用並のお月謝を払った甲斐が本当にあったわァア！！」}`
-`{ruby:".........And then came Sunday, followed by Monday when I didn't have any extra school—the only two days when I could have some rest.:「………そして迎える日曜日と、塾の予定がない月曜日だけが、僕の安息日だった。}`
+`{ruby:"He came to our house,:「向こうから来てくれるから}{ruby:which made it much easier, right?!":楽だったでしょう？！」}`
+`{ruby:"......It was painful to have to invite some other person:「……聖域である自室に、毎週他人を}{ruby:into my own room, my sacred space, every single week.:迎え入れるのは苦痛だったよ。}`
+`{ruby:......I hated the sweaty smell he left behind:……先生が帰った後に残る汗の匂いが、今}{ruby:so much that I can still remember it.":でも思い出せるくらいに嫌だったね」}`
+`{ruby:"He was a wonderful teacher who:「あなたに学習姿勢を叩き込んでくれ}{ruby:drilled a scholarly attitude into you!:る素晴らしい先生だったわよ！}`
+`{ruby:His monthly fees were on par with a:弁護士の相談費用並のお月謝を払った甲}{ruby:lawyer's consultation fee, and it was well worth it!!":斐が本当にあったわァア！！」}`
+`{ruby:".........And then came Sunday, followed by Monday when I didn't have:「………そして迎える日曜日と、塾の予定が}{ruby:any extra school—the only two days when I could have some rest.:ない月曜日だけが、僕の安息日だった。}`
 `{ruby:.........How ironic.:………これは皮肉だね。}`
-`{ruby:So it was those extra classes from Tuesday until Saturday that were holding me down all this time.:火曜日から土曜日までの塾が、僕を抑え付けてきたのか。}`
-`{ruby:......I really was just like Sun Wukong.":……まさに僕は、孫悟空だったわけだ」}`
+`{ruby:So it was those extra classes from Tuesday until:火曜日から土曜日までの塾が、}{ruby:Saturday that were holding me down all this time.:僕を抑え付けてきたのか。}`
+`{ruby:......I really was:……まさに僕は、孫悟}{ruby:just like Sun Wukong.":空だったわけだ」}`
 `{ruby:"*cackle*cackle*!!:「くっくくっくっく！！}`
-`{ruby:Yeah, if you think you can escape from the palm of my hand, you can have that arrogance crushed by the Buddha's five mountains!!":そうね、私の手の平から逃れたいなんて思い上がりは、お釈迦様に五行山で潰してもらうといいわぁ！！」}`
-`{ruby:Sun Wukong, who wanted to become a god,:神の座を欲した孫悟空は、}`
-`{ruby:was crushed by the five mountains of fire, water, wood, metal, and earth, and sealed away. These are the five elements that the days of the week, Tuesday through Saturday, are named after in Japanese.:火、水、木、金、土、の五つの行を司る五つの山に押し潰されて封じられた。}`
-`{ruby:Only now did George, who had always admired Sun Wukong, recognize this greatest of ironies.:孫悟空に憧れた譲治にとって、この歳になって気付く最大の皮肉だった。}`
-`{ruby:"Just like Sun Wukong, you need some reflection and punishment for your arrogance.:「思い上がったあなたは、孫悟空と同じに、少し反省とお仕置きが必要だわァ。}`
-`{ruby:If you show that you're willing to reform yourself, I'll release you.":あなたが改心したら、私が解放してあげる」}`
-`{ruby:"That's not being released, it's brainwashing.:「それは解放じゃないね、洗脳だ。}`
+`{ruby:Yeah, if you think you can escape from the palm of my:そうね、私の手の平から逃れたいなんて思い上がりは、お}{ruby:hand, you can have that arrogance crushed by the Buddha's five mountains!!":釈迦様に五行山で潰してもらうといいわぁ！！」}`
+`{ruby:Sun Wukong, who wanted:神の座を欲した}{ruby:to become a god,:孫悟空は、}`
+`{ruby:was crushed by the five mountains of fire, water, wood, metal, and earth, and sealed away. These:火、水、木、金、土、の五つの行を司る五}{ruby:are the five elements that the days of the week, Tuesday through Saturday, are named after in Japanese.:つの山に押し潰されて封じられた。}`
+`{ruby:Only now did George, who had always:孫悟空に憧れた譲治にとって、この歳に}{ruby:admired Sun Wukong, recognize this greatest of ironies.:なって気付く最大の皮肉だった。}`
+`{ruby:"Just like Sun Wukong, you need:「思い上がったあなたは、孫悟空と同じに}{ruby:some reflection and punishment for your arrogance.:、少し反省とお仕置きが必要だわァ。}`
+`{ruby:If you show that you're willing:あなたが改心したら、私}{ruby:to reform yourself, I'll release you.":が解放してあげる」}`
+`{ruby:"That's not being:「それは解放じゃな}{ruby:released, it's brainwashing.:いね、洗脳だ。}`
 `{ruby:..................Ugh!!":………………うッ！！」}`
-`{ruby:"There's no need to think about anything!:「何も考えなくていいの！}`
-`{ruby:Why not just leave everything to Mama forever?!:ママに全て任せちゃえばぁ？！}`
+`{ruby:"There's no need:「何も考えなく}{ruby:to think about anything!:ていいの！}`
+`{ruby:Why not just leave:ママに全て任せちゃ}{ruby:everything to Mama forever?!:えばぁ？！}`
 `{ruby:I'll decide everything for you.:私があなたの全てを決めてあげる。}`
-`{ruby:That's the best kind of life for you!!":それがあなたにとって、一番素晴らしい人生なのよッ！！」}`
-`{ruby:"I'll arrange the most intellectual and selfless woman in the world for you!!:「世界で一番知的で、あなたのために全てを捧げてくれる女性を用意してあげる！！}`
-`{ruby:I'll prepare your every success and even pave the way there!!:全ての成功も、それに至る道も、全て全てママが用意してあげるわッ！！}`
-`{ruby:And eventually, you will be chosen for the highest honor in the Ushiromiya family, the position as successor to the head!!:そしてやがては右代宮家で最高の名誉である、当主の後継者にあなたは指名されるの！！}`
-`{ruby:{i:That's} when you can think about beginning life for yourself...!":それから初めて、あなたは自分の人生を始めなさい…！！」}`
+`{ruby:That's the best kind:それがあなたにとって、一番素晴}{ruby:of life for you!!":らしい人生なのよッ！！」}`
+`{ruby:"I'll arrange the most intellectual and:「世界で一番知的で、あなたのために全てを}{ruby:selfless woman in the world for you!!:捧げてくれる女性を用意してあげる！！}`
+`{ruby:I'll prepare your every success:全ての成功も、それに至る道も、全て全}{ruby:and even pave the way there!!:てママが用意してあげるわッ！！}`
+`{ruby:And eventually, you will be chosen for the highest honor:そしてやがては右代宮家で最高の名誉である、当}{ruby:in the Ushiromiya family, the position as successor to the head!!:主の後継者にあなたは指名されるの！！}`
+`{ruby:{i:That's} when you can think:それから初めて、あなたは自分の}{ruby:about beginning life for yourself...!":人生を始めなさい…！！」}`
 `{ruby:"A first step?:「第一歩ォ？}`
-`{ruby:Don't make me laugh. You still haven't even been born yet!!:笑わせないでよ、あんたはね、まだ生まれてさえいないのよッ！！}`
-`{ruby:This isn't my web that you're caught in.:これはあんたを捕らえる私の巣じゃないわ。}`
-`{ruby:......You're inside my caring, nurturing wo{-}o{-}o{-}o{-}omb!!!":……あんたを慈しんで育む、私の子宮の中なのよォぉおおおぉおおおぉ！！！」}`
-`{ruby:George was slammed against the ground over and over.:譲治は何度も大地に打ちのめされる。}`
-`{ruby:......It was heartless cruelty unlike anything one would expect a blood‐related son to receive.:……血の繋がった息子に対するものとは思えない、あまりに無慈悲な暴虐。}`
+`{ruby:Don't make me laugh. You:笑わせないでよ、あんたはね、まだ生}{ruby:still haven't even been born yet!!:まれてさえいないのよッ！！}`
+`{ruby:This isn't my web:これはあんたを捕らえる私}{ruby:that you're caught in.:の巣じゃないわ。}`
+`{ruby:......You're inside my:……あんたを慈しんで育む、私の子宮の中}{ruby:caring, nurturing wo{-}o{-}o{-}o{-}omb!!!":なのよォぉおおおぉおおおぉ！！！」}`
+`{ruby:George was slammed against:譲治は何度も大地に打}{ruby:the ground over and over.:ちのめされる。}`
+`{ruby:......It was heartless cruelty unlike anything one:……血の繋がった息子に対するものとは}{ruby:would expect a blood‐related son to receive.:思えない、あまりに無慈悲な暴虐。}`
 `{ruby:However, ......in Eva's eyes,:しかしそれも、……絵羽にとってみれば、}`
-`{ruby:......perhaps even this was a sign of love for her precious son...:可愛い息子への、愛ゆえなのか…。}`
-`{ruby:The human‐shaped lump of flesh ensnared in the red net was slammed over and over, then thrown high into the air,:赤い網袋に閉じ込められた人型の肉塊が、何度も叩き潰され、そして天に打ち上げられ、}`
-`{ruby:......where it was caught by a massive spiderweb suspended in the sky.:……全身を鮮血で彩った無残な姿を大の字にして、天の巨大な蜘蛛の巣に磔にする。}`
-`{ruby:George hung there pitifully as though crucified, still covered in fresh blood and not even twitching...:磔の譲治は、ぴくりとも動かない…。}`
-`{ruby:Even if there had been some power to resist remaining to him,:いや、もしまだ抵抗する力があったとしても、}`
-`{ruby:......the red web holding him there would have held even that in check...:……磔にしている赤い巣は、わずかほどのそれも許さないだろう…。}`
-`{ruby:The rain, which had been falling non‐stop since the beginning, quietly tormented and pitied him...:最初からずっと、変わらずに降り続けている雨は、磔の譲治を静かに苛み、そして憐れむ…。}`
-`{ruby:".........Cool your head while you're sealed by the five mountains.:「………五行山に封じられて、しばらく頭を冷やしなさい。}`
-`{ruby:......I'm not telling you to stop because I think Shannon‐chan's a bad kid, okay...?:……紗音ちゃんが悪い子だからやめなさいと言ってるわけじゃないのよ…？}`
-`{ruby:She's a great girl, the one who gave you the chance you needed to grow up.":彼女は譲治に、青春と成長のきっかけを与えてくれた、とても良い子だわ」}`
-`{ruby:"......But an ill‐considered engagement is a whole different matter.:「……でも、後先を考えない婚約は別の問題よ。}`
-`{ruby:It isn't because there's a problem with her.:相手が彼女だからいけないと言ってるわけじゃないの。}`
+`{ruby:......perhaps even this was a sign:可愛い息子への、愛}{ruby:of love for her precious son...:ゆえなのか…。}`
+`{ruby:The human‐shaped lump of flesh ensnared in the red net:赤い網袋に閉じ込められた人型の肉塊が、何度}{ruby:was slammed over and over, then thrown high into the air,:も叩き潰され、そして天に打ち上げられ、}`
+`{ruby:......where it was caught by a:……全身を鮮血で彩った無残な姿を大の字に}{ruby:massive spiderweb suspended in the sky.:して、天の巨大な蜘蛛の巣に磔にする。}`
+`{ruby:George hung there pitifully as though crucified, still:磔の譲治は、ぴくりと}{ruby:covered in fresh blood and not even twitching...:も動かない…。}`
+`{ruby:Even if there had been some:いや、もしまだ抵抗する力}{ruby:power to resist remaining to him,:があったとしても、}`
+`{ruby:......the red web holding him there:……磔にしている赤い巣は、わずかほ}{ruby:would have held even that in check...:どのそれも許さないだろう…。}`
+`{ruby:The rain, which had been falling non‐stop:最初からずっと、変わらずに降り続けている雨は}{ruby:since the beginning, quietly tormented and pitied him...:、磔の譲治を静かに苛み、そして憐れむ…。}`
+`{ruby:".........Cool your head while you're:「………五行山に封じられて、し}{ruby:sealed by the five mountains.:ばらく頭を冷やしなさい。}`
+`{ruby:......I'm not telling you to stop because:……紗音ちゃんが悪い子だからやめなさ}{ruby:I think Shannon‐chan's a bad kid, okay...?:いと言ってるわけじゃないのよ…？}`
+`{ruby:She's a great girl, the one who gave:彼女は譲治に、青春と成長のきっかけを与}{ruby:you the chance you needed to grow up.":えてくれた、とても良い子だわ」}`
+`{ruby:"......But an ill‐considered engagement:「……でも、後先を考えな}{ruby:is a whole different matter.:い婚約は別の問題よ。}`
+`{ruby:It isn't because there's:相手が彼女だからいけないと言}{ruby:a problem with her.:ってるわけじゃないの。}`
 `{ruby:Understand that...":それをわかりなさい…？」}`
 `{ruby:"......‘Don't criticize the friend.:「……“友を責めるな。}`
 `{ruby:Criticize the behavior’...:行為を責めよ”、}`
 `{ruby:......right?:………だね。}`
-`{ruby:......That's another piece of British advice.":……これも、イギリスの格言だ」}`
-`{ruby:".........I really did raise you to be a smart kid.:「………本当にあなたは賢い子に育ったわ。}`
+`{ruby:......That's another piece:……これも、イギリ}{ruby:of British advice.":スの格言だ」}`
+`{ruby:".........I really did raise you:「………本当にあなたは}{ruby:to be a smart kid.:賢い子に育ったわ。}`
 `{ruby:......No, I still am raising you.:……いえ、育っているわ。}`
 `{ruby:.........Inside my belly, that is...:………私のお腹の中でね…？}`
-`{ruby:You just need to be nurtured a little longer.:もう少しじっくりと育ちなさい。}`
-`{ruby:Okay, that's enough punishment, so apologize to your mother.":さぁ、お仕置きは終わりよ、謝りなさい、母さんに」}`
-`{ruby:The spiderweb released George reluctantly.:磔の譲治を蜘蛛の巣は、ねとりと未練の尾を引きながらも解放する。}`
-`{ruby:Then, it threw him to the ground beneath the cloudy sky...:そしてどさりと、雨天の大地に落として捨てた…。}`
+`{ruby:You just need to:もう少しじっくりと}{ruby:be nurtured a little longer.:育ちなさい。}`
+`{ruby:Okay, that's enough punishment,:さぁ、お仕置きは終わりよ、}{ruby:so apologize to your mother.":謝りなさい、母さんに」}`
+`{ruby:The spiderweb:磔の譲治を蜘蛛の巣は、ねとりと未練}{ruby:released George reluctantly.:の尾を引きながらも解放する。}`
+`{ruby:Then, it threw him to:そしてどさりと、雨天の大地}{ruby:the ground beneath the cloudy sky...:に落として捨てた…。}`
 `{ruby:"Thank you, .........Mother.":「ありがとう、………母さん」}`
 `{ruby:"........................":「……………………」}`
-`{ruby:It was all George could do to get up on his hands and knees.:譲治は、四つん這いまで立ち上がるのがやっと。}`
-`{ruby:......Though he wiped the mud away and stood his ground, he still couldn't raise his head...:……泥を掻いて踏み止まりながらも、顔を上げることは未だ出来ない…。}`
-`{ruby:".........Everything you've done so far,:「………これまでの全てが、}`
+`{ruby:It was all George could do to:譲治は、四つん這いまで立}{ruby:get up on his hands and knees.:ち上がるのがやっと。}`
+`{ruby:......Though he wiped the mud away and stood:……泥を掻いて踏み止まりながらも、顔}{ruby:his ground, he still couldn't raise his head...:を上げることは未だ出来ない…。}`
+`{ruby:".........Everything you've:「………これまで}{ruby:done so far,:の全てが、}`
 `{ruby:......you've done...:……僕を思っての、}`
 `{ruby:...for me, haven't you......?:…ことだったんだね……。}`
 `{ruby:......Thank you...:……ありがとう、}`
-`{ruby:.........Thanks for everything......":………本当にありがとう……」}`
+`{ruby:.........Thanks:………本当にあり}{ruby:for everything......":がとう……」}`
 `{ruby:"That's right.:「そうよ。}`
 `{ruby:......You must hate me right now.:……今は憎いでしょう。}`
 `{ruby:But one day, you'll be grateful.:でもいつかきっと感謝するわ。}`
-`{ruby:I'm sure you'll understand how much I loved you.":私がどれほどあなたを愛していたかを、きっと理解する」}`
-`{ruby:"All those restrictive extra classes from Tuesday to Saturday...:「火曜日から土曜日までの連日の塾での縛りつけも、}`
-`{ruby:......were your sincere efforts to raise me to be a great man......":……僕を立派な男に育てようという、……母さんの努力だったんだね……」}`
-`{ruby:".........That's another British phrase.:「………これもイギリスの格言よ。}`
-`{ruby:"To wrap a child in blessings is the greatest education of all."":“子供を幸福で包むことが、最高の教育”」}`
+`{ruby:I'm sure you'll understand:私がどれほどあなたを愛してい}{ruby:how much I loved you.":たかを、きっと理解する」}`
+`{ruby:"All those restrictive extra:「火曜日から土曜日までの連}{ruby:classes from Tuesday to Saturday...:日の塾での縛りつけも、}`
+`{ruby:......were your sincere efforts to raise:……僕を立派な男に育てようという、…}{ruby:me to be a great man......":…母さんの努力だったんだね……」}`
+`{ruby:".........That's another:「………これもイギ}{ruby:British phrase.:リスの格言よ。}`
+`{ruby:"To wrap a child in blessings:“子供を幸福で包むこと}{ruby:is the greatest education of all."":が、最高の教育”」}`
 `{ruby:"...Thank you.:「…ありがとう。}`
-`{ruby:......I'll give you a British saying in return.":……だから僕からも母さんに、イギリスの格言を贈るよ」}`
+`{ruby:......I'll give you a:……だから僕からも母さんに、}{ruby:British saying in return.":イギリスの格言を贈るよ」}`
 `{ruby:"What's that...?":「なぁに…？」}`
 `{ruby:"‘Take one chop at every tree,:「“全ての木に斧を一撃ずつ加えても。}`
 `{ruby:and none of them will fall.’":一本の木も切り倒せはしない”」}`
 `{ruby:".........Hmm?:「………なぁに。}`
-`{ruby:...And.........what does that mean......?":…それは、………どういう意味……？」}`
+`{ruby:...And.........what does:…それは、………どう}{ruby:that mean......?":いう意味……？」}`
 `{ruby:"Maybe this one is clearer.:「こっちの方がいいかな。}`
-`{ruby:......‘To spend too much time in studies is sloth.’:………“学問に時間を費やし過ぎることは、怠惰に過ぎない”。}`
+`{ruby:......‘To spend too much:………“学問に時間を費やし過ぎる}{ruby:time in studies is sloth.’:ことは、怠惰に過ぎない”。}`
 `{ruby:.........Francis Bacon.":………フランシス・ベーコン」}`
-`{ruby:The man drenched in mud and fresh blood...:泥と鮮血に塗れた男が、}`
+`{ruby:The man drenched in:泥と鮮血に塗れ}{ruby:mud and fresh blood...:た男が、}`
 `{ruby:...straightened his crooked glasses,:……歪んだ眼鏡を直しながら、}`
 `{ruby:......and slowly stood up.:……ゆっくりと立ち上がる。}`
-`{ruby:Though he was covered in filth, his appearance had a divine quality to it,:母の羊水の中でまどろむだけの男には決して纏えない、}`
-`{ruby:......something that could only appear on a self‐controlled man, not one who had merely been dozing in his mother's amniotic fluid.:……克己した男だけが見せられるその姿は、薄汚くも、…神々しかった。}`
-`{ruby:"I cannot count the number of things I've learned from Sayo.:「僕が紗代から学んだことは数え切れない。}`
+`{ruby:Though he was covered in filth, his:母の羊水の中でまどろむだけの}{ruby:appearance had a divine quality to it,:男には決して纏えない、}`
+`{ruby:......something that could only appear on a self‐controlled man, not:……克己した男だけが見せられるその姿}{ruby:one who had merely been dozing in his mother's amniotic fluid.:は、薄汚くも、…神々しかった。}`
+`{ruby:"I cannot count the number:「僕が紗代から学んだこ}{ruby:of things I've learned from Sayo.:とは数え切れない。}`
 `{ruby:......She taught me...:……僕は彼女の前で初めて。}`
-`{ruby:courage and chivalry, how to be ambitious and witty and humorous, and just a little stylish.:……勇気と男気と、向上心とウィットとユーモアと、それからちょっぴりのお洒落を学んだんだ。}`
+`{ruby:courage and chivalry, how to be ambitious and:……勇気と男気と、向上心とウィットとユーモアと}{ruby:witty and humorous, and just a little stylish.:、それからちょっぴりのお洒落を学んだんだ。}`
 `{ruby:It's ironic.:皮肉だね。}`
-`{ruby:......Almost all of the things you say are so wonderful about me...:……今日、母さんが僕を立派になったと認める要素のほぼ全てが、}`
+`{ruby:......Almost all of the things you:……今日、母さんが僕を立派になっ}{ruby:say are so wonderful about me...:たと認める要素のほぼ全てが、}`
 `{ruby:...didn't come from you at all.":……母さんの教育の賜物じゃないんだ」}`
 `{ruby:"G‐:「じょ、}`
 `{ruby:.........George......:………譲治……、}`
 `{ruby:......you're.........still...:……あんたは、………まだ、}`
 `{ruby:...going on about...?!!:……そんなことを…ッ！！}`
 `{ruby:Time to get back in Mother's womb!!:戻してあげるわ、母さんの子宮に！！}`
-`{ruby:I'll nurture you in a sea of warmth once more!!!":そしてもう一度温かな海で、育て直してあげるッ！！！」}`
-`{ruby:As {f:5:Eva} howled, another bright red spiderweb appeared at George's feet and tried to scoop him up into the air again.:エヴァが吠えると同時に再び、譲治の足元に真っ赤な蜘蛛の巣が現れ、彼を宙に掬い上げて捕らえようとする。}`
+`{ruby:I'll nurture you in a:そしてもう一度温かな海で、育て}{ruby:sea of warmth once more!!!":直してあげるッ！！！」}`
+`{ruby:As {f:5:Eva} howled, another bright red spiderweb appeared at George's:エヴァが吠えると同時に再び、譲治の足元に真っ赤な蜘蛛}{ruby:feet and tried to scoop him up into the air again.:の巣が現れ、彼を宙に掬い上げて捕らえようとする。}`
 `{ruby:However, that instant...:しかし、その刹那。}`
-`{ruby:...a powerful magic circle could be seen in the area surrounding George for just a moment.:譲治の周囲に一瞬だけ、力ある魔法陣が浮かんだのが見えた。}`
-`{ruby:Faster than he could be scooped up by the spiderweb, George jumped,:譲治は蜘蛛の巣に掬われるより早く、自ら跳び、}`
-`{ruby:and with a sharp kick of the heel and a magnificent forward flip, ......he cut the shackles of that spiderweb apart.:……鋭利な切れ味を伴った踵とともに、華麗な前転を見せて、……束縛の蜘蛛の巣を裂く。}`
+`{ruby:...a powerful magic circle could be seen in:譲治の周囲に一瞬だけ、力ある魔}{ruby:the area surrounding George for just a moment.:法陣が浮かんだのが見えた。}`
+`{ruby:Faster than he could be scooped:譲治は蜘蛛の巣に掬われる}{ruby:up by the spiderweb, George jumped,:より早く、自ら跳び、}`
+`{ruby:and with a sharp kick of the heel and a:……鋭利な切れ味を伴った踵とともに、華麗な前}{ruby:magnificent forward flip, ......he cut the shackles of that spiderweb apart.:転を見せて、……束縛の蜘蛛の巣を裂く。}`
 `{ruby:"............Wha......?!?!":「…………なッ、……？！？！」}`
-`{ruby:That smooth movement proved that he had possessed the power to escape from those shackles all along.:その華麗な動きは、……彼に初めから、この束縛を逃れるだけの力があったことを示す。}`
-`{ruby:He had willingly allowed himself to be bound by that web.:彼は望んで、蜘蛛の巣の捕縛に身を臨んでいたのだ。}`
-`{ruby:"......Everything I owe you for what you've done,:「……母さんのこれまでの恩をひとつずつ。}`
+`{ruby:That smooth movement proved that he had possessed:その華麗な動きは、……彼に初めから、この束}{ruby:the power to escape from those shackles all along.:縛を逃れるだけの力があったことを示す。}`
+`{ruby:He had willingly allowed himself:彼は望んで、蜘蛛の巣の捕縛}{ruby:to be bound by that web.:に身を臨んでいたのだ。}`
+`{ruby:"......Everything I owe you:「……母さんのこれまで}{ruby:for what you've done,:の恩をひとつずつ。}`
 `{ruby:......I've paid back now with pain.:……痛みで相殺させてもらったよ。}`
-`{ruby:......Now I can finally leave the nest for good.:……お陰で僕も、親離れがきっちりと出来そうだ。}`
+`{ruby:......Now I can finally:……お陰で僕も、親離れがき}{ruby:leave the nest for good.:っちりと出来そうだ。}`
 `{ruby:It really is necessary, isn't it?:必要だね。}`
-`{ruby:.........To have the occasional argument with one's parents.":………たまには親子喧嘩も」}`
-`{ruby:"George, ......wh‐why would you disobey me so completely......for that stupid girl?!?!":「譲治ッ、……わ、…私に、どうしてそこまで逆らって、あんな小娘とッ？！？！」}`
+`{ruby:.........To have the occasional:………たまには親}{ruby:argument with one's parents.":子喧嘩も」}`
+`{ruby:"George, ......wh‐why would you disobey:「譲治ッ、……わ、…私に、どうしてそこま}{ruby:me so completely......for that stupid girl?!?!":で逆らって、あんな小娘とッ？！？！」}`
 `{ruby:"It looks like it really is you...:「必要なのはやはり。}`
 `{ruby:who needs to let go, Mother.:母さんの子離れのようだね。}`
 `{ruby:............So, if you're ready...?":…………じゃあ、そろそろいいかな」}`
 `{ruby:"R‐ready for what?!":「な、何がよ？！」}`
 `{ruby:"‘If you're ready...:「“そろそろいいかな。}`
 `{ruby:may I fight back?’":反撃しても”」}`
-`{ruby:The curtain of spiderwebs that {f:5:Eva} shot out in defense were all too slow.:エヴァが遮るように放つ、蜘蛛の巣のカーテンは全て遅い。}`
-`{ruby:George weaved through them in that instant, and the next, he was right before her eyes...:譲治はその隙間を縫って、……次の瞬きの時には、眼前に…。}`
+`{ruby:The curtain of spiderwebs that {f:5:Eva} shot:エヴァが遮るように放つ、蜘蛛の}{ruby:out in defense were all too slow.:巣のカーテンは全て遅い。}`
+`{ruby:George weaved through them in that instant, and:譲治はその隙間を縫って、……次}{ruby:the next, he was right before her eyes...:の瞬きの時には、眼前に…。}`
 `{ruby:".........Ahh, aaaaaaaarrggghhh!!":「………お、おぉおおおおおおおぉおおお！！」}`
-`{ruby:{f:5:Eva} jumped out of the way of a kick that would have knocked her feet out from under her,:譲治の足元を刈り倒すかの足払いを、エヴァは跳ねてかわし、}`
-`{ruby:......then blocked the second half of George's double roundhouse with a high kick of her own.:……二段目の回し蹴りを自らの上段蹴りで相殺する。}`
-`{ruby:"I guess there is one extracurricular activity I can thank you for.":「母さんの習い事で、……１つだけ感謝しているものがあるよ」}`
-`{ruby:"O‐...oh, and what day of the week was that......?!":「へ、……へぇ、それは何曜日のかしらァ……？！」}`
-`{ruby:"It's all the martial arts classes you made me attend whenever I had a long break from school...!":「長期休暇の度に集中的に習わされた、武道教室の数々だよ…！！」}`
+`{ruby:{f:5:Eva} jumped out of the way of a kick:譲治の足元を刈り倒すかの足払い}{ruby:that would have knocked her feet out from under her,:を、エヴァは跳ねてかわし、}`
+`{ruby:......then blocked the second half of George's double:……二段目の回し蹴りを自ら}{ruby:roundhouse with a high kick of her own.:の上段蹴りで相殺する。}`
+`{ruby:"I guess there is one extracurricular:「母さんの習い事で、……１つだけ}{ruby:activity I can thank you for.":感謝しているものがあるよ」}`
+`{ruby:"O‐...oh, and what day:「へ、……へぇ、それは何曜}{ruby:of the week was that......?!":日のかしらァ……？！」}`
+`{ruby:"It's all the martial arts classes you made me:「長期休暇の度に集中的に習わされた}{ruby:attend whenever I had a long break from school...!":、武道教室の数々だよ…！！」}`
 `{ruby:"...Ha, ......kyahhahahahaha!!:「…は、……きゃっはっはははッは！！}`
-`{ruby:I'm glad, George, to hear you're grateful for at least one thing!!:嬉しいわ、譲治ッ、たった一つでも感謝してもらえるなんて！！}`
+`{ruby:I'm glad, George, to hear you're:嬉しいわ、譲治ッ、たった一つでも}{ruby:grateful for at least one thing!!:感謝してもらえるなんて！！}`
 `{ruby:Your mother is happy!!:母さんは嬉しいわッ！！}`
 `{ruby:Kyah{0}ha{0}ha{0}ha{0}a{0}aah!!!":きゃっはっはあアっは！！！」}`
-`{ruby:{f:5:Eva}'s swift feet flashed like lightning.:エヴァの鋭い足が稲妻のように瞬く。}`
+`{ruby:{f:5:Eva}'s swift feet:エヴァの鋭い足が稲妻}{ruby:flashed like lightning.:のように瞬く。}`
 `{ruby:Low,:下段}`
 `{ruby:low,:下段}`
 `{ruby:low,:下段、}`
 `{ruby:mid‐level attack.:中段直撃。}`
-`{ruby:As George's head fell forward, she caught it in both hands as though she was about to smash it against the ground.:前のめりになった譲治の頭部を両手で捕らえて、大地に叩き付けるかのように。}`
-`{ruby:It was then met with {f:5:Eva}'s knee as it rose like a bolt of lightning from the earth.:それを、エヴァの膝蹴りが、大地から天へ向けて稲妻が昇るかのように打ち砕く。}`
-`{ruby:"You should have learned Muay Thai too!:「ムエタイも習えば良かったのに！}`
-`{ruby:It would have been more fun to have learned it with you!!":譲治も一緒に習えば、もっと楽しかったわァ！！」}`
+`{ruby:As George's head fell forward, she caught it in both hands:前のめりになった譲治の頭部を両手で捕ら}{ruby:as though she was about to smash it against the ground.:えて、大地に叩き付けるかのように。}`
+`{ruby:It was then met with {f:5:Eva}'s knee as it:それを、エヴァの膝蹴りが、大地から天へ向}{ruby:rose like a bolt of lightning from the earth.:けて稲妻が昇るかのように打ち砕く。}`
+`{ruby:"You should have:「ムエタイも習えば}{ruby:learned Muay Thai too!:良かったのに！}`
+`{ruby:It would have been more fun:譲治も一緒に習えば、もっと}{ruby:to have learned it with you!!":楽しかったわァ！！」}`
 `{ruby:"......You're right.:「……そうだね。}`
-`{ruby:I had the most fun when I was learning martial arts with you.":母さんと一緒に武道を学ぶ時が、一番楽しかったよ」}`
+`{ruby:I had the most fun when:母さんと一緒に武道を学ぶ時}{ruby:I was learning martial arts with you.":が、一番楽しかったよ」}`
 `{ruby:"Then now is the most fun!!:「なら今が一番楽しいんじゃない！！}`
-`{ruby:Isn't this fun, George?! Isn't it?!!!":楽しいね譲治ッ、楽しいね！！！」}`
+`{ruby:Isn't this fun,:楽しいね譲治ッ、楽し}{ruby:George?! Isn't it?!!!":いね！！！」}`
 `{ruby:"Do you find it fun, Mother?:「楽しいかい、母さん。}`
-`{ruby:......To play with your son like this?":……息子と遊ぶのは」}`
+`{ruby:......To play with:……息子と遊}{ruby:your son like this?":ぶのは」}`
 `{ruby:"Yes, I do!!:「えぇ、楽しいわ！！}`
-`{ruby:You are my darling son, and I'll give you lots and lots of love inside my belly!!:あなたは私の最愛の息子ッ、私のお腹の中でやさしくやさしく愛してあげるわ！！}`
-`{ruby:I even love the way you kick inside me!!":あなたがお腹を蹴るのさえ愛おしいッ！！」}`
+`{ruby:You are my darling son, and I'll give:あなたは私の最愛の息子ッ、私のお腹の中で}{ruby:you lots and lots of love inside my belly!!:やさしくやさしく愛してあげるわ！！}`
+`{ruby:I even love the:あなたがお腹を蹴るのさえ}{ruby:way you kick inside me!!":愛おしいッ！！」}`
 `{ruby:"Got it.:「了解だ。}`
-`{ruby:But this kick's coming from the outside of your belly.":だがその蹴りは、お腹の外からになるけどね」}`
-`{ruby:George buried his knee sharply into {f:5:Eva}'s abdomen.:譲治の鋭い膝が、……エヴァの下腹部にめり込む。}`
-`{ruby:An instant before she felt the pain of that fierce attack, {f:5:Eva} watched her son's kick with a proud smile......and then she vomited.:その痛打を理解する直前まで、エヴァは息子の足蹴に満足な笑みを返し、……嘔吐した。}`
+`{ruby:But this kick's coming from:だがその蹴りは、お腹の外}{ruby:the outside of your belly.":からになるけどね」}`
+`{ruby:George buried his knee:譲治の鋭い膝が、……エヴァ}{ruby:sharply into {f:5:Eva}'s abdomen.:の下腹部にめり込む。}`
+`{ruby:An instant before she felt the pain of that fierce attack,:その痛打を理解する直前まで、エヴァは息子の}{ruby:{f:5:Eva} watched her son's kick with a proud smile......and then she vomited.:足蹴に満足な笑みを返し、……嘔吐した。}`
 `{ruby:"Ghuurk!!!:「ごぼッ！！！}`
 `{ruby:Gghh, ............gguurk!!":が、…………がはッ！！」}`
 `{ruby:"You're getting on in years, Mother.:「母さんももう歳なんだから。}`
-`{ruby:......Maybe it's about time you held back on wearing childish clothes like that.":……いい加減、そういう、若い子向きの服は自重した方がいいんじゃないかな」}`
-`{ruby:"G‐.........Geeeeeoooooooorge......!!!":「じょ、………譲治ィイいぃいぃいいいぃいいぃ……ッ！！！」}`
-`{ruby:Her chin still covered in vomit, {f:5:Eva} looked up at George in twisted anguish.:吐しゃ物に顎を汚しながら、エヴァが歪んだ苦悶で譲治を見上げる。}`
-`{ruby:She could see how pathetic her face was by her reflection in his glasses.:彼女は自分がどんなに無様な顔をしているか、……彼の眼鏡の反射で知ることが出来た。}`
+`{ruby:......Maybe it's about time you held:……いい加減、そういう、若い子向きの服}{ruby:back on wearing childish clothes like that.":は自重した方がいいんじゃないかな」}`
+`{ruby::「じょ、………譲治ィイいぃいぃい}{ruby:"G‐.........Geeeeeoooooooorge......!!!":いいぃいいぃ……ッ！！！」}`
+`{ruby:Her chin still covered in vomit, {f:5:Eva}:吐しゃ物に顎を汚しながら、エヴァが}{ruby:looked up at George in twisted anguish.:歪んだ苦悶で譲治を見上げる。}`
+`{ruby:She could see how pathetic her face:彼女は自分がどんなに無様な顔をしているか、}{ruby:was by her reflection in his glasses.:……彼の眼鏡の反射で知ることが出来た。}`
 `{ruby:"Both you and I...:「母さんも、僕も。}`
-`{ruby:...need to leave our childhood days behind.:……一緒に子供時代とお別れしよう。}`
+`{ruby:...need to leave:……一緒に子供時代と}{ruby:our childhood days behind.:お別れしよう。}`
 `{ruby:So long, Mother.":さよなら、母さん」}`
 `{ruby:The violent lightning and rain...:激しい落雷と雨が、}`
 `{ruby:...made time freeze.:……過熱した時間を、冷却する。}`
 `{ruby:George's beautiful kick...:譲治の美しい蹴りが、}`
-`{ruby:......had stopped an inch from Eva's chest.:………絵羽の胸の直前で、寸止めされていた。}`
-`{ruby:However, the power of the red magic circle surrounding George...:しかし、譲治のまとった赤い魔法陣の力はすでに、}`
-`{ruby:...had already pierced {f:5:Eva}'s body.:……エヴァの体を貫いていた。}`
-`{ruby:Though he had stopped without hitting her,:足が寸止めされているのに、}`
-`{ruby:.........blood poured out of {f:5:Eva}'s back.:………エヴァの背中からは、ごぽりと血が溢れ出す。}`
+`{ruby:......had stopped an:………絵羽の胸の直前で、}{ruby:inch from Eva's chest.:寸止めされていた。}`
+`{ruby:However, the power of the:しかし、譲治のまとった赤い}{ruby:red magic circle surrounding George...:魔法陣の力はすでに、}`
+`{ruby:...had already:……エヴァの体を}{ruby:pierced {f:5:Eva}'s body.:貫いていた。}`
+`{ruby:Though he had:足が寸止めされて}{ruby:stopped without hitting her,:いるのに、}`
+`{ruby:.........blood poured out:………エヴァの背中からは、}{ruby:of {f:5:Eva}'s back.:ごぽりと血が溢れ出す。}`
 `{ruby:No wound had been left on her chest,:胸には傷一つ付けず、}`
-`{ruby:......but the heart inside it had been struck through......:……心臓を打ち抜いていた……。}`
+`{ruby:......but the heart inside:……心臓を打ち抜い}{ruby:it had been struck through......:ていた……。}`
 `{ruby:{f:5:Eva} slumped backwards...:エヴァは、ぐらりと後ろへ仰け反り、}`
-`{ruby:......and landed in a puddle with a splash.:………水溜りにバシャリと転んだ。}`
+`{ruby:......and landed in a:………水溜りにバシ}{ruby:puddle with a splash.:ャリと転んだ。}`
 `{ruby:There were no convulsions.:痙攣もしない。}`
-`{ruby:......Her life had been ended without leaving her even an instant to writhe about in pain...:……苦痛にのたうつ一瞬さえ与えず、絶命させられていた…。}`
-`{ruby:"......I know you're somewhere over there.:「……その辺にいるんじゃないかい。}`
+`{ruby:......Her life had been ended without leaving her:……苦痛にのたうつ一瞬さえ与え}{ruby:even an instant to writhe about in pain...:ず、絶命させられていた…。}`
+`{ruby:"......I know you're:「……その辺にいるん}{ruby:somewhere over there.:じゃないかい。}`
 `{ruby:Gaap.":ガァプ」}`
-`{ruby:As he straightened his glasses, ......George spoke to the rose thicket behind him.:眼鏡の歪みを直しながら、……譲治は背後の、バラの茂みの陰に告げる。}`
-`{ruby:Then, a pitch‐black hole opened in the air there, ......and Gaap jumped out.:するとそこの中空に漆黒の穴が開き、………ガァプが降り立った。}`
+`{ruby:As he straightened his glasses, ......George:眼鏡の歪みを直しながら、……譲治は背}{ruby:spoke to the rose thicket behind him.:後の、バラの茂みの陰に告げる。}`
+`{ruby:Then, a pitch‐black hole opened in:するとそこの中空に漆黒の穴が開き}{ruby:the air there, ......and Gaap jumped out.:、………ガァプが降り立った。}`
 `{ruby:".........Impressive.:「………大したもんね。}`
-`{ruby:......Even considering that it was before her ascension, you managed to defeat {f:5:Eva Beatrice}.":……あの、エヴァ・ベアトリーチェを、継承前とはいえ、打ち倒すなんて」}`
+`{ruby:......Even considering that it was before her:……あの、エヴァ・ベアトリーチェを、}{ruby:ascension, you managed to defeat {f:5:Eva Beatrice}.":継承前とはいえ、打ち倒すなんて」}`
 `{ruby:"I thought you were there.:「やはりいたかい。}`
 `{ruby:......Thanks for not interfering.:……余計なちょっかいを出さなくてありがとう。}`
-`{ruby:I'm glad we were able to keep it between mother and son.":親子水入らずで過ごせたよ」}`
+`{ruby:I'm glad we were able to:親子水入らずで過}{ruby:keep it between mother and son.":ごせたよ」}`
 `{ruby:"Don't thank me.:「まさか。}`
 `{ruby:I wasn't here.:いなかったわよ、私は。}`
-`{ruby:............You summoned me just now.":…………今、あなたが私を召喚したんだわ」}`
+`{ruby:............You summoned:…………今、あなたが私}{ruby:me just now.":を召喚したんだわ」}`
 `{ruby:"It doesn't matter either way.:「どっちでもいいさ。}`
-`{ruby:......I have something to ask of you.":……君にお願いがあるんだ」}`
+`{ruby:......I have something:……君にお願いが}{ruby:to ask of you.":あるんだ」}`
 `{ruby:"Do I have some duty to listen?":「聞く義理はあるの？」}`
-`{ruby:"...............Will you not do this for me...?":「……………聞いてくれないのかい…？」}`
-`{ruby:With his back still facing her, ......George reset his glasses.:譲治は背を向けたまま、……眼鏡を掛け直す。}`
-`{ruby:{n}The threat in his voice held the solemn presence of a king who ruled over demons.:{n}声の凄みは、……悪魔たちを束ねる王の貫禄を持つ。}`
+`{ruby:"...............Will you not:「……………聞いてくれ}{ruby:do this for me...?":ないのかい…？」}`
+`{ruby:With his back still facing:譲治は背を向けたまま、…}{ruby:her, ......George reset his glasses.:…眼鏡を掛け直す。}`
+`{ruby:{n}The threat in his voice held the solemn:{n}声の凄みは、……悪魔たち}{ruby:presence of a king who ruled over demons.:を束ねる王の貫禄を持つ。}`
 `{ruby:His majesty made Gaap gulp,:ガァプはその貫禄に、ごくりと喉を鳴らし、}`
-`{ruby:and she licked her lips before bowing respectfully to his back.:舌なめずりをしてから、……その背中に最敬礼を返す。}`
+`{ruby:and she licked her lips:舌なめずりをしてから、……そ}{ruby:before bowing respectfully to his back.:の背中に最敬礼を返す。}`
 `{ruby:"I like studs,:「私はイケてる男が好きだけど。}`
 `{ruby:but I like monarchs even more.:王者はもっと好きだわ。}`
-`{ruby:......Your wish is my command, Your Demonic Majesty.":……何なりとお命じを、魔王陛下」}`
-`{ruby:"......I want you to lay her body to rest in a place fitting for a woman who admired the head of the Ushiromiya family, and who lived her life with the misguided dreams of that position.":「………右代宮家の当主に憧れ、その夢と妄執に生きた彼女の亡骸を、相応しい場所に安置してほしい」}`
+`{ruby:......Your wish is my:……何なりとお命じ}{ruby:command, Your Demonic Majesty.":を、魔王陛下」}`
+`{ruby:"......I want you to lay her body to rest in a place fitting for a woman who admired:「………右代宮家の当主に憧れ、その夢と妄執に生きた}{ruby:the head of the Ushiromiya family, and who lived her life with the misguided dreams of that position.":彼女の亡骸を、相応しい場所に安置してほしい」}`
 `{ruby:"So, in Kinzo's study?":「じゃあ、金蔵の書斎へ？」}`
 `{ruby:"No, .........:「いや、………。}`
 `{ruby:......The VIP room would be good.:………貴賓室がいいな。}`
-`{ruby:That never‐opened VIP room on the second floor of the mansion.":屋敷の２階の、あの開かずの貴賓室」}`
+`{ruby:That never‐opened VIP room on:屋敷の２階の、あの開}{ruby:the second floor of the mansion.":かずの貴賓室」}`
 `{ruby:"............Ah, that room.:「…………あの部屋ね。}`
 `{ruby:As you wish, Your Majesty.":了解したわ、ジョージ陛下」}`
-`{ruby:Gaap approached {f:5:Eva}'s corpse and lightly tapped the ground with her right heel.:ガァプは、エヴァの死体に近付くと、そこで右足の踵で、軽くタップを踏む。}`
-`{ruby:When she did, a large hole opened up, swallowed both Gaap and the corpse, and closed.:すると大きな穴が開き、ガァプと死体を丸ごと飲み込み、消えた。}`
-`{ruby:After a while, a small hole opened in the air,:しばらくして、宙に小さな穴が開き、}`
-`{ruby:and the staff {f:5:Eva} always carried, which was marked with the One‐winged Eagle that symbolized the head of the Ushiromiya family, was spat out into a puddle...:エヴァが常に持っていた、右代宮家の長を意味する片翼の鷲の杖を吐き出し、水溜りに落とす…。}`
-`{ruby:Because the corpse would no longer have any use for it.:死者にはもはや、不要な杖なのだから…。}`
-`{ruby:"....................................":「………………………………」}`
+`{ruby:Gaap approached {f:5:Eva}'s corpse and lightly:ガァプは、エヴァの死体に近付くと、そこ}{ruby:tapped the ground with her right heel.:で右足の踵で、軽くタップを踏む。}`
+`{ruby:When she did, a large hole opened up,:すると大きな穴が開き、ガァプと死}{ruby:swallowed both Gaap and the corpse, and closed.:体を丸ごと飲み込み、消えた。}`
+`{ruby:After a while, a small:しばらくして、宙に小}{ruby:hole opened in the air,:さな穴が開き、}`
+`{ruby:and the staff {f:5:Eva} always carried, which was marked with the One‐winged Eagle:エヴァが常に持っていた、右代宮家の長を意味する}{ruby:that symbolized the head of the Ushiromiya family, was spat out into a puddle...:片翼の鷲の杖を吐き出し、水溜りに落とす…。}`
+`{ruby:Because the corpse would no:死者にはもはや、不要な}{ruby:longer have any use for it.:杖なのだから…。}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
 `{ruby:George slowly approached that staff,:譲治はゆっくりとその杖に近付き、}`
-`{ruby:.........and stepped down hard on the tip.:………その杖の端を、鋭く踏みつける。}`
-`{ruby:When he did, the staff spun violently into the air,:すると杖は激しく回転しながら宙に舞い上がり、}`
-`{ruby:.........and after passing by the blue moon which honored the demon king,:………魔王を祝福する青い月を経て、}`
-`{ruby:it flew into George's outstretched hand.:譲治の天を掴むかのように伸ばしていた腕に自ら飛び込む。}`
+`{ruby:.........and stepped down:………その杖の端を、}{ruby:hard on the tip.:鋭く踏みつける。}`
+`{ruby:When he did, the staff:すると杖は激しく回転しな}{ruby:spun violently into the air,:がら宙に舞い上がり、}`
+`{ruby:.........and after passing by the blue:………魔王を祝福する}{ruby:moon which honored the demon king,:青い月を経て、}`
+`{ruby:it flew into:譲治の天を掴むかのように伸ばし}{ruby:George's outstretched hand.:ていた腕に自ら飛び込む。}`
 `{ruby:The instant he grasped it...:それを受け取った瞬間。}`
-`{ruby:...another fierce bolt of lightning struck nearby,:激しい落雷が間近にもう一度落ち、}`
-`{ruby:............and by the time the flash faded, the staff he was holding had become a spray of gold butterflies......and disappeared.:…………閃光が晴れた時、握り締めた杖は、数匹の黄金蝶の飛沫となって、……消えていた。}`
-`{ruby:It was as though George had held the staff up to the heavens and crushed it out of existence...:それはまるで、譲治が杖を天で、握り潰して消したかのようだった…。}`
-`{ruby:"And now, .........I've finished my part.:「これで、………僕はノルマクリアだ。}`
-`{ruby:......I'll let someone else have a turn.":……次の人に番を譲るよ」}`
+`{ruby:...another fierce bolt:激しい落雷が間近に}{ruby:of lightning struck nearby,:もう一度落ち、}`
+`{ruby:............and by the time the flash faded, the staff he:…………閃光が晴れた時、握り締めた杖は、数匹}{ruby:was holding had become a spray of gold butterflies......and disappeared.:の黄金蝶の飛沫となって、……消えていた。}`
+`{ruby:It was as though George had held the staff:それはまるで、譲治が杖を天で、握り}{ruby:up to the heavens and crushed it out of existence...:潰して消したかのようだった…。}`
+`{ruby:"And now, .........I've:「これで、………僕は}{ruby:finished my part.:ノルマクリアだ。}`
+`{ruby:......I'll let someone:……次の人に番}{ruby:else have a turn.":を譲るよ」}`
 `{ruby:"......I...:「……じ、}`
 `{ruby:...I can't believe...:…自分の母さんを、}`
 `{ruby:...you killed your own mother......":……手に掛けるなんて……」}`
-`{ruby:"............It's the person who loves you first in the world,:「…………自分を世界で一番最初に愛してくれる人であり、}`
-`{ruby:......and the last one you have to separate yourself from.:……そして一番最後に決別すべき人だ。}`
-`{ruby:......That's what it means to leave your home.:……それが、家を出る、ということだよ。}`
-`{ruby:This is the courage I am capable of showing to take Sayo as my wife.":これが僕が、紗代を娶るために見せられる勇気だ」}`
+`{ruby:"............It's the person who loves:「…………自分を世界で一番最初}{ruby:you first in the world,:に愛してくれる人であり、}`
+`{ruby:......and the last one you:……そして一番最後に}{ruby:have to separate yourself from.:決別すべき人だ。}`
+`{ruby:......That's what it means:……それが、家を出る、}{ruby:to leave your home.:ということだよ。}`
+`{ruby:This is the courage I am capable:これが僕が、紗代を娶るため}{ruby:of showing to take Sayo as my wife.":に見せられる勇気だ」}`
 `{ruby:"George‐sama.........":「譲治さま………」}`
 `{ruby:"..................":「………………」}`
 `{ruby:"Bravo, Ushiromiya George.:「天晴れなり、右代宮譲治。}`
 `{ruby:An excellent start.":まずは見事であるぞ」}`
-`{ruby:"......Even though it was just within the game,:「……たとえゲーム上のこととはいえ。}`
+`{ruby:"......Even though it was:「……たとえゲーム上}{ruby:just within the game,:のこととはいえ。}`
 `{ruby:...even though she was just a piece,:駒のこととはいえ。}`
-`{ruby:......I didn't like having to kill my mother.:……自分の母親を殺すのは、愉快なことではないね。}`
-`{ruby:.........However, that was the trial you set me, so I saw it through.":………しかし、それが君たちの課す試練だというから、僕は応えたよ」}`
+`{ruby:......I didn't like having:……自分の母親を殺すのは、}{ruby:to kill my mother.:愉快なことではないね。}`
+`{ruby:.........However, that was the trial you:………しかし、それが君たちの課す試}{ruby:set me, so I saw it through.":練だというから、僕は応えたよ」}`
 `{ruby:He stared at the two demons.:じろりと二人の悪魔を見る。}`
-`{ruby:The demons looked at each other, then showed their surprise with their now‐familiar exaggerated gestures.:悪魔たちは互いの顔を見合わせてから、そろそろ見慣れた大仰な仕草で驚きを表現し合う。}`
+`{ruby:The demons looked at each other, then:悪魔たちは互いの顔を見合わせてから、そろそろ}{ruby:showed their surprise with their now‐familiar exaggerated gestures.:見慣れた大仰な仕草で驚きを表現し合う。}`
 `{ruby:"Wonderful!!:「素晴らしいわッ！！}`
 `{ruby:Wasn't that splendid, Zepar?!":何て見事なのかしら、ゼパル！」}`
 `{ruby:"Indeed it was, Furfur!:「そうだねフルフル！}`
-`{ruby:George‐kun's determination is the real deal!:譲治くんの決意は本物だ！}`
+`{ruby:George‐kun's determination is:譲治くんの決意は}{ruby:the real deal!:本物だ！}`
 `{ruby:It seems I've misjudged you!:どうやら僕は君を見誤っていたようだねッ。}`
 `{ruby:Please accept my apologies!":謝るよ、許してほしい！」}`
-`{ruby:George chose not to go along with this almost theatrical conversation.:譲治は、その芝居がかった会話には付き合わない。}`
-`{ruby:He just quietly looked down upon the game board,:ただ静かにゲーム盤を見下ろし、}`
-`{ruby:.........found the piece representing his mother, which was right next to his,:………自分の駒と隣り合っていた、}`
+`{ruby:George chose not to go:譲治は、その芝居がかった会}{ruby:along with this almost theatrical conversation.:話には付き合わない。}`
+`{ruby:He just quietly looked:ただ静かにゲーム盤}{ruby:down upon the game board,:を見下ろし、}`
+`{ruby:.........found the piece representing his mother,:………自分の駒と隣}{ruby:which was right next to his,:り合っていた、}`
 `{ruby:......and tipped it over.:……母を意味する駒を静かに、倒す。}`
-`{ruby:......This was the trial that Zepar and Furfur had set them.:……ゼパルとフルフルが課した試練が、これ。}`
-`{ruby:"For the love of each other, take the life of another".:“二人の愛を貫くために、一人の命を自らの手で捧げよ”。}`
-`{ruby:It was similar to the game within Beato's fourth game,:それはかつて、ベアトのゲームにおいて、}`
-`{ruby:where they were each given three options as part of a test to select the next family head.:当主を選ぶ試練として課せられた３択のゲームに似ている。}`
-`{ruby:However, a pair of lovers would never abandon each other's lives.:しかし、愛し合う二人が、互いの命を見捨てることが、あるわけもない。}`
-`{ruby:So, they were automatically left with just the option of sacrificing the life of another instead.:だから自動的に、二人以外の命を捧げるように、もう選択肢が選ばれ終わっている。}`
+`{ruby:......This was the trial that:……ゼパルとフルフルが課}{ruby:Zepar and Furfur had set them.:した試練が、これ。}`
+`{ruby:"For the love of each:“二人の愛を貫くために、一人の}{ruby:other, take the life of another".:命を自らの手で捧げよ”。}`
+`{ruby:It was similar to the:それはかつて、ベアトの}{ruby:game within Beato's fourth game,:ゲームにおいて、}`
+`{ruby:where they were each given three options as part:当主を選ぶ試練として課せられた}{ruby:of a test to select the next family head.:３択のゲームに似ている。}`
+`{ruby:However, a pair of lovers:しかし、愛し合う二人が、互いの命を見}{ruby:would never abandon each other's lives.:捨てることが、あるわけもない。}`
+`{ruby:So, they were automatically left with just the:だから自動的に、二人以外の命を捧げるよう}{ruby:option of sacrificing the life of another instead.:に、もう選択肢が選ばれ終わっている。}`
 `{ruby:......In fact,:……むしろ。}`
-`{ruby:it was merciful that the demons hadn't ordered them to take the lives of {i:everyone} other than themselves.:自分たち以外の全員の命を捧げろとまで言わないだけ、慈悲深い。}`
-`{ruby:And besides, it only meant taking those lives as pieces on the board.:それに、あくまでも駒として奪えというだけだ。}`
-`{ruby:For the versions of themselves to whom the game board was the only world, this was a tragic parricide,:ゲーム盤を唯一の世界とする“彼ら”には、それは痛ましい親殺しだが、}`
-`{ruby:......but for these ones who sat around the game board in this witch's tea room,:……この魔女の喫茶室でゲーム盤を囲む“彼ら”には、}`
-`{ruby:......it was nothing more than a movement of the pieces, representing George's will to overcome his parents.:……それは親を超える意思を、駒の動きで示しただけに過ぎない。}`
-`{ruby:However, even if it was just a single life within one of an infinite number of fragment worlds,:しかし、無限にあるカケラの世界の中のほんの一つであっても。}`
-`{ruby:......the fact remained that the demons had forced him to take it...:……悪魔たちは、命を捧げさせることを強いたのだ…。}`
-`{ruby:George appeared to have distanced himself from the events on the demons' game board,:譲治は、悪魔のゲーム上のことと割り切れているようだが、}`
-`{ruby:......but Jessica still seemed to resist the idea of stealing another person's life, even if it was only their life as a game piece.:……朱志香には、たとえ駒であっても命を奪わねばならぬことに、未だ抵抗を持っているようだった。}`
+`{ruby:it was merciful that the demons hadn't ordered them:自分たち以外の全員の命を捧げろと}{ruby:to take the lives of {i:everyone} other than themselves.:まで言わないだけ、慈悲深い。}`
+`{ruby:And besides, it only meant taking:それに、あくまでも駒とし}{ruby:those lives as pieces on the board.:て奪えというだけだ。}`
+`{ruby:For the versions of themselves to whom the game:ゲーム盤を唯一の世界とする“彼ら”に}{ruby:board was the only world, this was a tragic parricide,:は、それは痛ましい親殺しだが、}`
+`{ruby:......but for these ones who sat around:……この魔女の喫茶室でゲーム}{ruby:the game board in this witch's tea room,:盤を囲む“彼ら”には、}`
+`{ruby:......it was nothing more than a movement of:……それは親を超える意思を、駒の}{ruby:the pieces, representing George's will to overcome his parents.:動きで示しただけに過ぎない。}`
+`{ruby:However, even if it was just a single life:しかし、無限にあるカケラの世界の}{ruby:within one of an infinite number of fragment worlds,:中のほんの一つであっても。}`
+`{ruby:......the fact remained that the demons:……悪魔たちは、命を捧げさせ}{ruby:had forced him to take it...:ることを強いたのだ…。}`
+`{ruby:George appeared to have distanced himself from:譲治は、悪魔のゲーム上のことと}{ruby:the events on the demons' game board,:割り切れているようだが、}`
+`{ruby:......but Jessica still seemed to resist the idea of stealing another person's:……朱志香には、たとえ駒であっても命を奪わねばな}{ruby:life, even if it was only their life as a game piece.:らぬことに、未だ抵抗を持っているようだった。}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:"......Heheh, are you getting cold feet?":「……ふふっ、怖気づいたか？」}`
+`{ruby:"......Heheh, are you:「……ふふっ、怖気}{ruby:getting cold feet?":づいたか？」}`
 `{ruby:"N‐......no......:「い、……いいえ……。}`
-`{ruby:......Th‐the {f:5:Beatrice} that Battler‐san desires......would not be shaken by the likes of this...":……ば、戦人さんの望むベアトリーチェは、……こんなことでは、臆したりしません…」}`
-`{ruby:""Well then, who will take the next trial?!"":「「さぁッ、次は誰が試練に挑戦を？！」」}`
-`{ruby:"It can be anyone! Please choose the next victim!!":「誰でもいい、次なる犠牲者を選び出してほしい！！」}`
-`{ruby:"It can be anyone! Let the next challenger step forward!!":「誰でもいい、次なる挑戦者は名乗り出てほしい！！」}`
+`{ruby:......Th‐the {f:5:Beatrice} that Battler‐san desires......would not:……ば、戦人さんの望むベアトリーチェは、…}{ruby:be shaken by the likes of this...":…こんなことでは、臆したりしません…」}`
+`{ruby:""Well then, who will:「「さぁッ、次は誰が試}{ruby:take the next trial?!"":練に挑戦を？！」」}`
+`{ruby:"It can be anyone!:「誰でもいい、次なる犠牲者を}{ruby:Please choose the next victim!!":選び出してほしい！！」}`
+`{ruby:"It can be anyone! Let:「誰でもいい、次なる挑戦者は}{ruby:the next challenger step forward!!":名乗り出てほしい！！」}`
 `{ruby:"If no one will step forward—":「誰も名乗り出ないならッ、」}`
-`{ruby:".........That means I win, doesn't it?":「………僕の勝ち、ということだね」}`
+`{ruby:".........That means I:「………僕の勝ち、と}{ruby:win, doesn't it?":いうことだね」}`
 `{ruby:"Yes, that's right!:「えぇ、そうなるわッ！}`
-`{ruby:Then congratulations are in order, Ushiromiya George!!":ならばおめでとう、右代宮譲治！！」}`
-`{ruby:"The key that leads to successful love between you and the one you cherish—":「あなたとあなたの愛する人の恋の成就へ至る扉の鍵を、」}`
+`{ruby:Then congratulations are:ならばおめでとう、右}{ruby:in order, Ushiromiya George!!":代宮譲治！！」}`
+`{ruby:"The key that leads to successful love:「あなたとあなたの愛する人の恋}{ruby:between you and the one you cherish—":の成就へ至る扉の鍵を、」}`
 `{ruby:""We bestow it now upon you!!"":「「僕たちは今こそ授けんッ！！」」}`
 `{ruby:"W‐.........wait......!!!":「まッ、………待てよ……！！！」}`
-`{ruby:As the demons delightedly named George as the victor,:譲治が勝利者だと囃し立てる悪魔たちの歓喜を、}`
-`{ruby:......they were interrupted by the next challenger.:……次なる挑戦者が遮る。}`
+`{ruby:As the demons delightedly:譲治が勝利者だと囃し立て}{ruby:named George as the victor,:る悪魔たちの歓喜を、}`
+`{ruby:......they were interrupted:……次なる挑戦}{ruby:by the next challenger.:者が遮る。}`
 `{ruby:".........Jessica......san......":「………朱志香……さん……」}`
 `{ruby:"......I'll.........go next......:「……次は、………私だぜ……。}`
 `{ruby:......Fine... I'm game.:……いいぜ、やってやらぁ。}`
-`{ruby:...I'll show you that my feelings for Kanon‐kun aren't just a silly, childish crush!!":…私だって、嘉音くんのこと、ハンパに考えてるわけじゃねえってこと、見せてやらあッ！！」}`
+`{ruby:...I'll show you that my feelings for:…私だって、嘉音くんのこと、ハンパに考えてる}{ruby:Kanon‐kun aren't just a silly, childish crush!!":わけじゃねえってこと、見せてやらあッ！！」}`

@@ -1,13 +1,13 @@
 `{ruby:Hmm...:Hmm...}`
-`{ruby:Looks like there is absolutely nothing here.:Looks like there is absolutely nothing here.}`
+`{ruby:Looks like there:Looks like there is abso}{ruby:is absolutely nothing here.:lutely nothing here.}`
 `{ruby:......At all.:......At all.}`
 `{ruby:This rain is getting harder.:This rain is getting harder.}`
 `{ruby:I'd better return to the mansion...:I'd better return to the mansion...}`
 `{ruby:.....................?:.....................?}`
 `{ruby:Huh?:Huh?}`
 `{ruby:What is that...?:What is that...?}`
-`{ruby:"High‐explosive armor‐piercing {p:41:{f:5:golden bullets}}.:"High‐explosive armor‐piercing {p:41:{f:5:golden bullets}}.}`
-`{ruby:{n}They profane science, but are effective for making peppered rabbit.:{n}They profane science, but are effective for making peppered rabbit.}`
-`{ruby:{n}Use these toys intelligently when in need"...:{n}Use these toys intelligently when in need"...}`
+`{ruby:"High‐explosive armor‐piercing:"High‐explosive armor‐piercing }{ruby:{p:41:{f:5:golden bullets}}.:{p:41:{f:5:golden bullets}}.}`
+`{ruby:{n}They profane science, but are:{n}They profane science, but are eff}{ruby:effective for making peppered rabbit.:ective for making peppered rabbit.}`
+`{ruby:{n}Use these toys:{n}Use these toys intelli}{ruby:intelligently when in need"...:gently when in need"...}`
 `{ruby:I can think of a use for these.:I can think of a use for these.}`
-`{ruby:Time to dance a rondo with some bunny girls...:Time to dance a rondo with some bunny girls...}`
+`{ruby:Time to dance a:Time to dance a rondo wi}{ruby:rondo with some bunny girls...:th some bunny girls...}`

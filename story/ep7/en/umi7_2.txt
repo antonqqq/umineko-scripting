@@ -1,338 +1,338 @@
-`{ruby:The Ushiromiya family members were relaxing here and there around the waiting room.:控え室には、右代宮家の親族たちがそれぞれに寛いでいた。}`
-`{ruby:A light buffet‐style meal had been set up, but it looked a bit stale and not particularly appetizing.:バイキング形式の軽食が準備されているが、少し干からびていて、食欲はそそらない。}`
-`{ruby:Even so, those voracious kids seemed to find it intensely appealing.:それでも、食欲旺盛な子供たちには魅力的らしい。}`
-`{ruby:The cousins had set up camp around it, with Maria at the center.:真里亞を中心に、いとこ勢がそこで車座になっている。}`
-`{ruby:{n}The adult siblings had also formed a group in a different corner.:{n}親兄弟たちも、別の一角で車座になっている。}`
-`{ruby:Perhaps because of Kinzo's absence, everyone seemed to be a little more relaxed.:金蔵の姿がないこともあってか、わずかにではあるが、弛緩した雰囲気だった。}`
+`{ruby:The Ushiromiya family members were relaxing:控え室には、右代宮家の親族たち}{ruby:here and there around the waiting room.:がそれぞれに寛いでいた。}`
+`{ruby:A light buffet‐style meal had been set up, but:バイキング形式の軽食が準備されているが、少}{ruby:it looked a bit stale and not particularly appetizing.:し干からびていて、食欲はそそらない。}`
+`{ruby:Even so, those voracious kids:それでも、食欲旺盛な子供た}{ruby:seemed to find it intensely appealing.:ちには魅力的らしい。}`
+`{ruby:The cousins had set up camp:真里亞を中心に、いとこ勢がそ}{ruby:around it, with Maria at the center.:こで車座になっている。}`
+`{ruby:{n}The adult siblings had also formed:{n}親兄弟たちも、別の一}{ruby:a group in a different corner.:角で車座になっている。}`
+`{ruby:Perhaps because of Kinzo's absence, everyone:金蔵の姿がないこともあってか、わずかに}{ruby:seemed to be a little more relaxed.:ではあるが、弛緩した雰囲気だった。}`
 `{ruby:"......Lion.:「……理御。}`
 `{ruby:Where did you go?:どこへ行っていたのですか？}`
 `{ruby:......And who is that?":……そちらの方は」}`
 `{ruby:"Mother,:「母さん。}`
-`{ruby:I was entertaining this guest of ours.:お客様のお相手をしていました。}`
+`{ruby:I was entertaining:お客様のお相手をし}{ruby:this guest of ours.:ていました。}`
 `{ruby:Will, this is my mother, Natsuhi.":ウィル、こちらは母の夏妃です」}`
 `{ruby:"No introductions needed.:「紹介はいらねェ。}`
-`{ruby:I just need to hear what she has to say.":ただ、話を聞かせてくれりゃいい」}`
+`{ruby:I just need to hear:ただ、話を聞かせて}{ruby:what she has to say.":くれりゃいい」}`
 `{ruby:"Huh? Did you say something?":「え？　何か仰いまして？」}`
 `{ruby:"No, he said nothing.:「いいえ、何も。}`
 `{ruby:This is Will‐san.:こちらはウィルさん。}`
 `{ruby:It seems he knew the deceased.":故人に縁ある方だそうです」}`
-`{ruby:With a smile, Lion casually smoothed over Will's words.:理御は笑顔でさらりと、ウィルの暴言を流させる。}`
-`{ruby:"He wants to know more about Beatrice.:「彼は、ベアトリーチェのことを、より詳しく知りたがっています。}`
-`{ruby:......Do you know anything about her, Mother?":……母さんは、ベアトリーチェについては、何かご存知ですか？」}`
+`{ruby:With a smile, Lion:理御は笑顔でさらりと、ウィ}{ruby:casually smoothed over Will's words.:ルの暴言を流させる。}`
+`{ruby:"He wants to:「彼は、ベアトリーチェのことを、よ}{ruby:know more about Beatrice.:り詳しく知りたがっています。}`
+`{ruby:......Do you know:……母さんは、ベアトリーチェにつ}{ruby:anything about her, Mother?":いては、何かご存知ですか？」}`
 `{ruby:"........................:「……………………。}`
-`{ruby:......Lion. The deceased is a woman to whom the head once owed a great debt.:……理御。故人は、当主様のかつての恩人です。}`
+`{ruby:......Lion. The deceased is a woman to:……理御。故人は、当主様}{ruby:whom the head once owed a great debt.:のかつての恩人です。}`
 `{ruby:Nothing more, nothing less.:そして、それ以上でもそれ以下の関係でもありません。}`
-`{ruby:This funeral is a ceremony for the head to repay the debts he made to her while she was alive.:この葬儀は、当主様が故人への生前の恩を報いるためのお式。}`
-`{ruby:That is what I have heard, and there is nothing more to it than that.":そう聞いていますし、それ以外のことは何もありません」}`
+`{ruby:This funeral is a ceremony for the head to repay:この葬儀は、当主様が故人への生}{ruby:the debts he made to her while she was alive.:前の恩を報いるためのお式。}`
+`{ruby:That is what I have heard, and:そう聞いていますし、それ以外}{ruby:there is nothing more to it than that.":のことは何もありません」}`
 `{ruby:"......Thanks, Mother.:「……ありがとう、母さん。}`
 `{ruby:Will, that's all my mother knows.":ウィル、母が知っていることはこれだけです」}`
-`{ruby:Natsuhi was very resistant to the scandalous rumors that Kinzo, a man she greatly respected, had once had a concubine called Beatrice.:夏妃は、尊敬する金蔵にベアトリーチェという妾がいたという醜聞に対し、とても否定的だ。}`
-`{ruby:However, she also understood that the scandal was probably the truth.:しかし、その醜聞は恐らく事実だろうとも理解している。}`
-`{ruby:Picking up that Natsuhi was in a bad mood and didn't want to talk about this anymore,:それ以上、この話をしたくないという母の不機嫌を敏感に感じ取り、}`
-`{ruby:Lion brought an end to that conversation before Will could say something rude again.:ウィルが次なる暴言を口にしない内に、話を綺麗にまとめて切り上げた。}`
+`{ruby:Natsuhi was very resistant to the scandalous rumors that Kinzo, a:夏妃は、尊敬する金蔵にベアトリーチェという妾}{ruby:man she greatly respected, had once had a concubine called Beatrice.:がいたという醜聞に対し、とても否定的だ。}`
+`{ruby:However, she also understood that:しかし、その醜聞は恐らく事実}{ruby:the scandal was probably the truth.:だろうとも理解している。}`
+`{ruby:Picking up that Natsuhi was in a bad:それ以上、この話をしたくないという}{ruby:mood and didn't want to talk about this anymore,:母の不機嫌を敏感に感じ取り、}`
+`{ruby:Lion brought an end to that conversation:ウィルが次なる暴言を口にしない内に、}{ruby:before Will could say something rude again.:話を綺麗にまとめて切り上げた。}`
 `{ruby:"Will.:「ウィル。}`
-`{ruby:This chapel is the property of our family.":この礼拝堂は、当家の敷地内です」}`
-`{ruby:"So you're telling me to follow the family's rules?":「当家のルールに従えってか」}`
-`{ruby:"You'll speak in a manner appropriate for a guest of the family.:「当家の客人に相応しい口調に改めていただく。}`
-`{ruby:And you'll conduct all of your conversations through me.:話は全て私を介していただく。}`
-`{ruby:I must ask that you follow those two rules.":その２つを守っていただけるよう、お願い致します」}`
+`{ruby:This chapel is the:この礼拝堂は、当家}{ruby:property of our family.":の敷地内です」}`
+`{ruby:"So you're telling me:「当家のルールに}{ruby:to follow the family's rules?":従えってか」}`
+`{ruby:"You'll speak in a manner appropriate:「当家の客人に相応しい口}{ruby:for a guest of the family.:調に改めていただく。}`
+`{ruby:And you'll conduct all:話は全て私を介し}{ruby:of your conversations through me.:ていただく。}`
+`{ruby:I must ask that:その２つを守っていただける}{ruby:you follow those two rules.":よう、お願い致します」}`
 `{ruby:"I'll work on that.":「努力すらァ」}`
-`{ruby:"......The actions of this "{f:5:Bernkastel}" witch have caused us all a great deal of inconvenience.:「……あの、ベルンカステルとかいう魔女に巻き込まれて、大いに迷惑です。}`
-`{ruby:Because of that, I am willing to help you.:ですから、私も協力はします。}`
-`{ruby:However, both of us stand on an even footing, so make sure you don't forget it.":しかし、貴方と私の立場は対等ですので、それをお忘れになりませんよう」}`
-`{ruby:"And I thought you were just some pampered rich kid.:「育ちがいいだけのお坊ちゃんだと思ってたら。}`
+`{ruby:"......The actions of this "{f:5:Bernkastel}" witch have:「……あの、ベルンカステルとかいう魔女}{ruby:caused us all a great deal of inconvenience.:に巻き込まれて、大いに迷惑です。}`
+`{ruby:Because of that, I:ですから、私も協}{ruby:am willing to help you.:力はします。}`
+`{ruby:However, both of us stand on an even:しかし、貴方と私の立場は対等ですので}{ruby:footing, so make sure you don't forget it.":、それをお忘れになりませんよう」}`
+`{ruby:"And I thought you were:「育ちがいいだけのお坊ち}{ruby:just some pampered rich kid.:ゃんだと思ってたら。}`
 `{ruby:You've got guts.":なかなか言うな」}`
-`{ruby:"I must be prepared to shoulder the Ushiromiya family's future, after all.":「これでも。右代宮家の未来を背負う覚悟はありますので」}`
+`{ruby:"I must be prepared to shoulder:「これでも。右代宮家の未来を背}{ruby:the Ushiromiya family's future, after all.":負う覚悟はありますので」}`
 `{ruby:".........Got it.:「………わかった。}`
-`{ruby:Let's solve this crime together, Watson.":仲良く事件を解決しようぜ、ワトソン君」}`
+`{ruby:Let's solve this:仲良く事件を解決しよう}{ruby:crime together, Watson.":ぜ、ワトソン君」}`
 `{ruby:"I'm glad to have your cooperation.:「ご協力いただけて嬉しいです。}`
-`{ruby:I wouldn't want to keep your dear cat Diana waiting.:愛猫のダイアナを待たせないためにも。}`
+`{ruby:I wouldn't want to keep:愛猫のダイアナを待た}{ruby:your dear cat Diana waiting.:せないためにも。}`
 `{ruby:Don't you need to feed her soon?":エサの時間は大丈夫ですか？」}`
 `{ruby:"I gave her extra food today,:「今日は山盛りにしてある。}`
 `{ruby:so she should be good for a while.:多少は大丈夫だ。}`
-`{ruby:.........I'm surprised you realized Diana was a cat.":………よく、ダイアナが猫のことだとわかったな」}`
-`{ruby:"I figured a woman who scratches the sofas when you keep her waiting would be a bit too eccentric.":「ソファーを引っ掻いて待ち侘びる女性というのも、少々個性的が過ぎると思いましたので」}`
+`{ruby:.........I'm surprised you realized:………よく、ダイアナが猫の}{ruby:Diana was a cat.":ことだとわかったな」}`
+`{ruby:"I figured a woman who scratches the sofas when:「ソファーを引っ掻いて待ち侘びる女性というの}{ruby:you keep her waiting would be a bit too eccentric.":も、少々個性的が過ぎると思いましたので」}`
 `{ruby:"......Hm.":「……ふむ」}`
 `{ruby:"So?:「それで？}`
 `{ruby:Who will you talk to first?":まずは誰に話を？」}`
 `{ruby:"Anyone.:「誰でもいい。}`
 `{ruby:Everyone.:全員だ。}`
-`{ruby:......Those ones over there are Krauss's siblings, right?":……あそこにいるのは、蔵臼の兄弟たちか」}`
-`{ruby:"From right to left, there's Aunt Eva,:「向かって、右から絵羽叔母さん、}`
+`{ruby:......Those ones over there:……あそこにいるのは、}{ruby:are Krauss's siblings, right?":蔵臼の兄弟たちか」}`
+`{ruby:"From right to:「向かって、右から}{ruby:left, there's Aunt Eva,:絵羽叔母さん、}`
 `{ruby:Uncle Hideyoshi.":秀吉叔父さん」}`
 `{ruby:"Over there is Uncle Rudolf,:「あちらが、留弗夫叔父さん、}`
 `{ruby:Aunt Kyrie.":霧江叔母さん」}`
 `{ruby:"And over there is—":「そしてあちらが、」}`
 `{ruby:"Ushiromiya Rosa.:「右代宮楼座か。}`
-`{ruby:......When she was a girl, she once got lost in the forest and bumped into a woman calling herself Beatrice in a hidden mansion.":……少女時代に森を彷徨い、隠し館でベアトリーチェと名乗る女に遭遇した経験を持つ」}`
-`{ruby:"......I know I shouldn't be surprised anymore,:「……驚くまい、とは思っていますが。}`
-`{ruby:but you really do know everything, don't you?":本当に貴方は何でも知っている」}`
+`{ruby:......When she was a girl, she once got lost in the forest:……少女時代に森を彷徨い、隠し館でベアトリ}{ruby:and bumped into a woman calling herself Beatrice in a hidden mansion.":ーチェと名乗る女に遭遇した経験を持つ」}`
+`{ruby:"......I know I:「……驚くまい、とは}{ruby:shouldn't be surprised anymore,:思っていますが。}`
+`{ruby:but you really do:本当に貴方は何でも}{ruby:know everything, don't you?":知っている」}`
 `{ruby:"So, you know about that story too?":「お前も、その話は知っているのか」}`
-`{ruby:"I managed to overhear her saying that today.:「今日、彼女がそう話しているのを漏れ聞きました。}`
-`{ruby:......It looked as though it was bothering her, so I pretended not to hear.":……辛そうな話でしたので、聞こえないふりをしましたが」}`
+`{ruby:"I managed to overhear:「今日、彼女がそう話してい}{ruby:her saying that today.:るのを漏れ聞きました。}`
+`{ruby:......It looked as though it was bothering:……辛そうな話でしたので、聞こ}{ruby:her, so I pretended not to hear.":えないふりをしましたが」}`
 `{ruby:"Real model student, you are.:「優等生だな。}`
 `{ruby:......Introduce me.:……紹介してくれ。}`
 `{ruby:I want to ask about it.":話を聞きたい」}`
-`{ruby:"You're asking this of the model student who pretended not to hear because it just might be a painful topic?":「辛そうな話でしたので、聞こえないふりをした優等生の、私に？」}`
-`{ruby:Even this outrageous arrogance is nothing compared to Kinzo.:その傍若無人ぶりも、金蔵に比べれば可愛いもの。}`
-`{ruby:After muttering this several times mentally, Lion shrugged and nodded at Will.:理御は心の中で繰り返しそう呟き、肩を竦める仕草だけを見せて、ウィルに頷いた。}`
+`{ruby:"You're asking this of the model student who pretended not:「辛そうな話でしたので、聞こえない}{ruby:to hear because it just might be a painful topic?":ふりをした優等生の、私に？」}`
+`{ruby:Even this outrageous arrogance:その傍若無人ぶりも、金蔵に}{ruby:is nothing compared to Kinzo.:比べれば可愛いもの。}`
+`{ruby:After muttering this several times mentally,:理御は心の中で繰り返しそう呟き、肩を竦め}{ruby:Lion shrugged and nodded at Will.:る仕草だけを見せて、ウィルに頷いた。}`
 `{ruby:"Oh, it's our great successor.:「あら、次期当主さまじゃない。}`
 `{ruby:And who is this......?":そちらの方は……？」}`
 `{ruby:"Oh, Aunt Eva.:「あぁ、絵羽叔母さん。}`
 `{ruby:This is Will‐san.:こちらはウィルさん。}`
-`{ruby:He came to offer flowers for the departed.":故人のために献花に訪れてくれました」}`
+`{ruby:He came to offer:故人のために献花に訪}{ruby:flowers for the departed.":れてくれました」}`
 `{ruby:"But who cares about that.:「んなことはどうでもいい。}`
 `{ruby:Tell me everything you know about—:ベアトリーチェについて知って、}`
 `{ruby:......nng—":……んぐっ、」}`
-`{ruby:"He says he wants to know about the deceased's connection to the Ushiromiya family.":「故人と右代宮家のかかわりについて、お話を聞きたいと言っています」}`
-`{ruby:Lion spoke with a bright smile while pinching Will's butt.:ウィルのおしりを抓りながら、理御はにこやかな笑顔で告げる。}`
-`{ruby:Will silently protested, as though saying "even for a gag, that hurts",:お約束にしても痛ェだろとウィルは無言で抗議するが、}`
-`{ruby:but Lion just played dumb and smiled at Eva like a model student.:理御は優等生のような笑顔で、知らないふりをして絵羽に微笑む。}`
-`{ruby:"Her connection to the Ushiromiya family?:「右代宮家とのかかわり、}`
-`{ruby:......Well, what is there to say...?":……って言ってもねぇ？」}`
-`{ruby:"It's probably more accurate to say "her connection to Father".":「右代宮家とっちゅうより、お父さんとのかかわりっちゅうべきやろな」}`
+`{ruby:"He says he wants to know about:「故人と右代宮家のかかわりについて、}{ruby:the deceased's connection to the Ushiromiya family.":お話を聞きたいと言っています」}`
+`{ruby:Lion spoke with a bright:ウィルのおしりを抓りながら、理御}{ruby:smile while pinching Will's butt.:はにこやかな笑顔で告げる。}`
+`{ruby:Will silently protested, as though saying:お約束にしても痛ェだろとウィ}{ruby:"even for a gag, that hurts",:ルは無言で抗議するが、}`
+`{ruby:but Lion just played dumb and:理御は優等生のような笑顔で、知ら}{ruby:smiled at Eva like a model student.:ないふりをして絵羽に微笑む。}`
+`{ruby:"Her connection to:「右代宮家との}{ruby:the Ushiromiya family?:かかわり、}`
+`{ruby:......Well, what is:……って言って}{ruby:there to say...?":もねぇ？」}`
+`{ruby:"It's probably more accurate to:「右代宮家とっちゅうより、お父さんと}{ruby:say "her connection to Father".":のかかわりっちゅうべきやろな」}`
 `{ruby:"We can be honest here.:「正直に言えばいいのさ。}`
 `{ruby:She was Dad's mistress.":親父の愛人、ってな」}`
-`{ruby:"If you call her that, Natsuhi nee‐san will yell at you again.:「愛人なんて言うと、また夏妃姉さんに怒られるわよ。}`
+`{ruby:"If you call her that, Natsuhi:「愛人なんて言うと、また夏妃}{ruby:nee‐san will yell at you again.:姉さんに怒られるわよ。}`
 `{ruby:He's "indebted" to her, right?:恩人、でしょ？}`
 `{ruby:*giggle*.":くす」}`
 `{ruby:"Yes, of course.:「そやな。}`
 `{ruby:Wahahahaha.":わははははは」}`
 `{ruby:"......Well, there you have it.":「……こんな具合ですが？」}`
-`{ruby:"I have no interest in anyone but Rosa—:「楼座以外には興味ねェ、}`
+`{ruby:"I have no interest:「楼座以外には}{ruby:in anyone but Rosa—:興味ねェ、}`
 `{ruby:gghh—":んぐッ、」}`
-`{ruby:"I do believe......that you said you met with Beatrice, Aunt Rosa.":「楼座叔母さんは、……確か、ベアトリーチェに会ったことがある、と」}`
+`{ruby:"I do believe......that you said:「楼座叔母さんは、……確か、ベアトリ}{ruby:you met with Beatrice, Aunt Rosa.":ーチェに会ったことがある、と」}`
 `{ruby:"........................":「……………………」}`
-`{ruby:This whole time, Rosa had been hanging her head.:楼座は、ずっと俯いていた。}`
-`{ruby:{n}Lion's words made her shoulders quiver.:{n}そして、理御の言葉に、ぴくりと肩を揺らす。}`
-`{ruby:"She just suddenly came out with it today.:「今日になって、急に言い出したのよぅ。}`
+`{ruby:This whole time, Rosa:楼座は、ずっと俯}{ruby:had been hanging her head.:いていた。}`
+`{ruby:{n}Lion's words made:{n}そして、理御の言葉に}{ruby:her shoulders quiver.:、ぴくりと肩を揺らす。}`
+`{ruby:"She just suddenly came:「今日になって、急に言}{ruby:out with it today.:い出したのよぅ。}`
 `{ruby:It's a bit hard to believe.":ちょっと信じ難い話だわ」}`
 `{ruby:"It's the truth...!:「本当なのよ…！}`
 `{ruby:I killed Beatrice!":ベアトリーチェは、私が殺したのッ！」}`
 `{ruby:"Great, our work here is finished.":「事件解決だな」}`
 `{ruby:"Don't get ahead of yourself.":「早計です」}`
-`{ruby:Rosa broke down crying and laid her head on the table.:楼座は、わっと泣き崩れてテーブルに伏せた。}`
-`{ruby:Kyrie and Hideyoshi tried to console her......:霧江と秀吉が慰める……。}`
-`{ruby:"Rokkenjima is covered by a dense forest.:「六軒島は鬱蒼とした森に包まれてる。}`
-`{ruby:We only know about one tiny portion of it.:私たちが知っているのは、そのうちのごくわずか。}`
+`{ruby:Rosa broke down crying and:楼座は、わっと泣き崩れて}{ruby:laid her head on the table.:テーブルに伏せた。}`
+`{ruby:Kyrie and Hideyoshi:霧江と秀吉が慰}{ruby:tried to console her......:める……。}`
+`{ruby:"Rokkenjima is covered:「六軒島は鬱蒼とした}{ruby:by a dense forest.:森に包まれてる。}`
+`{ruby:We only know about:私たちが知っているのは、そ}{ruby:one tiny portion of it.:のうちのごくわずか。}`
 `{ruby:Just the mansion, the rose garden,:屋敷と薔薇庭園。}`
-`{ruby:and the little path that leads to the harbor.":そして船着場に向かうちょっとした林道だけ」}`
-`{ruby:"Since ages ago, there've been stories about how Dad built a hidden mansion somewhere in the vast forest that no one knew about,:「誰も知らない広大な森のどこかに、親父が隠れ屋敷を作って、}`
-`{ruby:and that he had his mistress living there.":愛人を住まわせてるんじゃないかって話は相当の昔からあったんだ」}`
-`{ruby:"Rosa‐san probably came upon that hidden mansion by chance......":「楼座さんは、多分、その隠れ屋敷に偶然、辿り着いてしまったっちゅうんやろな……」}`
-`{ruby:"But Aunt Rosa, why would you say you killed Beatrice...?":「しかし、どうして楼座叔母さんは、ベアトリーチェを殺した、などと…？」}`
-`{ruby:"If I hadn't taken her out, she never would have died...!:「私が連れ出さなければ、彼女は死なずに済んだわ…！}`
+`{ruby:and the little path:そして船着場に向かうちょ}{ruby:that leads to the harbor.":っとした林道だけ」}`
+`{ruby:"Since ages ago, there've been stories about how Dad built a:「誰も知らない広大な森のどこかに}{ruby:hidden mansion somewhere in the vast forest that no one knew about,:、親父が隠れ屋敷を作って、}`
+`{ruby:and that he had:愛人を住まわせてるんじゃないかって}{ruby:his mistress living there.":話は相当の昔からあったんだ」}`
+`{ruby:"Rosa‐san probably came upon:「楼座さんは、多分、その隠れ屋敷に偶然、辿}{ruby:that hidden mansion by chance......":り着いてしまったっちゅうんやろな……」}`
+`{ruby:"But Aunt Rosa, why would:「しかし、どうして楼座叔母さんは、ベア}{ruby:you say you killed Beatrice...?":トリーチェを殺した、などと…？」}`
+`{ruby:"If I hadn't taken her:「私が連れ出さなければ、彼女}{ruby:out, she never would have died...!:は死なずに済んだわ…！}`
 `{ruby:She was so innocent, like a chick.:彼女は無垢な、ヒヨコのような人だったわ。}`
-`{ruby:I took her out, so she just followed along obediently!:私が連れ出したから、素直について来た！}`
-`{ruby:She stayed right behind me, trusting me completely...!:何も疑わずに、私の後をぴったり付いてきて…！}`
-`{ruby:And because I made her take such a dangerous path...!!":私があんな足場の悪いところを歩かせてしまったから…！！」}`
-`{ruby:"Did you make her walk that way because you were hoping she'd slip and fall from the cliff?":「お前は、崖から足を踏み外すことを期待して、そこを歩かせたのか」}`
+`{ruby:I took her out, so:私が連れ出したから、素}{ruby:she just followed along obediently!:直について来た！}`
+`{ruby:She stayed right behind:何も疑わずに、私の後をぴっ}{ruby:me, trusting me completely...!:たり付いてきて…！}`
+`{ruby:And because I made her:私があんな足場の悪いところを歩か}{ruby:take such a dangerous path...!!":せてしまったから…！！」}`
+`{ruby:"Did you make her walk that way because you:「お前は、崖から足を踏み外すことを}{ruby:were hoping she'd slip and fall from the cliff?":期待して、そこを歩かせたのか」}`
 `{ruby:"I never meant to do that!:「そんなつもりはなかった！}`
-`{ruby:I just thought she'd like to see the ocean...!:ただ、海が見たいと思って…！}`
+`{ruby:I just thought she'd:ただ、海が見たいと}{ruby:like to see the ocean...!:思って…！}`
 `{ruby:No,:うぅん、}`
-`{ruby:it just looked like the path would be hard to walk,:歩き辛そうだったから、}`
-`{ruby:and I thought it would be easier going if we went down the cliff first...!!":下に降りれば少しは楽になるかなと思って…！！」}`
-`{ruby:"That's not what killing someone means.:「それは殺したとは言わねェ。}`
+`{ruby:it just looked like the:歩き辛そうだっ}{ruby:path would be hard to walk,:たから、}`
+`{ruby:and I thought it would be easier:下に降りれば少しは楽になる}{ruby:going if we went down the cliff first...!!":かなと思って…！！」}`
+`{ruby:"That's not what:「それは殺したと}{ruby:killing someone means.:は言わねェ。}`
 `{ruby:It was an accident.":事故だ」}`
-`{ruby:"It's an accident she never would have had if I hadn't brought her with me, right?!:「私が連れ出さなければ遭わなかった事故よ？！}`
+`{ruby:"It's an accident she never would have had:「私が連れ出さなければ遭}{ruby:if I hadn't brought her with me, right?!:わなかった事故よ？！}`
 `{ruby:It's my fault!!:私のせいなの！！}`
-`{ruby:And then, I abandoned her when she was covered in blood and ran home!!":それに私は、血塗れの彼女を見捨てて逃げ帰ってしまった！！」}`
+`{ruby:And then, I abandoned her when she:それに私は、血塗れの彼女を見捨て}{ruby:was covered in blood and ran home!!":て逃げ帰ってしまった！！」}`
 `{ruby:"It isn't your fault.:「あんたのせいじゃねェ。}`
-`{ruby:Beatrice had never seen the ocean before.:ベアトリーチェは、海を一度も見たことがなかった。}`
-`{ruby:......You showed it to her for the first time ever.:……それを、あんたが初めて見せたんだ。}`
-`{ruby:She was probably so excited that she just happened to take a bad step.":つい浮かれて、一歩、踏み外しちまったんだろ」}`
+`{ruby:Beatrice had never:ベアトリーチェは、海を一度}{ruby:seen the ocean before.:も見たことがなかった。}`
+`{ruby:......You showed it to her:……それを、あんたが初}{ruby:for the first time ever.:めて見せたんだ。}`
+`{ruby:She was probably so excited that she:つい浮かれて、一歩、踏み}{ruby:just happened to take a bad step.":外しちまったんだろ」}`
 `{ruby:"......H‐how can you...?":「……ど、どうしてあなたはそれを…？」}`
-`{ruby:"Beatrice is grateful to you for what you did. Of course she doesn't hate you for it.":「ベアトリーチェはあんたに感謝こそすれ、恨んでるわけもねェ」}`
+`{ruby:"Beatrice is grateful to you for what you:「ベアトリーチェはあんたに感謝こ}{ruby:did. Of course she doesn't hate you for it.":そすれ、恨んでるわけもねェ」}`
 `{ruby:"........................:「……………………。}`
 `{ruby:Really?:そうかしら、}`
 `{ruby:......Is that...:……本当に、}`
 `{ruby:really true...?":…そうなのかしら…」}`
-`{ruby:"She was the one who begged to see the world outside the fence, right?:「柵の外の世界へ出たいと懇願したのは彼女だろ。}`
-`{ruby:Though it was only for a short while, you made that dream of hers come true.:お前はその夢を、束の間だけ叶えたんだ。}`
-`{ruby:If I were Beatrice, I would thank you for that short bit of time.:俺がベアトリーチェなら、その束の間の時間をお前に感謝するだろうよ。}`
-`{ruby:If she knew that you've been suffering all this time for it, she'd probably feel bad herself.":なのにお前が、いつまでも苦しんでると知ったら、申し訳なく思うだろう」}`
-`{ruby:"......Beatrice is grateful for what you did.:「……ベアトリーチェは、お前に感謝してる。}`
-`{ruby:You're the one who taught her that the sea is blue.":海が青いってことを、教えてくれたあんたをな」}`
+`{ruby:"She was the one who begged to:「柵の外の世界へ出たいと懇}{ruby:see the world outside the fence, right?:願したのは彼女だろ。}`
+`{ruby:Though it was only for a short while,:お前はその夢を、束の間}{ruby:you made that dream of hers come true.:だけ叶えたんだ。}`
+`{ruby:If I were Beatrice, I would thank:俺がベアトリーチェなら、その束の間の}{ruby:you for that short bit of time.:時間をお前に感謝するだろうよ。}`
+`{ruby:If she knew that you've been suffering all:なのにお前が、いつまでも苦しんでると}{ruby:this time for it, she'd probably feel bad herself.":知ったら、申し訳なく思うだろう」}`
+`{ruby:"......Beatrice is grateful:「……ベアトリーチェは、}{ruby:for what you did.:お前に感謝してる。}`
+`{ruby:You're the one who taught:海が青いってことを、教え}{ruby:her that the sea is blue.":てくれたあんたをな」}`
 `{ruby:".........Is that...:「………それは、}`
 `{ruby:...true.........?":……本当に………？」}`
 `{ruby:"I guarantee it.":「俺が保証する」}`
-`{ruby:Will made that statement openly and boldly.:ウィルは堂々と、そう断言して見せる。}`
-`{ruby:No one could tell how Rosa took those words.:その言葉が、楼座にどう受け取られたかはわからない。}`
-`{ruby:However, ......they had apparently been enough to remind her to take a handkerchief out of her pocket and wipe her eyes.:しかし、……楼座に、懐からハンカチを取り出して目元を拭うことを思い出させることは、出来たようだった。}`
+`{ruby:Will made that:ウィルは堂々と、そう}{ruby:statement openly and boldly.:断言して見せる。}`
+`{ruby:No one could tell:その言葉が、楼座にどう受け取}{ruby:how Rosa took those words.:られたかはわからない。}`
+`{ruby:However, ......they had apparently been enough to remind her to:しかし、……楼座に、懐からハンカチを取り出して目元を}{ruby:take a handkerchief out of her pocket and wipe her eyes.:拭うことを思い出させることは、出来たようだった。}`
 `{ruby:"......Thank you.":「……ありがとう」}`
-`{ruby:"Even now, Beatrice is whispering those words to you.":「その言葉は、ベアトリーチェが今も、あんたに囁いてる」}`
+`{ruby:"Even now, Beatrice is:「その言葉は、ベアトリーチェが}{ruby:whispering those words to you.":今も、あんたに囁いてる」}`
 `{ruby:"...............Thank you......":「……………ありがとう……」}`
-`{ruby:Rosa wiped her eyes with the handkerchief one more time and hung her head.:楼座はもう一度ハンカチで目元を拭い、俯く。}`
-`{ruby:It no longer looked like a fit of sobbing, but more as though she was speaking with the Beatrice of that day within her heart...:嗚咽ではなく、自分の心の中でもう一度、あの日のベアトリーチェに語り掛けているような、}`
+`{ruby:Rosa wiped her eyes with the handkerchief:楼座はもう一度ハンカチで}{ruby:one more time and hung her head.:目元を拭い、俯く。}`
+`{ruby:It no longer looked like a fit of sobbing, but more as:嗚咽ではなく、自分の心の中でもう一度、あの日}{ruby:though she was speaking with the Beatrice of that day within her heart...:のベアトリーチェに語り掛けているような、}`
 `{ruby:one last time.:……そんな仕草だった。}`
-`{ruby:"......That was a lot of confidence you put behind a claim you can't back up.":「……よくも、そんな無責任な言葉を、堂々と掛けられるものです」}`
+`{ruby:"......That was a lot of confidence you:「……よくも、そんな無責任な言葉を}{ruby:put behind a claim you can't back up.":、堂々と掛けられるものです」}`
 `{ruby:"Back up?:「責任がなけりゃ。}`
-`{ruby:Is that really necessary to comfort a woman?":女を慰めることも出来ねぇのか」}`
+`{ruby:Is that really necessary:女を慰めることも出}{ruby:to comfort a woman?":来ねぇのか」}`
 `{ruby:"........................:「……………………。}`
 `{ruby:I misjudged you a little.":多少は、見直しました」}`
-`{ruby:For how many years had this tormented Rosa?:どれほど長い年月を、楼座は苛まれてきたというのか。}`
+`{ruby:For how many years:どれほど長い年月を、楼座は苛}{ruby:had this tormented Rosa?:まれてきたというのか。}`
 `{ruby:Now, for the first time,:今、楼座は初めて。}`
-`{ruby:......Rosa would probably be able to face that innocently smiling Beatrice, who had seen the ocean for the first time in her life.:……海を初めて見た時の、あの無邪気な笑顔のベアトリーチェと、再会しているだろう。}`
-`{ruby:She was the only one who could forgive Rosa.:楼座を許せるのは、彼女だけだ。}`
-`{ruby:Now, the two of them could finally speak together......:その彼女と、楼座はようやく対話を始めることが出来る……。}`
-`{ruby:"......I don't know who you are, but thank you.:「……どなたか存じないけれど、ありがとう。}`
+`{ruby:......Rosa would probably be able to face that innocently smiling Beatrice,:……海を初めて見た時の、あの無邪気な笑顔の}{ruby:who had seen the ocean for the first time in her life.:ベアトリーチェと、再会しているだろう。}`
+`{ruby:She was the only:楼座を許せるのは、}{ruby:one who could forgive Rosa.:彼女だけだ。}`
+`{ruby:Now, the two of:その彼女と、楼座はようやく対話}{ruby:them could finally speak together......:を始めることが出来る……。}`
+`{ruby:"......I don't know who:「……どなたか存じないけ}{ruby:you are, but thank you.:れど、ありがとう。}`
 `{ruby:......I wonder if she forgives me.":……彼女は私を、許してくれるかしら」}`
-`{ruby:"You've beat yourself up about it for nearly twenty years.:「あんたは２０年近くもそれを悩んだ。}`
+`{ruby:"You've beat yourself up about:「あんたは２０年近く}{ruby:it for nearly twenty years.:もそれを悩んだ。}`
 `{ruby:That's far too long.:長過ぎだ。}`
 `{ruby:She's telling you to knock it off.":彼女はもう勘弁しろと言ってらァ」}`
 `{ruby:"......That's right, Aunt Rosa.:「……そうですよ、楼座叔母さん。}`
-`{ruby:The more you grieve, the sadder Beatrice would be.":あなたが悲しめば悲しむほど、きっと、ベアトリーチェも悲しむでしょう」}`
+`{ruby:The more you grieve,:あなたが悲しめば悲しむほど、きっと、}{ruby:the sadder Beatrice would be.":ベアトリーチェも悲しむでしょう」}`
 `{ruby:"............You too...:「…………あなたまで…。}`
 `{ruby:Thank you.:ありがとう。}`
-`{ruby:......I don't know if I will be forgiven,:……私には、私が許されるかどうかわからないけれど。}`
-`{ruby:......but I'll keep on speaking to my heart to see whether she'll forgive me or not.:……彼女が許してくれるかどうか、胸の中で問い掛けてみることにするわ。}`
+`{ruby:......I don't know if:……私には、私が許されるかど}{ruby:I will be forgiven,:うかわからないけれど。}`
+`{ruby:......but I'll keep on speaking to my heart:……彼女が許してくれるかどうか、胸の}{ruby:to see whether she'll forgive me or not.:中で問い掛けてみることにするわ。}`
 `{ruby:......Thanks, you two.:……二人とも、ありがとう。}`
-`{ruby:Sorry for showing you such an embarrassing side of me.":恥ずかしいところを見せて、ごめんなさい」}`
-`{ruby:"And I'm sorry to say this right after saying something so pretty,:「綺麗事を言った舌の根も乾かねぇ内で恐縮だが。}`
+`{ruby:Sorry for showing you such:恥ずかしいところを見せ}{ruby:an embarrassing side of me.":て、ごめんなさい」}`
+`{ruby:"And I'm sorry to say this:「綺麗事を言った舌の根も乾}{ruby:right after saying something so pretty,:かねぇ内で恐縮だが。}`
 `{ruby:......but I want you to talk to me.:……聞かせて欲しい。}`
 `{ruby:Tell me what happened back then.":当時のことを」}`
 `{ruby:".........Will‐san!":「………ウィルさんっ」}`
 `{ruby:"Thanks, but it's alright.:「ありがとう、大丈夫よ。}`
 `{ruby:......I'll talk.:……話すわ。}`
-`{ruby:Hiding this and keeping quiet about it for so long might have been my greatest sin.":誰にも話さずにずっと隠してきたことが、私の一番の罪なのかもしれないから」}`
-`{ruby:"Exactly when was it that you met Beatrice?":「お前がベアトリーチェに出会ったのは、正確にはいつ頃なのか」}`
-`{ruby:Upon hearing this question, ......Rosa closed her eyes lightly, reaching back to a past she didn't want to remember...:その問い掛けに、……楼座は薄く瞼を閉じ、思い出したくない過去を振り返る…。}`
+`{ruby:Hiding this and keeping quiet about it for:誰にも話さずにずっと隠してきたことが、}{ruby:so long might have been my greatest sin.":私の一番の罪なのかもしれないから」}`
+`{ruby:"Exactly when was it:「お前がベアトリーチェに出会った}{ruby:that you met Beatrice?":のは、正確にはいつ頃なのか」}`
+`{ruby:Upon hearing this question, ......Rosa closed her eyes lightly,:その問い掛けに、……楼座は薄く瞼を閉じ、}{ruby:reaching back to a past she didn't want to remember...:思い出したくない過去を振り返る…。}`
 `{ruby:"......It was about twenty years ago.:「……２０年ほど昔の話よ。}`
-`{ruby:.........Twenty.........or, wait, it might have been nineteen or eighteen years ago.:………２０、………いえ、１９年前か１８年前かもしれない。}`
+`{ruby:.........Twenty.........or, wait, it might have:………２０、………いえ、１９年}{ruby:been nineteen or eighteen years ago.:前か１８年前かもしれない。}`
 `{ruby:.........I'm sorry.:………ごめんなさい。}`
-`{ruby:I've tried to force myself to forget it for so long that I've nearly forgotten that part completely.":長いこと、無理に忘れようとしてきたものだから、そこは少し忘れかけてるわ」}`
+`{ruby:I've tried to force myself to forget it for:長いこと、無理に忘れようとしてきたもの}{ruby:so long that I've nearly forgotten that part completely.":だから、そこは少し忘れかけてるわ」}`
 `{ruby:"It should have been 1967.":「１９６７年のことのはずだ」}`
-`{ruby:Ronove had guaranteed that with the red truth in the third game.:かつて第３のゲームで、ロノウェが赤き真実でそれを確定させている。}`
+`{ruby:Ronove had guaranteed that with the:かつて第３のゲームで、ロノウェが赤}{ruby:red truth in the third game.:き真実でそれを確定させている。}`
 `{ruby:"Th‐that's right......:「そ、そうね……。}`
 `{ruby:It was probably about 1967.:多分、１９６７年頃だわ。}`
-`{ruby:I can remember what happened as clearly as a picture......:あの時の出来事は、写真のように鮮明に覚えてる……。}`
+`{ruby:I can remember what happened:あの時の出来事は、写真のよう}{ruby:as clearly as a picture......:に鮮明に覚えてる……。}`
 `{ruby:I'll never forget......":忘れられないの……」}`
-`{ruby:"If it's tough for you, don't feel like you have to tell us.":「辛かったら、無理に話す必要はありませんので」}`
-`{ruby:"Yes, clear as a picture, if you don't mind.:「写真のように鮮明に頼む。}`
+`{ruby:"If it's tough for you, don't:「辛かったら、無理に話す必}{ruby:feel like you have to tell us.":要はありませんので」}`
+`{ruby:"Yes, clear as a:「写真のように鮮}{ruby:picture, if you don't mind.:明に頼む。}`
 `{ruby:............Ngah!:…………んぐッ。}`
 `{ruby:......Dammit, that hurts, Lion.":……痛ェぞ、理御」}`
 `{ruby:"What does?":「何のことやら？」}`
-`{ruby:"I took it very hard when I found out that my tutor had told Mother about something I'd shared in confidence.:「家庭教師が、私の内緒話を母に告げ口していたのにショックを受けて。}`
-`{ruby:I lost control of myself and ran deep into the forest.":あの日、私は自暴自棄になって、森の奥へ奥へ、どこまでも駆けていったの」}`
-`{ruby:This tale had also been told in a previous fragment.:それは過去のカケラでも語られた物語だ。}`
-`{ruby:Back when Rosa was just a kid, she had gone deep into the forest,:かつて子供だった頃の楼座は、森の奥深くへ入り込み、}`
-`{ruby:......found a hidden mansion, and met with a mysterious woman who called herself Beatrice......:……隠し屋敷を見つけ、そこでベアトリーチェと名乗る謎の女に出会った……。}`
-`{ruby:"......But that forest is so thick it's hard just to move around in it.":「……ほんの少し、分け入ることすら難しいあの深い森を？」}`
+`{ruby:"I took it very hard when I found out that:「家庭教師が、私の内緒話を母に告げ口}{ruby:my tutor had told Mother about something I'd shared in confidence.:していたのにショックを受けて。}`
+`{ruby:I lost control of myself:あの日、私は自暴自棄になって、森の奥へ}{ruby:and ran deep into the forest.":奥へ、どこまでも駆けていったの」}`
+`{ruby:This tale had also been:それは過去のカケラでも}{ruby:told in a previous fragment.:語られた物語だ。}`
+`{ruby:Back when Rosa was just a kid,:かつて子供だった頃の楼座は、}{ruby:she had gone deep into the forest,:森の奥深くへ入り込み、}`
+`{ruby:......found a hidden mansion, and met with:……隠し屋敷を見つけ、そこでベアトリー}{ruby:a mysterious woman who called herself Beatrice......:チェと名乗る謎の女に出会った……。}`
+`{ruby:"......But that forest is so thick it's:「……ほんの少し、分け入ること}{ruby:hard just to move around in it.":すら難しいあの深い森を？」}`
 `{ruby:"I even surprised myself......:「自分でも驚くわ……。}`
-`{ruby:To think that I made it so far into such a dense forest.:あんな鬱蒼とした森を、よくもあんなに深くまで。}`
-`{ruby:......I was tormented by twigs and sharp leaves over and over again.":……たくさんの梢や鋭い葉っぱで苛まれたわ」}`
-`{ruby:"However, that wasn't enough to bother me on that day.:「でも、あの日の私は気にしなかった。}`
-`{ruby:......After all, I wanted to disappear into the forest and vanish forever.:……森の奥へ消えることで、永遠に消えてしまいたかったし。}`
-`{ruby:......If, by some chance, there really was a witch's mansion in the depths of the forest,:……もし、本当に森の奥に魔女の館があったなら、}`
-`{ruby:......I hoped that she might take me to the land of happiness, or else turn me into a frog and make me a resident of the forest.":……自分を幸せの国へ連れて行ってくれるか、蛙にでも変えて、森の住人に変えてくれると思っていたから」}`
-`{ruby:"So, you then reached the hidden mansion, Kuwadorian,:「そしてあんたは、隠し屋敷、九羽鳥庵に辿り着き、}`
-`{ruby:and met a woman who called herself Beatrice.":そこでベアトリーチェと名乗る女と出会う」}`
+`{ruby:To think that I made it:あんな鬱蒼とした森を、よく}{ruby:so far into such a dense forest.:もあんなに深くまで。}`
+`{ruby:......I was tormented by twigs and:……たくさんの梢や鋭い葉}{ruby:sharp leaves over and over again.":っぱで苛まれたわ」}`
+`{ruby:"However, that wasn't enough to:「でも、あの日の私は}{ruby:bother me on that day.:気にしなかった。}`
+`{ruby:......After all, I wanted to disappear:……森の奥へ消えることで、永遠}{ruby:into the forest and vanish forever.:に消えてしまいたかったし。}`
+`{ruby:......If, by some chance, there really was a:……もし、本当に森の奥に魔}{ruby:witch's mansion in the depths of the forest,:女の館があったなら、}`
+`{ruby:......I hoped that she might take me to the land of happiness, or:……自分を幸せの国へ連れて行ってくれるか、蛙にでも変}{ruby:else turn me into a frog and make me a resident of the forest.":えて、森の住人に変えてくれると思っていたから」}`
+`{ruby:"So, you then reached:「そしてあんたは、隠し屋敷}{ruby:the hidden mansion, Kuwadorian,:、九羽鳥庵に辿り着き、}`
+`{ruby:and met a woman:そこでベアトリーチェと}{ruby:who called herself Beatrice.":名乗る女と出会う」}`
 `{ruby:".........Yes.:「………えぇ。}`
 `{ruby:I did.":会ったわ」}`
-`{ruby:"Was that Beatrice the same as the one in the portrait?":「そのベアトリーチェは、肖像画のベアトリーチェと同一人物だったか」}`
+`{ruby:"Was that Beatrice the same:「そのベアトリーチェは、肖像画のベア}{ruby:as the one in the portrait?":トリーチェと同一人物だったか」}`
 `{ruby:"........................:「……………………。}`
 `{ruby:......Yes.:………えぇ。}`
 `{ruby:They were the same person.":同一人物だったわ」}`
 `{ruby:"Beautiful blue eyes.:「美しい青い瞳。}`
 `{ruby:Golden hair.:黄金の髪。}`
 `{ruby:A black dress.:黒いドレス。}`
-`{ruby:It truly was the subject of that portrait.:まさにあの肖像画通りの人物だった。}`
+`{ruby:It truly was the:まさにあの肖像画通り}{ruby:subject of that portrait.:の人物だった。}`
 `{ruby:......When Father first had it hung,:……私はあの肖像画をお父様が掲げた時、}`
-`{ruby:......I realized that the twenty years I had spent trying to forget must have seemed just as long for Father,:……私が忘れようと足掻いた２０年の月日は、お父様にとっても同じ、}`
-`{ruby:if not even longer, and I was wracked by even greater guilt...":あるいはそれ以上の日々であったと気付き、さらなる罪に怯えたわ…」}`
+`{ruby:......I realized that the twenty years I had spent trying:……私が忘れようと足掻いた２０年の}{ruby:to forget must have seemed just as long for Father,:月日は、お父様にとっても同じ、}`
+`{ruby:if not even longer, and I:あるいはそれ以上の日々であったと気}{ruby:was wracked by even greater guilt...":付き、さらなる罪に怯えたわ…」}`
 `{ruby:"Stop there.:「それ。}`
-`{ruby:......Are we sure that this is the same Beatrice that Rosa‐san met?":……本当に楼座さんの出会ったベアトリーチェのことなのかしら？」}`
-`{ruby:Immediately, Kyrie spoke the question that Will had been thinking of.:ウィルの疑問を、すぐに霧江が代弁する。}`
-`{ruby:It would be too rash to assume that the Beatrice Kinzo met...:金蔵が出会ったベアトリーチェと、}`
-`{ruby:was the same person as the one Rosa met.:楼座が出会ったベアトリーチェが同一人物であると考えるのは、早計なのだ。}`
-`{ruby:The time and generation were different for each.:時間。時代が、異なる。}`
-`{ruby:"Beatrice is supposed to be that lady of leisure who lent Dad all that gold shortly after the war, right?":「ベアトリーチェってのは、戦後すぐの頃、親父に黄金を貸し付けた有閑マダムのはずだぜ？」}`
-`{ruby:"Usin' Beatrice's gold as a foundation, Father revived the Ushiromiya family and got super rich.:「お父さんはベアトリーチェの黄金を元手に、右代宮家を復興して大金持ちになり。}`
-`{ruby:Then he bought Rokkenjima and moved over.:そして六軒島を買い取り移住するんや。}`
-`{ruby:Rosa‐san's meetin' must have been at least ten years after that.":楼座さんが出会ったのは、それから１０年以上も先の話になるで」}`
-`{ruby:"A woman with free control over ten tons of gold could hardly be some little girl.:「１０ｔの黄金を自在に出来るご夫人が、小娘程度のわけはない。}`
-`{ruby:And ten more years passed after that before she met Rosa.:ましてや、楼座が会った頃には、それからさらに１０年以上が経過してる。}`
+`{ruby:......Are we sure that this is:……本当に楼座さんの出会ったベアト}{ruby:the same Beatrice that Rosa‐san met?":リーチェのことなのかしら？」}`
+`{ruby:Immediately, Kyrie spoke the question:ウィルの疑問を、すぐに}{ruby:that Will had been thinking of.:霧江が代弁する。}`
+`{ruby:It would be too rash to:金蔵が出会ったベア}{ruby:assume that the Beatrice Kinzo met...:トリーチェと、}`
+`{ruby:was the same person:楼座が出会ったベアトリーチェが同一人物}{ruby:as the one Rosa met.:であると考えるのは、早計なのだ。}`
+`{ruby:The time and generation:時間。時代が、}{ruby:were different for each.:異なる。}`
+`{ruby:"Beatrice is supposed to be that lady of leisure who:「ベアトリーチェってのは、戦後すぐの頃、親父に}{ruby:lent Dad all that gold shortly after the war, right?":黄金を貸し付けた有閑マダムのはずだぜ？」}`
+`{ruby:"Usin' Beatrice's gold as a foundation, Father:「お父さんはベアトリーチェの黄金を元手に}{ruby:revived the Ushiromiya family and got super rich.:、右代宮家を復興して大金持ちになり。}`
+`{ruby:Then he bought:そして六軒島を買い取}{ruby:Rokkenjima and moved over.:り移住するんや。}`
+`{ruby:Rosa‐san's meetin' must have been:楼座さんが出会ったのは、それから}{ruby:at least ten years after that.":１０年以上も先の話になるで」}`
+`{ruby:"A woman with free control over ten tons:「１０ｔの黄金を自在に出来るご夫}{ruby:of gold could hardly be some little girl.:人が、小娘程度のわけはない。}`
+`{ruby:And ten more years passed:ましてや、楼座が会った頃には、それか}{ruby:after that before she met Rosa.:らさらに１０年以上が経過してる。}`
 `{ruby:...Rosa,:…楼座。}`
-`{ruby:about how old did the Beatrice you met look?":あんたの会ったベアトリーチェはいくつくらいに見えたのよ」}`
-`{ruby:"......She looked older than I was at the time,:「……当時の私よりは年上に見えたけれど、}`
-`{ruby:......but even so, it looked as though she might just be on the cusp of adulthood.:……それでも、……多分、成人したかどうかという歳に見えたわ。}`
-`{ruby:Yes, exactly the sort of age of the Beatrice in the portrait.":そう、まさに肖像画のベアトリーチェくらいの年齢よ」}`
-`{ruby:"Did she look middle‐aged or past her prime?":「中年、あるいは壮年に見えたか？」}`
-`{ruby:"If I had to call her an adult or a child, she was clearly closer to being a child.:「大人か子供かって言われたら、明らかに子供に近い年齢だったわ。}`
+`{ruby:about how old did:あんたの会ったベアトリーチェは}{ruby:the Beatrice you met look?":いくつくらいに見えたのよ」}`
+`{ruby:"......She looked older than:「……当時の私よりは年}{ruby:I was at the time,:上に見えたけれど、}`
+`{ruby:......but even so, it looked as though she:……それでも、……多分、成人した}{ruby:might just be on the cusp of adulthood.:かどうかという歳に見えたわ。}`
+`{ruby:Yes, exactly the sort of age:そう、まさに肖像画のベアトリ}{ruby:of the Beatrice in the portrait.":ーチェくらいの年齢よ」}`
+`{ruby:"Did she look middle‐aged:「中年、あるいは壮年}{ruby:or past her prime?":に見えたか？」}`
+`{ruby:"If I had to call her an adult or:「大人か子供かって言われたら、明ら}{ruby:a child, she was clearly closer to being a child.:かに子供に近い年齢だったわ。}`
 `{ruby:There's no way she was middle‐aged.":中年なんて、とんでもない」}`
 `{ruby:"And isn't that strange?:「だから、それじゃおかしいのよ。}`
-`{ruby:We have the Beatrice you met, and the Beatrice who gave Father the gold,:あんたの会ったベアトリーチェと、お父様に黄金を与えたベアトリーチェ。}`
+`{ruby:We have the Beatrice you met, and:あんたの会ったベアトリーチェと、お父}{ruby:the Beatrice who gave Father the gold,:様に黄金を与えたベアトリーチェ。}`
 `{ruby:but their ages don't match.":年齢が合わないのよぅ」}`
-`{ruby:"In other words, they're different people.":「つまり、別人ということだ」}`
-`{ruby:"Different people...who look very similar and have the same name......":「よく似た同じ名前の、別人……」}`
+`{ruby:"In other words,:「つまり、別人と}{ruby:they're different people.":いうことだ」}`
+`{ruby:"Different people...who look very similar:「よく似た同じ名前}{ruby:and have the same name......":の、別人……」}`
 `{ruby:"It might have been her daughter.:「娘、かもしれんな。}`
-`{ruby:It makes sense for them to look alike if they were mother and child.":親子なら、よく似とったに違いない」}`
+`{ruby:It makes sense for them to look:親子なら、よく似とっ}{ruby:alike if they were mother and child.":たに違いない」}`
 `{ruby:"His mistress's daughter......:「愛人の娘……。}`
 `{ruby:It is possible.:ありえるわ。}`
-`{ruby:Perhaps Father had an illegitimate child with the Beatrice who gave him the gold.":黄金を授けたベアトリーチェとの間に、お父さんは隠し子を儲けた……とか。」}`
-`{ruby:"So, the one Rosa bumped into was Beatrice II.:「それが、楼座の出会ったベアトリーチェ二世、ってわけか。}`
-`{ruby:......Makes those ages work out nicely.":……年齢的辻褄は合うな」}`
+`{ruby:Perhaps Father had an illegitimate child with:黄金を授けたベアトリーチェとの間に、お}{ruby:the Beatrice who gave him the gold.":父さんは隠し子を儲けた……とか。」}`
+`{ruby:"So, the one Rosa:「それが、楼座の出会ったベアト}{ruby:bumped into was Beatrice II.:リーチェ二世、ってわけか。}`
+`{ruby:......Makes those ages:……年齢的辻褄}{ruby:work out nicely.":は合うな」}`
 `{ruby:".................................":「……………………………」}`
 `{ruby:"I see......:「なるほど……。}`
-`{ruby:In other words, there are two people called Beatrice.":つまり、ベアトリーチェと呼ばれる人物は、二人いるわけですね」}`
-`{ruby:Kinzo secretly raised his mistress's child in a hidden mansion.:愛人の娘を、金蔵は隠し屋敷で密かに育てた。}`
+`{ruby:In other words, there:つまり、ベアトリーチェと呼ばれる}{ruby:are two people called Beatrice.":人物は、二人いるわけですね」}`
+`{ruby:Kinzo secretly raised his mistress's:愛人の娘を、金蔵は隠し屋}{ruby:child in a hidden mansion.:敷で密かに育てた。}`
 `{ruby:That would make logical sense.:筋の通る話だ。}`
 `{ruby:Everyone nodded, agreeing.:一同は頷き合い、納得する。}`
-`{ruby:......However, Will's expression was slightly unsatisfied, and he scratched at his head...:……しかしウィルは、わずかに釈然としない顔を浮かべ、頭をぼりぼりと掻く…。}`
-`{ruby:"So, it would seem that this funeral...:「どうやら、この葬儀は、}`
-`{ruby:exists for the two Beatrices he couldn't hold a ceremony for because he'd kept them secret......":隠したがゆえに弔うことが出来なかった二人のベアトリーチェのためのようですね……」}`
+`{ruby:......However, Will's expression was slightly unsatisfied,:……しかしウィルは、わずかに釈然としない}{ruby:and he scratched at his head...:顔を浮かべ、頭をぼりぼりと掻く…。}`
+`{ruby:"So, it would:「どうやら、こ}{ruby:seem that this funeral...:の葬儀は、}`
+`{ruby:exists for the two Beatrices he couldn't hold:隠したがゆえに弔うことが出来なかった二人の}{ruby:a ceremony for because he'd kept them secret......":ベアトリーチェのためのようですね……」}`
 `{ruby:"Rosa.:「楼座。}`
-`{ruby:I know you probably don't want to remember, but tell me about that accident.:思い出したくねぇだろうが、事故の時の話を頼む。}`
-`{ruby:After Beatrice fell, was she still breathing?":ベアトリーチェが転落した時、まだ息はあったのか」}`
+`{ruby:I know you probably don't want to:思い出したくねぇだろうが、}{ruby:remember, but tell me about that accident.:事故の時の話を頼む。}`
+`{ruby:After Beatrice fell,:ベアトリーチェが転落した時}{ruby:was she still breathing?":、まだ息はあったのか」}`
 `{ruby:"No.:「いいえ。}`
 `{ruby:......Her eyes were open wide.:……目を大きく見開いていた。}`
-`{ruby:She fell upside down, head first, and knocked her head against a sharp crag on the rocky beach.:頭から真っ逆さまに落ちて、岩浜の岩の、鋭い角に頭をぶつけて。}`
-`{ruby:And she fell from such a height......:それも、あの高さから……。}`
-`{ruby:............Her skull had split and caved inwards.:…………頭部は陥没して裂けてたわ。}`
-`{ruby:......That beautiful golden hair was stained red with blood almost instantly......":……美しい黄金の髪がみるみる内に赤黒く溢れる血に染められて……」}`
-`{ruby:"Was it the sort of wound that showed at a glance that she was undoubtedly dead?":「一目見て、死んだと確信できる外傷だったのか」}`
+`{ruby:She fell upside down, head first, and knocked her:頭から真っ逆さまに落ちて、岩浜の}{ruby:head against a sharp crag on the rocky beach.:岩の、鋭い角に頭をぶつけて。}`
+`{ruby:And she fell:それも、あの高さ}{ruby:from such a height......:から……。}`
+`{ruby:............Her skull had:…………頭部は陥没し}{ruby:split and caved inwards.:て裂けてたわ。}`
+`{ruby:......That beautiful golden hair was:……美しい黄金の髪がみるみる内に赤}{ruby:stained red with blood almost instantly......":黒く溢れる血に染められて……」}`
+`{ruby:"Was it the sort of wound that showed:「一目見て、死んだと確信で}{ruby:at a glance that she was undoubtedly dead?":きる外傷だったのか」}`
 `{ruby:"Yes.:「えぇ。}`
-`{ruby:I saw the insides of her cracked head!:割れた頭の中身を見たわ！}`
-`{ruby:It had caved in deep enough to fit your fist inside it...!:それも握り拳大に陥没して…！}`
-`{ruby:No one could be naive enough to see that and still hope she was alive!":あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」}`
+`{ruby:I saw the insides:割れた頭の中身}{ruby:of her cracked head!:を見たわ！}`
+`{ruby:It had caved in deep enough:それも握り拳大に陥}{ruby:to fit your fist inside it...!:没して…！}`
+`{ruby:No one could be naive enough to:あれを見て、生きてて欲しいなんて、幾}{ruby:see that and still hope she was alive!":らなんでも虫が良すぎるわ！」}`
 `{ruby:"......Will.:「……ウィル。}`
-`{ruby:Do you really need to ask anything more?":それ以上を聞く必要はありますか？」}`
-`{ruby:"That's enough for the time of the accident.:「事故時はもういい。}`
+`{ruby:Do you really need:それ以上を聞く必要は}{ruby:to ask anything more?":ありますか？」}`
+`{ruby:"That's enough for the:「事故時はも}{ruby:time of the accident.:ういい。}`
 `{ruby:What did you do afterwards?":それからあんたはどうした」}`
 `{ruby:"I dashed away at full speed.:「一目散に駆け出したわ。}`
-`{ruby:......I wasn't even thinking about calling for help.":……誰かを呼びに行くためなんて綺麗事でさえない」}`
-`{ruby:".........I wanted to escape from that place as fast as I could.:「………その場から一刻も早く逃げ出したかったの。}`
-`{ruby:Half‐crazed, sobbing, and out of breath, I kept on running about at random.:錯乱状態になりながら、涙と荒い息でめちゃくちゃになりながら、でたらめにどこまでも。}`
-`{ruby:......Eventually, I came across a familiar lion statue.":……そしたら、いつの間にか見知ったライオンの彫像に出くわしたわ」}`
+`{ruby:......I wasn't even thinking:……誰かを呼びに行くためな}{ruby:about calling for help.":んて綺麗事でさえない」}`
+`{ruby:".........I wanted to escape from that:「………その場から一刻も早}{ruby:place as fast as I could.:く逃げ出したかったの。}`
+`{ruby:Half‐crazed, sobbing, and out of breath,:錯乱状態になりながら、涙と荒い息でめちゃくち}{ruby:I kept on running about at random.:ゃになりながら、でたらめにどこまでも。}`
+`{ruby:......Eventually, I came across:……そしたら、いつの間にか見知った}{ruby:a familiar lion statue.":ライオンの彫像に出くわしたわ」}`
 `{ruby:"Oh, the one in front of the chapel?":「あぁ、礼拝堂の前の？」}`
 `{ruby:"No, the one behind it.:「いえ、裏のよ。}`
-`{ruby:......Anyway, I made it back to the mansion.:……とにかく、私は屋敷に帰りついた。}`
-`{ruby:I couldn't tell anyone, and I didn't want to.:誰にも話せない、話したくない。}`
+`{ruby:......Anyway, I made it:……とにかく、私は屋}{ruby:back to the mansion.:敷に帰りついた。}`
+`{ruby:I couldn't tell anyone,:誰にも話せない、話}{ruby:and I didn't want to.:したくない。}`
 `{ruby:I stayed quiet until nightfall.:私は夜まで黙っていたわ。}`
 `{ruby:It was so horrible of me.:酷い話よ。}`
-`{ruby:If I had hurried and told someone, they might have brought her a first aid kit, and she might have been saved......":急いで誰かに話し、救急箱を持って戻っていたら、彼女を助けられたかもしれないのに……」}`
-`{ruby:"How is a first aid kit going to help with a crushed cranium?:「頭蓋骨陥没を、救急箱の何で救えたってんだ。}`
+`{ruby:If I had hurried and told someone, they might have brought:急いで誰かに話し、救急箱を持って戻っていたら}{ruby:her a first aid kit, and she might have been saved......":、彼女を助けられたかもしれないのに……」}`
+`{ruby:"How is a first aid kit:「頭蓋骨陥没を、救急箱の}{ruby:going to help with a crushed cranium?:何で救えたってんだ。}`
 `{ruby:......You didn't kill her.:……お前が殺したわけじゃない。}`
 `{ruby:Don't worry about that anymore.":もう気にするな」}`
 `{ruby:"...........................":「………………………」}`
 `{ruby:"Then, ......what did you do next?":「それで、……楼座叔母さんはどうしたんですか」}`
-`{ruby:"......That night, I turned over in my bed so many times.:「……ベッドで何度も寝返りをうったわ。}`
+`{ruby:"......That night, I turned over:「……ベッドで何度も寝}{ruby:in my bed so many times.:返りをうったわ。}`
 `{ruby:I couldn't sleep.:眠れなかった。}`
 `{ruby:......Late that night, I quietly...:……深夜にこっそり、}`
-`{ruby:......called Genji‐san on the phone and told him...":………源次さんに電話して打ち明けたわ…」}`
+`{ruby:......called Genji‐san on the:………源次さんに電話し}{ruby:phone and told him...":て打ち明けたわ…」}`
 `{ruby:"......What did he say?":「……源次は何と言った？」}`
-`{ruby:"He told me to let him handle everything, and to speak of this to no one.:「自分に全て任せ、誰にもこのことは言わないようにと。}`
-`{ruby:......I spent the next several days terrified that Father would call for me and scold me brutally.":……後日、きっとお父様に呼び出されてひどく叱られるだろうと、数日の間、怯えたわ」}`
+`{ruby:"He told me to let him handle everything,:「自分に全て任せ、誰にもこの}{ruby:and to speak of this to no one.:ことは言わないようにと。}`
+`{ruby:......I spent the next several days terrified that:……後日、きっとお父様に呼び出されてひどく}{ruby:Father would call for me and scold me brutally.":叱られるだろうと、数日の間、怯えたわ」}`
 `{ruby:"But......he didn't.:「でも、……それはなかった。}`
-`{ruby:Genji‐san kept on doing his job quietly, just like normal.:源次さんはいつものように静々と仕事をする日々。}`
-`{ruby:......Father stayed locked up in his study, not knowing any of it......":……お父様は相変わらずの書斎篭りで、何もわからない……」}`
-`{ruby:"At the very least, none of us ever heard about it.":「少なくとも、私たちの耳には入らなかったわ」}`
-`{ruby:"......Genji‐san probably managed to clean everything up nicely.":「……源次さんが、うまく処理してくれたんだろうな」}`
-`{ruby:"After all, I expect they couldn't let knowledge of that child go public......":「表沙汰に出来ない子だったでしょうからね……」}`
+`{ruby:Genji‐san kept on doing his:源次さんはいつものように静}{ruby:job quietly, just like normal.:々と仕事をする日々。}`
+`{ruby:......Father stayed locked up in his:……お父様は相変わらずの書斎篭}{ruby:study, not knowing any of it......":りで、何もわからない……」}`
+`{ruby:"At the very least, none:「少なくとも、私たちの耳}{ruby:of us ever heard about it.":には入らなかったわ」}`
+`{ruby:"......Genji‐san probably managed to:「……源次さんが、うまく処理}{ruby:clean everything up nicely.":してくれたんだろうな」}`
+`{ruby:"After all, I expect they couldn't:「表沙汰に出来ない子だった}{ruby:let knowledge of that child go public......":でしょうからね……」}`
 `{ruby:"Hmmmmm......:「ふぅぅむ……。}`
-`{ruby:Even if she was an illegitimate child, she was his own flesh and blood.:隠し子っちゅうたって、血をわけた子供や。}`
-`{ruby:It must have been tough for Father, not bein' able to hold a real funeral for her......":その葬式もまともに挙げられんかったんなら、そら、お父さんも心苦しかったやろな……」}`
-`{ruby:".........I guess that's why we're having this funeral.":「………それが、この葬儀というわけですね」}`
+`{ruby:Even if she was an illegitimate child,:隠し子っちゅうたって、}{ruby:she was his own flesh and blood.:血をわけた子供や。}`
+`{ruby:It must have been tough for Father, not:その葬式もまともに挙げられんかったんなら、そ}{ruby:bein' able to hold a real funeral for her......":ら、お父さんも心苦しかったやろな……」}`
+`{ruby:".........I guess that's why:「………それが、この葬儀}{ruby:we're having this funeral.":というわけですね」}`
 `{ruby:"And then?":「それから？」}`
 `{ruby:"That's all I know.":「私が知っている話は、これで全てよ」}`
 `{ruby:".....................:「…………………。}`
@@ -341,42 +341,42 @@
 `{ruby:I've told you everything.:全て話した。}`
 `{ruby:......I swear it.":……誓うわ」}`
 `{ruby:"..............................":「…………………………」}`
-`{ruby:Will scratched at his head, letting his gaze wander.:ウィルは頭を掻きながら、目線をぼんやりと泳がせる。}`
-`{ruby:It had taken Rosa a lot of determination to make this confession, but it was nothing particularly special for Will.:楼座にとっては決意を伴う告白であっても、ウィルにとっては、そうではない。}`
-`{ruby:It had been little more than a review of information he already knew......:すでに知っている情報の、再確認になっただけのようだった……。}`
+`{ruby:Will scratched at his:ウィルは頭を掻きながら、目線}{ruby:head, letting his gaze wander.:をぼんやりと泳がせる。}`
+`{ruby:It had taken Rosa a lot of determination to make:楼座にとっては決意を伴う告白であっても}{ruby:this confession, but it was nothing particularly special for Will.:、ウィルにとっては、そうではない。}`
+`{ruby:It had been little more than:すでに知っている情報の、再確認に}{ruby:a review of information he already knew......:なっただけのようだった……。}`
 `{ruby:"Thanks, Aunt Rosa.:「ありがとう、楼座叔母さん。}`
-`{ruby:.........Is that enough for you, Will?:………充分ですか、ウィル？}`
+`{ruby:.........Is that enough:………充分ですか}{ruby:for you, Will?:、ウィル？}`
 `{ruby:Are you satisfied?":これで話は」}`
 `{ruby:"That's enough.:「充分だ。}`
 `{ruby:It was a nice review.":おさらいになった」}`
-`{ruby:To Will, Rosa's memories gave only information that was already known.:ウィルにとって、楼座の回想はすでに知っている話だ。}`
-`{ruby:This was the first time he'd heard all that about her running back to the mansion after Beatrice fell to her death,:ベアトリーチェの転落死後、屋敷へ逃げ帰った云々の行は初めて聞くものだが、}`
-`{ruby:but none of it was particularly surprising.:別に驚くべきものではなかった。}`
-`{ruby:Apparently, Rosa really didn't know any more than this......:やはり、楼座はこれ以上のことは何も知らないようだ……。}`
-`{ruby:If he wanted to learn something beyond the fragments given to him by {f:5:Bernkastel}, he would need to find new testimony.:ベルンカステルに与えられたカケラ以上のことを知るには、新しい証言を得なければならない。}`
+`{ruby:To Will, Rosa's memories gave:ウィルにとって、楼座の回想は}{ruby:only information that was already known.:すでに知っている話だ。}`
+`{ruby:This was the first time he'd heard all that about her:ベアトリーチェの転落死後、屋敷へ逃げ帰}{ruby:running back to the mansion after Beatrice fell to her death,:った云々の行は初めて聞くものだが、}`
+`{ruby:but none of:別に驚くべきもので}{ruby:it was particularly surprising.:はなかった。}`
+`{ruby:Apparently, Rosa really didn't:やはり、楼座はこれ以上のことは}{ruby:know any more than this......:何も知らないようだ……。}`
+`{ruby:If he wanted to learn something beyond the fragments given:ベルンカステルに与えられたカケラ以上のことを知}{ruby:to him by {f:5:Bernkastel}, he would need to find new testimony.:るには、新しい証言を得なければならない。}`
 `{ruby:"Lion.:「理御。}`
-`{ruby:Tell Kinzo that I want to talk to him.:金蔵に俺が話を聞きたがってると伝えろ。}`
-`{ruby:It looks like we won't get anywhere without asking the man himself.":やはり本人に聞かなきゃ、話は進まねェ」}`
+`{ruby:Tell Kinzo that I:金蔵に俺が話を聞きたが}{ruby:want to talk to him.:ってると伝えろ。}`
+`{ruby:It looks like we won't get:やはり本人に聞かなきゃ}{ruby:anywhere without asking the man himself.":、話は進まねェ」}`
 `{ruby:"Where are you going?":「あなたはどちらへ？」}`
-`{ruby:"......Off to cool my head and organize my thoughts.:「……頭を冷やして整理する。}`
+`{ruby:"......Off to cool my:「……頭を冷やし}{ruby:head and organize my thoughts.:て整理する。}`
 `{ruby:Don't follow me.":ついて来んな」}`
 `{ruby:"Well, pardon me for asking.:「それは失礼。}`
 `{ruby:Please take your time.":どうぞごゆっくり」}`
-`{ruby:After giving an elegant bow, Lion made a face, tongue sticking out.:理御は優雅に会釈をしてから、アッカンベ〜と、舌を大きく出す。}`
-`{ruby:Unless Will had eyes on the back of his head, he couldn't have seen this last bit......:ウィルの目が背中にない限り、それは彼の目には映らなかった……。}`
-`{ruby:Will returned to the chapel by himself.:ウィルはひとり、礼拝堂に戻ってくる。}`
-`{ruby:{n}The cold air and the monotonous sound of the rain were comforting.:{n}冷え切った空気と単調な雨の音が、心地良かった。}`
+`{ruby:After giving an elegant bow, Lion:理御は優雅に会釈をしてから、アッ}{ruby:made a face, tongue sticking out.:カンベ〜と、舌を大きく出す。}`
+`{ruby:Unless Will had eyes on the back of:ウィルの目が背中にない限り、それは}{ruby:his head, he couldn't have seen this last bit......:彼の目には映らなかった……。}`
+`{ruby:Will returned to:ウィルはひとり、礼拝}{ruby:the chapel by himself.:堂に戻ってくる。}`
+`{ruby:{n}The cold air and the monotonous:{n}冷え切った空気と単調な}{ruby:sound of the rain were comforting.:雨の音が、心地良かった。}`
 `{ruby:{a:c::{a:c:}`
 `{ruby:"......So, how's the game?"}:「……どう、ゲームは？」}}`
-`{ruby:And he had come here for a little peace and quiet...:静寂を好んでひとりになったはずなのに。}`
-`{ruby:No sooner had he let out a sigh of relief than that voice rang out.:ふぅっとウィルが一息をついた途端に、その声が響いた。}`
+`{ruby:And he had come here:静寂を好んでひとりにな}{ruby:for a little peace and quiet...:ったはずなのに。}`
+`{ruby:No sooner had he let out a:ふぅっとウィルが一息をついた}{ruby:sigh of relief than that voice rang out.:途端に、その声が響いた。}`
 `{ruby:"That's one for you to answer.":「それは俺が聞くことだ」}`
-`{ruby:It was as though she had been sitting there all along.:最初からそこに座っていたかのように。}`
-`{ruby:......{f:5:Bernkastel} appeared on top of the altar once more.:……ベルンカステルは再び、祭壇の上に現れる。}`
-`{ruby:Apparently, she found this particular altar extremely comfortable.:ベアトリーチェを悼む祭壇が、よほど座り心地がいいのだろう。}`
-`{ruby:"......Battler annoyed me over and over with his incompetence.:「……戦人は無能で、私を何度もイラつかせたわ。}`
-`{ruby:You're very competent compared to him, so it's a lot easier to relax.":それに比べ、あなたは有能だから、見ていて安心できるわ」}`
-`{ruby:"Unlike Ushiromiya Battler's games, I have nothing standing in my way.:「右代宮戦人の時と違い、誰の妨害もねェ。}`
+`{ruby:It was as though she:最初からそこに座って}{ruby:had been sitting there all along.:いたかのように。}`
+`{ruby:......{f:5:Bernkastel} appeared on top:……ベルンカステルは再び}{ruby:of the altar once more.:、祭壇の上に現れる。}`
+`{ruby:Apparently, she found this:ベアトリーチェを悼む祭壇が、よほ}{ruby:particular altar extremely comfortable.:ど座り心地がいいのだろう。}`
+`{ruby:"......Battler annoyed me over:「……戦人は無能で、私を何}{ruby:and over with his incompetence.:度もイラつかせたわ。}`
+`{ruby:You're very competent compared to him,:それに比べ、あなたは有能だから}{ruby:so it's a lot easier to relax.":、見ていて安心できるわ」}`
+`{ruby:"Unlike Ushiromiya Battler's games, I:「右代宮戦人の時と違い}{ruby:have nothing standing in my way.:、誰の妨害もねェ。}`
 `{ruby:It's easy.":気楽なもんさ」}`
 `{ruby:"That sort of game has already ended.:「もう、そういうゲームは終わったの。}`
 `{ruby:Tales can be enjoyed twice.:物語は二度楽しめるわ。}`
@@ -385,136 +385,136 @@
 `{ruby:......*giggle*giggle*.":……くすくすくすくす」}`
 `{ruby:"Tch. You think I'm a butcher?":「ちっ。俺を肉屋だと思ってやがる」}`
 `{ruby:"Well?:「どう？}`
-`{ruby:Do you think you know who killed {f:5:Beatrice}...?":ベアトリーチェ殺しの犯人はわかりそう…？」}`
-`{ruby:"Rosa's confession is something I already know from a previous fragment.:「楼座の告白は過去のカケラですでに知ってる。}`
+`{ruby:Do you think you:ベアトリーチェ殺しの犯人}{ruby:know who killed {f:5:Beatrice}...?":はわかりそう…？」}`
+`{ruby:"Rosa's confession is something I:「楼座の告白は過去のカケ}{ruby:already know from a previous fragment.:ラですでに知ってる。}`
 `{ruby:There was no brand new information.:真新しい情報はない。}`
 `{ruby:......We're still at square one.":……進展はゼロだ」}`
 `{ruby:"*giggle*giggle*......":「くすくすくすくす……」}`
-`{ruby:"Unless Ushiromiya Kinzo tells us what really happened, we won't get any further than this.:「右代宮金蔵が本当のことを喋らねぇ限り、これ以上の展開はねェ。}`
-`{ruby:Don't tell me that sweet‐talking Kinzo into spilling the beans...:まさか俺が、金蔵を口説き落として真相を告白させるってのも、}`
+`{ruby:"Unless Ushiromiya Kinzo tells us what really:「右代宮金蔵が本当のことを喋らねぇ}{ruby:happened, we won't get any further than this.:限り、これ以上の展開はねェ。}`
+`{ruby:Don't tell me that sweet‐talking:まさか俺が、金蔵を口説き落として}{ruby:Kinzo into spilling the beans...:真相を告白させるってのも、}`
 `{ruby:is all part and parcel of this game.":ゲームに含まれてるとは言い出さねぇだろうな」}`
 `{ruby:"If it were, I'd die of boredom.:「そんなの退屈で死んでしまうわ。}`
-`{ruby:......Kinzo refuses to speak of the truth and is himself the king protected by his castle,:……真実を語らぬ金蔵は、それ自体が城に守られたキングだけれど、}`
-`{ruby:but it wouldn't be any fun to have that stand in the way of your game...":あなたのゲームの障壁になってしまっては面白くない…」}`
+`{ruby:......Kinzo refuses to speak of the truth and:……真実を語らぬ金蔵は、それ自体が}{ruby:is himself the king protected by his castle,:城に守られたキングだけれど、}`
+`{ruby:but it wouldn't be any fun to have:あなたのゲームの障壁になって}{ruby:that stand in the way of your game...":しまっては面白くない…」}`
 `{ruby:"......I won't torture.:「……拷問はやらねェ。}`
 `{ruby:It's not my style.":俺の流儀だ」}`
 `{ruby:"I know that.:「わかってる。}`
-`{ruby:As the Game Master, I will grant you power.:ゲームマスターとして、あんたに力を与えるわ。}`
-`{ruby:So that you can get the truth from Kinzo, of course.":金蔵から真実を得られるようにね」}`
-`{ruby:Still wearing shoes, {f:5:Bernkastel} stepped into the casket, picked up one of the flowers that had been set as offerings,:ベルンカステルは土足のまま、棺の中に踏み込むと、献花されている薔薇の一本を拾い、}`
-`{ruby:......and blew hard, as though scattering fluff from a dandelion.:……たんぽぽの綿毛を散らすように、強く息を吹きかける。}`
-`{ruby:When she did, a single petal broke off and drifted down towards Will,:すると一枚の花びらが千切れ飛び、}`
-`{ruby:no longer gold, but with the shine of a transparent crystal......:それは黄金色ではなく、透き通った水晶の輝きを帯びながらウィルの方へ舞って来た…。}`
+`{ruby:As the Game Master,:ゲームマスターとして、あ}{ruby:I will grant you power.:んたに力を与えるわ。}`
+`{ruby:So that you can get:金蔵から真実を得ら}{ruby:the truth from Kinzo, of course.":れるようにね」}`
+`{ruby:Still wearing shoes, {f:5:Bernkastel} stepped into the casket, picked up:ベルンカステルは土足のまま、棺の中に踏み込}{ruby:one of the flowers that had been set as offerings,:むと、献花されている薔薇の一本を拾い、}`
+`{ruby:......and blew hard, as though:……たんぽぽの綿毛を散らすよう}{ruby:scattering fluff from a dandelion.:に、強く息を吹きかける。}`
+`{ruby:When she did, a single petal:すると一枚の花びら}{ruby:broke off and drifted down towards Will,:が千切れ飛び、}`
+`{ruby:no longer gold, but with:それは黄金色ではなく、透き通った水晶の輝き}{ruby:the shine of a transparent crystal......:を帯びながらウィルの方へ舞って来た…。}`
 `{ruby:"The "detective's authority"?":「“探偵権限”か」}`
-`{ruby:"Heh, what's {i:that} pathetic ability?:「ふっ、なぁに、その間抜けな能力。}`
+`{ruby:"Heh, what's:「ふっ、なぁに、その}{ruby:{i:that} pathetic ability?:間抜けな能力。}`
 `{ruby:......No.:……違うわ。}`
-`{ruby:This is your invitation to the auditorium.":それは観覧席への招待状よ」}`
+`{ruby:This is your:それは観覧席への}{ruby:invitation to the auditorium.":招待状よ」}`
 `{ruby:"......The "theatergoing authority"?:「……“観劇者権限”か。}`
-`{ruby:.........Granting that is supposed to be forbidden without authorization from the Senate.":………それを元老院の許可なく与えることは禁じられてるはず」}`
+`{ruby:.........Granting that is supposed to be:………それを元老院の許可なく与え}{ruby:forbidden without authorization from the Senate.":ることは禁じられてるはず」}`
 `{ruby:"I'm granting it. On my game board.:「私を。私のゲーム盤で。}`
 `{ruby:Who's going to stop me......?":誰が禁止すると……？」}`
 `{ruby:"............Hmph.":「…………ふん」}`
-`{ruby:Though the crystal flower petal danced in the wind, it wouldn't fly away anywhere until Will accepted it.:その水晶の花びらは、風に舞いながらも、ウィルが受け取るまで、どこへも飛び去らない。}`
-`{ruby:Will remembered how useless it was to argue with witches, and he snatched it up.:ウィルは魔女と議論する無駄さを思い出し、それを引っ手繰るように握り締める。}`
-`{ruby:When he did, the petal flashed brightly for an instant, melted into Will's palm, and disappeared...:すると花びらは一瞬だけ眩く輝き、ウィルの手の平に染み込んで消えた…。}`
+`{ruby:Though the crystal flower petal danced in the wind,:その水晶の花びらは、風に舞いながらも、ウィル}{ruby:it wouldn't fly away anywhere until Will accepted it.:が受け取るまで、どこへも飛び去らない。}`
+`{ruby:Will remembered how useless it was to:ウィルは魔女と議論する無駄さを思い出し、}{ruby:argue with witches, and he snatched it up.:それを引っ手繰るように握り締める。}`
+`{ruby:When he did, the petal flashed brightly for:すると花びらは一瞬だけ眩く輝き、ウィ}{ruby:an instant, melted into Will's palm, and disappeared...:ルの手の平に染み込んで消えた…。}`
 `{ruby:"Entertain me if you can.:「せいぜい私を楽しませなさい。}`
 `{ruby:And try and enjoy yourself.:ついでにあなたも楽しむといい。}`
-`{ruby:......You must also be interested in seeing what the guts of {f:5:Beatrice}'s game board look like, right?":……この、ベアトリーチェのゲーム盤のハラワタがどうなってるか、あんたも興味があるでしょう？」}`
+`{ruby:......You must also be interested in seeing what:……この、ベアトリーチェのゲーム盤のハラワタがど}{ruby:the guts of {f:5:Beatrice}'s game board look like, right?":うなってるか、あんたも興味があるでしょう？」}`
 `{ruby:"Not really.":「ねェよ」}`
 `{ruby:After Will's rude answer,:ウィルがぞんざいに答えると、}`
-`{ruby:{f:5:Bernkastel} vanished into thin air, leaving behind an obnoxious laugh......:ベルンカステルは耳障りな笑い声を残しながら、虚空に姿を消す……。}`
+`{ruby:{f:5:Bernkastel} vanished into thin air,:ベルンカステルは耳障りな笑い声を残}{ruby:leaving behind an obnoxious laugh......:しながら、虚空に姿を消す……。}`
 `{ruby:".........Tch.":「………ちっ」}`
-`{ruby:After clicking his tongue, Will turned around, visibly annoyed.:露骨な舌打ちを残し、ウィルは不愉快そうに背中を向ける。}`
-`{ruby:......When he did, it felt as though his gaze crossed that of a shadowy figure standing by the door in front of him that led outside.:……すると、真正面の、外への出口に立つ人影と、目が合った気がした。}`
+`{ruby:After clicking his tongue,:露骨な舌打ちを残し、ウィルは不}{ruby:Will turned around, visibly annoyed.:愉快そうに背中を向ける。}`
+`{ruby:......When he did, it felt as though his gaze crossed that of a:……すると、真正面の、外への出口に立}{ruby:shadowy figure standing by the door in front of him that led outside.:つ人影と、目が合った気がした。}`
 `{ruby:"Who's there?":「誰だ」}`
 `{ruby:"Ah, ......p‐pardon me...:「あ、……し、失礼しました…。}`
-`{ruby:I heard a voice, s‐...so I wondered who it was......":声が聞こえたので、ど、どちら様かと思いまして……」}`
+`{ruby:I heard a voice, s‐...so:声が聞こえたので、ど、どちら}{ruby:I wondered who it was......":様かと思いまして……」}`
 `{ruby:"Ah, Shannon.:「紗音か。}`
-`{ruby:So you're running the reception desk this time...?":今度はお前が受付をしているのか…？」}`
+`{ruby:So you're running the:今度はお前が受付をし}{ruby:reception desk this time...?":ているのか…？」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:I've been taking it in turns with Kanon‐kun to run the reception desk...":嘉音くんと交代で受付を担当させていただいております…」}`
+`{ruby:I've been taking it in turns:嘉音くんと交代で受付を担当させ}{ruby:with Kanon‐kun to run the reception desk...":ていただいております…」}`
 `{ruby:"And where is Kanon?":「嘉音は？」}`
-`{ruby:"A short while ago, he was ordered by......umm,:「先ほど、………えぇと、}`
-`{ruby:......L‐Lion‐sama to take a break, so he's resting now.":……り、理御さまに休みを取るようご命令を賜りましたので、今は休んでおります」}`
-`{ruby:".........So, you don't know Lion either?":「………お前も、理御に面識がないのか？」}`
+`{ruby:"A short while ago,:「先ほど、……}{ruby:he was ordered by......umm,:…えぇと、}`
+`{ruby:......L‐Lion‐sama to take a:……り、理御さまに休みを取るようご命令を}{ruby:break, so he's resting now.":賜りましたので、今は休んでおります」}`
+`{ruby:".........So, you don't:「………お前も、理御に}{ruby:know Lion either?":面識がないのか？」}`
 `{ruby:"Huh?:「えっ？}`
 `{ruby:......Of...course I...............":……いえ、そんな、……………」}`
-`{ruby:"Ushiromiya Lion is the successor to the head and the only one permitted the silver ring.:「右代宮理御は、銀の指輪を許された次期当主だ。}`
-`{ruby:......Why are you stumbling over that name when you've worked here for ten years?":……１０年を勤めたお前が、名前を言いよどむのはおかしい」}`
+`{ruby:"Ushiromiya Lion is the successor to the head:「右代宮理御は、銀の指輪を}{ruby:and the only one permitted the silver ring.:許された次期当主だ。}`
+`{ruby:......Why are you stumbling over that name:……１０年を勤めたお前が、名前}{ruby:when you've worked here for ten years?":を言いよどむのはおかしい」}`
 `{ruby:"Th‐...that's............":「そ、……それは…………」}`
 `{ruby:"Don't worry.:「安心しな。}`
 `{ruby:I don't recognize Lion either.:理御に面識がねぇのは俺もだ。}`
-`{ruby:......Krauss is supposed to be the successor to the head.:……次期当主は蔵臼のはず。}`
-`{ruby:Jessica is supposed to be his only child.:子供も朱志香だけのはずだ。}`
-`{ruby:There hasn't been a single fragment with anyone named Lion in the Ushiromiya family.":理御なんてヤツが右代宮家にいたカケラなんて、一つもなかったはず」}`
-`{ruby:Upon hearing that Will didn't recognize Lion either, Shannon looked back up at him in surprise.:ウィルにも面識がないことを知り、紗音は、はっと顔を上げる。}`
-`{ruby:Apparently, she was a bit relieved to find that she wasn't going crazy by herself.:自分だけがおかしいわけではないことがわかり、ほんの少し安堵したようだった。}`
-`{ruby:......However, her expression quickly grew uncertain once more.:……しかしその表情はすぐに、不安なものへと戻る。}`
+`{ruby:......Krauss is supposed to be:……次期当主は蔵}{ruby:the successor to the head.:臼のはず。}`
+`{ruby:Jessica is supposed to:子供も朱志香だけ}{ruby:be his only child.:のはずだ。}`
+`{ruby:There hasn't been a single fragment with:理御なんてヤツが右代宮家にいたカケ}{ruby:anyone named Lion in the Ushiromiya family.":ラなんて、一つもなかったはず」}`
+`{ruby:Upon hearing that Will didn't recognize Lion either,:ウィルにも面識がないことを知り、}{ruby:Shannon looked back up at him in surprise.:紗音は、はっと顔を上げる。}`
+`{ruby:Apparently, she was a bit relieved to:自分だけがおかしいわけではないことがわか}{ruby:find that she wasn't going crazy by herself.:り、ほんの少し安堵したようだった。}`
+`{ruby:......However, her expression quickly:……しかしその表情はすぐに}{ruby:grew uncertain once more.:、不安なものへと戻る。}`
 `{ruby:"Wh‐where......is this place...?:「こ、ここは、……どこなんでしょう…？}`
-`{ruby:I think it's the Ushiromiya family chapel.:右代宮家の、礼拝堂と思います。}`
-`{ruby:......However, something feels different about it.":……でも、どことなく雰囲気が違います」}`
-`{ruby:"Also, I never knew that someone named L‐......Lion‐sama existed.:「それに、り、……理御さまという方がおられたなんて、私、全然知りませんでした。}`
-`{ruby:......And yet, Madam, Krauss‐sama, ......the Master, Milady, and all the relatives all talk as though it's perfectly natural......:……なのに、旦那様も奥様も、……お館様もお嬢様も、親類の皆様も、当り前のようにお話をされています……。}`
-`{ruby:I just......don't understand what's happening......":何が何だか、……私、わからなくて……」}`
-`{ruby:"......Lion is a piece placed by {f:5:Bernkastel}.:「……理御はベルンカステルが置いた駒だ。}`
-`{ruby:She also said that she'd switched to a larger cat box to place that piece.:ヤツを置くために、さらに大きな猫箱に変えたとも言っていた。}`
-`{ruby:......On top of that, it seems this world isn't a proper world, but one made out of several different fragments sewn together.":……それだけでなく、どうもここは、いくつかのカケラが継ぎ接ぎして作られた、まともじゃない世界らしい」}`
-`{ruby:It's as though......this is a special stage set up specifically for this game.:さながら、……このゲームのためだけに設けられた特設舞台、ってとこか。}`
-`{ruby:......I'm sure she's nodding at my thoughts right now, laughing and chomping down popcorn.:……俺のこの独り言に、ポップコーンをボリボリさせながら、笑って頷いてるに違いない。}`
-`{ruby:"How long have you worked here in this world?":「この世界のお前は何年、ここに勤めている？」}`
+`{ruby:I think it's:右代宮家の、礼拝堂}{ruby:the Ushiromiya family chapel.:と思います。}`
+`{ruby:......However, something feels:……でも、どことなく雰}{ruby:different about it.":囲気が違います」}`
+`{ruby:"Also, I never knew:「それに、り、……理御さまという方がおられ}{ruby:that someone named L‐......Lion‐sama existed.:たなんて、私、全然知りませんでした。}`
+`{ruby:......And yet, Madam, Krauss‐sama, ......the Master, Milady, and all:……なのに、旦那様も奥様も、……お館様もお嬢様も、親類}{ruby:the relatives all talk as though it's perfectly natural......:の皆様も、当り前のようにお話をされています……。}`
+`{ruby:I just......don't:何が何だか、……私、わ}{ruby:understand what's happening......":からなくて……」}`
+`{ruby:"......Lion is a:「……理御はベルンカス}{ruby:piece placed by {f:5:Bernkastel}.:テルが置いた駒だ。}`
+`{ruby:She also said that she'd switched to:ヤツを置くために、さらに大きな猫}{ruby:a larger cat box to place that piece.:箱に変えたとも言っていた。}`
+`{ruby:......On top of that, it seems this world isn't a proper:……それだけでなく、どうもここは、いくつかのカケラが}{ruby:world, but one made out of several different fragments sewn together.":継ぎ接ぎして作られた、まともじゃない世界らしい」}`
+`{ruby:It's as though......this is a special:さながら、……このゲームのためだけに}{ruby:stage set up specifically for this game.:設けられた特設舞台、ってとこか。}`
+`{ruby:......I'm sure she's nodding at my thoughts:……俺のこの独り言に、ポップコーンをボリボリ}{ruby:right now, laughing and chomping down popcorn.:させながら、笑って頷いてるに違いない。}`
+`{ruby:"How long have you:「この世界のお前は何年、}{ruby:worked here in this world?":ここに勤めている？」}`
 `{ruby:"T‐......ten years.":「じゅ、……１０年です」}`
 `{ruby:I see.:なるほど。}`
 `{ruby:So it really is a special stage.:やはり特設舞台らしいな。}`
-`{ruby:After all, right when I entered the chapel, I spotted Kinzo.:なぜなら俺は、礼拝堂に入ってすぐに、金蔵の姿を目撃している。}`
-`{ruby:If Shannon has worked here for ten years, then this is 1986, the stage of Beato's game.:紗音が勤続１０年ということは、この世界はベアトのゲームの舞台である１９８６年だ。}`
+`{ruby:After all, right when I:なぜなら俺は、礼拝堂に入ってすぐ}{ruby:entered the chapel, I spotted Kinzo.:に、金蔵の姿を目撃している。}`
+`{ruby:If Shannon has worked here for ten years,:紗音が勤続１０年ということは、この世界はベ}{ruby:then this is 1986, the stage of Beato's game.:アトのゲームの舞台である１９８６年だ。}`
 `{ruby:In that case, Kinzo shouldn't exist.:ならば、金蔵が存在していてはおかしい。}`
-`{ruby:{n}However, he definitely was here a few minutes ago.:{n}しかし、さっき確かに金蔵はいた。}`
-`{ruby:{f:5:Bernkastel} promised that all of the information needed for reasoning was gathered here.:ベルンカステルは、推理のための情報は全てここに揃っていると約束した。}`
-`{ruby:She must have crammed all manner of stuff in here to make that true...:その全てを揃えるために、色々と詰め込んだらしいということだろう…。}`
-`{ruby:I see, so it really is a special stage.:なるほど、確かにこれは特設舞台だ。}`
-`{ruby:"You have served the Ushiromiya family for many years.:「お前はそれだけの長い間、右代宮家に仕えてた。}`
-`{ruby:So, just how much do you know about Beatrice?":なら、ベアトリーチェのことを、どれだけ知っている？」}`
-`{ruby:"......I know the Master loved her deeply, but other than that...":「……お館様が深く愛された方、くらいにしか…」}`
+`{ruby:{n}However, he definitely was:{n}しかし、さっき確}{ruby:here a few minutes ago.:かに金蔵はいた。}`
+`{ruby:{f:5:Bernkastel} promised that all of the:ベルンカステルは、推理のための情報は}{ruby:information needed for reasoning was gathered here.:全てここに揃っていると約束した。}`
+`{ruby:She must have crammed all manner of:その全てを揃えるために、色々と詰め込}{ruby:stuff in here to make that true...:んだらしいということだろう…。}`
+`{ruby:I see, so it:なるほど、確かにこれ}{ruby:really is a special stage.:は特設舞台だ。}`
+`{ruby:"You have served the:「お前はそれだけの長い間、}{ruby:Ushiromiya family for many years.:右代宮家に仕えてた。}`
+`{ruby:So, just how much:なら、ベアトリーチェのことを}{ruby:do you know about Beatrice?":、どれだけ知っている？」}`
+`{ruby:"......I know the Master loved:「……お館様が深く愛された}{ruby:her deeply, but other than that...":方、くらいにしか…」}`
 `{ruby:"Is that all?":「それだけか」}`
 `{ruby:"A‐and, umm,:「あ、あとその、}`
-`{ruby:.........they say that she's the master of Rokkenjima's night...:………六軒島の夜の主と言われていて}`
+`{ruby:.........they say that she's:………六軒島の夜の主}{ruby:the master of Rokkenjima's night...:と言われていて}`
 `{ruby:...umm...":……その…」}`
 `{ruby:"That's right.:「そうだ。}`
-`{ruby:The name of the ghost rumored to wander the mansion night after night is also {f:5:Beatrice}.":夜な夜な屋敷を徘徊すると囁かれる亡霊の名もまた、ベアトリーチェだ」}`
-`{ruby:That brings the number of Beatrices to three.:これで、ベアトリーチェは３人になった。}`
-`{ruby:The first is the "Beatrice" from more than thirty years ago, who is said to have given Kinzo the gold.:１つは、金蔵に黄金を授けたという、３０年以上前のベアトリーチェ。}`
-`{ruby:The second is the "Beatrice" from twenty years ago, who met Rosa.:１つは、楼座が出会ったという、２０年前のベアトリーチェ。}`
-`{ruby:The third is the "{f:5:Beatrice}" of the ghost stories, who is rumored to be the master of the night on Rokkenjima.:１つは、六軒島の夜を支配すると囁かれる、怪談としてのベアトリーチェ。}`
-`{ruby:"......Furudo Erika's reasoning was probably correct.:「……古戸ヱリカの推理は正しいだろう。}`
-`{ruby:It started out as the legend of the evil spirits on Rokkenjima.:元々、六軒島に存在した悪霊の伝説。}`
-`{ruby:Later on, elements such as Kinzo's occult hobbies, the name and portrait of the mysterious woman "Beatrice",:そこに金蔵のオカルト趣味と謎の女、ベアトリーチェの名前や肖像画、}`
-`{ruby:and the epitaph got mixed in, and it all fused into the legend of the Golden Witch.":碑文が次第に加味されていき、黄金の魔女伝説に統合された」}`
-`{ruby:"......And so the darkness of the night gained the personality of a witch.:「……そして夜の闇が、魔女という人格を得た。}`
+`{ruby:The name of the ghost rumored to wander:夜な夜な屋敷を徘徊すると囁かれる亡霊}{ruby:the mansion night after night is also {f:5:Beatrice}.":の名もまた、ベアトリーチェだ」}`
+`{ruby:That brings the number:これで、ベアトリーチェ}{ruby:of Beatrices to three.:は３人になった。}`
+`{ruby:The first is the "Beatrice" from more than thirty years:１つは、金蔵に黄金を授けたという、}{ruby:ago, who is said to have given Kinzo the gold.:３０年以上前のベアトリーチェ。}`
+`{ruby:The second is the "Beatrice" from:１つは、楼座が出会ったという、}{ruby:twenty years ago, who met Rosa.:２０年前のベアトリーチェ。}`
+`{ruby:The third is the "{f:5:Beatrice}" of the ghost stories, who:１つは、六軒島の夜を支配すると囁かれ}{ruby:is rumored to be the master of the night on Rokkenjima.:る、怪談としてのベアトリーチェ。}`
+`{ruby:"......Furudo Erika's reasoning:「……古戸ヱリカの推理}{ruby:was probably correct.:は正しいだろう。}`
+`{ruby:It started out as the legend:元々、六軒島に存在し}{ruby:of the evil spirits on Rokkenjima.:た悪霊の伝説。}`
+`{ruby:Later on, elements such as Kinzo's occult hobbies,:そこに金蔵のオカルト趣味と謎の女、}{ruby:the name and portrait of the mysterious woman "Beatrice",:ベアトリーチェの名前や肖像画、}`
+`{ruby:and the epitaph got mixed in, and it:碑文が次第に加味されていき、黄}{ruby:all fused into the legend of the Golden Witch.":金の魔女伝説に統合された」}`
+`{ruby:"......And so the darkness of the:「……そして夜の闇が、魔}{ruby:night gained the personality of a witch.:女という人格を得た。}`
 `{ruby:That's the third {f:5:Beatrice}.:それが３人目のベアトリーチェだ。}`
-`{ruby:This is the veil the serial killer hides behind.":それが、連続殺人犯のベールとなる」}`
+`{ruby:This is the veil:それが、連続殺人犯の}{ruby:the serial killer hides behind.":ベールとなる」}`
 `{ruby:"......Uh, umm...............":「……え、と、……………」}`
-`{ruby:Apparently, she didn't understand a word of Will's sudden monologue.:ウィルが唐突に言い出したことが、何一つ理解できないらしい。}`
-`{ruby:Shannon tried to follow along, but she seemed to be having difficulty.:紗音は何とか相槌を打とうと試みるのだが、難しいようだった。}`
-`{ruby:"Don't waste your time trying to understand.:「無理に理解するな。}`
+`{ruby:Apparently, she didn't understand a:ウィルが唐突に言い出したことが、}{ruby:word of Will's sudden monologue.:何一つ理解できないらしい。}`
+`{ruby:Shannon tried to follow along, but:紗音は何とか相槌を打とうと試みる}{ruby:she seemed to be having difficulty.:のだが、難しいようだった。}`
+`{ruby:"Don't waste your:「無理に理解}{ruby:time trying to understand.:するな。}`
 `{ruby:You'll just get a headache.":頭痛にならァ」}`
 `{ruby:"M‐my apologies......":「も、申し訳ございません……」}`
-`{ruby:"Kanon doesn't know Lion either, right?":「嘉音も、理御のことを知らないのか」}`
+`{ruby:"Kanon doesn't know:「嘉音も、理御のこと}{ruby:Lion either, right?":を知らないのか」}`
 `{ruby:"............Yes.:「…………はい。}`
 `{ruby:Kanon‐kun was the same as me.":嘉音くんも、私と同じでした」}`
 `{ruby:Shannon...and Kanon, huh.........:紗音と、嘉音、………か。}`
 `{ruby:".....................:「…………………。}`
-`{ruby:......Call Kanon over here. I want to talk to the pair of you about something.":……嘉音も呼んで、二人に話が聞きたい」}`
-`{ruby:When Will said these words, Shannon's face went blank and her eyes went wide.:ウィルのその言葉に、紗音はきょとんとした顔で、目を見開く。}`
+`{ruby:......Call Kanon over here. I want to:……嘉音も呼んで、二人}{ruby:talk to the pair of you about something.":に話が聞きたい」}`
+`{ruby:When Will said these words, Shannon's face:ウィルのその言葉に、紗音はきょと}{ruby:went blank and her eyes went wide.:んとした顔で、目を見開く。}`
 `{ruby:"My apologies.:「申し訳ございません。}`
-`{ruby:We aren't allowed to leave the reception desk unmanned, so I can't leave to go get him.":受付を空けることは許されておりませんので、私には呼びに行くことが出来ません」}`
-`{ruby:"Then find a replacement and have them take over the reception desk until you get back.:「なら、誰か代わりを呼んできて受付を代わらせる。}`
+`{ruby:We aren't allowed to leave the reception desk:受付を空けることは許されておりませんので}{ruby:unmanned, so I can't leave to go get him.":、私には呼びに行くことが出来ません」}`
+`{ruby:"Then find a replacement and have them take:「なら、誰か代わりを呼んで}{ruby:over the reception desk until you get back.:きて受付を代わらせる。}`
 `{ruby:You, me, and Kanon.:あんたと嘉音と俺。}`
-`{ruby:......We, the three people who don't know Lion, need to talk.":……理御を知らない三人で、一緒に、話がしたい」}`
-`{ruby:".......................................":「…………………………………」}`
+`{ruby:......We, the three people who:……理御を知らない三人で、}{ruby:don't know Lion, need to talk.":一緒に、話がしたい」}`
+`{ruby::「……………………}{ruby:".......................................":……………」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:"......We've been told that one person is enough to run the reception desk.":「……受付は１人でいいと、仰せつかっております」}`
-`{ruby:"But no one told you there was anything wrong with two people manning it, right?":「２人いちゃいけねぇとは言われてねぇはずだ」}`
-`{ruby:"We are low on helpers today, so we were told that the reception desk does not require two people manning it.":「本日は人手が足りませんので、受付に２人も不要と仰せです」}`
+`{ruby:"......We've been told that one person:「……受付は１人でいいと、}{ruby:is enough to run the reception desk.":仰せつかっております」}`
+`{ruby:"But no one told you there was:「２人いちゃいけねぇとは}{ruby:anything wrong with two people manning it, right?":言われてねぇはずだ」}`
+`{ruby:"We are low on helpers today, so we were told:「本日は人手が足りませんので、受}{ruby:that the reception desk does not require two people manning it.":付に２人も不要と仰せです」}`
 `{ruby:"Who gave you that order?:「誰がそう命じた。}`
 `{ruby:Kinzo? Krauss?:金蔵か。蔵臼か。}`
 `{ruby:Or was it Lion?:それとも理御か。}`
@@ -524,87 +524,87 @@
 `{ruby:"Who is this person?:「その命令権者は誰だ。}`
 `{ruby:I'll negotiate with them.":そいつに交渉する」}`
 `{ruby:"You cannot {f:5:negotiate}.:「交渉など、デキマセン。}`
-`{ruby:It i{f:5:s} the o{f:5:ne} who or{f:5:ders us}.":私たチの、命令権者デス」}`
+`{ruby:It i{f:5:s} the:私たチの、命令}{ruby:o{f:5:ne} who or{f:5:ders us}.":権者デス」}`
 `{ruby:"Call Kanon over here.:「ここへ嘉音を呼べ。}`
-`{ruby:......I hate theatergoing just as much as I hate torture.":……俺は拷問も観劇も嫌ェだ」}`
-`{ruby:Slowly, ......Will pulled his right hand out of his pocket.:ウィルはゆっくりと、……ポケットから右手を引き抜く。}`
+`{ruby:......I hate theatergoing just as:……俺は拷問も観}{ruby:much as I hate torture.":劇も嫌ェだ」}`
+`{ruby:Slowly, ......Will pulled his right:ウィルはゆっくりと、……ポケ}{ruby:hand out of his pocket.:ットから右手を引き抜く。}`
 `{ruby:When he slowly opened his fist,:その右手の拳をゆっくり開くと、}`
-`{ruby:.........a small, bright glow emanated from it.:………そこには、小さく眩しい輝きが放たれている。}`
-`{ruby:The flower petal {f:5:Bernkastel} had given him had become a glowing birthmark, which sparkled......:ベルンカステルが与えた、あの花びらが光る痣となって、輝いている……。}`
-`{ruby:He held that hand out towards Shannon......and slowly approached her.:その手を紗音にかざし、……ゆっくりと近付いていく。}`
+`{ruby:.........a small, bright:………そこには、小さく眩し}{ruby:glow emanated from it.:い輝きが放たれている。}`
+`{ruby:The flower petal {f:5:Bernkastel} had given him:ベルンカステルが与えた、あの花びらが}{ruby:had become a glowing birthmark, which sparkled......:光る痣となって、輝いている……。}`
+`{ruby:He held that hand out:その手を紗音にかざし、……ゆ}{ruby:towards Shannon......and slowly approached her.:っくりと近付いていく。}`
 `{ruby:"Call Kanon.:「嘉音を呼べ。}`
-`{ruby:I want to check something with you two.":お前たちに確かめたいことがある」}`
-`{ruby:"{f:5:I ca  nnot call him. Do you sti  ll wish for me to do so}......?":「オ呼ビデ　キマセン。ソレデモナ　オ、ソレヲゴ希望デ　スカ……？」}`
-`{ruby:"If you don't call him, I'm going to "watch your play".":「呼ばねぇなら、お前を“観劇”する」}`
-`{ruby:"{f:5:If you insi  st, ......I can c al   l him especi ally}...":「ドウシ　テモト仰　ルノデシタ　ラ、……特　別ニオ　呼ビス　ルコ　トモ出　来マ　ス　　ガ　　　？」}`
+`{ruby:I want to check:お前たちに確かめた}{ruby:something with you two.":いことがある」}`
+`{ruby:"{f:5:I ca  nnot call him. Do you:「オ呼ビデ　キマセン。ソレデモナ　オ}{ruby:sti  ll wish for me to do so}......?":、ソレヲゴ希望デ　スカ……？」}`
+`{ruby:"If you don't call him,:「呼ばねぇなら、お前}{ruby:I'm going to "watch your play".":を“観劇”する」}`
+`{ruby:"{f:5:If you insi  st, ......I can:「ドウシ　テモト仰　ルノデシタ　ラ、……特　別ニオ　}{ruby:c al   l him especi ally}...":呼ビス　ルコ　トモ出　来マ　ス　　ガ　　　？」}`
 `{ruby:"..............................":「…………………………」}`
-`{ruby:"                                                            .":「　　　　　　　　　　　　　　　」}`
-`{ruby:There was some kind of incomprehensible tension between the two.:二人の間に、理解不能な緊張が張り詰める。}`
-`{ruby:Will stood there, his left hand still in his pocket and his right palm glowing and stretched out towards her.:ウィルは、左手をポケットに突っ込んだまま、輝きを見せる右手の手の平をかざして立つ。}`
-`{ruby:Shannon just stood there, her hands still folded politely in front of her,:紗音は、両手を行儀良く前で組んだまま、}`
+`{ruby:"                             :「　　　　　　　　　}{ruby:                              .":　　　　　　」}`
+`{ruby:There was some kind of:二人の間に、理解不能な}{ruby:incomprehensible tension between the two.:緊張が張り詰める。}`
+`{ruby:Will stood there, his left hand still in his pocket:ウィルは、左手をポケットに突っ込んだまま、輝}{ruby:and his right palm glowing and stretched out towards her.:きを見せる右手の手の平をかざして立つ。}`
+`{ruby:Shannon just stood there, her hands:紗音は、両手を行儀良く}{ruby:still folded politely in front of her,:前で組んだまま、}`
 `{ruby:......her posture beautiful.:……美しい姿勢でただ、立っている。}`
-`{ruby:And yet, ......it felt oddly as though raindrops were sparking and crackling in midair......:なのに、……風雨の雨粒が、宙で弾けるような錯覚さえ、覚えてしまう……。}`
-`{ruby:"{o:0:{e:85:{f:0:{g:0:{m:6:I WI}{m:15:LLNO}{m:31:WCA}{m:0:LL KAN}{m:21:ON‐K}{m:22:UN.}}}}}":「嘉　音ク　　ン　　ヲ、　　呼　　ンデ　マ　イリマ　　　ス　ガ」}`
-`{ruby:"{o:0:{e:85:{f:0:{g:0:{m:13:DO YO}{m:26:U WI}{m:4:SH T}{m:41:O PRO}{m:71:CEED?}}}}}":「ヨ　　ロ　シ　イデ　　　　　　ス　　　　カ　　　　　　　　？」}`
+`{ruby:And yet, ......it felt oddly as though:なのに、……風雨の雨粒が、宙で弾けるよ}{ruby:raindrops were sparking and crackling in midair......:うな錯覚さえ、覚えてしまう……。}`
+`{ruby:"{o:0:{e:85:{f:0:{g:0:{m:6:I:「嘉　音ク　　ン　　ヲ、　　呼　　}{ruby:WI}{m:15:LLNO}{m:31:WCA}{m:0:LL KAN}{m:21:ON‐K}{m:22:UN.}}}}}":ンデ　マ　イリマ　　　ス　ガ」}`
+`{ruby:"{o:0:{e:85:{f:0:{g:0:{m:13:DO YO}{m:26:U:「ヨ　　ロ　シ　イデ　　　　　　ス}{ruby:WI}{m:4:SH T}{m:41:O PRO}{m:71:CEED?}}}}}":　　　　カ　　　　　　　　？」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:Will's expression had remained unchanged the whole time.:ウィルの顔は、最初から何も変わらない。}`
-`{ruby:{n}Shannon's face was still kind and gentle.:{n}紗音の顔も、やさしく、穏やかなままだ。}`
-`{ruby:And yet, the tension was as icy as a frozen lake...:なのに、緊張感が、凍結した湖面のように張り詰める…。}`
-`{ruby:......Beginners in chess will sometimes move their king into check without noticing.:……チェスの初心者は時に、不注意にも、相手の射線に気付かずに、そこへキングを動かしてしまうことがある。}`
-`{ruby:One might mercilessly capture the king in such a situation, ......but high‐level players are supposed to calmly warn beginners about their mistake.:それを容赦なく取っても良いが、……上級者はそれをさり気なく教えてやるべきだ。}`
+`{ruby:Will's expression had remained:ウィルの顔は、最初から}{ruby:unchanged the whole time.:何も変わらない。}`
+`{ruby:{n}Shannon's face was:{n}紗音の顔も、やさし}{ruby:still kind and gentle.:く、穏やかなままだ。}`
+`{ruby:And yet, the tension was:なのに、緊張感が、凍結した湖}{ruby:as icy as a frozen lake...:面のように張り詰める…。}`
+`{ruby:......Beginners in chess will sometimes move:……チェスの初心者は時に、不注意にも、相手の射線に気付}{ruby:their king into check without noticing.:かずに、そこへキングを動かしてしまうことがある。}`
+`{ruby:One might mercilessly capture the king in such a situation, ......but:それを容赦なく取っても良いが、……上級者}{ruby:high‐level players are supposed to calmly warn beginners about their mistake.:はそれをさり気なく教えてやるべきだ。}`
 `{ruby:"If you take one more step,:もう一歩、踏み込むと、}`
 `{ruby:......you'll get captured.":……取られてしまいますよ、と。}`
-`{ruby:This was......similar to that.........:これは、……それに、……似る………。}`
+`{ruby:This was......similar:これは、……それに、}{ruby:to that.........:……似る………。}`
 `{ruby:".................................":「……………………………」}`
 `{ruby:......I see.:……なるほどな。}`
 `{ruby:So, after all......:やはり、か………。}`
 `{ruby:"I get it.:「もうわかった。}`
 `{ruby:That's enough.:充分だ。}`
-`{ruby:.........You guys can take it in turns to run the reception desk.":………二人で交代で、受付を頼む」}`
+`{ruby:.........You guys can take it in:………二人で交代で}{ruby:turns to run the reception desk.":、受付を頼む」}`
 `{ruby:Slowly, ......Will lowered his hand.:ウィルは、ゆっくりと、……かざしていた手を下げる。}`
 `{ruby:"Thank you for understanding.":「ご理解いただけまして、助かります」}`
-`{ruby:The glow slowly vanished from Will's palm.:ウィルの手の平の輝きはゆっくり失われる。}`
-`{ruby:That completely incomprehensible tension melted away...:まったく理解の出来ない緊張も、角砂糖が溶けるかのように、}`
+`{ruby:The glow slowly:ウィルの手の平の輝きは}{ruby:vanished from Will's palm.:ゆっくり失われる。}`
+`{ruby:That completely incomprehensible:まったく理解の出来ない緊張も、}{ruby:tension melted away...:角砂糖が溶けるかのように、}`
 `{ruby:...like a sugar cube in water.:……ゆっくりと溶けて形を崩した。}`
-`{ruby:However, nothing had changed since the beginning.:でも、最初から何も変わらない。}`
-`{ruby:Will's expression and Shannon's expression......were the same as they always had been.:ウィルの表情も紗音の表情も、……最初から何も変わらない。}`
+`{ruby:However, nothing had:でも、最初から何も}{ruby:changed since the beginning.:変わらない。}`
+`{ruby:Will's expression and Shannon's expression......were the:ウィルの表情も紗音の表情も、…}{ruby:same as they always had been.:…最初から何も変わらない。}`
 `{ruby:"Oh, are you leaving?":「おや、お帰りですか？」}`
 `{ruby:Footsteps approached them.:足音が近付いてくる。}`
 `{ruby:It was Lion.:理御だった。}`
 `{ruby:"I'm just standing here, talking.:「立ち話をしていただけだ。}`
 `{ruby:I wanted to ask her something.":こいつに、聞きたかったことがあったんでな」}`
 `{ruby:"......What could that be?:「……それは何でしょう。}`
-`{ruby:Did you find what you were looking for?":そしてそれは、得られましたか？」}`
+`{ruby:Did you find what:そしてそれは、得ら}{ruby:you were looking for?":れましたか？」}`
 `{ruby:".....................:「…………………。}`
 `{ruby:Yeah.":あぁ」}`
-`{ruby:"I'm honored to have been of service.":「お役に立てて、光栄です」}`
+`{ruby:"I'm honored to:「お役に立てて、}{ruby:have been of service.":光栄です」}`
 `{ruby:"........................":「……………………」}`
 `{ruby:"That's a shame.:「それは残念。}`
-`{ruby:If you were looking for an umbrella, I could have gotten you one right away.":傘をお探しのようでしたら、すぐにでもご用意させましたのに」}`
+`{ruby:If you were looking for an umbrella,:傘をお探しのようでしたら、すぐに}{ruby:I could have gotten you one right away.":でもご用意させましたのに」}`
 `{ruby:"Did you convince Kinzo?":「金蔵に話はついたのか」}`
-`{ruby:"......I told him that a rare guest wanted to greet him.:「……珍しい客人が、挨拶をしたがっていると伝えました。}`
+`{ruby:"......I told him that a:「……珍しい客人が、挨拶をした}{ruby:rare guest wanted to greet him.:がっていると伝えました。}`
 `{ruby:He says he'll meet with you.":お会いするそうです」}`
-`{ruby:"Did you tell him that I wanted to ask about Beatrice?":「ベアトリーチェのことを聞きたいとは、伝えたのか」}`
+`{ruby:"Did you tell him that:「ベアトリーチェのことを聞き}{ruby:I wanted to ask about Beatrice?":たいとは、伝えたのか」}`
 `{ruby:"Isn't that your job?":「それはあなたの仕事でしょう？」}`
-`{ruby:With a slightly mischievous look, Lion turned away.:ちょっぴりだけ意地悪そうな表情を見せて、理御はそっぽを向く。}`
-`{ruby:Will scratched his head and shrugged, looking annoyed.:ウィルは面倒臭そうに、頭をばりばりと掻きながら肩を竦める。}`
+`{ruby:With a slightly mischievous:ちょっぴりだけ意地悪そうな表情を}{ruby:look, Lion turned away.:見せて、理御はそっぽを向く。}`
+`{ruby:Will scratched his head:ウィルは面倒臭そうに、頭をばりば}{ruby:and shrugged, looking annoyed.:りと掻きながら肩を竦める。}`
 `{ruby:".........Ah, well.:「………まぁいいさ。}`
-`{ruby:Guess I'll get a chance to try this out.":こいつを試すだけの話だ」}`
-`{ruby:Will opened his right hand and showed it to Lion.:ウィルは右手を開いて、理御に見せる。}`
-`{ruby:It was just a hand, without anything remotely remarkable about it.:何の変哲もない、ただの右手。}`
-`{ruby:Lion's head tilted to the side in bafflement at this strange gesture.:それを見せる仕草に何の意味があるのか、理御は小首を傾げなければならなかった。}`
+`{ruby:Guess I'll get a:こいつを試すだ}{ruby:chance to try this out.":けの話だ」}`
+`{ruby:Will opened his right hand:ウィルは右手を開いて}{ruby:and showed it to Lion.:、理御に見せる。}`
+`{ruby:It was just a hand,:何の変哲もない、}{ruby:without anything remotely remarkable about it.:ただの右手。}`
+`{ruby:Lion's head tilted to the side:それを見せる仕草に何の意味があるのか、理}{ruby:in bafflement at this strange gesture.:御は小首を傾げなければならなかった。}`
 `{ruby:"Good work.:「ご苦労様です。}`
 `{ruby:......Umm,:……えぇと、}`
 `{ruby:......your name was......":……君の名前は確か……」}`
 `{ruby:"It's Shannon.":「紗音です」}`
 `{ruby:"That's right, Shannon.:「そうだった、紗音でしたね。}`
-`{ruby:Please continue manning the reception desk.:引き続き、受付をよろしく頼みます。}`
+`{ruby:Please continue manning:引き続き、受付をよろ}{ruby:the reception desk.:しく頼みます。}`
 `{ruby:Make sure you keep warm.":肩を冷やさないように」}`
 `{ruby:"Thank you very much, Lion‐sama.":「ありがとうございます、理御さま」}`
-`{ruby:Shannon bowed deeply in response to Lion's kind words.:理御の気遣いに、深々と頭を下げる紗音。}`
-`{ruby:There was not even a trace of tension in her manner...:そこには、先ほどの緊張感など、微塵ほどもなかった…。}`
+`{ruby:Shannon bowed deeply in:理御の気遣いに、深々と}{ruby:response to Lion's kind words.:頭を下げる紗音。}`
+`{ruby:There was not even a:そこには、先ほどの緊張感など}{ruby:trace of tension in her manner...:、微塵ほどもなかった…。}`
 `{ruby:"Let's go, Will.:「参りましょう、ウィル。}`
 `{ruby:You won't want to miss your chance.:せっかく時間を頂けたのです。}`
-`{ruby:......The head's mood changes quicker than the autumn sky.":……当主様の機嫌は、秋の空より変わりやすいですよ？」}`
+`{ruby:......The head's mood changes:……当主様の機嫌は、秋の空よ}{ruby:quicker than the autumn sky.":り変わりやすいですよ？」}`
 `{ruby:"Good luck.":「行ってらっしゃいませ」}`
 `{ruby:".........Let's go.":「………行くか」}`

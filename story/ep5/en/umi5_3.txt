@@ -1,577 +1,577 @@
-`{ruby:After dashing to her bedroom, Jessica answered the phone call that had been transferred there.:朱志香は自分の部屋に駆け戻ってくると、転送した電話を取る。}`
+`{ruby:After dashing to her bedroom, Jessica answered:朱志香は自分の部屋に駆け戻ってく}{ruby:the phone call that had been transferred there.:ると、転送した電話を取る。}`
 `{ruby:"Ah, hello?!:「あーもしもし？！}`
 `{ruby:Sorry to keep you waiting!:お待たせー！}`
 `{ruby:Battle~r!:戦人ぁ〜！}`
-`{ruby:What d'ya think you're doing, not contacting us for six years?!:６年も音沙汰無しとはどういうつもりだ！}`
-`{ruby:How's it goi{-}i{-}i{-}i{-}i{-}i{-}i{-}ing?!:ひっさしぶりだなぁああ！}`
+`{ruby:What d'ya think you're doing,:６年も音沙汰無しとはど}{ruby:not contacting us for six years?!:ういうつもりだ！}`
+`{ruby:How's:ひっさしぶりだな}{ruby:it goi{-}i{-}i{-}i{-}i{-}i{-}i{-}ing?!:ぁああ！}`
 `{ruby:Oh, really?:ん、そうなのか？}`
 `{ruby:How the hell would I know?!:知るかよそんなの！}`
-`{ruby:Cram it, you jackass! Ahha{0}ha{0}ha{0}ha{0}ha{0}haha!:うぜーぜ！　あっははははははは！}`
-`{ruby:So you'll be coming to this year's family conference?:じゃあ、今年の親族会議はちゃんと来るわけだろ？}`
+`{ruby:Cram it,:うぜーぜ！　あっはは}{ruby:you jackass! Ahha{0}ha{0}ha{0}ha{0}ha{0}haha!:ははははは！}`
+`{ruby:So you'll be coming:じゃあ、今年の親族会議はち}{ruby:to this year's family conference?:ゃんと来るわけだろ？}`
 `{ruby:It's been six years!":６年ぶりだなぁ！」}`
-`{ruby:Five businessmen in expensive suits were visiting in the parlor,:客間には、高級スーツ姿の実業家が５人も訪れていて、}`
-`{ruby:giving Krauss and Natsuhi a progress report on their business.:蔵臼と夏妃に事業の進捗報告をしていた。}`
-`{ruby:Spread out on the table were the blueprints and designs for a building, as well as documents related to expenditures and the like...:テーブルの上には、ビルの図面や計画、収支などの資料が広げられ、}`
-`{ruby:so packed that even a tea cup would have gotten in the way.:紅茶のカップさえも邪魔だと言いたげだった。}`
-`{ruby:Officially, they were here to give Krauss a progress report,:表向きは蔵臼への進捗報告となっているが、}`
-`{ruby:......but in actuality, Krauss had called them all the way over to Rokkenjima so that Natsuhi could hear from them directly.:……実際は、蔵臼が夏妃に聞かせるために、彼らをわざわざ六軒島へ招いたのだった。}`
-`{ruby:This was because Natsuhi needed to hear someone other than her husband explain what condition their business was in.:夏妃に、事業がどういう状況にあるのか、蔵臼以外の人間から説明する必要が生じたためである。}`
-`{ruby:......In short, even though another family conference without Kinzo was approaching,:……つまり、金蔵不在の親族会議が、再び近付きつつあったにもかかわらず、}`
-`{ruby:their business had not yet earned them any money.:未だに事業はカネを生み出せずにいたのだ。}`
-`{ruby:After telling the guests to wait for a short while and make themselves at home,:蔵臼は、来客たちにしばしくつろぐように伝えると、}`
-`{ruby:Krauss took Natsuhi out into the hall and once again summarized the situation...:廊下に夏妃を連れ出し、状況を再び要約して説明した…。}`
-`{ruby:"......In short, they are saying that the business is proceeding much better than we imagined it would.:「……つまり、我々の想像をはるかに超えて、事業は素晴らしくうまく行っていると彼らは言っているのだ。}`
-`{ruby:This is where that personal connection between me and the governor is really starting to pay off!:ここで私と知事との私的なコネクションが大きく利いてきた！}`
-`{ruby:There is no possible way for this catch to get away from us now.:もはや絶対に釣り落とすことはない。}`
-`{ruby:To the contrary, it's growing so big that in one go, we'll be able to regain not just that power of attorney, but everything we've lost up to this point as well!":それどころか、例の委任状だけでなく、これまでの損失さえも一気に取り戻すことが可能なくらいの大きな話になりつつあるのだ！」}`
+`{ruby:Five businessmen in expensive suits:客間には、高級スーツ姿の実業}{ruby:were visiting in the parlor,:家が５人も訪れていて、}`
+`{ruby:giving Krauss and Natsuhi a:蔵臼と夏妃に事業の進捗}{ruby:progress report on their business.:報告をしていた。}`
+`{ruby:Spread out on the table were the blueprints and designs for:テーブルの上には、ビルの図面や計画}{ruby:a building, as well as documents related to expenditures and the like...:、収支などの資料が広げられ、}`
+`{ruby:so packed that even a tea:紅茶のカップさえも邪魔だ}{ruby:cup would have gotten in the way.:と言いたげだった。}`
+`{ruby:Officially, they were here to:表向きは蔵臼への進捗報}{ruby:give Krauss a progress report,:告となっているが、}`
+`{ruby:......but in actuality, Krauss had called them all the way:……実際は、蔵臼が夏妃に聞かせるために、彼}{ruby:over to Rokkenjima so that Natsuhi could hear from them directly.:らをわざわざ六軒島へ招いたのだった。}`
+`{ruby:This was because Natsuhi needed to hear someone other:夏妃に、事業がどういう状況にあるのか、蔵臼以外}{ruby:than her husband explain what condition their business was in.:の人間から説明する必要が生じたためである。}`
+`{ruby:......In short, even though another:……つまり、金蔵不在の親族会議が、再び}{ruby:family conference without Kinzo was approaching,:近付きつつあったにもかかわらず、}`
+`{ruby:their business had not:未だに事業はカネを生み}{ruby:yet earned them any money.:出せずにいたのだ。}`
+`{ruby:After telling the guests to wait for:蔵臼は、来客たちにしばしく}{ruby:a short while and make themselves at home,:つろぐように伝えると、}`
+`{ruby:Krauss took Natsuhi out into the:廊下に夏妃を連れ出し、状況を}{ruby:hall and once again summarized the situation...:再び要約して説明した…。}`
+`{ruby:"......In short, they are saying that the business:「……つまり、我々の想像をはるかに超えて、事業は素晴}{ruby:is proceeding much better than we imagined it would.:らしくうまく行っていると彼らは言っているのだ。}`
+`{ruby:This is where that personal connection between me:ここで私と知事との私的なコネク}{ruby:and the governor is really starting to pay off!:ションが大きく利いてきた！}`
+`{ruby:There is no possible way for this:もはや絶対に釣り落と}{ruby:catch to get away from us now.:すことはない。}`
+`{ruby:To the contrary, it's growing so big that in one go, we'll be able to regain:それどころか、例の委任状だけでなく、これまでの損失さえも一気に}{ruby:not just that power of attorney, but everything we've lost up to this point as well!":取り戻すことが可能なくらいの大きな話になりつつあるのだ！」}`
 `{ruby:Krauss spoke passionately.:蔵臼は熱っぽく語る。}`
-`{ruby:......This made things seem all the more suspicious to Natsuhi,:……むしろその仕草が胡散臭さを掻き立てるのだが、}`
-`{ruby:but this time, at least, she had to admit that everything really did seem to be going well.:今回に限り、実際に順調であることを夏妃も認めざるを得なかった。}`
-`{ruby:Certainly, this business Krauss boasted of had expanded in scope over the last year,:確かに蔵臼が豪語した事業は、この一年でさらに規模が大きくなり、}`
-`{ruby:and was promising an even greater payoff than had been anticipated in the beginning.:当初の見込みを大幅に上回る利益を約束しつつあった。}`
-`{ruby:Investors were gathering, jumping on the bandwagon of their own accord, and the business was rapidly gathering funds.:勝ち馬には放って置いても出資者が集まり、資金が見る見る集まる。}`
-`{ruby:It was a perfect example of the saying "money makes money".:カネがカネを呼ぶとはまさにこのことだろう。}`
-`{ruby:This was probably the greatest success of Krauss's life so far.:恐らく、蔵臼のこれまでの人生で、もっとも成功した、}`
-`{ruby:......No, it probably {i:would become} his greatest success yet.:……いや、成功する事業と{i:なる}だろう。}`
-`{ruby:That point was where Natsuhi's misgivings lay.:夏妃が危惧するのはその一点だった。}`
-`{ruby:True, it was certain, and as Krauss had said, they wouldn't lose this catch now.:確かに確実な話で、蔵臼が言うように、もはや釣り落とすことはない。}`
-`{ruby:However, .........the fish on the line had gotten too big.:しかし、………掛かった魚が大きくなり過ぎたのだ。}`
-`{ruby:"We'll definitely be able to reel this fish in.:「必ず釣り上げられる魚だ。}`
+`{ruby:......This made things seem all:……むしろその仕草が胡散臭}{ruby:the more suspicious to Natsuhi,:さを掻き立てるのだが、}`
+`{ruby:but this time, at least, she had to admit:今回に限り、実際に順調であることを}{ruby:that everything really did seem to be going well.:夏妃も認めざるを得なかった。}`
+`{ruby:Certainly, this business Krauss boasted of had:確かに蔵臼が豪語した事業は、この一}{ruby:expanded in scope over the last year,:年でさらに規模が大きくなり、}`
+`{ruby:and was promising an even greater payoff:当初の見込みを大幅に上回る利}{ruby:than had been anticipated in the beginning.:益を約束しつつあった。}`
+`{ruby:Investors were gathering, jumping on the bandwagon of their:勝ち馬には放って置いても出資者が集}{ruby:own accord, and the business was rapidly gathering funds.:まり、資金が見る見る集まる。}`
+`{ruby:It was a perfect example:カネがカネを呼ぶとはまさ}{ruby:of the saying "money makes money".:にこのことだろう。}`
+`{ruby:This was probably the greatest:恐らく、蔵臼のこれまでの人生}{ruby:success of Krauss's life so far.:で、もっとも成功した、}`
+`{ruby:......No, it probably {i:would:……いや、成功する事業と}{ruby:become} his greatest success yet.:{i:なる}だろう。}`
+`{ruby:That point was:夏妃が危惧するのはそ}{ruby:where Natsuhi's misgivings lay.:の一点だった。}`
+`{ruby:True, it was certain, and as Krauss:確かに確実な話で、蔵臼が言うように}{ruby:had said, they wouldn't lose this catch now.:、もはや釣り落とすことはない。}`
+`{ruby:However, .........the fish on the:しかし、………掛かった魚が}{ruby:line had gotten too big.:大きくなり過ぎたのだ。}`
+`{ruby:"We'll definitely be able:「必ず釣り上げら}{ruby:to reel this fish in.:れる魚だ。}`
 `{ruby:There's no need to rush.:何も焦る必要はないのだよ。}`
-`{ruby:It's such a success that I wish I could show it to Dad to be praised, if he were still alive...!":親父が生きていたなら、ぜひ見せて誇りたいほどの大成功なのだ…！」}`
+`{ruby:It's such a success that I wish I could show:親父が生きていたなら、ぜひ見せて誇}{ruby:it to Dad to be praised, if he were still alive...!":りたいほどの大成功なのだ…！」}`
 `{ruby:"Yes, I know.:「えぇ、それはわかっています。}`
-`{ruby:However, I believe you made me a promise last year.:ですが、あなたは昨年、私に約束したはずです。}`
-`{ruby:You said you were sure you could manage something within a year...!":必ず、１年で何とか出来ると…！」}`
+`{ruby:However, I believe you made:ですが、あなたは昨年、私}{ruby:me a promise last year.:に約束したはずです。}`
+`{ruby:You said you were sure you:必ず、１年で何とか}{ruby:could manage something within a year...!":出来ると…！」}`
 `{ruby:A pained look rose to Krauss's face.:蔵臼は苦い顔をする。}`
-`{ruby:They certainly had hooked a fat fish that guaranteed a great success.:大成果を保証する肥えた魚を、確かに彼らは釣ってはいる。}`
-`{ruby:However, it would require an appropriate amount of time to reel it in......:しかし、引き上げるには、それに相応しい時間が必要になるのだ……。}`
-`{ruby:Natsuhi pressed Krauss, asking if there was any way for them to make money before this year's family conference,:夏妃は何とか今年の親族会議までにカネを作れないのかと蔵臼を問い詰めるが、}`
-`{ruby:but Krauss kept saying that he needed just one more year...:蔵臼は、あともう１年だけ待って欲しいと繰り返す…。}`
-`{ruby:Krauss planned to use this unprecedented success...:蔵臼としては、この空前の成功を切っ掛けに、}`
+`{ruby:They certainly had hooked a fat:大成果を保証する肥えた魚を、確}{ruby:fish that guaranteed a great success.:かに彼らは釣ってはいる。}`
+`{ruby:However, it would require an appropriate:しかし、引き上げるには、それに相応}{ruby:amount of time to reel it in......:しい時間が必要になるのだ……。}`
+`{ruby:Natsuhi pressed Krauss, asking if there was any way:夏妃は何とか今年の親族会議までにカネを}{ruby:for them to make money before this year's family conference,:作れないのかと蔵臼を問い詰めるが、}`
+`{ruby:but Krauss kept saying that:蔵臼は、あともう１年だけ待っ}{ruby:he needed just one more year...:て欲しいと繰り返す…。}`
+`{ruby:Krauss planned to:蔵臼としては、この空前の}{ruby:use this unprecedented success...:成功を切っ掛けに、}`
 `{ruby:as a springboard to future endeavors.:未来の新しい挑戦への踏み台にしたいという目論見がある。}`
-`{ruby:Because of this, he didn't want to do anything that would raise suspicions by making it seem like they were rushing to get money...:そのため、おかしな金策で奔走していることで、妙な不信感を持たれたくないという気持ちがあるのだ…。}`
-`{ruby:Certainly, fortune tends to turn against people who take it for granted even in the slightest.:確かに、運気というのは小さなケチで転ぶこともある。}`
-`{ruby:{n}There's a saying about hasty anglers......:{n}急いては事を何とやら……。}`
-`{ruby:On many occasions before now, Krauss had gotten cold feet and sold businesses that would surely have brought in a profit had he just waited,:蔵臼はこれまで、じっくり待てば必ず利益が上げられた事業を、}`
-`{ruby:and had, in effect, given away his winning picks.:いくつも焦って清算し、自ら勝ち馬を降りるような真似をしてきた。}`
+`{ruby:Because of this, he didn't want to do anything that would raise:そのため、おかしな金策で奔走していることで、妙な不}{ruby:suspicions by making it seem like they were rushing to get money...:信感を持たれたくないという気持ちがあるのだ…。}`
+`{ruby:Certainly, fortune tends to turn against people who:確かに、運気というのは小さな}{ruby:take it for granted even in the slightest.:ケチで転ぶこともある。}`
+`{ruby:{n}There's a saying:{n}急いては事を}{ruby:about hasty anglers......:何とやら……。}`
+`{ruby:On many occasions before now, Krauss had gotten cold feet and sold:蔵臼はこれまで、じっくり待てば必}{ruby:businesses that would surely have brought in a profit had he just waited,:ず利益が上げられた事業を、}`
+`{ruby:and had, in effect,:いくつも焦って清算し、自ら勝ち馬を}{ruby:given away his winning picks.:降りるような真似をしてきた。}`
 `{ruby:Natsuhi also knew this.:夏妃もそれはわかっている。}`
-`{ruby:{n}She knew that guts were the thing her husband lacked most.:{n}夫にもっとも足りないものが胆力なのだとわかっている。}`
-`{ruby:That was why she was unable to refuse when Krauss said he wanted to prudently wait just one more year......:だからこそ、もう１年だけ慎重に行きたいと言う蔵臼のそれを、否定することが出来なかった……。}`
+`{ruby:{n}She knew that guts were:{n}夫にもっとも足りないものが}{ruby:the thing her husband lacked most.:胆力なのだとわかっている。}`
+`{ruby:That was why she was unable to refuse when Krauss:だからこそ、もう１年だけ慎重に行きたいと言う蔵臼}{ruby:said he wanted to prudently wait just one more year......:のそれを、否定することが出来なかった……。}`
 `{ruby:"......Hahahahahahahaha.:「……はっはははははは。}`
-`{ruby:So wonderful that things are going well.:順調で良かったではないか。}`
-`{ruby:And that means it looks like I'll have to sit around here as a ghost for a little longer.":ということはどうやら、私はもうしばらくここで幽霊を続けねばならぬようだな」}`
+`{ruby:So wonderful that:順調で良かったで}{ruby:things are going well.:はないか。}`
+`{ruby:And that means it looks like I'll have to:ということはどうやら、私はもうしばらくこ}{ruby:sit around here as a ghost for a little longer.":こで幽霊を続けねばならぬようだな」}`
 `{ruby:"You don't look too disappointed.:「まんざらでもなかろうが。}`
-`{ruby:Your life is fated to be chewed to bits by demons as soon as you leave this world.":そなたの命など、この世を去れば、すぐに悪魔どもに食い尽くされる運命よ」}`
+`{ruby:Your life is fated to be chewed to bits:そなたの命など、この世を去れば、すぐに}{ruby:by demons as soon as you leave this world.":悪魔どもに食い尽くされる運命よ」}`
 `{ruby:"......My apologies, Father.:「……申し訳ありません、お父様。}`
-`{ruby:...For another year, ...you might not be granted peace.":…また、今年も、…お父様にはお休みいただけないかもしれません」}`
+`{ruby:...For another year, ...you:…また、今年も、…お父様にはお休み}{ruby:might not be granted peace.":いただけないかもしれません」}`
 `{ruby:"It is fine. Do not worry, Natsuhi.:「良い。気にするな夏妃。}`
-`{ruby:I am no longer the Ushiromiya family head.:右代宮家当主はすでに私ではない。}`
-`{ruby:The ghost of the study should obediently follow the current head's commands.:書斎の幽霊は大人しく、現在の当主の命令に従うべきだ。}`
-`{ruby:......I've taken a look at Krauss's charts, and they aren't bad at all.":……蔵臼の資料は読ませてもらったが、なかなかに悪くない」}`
+`{ruby:I am no longer:右代宮家当主はすで}{ruby:the Ushiromiya family head.:に私ではない。}`
+`{ruby:The ghost of the study should:書斎の幽霊は大人しく、現在の}{ruby:obediently follow the current head's commands.:当主の命令に従うべきだ。}`
+`{ruby:......I've taken a look at Krauss's:……蔵臼の資料は読ませてもらっ}{ruby:charts, and they aren't bad at all.":たが、なかなかに悪くない」}`
 `{ruby:"Even from your perspective, Father?":「お父様からご覧になってもですか」}`
-`{ruby:"......Hmmm. They're pretty good even from my perspective.:「……ふむ。妾から見てもなかなかのものよ。}`
-`{ruby:Everyone is confident in his victory and concentrating a significant quantity of magical power.:誰もが勝利を確信し、相当の魔力が集中している。}`
-`{ruby:As a result, that victory is growing ever deeper, gathering more and more people and magical power, and beginning to create gold.:その結果、さらに勝利が厚くなり、ますますに人と魔力を集め、黄金を生み出そうとしている。}`
-`{ruby:A perfect embodiment of the classic method of alchemy.":錬金術の王道を見事に体現しているぞ」}`
+`{ruby:"......Hmmm. They're pretty good:「……ふむ。妾から見ても}{ruby:even from my perspective.:なかなかのものよ。}`
+`{ruby:Everyone is confident in his victory and:誰もが勝利を確信し、相当の}{ruby:concentrating a significant quantity of magical power.:魔力が集中している。}`
+`{ruby:As a result, that victory is growing ever deeper, gathering more:その結果、さらに勝利が厚くなり、ますますに人と}{ruby:and more people and magical power, and beginning to create gold.:魔力を集め、黄金を生み出そうとしている。}`
+`{ruby:A perfect embodiment of:錬金術の王道を見事に}{ruby:the classic method of alchemy.":体現しているぞ」}`
 `{ruby:"Hoh.:「ほぅ。}`
-`{ruby:If you've earned even the Golden Witch's approval, that is very reassuring.:黄金の魔女の太鼓判まで付くなら、これは心強い。}`
+`{ruby:If you've earned even the Golden:黄金の魔女の太鼓判まで付く}{ruby:Witch's approval, that is very reassuring.:なら、これは心強い。}`
 `{ruby:Be pleased, Natsuhi.:喜べ、夏妃。}`
-`{ruby:This business of Krauss's will save the Ushiromiya family from its crisis without fail.":この蔵臼の事業は、必ずや右代宮家の危機を救うだろう」}`
+`{ruby:This business of Krauss's will save the:この蔵臼の事業は、必ずや右代}{ruby:Ushiromiya family from its crisis without fail.":宮家の危機を救うだろう」}`
 `{ruby:"Th‐...thank you very much.:「あ、…ありがとうございます。}`
-`{ruby:......And, if you would once again......":……そして、そのためにまた……」}`
+`{ruby:......And, if you:……そして、そのた}{ruby:would once again......":めにまた……」}`
 `{ruby:"Hmmm.:「ふむ。}`
-`{ruby:We'll have to overcome one more family conference, won't we...":もう一度、親族会議を乗り越えねばならんな」}`
+`{ruby:We'll have to overcome one:もう一度、親族会議を乗り}{ruby:more family conference, won't we...":越えねばならんな」}`
 `{ruby:"Yes.:「えぇ。}`
-`{ruby:I think things went well last year, but I imagine some of the relatives will find it suspicious.:昨年はうまくやり過ごせたつもりですが、不審に思う親族も現われるでしょう。}`
-`{ruby:.........I think this year's conference will be a critical period.":………今年は正念場になると思います」}`
-`{ruby:"During last year's family conference,:「去年の親族会議の時、}`
-`{ruby:you were correct to predict that the same thing might have to happen again.":ひょっとしたらもう一度同じことになるかも知れぬと予見したそなたは正しかったな」}`
-`{ruby:"......Even for those who aren't witches, preparing for the worst case scenario is one of the basics for getting on in this world.:「……最悪のケースを想定するのは、魔女ならずとも世渡りの基本だ。}`
-`{ruby:......So, what will you do this year?":……それで、今年はどうする？」}`
-`{ruby:"Just like last year, I will see to it that a high concentration of the servants who know Father's secret are there on the day of the conference.:「去年同様、会議当日はお父様の秘密を知る使用人を集中的に配置します。}`
-`{ruby:......Some of the relatives may already suspect that Father isn't around.:……お父様の不在を気取る親族もすでにいるかもしれません。}`
-`{ruby:A careless act might actually put us in more danger of exposure.":不用意な演出は、むしろ馬脚をあらわす危険性もあります」}`
+`{ruby:I think things went well last year, but I:昨年はうまくやり過ごせたつもりですが、}{ruby:imagine some of the relatives will find it suspicious.:不審に思う親族も現われるでしょう。}`
+`{ruby:.........I think this year's conference:………今年は正念場に}{ruby:will be a critical period.":なると思います」}`
+`{ruby:"During last:「去年の親族会}{ruby:year's family conference,:議の時、}`
+`{ruby:you were correct to predict that the:ひょっとしたらもう一度同じことになるかも知}{ruby:same thing might have to happen again.":れぬと予見したそなたは正しかったな」}`
+`{ruby:"......Even for those who aren't witches, preparing for the worst case:「……最悪のケースを想定するのは、}{ruby:scenario is one of the basics for getting on in this world.:魔女ならずとも世渡りの基本だ。}`
+`{ruby:......So, what will:……それで、今年は}{ruby:you do this year?":どうする？」}`
+`{ruby:"Just like last year, I will see to it that a high concentration of:「去年同様、会議当日はお父様の秘密を}{ruby:the servants who know Father's secret are there on the day of the conference.:知る使用人を集中的に配置します。}`
+`{ruby:......Some of the relatives may:……お父様の不在を気取る親族も}{ruby:already suspect that Father isn't around.:すでにいるかもしれません。}`
+`{ruby:A careless act might actually put:不用意な演出は、むしろ馬脚をあ}{ruby:us in more danger of exposure.":らわす危険性もあります」}`
 `{ruby:"Hmmm.:「ふむ。}`
-`{ruby:It is said that too much is as bad as too little.:過ぎたるは及ばざるが如しとも言う。}`
+`{ruby:It is said that too much:過ぎたるは及ばざるが}{ruby:is as bad as too little.:如しとも言う。}`
 `{ruby:......Then what will you do?":……なれば、どうする？」}`
-`{ruby:"Unlike last year, I think we'll go with a plan that has you staying inside your study until the end.":「今年は昨年とは逆に、最後まで書斎をお出にならないという筋書きで行こうと思います」}`
+`{ruby:"Unlike last year, I think we'll go with a plan:「今年は昨年とは逆に、最後まで書斎をお出にな}{ruby:that has you staying inside your study until the end.":らないという筋書きで行こうと思います」}`
 `{ruby:"That would be suitable.:「それが良かろうな。}`
-`{ruby:A barricade is simple, and a final trump card.":篭城は単純にして最後の切り札だ」}`
-`{ruby:"No matter how much the mansion is filled with the toxin,:「どれほど屋敷が毒素に満ちようとも、}`
-`{ruby:it will be impossible to deny Kinzo's existence as long as the locked‐room barrier remains around this room.:この部屋を密室結界に閉ざす限り、金蔵の存在を否定することは出来ぬ。}`
+`{ruby:A barricade is simple,:篭城は単純にして最}{ruby:and a final trump card.":後の切り札だ」}`
+`{ruby:"No matter how much the:「どれほど屋敷が毒素}{ruby:mansion is filled with the toxin,:に満ちようとも、}`
+`{ruby:it will be impossible to deny Kinzo's existence as:この部屋を密室結界に閉ざす限り、金蔵}{ruby:long as the locked‐room barrier remains around this room.:の存在を否定することは出来ぬ。}`
 `{ruby:I shall guarantee that myself.:それは妾も保証する。}`
-`{ruby:......However, if you choose to make a barricade, it is inevitable that you will be surrounded.":……だが、篭城すれば囲まれるは必至」}`
+`{ruby:......However, if you choose to make a barricade,:……だが、篭城すれば}{ruby:it is inevitable that you will be surrounded.":囲まれるは必至」}`
 `{ruby:"I know.:「承知しています。}`
-`{ruby:......Even so, I beg that both of you lend us your power just one more time...":……それでも何卒、もう一度だけ、お父様とベアトリーチェの力をお貸し下さい…」}`
-`{ruby:"I cannot disobey the orders of the new head.:「私は新しき当主の命令には逆らえぬ。}`
-`{ruby:Furthermore, a ghost cannot disobey the orders of the living.:そして、幽霊もまた、生者の命令には逆らえぬしな。}`
-`{ruby:If you tell me not to leave this room, then I will obey.":この部屋から出るなと言うのであれば、それに従おう」}`
+`{ruby:......Even so, I beg that both of you:……それでも何卒、もう一度だけ、お父様と}{ruby:lend us your power just one more time...":ベアトリーチェの力をお貸し下さい…」}`
+`{ruby:"I cannot disobey the:「私は新しき当主の命}{ruby:orders of the new head.:令には逆らえぬ。}`
+`{ruby:Furthermore, a ghost cannot disobey:そして、幽霊もまた、生者の}{ruby:the orders of the living.:命令には逆らえぬしな。}`
+`{ruby:If you tell me not to:この部屋から出るなと言うので}{ruby:leave this room, then I will obey.":あれば、それに従おう」}`
 `{ruby:"Thank you very much......":「ありがとうございます……」}`
 `{ruby:"I, on the other hand, will not.:「妾は嫌だぞ。}`
-`{ruby:If you want me to lend you my power, I won't listen to a mere request.":力を貸せと願われても、願い如きでは聞いてやれぬ」}`
+`{ruby:If you want me to lend you my:力を貸せと願われても、願い}{ruby:power, I won't listen to a mere request.":如きでは聞いてやれぬ」}`
 `{ruby:"Yes.:「えぇ。}`
 `{ruby:You are the family alchemist.:あなたは顧問錬金術師。}`
 `{ruby:So, I won't ask you to help.:ですから、貸せと願いません。}`
 `{ruby:I order you to help.:貸しなさいと命じます。}`
-`{ruby:......We are relying on your magic alone.:……あなたの魔法だけが頼りです。}`
-`{ruby:Use that power to create an illusion of Father just one more time.":その力で、もう一度だけ、お父様の幻想を」}`
+`{ruby:......We are relying:……あなたの魔法だ}{ruby:on your magic alone.:けが頼りです。}`
+`{ruby:Use that power to create an:その力で、もう一度だけ}{ruby:illusion of Father just one more time.":、お父様の幻想を」}`
 `{ruby:"Very well.:「ならば良し。}`
 `{ruby:I hear and obey.:心得たぞ。}`
 `{ruby:I find your dignity quite pleasing.":そなたの貫禄、なかなかに心地良し」}`
-`{ruby:From the shadows of the study, Battler watched the exchange between these three......:そんな夏妃たち３人のやり取りを、戦人は書斎の暗がりから見ている……。}`
+`{ruby:From the shadows of the study,:そんな夏妃たち３人のやり取りを、戦人}{ruby:Battler watched the exchange between these three......:は書斎の暗がりから見ている……。}`
 `{ruby:"......I see.:「……なるほどな。}`
-`{ruby:And then this year's family conference comes around.:そして今年の親族会議を迎えるわけだ。}`
-`{ruby:......Grandfather shuts himself in his study because he's in a bad mood and doesn't appear in front of anyone.":……祖父さまは不機嫌だからと書斎に閉じ篭り、誰の前にも姿を現さない」}`
+`{ruby:And then this year's:そして今年の親族会議}{ruby:family conference comes around.:を迎えるわけだ。}`
+`{ruby:......Grandfather shuts himself in his study because he's in:……祖父さまは不機嫌だからと書斎に閉}{ruby:a bad mood and doesn't appear in front of anyone.":じ篭り、誰の前にも姿を現さない」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:Natsuhi spoke boldly, saying that she would find a way to overcome this year's crisis and protect the Ushiromiya family honor to the end.:夏妃は、何とか今年も乗り越えて、右代宮家の名誉を最後まで守ってみせると豪語し、}`
-`{ruby:Kinzo praised her, saying that he was relieved to hear it and trusted her to succeed.:金蔵は頼もしいとそれを讃える。}`
-`{ruby:Beato also praised her, saying that Natsuhi's dignity was even more fitting for the family head than Krauss's.:ベアトもまた、夏妃の貫禄を、蔵臼よりも当主に相応しいと讃えている。}`
+`{ruby:Natsuhi spoke boldly, saying that she would find a way to overcome:夏妃は、何とか今年も乗り越えて、右代宮家の}{ruby:this year's crisis and protect the Ushiromiya family honor to the end.:名誉を最後まで守ってみせると豪語し、}`
+`{ruby:Kinzo praised her, saying that he was relieved:金蔵は頼もしいとそ}{ruby:to hear it and trusted her to succeed.:れを讃える。}`
+`{ruby:Beato also praised her, saying that Natsuhi's dignity was:ベアトもまた、夏妃の貫禄を、蔵臼より}{ruby:even more fitting for the family head than Krauss's.:も当主に相応しいと讃えている。}`
 `{ruby:.........However,:………しかし、}`
 `{ruby:.........right now,:………この書斎に今いる、}`
-`{ruby:the true number of people in this room was......:本当の人数は……。}`
-`{ruby:At the same time I thought that......no, just because I thought that, Beato grabbed her chest and moaned.:それを思った時、……いや、思っただけで、ベアトが胸を押さえて呻く。}`
+`{ruby:the true number of:本当の人数は}{ruby:people in this room was......:……。}`
+`{ruby:At the same time I thought that......no, just because:それを思った時、……いや、思っただけ}{ruby:I thought that, Beato grabbed her chest and moaned.:で、ベアトが胸を押さえて呻く。}`
 `{ruby:"......Don't worry.:「……安心しろ。}`
 `{ruby:We're still outside the game board.:ここはゲーム盤の、まだ外だ。}`
-`{ruby:So, I won't deny you or Grandfather over there.":だから俺は、そこにいるお前や祖父さまを否定はしない」}`
+`{ruby:So, I won't deny:だから俺は、そこにいるお前や}{ruby:you or Grandfather over there.":祖父さまを否定はしない」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:As Beato tried to hold back the pain deep inside her chest, I put my hand on hers......:胸の奥の痛みを抑えるベアトの手に、俺は自分の手を重ねる……。}`
+`{ruby:As Beato tried to hold back the pain deep:胸の奥の痛みを抑えるベアトの手に}{ruby:inside her chest, I put my hand on hers......:、俺は自分の手を重ねる……。}`
 `{ruby:I already told {f:5:Bernkastel}.:俺はすでに、ベルンカステルに対して言っている。}`
-`{ruby:Denying the witch illusions in just the two day period of the 1986 family conference is enough.:魔女幻想を否定するのは、１９８６年の親族会議の二日間だけで充分なのだ。}`
-`{ruby:"{p:2:In the last game, you said in red that Grandfather is dead at the start time for all games.:「{p:2:お前は前回、全ゲームの開始時に祖父さまが死んでることを赤で宣言した。}`
-`{ruby:However, you never mentioned whether Grandfather was alive or dead before the start time for the games.:しかし、ゲーム開始以前の祖父さまの生死については言及していない。}`
-`{ruby:......In short, even if Grandfather exists in this place right now, that doesn't create any contradictions}.":……つまり、今この場に、祖父さまが存在していても、何の矛盾もないってわけだ}」}`
-`{ruby:My hand that was touching her let off a faint blue light,:彼女に触れる俺の手が、ほのかに青く光を放ち、}`
+`{ruby:Denying the witch illusions in just the two:魔女幻想を否定するのは、１９８６年の親}{ruby:day period of the 1986 family conference is enough.:族会議の二日間だけで充分なのだ。}`
+`{ruby:"{p:2:In the last game, you said in red that:「{p:2:お前は前回、全ゲームの開始時に}{ruby:Grandfather is dead at the start time for all games.:祖父さまが死んでることを赤で宣言した。}`
+`{ruby:However, you never mentioned whether Grandfather was alive:しかし、ゲーム開始以前の祖父さまの}{ruby:or dead before the start time for the games.:生死については言及していない。}`
+`{ruby:......In short, even if Grandfather exists in this:……つまり、今この場に、祖父さまが存在して}{ruby:place right now, that doesn't create any contradictions}.":いても、何の矛盾もないってわけだ}」}`
+`{ruby:My hand that was touching her:彼女に触れる俺の手が、ほ}{ruby:let off a faint blue light,:のかに青く光を放ち、}`
 `{ruby:......which seeped into her chest.:……彼女の胸の奥に染み透っていく。}`
 `{ruby:That light...:その光は、ベアトの胸の奥の棘を、}`
-`{ruby:tenderly wrapped itself around the splinters in Beato's chest...:……やさしく包み込む…。}`
+`{ruby:tenderly wrapped itself around:……やさしく包}{ruby:the splinters in Beato's chest...:み込む…。}`
 `{ruby:"......:「……}`
-`{ruby:{p:2:And I also can't deny the existence of the {f:5:Beatrice} in this place.:{p:2:そして、この場にいるベアトリーチェの存在だって、否定することは出来ない。}`
-`{ruby:The number of people on this island outside the game board...in other words, before October 4th, 1986, has not been declared in red.:ゲーム盤の外、即ち１９８６年１０月４日以前の島の人数については赤で宣言されていないんだ。}`
-`{ruby:Therefore, there's nothing strange about {f:5:Beatrice} existing here}.":だから、ここにベアトリーチェが存在しても、何もおかしいことはない}」}`
+`{ruby:{p:2:And I also can't deny the:{p:2:そして、この場にいるベアトリーチェ}{ruby:existence of the {f:5:Beatrice} in this place.:の存在だって、否定することは出来ない。}`
+`{ruby:The number of people on this island outside the game board...in:ゲーム盤の外、即ち１９８６年１０月４日以前の島}{ruby:other words, before October 4th, 1986, has not been declared in red.:の人数については赤で宣言されていないんだ。}`
+`{ruby:Therefore, there's nothing strange:だから、ここにベアトリーチェが存在し}{ruby:about {f:5:Beatrice} existing here}.":ても、何もおかしいことはない}」}`
 `{ruby:"..............................ah...":「…………………………ぅ」}`
 `{ruby:Beato's expression softened slightly.:ベアトの表情がわずかに和らぐ。}`
-`{ruby:My blue light......slowly started to melt the red splinters that denied the witch illusion...:俺の青い光が、……ゆっくりと魔女幻想を否定する赤い棘を、溶かしていく…。}`
+`{ruby:My blue light......slowly started to melt the:俺の青い光が、……ゆっくりと魔女幻想を}{ruby:red splinters that denied the witch illusion...:否定する赤い棘を、溶かしていく…。}`
 `{ruby:"........................":「……………………」}`
-`{ruby:Beato still wore the same sad expression, but she lifted her face...:ベアトは相変わらずの悲しげな表情だったが、顔を上げる。}`
+`{ruby:Beato still wore the same sad:ベアトは相変わらずの悲しげな表}{ruby:expression, but she lifted her face...:情だったが、顔を上げる。}`
 `{ruby:and looked me right in the eye.:そしてじっと俺の目を見る。}`
-`{ruby:Even though she was silent, her eyes told me that the pain had gone away.:無言であっても、痛みがなくなったことを、その目で教えてくれた。}`
-`{ruby:The feelings that showed in her eyes were gratitude for taking the pain away,:その目に浮かぶのは、痛みを取り除いてくれたことへの感謝の気持ちと、}`
-`{ruby:.........and appreciation—or was it surprise?—that I had left even a tiny bit of leeway for witches to exist.:………魔女の存在の余地をわずかに残してくれたことへの、感謝と、驚き…？}`
-`{ruby:Unable to look directly at those pure eyes of hers, I automatically averted my gaze.:俺はその無垢な瞳が正視できなくて、目を思わず背けてしまう。}`
+`{ruby:Even though she was silent, her eyes:無言であっても、痛みがなくなったこ}{ruby:told me that the pain had gone away.:とを、その目で教えてくれた。}`
+`{ruby:The feelings that showed in her eyes:その目に浮かぶのは、痛みを取り除いて}{ruby:were gratitude for taking the pain away,:くれたことへの感謝の気持ちと、}`
+`{ruby:.........and appreciation—or was it surprise?—that I had left even:………魔女の存在の余地をわずかに残して}{ruby:a tiny bit of leeway for witches to exist.:くれたことへの、感謝と、驚き…？}`
+`{ruby:Unable to look directly at those pure:俺はその無垢な瞳が正視できなくて}{ruby:eyes of hers, I automatically averted my gaze.:、目を思わず背けてしまう。}`
 `{ruby:"......Don't get the wrong idea.:「……誤解すんなよ。}`
-`{ruby:I don't plan on accepting the existence of witches or surrendering.:魔女の存在を認めたり、あるいは屈したつもりもねぇ。}`
-`{ruby:I just want to focus solely on that one time period and fight like a stoic so that I can win in this game against you.:俺はお前とのゲームに勝つ為に、その部分だけに徹してストイックに戦いたいだけだぜ。}`
-`{ruby:I have no desire to bully you outside the game board as well.":ゲーム盤の外でまで、嫌がらせをするほど趣味は悪くねぇからな」}`
+`{ruby:I don't plan on accepting:魔女の存在を認めたり、あるい}{ruby:the existence of witches or surrendering.:は屈したつもりもねぇ。}`
+`{ruby:I just want to focus solely on that one time period and fight:俺はお前とのゲームに勝つ為に、その部分だけ}{ruby:like a stoic so that I can win in this game against you.:に徹してストイックに戦いたいだけだぜ。}`
+`{ruby:I have no desire to bully:ゲーム盤の外でまで、嫌がらせをす}{ruby:you outside the game board as well.":るほど趣味は悪くねぇからな」}`
 `{ruby:"..............................":「…………………………」}`
 `{ruby:"...............":「……………」}`
 `{ruby:Beato hung her head.:ベアトは俯く。}`
 `{ruby:...I was still facing away from her.:…俺も顔を背けたままだ。}`
-`{ruby:However, we waited wordlessly for a while, my hand still on hers......:でも、俺たちはしばらくの間、無言で手を重ねたままでいるのだった……。}`
-`{ruby:.........By now, no one would believe that this woman with sad eyes...:………この悲しそうな瞳の女が、}`
-`{ruby:...was the same person as that prideful Beato.:あの傲慢なベアトと同一人物だなんて、……今となっては誰が信じられるだろう。}`
+`{ruby:However, we waited wordlessly for a:でも、俺たちはしばらくの間、無言で手}{ruby:while, my hand still on hers......:を重ねたままでいるのだった……。}`
+`{ruby:.........By now, no one would believe:………この悲しそう}{ruby:that this woman with sad eyes...:な瞳の女が、}`
+`{ruby:...was the same person:あの傲慢なベアトと同一人物だなんて、……}{ruby:as that prideful Beato.:今となっては誰が信じられるだろう。}`
 `{ruby:So, ......I asked once more.:だから、……もう一度、問う。}`
-`{ruby:Even though I said it aloud, it wasn't a question to her.:それは口にしたとしても、彼女への問いではない。}`
+`{ruby:Even though I said it aloud,:それは口にしたとしても、彼}{ruby:it wasn't a question to her.:女への問いではない。}`
 `{ruby:{n}I was asking myself.:{n}自らへの、問い。}`
 `{ruby:"......Just what in the world...:「……お前は、}`
 `{ruby:...were you thinking?":……一体、何を考えていたんだ」}`
 `{ruby:"..............................":「…………………………」}`
 `{ruby:"That's right.:「そうさ。}`
-`{ruby:Even though this is {f:5:Lambdadelta}'s game, ......I have to find you here.:俺はラムダデルタのゲームを通じてでも、……お前を探さなくちゃならない。}`
-`{ruby:I have to find what you thought...and what you were trying to do.":お前が何を考え、何をしようとしていたのかをな」}`
-`{ruby:Very soon, this game will also reach October 4th, 1986.:もうじき、このゲームも１９８６年１０月４日を迎える。}`
-`{ruby:{n}......The fifth game will finally begin.:{n}……いよいよ第５のゲームが始まるのだ。}`
+`{ruby:Even though this is {f:5:Lambdadelta}'s game,:俺はラムダデルタのゲームを通じてでも、}{ruby:......I have to find you here.:……お前を探さなくちゃならない。}`
+`{ruby:I have to find what you:お前が何を考え、何をしよう}{ruby:thought...and what you were trying to do.":としていたのかをな」}`
+`{ruby:Very soon, this game will:もうじき、このゲームも１９８}{ruby:also reach October 4th, 1986.:６年１０月４日を迎える。}`
+`{ruby:{n}......The fifth game:{n}……いよいよ第５の}{ruby:will finally begin.:ゲームが始まるのだ。}`
 `{ruby:And this time, I'll reach the end.:そして、今度こそ辿ろう。}`
 `{ruby:The end of that journey.:その旅路を。}`
-`{ruby:"......I'm not worried about the obvious stuff, like murders and tricks.:「……殺人がとか、トリックがとか、……そういう上辺だけじゃない。}`
-`{ruby:...What did you, ...the Golden Witch {f:5:Beatrice}, think, and why did you do what you did?:…お前が、…黄金の魔女、ベアトリーチェが、何を考え、何の為にそうしたのか。}`
+`{ruby:"......I'm not worried about the:「……殺人がとか、トリックがとか、}{ruby:obvious stuff, like murders and tricks.:……そういう上辺だけじゃない。}`
+`{ruby:...What did you, ...the Golden Witch {f:5:Beatrice}, think,:…お前が、…黄金の魔女、ベアトリーチェが}{ruby:and why did you do what you did?:、何を考え、何の為にそうしたのか。}`
 `{ruby:What were you hoping for?:何を望んでいたのか。}`
-`{ruby:............That's what I'm gonna find out.":…………それを、辿る」}`
+`{ruby:............That's what I'm:…………それを}{ruby:gonna find out.":、辿る」}`
 `{ruby:That's right.:そうさ。}`
-`{ruby:I already know the method for reaching the end of that journey.:俺はその旅路を辿るための方法を、もう知っている。}`
-`{ruby:And I've been shouting it since the very beginning.:そして最初から、それを掲げている。}`
-`{ruby:"......This time, I really will flip over the chessboard.:「……今こそ、チェス盤を引っ繰り返そう。}`
-`{ruby:I'll untangle this tale not from my side,:この物語を、俺側からじゃなく、}`
+`{ruby:I already know the method for:俺はその旅路を辿るための方}{ruby:reaching the end of that journey.:法を、もう知っている。}`
+`{ruby:And I've been shouting:そして最初から、それ}{ruby:it since the very beginning.:を掲げている。}`
+`{ruby:"......This time, I really:「……今こそ、チェス盤}{ruby:will flip over the chessboard.:を引っ繰り返そう。}`
+`{ruby:I'll untangle this tale:この物語を、俺側か}{ruby:not from my side,:らじゃなく、}`
 `{ruby:......but from yours.":……お前側からの目線で、物語を紐解く」}`
 `{ruby:"..............................":「…………………………」}`
-`{ruby:"And this time, ......I'll understand you.:「そして今度こそ、……お前を理解しよう。}`
+`{ruby:"And this time,:「そして今度こそ、……}{ruby:......I'll understand you.:お前を理解しよう。}`
 `{ruby:And I'll pick my way to your heart.:そしてお前の心臓に辿り着く。}`
 `{ruby:......I won't let you feel pain.:……痛みなんか、感じさせない。}`
 `{ruby:Don't worry.:安心しろ。}`
-`{ruby:......I won't let those witches make you their toy anymore.":……あの魔女どもの玩具になど、もうこれ以上、させないからな」}`
+`{ruby:......I won't let those witches:……あの魔女どもの玩具になど、も}{ruby:make you their toy anymore.":うこれ以上、させないからな」}`
 `{ruby:".....................nn...":「…………………ん…」}`
-`{ruby:Beato looked up at me again......and gave a small nod.:ベアトは再び俺を見上げ、……小さく頷く。}`
+`{ruby:Beato looked up at me:ベアトは再び俺を見上げ}{ruby:again......and gave a small nod.:、……小さく頷く。}`
 `{ruby:......That's right.:……そうなんだ。}`
-`{ruby:The position of the Game Master might have been snatched up by {f:5:Lambdadelta}.:ゲームマスターの席は、確かにラムダデルタが奪ったかもしれない。}`
-`{ruby:However, ......as long as I continue this contest with the intent of fighting against Beato,:しかし、……俺が、ベアトと戦う姿勢で挑み続ける限り、}`
-`{ruby:......our fight will continue no matter who controls the game board.:……誰がゲームを操ろうと、俺とベアトの戦いは続けられるのだ。}`
-`{ruby:......Very soon, the curtain will rise on our game......:……俺たちのゲームは、もうすぐ、幕を開ける……。}`
-`{ruby:"During this year's family conference, we must conceal the Master's secret once again.":「今年の親族会議でも、お館様の秘密を隠さねばならん」}`
+`{ruby:The position of the Game Master:ゲームマスターの席は、確かにラムダ}{ruby:might have been snatched up by {f:5:Lambdadelta}.:デルタが奪ったかもしれない。}`
+`{ruby:However, ......as long as I continue this:しかし、……俺が、ベアトと戦}{ruby:contest with the intent of fighting against Beato,:う姿勢で挑み続ける限り、}`
+`{ruby:......our fight will continue no:……誰がゲームを操ろうと、俺とベ}{ruby:matter who controls the game board.:アトの戦いは続けられるのだ。}`
+`{ruby:......Very soon, the curtain:……俺たちのゲームは、もう}{ruby:will rise on our game......:すぐ、幕を開ける……。}`
+`{ruby:"During this year's family conference, we:「今年の親族会議でも、お館様}{ruby:must conceal the Master's secret once again.":の秘密を隠さねばならん」}`
 `{ruby:"Y‐yes.:「は、はい。}`
 `{ruby:......I understand.":……心得ております」}`
-`{ruby:"............I'm a little doubtful that the same trick will work twice.":「…………同じ手がもう一度通じるか疑問だな」}`
+`{ruby:"............I'm a little doubtful that:「…………同じ手がもう一}{ruby:the same trick will work twice.":度通じるか疑問だな」}`
 `{ruby:"Madam shares your concerns.:「奥様も同じご懸念を持たれている。}`
-`{ruby:Because of that, it was decided that this year, he will not leave the study even once.":その為、今年は書斎から一切、お出にならない方向で行くことになった」}`
-`{ruby:"In other words, we'll make it seem like he's shut away in the study the whole time...?":「つまり、ずっと書斎に篭られていることにする、というわけですか…？」}`
+`{ruby:Because of that, it was decided that this:その為、今年は書斎から一切、お出にな}{ruby:year, he will not leave the study even once.":らない方向で行くことになった」}`
+`{ruby:"In other words, we'll make it seem like:「つまり、ずっと書斎に篭られているこ}{ruby:he's shut away in the study the whole time...?":とにする、というわけですか…？」}`
 `{ruby:"......Yes.:「……うむ。}`
-`{ruby:And the only ones allowed to enter the study...:そして書斎に入ることが許されているのは、}`
-`{ruby:will be the three of us, the servants permitted to wear the One‐winged Eagle.":我ら３人、片翼の翼を許された使用人だけだ」}`
-`{ruby:".........Which means that the three of us will have to perpetuate the lie about the Master...":「………ということは、僕たち３人で、お館様の嘘をつき通さなくちゃならないわけか…」}`
+`{ruby:And the only ones:そして書斎に入ることが}{ruby:allowed to enter the study...:許されているのは、}`
+`{ruby:will be the three of us, the:我ら３人、片翼の翼を許さ}{ruby:servants permitted to wear the One‐winged Eagle.":れた使用人だけだ」}`
+`{ruby:".........Which means that the three of us will:「………ということは、僕たち３人で、お館様の}{ruby:have to perpetuate the lie about the Master...":嘘をつき通さなくちゃならないわけか…」}`
 `{ruby:"Correct.:「そうだ。}`
-`{ruby:......The relatives will probably question you about the Master's health and mood.:……親族の方々は、お館様の具合や機嫌などを問い詰めてくるだろう。}`
-`{ruby:Make sure you answer without hesitation, and see to it that nothing is seen as suspicious.":澱みなく答え、不審に思われることがなきよう、注意するように」}`
+`{ruby:......The relatives will probably question you:……親族の方々は、お館様の具合や機}{ruby:about the Master's health and mood.:嫌などを問い詰めてくるだろう。}`
+`{ruby:Make sure you answer without hesitation, and see:澱みなく答え、不審に思われること}{ruby:to it that nothing is seen as suspicious.":がなきよう、注意するように」}`
 `{ruby:"......Y‐yes.:「……は、はい。}`
 `{ruby:I understand.":心得ました」}`
-`{ruby:"I'm sure you'll screw up right away, Nee‐san.:「姉さんはすぐドジるからな。}`
-`{ruby:Maybe it's better to say you have a cold or something so that you can skip that day.":むしろ、当日は風邪か何か理由をつけて、欠席した方がいいんじゃない？」}`
+`{ruby:"I'm sure you'll screw:「姉さんはすぐド}{ruby:up right away, Nee‐san.:ジるからな。}`
+`{ruby:Maybe it's better to say you have a cold:むしろ、当日は風邪か何か理由をつけて}{ruby:or something so that you can skip that day.":、欠席した方がいいんじゃない？」}`
 `{ruby:"Th‐that's mean......":「そ、そんなひどい……」}`
-`{ruby:Kanon wasn't just saying that to make fun of Shannon.:嘉音は馬鹿にして言っているだけではない。}`
-`{ruby:......He simply wanted to release her from the stresses they would face that day as they took on the critical task of concealing Kinzo's death.:……金蔵の死を隠すという責任重大な日の負担から、紗音を解放してやりたいだけなのだ。}`
+`{ruby:Kanon wasn't just saying that:嘉音は馬鹿にして言って}{ruby:to make fun of Shannon.:いるだけではない。}`
+`{ruby:......He simply wanted to release her from the stresses they would face:……金蔵の死を隠すという責任重大な日の負担か}{ruby:that day as they took on the critical task of concealing Kinzo's death.:ら、紗音を解放してやりたいだけなのだ。}`
 `{ruby:"Genji‐sama.:「源次さま。}`
-`{ruby:Is it really necessary for Shannon to work that day?:紗音がシフトに入る必要はないのでは。}`
-`{ruby:We can manage things well enough without her.":僕たちだけで充分やれます」}`
+`{ruby:Is it really necessary for:紗音がシフトに入る必}{ruby:Shannon to work that day?:要はないのでは。}`
+`{ruby:We can manage things:僕たちだけで充分}{ruby:well enough without her.":やれます」}`
 `{ruby:"That I cannot do.:「それは出来ん。}`
-`{ruby:Madam gave strict orders that the three of us be scheduled to work on that day.":奥様から、我ら３人は必ずシフトに入るようにとの厳命だ」}`
+`{ruby:Madam gave strict orders that the three of:奥様から、我ら３人は必ずシフト}{ruby:us be scheduled to work on that day.":に入るようにとの厳命だ」}`
 `{ruby:"Yes......:「はい……。}`
-`{ruby:I am prepared to perform my duties successfully.":やり遂げる覚悟です」}`
+`{ruby:I am prepared to:やり遂げる覚}{ruby:perform my duties successfully.":悟です」}`
 `{ruby:"Don't screw up.":「ドジらないでよ」}`
 `{ruby:"I won't.":「ドジりませんっ」}`
-`{ruby:Shannon grew sullen, and Kanon shrugged.:紗音がむくれると、嘉音は肩を竦める。}`
-`{ruby:{n}Then Genji told them that they weren't taking this seriously enough.:{n}それを源次が、緊張感が足りないと諌める。}`
+`{ruby:Shannon grew sullen,:紗音がむくれると、嘉}{ruby:and Kanon shrugged.:音は肩を竦める。}`
+`{ruby:{n}Then Genji told them that:{n}それを源次が、緊張感}{ruby:they weren't taking this seriously enough.:が足りないと諌める。}`
 `{ruby:"......Shannon. Kanon.:「……紗音。嘉音。}`
-`{ruby:......The master we serve has already passed away.:……すでにお仕えするお館様はお亡くなりになっている。}`
-`{ruby:However, until he has truly passed on, we will continue to serve.:しかし、本当の意味でお亡くなりになるまで、我らの奉仕は続く。}`
+`{ruby:......The master we serve:……すでにお仕えするお館様は}{ruby:has already passed away.:お亡くなりになっている。}`
+`{ruby:However, until he has truly passed:しかし、本当の意味でお亡くなりに}{ruby:on, we will continue to serve.:なるまで、我らの奉仕は続く。}`
 `{ruby:......That study is not empty.:……あの書斎は無人ではない。}`
-`{ruby:The Master is still there, hard at work on his usual research.:今なお、お館様がおられ、日々の研究に勤しまれているのだ。}`
+`{ruby:The Master is still there, hard:今なお、お館様がおられ、日々の}{ruby:at work on his usual research.:研究に勤しまれているのだ。}`
 `{ruby:Make sure you take that to heart.":それを深く心得よ」}`
 `{ruby:""Yes, Genji‐sama."":「「はい、源次さま」」}`
 `{ruby:"Father has already passed away...?!:「お父様が、すでに亡くなっている…？！}`
 `{ruby:That's insane...!":そんな馬鹿な…！」}`
 `{ruby:"Settle down...:「まぁまぁ…。}`
 `{ruby:It's only a possibility.:例えの話や。}`
-`{ruby:It's well known that Takeda Shingen said in his will that his death was to be kept secret for three years.:武田信玄は、その死を３年の間、秘密にするよう遺言したっちゅう、有名な故事があるやろ。}`
+`{ruby:It's well known that Takeda Shingen said in his will:武田信玄は、その死を３年の間、秘密にするよう}{ruby:that his death was to be kept secret for three years.:遺言したっちゅう、有名な故事があるやろ。}`
 `{ruby:Know about that?":知らんか？」}`
 `{ruby:"......Is that how it went?:「……そんな話もあったかしら。}`
 `{ruby:My Japanese history isn't so great.":日本史はよくわかんないわ」}`
-`{ruby:"At the time, Takeda was in the middle of a war with Oda and Tokugawa.:「当時、武田は織田や徳川との戦の真っ最中だった。}`
-`{ruby:If his death had become known at a time like that, it would probably have had a negative effect on the war.:そこで信玄が死んだなんて話になったら、戦況に悪影響が出るやろ。}`
-`{ruby:'Cause of this, he left a will sayin' that his death should be kept hidden for three years.:そやから、自分の死を３年隠すように遺言したんや。}`
-`{ruby:......Hideyoshi did the same thing, right?:……秀吉かてそうやで？}`
-`{ruby:He completely suppressed information about the death of his master, Oda Nobunaga, so that the enemy wouldn't find out,:主君、織田信長の死を敵方に知られんように、徹底的に情報規制を行い、}`
-`{ruby:quickly made peace with Mouri, and defeated Akechi in the Battle of Yamazaki.":素早く毛利と和解して、中国大返しを行い明智を討ったんやないか」}`
-`{ruby:"Shibata Katsuie, on the other hand... That was where he failed.:「一方の柴田勝家はそこで失敗したんや。}`
-`{ruby:The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and was slowed down.:敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、}`
-`{ruby:That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.":その後の秀吉との後継者争いで大きく遅れを取ることになったんや」}`
-`{ruby:Hideyoshi, who had a strong fascination with the commanders of the Sengoku period, would always show off his knowledge whenever he got the chance.:戦国武将に強い憧れを持つ秀吉は、ここぞとばかりにウンチクを語り出す。}`
-`{ruby:Wincing slightly, Eva made him get back to his point.:絵羽は辟易としながら、話を戻させる。}`
-`{ruby:"......Long story short, ...the whole time since last year's family conference,:「……早い話が、…わしは去年の親族会議から、}`
-`{ruby:something's not been feelin' right to me about what happened.":ずっと違和感を持っとったんや」}`
-`{ruby:"You mean the time when Rudolf and I were talking about the inheritance and Father overheard us from the hall...":「あれは、私や留弗夫が遺産の話をしてたのを、廊下のお父様に聞かれてしまってそれで、」}`
+`{ruby:"At the time, Takeda was in the:「当時、武田は織田や徳川と}{ruby:middle of a war with Oda and Tokugawa.:の戦の真っ最中だった。}`
+`{ruby:If his death had become known at a time like that,:そこで信玄が死んだなんて話になった}{ruby:it would probably have had a negative effect on the war.:ら、戦況に悪影響が出るやろ。}`
+`{ruby:'Cause of this, he left a will sayin' that:そやから、自分の死を３年隠}{ruby:his death should be kept hidden for three years.:すように遺言したんや。}`
+`{ruby:......Hideyoshi did the:……秀吉かてそ}{ruby:same thing, right?:うやで？}`
+`{ruby:He completely suppressed information about the death of his:主君、織田信長の死を敵方に知られんよ}{ruby:master, Oda Nobunaga, so that the enemy wouldn't find out,:うに、徹底的に情報規制を行い、}`
+`{ruby:quickly made peace with Mouri, and:素早く毛利と和解して、中国大返しを}{ruby:defeated Akechi in the Battle of Yamazaki.":行い明智を討ったんやないか」}`
+`{ruby:"Shibata Katsuie, on the other:「一方の柴田勝家はそこ}{ruby:hand... That was where he failed.:で失敗したんや。}`
+`{ruby:The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had:敵の上杉に信長の死を知られ、思わぬ}{ruby:to deal with an unexpected counterattack and was slowed down.:反撃を受けて足止めを食らい、}`
+`{ruby:That's why, later on, he suffered a great:その後の秀吉との後継者争いで大きく}{ruby:loss against Hideyoshi in the fight for the succession.":遅れを取ることになったんや」}`
+`{ruby:Hideyoshi, who had a strong fascination with the commanders of the Sengoku:戦国武将に強い憧れを持つ秀吉は、ここ}{ruby:period, would always show off his knowledge whenever he got the chance.:ぞとばかりにウンチクを語り出す。}`
+`{ruby:Wincing slightly, Eva made him:絵羽は辟易としながら}{ruby:get back to his point.:、話を戻させる。}`
+`{ruby:"......Long story short, ...the whole:「……早い話が、…わしは}{ruby:time since last year's family conference,:去年の親族会議から、}`
+`{ruby:something's not been feelin' right:ずっと違和感を持っ}{ruby:to me about what happened.":とったんや」}`
+`{ruby:"You mean the time when Rudolf and I were talking:「あれは、私や留弗夫が遺産の話をしてたのを、}{ruby:about the inheritance and Father overheard us from the hall...":廊下のお父様に聞かれてしまってそれで、」}`
 `{ruby:"That's just it.:「そこや。}`
-`{ruby:......Natsuhi‐san and the servants kept saying Father was here or there and that he seemed to be in a bad mood,:……夏妃さんや使用人たちは、どこそこにお父さんがいた、不機嫌そうだったと口を揃えたが、}`
-`{ruby:but not a single one of us relatives saw Father, right?":わしら親族は、誰一人、お父さんを見てないんやで？」}`
-`{ruby:"If what you're thinking is right......:「もしあなたの想像が本当なら……。}`
+`{ruby:......Natsuhi‐san and the servants kept saying Father was here or:……夏妃さんや使用人たちは、どこそこにお父さん}{ruby:there and that he seemed to be in a bad mood,:がいた、不機嫌そうだったと口を揃えたが、}`
+`{ruby:but not a single one:わしら親族は、誰一人、お父さ}{ruby:of us relatives saw Father, right?":んを見てないんやで？」}`
+`{ruby:"If what you're:「もしあなたの想像が}{ruby:thinking is right......:本当なら……。}`
 `{ruby:......what does that mean?!:……どういうこと？！}`
-`{ruby:Does it mean that Nii‐san is trying to get all of the inheritance for himself?!":兄さんが遺産の独り占めを狙ってるということ？！」}`
-`{ruby:"Of course, hidin' someone's death is a very dangerous thing to do.:「もちろん、死んだことを隠すなんてかなり危険なことや。}`
-`{ruby:And all things considered, I'm not sure Krauss‐san would be willin' to do it just to have the inheritance to himself.:果たして、遺産を独り占めするためだけに、それだけのことを蔵臼さんがやってのけるのか、わしも確信は持てん。}`
+`{ruby:Does it mean that Nii‐san is trying:兄さんが遺産の独り占めを狙っ}{ruby:to get all of the inheritance for himself?!":てるということ？！」}`
+`{ruby:"Of course, hidin' someone's death is:「もちろん、死んだことを隠すな}{ruby:a very dangerous thing to do.:んてかなり危険なことや。}`
+`{ruby:And all things considered, I'm not sure Krauss‐san would be:果たして、遺産を独り占めするためだけに、それだけのこと}{ruby:willin' to do it just to have the inheritance to himself.:を蔵臼さんがやってのけるのか、わしも確信は持てん。}`
 `{ruby:But it is possible.":だが、可能性はある」}`
-`{ruby:"......W‐...well, it's true that Nii‐san has always been greedy.:「……た、…確かに、兄さんは昔から強欲よ。}`
-`{ruby:He always used to take things that were meant for all of the siblings and keep them all for himself...":兄弟全員でと受け取ったものを着服するなんてよくあることだったわ…」}`
-`{ruby:"Krauss‐san's meant to be the most affluent of you siblings.:「蔵臼さんは、わしら兄弟の中では一番裕福なはずや。}`
-`{ruby:For Krauss‐san to scheme to keep the inheritance all to himself to the point of acceptin' the risk of hidin' Father's death...:…そんな蔵臼さんが、お父さんの死を隠すなんて危険を冒してまで、遺産の独り占めを目論むとは、}`
-`{ruby:I don't know, it sounds a little unbelievable to me.:…わしにはちょいと信じられんのだがな。}`
-`{ruby:But last year's family conference was just so strange, it makes me wonder.":だが、そう疑いたくなるくらい、去年の親族会議はおかしかったんやで」}`
+`{ruby:"......W‐...well, it's true that:「……た、…確かに、兄さ}{ruby:Nii‐san has always been greedy.:んは昔から強欲よ。}`
+`{ruby:He always used to take things that were meant for:兄弟全員でと受け取ったものを着服する}{ruby:all of the siblings and keep them all for himself...":なんてよくあることだったわ…」}`
+`{ruby:"Krauss‐san's meant to be the:「蔵臼さんは、わしら兄弟の中}{ruby:most affluent of you siblings.:では一番裕福なはずや。}`
+`{ruby:For Krauss‐san to scheme to keep the inheritance all to himself:…そんな蔵臼さんが、お父さんの死を隠すなんて危険}{ruby:to the point of acceptin' the risk of hidin' Father's death...:を冒してまで、遺産の独り占めを目論むとは、}`
+`{ruby:I don't know, it sounds:…わしにはちょいと信じ}{ruby:a little unbelievable to me.:られんのだがな。}`
+`{ruby:But last year's family conference was:だが、そう疑いたくなるくらい、去年の}{ruby:just so strange, it makes me wonder.":親族会議はおかしかったんやで」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:Eva and the others were painfully aware of how reckless it would be...:金蔵が不機嫌と知って、わざわざ顔を拝みに行くのがどれだけ命知らずなことか、}`
-`{ruby:to try to see Kinzo knowing that he was in a bad mood.:絵羽たちは骨身に沁みてよく理解している。}`
-`{ruby:So ever since hearing about Kinzo getting into a terrible mood during last year's family conference,:だからこそ、去年の親族会議で金蔵が機嫌を猛烈に悪くしたと聞いて以降、}`
-`{ruby:they had never actively tried to contact him.:金蔵と積極的にコンタクトを取ろうとはしなかった。}`
-`{ruby:That was why, until this very day, it hadn't occurred to them to find it suspicious that Kinzo never showed himself......:だから、今日の今日まで、一度も姿を現さなかった金蔵を不審に思いはしなかった……。}`
-`{ruby:"......It definitely is something we should suspect...:「……確かに、疑ってみる価値はあるわね…。}`
-`{ruby:But I wonder if Nii‐san really would do something as appalling as hiding Father's death...:でも、本当に兄さんがお父様の死を隠すなんて大それたことをするかしら…。}`
-`{ruby:......For all his pride, that man has a coward's side to him.:……傲慢なくせに、おかしなところで小心な人よ。}`
-`{ruby:Would he really make such a once‐in‐a‐lifetime bet......?":そんな一世一代の大博打を、本当にするかしら……」}`
-`{ruby:"In any event, it'd probably be a good idea to make sure we get a chance to meet with Father during this year's conference.":「いずれにせよ、今年の会議では、きっちりお父さんのご尊顔を拝謁した方がええやろな」}`
+`{ruby:Eva and the others were painfully:金蔵が不機嫌と知って、わざわざ顔を拝みに}{ruby:aware of how reckless it would be...:行くのがどれだけ命知らずなことか、}`
+`{ruby:to try to see Kinzo knowing:絵羽たちは骨身に沁みて}{ruby:that he was in a bad mood.:よく理解している。}`
+`{ruby:So ever since hearing about Kinzo getting into:だからこそ、去年の親族会議で金蔵が機}{ruby:a terrible mood during last year's family conference,:嫌を猛烈に悪くしたと聞いて以降、}`
+`{ruby:they had never actively:金蔵と積極的にコンタクトを}{ruby:tried to contact him.:取ろうとはしなかった。}`
+`{ruby:That was why, until this very day, it hadn't occurred:だから、今日の今日まで、一度も姿を現さなか}{ruby:to them to find it suspicious that Kinzo never showed himself......:った金蔵を不審に思いはしなかった……。}`
+`{ruby:"......It definitely is:「……確かに、疑ってみる}{ruby:something we should suspect...:価値はあるわね…。}`
+`{ruby:But I wonder if Nii‐san really would:でも、本当に兄さんがお父様の死を隠すな}{ruby:do something as appalling as hiding Father's death...:んて大それたことをするかしら…。}`
+`{ruby:......For all his pride, that man:……傲慢なくせに、おかしな}{ruby:has a coward's side to him.:ところで小心な人よ。}`
+`{ruby:Would he really make:そんな一世一代の大博打を、}{ruby:such a once‐in‐a‐lifetime bet......?":本当にするかしら……」}`
+`{ruby:"In any event, it'd probably be a good idea to make sure:「いずれにせよ、今年の会議では、きっちりお父}{ruby:we get a chance to meet with Father during this year's conference.":さんのご尊顔を拝謁した方がええやろな」}`
 `{ruby:"......They're extremely bad rumors.:「……非常に良くない噂さ。}`
-`{ruby:It seems that Aniki's businesses are failing even worse than we'd imagined.:どうやら兄貴の事業は、俺たちの想像を超えて手酷く失敗してるらしい。}`
-`{ruby:It looks like he's had massive losses and is giving it everything he's got just to try and cover up that fact.":相当の損失を抱えてて、表向きを取り繕うだけで精一杯らしい」}`
-`{ruby:"In that case, it would be very difficult to borrow money from Krauss‐san.":「つまり、蔵臼さんからお金を借りるのはとても難しいことというわけね」}`
+`{ruby:It seems that Aniki's businesses are:どうやら兄貴の事業は、俺たちの想像を}{ruby:failing even worse than we'd imagined.:超えて手酷く失敗してるらしい。}`
+`{ruby:It looks like he's had massive losses and is giving it:相当の損失を抱えてて、表向きを取}{ruby:everything he's got just to try and cover up that fact.":り繕うだけで精一杯らしい」}`
+`{ruby:"In that case, it would be:「つまり、蔵臼さんからお金を借りるの}{ruby:very difficult to borrow money from Krauss‐san.":はとても難しいことというわけね」}`
 `{ruby:"Yeah. I could almost cry.":「あぁ。泣けてくらぁ」}`
-`{ruby:"............So, would being in financial distress give Krauss‐san some kind of weakness?":「…………蔵臼さんにとって、経済的に困窮していることは、ある種の弱みにはならないの？」}`
+`{ruby:"............So, would being in financial distress:「…………蔵臼さんにとって、経済的に困窮してい}{ruby:give Krauss‐san some kind of weakness?":ることは、ある種の弱みにはならないの？」}`
 `{ruby:"A weakness?:「弱み？}`
-`{ruby:.........Well, investors tend to have a keen eye.:………そりゃ、投資家は肥えてるから投資家なんだぜ。}`
-`{ruby:If they were to hear that Aniki is actually low on funds, no one would give him the time of day.":実は金欠だなんてことになったら、誰も見向きもしねぇ」}`
-`{ruby:"I guess trust is the most important part of that business.:「信用第一の世界なのね。}`
+`{ruby:.........Well, investors tend to:………そりゃ、投資家は肥えて}{ruby:have a keen eye.:るから投資家なんだぜ。}`
+`{ruby:If they were to hear that Aniki is actually low:実は金欠だなんてことになった}{ruby:on funds, no one would give him the time of day.":ら、誰も見向きもしねぇ」}`
+`{ruby:"I guess trust is the:「信用第一の世}{ruby:most important part of that business.:界なのね。}`
 `{ruby:..................":………………」}`
 `{ruby:Kyrie smiled thinly.:霧江は薄く笑う。}`
-`{ruby:Rudolf was taken aback by that smile...:留弗夫はその笑みに、はっとする…。}`
-`{ruby:He had figured that his plan, which involved raising money to get him out of his current mess by borrowing from the affluent Krauss,:裕福な蔵臼から借金をすれば、当面を凌げるという算段が、}`
-`{ruby:would all come to nothing now that they knew Krauss himself was in financial trouble......:実は蔵臼もそれほど余裕がないことがわかり、ご破算になったと思っていた……。}`
-`{ruby:"......Krauss‐san's credibility might be something {i:he} needs for his future work,:「……蔵臼さんの信用は、蔵臼さんのこれからのお仕事に必要だろうけれど。}`
-`{ruby:but {i:we} won't have any use for it.":私たちのこれからには必要ないわ」}`
-`{ruby:"You're suggesting extorting money from Aniki?":「兄貴をゆするってのか」}`
-`{ruby:"If I was in your place, I'd hate the idea.:「私だったら嫌よ。}`
-`{ruby:Who would want to undermine their own blood sibling like that?:血の繋がった兄弟を貶めるなんて。}`
+`{ruby:Rudolf was taken:留弗夫はその笑みに、}{ruby:aback by that smile...:はっとする…。}`
+`{ruby:He had figured that his plan, which involved raising money to get:裕福な蔵臼から借金をすれば、当}{ruby:him out of his current mess by borrowing from the affluent Krauss,:面を凌げるという算段が、}`
+`{ruby:would all come to nothing now that:実は蔵臼もそれほど余裕がないことがわかり}{ruby:they knew Krauss himself was in financial trouble......:、ご破算になったと思っていた……。}`
+`{ruby:"......Krauss‐san's credibility might be something:「……蔵臼さんの信用は、蔵臼さんのこれ}{ruby:{i:he} needs for his future work,:からのお仕事に必要だろうけれど。}`
+`{ruby:but {i:we} won't have:私たちのこれからに}{ruby:any use for it.":は必要ないわ」}`
+`{ruby:"You're suggesting extorting:「兄貴をゆする}{ruby:money from Aniki?":ってのか」}`
+`{ruby:"If I was in your:「私だったら}{ruby:place, I'd hate the idea.:嫌よ。}`
+`{ruby:Who would want to undermine:血の繋がった兄弟を}{ruby:their own blood sibling like that?:貶めるなんて。}`
 `{ruby:*giggle*giggle*.":くすくすくすくす」}`
-`{ruby:Rudolf felt a shiver go up his spine at Kyrie's cold smile...:冷たく笑う、霧江のその表情に、留弗夫はぞくりとするものを感じる…。}`
-`{ruby:At times, Kyrie was able to throw away all compassion and think in an extremely ruthless manner.:霧江は時折、情愛というものを全て切り捨てて、極めて冷酷に思考を巡らすことが出来る。}`
-`{ruby:Whenever he felt that, Rudolf thought about how he never wanted to have her as his enemy......:そういうものを感じる時、留弗夫はつくづく、彼女を敵には回したくないと思い知るのだ……。}`
-`{ruby:"I wouldn't want to threaten Onii‐san if there were any other way to get money.":「他に金策があるなら、お兄さんを脅迫なんてしたくないものだわ」}`
-`{ruby:"......If there were another way, we wouldn't be worrying.":「……あったら悩んだりしねぇ」}`
-`{ruby:"Don't you think worrying about a problem when you have no other options is a waste of time?":「選択の余地のない問題で悩むのは、人生の無駄だと思わない？」}`
+`{ruby:Rudolf felt a shiver go up:冷たく笑う、霧江のその表情に、留弗夫}{ruby:his spine at Kyrie's cold smile...:はぞくりとするものを感じる…。}`
+`{ruby:At times, Kyrie was able to throw away:霧江は時折、情愛というものを全て切り捨てて、}{ruby:all compassion and think in an extremely ruthless manner.:極めて冷酷に思考を巡らすことが出来る。}`
+`{ruby:Whenever he felt that, Rudolf thought about how:そういうものを感じる時、留弗夫はつくづく、彼女}{ruby:he never wanted to have her as his enemy......:を敵には回したくないと思い知るのだ……。}`
+`{ruby:"I wouldn't want to threaten Onii‐san if:「他に金策があるなら、お兄さんを脅}{ruby:there were any other way to get money.":迫なんてしたくないものだわ」}`
+`{ruby:"......If there were another:「……あったら悩ん}{ruby:way, we wouldn't be worrying.":だりしねぇ」}`
+`{ruby:"Don't you think worrying about a problem when you:「選択の余地のない問題で悩むのは}{ruby:have no other options is a waste of time?":、人生の無駄だと思わない？」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:Rudolf stopped talking, folded his arms, and lowered his gaze.:留弗夫は言いよどみ、腕を組んで俯く。}`
-`{ruby:Even now, Rudolf had a kind of fear of Krauss due to his violence when they were young.:幼少期に振るわれた暴力が元で、留弗夫は未だに蔵臼に対してある種の恐怖感を持つ。}`
-`{ruby:......And now, Rudolf would be the one to threaten him.:……その蔵臼を、脅す。}`
-`{ruby:That meant Rudolf would also have to fight against his childhood trauma.:それは、留弗夫の幼少期からのトラウマとの戦いさえ意味した。}`
-`{ruby:So to give her husband a little push, Kyrie smiled reassuringly,:だからそんな夫の背中を押すかのように、霧江は心強く、}`
+`{ruby:Rudolf stopped talking, folded his:留弗夫は言いよどみ、}{ruby:arms, and lowered his gaze.:腕を組んで俯く。}`
+`{ruby:Even now, Rudolf had a kind of fear of:幼少期に振るわれた暴力が元で、留弗夫は未だ}{ruby:Krauss due to his violence when they were young.:に蔵臼に対してある種の恐怖感を持つ。}`
+`{ruby:......And now, Rudolf would be:……その蔵臼を}{ruby:the one to threaten him.:、脅す。}`
+`{ruby:That meant Rudolf would also have:それは、留弗夫の幼少期からのトラ}{ruby:to fight against his childhood trauma.:ウマとの戦いさえ意味した。}`
+`{ruby:So to give her husband:だからそんな夫の背中を押すか}{ruby:a little push, Kyrie smiled reassuringly,:のように、霧江は心強く、}`
 `{ruby:......and perhaps coldly.:……あるいは冷たく、笑う。}`
-`{ruby:"I never want to do business based on trust.:「つくづく、信用で仕事をしたくないものだわ。}`
-`{ruby:It takes hard work to build up trust, but only an instant to lose it. There's no less profitable investment.":信用ほど、積み上げるのに苦労して、失う時が一瞬なんて、割の合わない投資はない」}`
+`{ruby:"I never want to:「つくづく、信用で仕事を}{ruby:do business based on trust.:したくないものだわ。}`
+`{ruby:It takes hard work to build up trust, but only:信用ほど、積み上げるのに苦労して、失う時が}{ruby:an instant to lose it. There's no less profitable investment.":一瞬なんて、割の合わない投資はない」}`
 `{ruby:"Y‐...you're right.:「そ、…そうだな。}`
-`{ruby:...All the trust in the world isn't worth a crisp new banknote.":…世の中、百の信用より一枚の新札だ」}`
-`{ruby:"Even though Krauss‐san has been taking huge losses,:「蔵臼さんが大きな損失を出していると言っても、}`
-`{ruby:he should be able to prepare enough money to buy us some time.:私たちの急場を凌ぐためのお金くらいは充分用意できるはず。}`
-`{ruby:Of course, this will involve forcing him to exchange all the trust he's built up for cash.":もちろん、蔵臼さんのこれまでの信用を換金してお金を作ってもらうことになるけれど」}`
-`{ruby:".........This is......gonna get rough...":「………こいつは、……ヤバイ話になるな…」}`
+`{ruby:...All the trust in the world:…世の中、百の信用よ}{ruby:isn't worth a crisp new banknote.":り一枚の新札だ」}`
+`{ruby:"Even though Krauss‐san has:「蔵臼さんが大きな損失を出}{ruby:been taking huge losses,:していると言っても、}`
+`{ruby:he should be able to prepare:私たちの急場を凌ぐためのお金く}{ruby:enough money to buy us some time.:らいは充分用意できるはず。}`
+`{ruby:Of course, this will involve forcing him to:もちろん、蔵臼さんのこれまでの信用を換金し}{ruby:exchange all the trust he's built up for cash.":てお金を作ってもらうことになるけれど」}`
+`{ruby:".........This is......gonna:「………こいつは、……ヤ}{ruby:get rough...":バイ話になるな…」}`
 `{ruby:"We'll have to prepare sufficiently.:「充分な備えが必要よ。}`
-`{ruby:We haven't been given any time or room for failure.:私たちには時間も失敗も許されてない。}`
+`{ruby:We haven't been given any:私たちには時間も失敗}{ruby:time or room for failure.:も許されてない。}`
 `{ruby:Isn't that right?":そうだったわね？」}`
-`{ruby:"Among my Kyoto friends, there are a few people who are very good at investigating that sort of thing.:「私の京都の友人たちに、そういうのを洗うのが上手な人たちがいるわ。}`
-`{ruby:I'd rather not be in the debt of these people, ......but do you want to try meeting them?:あまり世話になりたくない連中なんだけど、……一度会ってもらってもいい？}`
-`{ruby:They don't give receipts, but I'm sure they'll dig up something that makes them worth the investment.":領収書は切れないけど、きっと、投資に見合うだけのものを調べ上げてくれるわ」}`
+`{ruby:"Among my Kyoto friends, there are a few people:「私の京都の友人たちに、そういうのを}{ruby:who are very good at investigating that sort of thing.:洗うのが上手な人たちがいるわ。}`
+`{ruby:I'd rather not be in the debt of these:あまり世話になりたくない連中なんだけど}{ruby:people, ......but do you want to try meeting them?:、……一度会ってもらってもいい？}`
+`{ruby:They don't give receipts, but I'm sure they'll:領収書は切れないけど、きっと、投資に見合}{ruby:dig up something that makes them worth the investment.":うだけのものを調べ上げてくれるわ」}`
 `{ruby:"Yes.:「えぇ。}`
 `{ruby:Maria is doing well too.:真里亞も元気よ。}`
-`{ruby:.........That's none of your concern.:………そちらは大きなお世話よ。}`
+`{ruby:.........That's none:………そちらは大き}{ruby:of your concern.:なお世話よ。}`
 `{ruby:Thank you.:ありがとう。}`
 `{ruby:.........Huh?:………え？}`
-`{ruby:I don't know, I'd have to look at my schedule...":さぁ、スケジュールを見てみないとわからないけど…」}`
-`{ruby:Rosa was talking to Rudolf over the phone.:楼座の電話の相手は留弗夫だった。}`
-`{ruby:Rosa rarely received calls from her older siblings, so she braced herself for something serious.:兄や姉から電話をもらうことは滅多になかったので、余程のことかと楼座は身を硬くしていた。}`
+`{ruby:I don't know, I'd have:さぁ、スケジュールを見てみな}{ruby:to look at my schedule...":いとわからないけど…」}`
+`{ruby:Rosa was talking to:楼座の電話の相手は}{ruby:Rudolf over the phone.:留弗夫だった。}`
+`{ruby:Rosa rarely received calls from her older:兄や姉から電話をもらうことは滅多になかったので}{ruby:siblings, so she braced herself for something serious.:、余程のことかと楼座は身を硬くしていた。}`
 `{ruby:"Well, truth is...:「実はな。}`
-`{ruby:I want to have a little talk about the next family conference, without Aniki.":次の親族会議について、ちょいと兄貴抜きで意見を調整したいんだ」}`
-`{ruby:".........Between you, me, and Eva nee‐san?:「………絵羽姉さんと留弗夫兄さんと私の３人で？}`
+`{ruby:I want to have a little talk:次の親族会議について、ちょいと兄貴}{ruby:about the next family conference, without Aniki.":抜きで意見を調整したいんだ」}`
+`{ruby:".........Between you, me,:「………絵羽姉さんと留弗夫}{ruby:and Eva nee‐san?:兄さんと私の３人で？}`
 `{ruby:......Sounds like a headache.":……頭痛の増えそうな話ね」}`
-`{ruby:"I can't talk about the details over the phone,:「電話じゃ詳しくは話せない。}`
-`{ruby:but you might find that it's worth listening to.":だが、お前にとって聞く価値のある話のはずだ」}`
+`{ruby:"I can't talk about:「電話じゃ詳しく}{ruby:the details over the phone,:は話せない。}`
+`{ruby:but you might find:だが、お前にとって聞く価}{ruby:that it's worth listening to.":値のある話のはずだ」}`
 `{ruby:"Something good?":「それはいい話？」}`
 `{ruby:"Of course.:「もちろん。}`
 `{ruby:Aneki is all for it.":姉貴は乗り気だぜ」}`
 `{ruby:"Nee‐san is......?":「姉さんが……？」}`
-`{ruby:"We just want your approval. We aren't going to ask you for money or anything like that.:「楼座には賛同して欲しいだけだ。カネを出せとか、そういう話じゃない。}`
-`{ruby:The most important thing is that the three of us are united.:俺たち３人が全員結束してることが、まず大事なんだ。}`
+`{ruby:"We just want your approval. We aren't going:「楼座には賛同して欲しいだけだ。カネ}{ruby:to ask you for money or anything like that.:を出せとか、そういう話じゃない。}`
+`{ruby:The most important thing is that:俺たち３人が全員結束してるこ}{ruby:the three of us are united.:とが、まず大事なんだ。}`
 `{ruby:Understand what I'm saying?":わかるな？」}`
 `{ruby:Rosa let out a sigh.:楼座は溜息を漏らす。}`
-`{ruby:...She did so because, in the past, when Rudolf and Eva got into a fight with Krauss, they often used a tone like this to drag her into it......:留弗夫や絵羽が蔵臼と喧嘩をする時、よくこんな口調で巻き込まれてきたからだ……。}`
+`{ruby:...She did so because, in the past, when Rudolf and Eva got into a:留弗夫や絵羽が蔵臼と喧嘩をする時、よくこん}{ruby:fight with Krauss, they often used a tone like this to drag her into it......:な口調で巻き込まれてきたからだ……。}`
 `{ruby:"First, tell me.:「先に教えて。}`
-`{ruby:I stand to gain something from this too, right?":その話は、私も得をする話よね？」}`
+`{ruby:I stand to gain:その話は、私も得を}{ruby:something from this too, right?":する話よね？」}`
 `{ruby:"Yep.:「あぁ。}`
-`{ruby:The three of us will each grab 200 million out of this.:俺たち３人で２億ずつせしめる。}`
-`{ruby:If things go well, we might be able to squeeze out more.:うまく行けば、それ以上も引っ張れるかもしれない。}`
-`{ruby:That should be enough to wipe out your debt, right?":お前の借金、それでチャラだろ？」}`
+`{ruby:The three of us will each:俺たち３人で２億ず}{ruby:grab 200 million out of this.:つせしめる。}`
+`{ruby:If things go well, we might:うまく行けば、それ以上も引}{ruby:be able to squeeze out more.:っ張れるかもしれない。}`
+`{ruby:That should be enough to:お前の借金、それで}{ruby:wipe out your debt, right?":チャラだろ？」}`
 `{ruby:".....................:「…………………。}`
-`{ruby:And when will we be grabbing this by?":それはいつまでにせしめられるの？」}`
+`{ruby:And when will we:それはいつまでにせし}{ruby:be grabbing this by?":められるの？」}`
 `{ruby:"Within this fiscal year, of course.:「もちろん、年度内だ。}`
 `{ruby:I need it.:俺も助かる。}`
 `{ruby:Aneki needs it.:姉貴も助かる。}`
 `{ruby:And you need it too, Rosa.:そして楼座も助かるってわけだ。}`
-`{ruby:All three of our problems'll be settled.":三方丸く収まる」}`
-`{ruby:"So, its chances of success are good enough that Nee‐san's agreed to it?":「姉さんが話に乗るくらいには、勝算があるのね？」}`
+`{ruby:All three of:三方丸く収}{ruby:our problems'll be settled.":まる」}`
+`{ruby:"So, its chances of success are:「姉さんが話に乗るくらいに}{ruby:good enough that Nee‐san's agreed to it?":は、勝算があるのね？」}`
 `{ruby:"Now do you wanna hear?:「話を聞く気になったか？}`
-`{ruby:I know it's a bit sudden, but let's meet this Sunday, 19:00, at that coffee shop you like in Ginza.:ちょいと急だが、次の日曜日の１９時に、銀座のお前のお気に入りの喫茶店で会おう。}`
-`{ruby:That's the only time Aneki's schedule and mine match.:俺と姉貴の予定がそこでしか合わねぇ。}`
+`{ruby:I know it's a bit sudden, but let's meet this:ちょいと急だが、次の日曜日の１９時に、銀座}{ruby:Sunday, 19:00, at that coffee shop you like in Ginza.:のお前のお気に入りの喫茶店で会おう。}`
+`{ruby:That's the only time:俺と姉貴の予定がそこ}{ruby:Aneki's schedule and mine match.:でしか合わねぇ。}`
 `{ruby:Any problems?":問題ないか」}`
-`{ruby:"If it can bring me 200 million, I have no choice but to listen.:「２億捻出できる話なら、聞かないわけにはいかないわ。}`
-`{ruby:......Then let's meet at 7 p.m. this Sunday at Leopold's.":……では次の日曜日の午後７時に、レオポルドで」}`
+`{ruby:"If it can bring me 200 million,:「２億捻出できる話なら、聞か}{ruby:I have no choice but to listen.:ないわけにはいかないわ。}`
+`{ruby:......Then let's meet at 7:……では次の日曜日の午後７}{ruby:p.m. this Sunday at Leopold's.":時に、レオポルドで」}`
 `{ruby:"Say hi to Maria‐chan for me.:「真里亞ちゃんによろしくな。}`
 `{ruby:You can bring her too if you want.":連れて来てもいいんだぜ」}`
-`{ruby:"Don't talk about money in front of that child!":「あの子の前でお金の話は止めて！」}`
-`{ruby:She set the receiver down with a clunk, a little violently.:受話器をガチャリと、少し乱暴に置く。}`
-`{ruby:Apparently, either Eva or Rudolf had gotten ahold of one of Krauss's weak points.:どうやら、蔵臼の弱みを、絵羽か留弗夫のどちらかが握ったらしい。}`
-`{ruby:They were probably thinking of threatening him with that at the next family conference and forcing him to pay money.:次の親族会議でそれを脅迫して、カネを支払わせようというのだろう。}`
-`{ruby:Even before hearing the details, she knew full well that it could be nothing good.:ろくでもない話であるのは、聞く前から百も承知だ。}`
-`{ruby:But even so, ......this was a once‐in‐a‐lifetime chance to pay back her large debts.:だがそれでも、……莫大な借金を返済できる、千載一遇のチャンスだった。}`
-`{ruby:Rosa took a notebook out of her handbag,:楼座はハンドバッグから手帳を取り出し、}`
-`{ruby:and went to fill in the day she would be meeting with Rudolf and Eva.:留弗夫たちとの打ち合わせ日を記入しようとする。}`
-`{ruby:......Then she frowned and smacked herself hard in the forehead.:……そして顔をしかめ、額を強く叩いた。}`
-`{ruby:Because written there was "DZL with Maria".:そこには、「真里亞とＤＺＬ」と、……娘との予定が記されていたからだ。}`
-`{ruby:Maria was in her room, playing around excitedly with Sakutarou and the others.:真里亞は自室で、さくたろうたちとはしゃいでいる。}`
-`{ruby:It was because her mother was going to take her to the amusement park that had just been built,:次の日曜日に、出来たばかりの遊園地、}`
+`{ruby:"Don't talk about money:「あの子の前でお金の}{ruby:in front of that child!":話は止めて！」}`
+`{ruby:She set the receiver down:受話器をガチャリと、}{ruby:with a clunk, a little violently.:少し乱暴に置く。}`
+`{ruby:Apparently, either Eva or Rudolf had gotten:どうやら、蔵臼の弱みを、絵羽か留弗}{ruby:ahold of one of Krauss's weak points.:夫のどちらかが握ったらしい。}`
+`{ruby:They were probably thinking of threatening him with that at:次の親族会議でそれを脅迫して、カネ}{ruby:the next family conference and forcing him to pay money.:を支払わせようというのだろう。}`
+`{ruby:Even before hearing the details, she knew:ろくでもない話であるのは、}{ruby:full well that it could be nothing good.:聞く前から百も承知だ。}`
+`{ruby:But even so, ......this was a once‐in‐a‐lifetime:だがそれでも、……莫大な借金を返済で}{ruby:chance to pay back her large debts.:きる、千載一遇のチャンスだった。}`
+`{ruby:Rosa took a notebook:楼座はハンドバッグから}{ruby:out of her handbag,:手帳を取り出し、}`
+`{ruby:and went to fill in the day:留弗夫たちとの打ち合わせ日}{ruby:she would be meeting with Rudolf and Eva.:を記入しようとする。}`
+`{ruby:......Then she frowned and smacked:……そして顔をしかめ、}{ruby:herself hard in the forehead.:額を強く叩いた。}`
+`{ruby:Because written there:そこには、「真里亞とＤＺＬ」と、……}{ruby:was "DZL with Maria".:娘との予定が記されていたからだ。}`
+`{ruby:Maria was in her room, playing:真里亞は自室で、さくたろう}{ruby:around excitedly with Sakutarou and the others.:たちとはしゃいでいる。}`
+`{ruby:It was because her mother was going to take:次の日曜日に、出来た}{ruby:her to the amusement park that had just been built,:ばかりの遊園地、}`
 `{ruby:Delsney Land, on Sunday......:デルゼニーランドに連れて行ってもらえることになっているからだ……。}`
-`{ruby:Looking at the clock, Rosa saw that it was just past nine o'clock at night.:時計を見ると、もう夜の９時を過ぎていた。}`
-`{ruby:{n}Maria was breaking the lights‐out rule.:{n}それは、消灯のルールの違反だ。}`
-`{ruby:After covering her face and agonizing for a while,:楼座は顔を覆いながら、しばらくの間、悩みこんだ後、}`
-`{ruby:......Rosa stood up and stomped over to Maria's room.:……すくっと立ち上がり、踵を踏み鳴らしながら真里亞の部屋へ向かっていく。}`
-`{ruby:The room was almost certainly a mess as well.:きっと、部屋も散らかしているだろう。}`
-`{ruby:{n}......At least tonight, that was convenient.:{n}……それは今夜に限り、好都合だった。}`
-`{ruby:As she stood outside the door to Maria's room, listening to the happy laughter seeping through,:上機嫌な笑い声が漏れ聞こえる真里亞の部屋の扉の前に立ち、}`
-`{ruby:Rosa's face twisted in anguish once again, and she looked at the floor.:楼座は一度、苦悩で顔を歪めて俯く。}`
+`{ruby:Looking at the clock, Rosa saw that:時計を見ると、もう夜の}{ruby:it was just past nine o'clock at night.:９時を過ぎていた。}`
+`{ruby:{n}Maria was breaking:{n}それは、消灯の}{ruby:the lights‐out rule.:ルールの違反だ。}`
+`{ruby:After covering her face:楼座は顔を覆いながら、しばら}{ruby:and agonizing for a while,:くの間、悩みこんだ後、}`
+`{ruby:......Rosa stood up and:……すくっと立ち上がり、踵を踏み鳴らし}{ruby:stomped over to Maria's room.:ながら真里亞の部屋へ向かっていく。}`
+`{ruby:The room was almost:きっと、部屋も散らか}{ruby:certainly a mess as well.:しているだろう。}`
+`{ruby:{n}......At least tonight,:{n}……それは今夜に限}{ruby:that was convenient.:り、好都合だった。}`
+`{ruby:As she stood outside the door to Maria's:上機嫌な笑い声が漏れ聞こえる真}{ruby:room, listening to the happy laughter seeping through,:里亞の部屋の扉の前に立ち、}`
+`{ruby:Rosa's face twisted in anguish once:楼座は一度、苦悩で顔}{ruby:again, and she looked at the floor.:を歪めて俯く。}`
 `{ruby:Then, when she raised her head again,:そしてもう一度、顔を上げた時には、}`
-`{ruby:her brow was furrowed, and her face had become an ugly expression of anger...:眉間にしわを寄せた、醜悪な憤怒の表情になっていた…。}`
+`{ruby:her brow was furrowed, and her face:眉間にしわを寄せた、醜悪な憤}{ruby:had become an ugly expression of anger...:怒の表情になっていた…。}`
 `{ruby:The weather wasn't looking very good.:空模様はあまりよくない。}`
-`{ruby:The weekend forecast had said that there was a high likelihood of a tropical cyclone growing into a large typhoon.:週間予報では、熱帯低気圧が大きな台風に成長する可能性が高いと伝えていた。}`
-`{ruby:If it was true that premonitions tended to be right...:不愉快な予感が大抵当たるのなら。}`
-`{ruby:......then this year's family conference would probably take place in absolutely horrible weather.:……恐らく、今年の親族会議は、最悪の天気の中で行なわれることになるだろう。}`
-`{ruby:In fact, Natsuhi wished that a typhoon large enough to stop boat travel to the island would seal Rokkenjima away forever.:いや、いっそ、船が欠航するほどの台風が、六軒島を永遠に閉ざしてくれないものか。}`
-`{ruby:If that happened, she would be able to keep Kinzo's death hidden as long as she wanted......:そうすれば、金蔵の死をいつまでも隠し果せることが出来るのだが……。}`
-`{ruby:"If only......the typhoon would keep them at bay forever.":「台風が、……彼らを永遠に遠ざけてくれればいいのに」}`
+`{ruby:The weekend forecast had said that there was a high:週間予報では、熱帯低気圧が大きな台風に}{ruby:likelihood of a tropical cyclone growing into a large typhoon.:成長する可能性が高いと伝えていた。}`
+`{ruby:If it was true that:不愉快な予感が大抵}{ruby:premonitions tended to be right...:当たるのなら。}`
+`{ruby:......then this year's family conference would:……恐らく、今年の親族会議は、最悪の天気}{ruby:probably take place in absolutely horrible weather.:の中で行なわれることになるだろう。}`
+`{ruby:In fact, Natsuhi wished that a typhoon large enough to:いや、いっそ、船が欠航するほどの台風が、六}{ruby:stop boat travel to the island would seal Rokkenjima away forever.:軒島を永遠に閉ざしてくれないものか。}`
+`{ruby:If that happened, she would be able to:そうすれば、金蔵の死をいつまでも隠し}{ruby:keep Kinzo's death hidden as long as she wanted......:果せることが出来るのだが……。}`
+`{ruby:"If only......the typhoon would:「台風が、……彼らを永遠に遠}{ruby:keep them at bay forever.":ざけてくれればいいのに」}`
 `{ruby:Natsuhi let out a deep sigh.:大きく溜息を漏らす夏妃。}`
-`{ruby:......Just doing that made her headache throb...:……溜息をつくだけでも、頭痛に障る…。}`
-`{ruby:As the day of the family conference approached, the intensity of her headache just kept on increasing.:親族会議の日程が近付くにつれ、頭痛は酷さを増すばかりだった。}`
+`{ruby:......Just doing that:……溜息をつくだけでも}{ruby:made her headache throb...:、頭痛に障る…。}`
+`{ruby:As the day of the family conference approached,:親族会議の日程が近付くにつれ、頭}{ruby:the intensity of her headache just kept on increasing.:痛は酷さを増すばかりだった。}`
 `{ruby:At that time, the phone rang.:その時、電話が鳴った。}`
-`{ruby:{n}Natsuhi turned the television off and picked up the receiver...:{n}夏妃はテレビを消し、受話器を取る…。}`
+`{ruby:{n}Natsuhi turned the television off:{n}夏妃はテレビを消し}{ruby:and picked up the receiver...:、受話器を取る…。}`
 `{ruby:"......Hello?":「……はい」}`
-`{ruby:"I apologize for calling during your rest.:「お休みのところ、申し訳ございません。}`
+`{ruby:"I apologize for:「お休みのところ、申し}{ruby:calling during your rest.:訳ございません。}`
 `{ruby:It is Genji.":源次でございます」}`
 `{ruby:"Is something the matter...?":「何事ですか…？」}`
-`{ruby:"There is a phone call for you from the external line.:「奥様に外線からお電話でございます。}`
-`{ruby:......However, they will not state their name.":……ですが、名前をお名乗りになられません」}`
+`{ruby:"There is a phone call:「奥様に外線からお電}{ruby:for you from the external line.:話でございます。}`
+`{ruby:......However, they will:……ですが、名前をお名乗}{ruby:not state their name.":りになられません」}`
 `{ruby:"They aren't saying their name...?":「名乗らない…？」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:The person in question said you would know when you spoke with them...:先方は話せばわかるとは申しておりますが…。}`
+`{ruby:The person in question said you:先方は話せばわかるとは申}{ruby:would know when you spoke with them...:しておりますが…。}`
 `{ruby:What would you like me to do?:如何しますか。}`
 `{ruby:It might be a prank.":悪戯かもしれません」}`
 `{ruby:"What did they sound like?":「どんな相手です？」}`
 `{ruby:"I believe it was a young man.:「恐らく、若い男性ではないかと。}`
-`{ruby:Do you have any ideas as to who it might be...?":お心当たりはございませんか…？」}`
+`{ruby:Do you have any ideas:お心当たりはござい}{ruby:as to who it might be...?":ませんか…？」}`
 `{ruby:"A young......man?":「若い、……男性？」}`
-`{ruby:Natsuhi didn't have a clue who that might be.:夏妃には、まったく心当たりがなかった。}`
-`{ruby:In the first place, there was no one amongst her acquaintances who would do something as rude as refusing to state their name.:そもそも彼女の知人に、名乗らないような失礼な人間はひとりもいない。}`
-`{ruby:And on top of that...a young...man......?:その上、若い、…男性……？}`
-`{ruby:Natsuhi thought that as a wife, it wasn't right for her to have connections with men other than her husband, much less a young man; it might be considered suspicious.:妻たるもの、夫以外の、それも若い男性と、疑われるような接点があるべきではない。}`
-`{ruby:The phone call suddenly seemed like something dirty.:そう思うと、急に汚らわしい電話のように思えてきた。}`
-`{ruby:But at the same time, she was more interested than ever in what this person wanted to tell her.:しかし同時に、それでもなお、何を自分に伝えようとしているのかという興味も持った。}`
-`{ruby:......Could it be that there was some kind of trouble related to Krauss's business?:……ひょっとして、蔵臼の事業にかかわる何かでトラブルでもあったのではないだろうか。}`
-`{ruby:What if there was some particular reason that they needed to talk to Krauss's wife instead of Krauss directly......?:それを、蔵臼本人ではなく、あえて妻に伝えなければならない特別な事情が……？}`
+`{ruby:Natsuhi didn't have a:夏妃には、まったく心当}{ruby:clue who that might be.:たりがなかった。}`
+`{ruby:In the first place, there was no one amongst her acquaintances:そもそも彼女の知人に、名乗らないよう}{ruby:who would do something as rude as refusing to state their name.:な失礼な人間はひとりもいない。}`
+`{ruby:And on top:その上、若い、…}{ruby:of that...a young...man......?:男性……？}`
+`{ruby:Natsuhi thought that as a wife, it wasn't right for her to have connections with:妻たるもの、夫以外の、それも若い男性と、疑}{ruby:men other than her husband, much less a young man; it might be considered suspicious.:われるような接点があるべきではない。}`
+`{ruby:The phone call suddenly:そう思うと、急に汚らわしい電}{ruby:seemed like something dirty.:話のように思えてきた。}`
+`{ruby:But at the same time, she was more interested:しかし同時に、それでもなお、何を自分に伝え}{ruby:than ever in what this person wanted to tell her.:ようとしているのかという興味も持った。}`
+`{ruby:......Could it be that there was some:……ひょっとして、蔵臼の事業にかかわる何かで}{ruby:kind of trouble related to Krauss's business?:トラブルでもあったのではないだろうか。}`
+`{ruby:What if there was some particular reason that they:それを、蔵臼本人ではなく、あえて妻に伝え}{ruby:needed to talk to Krauss's wife instead of Krauss directly......?:なければならない特別な事情が……？}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:No matter what the message, it was her duty as a wife to hear it and relay it to Krauss.:どのような内容であれ、聞いて蔵臼に伝えるのが妻の役目だ。}`
-`{ruby:......If it was some strange kind of extortion attempt, she just had to firmly refuse and inform Krauss that she had received a phone call like that.:……おかしな脅迫だったなら毅然と断り、そういう電話があった旨を蔵臼に報告すればいい。}`
-`{ruby:If the call was something irritating, then she just had to tell Genji to never again send her a call if the caller refused to state their name.:腹立たしい電話なら、名乗らない電話は二度と取り次がないよう、源次に厳命すればいいだけの話だ。}`
-`{ruby:Thinking this, Natsuhi told Genji, who was offering to hang up after all, to connect her to this person,:夏妃はそう考え、やはり切りますかと言う源次に、繋ぐように伝え、}`
+`{ruby:No matter what the message, it was her duty as:どのような内容であれ、聞いて蔵}{ruby:a wife to hear it and relay it to Krauss.:臼に伝えるのが妻の役目だ。}`
+`{ruby:......If it was some strange kind of extortion attempt, she just had to:……おかしな脅迫だったなら毅然と断り、そうい}{ruby:firmly refuse and inform Krauss that she had received a phone call like that.:う電話があった旨を蔵臼に報告すればいい。}`
+`{ruby:If the call was something irritating, then she just had to tell Genji to:腹立たしい電話なら、名乗らない電話は二度と取り次}{ruby:never again send her a call if the caller refused to state their name.:がないよう、源次に厳命すればいいだけの話だ。}`
+`{ruby:Thinking this, Natsuhi told Genji, who was offering to:夏妃はそう考え、やはり切りますかと}{ruby:hang up after all, to connect her to this person,:言う源次に、繋ぐように伝え、}`
 `{ruby:and she set the receiver down.:一度、受話器を置く。}`
-`{ruby:After a short while, the phone rang again......:しばらくすると、再び電話が鳴り響いた……。}`
+`{ruby:After a short while,:しばらくすると、再び電話}{ruby:the phone rang again......:が鳴り響いた……。}`
 `{ruby:"............Hello?":「…………もしもし」}`
 `{ruby:This wasn't the internal line.:これは内線ではない。}`
-`{ruby:It was the external phone line, which Genji had transferred to her.:源次が転送した外線電話だ。}`
-`{ruby:{n}So it should already have been connected directly to the mysterious man.:{n}だからもう、直接、謎の男と電話は繋がっているはず。}`
-`{ruby:However, the person on the other end didn't respond to her.:だが、問い掛けに相手は応えない。}`
-`{ruby:......Not liking this at all, Natsuhi spoke one more time, sounding displeased.:……不愉快な気持ちになり、夏妃は不機嫌そうにもう一度言った。}`
+`{ruby:It was the external phone line,:源次が転送した外}{ruby:which Genji had transferred to her.:線電話だ。}`
+`{ruby:{n}So it should already have been:{n}だからもう、直接、謎の男}{ruby:connected directly to the mysterious man.:と電話は繋がっているはず。}`
+`{ruby:However, the person on the:だが、問い掛けに相}{ruby:other end didn't respond to her.:手は応えない。}`
+`{ruby:......Not liking this at all, Natsuhi:……不愉快な気持ちになり、夏妃は}{ruby:spoke one more time, sounding displeased.:不機嫌そうにもう一度言った。}`
 `{ruby:"Hello?:「もしもし？}`
 `{ruby:Who is it?:誰ですか？}`
 `{ruby:Tell me your name...!":名を名乗りなさい…！」}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:She heard something that sounded like a sigh.:吐息らしきものが聞こえた。}`
+`{ruby:She heard something that:吐息らしきものが}{ruby:sounded like a sigh.:聞こえた。}`
 `{ruby:{n}She automatically gulped.:{n}思わず、固唾を飲み込んでしまう。}`
-`{ruby:After remaining silent for a little longer, the man finally answered......:さらにもうしばらくの沈黙の後、ようやく男は電話に応えた……。}`
+`{ruby:After remaining silent for a:さらにもうしばらくの沈黙の後、よ}{ruby:little longer, the man finally answered......:うやく男は電話に応えた……。}`
 `{ruby:".........It's been a long time.":「………久しぶりだな」}`
-`{ruby:That was the first time the man had spoken.:それが、男の第一声だった。}`
+`{ruby:That was the first:それが、男の第一}{ruby:time the man had spoken.:声だった。}`
 `{ruby:"......Just how long has it been?:「……どれくらいぶりになるんだ。}`
 `{ruby:......How many years, I wonder.":……一体、何年ぶりかな」}`
 `{ruby:"What are you talking about?:「何の話です。}`
 `{ruby:Who are you...?!":あなたは誰ですか…！」}`
-`{ruby:The voice certainly did sound like that of a young man.:その声は、確かに青年くらいの男の声に聞こえた。}`
-`{ruby:But it was a bit hard to figure out much about a person just by their voice over the phone...:しかし、電話の向こうの声だけで相手の正体を見破るのは難しい…。}`
-`{ruby:He sounded like a young adult, but he might actually have been of middle‐school age,:青年くらいの男に感じられるが、案外、中学生くらいの男子かもしれないし、}`
-`{ruby:or an adult whose voice still hadn't deepened.:まだまだ声に張りを持つ壮年男性かもしれない。}`
-`{ruby:In fact, it might have been premature to assume this person was a male at all.:いやいや、男だと決め付けることさえ、早計かもしれない。}`
+`{ruby:The voice certainly did sound:その声は、確かに青年くらい}{ruby:like that of a young man.:の男の声に聞こえた。}`
+`{ruby:But it was a bit hard to figure out much:しかし、電話の向こうの声だけで相手}{ruby:about a person just by their voice over the phone...:の正体を見破るのは難しい…。}`
+`{ruby:He sounded like a young adult, but:青年くらいの男に感じられるが、案外、中}{ruby:he might actually have been of middle‐school age,:学生くらいの男子かもしれないし、}`
+`{ruby:or an adult whose:まだまだ声に張りを持つ壮}{ruby:voice still hadn't deepened.:年男性かもしれない。}`
+`{ruby:In fact, it might have been premature to:いやいや、男だと決め付けること}{ruby:assume this person was a male at all.:さえ、早計かもしれない。}`
 `{ruby:However, one thing was certain......:しかし、確実に言えることは……、}`
-`{ruby:Though this person spoke to Natsuhi in such a familiar and casual manner, Natsuhi had absolutely no clue who it was...:こんな馴れ馴れしい口調で話す人物に心当たりはないということだった…。}`
-`{ruby:"......It'd be easy for me to tell you my name.:「……俺が誰かを名乗るのは簡単さ。}`
-`{ruby:......But that would make me very sad.":……だが、それでは俺が、あまりに悲しい」}`
-`{ruby:"I don't know what you're talking about.:「何を言っているのか、わかりかねますっ。}`
+`{ruby:Though this person spoke to Natsuhi in such a familiar:こんな馴れ馴れしい口調で話す人物に心}{ruby:and casual manner, Natsuhi had absolutely no clue who it was...:当たりはないということだった…。}`
+`{ruby:"......It'd be easy for me:「……俺が誰かを名乗}{ruby:to tell you my name.:るのは簡単さ。}`
+`{ruby:......But that would:……だが、それでは俺が}{ruby:make me very sad.":、あまりに悲しい」}`
+`{ruby:"I don't know:「何を言っているのか、}{ruby:what you're talking about.:わかりかねますっ。}`
 `{ruby:Who are you?:あなたは誰ですか。}`
-`{ruby:And what business do you have with me?!:そして私に何の用ですか！}`
-`{ruby:If you can't tell me that, I'm not interested!:それが言えないなら、興味はありません！}`
+`{ruby:And what business do:そして私に何の}{ruby:you have with me?!:用ですか！}`
+`{ruby:If you can't tell:それが言えないなら、興}{ruby:me that, I'm not interested!:味はありません！}`
 `{ruby:I'm hanging up...!":切りますよ…！」}`
-`{ruby:"What I want......is for you to remember.":「俺の望みは、……あんたに思い出してもらうことだ」}`
-`{ruby:"And what is it that you're telling me to remember?:「何を思い出せというのですか。}`
-`{ruby:I don't know you, so I have nothing to remember!":あなたなど知りませんし、思い出すような心当たりもありませんっ！」}`
+`{ruby:"What I want......is:「俺の望みは、……あんたに思}{ruby:for you to remember.":い出してもらうことだ」}`
+`{ruby:"And what is it that:「何を思い出せとい}{ruby:you're telling me to remember?:うのですか。}`
+`{ruby:I don't know you, so:あなたなど知りませんし、思い出すよ}{ruby:I have nothing to remember!":うな心当たりもありませんっ！」}`
 `{ruby:".........Don't say that.:「………そんなこと言うなよ。}`
 `{ruby:I'm your child, aren't I?":俺はあんたの子どもじゃないか」}`
 `{ruby:"What did you say......?!:「何ですって……？！}`
 `{ruby:What are you talking about?!":あ、あなたは何を言っているんです？！」}`
-`{ruby:"Don't say things that'll make me so sad,:「そんな悲しいことを言うなよ。}`
+`{ruby:"Don't say things that'll:「そんな悲しいこと}{ruby:make me so sad,:を言うなよ。}`
 `{ruby:...Mother.":…カアサン」}`
-`{ruby:That unsettling word thrust itself mercilessly into the depths of Natsuhi's heart and started churning it about...:その不気味な言葉は、夏妃の心の奥底に、容赦なく腕を突き込み、掻き回す…。}`
+`{ruby:That unsettling word thrust itself mercilessly into the:その不気味な言葉は、夏妃の心の奥底に、}{ruby:depths of Natsuhi's heart and started churning it about...:容赦なく腕を突き込み、掻き回す…。}`
 `{ruby:In Natsuhi's entire life,:こんな不気味なことを言われたことなど、夏妃の人生において、}`
-`{ruby:no one had ever said anything so unsettling to her.:これまでにただ一度もあったためしはない。}`
-`{ruby:In her bewilderment, Natsuhi felt her heart beat so loudly that it felt like it would explode.:夏妃は困惑しながら、心臓の鼓動が爆発しそうなほどに大きくなるのを感じる。}`
-`{ruby:"I, ......I, I have no idea why you think you have the right to call me "Mother"!:「あ、……ぁ、あなたに母と呼ばれる覚えはありません！}`
-`{ruby:I don't know what you're thinking, but I'm hanging up...!!":何のつもりか知りませんが、もう切りますよ…！！」}`
+`{ruby:no one had ever said:これまでにただ一度もあ}{ruby:anything so unsettling to her.:ったためしはない。}`
+`{ruby:In her bewilderment, Natsuhi felt her heart beat:夏妃は困惑しながら、心臓の鼓動が爆発し}{ruby:so loudly that it felt like it would explode.:そうなほどに大きくなるのを感じる。}`
+`{ruby:"I, ......I, I have no idea why you:「あ、……ぁ、あなたに母と呼}{ruby:think you have the right to call me "Mother"!:ばれる覚えはありません！}`
+`{ruby:I don't know what you're:何のつもりか知りませんが、も}{ruby:thinking, but I'm hanging up...!!":う切りますよ…！！」}`
 `{ruby:"......I came back for revenge.:「……俺は復讐するために帰ってきたんだ。}`
-`{ruby:......Revenge for your crime of 19 years ago.":……あんたの、１９年前の罪に」}`
+`{ruby:......Revenge for your crime:……あんたの、１９}{ruby:of 19 years ago.":年前の罪に」}`
 `{ruby:Natsuhi's mind went blank......:夏妃の頭が、閃光で満たされる……。}`
-`{ruby:And beyond the sound of the wind howling outside the window, she most certainly heard the roar of the sea from that day......:そして窓の外で唸っている風の音の向こうに、確かにあの日の潮騒を聞いていた……。}`
+`{ruby:And beyond the sound of the wind howling outside the window,:そして窓の外で唸っている風の音の向こうに、}{ruby:she most certainly heard the roar of the sea from that day......:確かにあの日の潮騒を聞いていた……。}`
 `{ruby:".........You...:「………あんた、}`
 `{ruby:remember, actually, don't you......?":本当はもう思い出してるんだろ……？」}`
-`{ruby:"I, ...I told you I don't know what you're talking about!!:「な、…何の話かわからないと言っています！！}`
+`{ruby:"I, ...I told you I:「な、…何の話かわからな}{ruby:don't know what you're talking about!!:いと言っています！！}`
 `{ruby:N‐...n‐never call here again!":も、…も、もう二度と掛けないで下さい！」}`
-`{ruby:"I haven't forgotten what you did to me 19 years ago...:「１９年前にあんたがした仕打ちを、……俺は忘れない。}`
-`{ruby:......So I will call you Mother despite what you did,:……だからあんたを呪うために、あえてそれでも、}`
-`{ruby:no, because of what you did, to curse you.:いや、だからこそ、俺はあんたをカアサンと呼ぶよ。}`
-`{ruby:.........It'll be the family conference very soon, won't it?:………もうすぐ、親族会議じゃないか。}`
-`{ruby:......I am your son, Mother, after all.:……俺もカアサンの子どもだからね。}`
-`{ruby:I'll come on the day of the conference.:会議の日に帰るよ。}`
+`{ruby:"I haven't forgotten what you:「１９年前にあんたがした仕打}{ruby:did to me 19 years ago...:ちを、……俺は忘れない。}`
+`{ruby:......So I will call you:……だからあんたを呪うため}{ruby:Mother despite what you did,:に、あえてそれでも、}`
+`{ruby:no, because of what:いや、だからこそ、俺はあん}{ruby:you did, to curse you.:たをカアサンと呼ぶよ。}`
+`{ruby:.........It'll be the family:………もうすぐ、親族}{ruby:conference very soon, won't it?:会議じゃないか。}`
+`{ruby:......I am your:……俺もカアサンの子}{ruby:son, Mother, after all.:どもだからね。}`
+`{ruby:I'll come on the:会議の日に帰}{ruby:day of the conference.:るよ。}`
 `{ruby:...After 19 years.:…１９年ぶりにね。}`
-`{ruby:......So that I can have my revenge on you.":……あんたに復讐するために」}`
+`{ruby:......So that I can:……あんたに復讐}{ruby:have my revenge on you.":するために」}`
 `{ruby:Click!!:ガチャンッ！！}`
-`{ruby:Breathing so hard her shoulders heaved, Natsuhi slammed the receiver down and hung up...:肩で荒い息をしながら、夏妃は受話器を叩き付けて電話を切る…。}`
-`{ruby:Then she hit the phone violently, knocking the receiver off.:そして乱暴に電話を叩き、受話器を外した。}`
-`{ruby:So that there was no chance of that man calling back...:もう一度、電話を掛け直してくることがないように…。}`
+`{ruby:Breathing so hard her shoulders heaved, Natsuhi:肩で荒い息をしながら、夏妃は受話}{ruby:slammed the receiver down and hung up...:器を叩き付けて電話を切る…。}`
+`{ruby:Then she hit the phone:そして乱暴に電話を叩き}{ruby:violently, knocking the receiver off.:、受話器を外した。}`
+`{ruby:So that there was no:もう一度、電話を掛け直してく}{ruby:chance of that man calling back...:ることがないように…。}`
 `{ruby:I can hear the roar of the sea......:聞こえるのは潮騒の音……。}`
-`{ruby:The voice I'm hearing from beyond the howling wind must be...:唸る風の向こうに聞こえる声はきっと、}`
+`{ruby:The voice I'm hearing from:唸る風の向こうに聞こ}{ruby:beyond the howling wind must be...:える声はきっと、}`
 `{ruby:...Aaah...:……あぁ、}`
-`{ruby:no matter how I cover my ears, no matter how I cover my ears, ......:耳を塞いでも耳を塞いでも、……。}`
-`{ruby:......the headache won't...............:……頭痛が……………。}`
-`{ruby:Completely pale, ...Natsuhi kept shivering as though cold......:夏妃は蒼白になりながら、…凍えるように震え続けていた……。}`
+`{ruby:no matter how I cover my ears,:耳を塞いでも耳を塞}{ruby:no matter how I cover my ears, ......:いでも、……。}`
+`{ruby:......the:……頭痛が……}{ruby:headache won't...............:………。}`
+`{ruby:Completely pale, ...Natsuhi kept:夏妃は蒼白になりながら、…凍える}{ruby:shivering as though cold......:ように震え続けていた……。}`
 `{ruby:"............Lambda, are you there?":「…………ラムダ、いる？」}`
 `{ruby:"Yes, I'm here.:「えぇ、いるわよ。}`
-`{ruby:I'm anywhere you want me to be, Bern.":ベルンが望めばどこにでもっ」}`
-`{ruby:"......Then crawl into the cupboard under the kitchen floor.:「……じゃあ、台所の床下収納に入ってて。}`
-`{ruby:Or in a jar of rice‐bran paste, if you want.":ぬかみその壷の中でもいいわ」}`
-`{ruby:"Ooh, you're gonna dip me in bean paste and bite me?:「あぁん、私を味噌に漬けてかじってくれるの？}`
-`{ruby:But in that case, I'd prefer to be dipped in hone~y.:でもそれなら、蜂蜜に漬けてほしいものだわ〜。}`
-`{ruby:And in return, I'll cook you in sugar water.":お返しに、ベルンは砂糖水で煮込んであげる」}`
-`{ruby:"......At least make it sweet soy sauce with sweet sake.":「……せめて砂糖醤油とみりんにして」}`
+`{ruby:I'm anywhere you want:ベルンが望めばど}{ruby:me to be, Bern.":こにでもっ」}`
+`{ruby:"......Then crawl into the:「……じゃあ、台所の床}{ruby:cupboard under the kitchen floor.:下収納に入ってて。}`
+`{ruby:Or in a jar of:ぬかみその壷の中}{ruby:rice‐bran paste, if you want.":でもいいわ」}`
+`{ruby:"Ooh, you're gonna dip me:「あぁん、私を味噌に漬け}{ruby:in bean paste and bite me?:てかじってくれるの？}`
+`{ruby:But in that case, I'd:でもそれなら、蜂蜜に漬けて}{ruby:prefer to be dipped in hone~y.:ほしいものだわ〜。}`
+`{ruby:And in return, I'll:お返しに、ベルンは砂糖水}{ruby:cook you in sugar water.":で煮込んであげる」}`
+`{ruby:"......At least make it sweet:「……せめて砂糖醤油}{ruby:soy sauce with sweet sake.":とみりんにして」}`
 `{ruby:"So what's up?:「それで何？}`
-`{ruby:You wanna play with repetition requests?":復唱要求でも気取っちゃう？」}`
+`{ruby:You wanna play:復唱要求でも気取っ}{ruby:with repetition requests?":ちゃう？」}`
 `{ruby:".........That's right.:「………そうよ。}`
-`{ruby:Is Natsuhi's phone conversation here a fact?":この夏妃の電話のやり取りは事実？」}`
-`{ruby:{f:5:Lambdadelta} grinned unpleasantly, as though sizing {f:5:Bernkastel} up.:ラムダデルタは、にやぁ〜と、値踏みするかのように嫌らしく笑う。}`
-`{ruby:She was probably trying to tease {f:5:Bernkastel} by taking her time on the repetition request.:求められた復唱要求を焦らしてからかっているつもりなのだろう。}`
+`{ruby:Is Natsuhi's phone:この夏妃の電話のやり}{ruby:conversation here a fact?":取りは事実？」}`
+`{ruby:{f:5:Lambdadelta} grinned unpleasantly, as:ラムダデルタは、にやぁ〜と、値踏み}{ruby:though sizing {f:5:Bernkastel} up.:するかのように嫌らしく笑う。}`
+`{ruby:She was probably trying to tease {f:5:Bernkastel}:求められた復唱要求を焦らしてから}{ruby:by taking her time on the repetition request.:かっているつもりなのだろう。}`
 `{ruby:".........Declining to repeat?":「………復唱拒否？」}`
 `{ruby:"I dunno, lemme see...:「さぁてねぇ…。}`
-`{ruby:Should I decline or should I respond...:拒否か応じるか、どうしようかなぁ…。}`
-`{ruby:As the Game Master, that's up to me to decide, and I get to make that decision any time I want.":それを決めるのはゲームマスターの私の自由だし、その判断をいつするかさえ自由」}`
-`{ruby:".........Unless I state it in the blue text, you aren't obligated to respond.":「………青字宣言でない限り、あんたに応える義務はないしね」}`
+`{ruby:Should I decline:拒否か応じるか、どう}{ruby:or should I respond...:しようかなぁ…。}`
+`{ruby:As the Game Master, that's up to me to decide,:それを決めるのはゲームマスターの私の自由}{ruby:and I get to make that decision any time I want.":だし、その判断をいつするかさえ自由」}`
+`{ruby:".........Unless I state it in the:「………青字宣言でない限り、あん}{ruby:blue text, you aren't obligated to respond.":たに応える義務はないしね」}`
 `{ruby:"Exactly!:「そーゆうこと！}`
 `{ruby:*giggle*giggle*.:くすくすくす。}`
-`{ruby:For now the best you can do is be all like "Natsuhi has a secret from 19 years ago?! What could it be?!":今はせーぜー、夏妃の１９年前に一体どんな秘密が？！}`
-`{ruby:Make sure you're sitting on the edge of your seat, alright?:とワクワクテカテカしていなさい？}`
+`{ruby:For now the best you can do is be all like:今はせーぜー、夏妃の１９年前}{ruby:"Natsuhi has a secret from 19 years ago?! What could it be?!":に一体どんな秘密が？！}`
+`{ruby:Make sure you're sitting on:とワクワクテカテカし}{ruby:the edge of your seat, alright?:ていなさい？}`
 `{ruby:*giggle*giggle*.":くすくすくすくす」}`
-`{ruby:Of course, this fishy telephone call...:この不審な電話のやり取りは、}`
+`{ruby:Of course, this:この不審な電話の}{ruby:fishy telephone call...:やり取りは、}`
 `{ruby:occurs before October 4th, 1986.:無論、１９８６年１０月４日以前のもの。}`
-`{ruby:This is still before the start time of the game.:まだゲームは始まる以前の出来事だ。}`
-`{ruby:{n}So it's not necessary to question whether it's true or false in the first place.:{n}だから、その真贋を問う必要は、本来ない。}`
-`{ruby:".........Since you, the Game Master, went out of your way to show me this, I'm just going to assume you're setting up something for later.:「………ゲームマスターのあんたがわざわざ見せた以上、何かの布石だと思っとくわ。}`
-`{ruby:......It might be a trick, but I'll at least keep this move of yours in my memory.":……騙しかもしれないけれど、一応、あんたのこの指し手は記憶に留めておく」}`
-`{ruby:"Ehheheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh.........:「うっふふふふふふふふふふふふふふふ………。}`
-`{ruby:I place this card face‐down onto the field, hehe~.:このカードを伏せたまま場に出すゥ、ってヤツね〜。}`
+`{ruby:This is still before the:まだゲームは始まる以}{ruby:start time of the game.:前の出来事だ。}`
+`{ruby:{n}So it's not necessary to question whether:{n}だから、その真贋を問}{ruby:it's true or false in the first place.:う必要は、本来ない。}`
+`{ruby:".........Since you, the Game Master, went out of your way to show:「………ゲームマスターのあんたがわざわざ見}{ruby:me this, I'm just going to assume you're setting up something for later.:せた以上、何かの布石だと思っとくわ。}`
+`{ruby:......It might be a trick, but I'll at:……騙しかもしれないけれど、一応、あん}{ruby:least keep this move of yours in my memory.":たのこの指し手は記憶に留めておく」}`
+`{ruby::「うっふふふふふふふふふ}{ruby:"Ehheheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh.........:ふふふふふふ………。}`
+`{ruby:I place this card:このカードを伏せたまま場に}{ruby:face‐down onto the field, hehe~.:出すゥ、ってヤツね〜。}`
 `{ruby:Ouch, wh‐what?!":あ痛ッ、な、何？！」}`
 `{ruby:"............<Direct Attack>.":「…………ダイレクトアタック」}`
-`{ruby:After suddenly being conked on the head, {f:5:Lambdadelta} was bewildered.:急にゴツンと頭を叩かれたラムダデルタは、目を白黒させている。}`
-`{ruby:But perhaps this incomprehensible exchange was funny to her...because she quickly went back to giggling.:だが、その意味不明のやり取りが面白かったのか、すぐにくすくす笑いに戻る。}`
-`{ruby:"......Are you done preparing the game board now?":「……これで、あんたのゲーム盤の準備は充分？」}`
+`{ruby:After suddenly being conked on:急にゴツンと頭を叩かれたラムダデ}{ruby:the head, {f:5:Lambdadelta} was bewildered.:ルタは、目を白黒させている。}`
+`{ruby:But perhaps this incomprehensible exchange was funny:だが、その意味不明のやり取りが面白かっ}{ruby:to her...because she quickly went back to giggling.:たのか、すぐにくすくす笑いに戻る。}`
+`{ruby:"......Are you done preparing:「……これで、あんたのゲー}{ruby:the game board now?":ム盤の準備は充分？」}`
 `{ruby:"Yeah, that's right.:「えぇ、そーよ。}`
-`{ruby:Now I'll finally move on to the game.:それじゃいよいよゲームを進めるわよ。}`
+`{ruby:Now I'll finally move:それじゃいよいよゲー}{ruby:on to the game.:ムを進めるわよ。}`
 `{ruby:On to October 4th, 1986...!":１９８６年１０月４日にね…！」}`
-`{ruby:".........I wonder what number October 4th, 1986 this is.:「………何度目の１９８６年１０月４日かしらね。}`
+`{ruby:".........I wonder what number:「………何度目の１９８６年}{ruby:October 4th, 1986 this is.:１０月４日かしらね。}`
 `{ruby:......The Endless Witch...:……無限の魔女か。}`
 `{ruby:{f:5:Beatrice}.:…ベアトリーチェ。}`
-`{ruby:...She really is a frightening child.":…やはり恐ろしい子だわ」}`
-`{ruby:"Taking any actions on your side, Bern?":「ベルン側は何か行動ある？」}`
+`{ruby:...She really is:…やはり恐ろし}{ruby:a frightening child.":い子だわ」}`
+`{ruby:"Taking any actions:「ベルン側は何か}{ruby:on your side, Bern?":行動ある？」}`
 `{ruby:".........No.:「………ないわよ。}`
-`{ruby:If you aren't going to respond to my repetition request, I'm done.":あんたが復唱要求に応えないなら、それで終わり」}`
+`{ruby:If you aren't going to respond:あんたが復唱要求に応えない}{ruby:to my repetition request, I'm done.":なら、それで終わり」}`
 `{ruby:"<Turn end>, then?:「ターンエンドね？}`
 `{ruby:<Start, cleanup, draw>!!":スタート、クリンナップ、ドロー！！」}`
 `{ruby:"Come!!:「さぁ来たれッ！！}`

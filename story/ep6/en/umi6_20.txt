@@ -1,265 +1,265 @@
-`{ruby:"............Lambda, ......where are you......?":「…………ラムダ、……どこ……？」}`
-`{ruby:Just having to say that felt like admitting defeat......and I didn't like it.:それを口に出すこと自体が、ある種の敗北を認めたようで、……ちょっぴり悔しい。}`
-`{ruby:Why is it that she's always so obnoxious and clingy when I don't need her,:頼みもしない時にばかり、うるさく纏わり付いてくるくせに、}`
-`{ruby:......and then won't answer when I call her name?:……珍しく名前を呼んでやったら返事もしないなんて、………馬鹿にしてる。}`
+`{ruby:"............Lambda, ......where:「…………ラムダ、…}{ruby:are you......?":…どこ……？」}`
+`{ruby:Just having to say that felt:それを口に出すこと自体が、ある種の敗北を}{ruby:like admitting defeat......and I didn't like it.:認めたようで、……ちょっぴり悔しい。}`
+`{ruby:Why is it that she's always so:頼みもしない時にばかり、うるさ}{ruby:obnoxious and clingy when I don't need her,:く纏わり付いてくるくせに、}`
+`{ruby:......and then won't answer:……珍しく名前を呼んでやったら返事もし}{ruby:when I call her name?:ないなんて、………馬鹿にしてる。}`
 `{ruby:Where.........am I......?:ここは、………どこなの……？}`
-`{ruby:Annoyed by the completely predictable ending, I had left the cathedral.:完全にオチの見えた展開で馬鹿らしくなり、私は大聖堂を出たはずなのだ。}`
-`{ruby:......I had planned on finding some terrace with a cool night's breeze...:……どこか、涼しい夜風の当たるテラスでも見つけたら、}`
-`{ruby:where I could kill time until the end of that farcical reception.:そこで茶番の披露宴が終わるまで時間でも潰してるつもりだった。}`
-`{ruby:"......It's true that I tried to find somewhere desolate so that I didn't have to look at people,:「……確かに、人の顔を見たくなかったから、ひと気のない方へばかり進んだけど。}`
-`{ruby:.........but this is a bit ridiculous.":………さすがに、これはいないにも程があるわ」}`
-`{ruby:I, the great {f:5:Bernkastel}, ......am lost?:この、大ベルンカステルが、……迷子？}`
-`{ruby:A miracle like that certainly couldn't happen.:そんな奇跡、絶対に起こるものか。}`
-`{ruby:Yes...miracles don't exist in this world.:そう、この世に奇跡なんて、存在しない。}`
-`{ruby:To create a miracle, you need "an amount of time that can never be reached", a period that is no different from infinity.:奇跡を生み出すには、無限に等しい時間という、“決して訪れぬ時間”が必要なのだから。}`
-`{ruby:So, when something that appears to be a miracle happens in a shorter span of time than that,:だから、それに満たない時間で、奇跡らしきものが生まれた時は、}`
+`{ruby:Annoyed by the completely predictable:完全にオチの見えた展開で馬鹿らしくな}{ruby:ending, I had left the cathedral.:り、私は大聖堂を出たはずなのだ。}`
+`{ruby:......I had planned on finding some:……どこか、涼しい夜風の当た}{ruby:terrace with a cool night's breeze...:るテラスでも見つけたら、}`
+`{ruby:where I could kill time until:そこで茶番の披露宴が終わるまで時}{ruby:the end of that farcical reception.:間でも潰してるつもりだった。}`
+`{ruby:"......It's true that I tried to find somewhere desolate:「……確かに、人の顔を見たくなかったから}{ruby:so that I didn't have to look at people,:、ひと気のない方へばかり進んだけど。}`
+`{ruby:.........but this is:………さすがに、これはい}{ruby:a bit ridiculous.":ないにも程があるわ」}`
+`{ruby:I, the great:この、大ベルンカステ}{ruby:{f:5:Bernkastel}, ......am lost?:ルが、……迷子？}`
+`{ruby:A miracle like:そんな奇跡、絶対に}{ruby:that certainly couldn't happen.:起こるものか。}`
+`{ruby:Yes...miracles don't exist:そう、この世に奇跡なん}{ruby:in this world.:て、存在しない。}`
+`{ruby:To create a miracle, you need "an amount of time that:奇跡を生み出すには、無限に等しい時間という、}{ruby:can never be reached", a period that is no different from infinity.:“決して訪れぬ時間”が必要なのだから。}`
+`{ruby:So, when something that appears to be a miracle:だから、それに満たない時間で、奇}{ruby:happens in a shorter span of time than that,:跡らしきものが生まれた時は、}`
 `{ruby:.....it is not a miracle...:……それは奇跡ではなく。}`
 `{ruby:but due to someone's......design.:……誰かの、……意図によるものだ。}`
-`{ruby:In other words, ......the reason I'm walking down this bizarre corridor...:つまり、……私は今、誰かの意図に飲まれて、}`
-`{ruby:...is because someone's design has forced me here......:……こんなおかしな廊下を歩かされていることになる……。}`
+`{ruby:In other words, ......the reason:つまり、……私は今、誰か}{ruby:I'm walking down this bizarre corridor...:の意図に飲まれて、}`
+`{ruby:...is because someone's design:……こんなおかしな廊下を歩かさ}{ruby:has forced me here......:れていることになる……。}`
 `{ruby:".........Who did this?:「………誰？}`
-`{ruby:Who pulled this elaborate prank on me?:こんな、手の込んだ真似で私を呼ぶのは。}`
-`{ruby:.........You must be quite the shy one,:………よっぽどの恥ずかしがり屋みたいね。}`
-`{ruby:......calling me out to a desolate place like this.":……こんなひと気のないところに呼び出すんだから」}`
-`{ruby:......Then, ......from the other end of the dark corridor, ......I heard a sound.:……その時、……向こうへ伸びる薄暗い廊下から、……音が聞こえた。}`
-`{ruby:{a:c:*patter*, *patter*patter*patter*.........}:{a:c:とっ、とてとてとてとてとて………。}}`
-`{ruby:It sounded as though some small animal, like a dog or a cat, was walking at a quick pace.:それは、犬か猫などの小動物が、足早に駆けて行く音に、よく似ていた。}`
-`{ruby:No miracle could cause a dog or cat to be in a place like this.:こんなところに、犬や猫がいる奇跡はない。}`
-`{ruby:{n}Such a miracle would not be "allowed".:{n}そんな奇跡は“許さない”。}`
+`{ruby:Who pulled this:こんな、手の込んだ真似}{ruby:elaborate prank on me?:で私を呼ぶのは。}`
+`{ruby:.........You must be:………よっぽどの恥ずか}{ruby:quite the shy one,:しがり屋みたいね。}`
+`{ruby:......calling me out to:……こんなひと気のないとこ}{ruby:a desolate place like this.":ろに呼び出すんだから」}`
+`{ruby:......Then, ......from the other end of:……その時、……向こうへ伸びる薄暗}{ruby:the dark corridor, ......I heard a sound.:い廊下から、……音が聞こえた。}`
+`{ruby:{a:c:*patter*,:{a:c:とっ、とてとてと}{ruby:*patter*patter*patter*.........}:てとてとて………。}}`
+`{ruby:It sounded as though some small animal, like a:それは、犬か猫などの小動物が、足早に}{ruby:dog or a cat, was walking at a quick pace.:駆けて行く音に、よく似ていた。}`
+`{ruby:No miracle could cause a dog or:こんなところに、犬や猫}{ruby:cat to be in a place like this.:がいる奇跡はない。}`
+`{ruby:{n}Such a miracle:{n}そんな奇跡は}{ruby:would not be "allowed".:“許さない”。}`
 `{ruby:Since it isn't a miracle,:奇跡でないならそれはつまり、}`
-`{ruby:that means I am being guided in that direction.:そちらが導かれる方向ということだ。}`
+`{ruby:that means I am:そちらが導かれる方向}{ruby:being guided in that direction.:ということだ。}`
 `{ruby:.........Alright then.:………いいわ。}`
-`{ruby:This might be some new idea to keep me entertained.:私を退屈させない、何かの新しい趣向かもしれない。}`
-`{ruby:If this is some new joke of Lambda's, I'll cover her whole body with honey using my tongue as a reward.:もしこれがラムダの新しい遊びだったら、ご褒美に舌で全身にハチミツを塗ってやるわ。}`
-`{ruby:...And then, I'll stick parasol chocolates into her eyes and tell her to never do it again.:…そして二度とするなと、両目にパラソルチョコを捻じ込んでやる。}`
-`{ruby:In the direction that the noise had come from, ......it was not only dim, but shrouded in complete darkness.:音の聞こえた廊下の向こうは、……薄暗いどころか、……本当の闇だった。}`
-`{ruby:However, ......I could sense something in that darkness.:しかし、……その暗闇の中に気配が。}`
-`{ruby:.........There were two emerald‐green glints, ......probably cat eyes.:………エメラルドグリーンの２粒の輝きは、……多分、猫の目だ。}`
-`{ruby:The eyes of a black cat that blended well into the darkness.:闇によく溶け込む、黒猫の目だ。}`
-`{ruby:"Are you the one who called me here...?:「あなたが呼んだの…？}`
-`{ruby:.........Or......are you just the messenger...? ...............":………それとも、……あなたが使い…？　……………」}`
-`{ruby:When I looked at my feet, ......I saw red cat footprints leading towards those cat eyes.:足元を見ると、……真っ赤な猫の足跡が、暗闇の猫の瞳のもとに続いていた。}`
-`{ruby:......It was unsettling, ...as though it had run through a puddle of blood on its way there.:……それはまるで、…血溜りを踏んで走ったかのような、薄気味悪い足跡だった。}`
-`{ruby:After my eyes adjusted to the darkness, .........even with the lack of light, I was vaguely able to make out the red footprints ahead of me.:闇に目が慣れると、………暗闇の中でも、この血の足跡はほのかに浮かび上がっている。}`
-`{ruby:......They weren't actually glowing or anything,:……光っているというほどのものではないけれど、}`
-`{ruby:......but they served perfectly well as a signpost leading me onwards.:……私を招くための道しるべの役割は充分果たしていた。}`
-`{ruby:{a:c:*patter*patter*patter*patter*......}:{a:c:とてとてとてとてとてとて……。}}`
-`{ruby:As though it was telling me to follow,:付いて来いと言わんばかりに、}`
-`{ruby:......the cat turned around and dashed off into the darkness.:……猫は踵を返して、闇の奥へ駆けて行く。}`
+`{ruby:This might be some new:私を退屈させない、何かの新}{ruby:idea to keep me entertained.:しい趣向かもしれない。}`
+`{ruby:If this is some new joke of Lambda's, I'll cover:もしこれがラムダの新しい遊びだったら、ご褒}{ruby:her whole body with honey using my tongue as a reward.:美に舌で全身にハチミツを塗ってやるわ。}`
+`{ruby:...And then, I'll stick parasol chocolates into her:…そして二度とするなと、両目にパラ}{ruby:eyes and tell her to never do it again.:ソルチョコを捻じ込んでやる。}`
+`{ruby:In the direction that the noise had come from,:音の聞こえた廊下の向こうは、……薄暗}{ruby:......it was not only dim, but shrouded in complete darkness.:いどころか、……本当の闇だった。}`
+`{ruby:However, ......I could sense:しかし、……その暗闇}{ruby:something in that darkness.:の中に気配が。}`
+`{ruby:.........There were two emerald‐green:………エメラルドグリーンの２粒の}{ruby:glints, ......probably cat eyes.:輝きは、……多分、猫の目だ。}`
+`{ruby:The eyes of a black cat:闇によく溶け込む、}{ruby:that blended well into the darkness.:黒猫の目だ。}`
+`{ruby:"Are you the one:「あなたが呼ん}{ruby:who called me here...?:だの…？}`
+`{ruby:.........Or......are you just:………それとも、……あなたが}{ruby:the messenger...? ...............":使い…？　……………」}`
+`{ruby:When I looked at my feet, ......I saw:足元を見ると、……真っ赤な猫の足跡が、}{ruby:red cat footprints leading towards those cat eyes.:暗闇の猫の瞳のもとに続いていた。}`
+`{ruby:......It was unsettling, ...as though it had run:……それはまるで、…血溜りを踏んで走った}{ruby:through a puddle of blood on its way there.:かのような、薄気味悪い足跡だった。}`
+`{ruby:After my eyes adjusted to the darkness, .........even with the lack of light,:闇に目が慣れると、………暗闇の中でも、この}{ruby:I was vaguely able to make out the red footprints ahead of me.:血の足跡はほのかに浮かび上がっている。}`
+`{ruby:......They weren't actually:……光っているというほどの}{ruby:glowing or anything,:ものではないけれど、}`
+`{ruby:......but they served perfectly well:……私を招くための道しるべの}{ruby:as a signpost leading me onwards.:役割は充分果たしていた。}`
+`{ruby::{a:c:とてとてとてと}{ruby:{a:c:*patter*patter*patter*patter*......}:てとてとて……。}}`
+`{ruby:As though it was:付いて来いと言わ}{ruby:telling me to follow,:んばかりに、}`
+`{ruby:......the cat turned around and:……猫は踵を返して、闇}{ruby:dashed off into the darkness.:の奥へ駆けて行く。}`
 `{ruby:..................What is it?:………………何だろう。}`
-`{ruby:......Something feels...very strange.:……すごく、不思議な感覚。}`
-`{ruby:It's a feeling I haven't felt since I began calling myself the cruelest witch in the world.:世界で一番残酷な魔女を名乗るようになってから、久しく忘れている感覚だ。}`
-`{ruby:......I can't quite remember what this feeling is.:……それがどういう感覚なのか、ちょっと思い出せない。}`
-`{ruby:Still, ......for one as tired of boredom as me, it's surely more fun this way.:しかし、……退屈に飽いた私にとって、そのくらいの方がきっと、面白い。}`
-`{ruby:I followed the bloody footprints of the cat, which would sometimes stop and look back at me,:私は、時折立ち止まってはこちらに振り返る猫の、血の足跡を追い、}`
-`{ruby:............and walked on and on through the dark corridor......:…………暗闇の廊下を、どこまでもどこまでも歩かされた……。}`
-`{ruby:It headed forward, .........turned corners,:進み、………曲がり、}`
-`{ruby:.........and descended what appeared to be stairs from time to time.:………時には、階段らしきものを降りた。}`
-`{ruby:And then, ......though I couldn't really tell because of the darkness, .........it slipped through the crack of a door.:そして、……暗いからよくわからないけれど、………扉の隙間の中に入った。}`
+`{ruby:......Something:……すごく、不思}{ruby:feels...very strange.:議な感覚。}`
+`{ruby:It's a feeling I haven't felt since I:世界で一番残酷な魔女を名乗るようになっ}{ruby:began calling myself the cruelest witch in the world.:てから、久しく忘れている感覚だ。}`
+`{ruby:......I can't quite remember:……それがどういう感覚なのか}{ruby:what this feeling is.:、ちょっと思い出せない。}`
+`{ruby:Still, ......for one as tired of boredom:しかし、……退屈に飽いた私にとって、}{ruby:as me, it's surely more fun this way.:そのくらいの方がきっと、面白い。}`
+`{ruby:I followed the bloody footprints of the cat,:私は、時折立ち止まってはこちらに振}{ruby:which would sometimes stop and look back at me,:り返る猫の、血の足跡を追い、}`
+`{ruby:............and walked on and:…………暗闇の廊下を、どこまでも}{ruby:on through the dark corridor......:どこまでも歩かされた……。}`
+`{ruby:It headed:進み、………}{ruby:forward, .........turned corners,:曲がり、}`
+`{ruby:.........and descended what appeared to:………時には、階段らし}{ruby:be stairs from time to time.:きものを降りた。}`
+`{ruby:And then, ......though I couldn't really tell because of:そして、……暗いからよくわからないけれ}{ruby:the darkness, .........it slipped through the crack of a door.:ど、………扉の隙間の中に入った。}`
 `{ruby:"........................Here......?":「……………………ここ………？」}`
-`{ruby:I pushed the door open slowly, ......but it was dark on the inside, just like the corridor.:扉をゆっくりと押し開けるが、……廊下と同じく、中も闇。}`
-`{ruby:However, the air and the slight change in the echoes made by the footsteps...:しかし、空気の感じや、足音のちょっとした残響の違いで、}`
-`{ruby:told me that this was a room, not a corridor.:そこは廊下ではなく、部屋だと理解できた。}`
-`{ruby:The sounds of the cat's footsteps were gone.:猫の足音は、もうしない。}`
-`{ruby:......However, the bloody footprints remained.:……しかし、血の足跡は、続いている。}`
-`{ruby:On the other side of some sort of wooden screen, ......under what looked like a small spotlight...:何か衝立のようなものの向こうに、……細いスポットライトのような明かりの下で。}`
+`{ruby:I pushed the door open slowly, ......but it:扉をゆっくりと押し開けるが、…}{ruby:was dark on the inside, just like the corridor.:…廊下と同じく、中も闇。}`
+`{ruby:However, the air and the slight change:しかし、空気の感じや、足音のち}{ruby:in the echoes made by the footsteps...:ょっとした残響の違いで、}`
+`{ruby:told me that this was:そこは廊下ではなく、部}{ruby:a room, not a corridor.:屋だと理解できた。}`
+`{ruby:The sounds of the:猫の足音は、も}{ruby:cat's footsteps were gone.:うしない。}`
+`{ruby:......However, the:……しかし、血の足跡}{ruby:bloody footprints remained.:は、続いている。}`
+`{ruby:On the other side of some sort of:何か衝立のようなものの向こうに、……細い}{ruby:wooden screen, ......under what looked like a small spotlight...:スポットライトのような明かりの下で。}`
 `{ruby:......that same black cat...:……さっきの黒猫が、ペットフードの皿に盛られたエサを、}`
-`{ruby:was noisily gobbling down a bowl of pet food.:ぴちゃぴちゃくちゃくちゃと食べているのが見えた。}`
+`{ruby:was noisily gobbling down:ぴちゃぴちゃくちゃくちゃと}{ruby:a bowl of pet food.:食べているのが見えた。}`
 `{ruby:.........I see.:………なるほど。}`
-`{ruby:So, this is its reward for bringing me here...:私をここへ連れてきた、ご褒美ってことらしい…。}`
+`{ruby:So, this is its:私をここへ連れてきた、ご褒}{ruby:reward for bringing me here...:美ってことらしい…。}`
 `{ruby:"Cat......:「猫……。}`
-`{ruby:Sorry to bother you during your meal,:お食事中、悪いけれど。}`
-`{ruby:......but I'd like you to summon your master.:……そろそろあんたの主人を呼んでちょうだい。}`
-`{ruby:.........That is, unless you're actually the one who summoned me...?":………それともまさか、あんたが私を呼んだ本人、ってわけじゃないわよね…？」}`
-`{ruby:Talking to it didn't cause it to turn around.:話し掛けても、振り返りもしない。}`
-`{ruby:......Well, I guess it is an animal eating its food.:……まぁ、食事中の畜生なんてこんなもんよ。}`
-`{ruby:......If I kick it away, it'll probably run off to its owner.:……蹴飛ばしてやれば、飼い主のところに飛んでくでしょ。}`
+`{ruby:Sorry to bother:お食事中、悪い}{ruby:you during your meal,:けれど。}`
+`{ruby:......but I'd like you:……そろそろあんたの主人}{ruby:to summon your master.:を呼んでちょうだい。}`
+`{ruby:.........That is, unless you're actually:………それともまさか、あんたが私を呼んだ}{ruby:the one who summoned me...?":本人、ってわけじゃないわよね…？」}`
+`{ruby:Talking to it didn't:話し掛けても、振り}{ruby:cause it to turn around.:返りもしない。}`
+`{ruby:......Well, I guess it is:……まぁ、食事中の畜生な}{ruby:an animal eating its food.:んてこんなもんよ。}`
+`{ruby:......If I kick it away, it'll:……蹴飛ばしてやれば、飼い主の}{ruby:probably run off to its owner.:ところに飛んでくでしょ。}`
 `{ruby:".........Hmph.":「………ふん」}`
 `{ruby:When I did kick the cat,:黒猫を蹴り飛ばしてやると、}`
-`{ruby:......it sailed away like a stuffed animal,:……それはまるでぬいぐるみを蹴ったかのように、軽々と飛んでいき、}`
-`{ruby:hit the wall, and fell to the ground.:壁にぶつかって転がった。}`
-`{ruby:Then, it vanished, as though it had melted into the darkness......:そしてそのまま、闇に溶けるように、すぅっと消えてしまう……。}`
+`{ruby:......it sailed away:……それはまるでぬいぐるみを蹴った}{ruby:like a stuffed animal,:かのように、軽々と飛んでいき、}`
+`{ruby:hit the wall, and:壁にぶつかって}{ruby:fell to the ground.:転がった。}`
+`{ruby:Then, it vanished, as though:そしてそのまま、闇に溶けるように}{ruby:it had melted into the darkness......:、すぅっと消えてしまう……。}`
 `{ruby:......What's with this cat?:……何、この猫。}`
 `{ruby:......Is it just an illusion...?:……ただの幻…？}`
 `{ruby:"........................!":「……………………ッ」}`
-`{ruby:When I looked at its food bowl, ......it was piled up with what appeared to be blood‐drenched raw meat.:餌皿を見ると、……そこには、血塗れの、生肉のようなものが盛られていた。}`
-`{ruby:......It was as though someone had torn apart living flesh on the spot...:……まさに、生きた肉をその場で引き裂き、そのまま盛り付けたかのように、}`
+`{ruby:When I looked at its food bowl, ......it was:餌皿を見ると、……そこには、血塗れの、}{ruby:piled up with what appeared to be blood‐drenched raw meat.:生肉のようなものが盛られていた。}`
+`{ruby:......It was as though someone had:……まさに、生きた肉をその場で引き裂き}{ruby:torn apart living flesh on the spot...:、そのまま盛り付けたかのように、}`
 `{ruby:...and piled it into there.:それは生々しく、そして血生臭かった。}`
-`{ruby:".........Come on, what's with the creepy reception?":「………何なの、この趣味の悪い歓待は」}`
+`{ruby:".........Come on, what's:「………何なの、この趣}{ruby:with the creepy reception?":味の悪い歓待は」}`
 `{ruby:{a:c::{a:c:}`
-`{ruby:{m:-5:―}―That was a mean thing to do, kicking it}.:――蹴るとは、酷いことをする。}}`
-`{ruby:The instant I heard that voice, the hairs on the back of my neck stood on end.:その声を聞いた瞬間に、全身の毛が逆立つ。}`
-`{ruby:Then, ......the surrounding area finally brightened.....:すると、……ようやく周りが明るくなる……。}`
-`{ruby:However, {f:5:Bernkastel} had already guessed where this was before it grew bright...:しかしベルンカステルは、……明るくなる前から、そこがどこか、もう察していた…。}`
+`{ruby:{m:-5:―}―That was a mean:――蹴るとは、酷い}{ruby:thing to do, kicking it}.:ことをする。}}`
+`{ruby:The instant I heard that voice, the hairs:その声を聞いた瞬間に、}{ruby:on the back of my neck stood on end.:全身の毛が逆立つ。}`
+`{ruby:Then, ......the surrounding:すると、……ようやく周り}{ruby:area finally brightened.....:が明るくなる……。}`
+`{ruby:However, {f:5:Bernkastel} had already guessed where:しかしベルンカステルは、……明るくなる前か}{ruby:this was before it grew bright...:ら、そこがどこか、もう察していた…。}`
 `{ruby:".........That was you.:「………そなたであろうが。}`
 `{ruby:......That cat.":……その猫は」}`
-`{ruby:".......................................":「…………………………………」}`
-`{ruby:"......My dear flesh‐eating cat who has learned to choose its own path,:「……肉を喰らい、選ぶ道もあることを学んだ猫よ。}`
-`{ruby:......it has been long since we last met......":……久しぶりであるな……」}`
-`{ruby:"It's a path I'd never have to have noticed if you hadn't told me.:「あんたが教えなきゃ、気付かずに済んだ道よ。}`
-`{ruby:......You're the monster who taught me the taste of flesh.:……肉の味を教えたバケモノ。}`
-`{ruby:.........So, you've come back to life.:………生き返ったのね。}`
-`{ruby:.........{f:5:Featherine Auaurora}...":………フェザリーヌ・アウアウローラ…」}`
-`{ruby:"......It is {f:5:Augustus Aurora}......:「……アウグストゥス・アウローラであると…。}`
-`{ruby:You never learn no matter how often I tell you that...:そなたには、何度教えても覚えぬな…。}`
+`{ruby::「……………………}{ruby:".......................................":……………」}`
+`{ruby:"......My dear flesh‐eating cat who has:「……肉を喰らい、選ぶ道も}{ruby:learned to choose its own path,:あることを学んだ猫よ。}`
+`{ruby:......it has been long:……久しぶりであ}{ruby:since we last met......":るな……」}`
+`{ruby:"It's a path I'd never have to:「あんたが教えなきゃ、気}{ruby:have noticed if you hadn't told me.:付かずに済んだ道よ。}`
+`{ruby:......You're the monster who taught:……肉の味を教え}{ruby:me the taste of flesh.:たバケモノ。}`
+`{ruby:.........So, you've come:………生き返っ}{ruby:back to life.:たのね。}`
+`{ruby:.........{f:5:Featherine:………フェザリーヌ・ア}{ruby:Auaurora}...":ウアウローラ…」}`
+`{ruby:"......It is:「……アウグストゥス・ア}{ruby:{f:5:Augustus Aurora}......:ウローラであると…。}`
+`{ruby:You never learn no matter:そなたには、何度教え}{ruby:how often I tell you that...:ても覚えぬな…。}`
 `{ruby:...Very well.:…良い。}`
-`{ruby:Even that brings back fond memories......:それもまた、懐かしい……。}`
+`{ruby:Even that brings:それもまた、懐か}{ruby:back fond memories......:しい……。}`
 `{ruby:I have heard the rumors...:噂は聞き及んでいるぞ…？}`
-`{ruby:.........It seems you have taken the name {f:5:Bernkastel}, Witch of Miracles, .........and have been traveling around playing some far from praiseworthy fragment games......":………奇跡の魔女、ベルンカステルを名乗り、………あまり褒められぬカケラ遊びをして回っているとな……」}`
+`{ruby:.........It seems you have taken the name {f:5:Bernkastel}, Witch of Miracles,:………奇跡の魔女、ベルンカステルを名乗り、………あまり}{ruby:.........and have been traveling around playing some far from praiseworthy fragment games......":褒められぬカケラ遊びをして回っているとな……」}`
 `{ruby:"I'm just imitating you.:「あんたの真似をしてるだけよ。}`
-`{ruby:Though I could hardly match up to your level.:到底、及びやしないけれど。}`
-`{ruby:......If the rumors you've heard about me are bad, that applies a hundredfold to you.":……もし私の噂が良からぬものならば、あんたはそれに百を掛けるべきだわ」}`
-`{ruby:{f:5:Bernkastel} sat unreservedly in an antique chair,:ベルンカステルは、勝手知ったるかのように、}`
-`{ruby:......as though she was already familiar with the place.:……アンティークチェアに無遠慮に座る。}`
+`{ruby:Though I could hardly:到底、及びやしな}{ruby:match up to your level.:いけれど。}`
+`{ruby:......If the rumors you've heard about me:……もし私の噂が良からぬものならば、あ}{ruby:are bad, that applies a hundredfold to you.":んたはそれに百を掛けるべきだわ」}`
+`{ruby:{f:5:Bernkastel} sat unreservedly:ベルンカステルは、勝手知}{ruby:in an antique chair,:ったるかのように、}`
+`{ruby:......as though she was:……アンティークチェア}{ruby:already familiar with the place.:に無遠慮に座る。}`
 `{ruby:"............What are you afraid of?:「…………何を怯えているか。}`
-`{ruby:I am merely celebrating my reunion with my longest‐serving miko so far...:私は、これまでで最も長く過ごした巫女との再会を喜んでいるだけであろうが…。}`
-`{ruby:Did you really find my messenger cat so displeasing?":使いの猫が、そんなにも気に入らなかったか」}`
-`{ruby:By all appearances, {f:5:Bernkastel}'s manner seemed relaxed...:ベルンカステルの振る舞いは、むしろリラックスしたものに見えるのだが…。}`
-`{ruby:However, {f:5:Featherine} admonished her, telling her not to be afraid.:しかしフェザリーヌはそれに対し、怯えるな、と諭すように言う。}`
-`{ruby:......And, judging by the expression that rose to Bern's face,:……そしてそれは、ベルンが浮かべる表情を見る限り、}`
-`{ruby:......{f:5:Featherine} had been right on the mark...:……図星らしい…。}`
-`{ruby:"Did you really have to make such blunt insinuations against me?:「私に対するあてつけにも程があるわ。}`
-`{ruby:......A cat leaving behind bloody footprints and stuffing its face with blood‐stained meat...":……血の足跡を残しながら歩き、血塗れの肉を頬張る猫なんてね、露骨にも程があるのよ…」}`
+`{ruby:I am merely celebrating my reunion:私は、これまでで最も長く過ごした巫女との}{ruby:with my longest‐serving miko so far...:再会を喜んでいるだけであろうが…。}`
+`{ruby:Did you really find:使いの猫が、そんなにも気}{ruby:my messenger cat so displeasing?":に入らなかったか」}`
+`{ruby:By all appearances,:ベルンカステルの振る舞いは、むしろリラ}{ruby:{f:5:Bernkastel}'s manner seemed relaxed...:ックスしたものに見えるのだが…。}`
+`{ruby:However, {f:5:Featherine} admonished her, telling:しかしフェザリーヌはそれに対し、}{ruby:her not to be afraid.:怯えるな、と諭すように言う。}`
+`{ruby:......And, judging by the expression:……そしてそれは、ベルンが浮}{ruby:that rose to Bern's face,:かべる表情を見る限り、}`
+`{ruby:......{f:5:Featherine} had been:……図星らし}{ruby:right on the mark...:い…。}`
+`{ruby:"Did you really have to:「私に対するあてつけ}{ruby:make such blunt insinuations against me?:にも程があるわ。}`
+`{ruby:......A cat leaving behind bloody footprints:……血の足跡を残しながら歩き、血塗れの肉を頬}{ruby:and stuffing its face with blood‐stained meat...":張る猫なんてね、露骨にも程があるのよ…」}`
 `{ruby:"...........................:「………………………。}`
 `{ruby:......Have no fear.:……怯えるな。}`
 `{ruby:......Look closely.:……よく見よ。}`
-`{ruby:......Where do you see a cat stuffing its face with blood‐stained meat......?:……血塗れの肉を頬張る猫などどこにいる……？}`
-`{ruby:I just gave it a plate of biscuits as a reward for going to get you...":そなたを迎えに行った褒美に、ビスケットの皿を与えただけではないか…」}`
+`{ruby:......Where do you see a cat:……血塗れの肉を頬張る猫}{ruby:stuffing its face with blood‐stained meat......?:などどこにいる……？}`
+`{ruby:I just gave it a plate of biscuits:そなたを迎えに行った褒美に、ビスケット}{ruby:as a reward for going to get you...":の皿を与えただけではないか…」}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:............Despite there being no wind, the bowl at her feet seemed to blow away as though it was made of soot.:…………足元の餌皿が、……風も無いのに、煤が払われて飛んでいくような錯覚。}`
-`{ruby:...In its place lay a lovely......and perfectly normal......cat dish,:…そこには、……可愛らしく、…そして平均的な、猫の餌皿と、}`
-`{ruby:.........with a pile of small biscuits on top of it...:………山と盛られた、……小さなビスケットが…。}`
+`{ruby:............Despite there being no wind, the bowl at her feet:…………足元の餌皿が、……風も無いのに、}{ruby:seemed to blow away as though it was made of soot.:煤が払われて飛んでいくような錯覚。}`
+`{ruby:...In its place lay:…そこには、……可愛らしく、…そ}{ruby:a lovely......and perfectly normal......cat dish,:して平均的な、猫の餌皿と、}`
+`{ruby:.........with a pile of small:………山と盛られた、……小}{ruby:biscuits on top of it...:さなビスケットが…。}`
 `{ruby:".....................Tch......":「…………………ちっ……」}`
-`{ruby:{f:5:Bernkastel} didn't even hide her displeased grimace.:ベルンカステルは、隠すことなく、不快そうに表情を歪める。}`
-`{ruby:{f:5:Featherine} shrugged and muttered "you haven't changed, child of man" as she rocked her rocking chair.:フェザリーヌは、変わらぬな人の子よ、と肩を竦めて呟き、揺り椅子を揺らした。}`
-`{ruby:".........I see you're as unpleasant as ever.:「………相変わらず不愉快なヤツだわ。}`
-`{ruby:......But nowadays I find you pleasing.:……でもね、今は愉快よ。}`
-`{ruby:Imitating you really has been far from boring.":あんたの真似をしてるとね、本当に退屈しないわ」}`
+`{ruby:{f:5:Bernkastel} didn't even:ベルンカステルは、隠すことなく}{ruby:hide her displeased grimace.:、不快そうに表情を歪める。}`
+`{ruby:{f:5:Featherine} shrugged and muttered "you haven't changed, child:フェザリーヌは、変わらぬな人の子よ、と肩}{ruby:of man" as she rocked her rocking chair.:を竦めて呟き、揺り椅子を揺らした。}`
+`{ruby:".........I see you're:「………相変わらず不}{ruby:as unpleasant as ever.:愉快なヤツだわ。}`
+`{ruby:......But nowadays I:……でもね、今}{ruby:find you pleasing.:は愉快よ。}`
+`{ruby:Imitating you really has:あんたの真似をしてるとね、}{ruby:been far from boring.":本当に退屈しないわ」}`
 `{ruby:"......Scold me as you please.:「……詰れ。好きに。}`
-`{ruby:It is the parting gift I gave you when we last met.":かつて別れに際し、そなたに許した置き土産だ」}`
-`{ruby:"You liked abusive mikos because they kept you entertained, right......?:「口の悪い巫女は退屈しないから好き、なんだっけ……？}`
+`{ruby:It is the parting gift I:かつて別れに際し、そなた}{ruby:gave you when we last met.":に許した置き土産だ」}`
+`{ruby:"You liked abusive mikos because:「口の悪い巫女は退屈しないか}{ruby:they kept you entertained, right......?:ら好き、なんだっけ……？}`
 `{ruby:Tch, ridiculous.:ちっ、馬鹿馬鹿しい。}`
-`{ruby:......If talking will only please you, I'll shut up.:……あんたを喜ばせるくらいなら、口を噤むわ。}`
-`{ruby:.........So, ......what do you want with me...?":………それで、……何の用…？」}`
-`{ruby:"It seems {f:5:Beatrice}'s game has ended with Battler's victory.:「ベアトリーチェのゲームが、戦人の勝利によって終わったそうだな。}`
+`{ruby:......If talking will only:……あんたを喜ばせるくら}{ruby:please you, I'll shut up.:いなら、口を噤むわ。}`
+`{ruby:.........So, ......what do:………それで、……}{ruby:you want with me...?":何の用…？」}`
+`{ruby:"It seems {f:5:Beatrice}'s game:「ベアトリーチェのゲームが、戦人の}{ruby:has ended with Battler's victory.:勝利によって終わったそうだな。}`
 `{ruby:......I observed it.:……観劇していた。}`
 `{ruby:It was quite entertaining.":なかなか面白かった」}`
-`{ruby:".........I'm sure you enjoyed seeing me fail miserably.":「………私が無様な役で、それは面白かったでしょうよ」}`
-`{ruby:"Nonsense, it was a splendid performance...:「とんでもない、なかなか好演であった…。}`
-`{ruby:............I'm sure Beato is very grateful to you.":…………ベアトもそなたに感謝しているだろう」}`
+`{ruby:".........I'm sure you enjoyed:「………私が無様な役で、それ}{ruby:seeing me fail miserably.":は面白かったでしょうよ」}`
+`{ruby:"Nonsense, it was:「とんでもない、なかな}{ruby:a splendid performance...:か好演であった…。}`
+`{ruby:............I'm sure Beato is:…………ベアトもそなたに}{ruby:very grateful to you.":感謝しているだろう」}`
 `{ruby:"............Hmph.:「…………ふん。}`
 `{ruby:......And?:……それで？}`
-`{ruby:If you want me to read the fragments of Beato's game aloud for you, I refuse.:ベアトのゲームのカケラを朗読しろって言うならお断りよ。}`
+`{ruby:If you want me to read the fragments:ベアトのゲームのカケラを朗読し}{ruby:of Beato's game aloud for you, I refuse.:ろって言うならお断りよ。}`
 `{ruby:I'm not your miko anymore.":私はもう、あんたの巫女じゃない」}`
-`{ruby:"I have observed all of Beato's games.:「私はベアトのゲームを全て観劇してきた。}`
-`{ruby:......I also watched {f:5:Lambdadelta}'s game and Battler's game with great interest.:……ラムダデルタのゲームも、戦人のゲームも、興味深く観劇させてもらった。}`
-`{ruby:......I believe I have fashioned my own particular answers to all the mysteries.:……一応、全ての謎に私なりの答えを用意できたつもりでいる。}`
+`{ruby:"I have observed:「私はベアトのゲームを}{ruby:all of Beato's games.:全て観劇してきた。}`
+`{ruby:......I also watched {f:5:Lambdadelta}'s game:……ラムダデルタのゲームも、戦人のゲー}{ruby:and Battler's game with great interest.:ムも、興味深く観劇させてもらった。}`
+`{ruby:......I believe I have fashioned my:……一応、全ての謎に私なりの答え}{ruby:own particular answers to all the mysteries.:を用意できたつもりでいる。}`
 `{ruby:.........The culprit.:………犯人。}`
 `{ruby:The motive.:動機。}`
 `{ruby:The individual tricks.:個別のトリック。}`
-`{ruby:......I am not yet clear about the very last part of the epitaph's riddle,:……碑文の謎は、最後がぎりぎりわからぬが、}`
-`{ruby:but I have enough of a theory that if I actually went to Rokkenjima and investigated, I should be able to resolve that part as well.":私が実際に六軒島に行き、検証すればわかる程度のレベルまでの推理は持っている」}`
+`{ruby:......I am not yet clear about the:……碑文の謎は、最後がぎ}{ruby:very last part of the epitaph's riddle,:りぎりわからぬが、}`
+`{ruby:but I have enough of a theory that if I actually went to:私が実際に六軒島に行き、検証すればわかる}{ruby:Rokkenjima and investigated, I should be able to resolve that part as well.":程度のレベルまでの推理は持っている」}`
 `{ruby:"...............And...?":「……………それで…？」}`
-`{ruby:"Of course, since there is no single truth, my theory is probably only one of many possibilities.:「無論、真実は一つでない以上、私の推理も、許される可能性の中の一つに過ぎぬだろう。}`
-`{ruby:......However, it is one of those possibilities, so that problem is a trivial one.":……しかし、それは可能性の範囲内であり、瑣末な問題だ」}`
+`{ruby:"Of course, since there is no single truth,:「無論、真実は一つでない以上、私の推理も、許}{ruby:my theory is probably only one of many possibilities.:される可能性の中の一つに過ぎぬだろう。}`
+`{ruby:......However, it is one of those possibilities,:……しかし、それは可能性の範囲}{ruby:so that problem is a trivial one.":内であり、瑣末な問題だ」}`
 `{ruby:"......What are you up to?:「……何よ、あんた。}`
-`{ruby:.........Do you want to debate Beato's game with me?":………私とベアトのゲームの論争がしたいの？」}`
+`{ruby:.........Do you want to:………私とベアトのゲーム}{ruby:debate Beato's game with me?":の論争がしたいの？」}`
 `{ruby:"Wrong.:「違う。}`
-`{ruby:.........What I want is to look at the answers, child of man.":………したいのは、答え合わせだ、人の子よ」}`
-`{ruby:Those words of {f:5:Featherine}'s made {f:5:Bernkastel} straighten up.:フェザリーヌのその言葉に、ベルンカステルはぴくりと反応する。}`
-`{ruby:......Her old master did not fail to notice that small reaction.:……その小さな反応を、かつての主は見逃さない。}`
-`{ruby:"So far, you have spiced up this tale as an actor.:「そなたも出演者として、山椒のように物語を盛り上げてきた。}`
-`{ruby:In doing that, you have probably come to know many truths.:その過程で多くの真実も知るだろう。}`
-`{ruby:......However, even you are unaware of the truth behind several mysteries that Beato has skillfully kept hidden, correct......?":……しかし、ベアトが巧みに隠してきたいくつかの謎については、……そなたも知らぬのではないか……？」}`
+`{ruby:.........What I want is to look:………したいのは、答え合}{ruby:at the answers, child of man.":わせだ、人の子よ」}`
+`{ruby:Those words of {f:5:Featherine}'s:フェザリーヌのその言葉に、ベルン}{ruby:made {f:5:Bernkastel} straighten up.:カステルはぴくりと反応する。}`
+`{ruby:......Her old master did not:……その小さな反応を、かつ}{ruby:fail to notice that small reaction.:ての主は見逃さない。}`
+`{ruby:"So far, you have spiced:「そなたも出演者として、山椒のよ}{ruby:up this tale as an actor.:うに物語を盛り上げてきた。}`
+`{ruby:In doing that, you have:その過程で多くの真実}{ruby:probably come to know many truths.:も知るだろう。}`
+`{ruby:......However, even you are unaware of the truth behind:……しかし、ベアトが巧みに隠してきたいくつかの謎につ}{ruby:several mysteries that Beato has skillfully kept hidden, correct......?":いては、……そなたも知らぬのではないか……？」}`
 `{ruby:"...........................:「………………………。}`
 `{ruby:.........I see...:………なるほど…。}`
-`{ruby:.........You want to use me......to chew apart......and string out the guts of something again.":………私にまた、……ハラワタを食い千切って、……引き摺り出す役をやらせたいのね」}`
-`{ruby:"After watching a play, the experience of reading the pamphlet and learning what goes on behind the scenes...:「観劇を終えれば、パンフレットを読み、舞台裏を知るのは、}`
-`{ruby:...is similar to, as you would say it, enjoying some black tea after a meal.:そなた風に言うなら、食後にたしなむ紅茶のようなものだ。}`
-`{ruby:......It is ceremony, but essential nonetheless.":……それは嗜みだが、欠かすことは出来ぬ」}`
-`{ruby:"You play with them and love them while they're alive, then eat their flesh when they die.:「生きてるうちは愛でて遊んで、死んだら肉を食らってご機嫌満腹。}`
-`{ruby:......So, cats are doubly useful to you.:……あんたにとって、猫は二度役に立つわけだわ。}`
+`{ruby:.........You want to use me......to chew apart......and:………私にまた、……ハラワタを食い千切って}{ruby:string out the guts of something again.":、……引き摺り出す役をやらせたいのね」}`
+`{ruby:"After watching a play, the experience of reading the:「観劇を終えれば、パンフレット}{ruby:pamphlet and learning what goes on behind the scenes...:を読み、舞台裏を知るのは、}`
+`{ruby:...is similar to, as you would say:そなた風に言うなら、食後にたし}{ruby:it, enjoying some black tea after a meal.:なむ紅茶のようなものだ。}`
+`{ruby:......It is ceremony,:……それは嗜みだが、欠}{ruby:but essential nonetheless.":かすことは出来ぬ」}`
+`{ruby:"You play with them and love them while:「生きてるうちは愛でて遊んで、死ん}{ruby:they're alive, then eat their flesh when they die.:だら肉を食らってご機嫌満腹。}`
+`{ruby:......So, cats are:……あんたにとって、猫は二}{ruby:doubly useful to you.:度役に立つわけだわ。}`
 `{ruby:.........Just die, monster.":………死ね、バケモノ」}`
 `{ruby:"I want...to look at the answers.:「答え合わせが、したい。}`
-`{ruby:.........I'm sure you want to know them.":………そなたも、知りたいはずだ」}`
-`{ruby:"....................................":「………………………………」}`
-`{ruby:"Think of it as a burial for Beato's corpse, where you are in charge of the service.:「ベアトの亡骸を葬ると思い、その葬儀を、そなたに執り行なってほしいということだ。}`
-`{ruby:......What do you say about that, child of man?":……それならばどうか、人の子よ」}`
-`{ruby:".........Now, you're starting to speak my language.":「………多少は、私好みな頼み方になってきたわ」}`
-`{ruby:When {f:5:Featherine} snapped her fingers,:フェザリーヌが指を鳴らすと、}`
-`{ruby:a thin spotlight shone on a table cluttered with books.:乱雑に本が積まれたテーブルに細いスポットライトが当たる。}`
-`{ruby:There.........lay a folded version of the game board for Beato's game.:そこには、………ベアトのゲームの、折り畳み式のゲーム盤が畳まれていた。}`
-`{ruby:The Witch of Theatergoing spun her finger in a circle, and the game board opened up by itself,:観劇の魔女が、指を小さく回す仕草をすると、そのゲーム盤はひとりでに開き、}`
-`{ruby:revealing the rows of black and white pieces that were packed away inside it.:その内側の、黒と白の駒がずらりと整列して仕舞われているのを見せる。}`
-`{ruby:".........It is a complete set, containing the game board and all the pieces.:「………ゲーム盤も駒も、全て揃っている。}`
-`{ruby:......The records of the previous games are all there as well.":……過去のゲームの棋譜も全て揃っている」}`
-`{ruby:With a rustling sound, the books flipped through all their pages of their own accord, shut themselves,:ばらばらばらっと、書物がひとりでにページを初めから最後まで捲られて閉じ、}`
-`{ruby:and flew to the side of the game board, where they waited.:ゲーム盤の脇に飛んで鎮座する。}`
-`{ruby:Inside them, all of the movements of the pieces during previous games were recorded...:そこには、過去のゲームでの駒の動きが全て記されている…。}`
+`{ruby:.........I'm sure you:………そなたも、知}{ruby:want to know them.":りたいはずだ」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
+`{ruby:"Think of it as a burial for Beato's:「ベアトの亡骸を葬ると思い、その葬儀を、そ}{ruby:corpse, where you are in charge of the service.:なたに執り行なってほしいということだ。}`
+`{ruby:......What do you say:……それならばどう}{ruby:about that, child of man?":か、人の子よ」}`
+`{ruby:".........Now, you're starting:「………多少は、私好みな頼}{ruby:to speak my language.":み方になってきたわ」}`
+`{ruby:When {f:5:Featherine}:フェザリーヌが指}{ruby:snapped her fingers,:を鳴らすと、}`
+`{ruby:a thin spotlight shone on:乱雑に本が積まれたテーブルに細}{ruby:a table cluttered with books.:いスポットライトが当たる。}`
+`{ruby:There.........lay a folded version of:そこには、………ベアトのゲームの、折り}{ruby:the game board for Beato's game.:畳み式のゲーム盤が畳まれていた。}`
+`{ruby:The Witch of Theatergoing spun her finger in a:観劇の魔女が、指を小さく回す仕草をする}{ruby:circle, and the game board opened up by itself,:と、そのゲーム盤はひとりでに開き、}`
+`{ruby:revealing the rows of black and white:その内側の、黒と白の駒がずらりと整列}{ruby:pieces that were packed away inside it.:して仕舞われているのを見せる。}`
+`{ruby:".........It is a complete set, containing:「………ゲーム盤も駒も}{ruby:the game board and all the pieces.:、全て揃っている。}`
+`{ruby:......The records of the previous:……過去のゲームの棋譜}{ruby:games are all there as well.":も全て揃っている」}`
+`{ruby:With a rustling sound, the books flipped through:ばらばらばらっと、書物がひとりでにペー}{ruby:all their pages of their own accord, shut themselves,:ジを初めから最後まで捲られて閉じ、}`
+`{ruby:and flew to the side of:ゲーム盤の脇に飛ん}{ruby:the game board, where they waited.:で鎮座する。}`
+`{ruby:Inside them, all of the movements of:そこには、過去のゲームでの駒の}{ruby:the pieces during previous games were recorded...:動きが全て記されている…。}`
 `{ruby:".........I see.:「………なるほど。}`
-`{ruby:So you were short a player and a commentator...":足りないのは、プレイヤーと解説者だけってわけ…」}`
+`{ruby:So you were short:足りないのは、プレイヤーと}{ruby:a player and a commentator...":解説者だけってわけ…」}`
 `{ruby:"We are also short on black tea.:「紅茶も足りぬな。}`
 `{ruby:......And, I suppose, dried plums.:……梅干も足りぬか。}`
 `{ruby:Of course, I will find some.":もちろん用意しよう」}`
 `{ruby:"..............................:「…………………………。}`
 `{ruby:......Okay.:………いいわ。}`
-`{ruby:If you add on some mustard rice cakes, then we have a deal.":それに辛子大福もつけてくれたら、手を打つわ」}`
+`{ruby:If you add on some mustard:それに辛子大福もつけてく}{ruby:rice cakes, then we have a deal.":れたら、手を打つわ」}`
 `{ruby:"The negotiations are concluded.":「交渉は成立だ」}`
 `{ruby:"I have one condition.":「条件が一つ」}`
 `{ruby:"Oh, and what is that?":「ほう、それは何か」}`
-`{ruby:"I'm going to be the Reader, right...?:「朗読者は私よ…？}`
-`{ruby:.........I have no love, so I might interpret all kinds of things in strange ways.:………私、愛がないから、色々と、おかしな解釈をしてしまうかもしれない。}`
-`{ruby:......However, the Reader is free to read things in a manner and with an intonation of her choosing.":……でも、どう読むか、どう抑揚をつけるかは、朗読者の自由よ」}`
+`{ruby:"I'm going to:「朗読者は私}{ruby:be the Reader, right...?:よ…？}`
+`{ruby:.........I have no love, so I might:………私、愛がないから、色々と、おかし}{ruby:interpret all kinds of things in strange ways.:な解釈をしてしまうかもしれない。}`
+`{ruby:......However, the Reader is free to read things in:……でも、どう読むか、どう抑揚を}{ruby:a manner and with an intonation of her choosing.":つけるかは、朗読者の自由よ」}`
 `{ruby:"I only want to check the answers.:「私は答え合わせがしたいだけだ。}`
-`{ruby:......I have no interest in the tale itself.:……物語になど興味は無い。}`
-`{ruby:.........The particular kind of tale you choose to create is of no interest to me whatsoever.:………そなたがどんな物語を紡ごうと、まったく興味が無い。}`
+`{ruby:......I have no interest:……物語になど興}{ruby:in the tale itself.:味は無い。}`
+`{ruby:.........The particular kind of tale you choose to:………そなたがどんな物語を紡ご}{ruby:create is of no interest to me whatsoever.:うと、まったく興味が無い。}`
 `{ruby:............Ah, yes.:…………なるほど。}`
 `{ruby:Now I see what you're after.":ようやくそなたが何をしたいのか、わかった」}`
-`{ruby:"..................Will you accept that condition?":「………………飲むでしょ？　条件」}`
+`{ruby:"..................Will you:「………………飲むで}{ruby:accept that condition?":しょ？　条件」}`
 `{ruby:"Very well...:「いいだろう…。}`
-`{ruby:I want to know the answers. You want an outlet for your grievances.:私は答えが知りたい。そなたは鬱憤が晴らしたい。}`
+`{ruby:I want to know the answers.:私は答えが知りたい。そなた}{ruby:You want an outlet for your grievances.:は鬱憤が晴らしたい。}`
 `{ruby:The negotiations are concluded.":交渉は成立だ」}`
-`{ruby:When {f:5:Featherine} snapped her fingers once more,:フェザリーヌがもう一度指を鳴らすと、}`
-`{ruby:......a large chair appeared, as though beckoning {f:5:Bernkastel} to sit there.:……ベルンカステルに着席を促すような、大きな椅子が現れる。}`
-`{ruby:The chair, its design horribly mismatched with the furnishings of this room, ......was a throne.:それは、この部屋の調度品には不似合いなセンスの、……玉座だった。}`
+`{ruby:When {f:5:Featherine} snapped:フェザリーヌがもう一}{ruby:her fingers once more,:度指を鳴らすと、}`
+`{ruby:......a large chair appeared, as:……ベルンカステルに着席を促すよ}{ruby:though beckoning {f:5:Bernkastel} to sit there.:うな、大きな椅子が現れる。}`
+`{ruby:The chair, its design horribly mismatched with:それは、この部屋の調度品には不似合}{ruby:the furnishings of this room, ......was a throne.:いなセンスの、……玉座だった。}`
 `{ruby:Wait, I've seen this before.:いや、見覚えはある。}`
 `{ruby:.........This is—:………それは、}`
 `{ruby:"I acknowledge it. You may sit.:「認めようぞ。座るが良い。}`
 `{ruby:You are the Game Master.":ゲームマスターは、そなただ」}`
 `{ruby:".........Are you sure?:「………いいのね？}`
 `{ruby:......Are you {i:really} sure...?":……本当に、……いいのね…？」}`
-`{ruby:"You may create whatever sort of tale you like to ease your inner hatred.:「そなたの鬱憤が晴れるような、好きな物語を紡げばいい。}`
+`{ruby:"You may create whatever sort of tale:「そなたの鬱憤が晴れるような、}{ruby:you like to ease your inner hatred.:好きな物語を紡げばいい。}`
 `{ruby:I am not interested.:私には興味ないことだ。}`
-`{ruby:However, I have one condition as well.:ただし、私からも条件を一つ。}`
-`{ruby:......Provide all of the answers I seek.:……私の求める答え合わせを、全てせよ。}`
+`{ruby:However, I have:ただし、私からも}{ruby:one condition as well.:条件を一つ。}`
+`{ruby:......Provide all of:……私の求める答え合わ}{ruby:the answers I seek.:せを、全てせよ。}`
 `{ruby:No hiding, concealment, or tricks.":隠し事も包み隠しも誤魔化しも、一切なしだ」}`
-`{ruby:"Heh, ......heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh...!:「ふっ、……ふっふふふふふふふ…！}`
+`{ruby:"Heh,:「ふっ、……ふっふふ}{ruby:......heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh...!:ふふふふふ…！}`
 `{ruby:Leave it to me.:任せなさい。}`
-`{ruby:Tearing apart the chest and ripping out the guts is my specialty.:……ハラワタ引き裂いて、中身を全て引き摺り出すのは私のもっとも得意とするところ。}`
+`{ruby:Tearing apart the chest and ripping:……ハラワタ引き裂いて、中身を全て引き摺り}{ruby:out the guts is my specialty.:出すのは私のもっとも得意とするところ。}`
 `{ruby:.........After all, you trained me.":………あんたの仕込みだもの」}`
 `{ruby:"I shall make you some black tea.:「紅茶を淹れよう。}`
 `{ruby:......With my own hands, not magic.:……魔法でなく、私自らの手でな。}`
-`{ruby:......Let the master treat her miko to some tea...":……主が、巫女に、茶を淹れて進ぜようぞ…」}`
-`{ruby:"Beato once told me that tea is best drunk in the company of a witch.":「かつてベアトは私に、紅茶を飲むなら魔女とに限ると言ったわ」}`
-`{ruby:"It seems we differ in that regard......:「我らには、どうやら違うようだな……。}`
-`{ruby:......Heh, ...heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh.":……ふ、…ふっふふふふふふふふふふ」}`
-`{ruby:......At some point, that dish piled with biscuits...:……いつの間にか、……あのビスケットの盛られた餌皿が、}`
-`{ruby:...had reverted to a mountain of torn‐apart meat and a splatter of red.:……真っ赤な飛沫を散らせた、引き千切られた生肉の山に戻っている。}`
-`{ruby:No, not just meat, ...even intestines...:いや、肉だけでなく、……腸さえ……。}`
+`{ruby:......Let the master treat:……主が、巫女に、茶を淹}{ruby:her miko to some tea...":れて進ぜようぞ…」}`
+`{ruby:"Beato once told me that tea is:「かつてベアトは私に、紅茶を飲む}{ruby:best drunk in the company of a witch.":なら魔女とに限ると言ったわ」}`
+`{ruby:"It seems we:「我らには、どうやら違}{ruby:differ in that regard......:うようだな……。}`
+`{ruby:......Heh,:……ふ、…ふっふふふ}{ruby:...heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh.":ふふふふふふふ」}`
+`{ruby:......At some point, that:……いつの間にか、……あのビス}{ruby:dish piled with biscuits...:ケットの盛られた餌皿が、}`
+`{ruby:...had reverted to a mountain of:……真っ赤な飛沫を散らせた、引き千}{ruby:torn‐apart meat and a splatter of red.:切られた生肉の山に戻っている。}`
+`{ruby:No, not just:いや、肉だけでなく、}{ruby:meat, ...even intestines...:……腸さえ……。}`
 `{ruby:"......Tea is best enjoyed—":「……紅茶を飲むなら、」}`
 `{ruby:""With your fellow monsters."":「「バケモノ同士に限るわ」」}`
-`{ruby:".........In that case, let's get the pieces ready.:「………では、駒の準備を始めるわ。}`
-`{ruby:If we keep counting, this'll be game number seven, right?":通し番号で言うと、第７のゲーム？」}`
+`{ruby:".........In that case, let's:「………では、駒の準}{ruby:get the pieces ready.:備を始めるわ。}`
+`{ruby:If we keep counting, this'll:通し番号で言うと、第}{ruby:be game number seven, right?":７のゲーム？」}`
 `{ruby:"Correct.:「そうなる。}`
 `{ruby:An auspicious number.":縁起のいい数字だ」}`
 `{ruby:"It won't be for Beato.":「それはベアトにとってではないわね」}`
-`{ruby:{f:5:Bernkastel} slowly picked up a black piece.:ベルンカステルは、……ゆっくりと、黒い駒を摘み上げる。}`
-`{ruby:It was the piece that represented {f:5:Beatrice}.:それは、……ベアトリーチェを意味する駒。}`
-`{ruby:It was sometimes a king, sometimes a queen, and could even become a knight.:時にキングでありクイーンでありナイトにもなれる。}`
-`{ruby:However, that was only if it got promoted.:……しかしそれは、プロモーションを迎えればの話。}`
-`{ruby:{n}Until then, it was only a trash piece, like a pawn.:{n}それまでは、ポーンにも等しい、クズ駒だ。}`
+`{ruby:{f:5:Bernkastel} slowly picked:ベルンカステルは、……ゆっくり}{ruby:up a black piece.:と、黒い駒を摘み上げる。}`
+`{ruby:It was the:それは、……ベアトリー}{ruby:piece that represented {f:5:Beatrice}.:チェを意味する駒。}`
+`{ruby:It was sometimes a king, sometimes a:時にキングでありクイーンで}{ruby:queen, and could even become a knight.:ありナイトにもなれる。}`
+`{ruby:However, that was only:……しかしそれは、プロモー}{ruby:if it got promoted.:ションを迎えればの話。}`
+`{ruby:{n}Until then, it was only:{n}それまでは、ポーンに}{ruby:a trash piece, like a pawn.:も等しい、クズ駒だ。}`
 `{ruby:First came piece positioning.:まずは、駒の配置。}`
-`{ruby:Even this early, the witch's game had already begun.:もうこの時点から、魔女のゲームは幕を開けている。}`
-`{ruby:{f:5:Bernkastel} took Beato's piece and slowly raised it high.:そしてベルンカステルは、ベアトの駒を、………ゆっくりと振り上げる。}`
+`{ruby:Even this early, the:もうこの時点から、魔女のゲ}{ruby:witch's game had already begun.:ームは幕を開けている。}`
+`{ruby:{f:5:Bernkastel} took Beato's piece:そしてベルンカステルは、ベアトの駒を}{ruby:and slowly raised it high.:、………ゆっくりと振り上げる。}`
 `{ruby:"First move, placement.:「初手、配置。}`
 `{ruby:{f:5:Beatrice} on d8.":ｄ８ベアトリーチェ」}`

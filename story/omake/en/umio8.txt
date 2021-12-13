@@ -1,18 +1,18 @@
 `{ruby:The tales up until now...:The tales up until now...}`
 `{ruby:......one after another...:......one after another...}`
 `{ruby:......after another.........:......after another.........}`
-`{ruby:Vergilius guided Dante to Mount Purgatory,:Vergilius guided Dante to Mount Purgatory,}`
-`{ruby:......and led him to Beatrice, the eternal lady who waited at the top.:......and led him to Beatrice, the eternal lady who waited at the top.}`
+`{ruby:Vergilius guided Dante:Vergilius guided Dante}{ruby:to Mount Purgatory,: to Mount Purgatory,}`
+`{ruby:......and led him to Beatrice, the:......and led him to Beatrice, the et}{ruby:eternal lady who waited at the top.:ernal lady who waited at the top.}`
 `{ruby:Therefore,:Therefore,}`
-`{ruby:.........the innermost depths lay not at the bottom,:.........the innermost depths lay not at the bottom,}`
-`{ruby:.........but at the peak of Mount Purgatory.:.........but at the peak of Mount Purgatory.}`
+`{ruby:.........the innermost depths lay:.........the innermost depth}{ruby:not at the bottom,:s lay not at the bottom,}`
+`{ruby:.........but at the:.........but at the peak}{ruby:peak of Mount Purgatory.: of Mount Purgatory.}`
 `{ruby:The eternal lady...:The eternal lady...}`
-`{ruby:...had been waiting there for Dante...:...had been waiting there for Dante...}`
+`{ruby:...had been waiting:...had been waiting }{ruby:there for Dante...:there for Dante...}`
 `{ruby:...the whole time......:...the whole time......}`
 `{ruby:{a:c:And then.........I knew.}:{a:c:And then.........I knew.}}`
-`{ruby:......I finally...reached the truth.........:......I finally...reached the truth.........}`
+`{ruby:......I finally...reached:......I finally...reach}{ruby:the truth.........:ed the truth.........}`
 `{ruby:.........In the depths, ...no,:.........In the depths, ...no,}`
-`{ruby:.........at the peak...of Mount Purgatory...............:.........at the peak...of Mount Purgatory...............}`
+`{ruby:.........at the:.........at the peak...of Moun}{ruby:peak...of Mount Purgatory...............:t Purgatory...............}`
 `{ruby:............Idiot............:............Idiot............}`
 `{ruby:......You...:......You...}`
 `{ruby:......really are...:......really are...}`
@@ -21,28 +21,28 @@
 `{ruby:......gwah...:......gwah...}`
 `{ruby:.........that hurts.........":.........that hurts........."}`
 `{ruby:He woke from the sleep of death,:He woke from the sleep of death,}`
-`{ruby:......and bit by bit......his sense of pain came back to him......:......and bit by bit......his sense of pain came back to him......}`
-`{ruby:As Battler hung there pierced by the longsword, his head still tilted towards the heavens,:As Battler hung there pierced by the longsword, his head still tilted towards the heavens,}`
-`{ruby:......life gradually returned to his face...through an expression of suffering......:......life gradually returned to his face...through an expression of suffering......}`
+`{ruby:......and bit by bit......his sense:......and bit by bit......his sense}{ruby:of pain came back to him......: of pain came back to him......}`
+`{ruby:As Battler hung there pierced by the:As Battler hung there pierced by the longsword}{ruby:longsword, his head still tilted towards the heavens,:, his head still tilted towards the heavens,}`
+`{ruby:......life gradually returned to his:......life gradually returned to his face...}{ruby:face...through an expression of suffering......:through an expression of suffering......}`
 `{ruby:"You...:"You...}`
 `{ruby:......really are...:......really are...}`
 `{ruby:...an idiot......:...an idiot......}`
 `{ruby:......A huge idiot.........":......A huge idiot........."}`
 `{ruby:Battler...noticed.:Battler...noticed.}`
 `{ruby:......The whole time,:......The whole time,}`
-`{ruby:.........Beato had been snuggling up against him......sleeping.:.........Beato had been snuggling up against him......sleeping.}`
+`{ruby:.........Beato had been:.........Beato had been snuggling}{ruby:snuggling up against him......sleeping.: up against him......sleeping.}`
 `{ruby:And when he held her,:And when he held her,}`
 `{ruby:.........he found...:.........he found...}`
 `{ruby:......that it was not Beato...:......that it was not Beato...}`
 `{ruby:......but her crumbling...:......but her crumbling...}`
 `{ruby:...remains.:...remains.}`
-`{ruby:And because her form was as fragile as ash,:And because her form was as fragile as ash,}`
+`{ruby:And because her form:And because her form wa}{ruby:was as fragile as ash,:s as fragile as ash,}`
 `{ruby:when Battler tried to hold it,:when Battler tried to hold it,}`
-`{ruby:.........just like a sand castle made on a beach...:.........just like a sand castle made on a beach...}`
+`{ruby:.........just like a sand:.........just like a sand c}{ruby:castle made on a beach...:astle made on a beach...}`
 `{ruby:...being washed away by a small wave,:...being washed away by a small wave,}`
-`{ruby:......it fell apart and lost its form......:......it fell apart and lost its form......}`
-`{ruby:At Battler's feet......lay nothing but the ragged remnants of Beato's dress......and a pile of ash.:At Battler's feet......lay nothing but the ragged remnants of Beato's dress......and a pile of ash.}`
-`{ruby:No, ......on top of that pile of ash......he could see something sparkling gold.:No, ......on top of that pile of ash......he could see something sparkling gold.}`
+`{ruby:......it fell apart:......it fell apart and}{ruby:and lost its form......: lost its form......}`
+`{ruby:At Battler's feet......lay nothing but the ragged:At Battler's feet......lay nothing but the ragged r}{ruby:remnants of Beato's dress......and a pile of ash.:emnants of Beato's dress......and a pile of ash.}`
+`{ruby:No, ......on top of that pile:No, ......on top of that pile of ash.....}{ruby:of ash......he could see something sparkling gold.:.he could see something sparkling gold.}`
 `{ruby:......It was...:......It was...}`
 `{ruby:.........the husk...:.........the husk...}`
 `{ruby:...of a single gold butterfly...:...of a single gold butterfly...}`
@@ -50,9 +50,9 @@
 `{ruby:And so, .........Battler...:And so, .........Battler...}`
 `{ruby:knew......:knew......}`
 `{ruby:{n}I......did reach the truth...:{n}I......did reach the truth...}`
-`{ruby:......But......I wasn't able to do it...:......But......I wasn't able to do it...}`
+`{ruby:......But......I wasn't able:......But......I wasn}{ruby:to do it...:'t able to do it...}`
 `{ruby:......while Beato...:......while Beato...}`
-`{ruby:......still remained in this world............:......still remained in this world............}`
+`{ruby:......still remained:......still remained in }{ruby:in this world............:this world............}`
 `{ruby:"......Beato......:"......Beato......}`
 `{ruby:......you...:......you...}`
 `{ruby:......really are...:......really are...}`
@@ -64,22 +64,22 @@
 `{ruby:...like you wanted......!:...like you wanted......!}`
 `{ruby:I didn't lose heart...:I didn't lose heart...}`
 `{ruby:...and I finally...:...and I finally...}`
-`{ruby:...made it all the way to the end.........:...made it all the way to the end.........}`
+`{ruby:...made it all the:...made it all the way}{ruby:way to the end.........: to the end.........}`
 `{ruby:So why...:So why...}`
 `{ruby:......did you lose heart...:......did you lose heart...}`
-`{ruby:.........without waiting for me......?:.........without waiting for me......?}`
+`{ruby:.........without waiting:.........without wai}{ruby:for me......?:ting for me......?}`
 `{ruby:{n}:{n}}`
-`{ruby:......You believed so strongly, didn't you......?:......You believed so strongly, didn't you......?}`
+`{ruby:......You believed so:......You believed so stro}{ruby:strongly, didn't you......?:ngly, didn't you......?}`
 `{ruby:{n}:{n}}`
-`{ruby:That I'd......definitely reach the truth......:That I'd......definitely reach the truth......}`
+`{ruby:That I'd......definitely:That I'd......definitely }{ruby:reach the truth......:reach the truth......}`
 `{ruby:So, .........why.........?:So, .........why.........?}`
 `{ruby:Why...:Why...}`
-`{ruby:............couldn't you believe with me...:............couldn't you believe with me...}`
+`{ruby:............couldn't you:............couldn't yo}{ruby:believe with me...:u believe with me...}`
 `{ruby:.........and wait............?:.........and wait............?}`
-`{ruby:It wasn't you who was forcing an endless torture on someone.:It wasn't you who was forcing an endless torture on someone.}`
+`{ruby:It wasn't you who was:It wasn't you who was forcing a}{ruby:forcing an endless torture on someone.:n endless torture on someone.}`
 `{ruby:It was me...!:It was me...!}`
-`{ruby:I've been the one putting you through a cruel torture...!:I've been the one putting you through a cruel torture...!}`
-`{ruby:You resisted until the very end and kept on appealing to me......:You resisted until the very end and kept on appealing to me......}`
+`{ruby:I've been the one putting:I've been the one putting you }{ruby:you through a cruel torture...!:through a cruel torture...!}`
+`{ruby:You resisted until the very end:You resisted until the very end an}{ruby:and kept on appealing to me......:d kept on appealing to me......}`
 `{ruby:{n}:{n}}`
 `{ruby:........And now...:........And now...}`
 `{ruby:...even though I finally...:...even though I finally...}`
@@ -93,9 +93,9 @@
 `{ruby:......before meeeeeee...":......before meeeeeee..."}`
 `{ruby:It's my......fault......:It's my......fault......}`
 `{ruby:I forced her to endure this torture.:I forced her to endure this torture.}`
-`{ruby:{n}In fact, I'm amazed she endured for so long......:{n}In fact, I'm amazed she endured for so long......}`
-`{ruby:She kept on appealing to me, over and over and over again,:She kept on appealing to me, over and over and over again,}`
-`{ruby:.........and because I was so incompetent......I couldn't even begin to understand the truth.:.........and because I was so incompetent......I couldn't even begin to understand the truth.}`
+`{ruby:{n}In fact, I'm amazed:{n}In fact, I'm amazed she }{ruby:she endured for so long......:endured for so long......}`
+`{ruby:She kept on appealing to me,:She kept on appealing to me, o}{ruby:over and over and over again,:ver and over and over again,}`
+`{ruby:.........and because I was so incompetent......I:.........and because I was so incompetent......I}{ruby:couldn't even begin to understand the truth.: couldn't even begin to understand the truth.}`
 `{ruby:"Idiot......:"Idiot......}`
 `{ruby:......idiot.........:......idiot.........}`
 `{ruby:......Your riddles...:......Your riddles...}`
@@ -103,67 +103,67 @@
 `{ruby:......Why couldn't...:......Why couldn't...}`
 `{ruby:...you say it...:...you say it...}`
 `{ruby:.........more simply......?:.........more simply......?}`
-`{ruby:...You foo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ool!!:...You foo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ool!!}`
-`{ruby:Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}agg{0}gh{0}h{0}hhh!!":Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}agg{0}gh{0}h{0}hhh!!"}`
+`{ruby:...You:...You foo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{}{ruby:foo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ool!!:-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ool!!}`
+`{ruby::Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}{ruby:Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}agg{0}gh{0}h{0}hhh!!":}a{0}a{0}a{0}a{0}agg{0}gh{0}h{0}hhh!!"}`
 `{ruby:His scream of pain...:His scream of pain...}`
 `{ruby:...filled...:...filled...}`
 `{ruby:......this cathedral of sorrow...:......this cathedral of sorrow...}`
-`{ruby:The sad witch who wasn't able to let Battler know of the truth.:The sad witch who wasn't able to let Battler know of the truth.}`
-`{ruby:{n}The sad man who wasn't able to understand the witch's truth.:{n}The sad man who wasn't able to understand the witch's truth.}`
-`{ruby:Battler howled in anger and sadness for both of them......:Battler howled in anger and sadness for both of them......}`
-`{ruby:The clock hung in the cathedral showed that it was midnight on October 5th, 1986.:The clock hung in the cathedral showed that it was midnight on October 5th, 1986.}`
+`{ruby:The sad witch who wasn't able:The sad witch who wasn't able to }{ruby:to let Battler know of the truth.:let Battler know of the truth.}`
+`{ruby:{n}The sad man who wasn't:{n}The sad man who wasn't able to}{ruby:able to understand the witch's truth.: understand the witch's truth.}`
+`{ruby:Battler howled in anger and:Battler howled in anger and sa}{ruby:sadness for both of them......:dness for both of them......}`
+`{ruby:The clock hung in the cathedral showed:The clock hung in the cathedral showed tha}{ruby:that it was midnight on October 5th, 1986.:t it was midnight on October 5th, 1986.}`
 `{ruby:Time was up...:Time was up...}`
 `{ruby:......for everything.........:......for everything.........}`
-`{ruby:If you're going to create a riddle as hard as this and be so proud of it,:If you're going to create a riddle as hard as this and be so proud of it,}`
-`{ruby:...don't go and set a goddamned time limit on it......:...don't go and set a goddamned time limit on it......}`
+`{ruby:If you're going to create a riddle as:If you're going to create a riddle as }{ruby:hard as this and be so proud of it,:hard as this and be so proud of it,}`
+`{ruby:...don't go and set a:...don't go and set a goddamn}{ruby:goddamned time limit on it......:ed time limit on it......}`
 `{ruby:".........No,:".........No,}`
 `{ruby:......I understand......:......I understand......}`
-`{ruby:Even though there was such a faint chance of that miracle happening,:Even though there was such a faint chance of that miracle happening,}`
-`{ruby:.........you prayed for it to happen......:.........you prayed for it to happen......}`
+`{ruby:Even though there was such a:Even though there was such a faint c}{ruby:faint chance of that miracle happening,:hance of that miracle happening,}`
+`{ruby:.........you prayed for:.........you prayed for}{ruby:it to happen......: it to happen......}`
 `{ruby:......You're...:......You're...}`
 `{ruby:......just like Grandfather.":......just like Grandfather."}`
-`{ruby:You prayed for and bet on the power of a miracle...:You prayed for and bet on the power of a miracle...}`
-`{ruby:......one so unlikely that it was totally impossible, less likely than finding a bead you've dropped on a sandy beach.........:......one so unlikely that it was totally impossible, less likely than finding a bead you've dropped on a sandy beach.........}`
-`{ruby:And because you did...I {i:have} now arrived at that miracle.:And because you did...I {i:have} now arrived at that miracle.}`
+`{ruby:You prayed for and bet:You prayed for and bet on t}{ruby:on the power of a miracle...:he power of a miracle...}`
+`{ruby:......one so unlikely that it was totally impossible, less likely:......one so unlikely that it was totally impossible, less likel}{ruby:than finding a bead you've dropped on a sandy beach.........:y than finding a bead you've dropped on a sandy beach.........}`
+`{ruby:And because you did...I {i:have}:And because you did...I {i:have}}{ruby:now arrived at that miracle.: now arrived at that miracle.}`
 `{ruby:But......your time...:But......your time...}`
-`{ruby:...didn't last long enough............:...didn't last long enough............}`
-`{ruby:If I had reached this point even a little sooner...:If I had reached this point even a little sooner...}`
-`{ruby:If I could have {y:1:‘seen’}{n:1:seen} the truth......!!:If I could have {y:1:‘seen’}{n:1:seen} the truth......!!}`
-`{ruby:Even if it had been right before time was up,:Even if it had been right before time was up,}`
+`{ruby:...didn't last:...didn't last long }{ruby:long enough............:enough............}`
+`{ruby:If I had reached this:If I had reached this point}{ruby:point even a little sooner...: even a little sooner...}`
+`{ruby:If I could:If I could have {y:1:‘seen’}{}{ruby:have {y:1:‘seen’}{n:1:seen} the truth......!!:n:1:seen} the truth......!!}`
+`{ruby:Even if it had been:Even if it had been righ}{ruby:right before time was up,:t before time was up,}`
 `{ruby:.........I might...:.........I might...}`
 `{ruby:......have been able to save you...!!:......have been able to save you...!!}`
-`{ruby:But now, ......I've been run through pathetically,:But now, ......I've been run through pathetically,}`
-`{ruby:......and I can't......even hold what remains of you......!:......and I can't......even hold what remains of you......!}`
-`{ruby:......I struggled, attempting to pull the longsword out,:......I struggled, attempting to pull the longsword out,}`
-`{ruby:......or at least touch her remains by stretching out my arms......but neither worked.:......or at least touch her remains by stretching out my arms......but neither worked.}`
+`{ruby:But now, ......I've:But now, ......I've been r}{ruby:been run through pathetically,:un through pathetically,}`
+`{ruby:......and I can't......even hold:......and I can't......even hol}{ruby:what remains of you......!:d what remains of you......!}`
+`{ruby:......I struggled, attempting to:......I struggled, attempting}{ruby:pull the longsword out,: to pull the longsword out,}`
+`{ruby:......or at least touch her remains:......or at least touch her remains by stretc}{ruby:by stretching out my arms......but neither worked.:hing out my arms......but neither worked.}`
 `{ruby:"......Shiiiiiit......:"......Shiiiiiit......}`
 `{ruby:dammiiiiiiiiiittt.........!!!":dammiiiiiiiiiittt.........!!!"}`
-`{ruby:.........At that time, I noticed a golden glint on the palm of my hand.:.........At that time, I noticed a golden glint on the palm of my hand.}`
-`{ruby:It was............a single wing from a gold butterfly.:It was............a single wing from a gold butterfly.}`
+`{ruby:.........At that time, I noticed a golden:.........At that time, I noticed a go}{ruby:glint on the palm of my hand.:lden glint on the palm of my hand.}`
+`{ruby:It was............a single wing:It was............a single w}{ruby:from a gold butterfly.:ing from a gold butterfly.}`
 `{ruby:That small fragment of gold...:That small fragment of gold...}`
 `{ruby:......was the only piece of Beato...:......was the only piece of Beato...}`
-`{ruby:...that I was permitted to touch.........:...that I was permitted to touch.........}`
-`{ruby:I cried with all my strength, .........gripped that fragment...and pressed it against my head, apologizing.:I cried with all my strength, .........gripped that fragment...and pressed it against my head, apologizing.}`
-`{ruby:......Why couldn't I reach the truth earlier......?:......Why couldn't I reach the truth earlier......?}`
+`{ruby:...that I was:...that I was permitte}{ruby:permitted to touch.........:d to touch.........}`
+`{ruby:I cried with all my strength, .........gripped:I cried with all my strength, .........gripped that fra}{ruby:that fragment...and pressed it against my head, apologizing.:gment...and pressed it against my head, apologizing.}`
+`{ruby:......Why couldn't I:......Why couldn't I reach }{ruby:reach the truth earlier......?:the truth earlier......?}`
 `{ruby:Then I pressed it to my chest,:Then I pressed it to my chest,}`
-`{ruby:............promising that even though things had come to this,:............promising that even though things had come to this,}`
+`{ruby:............promising that even though:............promising that even t}{ruby:things had come to this,:hough things had come to this,}`
 `{ruby:......I would never again...:......I would never again...}`
 `{ruby:...lose...:...lose...}`
 `{ruby:...the truth......:...the truth......}`
-`{ruby:When I pressed my hand against my chest, ......the sword piercing my chest cut my wrist, and blood dribbled out.:When I pressed my hand against my chest, ......the sword piercing my chest cut my wrist, and blood dribbled out.}`
-`{ruby:That blood spread throughout my fist...:That blood spread throughout my fist...}`
+`{ruby:When I pressed my hand against my chest, ......the sword:When I pressed my hand against my chest, ......the sword }{ruby:piercing my chest cut my wrist, and blood dribbled out.:piercing my chest cut my wrist, and blood dribbled out.}`
+`{ruby:That blood spread:That blood spread thr}{ruby:throughout my fist...:oughout my fist...}`
 `{ruby:......and it must have...:......and it must have...}`
-`{ruby:...soaked that gold fragment with my red blood.:...soaked that gold fragment with my red blood.}`
-`{ruby:It must have been......the only way of telling her...:It must have been......the only way of telling her...}`
-`{ruby:...that I'd found the truth she had wanted to tell me......:...that I'd found the truth she had wanted to tell me......}`
-`{ruby:I clutched the wing of the gold butterfly...:I clutched the wing of the gold butterfly...}`
+`{ruby:...soaked that gold fragment:...soaked that gold fragm}{ruby:with my red blood.:ent with my red blood.}`
+`{ruby:It must have been......the:It must have been......the o}{ruby:only way of telling her...:nly way of telling her...}`
+`{ruby:...that I'd found the truth:...that I'd found the truth she}{ruby:she had wanted to tell me......: had wanted to tell me......}`
+`{ruby:I clutched the wing:I clutched the wing of }{ruby:of the gold butterfly...:the gold butterfly...}`
 `{ruby:...with my freshly bleeding hand...:...with my freshly bleeding hand...}`
-`{ruby:......and pressed it against the red sword that impaled me......:......and pressed it against the red sword that impaled me......}`
+`{ruby:......and pressed it against the:......and pressed it against the }{ruby:red sword that impaled me......:red sword that impaled me......}`
 `{ruby:In this moment,:In this moment,}`
 `{ruby:......Ushiromiya Battler...knew.:......Ushiromiya Battler...knew.}`
 `{ruby:And understood.:And understood.}`
 `{ruby:......He had arrived...:......He had arrived...}`
 `{ruby:......at the entirety...:......at the entirety...}`
 `{ruby:...of this tale......:...of this tale......}`
-`{ruby:At that moment, ......it seemed as though a faint golden light...:At that moment, ......it seemed as though a faint golden light...}`
-`{ruby:...leaked out of the gaps in his clenched fist.:...leaked out of the gaps in his clenched fist.}`
+`{ruby:At that moment, ......it seemed:At that moment, ......it seemed as}{ruby:as though a faint golden light...: though a faint golden light...}`
+`{ruby:...leaked out of the:...leaked out of the gap}{ruby:gaps in his clenched fist.:s in his clenched fist.}`

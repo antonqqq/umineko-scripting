@@ -1,74 +1,74 @@
-`{ruby:...Even though it was a pitch‐black world where nothing could be seen,:…真っ暗で、何も見えない世界なのに、}`
-`{ruby:......for some reason, I felt Beato's presence right next to me.:……なぜかすぐ近くに、ベアトがいるような気配を感じた。}`
+`{ruby:...Even though it was a pitch‐black:…真っ暗で、何も見え}{ruby:world where nothing could be seen,:ない世界なのに、}`
+`{ruby:......for some reason, I felt:……なぜかすぐ近くに、ベアトが}{ruby:Beato's presence right next to me.:いるような気配を感じた。}`
 `{ruby:......So I tried calling out to her.:……だから呼び掛けてみる。}`
-`{ruby:{n}...You can exchange words with someone whether they're a human or a witch.:{n}…言葉を交わすことは、魔女でも人間でもできる。}`
-`{ruby:......So even in a world where witches have been denied......I should be allowed to talk to her...:……だから、魔女が否定された世界でも、……言葉をかけることは許されるはずなんだ…。}`
+`{ruby:{n}...You can exchange words with someone:{n}…言葉を交わすことは、}{ruby:whether they're a human or a witch.:魔女でも人間でもできる。}`
+`{ruby:......So even in a world where witches have:……だから、魔女が否定された世界でも、……言}{ruby:been denied......I should be allowed to talk to her...:葉をかけることは許されるはずなんだ…。}`
 `{ruby:"...............Beato......":「……………ベアト……」}`
 `{ruby:"......Battler, is it...:「……戦人か…。}`
 `{ruby:...............It is done.:………やったぞ。}`
 `{ruby:......I...did it.":……妾は、…やった」}`
 `{ruby:"...Yeah.:「…あぁ。}`
 `{ruby:......I didn't hear it,:……聞こえはしなかったが、}`
-`{ruby:.........but I watched you...until the very end...:………俺はお前の姿を、…最後まで見ていたぜ…。}`
-`{ruby:I was watching......as you boldly stood up to that evil witch...":お前が、邪悪な魔女に毅然と立ち向かうところを、……ちゃんと見てたぜ…」}`
-`{ruby:".........With this, ...I am no longer a witch.:「………これでもう、…妾は魔女ではない。}`
-`{ruby:............But, I will definitely...become a witch again...:…………だが、必ず、妾は再び魔女になるぞ…。}`
+`{ruby:.........but I watched:………俺はお前の姿を、…最}{ruby:you...until the very end...:後まで見ていたぜ…。}`
+`{ruby:I was watching......as you boldly:お前が、邪悪な魔女に毅然と立ち向かうと}{ruby:stood up to that evil witch...":ころを、……ちゃんと見てたぜ…」}`
+`{ruby:".........With this, ...I am:「………これでもう、…}{ruby:no longer a witch.:妾は魔女ではない。}`
+`{ruby:............But, I will:…………だが、必ず、妾は}{ruby:definitely...become a witch again...:再び魔女になるぞ…。}`
 `{ruby:......And...:……そして、}`
-`{ruby:...I will make it so that I can be called the Golden Witch again,:……再び黄金の魔女と呼ばれるに至って、}`
+`{ruby:...I will make it so that I:……再び黄金の魔女と呼}{ruby:can be called the Golden Witch again,:ばれるに至って、}`
 `{ruby:.........and then,:……再び、}`
-`{ruby:......when I am ready to be accepted as your opponent,:……そなたの対戦相手だと認められに、}`
-`{ruby:.........I will return once more......":………帰ってくるから……」}`
+`{ruby:......when I am ready to:……そなたの対戦相手}{ruby:be accepted as your opponent,:だと認められに、}`
+`{ruby:.........I will:………帰ってくる}{ruby:return once more......":から……」}`
 `{ruby:"No.:「いや。}`
 `{ruby:.........You...were a witch.":………お前は、魔女だったぜ」}`
 `{ruby:"...............Huh......?":「……………え……」}`
 `{ruby:"...I...was watching.:「…俺は、見てたぜ。}`
-`{ruby:.........When you took that evil witch,:………お前が、あの邪悪な魔女を、}`
-`{ruby:......and blew her away with that awesome magic, exposing her true form,:……すっげえ魔法で吹き飛ばして、その正体を暴き出すところを、}`
-`{ruby:...I was watching with my own eyes...":…俺はちゃんとこの目で見ていたぜ…」}`
+`{ruby:.........When you took:………お前が、あの}{ruby:that evil witch,:邪悪な魔女を、}`
+`{ruby:......and blew her away with that:……すっげえ魔法で吹き飛ばして、}{ruby:awesome magic, exposing her true form,:その正体を暴き出すところを、}`
+`{ruby:...I was watching:…俺はちゃんとこの目}{ruby:with my own eyes...":で見ていたぜ…」}`
 `{ruby:"Th‐...that wasn't magic,:「あ、…あれは魔法ではなく、}`
 `{ruby:......but the red—":……赤き、」}`
 `{ruby:"No, it was magic.:「いいや、魔法だったぜ。}`
-`{ruby:.........You were definitely...the Golden Witch.:………お前は確かに、黄金の魔女だった。}`
-`{ruby:.........Even if you deny it yourself,:………お前自らが否定しようとも。}`
+`{ruby:.........You were:………お前は確かに、黄}{ruby:definitely...the Golden Witch.:金の魔女だった。}`
+`{ruby:.........Even if you:………お前自らが否}{ruby:deny it yourself,:定しようとも。}`
 `{ruby:.........I'll accept it.:………俺が認めてやるよ。}`
 `{ruby:............‘You are definitely...:…………“お前は確かに、}`
 `{ruby:the Golden Witch’.":…黄金の魔女だ”」}`
-`{ruby:.........When Battler said those words...:………戦人がその言葉を口にした時。}`
-`{ruby:In the world that had been dark, ...there was suddenly a single grain.:真っ暗だった世界に、…ぽっと一粒。}`
-`{ruby:...A small grain of gold, like a wheat seed, shone brightly.:…小麦の種のように小さな黄金の一粒が眩く光った。}`
-`{ruby:{n}...Even though it was small, it had a strong, gold‐colored glow.:{n}それは…小さいけれど力強く黄金色に輝く。}`
-`{ruby:And......it illuminated the two of them, sitting with their backs together...:そして、……背中を寄せ合って座っていた二人を照らし出す…。}`
-`{ruby:So they each became aware of their own form.:だから、二人は互いに自分の姿を自覚する。}`
-`{ruby:...They did not exist only as consciousness.:…自分たちは、意識だけの存在ではない。}`
-`{ruby:......They became aware that they had bodies, and definitely existed.:……体を持った、ちゃんとした存在であることを自覚する。}`
-`{ruby:...No, maybe we should say that they each had been given an existence called a body.:…いや、体という存在が、与えられたというべきか。}`
-`{ruby:When Battler looked at his own form, he wasn't that surprised.:戦人は自分の姿を見ても、そう驚かなかった。}`
-`{ruby:...But when Beato looked at her own form, she was a little startled.:…しかしベアトは、自分の姿を見て、少し驚く。}`
-`{ruby:......From Battler's perspective, she looked just like normal,:……戦人が見ても、いつもの彼女の姿だと思うのだが、}`
-`{ruby:......but for a short while, she was surprised by that form...:……彼女はその姿をしばらくの間、驚いていた…。}`
+`{ruby:.........When Battler:………戦人がその言葉}{ruby:said those words...:を口にした時。}`
+`{ruby:In the world that had been:真っ暗だった世界に、}{ruby:dark, ...there was suddenly a single grain.:…ぽっと一粒。}`
+`{ruby:...A small grain of gold,:…小麦の種のように小さな黄}{ruby:like a wheat seed, shone brightly.:金の一粒が眩く光った。}`
+`{ruby:{n}...Even though it was small,:{n}それは…小さいけれど}{ruby:it had a strong, gold‐colored glow.:力強く黄金色に輝く。}`
+`{ruby:And......it illuminated the two of:そして、……背中を寄せ合って座っ}{ruby:them, sitting with their backs together...:ていた二人を照らし出す…。}`
+`{ruby:So they each became:だから、二人は互いに自}{ruby:aware of their own form.:分の姿を自覚する。}`
+`{ruby:...They did not:…自分たちは、意識だけ}{ruby:exist only as consciousness.:の存在ではない。}`
+`{ruby:......They became aware that they:……体を持った、ちゃんとした存}{ruby:had bodies, and definitely existed.:在であることを自覚する。}`
+`{ruby:...No, maybe we should say that they each:…いや、体という存在が、与}{ruby:had been given an existence called a body.:えられたというべきか。}`
+`{ruby:When Battler looked at his:戦人は自分の姿を見ても、}{ruby:own form, he wasn't that surprised.:そう驚かなかった。}`
+`{ruby:...But when Beato looked at her:…しかしベアトは、自分の}{ruby:own form, she was a little startled.:姿を見て、少し驚く。}`
+`{ruby:......From Battler's perspective, she:……戦人が見ても、いつもの彼}{ruby:looked just like normal,:女の姿だと思うのだが、}`
+`{ruby:......but for a short while,:……彼女はその姿をしばらく}{ruby:she was surprised by that form...:の間、驚いていた…。}`
 `{ruby:".........What............:「………これは…………。}`
 `{ruby:......is going on.........?":……どういうことなのか………」}`
-`{ruby:"The glow from that grain of light......is getting stronger and stronger...":「あの光の粒の輝きが、……どんどん強くなる…」}`
-`{ruby:That grain of wheat was no longer simply gold‐colored, but was like the light of the sun.:その麦粒はもう黄金色どころか、太陽の光のよう。}`
-`{ruby:Then, it softly.........began to approach Beato's chest.:そして、それがすぅっと、………ベアトの胸に近付いていく。}`
-`{ruby:When that grain of the sun......was sucked inside her chest...:その太陽の粒が、……その胸の中に飲み込まれた時。}`
-`{ruby:......the world became wrapped in a deep blue sky, and then a deep blue ocean spread out below them.:……世界は真っ青な大空に包まれ、次に眼下は真っ青な海で敷き詰められた。}`
-`{ruby:An island rose up, trees sprouted and created a forest, walls surrounded us and a ceiling swallowed us.:島が隆起し、木々が生えて森を成し、塀が俺たちを囲んで屋根が俺たちを飲み込んだ。}`
-`{ruby:And it became adorned with more and more things,:それはどんどんと装飾されていき、}`
-`{ruby:......until we realized that this was the hall in the Ushiromiya mansion.:……右代宮家の屋敷の、…ホールであることを気付かせる。}`
-`{ruby:In that fantastical hall where many gold butterflies beat their wings,:黄金の蝶たちがたくさん羽ばたく幻想的なホールの中、}`
-`{ruby:...many tables were set up with white tablecloths, like it was a party,:…パーティー会場のように、白いクロスを掛けたテーブルがたくさん並び、}`
-`{ruby:and beautiful cooking and fruits were set out.:美しい料理や果物が飾られた。}`
-`{ruby:...And over there......were a great many figures.:…そしてそこには、……大勢の姿が。}`
-`{ruby:{n}Everyone was there, talking together and smiling.:{n}笑顔で談笑するみんなの姿が。}`
+`{ruby:"The glow from that grain:「あの光の粒の輝きが、……}{ruby:of light......is getting stronger and stronger...":どんどん強くなる…」}`
+`{ruby:That grain of wheat was no longer simply:その麦粒はもう黄金色どころ}{ruby:gold‐colored, but was like the light of the sun.:か、太陽の光のよう。}`
+`{ruby:Then, it softly.........began:そして、それがすぅっと、………}{ruby:to approach Beato's chest.:ベアトの胸に近付いていく。}`
+`{ruby:When that grain of the:その太陽の粒が、……その胸}{ruby:sun......was sucked inside her chest...:の中に飲み込まれた時。}`
+`{ruby:......the world became wrapped in a deep blue sky,:……世界は真っ青な大空に包まれ、次に眼}{ruby:and then a deep blue ocean spread out below them.:下は真っ青な海で敷き詰められた。}`
+`{ruby:An island rose up, trees sprouted and created a:島が隆起し、木々が生えて森を成し、塀が俺た}{ruby:forest, walls surrounded us and a ceiling swallowed us.:ちを囲んで屋根が俺たちを飲み込んだ。}`
+`{ruby:And it became adorned:それはどんどんと装}{ruby:with more and more things,:飾されていき、}`
+`{ruby:......until we realized that this was:……右代宮家の屋敷の、…ホール}{ruby:the hall in the Ushiromiya mansion.:であることを気付かせる。}`
+`{ruby:In that fantastical hall where:黄金の蝶たちがたくさん羽ばた}{ruby:many gold butterflies beat their wings,:く幻想的なホールの中、}`
+`{ruby:...many tables were set up with:…パーティー会場のように、白いクロス}{ruby:white tablecloths, like it was a party,:を掛けたテーブルがたくさん並び、}`
+`{ruby:and beautiful cooking and:美しい料理や果物}{ruby:fruits were set out.:が飾られた。}`
+`{ruby:...And over there......were:…そしてそこには、…}{ruby:a great many figures.:…大勢の姿が。}`
+`{ruby:{n}Everyone was there,:{n}笑顔で談笑する}{ruby:talking together and smiling.:みんなの姿が。}`
 `{ruby:"G‐............guys.........":「み、…………みんな………」}`
-`{ruby:There was Dad and Kyrie‐san, Uncle Krauss, Aunt Natsuhi and Auntie Rosa, and of course, even Auntie Eva and Uncle Hideyoshi.:それは、親父に霧江さんに、蔵臼伯父さんたちに楼座叔母さんに、もちろん絵羽伯母さんたちまで。}`
-`{ruby:......George‐aniki, Jessica, Maria, ...wait, wait, even Shannon‐chan, Kanon‐kun, Gohda‐san and Kumasawa‐san are here.:……譲治の兄貴に朱志香に真里亞に、…いやいや、紗音ちゃんに嘉音くんに、郷田さんも熊沢さんもいる。}`
-`{ruby:Everyone, everyone was at the party, clapping their hands and celebrating our return...:みんなみんなパーティー会場にいて、手を叩きながら、俺たちが帰ってきたのを祝福してくれた…。}`
+`{ruby:There was Dad and Kyrie‐san, Uncle Krauss, Aunt Natsuhi and:それは、親父に霧江さんに、蔵臼伯父さんたちに楼座}{ruby:Auntie Rosa, and of course, even Auntie Eva and Uncle Hideyoshi.:叔母さんに、もちろん絵羽伯母さんたちまで。}`
+`{ruby:......George‐aniki, Jessica, Maria, ...wait, wait, even:……譲治の兄貴に朱志香に真里亞に、…いやいや、紗音}{ruby:Shannon‐chan, Kanon‐kun, Gohda‐san and Kumasawa‐san are here.:ちゃんに嘉音くんに、郷田さんも熊沢さんもいる。}`
+`{ruby:Everyone, everyone was at the party,:みんなみんなパーティー会場にいて、手を叩きながら}{ruby:clapping their hands and celebrating our return...:、俺たちが帰ってきたのを祝福してくれた…。}`
 `{ruby:"Wh‐...why...?:「ど、…どうしてだ…。}`
 `{ruby:Everyone was dead...!:みんな死んだのに…！}`
 `{ruby:Why are they alive...?!":どうして生きてるんだ…？！」}`
-`{ruby:"......In the Golden Land, all the dead people's souls can be revived.:「……黄金郷では、全ての死者の魂を蘇らせることができるのです。}`
+`{ruby:"......In the Golden Land, all the:「……黄金郷では、全ての死者の魂を}{ruby:dead people's souls can be revived.:蘇らせることができるのです。}`
 `{ruby:......Welcome back, {f:5:Beatrice}.:……お帰りなさい、ベアトリーチェ。}`
 `{ruby:And welcome, Battler‐kun.:そしてようこそ、戦人くん。}`
 `{ruby:Welcome to the Golden Land.":黄金郷へようこそ」}`
@@ -76,96 +76,96 @@
 `{ruby:...I made it...:…黄金郷への扉に、}`
 `{ruby:to the door of the Golden Land?":…至ったのか」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:......Milady, you have finally been able to invite everyone to the Golden Land.:……お嬢様はついに、全員を黄金郷へお招きできたのです。}`
-`{ruby:...Welcome, Battler‐sama, to the Golden Land.":…ようこそ戦人さま、黄金郷へ」}`
+`{ruby:......Milady, you have finally been able:……お嬢様はついに、全員を黄金}{ruby:to invite everyone to the Golden Land.:郷へお招きできたのです。}`
+`{ruby:...Welcome, Battler‐sama, to:…ようこそ戦人さま}{ruby:the Golden Land.":、黄金郷へ」}`
 `{ruby:"Battler.:「戦人。}`
-`{ruby:.........So, you have finally made it this far.":………ようやくここへ辿り着いたか」}`
+`{ruby:.........So, you have finally:………ようやくここへ}{ruby:made it this far.":辿り着いたか」}`
 `{ruby:"G‐Grandfather...:「じ、祖父さま…。}`
-`{ruby:.........Where in the world...am I...":………俺は、…一体…」}`
-`{ruby:"...My blood, which is...incompatible with magic, runs more deeply in your veins than any other.:「…お前はわしの、…魔法と相容れぬ血を、もっとも濃く受け継いでしまったのだ。}`
-`{ruby:...Therefore, you were the only one who could not reach the Golden Land, and {f:5:Beatrice} has been searching for you ever since.:…ゆえに、この黄金郷にお前だけが辿り着けず、ずっとベアトリーチェはそなたを探していたのだ。}`
-`{ruby:...She tried everything to bring you here.":…そなたをここへ連れて来るために、あらゆる手を尽くしておった」}`
+`{ruby:.........Where in:………俺は、…}{ruby:the world...am I...":一体…」}`
+`{ruby:"...My blood, which is...incompatible with magic, runs:「…お前はわしの、…魔法と相容れぬ血を、}{ruby:more deeply in your veins than any other.:もっとも濃く受け継いでしまったのだ。}`
+`{ruby:...Therefore, you were the only one who could not reach the:…ゆえに、この黄金郷にお前だけが辿り着けず、ずっ}{ruby:Golden Land, and {f:5:Beatrice} has been searching for you ever since.:とベアトリーチェはそなたを探していたのだ。}`
+`{ruby:...She tried everything:…そなたをここへ連れて来るために、}{ruby:to bring you here.":あらゆる手を尽くしておった」}`
 `{ruby:"............What did you say......?":「…………何だって……」}`
-`{ruby:"It seems that we are all here at last.":「これで、ようやく全員がそろいましたな」}`
-`{ruby:"Battler‐sama, if you would take your seat.:「さぁ、戦人さまもお席へ。}`
-`{ruby:Tonight's dinner is my very best work.:今宵の料理はこの郷田めの最高傑作を尽くしました。}`
+`{ruby:"It seems that we:「これで、ようやく全員}{ruby:are all here at last.":がそろいましたな」}`
+`{ruby:"Battler‐sama, if you:「さぁ、戦人さま}{ruby:would take your seat.:もお席へ。}`
+`{ruby:Tonight's dinner is:今宵の料理はこの郷田めの最}{ruby:my very best work.:高傑作を尽くしました。}`
 `{ruby:If you would, please relish it.":どうかぜひご賞味ください」}`
 `{ruby:"You should be honored!!:「あんた光栄に思いなさいよね！！}`
-`{ruby:Normally, I would have eaten all of it, but I left you guys some out of pity!":本当は私が全部食べるところを、お情けであんたらの分も残してあげてるんだからね！」}`
+`{ruby:Normally, I would have eaten all of it,:本当は私が全部食べるところを、お情けであんた}{ruby:but I left you guys some out of pity!":らの分も残してあげてるんだからね！」}`
 `{ruby:"......The seven stake babes...":「……七杭の、姉ちゃんたち…」}`
-`{ruby:"In the Golden Land, all of those with minds are equal.:「黄金郷では、意思ある者全てが公平だ。}`
-`{ruby:......Here, there is no distinction between us furniture, {y:0:Human}{n:0:human}s, or witches.":……ここで我ら家具とて、ニンゲンとて魔女とて区別はない」}`
+`{ruby:"In the Golden Land, all:「黄金郷では、意思ある}{ruby:of those with minds are equal.:者全てが公平だ。}`
+`{ruby:......Here, there is no distinction:……ここで我ら家具とて、ニンゲ}{ruby:between us furniture, {y:0:Human}{n:0:human}s, or witches.":ンとて魔女とて区別はない」}`
 `{ruby:"...Battler‐sama.:「…戦人さま。}`
 `{ruby:We were waiting for you.:お待ちしておりました。}`
 `{ruby:And welcome to the Golden Land...":そしてようこそ、黄金郷へ…」}`
-`{ruby:"Shannon‐chan, ......George‐aniki...!!":「紗音ちゃん、……譲治の兄貴…！！」}`
-`{ruby:"......I'm still suspecting that this might be a dream...:「……僕もまだ、これが夢じゃないかと疑ってるよ…。}`
+`{ruby:"Shannon‐chan,:「紗音ちゃん、……譲}{ruby:......George‐aniki...!!":治の兄貴…！！」}`
+`{ruby:"......I'm still suspecting that:「……僕もまだ、これが夢じゃ}{ruby:this might be a dream...:ないかと疑ってるよ…。}`
 `{ruby:I'm sure that we died.:僕たちは死んだはず。}`
 `{ruby:......But, ...we're alive.:……でも、…生きてる。}`
-`{ruby:And everyone, every one of us is here, ......and we're all happy.:そして全員が全員、ここにいて、……幸せなんだ。}`
+`{ruby:And everyone, every one of us:そして全員が全員、ここにい}{ruby:is here, ......and we're all happy.:て、……幸せなんだ。}`
 `{ruby:...I can't believe it.":…信じられない」}`
-`{ruby:"That's right, this place must be a dream worrld!:「そうよ、どうせここは夢の中の世界なのよー！}`
-`{ruby:So it doesn't matter that George is so friendly with a maid girl, it has to be a dreeeam!:だから譲治がメイドの女と仲良くしたって、どうせ夢なんだからぁ！}`
+`{ruby:"That's right, this place:「そうよ、どうせここは夢}{ruby:must be a dream worrld!:の中の世界なのよー！}`
+`{ruby:So it doesn't matter that George is so friendly:だから譲治がメイドの女と仲良くした}{ruby:with a maid girl, it has to be a dreeeam!:って、どうせ夢なんだからぁ！}`
 `{ruby:Waaaaaah!":うわぁん！」}`
 `{ruby:"Give it a rest, Eva.:「よさんか絵羽。}`
-`{ruby:For now, you gotta stay quiet and bless the two young 'uns.:今は黙って若い二人を祝福せなあかん。}`
-`{ruby:The Golden Land is a capital of bliss.:黄金郷は至福の都や。}`
+`{ruby:For now, you gotta stay quiet:今は黙って若い二人を}{ruby:and bless the two young 'uns.:祝福せなあかん。}`
+`{ruby:The Golden Land is:黄金郷は至福}{ruby:a capital of bliss.:の都や。}`
 `{ruby:We should never quarrel here...!":ここではいがみ合いは一切なしやで…！」}`
-`{ruby:"Here, any people are free to love each other.:「ここでは、愛し合う者たちは全てが自由。}`
-`{ruby:...No one needs to hesitate over it.":…誰にもはばかられることはない」}`
-`{ruby:"Jessica‐chan, Kanon‐kun, so wonderfuul!:「朱志香ちゃん、嘉音くん、素敵ぃ！}`
+`{ruby:"Here, any people are:「ここでは、愛し合う者}{ruby:free to love each other.:たちは全てが自由。}`
+`{ruby:...No one needs:…誰にもはばかられ}{ruby:to hesitate over it.":ることはない」}`
+`{ruby:"Jessica‐chan, Kanon‐kun,:「朱志香ちゃん、嘉音}{ruby:so wonderfuul!:くん、素敵ぃ！}`
 `{ruby:I'm so jealouuus!":妬けちゃうわー！」}`
 `{ruby:"......H‐hey, Battler...:「……い、いよう、戦人…。}`
 `{ruby:This is kinda, umm, wahahahaha...":何だかその、わははははは…」}`
 `{ruby:"Battler‐sama, welcome.:「戦人さま、ようこそ。}`
 `{ruby:And welcome home...":そしてお帰りなさいませ…」}`
-`{ruby:Jessica was probably embarrassed because she was holding hands with Kanon‐kun.:朱志香は多分、嘉音くんと手をつないでいることを恥ずかしがっているのだろう。}`
-`{ruby:And Kanon‐kun wanted to act humbly like a servant and bow,:そして嘉音くんは使用人らしく畏まって頭を下げたいのだが、}`
-`{ruby:but since neither of them could let go of the other's hand, he couldn't do it so well, and the whole scene looked fairly comical.:二人は互いに手を離さないので、うまく頭が下げられず、何だかちょっぴり滑稽な光景だ。}`
+`{ruby:Jessica was probably embarrassed because:朱志香は多分、嘉音くんと手をつないでいる}{ruby:she was holding hands with Kanon‐kun.:ことを恥ずかしがっているのだろう。}`
+`{ruby:And Kanon‐kun wanted to act:そして嘉音くんは使用人らしく畏}{ruby:humbly like a servant and bow,:まって頭を下げたいのだが、}`
+`{ruby:but since neither of them could let go of the other's hand,:二人は互いに手を離さないので、うまく頭が下げ}{ruby:he couldn't do it so well, and the whole scene looked fairly comical.:られず、何だかちょっぴり滑稽な光景だ。}`
 `{ruby:"With a servant child...?!!:「使用人の子となんて…！！}`
-`{ruby:I forbid it, I couldn't possibly give away our Jessica to such a person...!!":駄目です、うちの朱志香をやれるわけありません…！！」}`
+`{ruby:I forbid it, I couldn't possibly give:駄目です、うちの朱志香をやれる}{ruby:away our Jessica to such a person...!!":わけありません…！！」}`
 `{ruby:"Why not allow it?:「いいじゃないかね。}`
-`{ruby:Let her at least choose the person she likes.":好きな相手くらい、自由に選ばせてやるといい」}`
-`{ruby:"I forbid it, I forbid it, aaa{0}a{0}a{0}a{0}a{0}aaahhh, Jessicaaaaaaaaa!":「駄目です駄目です、あああぁあぁ、朱志香ぁああぁあぁ！」}`
-`{ruby:"Mine has gone awry toooooo, ohhhhh, Geooooooooorge!":「うちも駄目なのよぉおおぉ、譲治ぃいいいぃいぃ！」}`
-`{ruby:...As Aunt Natsuhi and Auntie Eva hugged each other, they cried tears of regret for their darling children.:…夏妃伯母さんと絵羽伯母さんが抱き合いながら、可愛い子どもに未練の涙を流し合っている。}`
-`{ruby:......Even though they had always been at odds.:……犬猿の仲の二人がだ。}`
+`{ruby:Let her at least:好きな相手くらい、自由に}{ruby:choose the person she likes.":選ばせてやるといい」}`
+`{ruby:"I forbid it, I:「駄目です駄目です、あああぁあ}{ruby:forbid it, aaa{0}a{0}a{0}a{0}a{0}aaahhh, Jessicaaaaaaaaa!":ぁ、朱志香ぁああぁあぁ！」}`
+`{ruby:"Mine has gone:「うちも駄目なのよぉおおぉ、}{ruby:awry toooooo, ohhhhh, Geooooooooorge!":譲治ぃいいいぃいぃ！」}`
+`{ruby:...As Aunt Natsuhi and Auntie Eva hugged each other,:…夏妃伯母さんと絵羽伯母さんが抱き合いながら、}{ruby:they cried tears of regret for their darling children.:可愛い子どもに未練の涙を流し合っている。}`
+`{ruby:......Even though they had:……犬猿の仲の}{ruby:always been at odds.:二人がだ。}`
 `{ruby:...It was a very bizarre scene.:…何とも不思議な光景。}`
-`{ruby:"......It isn't really a problem, right?:「……いいじゃないですか。}`
+`{ruby:"......It isn't really:「……いいじゃな}{ruby:a problem, right?:いですか。}`
 `{ruby:It doesn't matter who likes who.":誰が誰を好きになったって」}`
 `{ruby:"Exactly.:「そうよ。}`
-`{ruby:It's proof the parent hasn't let go of their child.":親が子離れしてない証拠ね」}`
+`{ruby:It's proof the parent hasn't:親が子離れしてな}{ruby:let go of their child.":い証拠ね」}`
 `{ruby:"Battleer,:「戦人ぁ。}`
-`{ruby:you can bring home whatever kind of woman you want, I'll accept her waaarmly, alright?":俺はお前が、どんな女を連れ帰っても、生温かぁく受け入れてやるからな？」}`
-`{ruby:"You can't introduce her to this guy, you know?:「この人に紹介しちゃ駄目よ？}`
-`{ruby:He'll get his hands on her immediately.:すぐ手を出すから。}`
+`{ruby:you can bring home whatever kind of:俺はお前が、どんな女を連れ帰っても、生}{ruby:woman you want, I'll accept her waaarmly, alright?":温かぁく受け入れてやるからな？」}`
+`{ruby:"You can't introduce her:「この人に紹介し}{ruby:to this guy, you know?:ちゃ駄目よ？}`
+`{ruby:He'll get his:すぐ手を出す}{ruby:hands on her immediately.:から。}`
 `{ruby:He'll elope right away.":とっとと駆け落ちしちゃうのよ」}`
 `{ruby:"............Battler.:「…………戦人。}`
 `{ruby:You finally came here.:やっとここへ来た。}`
 `{ruby:Kihhi{0}hi{0}hi{0}hi{0}hi{0}hihihi.":きっひひひひひひひひ」}`
 `{ruby:"Maria...:「真里亞…。}`
 `{ruby:.........From the beginning,:………お前は最初から、}`
-`{ruby:.........you knew that we would be coming here......?":………ここへ来ることになると、…知っていたのか……？」}`
+`{ruby:.........you knew that we:………ここへ来ることになると、}{ruby:would be coming here......?":…知っていたのか……？」}`
 `{ruby:"Uu!:「うー！}`
 `{ruby:That's why I wasn't scared at all.:だから真里亞は何も怖くなかった。}`
 `{ruby:Everyone was a fraidy‐cat.:みんなは臆病でびくびく。}`
 `{ruby:It was funny!":面白かった！」}`
 `{ruby:"......What the hell.:「……何てこった。}`
-`{ruby:...Even though I thought you were the most screwed up,:…一番ズレてると思ってたお前が、}`
-`{ruby:...you actually knew the truth from the beginning.":…実は最初から真相を知ってたなんてな」}`
+`{ruby:...Even though I thought you:…一番ズレてると思}{ruby:were the most screwed up,:ってたお前が、}`
+`{ruby:...you actually knew the:…実は最初から真相を知}{ruby:truth from the beginning.":ってたなんてな」}`
 `{ruby:"H‐how rude...!:「ぶっ、無礼です…！}`
-`{ruby:It is absolutely unforgivable to speak of Lady {f:5:Maria} in that way!":マリア卿に対してそのような口の利き方、とても許せません！」}`
-`{ruby:"Forming firing curve, attack preparations ready.:「射撃曲線形成、攻撃準備よし。}`
-`{ruby:Lady {f:5:Maria}, we can attack at any time.:マリア卿、いつでも攻撃できます。}`
+`{ruby:It is absolutely unforgivable to speak:マリア卿に対してそのような口の利}{ruby:of Lady {f:5:Maria} in that way!":き方、とても許せません！」}`
+`{ruby:"Forming firing curve,:「射撃曲線形成、攻}{ruby:attack preparations ready.:撃準備よし。}`
+`{ruby:Lady {f:5:Maria}, we can:マリア卿、いつでも}{ruby:attack at any time.:攻撃できます。}`
 `{ruby:Nihi!":にひ！」}`
-`{ruby:"Kihhihihihihihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!:「きっひひひひひひひひひひひひひひひひひひ…！}`
+`{ruby::「きっひひひひひひひひひひ}{ruby:"Kihhihihihihihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!:ひひひひひひひひ…！}`
 `{ruby:Ouch!":あ痛！」}`
 `{ruby:"...Quiet.:「…お静かに。}`
-`{ruby:You are in the presence of {f:5:Beatrice}‐sama.":ベアトリーチェさまの御前です」}`
-`{ruby:"Well, there's no need to be quite so strict.:「まぁ、硬いことを言わずに。}`
-`{ruby:For now, let us take their desire to fool around and play together into consideration.:今ははしゃいで喜び合いたい気持ちを察しましょう。}`
-`{ruby:More importantly, why don't we begin preparing for the toast?":それより、乾杯の準備を始めようではありませんか」}`
-`{ruby:"Yes, I have finished preparing my excellent mackerel cooking.:「さぁさ、自慢の鯖料理の準備は充分ですよ。}`
+`{ruby:You are in:ベアトリーチェさま}{ruby:the presence of {f:5:Beatrice}‐sama.":の御前です」}`
+`{ruby:"Well, there's no need:「まぁ、硬いこと}{ruby:to be quite so strict.:を言わずに。}`
+`{ruby:For now, let us take their desire:今ははしゃいで喜び合いたい}{ruby:to fool around and play together into consideration.:気持ちを察しましょう。}`
+`{ruby:More importantly, why don't we:それより、乾杯の準備を始め}{ruby:begin preparing for the toast?":ようではありませんか」}`
+`{ruby:"Yes, I have finished:「さぁさ、自慢の鯖料理の}{ruby:preparing my excellent mackerel cooking.:準備は充分ですよ。}`
 `{ruby:I can serve it at any time.":いつでも配膳できますよ」}`
 `{ruby:"Hey!! Ladies!:「ほら！！　みんな！}`
 `{ruby:Work a little more like furniture!!":少しは家具らしく働きなさいよ！！」}`
@@ -174,42 +174,42 @@
 `{ruby:Wahhhhhhh!":うーあー！」}`
 `{ruby:"Come on, let's work.:「さぁ働こう。}`
 `{ruby:Don't keep the guests waiting.:お客人方を待たせるな。}`
-`{ruby:Let's work studiously and attend to them.:私たちはあくせく働き、奉仕をしよう。}`
+`{ruby:Let's work studiously:私たちはあくせく働き}{ruby:and attend to them.:、奉仕をしよう。}`
 `{ruby:Don't let the guests do anything.:お客人たちに何もさせるな。}`
-`{ruby:Make them lazy, make them slothful, fatten them like pigs.:不精にさせて怠惰にさせて、ころころと豚のように肥えさせろ。}`
+`{ruby:Make them lazy, make them:不精にさせて怠惰にさせて、ころこ}{ruby:slothful, fatten them like pigs.:ろと豚のように肥えさせろ。}`
 `{ruby:Ahhahaha!":あっははは！」}`
 `{ruby:"......{f:5:Beatrice}.:「……ベアトリーチェ。}`
 `{ruby:Battler‐kun.:戦人くん。}`
 `{ruby:This way.":こちらへ」}`
-`{ruby:Grandfather and {f:5:Virgilia} were standing on the landing at the top of the staircase, beckoning us.:階段の踊り場の上に、祖父さまとワルギリアがいて、手招きをしている。}`
-`{ruby:Beato and I looked at each other quizzically, then climbed the stairs together.:俺とベアトは何事かと顔を見合わせてから、二人で階段を登った。}`
-`{ruby:From the hall, it looked like a very high stage.:そこは、ホールから見るとまるで、とても高いステージの上のようだった。}`
-`{ruby:A small table had been set up there, as well as a piece of parchment and an old‐fashioned quill pen.:そこには小さなテーブルが用意され、そこに羊皮紙と、古風な羽ペンが用意されていた。}`
-`{ruby:I saw that strange magical characters and Japanese were written side by side.:見れば、怪しげな魔法文字と日本語が併記されている。}`
-`{ruby:{n}...And below it, many names were written.:{n}…そしてその下には、大勢の名前が書かれている。}`
+`{ruby:Grandfather and {f:5:Virgilia} were standing on the landing:階段の踊り場の上に、祖父さまとワルギ}{ruby:at the top of the staircase, beckoning us.:リアがいて、手招きをしている。}`
+`{ruby:Beato and I looked at each:俺とベアトは何事かと顔を見合わせ}{ruby:other quizzically, then climbed the stairs together.:てから、二人で階段を登った。}`
+`{ruby:From the hall, it looked:そこは、ホールから見るとまるで、とて}{ruby:like a very high stage.:も高いステージの上のようだった。}`
+`{ruby:A small table had been set up there, as well:そこには小さなテーブルが用意され、そこに羊}{ruby:as a piece of parchment and an old‐fashioned quill pen.:皮紙と、古風な羽ペンが用意されていた。}`
+`{ruby:I saw that strange magical characters:見れば、怪しげな魔法文字と日}{ruby:and Japanese were written side by side.:本語が併記されている。}`
+`{ruby:{n}...And below it,:{n}…そしてその下には、大}{ruby:many names were written.:勢の名前が書かれている。}`
 `{ruby:There were 17 of them.:その数は１７。}`
-`{ruby:......Grandfather was the first, and everyone else's names had been signed below in one long column.:……筆頭は祖父さまで、みんなの名前がそれぞれにぞろりと自署されている。}`
-`{ruby:The people who arrived at the Golden Land probably signed this one after another.:多分、黄金郷に辿り着いた人間たちが、順々にそれをサインしていったのだろう。}`
+`{ruby:......Grandfather was the first, and everyone else's names:……筆頭は祖父さまで、みんなの名前がそ}{ruby:had been signed below in one long column.:れぞれにぞろりと自署されている。}`
+`{ruby:The people who arrived at the Golden:多分、黄金郷に辿り着いた人間たちが、順々}{ruby:Land probably signed this one after another.:にそれをサインしていったのだろう。}`
 `{ruby:"Battler.:「戦人。}`
-`{ruby:Now that you are here, everyone is gathered.:お前で全てが揃う。}`
+`{ruby:Now that you are:お前で全てが}{ruby:here, everyone is gathered.:揃う。}`
 `{ruby:Listen carefully.":心して聞くが良い」}`
-`{ruby:"The Golden Land is not a world supported by the power of magic alone.:「黄金郷は、魔女の力だけで保たれている世界ではありません。}`
-`{ruby:The cooperation and approval of all humans who receive happiness here is required.:そこで幸福を享受する全ての人間による協力と承認が必要なのです。}`
-`{ruby:For that sake, we must gather the signatures of everyone here.":その為に、ここには全員のサインが揃わねばならないのです」}`
+`{ruby:"The Golden Land is not a world:「黄金郷は、魔女の力だけで保たれ}{ruby:supported by the power of magic alone.:ている世界ではありません。}`
+`{ruby:The cooperation and approval of all:そこで幸福を享受する全ての人間によ}{ruby:humans who receive happiness here is required.:る協力と承認が必要なのです。}`
+`{ruby:For that sake, we must:その為に、ここには全員のサイン}{ruby:gather the signatures of everyone here.":が揃わねばならないのです」}`
 `{ruby:"Last time,:「前回。}`
-`{ruby:the door to the Golden Land was finally opened, but you refused to sign.:黄金郷の扉がようやく開いたが、お前はサインを拒んだ。}`
-`{ruby:......Although you probably don't remember it.:……記憶にはないだろうがな。}`
-`{ruby:Because you refused to sign, this world was once again sealed in darkness.":お前がサインを拒んだ為、この世界を再び闇に閉ざしてしまったのだ」}`
-`{ruby:"......Just hearing it like that, ...it kinda sounds like I've been the only stubborn one,:「……それだけを聞いてると、…何だか俺ひとりが頑固で、}`
-`{ruby:and I've been causing everyone all kinds of trouble...":みんなに色々と迷惑を掛けたように聞こえるな…」}`
-`{ruby:"That is because you are a certified hardhead.:「そなたの頑固は折り紙つきであるからな。}`
-`{ruby:It seems that you inherited more than just blood from Kinzo.":金蔵から受け継いでいるのは血だけではないらしいぞ」}`
+`{ruby:the door to the Golden Land was:黄金郷の扉がようやく開いたが}{ruby:finally opened, but you refused to sign.:、お前はサインを拒んだ。}`
+`{ruby:......Although you probably:……記憶にはない}{ruby:don't remember it.:だろうがな。}`
+`{ruby:Because you refused to sign, this:お前がサインを拒んだ為、この世界を}{ruby:world was once again sealed in darkness.":再び闇に閉ざしてしまったのだ」}`
+`{ruby:"......Just hearing it like that, ...it kinda:「……それだけを聞いてると、…}{ruby:sounds like I've been the only stubborn one,:何だか俺ひとりが頑固で、}`
+`{ruby:and I've been causing:みんなに色々と迷惑を掛けた}{ruby:everyone all kinds of trouble...":ように聞こえるな…」}`
+`{ruby:"That is because you:「そなたの頑固は折り紙}{ruby:are a certified hardhead.:つきであるからな。}`
+`{ruby:It seems that you inherited:金蔵から受け継いでいるのは血}{ruby:more than just blood from Kinzo.":だけではないらしいぞ」}`
 `{ruby:Beato laughed amiably.:ベアトが人懐っこそうに笑う。}`
-`{ruby:I knew I was being made fun of, but that smile led me to go along with her, and I laughed without thinking.:一応、俺が馬鹿にされているはずなのだが、思わず釣られて笑ってしまうような笑顔だった。}`
+`{ruby:I knew I was being made fun of, but that smile:一応、俺が馬鹿にされているはずなのだが、思わ}{ruby:led me to go along with her, and I laughed without thinking.:ず釣られて笑ってしまうような笑顔だった。}`
 `{ruby:"Magic is a miracle.:「魔法とは即ち、奇跡。}`
-`{ruby:......Miracles cannot be completed unless everyone believes.:……奇跡は全員が信じあわねば完成せぬ。}`
-`{ruby:......And when you do, as the last to do so, this miracle—the Golden Land—will be completed.":……そして、最後のそなたが信じてくれることで、この奇跡は、…黄金郷は完成するのだ」}`
-`{ruby:"..................It looks like I've been a real pain.:「………………何だか、色々迷惑を掛けちまったみたいだなぁ。}`
+`{ruby:......Miracles cannot be:……奇跡は全員が信じあ}{ruby:completed unless everyone believes.:わねば完成せぬ。}`
+`{ruby:......And when you do, as the last to:……そして、最後のそなたが信じてくれることで}{ruby:do so, this miracle—the Golden Land—will be completed.":、この奇跡は、…黄金郷は完成するのだ」}`
+`{ruby:"..................It looks like I've:「………………何だか、色々迷惑を}{ruby:been a real pain.:掛けちまったみたいだなぁ。}`
 `{ruby:...So, what should I do...?":…それで、俺はどうすりゃいいんだ…？」}`
 `{ruby:"First, sign here.:「まず、ここにあなたのサインを。}`
 `{ruby:Then, {f:5:Beatrice}, sign here.":次に、ベアトリーチェはここにサインを」}`
@@ -217,122 +217,122 @@
 `{ruby:...Whoa, it shot.":…うわ、弾いた」}`
 `{ruby:"You klutz.:「下手くそめ。}`
 `{ruby:Shooting ink is a bad omen.:インク弾きは縁起が悪いのだぞ。}`
-`{ruby:Can't you at least write your name quickly?:自分の名前くらいとっとと書け。}`
+`{ruby:Can't you at least:自分の名前くらいと}{ruby:write your name quickly?:っとと書け。}`
 `{ruby:In that illegible scrawl.:ミミズがのたくるようにな。}`
 `{ruby:*cackle*cackle*cackle*cackle*...!":くっくくくくくくくくく…！」}`
 `{ruby:"And what about you...!:「お前こそ、何だよ…！}`
-`{ruby:Don't write it in {c:86EF9C:{ruby:katakana:capitals}} like that!:カタカナで書くなよ！}`
-`{ruby:{f:5:Beatrice} is a stylish name, so write it in cursive!:ベアトリーチェなんて洒落た名前なんだから、ちゃんと筆記体で書けよ！}`
-`{ruby:You're making the quill and your name cry!":羽ペンと名前が泣いてるぜー！」}`
-`{ruby:"Sh‐shut up, in school, didn't they tell you not to use cursive on tests?":「う、うるさいな、筆記体はテストの時は使うなと、授業で言われなかったか」}`
-`{ruby:"This is a solemn ceremony. Be silent.":「これ、厳かな儀式であるぞ、沈黙せよ」}`
+`{ruby:Don't write it:カタカナで書く}{ruby:in {c:86EF9C:{ruby:katakana:capitals}} like that!:なよ！}`
+`{ruby:{f:5:Beatrice} is a stylish name,:ベアトリーチェなんて洒落た名前なんだ}{ruby:so write it in cursive!:から、ちゃんと筆記体で書けよ！}`
+`{ruby:You're making the quill:羽ペンと名前が泣い}{ruby:and your name cry!":てるぜー！」}`
+`{ruby:"Sh‐shut up, in school, didn't they tell:「う、うるさいな、筆記体はテストの時は}{ruby:you not to use cursive on tests?":使うなと、授業で言われなかったか」}`
+`{ruby:"This is a:「これ、厳かな儀式であ}{ruby:solemn ceremony. Be silent.":るぞ、沈黙せよ」}`
 `{ruby:"Very good.:「結構。}`
-`{ruby:We have gathered the two signatures, as well as the form for the covenant.:二人のサインが揃い、誓約書の書式が揃いました。}`
+`{ruby:We have gathered the two signatures, as:二人のサインが揃い、誓約書}{ruby:well as the form for the covenant.:の書式が揃いました。}`
 `{ruby:......Both of you, your oath please.:……二人には宣誓を。}`
 `{ruby:We'll start with {f:5:Beatrice}.:まずはベアトリーチェから。}`
-`{ruby:Put your hand on the covenant, and take the oath.":誓約書に手を添え、誓約を」}`
-`{ruby:"......‘I, {f:5:Beatrice}, as a good witch, swear to continue with my training for the sake of bringing happiness to the people’.:「……“ベアトリーチェは良き魔女として、人々の幸福のために今後も修行を続けることを誓います”。}`
+`{ruby:Put your hand on the:誓約書に手を添え}{ruby:covenant, and take the oath.":、誓約を」}`
+`{ruby:"......‘I, {f:5:Beatrice}, as a good witch, swear to continue with:「……“ベアトリーチェは良き魔女として、人々の幸福}{ruby:my training for the sake of bringing happiness to the people’.:のために今後も修行を続けることを誓います”。}`
 `{ruby:...Say it.":…さぁ」}`
 `{ruby:"......M‐......mm...:「……う、……うむ…。}`
 `{ruby:......I‐it's a little embarrassing.":……な、何だか恥ずかしいぞ」}`
-`{ruby:"......I, B‐{f:5:Beatrice}, as a good witch,:「……ベ、ベアトリーチェは良き魔女として、}`
-`{ruby:swear to continue with my training for the sake of bringing happiness to the people.:人々の幸福のために今後も修行を続けることを誓います。}`
+`{ruby:"......I, B‐{f:5:Beatrice}, as:「……ベ、ベアトリーチェ}{ruby:a good witch,:は良き魔女として、}`
+`{ruby:swear to continue with my training for:人々の幸福のために今後も修行}{ruby:the sake of bringing happiness to the people.:を続けることを誓います。}`
 `{ruby:......Is that alright?":……これで良いか」}`
 `{ruby:"Good.:「よろしい。}`
 `{ruby:Battler is next.":次は戦人だ」}`
 `{ruby:"In the same way, Battler‐kun.:「戦人くんも同様に。}`
-`{ruby:Put your hand on the covenant, and take the oath.:誓約書に手を添え、誓約を。}`
-`{ruby:......‘I, Ushiromiya Battler, as a member of the Golden Land, swear to serve for the sake of bringing happiness to myself and my neighbor’.":……“右代宮戦人は黄金郷の一員として、自身と隣人の幸福のために奉仕することを誓います”」}`
+`{ruby:Put your hand on the:誓約書に手を添え}{ruby:covenant, and take the oath.:、誓約を。}`
+`{ruby:......‘I, Ushiromiya Battler, as a member of the Golden Land, swear to:……“右代宮戦人は黄金郷の一員として、自身と隣}{ruby:serve for the sake of bringing happiness to myself and my neighbor’.":人の幸福のために奉仕することを誓います”」}`
 `{ruby:"Ah,:「うー、}`
 `{ruby:...I, Ushiromiya Battler,:…右代宮戦人は、}`
-`{ruby:as a member of the Golden Land, swear to serve for the sake of bringing happiness to myself and my neighbor.:黄金郷の一員として、自身と隣人の幸福のために奉仕することを誓います。}`
+`{ruby:as a member of the Golden Land, swear to serve:黄金郷の一員として、自身と隣人の幸福}{ruby:for the sake of bringing happiness to myself and my neighbor.:のために奉仕することを誓います。}`
 `{ruby:......I'm embarrassed too...":……俺も恥ずかしいぜ…」}`
 `{ruby:"Hear me, one and all...!!:「聞け、皆の者…！！}`
-`{ruby:Here and now, we have gathered the oaths of all 18 humans accepting the Golden Land...!!":今ここに、黄金郷を認める、１８人の人間全員の誓約が揃った…！！」}`
-`{ruby:When Kinzo proclaimed that, everyone applauded at once, praising us.:金蔵がそう宣言すると、一堂は一斉に拍手で俺たちを讃えた。}`
-`{ruby:......Since I'd been the only stubborn one and had just been a nuisance, I felt a little bad about being the most celebrated one.:……俺ひとりが頑固なだけで迷惑を掛けたのに、一番祝福されてるようでむしろ申し訳ない。}`
-`{ruby:"And with that, in accordance with the ancient rites, we ask Battler‐kun, the last to make the oath, to sign the invitation to the Golden Land.:「それでは、古式に則り、最後に誓約した戦人くんに、黄金郷への招待状のサインを求めます。}`
-`{ruby:......This is something that invites the Golden Witch, {f:5:Beatrice}, to the Golden Land.:……これは、黄金の魔女、ベアトリーチェを黄金郷へ招くためのもの。}`
-`{ruby:The Golden Land invites the Golden Witch through a consensus of those who have accepted it, and becomes complete.":黄金郷は、それを認めた人間たちの総意によって黄金の魔女を招き、そして完成するのです」}`
+`{ruby:Here and now, we have gathered the oaths:今ここに、黄金郷を認める、１８人の人}{ruby:of all 18 humans accepting the Golden Land...!!":間全員の誓約が揃った…！！」}`
+`{ruby:When Kinzo proclaimed that, everyone:金蔵がそう宣言すると、一堂は一}{ruby:applauded at once, praising us.:斉に拍手で俺たちを讃えた。}`
+`{ruby:......Since I'd been the only stubborn one and had just been a:……俺ひとりが頑固なだけで迷惑を掛けたのに、}{ruby:nuisance, I felt a little bad about being the most celebrated one.:一番祝福されてるようでむしろ申し訳ない。}`
+`{ruby:"And with that, in accordance with the ancient rites, we ask Battler‐kun, the:「それでは、古式に則り、最後に誓約した戦人くん}{ruby:last to make the oath, to sign the invitation to the Golden Land.:に、黄金郷への招待状のサインを求めます。}`
+`{ruby:......This is something that invites the:……これは、黄金の魔女、ベアトリー}{ruby:Golden Witch, {f:5:Beatrice}, to the Golden Land.:チェを黄金郷へ招くためのもの。}`
+`{ruby:The Golden Land invites the Golden Witch through a:黄金郷は、それを認めた人間たちの総意によって}{ruby:consensus of those who have accepted it, and becomes complete.":黄金の魔女を招き、そして完成するのです」}`
 `{ruby:"Battler, I will read it out loud.:「戦人、読み上げるぞ。}`
 `{ruby:Listen carefully.:しっかり聞け。}`
-`{ruby:............‘The 18 of us acknowledge the Golden Witch to be {f:5:Beatrice}, and welcome her to the Golden Land’.":…………“我々１８人は、黄金の魔女をベアトリーチェと認め、黄金郷へ招きます”」}`
-`{ruby:"What's going on with you? You won't be invited unless I send an invitation?":「何だよお前、俺が招待状を送らないと招かれないのかよ」}`
+`{ruby:............‘The 18 of us acknowledge the Golden Witch to:…………“我々１８人は、黄金の魔女をベアト}{ruby:be {f:5:Beatrice}, and welcome her to the Golden Land’.":リーチェと認め、黄金郷へ招きます”」}`
+`{ruby:"What's going on with you? You won't:「何だよお前、俺が招待状を送ら}{ruby:be invited unless I send an invitation?":ないと招かれないのかよ」}`
 `{ruby:"It seems that is the ceremony.:「そういう儀式らしい。}`
 `{ruby:It makes me uncomfortable also.:妾とて肩が凝るぞ。}`
 `{ruby:Why don't we end it quickly?:さっさと終わらせようではないか。}`
-`{ruby:I've been so hungry for a while now.":妾はさっきから腹が減ってかなわぬのだ」}`
-`{ruby:"......Come to think of it, I've only been pecking at canned food and haven't eaten anything good.:「……そういや俺も、缶詰をちょいと突っついただけでロクなもんを食ってないぜ。}`
-`{ruby:Let's get this thing signed and be done with it.":さっさとサインを済ませちまおう」}`
+`{ruby:I've been so hungry:妾はさっきから腹が減っ}{ruby:for a while now.":てかなわぬのだ」}`
+`{ruby:"......Come to think of it, I've only been:「……そういや俺も、缶詰をちょいと突っつ}{ruby:pecking at canned food and haven't eaten anything good.:いただけでロクなもんを食ってないぜ。}`
+`{ruby:Let's get this thing signed:さっさとサインを済}{ruby:and be done with it.":ませちまおう」}`
 `{ruby:"Let's see here.:「何々？}`
 `{ruby:"We accept you as a witch".:“あなたを魔女と認めます”。}`
 `{ruby:.........Huh?:………あれ？}`
 `{ruby:That's pretty simple.:ずいぶんシンプルだな。}`
-`{ruby:Damn you, Grandfather, exaggerating how it actually says it.":祖父さまめ、誇張して読みやがったな」}`
+`{ruby:Damn you, Grandfather, exaggerating:祖父さまめ、誇張して}{ruby:how it actually says it.":読みやがったな」}`
 `{ruby:"Come on, come on, quickly.":「ほらほら早く」}`
 `{ruby:"Sign, right here.":「そこに、サインを」}`
 `{ruby:"............huh...?":「…………ぇ…？」}`
 `{ruby:"Quickly.":「早く」}`
 `{ruby:"Sign.":「サインを」}`
-`{ruby:......With slightly weird and uncomfortable smiles, the two of them started demanding that I sign...:……何だか二人が、妙に気持ち悪い笑顔で、俺にサインを強請って来て…。}`
-`{ruby:At that time, an incredible sound like that of a glass window breaking reverberated through the hall,:その時、ホールにガラス窓をぶち割ったようなものすごい音が響き渡り、}`
-`{ruby:and the bustling tumult melted back into complete silence.:賑やかな喧騒がシンと静まり返った。}`
-`{ruby:I dropped the quill pen and turned around, trying to see what had happened.:何事かと、俺は羽ペンを落とし振り返る。}`
+`{ruby:......With slightly weird and uncomfortable smiles, the:……何だか二人が、妙に気持ち悪い笑顔}{ruby:two of them started demanding that I sign...:で、俺にサインを強請って来て…。}`
+`{ruby:At that time, an incredible sound like that:その時、ホールにガラス窓をぶち割った}{ruby:of a glass window breaking reverberated through the hall,:ようなものすごい音が響き渡り、}`
+`{ruby:and the bustling tumult:賑やかな喧騒がシンと}{ruby:melted back into complete silence.:静まり返った。}`
+`{ruby:I dropped the quill pen and turned:何事かと、俺は羽ペンを}{ruby:around, trying to see what had happened.:落とし振り返る。}`
 `{ruby:When I did,:すると、}`
-`{ruby:...............where had she come from?:……………どこから現れたのだろう。}`
-`{ruby:...A human who clearly hadn't been there a short while ago was in the very center of the hall, ...looking up at us.:…さっきまで、明らかにいなかった人間が、ホールの真ん中にいて、…俺たちを見上げていた。}`
+`{ruby:...............where had:……………どこから現}{ruby:she come from?:れたのだろう。}`
+`{ruby:...A human who clearly hadn't been there a short while ago:…さっきまで、明らかにいなかった人間が、ホール}{ruby:was in the very center of the hall, ...looking up at us.:の真ん中にいて、…俺たちを見上げていた。}`
 `{ruby:Who's that......?:誰だ……。}`
 `{ruby:......A woman?:……女？}`
-`{ruby:{n}She's probably about the same age as Jessica and me.:{n}俺や朱志香と同じくらいの年頃だろう。}`
+`{ruby:{n}She's probably about the same:{n}俺や朱志香と同じく}{ruby:age as Jessica and me.:らいの年頃だろう。}`
 `{ruby:......But I didn't know that face.:……しかし、知らない顔だった。}`
-`{ruby:{n}None of the other people here knew that face either.:{n}俺以外の全員にとっても知らない顔だった。}`
+`{ruby:{n}None of the other people:{n}俺以外の全員にとって}{ruby:here knew that face either.:も知らない顔だった。}`
 `{ruby:"......Wh‐......who are you?!:「……なッ、……何だ貴様は？！}`
 `{ruby:Who is this?!:何者だ？！}`
 `{ruby:Where did you come from?!:どこから現れた？！}`
-`{ruby:Those without invitations are not needed in my party.:妾のパーティーに招待状なき客は必要ない。}`
+`{ruby:Those without invitations are:妾のパーティーに招待状な}{ruby:not needed in my party.:き客は必要ない。}`
 `{ruby:Servants, throw her out!!":家具ども、摘み出せッ！！」}`
 `{ruby:"As you command!!:「仰せのままにっ！！}`
 `{ruby:Surround her!!":囲め！！」}`
-`{ruby:The Seven Sisters of Purgatory surrounded her from seven directions, taking out magic blades that drew purple trails and blocking her.:煉獄の七姉妹は七方向から取り囲み、紫色の軌跡を描く魔法の刃を出して牽制する。}`
-`{ruby:And from out of nowhere, shuffling goat‐head servants appeared in great numbers, surrounding that woman.:さらにどこからともなく、わらわらと山羊頭の使用人たちが大挙して現れ、その女を取り囲んでしまう。}`
-`{ruby:On top of that, the Chiester Sisters stood in front of Beato like a wall, readying a golden bow and pulling back the bowstring...:その上、シエスタ姉妹はベアトの前に壁のように立ち、黄金弓を構え、弦を引き絞る…。}`
-`{ruby:".......................................":「…………………………………」}`
+`{ruby:The Seven Sisters of Purgatory surrounded her from seven directions,:煉獄の七姉妹は七方向から取り囲み、紫色の}{ruby:taking out magic blades that drew purple trails and blocking her.:軌跡を描く魔法の刃を出して牽制する。}`
+`{ruby:And from out of nowhere, shuffling goat‐head:さらにどこからともなく、わらわらと山羊頭の使用人た}{ruby:servants appeared in great numbers, surrounding that woman.:ちが大挙して現れ、その女を取り囲んでしまう。}`
+`{ruby:On top of that, the Chiester Sisters stood in front of Beato:その上、シエスタ姉妹はベアトの前に壁のよう}{ruby:like a wall, readying a golden bow and pulling back the bowstring...:に立ち、黄金弓を構え、弦を引き絞る…。}`
+`{ruby::「……………………}{ruby:".......................................":……………」}`
 `{ruby:But the woman didn't move at all.:しかし女はまったく動じない。}`
-`{ruby:...On the contrary, she was still staring at us on the landing, not paying them the slightest bit of attention.:…それどころか、まったく気にもせず、相変わらず踊り場の俺たちを凝視している。}`
+`{ruby:...On the contrary, she was still staring at us on:…それどころか、まったく気にもせず、相変}{ruby:the landing, not paying them the slightest bit of attention.:わらず踊り場の俺たちを凝視している。}`
 `{ruby:......Who is she looking at...?:……誰を見ているんだ…？}`
 `{ruby:Beato?:ベアト？}`
 `{ruby:Grandfather?:祖父さま？}`
-`{ruby:............It couldn't be......me.........?:…………まさか、……俺………？}`
+`{ruby:............It:…………まさか、…}{ruby:couldn't be......me.........?:…俺………？}`
 `{ruby:Yes.:そうだ。}`
-`{ruby:...The woman was staring straight into my eyes, ...glaring.:…女は、俺の目をじっと見つめ、…睨んでいる。}`
-`{ruby:{n}Then, after our eyes met perfectly, she yelled.:{n}そして、俺と目が完全に合ってから、叫んだ。}`
+`{ruby:...The woman was staring:…女は、俺の目をじっと見}{ruby:straight into my eyes, ...glaring.:つめ、…睨んでいる。}`
+`{ruby:{n}Then, after our eyes:{n}そして、俺と目が完全}{ruby:met perfectly, she yelled.:に合ってから、叫んだ。}`
 `{ruby:"You must not sign that!!!:「それにサインしては駄目ッ！！！}`
-`{ruby:Are you going to accept your own defeat?!:自ら敗北を認めるの？！}`
+`{ruby:Are you going to:自ら敗北を認め}{ruby:accept your own defeat?!:るの？！}`
 `{ruby:Don't be tricked by the witch!!!":魔女に騙されないで！！！」}`
 `{ruby:"......Huh?:「……え？}`
 `{ruby:By the witch,:魔女に、}`
 `{ruby:......huh?!":……え？！」}`
-`{ruby:Just then, something incredibly strong lifted me by the nape of my neck.:その時、俺の襟首がものすごい力で掴みあげられる。}`
+`{ruby:Just then, something incredibly strong lifted:その時、俺の襟首がものすご}{ruby:me by the nape of my neck.:い力で掴みあげられる。}`
 `{ruby:...Wh‐what's going on...?!:…な、何事…？！}`
-`{ruby:And after I was forced to turn around,:そして後に振り返させられると、}`
-`{ruby:......I saw {f:5:Virgilia} with an eerie smile on her face, and the muscular forms of goat monsters...:……そこに、不気味な笑顔を浮かべたワルギリアと、そして屈強な山羊のバケモノたちの姿が…。}`
-`{ruby:A goat monster that looked like it was two meters tall was holding me up with an arm as thick as a log...!:俺は、身長が２ｍはありそうな山羊のバケモノの、丸太のように太い腕で掴み上げられている…！}`
+`{ruby:And after I was:そして後に振り返さ}{ruby:forced to turn around,:せられると、}`
+`{ruby:......I saw {f:5:Virgilia} with an eerie smile on:……そこに、不気味な笑顔を浮かべたワルギリアと}{ruby:her face, and the muscular forms of goat monsters...:、そして屈強な山羊のバケモノたちの姿が…。}`
+`{ruby:A goat monster that looked like it was two meters tall:俺は、身長が２ｍはありそうな山羊のバケモノの、}{ruby:was holding me up with an arm as thick as a log...!:丸太のように太い腕で掴み上げられている…！}`
 `{ruby:"Hohhohohohohohohohohohoho...:「ほっほほほほほほほほほほほ…。}`
-`{ruby:There is no need to listen to an uninvited guest.:招かれざる来客に耳を貸す必要などありませんよ。}`
+`{ruby:There is no need to:招かれざる来客に耳を貸す必}{ruby:listen to an uninvited guest.:要などありませんよ。}`
 `{ruby:Come, give your signature as well.:さぁ、あなたはサインをするのです。}`
 `{ruby:On this written oath.:この宣誓書に。}`
-`{ruby:"Ushiromiya Battler accepts the existence of witches".:“右代宮戦人は、魔女の存在を認める”と。}`
-`{ruby:Come now, sign the written oath...!!":さぁ、この宣誓書にサインを…！！」}`
+`{ruby:"Ushiromiya Battler accepts:“右代宮戦人は、魔女の}{ruby:the existence of witches".:存在を認める”と。}`
+`{ruby:Come now, sign:さぁ、この宣誓書にサ}{ruby:the written oath...!!":インを…！！」}`
 `{ruby:"Ow, ...owowowowowowowowowowowow!!:「い、…いでででででででででででッ！！}`
 `{ruby:D‐damn it, let go!!!":ち、畜生、離せッ！！！」}`
-`{ruby:As the goat monsters constricted me with the power of a vise, they forced me to grab the quill pen.:山羊のバケモノたちが、万力のような力で俺を締め上げながら、無理やり俺に羽ペンを握らせる。}`
-`{ruby:...I couldn't even touch the floor with my feet, much less resist...!:…俺は抵抗はおろか、床に足を付けることさえ出来やしない…！}`
+`{ruby:As the goat monsters constricted me with the power of:山羊のバケモノたちが、万力のような力で俺を締め}{ruby:a vise, they forced me to grab the quill pen.:上げながら、無理やり俺に羽ペンを握らせる。}`
+`{ruby:...I couldn't even touch the floor:…俺は抵抗はおろか、床に足を付け}{ruby:with my feet, much less resist...!:ることさえ出来やしない…！}`
 `{ruby:"Battleer, why are you resistiiiing?:「戦人ぁ、何で抵抗するんだよぉ？}`
-`{ruby:Weren't you just about to sign willinglyyy...?:さっきは、ころっとサインしてくれそうだったじゃないかよォおぉ…？}`
-`{ruby:Don't change your mind now, after all that, alriiiight?":今更心変わりなんてするなよォおおぉ」}`
-`{ruby:"Didn't you think for an instant, ...that it might be alright to accept witches?:「魔女を認めてもいいかなァ…って、一瞬思っただろ？}`
+`{ruby:Weren't you just:さっきは、ころっとサインしてくれそう}{ruby:about to sign willinglyyy...?:だったじゃないかよォおぉ…？}`
+`{ruby:Don't change your mind:今更心変わりなんてする}{ruby:now, after all that, alriiiight?":なよォおおぉ」}`
+`{ruby:"Didn't you think for an instant, ...that:「魔女を認めてもいいかなァ…}{ruby:it might be alright to accept witches?:って、一瞬思っただろ？}`
 `{ruby:You thought that, riiiiiight?:思ったんだろォおおおぉ？}`
-`{ruby:Kukki{0}ki{0}ki{0}kka{0}kka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!":くっきききっかっかかかかかかかかかかッ！！」}`
+`{ruby::くっきききっかっかかかかか}{ruby:Kukki{0}ki{0}ki{0}kka{0}kka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!":かかかかかッ！！」}`
 `{ruby:"............I,:「…………お、}`
 `{ruby:......I was...:……俺は、}`
 `{ruby:...tr‐:……だ、}`
@@ -340,75 +340,75 @@
 `{ruby:That can't be.........:そんな馬鹿な………、}`
 `{ruby:You aren't that kind of—":ベアトは、そんなヤツじゃ…、」}`
 `{ruby:"..............................":「…………………………」}`
-`{ruby:"......Hi......hihhihahhahhahaaaHAAaHAHHH!!":「……ひ、……ひっひはっはっははぁあああぁあァア！！」}`
-`{ruby:"Sorrrrry, Battleerrr, I am that kind of persooooooooooon!!:「悪ィなぁ戦人ァ、こんなヤツでよぉおおおおぉ！！}`
-`{ruby:Aah, it's no good, I can't keep this up, it looks like sentimental sob stories don't match well with meeeeeeeeeee!!:あぁもう駄目だ、甘ったるい浪花節はやっぱ妾の肌にゃ合わねぇやああぁあぁ！！}`
-`{ruby:Master, with all your strength, if you please!!:お師匠様ァ、力尽くで頼むぜぇ！！}`
-`{ruby:That was such a plain role to play, and I got so bored!":地味ィな役回りだったんで、すっかり退屈してたんだッ！」}`
+`{ruby::「……ひ、……ひっひはっはっは}{ruby:"......Hi......hihhihahhahhahaaaHAAaHAHHH!!":はぁあああぁあァア！！」}`
+`{ruby:"Sorrrrry, Battleerrr, I am:「悪ィなぁ戦人ァ、こんなヤ}{ruby:that kind of persooooooooooon!!:ツでよぉおおおおぉ！！}`
+`{ruby:Aah, it's no good, I can't keep this up, it:あぁもう駄目だ、甘ったるい浪花節はやっぱ}{ruby:looks like sentimental sob stories don't match well with meeeeeeeeeee!!:妾の肌にゃ合わねぇやああぁあぁ！！}`
+`{ruby:Master, with all your:お師匠様ァ、力尽くで}{ruby:strength, if you please!!:頼むぜぇ！！}`
+`{ruby:That was such a plain role:地味ィな役回りだったんで、すっ}{ruby:to play, and I got so bored!":かり退屈してたんだッ！」}`
 `{ruby:"I don't know who you are, woman!!:「何者か知らねぇが、女ァ！！}`
-`{ruby:But I'll beat you to death, mash you and crush you until threads start trailing, got iii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiit?!:たっぷりグチャグチャのネチャネチャに、糸が引くほどぶっ殺してやるぜぇえええぇええ？！}`
-`{ruby:I'll make you regret being born a womaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}aaan,:女に生まれてきたことを後悔させてやるよォオオォ、}`
-`{ruby:hyahhaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahh!!":ひゃっはあああああぁああぁああぁッ！！」}`
+`{ruby:But I'll beat you to death, mash you:たっぷりグチャグチャのネチャネチャに、糸が引く}{ruby:and crush you until threads start trailing, got iii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiit?!:ほどぶっ殺してやるぜぇえええぇええ？！}`
+`{ruby:I'll make you regret:女に生まれてきたことを後悔さ}{ruby:being born a womaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}aaan,:せてやるよォオオォ、}`
+`{ruby::ひゃっはあああああぁあ}{ruby:hyahhaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahh!!":あぁああぁッ！！」}`
 `{ruby:Beato raised her gold pipe high,:ベアトが黄金の煙管を振り上げると、}`
-`{ruby:and the massive chandelier hanging in the hall crackled with electricity, and from that fell an almighty purple thunderbolt...!:ホールの天上の巨大なシャンデリアがバリバリと帯電して、そこから凄まじい紫の落雷が落ちる…！}`
-`{ruby:It was a direct hit on the woman right below it, and should have turned her to ash.:それは、真下の女に直撃し、消し炭にしてしまうはずだった。}`
-`{ruby:However, ......not a single hair was singed.:しかし、……髪の毛一本、焦がせていない。}`
+`{ruby:and the massive chandelier hanging in the hall crackled:ホールの天上の巨大なシャンデリアがバリバリと帯電}{ruby:with electricity, and from that fell an almighty purple thunderbolt...!:して、そこから凄まじい紫の落雷が落ちる…！}`
+`{ruby:It was a direct hit on the woman right:それは、真下の女に直撃し、消し}{ruby:below it, and should have turned her to ash.:炭にしてしまうはずだった。}`
+`{ruby:However, ......not a:しかし、……髪の毛一本}{ruby:single hair was singed.:、焦がせていない。}`
 `{ruby:"Hoh...!!:「ほぉ…！！}`
-`{ruby:I see you have what it takes to show up uninvited...!!:飛び入りするだけのことはある…！！}`
+`{ruby:I see you have what:飛び入りするだけのこ}{ruby:it takes to show up uninvited...!!:とはある…！！}`
 `{ruby:Tell me! Say your name!!":聞こう！　名を名乗れ！！」}`
-`{ruby:"I don't have any name to tell {i:you}.:「あんたに名乗る名前なんてないわ。}`
+`{ruby:"I don't have any:「あんたに名乗る名前}{ruby:name to tell {i:you}.:なんてないわ。}`
 `{ruby:.........More importantly.":………それより」}`
 `{ruby:"......You idiot!!!:「……馬鹿ッ！！！}`
-`{ruby:How long are you going to be tricked?!!:いつまで騙されてるのよ！！}`
+`{ruby:How long are you:いつまで騙されて}{ruby:going to be tricked?!!:るのよ！！}`
 `{ruby:Stop being so naive and trusting!!:このお人好し！！}`
 `{ruby:Figure it out already!!:早く気付いて！！}`
-`{ruby:All this, all of this is the witch's trap!!":これが全て全て魔女の罠であることに！！」}`
+`{ruby:All this, all of:これが全て全て魔女の罠で}{ruby:this is the witch's trap!!":あることに！！」}`
 `{ruby:Those words were aimed at me.:その言葉は俺に掛けられているものだ。}`
 `{ruby:......This is all...:……これらが全て、}`
 `{ruby:...the witch's trap, she says...?:…魔女の罠だって…？}`
 `{ruby:That can't be...:そんなはずはない…。}`
-`{ruby:{n}Beato reformed and swore to become a good witch......:{n}ベアトは、改心して良い魔女になろうと誓って……。}`
-`{ruby:".....................Beato...............:「…………………ベアト……………。}`
+`{ruby:{n}Beato reformed and swore:{n}ベアトは、改心して良い魔}{ruby:to become a good witch......:女になろうと誓って……。}`
+`{ruby::「…………………ベア}{ruby:".....................Beato...............:ト……………。}`
 `{ruby:...Calling it a trap...:…罠なんて、}`
 `{ruby:...is a lie, right......?:……嘘だよな……？}`
-`{ruby:Please.........tell me it's a lie......":嘘だと………、言ってくれ……」}`
+`{ruby:Please.........tell me:嘘だと………、言っ}{ruby:it's a lie......":てくれ……」}`
 `{ruby:"......Sorry, Battleer.:「……悪いなァ、戦人ァ。}`
 `{ruby:It was pretty interesting.":結構面白かったぜぇ」}`
-`{ruby:"...Still, I was just trying to do what Master told me, but it really did work very well!":「…しかしお師匠様の言う通りにしてみたんだが、本当に結構、いいとこまでイケたなぁ！」}`
-`{ruby:"I hear, after acting {ruby:tsuntsun:bad‐tempered} and exploring the depths of cruelty, if you act properly incompetent and {ruby:dere:soft}, you can get a massive rise on that goodwill meter thing, riiight?":「何でも、ツンツンと残虐を尽くした後に程よくヘタれてデレて見せると、好感度ってヤツが大幅アップするんだろー？」}`
-`{ruby:"I've heard that villains who go {ruby:dere:soft} and then {ruby:yan:crazy} are pretty popular these daaaays...!:「デレてヤンでる悪役が最近はイケてるって聞いたぜええぇ？}`
-`{ruby:Despite how I loook, I've studied a lot of manga, anime, and {c:86EF9C:galge} that have been popular recently, you seeee?":これでもよォ、最近流行りの漫画とかアニメとかギャルゲーで結構、勉強したんだぜー？」}`
-`{ruby:"And I tried it out, and just as expected, it was "tears please", and you're down!!":「そうしたらお前、案の定、お涙頂戴でコロリだよ！！」}`
-`{ruby:"Hihhyahhahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha, idioooot, what a truly simple person!!:「ひっひゃっはっははははははははははははは、バーカ、本当に単純なヤツぅ！！}`
-`{ruby:They call this the "North Wind and the Sun Strategy".:これぞ名付けて“北風と太陽作戦”というわけよ。}`
+`{ruby:"...Still, I was just trying to do what Master:「…しかしお師匠様の言う通りにしてみたんだが}{ruby:told me, but it really did work very well!":、本当に結構、いいとこまでイケたなぁ！」}`
+`{ruby:"I hear, after acting {ruby:tsuntsun:bad‐tempered} and exploring the depths of cruelty, if you act properly:「何でも、ツンツンと残虐を尽くした後に程よくヘタれてデレて}{ruby:incompetent and {ruby:dere:soft}, you can get a massive rise on that goodwill meter thing, riiight?":見せると、好感度ってヤツが大幅アップするんだろー？」}`
+`{ruby:"I've heard that villains who go {ruby:dere:soft}:「デレてヤンでる悪役が最近はイ}{ruby:and then {ruby:yan:crazy} are pretty popular these daaaays...!:ケてるって聞いたぜええぇ？}`
+`{ruby:Despite how I loook, I've studied a lot of manga,:これでもよォ、最近流行りの漫画とかアニメとか}{ruby:anime, and {c:86EF9C:galge} that have been popular recently, you seeee?":ギャルゲーで結構、勉強したんだぜー？」}`
+`{ruby:"And I tried it out, and just as:「そうしたらお前、案の定、お}{ruby:expected, it was "tears please", and you're down!!":涙頂戴でコロリだよ！！」}`
+`{ruby:"Hihhyahhahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha, idioooot, what:「ひっひゃっはっはははははははははははは}{ruby:a truly simple person!!:は、バーカ、本当に単純なヤツぅ！！}`
+`{ruby:They call this the "North:これぞ名付けて“北風と太陽}{ruby:Wind and the Sun Strategy".:作戦”というわけよ。}`
 `{ruby:*cackle*cackle*cackle*!!":くーっくっくっくっく！！」}`
 `{ruby:"......How could............:「……そんな、…………。}`
 `{ruby:............D‐:…………く、}`
 `{ruby:............damn you......:…………くそ……、}`
 `{ruby:You two‐faced bitch......:てめぇ……。}`
-`{ruby:How dare you deceive me like this...!!":よくも騙しやがったな…！！」}`
-`{ruby:"....................................":「………………………………」}`
-`{ruby:"......Yes, that expression fits you the most.:「……あぁ、その表情が一番お前には似合ってるさ。}`
-`{ruby:That caring expression of yours really doesn't match me after all.:お前の気遣うようなあの表情な、妾にはやはり合わぬわ。}`
-`{ruby:My back was itching, and I was frantically trying to withstand it.:背中が痒くなって、それを堪えるので必死であったぞ。}`
-`{ruby:*cackle*cackle*cackle*cackle*cackle*!!":くーっくっくっくっくっくっく！！」}`
-`{ruby:"Too baaad, wiiiitches...don't reforrrm{p:0:☆}":「残念でしたァ、魔女はァ、改心なんてしませェん☆」}`
+`{ruby:How dare you:よくも騙しやがっ}{ruby:deceive me like this...!!":たな…！！」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
+`{ruby:"......Yes, that expression:「……あぁ、その表情が一番}{ruby:fits you the most.:お前には似合ってるさ。}`
+`{ruby:That caring expression of yours:お前の気遣うようなあの表情な}{ruby:really doesn't match me after all.:、妾にはやはり合わぬわ。}`
+`{ruby:My back was itching, and I:背中が痒くなって、それを堪え}{ruby:was frantically trying to withstand it.:るので必死であったぞ。}`
+`{ruby::くーっくっくっくっく}{ruby:*cackle*cackle*cackle*cackle*cackle*!!":っくっく！！」}`
+`{ruby:"Too baaad,:「残念でしたァ、魔女はァ、改}{ruby:wiiiitches...don't reforrrm{p:0:☆}":心なんてしませェん☆」}`
 `{ruby:"Hyaahhahhahhahhaaaaaaaaaaaaaaahh!!!:「ひゃあっはっはっはっはぁああぁあああああああ！！！}`
-`{ruby:You take care of the signature, Master!:サインを頼むぜお師匠様！}`
+`{ruby:You take care:サインを頼むぜお}{ruby:of the signature, Master!:師匠様！}`
 `{ruby:This uninvited guest is my prey!!":飛び入り客は妾の獲物よッ！！」}`
-`{ruby:"Come, you can no longer refuse to sign.:「さぁ、あなたはもう、このサインを拒めませんよ。}`
+`{ruby:"Come, you can no:「さぁ、あなたはもう、この}{ruby:longer refuse to sign.:サインを拒めませんよ。}`
 `{ruby:......Now, come on.:……さぁ、ほら。}`
-`{ruby:Sign it and offer your body, your mind, and your soul...!!":サインをして、身も心も魂も、奉げてしまいなさい…！！」}`
-`{ruby:When {f:5:Virgilia} lifted her chin as a signal, the goat monsters, with an even more vise‐like power,:ワルギリアが顎を上げて合図すると、山羊のバケモノがさらに万力のような力で、}`
-`{ruby:forced my arm to approach the parchment......!:俺の腕を無理やり羊皮紙に近付けようとする……！}`
-`{ruby:Owowowow... These guys are trying to make me sign, even if it breaks my arm......:痛ててて…、こいつら、俺の腕をへし折ってでも、無理やりサインさせる気だ……。}`
-`{ruby:At that moment, a bright red light burst open with me at the center, knocking the witches and the goat monsters away.:その時、真っ赤な光が俺を中心に弾けて、魔女たちと山羊のバケモノを弾き飛ばす。}`
+`{ruby:Sign it and offer your:サインをして、身も心も魂も、奉}{ruby:body, your mind, and your soul...!!":げてしまいなさい…！！」}`
+`{ruby:When {f:5:Virgilia} lifted her chin as a signal,:ワルギリアが顎を上げて合図すると、山羊の}{ruby:the goat monsters, with an even more vise‐like power,:バケモノがさらに万力のような力で、}`
+`{ruby:forced my arm:俺の腕を無理やり羊皮紙に近}{ruby:to approach the parchment......!:付けようとする……！}`
+`{ruby:Owowowow... These guys are trying to make:痛ててて…、こいつら、俺の腕をへし折って}{ruby:me sign, even if it breaks my arm......:でも、無理やりサインさせる気だ……。}`
+`{ruby:At that moment, a bright red light burst open with me:その時、真っ赤な光が俺を中心に弾けて、魔}{ruby:at the center, knocking the witches and the goat monsters away.:女たちと山羊のバケモノを弾き飛ばす。}`
 `{ruby:Did that woman save me......?!:あの女が、俺を助けたのか……？！}`
-`{ruby:{n}B‐but who in the world is that? I don't have a clue!:{n}し、しかし一体誰なんだ、心当たりがない！}`
-`{ruby:"How long do you plan to keep playing in a place like this...?:「こんなところで、いつまで遊んでいるつもりなの…？}`
+`{ruby:{n}B‐but who in the world is:{n}し、しかし一体誰なん}{ruby:that? I don't have a clue!:だ、心当たりがない！}`
+`{ruby:"How long do you plan to:「こんなところで、いつまで遊}{ruby:keep playing in a place like this...?:んでいるつもりなの…？}`
 `{ruby:Enough already.:いい加減にして。}`
 `{ruby:I'm jealous of you.":あなたが羨ましいわ、私は」}`
-`{ruby:"............I, I'm glad you saved me, but that's a pretty cruel way to say it.:「…………た、助けてもらって何だが、酷ぇ言われ様だぜ。}`
+`{ruby:"............I, I'm glad you saved me, but:「…………た、助けてもらって何}{ruby:that's a pretty cruel way to say it.:だが、酷ぇ言われ様だぜ。}`
 `{ruby:...Sorry, but who are you...?":…すまねぇがあんた、どちらさんだ…？」}`
 `{ruby:".....................:「…………………。}`
 `{ruby:...............Witch of Rokkenjima!!:……………六軒島の魔女ッ！！}`
@@ -416,49 +416,49 @@
 `{ruby:"Kuhhahahahahahahahah!!:「くっははははははははッ！！}`
 `{ruby:Who would do that, you fool!!:誰が返すか愚か者ッ！！}`
 `{ruby:Battler is my toy.:戦人は妾の玩具だ。}`
-`{ruby:My favorite toy, the best toy in the world...!!":妾のお気に入りの、世界で一番の玩具だ…！！」}`
-`{ruby:"I won't get tired of him, I won't throw him away, I won't hand him over to anyone!!:「飽きぬぞ捨てぬぞ、誰にも渡さぬぞ！！}`
-`{ruby:Even Battler is enjoying this to the fullest.:戦人とて、今を精一杯楽しんでおる。}`
-`{ruby:Together with me, he is having so much fun playing.:妾と一緒に、こんなにも楽しく遊んでおるのだ。}`
-`{ruby:No matter who you are, I won't let you interfere...!!":そなたが何者であろうとも、それを邪魔立てはさせぬ…！！」}`
-`{ruby:"Oh yeah, it really does look like you're living it up here, I'm so jealous my blood is boiling!!:「ええ、本当に楽しそうね、腹立たしいくらいに羨ましいわッ！！}`
-`{ruby:In a wonderful place like this, guffawing and having a lively, fun, noisy blast of a time with everyone!":こんな素敵なところで、みんなでわいわい楽しく賑やかにげらげらと！」}`
-`{ruby:"Surrounded by lots of eye‐candy witches and being pampered all the time,:「たくさんの美人の魔女たちに囲まれてちやほやされて、}`
-`{ruby:I'm sure you're having so much fun, you don't even want to come back!!":さぞや楽しくて帰りたくないでしょうよ！！」}`
+`{ruby:My favorite toy, the:妾のお気に入りの、世界で}{ruby:best toy in the world...!!":一番の玩具だ…！！」}`
+`{ruby:"I won't get tired of him, I won't throw:「飽きぬぞ捨てぬぞ、誰}{ruby:him away, I won't hand him over to anyone!!:にも渡さぬぞ！！}`
+`{ruby:Even Battler is enjoying:戦人とて、今を精一杯}{ruby:this to the fullest.:楽しんでおる。}`
+`{ruby:Together with me, he is:妾と一緒に、こんなにも楽}{ruby:having so much fun playing.:しく遊んでおるのだ。}`
+`{ruby:No matter who you are,:そなたが何者であろうとも、それ}{ruby:I won't let you interfere...!!":を邪魔立てはさせぬ…！！」}`
+`{ruby:"Oh yeah, it really does look like you're living:「ええ、本当に楽しそうね、腹立た}{ruby:it up here, I'm so jealous my blood is boiling!!:しいくらいに羨ましいわッ！！}`
+`{ruby:In a wonderful place like this, guffawing and having:こんな素敵なところで、みんなでわいわ}{ruby:a lively, fun, noisy blast of a time with everyone!":い楽しく賑やかにげらげらと！」}`
+`{ruby:"Surrounded by lots of eye‐candy witches:「たくさんの美人の魔女たちに}{ruby:and being pampered all the time,:囲まれてちやほやされて、}`
+`{ruby:I'm sure you're having so much fun,:さぞや楽しくて帰りたくな}{ruby:you don't even want to come back!!":いでしょうよ！！」}`
 `{ruby:"......A‐...are you talking to me...?:「……お、…俺に言ってるのか…？}`
-`{ruby:Wait wait, you've got the wrong idea...!:おいおい、そりゃ誤解だ…！}`
+`{ruby:Wait wait, you've:おいおい、そりゃ}{ruby:got the wrong idea...!:誤解だ…！}`
 `{ruby:This is a pain for me too!:俺だって迷惑してる！}`
-`{ruby:The hell is fun about this, you don't know a damn thing about my troubles...!":何が楽しいもんか、俺の苦労を知りやがれってんだ…！」}`
+`{ruby:The hell is fun about this, you:何が楽しいもんか、俺の苦労を知}{ruby:don't know a damn thing about my troubles...!":りやがれってんだ…！」}`
 `{ruby:"What troubles?!!!:「何が苦労よッ！！！}`
-`{ruby:You get to have fun living with Mom and Dad, you get to play around happily with all of the cousins,:お父さんお母さんと楽しく過ごして、いとこみんなできゃっきゃと遊んで。}`
-`{ruby:you get to play with pleasant witches as long as you want for all eternity!":愉快な魔女たちといつまでも永遠に遊んで過ごせる！」}`
-`{ruby:"Don't you realize the happiness you have?!:「なんてあなたは幸せなの？！}`
-`{ruby:I'm jealous of all of you, don't you get it?!:あなたたちが羨ましいわよ、わかってる？！}`
+`{ruby:You get to have fun living with Mom and Dad,:お父さんお母さんと楽しく過ごして、いと}{ruby:you get to play around happily with all of the cousins,:こみんなできゃっきゃと遊んで。}`
+`{ruby:you get to play with pleasant witches:愉快な魔女たちといつまでも永}{ruby:as long as you want for all eternity!":遠に遊んで過ごせる！」}`
+`{ruby:"Don't you realize:「なんてあなたは}{ruby:the happiness you have?!:幸せなの？！}`
+`{ruby:I'm jealous of all of:あなたたちが羨ましいわよ}{ruby:you, don't you get it?!:、わかってる？！}`
 `{ruby:I'd love to be part of all this!!":私も混ぜてほしいくらいッ！！」}`
 `{ruby:"*cackle*cackle*cackle*!!:「くっくくくくくく！！}`
 `{ruby:I'm sorry, but no.:生憎だがそれは断るぞ。}`
 `{ruby:I am satisfied with the toys I have.:妾は手持ちの玩具で満足しておる。}`
-`{ruby:A rude toy like you is not fitting for my toy box!":そなたのような粗野な玩具は、妾の玩具箱に相応しくない！」}`
+`{ruby:A rude toy like you is:そなたのような粗野な玩具は、妾}{ruby:not fitting for my toy box!":の玩具箱に相応しくない！」}`
 `{ruby:"Yes, I'm aware of that.:「えぇ、わかってるわ。}`
-`{ruby:Who would ever play with someone like you?:誰があんたなんかと遊ぶものですか。}`
+`{ruby:Who would ever play:誰があんたなんかと遊}{ruby:with someone like you?:ぶものですか。}`
 `{ruby:......But I will thank you a bit.:……でも少しだけ感謝するわ。}`
-`{ruby:......For bringing everyone together like this.":……こうして、みんなに会わせてくれて」}`
+`{ruby:......For bringing everyone:……こうして、みんなに}{ruby:together like this.":会わせてくれて」}`
 `{ruby:"......Who...:「……お前、}`
 `{ruby:......are you...:………誰なんだ…。}`
 `{ruby:.....................You can't be—":……………まさか…、」}`
 `{ruby:"......I see, so that's it...:「……なるほどそうか…。}`
-`{ruby:.........Yes, I get it, I know who you are!:………あぁ、わかったぞ、そなたの正体が！}`
+`{ruby:.........Yes, I get it,:………あぁ、わかったぞ}{ruby:I know who you are!:、そなたの正体が！}`
 `{ruby:...I see,:…なるほどな、}`
-`{ruby:so {i:you} are the piece Lady {f:5:Bernkastel} threw in.:ベルンカステル卿の送り込んだ駒とはそなたなのか。}`
+`{ruby:so {i:you} are the:ベルンカステル卿の送り込ん}{ruby:piece Lady {f:5:Bernkastel} threw in.:だ駒とはそなたなのか。}`
 `{ruby:I like it!!":気に入ったッ！！」}`
-`{ruby:"Why don't I formally invite you to my party?!!:「改めてそなたを妾のパーティーに招こうではないか！！}`
+`{ruby:"Why don't I formally:「改めてそなたを妾のパーティ}{ruby:invite you to my party?!!:ーに招こうではないか！！}`
 `{ruby:I'll welcome you fully...!!:たっぷり歓迎してやるぞ…！！}`
-`{ruby:Along with Battler, I'll play with you nicely, break you, kill you, crush you, turn you to ash, mix you with bread dough and bake you until you're fluffy!!:戦人共々、仲良く遊んで、壊して殺して潰して灰にしてパン生地に混ぜてふっくらと焼き上げてくれるわッ！！}`
-`{ruby:Fuhha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haaa{0}a{0}a{0}a{0}a{0}aaaahh!!":ふっはははははははははははっぁああああぁ！！」}`
-`{ruby:".........Ohhhh, that's no good, no good at all!:「………あぁ、駄目ね、全然駄目だわ！}`
+`{ruby:Along with Battler, I'll play with you nicely, break you, kill you, crush you,:戦人共々、仲良く遊んで、壊して殺して潰して灰にしてパン}{ruby:turn you to ash, mix you with bread dough and bake you until you're fluffy!!:生地に混ぜてふっくらと焼き上げてくれるわッ！！}`
+`{ruby::ふっははははははははははは}{ruby:Fuhha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haaa{0}a{0}a{0}a{0}a{0}aaaahh!!":っぁああああぁ！！」}`
+`{ruby:".........Ohhhh, that's no good,:「………あぁ、駄目ね}{ruby:no good at all!:、全然駄目だわ！}`
 `{ruby:You'll never be able to do that!:あんたにそれは出来やしない！}`
 `{ruby:Rokkenjima, in the year 1986.:１９８６年の六軒島で。}`
-`{ruby:...I will expose everything that happened then to the light of day!":…何があったのか、私が全て白日の下に晒してやるわ！」}`
-`{ruby:"I'll teach you that you're no more than needle ice, scared of the spring of truth!:「あんたなんて、真実という春に怯える霜柱でしかないことを教えてやるッ！}`
+`{ruby:...I will expose everything that happened:…何があったのか、私が全て白}{ruby:then to the light of day!":日の下に晒してやるわ！」}`
+`{ruby:"I'll teach you that you're no more than:「あんたなんて、真実という春に怯える霜}{ruby:needle ice, scared of the spring of truth!:柱でしかないことを教えてやるッ！}`
 `{ruby:Prepare yourself, Golden Witch!:覚悟なさい、黄金の魔女ッ！}`
 `{ruby:{f:5:Beatrice}!!!":ベアトリーチェ！！！」}`

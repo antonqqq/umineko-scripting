@@ -1,4 +1,4 @@
-`{ruby:..........................................:……………………………………。}`
+`{ruby::………………………}{ruby:..........................................:……………。}`
 `{ruby:‘........................Uryu...:『……………………うりゅ…。}`
 `{ruby:.........Maria, ...answer me......’:………真里亞、…返事して……？』}`
 `{ruby:"...........................":「………………………」}`
@@ -11,610 +11,610 @@
 `{ruby:......Is that why...:……だから、}`
 `{ruby:...I can't talk to you.........?’:……真里亞とはおしゃべりできないの………？』}`
 `{ruby:Sakutaro looked up at Maria sadly.:さくたろが悲しそうに真里亞を見上げる。}`
-`{ruby:Maria's face was covered with tears, and she looked as though she had even lost the emotion of sadness......:真里亞の表情は、泣き腫らし、悲しみの感情さえ失ったように見えた…。}`
+`{ruby:Maria's face was covered with tears, and she looked:真里亞の表情は、泣き腫らし、悲しみの}{ruby:as though she had even lost the emotion of sadness......:感情さえ失ったように見えた…。}`
 `{ruby:"............Uu.:「…………うー。}`
 `{ruby:......I can hear you, Sakutaro.:……聞こえてるよ、さくたろ。}`
-`{ruby:......You aren't a stuffed animal made of cloth and cotton.:……さくたろは、布と綿で出来たぬいぐるみなんかじゃないよ。}`
+`{ruby:......You aren't a stuffed animal:……さくたろは、布と綿で出来たぬ}{ruby:made of cloth and cotton.:いぐるみなんかじゃないよ。}`
 `{ruby:.........You're my...friend.:………真里亞の、お友達だよ。}`
 `{ruby:..................Hate Ange.:………………縁寿なんか嫌い。}`
-`{ruby:......Uuu{0}u{0}u{0}u{0}u{0}u{0}u{0}uuu......":……うううぅううぅぅぅ……」}`
-`{ruby:‘Uryu... I'm sorry Maria, I'm sorry Maria......!:『うりゅ…、真里亞ごめんね、真里亞ごめんね……！}`
+`{ruby::……うううぅうう}{ruby:......Uuu{0}u{0}u{0}u{0}u{0}u{0}u{0}uuu......":ぅぅぅ……」}`
+`{ruby:‘Uryu... I'm sorry:『うりゅ…、真里亞ごめんね}{ruby:Maria, I'm sorry Maria......!:、真里亞ごめんね……！}`
 `{ruby:Uryu......!’:うりゅ……！』}`
 `{ruby:Sakutaro felt regret.:さくたろは後悔する。}`
-`{ruby:By freezing her heart, Maria had finally been able to escape from her sadness.:真里亞は心を凍らせることで、ようやく悲しみから逃れられていたのだ。}`
-`{ruby:...By speaking up and calling her back, he had caused her to become overwhelmed with sadness again...:…それを、声を掛けて呼び戻してしまったから、また悲しみに囚われてしまった…。}`
-`{ruby:Sakutaro tried toddling up to Maria and hugging her, then letting go,:さくたろは、よちよちとした仕草で、真里亞にしがみついては離れてみたり、}`
-`{ruby:gazing at her appearance uneasily and trying it again, lost as to how he could bring Maria's spirits up.:様子を見てはうろうろしてみたりと、どうすれば真里亞を元気付けられるか戸惑っている。}`
-`{ruby:......He might have looked a little humorous doing that.:……その様子がどこかちょっぴりユーモラスだったのかもしれない。}`
-`{ruby:As a result, that was able to divert Maria's feelings from sadness......:結果的にそれは、真里亞の気持ちを悲しみから逸らすことが出来た……。}`
+`{ruby:By freezing her heart, Maria had finally:真里亞は心を凍らせることで、ようやく}{ruby:been able to escape from her sadness.:悲しみから逃れられていたのだ。}`
+`{ruby:...By speaking up and calling her back, he:…それを、声を掛けて呼び戻してしまったか}{ruby:had caused her to become overwhelmed with sadness again...:ら、また悲しみに囚われてしまった…。}`
+`{ruby:Sakutaro tried toddling up to Maria:さくたろは、よちよちとした仕草で、真里}{ruby:and hugging her, then letting go,:亞にしがみついては離れてみたり、}`
+`{ruby:gazing at her appearance uneasily and trying it again,:様子を見てはうろうろしてみたりと、どうすれば}{ruby:lost as to how he could bring Maria's spirits up.:真里亞を元気付けられるか戸惑っている。}`
+`{ruby:......He might have looked:……その様子がどこかちょっぴりユー}{ruby:a little humorous doing that.:モラスだったのかもしれない。}`
+`{ruby:As a result, that was able:結果的にそれは、真里亞の気持ちを悲し}{ruby:to divert Maria's feelings from sadness......:みから逸らすことが出来た……。}`
 `{ruby:"Sorry.:「ごめんね。}`
-`{ruby:.........More crying won't help anything.":………もう泣いても仕方ないもんね」}`
-`{ruby:‘You got in a fight with Ange, but you still have a lot of friends, Maria...:『縁寿とは喧嘩しちゃったけど、真里亞にはまだたくさん友達がいるよ…。}`
+`{ruby:.........More crying:………もう泣いても仕}{ruby:won't help anything.":方ないもんね」}`
+`{ruby:‘You got in a fight with Ange, but:『縁寿とは喧嘩しちゃったけど、真里亞}{ruby:you still have a lot of friends, Maria...:にはまだたくさん友達がいるよ…。}`
 `{ruby:Not just me.:ボクだけじゃない。}`
 `{ruby:.........You have everyone else too.:………みんなもいるよ。}`
-`{ruby:Sakusuke and Sakukichi, the animal band, and many, many more......’:さくすけもさくきちも、動物の音楽隊も、他にも他にも……』}`
-`{ruby:Maria looked at the many stuffed animals around her pillow, which were gathered together as though they were having a conference.:真里亞は枕の周りで井戸端会議でもしているかのように集まっている、たくさんのぬいぐるみたちを見る。}`
-`{ruby:‘......They're all...worried about you, Maria.:『……みんな、真里亞のこと、心配してるよ？}`
-`{ruby:They've all been discussing and discussing how to cheer you up, you know......?’:どうしたら真里亞が元気になってくれるかなって、ずっとずっと相談しているよ……？』}`
+`{ruby:Sakusuke and Sakukichi, the animal:さくすけもさくきちも、動物の音}{ruby:band, and many, many more......’:楽隊も、他にも他にも……』}`
+`{ruby:Maria looked at the many stuffed animals around her pillow,:真里亞は枕の周りで井戸端会議でもしているかのように}{ruby:which were gathered together as though they were having a conference.:集まっている、たくさんのぬいぐるみたちを見る。}`
+`{ruby:‘......They're all...worried:『……みんな、真里亞のこ}{ruby:about you, Maria.:と、心配してるよ？}`
+`{ruby:They've all been discussing and discussing:どうしたら真里亞が元気になってくれるかなって}{ruby:how to cheer you up, you know......?’:、ずっとずっと相談しているよ……？』}`
 `{ruby:"....................................:「………………………………。}`
-`{ruby:......They won't......go away...like Ange...?":……みんなは、……縁寿みたいに、いなくならない…？」}`
+`{ruby:......They won't......go:……みんなは、……縁寿みたい}{ruby:away...like Ange...?":に、いなくならない…？」}`
 `{ruby:‘They won't.:『ならないよ。}`
 `{ruby:We'll always be together.’:ボクたちはいつだって一緒だよ』}`
 `{ruby:".........Really?:「………本当に？}`
 `{ruby:You're all only with me at home.:さくたろたちは、家でしか一緒じゃないよ。}`
-`{ruby:Can't go out together when Mama's with us, and can't go together to school.":ママと一緒にお出掛け出来ないし、学校にも一緒にいけないよ」}`
-`{ruby:‘We aren't allowed to go to school, so you'll get in trouble if the teacher finds out.:『ボクたちは学校に行っちゃいけないから、先生に見つかったら怒られちゃうもん。}`
-`{ruby:But if no one finds out, we can be together at any time.’:でも、見つからないなら、いつだって一緒にいていいんだよ』}`
-`{ruby:"......Sakutaro, you're big, so you'd be found.":「……さくたろ、大きいから見つかっちゃうね」}`
-`{ruby:‘Then you can take some of the kids that are small enough to walk around with.:『だったら、小さくて持ち歩ける子と一緒に行けばいいよ。}`
+`{ruby:Can't go out together when Mama's with:ママと一緒にお出掛け出来ないし、}{ruby:us, and can't go together to school.":学校にも一緒にいけないよ」}`
+`{ruby:‘We aren't allowed to go to school, so:『ボクたちは学校に行っちゃいけないから、}{ruby:you'll get in trouble if the teacher finds out.:先生に見つかったら怒られちゃうもん。}`
+`{ruby:But if no one finds out,:でも、見つからないなら、いつだ}{ruby:we can be together at any time.’:って一緒にいていいんだよ』}`
+`{ruby:"......Sakutaro, you're big,:「……さくたろ、大きいか}{ruby:so you'd be found.":ら見つかっちゃうね」}`
+`{ruby:‘Then you can take some of the kids:『だったら、小さくて持ち歩ける}{ruby:that are small enough to walk around with.:子と一緒に行けばいいよ。}`
 `{ruby:......For example...what about them?:……例えば、ほら。}`
-`{ruby:If you take the friends in the forest band,:森の音楽隊の仲間たちなら、}`
-`{ruby:......look, they're small, so they can hide in your pocket and go to school with you.’:……ほら、小さいから真里亞のポケットに隠れて一緒に学校に行けるよ』}`
-`{ruby:".........There's a lot of them in the band.:「………音楽隊いっぱいいるよ。}`
+`{ruby:If you take the:森の音楽隊の仲間}{ruby:friends in the forest band,:たちなら、}`
+`{ruby:......look, they're small, so they can hide in:……ほら、小さいから真里亞のポケット}{ruby:your pocket and go to school with you.’:に隠れて一緒に学校に行けるよ』}`
+`{ruby:".........There's a lot of:「………音楽隊いっ}{ruby:them in the band.:ぱいいるよ。}`
 `{ruby:Can't fit them all in my pockets.":ポケットに入りきらないよ」}`
-`{ruby:She gathered all of the forest band pieces that were scattered across her bed.:ベッドの上に、ごちゃっと散らばる森の音楽隊の駒たちをかき集める。}`
-`{ruby:There were about as many of them as pieces in a chess set, so it would probably be impossible to fit them all in her pocket...:チェスの駒くらいの数があるそれを全てポケットに入れていくのは無理だろう…。}`
-`{ruby:‘In that case, you can just take friends that you're especially close with.:『なら、特に仲良しのお友達だけを連れて行くといいよ。}`
-`{ruby:......Why don't you take the four rabbits, the ones you're closest to in the forest band?’:……森の音楽隊の中で、一番、真里亞と仲良しの、うさぎの四人組を連れてくといいよ』}`
+`{ruby:She gathered all of the forest band:ベッドの上に、ごちゃっと散らばる森}{ruby:pieces that were scattered across her bed.:の音楽隊の駒たちをかき集める。}`
+`{ruby:There were about as many of them as pieces in a chess set,:チェスの駒くらいの数があるそれを全てポケ}{ruby:so it would probably be impossible to fit them all in her pocket...:ットに入れていくのは無理だろう…。}`
+`{ruby:‘In that case, you can just:『なら、特に仲良しのお友達だ}{ruby:take friends that you're especially close with.:けを連れて行くといいよ。}`
+`{ruby:......Why don't you take the four rabbits, the:……森の音楽隊の中で、一番、真里亞と仲良し}{ruby:ones you're closest to in the forest band?’:の、うさぎの四人組を連れてくといいよ』}`
 `{ruby:"......Four could fit in my pocket.:「……４つならポケットに入る。}`
 `{ruby:......Yeah.:……うん。}`
 `{ruby:This way, they won't be found.":これなら見つからないね」}`
-`{ruby:‘So this way, you won't be alone even at school, Maria.:『だから真里亞はこれで、学校でもひとりぼっちじゃないよ。}`
-`{ruby:Those kids will be with you even where I can't go.’:ボクが一緒に行けないところでも、この子たちなら一緒にいてくれるよ』}`
+`{ruby:‘So this way, you won't:『だから真里亞はこれで、学校で}{ruby:be alone even at school, Maria.:もひとりぼっちじゃないよ。}`
+`{ruby:Those kids will be with:ボクが一緒に行けないところでも、この}{ruby:you even where I can't go.’:子たちなら一緒にいてくれるよ』}`
 `{ruby:"...............Yeah.:「……………うん。}`
-`{ruby:......Maybe...won't be lonely that way.:……なら、…寂しくないかも。}`
-`{ruby:......Maybe I can hold out......until I get home from school...":……お家に帰ってくるまで、……我慢できるかも…」}`
-`{ruby:‘As long as we aren't found by the teacher or Mama, we can be with you at any time.:『ママと先生にさえ見つからなければ、ボクたちはいつだって一緒にいられるんだよ。}`
-`{ruby:So let's be together forever, play together forever.:そしていつまでも一緒にいよう、遊んでいよう。}`
-`{ruby:We definitely won't leave you all alone, Maria.:ボクたちは真里亞を、絶対にひとりぼっちになんか、させないから。}`
+`{ruby:......Maybe...won't be:……なら、…寂し}{ruby:lonely that way.:くないかも。}`
+`{ruby:......Maybe I can hold out......until:……お家に帰ってくるまで、}{ruby:I get home from school...":……我慢できるかも…」}`
+`{ruby:‘As long as we aren't found by the teacher:『ママと先生にさえ見つからなければ、ボクた}{ruby:or Mama, we can be with you at any time.:ちはいつだって一緒にいられるんだよ。}`
+`{ruby:So let's be together:そしていつまでも一緒にい}{ruby:forever, play together forever.:よう、遊んでいよう。}`
+`{ruby:We definitely won't leave:ボクたちは真里亞を、絶対にひとりぼ}{ruby:you all alone, Maria.:っちになんか、させないから。}`
 `{ruby:Uryu!’:うりゅ！』}`
-`{ruby:Maria's expression finally regained a little of its brightness.:真里亞の表情がようやく、わずかに明るさを取り戻す。}`
+`{ruby:Maria's expression finally regained:真里亞の表情がようやく、わず}{ruby:a little of its brightness.:かに明るさを取り戻す。}`
 `{ruby:......That's right.:……そう。}`
-`{ruby:Thinking about it, my world didn't start out with Ange in it.:元々考えてみれば、真里亞の世界に縁寿はいなかったのだ。}`
-`{ruby:Even without Ange, everyone was together and it was fun.:縁寿がいなくても、みんなが一緒で楽しかった。}`
-`{ruby:So it's weird to suddenly get sad just because Ange's gone when she was the last to come in.:なのに、最後に入ってきた縁寿が抜けただけで、急に悲しくなるのはおかしい。}`
-`{ruby:...All that's happened is that I've returned to the world right before Ange entered it.:…縁寿が入る直前の世界に戻っただけじゃないか。}`
-`{ruby:{n}......So there's nothing to be sad about.:{n}……なら、悲しいわけなんかないんだ。}`
+`{ruby:Thinking about it, my world didn't:元々考えてみれば、真里亞の世界}{ruby:start out with Ange in it.:に縁寿はいなかったのだ。}`
+`{ruby:Even without Ange, everyone was:縁寿がいなくても、みんな}{ruby:together and it was fun.:が一緒で楽しかった。}`
+`{ruby:So it's weird to suddenly get sad just because:なのに、最後に入ってきた縁寿が抜けただ}{ruby:Ange's gone when she was the last to come in.:けで、急に悲しくなるのはおかしい。}`
+`{ruby:...All that's happened is that I've returned:…縁寿が入る直前の世界に戻}{ruby:to the world right before Ange entered it.:っただけじゃないか。}`
+`{ruby:{n}......So there's nothing:{n}……なら、悲しいわ}{ruby:to be sad about.:けなんかないんだ。}`
 `{ruby:"......Yeah.:「……うん。}`
 `{ruby:Not lonely.:寂しくないよ。}`
-`{ruby:Sakutaro and everyone else is with me.":さくたろも、みんなも一緒だもん」}`
+`{ruby:Sakutaro and everyone:さくたろも、みんな}{ruby:else is with me.":も一緒だもん」}`
 `{ruby:‘Uryuu!:『うりゅー！}`
 `{ruby:Loooove you, Maria...!’:真里亞、だーい好き…！』}`
-`{ruby:"I won't let any more {y:0:Human}{n:0:human}s come into my world.:「もうニンゲンなんかに、真里亞の世界には、誰も立ち入らせないよ。}`
-`{ruby:......Mariage Sorcière is an alliance only between me and {f:5:Beatrice}.":……マリアージュ・ソルシエールは、真里亞とベアトリーチェだけの二人きりの同盟」}`
-`{ruby:"......Even Beato opposed letting Ange join in the beginning.:「……元々、ベアトも、縁寿を加えるのには反対してたし。}`
+`{ruby:"I won't let any more:「もうニンゲンなんかに、真里亞の世}{ruby:{y:0:Human}{n:0:human}s come into my world.:界には、誰も立ち入らせないよ。}`
+`{ruby:......Mariage Sorcière is an alliance:……マリアージュ・ソルシエールは、真里亞と}{ruby:only between me and {f:5:Beatrice}.":ベアトリーチェだけの二人きりの同盟」}`
+`{ruby:"......Even Beato opposed letting:「……元々、ベアトも、縁寿を加}{ruby:Ange join in the beginning.:えるのには反対してたし。}`
 `{ruby:.........It's alright this way.:………これでいいんだもんね。}`
 `{ruby:Ange was still too young.":縁寿はまだ幼過ぎたんだよ」}`
-`{ruby:‘......Until you can be friends with Ange again, I think it's okay to forget about her for now.:『……縁寿のことは、また仲良しになれるまで、当分は忘れていていいと思うよ。}`
-`{ruby:Just wait until you've regained your high spirits, and then play with her again.:真里亞がまた元気を取り戻せたら、一緒に遊べばいいよ。}`
-`{ruby:Until then, all of us will be by your side.’:それまで、ボクたちみんなが、ずっと側にいるからね』}`
+`{ruby:‘......Until you can be friends with Ange again, I:『……縁寿のことは、また仲良しになれるま}{ruby:think it's okay to forget about her for now.:で、当分は忘れていていいと思うよ。}`
+`{ruby:Just wait until you've regained your high:真里亞がまた元気を取り戻せた}{ruby:spirits, and then play with her again.:ら、一緒に遊べばいいよ。}`
+`{ruby:Until then, all of us:それまで、ボクたちみんなが、}{ruby:will be by your side.’:ずっと側にいるからね』}`
 `{ruby:".........Thanks.:「………ありがと。}`
 `{ruby:......Sakutaro, ......everyone.":……さくたろ、……みんな」}`
-`{ruby:Then, I once again regained my former world.:そして、真里亞は再び元の世界を取り戻す。}`
-`{ruby:{n}I regained the world where I wasn't lonely, and where I was surrounded by many friends.:{n}大勢の友達に囲まれた、寂しくない世界を取り戻す。}`
-`{ruby:As always, I didn't have any {y:0:Human}{n:0:human} friends at school, but my magic friends were always with me.:学校では相変わらず、ニンゲンの友達はいないけれど、魔法の友達はいつも一緒にいる。}`
-`{ruby:Even during class, I could hear the rabbit band hiding in my pocket talking together and giggling, and they sounded like they were having a lot of fun.:ポケットに忍ばせたうさぎの音楽隊は、授業中にもポケットの中でくすくすと楽しそうにお話をしている。}`
-`{ruby:Just listening to that added a lot of color to those lonely school hours.:それに耳を傾けるだけで、寂しい授業時間がとても彩られた。}`
-`{ruby:I made sure that my other friends, too, were always with me, as long as Mama and the teacher wouldn't find out.:ママと先生にさえ見つからないなら、他の友達とも常に一緒にいるようにした。}`
-`{ruby:When Mama told me to go play outside, I would secretly pack Sakutaro and Sakusuke and the rest into my bag, and play together at the library or somewhere.:ママに、お外で遊んできなさいと言われた時は、こっそりカバンにさくたろやさくすけたちを詰めて行って、図書館とかで一緒に遊んだ。}`
-`{ruby:And when Mama was late coming home and I went shopping for dinner, I always went with them.:ママの帰りが遅くて、お夕飯のお買い物なんかに行く時も、常にさくたろたちと一緒に行った。}`
-`{ruby:The men working at the convenience store were always nice to Sakutaro.:コンビニのおじさんたちも、さくたろに優しくしてくれた。}`
-`{ruby:{n}Sometimes they even gave me two extra things for free, one for me and one for Sakutaro.:{n}真里亞とさくたろにって、２つ分のオマケをくれたこともあった。}`
-`{ruby:Whenever Mama found out, I would get in trouble for bringing Sakutaro and the rest outside.:ママにそれを見つかると、さくたろたちを連れてきちゃ駄目と怒られる。}`
-`{ruby:Whenever the teacher found out, I would get in trouble for bringing toys to school.:先生にそれを見つかると、おもちゃを学校に持ってきちゃ駄目と怒られる。}`
-`{ruby:The toxin must be strong in Mama and the teacher.:きっと、ママと先生は毒素が強いんだ。}`
-`{ruby:That's why Sakutaro and the others just look like normal stuffed animals to them.:だからさくたろたちが、ただのぬいぐるみに見えちゃうんだ。}`
-`{ruby:After all, the men at the convenience store say hello to Sakutaro.:だって、コンビニのおじさんたちは、さくたろにも挨拶してくれるよ。}`
-`{ruby:.........Not all {y:0:Human}{n:0:human}s are worthless.:………ニンゲンみんなが駄目なんじゃない。}`
-`{ruby:There are a ton of people who, unlike Ange and Mama and my teacher, can say hello to magic friends like I can......:縁寿やママや先生と違って、私みたいに魔法の友達と挨拶が出来る人だって大勢いるんだ……。}`
+`{ruby:Then, I once again:そして、真里亞は再び元}{ruby:regained my former world.:の世界を取り戻す。}`
+`{ruby:{n}I regained the world where I wasn't lonely,:{n}大勢の友達に囲まれた、寂}{ruby:and where I was surrounded by many friends.:しくない世界を取り戻す。}`
+`{ruby:As always, I didn't have any {y:0:Human}{n:0:human} friends at:学校では相変わらず、ニンゲンの友達はいない}{ruby:school, but my magic friends were always with me.:けれど、魔法の友達はいつも一緒にいる。}`
+`{ruby:Even during class, I could hear the rabbit band hiding in my pocket talking:ポケットに忍ばせたうさぎの音楽隊は、授業中にもポケ}{ruby:together and giggling, and they sounded like they were having a lot of fun.:ットの中でくすくすと楽しそうにお話をしている。}`
+`{ruby:Just listening to that added a lot:それに耳を傾けるだけで、寂しい}{ruby:of color to those lonely school hours.:授業時間がとても彩られた。}`
+`{ruby:I made sure that my other friends, too, were always with:ママと先生にさえ見つからないなら、他の}{ruby:me, as long as Mama and the teacher wouldn't find out.:友達とも常に一緒にいるようにした。}`
+`{ruby:When Mama told me to go play outside, I would secretly pack Sakutaro and:ママに、お外で遊んできなさいと言われた時は、こっそりカバンにさく}{ruby:Sakusuke and the rest into my bag, and play together at the library or somewhere.:たろやさくすけたちを詰めて行って、図書館とかで一緒に遊んだ。}`
+`{ruby:And when Mama was late coming home and I:ママの帰りが遅くて、お夕飯のお買い物なんかに行}{ruby:went shopping for dinner, I always went with them.:く時も、常にさくたろたちと一緒に行った。}`
+`{ruby:The men working at the convenience:コンビニのおじさんたちも、さく}{ruby:store were always nice to Sakutaro.:たろに優しくしてくれた。}`
+`{ruby:{n}Sometimes they even gave me two extra things:{n}真里亞とさくたろにって、２つ分}{ruby:for free, one for me and one for Sakutaro.:のオマケをくれたこともあった。}`
+`{ruby:Whenever Mama found out, I would get in:ママにそれを見つかると、さくたろたち}{ruby:trouble for bringing Sakutaro and the rest outside.:を連れてきちゃ駄目と怒られる。}`
+`{ruby:Whenever the teacher found out, I would:先生にそれを見つかると、おもちゃを学}{ruby:get in trouble for bringing toys to school.:校に持ってきちゃ駄目と怒られる。}`
+`{ruby:The toxin must be strong:きっと、ママと先生は}{ruby:in Mama and the teacher.:毒素が強いんだ。}`
+`{ruby:That's why Sakutaro and the others just:だからさくたろたちが、ただのぬ}{ruby:look like normal stuffed animals to them.:いぐるみに見えちゃうんだ。}`
+`{ruby:After all, the men at the:だって、コンビニのおじさんたちは、}{ruby:convenience store say hello to Sakutaro.:さくたろにも挨拶してくれるよ。}`
+`{ruby:.........Not all:………ニンゲンみんなが}{ruby:{y:0:Human}{n:0:human}s are worthless.:駄目なんじゃない。}`
+`{ruby:There are a ton of people who, unlike Ange and Mama:縁寿やママや先生と違って、私みたいに魔法の友達}{ruby:and my teacher, can say hello to magic friends like I can......:と挨拶が出来る人だって大勢いるんだ……。}`
 `{ruby:"Oh, Maria‐chan.:「真里亞ちゃんかい。}`
 `{ruby:Welcome.:いらっしゃい。}`
-`{ruby:Is your mama late coming home tonight too...?":今夜もママは帰りが遅いのかい…？」}`
+`{ruby:Is your mama late:今夜もママは帰りが遅}{ruby:coming home tonight too...?":いのかい…？」}`
 `{ruby:"Yeah.:「うん。}`
-`{ruby:......But Sakutaro's with me, so I'm not lonely.:……でも、さくたろたちも一緒だから、寂しくないの。}`
+`{ruby:......But Sakutaro's with me,:……でも、さくたろたちも一緒}{ruby:so I'm not lonely.:だから、寂しくないの。}`
 `{ruby:Right, Sakutaro?":ね、さくたろ？」}`
 `{ruby:‘Uryuu.:『うりゅー。}`
 `{ruby:It's not just me today.:今日はね、ボクだけじゃないんだよ。}`
 `{ruby:Other friends are also with us.’:他のお友達も一緒なんだよ』}`
 `{ruby:"Oh, other friends?:「おや、他のお友達かい。}`
-`{ruby:What kind of friends are with you today?":今日はどんなお友達が一緒なんだい？」}`
-`{ruby:"Today, the rabbits from the forest band are also with me.:「今日はね、森の音楽隊のうさぎさんたちも一緒。}`
+`{ruby:What kind of friends:今日はどんなお友達が}{ruby:are with you today?":一緒なんだい？」}`
+`{ruby:"Today, the rabbits from the:「今日はね、森の音楽隊のう}{ruby:forest band are also with me.:さぎさんたちも一緒。}`
 `{ruby:......Look, they're in my pocket.":……ほら、ポケットに入ってるの」}`
-`{ruby:Maria began to line up four ceramic rabbit dolls on the register.:真里亞は、陶製のうさぎの人形を４つ、レジの上に並べ始める。}`
-`{ruby:As the owner of the shop looked at them with a smile, he signaled a part‐timer with his chin.:店長のおじさんはそれを微笑ましそうに見ると、アルバイトに顎で合図を送る。}`
-`{ruby:The sign on the other register that said "closed" was taken down, and the part‐timer called out for everyone to move over there.:すると、もうひとつのレジの、準備中という札が下げられ、お待ちの方こちらにどうぞーと声が掛けられた。}`
-`{ruby:All of the people in line behind Maria formed a new line over there instead...:真里亞の後に並んでいた人たちは全員、そちらに並び直す…。}`
+`{ruby:Maria began to line up four:真里亞は、陶製のうさぎの人形を４}{ruby:ceramic rabbit dolls on the register.:つ、レジの上に並べ始める。}`
+`{ruby:As the owner of the shop looked at them:店長のおじさんはそれを微笑ましそうに見}{ruby:with a smile, he signaled a part‐timer with his chin.:ると、アルバイトに顎で合図を送る。}`
+`{ruby:The sign on the other register that said "closed" was taken:すると、もうひとつのレジの、準備中という札が下げられ}{ruby:down, and the part‐timer called out for everyone to move over there.:、お待ちの方こちらにどうぞーと声が掛けられた。}`
+`{ruby:All of the people in line behind:真里亞の後に並んでいた人たちは}{ruby:Maria formed a new line over there instead...:全員、そちらに並び直す…。}`
 `{ruby:"Yes, I see.:「そうかそうか。}`
-`{ruby:You sure have a lot of friends, Maria‐chan.:真里亞ちゃんにはお友達がいっぱいだねぇ。}`
-`{ruby:But I hope your mama comes home soon.":ママも早く帰ってきてくれればいいのに」}`
+`{ruby:You sure have a:真里亞ちゃんにはお友達}{ruby:lot of friends, Maria‐chan.:がいっぱいだねぇ。}`
+`{ruby:But I hope your:ママも早く帰ってきてく}{ruby:mama comes home soon.":れればいいのに」}`
 `{ruby:"Uu.:「うー。}`
-`{ruby:Mama is busy with work again, so she's staying at the company.:ママはまたお仕事が忙しくて、会社にお泊りなの。}`
+`{ruby:Mama is busy with work again,:ママはまたお仕事が忙しくて}{ruby:so she's staying at the company.:、会社にお泊りなの。}`
 `{ruby:She's very busy lately.:最近はよく忙しくなるの。}`
-`{ruby:......She hasn't even been able to get much time to talk to me on the phone.":……真里亞と電話でお話しする時間も全然取れない」}`
+`{ruby:......She hasn't even been able to get much:……真里亞と電話でお話しす}{ruby:time to talk to me on the phone.":る時間も全然取れない」}`
 `{ruby:"But I'm not lonely!:「でも寂しくないよ！}`
 `{ruby:I have Sakutaro and all the rest!:真里亞にはさくたろたちがいるもん！}`
 `{ruby:Right?":ねー！」}`
 `{ruby:‘Uryuu!!’:『うりゅー！！』}`
-`{ruby:"All of the rabbits in the band are with me too.:「うさぎの音楽隊のみんなも一緒だもん。}`
+`{ruby:"All of the rabbits in:「うさぎの音楽隊のみん}{ruby:the band are with me too.:なも一緒だもん。}`
 `{ruby:Look.:ほら。}`
 `{ruby:Kyuu‐kyuu{p:0:♪}":きゅーきゅー♪」}`
-`{ruby:"Is kyuu‐kyuu the sound a rabbit makes?:「うさぎの鳴き声って、きゅーきゅーだったっけ？}`
-`{ruby:Come to think of it, I've never heard one.":はて、そういや聞いたことないなあ」}`
-`{ruby:After smiling at Sakutaro, who was poking his head out of her knapsack,:真里亞は、ナップザックから顔をのぞかせるさくたろに微笑みかけながら、}`
-`{ruby:she played around with the rabbit band on the register, making them frolic around.:レジの上のうさぎの音楽隊を、戯れあうようにいじって遊ぶのだった。}`
-`{ruby:Even as he gazed at this heartwarming sight, the shop manager had a slightly pitying look on his face.:店長はその様子を微笑ましく眺めながらも、少しだけ気の毒そうな表情を浮かべる。}`
-`{ruby:......This was apparently a family without a father, and where the mother had to work hard and couldn't come home very often.:……どうも母子家庭らしく、母親が激務でなかなか家に帰れないらしい。}`
-`{ruby:On top of that, it looked like this girl didn't even have any friends.:その上、友達もいる様子がない。}`
-`{ruby:As he watched this girl play around happily with her dolls and claim that she wasn't lonely despite everything,:なのに、こうしてぬいぐるみたちと楽しく遊んで、寂しくないと言い張る少女に、}`
-`{ruby:he couldn't help but feel a kind of compassion.:ささやかな同情を感じずにはいられなかった。}`
-`{ruby:And actually, this wasn't limited to him alone.:実はこれは、彼に限ったことではない。}`
-`{ruby:Maria had become very famous in this shopping district...:この商店街では、真里亞のことはとても有名になっていたのだ…。}`
-`{ruby:"Maria‐chan, you should eat some oden every once in a while.:「真里亞ちゃん、たまにはおでんも食べなさい。}`
-`{ruby:You won't grow if you don't eat your eggs and fish paste.":卵とか練り物とか食べないと、大きくなれないよ」}`
+`{ruby:"Is kyuu‐kyuu the:「うさぎの鳴き声って、きゅ}{ruby:sound a rabbit makes?:ーきゅーだったっけ？}`
+`{ruby:Come to think of:はて、そういや聞いた}{ruby:it, I've never heard one.":ことないなあ」}`
+`{ruby:After smiling at Sakutaro, who was:真里亞は、ナップザックから顔をのぞか}{ruby:poking his head out of her knapsack,:せるさくたろに微笑みかけながら、}`
+`{ruby:she played around with the rabbit band:レジの上のうさぎの音楽隊を、戯れあ}{ruby:on the register, making them frolic around.:うようにいじって遊ぶのだった。}`
+`{ruby:Even as he gazed at this heartwarming sight, the:店長はその様子を微笑ましく眺めながらも、}{ruby:shop manager had a slightly pitying look on his face.:少しだけ気の毒そうな表情を浮かべる。}`
+`{ruby:......This was apparently a family without a father, and where the:……どうも母子家庭らしく、母親が激務}{ruby:mother had to work hard and couldn't come home very often.:でなかなか家に帰れないらしい。}`
+`{ruby:On top of that, it looked like:その上、友達もいる}{ruby:this girl didn't even have any friends.:様子がない。}`
+`{ruby:As he watched this girl play around happily with:なのに、こうしてぬいぐるみたちと楽しく遊}{ruby:her dolls and claim that she wasn't lonely despite everything,:んで、寂しくないと言い張る少女に、}`
+`{ruby:he couldn't help but:ささやかな同情を感じずに}{ruby:feel a kind of compassion.:はいられなかった。}`
+`{ruby:And actually, this wasn't:実はこれは、彼に限っ}{ruby:limited to him alone.:たことではない。}`
+`{ruby:Maria had become very:この商店街では、真里亞のことはと}{ruby:famous in this shopping district...:ても有名になっていたのだ…。}`
+`{ruby:"Maria‐chan, you should eat some:「真里亞ちゃん、たまには}{ruby:oden every once in a while.:おでんも食べなさい。}`
+`{ruby:You won't grow if you don't:卵とか練り物とか食べないと}{ruby:eat your eggs and fish paste.":、大きくなれないよ」}`
 `{ruby:"Uu?:「うー？}`
 `{ruby:Can't get a cream roll...?":クリームパンじゃ駄目…？」}`
 `{ruby:‘Uryu.:『うりゅ。}`
-`{ruby:You need variety or you won't get big.:いろいろ食べないと大きくなれないよ。}`
+`{ruby:You need variety or:いろいろ食べないと大}{ruby:you won't get big.:きくなれないよ。}`
 `{ruby:How about oden for today?’:今日はおでんにしよ？』}`
 `{ruby:"Uu.:「うー。}`
 `{ruby:......Okay, I'll have oden.":……じゃあおでんにする」}`
 `{ruby:"Yep yep, that's the ticket.:「うんうん、そうしなさい。}`
-`{ruby:Why don't I stick a whole bunch in there.:おじさんが多めに入れておくよ。}`
+`{ruby:Why don't I stick:おじさんが多めに入}{ruby:a whole bunch in there.:れておくよ。}`
 `{ruby:Want mustard?":カラシいる？」}`
 `{ruby:‘Uryuu.:『うりゅー。}`
 `{ruby:I can't handle spicy things......’:辛いのは苦手……』}`
 `{ruby:"Alright, I see.:「そうかそうか。}`
-`{ruby:Then, you make sure you don't let it spill on the way home.:じゃ、零さないように持って帰りな。}`
+`{ruby:Then, you make sure you don't:じゃ、零さないように}{ruby:let it spill on the way home.:持って帰りな。}`
 `{ruby:Best eat it while it's hot.":温かい内がおいしいよ」}`
 `{ruby:"Uu.:「うー。}`
 `{ruby:Thank you.":ありがとう」}`
-`{ruby:She had planned on getting some sweet pastries for dinner like usual, but since oden had been recommended to her, she would be having that tonight instead.:いつものように菓子パンの夕食にするつもりだったが、おでんを勧められたため、今夜はおでんになった。}`
-`{ruby:Letting someone else determine the menu makes for an unexpected and interesting meal.:メニューを人に決めてもらうと、意外な食事になって、面白い。}`
-`{ruby:......Very often, Maria had to decide on her own what to have for dinner, so it was easy for the menu to get a little one‐sided.:……真里亞は自分ひとりで夕食を決めなければならないことが多かったので、メニューも偏りやすい。}`
-`{ruby:So it felt fun to look forward to a meal she hadn't anticipated...:だから、そういう予期せぬ食事に楽しさを感じるのだった…。}`
+`{ruby:She had planned on getting some sweet pastries for dinner like usual, but:いつものように菓子パンの夕食にするつもりだったが、}{ruby:since oden had been recommended to her, she would be having that tonight instead.:おでんを勧められたため、今夜はおでんになった。}`
+`{ruby:Letting someone else determine the menu:メニューを人に決めてもらうと、意}{ruby:makes for an unexpected and interesting meal.:外な食事になって、面白い。}`
+`{ruby:......Very often, Maria had to decide on her own what to have for:……真里亞は自分ひとりで夕食を決めなければならな}{ruby:dinner, so it was easy for the menu to get a little one‐sided.:いことが多かったので、メニューも偏りやすい。}`
+`{ruby:So it felt fun to look:だから、そういう予期せぬ食事に}{ruby:forward to a meal she hadn't anticipated...:楽しさを感じるのだった…。}`
 `{ruby:‘Uryuu!:『うりゅー！}`
 `{ruby:Thanks for giving us extra, mister!’:おじさん、オマケしてくれてありがとう！』}`
-`{ruby:"Send my regards to your other friends at home.:「お家にいる他のお友達たちにもよろしくねー。}`
-`{ruby:No nibbling at it on the way home, now.:途中で摘み食いしちゃ駄目だよ。}`
+`{ruby:"Send my regards to:「お家にいる他のお友達た}{ruby:your other friends at home.:ちにもよろしくねー。}`
+`{ruby:No nibbling at it:途中で摘み食いしち}{ruby:on the way home, now.:ゃ駄目だよ。}`
 `{ruby:Go straight home and eat it there.":まっすぐお家へ帰ってから食べるんだよ」}`
 `{ruby:"Uu!:「うー！}`
 `{ruby:Thanks, mister!!":おじさん、ありがとー！！」}`
-`{ruby:Maria held the bag with the oden container high for all to see......:真里亞は、おでんの容器の入ったレジ袋を高々と上げるのだった……。}`
+`{ruby:Maria held the bag with the:真里亞は、おでんの容器の入ったレジ}{ruby:oden container high for all to see......:袋を高々と上げるのだった……。}`
 `{ruby:".................................:「……………………………。}`
 `{ruby:.........Huh......?":………あれ……？」}`
 `{ruby:‘......Uryu?:『……うりゅ？}`
 `{ruby:What is it, Maria?’:どうしたの、真里亞？』}`
-`{ruby:".........The key isn't in my pocket.":「………ポケットに鍵がない」}`
-`{ruby:Standing in front of the door to her house, Maria searched and patted all over her body.:自宅の扉の前で、真里亞はぱたぱたと全身を探る。}`
-`{ruby:{n}......The key to the house wasn't there.:{n}……家の鍵がないのだ。}`
-`{ruby:She always methodically put it in the same pocket.:いつも几帳面に同じポケットに入れる。}`
-`{ruby:So there was no way she had put it in another pocket, but she searched her whole body just in case.:だから他のポケットに入れてしまったわけはないのだが、念のため全身を探る。}`
+`{ruby:".........The key isn't:「………ポケット}{ruby:in my pocket.":に鍵がない」}`
+`{ruby:Standing in front of the door to her:自宅の扉の前で、真里亞はぱ}{ruby:house, Maria searched and patted all over her body.:たぱたと全身を探る。}`
+`{ruby:{n}......The key to:{n}……家の鍵}{ruby:the house wasn't there.:がないのだ。}`
+`{ruby:She always methodically put:いつも几帳面に同じポ}{ruby:it in the same pocket.:ケットに入れる。}`
+`{ruby:So there was no way she had put it in:だから他のポケットに入れてしまったわけ}{ruby:another pocket, but she searched her whole body just in case.:はないのだが、念のため全身を探る。}`
 `{ruby:......It really wasn't there.:……やっぱりなかった。}`
-`{ruby:‘Did you drop it when you took your wallet out......?’:『お財布を出した時に落とした……？』}`
+`{ruby:‘Did you drop it when:『お財布を出した時に}{ruby:you took your wallet out......?’:落とした……？』}`
 `{ruby:"No.:「うぅん。}`
-`{ruby:Definitely felt it when I took my wallet out.:お財布を出してしまう時には、ちゃんと手応えがあったもん。}`
-`{ruby:Also definitely felt it when I checked my pocket on the way home.":途中でポケットを探った時にもちゃんと手応えがあった」}`
+`{ruby:Definitely felt it when:お財布を出してしまう時には、ち}{ruby:I took my wallet out.:ゃんと手応えがあったもん。}`
+`{ruby:Also definitely felt it when I:途中でポケットを探った時にも}{ruby:checked my pocket on the way home.":ちゃんと手応えがあった」}`
 `{ruby:"......It was there until partway.:「……途中まではあったの。}`
 `{ruby:Didn't drop it!:落としてなんかいない！}`
 `{ruby:Uu‐uu‐uu...!":うーうーうー…！」}`
-`{ruby:The late autumn wind had been made bearable by the thought of the heater that was waiting at home,:家に帰れば暖房があると思えばこそ耐えられる晩秋の外気も、}`
-`{ruby:but now that Maria had lost her key and had no idea what to do, she was really feeling it.:鍵をなくし、途方に暮れる真里亞には堪えるものだった。}`
-`{ruby:But no matter how hard she searched, she couldn't find her key.:しかし、いくら探しても鍵は見つからない。}`
-`{ruby:She turned out all her pockets, and even tried taking off her jacket and hitting it, but to no avail.:全てのポケットを引っ繰り返し、着ていた上着を脱いで叩いてもみたが駄目だった。}`
-`{ruby:......Of course, she also turned the knapsack Sakutaro was in upside down, but no key came out.:……もちろん、さくたろの入っているナップザックだって引っ繰り返してみたが、鍵が出てくることはなかった。}`
+`{ruby:The late autumn wind had been made bearable by:家に帰れば暖房があると思えばこ}{ruby:the thought of the heater that was waiting at home,:そ耐えられる晩秋の外気も、}`
+`{ruby:but now that Maria had lost her key and had:鍵をなくし、途方に暮れる真里}{ruby:no idea what to do, she was really feeling it.:亞には堪えるものだった。}`
+`{ruby:But no matter how hard she:しかし、いくら探しても}{ruby:searched, she couldn't find her key.:鍵は見つからない。}`
+`{ruby:She turned out all her pockets, and even tried taking:全てのポケットを引っ繰り返し、着ていた上}{ruby:off her jacket and hitting it, but to no avail.:着を脱いで叩いてもみたが駄目だった。}`
+`{ruby:......Of course, she also turned the knapsack Sakutaro:……もちろん、さくたろの入っているナップザックだって引}{ruby:was in upside down, but no key came out.:っ繰り返してみたが、鍵が出てくることはなかった。}`
 `{ruby:".........Uu.:「………うー。}`
 `{ruby:.........Uu‐uu‐uu!!!":………うーうーうー！！！」}`
-`{ruby:Something that should have been there...wasn't where it was supposed to be.:あるはずのものが、あるべきところにない。}`
-`{ruby:{n}Why isn't the key there, when I didn't do anything wrong?:{n}自分は悪くないのに、なぜか鍵がない。}`
+`{ruby:Something that should have been there...wasn't:あるはずのものが、ある}{ruby:where it was supposed to be.:べきところにない。}`
+`{ruby:{n}Why isn't the key there,:{n}自分は悪くないのに}{ruby:when I didn't do anything wrong?:、なぜか鍵がない。}`
 `{ruby:......Why isn't it?!:……何でないの？！}`
 `{ruby:{n}Why?!:{n}どうしてッ！}`
 `{ruby:Why...?!!!:どうして…ッ！！！}`
-`{ruby:Maria stamped on the ground, cold and frustrated and angry...:真里亞は寒くて悔しくて腹立たしくて、地団太を踏む…。}`
-`{ruby:{n}The bottom of her foot throbbed, but even so, it didn't lessen her frustration.:{n}足の裏がジンジンするが、それでも悔しいのが収まることはない。}`
-`{ruby:......Before long, bitter tears were pouring down her face.:……その内、ぽろぽろと悔し涙まで零れ出す。}`
+`{ruby:Maria stamped on the ground,:真里亞は寒くて悔しくて腹立た}{ruby:cold and frustrated and angry...:しくて、地団太を踏む…。}`
+`{ruby:{n}The bottom of her foot throbbed, but:{n}足の裏がジンジンするが、それで}{ruby:even so, it didn't lessen her frustration.:も悔しいのが収まることはない。}`
+`{ruby:......Before long, bitter tears:……その内、ぽろぽろと悔}{ruby:were pouring down her face.:し涙まで零れ出す。}`
 `{ruby:"......Uu.:「……うー。}`
 `{ruby:......Uu!!:……うー！！}`
 `{ruby:Uuuu!!":うーーー！！」}`
 `{ruby:It wasn't her fault.:自分は悪くない。}`
 `{ruby:So it was someone else's.:だから誰かが悪い。}`
-`{ruby:But Maria didn't know who that someone was, and could do nothing but continue to let out a moan of anger.:でも、その誰かが誰かわからなくて、真里亞は怒りの唸り声を上げ続ける他なかった。}`
+`{ruby:But Maria didn't know who that someone was, and could:でも、その誰かが誰かわからなくて、真里亞は}{ruby:do nothing but continue to let out a moan of anger.:怒りの唸り声を上げ続ける他なかった。}`
 `{ruby:‘......Uryu......:『……うりゅ……。}`
 `{ruby:You must have dropped it partway...:きっと途中で落としたんだよ…。}`
 `{ruby:Let's look for it, okay?:探そう？}`
-`{ruby:Let's go back the way we came and search, okay...?’:来た道を戻って探そ…？』}`
+`{ruby:Let's go back the way:来た道を戻って探}{ruby:we came and search, okay...?’:そ…？』}`
 `{ruby:"......Uu...:「……うー…。}`
-`{ruby:I was excited to buy oden, ......and I got eggs and stuff for free......:せっかくおでん買ったのに、……卵とかオマケしてもらったのに……。}`
+`{ruby:I was excited to buy oden, ......and:せっかくおでん買ったのに、……卵と}{ruby:I got eggs and stuff for free......:かオマケしてもらったのに……。}`
 `{ruby:Can't eat it while it's hot......:温かいうちに食べられない……。}`
 `{ruby:.........Uuuuu!!!":………うーーーー！！！」}`
-`{ruby:‘...Maria......I know it's frustrating, but let's search, okay...?:『…真里亞……、悔しいけど探そ…？}`
-`{ruby:It's no one's fault... Let's search...’:誰も悪くないよ…、探そ…』}`
-`{ruby:Maria finally lent an ear to Sakutaro's words, and began to plod back the way she came.:真里亞はさくたろの言葉にようやく耳を貸し、来た道をとぼとぼと戻り始める。}`
-`{ruby:......The wind was colder than it had been, and felt like it was blowing in through the gaps in her jacket to spite her...:……さっきまでより、風が冷たく、意地悪に上着の隙間から入り込んでくるように感じた…。}`
+`{ruby:‘...Maria......I know it's frustrating,:『…真里亞……、悔し}{ruby:but let's search, okay...?:いけど探そ…？}`
+`{ruby:It's no one's:誰も悪くないよ…}{ruby:fault... Let's search...’:、探そ…』}`
+`{ruby:Maria finally lent an ear to Sakutaro's words,:真里亞はさくたろの言葉にようやく耳を貸}{ruby:and began to plod back the way she came.:し、来た道をとぼとぼと戻り始める。}`
+`{ruby:......The wind was colder than it had been, and felt like it:……さっきまでより、風が冷たく、意地悪に上着}{ruby:was blowing in through the gaps in her jacket to spite her...:の隙間から入り込んでくるように感じた…。}`
 `{ruby:‘Uryu...:『うりゅ…。}`
-`{ruby:Let's watch our feet closely and search, okay...?:しっかり足元を見て探そ…？}`
-`{ruby:And then let's get home quickly, and eat oden while getting warm by the heater, okay?:そして早くお家に帰って、暖房で温まりながら、おでんを食べよ？}`
+`{ruby:Let's watch our feet:しっかり足元を見}{ruby:closely and search, okay...?:て探そ…？}`
+`{ruby:And then let's get home quickly, and eat:そして早くお家に帰って、暖房で温ま}{ruby:oden while getting warm by the heater, okay?:りながら、おでんを食べよ？}`
 `{ruby:I'm sure it'll taste good.’:きっとおいしいよ』}`
 `{ruby:".........Uu.:「………うー。}`
 `{ruby:......Not here.:……ない。}`
 `{ruby:......Uu.:……うー。}`
 `{ruby:......Not here...":……ない…」}`
-`{ruby:As Sakutaro encouraged her, Maria searched for the key...:さくたろに励まされながら、鍵を探す真里亞…。}`
-`{ruby:But she made it all the way back to the convenience store where she'd bought the oden.:しかし、おでんを買ったコンビニまで戻ってきてしまう。}`
+`{ruby:As Sakutaro encouraged her,:さくたろに励まされながら}{ruby:Maria searched for the key...:、鍵を探す真里亞…。}`
+`{ruby:But she made it all the way back:しかし、おでんを買ったコンビ}{ruby:to the convenience store where she'd bought the oden.:ニまで戻ってきてしまう。}`
 `{ruby:{n}......She hadn't found it.:{n}……見つからなかったのだ。}`
-`{ruby:Just in case, she asked the man at the convenience store whether they had found a dropped key,:念のため、コンビニのおじさんに、鍵の落し物がなかったか聞くが、}`
+`{ruby:Just in case, she asked the man at the:念のため、コンビニのおじさんに、鍵}{ruby:convenience store whether they had found a dropped key,:の落し物がなかったか聞くが、}`
 `{ruby:but they hadn't found anything.:見つかっていないとのことだった。}`
-`{ruby:......One more time, she returned home, paying close attention to the area around her feet.:……もう一度、足元に注意しながら、家へ戻る。}`
+`{ruby:......One more time, she returned home, paying:……もう一度、足元に注意}{ruby:close attention to the area around her feet.:しながら、家へ戻る。}`
 `{ruby:{n}But still—she didn't find it.:{n}しかし、やはり見つからなかった。}`
-`{ruby:She was no longer frustrated enough to stomp her feet.:もう地団太を踏みたくなるような悔しさはない。}`
-`{ruby:{n}......But hot tears dripped down her face.:{n}……でも、熱い涙がぽろぽろ零れた。}`
+`{ruby:She was no longer frustrated:もう地団太を踏みたくなる}{ruby:enough to stomp her feet.:ような悔しさはない。}`
+`{ruby:{n}......But hot tears:{n}……でも、熱い涙}{ruby:dripped down her face.:がぽろぽろ零れた。}`
 `{ruby:The oden was stone cold.:おでんはすっかり冷めてしまっている。}`
-`{ruby:...Even though the man at the shop had said to eat it while it was hot, she hadn't been able to.:…温かいうちがおいしいよと言ってくれたのに、食べられなかった。}`
-`{ruby:......He had given her so much extra stuff for free......:……おじさんに色々オマケしてもらったのに……。}`
+`{ruby:...Even though the man at the shop had said to:…温かいうちがおいしいよと言ってく}{ruby:eat it while it was hot, she hadn't been able to.:れたのに、食べられなかった。}`
+`{ruby:......He had given her so:……おじさんに色々オマケし}{ruby:much extra stuff for free......:てもらったのに……。}`
 `{ruby:‘......Uryu......:『……うりゅ……。}`
 `{ruby:Don't cry......:泣かないで……。}`
-`{ruby:......Mama isn't coming back tonight.:……ママは今夜、帰ってこないんだよ。}`
-`{ruby:......Let's do our best to search......’:……頑張って探そ……』}`
+`{ruby:......Mama isn't:……ママは今夜、帰っ}{ruby:coming back tonight.:てこないんだよ。}`
+`{ruby:......Let's do our:……頑張って探}{ruby:best to search......’:そ……』}`
 `{ruby:".........Why can't I find it...:「………何で見つからないの…。}`
 `{ruby:......Uuuu............uuuuuuuu!":……ううぅ……、……うううぅぅッ！」}`
 `{ruby:‘Maria, don't cry...!:『真里亞、泣かないで…！}`
 `{ruby:Let's do our best to search...!:頑張って探そ…！}`
 `{ruby:.........Maria......’:………真里亞……』}`
-`{ruby:Maria was no longer able to hold back her tears.:真里亞はもう、涙を堪えることは出来なかった。}`
-`{ruby:Sobbing, clutching Sakutaro, and with the oden bag in her hand, she returned once more down the road she had come by.:しくしくと泣きながら、さくたろを抱いて、おでんの袋を持って、もう一度来た道を戻る。}`
-`{ruby:Perhaps because it was now later at night, and more houses and stores had turned their lights off by now, it was even darker and harder to search than before.:深夜になり、灯りを消した家や店が増えたせいか、より暗くなり、探しにくかった。}`
-`{ruby:......And, once again without finding the key, she returned to the convenience store.:……そして、また鍵を見つけられないまま、コンビニに戻ってきてしまう。}`
+`{ruby:Maria was no longer able:真里亞はもう、涙を堪える}{ruby:to hold back her tears.:ことは出来なかった。}`
+`{ruby:Sobbing, clutching Sakutaro, and with the oden bag in her hand,:しくしくと泣きながら、さくたろを抱いて、おで}{ruby:she returned once more down the road she had come by.:んの袋を持って、もう一度来た道を戻る。}`
+`{ruby:Perhaps because it was now later at night, and more houses and stores had turned:深夜になり、灯りを消した家や店が増えたせ}{ruby:their lights off by now, it was even darker and harder to search than before.:いか、より暗くなり、探しにくかった。}`
+`{ruby:......And, once again without finding the:……そして、また鍵を見つけられないま}{ruby:key, she returned to the convenience store.:ま、コンビニに戻ってきてしまう。}`
 `{ruby:"Maria‐chan,:「真里亞ちゃん、}`
-`{ruby:......you still can't find your key...?":……鍵、まだ見つからないのかい…？」}`
+`{ruby:......you still can't:……鍵、まだ見つから}{ruby:find your key...?":ないのかい…？」}`
 `{ruby:"...Uu...:「…うー…。}`
 `{ruby:......Key, ......gone...":……鍵、……ない…」}`
 `{ruby:"Your mother was away for the night?:「お母さん、今日は泊まりだっけ？}`
-`{ruby:You can't get into your house without a key?":鍵ないとお家入れないの？」}`
+`{ruby:You can't get into:鍵ないとお家入れ}{ruby:your house without a key?":ないの？」}`
 `{ruby:"Uu......:「うー……。}`
 `{ruby:......Can't get in......":……入れない……」}`
 `{ruby:"Well, that is a pretty pickle...:「そりゃ困ったねぇ…。}`
 `{ruby:Did you try going to the police?:交番には行ってみた？}`
 `{ruby:It might have been handed in.":届いてるかもしれないよ」}`
-`{ruby:"...............Mama said not to talk to policemen, even if they start talking to me.":「……………ママが、お巡りさんに話し掛けられても、お話しちゃ駄目って言った」}`
+`{ruby:"...............Mama said not to talk to policemen,:「……………ママが、お巡りさんに話し掛け}{ruby:even if they start talking to me.":られても、お話しちゃ駄目って言った」}`
 `{ruby:"Hm? Now why on Earth is that?":「ええ？　そりゃまた、どうして？」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:It was probably because Rosa felt guilty for making such a young girl as Maria watch over the house by herself,:楼座には、真里亞のような幼い子を、ひとりで留守番させていることに負い目があったし、}`
-`{ruby:and because she knew that this was not socially acceptable.:社会的にそれが許容されるものではないことを知っていたのだろう。}`
-`{ruby:So she had indoctrinated Maria into changing the stores she bought things at so that she didn't catch the eyes of adults,:だから真里亞に、大人に目を付けられないよう、買い物をする店をなるべく変えろとか、}`
-`{ruby:and saying no more than a greeting to policemen, even if they talked to her.:お巡りさんに話し掛けられても、挨拶以上のことはするなと吹き込んできたのだ。}`
-`{ruby:Maria had obediently done as she was told.:真里亞は、それらに素直に従った。}`
-`{ruby:Instead of considering why she had to do that,:どうしてそうしなくてはならないかを考えるよりは、}`
-`{ruby:honestly obeying because her mother had told her so was far more important to her.:母がそう言うのだから従わねばならないという素直さの方がはるかに上回った。}`
-`{ruby:But the manager of the convenience store probably didn't think of it that way.:だが、それを聞いたコンビニの店長はそうは思わなかっただろう。}`
-`{ruby:......Naturally, seeing such a young girl being forced to watch over the house alone,:……元々、このような幼い子が、ひとりで留守番を強いられ、}`
-`{ruby:and so frequently, would cause anyone to worry......:しかもそれが頻繁にあることが気になるのは、当然のことだった……。}`
+`{ruby:It was probably because Rosa felt guilty for making such:楼座には、真里亞のような幼い子を、ひとりで留}{ruby:a young girl as Maria watch over the house by herself,:守番させていることに負い目があったし、}`
+`{ruby:and because she knew that:社会的にそれが許容されるものではな}{ruby:this was not socially acceptable.:いことを知っていたのだろう。}`
+`{ruby:So she had indoctrinated Maria into changing the stores she bought:だから真里亞に、大人に目を付けられないよう}{ruby:things at so that she didn't catch the eyes of adults,:、買い物をする店をなるべく変えろとか、}`
+`{ruby:and saying no more than a greeting:お巡りさんに話し掛けられても、挨拶以上の}{ruby:to policemen, even if they talked to her.:ことはするなと吹き込んできたのだ。}`
+`{ruby:Maria had obediently done:真里亞は、それらに}{ruby:as she was told.:素直に従った。}`
+`{ruby:Instead of considering why:どうしてそうしなくてはなら}{ruby:she had to do that,:ないかを考えるよりは、}`
+`{ruby:honestly obeying because her mother had told:母がそう言うのだから従わねばならないと}{ruby:her so was far more important to her.:いう素直さの方がはるかに上回った。}`
+`{ruby:But the manager of the convenience store:だが、それを聞いたコンビニの店長}{ruby:probably didn't think of it that way.:はそうは思わなかっただろう。}`
+`{ruby:......Naturally, seeing such a young girl being:……元々、このような幼い子が、}{ruby:forced to watch over the house alone,:ひとりで留守番を強いられ、}`
+`{ruby:and so frequently, would:しかもそれが頻繁にあることが気にな}{ruby:cause anyone to worry......:るのは、当然のことだった……。}`
 `{ruby:......And then.:……そして。}`
-`{ruby:After making the round trip between her home and the store once more, and arriving at the convenience store for a third time...:再び家とコンビニを往復し、三度目にコンビニに訪れた時。}`
+`{ruby:After making the round trip between her home and the store:再び家とコンビニを往復し、三度}{ruby:once more, and arriving at the convenience store for a third time...:目にコンビニに訪れた時。}`
 `{ruby:...a policeman was there.:…そこにはお巡りさんが来ていた。}`
 `{ruby:"That's the girl.:「あの子です。}`
-`{ruby:......Maria‐chan, did you find your key?":……真里亞ちゃん、鍵、見つかったかい？」}`
+`{ruby:......Maria‐chan, did you:……真里亞ちゃん、鍵、}{ruby:find your key?":見つかったかい？」}`
 `{ruby:".........Uu...:「………うー…。}`
 `{ruby:......Can't find it......":……見つからない……」}`
 `{ruby:"What's your name, little girl?":「お嬢ちゃん、お名前は？」}`
 `{ruby:"........................":「……………………」}`
-`{ruby:The policeman asked her name, but Maria didn't answer.:お巡りさんが名前を聞くが、真里亞は答えない。}`
-`{ruby:"Did your mother tell you not to talk with policemen?:「お母さんに、お巡りさんとお話しちゃいけないって言われてるの？}`
+`{ruby:The policeman asked her:お巡りさんが名前を聞くが}{ruby:name, but Maria didn't answer.:、真里亞は答えない。}`
+`{ruby:"Did your mother tell you:「お母さんに、お巡りさんとお話しち}{ruby:not to talk with policemen?:ゃいけないって言われてるの？}`
 `{ruby:Hahah.:んっふっふー！}`
-`{ruby:Don't worry, no need to be scared of me.:大丈夫だよ、おじさんは怖くないよ。}`
-`{ruby:Have you eaten dinner yet, little girl?":お嬢ちゃんは晩御飯は食べた？」}`
-`{ruby:".........Bought it, but can't get into the house, so I can't eat it.":「………買ったけど、お家に入れないから、食べられない」}`
+`{ruby:Don't worry, no need:大丈夫だよ、おじさん}{ruby:to be scared of me.:は怖くないよ。}`
+`{ruby:Have you eaten:お嬢ちゃんは晩御飯}{ruby:dinner yet, little girl?":は食べた？」}`
+`{ruby:".........Bought it, but can't get into:「………買ったけど、お家に入れ}{ruby:the house, so I can't eat it.":ないから、食べられない」}`
 `{ruby:"What's your mother doing?:「お母さんはどうしてるの？}`
 `{ruby:Is she not coming home today?:今日は帰ってこないの？}`
 `{ruby:Is she working?":お仕事？」}`
 `{ruby:"..................Uu.":「………………うー」}`
-`{ruby:"Do you know how we can contact your mother's work?":「お母さんの会社の連絡先、わかるかな？」}`
+`{ruby:"Do you know how we:「お母さんの会社の連絡}{ruby:can contact your mother's work?":先、わかるかな？」}`
 `{ruby:"........................":「……………………」}`
 `{ruby:Maria hung her head limply.:真里亞は力なく俯く。}`
-`{ruby:......She didn't understand why the policeman was getting mad at her.:……自分がどうしてお巡りさんに怒られているのかわからない。}`
-`{ruby:No, he probably wasn't getting mad at her, but if this reached her mother's ears, she would definitely be in trouble.:いや、怒られているわけではないだろうが、母の耳に入ればきっと怒られるに違いないのだ。}`
-`{ruby:Even if she didn't understand the reason why she would be in trouble, she at least understood that much.:どうして怒られるのかという理由はわからなくても、それだけは理解できた。}`
-`{ruby:But the policeman wouldn't let Maria go.:しかし、お巡りさんは真里亞を解放してはくれなかった。}`
-`{ruby:{n}And her head was swimming from hunger.:{n}それに空腹で頭もくらくらしてきた。}`
-`{ruby:The policeman noticed that, and it was decided that they could talk as they ate in the police box.:それにお巡りさんも気付き、交番で食事をしながら話を聞こうということになった。}`
+`{ruby:......She didn't understand why the:……自分がどうしてお巡りさんに怒}{ruby:policeman was getting mad at her.:られているのかわからない。}`
+`{ruby:No, he probably wasn't getting mad at her, but if:いや、怒られているわけではないだろうが、母の}{ruby:this reached her mother's ears, she would definitely be in trouble.:耳に入ればきっと怒られるに違いないのだ。}`
+`{ruby:Even if she didn't understand the reason why she:どうして怒られるのかという理由はわから}{ruby:would be in trouble, she at least understood that much.:なくても、それだけは理解できた。}`
+`{ruby:But the policeman:しかし、お巡りさんは真里亞を}{ruby:wouldn't let Maria go.:解放してはくれなかった。}`
+`{ruby:{n}And her head:{n}それに空腹で頭も}{ruby:was swimming from hunger.:くらくらしてきた。}`
+`{ruby:The policeman noticed that, and it was decided that:それにお巡りさんも気付き、交番で食事をし}{ruby:they could talk as they ate in the police box.:ながら話を聞こうということになった。}`
 `{ruby:......I was taken to the police box.:……真里亞は交番に連れて行かれた。}`
-`{ruby:I had my oden heated in a microwave oven, and there were even {ruby:shio daifuku:salty rice cakes} and hot tea brought out for me.:電子レンジでおでんを温めてもらい、熱いお茶と塩大福まで出してもらった。}`
-`{ruby:I'd been told not to talk to policemen,:お巡りさんとは話をしちゃいけないと言われていたけど、}`
-`{ruby:......but as I answered questions about Sakutaro, I started to feel like he wasn't a bad person, and...:……さくたろのことを聞かれて、答えているうちに、悪い人じゃない気がしてきて。}`
-`{ruby:...I wouldn't be able to return home anyway, so I didn't know what to do, so...:…それに、このままじゃお家に帰れないし、どうすればいいかわからなくて。}`
-`{ruby:.........I told him Mama's work phone number,:………誰にも教えちゃいけなくて、本当の本当に大変な時にしか掛けちゃ駄目だよと言われた、}`
-`{ruby:......which I wasn't supposed to tell anyone, and was told to use only in a very, very serious situation.:……ママの仕事先の電話番号を教えてしまう。}`
-`{ruby:In the tatami room inside the police box, as I ate the oden that was so hot it felt like it would burn me,:交番の奥の畳の部屋で、火傷しそうなくらい熱くなったおでんを食べながら、}`
-`{ruby:I watched the policeman making the phone call, and lazily thought, "......aah, I'm probably going to get in trouble...":お巡りさんが電話するのを見て、……あぁ、私は怒られるだろうなとぼんやり考えていた。}`
-`{ruby:"............Is Mama...going to be mad at me.........?":「…………真里亞、…ママに怒られるかな………」}`
+`{ruby:I had my oden heated in a microwave oven, and there were:電子レンジでおでんを温めてもらい、熱い}{ruby:even {ruby:shio daifuku:salty rice cakes} and hot tea brought out for me.:お茶と塩大福まで出してもらった。}`
+`{ruby:I'd been told not:お巡りさんとは話をしちゃいけ}{ruby:to talk to policemen,:ないと言われていたけど、}`
+`{ruby:......but as I answered questions about Sakutaro, I started:……さくたろのことを聞かれて、答えている}{ruby:to feel like he wasn't a bad person, and...:うちに、悪い人じゃない気がしてきて。}`
+`{ruby:...I wouldn't be able to return home anyway,:…それに、このままじゃお家に帰れないし}{ruby:so I didn't know what to do, so...:、どうすればいいかわからなくて。}`
+`{ruby:.........I told him:………誰にも教えちゃいけなくて、本当の本当に大}{ruby:Mama's work phone number,:変な時にしか掛けちゃ駄目だよと言われた、}`
+`{ruby:......which I wasn't supposed to tell anyone, and was:……ママの仕事先の電話番}{ruby:told to use only in a very, very serious situation.:号を教えてしまう。}`
+`{ruby:In the tatami room inside the police box, as I ate the:交番の奥の畳の部屋で、火傷しそうなくら}{ruby:oden that was so hot it felt like it would burn me,:い熱くなったおでんを食べながら、}`
+`{ruby:I watched the policeman making the phone call, and:お巡りさんが電話するのを見て、……あぁ、私は}{ruby:lazily thought, "......aah, I'm probably going to get in trouble...":怒られるだろうなとぼんやり考えていた。}`
+`{ruby:"............Is Mama...going to:「…………真里亞、…ママに}{ruby:be mad at me.........?":怒られるかな………」}`
 `{ruby:‘......Uryu.........’:『……うりゅ………』}`
-`{ruby:He must have been listening to the phone ringing for a very long time.:だいぶ長くコール音を聞いているのだろうか。}`
-`{ruby:With the receiver up to his ear, the policeman looked up at the clock and grumbled.:お巡りさんは受話器に耳を当てたまま、時計を見上げてぼやく。}`
-`{ruby:"............Maybe they aren't picking up because their business hours are over.:「…………営業時間終えちゃってるから出ないのかなぁ。}`
+`{ruby:He must have been listening to the:だいぶ長くコール音を聞い}{ruby:phone ringing for a very long time.:ているのだろうか。}`
+`{ruby:With the receiver up to his ear, the:お巡りさんは受話器に耳を当てたま}{ruby:policeman looked up at the clock and grumbled.:ま、時計を見上げてぼやく。}`
+`{ruby:"............Maybe they aren't picking up:「…………営業時間終えちゃっ}{ruby:because their business hours are over.:てるから出ないのかなぁ。}`
 `{ruby:......Hmmmmmm.:……んーー。}`
 `{ruby:......Ah.:……あ？}`
 `{ruby:Hello?:もしもし？}`
 `{ruby:Hello?:もしもし？}`
 `{ruby:Is this Auntie Rosa Co., Ltd.?":有限会社アンチローザさんで？」}`
-`{ruby:"This is the Komatsugawa Police Department police box in front of Senbonzakura Station.:「こちら、小松川警察署千本桜駅前交番でございます。}`
-`{ruby:Is President...umm, {c:86EF9C:Udaikan}...no, sorry, President Ushiromiya‐san available?:えぇっと、ウダイカン、…じゃないや、右代宮社長さんはいらっしゃいますか？}`
+`{ruby:"This is the Komatsugawa Police Department:「こちら、小松川警察署千本桜}{ruby:police box in front of Senbonzakura Station.:駅前交番でございます。}`
+`{ruby:Is President...umm, {c:86EF9C:Udaikan}...no,:えぇっと、ウダイカン、…じゃないや、右}{ruby:sorry, President Ushiromiya‐san available?:代宮社長さんはいらっしゃいますか？}`
 `{ruby:............Yes.:…………はい。}`
 `{ruby:......Whaat?:……えぇ？}`
 `{ruby:{i:Vacation}?":休暇中ぅ？」}`
 `{ruby:"Yes.:「はいー。}`
-`{ruby:The president's off for three days starting yesterday.:社長は昨日から３日間、休暇になってますー。}`
-`{ruby:Umm, perhaps I could be of assistance...?":あの、どういったご用件で…？」}`
+`{ruby:The president's off for:社長は昨日から３日間、休}{ruby:three days starting yesterday.:暇になってますー。}`
+`{ruby:Umm, perhaps I:あの、どういったご}{ruby:could be of assistance...?":用件で…？」}`
 `{ruby:"Oh no no no, that's quite alright.:「あいやいやいや。}`
 `{ruby:So, do you know where she may be?:それで、どちらにおられるかわかりますかねぇ？}`
-`{ruby:Have you heard how she can be contacted, by any chance?":連絡先とか聞いてたりしませんかねぇ」}`
-`{ruby:"Uhh, ......would you mind waiting for just a moment?:「あー、……ちょっとお待ちいただいてよろしいですか？}`
-`{ruby:...............Hey, anyone know where the president's taking her vacation?:……………ねー、誰か社長の旅行先、聞いてるー？}`
+`{ruby:Have you heard how she:連絡先とか聞いてたりし}{ruby:can be contacted, by any chance?":ませんかねぇ」}`
+`{ruby:"Uhh, ......would you mind:「あー、……ちょっとお待ちい}{ruby:waiting for just a moment?:ただいてよろしいですか？}`
+`{ruby:...............Hey, anyone know where:……………ねー、誰か社長の}{ruby:the president's taking her vacation?:旅行先、聞いてるー？}`
 `{ruby:How to get hold of her?":連絡先ー」}`
-`{ruby:"Heard she was going for all‐you‐can‐eat crabs in Sapporo with her boyfriend.:「彼氏と札幌カニ食い放題って聞きましたァ。}`
-`{ruby:Lucky girl, cold places are great for bringing a couple closer together, don't you think?:いいなァ、寒いとこだと、自然と二人の距離も縮まるのよねェ〜。}`
-`{ruby:Haven't heard how to get in touch with them.":連絡先は聞いてないよォ」}`
+`{ruby:"Heard she was going for all‐you‐can‐eat:「彼氏と札幌カニ食い放題}{ruby:crabs in Sapporo with her boyfriend.:って聞きましたァ。}`
+`{ruby:Lucky girl, cold places are great for:いいなァ、寒いとこだと、自然と二}{ruby:bringing a couple closer together, don't you think?:人の距離も縮まるのよねェ〜。}`
+`{ruby:Haven't heard how to:連絡先は聞いて}{ruby:get in touch with them.":ないよォ」}`
 `{ruby:"Okie‐dokie.:「うん、了解ー。}`
 `{ruby:......Uhh, hello.:……あー、もしもしー。}`
-`{ruby:I hear she went to Sapporo, but I'm not sure about how to reach her.:札幌に行ってるそうですけど、連絡先まではちょっとわかりません。}`
+`{ruby:I hear she went to Sapporo, but:札幌に行ってるそうですけど、連絡先}{ruby:I'm not sure about how to reach her.:まではちょっとわかりません。}`
 `{ruby:......Can I take a message?":……ご伝言しますかー？」}`
 `{ruby:"Hmm, I see... That's awkward.:「んー、そうですかぁ、参ったなぁ。}`
-`{ruby:Well, if you make contact with her again, could you tell her that we called?:じゃあ、もし連絡がつきましたら、こちらから電話があったとお伝えできますか。}`
+`{ruby:Well, if you make contact with her:じゃあ、もし連絡がつきましたら、こちらか}{ruby:again, could you tell her that we called?:ら電話があったとお伝えできますか。}`
 `{ruby:Yes, that's right.":えぇ、はい」}`
-`{ruby:......After that, I was taken to the police station, which was bigger than the police box,:……その後、私は、もっと大きい警察署に連れて行かれ、}`
-`{ruby:and they said I could spend the night there.:そこで一晩を過ごすことになった。}`
-`{ruby:And they asked me all kinds of things about myself.:そして、私のことを色々と聞かれた。}`
-`{ruby:A lady who called herself the district welfare officer came by and asked about various things.:民生委員のおばさんと名乗る人がやって来て、色々と話を聞かれた。}`
+`{ruby:......After that, I was taken to the police:……その後、私は、もっと大き}{ruby:station, which was bigger than the police box,:い警察署に連れて行かれ、}`
+`{ruby:and they said I:そこで一晩を過ごす}{ruby:could spend the night there.:ことになった。}`
+`{ruby:And they asked me all:そして、私のことを色}{ruby:kinds of things about myself.:々と聞かれた。}`
+`{ruby:A lady who called herself the district welfare:民生委員のおばさんと名乗る人がやっ}{ruby:officer came by and asked about various things.:て来て、色々と話を聞かれた。}`
 `{ruby:And she said to me, "You poor thing".:そして、可哀想にね、と言われた。}`
-`{ruby:{n}When I heard that, I learned for the first time.:{n}それを聞いて初めて、私は知った。}`
-`{ruby:"............Am I.........a poor thing......?":「…………真里亞って、………可哀想だったの……？」}`
+`{ruby:{n}When I heard that, I:{n}それを聞いて初め}{ruby:learned for the first time.:て、私は知った。}`
+`{ruby:"............Am I.........a:「…………真里亞って、………}{ruby:poor thing......?":可哀想だったの……？」}`
 `{ruby:‘......Uryu......:『……うりゅ……。}`
-`{ruby:That's not true... You're happy, Maria......’:そんなことないよ…、真里亞は幸せ……』}`
+`{ruby:That's not true...:そんなことないよ…、真}{ruby:You're happy, Maria......’:里亞は幸せ……』}`
 `{ruby:"...............Uu...":「……………うー…」}`
 `{ruby:And......Rosa came back.:そして、……楼座は帰ってきた。}`
 `{ruby:Maria was told to go to her room,:真里亞は部屋にいなさいと言われていたが、}`
-`{ruby:...but on her way back from the bathroom, she hid by the entrance to the living room and listened in on the exchange.:……トイレに行った帰りに、居間の入り口の脇に隠れ、そのやり取りに耳を傾けていた。}`
-`{ruby:The person who had come to visit...was the female district welfare officer who had asked Maria various questions the other day.:訪れたのは、あの日、真里亞から色々と話を聞いた民生委員の婦人だった。}`
+`{ruby:...but on her way back from the bathroom, she hid by:……トイレに行った帰りに、居間の入り口の脇}{ruby:the entrance to the living room and listened in on the exchange.:に隠れ、そのやり取りに耳を傾けていた。}`
+`{ruby:The person who had come to visit...was the female district:訪れたのは、あの日、真里亞から色々と}{ruby:welfare officer who had asked Maria various questions the other day.:話を聞いた民生委員の婦人だった。}`
 `{ruby:"Don't be so pushy!!:「そういう押し付けは困りますッ！！}`
-`{ruby:Maria's heart is too innocent and delicate, so if there was an insensitive kid there, she could be hurt!!:真里亞は心が純粋過ぎて繊細だから、無神経な子がいたら、傷つけられてしまうんです！！}`
-`{ruby:Please stop your unwanted meddling!!":余計なお節介は止めてください！！」}`
+`{ruby:Maria's heart is too innocent and delicate, so if:真里亞は心が純粋過ぎて繊細だから、無神経な子}{ruby:there was an insensitive kid there, she could be hurt!!:がいたら、傷つけられてしまうんです！！}`
+`{ruby:Please stop:余計なお節介は止めて}{ruby:your unwanted meddling!!":ください！！」}`
 `{ruby:"But in that case, ma'am,:「でもね、お母さん。}`
-`{ruby:if the child is so delicate, why leave her home all alone?:そんなに繊細な子なら、何でひとりで家に放置しておくの？}`
-`{ruby:Shouldn't a mother be there for her child?":お母さんが一緒にいてあげるべきなんじゃないですか？」}`
-`{ruby:"I am here for her as much as I can be!!:「なるべく一緒にいるようにしています！！}`
-`{ruby:I have no idea what makes you think I need ordering around...!!":そんなこと、あなたに指図される覚えはありません…！！」}`
+`{ruby:if the child is so delicate,:そんなに繊細な子なら、何でひと}{ruby:why leave her home all alone?:りで家に放置しておくの？}`
+`{ruby:Shouldn't a mother be:お母さんが一緒にいてあげるべき}{ruby:there for her child?":なんじゃないですか？」}`
+`{ruby:"I am here for her:「なるべく一緒にいるよ}{ruby:as much as I can be!!:うにしています！！}`
+`{ruby:I have no idea what makes:そんなこと、あなたに指図される}{ruby:you think I need ordering around...!!":覚えはありません…！！」}`
 `{ruby:"Really?:「そうですか？}`
-`{ruby:She is very well known in this area, you know.:この辺のご近所ではとても有名ですよ。}`
-`{ruby:They say that your daughter frequently goes out at night to buy things and eat.:お宅のお嬢さんが夜、頻繁に買い物や食事に来るって。}`
-`{ruby:Everyone was worried and looking out for her.":みんな気にしてて気を遣ってくれてたんですよ」}`
+`{ruby:She is very well known:この辺のご近所ではとて}{ruby:in this area, you know.:も有名ですよ。}`
+`{ruby:They say that your daughter frequently goes:お宅のお嬢さんが夜、頻繁に買}{ruby:out at night to buy things and eat.:い物や食事に来るって。}`
+`{ruby:Everyone was worried and:みんな気にしてて気を遣っ}{ruby:looking out for her.":てくれてたんですよ」}`
 `{ruby:"How do you know that was my child?!!:「どうしてうちの子だとわかるんですか！！}`
-`{ruby:Children are a dime a dozen around town!!:子どもなんて町中にいくらでもいるじゃないですか！！}`
-`{ruby:Don't just assume that it's my Maria!!":勝手にうちの真里亞だと決め付けないで下さい！！」}`
-`{ruby:"Kids sometimes walk around outside at night, don't they?!:「夜に出歩く子どもだってたまにはいるでしょ！}`
-`{ruby:How can you prove that all of those are my child?!":それらが全てうちの子だという証拠でもあるんですか？！」}`
-`{ruby:"A girl holding a lion stuffed animal often came around to eat dinner and buy things.:「ライオンのぬいぐるみを抱いた女の子が、よく夕食を食べに来る、買いに来るって、}`
-`{ruby:She was very famous around the shopping district.":商店街でもとても有名だったんですよ」}`
-`{ruby:"Everyone treated Maria‐chan with care out of concern for her.:「みんな真里亞ちゃんのことを思って大切にしてくれてました。}`
-`{ruby:Sometimes, people even escorted her home, thinking the streets might be dangerous at night.":時には、夜道は危ないからと、自宅まで送ってくれる方もいたんですよ？」}`
-`{ruby:"Y‐you can find lion stuffed animals anywhere!!:「ラ、ライオンのぬいぐるみなんてどこにでもあります！！}`
-`{ruby:It was none of their business, escorting her home!!:自宅まで送るなんて余計なお世話ですッ！！}`
-`{ruby:Are they thinking of kidnapping her or something?!":真里亞を誘拐するつもり？！」}`
+`{ruby:Children are a dime:子どもなんて町中にいくらでも}{ruby:a dozen around town!!:いるじゃないですか！！}`
+`{ruby:Don't just assume:勝手にうちの真里亞だと決め付}{ruby:that it's my Maria!!":けないで下さい！！」}`
+`{ruby:"Kids sometimes walk around:「夜に出歩く子どもだって}{ruby:outside at night, don't they?!:たまにはいるでしょ！}`
+`{ruby:How can you prove that:それらが全てうちの子だという証}{ruby:all of those are my child?!":拠でもあるんですか？！」}`
+`{ruby:"A girl holding a lion stuffed animal often:「ライオンのぬいぐるみを抱いた女の子が、よ}{ruby:came around to eat dinner and buy things.:く夕食を食べに来る、買いに来るって、}`
+`{ruby:She was very famous:商店街でもとても有名}{ruby:around the shopping district.":だったんですよ」}`
+`{ruby:"Everyone treated Maria‐chan with care:「みんな真里亞ちゃんのことを思っ}{ruby:out of concern for her.:て大切にしてくれてました。}`
+`{ruby:Sometimes, people even escorted her home, thinking:時には、夜道は危ないからと、自宅まで}{ruby:the streets might be dangerous at night.":送ってくれる方もいたんですよ？」}`
+`{ruby:"Y‐you can find:「ラ、ライオンのぬいぐるみなん}{ruby:lion stuffed animals anywhere!!:てどこにでもあります！！}`
+`{ruby:It was none of:自宅まで送るなんて余計な}{ruby:their business, escorting her home!!:お世話ですッ！！}`
+`{ruby:Are they thinking of:真里亞を誘拐するつ}{ruby:kidnapping her or something?!":もり？！」}`
 `{ruby:"Don't fuss over Maria!!:「真里亞に構わないで！！}`
 `{ruby:Maria is my child.:真里亞は私の子です。}`
 `{ruby:I am raising her!:私が育ててます！}`
-`{ruby:I have absolutely no intention of putting her in some strange institution!!:おかしな施設に入れるつもりもまるでありません！！}`
+`{ruby:I have absolutely no intention of:おかしな施設に入れるつもりも}{ruby:putting her in some strange institution!!:まるでありません！！}`
 `{ruby:Stop your needless meddling!!":余計なお節介は止めて！！」}`
 `{ruby:‘U‐......uryu......:『う、……うりゅ……。}`
 `{ruby:Does that lion stuffed animal...:ライオンのぬいぐるみって、}`
 `{ruby:...mean me......?’:……ボクのこと……？』}`
 `{ruby:"......It's alright.:「……大丈夫だよ。}`
 `{ruby:I'm the one who's in trouble...:怒られるのは真里亞だよ…。}`
-`{ruby:It has nothing to do with you, Sakutaro......":さくたろは関係ないよ……」}`
-`{ruby:Maria hugged Sakutaro, continuing to watch her mother fearfully...:真里亞はさくたろを抱き締め、怯えながら母の様子をうかがい続ける…。}`
-`{ruby:"I, I also wish I could be with Maria every day!":「わ、私も真里亞と毎日一緒にいられたらと思います！」}`
-`{ruby:"But I'm a single mother, so I have to work!:「でも、シングルマザーですから働かなくちゃならない！}`
-`{ruby:I may not look it, but I'm a president of a company, and I bear the responsibility for my employees' well‐being!!:私はこう見えても会社の社長ですから、社員の生活も背負っている！！}`
-`{ruby:I'm busy with my work all year round, there's no time for me to rest!!":一年中仕事で忙しいんですよ、休む暇だってないんですッ！！」}`
+`{ruby:It has nothing to:さくたろは関係な}{ruby:do with you, Sakutaro......":いよ……」}`
+`{ruby:Maria hugged Sakutaro, continuing:真里亞はさくたろを抱き締め、怯えなが}{ruby:to watch her mother fearfully...:ら母の様子をうかがい続ける…。}`
+`{ruby:"I, I also wish I:「わ、私も真里亞と毎日一緒に}{ruby:could be with Maria every day!":いられたらと思います！」}`
+`{ruby:"But I'm a single mother,:「でも、シングルマザーですか}{ruby:so I have to work!:ら働かなくちゃならない！}`
+`{ruby:I may not look it, but I'm a president of:私はこう見えても会社の社長ですから、}{ruby:a company, and I bear the responsibility for my employees' well‐being!!:社員の生活も背負っている！！}`
+`{ruby:I'm busy with my work all year:一年中仕事で忙しいんですよ、休む}{ruby:round, there's no time for me to rest!!":暇だってないんですッ！！」}`
 `{ruby:"{i:Really}?:「そうぉ？}`
-`{ruby:But you've been off work for the last three days, haven't you?":でも、この三日間、お休みだったんでしょ？」}`
+`{ruby:But you've been off work for:でも、この三日間、お休み}{ruby:the last three days, haven't you?":だったんでしょ？」}`
 `{ruby:"I, I have not been off work!:「や、休みなんかじゃありません！}`
-`{ruby:I've been staying at my company for several nights working!!:私はずっと会社で泊り掛けで仕事をしていました！！}`
-`{ruby:There's a mountain of matters to be taken care of that the other unreliable employees can't handle!!":他の頼りない社員では片付けられない案件が私には山積みなんです！！」}`
+`{ruby:I've been staying at my:私はずっと会社で泊り掛けで仕}{ruby:company for several nights working!!:事をしていました！！}`
+`{ruby:There's a mountain of matters to be taken:他の頼りない社員では片付けられない案}{ruby:care of that the other unreliable employees can't handle!!":件が私には山積みなんです！！」}`
 `{ruby:"Why are you lying like that?:「どうしてそんなウソ吐くの。}`
-`{ruby:The people at your company told us that you were taking a three‐day vacation, you know?:あなたの会社の人が、三日間お休みを取ってますって言ってるのよ？}`
-`{ruby:You went to Hokkaido with your boyfriend, right?:彼氏さんと北海道に行ってきたんでしょう？}`
-`{ruby:Leaving your daughter by herself for three whole days...!":娘さんを三日間も置いて…！」}`
-`{ruby:"I, I don't know anything about any boyfriend I don't know anything about Hokkaido!!!:「かッ、彼氏なんて知りませんッ北海道なんて知りませんッ！！！}`
-`{ruby:Why are you coming out with all this nonsense?!:どうしてそんなデタラメ言うの？！}`
+`{ruby:The people at your company told us that:あなたの会社の人が、三日間お休みを}{ruby:you were taking a three‐day vacation, you know?:取ってますって言ってるのよ？}`
+`{ruby:You went to Hokkaido:彼氏さんと北海道に行って}{ruby:with your boyfriend, right?:きたんでしょう？}`
+`{ruby:Leaving your daughter by:娘さんを三日間も置}{ruby:herself for three whole days...!":いて…！」}`
+`{ruby:"I, I don't know anything about any:「かッ、彼氏なんて知りませんッ北}{ruby:boyfriend I don't know anything about Hokkaido!!!:海道なんて知りませんッ！！！}`
+`{ruby:Why are you coming:どうしてそんなデタラ}{ruby:out with all this nonsense?!:メ言うの？！}`
 `{ruby:Why, why?!:どうしてどうしてッ？！}`
 `{ruby:Do you have any proof?!:なんか証拠でもあるの？}`
 `{ruby::！}`
-`{ruby:What's wrong with you, don't just start butting in on someone else's family matters!!":何よあんた勝手に人の家のことに口を出さないでよ！！」}`
-`{ruby:"I love Maria, I have my own way of loving her, so just keep your mouth shut!!:「私は真里亞を愛してるのよ私には私なりの愛し方があるのよ勝手に口出さないでよ！！}`
-`{ruby:I didn't go on a vacation, I was working the whole time, I was working!!":私は旅行になんて行ってないわよ仕事してたのよずっと！！」}`
-`{ruby:"I was trying to finish things up at work with all my strength, all my strength because I wanted to see Maria as soon as I could!!:「真里亞に一秒でも早く会いたくて仕事を少しでも早く片付けようと一生懸命一生懸命！！}`
-`{ruby:I stayed at the company working and working and working and working and working, working and working and working and working!!":会社に泊まりこんでずっとずっとずっとずっと、ずっとずっとずっとずっと！！」}`
-`{ruby:"I don't know anything I don't know anything, I don't know anything about Hokkaido, don't come in saying all this!!! Uuuaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}AAa{0}a{0}aAA{0}A{0}A{0}A{0}A{0}AAHHH!!!:「知らない知らない北海道なんて知らないわよ勝手なこと言わないでうあああああああああああぁああああぁああッ！！！}`
+`{ruby:What's wrong with you, don't just start:何よあんた勝手に人の家のことに}{ruby:butting in on someone else's family matters!!":口を出さないでよ！！」}`
+`{ruby:"I love Maria, I have my own way:「私は真里亞を愛してるのよ私には私なりの愛}{ruby:of loving her, so just keep your mouth shut!!:し方があるのよ勝手に口出さないでよ！！}`
+`{ruby:I didn't go on a vacation, I:私は旅行になんて行ってないわよ仕}{ruby:was working the whole time, I was working!!":事してたのよずっと！！」}`
+`{ruby:"I was trying to finish things up at work with all my strength,:「真里亞に一秒でも早く会いたくて仕事を少しで}{ruby:all my strength because I wanted to see Maria as soon as I could!!:も早く片付けようと一生懸命一生懸命！！}`
+`{ruby:I stayed at the company working and working and working:会社に泊まりこんでずっとずっとずっとずっ}{ruby:and working and working, working and working and working and working!!":と、ずっとずっとずっとずっと！！」}`
+`{ruby:"I don't know anything I don't know anything, I don't:「知らない知らない北海道なんて知らないわよ勝手なこと言わな}{ruby:know anything about Hokkaido, don't come in saying all this!!! Uuuaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}AAa{0}a{0}aAA{0}A{0}A{0}A{0}A{0}AAHHH!!!:いでうあああああああああああぁああああぁああッ！！！}`
 `{ruby:Please, just go!!:もう帰ってッ！！}`
 `{ruby:Just go!!!!!:帰ってよおおおおおお！！}`
 `{ruby:What is wrong with you?!?!:何なのよあんたはああああ！！}`
 `{ruby:Just go!!:帰ってッ！！}`
-`{ruby:JUST GO{-}O{-}O{-}O{-}O{-}O{-}O{-}OOO!!!":帰ってええええええええッ！！！」}`
+`{ruby:JUST:帰ってえええええええ}{ruby:GO{-}O{-}O{-}O{-}O{-}O{-}O{-}OOO!!!":えッ！！！」}`
 `{ruby:Rosa raged, her hair flying wildly.:楼座は髪を振り乱しながら激昂する。}`
-`{ruby:She stood up with such force that her teacup fell over,:立ち上がった時の勢いでティーカップが倒れ、}`
-`{ruby:and far louder than that noise was the sound of her beating the table with both hands.:その音よりも遥かに大きい音で何度もテーブルを両手で叩いた。}`
-`{ruby:When faced with this rage that could accurately be described as wide‐eyed derangement,:白目を剥いて錯乱している、という表現すらも充分に妥当と思えるその激昂ぶりに、}`
-`{ruby:the female welfare officer couldn't help but be taken aback.:民生委員の女性は仰け反らずにはいられない。}`
-`{ruby:......And the same went for Maria, who was secretly watching this from the hallway.:……それは、廊下からこっそり様子をうかがっていた真里亞でさえも。}`
-`{ruby:She had seen her mother enraged several times before.:母が激昂するところを何度も見てきた。}`
-`{ruby:{n}But she had never seen her go this berserk with anger.:{n}でも、こんな怒り猛る様を見るのは初めてだった。}`
+`{ruby:She stood up with such:立ち上がった時の勢いでテ}{ruby:force that her teacup fell over,:ィーカップが倒れ、}`
+`{ruby:and far louder than that noise was the:その音よりも遥かに大きい音で何度}{ruby:sound of her beating the table with both hands.:もテーブルを両手で叩いた。}`
+`{ruby:When faced with this rage that:白目を剥いて錯乱している、という表現すら}{ruby:could accurately be described as wide‐eyed derangement,:も充分に妥当と思えるその激昂ぶりに、}`
+`{ruby:the female welfare officer couldn't:民生委員の女性は仰け反ら}{ruby:help but be taken aback.:ずにはいられない。}`
+`{ruby:......And the same went for Maria, who:……それは、廊下からこっそり様子を}{ruby:was secretly watching this from the hallway.:うかがっていた真里亞でさえも。}`
+`{ruby:She had seen her:母が激昂するところを}{ruby:mother enraged several times before.:何度も見てきた。}`
+`{ruby:{n}But she had never seen:{n}でも、こんな怒り猛る様}{ruby:her go this berserk with anger.:を見るのは初めてだった。}`
 `{ruby:Seeing this, Maria was sure.:それを見て真里亞は確信する。}`
-`{ruby:{n}......This was no longer her mother.:{n}……それはもはや、母親ではない。}`
-`{ruby:It was some other evil being that was possessing her mother's body...:母親の体に憑依した、邪悪なる別の存在だ…。}`
-`{ruby:And then, the evil being discovered her.:そして、その邪悪なる存在が、自分の姿を見つけてしまう。}`
-`{ruby:{n}Maria learned that she was being reflected in the evil being's eyes.:{n}真里亞は邪悪な存在の瞳に、自分が映っていることを知った。}`
-`{ruby:Her mind went blank, and she felt as though her field of vision was racing off into the distance......:頭が真っ白になり、視界が遥か彼方に遠退いてしまうような錯覚を感じる……。}`
-`{ruby:After fiercely closing in on Maria, Rosa mercilessly bore down on her small shoulders,:楼座は、猛然と真里亞に迫ると、その小さな両肩を容赦ない力で叩き、}`
-`{ruby:......and dropped her gaze onto the stuffed animal Maria was holding: Sakutaro.:……真里亞が抱いている、さくたろのぬいぐるみに目を落とした。}`
+`{ruby:{n}......This was no:{n}……それはもはや}{ruby:longer her mother.:、母親ではない。}`
+`{ruby:It was some other evil being:母親の体に憑依した、邪悪}{ruby:that was possessing her mother's body...:なる別の存在だ…。}`
+`{ruby:And then, the:そして、その邪悪なる存在が、自}{ruby:evil being discovered her.:分の姿を見つけてしまう。}`
+`{ruby:{n}Maria learned that she was being:{n}真里亞は邪悪な存在の瞳に、自}{ruby:reflected in the evil being's eyes.:分が映っていることを知った。}`
+`{ruby:Her mind went blank, and she felt as though:頭が真っ白になり、視界が遥か彼方に遠退}{ruby:her field of vision was racing off into the distance......:いてしまうような錯覚を感じる……。}`
+`{ruby:After fiercely closing in on Maria, Rosa:楼座は、猛然と真里亞に迫ると、その}{ruby:mercilessly bore down on her small shoulders,:小さな両肩を容赦ない力で叩き、}`
+`{ruby:......and dropped her gaze onto the:……真里亞が抱いている、さくたろ}{ruby:stuffed animal Maria was holding: Sakutaro.:のぬいぐるみに目を落とした。}`
 `{ruby:".........Maria.:「………真里亞。}`
-`{ruby:Even though I told you so many times not to bring that outside,:あなた、あれだけお外にそれを持って行っちゃ駄目って言ったのに、}`
-`{ruby:......you brought it with you, didn't you?":……持って行ったのね？」}`
+`{ruby:Even though I told you so:あなた、あれだけお外にそれを持って}{ruby:many times not to bring that outside,:行っちゃ駄目って言ったのに、}`
+`{ruby:......you brought it:……持って行っ}{ruby:with you, didn't you?":たのね？」}`
 `{ruby:‘U‐......uryu.........:『う……、うりゅ………。}`
 `{ruby:I‐it's not Maria's fault......:ま、真里亞は悪くないよ……。}`
 `{ruby:I said I'd come with her......’:ボクが付いて行くって言ったの……』}`
 `{ruby:"Th‐that's not true......!:「ち、違うよ……！}`
-`{ruby:I brought Sakutaro on my own because I was lonely...!:真里亞が寂しいから勝手にさくたろを連れてったの…！}`
-`{ruby:So Mama, it's not Sakutaro's fault...!!":だからママ、さくたろは悪くないの…！！」}`
+`{ruby:I brought Sakutaro on my:真里亞が寂しいから勝手にさく}{ruby:own because I was lonely...!:たろを連れてったの…！}`
+`{ruby:So Mama, it's:だからママ、さくたろは悪}{ruby:not Sakutaro's fault...!!":くないの…！！」}`
 `{ruby:‘Uryu...... Maria.........’:『うりゅ……、真里亞………』}`
 `{ruby:"It's not Sakutaro's fault!!:「さくたろは悪くないよ！！}`
 `{ruby:It's not Sakutaro's fault!!":さくたろは悪くないよ！！」}`
-`{ruby:The brunt of Rosa's anger was aimed, not at Maria, but at the lion stuffed animal Maria was holding.:楼座の怒りは真里亞より先に、その抱いているライオンのぬいぐるみに向けられていた。}`
-`{ruby:......A girl came shopping in the middle of the night, always clutching a lion stuffed animal.:……ライオンのぬいぐるみをいつも持ち歩く子が、深夜に買い物に来る。}`
-`{ruby:Because of that, she had become well known in the shopping district...:そのせいで、商店街では有名だったのだ…。}`
+`{ruby:The brunt of Rosa's anger was aimed, not at:楼座の怒りは真里亞より先に、その抱いている}{ruby:Maria, but at the lion stuffed animal Maria was holding.:ライオンのぬいぐるみに向けられていた。}`
+`{ruby:......A girl came shopping in the middle of:……ライオンのぬいぐるみをいつも持ち}{ruby:the night, always clutching a lion stuffed animal.:歩く子が、深夜に買い物に来る。}`
+`{ruby:Because of that, she had become:そのせいで、商店街では}{ruby:well known in the shopping district...:有名だったのだ…。}`
 `{ruby:"I,:「ぬ、}`
 `{ruby:......I,:……ぬ、}`
-`{ruby:...I told you not to take stuffed animals with yo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ouuu!!!:…ぬいぐるみ持ってっちゃ駄目って言ったでしょおおぉおおぉッ！！！}`
+`{ruby:...I told you not to:…ぬいぐるみ持ってっちゃ駄目って言}{ruby:take stuffed animals with yo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ouuu!!!:ったでしょおおぉおおぉッ！！！}`
 `{ruby:Why—!!:どうして！！}`
 `{ruby:Can't you—!!:あんたはッ！！}`
 `{ruby:Listen to what Mama says!!":ママの言うことが聞けないのよ！！」}`
 `{ruby:"Why?!:「どうしてッ？！}`
 `{ruby:Why, why?!:どうしてどうしてよ？！}`
-`{ruby:Why can't you follow Mama's ru{-}u{-}u{-}u{-}u{-}u{-}ules!!":どうしてママの言いつけがちゃんと守れないのよあんたはあああああッ！！」}`
-`{ruby:With every single word, she stamped her heel and banged furiously on the wall.:それらの一言一言の度に踵を踏み鳴らし、壁をバンバンと激しく打ち付ける。}`
-`{ruby:......Admittedly, she wasn't making direct contact with Maria.:……確かにそれは、真里亞に対し直接は振るわれなかったろう。}`
-`{ruby:However, the violence of that harsh sound certainly beat against her.:しかし、激しい音は、確実に音の暴力となって真里亞を打ち付けた。}`
+`{ruby:Why can't you:どうしてママの言いつけがちゃんと守れな}{ruby:follow Mama's ru{-}u{-}u{-}u{-}u{-}u{-}ules!!":いのよあんたはあああああッ！！」}`
+`{ruby:With every single word, she stamped her:それらの一言一言の度に踵を踏み鳴らし、}{ruby:heel and banged furiously on the wall.:壁をバンバンと激しく打ち付ける。}`
+`{ruby:......Admittedly, she wasn't making:……確かにそれは、真里亞に対し直}{ruby:direct contact with Maria.:接は振るわれなかったろう。}`
+`{ruby:However, the violence of that:しかし、激しい音は、確実に音の暴力}{ruby:harsh sound certainly beat against her.:となって真里亞を打ち付けた。}`
 `{ruby:"M‐Ma'am...... Stop that......!!":「お、お母さん……、お止めなさい……！！」}`
 `{ruby:"Let go!!:「離してよ！！}`
 `{ruby:I said let go, damn iiiiiiiiiiiit!!":離せって言ってんでしょおおおおぉおおぉッ！！」}`
-`{ruby:The welfare officer had come back to her senses and put Rosa in a full nelson.:我に返った民生委員の女性が楼座を羽交い絞めにする。}`
-`{ruby:But the instant Rosa was touched, she went wild, furiously throwing the welfare officer off.:しかし、触れられた途端、電気が走ったかのように楼座は暴れ、彼女を激しく突き飛ばす。}`
-`{ruby:......She hit the table and fell to the ground.:……テーブルにぶつかり、床に転げた。}`
-`{ruby:A teacup on the table smashed on the floor, making a violent sound...:テーブルの上のティーカップが激しい音を立てて床に散らばった…。}`
-`{ruby:‘M‐......Maria didn't do anything wrong......!:『ま、……真里亞は悪くないよ……！}`
+`{ruby:The welfare officer had come back to her:我に返った民生委員の女性が楼}{ruby:senses and put Rosa in a full nelson.:座を羽交い絞めにする。}`
+`{ruby:But the instant Rosa was touched, she:しかし、触れられた途端、電気が走ったかのよう}{ruby:went wild, furiously throwing the welfare officer off.:に楼座は暴れ、彼女を激しく突き飛ばす。}`
+`{ruby:......She hit the table:……テーブルにぶつか}{ruby:and fell to the ground.:り、床に転げた。}`
+`{ruby:A teacup on the table smashed:テーブルの上のティーカップが激しい}{ruby:on the floor, making a violent sound...:音を立てて床に散らばった…。}`
+`{ruby:‘M‐......Maria didn't:『ま、……真里亞は悪}{ruby:do anything wrong......!:くないよ……！}`
 `{ruby:It's my fault!:ボクが悪いの！}`
 `{ruby:So don't scold Maria......!!’:だから真里亞を叱らないで……！！』}`
-`{ruby:"I'm the one who brought Sakutaro...!!:「さくたろ連れてったのは真里亞…！！}`
+`{ruby:"I'm the one:「さくたろ連れてった}{ruby:who brought Sakutaro...!!:のは真里亞…！！}`
 `{ruby:It's not Sakutaro's fault!!:さくたろは悪くないの！！}`
 `{ruby:It's not Sakutaro's fault!!:さくたろは悪くないの！！}`
-`{ruby:So don't look at Sakutaro with those scary eyes!!:だからさくたろをそんな怖い目で見ないで！！}`
+`{ruby:So don't look at:だからさくたろをそんな怖}{ruby:Sakutaro with those scary eyes!!:い目で見ないで！！}`
 `{ruby:Don't look at hiiiiiiiiiiiiiiiiim!!":見ないでええええぇえぇえぇ！！」}`
 `{ruby:‘Don't scold Maria...!:『真里亞を叱らないで…！}`
 `{ruby:Don't scold Maria...!!:真里亞を叱らないで…！！}`
 `{ruby:Uryuuu!!!’:うりゅーー！！！』}`
-`{ruby:"........................Wh‐.........what in the...:「……………………あ、………あんた…。}`
-`{ruby:Just what do you think you're doing?":さっきから何をやってるの？」}`
-`{ruby:"Did you...also play with dolls like that......outside?:「あんた、そのお人形さんごっこ、……外でもやってたの？}`
-`{ruby:Did you do it in front of the people at the store......?":お店の人の前でもやってたの……？」}`
+`{ruby:"........................Wh‐.........what:「……………………あ、}{ruby:in the...:………あんた…。}`
+`{ruby:Just what do:さっきから何をや}{ruby:you think you're doing?":ってるの？」}`
+`{ruby:"Did you...also play:「あんた、そのお人形さんごっこ}{ruby:with dolls like that......outside?:、……外でもやってたの？}`
+`{ruby:Did you do it in front:お店の人の前でもやっ}{ruby:of the people at the store......?":てたの……？」}`
 `{ruby:"........................:「……………………。}`
-`{ruby:Then OF COURSE they remembered yoooooooou,:だから覚えられちゃうんでしょおおおぉお、}`
-`{ruby:THINK a little, you idiot!! Why are you such a DUMBAA{-}A{-}A{-}A{-}A{-}A{-}A{-}A{-}AAASSS!!!":少しは考えろこの馬鹿ッ！！　何であんたはそう大馬鹿なのよおおおおおぉおおおおおッ！！！」}`
+`{ruby:Then OF COURSE:だから覚えられちゃうん}{ruby:they remembered yoooooooou,:でしょおおおぉお、}`
+`{ruby:THINK a little, you idiot!!:少しは考えろこの馬鹿ッ！！　何であんたはそう大}{ruby:Why are you such a DUMBAA{-}A{-}A{-}A{-}A{-}A{-}A{-}A{-}AAASSS!!!":馬鹿なのよおおおおおぉおおおおおッ！！！」}`
 `{ruby:"Answer me honestly.:「正直に仰いな。}`
-`{ruby:When you went out shopping, you always walked around with that stuffed animal without telling Mama, right?":お外でお買い物をする時、ママに内緒でいつもそのぬいぐるみを持ち歩いてたのね？」}`
+`{ruby:When you went out shopping, you always walked:お外でお買い物をする時、ママに内緒でいつも}{ruby:around with that stuffed animal without telling Mama, right?":そのぬいぐるみを持ち歩いてたのね？」}`
 `{ruby:‘.........U‐......uryu.........’:『………う、……うりゅ………』}`
-`{ruby:"Stop using that weird stuffed animal talk!!!:「その変なぬいぐるみ語をやめなさいッ！！！}`
-`{ruby:Speak with your own words, not a stuffed animal's!!!":ぬいぐるみじゃなく、あなたの言葉でしゃべりなさいッ！！！」}`
+`{ruby:"Stop using that:「その変なぬいぐるみ語を}{ruby:weird stuffed animal talk!!!:やめなさいッ！！！}`
+`{ruby:Speak with your own:ぬいぐるみじゃなく、あなたの言葉}{ruby:words, not a stuffed animal's!!!":でしゃべりなさいッ！！！」}`
 `{ruby:"S‐Sakutaro isn't a stuffed animal!!:「さ、さくたろはぬいぐるみじゃないよ！！}`
 `{ruby:He's my friend!!:真里亞の友達だよ！！}`
-`{ruby:Don't call him a stuffed animal......:ぬいぐるみって言わないで……。}`
-`{ruby:Dooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oon't!!":言わないでぇえええぇええ！！」}`
-`{ruby:"Yes, yes, fine, Sakutarou, it was called Sakutarou!:「はいはいわかったわ、さくたろうだったわね、名前！}`
-`{ruby:You took that Sakutarou doll with you all the time when you went shopping, without telling Mama, right?":ママに内緒で、そのさくたろう人形を持って、いつもお買い物に行っていたのね？」}`
+`{ruby:Don't call him:ぬいぐるみって言わ}{ruby:a stuffed animal......:ないで……。}`
+`{ruby::言わないでぇえええ}{ruby:Dooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oon't!!":ぇええ！！」}`
+`{ruby:"Yes, yes, fine, Sakutarou,:「はいはいわかったわ、さくた}{ruby:it was called Sakutarou!:ろうだったわね、名前！}`
+`{ruby:You took that Sakutarou doll with you all the:ママに内緒で、そのさくたろう人形を持って、}{ruby:time when you went shopping, without telling Mama, right?":いつもお買い物に行っていたのね？」}`
 `{ruby:"Y‐......yeah...............":「う、……うん……………」}`
 `{ruby:Maria admitted it honestly.:真里亞は正直にそれを認める。}`
-`{ruby:If she hadn't admitted it, then Sakutaro would have said something to take the blame,:自分が認めなければ、さくたろが罪を被るようなことを口にしてしまうから、}`
-`{ruby:so by admitting it right away, she was protecting her small friend.:真っ先に自らが認めることで、小さな友人を庇おうとした。}`
+`{ruby:If she hadn't admitted it, then Sakutaro:自分が認めなければ、さくたろが罪を被る}{ruby:would have said something to take the blame,:ようなことを口にしてしまうから、}`
+`{ruby:so by admitting it right away,:真っ先に自らが認めることで、小}{ruby:she was protecting her small friend.:さな友人を庇おうとした。}`
 `{ruby:"Only Sakutarou?:「さくたろうだけ？}`
 `{ruby:Any others?:他には？}`
-`{ruby:......You haven't...been bringing weird things to school too, have you...?":……まさか、学校にも何か変なのを持っていってるんじゃないでしょうね…？」}`
+`{ruby:......You haven't...been bringing weird things:……まさか、学校にも何か変なのを持ってい}{ruby:to school too, have you...?":ってるんじゃないでしょうね…？」}`
 `{ruby:"......M‐Ma'am!!:「……お、お母さん！！}`
 `{ruby:This is not your daughter's fault!:お嬢さんは悪くないでしょう！}`
 `{ruby:Stop this interrogation at once!":その詰問をお止めなさい！」}`
 `{ruby:"You bite your tongue!!!:「あンたは黙ってなさいッ！！！}`
 `{ruby:I am talking with my daughter!!!:私と娘の話でしょおお！！！}`
-`{ruby:......Alright, Maria, look at Mama when you talk.:……ほら真里亞、ママの目を見て話をしなさい。}`
-`{ruby:What's the answer to Mama's question?":ママの質問にお返事は？」}`
+`{ruby:......Alright, Maria, look at:……ほら真里亞、ママの目を}{ruby:Mama when you talk.:見て話をしなさい。}`
+`{ruby:What's the answer:ママの質問にお}{ruby:to Mama's question?":返事は？」}`
 `{ruby:"U‐......uu......:「う、……うー……。}`
 `{ruby:......Not just Sakutaro.:……さくたろだけじゃないの。}`
 `{ruby:......All the rabbits too......":……うさぎのみんなも一緒……」}`
-`{ruby:".........Do you have them with you now......?":「………今も持ってるの……？」}`
+`{ruby:".........Do you have:「………今も持って}{ruby:them with you now......?":るの……？」}`
 `{ruby:"Uu.........":「うー………」}`
 `{ruby:Maria fished around in her pocket,:真里亞はポケットをごそごそと漁り、}`
-`{ruby:......and pulled out those four ceramic rabbits with her tiny hand...:……あの、陶製のうさぎたちを４匹、その小さな手で掴み出して見せる…。}`
-`{ruby:The rabbits were her precious friends, who could go to school with her in Sakutaro's place.:うさぎたちは、さくたろの代わりに学校にも一緒について来てくれる、大切な友達だった。}`
-`{ruby:But when Rosa saw that, she shook her head slightly as though dizzy...:しかし、それを見て楼座は、眩暈を覚えたかのように首を浅く振る…。}`
-`{ruby:In Maria's {c:86EF9C:communication booklet}, a note had been written that Maria was apparently bringing toys to school and playing with them,:学校の連絡帳で、真里亞が玩具を持ってきて遊んでいるらしいので、}`
-`{ruby:and it requested Rosa to give her home instruction to try to prevent this.:そうしないよう家庭で指導してほしいと書かれていたのだ。}`
-`{ruby:But Rosa had dismissed the teacher's comment as faultfinding, and on the contrary, had phoned the school to make a complaint of her own.:しかし楼座は、それは教師の難癖だと一蹴し、むしろ逆に学校に抗議の電話をしていた。}`
-`{ruby:...Saying that there was no way her child would bring toys to school.:自分の娘が玩具など学校に持っていくわけがないと。}`
-`{ruby:For nearly an hour, she had shouted at the vice principal to stop making false accusations about her daughter.:自分の娘に言い掛かりをつけるのは止めてくれと小一時間にもわたり、教頭を怒鳴りつけたのだ。}`
-`{ruby:......To a certain degree, the school grasped that Maria was a pitiful girl.:……学校側は、真里亞が不憫な子であることを、ある程度、把握していた。}`
-`{ruby:They knew that the small toys she brought in were her only friends.:持ち込んでいる、その小さな玩具だけが友人であることを知っていた。}`
-`{ruby:......So they had done their best to overlook it.:……だからこそ、あえて見て見ぬふりをするつもりだった。}`
-`{ruby:But when the other students caught sight of them,:しかし、他の生徒の目に触れてしまったため、}`
-`{ruby:some of the boys started complaining that only she was allowed to bring toys, and the school had racked their brains on how to cope with this......:玩具を持ち込んでずるいずるいと一部の男子が騒ぎ始め、収拾に苦慮していたのだ……。}`
-`{ruby:They had tried to gently send a warning by way of the mother,:それをやんわりと母親経由で注意したつもりだったが、}`
-`{ruby:but after Rosa's overreaction, even Maria's teacher had decided to overlook it.:楼座が過剰に反応したため、それ以後は先生も見て見ぬふりをしていたのだ。}`
+`{ruby:......and pulled out those four:……あの、陶製のうさぎたちを４匹、そ}{ruby:ceramic rabbits with her tiny hand...:の小さな手で掴み出して見せる…。}`
+`{ruby:The rabbits were her precious friends, who could:うさぎたちは、さくたろの代わりに学校にも一緒}{ruby:go to school with her in Sakutaro's place.:について来てくれる、大切な友達だった。}`
+`{ruby:But when Rosa saw that, she:しかし、それを見て楼座は、眩暈を覚}{ruby:shook her head slightly as though dizzy...:えたかのように首を浅く振る…。}`
+`{ruby:In Maria's {c:86EF9C:communication booklet}, a note had been written that:学校の連絡帳で、真里亞が玩具を持っ}{ruby:Maria was apparently bringing toys to school and playing with them,:てきて遊んでいるらしいので、}`
+`{ruby:and it requested Rosa to give her:そうしないよう家庭で指導してほ}{ruby:home instruction to try to prevent this.:しいと書かれていたのだ。}`
+`{ruby:But Rosa had dismissed the teacher's comment as faultfinding, and on the:しかし楼座は、それは教師の難癖だと一蹴し、}{ruby:contrary, had phoned the school to make a complaint of her own.:むしろ逆に学校に抗議の電話をしていた。}`
+`{ruby:...Saying that there was no way:自分の娘が玩具など学校に持}{ruby:her child would bring toys to school.:っていくわけがないと。}`
+`{ruby:For nearly an hour, she had shouted at the:自分の娘に言い掛かりをつけるのは止めてくれと小}{ruby:vice principal to stop making false accusations about her daughter.:一時間にもわたり、教頭を怒鳴りつけたのだ。}`
+`{ruby:......To a certain degree, the school:……学校側は、真里亞が不憫な子である}{ruby:grasped that Maria was a pitiful girl.:ことを、ある程度、把握していた。}`
+`{ruby:They knew that the small toys:持ち込んでいる、その小さな玩具だけ}{ruby:she brought in were her only friends.:が友人であることを知っていた。}`
+`{ruby:......So they had done:……だからこそ、あえて見て見ぬ}{ruby:their best to overlook it.:ふりをするつもりだった。}`
+`{ruby:But when the other:しかし、他の生徒の目に触}{ruby:students caught sight of them,:れてしまったため、}`
+`{ruby:some of the boys started complaining that only she was allowed to bring:玩具を持ち込んでずるいずるいと一部の男子が}{ruby:toys, and the school had racked their brains on how to cope with this......:騒ぎ始め、収拾に苦慮していたのだ……。}`
+`{ruby:They had tried to gently send:それをやんわりと母親経由で注}{ruby:a warning by way of the mother,:意したつもりだったが、}`
+`{ruby:but after Rosa's overreaction, even Maria's:楼座が過剰に反応したため、それ以後は先}{ruby:teacher had decided to overlook it.:生も見て見ぬふりをしていたのだ。}`
 `{ruby:.........But now Rosa knew.:………しかし楼座は知ってしまう。}`
-`{ruby:She had been the one who was wrong, ...and her daughter really had been bringing toys into school.:間違っていたのは自分の方で、…娘は本当に玩具を学校に持ち込んでいたのだ。}`
+`{ruby:She had been the one who was wrong, ...and:間違っていたのは自分の方で、…娘は本当}{ruby:her daughter really had been bringing toys into school.:に玩具を学校に持ち込んでいたのだ。}`
 `{ruby:.........And the school...:………学校に玩具を持ち込んで、}`
-`{ruby:had seen the sorry sight of her bringing toys into school and playing with them as her only friends.:それだけを唯一の友人として寂しく一人遊びする醜態を、学校側に知られてしまっていたのだ。}`
-`{ruby:To Rosa, who knew her daughter was a little different from normal children,:楼座にとって、一般の子たちと少し違う自分の娘が、}`
-`{ruby:having this peculiar side of her daughter exposed and found fault with was more unbearable than anything.:その特異な面を晒し、それを見咎められることが何よりも耐えられなかった。}`
+`{ruby:had seen the sorry sight of her bringing toys:それだけを唯一の友人として寂しく一人遊びする醜}{ruby:into school and playing with them as her only friends.:態を、学校側に知られてしまっていたのだ。}`
+`{ruby:To Rosa, who knew her daughter:楼座にとって、一般の子たち}{ruby:was a little different from normal children,:と少し違う自分の娘が、}`
+`{ruby:having this peculiar side of her daughter exposed:その特異な面を晒し、それを見咎められる}{ruby:and found fault with was more unbearable than anything.:ことが何よりも耐えられなかった。}`
 `{ruby:.........So she howled.:………だから吼える。}`
 `{ruby:She raged.:激昂する。}`
-`{ruby:The welfare officer tried to cut between Rosa and Maria again,:再び民生委員の女性が、真里亞と楼座の間に割って入ろうとするが、}`
-`{ruby:but she only met with Rosa's wrath again.:楼座の逆鱗に再び触れるだけのこと。}`
-`{ruby:Rosa once again threw the woman off with a face like a demon,:楼座は再び、般若のような形相で女性を突き飛ばし、}`
-`{ruby:and when even that failed to curb her anger, she stomped on the ground over and over again so forcefully that it seemed she might break through the floor.:それだけではまだ怒りが収まらないと、床を踏み抜かんばかりの勢いで何度も地団太を踏んだ。}`
-`{ruby:Then, after seeming to come back to her senses for just a second,:そして、一瞬だけ我に返った表情をしてから、}`
-`{ruby:.........she suddenly froze her rough breathing, and asked Maria.:………荒い息を急に凍らせて、真里亞に聞いた。}`
+`{ruby:The welfare officer tried to:再び民生委員の女性が、真里亞と楼座}{ruby:cut between Rosa and Maria again,:の間に割って入ろうとするが、}`
+`{ruby:but she only met:楼座の逆鱗に再び触れ}{ruby:with Rosa's wrath again.:るだけのこと。}`
+`{ruby:Rosa once again threw the woman:楼座は再び、般若のような形}{ruby:off with a face like a demon,:相で女性を突き飛ばし、}`
+`{ruby:and when even that failed to curb her anger, she stomped on the ground:それだけではまだ怒りが収まらないと、床を踏み抜}{ruby:over and over again so forcefully that it seemed she might break through the floor.:かんばかりの勢いで何度も地団太を踏んだ。}`
+`{ruby:Then, after seeming to come back:そして、一瞬だけ我に返っ}{ruby:to her senses for just a second,:た表情をしてから、}`
+`{ruby:.........she suddenly froze her:………荒い息を急に凍らせ}{ruby:rough breathing, and asked Maria.:て、真里亞に聞いた。}`
 `{ruby:"........................:「……………………。}`
 `{ruby:......Maria.:……真里亞。}`
-`{ruby:Those rabbits in the band, are they your close friends?":そのうさぎの音楽隊は、真里亞の大切なお友達？」}`
+`{ruby:Those rabbits in the band,:そのうさぎの音楽隊は、真里}{ruby:are they your close friends?":亞の大切なお友達？」}`
 `{ruby:"U‐.........uu.........":「う、………うー………」}`
 `{ruby:"I see.:「そう。}`
-`{ruby:I'm glad you have a full four friends.":４人もお友達がいて良かったわ」}`
-`{ruby:As she said that, Rosa took one of the rabbits from Maria's hand.:楼座はそう言いながら、真里亞の手からうさぎの１つを摘み取る。}`
-`{ruby:Then, she shoved it in front of Maria's eyes so she could see it very well.:そして、よく見せ付けるように真里亞の眼前に突き出した。}`
-`{ruby:......It was a cute little doll, like a chess piece, of a rabbit holding a trumpet.:……可愛らしい、トランペットを持ったうさぎの、駒のような小さな人形。}`
+`{ruby:I'm glad you have:４人もお友達がいて}{ruby:a full four friends.":良かったわ」}`
+`{ruby:As she said that, Rosa took:楼座はそう言いながら、真里亞の手}{ruby:one of the rabbits from Maria's hand.:からうさぎの１つを摘み取る。}`
+`{ruby:Then, she shoved it in front of Maria's:そして、よく見せ付けるように真}{ruby:eyes so she could see it very well.:里亞の眼前に突き出した。}`
+`{ruby:......It was a cute little doll, like a:……可愛らしい、トランペットを持った}{ruby:chess piece, of a rabbit holding a trumpet.:うさぎの、駒のような小さな人形。}`
 `{ruby:She slowly lifted it into the air.:それがゆっくりと、掲げるように高く上げられる。}`
-`{ruby:......Of course, Maria's and Sakutaro's eyes also followed it......:……もちろん、真里亞とさくたろの目はそれを追う……。}`
-`{ruby:And then, with a speed that the eye couldn't follow, she hurled it against the wall.:そしてそれは、目で追えない速度で壁に叩き付けられた。}`
+`{ruby:......Of course, Maria's and:……もちろん、真里亞とさくた}{ruby:Sakutaro's eyes also followed it......:ろの目はそれを追う……。}`
+`{ruby:And then, with a speed that the eye:そしてそれは、目で追えない速}{ruby:couldn't follow, she hurled it against the wall.:度で壁に叩き付けられた。}`
 `{ruby:"Eek—!!!!":「ひいッ！！！！」}`
 `{ruby:‘...............!!!’:『……………！！！』}`
-`{ruby:She had half‐imagined that this worst possible thing might happen.:半ば、その最悪の想像はしていた。}`
-`{ruby:{n}So she instantly realized what had been done.:{n}だから、何をされたのかすぐに理解できた。}`
-`{ruby:......So Maria let out a short, despairing scream...:……だから真里亞は短く、絶望の悲鳴を上げた…。}`
+`{ruby:She had half‐imagined that this:半ば、その最悪の想}{ruby:worst possible thing might happen.:像はしていた。}`
+`{ruby:{n}So she instantly realized:{n}だから、何をされたの}{ruby:what had been done.:かすぐに理解できた。}`
+`{ruby:......So Maria let out:……だから真里亞は短く、絶}{ruby:a short, despairing scream...:望の悲鳴を上げた…。}`
 `{ruby:It was in pieces.:粉々だった。}`
-`{ruby:It had been small and sturdy, but not enough to accept her mother's fierce rage.:小さく頑丈だったそれは、激昂する母の怒りを受け止められるほどではなかった。}`
-`{ruby:".........Because you didn't listen to what Mama told you, one of them broke.:「………ママの言うことをちゃんと聞かないから、ひとつ壊れちゃったわ。}`
-`{ruby:From now on, every time you disobey something Mama says, I'll break another one.:今後、ママの言うことを守らない度にまたひとつ、壊すからね。}`
+`{ruby:It had been small and sturdy, but:小さく頑丈だったそれは、激昂する母の怒り}{ruby:not enough to accept her mother's fierce rage.:を受け止められるほどではなかった。}`
+`{ruby:".........Because you didn't listen to what:「………ママの言うことをちゃんと聞か}{ruby:Mama told you, one of them broke.:ないから、ひとつ壊れちゃったわ。}`
+`{ruby:From now on, every time you disobey:今後、ママの言うことを守らない度}{ruby:something Mama says, I'll break another one.:にまたひとつ、壊すからね。}`
 `{ruby:......Remember that!!!":……覚えておきなさいッ！！！」}`
-`{ruby:"You......you call yourself a mother after doing something like that?!!:「あなた……、そんなことするなんて、母親ですか！！}`
-`{ruby:You think you can do something like that without hurting your daughter?!":そんなことして、お嬢さんが傷つかないと思ってるんですか？！」}`
+`{ruby:"You......you call yourself a mother:「あなた……、そんなことする}{ruby:after doing something like that?!!:なんて、母親ですか！！}`
+`{ruby:You think you can do something:そんなことして、お嬢さんが傷つかな}{ruby:like that without hurting your daughter?!":いと思ってるんですか？！」}`
 `{ruby:"Hurt {i:Maria}?!:「真里亞が傷つく？！}`
 `{ruby:I'm hurting too, you know?!:私も傷ついているのよ？！}`
-`{ruby:Who's gonna take responsibility for {i:my} wounds?!:私の傷は誰が責任取ってくれるのよ？！}`
+`{ruby:Who's gonna take:私の傷は誰が責任取って}{ruby:responsibility for {i:my} wounds?!:くれるのよ？！}`
 `{ruby:Weeeell?!:えええ？！}`
 `{ruby:WHOOOOOOOO!!!:誰があああぁあぁッ！！！}`
 `{ruby:I told you to bite your tongue!!!!!":あんたは黙っててって言ってるでしょおおお！！！」}`
 `{ruby:"S‐stop it, Mama......!:「や、やめてママ……！}`
 `{ruby:It's my fault...!:悪いのは真里亞…！}`
 `{ruby:Don't get mad at this lady......!":おばさんを怒らないで……！」}`
-`{ruby:‘It isn't Maria's fault... It's mine......!:『真里亞は悪くないよ…、ボクが悪いの……！}`
+`{ruby:‘It isn't Maria's:『真里亞は悪くないよ…、}{ruby:fault... It's mine......!:ボクが悪いの……！}`
 `{ruby:Don't get mad at Maria...!:真里亞を怒らないで…！}`
 `{ruby:Uryu, uryu‐uryu‐uryu, uryuuu!’:うりゅ、うりゅうりゅうりゅ、うりゅーー！』}`
-`{ruby:"I, .........I told you to stop playing make‐believe with that stuffed animaaaaaaaal!!:「そ………、そのぬいぐるみごっこを止めろって言ったでしょおおおおぉおおぉ！！}`
-`{ruby:In the first place, it's disturbing, a stuffed animal is your friend? Just how old are you this year?!:大体ね、気持ち悪いのよ、ぬいぐるみがお友達ってあんた今年でいくつよ？！}`
+`{ruby:"I, .........I told you to stop:「そ………、そのぬいぐるみごっこを止めろ}{ruby:playing make‐believe with that stuffed animaaaaaaaal!!:って言ったでしょおおおおぉおおぉ！！}`
+`{ruby:In the first place, it's disturbing, a stuffed animal:大体ね、気持ち悪いのよ、ぬいぐるみがお}{ruby:is your friend? Just how old are you this year?!:友達ってあんた今年でいくつよ？！}`
 `{ruby:How old?!:何歳よ？！}`
 `{ruby:Weeelll?!":ええぇえッ？！」}`
-`{ruby:"This is just a gross, crappy stuffed animal made of cloth and cotton!!:「こんなの布と綿の気持ち悪いヘタクソなぬいぐるみじゃない！！}`
-`{ruby:Is this the only kind of friend you have?!:こんなのしか友達いないのあんた？！}`
-`{ruby:If you have enough time on your hands to play make‐believe friends with this monstrous stuffed animal, go out and make some real human friends instead!!":こんなバケモノのぬいぐるみとお友達ごっこしてる暇があったら、ちゃんとした人間の友達を作りなさいよ！！」}`
-`{ruby:"Why is it that time goes on and on and you still can't make any friends?!!:「何であなたにはいつまでもお友達が出来ないのよ！！}`
-`{ruby:That's why your class always treats you like a weirdo and makes fun of you!!:そんなだからいつまでもクラスで変わり者扱いされて馬鹿にされてッ！！}`
-`{ruby:Cut it out, give it a rest, get ahold of yourself already!!:もう本当しっかりしていい加減にしてッ！！}`
-`{ruby:Grow up from this stuffed‐animal play!!":こんなぬいぐるみ遊び、もう卒業しちゃってよ！！」}`
+`{ruby:"This is just a gross, crappy:「こんなの布と綿の気持ち悪いヘタ}{ruby:stuffed animal made of cloth and cotton!!:クソなぬいぐるみじゃない！！}`
+`{ruby:Is this the only:こんなのしか友達いな}{ruby:kind of friend you have?!:いのあんた？！}`
+`{ruby:If you have enough time on your hands to play make‐believe friends with:こんなバケモノのぬいぐるみとお友達ごっこしてる暇があっ}{ruby:this monstrous stuffed animal, go out and make some real human friends instead!!":たら、ちゃんとした人間の友達を作りなさいよ！！」}`
+`{ruby:"Why is it that time goes on and:「何であなたにはいつまでもお}{ruby:on and you still can't make any friends?!!:友達が出来ないのよ！！}`
+`{ruby:That's why your class always treats you:そんなだからいつまでもクラスで変わり}{ruby:like a weirdo and makes fun of you!!:者扱いされて馬鹿にされてッ！！}`
+`{ruby:Cut it out, give it a:もう本当しっかりしていい}{ruby:rest, get ahold of yourself already!!:加減にしてッ！！}`
+`{ruby:Grow up from:こんなぬいぐるみ遊び、もう卒}{ruby:this stuffed‐animal play!!":業しちゃってよ！！」}`
 `{ruby:‘Uryu......:『うりゅ……、}`
 `{ruby:uryu.........’:うりゅ………』}`
-`{ruby:"I said...stop playing make‐believe...with that stuffed animaaaaaaaal!!":「だからそのぬいぐるみごっこを止めろって言ってるでしょおおおおおぉおおぉ！！」}`
+`{ruby:"I said...stop playing:「だからそのぬいぐるみごっこを止めろって言}{ruby:make‐believe...with that stuffed animaaaaaaaal!!":ってるでしょおおおおおぉおおぉ！！」}`
 `{ruby:"Aaah!!:「ああッ！！}`
 `{ruby:Mama, Mama!!:ママ、ママ！！}`
 `{ruby:Give him back!:返して！}`
@@ -622,44 +622,44 @@
 `{ruby:‘Uryuu!!:『うりゅー！！}`
 `{ruby:Uryuuu!:うりゅーー！}`
 `{ruby:Uryu‐uryuu!’:うりゅうりゅー！』}`
-`{ruby:Mama grabbed hold of Sakutaro's head, and snatched him from me...:ママがさくたろの頭を鷲掴みにして、私から奪い取る…。}`
-`{ruby:{n}Then.........she smashed him against the wall, over and over.:{n}そして………、何度も何度も、壁に打ち付けて。}`
+`{ruby:Mama grabbed hold of Sakutaro's:ママがさくたろの頭を鷲掴みに}{ruby:head, and snatched him from me...:して、私から奪い取る…。}`
+`{ruby:{n}Then.........she smashed him against:{n}そして………、何度も何}{ruby:the wall, over and over.:度も、壁に打ち付けて。}`
 `{ruby:‘Uryuu!!:『うりゅー！！}`
-`{ruby:It hurts, it hurts, ow‐ow‐ow‐ow...!!’:痛いよ痛いよ、痛い痛い痛い痛い…！！』}`
+`{ruby:It hurts,:痛いよ痛いよ、痛い痛い}{ruby:it hurts, ow‐ow‐ow‐ow...!!’:痛い痛い…！！』}`
 `{ruby:"Fucking STOP!!:「やめろっつってんのよッ！！}`
-`{ruby:Fucking STOP playing make‐believe with this stuffed animal!!!!!:そのぬいぐるみごっこを止めろっつってんでしょおおおお！！}`
-`{ruby:It's because of this stuffed animal!!":こんなぬいぐるみがあるからッ！！」}`
-`{ruby:"That's why you can never make any friends!:「だからあんたはいつまでも友達を作らないのよ！}`
-`{ruby:That's why you're the only one in your class who sticks out like a sore thumb, and gets treated like a weird kid!!:だから一人だけクラスで浮いてて、おかしな子扱いされるんでしょうが！！}`
-`{ruby:I should never have given you a stuffed animal like this!!:こんなぬいぐるみあげなきゃ良かった！！}`
-`{ruby:I should never have given you this disgusting stuffed animal!!":こんな気持ち悪いぬいぐるみあげなきゃ良かったッ！！」}`
+`{ruby:Fucking STOP playing make‐believe:そのぬいぐるみごっこを止めろっつ}{ruby:with this stuffed animal!!!!!:ってんでしょおおおお！！}`
+`{ruby:It's because of:こんなぬいぐるみがあ}{ruby:this stuffed animal!!":るからッ！！」}`
+`{ruby:"That's why you can:「だからあんたはいつまでも}{ruby:never make any friends!:友達を作らないのよ！}`
+`{ruby:That's why you're the only one in your class who sticks:だから一人だけクラスで浮いてて、おかし}{ruby:out like a sore thumb, and gets treated like a weird kid!!:な子扱いされるんでしょうが！！}`
+`{ruby:I should never have given:こんなぬいぐるみあげな}{ruby:you a stuffed animal like this!!:きゃ良かった！！}`
+`{ruby:I should never have given:こんな気持ち悪いぬいぐるみあげ}{ruby:you this disgusting stuffed animal!!":なきゃ良かったッ！！」}`
 `{ruby:"Stop iiiiiiiiiiiit!!":「やめてええええぇええ！！」}`
-`{ruby:"Give Sakutaro back, give Sakutaro back!!:「さくたろ返してッ、さくたろ返してッ！！}`
-`{ruby:WaaaA{0}A{0}A{0}A{0}a{0}a{0}a{0}a{0}a{0}A{0}A{0}A{0}A{0}a{0}a{0}a{0}A{0}a{0}a{0}AahHH!!:わあああああぁああああぁあぁぁあ！！}`
+`{ruby:"Give Sakutaro back,:「さくたろ返してッ、さ}{ruby:give Sakutaro back!!:くたろ返してッ！！}`
+`{ruby::わあああああぁああああ}{ruby:WaaaA{0}A{0}A{0}A{0}a{0}a{0}a{0}a{0}a{0}A{0}A{0}A{0}A{0}a{0}a{0}a{0}A{0}a{0}a{0}AahHH!!:ぁあぁぁあ！！}`
 `{ruby:Sakutaro is my friend!!:さくたろは真里亞のお友達なの！！}`
 `{ruby:My best friend!!:親友なの！！}`
-`{ruby:I don't need anything else if I just have Sakutaro!:さくたろさえいれば、他には何もいらないッ！}`
+`{ruby:I don't need anything else:さくたろさえいれば、他に}{ruby:if I just have Sakutaro!:は何もいらないッ！}`
 `{ruby:So give him back!!:だから返して！！}`
 `{ruby:Give him baaaaaaaack!!":返してえええぇえぇぇ！！」}`
-`{ruby:......For some reason, my frantic request just added oil to the fire of Mama's anger......:……その、私の必死の頼みは、なぜかむしろ、ママの怒りに油を注いだ……。}`
-`{ruby:As I pulled on Sakutaro trying to take him back, Mama pushed my arm aside,:ママは、さくたろを奪い返そうとさくたろを引っ張る私の腕を振り払い、}`
-`{ruby:and in a bizarre way, she stuck her fingernails on both hands deep into Sakutaro, twisting him......:異様な感じで両手の爪を立ててさくたろをぐしゃぐしゃに捻りあげる……。}`
-`{ruby:The red scarf, which I had carefully wrapped for him every day, came undone and fell to the floor...:毎日、丁寧に巻きなおしてあげていた赤いマフラーが解けて床に落ちる…。}`
-`{ruby:......Sakutarou, who had been so, so precious to me......:……大切に大切にしてきたさくたろう……。}`
-`{ruby:He was crumpled, twisted, torn at with fingernails so much......:それが、あんなにぐしゃぐしゃに歪んで、捻られて、爪を立てて引っ張られて……。}`
+`{ruby:......For some reason, my frantic request just:……その、私の必死の頼みは、なぜかむし}{ruby:added oil to the fire of Mama's anger......:ろ、ママの怒りに油を注いだ……。}`
+`{ruby:As I pulled on Sakutaro trying to:ママは、さくたろを奪い返そうとさくた}{ruby:take him back, Mama pushed my arm aside,:ろを引っ張る私の腕を振り払い、}`
+`{ruby:and in a bizarre way, she stuck her:異様な感じで両手の爪を立ててさくたろ}{ruby:fingernails on both hands deep into Sakutaro, twisting him......:をぐしゃぐしゃに捻りあげる……。}`
+`{ruby:The red scarf, which I had carefully wrapped for:毎日、丁寧に巻きなおしてあげていた赤}{ruby:him every day, came undone and fell to the floor...:いマフラーが解けて床に落ちる…。}`
+`{ruby:......Sakutarou, who had been:……大切に大切にしてき}{ruby:so, so precious to me......:たさくたろう……。}`
+`{ruby:He was crumpled, twisted, torn:それが、あんなにぐしゃぐしゃに歪んで、捻}{ruby:at with fingernails so much......:られて、爪を立てて引っ張られて……。}`
 `{ruby:He was twisted in pain...:痛そうに歪んでる…、}`
 `{ruby:his face grimacing...:表情を歪めて、}`
 `{ruby:so sadly.........:悲しんでる………。}`
 `{ruby:Then Mama's fingernails...:そしてママの爪が、}`
 `{ruby:...found a stitch on the neck:……首の縫い目の部分を}`
 `{ruby:......and tore it...:……裂いて…。}`
-`{ruby:......With the fingernails of both hands:……両手の爪で}`
+`{ruby:......With the fingernails:……両手の}{ruby:of both hands:爪で}`
 `{ruby:......she tore him apart............:……引き裂いて…………。}`
 `{ruby:In that instant,:その一瞬で、}`
 `{ruby:.........Sakutaro's yellow cloth,:………さくたろが、黄色い布地と、}`
-`{ruby:.........and the cotton inside, ...burst apart......:………内側の綿が弾けるように飛び出す……。}`
-`{ruby:It looked almost like moist cotton candy......:それはまるで、湿気った綿飴みたいに見えた……。}`
-`{ruby:‘......U‐...............ryu.....................’:『……う、……………りゅ…………………、』}`
+`{ruby:.........and the cotton:………内側の綿が弾けるよ}{ruby:inside, ...burst apart......:うに飛び出す……。}`
+`{ruby:It looked almost:それはまるで、湿気った綿飴}{ruby:like moist cotton candy......:みたいに見えた……。}`
+`{ruby::『……う、……………りゅ}{ruby:‘......U‐...............ryu.....................’:…………………、』}`
 `{ruby:"...kutaro............?":「…くたろ…………？」}`
 `{ruby:‘......Ma......ria.........’:『……ま……りあ………』}`
 `{ruby:".........Sakutaro............":「………さくたろ…………」}`
@@ -669,8 +669,8 @@
 `{ruby:".........ta...ro.........":「………た…ろ………、」}`
 `{ruby:‘’:『』}`
 `{ruby:...:ずい、っと。}`
-`{ruby:.........The crumpled yellow cloth and the cotton candy that was flowing out were thrust right in front of my eyes.:………黄色いぐしゃぐしゃの布地と溢れ出た綿飴が、私の眼前いっぱいに突きつけられる。}`
-`{ruby:Then, ......through Mama's face, the evil being...stated it clearly.:そして、……ママの表情を通して、邪悪な存在が、はっきりと断言した。}`
+`{ruby:.........The crumpled yellow cloth and the cotton candy that was:………黄色いぐしゃぐしゃの布地と溢れ出た綿飴}{ruby:flowing out were thrust right in front of my eyes.:が、私の眼前いっぱいに突きつけられる。}`
+`{ruby:Then, ......through Mama's face,:そして、……ママの表情を通して、邪悪}{ruby:the evil being...stated it clearly.:な存在が、はっきりと断言した。}`
 `{ruby:"{i:Sakutarou is dead}.":「{i:さくたろうは、死んでしまいました}」}`
 `{ruby:mabapennedbisgeck.:まばがぎゅりいを、ゆがべだ。}`
 `{ruby:gikuguki:ぎくぐきぃ}`
@@ -683,88 +683,88 @@
 `{ruby:{n}waaaaaaaaaaaaauuuuuuuuuuuu......:{n}うわああああぁああぅうううぅうぅうぅ……。}`
 `{ruby:gudaro......:ぐだろ……、}`
 `{ruby:sagudaro......:さぐだろ……、}`
-`{ruby:......waaaaaaaaaaaaaaauuuuuuuuu............:……うわああぁああああぁあうううぅうぅぅぅ……………。}`
-`{ruby:"{f:5:Maria}...... ......{f:5:Maria}.........:「マリア……、……マリア………。}`
+`{ruby::……うわああぁああああぁあうう}{ruby:......waaaaaaaaaaaaaaauuuuuuuuu............:うぅうぅぅぅ……………。}`
+`{ruby:"{f:5:Maria}......:「マリア……、……}{ruby:......{f:5:Maria}.........:マリア………。}`
 `{ruby:...Do not cry......":…泣くんでない……」}`
 `{ruby:"{f:5:Beatrice}, {f:5:Beatrice}...!!:「ベアトリーチェ、ベアトリーチェ…！！}`
 `{ruby:Waaaaaaaaaaaaaaaaaahhh!!:うわああああぁあああぁあぁう！！}`
 `{ruby:Waaaaaaaaaaaaaaahhh!!":うわああああぁあぁうう！！」}`
 `{ruby:"Sakutarou was a good friend...:「さくたろうは良き友人であった…。}`
-`{ruby:As long as you do not forget that, he will always be with you...:そなたがそれを忘れぬ限り、常にそなたと共にある…。}`
+`{ruby:As long as you do not forget:そなたがそれを忘れぬ限り、常}{ruby:that, he will always be with you...:にそなたと共にある…。}`
 `{ruby:So do not cry...":だから泣くんでない…」}`
 `{ruby:"Bring him back to life!!:「生き返らせて！！}`
 `{ruby:You can use a lot of magic, Beato!!:ベアトはいろんな魔法が使えるんだもんね！！}`
-`{ruby:You can bring Sakutaro back to life as well, right?!":さくたろだって生き返らせられるよね？！」}`
+`{ruby:You can bring Sakutaro back:さくたろだって生き返らせ}{ruby:to life as well, right?!":られるよね？！」}`
 `{ruby:"............A‐about that......:「…………そ、それは……。}`
-`{ruby:...Of course, if Sakutarou had been my furniture, it would be easy.:…無論、さくたろうが妾の家具だったなら、それも容易い。}`
-`{ruby:However, Sakutarou is your furniture.:しかし、さくたろうはそなたの家具だ。}`
-`{ruby:......That makes it difficult for me.":……妾にそれは難しい」}`
-`{ruby:"Difficult but not impossible, right?!:「難しいってことは無理じゃないんだよね？！}`
+`{ruby:...Of course, if Sakutarou had been:…無論、さくたろうが妾の家具だ}{ruby:my furniture, it would be easy.:ったなら、それも容易い。}`
+`{ruby:However, Sakutarou:しかし、さくたろうは}{ruby:is your furniture.:そなたの家具だ。}`
+`{ruby:......That makes it:……妾にそれは}{ruby:difficult for me.":難しい」}`
+`{ruby:"Difficult but:「難しいってことは無理じ}{ruby:not impossible, right?!:ゃないんだよね？！}`
 `{ruby:Bring him back to life!!:生き返らせて！！}`
-`{ruby:Bring him back to life with the Endless Magiiiiiic!":無限の魔法で生き返らせてええぇえぇ！」}`
+`{ruby:Bring him back to:無限の魔法で生き返らせ}{ruby:life with the Endless Magiiiiiic!":てええぇえぇ！」}`
 `{ruby:".........Hmm...:「………んむ…。}`
 `{ruby:......To tell the truth...:……実はな…。}`
-`{ruby:Sakutarou's vessel was a stuffed animal Rosa made herself, correct...?:さくたろうの依り代は、楼座の手作りのぬいぐるみであったろう…？}`
+`{ruby:Sakutarou's vessel was a stuffed:さくたろうの依り代は、楼座の手作り}{ruby:animal Rosa made herself, correct...?:のぬいぐるみであったろう…？}`
 `{ruby:That Rosa has denied Sakutarou.:その楼座が、さくたろうを否定した。}`
-`{ruby:......A life that is not permitted by its own mother cannot exist...":……母にその生を許されなかった命は、存在できぬのだ…」}`
+`{ruby:......A life that is not permitted:……母にその生を許されなかった}{ruby:by its own mother cannot exist...":命は、存在できぬのだ…」}`
 `{ruby:{f:5:Beatrice}'s words were feeble.:ベアトリーチェのその言葉は弱々しい。}`
-`{ruby:...Because she knew that, no matter what the excuse,:…どんな言い訳であったとしても、}`
-`{ruby:it wouldn't be enough to calm Maria and make her accept it.:真里亞を慰め、納得させることなど出来ないとわかっていたからだ。}`
-`{ruby:But she had to communicate the painful truth to her disciple and close friend.:でも彼女は、弟子であり親友である真里亞に、辛い真実を伝えなければならない。}`
-`{ruby:.........She had to tell her the fact...:………自らの魔法を尽くそうとも、}`
-`{ruby:...that even with all of her own magic, even she could not revive Sakutarou.:……さくたろうを蘇らせることが出来ないという、その事実を。}`
-`{ruby:"As long as you continue to strongly believe in Sakutarou's existence, his soul will not disappear......:「そなたがさくたろうの存在を強く信じる限り、その魂が消え去ることはない……。}`
-`{ruby:So, {f:5:Maria}, ...please, do not be sad...:だからマリア…、どうか悲しむな…。}`
-`{ruby:Even now, look, ...you must believe that Sakutarou is smiling right over there......":今もほら、…すぐそこでさくたろうが微笑んでいると信じるのだ……」}`
+`{ruby:...Because she knew that,:…どんな言い訳であ}{ruby:no matter what the excuse,:ったとしても、}`
+`{ruby:it wouldn't be enough to calm:真里亞を慰め、納得させることなど出}{ruby:Maria and make her accept it.:来ないとわかっていたからだ。}`
+`{ruby:But she had to communicate the painful:でも彼女は、弟子であり親友である真里亞に}{ruby:truth to her disciple and close friend.:、辛い真実を伝えなければならない。}`
+`{ruby:.........She had to:………自らの魔法を}{ruby:tell her the fact...:尽くそうとも、}`
+`{ruby:...that even with all of her own:……さくたろうを蘇らせることが出}{ruby:magic, even she could not revive Sakutarou.:来ないという、その事実を。}`
+`{ruby:"As long as you continue to strongly believe:「そなたがさくたろうの存在を強く信じる限}{ruby:in Sakutarou's existence, his soul will not disappear......:り、その魂が消え去ることはない……。}`
+`{ruby:So, {f:5:Maria}, ...please,:だからマリア…、どう}{ruby:do not be sad...:か悲しむな…。}`
+`{ruby:Even now, look, ...you must believe:今もほら、…すぐそこでさくたろうが}{ruby:that Sakutarou is smiling right over there......":微笑んでいると信じるのだ……」}`
 `{ruby:"No!!!:「嫌だ！！！}`
 `{ruby:No:嫌だ}`
 `{ruby:no:嫌だ}`
 `{ruby:no!!:嫌だ！！}`
-`{ruby:You have to bring Sakutaro back to life!!:さくたろを生き返らせてくれなきゃ嫌だ！！}`
+`{ruby:You have to bring:さくたろを生き返らせてく}{ruby:Sakutaro back to life!!:れなきゃ嫌だ！！}`
 `{ruby:No no no!:嫌だ嫌だ嫌だ！}`
-`{ruby:WaaA{0}AAa{0}a{0}a{0}aAAa{0}a{0}aAa{0}aAahhhh!!":うわあああぁああぁあぁあぁああう！！」}`
+`{ruby::うわあああぁああぁあぁ}{ruby:WaaA{0}AAa{0}a{0}a{0}aAAa{0}a{0}aAa{0}aAahhhh!!":あぁああう！！」}`
 `{ruby:"Give up...!!:「諦めよ…！！}`
-`{ruby:There is no magic to revive Sakutarou...!:さくたろうを蘇らせる魔法はない…！}`
-`{ruby:You must strongly believe that even in spite of that, Sakutarou will continue to exist as your close friend...!!:そして、それでもなおさくたろうがそなたの親友であり続けることを強く信じよ…！！}`
+`{ruby:There is no:さくたろうを蘇らせる}{ruby:magic to revive Sakutarou...!:魔法はない…！}`
+`{ruby:You must strongly believe that even in spite of:そして、それでもなおさくたろうがそなたの親}{ruby:that, Sakutarou will continue to exist as your close friend...!!:友であり続けることを強く信じよ…！！}`
 `{ruby:That power will become magic...!":その力が魔法となる…！」}`
 `{ruby:"That's not magic, that's not magic!!:「そんなの魔法じゃない魔法じゃない！！}`
-`{ruby:You have to bring Sakutaro back to life...!!":さくたろが生き返らなきゃ嫌だ…！！」}`
-`{ruby:"Can't you do it because Mama made him herself?:「ママの手作りだから駄目なの？}`
+`{ruby:You have to bring:さくたろが生き返らなき}{ruby:Sakutaro back to life...!!":ゃ嫌だ…！！」}`
+`{ruby:"Can't you do it:「ママの手作りだか}{ruby:because Mama made him herself?:ら駄目なの？}`
 `{ruby:Why did Mama make Sakutaro?:どうしてママはさくたろを作ったの？}`
-`{ruby:Wasn't it to give him to me as a present?:真里亞にプレゼントするためじゃないの？}`
+`{ruby:Wasn't it to give him:真里亞にプレゼントする}{ruby:to me as a present?:ためじゃないの？}`
 `{ruby:Wasn't it to make him my friend?":真里亞のお友達にするためじゃないの？」}`
-`{ruby:"But why...did Mama make him herself...and break him herself?:「なのに何で、ママは自分で作って、自分で壊したの？}`
-`{ruby:Why did Mama create him herself, and try to break him herself?:どうしてママは、自分で生んで、自分で壊そうとするの？}`
+`{ruby:"But why...did Mama make:「なのに何で、ママは自分で作}{ruby:him herself...and break him herself?:って、自分で壊したの？}`
+`{ruby:Why did Mama create him herself,:どうしてママは、自分で生んで、}{ruby:and try to break him herself?:自分で壊そうとするの？}`
 `{ruby:Don't get it, don't get it!!":わかんないわかんない！！」}`
 `{ruby:"Hate Mama, hate Mama...!!:「ママが憎いよ、ママが憎い…！！}`
-`{ruby:Can't stand it, can't stand it, it's too much, it's too much...!!:悔しい悔しい悲しい悲しい…！！}`
-`{ruby:Want to twist Mama up like she did to Sakutaro...!:さくたろがそうされたように、ママをねじり上げてやりたい…！}`
-`{ruby:Want to stick my fingernails in and tear her, turn her into cloth and cotton!!":爪を立てて引き裂いて、布地と綿にしてやりたい！！」}`
+`{ruby:Can't stand it, can't stand it,:悔しい悔しい悲しい}{ruby:it's too much, it's too much...!!:悲しい…！！}`
+`{ruby:Want to twist Mama up:さくたろがそうされたように、ママ}{ruby:like she did to Sakutaro...!:をねじり上げてやりたい…！}`
+`{ruby:Want to stick my fingernails in and:爪を立てて引き裂いて、布地と}{ruby:tear her, turn her into cloth and cotton!!":綿にしてやりたい！！」}`
 `{ruby:"Waaaaaaaaaaaaaaahhh!!:「わあああああああああぁあああぁあん！！}`
-`{ruby:Can't stand it, I can't stand it, {f:5:Beatriceeee}!!:悔しいよ、悔しいよベアトリーチェええぇ！！}`
-`{ruby:Waa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh, Sakutaroooooooo!!!!":わあああああああああぁあああん、さくたろおおぉおおおおお！！！！」}`
-`{ruby:From the darkness behind Maria's back, two massive jet‐black arms crept out,:真里亞の背後の暗闇より、巨大な漆黒の二本の腕がぬうっと現れ、}`
-`{ruby:coiling around Maria as she sobbed in anger.:怒りに泣きじゃくる真里亞に絡みつく。}`
-`{ruby:Then massive fingernails stuck into Maria's chest and stomach......:そして巨大な爪を真里亞の胸と腹に突き立てる……。}`
+`{ruby:Can't stand it, I:悔しいよ、悔しいよベアト}{ruby:can't stand it, {f:5:Beatriceeee}!!:リーチェええぇ！！}`
+`{ruby:Waa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh,:わあああああああああぁあああん、さく}{ruby:Sakutaroooooooo!!!!":たろおおぉおおおおお！！！！」}`
+`{ruby:From the darkness behind Maria's back,:真里亞の背後の暗闇より、巨大な漆}{ruby:two massive jet‐black arms crept out,:黒の二本の腕がぬうっと現れ、}`
+`{ruby:coiling around Maria as:怒りに泣きじゃくる真}{ruby:she sobbed in anger.:里亞に絡みつく。}`
+`{ruby:Then massive fingernails stuck:そして巨大な爪を真里亞の胸}{ruby:into Maria's chest and stomach......:と腹に突き立てる……。}`
 `{ruby:Maria could not see them.:それは真里亞には見えていない。}`
 `{ruby:{n}......But Beato could.:{n}……しかしベアトには見えていた。}`
-`{ruby:Anger and sadness without any place to go will tear you apart.:ぶつけ方を知らぬ怒りと悲しみは、自らを引き裂く。}`
+`{ruby:Anger and sadness without any place:ぶつけ方を知らぬ怒りと悲し}{ruby:to go will tear you apart.:みは、自らを引き裂く。}`
 `{ruby:......Beato knew that.:……ベアトはそれを知っていた。}`
 `{ruby:She could see that.:見えていた。}`
 `{ruby:Yes.:そう。}`
-`{ruby:......In the end, those massive arms were Maria's own.:……つまりはその巨大な腕は、真里亞自身のものなのだ。}`
-`{ruby:Those fingernails slowly started to dig into her chest and stomach......:その爪が、めりりと彼女の胸と腹に食い込んでいく……。}`
-`{ruby:......With their immense size and strength,:……その腕のあまりの大きさと強さは、}`
-`{ruby:those arms would probably tear Maria into bits easily......:真里亞を容易に引き千切り、ばらばらにしてしまうだろう……。}`
+`{ruby:......In the end, those:……つまりはその巨大な腕は、}{ruby:massive arms were Maria's own.:真里亞自身のものなのだ。}`
+`{ruby:Those fingernails slowly started to:その爪が、めりりと彼女の胸と}{ruby:dig into her chest and stomach......:腹に食い込んでいく……。}`
+`{ruby:......With their immense:……その腕のあまりの}{ruby:size and strength,:大きさと強さは、}`
+`{ruby:those arms would probably:真里亞を容易に引き千切り、ばらば}{ruby:tear Maria into bits easily......:らにしてしまうだろう……。}`
 `{ruby:But Maria herself couldn't notice.:しかし、当の真里亞はそれに気付けない。}`
-`{ruby:Drowning in a sea of her own tears, ......she couldn't notice that her own arms were trying to tear apart her own chest......:自らの涙の海に溺れ、……自らの腕が自らの胸を引き裂こうとしていることに、気付けない……。}`
+`{ruby:Drowning in a sea of her own tears, ......she couldn't notice:自らの涙の海に溺れ、……自らの腕が自らの胸を引}{ruby:that her own arms were trying to tear apart her own chest......:き裂こうとしていることに、気付けない……。}`
 `{ruby:"Can't stand it, can't stand it...!!!:「悔しい悔しい…！！！}`
-`{ruby:If Sakutaro can't be brought back to life no matter what, ......I want revenge!!:さくたろがどうしても生き返らせられないなら、……真里亞は復讐したいッ！！}`
-`{ruby:Want to make the same thing happen to Mama!!:ママを同じ目に遭わせてやりたい！！}`
-`{ruby:Want to make her suffer the same thing as Sakutaro...!":さくたろと同じ目に遭わせてやりたいの…！」}`
+`{ruby:If Sakutaro can't be brought back to:さくたろがどうしても生き返らせられないな}{ruby:life no matter what, ......I want revenge!!:ら、……真里亞は復讐したいッ！！}`
+`{ruby:Want to make the:ママを同じ目に遭わせ}{ruby:same thing happen to Mama!!:てやりたい！！}`
+`{ruby:Want to make her suffer:さくたろと同じ目に遭わせ}{ruby:the same thing as Sakutaro...!":てやりたいの…！」}`
 `{ruby:"{f:5:Beatrice}!!:「ベアトリーチェ！！}`
 `{ruby:Teach me magic for that!!:そのための魔法を教えて！！}`
-`{ruby:Teach me magic to get back at Mama...!!":ママをやっつける魔法を教えて…！！」}`
+`{ruby:Teach me magic to:ママをやっつける魔法を}{ruby:get back at Mama...!!":教えて…！！」}`
 `{ruby:".................................:「……………………………。}`
 `{ruby:......Are those your true feelings?":……その言葉は本心か」}`
 `{ruby:"I'll kill Mama!!:「ママを殺す！！}`
@@ -772,16 +772,16 @@
 `{ruby:No, that's not Mama!:ううん、あれはママじゃないよ！}`
 `{ruby:It's the bad witch possessing Mama!:ママに取り憑いた悪い魔女だ！}`
 `{ruby:I'll kill the witch Mama!!:ママの魔女を殺してやる！！}`
-`{ruby:Uuu{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}uuu!!":ううううぅうぅううううぅう！！」}`
+`{ruby::ううううぅうぅううう}{ruby:Uuu{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}uuu!!":うぅう！！」}`
 `{ruby:"........................:「……………………。}`
 `{ruby:......Very well.:……良かろう。}`
 `{ruby:I shall give you that power.:その力を、そなたに与えよう。}`
-`{ruby:......If you, beautiful of heart, shall otherwise be torn asunder by your own hand...:……心美しきそなたが自らに引き裂かれるくらいならば。}`
-`{ruby:...then I find your heartless mother, who brought such suffering upon you, considerably more deserving of such a fate.":……そなたにその苦しみを与えた、心無き母こそがよほど引き裂かれるに値する」}`
+`{ruby:......If you, beautiful of heart, shall otherwise:……心美しきそなたが自らに引}{ruby:be torn asunder by your own hand...:き裂かれるくらいならば。}`
+`{ruby:...then I find your heartless mother, who brought such:……そなたにその苦しみを与えた、心無き母}{ruby:suffering upon you, considerably more deserving of such a fate.":こそがよほど引き裂かれるに値する」}`
 `{ruby:"...............I shall teach you.:「……………教えようぞ、そなたに。}`
-`{ruby:......Of the abyss in the world of witches, of the depths where no light reaches......":……魔女の世界の、光差すことなき深淵の奥底を……」}`
+`{ruby:......Of the abyss in the world of:……魔女の世界の、光差すこと}{ruby:witches, of the depths where no light reaches......":なき深淵の奥底を……」}`
 `{ruby:"Uuuuuuuu, Sakutaro, Sakutaro...!!:「ううぅううぅ、さくたろさくたろ…！！}`
-`{ruby:I hate everyone, I hate them, I HATE THEM!!:みんな嫌い嫌い大ッ嫌い！！}`
+`{ruby:I hate everyone, I:みんな嫌い嫌い大}{ruby:hate them, I HATE THEM!!:ッ嫌い！！}`
 `{ruby:Hate Mama, hate Ange!!:ママも嫌い、縁寿も嫌い！！}`
 `{ruby:Hate everyone, EVERYONE!!:みんなみんな大ッ嫌い！！}`
-`{ruby:Uuuuuuwaa{0}a{0}aaAAA{0}A{0}A{0}A{0}A{0}A{0}AAAAHHH......!!":うぅううぅううわああああぁああああぁあああぁ……！！」}`
+`{ruby::うぅううぅううわああああぁああ}{ruby:Uuuuuuwaa{0}a{0}aaAAA{0}A{0}A{0}A{0}A{0}A{0}AAAAHHH......!!":ああぁあああぁ……！！」}`

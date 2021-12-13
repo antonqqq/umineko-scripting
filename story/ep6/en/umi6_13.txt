@@ -1,289 +1,289 @@
 `{ruby:"......How does it feel?:「……如何ですか。}`
 `{ruby:To play on the witch side.":魔女側のプレイヤーは」}`
 `{ruby:"It feels strange.:「不思議な感覚だな。}`
-`{ruby:.........I used to think that the witch side had such a huge advantage.:………かつては、魔女側に何て有利なゲームだろうと思ってた。}`
-`{ruby:But now that I'm on that side, I see that that's ridiculous.:だが、いざ魔女側になってみるととんでもないな。}`
-`{ruby:It's almost like that party game where you stick knives in a barrel.":こいつはまるで樽にナイフを刺してく、パーティゲームみたいなもんだ」}`
-`{ruby:From the perspective of the human side, it feels like trying to shoot at a target hidden by mist.:人間側からすれば、霧の中で見えない的に銃を撃ちまくるようなもんだ。}`
-`{ruby:But from the witch side, a random shot might become fatal.:しかし魔女側から見れば、まぐれ当たり一発で、それが致命傷となる。}`
-`{ruby:"......And the old me played several games just like that.":「……そんなゲームを、…かつての私は、何度も繰り返していたんですね」}`
-`{ruby:"Yeah, it's almost like Russian roulette.:「あぁ、まるでロシアンルーレットだ。}`
-`{ruby:......Even so, you stretched those games out to the limit, believing that I would eventually figure it out.":……それでもお前は、いつか俺が気付くと信じて、ゲームを限界まで繰り返してくれた」}`
-`{ruby:"......It may be impudent of me to ask,:「……私が、聞くのも厚かましいですが…。}`
-`{ruby:......but just what is it that you figured out, Battler‐san?:……一体、戦人さんは何に気付かれたのですか？}`
-`{ruby:At the very end of your games with the old me...":かつての私とのゲームの、最後の最後で」}`
+`{ruby:.........I used to think that the:………かつては、魔女側に何て有利}{ruby:witch side had such a huge advantage.:なゲームだろうと思ってた。}`
+`{ruby:But now that I'm on that:だが、いざ魔女側になってみ}{ruby:side, I see that that's ridiculous.:るととんでもないな。}`
+`{ruby:It's almost like that party game:こいつはまるで樽にナイフを刺してく、}{ruby:where you stick knives in a barrel.":パーティゲームみたいなもんだ」}`
+`{ruby:From the perspective of the human side, it feels:人間側からすれば、霧の中で見えない的}{ruby:like trying to shoot at a target hidden by mist.:に銃を撃ちまくるようなもんだ。}`
+`{ruby:But from the witch side,:しかし魔女側から見れば、まぐれ当た}{ruby:a random shot might become fatal.:り一発で、それが致命傷となる。}`
+`{ruby:"......And the old me played:「……そんなゲームを、…かつての私は}{ruby:several games just like that.":、何度も繰り返していたんですね」}`
+`{ruby:"Yeah, it's almost:「あぁ、まるでロシア}{ruby:like Russian roulette.:ンルーレットだ。}`
+`{ruby:......Even so, you stretched those games out to the:……それでもお前は、いつか俺が気付くと信じ}{ruby:limit, believing that I would eventually figure it out.":て、ゲームを限界まで繰り返してくれた」}`
+`{ruby:"......It may be impudent:「……私が、聞くのも厚}{ruby:of me to ask,:かましいですが…。}`
+`{ruby:......but just what is it:……一体、戦人さんは何に}{ruby:that you figured out, Battler‐san?:気付かれたのですか？}`
+`{ruby:At the very end of:かつての私とのゲームの}{ruby:your games with the old me...":、最後の最後で」}`
 `{ruby:It was a strange question.:それは、不思議な問い。}`
-`{ruby:In the past, Beato had always been the one posing it to Battler.:それをベアトがずっと、戦人に問うていたはずなのに。}`
-`{ruby:{n}But now that Battler had figured it out, Beato was the one asking him about it...:{n}それを戦人が気付いた今、ベアトが逆にそれを問う…。}`
+`{ruby:In the past, Beato had always:それをベアトがずっと、戦人に}{ruby:been the one posing it to Battler.:問うていたはずなのに。}`
+`{ruby:{n}But now that Battler had figured it out,:{n}それを戦人が気付いた今、}{ruby:Beato was the one asking him about it...:ベアトが逆にそれを問う…。}`
 `{ruby:"......It's the exact opposite.:「……正反対だな。}`
-`{ruby:......In the past, only you remembered, ......and only I forgot.:……かつては、お前だけが覚えていて、……俺だけが忘れていた。}`
+`{ruby:......In the past, only you:……かつては、お前だけが覚えてい}{ruby:remembered, ......and only I forgot.:て、……俺だけが忘れていた。}`
 `{ruby:But now, it's the other way around.:しかし今度は逆だ。}`
-`{ruby:Only I remember, ......and only you have forgotten.":俺だけが覚えていて、……お前だけが忘れている」}`
-`{ruby:"Would you mind telling me what it is...?":「不愉快でなければ、教えていただけませんか…」}`
-`{ruby:".........Telling you would be...easy.:「…………教えるのは、…容易い。}`
+`{ruby:Only I remember, ......and:俺だけが覚えていて、……お}{ruby:only you have forgotten.":前だけが忘れている」}`
+`{ruby:"Would you mind telling:「不愉快でなければ、教えて}{ruby:me what it is...?":いただけませんか…」}`
+`{ruby:".........Telling you:「…………教えるの}{ruby:would be...easy.:は、…容易い。}`
 `{ruby:......But I don't want to tell you.:……でも、教えたくない。}`
 `{ruby:I'm not trying to be mean.:意地悪のつもりはないんだ。}`
-`{ruby:......I just want...to believe in a miracle myself, just a little bit.":……ただ、俺もわずかに、奇跡を信じたい」}`
+`{ruby:......I just want...to believe in a:……ただ、俺もわずかに}{ruby:miracle myself, just a little bit.":、奇跡を信じたい」}`
 `{ruby:".....................A miracle...?":「…………………奇跡…？」}`
-`{ruby:Yes, this was the single miracle seed that Battler had preserved.:そう、これは戦人が、一粒だけ残す、奇跡の種。}`
-`{ruby:......If Beato could remember a certain something without being told,:……もしも、教えていないはずのことを思い出してくれたら、}`
-`{ruby:......that would prove that Beato had revived in the truest sense.:……それはきっと、ベアトが本当の意味で蘇ったことの、証。}`
+`{ruby:Yes, this was the single:そう、これは戦人が、一粒}{ruby:miracle seed that Battler had preserved.:だけ残す、奇跡の種。}`
+`{ruby:......If Beato could remember a:……もしも、教えていないはずの}{ruby:certain something without being told,:ことを思い出してくれたら、}`
+`{ruby:......that would prove that Beato:……それはきっと、ベアトが本当}{ruby:had revived in the truest sense.:の意味で蘇ったことの、証。}`
 `{ruby:So he wouldn't tell her.:だから、教えない。}`
 `{ruby:......It was Battler's final seed...:……それだけが、ひょっとしたらベアトが蘇るかもしれないと、}`
-`{ruby:which existed because he still couldn't abandon his hope that Beato might revive.:……未だに希望を捨てられない戦人の、最後の、種。}`
-`{ruby:"If you can't tell me, then I won't ask.:「戦人さんが話せないことなら、私も聞きません。}`
-`{ruby:......If I have upset you, please forgive me...":……不愉快な思いをさせてしまったなら、どうかお許し下さい…」}`
+`{ruby:which existed because he still couldn't:……未だに希望を捨てられな}{ruby:abandon his hope that Beato might revive.:い戦人の、最後の、種。}`
+`{ruby:"If you can't tell:「戦人さんが話せないことな}{ruby:me, then I won't ask.:ら、私も聞きません。}`
+`{ruby:......If I have upset:……不愉快な思いをさせてしまった}{ruby:you, please forgive me...":なら、どうかお許し下さい…」}`
 `{ruby:"Don't worry about it.:「気にすんな。}`
 `{ruby:I'm just clinging to the past.:俺が未練がましいだけだ。}`
 `{ruby:.....................":…………………」}`
-`{ruby:As she watched that sad smile, Beato's chest tightened.:その、悲しい笑顔を見て、ベアトの胸は締め付けられる。}`
-`{ruby:......He was looking at her...and seeing the old her.:……彼が自分を通して、今の自分でない自分を見ているからだ。}`
-`{ruby:Yes......I must become my former self...for his sake.:やはり、………彼のためにも、自分はかつての自分にならねばならない。}`
-`{ruby:My older sister who gets burned by spiderwebs, and I who don't, must become one.:蜘蛛の巣で火傷する姉と、火傷しない自分が、一つにならなければならない。}`
-`{ruby:......Surely, it's more useful to him if I go on a journey to find myself now...:……今の自分は、戦人のゲームを見守るより、}`
-`{ruby:...than if I simply watch over his game.:自らが何者かを問う旅の方がきっと、……戦人の役に立つのかもしれない。}`
+`{ruby:As she watched that:その、悲しい笑顔を見て、ベア}{ruby:sad smile, Beato's chest tightened.:トの胸は締め付けられる。}`
+`{ruby:......He was looking at:……彼が自分を通して、今の自分で}{ruby:her...and seeing the old her.:ない自分を見ているからだ。}`
+`{ruby:Yes......I must become my:やはり、………彼のためにも、自分はか}{ruby:former self...for his sake.:つての自分にならねばならない。}`
+`{ruby:My older sister who gets burned by:蜘蛛の巣で火傷する姉と、火傷しない自分}{ruby:spiderwebs, and I who don't, must become one.:が、一つにならなければならない。}`
+`{ruby:......Surely, it's more useful to him if I:……今の自分は、戦人のゲ}{ruby:go on a journey to find myself now...:ームを見守るより、}`
+`{ruby:...than if I simply:自らが何者かを問う旅の方がきっと、…}{ruby:watch over his game.:…戦人の役に立つのかもしれない。}`
 `{ruby:"How do you feel about this game?:「今回のゲームは如何です。}`
 `{ruby:......Do you think you can win?":……勝てそうですか」}`
 `{ruby:"Yes, I believe I can.:「勝てるつもりでいるさ。}`
-`{ruby:I'll win......and end this eternal torture, just like Beato wanted.":勝って、……ベアトの望みどおり、この永遠の拷問を終わらせる」}`
-`{ruby:"When it ends.........what will happen to the world...?":「終わったら、…………世界は、どうなるのでしょう…」}`
+`{ruby:I'll win......and end this eternal:勝って、……ベアトの望みどおり、}{ruby:torture, just like Beato wanted.":この永遠の拷問を終わらせる」}`
+`{ruby:"When it ends.........what will:「終わったら、…………世界は}{ruby:happen to the world...?":、どうなるのでしょう…」}`
 `{ruby:"Who knows.:「さぁな。}`
 `{ruby:......I'm really not sure.:……どうなるんだろうな。}`
 `{ruby:...But that's what we wished for.:……ただ、それを俺たちは望んだんだ。}`
-`{ruby:......So, no matter what the result is, I intend to accept it.":……だから、どんな結果が訪れようとも、それを受け入れるつもりだ」}`
-`{ruby:".........I wonder what will happen to me...":「…………私は、どうなるのでしょう…」}`
+`{ruby:......So, no matter what the result:……だから、どんな結果が訪れようと}{ruby:is, I intend to accept it.":も、それを受け入れるつもりだ」}`
+`{ruby:".........I wonder what:「…………私は、どうな}{ruby:will happen to me...":るのでしょう…」}`
 `{ruby:Beato was...uncertain.:ベアトは、不安だった。}`
-`{ruby:Even she was probably no more than a piece in this game.:自分さえも、このゲームの駒に過ぎないだろう。}`
+`{ruby:Even she was probably no more:自分さえも、このゲームの}{ruby:than a piece in this game.:駒に過ぎないだろう。}`
 `{ruby:......If the game ended,:……ゲームが終わるということは、そのルールから生まれた自分も、}`
-`{ruby:then would she, one who had been born out of that game's rules, ......disappear...?:……消え去るということではないだろうか…。}`
+`{ruby:then would she, one who had been:……消え去るということで}{ruby:born out of that game's rules, ......disappear...?:はないだろうか…。}`
 `{ruby:"The game will probably disappear.:「ゲームは、消えるだろうな。}`
-`{ruby:......But now, I completely understand magic.:……だが、俺はもう、魔法を完全に理解している。}`
-`{ruby:......So, I'll be able to carry you off the game board.:……だからお前を、ゲーム盤の外へ連れ出せる。}`
+`{ruby:......But now, I:……だが、俺はもう、魔法を}{ruby:completely understand magic.:完全に理解している。}`
+`{ruby:......So, I'll be able to:……だからお前を、ゲーム}{ruby:carry you off the game board.:盤の外へ連れ出せる。}`
 `{ruby:......I think that was your wish.":………それが、お前の望みだったはずだ」}`
 `{ruby:"My......wish...?":「私の、……望み…？」}`
 `{ruby:"..................:「………………っ。}`
 `{ruby:......The rest is a secret.:……それ以上は内緒だ。}`
-`{ruby:......I'll be waiting for the miracle......for you to remember all of that by yourself.":……お前がそれらを、自力で思い出してくれる奇跡を、……俺は待ってるぜ」}`
-`{ruby:After smiling bitterly for just a second, Battler laughed and told her not to worry.:戦人は一瞬だけ苦笑いを見せた後、気にするなというように笑う。}`
-`{ruby:Apparently, it was best if she avoided talking to Battler about her previous self...:やはり、以前の自分のことを戦人に聞くのは、あまり好ましいことではないのだろう…。}`
-`{ruby:"......Well then, I'll go check on my opponent for a bit.:「……じゃあ、俺はちょっと対戦相手殿の様子を見てくる。}`
-`{ruby:...I can't wait to see what kind of twisted logic that idiot thinks up next.":…あの馬鹿が次はどんな屁理屈を言い出すか、楽しみだぜ」}`
-`{ruby:"The old Battler‐san did a lot of that too.:「かつての戦人さんも、それにかけてはなかなかでしたよ。}`
-`{ruby:......My favorite was the one from the first twilight of the second game, when you said the culprit killed everyone by feeding them small bombs.":……私としましては、第２のゲームの第一の晩に対する、小型爆弾を飲ませて殺した、が最高傑作かと」}`
-`{ruby:"Aaaaahhh, the highlights of my dark past...:「ぅおぉおぉ、それは俺の黒歴史最高傑作だ…。}`
+`{ruby:......I'll be waiting for the miracle......for you:……お前がそれらを、自力で思い出してく}{ruby:to remember all of that by yourself.":れる奇跡を、……俺は待ってるぜ」}`
+`{ruby:After smiling bitterly for just a second,:戦人は一瞬だけ苦笑いを見せた後、}{ruby:Battler laughed and told her not to worry.:気にするなというように笑う。}`
+`{ruby:Apparently, it was best if she avoided:やはり、以前の自分のことを戦人に聞くのは、}{ruby:talking to Battler about her previous self...:あまり好ましいことではないのだろう…。}`
+`{ruby:"......Well then, I'll go check:「……じゃあ、俺はちょっと対戦}{ruby:on my opponent for a bit.:相手殿の様子を見てくる。}`
+`{ruby:...I can't wait to see what kind:…あの馬鹿が次はどんな屁理屈を}{ruby:of twisted logic that idiot thinks up next.":言い出すか、楽しみだぜ」}`
+`{ruby:"The old Battler‐san did:「かつての戦人さんも、それにか}{ruby:a lot of that too.:けてはなかなかでしたよ。}`
+`{ruby:......My favorite was the one from the first twilight of the second:……私としましては、第２のゲームの第一の晩に対する}{ruby:game, when you said the culprit killed everyone by feeding them small bombs.":、小型爆弾を飲ませて殺した、が最高傑作かと」}`
+`{ruby:"Aaaaahhh, the highlights:「ぅおぉおぉ、それは俺の}{ruby:of my dark past...:黒歴史最高傑作だ…。}`
 `{ruby:Please forget that ever happened...":早めに忘れてくれ……」}`
 `{ruby:"Yes, I will try.":「はい、そのように努めます」}`
-`{ruby:Battler became a cloud of gold butterflies and disappeared into the darkness.:戦人は黄金蝶の群になって、闇に姿を消す。}`
-`{ruby:Beato remained bowed until he had disappeared completely......:それが完全に消えるまで、ベアトは会釈を続けているのだった……。}`
-`{ruby:To fill in his place, a single gold butterfly appeared......and became Beato the Elder.:入れ替わりに、ひらりと一羽の黄金蝶が現れ、……姉のベアトになる。}`
-`{ruby:"......Did you call me, little sister?":「……呼んだか？　我が妹よ」}`
+`{ruby:Battler became a cloud of gold:戦人は黄金蝶の群になっ}{ruby:butterflies and disappeared into the darkness.:て、闇に姿を消す。}`
+`{ruby:Beato remained bowed until:それが完全に消えるまで、ベアトは会}{ruby:he had disappeared completely......:釈を続けているのだった……。}`
+`{ruby:To fill in his place, a single:入れ替わりに、ひらりと一羽の黄金蝶}{ruby:gold butterfly appeared......and became Beato the Elder.:が現れ、……姉のベアトになる。}`
+`{ruby:"......Did you call:「……呼んだか？}{ruby:me, little sister?":　我が妹よ」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:.........I want to know more about you.:………あなたのことを、もっと知りたいんです。}`
-`{ruby:And......I want to know what the real me is like.:そして、……本当の私がどんな存在だったのか、知りたい。}`
+`{ruby:.........I want to:………あなたのことを、も}{ruby:know more about you.:っと知りたいんです。}`
+`{ruby:And......I want to know what:そして、……本当の私がどんな存}{ruby:the real me is like.:在だったのか、知りたい。}`
 `{ruby:I want to become like that.":至りたいんです」}`
-`{ruby:"Of course, I also want to know about my future self.:「無論、妾も未来の自分を知りたい。}`
-`{ruby:......We revealed everything about ourselves to each other for that purpose.:……その為に妾たちは互いの全てを打ち明けあったはず。}`
-`{ruby:......However, we did not become one.:……しかし、一向に妾たちは一つとならぬ。}`
-`{ruby:I cannot understand what we must do to become our single self.":どうやれば、一なる自分となれるのか、理解が出来ぬ」}`
-`{ruby:".....................What can we do to become one......?":「…………………どうやれば、私たちは一つに……」}`
-`{ruby:"I have high hopes for the trials of Zepar and Furfur.":「妾は、ゼパルとフルフルの試練に期待している」}`
-`{ruby:"You mean the miracle of magic given to the victors?":「勝者に与えるという、魔法の奇跡、……のことですね」}`
-`{ruby:"I wonder if that magical miracle means becoming one's full self.:「その魔法の奇跡とは即ち、一なる自分となれることではないだろうか。}`
-`{ruby:......I will be able to attain my true form.:……妾は本来の姿に至れる。}`
-`{ruby:You will be able to fulfill Battler's wishes.:そなたは、それを望む戦人の期待に応えられる。}`
-`{ruby:Battler will also be happy, and all of us will suddenly have what we want.":戦人も万々歳で、ほぅ、三方丸く収まるというものだ」}`
-`{ruby:".........I...can't get away from this trial, can I...":「………やはり、これは、試練なのですね…」}`
-`{ruby:"Which means you cannot afford to lose to the other two pairs.":「他の２組に負けるわけにはいかん、ということだな」}`
-`{ruby:"......George‐san and Shannon‐san, Jessica‐san and Kanon‐san.:「……譲治さんと紗音さん、朱志香さんと嘉音さん。}`
-`{ruby:......I can only grasp happiness......by trampling over them...":……彼らを踏み躙ってしか、……私は幸せを掴み取れない…」}`
+`{ruby:"Of course, I also want:「無論、妾も未来の自}{ruby:to know about my future self.:分を知りたい。}`
+`{ruby:......We revealed everything about ourselves:……その為に妾たちは互いの全}{ruby:to each other for that purpose.:てを打ち明けあったはず。}`
+`{ruby:......However, we did:……しかし、一向に妾た}{ruby:not become one.:ちは一つとならぬ。}`
+`{ruby:I cannot understand what we must:どうやれば、一なる自分となれ}{ruby:do to become our single self.":るのか、理解が出来ぬ」}`
+`{ruby:".....................What can we:「…………………どうやれば}{ruby:do to become one......?":、私たちは一つに……」}`
+`{ruby:"I have high hopes for:「妾は、ゼパルとフルフルの}{ruby:the trials of Zepar and Furfur.":試練に期待している」}`
+`{ruby:"You mean the miracle of:「勝者に与えるという、魔法の}{ruby:magic given to the victors?":奇跡、……のことですね」}`
+`{ruby:"I wonder if that magical:「その魔法の奇跡とは即ち、一なる自分}{ruby:miracle means becoming one's full self.:となれることではないだろうか。}`
+`{ruby:......I will be able:……妾は本来の姿}{ruby:to attain my true form.:に至れる。}`
+`{ruby:You will be able:そなたは、それを望む戦人}{ruby:to fulfill Battler's wishes.:の期待に応えられる。}`
+`{ruby:Battler will also be happy, and all:戦人も万々歳で、ほぅ、三方丸}{ruby:of us will suddenly have what we want.":く収まるというものだ」}`
+`{ruby:".........I...can't get away from:「………やはり、これは、}{ruby:this trial, can I...":試練なのですね…」}`
+`{ruby:"Which means you cannot afford to:「他の２組に負けるわけにはい}{ruby:lose to the other two pairs.":かん、ということだな」}`
+`{ruby:"......George‐san and Shannon‐san,:「……譲治さんと紗音さん、}{ruby:Jessica‐san and Kanon‐san.:朱志香さんと嘉音さん。}`
+`{ruby:......I can only grasp:……彼らを踏み躙ってしか、……}{ruby:happiness......by trampling over them...":私は幸せを掴み取れない…」}`
 `{ruby:"The conditions apply equally to all.:「条件は同じだ。}`
-`{ruby:......If one of the others succeeds in love, the other two pairs, including you, will be trampled over.":……他の誰かが恋を成就させれば、そなたを含めた２組が踏み躙られる」}`
-`{ruby:"......Why must the scales be so unbalanced, I wonder?":「……なぜ、こんなに歪な天秤なのでしょう」}`
+`{ruby:......If one of the others succeeds in love, the:……他の誰かが恋を成就させれば、そな}{ruby:other two pairs, including you, will be trampled over.":たを含めた２組が踏み躙られる」}`
+`{ruby:"......Why must the scales:「……なぜ、こんなに歪な}{ruby:be so unbalanced, I wonder?":天秤なのでしょう」}`
 `{ruby:"Unbalanced?":「歪とは？」}`
-`{ruby:"Some people will find love, others won't.:「恋は得る者と得られない者がいる。}`
-`{ruby:......So I can understand placing those two groups on the two plates of a set of scales.:……ならば、それらが天秤の両端に並ぶことは理解できます。}`
-`{ruby:But the scales for our trial have three plates, and two must lose for one to win... It seems horribly unbalanced...":しかし、私たちの試練の天秤は３つの皿が並び、１人の勝利のために２人が敗北するという、ひどく歪なものです…」}`
+`{ruby:"Some people will:「恋は得る者と得られ}{ruby:find love, others won't.:ない者がいる。}`
+`{ruby:......So I can understand placing those two groups:……ならば、それらが天秤の両端}{ruby:on the two plates of a set of scales.:に並ぶことは理解できます。}`
+`{ruby:But the scales for our trial have three plates, and:しかし、私たちの試練の天秤は３つの皿が並び、１人の勝利の}{ruby:two must lose for one to win... It seems horribly unbalanced...":ために２人が敗北するという、ひどく歪なものです…」}`
 `{ruby:"Who knows?:「さぁな。}`
-`{ruby:It might mean that successful love is worth two destroyed loves.:恋の価値とは、２組の恋の破綻と同じ価値があるとでも言うのかも知れぬな。}`
-`{ruby:......Your words do not inspire confidence, little sister.:……頼りないぞ、妹よ。}`
-`{ruby:If you cannot put your desire to answer to Battler's expectations before your concern for the losers, victory will slip through your fingers.":敗者のことを考えるより、戦人の期待に応えたいという気持ちを優先できぬようでは、拾える勝利などないぞ」}`
+`{ruby:It might mean that successful:恋の価値とは、２組の恋の破綻と同じ価値}{ruby:love is worth two destroyed loves.:があるとでも言うのかも知れぬな。}`
+`{ruby:......Your words do not:……頼りないぞ}{ruby:inspire confidence, little sister.:、妹よ。}`
+`{ruby:If you cannot put your desire to answer to Battler's expectations:敗者のことを考えるより、戦人の期待に応えたいという気}{ruby:before your concern for the losers, victory will slip through your fingers.":持ちを優先できぬようでは、拾える勝利などないぞ」}`
 `{ruby:".........You're right.:「………そうですね。}`
 `{ruby:......I won't give up our victory.:……私も、譲れません。}`
-`{ruby:......I don't like doing this to the others, ......but there will be no hard feelings between us.":……他の皆さんには、本当に申し訳ないですが、……みんな、恨みっこなしです」}`
+`{ruby:......I don't like doing this to the others,:……他の皆さんには、本当に申し訳ないです}{ruby:......but there will be no hard feelings between us.":が、……みんな、恨みっこなしです」}`
 `{ruby:If I do lose...:もし、私が負けたなら。}`
-`{ruby:......I'll give my strongest blessings to whichever couple wins.:………どちらの恋人たちが勝利しても、最大の祝福を送ろう。}`
-`{ruby:So, I'll fight with all my heart and soul,:だから、未練も後悔もないように、}`
-`{ruby:......so that I have no lingering regrets,:……精一杯戦い、}`
-`{ruby:......and I'll win that miracle of magic.:……魔法の奇跡を勝ち取ろう。}`
+`{ruby:......I'll give my strongest:………どちらの恋人たちが勝利し}{ruby:blessings to whichever couple wins.:ても、最大の祝福を送ろう。}`
+`{ruby:So, I'll fight with:だから、未練も後悔}{ruby:all my heart and soul,:もないように、}`
+`{ruby:......so that I:……精一杯}{ruby:have no lingering regrets,:戦い、}`
+`{ruby:......and I'll win:……魔法の奇跡を}{ruby:that miracle of magic.:勝ち取ろう。}`
 `{ruby:"How was it?:「どうだったの。}`
-`{ruby:How did the red and blue shootout over the first twilight go?":第一の晩を巡っての、赤と青の攻防は」}`
-`{ruby:"I was just gathering information to start.:「まずは小手調べでした。}`
+`{ruby:How did the red and blue:第一の晩を巡っての、}{ruby:shootout over the first twilight go?":赤と青の攻防は」}`
+`{ruby:"I was just:「まずは小手調}{ruby:gathering information to start.:べでした。}`
 `{ruby:Battler seemed pretty fired up.":戦人も、なかなか張り切っているようです」}`
-`{ruby:She had just returned from a fierce fight with Battler, fought using the information gained through repetition requests.:復唱要求から得た情報をもとに、ついさっきまで、戦人と激しく戦っていた。}`
-`{ruby:It was the old, familiar kind of fight, reminiscent of the time when the red text had first appeared,:その戦いは、初めて赤き真実が登場した頃や、}`
-`{ruby:or when the blue text had first been permitted...:初めて青き真実が許された頃を思い出させる、泥臭くも懐かしい戦いだった…。}`
+`{ruby:She had just returned from a fierce fight with:復唱要求から得た情報をもとに、ついさっ}{ruby:Battler, fought using the information gained through repetition requests.:きまで、戦人と激しく戦っていた。}`
+`{ruby:It was the old, familiar kind of fight, reminiscent:その戦いは、初めて赤き真}{ruby:of the time when the red text had first appeared,:実が登場した頃や、}`
+`{ruby:or when the blue:初めて青き真実が許された頃を思い出させ}{ruby:text had first been permitted...:る、泥臭くも懐かしい戦いだった…。}`
 `{ruby:"And the result...?":「得られた成果は…？」}`
-`{ruby:"First, in all cases, it was the victims themselves that constructed the locked rooms.:「まず、密室を構築したのは、いずれも犠牲者たち本人でした。}`
-`{ruby:Also, those locked rooms were perfectly preserved until Krauss's group broke them open.:そして、それを蔵臼たちが破るまでの間、その密室は完全に維持されていました。}`
-`{ruby:Also, I confirmed that during that period, all forms of interference from the outside were impossible.":さらにその間、外部から如何なる方法でも干渉が出来ないことを確認しましたっ」}`
-`{ruby:Erika reported this proudly as though it had been a great battle, but {f:5:Bernkastel} looked bored as she listened.:ヱリカは大戦果だと胸を張りながら報告するが、ベルンカステルはつまらなさそうに聞いている。}`
-`{ruby:After looking at her blankly for a second, {f:5:Lambdadelta} spoke her opinions frankly.:ラムダデルタは、きょとんとしてから、率直な感想を言う。}`
+`{ruby:"First, in all cases, it was the:「まず、密室を構築したのは、いず}{ruby:victims themselves that constructed the locked rooms.:れも犠牲者たち本人でした。}`
+`{ruby:Also, those locked rooms were perfectly:そして、それを蔵臼たちが破るまでの間、そ}{ruby:preserved until Krauss's group broke them open.:の密室は完全に維持されていました。}`
+`{ruby:Also, I confirmed that during that period, all:さらにその間、外部から如何なる方法でも干}{ruby:forms of interference from the outside were impossible.":渉が出来ないことを確認しましたっ」}`
+`{ruby:Erika reported this proudly as though it had been:ヱリカは大戦果だと胸を張りながら報告するが、ベ}{ruby:a great battle, but {f:5:Bernkastel} looked bored as she listened.:ルンカステルはつまらなさそうに聞いている。}`
+`{ruby:After looking at her blankly for:ラムダデルタは、きょとんとして}{ruby:a second, {f:5:Lambdadelta} spoke her opinions frankly.:から、率直な感想を言う。}`
 `{ruby:".........Wait a second.:「………ちょっと待ちなさいよ。}`
-`{ruby:Doesn't that mean this locked‐room murder was perfect?":それってつまり、密室殺人は完璧ってだけの話じゃないの？」}`
+`{ruby:Doesn't that mean this:それってつまり、密室殺人は完璧}{ruby:locked‐room murder was perfect?":ってだけの話じゃないの？」}`
 `{ruby:"Wha......uh......":「うぇ……、ぅ………」}`
-`{ruby:The victims had sealed the locked rooms themselves.:密室は犠牲者たちが自ら封じた。}`
-`{ruby:And that state had been preserved until Krauss and the others had broken the locked rooms open.:そして、蔵臼たちが密室を破るまで、それは維持された。}`
-`{ruby:{n}And no one had been inside the locked rooms except for the victims.:{n}そして、密室には犠牲者以外は誰も存在しなかった。}`
-`{ruby:{n}And Krauss's group, the ones who had broken the room open, were not the culprits......:{n}そして、密室を破った蔵臼たちは犯人ではなく……、}`
-`{ruby:......Erika's battle had proceeeded in this way, with her detailed repetition requests winning her several other little red truths just like these.:……そんな調子で、他にも細かくいくつもの復唱要求から赤き真実を勝ち取った。}`
-`{ruby:Normally, simply collecting such vital information would have been enough.:本来なら、そういった重要な情報が得られただけでも充分な戦果だ。}`
-`{ruby:However, the witch who was her master was tired of boredom,:しかし退屈に飽いた主の魔女は、そういう地味な結果ではなく、}`
-`{ruby:......and she had been expecting a much more flashy, argument‐winning victory instead of this bland result.:もっと派手な、……論破の勝利を期待している。}`
-`{ruby:"H‐however, ......this time, I don't have the detective's authority, so there's a chance that my examination of the corpses could have been in error.:「し、しかしながら、……私は今回、探偵権限を持たないので、検死を誤認する可能性がありました。}`
-`{ruby:S‐so, if we suppose that a drug which mimics death was used to fool my examination, umm...":で、ですので、仮死状態を生み出す薬などで私の検死を欺いたと仮定して、その…」}`
+`{ruby:The victims had sealed:密室は犠牲者たちが}{ruby:the locked rooms themselves.:自ら封じた。}`
+`{ruby:And that state had been preserved until Krauss:そして、蔵臼たちが密室を破る}{ruby:and the others had broken the locked rooms open.:まで、それは維持された。}`
+`{ruby:{n}And no one had been inside:{n}そして、密室には犠牲者以}{ruby:the locked rooms except for the victims.:外は誰も存在しなかった。}`
+`{ruby:{n}And Krauss's group, the ones who had:{n}そして、密室を破った蔵臼}{ruby:broken the room open, were not the culprits......:たちは犯人ではなく……、}`
+`{ruby:......Erika's battle had proceeeded in this way, with her detailed repetition:……そんな調子で、他にも細かくいくつもの}{ruby:requests winning her several other little red truths just like these.:復唱要求から赤き真実を勝ち取った。}`
+`{ruby:Normally, simply collecting such vital:本来なら、そういった重要な情報が得}{ruby:information would have been enough.:られただけでも充分な戦果だ。}`
+`{ruby:However, the witch who was:しかし退屈に飽いた主の魔女は、そ}{ruby:her master was tired of boredom,:ういう地味な結果ではなく、}`
+`{ruby:......and she had been expecting a much more:もっと派手な、……論破の}{ruby:flashy, argument‐winning victory instead of this bland result.:勝利を期待している。}`
+`{ruby:"H‐however, ......this time, I don't have the detective's authority, so there's a:「し、しかしながら、……私は今回、探偵権限を持た}{ruby:chance that my examination of the corpses could have been in error.:ないので、検死を誤認する可能性がありました。}`
+`{ruby:S‐so, if we suppose that a drug which:で、ですので、仮死状態を生み出す薬などで}{ruby:mimics death was used to fool my examination, umm...":私の検死を欺いたと仮定して、その…」}`
 `{ruby:"You mean Purupurupikopuyo?":「プルプルピコプヨ？」}`
 `{ruby:"N‐no, not that...!:「ち、違いますっ…！}`
-`{ruby:It's not impossible for certain well‐known drugs, such as insulin, to bring about a temporary state that mimics death.:例えばインシュリンとか、既知の薬物でも一時的に仮死状態を作ることは不可能ではありませんっ。}`
-`{ruby:......Battler did not counter that with the red truth.:……戦人からは赤き真実による反論はありませんでした。}`
-`{ruby:In other words, my blue truth worked...!:つまりは私の青き真実が通ったということです…！}`
-`{ruby:I...I'd say we've started with a victory.":ま、まずは勝利かとっ」}`
+`{ruby:It's not impossible for certain well‐known drugs, such as:例えばインシュリンとか、既知の薬物でも一時的に仮}{ruby:insulin, to bring about a temporary state that mimics death.:死状態を作ることは不可能ではありませんっ。}`
+`{ruby:......Battler did not counter:……戦人からは赤き真実による}{ruby:that with the red truth.:反論はありませんでした。}`
+`{ruby:In other words,:つまりは私の青き真実が通っ}{ruby:my blue truth worked...!:たということです…！}`
+`{ruby:I...I'd say we've:ま、まずは勝利}{ruby:started with a victory.":かとっ」}`
 `{ruby:To sum up Erika's report,:ヱリカの報告を掻い摘めば結局のところ、}`
-`{ruby:all she had done was listen to the red truths Battler had wanted her to hear.:戦人の望んだ赤き真実だけを与えられて帰ってきたようなものだった。}`
-`{ruby:Only the information Battler had wanted to provide had been presented, and she hadn't been able to strike at any weak points.:戦人の望む情報が示されただけで、何も急所は突けていない。}`
-`{ruby:She was like a kid who had gone out shopping, then forgotten her job and only bought candy...:お使いに行って、用事を忘れてお菓子だけもらって帰ってきた子供のようなものだった…。}`
-`{ruby:.........However, this was all the players on the {y:0:Human}{n:0:human} side could do.:………しかし、それがニンゲン側プレイヤーの限界なのだ。}`
-`{ruby:Without the detective proclamation, she could only fight by collecting dull bits of information like that.:探偵宣言のない彼女は、そうした地味な情報を積み上げて戦うしかない。}`
-`{ruby:......All the same, her master had been expecting more than that sort of dull fight...:……しかし彼女の主は、そんな地味な戦い方を期待してはいないのだ…。}`
-`{ruby:So, ......she had tried to give her report energetically, ......to make it seem as though they were in a superior position...:だからせめて……、威勢良く報告し、……優勢であるかのように取り繕う…。}`
-`{ruby:But no matter how much she tried, the cold expression of her master remained merciless...:しかしどう取り繕うと、冷め切った主の表情は、ただただ冷酷なだけだった…。}`
+`{ruby:all she had done was listen to the:戦人の望んだ赤き真実だけを与えられ}{ruby:red truths Battler had wanted her to hear.:て帰ってきたようなものだった。}`
+`{ruby:Only the information Battler had wanted to provide had been presented,:戦人の望む情報が示されただけで}{ruby:and she hadn't been able to strike at any weak points.:、何も急所は突けていない。}`
+`{ruby:She was like a kid who had gone out:お使いに行って、用事を忘れてお菓子だけもらっ}{ruby:shopping, then forgotten her job and only bought candy...:て帰ってきた子供のようなものだった…。}`
+`{ruby:.........However, this was all the players:………しかし、それがニンゲン側}{ruby:on the {y:0:Human}{n:0:human} side could do.:プレイヤーの限界なのだ。}`
+`{ruby:Without the detective proclamation, she could only fight:探偵宣言のない彼女は、そうした地味な}{ruby:by collecting dull bits of information like that.:情報を積み上げて戦うしかない。}`
+`{ruby:......All the same, her master had been:……しかし彼女の主は、そんな地味な戦}{ruby:expecting more than that sort of dull fight...:い方を期待してはいないのだ…。}`
+`{ruby:So, ......she had tried to give her report energetically, ......to:だからせめて……、威勢良く報告し、……}{ruby:make it seem as though they were in a superior position...:優勢であるかのように取り繕う…。}`
+`{ruby:But no matter how much she tried,:しかしどう取り繕うと、冷め切った主の表}{ruby:the cold expression of her master remained merciless...:情は、ただただ冷酷なだけだった…。}`
 `{ruby:"......Your blue truth {i:worked}...?:「……青き真実が通った…？}`
-`{ruby:You mean it was too ridiculous for him to bother cutting down.:馬鹿馬鹿しくて切り返さなかっただけでしょ。}`
-`{ruby:......Impressive powers of deduction, Great Detective...":……自称名探偵が大した推理だこと…」}`
-`{ruby:"I...I did try to examine the corpses with care, to the best of my abilities...:「わ、私なりには慎重に検死を行なったつもりです…。}`
-`{ruby:......However, I don't have the detective's authority, .........so we can't be certain...":……ですが、探偵権限がないので、その、………それでも絶対とは言い切れず…」}`
-`{ruby:"Wait a second, weren't you the one who decided not to make the detective proclamation?:「何よ、あんたが自分で探偵宣言を放棄したんでしょ？}`
-`{ruby:Didn't you say you wanted to raise the stakes to make up for your disgrace last time?":前回の汚名を返上するためにレートを上げたいとか言い出して」}`
-`{ruby:"............W‐......well...............":「…………そ、……それは………、……」}`
+`{ruby:You mean it was too ridiculous:馬鹿馬鹿しくて切り返さな}{ruby:for him to bother cutting down.:かっただけでしょ。}`
+`{ruby:......Impressive powers of:……自称名探偵が大し}{ruby:deduction, Great Detective...":た推理だこと…」}`
+`{ruby:"I...I did try to examine the corpses:「わ、私なりには慎重に検死を}{ruby:with care, to the best of my abilities...:行なったつもりです…。}`
+`{ruby:......However, I don't have the detective's:……ですが、探偵権限がないので、その、…}{ruby:authority, .........so we can't be certain...":……それでも絶対とは言い切れず…」}`
+`{ruby:"Wait a second, weren't you the one:「何よ、あんたが自分で探偵宣}{ruby:who decided not to make the detective proclamation?:言を放棄したんでしょ？}`
+`{ruby:Didn't you say you wanted to raise the:前回の汚名を返上するためにレート}{ruby:stakes to make up for your disgrace last time?":を上げたいとか言い出して」}`
+`{ruby::「…………そ、……それ}{ruby:"............W‐......well...............":は………、……」}`
 `{ruby:"What's wrong?:「なぁに？}`
-`{ruby:......Are you saying you can't win against Battler without the detective's authority......?":……探偵権限がないと、戦人には勝てないって、そう言うの……？」}`
+`{ruby:......Are you saying you can't win:……探偵権限がないと、戦人には勝て}{ruby:against Battler without the detective's authority......?":ないって、そう言うの……？」}`
 `{ruby:"N‐......not at all, my master.:「そ、……そんなことはありません、我が主っ。}`
-`{ruby:...I...I can easily defeat an incompetent buffoon like that, even without the detective's authority...:…あっ、あのような無能、探偵権限などなくても、簡単に勝てますっ…。}`
-`{ruby:......It's just......this style of fighting is a little different from what I'm used to, and I haven't gotten the hang of it yet......":……ただその、……これまでと戦い方が、ちょっとだけ違って、まだ慣れないだけで……」}`
-`{ruby:Compared to other human beings, Erika would rank as extremely talented.:ヱリカ個人は、人間の中ではかなり優秀な部類に入る。}`
-`{ruby:Her knowledge and powers of memory and insight were ahead of the pack, and most likely, no human could be more suitable for the role of detective than her.:抜群の記憶力や洞察力、記憶や知識など、彼女ほど探偵に向いた人間は、他に存在しないと断言できるだろう。}`
-`{ruby:However, no matter how superior she might be to other humans,:しかし、どんなに他の人間より優秀であっても。}`
-`{ruby:......that didn't matter in a game of witches.:{n}……魔女のゲームでは、同じ評価とはならない。}`
-`{ruby:In a witch's game, it's either 0 or 100.:魔女のゲームは、０か１００。}`
-`{ruby:{n}In other words, everything is either the red truth, or it isn't.:{n}即ち、赤き真実であるか否かのどちらかだけだ。}`
-`{ruby:If a normal human's abilities were worth a 10, her exceptional power would probably rate a 99.:彼女の優れた力は、並の人間なら１０のところを、９９にも値するだろう。}`
-`{ruby:......However, it could never be 100.:……しかし、決して１００にはならない。}`
-`{ruby:Since it was less than 100, it wasn't absolutely certain.:１００に満たないということは、絶対ではないということ。}`
+`{ruby:...I...I can easily defeat an incompetent buffoon:…あっ、あのような無能、探偵権限など}{ruby:like that, even without the detective's authority...:なくても、簡単に勝てますっ…。}`
+`{ruby:......It's just......this style of fighting is a little different from what:……ただその、……これまでと戦い方が、ちょっ}{ruby:I'm used to, and I haven't gotten the hang of it yet......":とだけ違って、まだ慣れないだけで……」}`
+`{ruby:Compared to other human beings,:ヱリカ個人は、人間の中ではか}{ruby:Erika would rank as extremely talented.:なり優秀な部類に入る。}`
+`{ruby:Her knowledge and powers of memory and insight were ahead of the pack, and:抜群の記憶力や洞察力、記憶や知識など、彼女ほど探偵に}{ruby:most likely, no human could be more suitable for the role of detective than her.:向いた人間は、他に存在しないと断言できるだろう。}`
+`{ruby:However, no matter how superior:しかし、どんなに他の人間}{ruby:she might be to other humans,:より優秀であっても。}`
+`{ruby:......that didn't matter in:{n}……魔女のゲームでは、}{ruby:a game of witches.:同じ評価とはならない。}`
+`{ruby:In a witch's game,:魔女のゲームは、}{ruby:it's either 0 or 100.:０か１００。}`
+`{ruby:{n}In other words, everything is either:{n}即ち、赤き真実であるか}{ruby:the red truth, or it isn't.:否かのどちらかだけだ。}`
+`{ruby:If a normal human's abilities were worth a:彼女の優れた力は、並の人間なら１０の}{ruby:10, her exceptional power would probably rate a 99.:ところを、９９にも値するだろう。}`
+`{ruby:......However, it could:……しかし、決して１０}{ruby:never be 100.:０にはならない。}`
+`{ruby:Since it was less than:１００に満たないということは、}{ruby:100, it wasn't absolutely certain.:絶対ではないということ。}`
 `{ruby:{n}So it didn't count as red truth.:{n}赤き真実に届かないということだ。}`
-`{ruby:For example, ......the examination of the corpses that Erika had worried over in the fight just now.:例えば、……つい先ほどの戦いでヱリカが頭を悩ませた、犠牲者たちの検死。}`
-`{ruby:If she had performed it with the detective's authority, she could have said with 100% certainty whether they were alive or dead.:探偵宣言を以っての検死ならば、１００％生死を特定できる。}`
-`{ruby:However, without the detective proclamation, it was 99%.:しかし探偵宣言がなければ、９９％。}`
-`{ruby:......There was a 1% chance that she made a mistake, and that overturned the foundation of the examination.:……１％の確率で誤診が存在し、それを根拠に、検死の根底が引っ繰り返されてしまう。}`
-`{ruby:The reason Erika had gained the detective's authority and become the Witch of Truth...:その９９の才能に、ベルンカステルが１の奇跡を加えたからこそ、}`
-`{ruby:...was that {f:5:Bernkastel} had supplemented her talent of 99 with an additional 1...:ヱリカは１００となり、探偵権限を得て、さらに真実の魔女にまで至れたのだ…。}`
-`{ruby:Just because {f:5:Bernkastel} wouldn't give her that 1,:ベルンカステルが、たった１を与えないだけで、}`
-`{ruby:......in the world of witches, Erika's 99 was treated exactly the same as zero...:……魔女の世界は、９９の彼女を、ゼロとまったく同じに扱ってしまう…。}`
-`{ruby:Even her talented assistant Dlanor couldn't be put to proper use without a power of 100.:ドラノールという優秀な補佐も、１００の力がなければまったく使いこなせない。}`
-`{ruby:When working under an Erika who had lost the detective's authority, Dlanor's red longsword lost its power.:探偵権限を失ったヱリカの下では、ドラノールの赤い太刀も力を失うのだ。}`
-`{ruby:Dlanor also found it vexing that she couldn't provide adequate assistance...:充分な補佐が出来ず、ドラノールも歯痒い思いをしている…。}`
-`{ruby:......She had tried several times to convince Erika to use the detective proclamation, but Erika had stubbornly refused each time...:……探偵宣言を出すように何度も説得しているのだが、ヱリカは頑なにそれを拒絶していた…。}`
-`{ruby:"Why not just do it? Make that detective proclamation.:「しちゃえばいいじゃない。探偵宣言。}`
+`{ruby:For example, ......the examination of the corpses that:例えば、……つい先ほどの戦いでヱリカが}{ruby:Erika had worried over in the fight just now.:頭を悩ませた、犠牲者たちの検死。}`
+`{ruby:If she had performed it with the detective's authority, she could:探偵宣言を以っての検死ならば、}{ruby:have said with 100% certainty whether they were alive or dead.:１００％生死を特定できる。}`
+`{ruby:However, without the detective:しかし探偵宣言がなけ}{ruby:proclamation, it was 99%.:れば、９９％。}`
+`{ruby:......There was a 1% chance that she made a:……１％の確率で誤診が存在し、それを根拠に}{ruby:mistake, and that overturned the foundation of the examination.:、検死の根底が引っ繰り返されてしまう。}`
+`{ruby:The reason Erika had gained the detective's:その９９の才能に、ベルンカステル}{ruby:authority and become the Witch of Truth...:が１の奇跡を加えたからこそ、}`
+`{ruby:...was that {f:5:Bernkastel} had supplemented her:ヱリカは１００となり、探偵権限を得て、さ}{ruby:talent of 99 with an additional 1...:らに真実の魔女にまで至れたのだ…。}`
+`{ruby:Just because {f:5:Bernkastel} wouldn't:ベルンカステルが、たった}{ruby:give her that 1,:１を与えないだけで、}`
+`{ruby:......in the world of witches, Erika's 99:……魔女の世界は、９９の彼女を、ゼロ}{ruby:was treated exactly the same as zero...:とまったく同じに扱ってしまう…。}`
+`{ruby:Even her talented assistant Dlanor couldn't be put:ドラノールという優秀な補佐も、１００の力}{ruby:to proper use without a power of 100.:がなければまったく使いこなせない。}`
+`{ruby:When working under an Erika who had lost:探偵権限を失ったヱリカの下では、ドラ}{ruby:the detective's authority, Dlanor's red longsword lost its power.:ノールの赤い太刀も力を失うのだ。}`
+`{ruby:Dlanor also found it vexing:充分な補佐が出来ず、ドラノール}{ruby:that she couldn't provide adequate assistance...:も歯痒い思いをしている…。}`
+`{ruby:......She had tried several times to convince Erika to use:……探偵宣言を出すように何度も説得しているのだ}{ruby:the detective proclamation, but Erika had stubbornly refused each time...:が、ヱリカは頑なにそれを拒絶していた…。}`
+`{ruby:"Why not just do:「しちゃえばいいじゃ}{ruby:it? Make that detective proclamation.:ない。探偵宣言。}`
 `{ruby:If you do, you'll be unstoppable.:そうすれば、あんたも百人力。}`
-`{ruby:Dlanor could even use her red longsword and the Knox Decalogue.":ドラノールも赤い太刀とノックス十戒でバッサバッサじゃない」}`
-`{ruby:"............Why not do it...if you want......?":「…………したければ、すれば……？」}`
+`{ruby:Dlanor could even use her:ドラノールも赤い太刀とノックス十}{ruby:red longsword and the Knox Decalogue.":戒でバッサバッサじゃない」}`
+`{ruby:"............Why not do:「…………したければ}{ruby:it...if you want......?":、すれば……？」}`
 `{ruby:"N‐......no.":「ぃ……、……ぃぇ」}`
-`{ruby:There was no need for anyone to explain...:もはや、事情を誰かが説明するまでもない…。}`
-`{ruby:By now, it was clear that Erika hadn't abandoned the detective proclamation by her own will.:ヱリカが自らの意思で、探偵宣言を放棄したわけでないことは明白だった。}`
-`{ruby:"......When Battler reached the truth in the previous game,:「……前回のゲームで、戦人が真相に辿り着いた時点で。}`
-`{ruby:......this game was already finished.:……もはやこのゲームは終わりだったのよ。}`
+`{ruby:There was no need:もはや、事情を誰かが説明}{ruby:for anyone to explain...:するまでもない…。}`
+`{ruby:By now, it was clear that Erika hadn't:ヱリカが自らの意思で、探偵宣言を放棄}{ruby:abandoned the detective proclamation by her own will.:したわけでないことは明白だった。}`
+`{ruby:"......When Battler reached the:「……前回のゲームで、戦人が}{ruby:truth in the previous game,:真相に辿り着いた時点で。}`
+`{ruby:......this game:……もはやこのゲームは}{ruby:was already finished.:終わりだったのよ。}`
 `{ruby:This isn't really the sixth game.:今回のゲームは、実は第６のゲームじゃない。}`
-`{ruby:......It's a finale game so that Battler can have a chance to serve as Game Master at the end.:……戦人がゲームマスターとして、記念に最後に執り行う、フィナーレのゲームなのよ。}`
-`{ruby:Everything was already decided last game.":もう決着は前回、ついている」}`
+`{ruby:......It's a finale game so that Battler can have:……戦人がゲームマスターとして、記念に最後}{ruby:a chance to serve as Game Master at the end.:に執り行う、フィナーレのゲームなのよ。}`
+`{ruby:Everything was already:もう決着は前回、}{ruby:decided last game.":ついている」}`
 `{ruby:"Yeah, pretty much.:「ま、そういうことよねぇ。}`
-`{ruby:The games won't continue forever, and I've lost my bet with Bern.:無限にゲームが続かなくなり、私とベルンの賭けは私の負け。}`
-`{ruby:.........In this game, Battler will prove that he's reached the game's truth,:………今回、戦人がゲームの真相に至ったことを証明して、}`
-`{ruby:and then Beato's game will be destroyed in a big victory for the {y:0:Human}{n:0:human} side.:ベアトのゲームは見事打ち破られて、ニンゲン側の大勝利。}`
+`{ruby:The games won't continue forever, and:無限にゲームが続かなくなり、私}{ruby:I've lost my bet with Bern.:とベルンの賭けは私の負け。}`
+`{ruby:.........In this game, Battler will prove:………今回、戦人がゲームの真相}{ruby:that he's reached the game's truth,:に至ったことを証明して、}`
+`{ruby:and then Beato's game will be destroyed:ベアトのゲームは見事打ち破られ}{ruby:in a big victory for the {y:0:Human}{n:0:human} side.:て、ニンゲン側の大勝利。}`
 `{ruby:And a big victory for Bern too.:そしてベルンも大勝利。}`
-`{ruby:......Well, supposedly, but you look unsatisfied for some reason.":……のはずなのに、なぜか不服なのよねぇ？」}`
+`{ruby:......Well, supposedly, but you:……のはずなのに、なぜか}{ruby:look unsatisfied for some reason.":不服なのよねぇ？」}`
 `{ruby:".....................Because I am.:「…………………えぇ、不服よ。}`
-`{ruby:I didn't want such a boring victory.":こんなつまらない勝利、私は望んでないの」}`
-`{ruby:"The victory you wanted was for Beato's game board to be torn to bits,:「ベルンが望む勝利は、ベアトのゲーム盤を徹底的に引き裂き、}`
-`{ruby:and for Beato's true, pathetic form to be exposed, humiliated, and trampled on.:ベアトのみすぼらしい正体を暴いて、徹底的に泥を舐めさせて踏み躙ること。}`
-`{ruby:......But this victory of Battler's isn't quite like that, is it...?":……だから戦人のこの勝利は、ちょーっと違うのよねぇ…？」}`
-`{ruby:"......All this about love......and promises.:「……愛だの、……約束だの。}`
-`{ruby:......To end the game quietly and let her rest in peace?:……静かにゲームを終わらせて、安らかに眠らせる？}`
-`{ruby:......That sort of ending would make anyone vomit.":……そんなゲロ臭い終わり方、誰が望んだってのよ」}`
-`{ruby:"I didn't give Battler all that advice so that he could end things like that.:「私はね、そんな終わり方のために、戦人に助言を与えたわけじゃないのよ。}`
-`{ruby:......I had his little sister turned to scrap meat behind his back.:……妹を背中で挽き肉にしてやったわ。}`
-`{ruby:I had his parents and family killed horribly over and over again.:両親や親族を何度も何度も惨たらしく殺させてやったわ。}`
-`{ruby:That was all to spark a desire for revenge against Beato.":それは全て、ベアトに対し、怒りの復讐を掻き立てるためよ？」}`
-`{ruby:"And now............what kind of an ending is this...?:「それが、…………この終わり方は何…？}`
+`{ruby:I didn't want:こんなつまらない勝利、}{ruby:such a boring victory.":私は望んでないの」}`
+`{ruby:"The victory you wanted was for Beato's:「ベルンが望む勝利は、ベアトのゲ}{ruby:game board to be torn to bits,:ーム盤を徹底的に引き裂き、}`
+`{ruby:and for Beato's true, pathetic form:ベアトのみすぼらしい正体を暴いて、徹底}{ruby:to be exposed, humiliated, and trampled on.:的に泥を舐めさせて踏み躙ること。}`
+`{ruby:......But this victory of Battler's:……だから戦人のこの勝利は、ち}{ruby:isn't quite like that, is it...?":ょーっと違うのよねぇ…？」}`
+`{ruby:"......All this:「……愛だの、…}{ruby:about love......and promises.:…約束だの。}`
+`{ruby:......To end the game quietly:……静かにゲームを終わらせ}{ruby:and let her rest in peace?:て、安らかに眠らせる？}`
+`{ruby:......That sort of ending:……そんなゲロ臭い終わり方、}{ruby:would make anyone vomit.":誰が望んだってのよ」}`
+`{ruby:"I didn't give Battler all that advice:「私はね、そんな終わり方のために、戦人}{ruby:so that he could end things like that.:に助言を与えたわけじゃないのよ。}`
+`{ruby:......I had his little sister turned:……妹を背中で挽き肉}{ruby:to scrap meat behind his back.:にしてやったわ。}`
+`{ruby:I had his parents and family:両親や親族を何度も何度も惨た}{ruby:killed horribly over and over again.:らしく殺させてやったわ。}`
+`{ruby:That was all to spark:それは全て、ベアトに対し、怒りの}{ruby:a desire for revenge against Beato.":復讐を掻き立てるためよ？」}`
+`{ruby:"And now............what kind of:「それが、…………この}{ruby:an ending is this...?:終わり方は何…？}`
 `{ruby:Have I won?:私の勝利？}`
-`{ruby:Of course not! ......Battler's gotten his hands on a victory that neither you nor I can stand.":とんでもないッ、……戦人は、私もあんたも喜ばせない勝利を手にしたわ」}`
-`{ruby:"...I came all the way out here to see {f:5:Beatrice} lamely and pathetically torn to bits,:「…私はね、ベアトリーチェがずたずたのぼろぼろに引き裂かれるところが見たくて、}`
-`{ruby:and I endured a staggering period of boredom just for that one purpose.:はるばるこんな辺境までやって来て、気の遠くなる退屈な時間に耐えてここにいたのよ。}`
-`{ruby:I didn't come here to sip from a.........rotten yogurt fragment like this!":こんな、………腐りかけのヨーグルトみたいなカケラを啜らされるためじゃないッ！」}`
-`{ruby:"Ahh, your angry face is wonderful too, Bern.:「あぁん、ご立腹の顔もステキだわ、ベルン。}`
-`{ruby:......I get it, so you wanted at least one final something to get the bad taste out of your mouth.":……なるほどね、それでせめて最後くらい、口直しが欲しかったわけね」}`
-`{ruby:"It's all the fault of this moron piece screwing up last game!:「全部、前回のゲームでドジを踏んだこの馬鹿駒のせいだわッ。}`
-`{ruby:Because of you, the first game board in centuries that looked like it might be a bit of fun for me...:お前のせいで、数百年ぶりに楽しめそうなゲーム盤がッ、}`
+`{ruby:Of course not! ......Battler's gotten his hands on:とんでもないッ、……戦人は、私もあんた}{ruby:a victory that neither you nor I can stand.":も喜ばせない勝利を手にしたわ」}`
+`{ruby:"...I came all the way out here to:「…私はね、ベアトリーチェがずたずたのぼろ}{ruby:see {f:5:Beatrice} lamely and pathetically torn to bits,:ぼろに引き裂かれるところが見たくて、}`
+`{ruby:and I endured a staggering period:はるばるこんな辺境までやって来て、気の遠く}{ruby:of boredom just for that one purpose.:なる退屈な時間に耐えてここにいたのよ。}`
+`{ruby:I didn't come here to sip:こんな、………腐りかけのヨーグルトみたいな}{ruby:from a.........rotten yogurt fragment like this!":カケラを啜らされるためじゃないッ！」}`
+`{ruby:"Ahh, your angry face:「あぁん、ご立腹の顔もス}{ruby:is wonderful too, Bern.:テキだわ、ベルン。}`
+`{ruby:......I get it, so you wanted at least one final:……なるほどね、それでせめて最後くら}{ruby:something to get the bad taste out of your mouth.":い、口直しが欲しかったわけね」}`
+`{ruby:"It's all the fault of this:「全部、前回のゲームでドジを踏ん}{ruby:moron piece screwing up last game!:だこの馬鹿駒のせいだわッ。}`
+`{ruby:Because of you, the first game board in centuries that:お前のせいで、数百年ぶりに楽}{ruby:looked like it might be a bit of fun for me...:しめそうなゲーム盤がッ、}`
 `{ruby:is all...:全てッ、}`
 `{ruby:wasted...!!:台無しよ…！！}`
 `{ruby:Filth,:クズ、}`
 `{ruby:trash,:ゴミ、}`
 `{ruby:scum!!":カス！！」}`
-`{ruby:"...M‐......my apologies, ...my master......:「…もッ、……申し訳ありませんッ、…我が主……。}`
-`{ruby:......I will definitely...bring you a victory, ......so please forgive me......":……必ず、勝利を捧げますから、……どうかお許し下さい……」}`
-`{ruby:"If you couldn't win with the detective's authority in the last game,:「前回、探偵権限まで使って勝てなかったあんたが、}`
-`{ruby:how do you expect to defeat Battler now that he's the Game Master...?:どうしてゲームマスターにまで至った戦人に今回、打ち勝てるっての…？}`
-`{ruby:You don't have a chance at winning even {i:with} the detective's authority.:探偵権限があったって、あんたに勝ち目なんかないのよ。}`
+`{ruby:"...M‐......my apologies,:「…もッ、……申し訳ありま}{ruby:...my master......:せんッ、…我が主……。}`
+`{ruby:......I will definitely...bring you a:……必ず、勝利を捧げますから、…}{ruby:victory, ......so please forgive me......":…どうかお許し下さい……」}`
+`{ruby:"If you couldn't win with the:「前回、探偵権限まで使って}{ruby:detective's authority in the last game,:勝てなかったあんたが、}`
+`{ruby:how do you expect to defeat:どうしてゲームマスターにまで至った戦}{ruby:Battler now that he's the Game Master...?:人に今回、打ち勝てるっての…？}`
+`{ruby:You don't have a chance at:探偵権限があったって、あんたに}{ruby:winning even {i:with} the detective's authority.:勝ち目なんかないのよ。}`
 `{ruby:......So why bother with it?":……ならいっそ、いらないじゃない？」}`
 `{ruby:"I......uh............":「そ、……それは…………、」}`
-`{ruby:"Yeah, if you can't win anyway, then who needs the detective's authority?:「確かに、元々勝てないんじゃ、探偵権限はいらないわねぇ。}`
-`{ruby:A certain loss becomes even more certain, big whoop.":より確実に負けるだけだけど」}`
-`{ruby:"And therefore, if you manage to win in this even worse situation,:「だからこそ、より最悪な状況であなたが勝って見せたなら、}`
-`{ruby:......that would be a miracle worthy of me.:……それこそ私に相応しい奇跡だわ。}`
-`{ruby:If and only if you can do that, I'll be able to forgive you.":そこまでして初めて、私はあんたを許せる」}`
+`{ruby:"Yeah, if you can't win anyway,:「確かに、元々勝てないんじゃ、}{ruby:then who needs the detective's authority?:探偵権限はいらないわねぇ。}`
+`{ruby:A certain loss becomes:より確実に負ける}{ruby:even more certain, big whoop.":だけだけど」}`
+`{ruby:"And therefore, if you manage to:「だからこそ、より最悪な状況で}{ruby:win in this even worse situation,:あなたが勝って見せたなら、}`
+`{ruby:......that would be a:……それこそ私に相応}{ruby:miracle worthy of me.:しい奇跡だわ。}`
+`{ruby:If and only if you can do:そこまでして初めて、私}{ruby:that, I'll be able to forgive you.":はあんたを許せる」}`
 `{ruby:"Y‐yes.:「は、はいっ。}`
-`{ruby:......I will surely...show you that miracle...!":……必ず、…その奇跡をお目に掛けて見せます…！」}`
+`{ruby:......I will surely...show:……必ず、…その奇跡をお目}{ruby:you that miracle...!":に掛けて見せます…！」}`
 `{ruby:"You:「で}`
-`{ruby:{i:wish} you could, disgusting pukespittle.":きるわけねーだろ、ゲロカス」}`
-`{ruby:"The best you can do is take part in the worst punishment game ever for the worst game ever,:「あんたに出来るのは、最悪のゲームに最悪の罰ゲーム、}`
-`{ruby:with your only weapon, the detective proclamation, taken away from you, humiliating yourself until you have no dignity left,:さらに探偵宣言という唯一の武器まで取り上げられて、とことんまで惨めを晒して。}`
-`{ruby:and through it all, you'll roll onto your back like a dog and beg for my affection.:それでもなお、腹を見せながら私にじゃれ付いて媚びて見せて、}`
-`{ruby:Your purpose, pukespittle, is to make me laugh.":私を笑わせることだけよゲロカス」}`
+`{ruby:{i:wish} you:きるわけねーだろ}{ruby:could, disgusting pukespittle.":、ゲロカス」}`
+`{ruby:"The best you can do is take part in:「あんたに出来るのは、最悪の}{ruby:the worst punishment game ever for the worst game ever,:ゲームに最悪の罰ゲーム、}`
+`{ruby:with your only weapon, the detective proclamation, taken away:さらに探偵宣言という唯一の武器まで取り上}{ruby:from you, humiliating yourself until you have no dignity left,:げられて、とことんまで惨めを晒して。}`
+`{ruby:and through it all, you'll roll onto your:それでもなお、腹を見せながら私に}{ruby:back like a dog and beg for my affection.:じゃれ付いて媚びて見せて、}`
+`{ruby:Your purpose, pukespittle, is:私を笑わせることだ}{ruby:to make me laugh.":けよゲロカス」}`
 `{ruby:".........uugh...":「………ぅ…」}`
 `{ruby:{a:c::{a:c:}`
-`{ruby:"......Sounds like you're having a great time in here.:「……楽しそうだな。}`
+`{ruby:"......Sounds like you're having:「……楽しそ}{ruby:a great time in here.:うだな。}`
 `{ruby:{n}Am I interrupting?"}:お邪魔だったか」}}`
-`{ruby:Gold butterflies gathered in the darkness and took the shape of Battler.:暗がりに黄金蝶が集まり、戦人の姿を作る。}`
-`{ruby:Though he had just arrived, he seemed to realize immediately that the mood was dark.:今、来たばかりにもかかわらず、空気が澱んでいることはすぐに理解できたようだった。}`
+`{ruby:Gold butterflies gathered in the darkness:暗がりに黄金蝶が集まり}{ruby:and took the shape of Battler.:、戦人の姿を作る。}`
+`{ruby:Though he had just arrived, he seemed:今、来たばかりにもかかわらず、空気が澱んで}{ruby:to realize immediately that the mood was dark.:いることはすぐに理解できたようだった。}`
 `{ruby:".........Ah, Battler.:「………あら戦人。}`
 `{ruby:I had a look at your first twilight.:第一の晩、拝見させてもらったわ。}`
 `{ruby:Quite impressive locked rooms.:なかなかの密室じゃない。}`
-`{ruby:I'm sure you're more talented than Beato.":あなたきっと、ベアトより才能あるわ」}`
-`{ruby:"It's just a rehash of the locked rooms Beato made in the past.:「ベアトが過去に作った密室を焼き直しただけだ。}`
-`{ruby:I'll take that to be a compliment for Beato.":その褒め言葉は、ベアトに対するものとして受け取っておく」}`
-`{ruby:"It seems your fight with Erika wasn't bad either.:「ヱリカとの攻防も、まずまずだったみたいじゃなぁい。}`
-`{ruby:Think your serial murders will move along smoothly?":連続殺人は、順調に行っちゃいそう？」}`
+`{ruby:I'm sure you're:あなたきっと、ベアト}{ruby:more talented than Beato.":より才能あるわ」}`
+`{ruby:"It's just a rehash of the:「ベアトが過去に作った密室}{ruby:locked rooms Beato made in the past.:を焼き直しただけだ。}`
+`{ruby:I'll take that to:その褒め言葉は、ベアトに対する}{ruby:be a compliment for Beato.":ものとして受け取っておく」}`
+`{ruby:"It seems your fight:「ヱリカとの攻防も、まずまず}{ruby:with Erika wasn't bad either.:だったみたいじゃなぁい。}`
+`{ruby:Think your serial murders:連続殺人は、順調に行}{ruby:will move along smoothly?":っちゃいそう？」}`
 `{ruby:"......Who knows?:「……さぁな。}`
-`{ruby:My role isn't to carry out serial murders.:俺の役目は、連続殺人を遂行することじゃない。}`
-`{ruby:It's to use that process to demonstrate locked rooms that are impossible without magic,:その過程で貴様らに、魔法以外では不可能な密室を提示して、}`
-`{ruby:and thereby achieve victory for the witch side and prove that I have fully understood this game.:魔女側として勝利を収め、俺がこのゲームを完全に理解したことを証明することだ。}`
+`{ruby:My role isn't to:俺の役目は、連続殺人を遂}{ruby:carry out serial murders.:行することじゃない。}`
+`{ruby:It's to use that process to demonstrate:その過程で貴様らに、魔法以外で}{ruby:locked rooms that are impossible without magic,:は不可能な密室を提示して、}`
+`{ruby:and thereby achieve victory for the witch side:魔女側として勝利を収め、俺がこのゲームを}{ruby:and prove that I have fully understood this game.:完全に理解したことを証明することだ。}`
 `{ruby:......No, there's one more thing.":……いや、もう一つあるな」}`
 `{ruby:"What......?":「何……？」}`
-`{ruby:"To settle the score with Erika, since our previous duel ended in an even tie.":「前回、互角の死闘を演じた、ヱリカとの決着をつけるためさ」}`
+`{ruby:"To settle the score with Erika, since:「前回、互角の死闘を演じた、ヱリ}{ruby:our previous duel ended in an even tie.":カとの決着をつけるためさ」}`
 `{ruby:".........Battler......":「………戦人……」}`
 `{ruby:"Ev...en......tie...?":「ご、……か、くゥ…？」}`
 `{ruby:{f:5:Bernkastel} noticeably grimaced.:ベルンカステルの表情が、露骨に歪む。}`
-`{ruby:{n}Erika averted her eyes and hung her head, timidly...:{n}ヱリカはそれから目を背け、萎縮するように俯く…。}`
+`{ruby:{n}Erika averted her eyes:{n}ヱリカはそれから目を背け}{ruby:and hung her head, timidly...:、萎縮するように俯く…。}`
 `{ruby:"I know what you're thinking.:「お前の言い分はわかってる。}`
 `{ruby:That wasn't a draw,:あんなのは引き分けじゃない、}`
-`{ruby:you should have won easily so it counts as a loss.":勝てて当然だから、あれは負けも同然だと、そう言いたいんだろう」}`
+`{ruby:you should have won easily:勝てて当然だから、あれは負けも同然}{ruby:so it counts as a loss.":だと、そう言いたいんだろう」}`
 `{ruby:"Hey,:「あらやだ。}`
 `{ruby:it's not polite to eavesdrop.":盗み聞きなんて性格悪いわよぅ？」}`
 `{ruby:"......Look in a mirror.:「……鏡見ろ。}`
@@ -291,464 +291,464 @@
 `{ruby:"No way...!:「ウソ…！}`
 `{ruby:Where?!:どこによッ。}`
 `{ruby:Hey, what's going on?!:えー、何よそれー？！}`
-`{ruby:If you tell me it's written in ink only morons can't see, then death, death, super death for you!!":バカには見えないマジックで書いてあるとか言ったら殺す殺す超殺すー！！」}`
-`{ruby:{f:5:Lambdadelta} pulled a mirror out of thin air, peered into it, and made a comical fuss.:ラムダデルタは、宙に鏡を出すと、それを覗き込んで滑稽に騒ぐ。}`
-`{ruby:She was apparently playing the fool in her own, special way.:彼女なりに道化を演じているつもりのようだ。}`
+`{ruby:If you tell me it's written in ink only:バカには見えないマジックで書いてあると}{ruby:morons can't see, then death, death, super death for you!!":か言ったら殺す殺す超殺すー！！」}`
+`{ruby:{f:5:Lambdadelta} pulled a mirror out of thin air,:ラムダデルタは、宙に鏡を出すと、}{ruby:peered into it, and made a comical fuss.:それを覗き込んで滑稽に騒ぐ。}`
+`{ruby:She was apparently playing the:彼女なりに道化を演じてい}{ruby:fool in her own, special way.:るつもりのようだ。}`
 `{ruby:".........Erika.":「………ヱリカ」}`
 `{ruby:"Wh‐......what is it?":「な、……何ですか」}`
-`{ruby:"That storm of red and blue from you and Dlanor in the last game...was spectacular.":「前回の、お前とドラノールの、赤と青の猛攻、見事だったぜ」}`
+`{ruby:"That storm of red and blue from:「前回の、お前とドラノールの、赤}{ruby:you and Dlanor in the last game...was spectacular.":と青の猛攻、見事だったぜ」}`
 `{ruby:"......Th‐.........thanks.":「……ど、………どうも」}`
 `{ruby:"What happened to Dlanor this time?:「今回はドラノールはどうした。}`
 `{ruby:Are you by yourself?":お前ひとりなのか」}`
 `{ruby:".........{f:5:No}.:「………イイエ。}`
-`{ruby:......I have been waiting {f:5:here}.":……ここに控えておりマス」}`
-`{ruby:Dlanor had been just standing around in reserve,:ドラノールは、薄暗い影の中に気配を消して、}`
-`{ruby:hiding her presence in the dark shadows...:ただ、ぼんやりと立って控えていた…。}`
-`{ruby:"Well, when she can't use her red longsword, Dlanor is just useless pukespittle.:「まぁ、赤き太刀が使えないドラノールなんて、役立たずのただのゲロカス。}`
-`{ruby:There's no point having her around, so I've dropped her from the action.":いても役に立たないので、引っ込めてますが」}`
-`{ruby:"............All I can do now is keep records of Lady {f:5:Erika}'s {f:5:reasoning}.":「…………今の私に出来るのは、ヱリカ卿の推理の書記だけデス」}`
+`{ruby:......I have:……ここに控えて}{ruby:been waiting {f:5:here}.":おりマス」}`
+`{ruby:Dlanor had been just:ドラノールは、薄暗い影の}{ruby:standing around in reserve,:中に気配を消して、}`
+`{ruby:hiding her presence:ただ、ぼんやりと立っ}{ruby:in the dark shadows...:て控えていた…。}`
+`{ruby:"Well, when she can't use her:「まぁ、赤き太刀が使えないドラノールな}{ruby:red longsword, Dlanor is just useless pukespittle.:んて、役立たずのただのゲロカス。}`
+`{ruby:There's no point having her around,:いても役に立たないので、}{ruby:so I've dropped her from the action.":引っ込めてますが」}`
+`{ruby:"............All I can do now is:「…………今の私に出来るのは、ヱ}{ruby:keep records of Lady {f:5:Erika}'s {f:5:reasoning}.":リカ卿の推理の書記だけデス」}`
 `{ruby:"Why won't you fight with her?:「どうして、お前も共に戦わない。}`
-`{ruby:Why can't you use that red longsword?:なぜ、あの赤い太刀が使えない。}`
-`{ruby:......Erika's reasoning...and your longsword.:……ヱリカの推理と、お前の太刀。}`
-`{ruby:They were strong because they worked together.":それらが組み合わさってこその、あの強さだったはず」}`
+`{ruby:Why can't you:なぜ、あの赤い太刀}{ruby:use that red longsword?:が使えない。}`
+`{ruby:......Erika's reasoning...and:……ヱリカの推理と}{ruby:your longsword.:、お前の太刀。}`
+`{ruby:They were strong:それらが組み合わさってこその}{ruby:because they worked together.":、あの強さだったはず」}`
 `{ruby:"..............................":「…………………………」}`
 `{ruby:Dlanor didn't answer.:ドラノールは答えない。}`
-`{ruby:She just glanced slightly at {f:5:Bernkastel}'s expression.:わずかにベルンカステルの表情をうかがう仕草を見せただけだ。}`
-`{ruby:......However, that glance was the same as a clear answer for Battler now.:……しかし、その仕草こそが、今の戦人に対しては、明白な返事だった。}`
-`{ruby:Battler fully realized the situation......:戦人は完全に事情を察する……。}`
+`{ruby:She just glanced:わずかにベルンカステルの表情をう}{ruby:slightly at {f:5:Bernkastel}'s expression.:かがう仕草を見せただけだ。}`
+`{ruby:......However, that glance was the same:……しかし、その仕草こそが、今の戦人}{ruby:as a clear answer for Battler now.:に対しては、明白な返事だった。}`
+`{ruby:Battler fully:戦人は完全に事情を}{ruby:realized the situation......:察する……。}`
 `{ruby:"You.:「お前か。}`
-`{ruby:You're the one who told Erika not to use the detective proclamation.":ヱリカに探偵宣言をしないように言ったのは」}`
+`{ruby:You're the one who told Erika:ヱリカに探偵宣言をしない}{ruby:not to use the detective proclamation.":ように言ったのは」}`
 `{ruby:"......Oh? Whatever do you mean?":「………あら、何のこと？」}`
 `{ruby:"This fight is between me and Erika.:「これは、俺とヱリカの戦いだ。}`
-`{ruby:.........We're going to fight with all we've got.:………俺たちは全力で戦う。}`
-`{ruby:That way, we'll be able to accept it whether we win or lose.:だから勝ちも負けも受け入れられる。}`
-`{ruby:There's no need for a puppeteer behind the scenes like you.":貴様のような黒幕は不要だ」}`
+`{ruby:.........We're going to fight:………俺たちは全}{ruby:with all we've got.:力で戦う。}`
+`{ruby:That way, we'll be able to:だから勝ちも負けも受}{ruby:accept it whether we win or lose.:け入れられる。}`
+`{ruby:There's no need for a:貴様のような黒幕}{ruby:puppeteer behind the scenes like you.":は不要だ」}`
 `{ruby:"......Come now, I'm no puppeteer.:「……黒幕なんて、ひどいわね。}`
-`{ruby:I'm just a theatergoer trying to relieve her boredom.":私はただの、退屈凌ぎの観劇者じゃない」}`
-`{ruby:"A theatergoer is someone who sits quietly in the stands and watches.:「観劇者ってのは、客席で静かに観てるヤツのことだ。}`
-`{ruby:That's not what we call someone who jeers at the stage and threatens or manipulates the performers.":お前のように、舞台に野次を飛ばし、出演者を脅迫したり操ったりするようなヤツのことを言わないッ」}`
-`{ruby:"Sorry for being an ill‐mannered patron.:「マナーのない客で申し訳ないわね。}`
-`{ruby:......You might not know it, but I've already paid a huge admission fee to watch this play.:……あんたは知らないだろうけど、私はこの芝居を見るために、すでに高い入館料を払ってるのよ？}`
-`{ruby:Sorry, but I intend to enjoy it until I get my money's worth.":悪いけど、それに見合う分、勝手に楽しませてもらうわ」}`
-`{ruby:"If you get in the way of the game's progression, I can use my authority as the Game Master to boot you out of this game.":「進行を邪魔するなら、ゲームマスター権限で、お前をこのゲーム上から追放することも出来るんだぜ」}`
+`{ruby:I'm just a theatergoer:私はただの、退屈凌ぎの}{ruby:trying to relieve her boredom.":観劇者じゃない」}`
+`{ruby:"A theatergoer is someone who sits:「観劇者ってのは、客席で静か}{ruby:quietly in the stands and watches.:に観てるヤツのことだ。}`
+`{ruby:That's not what we call someone who jeers:お前のように、舞台に野次を飛ばし、出演者を脅迫した}{ruby:at the stage and threatens or manipulates the performers.":り操ったりするようなヤツのことを言わないッ」}`
+`{ruby:"Sorry for being:「マナーのない客で申}{ruby:an ill‐mannered patron.:し訳ないわね。}`
+`{ruby:......You might not know it, but I've already:……あんたは知らないだろうけど、私はこの芝居を見}{ruby:paid a huge admission fee to watch this play.:るために、すでに高い入館料を払ってるのよ？}`
+`{ruby:Sorry, but I intend to enjoy:悪いけど、それに見合う分、勝手}{ruby:it until I get my money's worth.":に楽しませてもらうわ」}`
+`{ruby:"If you get in the way of the game's progression, I can use:「進行を邪魔するなら、ゲームマスター権限で、お前を}{ruby:my authority as the Game Master to boot you out of this game.":このゲーム上から追放することも出来るんだぜ」}`
 `{ruby:"If you want to, go ahead.:「したければ、どうぞ？}`
-`{ruby:If you chase me out, then I'll head back with my piece, Erika.:私を追放するなら、ヱリカは私の駒だから持って帰るわ。}`
-`{ruby:This game will be cancelled, and you won't be able to prove that you've reached the truth.:今回のゲームはお流れで、あんたは真相に至ったことを証明できなくなる。}`
+`{ruby:If you chase me out, then:私を追放するなら、ヱリカは私の}{ruby:I'll head back with my piece, Erika.:駒だから持って帰るわ。}`
+`{ruby:This game will be cancelled, and you won't:今回のゲームはお流れで、あんたは真相}{ruby:be able to prove that you've reached the truth.:に至ったことを証明できなくなる。}`
 `{ruby:......Theatergoers are observers.:……観劇者は観測者。}`
-`{ruby:A truth with no observers might as well be fantasy.:観測者なき真実は幻想と同じ。}`
-`{ruby:......If you want to end Beato's game, you need a theatergoer as an impartial witness.":……あんたは、ベアトのゲームを終えるために、観劇者という立会人を欠かせないのよ」}`
-`{ruby:"......Our truth is between us, and that's all it needs to be!:「……俺たちの真実は、俺たちだけで通用すればいい！}`
-`{ruby:If you're going to interfere any further, I will boot you out by force.:これ以上、邪魔をするなら、有無を言わさず追放する。}`
-`{ruby:......Then you can writhe around in boredom for a few centuries until you find another way to kill time.":……そして次の暇潰しが見つかるまで、何百年も退屈にのた打ち回るといいぜッ」}`
+`{ruby:A truth with no observers:観測者なき真実は}{ruby:might as well be fantasy.:幻想と同じ。}`
+`{ruby:......If you want to end Beato's game,:……あんたは、ベアトのゲームを終えるために}{ruby:you need a theatergoer as an impartial witness.":、観劇者という立会人を欠かせないのよ」}`
+`{ruby:"......Our truth is between us, and:「……俺たちの真実は、俺たち}{ruby:that's all it needs to be!:だけで通用すればいい！}`
+`{ruby:If you're going to interfere any further,:これ以上、邪魔をするなら、有}{ruby:I will boot you out by force.:無を言わさず追放する。}`
+`{ruby:......Then you can writhe around in boredom for a:……そして次の暇潰しが見つかるまで、何百}{ruby:few centuries until you find another way to kill time.":年も退屈にのた打ち回るといいぜッ」}`
 `{ruby:"Then go right ahead!:「じゃあ、そうすれば？！}`
 `{ruby:Erika, this game is over! Good work.:ヱリカ、ゲームはおしまいよ！　ご苦労様ッ。}`
 `{ruby:......You were completely useless.:……あんたはつくづく使えない駒だったわ。}`
-`{ruby:You weren't able to overturn the dishonor of your loss, so as promised, I'll throw you into the worst fragment...:敗北の汚名を返上できなかったんだから、あんたは約束通り、最悪のカケラにブチ込んで、}`
-`{ruby:and cast you into the depths of oblivion with the empty popcorn buckets!!":忘却の深遠に、空っぽのポップコーンのバケツと一緒に放り込んであげる！！」}`
+`{ruby:You weren't able to overturn the dishonor of your loss,:敗北の汚名を返上できなかったんだから、あんた}{ruby:so as promised, I'll throw you into the worst fragment...:は約束通り、最悪のカケラにブチ込んで、}`
+`{ruby:and cast you into the depths:忘却の深遠に、空っぽのポップコーンのバ}{ruby:of oblivion with the empty popcorn buckets!!":ケツと一緒に放り込んであげる！！」}`
 `{ruby:"M‐......my master...!:「わ、……我が主ッ…！}`
-`{ruby:I promise...I promise I will win...I promise I can win...!!:必ず、必ず勝利しますからッ、勝利できますから…ッ！！}`
-`{ruby:So please, ......let me fight Battler to the finish...!!:ですからどうか、……最後まで戦人と戦わせて下さい…！！}`
-`{ruby:I don't......want to lose and......g‐get thrown in the d‐...depths of......oblivion......:このまま、……負けで、……ぼ、…忘却の深遠なんて、……い、……嫌です………ッ。}`
+`{ruby:I promise...I promise I will:必ず、必ず勝利しますからッ、勝}{ruby:win...I promise I can win...!!:利できますから…ッ！！}`
+`{ruby:So please, ......let me:ですからどうか、……最後まで戦}{ruby:fight Battler to the finish...!!:人と戦わせて下さい…！！}`
+`{ruby:I don't......want to lose and......g‐get:このまま、……負けで、……ぼ、…忘却の深遠}{ruby:thrown in the d‐...depths of......oblivion......:なんて、……い、……嫌です………ッ。}`
 `{ruby:......*hic*.........*hic*......":……っく、………えっく……」}`
-`{ruby:"......Well, I'd {i:like} to watch your battle until the end.:「……私は最後まであんたの戦いを見てあげたいけれど？}`
-`{ruby:......But {i:Battler} says he'll toss me out.:……戦人が追放だって言うしッ。}`
+`{ruby:"......Well, I'd {i:like} to watch:「……私は最後まであんたの戦}{ruby:your battle until the end.:いを見てあげたいけれど？}`
+`{ruby:......But {i:Battler} says:……戦人が追放だっ}{ruby:he'll toss me out.:て言うしッ。}`
 `{ruby:Well, any ideas, Lambda?!":ねぇ、どうする、ラムダぁ？！」}`
-`{ruby:"Okay, okay......I realize you've been irritated ever since the last game, Bern, but calm down a bit.:「まぁまぁ…、ベルンも前回のゲームからずっとイラついてるのはわかるけど、ちょっと落ち着きなさいよ。}`
-`{ruby:......And Battler, don't provoke Bern so much.:……戦人もあんまりベルンを煽らないでー。}`
-`{ruby:This kid can't control her emotions sometimes.":この子、たまに自分でも感情がコントロールできなくなるのよ」}`
+`{ruby:"Okay, okay......I realize you've been irritated ever since:「まぁまぁ…、ベルンも前回のゲームからずっとイラつい}{ruby:the last game, Bern, but calm down a bit.:てるのはわかるけど、ちょっと落ち着きなさいよ。}`
+`{ruby:......And Battler, don't:……戦人もあんまりベル}{ruby:provoke Bern so much.:ンを煽らないでー。}`
+`{ruby:This kid can't:この子、たまに自分でも感情がコン}{ruby:control her emotions sometimes.":トロールできなくなるのよ」}`
 `{ruby:"Shut up...:「うるさいわねッ…。}`
 `{ruby:Who can't control her emotions...?!":誰が感情をコントロールできないのよ…！」}`
-`{ruby:{f:5:Bernkastel}, who, at one point in time, had never showed any expressions at all,:かつて、表情というものを一切見せなかったベルンカステルは、}`
-`{ruby:was now twisting her face into all kinds of displeased and ugly shapes.:今や、不機嫌と表現できるあらゆる表情で顔を歪め、醜い顔の限りを見せている。}`
-`{ruby:When {f:5:Lambdadelta} made fun of that,:ラムダデルタが、それをからかうと、}`
-`{ruby:{f:5:Bernkastel} clicked her tongue and looked away.:ベルンカステルは舌打ちしてそっぽを向いた。}`
-`{ruby:As they say, nothing can stop poison but poison.:毒を制するには何とやらか。}`
-`{ruby:......Apparently, {f:5:Lambdadelta} was the only one who could rein {f:5:Bernkastel} in.:……どうやら、ベルンカステルの手綱を取れるのは、ラムダデルタだけらしい。}`
-`{ruby:"......Erika, you want to fight Battler, clear your name, and get Bern back into a good mood, right?":「……ヱリカは、戦人と戦って、汚名を返上してベルンのご機嫌が取りたいんでしょ？」}`
+`{ruby:{f:5:Bernkastel}, who, at one point in time,:かつて、表情というものを一切見せ}{ruby:had never showed any expressions at all,:なかったベルンカステルは、}`
+`{ruby:was now twisting her face into:今や、不機嫌と表現できるあらゆる表情で顔}{ruby:all kinds of displeased and ugly shapes.:を歪め、醜い顔の限りを見せている。}`
+`{ruby:When {f:5:Lambdadelta} made:ラムダデルタが、それ}{ruby:fun of that,:をからかうと、}`
+`{ruby:{f:5:Bernkastel} clicked her:ベルンカステルは舌打ちし}{ruby:tongue and looked away.:てそっぽを向いた。}`
+`{ruby:As they say, nothing:毒を制するには何}{ruby:can stop poison but poison.:とやらか。}`
+`{ruby:......Apparently, {f:5:Lambdadelta} was the only:……どうやら、ベルンカステルの手綱を取}{ruby:one who could rein {f:5:Bernkastel} in.:れるのは、ラムダデルタだけらしい。}`
+`{ruby:"......Erika, you want to fight Battler, clear your name,:「……ヱリカは、戦人と戦って、汚名を返上し}{ruby:and get Bern back into a good mood, right?":てベルンのご機嫌が取りたいんでしょ？」}`
 `{ruby:"Y‐......yes...":「は、……はいっ…」}`
-`{ruby:"Battler, you want this "final game" that'll prove you've found the truth...:「戦人は、真実に至ったことを証明する“最後のゲーム”を、}`
-`{ruby:to have a proper, tidy conclusion, right?":きっちり綺麗に終えたいわけでしょ？」}`
+`{ruby:"Battler, you want this "final game":「戦人は、真実に至ったことを証}{ruby:that'll prove you've found the truth...:明する“最後のゲーム”を、}`
+`{ruby:to have a:きっちり綺麗に終えた}{ruby:proper, tidy conclusion, right?":いわけでしょ？」}`
 `{ruby:"......Yeah.:「……そうだ。}`
-`{ruby:This is a face‐off between me and Erika.:これは俺とヱリカの一騎打ちだ。}`
+`{ruby:This is a face‐off:これは俺とヱリカの}{ruby:between me and Erika.:一騎打ちだ。}`
 `{ruby:I won't let anyone get in my way,:俺の邪魔だけじゃない。}`
-`{ruby:and I won't let anyone get in Erika's way either.":ヱリカに対する邪魔も、俺は許さない」}`
+`{ruby:and I won't let anyone:ヱリカに対する邪魔も}{ruby:get in Erika's way either.":、俺は許さない」}`
 `{ruby:"...B‐.........Battler............":「…ば、………戦人…………」}`
-`{ruby:"If both of you wish to fight, then that should be respected.:「二人に戦う意思があるなら、それを尊重するべきだわ。}`
+`{ruby:"If both of you wish to:「二人に戦う意思があるなら、}{ruby:fight, then that should be respected.:それを尊重するべきだわ。}`
 `{ruby:......Leave Bern to me.:……ベルンは私に任せて。}`
-`{ruby:I'm the only one in the world who can calm that kid when she gets into a bad mood.":不機嫌になったあの子をなだめられるのは、世界で私だけだから」}`
-`{ruby:"......You're the same sort as her, ......but at least you can be reasoned with.":「……お前もあいつの同類ではあるが、……まだ話が通じるな」}`
+`{ruby:I'm the only one in the world who can:不機嫌になったあの子をなだめられ}{ruby:calm that kid when she gets into a bad mood.":るのは、世界で私だけだから」}`
+`{ruby:"......You're the same sort as her, ......but:「……お前もあいつの同類ではある}{ruby:at least you can be reasoned with.":が、……まだ話が通じるな」}`
 `{ruby:"...........................:「………………………。}`
-`{ruby:......You shouldn't underestimate me.:……あんまり私を舐めないで。}`
+`{ruby:......You shouldn't:……あんまり私を}{ruby:underestimate me.:舐めないで。}`
 `{ruby:I just like seeing Bern grimace.:私は、ベルンの歪む顔が好きなの。}`
-`{ruby:That's the only reason I've taken a liking to this game of yours.:それを見せてくれるあんたのゲームを気に入ってるだけ。}`
-`{ruby:.........If you go on thinking I'm easy to handle, you'll get worse than burned.":………扱い易い相手なんて思ってると、大火傷じゃすまないわよ…？」}`
+`{ruby:That's the only reason I've taken:それを見せてくれるあんたのゲ}{ruby:a liking to this game of yours.:ームを気に入ってるだけ。}`
+`{ruby:.........If you go on thinking I'm easy:………扱い易い相手なんて思ってると}{ruby:to handle, you'll get worse than burned.":、大火傷じゃすまないわよ…？」}`
 `{ruby:".........Hmph.":「………ふん」}`
-`{ruby:"Dlanor can't use her red longsword because the detective proclamation hasn't been made.:「ドラノールが赤き太刀を使えないのは、探偵宣言がないからよ。}`
-`{ruby:If Erika makes that, she'll regain her power right away. Right?":ヱリカがそれを出せば、すぐにもあの力を取り戻すわ。ね？」}`
+`{ruby:"Dlanor can't use her red longsword:「ドラノールが赤き太刀を使えない}{ruby:because the detective proclamation hasn't been made.:のは、探偵宣言がないからよ。}`
+`{ruby:If Erika makes that, she'll:ヱリカがそれを出せば、すぐにも}{ruby:regain her power right away. Right?":あの力を取り戻すわ。ね？」}`
 `{ruby:"......{f:5:Yes}.:「……ハイ。}`
-`{ruby:When that time comes, forgive {f:5:me}.":その時は、ご容赦ヲ」}`
+`{ruby:When that time:その時は、ご}{ruby:comes, forgive {f:5:me}.":容赦ヲ」}`
 `{ruby:"Erika.":「ヱリカ」}`
 `{ruby:"What...?":「何です…」}`
 `{ruby:"Make the detective proclamation.":「探偵宣言を出せ」}`
 `{ruby:".....................:「…………………。}`
 `{ruby:......No.":……嫌です」}`
-`{ruby:"Do you really think you can beat me as I am now without the detective's authority?":「今の俺に、探偵権限なしで、本気で勝てると思ってるのか」}`
+`{ruby:"Do you really think you can beat me:「今の俺に、探偵権限なしで、本}{ruby:as I am now without the detective's authority?":気で勝てると思ってるのか」}`
 `{ruby:".........I...I can win......":「………か、…勝てますとも……っ」}`
 `{ruby:"......Lord {f:5:Battler}.:「……バトラ卿。}`
-`{ruby:...Lady {f:5:Erika} is herself a {f:5:piece}.:…ヱリカ卿もまた、駒デス。}`
-`{ruby:She cannot disobey her master's {f:5:orders}.:主の命には、背けません。}`
-`{ruby:All she can do is gather the power permitted to her......and fight for {f:5:survival}.":出来るのは、許された力を全うし、……死力を尽くすだけデス」}`
-`{ruby:"And Dlanor, your power can't be used at all without the detective proclamation?":「ドラノールの力は、探偵宣言がないとまったく駄目なのか」}`
-`{ruby:".........In order to unsheathe the Red Key, authorization is {f:5:required}.:「………“赤鍵”は抜刀に許可が必要デス。}`
-`{ruby:One of the preconditions for applying for that authorization is the detective {f:5:proclamation}.":その申請条件の一つが、探偵宣言デス」}`
-`{ruby:"Is there any other way to obtain that authorization besides the detective proclamation?":「探偵宣言以外に、その許可を得る方法はないのか」}`
+`{ruby:...Lady {f:5:Erika} is:…ヱリカ卿もまた}{ruby:herself a {f:5:piece}.:、駒デス。}`
+`{ruby:She cannot disobey:主の命には、背}{ruby:her master's {f:5:orders}.:けません。}`
+`{ruby:All she can do is gather the:出来るのは、許された力を全うし、}{ruby:power permitted to her......and fight for {f:5:survival}.":……死力を尽くすだけデス」}`
+`{ruby:"And Dlanor, your power can't be:「ドラノールの力は、探偵宣言が}{ruby:used at all without the detective proclamation?":ないとまったく駄目なのか」}`
+`{ruby:".........In order to unsheathe the:「………“赤鍵”は抜刀}{ruby:Red Key, authorization is {f:5:required}.:に許可が必要デス。}`
+`{ruby:One of the preconditions for applying:その申請条件の一つが}{ruby:for that authorization is the detective {f:5:proclamation}.":、探偵宣言デス」}`
+`{ruby:"Is there any other way to:「探偵宣言以外に、その許可}{ruby:obtain that authorization besides the detective proclamation?":を得る方法はないのか」}`
 `{ruby:"Wh‐......what are you saying...?!:「あ、……あんた、何を言ってるんですか…！}`
-`{ruby:I‐if you're doing this out of pity for me, I don't need your help!":わ、私に情けを掛けるつもりなら大きなお世話ですッ」}`
+`{ruby:I‐if you're doing this out of pity:わ、私に情けを掛けるつもりな}{ruby:for me, I don't need your help!":ら大きなお世話ですッ」}`
 `{ruby:"Quiet.:「黙れ。}`
-`{ruby:You're no challenge on your own and it's boring me stiff.:お前一人じゃ手応えが無さ過ぎて退屈なんだよ。}`
-`{ruby:So zip it, you non‐detective detective.":探偵でない探偵は黙ってろッ」}`
+`{ruby:You're no challenge on your:お前一人じゃ手応えが無さ}{ruby:own and it's boring me stiff.:過ぎて退屈なんだよ。}`
+`{ruby:So zip it,:探偵でない探偵は}{ruby:you non‐detective detective.":黙ってろッ」}`
 `{ruby:"......Ghh..................":「……く、…………ぅ……」}`
-`{ruby:"The Red Key has an extremely close relationship with the red {f:5:truth}.:「“赤鍵”は、赤き真実と限りなく近い存在デス。}`
-`{ruby:......If and only if a "truth" is provided, I am permitted to draw the Red Key for items that pertain to {f:5:it}.":……“真実”が与えられれば、その件についてのみ、抜刀が許されマス」}`
+`{ruby:"The Red Key has an extremely:「“赤鍵”は、赤き真実と限}{ruby:close relationship with the red {f:5:truth}.:りなく近い存在デス。}`
+`{ruby:......If and only if a "truth" is provided, I am permitted:……“真実”が与えられれば、その件に}{ruby:to draw the Red Key for items that pertain to {f:5:it}.":ついてのみ、抜刀が許されマス」}`
 `{ruby:"What do you mean by a "truth"...?":「“真実”とは…？」}`
 `{ruby:"...........................:「………………………。}`
-`{ruby:......For example, ......there are Lady {f:5:Erika}'s duct tape {f:5:seals}.":……例えばデスガ、……ヱリカ卿の、ガムテープの封印デス」}`
+`{ruby:......For example, ......there are:……例えばデスガ、……ヱリカ卿}{ruby:Lady {f:5:Erika}'s duct tape {f:5:seals}.":の、ガムテープの封印デス」}`
 `{ruby:"Ah, ......those.":「あぁ、……あれか」}`
-`{ruby:"Lady {f:5:Bernkastel} has already acknowledged that those seals are equivalent in value to the red {f:5:truth}.:「あの封印はすでに、ベルンカステル卿によって、赤き真実と同等の価値があると認められていマス。}`
-`{ruby:Therefore, I am authorized to draw the Red Key for truths pertaining to those {f:5:seals}.":よって、封印にかかわる真実に限っては、“赤鍵”の抜刀が許されマス」}`
-`{ruby:"Those caused me a lot of trouble last time,:「前回、さんざん苦しめられたからな。}`
-`{ruby:so I had all the sticky duct tape removed from the game board this time around.":今回は、粘着力のあるガムテープを、ゲーム盤から全て取り除かせてもらった」}`
+`{ruby:"Lady {f:5:Bernkastel} has already acknowledged that those seals:「あの封印はすでに、ベルンカステル卿によって、赤}{ruby:are equivalent in value to the red {f:5:truth}.:き真実と同等の価値があると認められていマス。}`
+`{ruby:Therefore, I am authorized to draw the:よって、封印にかかわる真実に限っては}{ruby:Red Key for truths pertaining to those {f:5:seals}.":、“赤鍵”の抜刀が許されマス」}`
+`{ruby:"Those caused me a:「前回、さんざん苦し}{ruby:lot of trouble last time,:められたからな。}`
+`{ruby:so I had all the sticky duct tape:今回は、粘着力のあるガムテープを、ゲー}{ruby:removed from the game board this time around.":ム盤から全て取り除かせてもらった」}`
 `{ruby:"......A splendid {f:5:move}.":「……見事な一手デス」}`
-`{ruby:"............Erika was proud to be able to call herself the detective, wasn't she?":「…………ヱリカは、探偵と名乗ることに、誇りを持ってたな」}`
+`{ruby:"............Erika was proud to be able:「…………ヱリカは、探偵と名乗る}{ruby:to call herself the detective, wasn't she?":ことに、誇りを持ってたな」}`
 `{ruby:"{f:5:Yes}...:「ハイ…。}`
-`{ruby:......Though her only goal was to irresponsibly reveal mysteries, ......it was a matter of pride for {f:5:her}.":……謎を無責任に暴くだけが目的とはイエ、……彼女には誇りデス」}`
-`{ruby:"Then, she must really be suffering now that she can't make that proclamation.":「それが、宣言できないってのは、かなり、……悔しいことだろうな」}`
-`{ruby:"...............Only she could tell you {f:5:that}.":「……………それを、当人以外が語ることは出来マセン」}`
+`{ruby:......Though her only goal was to irresponsibly reveal:……謎を無責任に暴くだけが目的とは}{ruby:mysteries, ......it was a matter of pride for {f:5:her}.":イエ、……彼女には誇りデス」}`
+`{ruby:"Then, she must really be suffering:「それが、宣言できないってのは、か}{ruby:now that she can't make that proclamation.":なり、……悔しいことだろうな」}`
+`{ruby:"...............Only she could:「……………それを、当人以外}{ruby:tell you {f:5:that}.":が語ることは出来マセン」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:Battler took a deep breath, then hung his head in thought for a time.:戦人は深く溜息をつきながら、しばらくの間、俯いて考える。}`
+`{ruby:Battler took a deep breath, then hung:戦人は深く溜息をつきながら、し}{ruby:his head in thought for a time.:ばらくの間、俯いて考える。}`
 `{ruby:......Erika was his enemy,:……彼にとってヱリカは敵だが、}`
-`{ruby:but she was the player on the {y:0:Human}{n:0:human} side, and without her, there would be no game.:ニンゲン側のプレイヤーであり、彼女が存在するからこそ、ゲームが成立するのである。}`
-`{ruby:It had been the same way with the old Beato.:かつてのベアトも、そうだった。}`
-`{ruby:Battler had one‐sidedly viewed Beato as the enemy.:戦人は一方的にベアトを敵視していた。}`
-`{ruby:However, though Beato had thought of him as the opposing player, she hadn't considered him to be an enemy on a personal level.:だがベアトは彼を、敵プレイヤーだとは思っても、彼個人までも敵視していたわけではない。}`
-`{ruby:......I will fight my rival ruthlessly in accordance with the rules.:……俺は、ゲームのライバルに、そのルールに則り、冷酷に戦う。}`
-`{ruby:However, that doesn't mean I need to hate Furudo Erika herself.:しかし、古戸ヱリカ個人を憎まなければならないわけじゃない。}`
+`{ruby:but she was the player on the {y:0:Human}{n:0:human}:ニンゲン側のプレイヤーであり、彼女が存在す}{ruby:side, and without her, there would be no game.:るからこそ、ゲームが成立するのである。}`
+`{ruby:It had been the same:かつてのベアトも、}{ruby:way with the old Beato.:そうだった。}`
+`{ruby:Battler had one‐sidedly viewed:戦人は一方的にベアト}{ruby:Beato as the enemy.:を敵視していた。}`
+`{ruby:However, though Beato had thought of him as the opposing player,:だがベアトは彼を、敵プレイヤーだとは思っても}{ruby:she hadn't considered him to be an enemy on a personal level.:、彼個人までも敵視していたわけではない。}`
+`{ruby:......I will fight my rival:……俺は、ゲームのライバルに、そ}{ruby:ruthlessly in accordance with the rules.:のルールに則り、冷酷に戦う。}`
+`{ruby:However, that doesn't mean I:しかし、古戸ヱリカ個人を憎まなけ}{ruby:need to hate Furudo Erika herself.:ればならないわけじゃない。}`
 `{ruby:....................................:………………………………。}`
-`{ruby:......I will not {i:misplay} Beato's game.:……俺はベアトのゲームを、{i:誤らない}。}`
+`{ruby:......I will not:……俺はベアトのゲームを}{ruby:{i:misplay} Beato's game.:、{i:誤らない}。}`
 `{ruby:"Erika.:「ヱリカ。}`
-`{ruby:You're free not to make the detective proclamation.:探偵宣言を出さないのは、お前の勝手だ。}`
-`{ruby:So do what you want and fight me with just your {y:0:Human}{n:0:human} powers.":だから、お前はお前の、ニンゲンとしての力だけで、勝手に戦え」}`
-`{ruby:"I've been prepared to do that from the beginning...!":「最初からその覚悟ですっ…！」}`
-`{ruby:"However, you have talented people on your side.:「しかし、お前には優秀な仲間がいる。}`
-`{ruby:......Dlanor, ......Gertrude, and Cornelia.:……ドラノールに、……ガートルード、コーネリア。}`
+`{ruby:You're free not to:探偵宣言を出さないのは}{ruby:make the detective proclamation.:、お前の勝手だ。}`
+`{ruby:So do what you want and:だから、お前はお前の、ニンゲンと}{ruby:fight me with just your {y:0:Human}{n:0:human} powers.":しての力だけで、勝手に戦え」}`
+`{ruby:"I've been prepared to:「最初からその覚悟}{ruby:do that from the beginning...!":ですっ…！」}`
+`{ruby:"However, you have talented:「しかし、お前には優}{ruby:people on your side.:秀な仲間がいる。}`
+`{ruby:......Dlanor, ......Gertrude,:……ドラノールに、……ガー}{ruby:and Cornelia.:トルード、コーネリア。}`
 `{ruby:You aren't alone.:お前は一人じゃない。}`
 `{ruby:You have allies.":仲間がいる」}`
-`{ruby:"Except that they're unreliable, powerless, and useless pukespittle.":「頼りたくても何の力もない、ゲロカスの役立たずですがっ」}`
+`{ruby:"Except that they're unreliable,:「頼りたくても何の力もない、ゲ}{ruby:powerless, and useless pukespittle.":ロカスの役立たずですがっ」}`
 `{ruby:"Dlanor.:「ドラノール。}`
-`{ruby:......Just like I was supported by {f:5:Virgilia} and Ronove in the past, Erika needs support as well.:……かつての俺が、ワルギリアやロノウェに支えられたように、ヱリカにもまた、支えが要る。}`
-`{ruby:I know from repeated experience that playing for the {y:0:Human}{n:0:human} side is tough.":ニンゲン側が辛いことは、俺も何度も経験してよく知ってる」}`
+`{ruby:......Just like I was supported by {f:5:Virgilia} and:……かつての俺が、ワルギリアやロノウェに支えら}{ruby:Ronove in the past, Erika needs support as well.:れたように、ヱリカにもまた、支えが要る。}`
+`{ruby:I know from repeated experience that:ニンゲン側が辛いことは、俺も何}{ruby:playing for the {y:0:Human}{n:0:human} side is tough.":度も経験してよく知ってる」}`
 `{ruby:"......{f:5:Yes}.:「……ハイ。}`
-`{ruby:I will assist her with all the power I {f:5:possess}.":持てる力の限りで、補佐シマス」}`
-`{ruby:"For your attention: we are in agreement.":「謹啓、了解するものなり」}`
-`{ruby:"For your attention: know that it is our job.":「謹啓、職務であると知り給え」}`
+`{ruby:I will assist her with:持てる力の限りで、}{ruby:all the power I {f:5:possess}.":補佐シマス」}`
+`{ruby:"For your attention::「謹啓、了解する}{ruby:we are in agreement.":ものなり」}`
+`{ruby:"For your attention: know:「謹啓、職務である}{ruby:that it is our job.":と知り給え」}`
 `{ruby:"Hmph.:「ふんっ。}`
 `{ruby:You can't even use the red truth!":赤き真実も使えないくせにっ！」}`
 `{ruby:"Erika.:「ヱリカ。}`
-`{ruby:......I will give power, not to you, but to your allies.":……お前でなく、この仲間たちに、力を与える」}`
+`{ruby:......I will give power, not:……お前でなく、この仲間}{ruby:to you, but to your allies.":たちに、力を与える」}`
 `{ruby:"Huh?!:「はぁッ？！}`
-`{ruby:Wh‐what do you think you're doing...?!:な、何の真似ですか…？！}`
-`{ruby:I'd rather die than receive your pity!!":お前の情けなんて死んでも受けませんッ！！」}`
-`{ruby:"For the trio of Dlanor, Gertrude, and Cornelia,:「ドラノール、ガートルード、コーネリアで、３人。}`
+`{ruby:Wh‐what do you:な、何の真似です}{ruby:think you're doing...?!:か…？！}`
+`{ruby:I'd rather die:お前の情けなんて死んでも}{ruby:than receive your pity!!":受けませんッ！！」}`
+`{ruby:"For the trio of:「ドラノール、ガートルード}{ruby:Dlanor, Gertrude, and Cornelia,:、コーネリアで、３人。}`
 `{ruby:......Erika,:……ヱリカ。}`
-`{ruby:I will allow you to use three rooms' worth of those duct tape seals.":お前に、例のガムテープの封印を、３部屋分、許す」}`
-`{ruby:To fully seal one room, multiple seals are needed to cover all the doors and windows.:１つの部屋を完全に封ずるには、扉に窓にと、複数の封印が必要になる。}`
-`{ruby:If he had just said "three seals", she would only be able to fully seal up one room at best.:３回分という言い方では、せいぜい１部屋くらいしか完全に封印できない。}`
-`{ruby:So, Battler was generous and measured them by room instead of by seal...:だから戦人は意地悪をせず、回数ではなく、部屋数で制限を与える…。}`
+`{ruby:I will allow you to use three:お前に、例のガムテープの封}{ruby:rooms' worth of those duct tape seals.":印を、３部屋分、許す」}`
+`{ruby:To fully seal one room, multiple seals are:１つの部屋を完全に封ずるには、扉に窓}{ruby:needed to cover all the doors and windows.:にと、複数の封印が必要になる。}`
+`{ruby:If he had just said "three seals", she would only:３回分という言い方では、せいぜい１部}{ruby:be able to fully seal up one room at best.:屋くらいしか完全に封印できない。}`
+`{ruby:So, Battler was generous and measured:だから戦人は意地悪をせず、回数では}{ruby:them by room instead of by seal...:なく、部屋数で制限を与える…。}`
 `{ruby:"......Lord {f:5:Battler}......":「……バトラ卿……」}`
-`{ruby:"As the Game Master, I will also acknowledge that these seals have the same effect as the red truth.:「この封印には、赤き真実と同じ効果があることを、俺もゲームマスターとして認める。}`
-`{ruby:......This way, you'll also be able to wield that red longsword in battles based around those seals.:……そうすれば、それを根拠とする戦いでは、お前もあの赤い太刀を振り回せるようになるはずだ。}`
+`{ruby:"As the Game Master, I will also acknowledge that:「この封印には、赤き真実と同じ効果があるこ}{ruby:these seals have the same effect as the red truth.:とを、俺もゲームマスターとして認める。}`
+`{ruby:......This way, you'll also be able to wield:……そうすれば、それを根拠とする戦いでは、お前も}{ruby:that red longsword in battles based around those seals.:あの赤い太刀を振り回せるようになるはずだ。}`
 `{ruby:Right...?":そうだな…？」}`
 `{ruby:".........{f:5:Yes}...:「………ハイ…。}`
-`{ruby:.........But...are you {f:5:certain}?":………しかし、よろしいのデスカ」}`
-`{ruby:"Winning against Erika when she's less than a detective is hardly a victory.:「探偵未満のヱリカに勝っても、こんなの勝利じゃねぇ。}`
-`{ruby:If Erika's upping the stakes, then I should have the right to do the same.":ヱリカがレートを上げるなら、俺にだって上げる権利があるはずだぜ」}`
+`{ruby:.........But...are:………しかし、よろ}{ruby:you {f:5:certain}?":しいのデスカ」}`
+`{ruby:"Winning against Erika when she's less:「探偵未満のヱリカに勝っても}{ruby:than a detective is hardly a victory.:、こんなの勝利じゃねぇ。}`
+`{ruby:If Erika's upping the stakes, then I:ヱリカがレートを上げるなら、俺にだ}{ruby:should have the right to do the same.":って上げる権利があるはずだぜ」}`
 `{ruby:"Whew, what a man!:「ひゅ〜、オットコ前〜！}`
 `{ruby:Aren't you lucky, Erika?!:よかったじゃない、ヱリカ！}`
-`{ruby:Now you can use a bit of red without making the detective proclamation and irritating your master.":これで探偵宣言を出して主の機嫌を損ねずに、多少はあんたも赤が使えるようになったわ」}`
+`{ruby:Now you can use a bit of red:これで探偵宣言を出して主の機嫌を損ねずに、多}{ruby:without making the detective proclamation and irritating your master.":少はあんたも赤が使えるようになったわ」}`
 `{ruby:".........Y‐...you'll regret this...:「………こ、…後悔しますよ…。}`
-`{ruby:......These three seals......will be your death......!":……この、３回の封印が、……きっとあなたを殺しますから…ッ……」}`
+`{ruby:......These three seals......will:……この、３回の封印が、……きっと}{ruby:be your death......!":あなたを殺しますから…ッ……」}`
 `{ruby:"Sounds like fun.:「上等だ。}`
 `{ruby:Come and kill me.":来いよ、殺しに」}`
 `{ruby:"......Gah.........khhhh...":「……く………ッッッ……」}`
-`{ruby:Though it was only for three rooms, it was the red truth that Erika had been dying to use.:たった３部屋分とはいえ、ヱリカにとっては、喉から手が出るほど欲しかった、……赤き真実。}`
-`{ruby:Now, she finally had enough leeway to fight as she pleased.:これでようやく、満足に戦える余地を得られる。}`
-`{ruby:......She ground her teeth at being pitied by Battler, but her tears were not those of shame.:……戦人にその情けを掛けられる屈辱に歯軋りしながらも、ヱリカは屈辱とは違う涙を零すのだった。}`
+`{ruby:Though it was only for three rooms, it was:たった３部屋分とはいえ、ヱリカにとっては、喉か}{ruby:the red truth that Erika had been dying to use.:ら手が出るほど欲しかった、……赤き真実。}`
+`{ruby:Now, she finally had enough:これでようやく、満足に戦}{ruby:leeway to fight as she pleased.:える余地を得られる。}`
+`{ruby:......She ground her teeth at being pitied by:……戦人にその情けを掛けられる屈辱に歯軋りしなが}{ruby:Battler, but her tears were not those of shame.:らも、ヱリカは屈辱とは違う涙を零すのだった。}`
 `{ruby:"......{f:5:Understood}.:「……了解デス。}`
-`{ruby:Three rooms' worth of duct tape seals, {f:5:accepted}.:３部屋分の封印のガムテープを受領いたしマス。}`
-`{ruby:......Regarding this matter, should we consider them as being accepted retroactively, back when Lady {f:5:Erika} received the non‐sticky duct tape from {nobr:Mrs. Kumasawa}?":……その受領ですが、ヱリカ卿がミセス熊沢から、粘着力なきガムテープを受領した時点に遡っての受領でよろしいデスカ？」}`
-`{ruby:Erika had borrowed duct tape from Kumasawa to make seals with.:ガムテープの封印を作ろうと、ヱリカは熊沢にガムテープをもらった。}`
-`{ruby:However, Battler had made it so that those were not sticky...:しかしそれは、戦人によって、粘着力のないものに変えられていた…。}`
-`{ruby:If he made it so that there never was any problem with the stickiness of that duct tape, the transition could be made smoothly.:あのガムテープの粘着力が問題なかったということにすれば、ゲームの進行はスムーズだ。}`
+`{ruby:Three rooms' worth of:３部屋分の封印のガムテー}{ruby:duct tape seals, {f:5:accepted}.:プを受領いたしマス。}`
+`{ruby:......Regarding this matter, should we consider them as being accepted retroactively,:……その受領ですが、ヱリカ卿がミセス熊沢から、粘着力なきガム}{ruby:back when Lady {f:5:Erika} received the non‐sticky duct tape from {nobr:Mrs. Kumasawa}?":テープを受領した時点に遡っての受領でよろしいデスカ？」}`
+`{ruby:Erika had borrowed duct tape:ガムテープの封印を作ろうと、ヱリカ}{ruby:from Kumasawa to make seals with.:は熊沢にガムテープをもらった。}`
+`{ruby:However, Battler had made it:しかしそれは、戦人によって、粘着力}{ruby:so that those were not sticky...:のないものに変えられていた…。}`
+`{ruby:If he made it so that there never was any problem with:あのガムテープの粘着力が問題なかったというこ}{ruby:the stickiness of that duct tape, the transition could be made smoothly.:とにすれば、ゲームの進行はスムーズだ。}`
 `{ruby:"Sure, that's fine.:「あぁ、いいだろう。}`
 `{ruby:......I'll rewrite the tale.:……物語を書き直す。}`
-`{ruby:......The duct tape that Erika received from Kumasawa‐san late at night on the first day was sticky enough to work as a seal,:……初日の深夜に、ヱリカが熊沢さんからもらったガムテープは、封印可能な粘着力を持っていたが、}`
-`{ruby:but there was only enough left to use on three rooms.:３部屋分しかない、残りわずかのものだった。}`
-`{ruby:......I'll apply that from here on out.":……これを今から適用する」}`
+`{ruby:......The duct tape that Erika received from Kumasawa‐san late at night:……初日の深夜に、ヱリカが熊沢さんからもらったガ}{ruby:on the first day was sticky enough to work as a seal,:ムテープは、封印可能な粘着力を持っていたが、}`
+`{ruby:but there was only enough:３部屋分しかない、残りわ}{ruby:left to use on three rooms.:ずかのものだった。}`
+`{ruby:......I'll apply that:……これを今から}{ruby:from here on out.":適用する」}`
 `{ruby:"{f:5:Understood}.:「了解しマシタ。}`
-`{ruby:......Lady {f:5:Erika} will also retroactively adjust her movements, starting before the discovery of the first twilight and taking into account that the application of this privilege is now {f:5:possible}.:……ヱリカ卿も遡り、第一の晩発覚以前の段階から、その権利の行使が可能だったものとして行動の修正を行ないマス。}`
-`{ruby:......As soon as these changes affect the progression of the game, they will be reported to the Game {f:5:Master}.":……ゲーム進行に抵触する部分が発生し次第、ゲームマスターにご報告申し上げマス」}`
-`{ruby:".........Letting you do it retroactively, even though you know which rooms the crime will occur in...:「………事件がどの部屋で起こったかを知ってからの、遡りか。}`
-`{ruby:...That gives you a pretty big advantage.:……かなり有利な話だな。}`
-`{ruby:You won't have to waste tape on other rooms.":無駄な部屋を封印しなくて済むんだから」}`
-`{ruby:"It seems you've grown quite arrogant since becoming Game Master.:「ゲームマスターになったら、ずいぶんと驕るようになったのね。}`
+`{ruby:......Lady {f:5:Erika} will also retroactively adjust her movements, starting before the discovery of the:……ヱリカ卿も遡り、第一の晩発覚以前の段階から、その権利}{ruby:first twilight and taking into account that the application of this privilege is now {f:5:possible}.:の行使が可能だったものとして行動の修正を行ないマス。}`
+`{ruby:......As soon as these changes affect the progression of:……ゲーム進行に抵触する部分が発生し次第、}{ruby:the game, they will be reported to the Game {f:5:Master}.":ゲームマスターにご報告申し上げマス」}`
+`{ruby:".........Letting you do it retroactively, even though you:「………事件がどの部屋で起こった}{ruby:know which rooms the crime will occur in...:かを知ってからの、遡りか。}`
+`{ruby:...That gives you:……かなり有利}{ruby:a pretty big advantage.:な話だな。}`
+`{ruby:You won't have to:無駄な部屋を封印しなく}{ruby:waste tape on other rooms.":て済むんだから」}`
+`{ruby:"It seems you've grown quite:「ゲームマスターになったら、ずい}{ruby:arrogant since becoming Game Master.:ぶんと驕るようになったのね。}`
 `{ruby:You're having fun, aren't you?:楽しいでしょう？}`
-`{ruby:Giving out charity to your pathetic opponent.":無様な対戦相手に施しをするのは」}`
+`{ruby:Giving out charity:無様な対戦相手に施し}{ruby:to your pathetic opponent.":をするのは」}`
 `{ruby:"Quiet.:「黙れ。}`
 `{ruby:And don't misunderstand.:そして勘違いするな。}`
-`{ruby:......I'm not being arrogant or going easy on her.:……これは驕りでも甘やかしでもない。}`
-`{ruby:.........Erika, use this weapon and fight me with all your strength.:………ヱリカ、これを武器に、本気で来い。}`
-`{ruby:And I will crush you with all of mine.:だからこそ俺も、本気で叩き潰してやる。}`
-`{ruby:So hold your head high as you use those three.:だから胸を張ってこの３回を行使しろ。}`
+`{ruby:......I'm not being arrogant:……これは驕りでも甘}{ruby:or going easy on her.:やかしでもない。}`
+`{ruby:.........Erika, use this weapon and:………ヱリカ、これを武}{ruby:fight me with all your strength.:器に、本気で来い。}`
+`{ruby:And I will crush:だからこそ俺も、本気で}{ruby:you with all of mine.:叩き潰してやる。}`
+`{ruby:So hold your head high:だから胸を張ってこの}{ruby:as you use those three.:３回を行使しろ。}`
 `{ruby:That is all.":以上だ」}`
-`{ruby:Battler made to leave the room with a flick of his cape.:戦人はマントを翻し、退室しようとする。}`
-`{ruby:As he did, he thought he heard Erika let out a strained voice calling him to a stop.:それをヱリカが呼び止めるかのような、……詰まった声が聞こえた。}`
+`{ruby:Battler made to leave the room:戦人はマントを翻し、退}{ruby:with a flick of his cape.:室しようとする。}`
+`{ruby:As he did, he thought he heard Erika let:それをヱリカが呼び止めるかのような}{ruby:out a strained voice calling him to a stop.:、……詰まった声が聞こえた。}`
 `{ruby:".....................:「…………………。}`
 `{ruby:......What is it?":……何だ」}`
 `{ruby:"..............................":「…………………………」}`
-`{ruby:"If you have no business with me, I'm going.:「用がないなら行く。}`
+`{ruby:"If you have no:「用がないな}{ruby:business with me, I'm going.:ら行く。}`
 `{ruby:Make sure you talk with Dlanor.:ドラノールとよく相談しろ。}`
-`{ruby:Don't listen to those obnoxious witches, whatever they tell you.:あのムカつく魔女どもには何を言われても耳を貸すな。}`
-`{ruby:As long as they're on this game board, they'll obey my rules.":このゲーム盤の上にいる限り、あいつらに好き勝手はさせない」}`
-`{ruby:".........Tha‐.........thank you.........":「………ぁ、………ぁりがと…ぅ………」}`
+`{ruby:Don't listen to those obnoxious:あのムカつく魔女どもには何を}{ruby:witches, whatever they tell you.:言われても耳を貸すな。}`
+`{ruby:As long as they're on this:このゲーム盤の上にいる限り、あい}{ruby:game board, they'll obey my rules.":つらに好き勝手はさせない」}`
+`{ruby:".........Tha‐.........thank:「………ぁ、………ぁり}{ruby:you.........":がと…ぅ………」}`
 `{ruby:"...........................":「………………………」}`
 `{ruby:"...Thank you......:「…ありがとう……。}`
-`{ruby:......I'll...fight with all I've got...:……私、……本気で戦います…。}`
-`{ruby:I'll come at you with all my strength, .........so, ...I'll defeat you no matter what, so,:全力で戦いますから、………だから、……絶対お前をやっつけますからっ…、}`
-`{ruby:......so, ......if you do win against me, .........please...:……だから、……もしも私に勝つ時は、………全力で、}`
-`{ruby:......crush me with all your strength...:………叩き潰して下さい…。}`
+`{ruby:......I'll...fight with:……私、……本気で}{ruby:all I've got...:戦います…。}`
+`{ruby:I'll come at you with all my strength,:全力で戦いますから、………だから、……}{ruby:.........so, ...I'll defeat you no matter what, so,:絶対お前をやっつけますからっ…、}`
+`{ruby:......so, ......if you do:……だから、……もしも私に勝}{ruby:win against me, .........please...:つ時は、………全力で、}`
+`{ruby:......crush me with:………叩き潰して}{ruby:all your strength...:下さい…。}`
 `{ruby:*hic*......:ぇっく……。}`
-`{ruby:......Please......don't leave......a speck of me behind.........:………お願いだから、……塵一つ、……残さないで………。}`
+`{ruby:......Please......don't leave......a speck:………お願いだから、……塵一つ}{ruby:of me behind.........:、……残さないで………。}`
 `{ruby:......*hic*......!":……ぅっく……！」}`
 `{ruby:".....................:「…………………。}`
 `{ruby:.........You got it.:………わかった。}`
-`{ruby:...And don't you go easy on me, either.:…だからお前も、俺に手加減するな。}`
+`{ruby:...And don't you go:…だからお前も、俺に}{ruby:easy on me, either.:手加減するな。}`
 `{ruby:......This is the final game.:……これは最後のゲームなんだ。}`
-`{ruby:I'm playing to prove to Beato that I've reached the truth.:俺がベアトに、真実に至ったことを証明するための。}`
-`{ruby:......At this point, who wins and who loses has no effect on that.":……俺たちの勝敗はもはや、それを左右しない」}`
-`{ruby:"I've accepted you as a worthy adversary, and now I simply want to settle the score.:「だから、これは純粋に、好敵手と認めたお前と決着をつけたいという気持ちなんだ。}`
-`{ruby:.........In the game, let us suspect each other over everything as enemies.:………ゲームの上では敵として全てを疑え。}`
-`{ruby:But as fellow players, let's trust each other.:だが、プレイヤー同士としては、信頼しろ。}`
-`{ruby:......That's how this game is supposed to be played.":……それが、ゲームのマナーだ」}`
+`{ruby:I'm playing to prove to:俺がベアトに、真実に至った}{ruby:Beato that I've reached the truth.:ことを証明するための。}`
+`{ruby:......At this point, who wins and:……俺たちの勝敗はもはや}{ruby:who loses has no effect on that.":、それを左右しない」}`
+`{ruby:"I've accepted you as a worthy adversary, and:「だから、これは純粋に、好敵手と認めたお前}{ruby:now I simply want to settle the score.:と決着をつけたいという気持ちなんだ。}`
+`{ruby:.........In the game, let us suspect:………ゲームの上では敵}{ruby:each other over everything as enemies.:として全てを疑え。}`
+`{ruby:But as fellow players,:だが、プレイヤー同士と}{ruby:let's trust each other.:しては、信頼しろ。}`
+`{ruby:......That's how this game:……それが、ゲーム}{ruby:is supposed to be played.":のマナーだ」}`
 `{ruby:"......Yes......:「……はぃ……、}`
 `{ruby:......Thank you......:……ありがとう……。}`
-`{ruby:.........Thank you............uuughhu......":………ありがとう……、……ぅぅうぅ……」}`
-`{ruby:Battler departed into the darkness, became a cloud of gold butterflies, and vanished...:戦人は暗闇に去り、黄金蝶の群となって消える…。}`
-`{ruby:{n}Erika remained behind, sobbing......:{n}後には、さめざめと泣くヱリカが残されていた……。}`
+`{ruby:.........Thank:………ありがとう……、}{ruby:you............uuughhu......":……ぅぅうぅ……」}`
+`{ruby:Battler departed into the darkness, became:戦人は暗闇に去り、黄金蝶の}{ruby:a cloud of gold butterflies, and vanished...:群となって消える…。}`
+`{ruby:{n}Erika remained:{n}後には、さめざめと泣くヱ}{ruby:behind, sobbing......:リカが残されていた……。}`
 `{ruby:......uuughhu......*hic*......:……ぅううぅ…、……ひっく………。}`
 `{ruby:Just:な}`
 `{ruby:kidding{p:0:☆}:ァんて、…ね？}`
-`{ruby:"You're easy pickings, you stupid man.:「チョロイもんです、馬鹿な男。}`
-`{ruby:......You fell right for it and gave me the tape...!:……まんまと引っ掛かって、私にガムテープを渡しましたね…？}`
-`{ruby:......You gave...the great Furudo Erika...:……この、…古戸ヱリカに、}`
+`{ruby:"You're easy pickings,:「チョロイもんです}{ruby:you stupid man.:、馬鹿な男。}`
+`{ruby:......You fell right for it:……まんまと引っ掛かって、私にガ}{ruby:and gave me the tape...!:ムテープを渡しましたね…？}`
+`{ruby:......You gave...the:……この、…古戸}{ruby:great Furudo Erika...:ヱリカに、}`
 `{ruby:......duct tape...!!":……ガムテープをッ…！！」}`
-`{ruby:It was hard to imagine that the person who had been sobbing pathetically and this person now were the same individual.:直前までの弱々しく泣いていた人物と、この人物が、到底同じ人間とは思えない。}`
-`{ruby:......That's how vile her face contorted to be...:……それくらいに、表情は醜悪に歪んでいた…。}`
-`{ruby:The two witches were also cackling with ugly smiles...:二人の魔女たちも、醜い笑顔でゲテゲテと笑う…。}`
+`{ruby:It was hard to imagine that the person who had:直前までの弱々しく泣いていた人物と、この}{ruby:been sobbing pathetically and this person now were the same individual.:人物が、到底同じ人間とは思えない。}`
+`{ruby:......That's how vile her:……それくらいに、表情は}{ruby:face contorted to be...:醜悪に歪んでいた…。}`
+`{ruby:The two witches were:二人の魔女たちも、醜い笑顔}{ruby:also cackling with ugly smiles...:でゲテゲテと笑う…。}`
 `{ruby:"I totally feel him.:「わかるわぁ〜。}`
-`{ruby:When you become Game Master, it feels like you've become God and you get all sure of yourself, you kno~w?":ゲームマスターになるとね、つい神になった気がして、驕り高ぶっちゃうのよねぇ〜」}`
-`{ruby:".........It was the same for you, wasn't it, Lambda?:「………ラムダの時もそうだったわね。}`
-`{ruby:......You lost because you made a bonehead mistake involving walking corpses.:……歩く死体なんて、馬鹿なミスを放置するから負けるのよ。}`
-`{ruby:.........Bonehead Game Masters, bonehead blunders, bonehead arrogance, bonehead beatings, bonehead Battler, billions of boneheads.:………馬鹿なゲームマスター、馬鹿なミス、馬鹿な驕りに、馬鹿な敗北、馬鹿戦人、馬鹿ばっか。}`
+`{ruby:When you become Game Master, it feels like you've become:ゲームマスターになるとね、つい神になった気}{ruby:God and you get all sure of yourself, you kno~w?":がして、驕り高ぶっちゃうのよねぇ〜」}`
+`{ruby:".........It was the same:「………ラムダの時も}{ruby:for you, wasn't it, Lambda?:そうだったわね。}`
+`{ruby:......You lost because you made:……歩く死体なんて、馬鹿なミス}{ruby:a bonehead mistake involving walking corpses.:を放置するから負けるのよ。}`
+`{ruby:.........Bonehead Game Masters, bonehead blunders, bonehead arrogance,:………馬鹿なゲームマスター、馬鹿なミス、馬鹿な}{ruby:bonehead beatings, bonehead Battler, billions of boneheads.:驕りに、馬鹿な敗北、馬鹿戦人、馬鹿ばっか。}`
 `{ruby:*giggle*giggle*giggle*giggle*!!":くすくすくすくすくすくすくすくす！！」}`
-`{ruby:"Bonehead beatings, bonehead Battler, billions of boneheads.:「馬鹿な敗北、馬鹿戦人、馬鹿ばっか。}`
-`{ruby:Ahahahahaha, I like the way it rolls off the tongue.:あっはははは、何だか語呂がいいですっ。}`
+`{ruby:"Bonehead beatings, bonehead:「馬鹿な敗北、馬鹿戦}{ruby:Battler, billions of boneheads.:人、馬鹿ばっか。}`
+`{ruby:Ahahahahaha, I like the way:あっはははは、何だか語}{ruby:it rolls off the tongue.:呂がいいですっ。}`
 `{ruby:Nice one, my master.:さすが我が主ですっ。}`
 `{ruby:*giggle*giggle*!:くすくすくす！}`
-`{ruby:Bonehead Battler, billions of boneheads, bonehead Battler, billions of boneheads.":馬鹿戦人、馬鹿ばっか、馬鹿戦人、馬鹿ばっか」}`
-`{ruby:"If that bonehead Battler honestly thinks that Erika's at a disadvantage, then it was nice knowing him.:「馬鹿戦人のヤツ、本気でヱリカが不利だと思ってるなら、本当にご愁傷様だわ。}`
-`{ruby:......A detective proclamation isn't what you need to kill an idiot.":……馬鹿を殺すのに必要なのは探偵宣言じゃない」}`
-`{ruby:"Just a corner of tofu for them to hit their head on?":「豆腐の角？」}`
+`{ruby:Bonehead Battler, billions of boneheads,:馬鹿戦人、馬鹿ばっか、馬鹿}{ruby:bonehead Battler, billions of boneheads.":戦人、馬鹿ばっか」}`
+`{ruby:"If that bonehead Battler honestly thinks that Erika's:「馬鹿戦人のヤツ、本気でヱリカが不利だと}{ruby:at a disadvantage, then it was nice knowing him.:思ってるなら、本当にご愁傷様だわ。}`
+`{ruby:......A detective proclamation isn't what:……馬鹿を殺すのに必要なの}{ruby:you need to kill an idiot.":は探偵宣言じゃない」}`
+`{ruby:"Just a corner of tofu for:「豆腐の角}{ruby:them to hit their head on?":？」}`
 `{ruby:"Make that {i:soft} tofu.":「絹ごしですねっ」}`
-`{ruby:"Add some gochujang chili paste and you've got a snack that'd go great with some wine.:「それにコチジャンを載せれば、ワインのつまみにぴったりだわ。}`
+`{ruby:"Add some gochujang chili paste and you've got:「それにコチジャンを載せれば、ワ}{ruby:a snack that'd go great with some wine.:インのつまみにぴったりだわ。}`
 `{ruby:*giggle*giggle*giggle*!":くすくすくすくすくす！」}`
 `{ruby:The three giggled together...:３人はくすくすと笑い合う…。}`
-`{ruby:It had all been an act to get the duct tape for the seals from Battler...:全て、戦人から封印のガムテープを得るための芝居…。}`
-`{ruby:Even though he had taken pains to ensure that the duct tape that had tormented him so much in the last game was rendered unusable in this one,:前回、あれほど苦しめたガムテープを、せっかく今回は使えなくしたのに、}`
+`{ruby:It had all been an act to get:全て、戦人から封印のガムテー}{ruby:the duct tape for the seals from Battler...:プを得るための芝居…。}`
+`{ruby:Even though he had taken pains to ensure that the duct tape that had:前回、あれほど苦しめたガムテープを、}{ruby:tormented him so much in the last game was rendered unusable in this one,:せっかく今回は使えなくしたのに、}`
 `{ruby:......he had fallen for Erika's act,:……ヱリカたちの芝居に騙され、}`
-`{ruby:......and she had gotten what she wanted, even if it was only three rooms' worth.:……３部屋分とはいえ、…それを許してしまう。}`
-`{ruby:The illusion that Erika was at an overwhelming disadvantage was just an act.:ヱリカが圧倒的に不利であるかのような幻想は、全て芝居。}`
-`{ruby:......A trap to trick Battler and make him hand over the duct tape.:……戦人を騙し、封印のガムテープを譲歩させるための、罠。}`
-`{ruby:"With this, I can kill Battler perfectly...!:「これで完璧に戦人を殺せます…！}`
-`{ruby:I figured out his moronic locked rooms long ago...!:あいつのマヌケな密室など、とっくにネタは割れてるんですから…！}`
+`{ruby:......and she had gotten what she wanted,:……３部屋分とはいえ、…}{ruby:even if it was only three rooms' worth.:それを許してしまう。}`
+`{ruby:The illusion that Erika was at:ヱリカが圧倒的に不利であるかの}{ruby:an overwhelming disadvantage was just an act.:ような幻想は、全て芝居。}`
+`{ruby:......A trap to trick Battler and:……戦人を騙し、封印のガムテー}{ruby:make him hand over the duct tape.:プを譲歩させるための、罠。}`
+`{ruby:"With this, I:「これで完璧に戦人}{ruby:can kill Battler perfectly...!:を殺せます…！}`
+`{ruby:I figured out his:あいつのマヌケな密室など、とっくに}{ruby:moronic locked rooms long ago...!:ネタは割れてるんですから…！}`
 `{ruby:A perfect locked room?:完璧な密室？}`
-`{ruby:Dumb{-}aa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}ass!!":ぶわぁああぁあぁかッ！！」}`
-`{ruby:"I'll show you a real perfect locked room!:「私が、本当に完璧な密室ってヤツを、見せてさしあげますからッ！}`
-`{ruby:And I could cry for joy at the fact that you gave me the weapon that will finish you...!:そのためのトドメの武器を、自ら進呈してくれるなんてッ、嬉しくて涙が出ます…！}`
-`{ruby:My master! And Lady {f:5:Lambdadelta}...!:我が主、そしてラムダデルタ卿…！}`
-`{ruby:Thank you so much for assisting with my performance!":お芝居へのご協力、誠にありがとうございますっ！」}`
+`{ruby::ぶわぁああぁあぁ}{ruby:Dumb{-}aa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}ass!!":かッ！！」}`
+`{ruby:"I'll show you a:「私が、本当に完璧な密室ってヤツを}{ruby:real perfect locked room!:、見せてさしあげますからッ！}`
+`{ruby:And I could cry for joy at the fact:そのためのトドメの武器を、自ら進呈してくれ}{ruby:that you gave me the weapon that will finish you...!:るなんてッ、嬉しくて涙が出ます…！}`
+`{ruby:My master!:我が主、そしてラムダ}{ruby:And Lady {f:5:Lambdadelta}...!:デルタ卿…！}`
+`{ruby:Thank you so much:お芝居へのご協力、誠にありが}{ruby:for assisting with my performance!":とうございますっ！」}`
 `{ruby:"It was fun.:「面白かったわー。}`
 `{ruby:No need to thank me.":礼には及ばないわよー」}`
 `{ruby:"......Plus I wasn't acting.:「……演技じゃないしね。}`
 `{ruby:*giggle*giggle*.":くすくすくすくす」}`
-`{ruby:Despite getting the feeling that {f:5:Bernkastel} had just said something a little curious, Erika was in too high spirits to care.:ベルンカステルが、ちょっぴり気になることを言った気がするが、上機嫌なヱリカは気にしない。}`
-`{ruby:That pudding‐for‐brains moron, thinking he's done something so noble!:あの戦人の、さも自分はイイコトしましたッ、て感じのあンの顔！}`
+`{ruby:Despite getting the feeling that {f:5:Bernkastel} had just said something:ベルンカステルが、ちょっぴり気になることを言っ}{ruby:a little curious, Erika was in too high spirits to care.:た気がするが、上機嫌なヱリカは気にしない。}`
+`{ruby:That pudding‐for‐brains moron, thinking:あの戦人の、さも自分はイイコトし}{ruby:he's done something so noble!:ましたッ、て感じのあンの顔！}`
 `{ruby:I'll make you regret it, kuhihihi!!:たっぷり後悔させてやりますとも、くっひっひっひ！！}`
 `{ruby:"Alright!:「さあって！}`
-`{ruby:Let's use these seals at our leisure...!:この封印、ゆっくりと使わせてもらいましょう…！}`
+`{ruby:Let's use these:この封印、ゆっくりと使わせ}{ruby:seals at our leisure...!:てもらいましょう…！}`
 `{ruby:You were a great help too, Dlanor.:ドラノールもお手柄でした。}`
-`{ruby:It seems that Battler trusts you, so he believes every word you say.":あんた、戦人に信頼されてるみたいだから、あんたが言うと、コロっと引っ掛かってくれますね」}`
+`{ruby:It seems that Battler trusts you,:あんた、戦人に信頼されてるみたいだから、あんた}{ruby:so he believes every word you say.":が言うと、コロっと引っ掛かってくれますね」}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:"Don't tell me your conscience is hurting.:「まさか、良心が痛むとか言い出しませんよね？}`
+`{ruby:"Don't tell me:「まさか、良心が痛むとか}{ruby:your conscience is hurting.:言い出しませんよね？}`
 `{ruby:You little murder doll.":殺人人形の分際で」}`
 `{ruby:"............{f:5:No}.":「…………イイエ」}`
-`{ruby:Dlanor looked at Erika in a slightly lonely way.:ドラノールは、少しだけ寂しげにヱリカを見る。}`
-`{ruby:......Then, after shaking her head slightly, her gaze turned hard, and she looked at the darkness Battler had disappeared into.:……そして、小さく首を振ってから、厳しい目つきになり、戦人の消えた闇を見た。}`
-`{ruby:".........You knew that this was a no‐holds‐barred {f:5:fight}...:「………手加減なしの真剣勝負と、わかっているはずナノニ…。}`
-`{ruby:.........Foolish, Lord {f:5:Battler}.:………愚かなり、バトラ卿。}`
-`{ruby:This is, without a doubt, the result of your {f:5:arrogance}.":これは間違いなく、あなたの驕りデス」}`
-`{ruby:............{nobr:Mr. Battler}, ...this will prove {f:5:fatal}......:…………ミスター戦人、…これは、命取りデス……。}`
-`{ruby:"First of all, congratulations are in order, wouldn't you say, Furfur?!":「まずはおめでとうかな、フルフル？！」}`
-`{ruby:"Yes, because we have learned that each and every one of the lovers possesses a strong will!":「そうね、全ての恋人たちに、強い意思の力があることがわかったのだもの！」}`
+`{ruby:Dlanor looked at Erika:ドラノールは、少しだけ寂}{ruby:in a slightly lonely way.:しげにヱリカを見る。}`
+`{ruby:......Then, after shaking her head slightly, her gaze turned hard,:……そして、小さく首を振ってから、厳しい}{ruby:and she looked at the darkness Battler had disappeared into.:目つきになり、戦人の消えた闇を見た。}`
+`{ruby:".........You knew that this:「………手加減なしの真剣勝負と、}{ruby:was a no‐holds‐barred {f:5:fight}...:わかっているはずナノニ…。}`
+`{ruby:.........Foolish,:………愚かなり、}{ruby:Lord {f:5:Battler}.:バトラ卿。}`
+`{ruby:This is, without a doubt,:これは間違いなく、あ}{ruby:the result of your {f:5:arrogance}.":なたの驕りデス」}`
+`{ruby:............{nobr:Mr. Battler}, ...this:…………ミスター戦人、…こ}{ruby:will prove {f:5:fatal}......:れは、命取りデス……。}`
+`{ruby:"First of all, congratulations are:「まずはおめでとうかな}{ruby:in order, wouldn't you say, Furfur?!":、フルフル？！」}`
+`{ruby:"Yes, because we have learned that each and:「そうね、全ての恋人たちに、強い意思の}{ruby:every one of the lovers possesses a strong will!":力があることがわかったのだもの！」}`
 `{ruby:""This is a victory for love...!:「「これは愛の勝利さ…！}`
 `{ruby:That, we shall celebrate!!"":それを僕らは讃え合おう！！」」}`
-`{ruby:......Everyone had long since gotten used to these two overdramatic demons.:……いい加減、この芝居がかった二人の悪魔にも、一同は慣れ切ってしまった。}`
-`{ruby:George spoke quietly with an annoyed expression.:譲治は、うんざりとした表情で静かに言う。}`
-`{ruby:"We'll only celebrate that after we've passed your trial and someone has been given the miracle of magic.":「僕らがそれを讃え合うのは、君たちの試練を勝ち残り、誰かが魔法の奇跡を授かる時だけだよ」}`
+`{ruby:......Everyone had long since gotten:……いい加減、この芝居がかった二人の悪}{ruby:used to these two overdramatic demons.:魔にも、一同は慣れ切ってしまった。}`
+`{ruby:George spoke quietly:譲治は、うんざりとした}{ruby:with an annoyed expression.:表情で静かに言う。}`
+`{ruby:"We'll only celebrate that after we've passed your trial:「僕らがそれを讃え合うのは、君たちの試練を勝ち}{ruby:and someone has been given the miracle of magic.":残り、誰かが魔法の奇跡を授かる時だけだよ」}`
 `{ruby:"I agree...:「同感だぜ…。}`
-`{ruby:......We've all passed the first trial.:……最初の試練は全員突破した。}`
+`{ruby:......We've all passed:……最初の試練は全}{ruby:the first trial.:員突破した。}`
 `{ruby:What's next?:次は何だ。}`
-`{ruby:...I won't hold back anymore... I'll do whatever it takes...":…もう後には退けねぇ、何だってやってやるぜ…」}`
+`{ruby:...I won't hold back anymore...:…もう後には退けねぇ、何だ}{ruby:I'll do whatever it takes...":ってやってやるぜ…」}`
 `{ruby:"......Yes. We won't lose.":「……はい。僕たちは、負けません」}`
 `{ruby:"Neither will we.":「私たちもです」}`
 `{ruby:"Yeah.:「あぁ。}`
-`{ruby:......And of course, the same goes for Battler‐kun's group.":……もちろん、戦人くんたちもだね」}`
+`{ruby:......And of course, the:……もちろん、戦人く}{ruby:same goes for Battler‐kun's group.":んたちもだね」}`
 `{ruby:".........Of course.:「………無論だぜ。}`
-`{ruby:I doubt anyone here is so naive that they hope to win by having the others relinquish victory.":この中の誰だって、譲られて勝利したいなんて、甘えてるヤツはいないはずだ」}`
+`{ruby:I doubt anyone here is so naive that they:この中の誰だって、譲られて勝利したいな}{ruby:hope to win by having the others relinquish victory.":んて、甘えてるヤツはいないはずだ」}`
 `{ruby:"Right...:「そうですね…。}`
-`{ruby:......Anyone weak enough to drop out wouldn't be qualified to be here right now.":……辞退できる程度の弱々しい想いならば、今この場にいる資格はありません」}`
-`{ruby:Even Beato, who seemed to be the shakiest one of the six, was strongly determined.:この６人の中で、一番頼りなさそうなベアトですら、不退転の決意を持っている。}`
-`{ruby:The two demons nodded, taking note of the six's continued resolve.:６人の覚悟を改めて見届け、二人の悪魔たちは頷き合う。}`
+`{ruby:......Anyone weak enough to drop out wouldn't:……辞退できる程度の弱々しい想いならば}{ruby:be qualified to be here right now.":、今この場にいる資格はありません」}`
+`{ruby:Even Beato, who seemed to be the:この６人の中で、一番頼りなさそうなベアト}{ruby:shakiest one of the six, was strongly determined.:ですら、不退転の決意を持っている。}`
+`{ruby:The two demons nodded, taking:６人の覚悟を改めて見届け、二}{ruby:note of the six's continued resolve.:人の悪魔たちは頷き合う。}`
 `{ruby:"So, what's the next trial?:「それで、次の試練は何だい？}`
-`{ruby:Don't tell me you still haven't decided...":まさか、まだ決まってないなんて言うんじゃないだろうね…？」}`
-`{ruby:"Well, we thought at least some of you would drop out.":「少しは脱落者が出ると思ってたからね」}`
-`{ruby:"We didn't think that you all would remain.:「まさか、全員が残るとは思わなかったの。}`
-`{ruby:This is a happy miraculous miscalculation due to love!":これは、愛ゆえの嬉しい奇跡の誤算！」}`
+`{ruby:Don't tell me:まさか、まだ決まってないなんて言}{ruby:you still haven't decided...":うんじゃないだろうね…？」}`
+`{ruby:"Well, we thought at least:「少しは脱落者が出ると}{ruby:some of you would drop out.":思ってたからね」}`
+`{ruby:"We didn't think that:「まさか、全員が残ると}{ruby:you all would remain.:は思わなかったの。}`
+`{ruby:This is a happy:これは、愛ゆえの嬉し}{ruby:miraculous miscalculation due to love!":い奇跡の誤算！」}`
 `{ruby:"Cram it.:「うぜーぜ。}`
 `{ruby:......So?:……それで？}`
-`{ruby:Are we going to play musical chairs or something to make sure someone drops out this time?":今度こそ脱落者を出すために、椅子取りゲームでも始めようってのか？」}`
+`{ruby:Are we going to play musical chairs or:今度こそ脱落者を出すために、椅子取り}{ruby:something to make sure someone drops out this time?":ゲームでも始めようってのか？」}`
 `{ruby:""Yes, precisely that!"":「「そう、まさにそのこと！」」}`
-`{ruby:"We've decided to have this trial eliminate one group no matter what!":「今度の試練では、確実に１組にリタイアしてもらうことにしたよ！」}`
-`{ruby:"For this trial, we will borrow from the second twilight of the epitaph—":「今度の試練は、碑文の第二の晩にあやかり、」}`
-`{ruby:""‘Tear apart the two who are close!!’:「「“寄り添いし二人を引き裂けーー！！”}`
-`{ruby:Ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!"":、あっはっははははははははは！」」}`
+`{ruby:"We've decided to have this trial:「今度の試練では、確実に１組にリタ}{ruby:eliminate one group no matter what!":イアしてもらうことにしたよ！」}`
+`{ruby:"For this trial, we will borrow:「今度の試練は、碑文の第}{ruby:from the second twilight of the epitaph—":二の晩にあやかり、」}`
+`{ruby:""‘Tear apart the:「「“寄り添いし二人を}{ruby:two who are close!!’:引き裂けーー！！”}`
+`{ruby::、あっはっははははは}{ruby:Ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!"":はははは！」」}`
 `{ruby:"......I don't understand.":「……意味がわからない」}`
-`{ruby:"Zepar‐sama, Furfur‐sama......what sort of trial is this?:「ゼパルさま、フルフルさま、……どういう試練ですか。}`
-`{ruby:......Do you mean we're going to kill each other...?":……まさか、私たちに殺し合いをしろと…？」}`
+`{ruby:"Zepar‐sama, Furfur‐sama......what sort:「ゼパルさま、フルフルさま、}{ruby:of trial is this?:……どういう試練ですか。}`
+`{ruby:......Do you mean we're:……まさか、私たちに殺し}{ruby:going to kill each other...?":合いをしろと…？」}`
 `{ruby:"That'd settle things quickly.":「そりゃ手っ取り早いぜ」}`
 `{ruby:"Though it's not exactly civilized.":「少々、文明的ではないけどね」}`
 `{ruby:"Love is carnivorous.":「恋は肉食だぜ」}`
-`{ruby:"......We can't all just find happiness together......can we...":「……みんながみんな、一緒に幸せになることは、……出来ないのですね」}`
-`{ruby:"This is what they call a zero‐sum game.:「そういうのを、ゼロサムゲームって言うんだよ。}`
-`{ruby:It's an economic term, but maybe you've heard of it...?":経済用語だけどね、知ってるかい…？」}`
+`{ruby:"......We can't all just:「……みんながみんな、一緒に幸せにな}{ruby:find happiness together......can we...":ることは、……出来ないのですね」}`
+`{ruby:"This is what they:「そういうのを、ゼロサムゲ}{ruby:call a zero‐sum game.:ームって言うんだよ。}`
+`{ruby:It's an economic term, but:経済用語だけどね、知}{ruby:maybe you've heard of it...?":ってるかい…？」}`
 `{ruby:"N‐...no, my apologies......":「い、…いえ、すみません……」}`
-`{ruby:"In a zero‐sum game...all the wins and losses cancel out to zero.:「ゼロサムゲーム。勝利も敗北も、全てを相殺すればゼロになる。}`
-`{ruby:......In order for someone to win, someone else must be forced to lose.:……誰かが勝利を得るためには、誰かに敗北を強いねばならない。}`
-`{ruby:......It's the ruthless way of this world.":……それが、世界の冷酷な原理だ」}`
+`{ruby:"In a zero‐sum game...all the wins:「ゼロサムゲーム。勝利も敗北も、}{ruby:and losses cancel out to zero.:全てを相殺すればゼロになる。}`
+`{ruby:......In order for someone to win,:……誰かが勝利を得るためには、誰}{ruby:someone else must be forced to lose.:かに敗北を強いねばならない。}`
+`{ruby:......It's the ruthless:……それが、世界の}{ruby:way of this world.":冷酷な原理だ」}`
 `{ruby:".........Heh.:「………へっ。}`
 `{ruby:......If only everyone...:…みんながみんな。}`
 `{ruby:could be happy.:全員が幸せになれればいいのにな。}`
-`{ruby:.........But I guess......there's no way an ideal world like that could exist.":………そんな理想の世界、……あるわけねぇか」}`
+`{ruby:.........But I guess......there's no way an:………そんな理想の世界、}{ruby:ideal world like that could exist.":……あるわけねぇか」}`
 `{ruby:"No, there is!":「うぅん、あるよ！」}`
 `{ruby:"That is the Golden Land!":「それは、黄金郷！」}`
 `{ruby:"......The Golden Land...?:「……黄金郷…？}`
 `{ruby:What are you talking about......?":何の話だよ……？」}`
 `{ruby:".........That's right.:「………そうだったな。}`
-`{ruby:If you reach the Golden Land, ......all love will be satisfied.:……黄金郷に至れば、……全ての愛は満たされる。}`
-`{ruby:......However, like heaven and hell, that's not a place in this world.":……だが、そこは天国や地獄と同じで、この世ならざる場所だ」}`
-`{ruby:"That's an offer I would have to refuse.:「それは御免蒙りたいね。}`
-`{ruby:......Love has meaning because we find it in this world.:……恋は現世で叶えるから意味がある。}`
-`{ruby:I could never support a sad lovers' double suicide where we are only united after death.:僕は死後に恋愛を成就させるための、悲しい心中なんて、断じて認めないね。}`
-`{ruby:......I will see my love through, alive.:……生きて、愛を貫く。}`
+`{ruby:If you reach the Golden:……黄金郷に至れば、……全}{ruby:Land, ......all love will be satisfied.:ての愛は満たされる。}`
+`{ruby:......However, like heaven and hell, that's:……だが、そこは天国や地獄と同じ}{ruby:not a place in this world.":で、この世ならざる場所だ」}`
+`{ruby:"That's an offer I:「それは御免蒙}{ruby:would have to refuse.:りたいね。}`
+`{ruby:......Love has meaning because we:……恋は現世で叶える}{ruby:find it in this world.:から意味がある。}`
+`{ruby:I could never support a sad lovers' double:僕は死後に恋愛を成就させるための、悲し}{ruby:suicide where we are only united after death.:い心中なんて、断じて認めないね。}`
+`{ruby:......I will see:……生きて、愛}{ruby:my love through, alive.:を貫く。}`
 `{ruby:I won't lose to anyone.":何者にも、負けない」}`
 `{ruby:"......George‐san...":「……譲治さん…」}`
-`{ruby:The door to the Golden Land is opened by solving the epitaph's riddle......:黄金郷の扉は、碑文の謎を解くことで開かれる……。}`
-`{ruby:It is said to be a place where love and lives are all whole and can be revived......:そこは、愛も、命も、全てが満たされ、蘇る場所だというのだが……。}`
+`{ruby:The door to the Golden Land:黄金郷の扉は、碑文の謎を解}{ruby:is opened by solving the epitaph's riddle......:くことで開かれる……。}`
+`{ruby:It is said to be a place where love:そこは、愛も、命も、全てが満たされ}{ruby:and lives are all whole and can be revived......:、蘇る場所だというのだが……。}`
 `{ruby:"We're straying from the point.:「話が脱線してる。}`
-`{ruby:......Tell us about the second trial already.":……それより、第二の試練をさっさと教えて欲しい」}`
+`{ruby:......Tell us about:……それより、第二の試練を}{ruby:the second trial already.":さっさと教えて欲しい」}`
 `{ruby:"Right.:「そうだぜ。}`
-`{ruby:......What're you trying to make us do with this "tear apart the two who are close" thing...?":……“寄り添いし二人を引き裂け”って、何をさせる気だよ…」}`
+`{ruby:......What're you trying to make us do with:……“寄り添いし二人を引き裂け”}{ruby:this "tear apart the two who are close" thing...?":って、何をさせる気だよ…」}`
 `{ruby:"It is quite simple!":「話はとてもシンプルさ！」}`
-`{ruby:"The only possible way to tear apart two lovers is by the sad farewell of death!":「恋人たちを引き裂くのは、悲しき死の別れしかありえない！」}`
-`{ruby:"The second trial is to kill one of the six!":「６人のうち、１人を殺すのが、第二の試練さ！」}`
-`{ruby:"Of course, any lover with their partner killed is disqualified.":「当然、相方を殺された恋人たちは、失格となって脱落するわ」}`
-`{ruby:"In short, one pair of lovers must drop out during this trial!":「つまり、確実に１組の恋人たちに脱落してもらう試練というわけさ！」}`
+`{ruby:"The only possible way to tear apart two:「恋人たちを引き裂くのは、悲しき}{ruby:lovers is by the sad farewell of death!":死の別れしかありえない！」}`
+`{ruby:"The second trial is to:「６人のうち、１人を殺すの}{ruby:kill one of the six!":が、第二の試練さ！」}`
+`{ruby:"Of course, any lover with:「当然、相方を殺された恋人たちは}{ruby:their partner killed is disqualified.":、失格となって脱落するわ」}`
+`{ruby:"In short, one pair of lovers:「つまり、確実に１組の恋人たちに脱落}{ruby:must drop out during this trial!":してもらう試練というわけさ！」}`
 `{ruby:"......You say "kill" so simply.:「………殺す、と簡単に言うが。}`
 `{ruby:......What are we supposed to do?":……どうしろってんだ」}`
 `{ruby:"You can fight to the death—":「殺し合いをしてもいいし、」}`
-`{ruby:"Or you can decide by a lottery of some sort.":「クジ引きか何かで決めてもいい」}`
-`{ruby:"Like hell we're gonna choose by drawing lots.:「クジ引きで決めるなんて、冗談じゃねぇぜ。}`
+`{ruby:"Or you can decide by:「クジ引きか何かで}{ruby:a lottery of some sort.":決めてもいい」}`
+`{ruby:"Like hell we're gonna:「クジ引きで決めるなんて}{ruby:choose by drawing lots.:、冗談じゃねぇぜ。}`
 `{ruby:Let's have a duel, fair and square.":正々堂々と決闘しようじゃねぇか」}`
-`{ruby:"......Though if we do that, I imagine that Battler‐kun, who is the Game Master,:「……そうなると、ゲームマスターの戦人くんと、}`
-`{ruby:and {f:5:Beatrice}, who is still the Golden Witch despite having no memory, ......will have a substantial advantage.":……記憶がないとはいえ、黄金の魔女、ベアトリーチェが相当有利な気もするんだけどね」}`
-`{ruby:"Ah, ......w‐......well, I wonder about that...":「あ、……ど、……どうでしょう…」}`
+`{ruby:"......Though if we do that, I imagine:「……そうなると、ゲームマ}{ruby:that Battler‐kun, who is the Game Master,:スターの戦人くんと、}`
+`{ruby:and {f:5:Beatrice}, who is still the Golden Witch:……記憶がないとはいえ、黄金の魔女、ベアトリ}{ruby:despite having no memory, ......will have a substantial advantage.":ーチェが相当有利な気もするんだけどね」}`
+`{ruby:"Ah, ......w‐......well, I:「あ、……ど、……ど}{ruby:wonder about that...":うでしょう…」}`
 `{ruby:"Don't worry!:「安心して！}`
-`{ruby:For this trial, we have made everyone's powers completely equal.":この試練では、みんなの力は完全に公平にさせてもらってるんだ」}`
-`{ruby:"Even the Game Master, Lord {f:5:Battler}, is taking this trial on an even footing with everyone else.":「ゲームマスターのバトラ卿でさえ、この試練では全員と互角なの」}`
+`{ruby:For this trial, we have:この試練では、みんなの力は完全に公}{ruby:made everyone's powers completely equal.":平にさせてもらってるんだ」}`
+`{ruby:"Even the Game Master, Lord {f:5:Battler}, is taking:「ゲームマスターのバトラ卿でさえ、}{ruby:this trial on an even footing with everyone else.":この試練では全員と互角なの」}`
 `{ruby:"In that case, ......it's fair......":「それなら……、公平ですね……」}`
 `{ruby:"Is it completely and purely even?":「完全に、純粋に互角なのかい」}`
 `{ruby:""Yes, perfectly even!:「「えぇ、完全に互角！}`
-`{ruby:In a one‐on‐one fight, the luck of the moment would determine the outcome!"":１対１なら、勝敗は時の運！」」}`
+`{ruby:In a one‐on‐one fight, the luck:１対１なら、勝敗は}{ruby:of the moment would determine the outcome!"":時の運！」」}`
 `{ruby:"As all is perfectly equal—":「完全に互角だからね、」}`
-`{ruby:"It'll probably take a while to finish a fight.":「決着にも時間が掛かると思うわ」}`
-`{ruby:"So perhaps the trick would be to attack in advantageous circumstances?":「だから、優位な状況で襲うのがコツかな？」}`
-`{ruby:"Duels that take time are, of course, wonderful too!":「とことん時間をかけての決闘も、もちろん、素敵！」}`
-`{ruby:"Why would anyone leave it up to luck?:「誰が運任せで戦うもんか。}`
-`{ruby:.........Of course we want the fight to be in our favor.":………自分に有利な状況で戦いたいに決まってるぜ」}`
-`{ruby:".........In that case, ......a three‐way struggle...?:「………となると、……三つ巴…？}`
-`{ruby:......Wouldn't that mean we'd all be stuck...?":……これでは、動けないのでは…」}`
+`{ruby:"It'll probably take a:「決着にも時間が掛}{ruby:while to finish a fight.":かると思うわ」}`
+`{ruby:"So perhaps the trick would:「だから、優位な状況で襲}{ruby:be to attack in advantageous circumstances?":うのがコツかな？」}`
+`{ruby:"Duels that take time:「とことん時間をかけての決闘}{ruby:are, of course, wonderful too!":も、もちろん、素敵！」}`
+`{ruby:"Why would anyone leave:「誰が運任せで戦}{ruby:it up to luck?:うもんか。}`
+`{ruby:.........Of course we want the:………自分に有利な状況で戦}{ruby:fight to be in our favor.":いたいに決まってるぜ」}`
+`{ruby:".........In that case,:「………となると、}{ruby:......a three‐way struggle...?:……三つ巴…？}`
+`{ruby:......Wouldn't that mean:……これでは、動けな}{ruby:we'd all be stuck...?":いのでは…」}`
 `{ruby:Beato was the first to notice.:最初にベアトが気付く。}`
-`{ruby:If all six of them were truly on an even footing, and they wanted to fight so that they could win, they would have to fight as pairs and concentrate their attacks on a single person.:完全に互角の６人が、勝てるように勝負しようとしたら、ペアで誰か１人を集中攻撃するしかない。}`
-`{ruby:However, if they did so, that person's partner would naturally join in to fight back as a pair.:そうなれば、相手のペアも当然、結託して立ち向かってくるだろう。}`
-`{ruby:In other words, it would never end up as two against one.:つまり、２対１には、決してなりはしない。}`
-`{ruby:It would be two against two, and a battle like that could go either way.:こうなると、２対２の勝敗は時の運になる。}`
-`{ruby:However, if that were to happen, the third pair watching all this...:しかしこの時、これを観戦している第３のペアは、}`
-`{ruby:could team up with whichever pair they liked with no risk to themselves, defeating the opposing pair with certainty...:負けるリスクを一切負わずに、好きなペアに加勢することで、相手を確実に破ることが出来る…。}`
+`{ruby:If all six of them were truly on an even footing, and they wanted to fight so that:完全に互角の６人が、勝てるように勝負しようとした}{ruby:they could win, they would have to fight as pairs and concentrate their attacks on a single person.:ら、ペアで誰か１人を集中攻撃するしかない。}`
+`{ruby:However, if they did so, that person's partner would:そうなれば、相手のペアも当然、結託}{ruby:naturally join in to fight back as a pair.:して立ち向かってくるだろう。}`
+`{ruby:In other words, it would never:つまり、２対１には、決}{ruby:end up as two against one.:してなりはしない。}`
+`{ruby:It would be two against two, and:こうなると、２対２の勝}{ruby:a battle like that could go either way.:敗は時の運になる。}`
+`{ruby:However, if that were to happen,:しかしこの時、これを観戦し}{ruby:the third pair watching all this...:ている第３のペアは、}`
+`{ruby:could team up with whichever pair they liked with:負けるリスクを一切負わずに、好きなペアに加勢す}{ruby:no risk to themselves, defeating the opposing pair with certainty...:ることで、相手を確実に破ることが出来る…。}`
 `{ruby:"Sounds troublesome.:「面倒な話だね。}`
-`{ruby:......It means that it isn't to your advantage to move first.":……先に動くことが、有利ではないというわけか」}`
-`{ruby:If you take the initiative to fight, it's a matter of luck.:進んで戦えば、時の運。}`
-`{ruby:{n}If you sit and wait for the others to start fighting, it's certain victory.:{n}相手が戦い出すのをじっと待てば、絶対の勝利。}`
-`{ruby:......The fight would never begin in circumstances like this...:……この状況では、絶対に戦いが始まらない…。}`
-`{ruby:"......Maybe we could just have everyone fight the person next to them one on one.:「……６人全員がそれぞれ隣同士と、１対１で同時に戦えばいいんじゃないでしょうか。}`
-`{ruby:......Then, as soon as one fight is settled, the trial will be over.":……誰かの決着がついた時点で、試練は決着する」}`
-`{ruby:Unless everyone could abandon any naive hopes for a two‐on‐one fight,:２対１で戦えるかもしれないという甘えを捨てない限り、}`
-`{ruby:this trial would never begin and never end.:この試練は永遠に始まらず、そして終わらない。}`
-`{ruby:In that case, they could make a gentlemen's agreement and have everyone duel at once,:なら、紳士協定により全員で一斉に決闘すれば、}`
-`{ruby:which would be no different from drawing lots, ......but at least it would be fair...:クジ引きと状況は変わらないが、……とにかく公平ではある…。}`
+`{ruby:......It means that it isn't:……先に動くことが、有利で}{ruby:to your advantage to move first.":はないというわけか」}`
+`{ruby:If you take the initiative to:進んで戦えば、}{ruby:fight, it's a matter of luck.:時の運。}`
+`{ruby:{n}If you sit and wait for the:{n}相手が戦い出すのをじっ}{ruby:others to start fighting, it's certain victory.:と待てば、絶対の勝利。}`
+`{ruby:......The fight would never:……この状況では、絶対に}{ruby:begin in circumstances like this...:戦いが始まらない…。}`
+`{ruby:"......Maybe we could just have everyone fight:「……６人全員がそれぞれ隣同士と、１対１で}{ruby:the person next to them one on one.:同時に戦えばいいんじゃないでしょうか。}`
+`{ruby:......Then, as soon as one fight:……誰かの決着がついた時点}{ruby:is settled, the trial will be over.":で、試練は決着する」}`
+`{ruby:Unless everyone could abandon any:２対１で戦えるかもしれないと}{ruby:naive hopes for a two‐on‐one fight,:いう甘えを捨てない限り、}`
+`{ruby:this trial would never:この試練は永遠に始まらず}{ruby:begin and never end.:、そして終わらない。}`
+`{ruby:In that case, they could make a:なら、紳士協定により全員}{ruby:gentlemen's agreement and have everyone duel at once,:で一斉に決闘すれば、}`
+`{ruby:which would be no different from drawing:クジ引きと状況は変わらないが、…}{ruby:lots, ......but at least it would be fair...:…とにかく公平ではある…。}`
 `{ruby:"That won't work.:「それは無理。}`
-`{ruby:If we do that, everyone will just defend instead of fighting proactively.:そうなったら、みんな、積極的に戦わず保身する。}`
-`{ruby:All they need to do is wait for someone to lose before they do.":その間に、誰かが負けてくれればいいのだから」}`
+`{ruby:If we do that, everyone will:そうなったら、みんな、積極}{ruby:just defend instead of fighting proactively.:的に戦わず保身する。}`
+`{ruby:All they need to do is wait:その間に、誰かが負けてく}{ruby:for someone to lose before they do.":れればいいのだから」}`
 `{ruby:Shannon's point was a sound one.:紗音の言い分はもっともだ。}`
-`{ruby:If both fighters just glared at each other without attacking,:互いが睨み合ったまま、手を出さなければ。}`
+`{ruby:If both fighters just glared:互いが睨み合ったまま、}{ruby:at each other without attacking,:手を出さなければ。}`
 `{ruby:then neither would lose.:決闘者同士は、互いに負けはしない。}`
-`{ruby:They would only have to wait for someone other than themselves to lose first.:その間に、自分以外の誰かが敗れてくれるのを待てばいいのだ。}`
-`{ruby:This brought them back to the starting point.:これでは再び振り出し。}`
-`{ruby:......No one would fight proactively.:……誰も積極的に戦いはしない。}`
-`{ruby:"In the end, no one will move, and nothing will be resolved...":「結局、全員が動かず、決着がつきません…」}`
-`{ruby:".........Since we're in this mathematical situation where we all have the same strength, ......it's almost like a puzzle.":「………全員の強さが互角、という算数的状況のせいで、……パズルみたいになっちまったな」}`
+`{ruby:They would only have to wait for:その間に、自分以外の誰かが敗れて}{ruby:someone other than themselves to lose first.:くれるのを待てばいいのだ。}`
+`{ruby:This brought them back:これでは再び振}{ruby:to the starting point.:り出し。}`
+`{ruby:......No one:……誰も積極的に戦}{ruby:would fight proactively.:いはしない。}`
+`{ruby:"In the end, no one will:「結局、全員が動かず、決}{ruby:move, and nothing will be resolved...":着がつきません…」}`
+`{ruby:".........Since we're in this mathematical situation where we all:「………全員の強さが互角、という算数的状況のせ}{ruby:have the same strength, ......it's almost like a puzzle.":いで、……パズルみたいになっちまったな」}`
 `{ruby:"True.:「そうだね。}`
-`{ruby:......Dueling would have been an interesting proposition if our strengths were unknown.:……互いの強さが未知数なら、決闘も面白かった。}`
-`{ruby:......However, since we've been told that we're perfectly even, a duel would be no different than rock‐paper‐scissors.":……でも、完全に互角と言い切られてしまったら、決闘はジャンケンと何も変わらない」}`
-`{ruby:"......In that case, ......why not use rock‐paper‐scissors to decide it......?":「……ならいっそ、……６人全員で、ジャンケンで決めますか……？」}`
-`{ruby:"Are you crazy...?! I'm not gonna do that!:「馬鹿言え…！　そんなの嫌だぜ？！}`
-`{ruby:Even if someone does lose, there's no way they'd accept their loss!":仮に誰かが負けたとして、そいつが潔く負けを認めるわけねーだろ！」}`
-`{ruby:".........If they don't accept it, then they will be attacked by the four winners.:「………負けを認めないなら、ジャンケンの勝者たち４人に攻撃されることになる。}`
-`{ruby:......In a world where all are equal, the losers will have no chance of surviving...":……完全に互角なこの世界では、ジャンケンの敗者には生き残れる道理はない…」}`
+`{ruby:......Dueling would have been an interesting:……互いの強さが未知数なら}{ruby:proposition if our strengths were unknown.:、決闘も面白かった。}`
+`{ruby:......However, since we've been told that we're perfectly:……でも、完全に互角と言い切られてしまった}{ruby:even, a duel would be no different than rock‐paper‐scissors.":ら、決闘はジャンケンと何も変わらない」}`
+`{ruby:"......In that case, ......why not:「……ならいっそ、……６人全員で、}{ruby:use rock‐paper‐scissors to decide it......?":ジャンケンで決めますか……？」}`
+`{ruby:"Are you crazy...?! I'm:「馬鹿言え…！　そん}{ruby:not gonna do that!:なの嫌だぜ？！}`
+`{ruby:Even if someone does lose, there's:仮に誰かが負けたとして、そいつが潔く}{ruby:no way they'd accept their loss!":負けを認めるわけねーだろ！」}`
+`{ruby:".........If they don't accept it, then they:「………負けを認めないなら、ジャンケンの}{ruby:will be attacked by the four winners.:勝者たち４人に攻撃されることになる。}`
+`{ruby:......In a world where all are equal,:……完全に互角なこの世界では、ジャンケン}{ruby:the losers will have no chance of surviving...":の敗者には生き残れる道理はない…」}`
 `{ruby:"True.:「確かに。}`
 `{ruby:......Huh.:……何だ何だ。}`
-`{ruby:Is rock‐paper‐scissors actually the most reasonable way to settle this?":…ジャンケンで決めるのが、一番、合理的だってのかよ」}`
+`{ruby:Is rock‐paper‐scissors actually the most:…ジャンケンで決めるのが、一}{ruby:reasonable way to settle this?":番、合理的だってのかよ」}`
 `{ruby:"It is extremely reasonable.:「極めて合理的だよ。}`
-`{ruby:However, if you were to ask me whether I'd be reckless enough to entrust my fate to a random number generator, the answer would be no.":しかし、自分の運命を、乱数発生器に託すような無謀が出来るかと言われたら、答えはノーだけれどね」}`
+`{ruby:However, if you were to ask me whether I'd be reckless enough to:しかし、自分の運命を、乱数発生器に託すような無謀が}{ruby:entrust my fate to a random number generator, the answer would be no.":出来るかと言われたら、答えはノーだけれどね」}`
 `{ruby:"Please do consider that problem...!":「どうかそれを悩んでほしい…！」}`
-`{ruby:"This is the second trial we have set for you!":「それが私たちの出題する第二の試練！」}`
+`{ruby:"This is the second trial:「それが私たちの出題す}{ruby:we have set for you!":る第二の試練！」}`
 `{ruby:""Think, and fight to the death!:「「考えて、殺し合って！}`
-`{ruby:Please decide who the sacrifice will be!!"":誰を生贄にするか、決めてほしい！！」」}`
+`{ruby:Please decide who:誰を生贄にするか、決め}{ruby:the sacrifice will be!!"":てほしい！！」」}`

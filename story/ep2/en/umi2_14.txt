@@ -2,42 +2,42 @@
 `{ruby:What in the world is going on?!":一体、どういうことなのッ？！」}`
 `{ruby:"Aaah, Shannon!:「あぁ、紗音！}`
 `{ruby:Thank goodness you're safe...!:無事でよかった…！}`
-`{ruby:If something had happened to you, I...!":君に何かあったら僕は…！」}`
+`{ruby:If something had:君に何かあったら}{ruby:happened to you, I...!":僕は…！」}`
 `{ruby:"......George‐sama......:「……譲治さま……。}`
 `{ruby:......uuuuughh.........":……ぅううぅ………」}`
 `{ruby:"George‐kun, be quiet for a second!:「譲治くん、少し静かにして！}`
-`{ruby:A murder occurred before your very eyes, right?!:あなたたちの目の前で殺人が行なわれたんでしょう？！}`
+`{ruby:A murder occurred before:あなたたちの目の前で殺人が行}{ruby:your very eyes, right?!:なわれたんでしょう？！}`
 `{ruby:Did you see the culprit?!:犯人を見たの！}`
 `{ruby:Or not?!!":見ないの！！」}`
 `{ruby:"Tha‐......that is, umm,:「そ、……それがその、}`
 `{ruby:......how should I explain...?!:……何と説明すればいいのか…！}`
 `{ruby:G‐Genji‐san.":げ、源次さん」}`
-`{ruby:"..................Even we cannot explain what we saw very well.":「………………私たちにも、見たものをうまく説明できません」}`
-`{ruby:"It certainly, umm, ...happened right before our eyes!:「確かにその、…それは私たちの目の前で起こりました！}`
+`{ruby:"..................Even we cannot explain:「………………私たちにも、見たも}{ruby:what we saw very well.":のをうまく説明できません」}`
+`{ruby:"It certainly, umm, ...happened:「確かにその、…それは私たち}{ruby:right before our eyes!:の目の前で起こりました！}`
 `{ruby:It was right in front of my eyes!:私の目の前にいた！}`
 `{ruby:But still,:だけれど、}`
 `{ruby:......that, umm,:……あれはその、}`
 `{ruby:.........what was that...:………何だったんだ…。}`
 `{ruby:Even I do not understand!":私にもわからないんですッ！」}`
 `{ruby:"What are you saying?!:「何を言ってるの？！}`
-`{ruby:It's impossible for you to have met anyone other than the witch, {f:5:Beatrice}, whose location has been unknown since last night,:あなたが出会ったのは昨夜から所在不明の魔女、ベアトリーチェか、}`
+`{ruby:It's impossible for you to have met anyone other than:あなたが出会ったのは昨夜から所在不}{ruby:the witch, {f:5:Beatrice}, whose location has been unknown since last night,:明の魔女、ベアトリーチェか、}`
 `{ruby:or Kanon‐kun, who has gone missing!:行方不明になっている嘉音くんかのどちらかしかありえない！}`
 `{ruby:Was it a man or a woman?!:男か、女か！}`
-`{ruby:You should be able to tell me at least that much, right?!":それだけでも答えられるでしょう？！」}`
+`{ruby:You should be able to tell:それだけでも答えられる}{ruby:me at least that much, right?!":でしょう？！」}`
 `{ruby:"Auntie Rosa, calm down a bit...!:「楼座叔母さん、少し落ち着けって…！}`
-`{ruby:Anyone would be confused if two people were taken out right in front of them!:目の前で二人やられりゃ誰だって混乱だってする！}`
+`{ruby:Anyone would be confused if two people:目の前で二人やられりゃ誰だ}{ruby:were taken out right in front of them!:って混乱だってする！}`
 `{ruby:Gohda‐san, Genji‐san.:郷田さん、源次さん。}`
 `{ruby:There's no need to rush.:焦らなくていいぜ。}`
-`{ruby:Tell us what happened, one thing at a time.":何があったのか、順を追って話してくれ」}`
-`{ruby:"...............About that... ...How should I say it......":「……………それが、……何を私は言えばいいのか……」}`
+`{ruby:Tell us what happened,:何があったのか、順を追}{ruby:one thing at a time.":って話してくれ」}`
+`{ruby:"...............About that... ...How:「……………それが、……何を}{ruby:should I say it......":私は言えばいいのか……」}`
 `{ruby:"..............................":「…………………………」}`
-`{ruby:Doctor Nanjo and Kumasawa‐san had been killed.:南條先生と熊沢さんが殺された。}`
+`{ruby:Doctor Nanjo and:南條先生と熊沢さん}{ruby:Kumasawa‐san had been killed.:が殺された。}`
 `{ruby:{n}We understood that much.:{n}それだけはわかった。}`
-`{ruby:...And it seemed that it had occurred in front of their eyes.:…そしてそれは彼らの眼前で行なわれたらしい。}`
+`{ruby:...And it seemed that it had:…そしてそれは彼らの眼前}{ruby:occurred in front of their eyes.:で行なわれたらしい。}`
 `{ruby:{n}But even so, they spoke awkwardly.:{n}にもかかわらず、彼らの歯切れは悪い。}`
-`{ruby:They admitted that they had definitely seen the crime with their own two eyes.:目の前で犯行を確かに見たと認めている。}`
-`{ruby:{n}But when asked to explain what they had seen, their mouths went suddenly shut.:{n}なのに、何を見たのか説明を求めると急に口を閉ざしてしまうのだ。}`
-`{ruby:I could understand why Auntie Rosa was irritated and losing her patience...:それがもどかしく、楼座叔母さんが短気になるのもわからなくはなかった…。}`
+`{ruby:They admitted that they had definitely seen:目の前で犯行を確かに見}{ruby:the crime with their own two eyes.:たと認めている。}`
+`{ruby:{n}But when asked to explain what they:{n}なのに、何を見たのか説明を求め}{ruby:had seen, their mouths went suddenly shut.:ると急に口を閉ざしてしまうのだ。}`
+`{ruby:I could understand why Auntie Rosa:それがもどかしく、楼座叔母さんが短気に}{ruby:was irritated and losing her patience...:なるのもわからなくはなかった…。}`
 `{ruby:"...Shannon.:「…紗音。}`
 `{ruby:Did you see it?:君は見たのかい？}`
 `{ruby:When Doctor Nanjo was attacked.":南條先生が襲われるところを」}`
@@ -45,83 +45,83 @@
 `{ruby:"Tell me.:「僕に教えて。}`
 `{ruby:...Just what you understand.:…わかることだけでもいい。}`
 `{ruby:What in the world happened?":一体何があったの」}`
-`{ruby:"..................The back door............:「………………勝手口に、…………。}`
+`{ruby:"..................The:「………………勝手口}{ruby:back door............:に、…………。}`
 `{ruby:......In through there.":……来たんです」}`
 `{ruby:"...Tha‐that's right.:「…そ、そうです。}`
 `{ruby:Someone came up to the back door.:勝手口に誰かがやって来たんです。}`
-`{ruby:Then, wondering who it was, I opened the door...":そして、誰だろうと、私は扉を開けました…」}`
+`{ruby:Then, wondering who it:そして、誰だろうと、私は}{ruby:was, I opened the door...":扉を開けました…」}`
 `{ruby:"Someone at the back door?:「勝手口に誰か？}`
 `{ruby:Who was it?!":それは誰ッ？！」}`
 `{ruby:"Let them finish!:「最後まで言わせてやれ！}`
 `{ruby:And after that?!":それから？！」}`
-`{ruby:".........That person was...stained with blood, and had a large wound.:「………そいつは、…血塗れで、大怪我をしていました。}`
-`{ruby:...We carried them to the servant room, and Doctor Nanjo immediately began first aid.:…私たちは使用人室に運び、すぐに南條先生が手当てをしました。}`
+`{ruby:".........That person was...stained with blood,:「………そいつは、…血塗れで}{ruby:and had a large wound.:、大怪我をしていました。}`
+`{ruby:...We carried them to the servant room,:…私たちは使用人室に運び、すぐに}{ruby:and Doctor Nanjo immediately began first aid.:南條先生が手当てをしました。}`
 `{ruby:......It was a...very deep wound.":……その、とても深い傷でした」}`
-`{ruby:"For the last time, {i:who} are you talking about?!":「だからそれは誰のことなのッ？！」}`
+`{ruby:"For the last time,:「だからそれは誰のこ}{ruby:{i:who} are you talking about?!":となのッ？！」}`
 `{ruby:"...I don't know!:「…わからないんですッ！}`
-`{ruby:Certainly, ...in the beginning, I thought I knew.:確かに、…最初はそうだと思っていました。}`
+`{ruby:Certainly, ...in the beginning,:確かに、…最初はそうだと}{ruby:I thought I knew.:思っていました。}`
 `{ruby:No, I still think it was!:いや、今でもそうだと思ってるんです！}`
-`{ruby:But.........what in the world was that!!:でも、………あれは一体ッ！！}`
-`{ruby:...I don't know... ...I don't know!!":…わからない…、…わからない！！」}`
-`{ruby:In a manner that didn't match his large body, Gohda held his head and scratched at it...:郷田はその巨体に似合わず頭を抱え掻き毟る…。}`
-`{ruby:I didn't have a clue whether he was confused because he couldn't remember,:それは思い出せなくて混乱しているのか、}`
-`{ruby:or whether he was confused because he had seen something terrifying, and couldn't accept it.:何か恐ろしいものを見て、それが受け容れられなくて混乱しているのか、…見当もつかなかった。}`
+`{ruby:But.........what in the:でも、………あれ}{ruby:world was that!!:は一体ッ！！}`
+`{ruby:...I don't know...:…わからない…、…わ}{ruby:...I don't know!!":からない！！」}`
+`{ruby:In a manner that didn't match his large:郷田はその巨体に似合わず}{ruby:body, Gohda held his head and scratched at it...:頭を抱え掻き毟る…。}`
+`{ruby:I didn't have a clue whether:それは思い出せなくて混}{ruby:he was confused because he couldn't remember,:乱しているのか、}`
+`{ruby:or whether he was confused because he:何か恐ろしいものを見て、それが受け容れられなく}{ruby:had seen something terrifying, and couldn't accept it.:て混乱しているのか、…見当もつかなかった。}`
 `{ruby:And Shannon looked the same way.:そして、それは紗音も同じに見えた。}`
-`{ruby:If she let her guard down, what she had seen just a short while ago would quickly melt away like a daydream,:ほんの少し気を許せば、ついさっき見たばかりのことが、すぐに白昼夢と溶け込んでしまって、}`
-`{ruby:and she wouldn't even be able to remember what she saw.:自分が何を見たのかも思い出せなくなってしまう。}`
+`{ruby:If she let her guard down, what she had seen just:ほんの少し気を許せば、ついさっき見たばかりのこ}{ruby:a short while ago would quickly melt away like a daydream,:とが、すぐに白昼夢と溶け込んでしまって、}`
+`{ruby:and she wouldn't even be:自分が何を見たのかも思い出}{ruby:able to remember what she saw.:せなくなってしまう。}`
 `{ruby:......That's what she looked like.:……そんな風に見えた。}`
 `{ruby:Only Genji looked composed as usual.:源次だけはいつも通りに冷静に見えた。}`
-`{ruby:...So the questions were naturally directed at Genji.:…だから自然と質問の矛先は源次に向けられる。}`
-`{ruby:But even Genji had to take quite some time to gather his thoughts before he opened his mouth.:しかし、源次も口を開くのに短くない時間を掛け、その考えを整理しなくてはならなかった。}`
+`{ruby:...So the questions were:…だから自然と質問の矛先}{ruby:naturally directed at Genji.:は源次に向けられる。}`
+`{ruby:But even Genji had to take quite some time:しかし、源次も口を開くのに短くない時間を掛け}{ruby:to gather his thoughts before he opened his mouth.:、その考えを整理しなくてはならなかった。}`
 `{ruby:"Genji‐san.:「源次さん。}`
 `{ruby:You saw it, right?:あなたは見たんでしょう？}`
-`{ruby:Who was the person that came in through the back door?!":勝手口に来たのは誰？！」}`
-`{ruby:"............At first, ...we believed that person...was Kanon.":「…………初め、…私たちはその人物が、嘉音であると信じました」}`
+`{ruby:Who was the person that:勝手口に来たのは}{ruby:came in through the back door?!":誰？！」}`
+`{ruby:"............At first, ...we:「…………初め、…私たちはその人物}{ruby:believed that person...was Kanon.":が、嘉音であると信じました」}`
 `{ruby:"You see!!:「ほらッ！！}`
 `{ruby:He was alive after all!:やっぱり生きていたでしょう！}`
 `{ruby:My reasoning was correct!!":私の推理は正しかった！！」}`
-`{ruby:"......By "at first", you mean that your impression changed later, right......?":「……初めは、ってことは、後にその認識は変わる、ってこと……？」}`
+`{ruby:"......By "at first", you mean:「……初めは、ってことは、後にその}{ruby:that your impression changed later, right......?":認識は変わる、ってこと……？」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:.........I cannot explain with words what happened after that.:………その後に起こったことは、口では説明できません。}`
-`{ruby:......It killed Doctor Nanjo and Kumasawa, ......then disappeared.:……南條先生と熊沢を殺し、……そして姿を消しました。}`
-`{ruby:At that time, it was definitely not Kanon.":その時、彼は間違いなく嘉音ではありませんでした」}`
+`{ruby:.........I cannot explain with:………その後に起こったことは}{ruby:words what happened after that.:、口では説明できません。}`
+`{ruby:......It killed Doctor Nanjo:……南條先生と熊沢を殺し、…}{ruby:and Kumasawa, ......then disappeared.:…そして姿を消しました。}`
+`{ruby:At that time, it:その時、彼は間違いなく嘉音}{ruby:was definitely not Kanon.":ではありませんでした」}`
 `{ruby:"Yes!:「そう！}`
 `{ruby:That's right!:そうなんです！}`
 `{ruby:It's just as Genji‐san says!!:源次さんの言う通りなんですよ！！}`
-`{ruby:You really couldn't explain it with words!":口ではとても説明できない！」}`
+`{ruby:You really couldn't:口ではとても説明で}{ruby:explain it with words!":きない！」}`
 `{ruby:"......Do you have the same opinion?":「……君も同じ意見なのかい」}`
 `{ruby:"...Yes............:「…はい…………。}`
-`{ruby:I......can only say the same thing as well......":私も、……同じことしか申し上げられません……」}`
+`{ruby:I......can only say the:私も、……同じことしか申し}{ruby:same thing as well......":上げられません……」}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:...If we interpreted what they were saying favorably,:…彼らの言っていることを、好意的に解釈すると、}`
-`{ruby:......it meant that Auntie Rosa's conclusion had been correct from the beginning.:……それは楼座叔母さんが最初に断じているのと同じ意味になる。}`
-`{ruby:Kanon‐kun had appeared from the back door in the kitchen with a serious injury.:厨房の勝手口に大怪我をした嘉音くんが現れた。}`
-`{ruby:{n}Then he had been taken to the servant room and cared for.:{n}そして使用人室に運び手当てした。}`
-`{ruby:......Then, something terrifying had happened.:……そして、恐ろしい何かが起こった。}`
-`{ruby:Since these people couldn't imagine that Kanon‐kun could have pulled that off, they had started to suspect whether that really had been Kanon‐kun.:嘉音くんがそんなことをしてのけるとは想像できなくて、あれが本当に嘉音くんだったのか疑わしくなった。}`
+`{ruby:...If we interpreted what:…彼らの言っていることを、}{ruby:they were saying favorably,:好意的に解釈すると、}`
+`{ruby:......it meant that Auntie Rosa's conclusion:……それは楼座叔母さんが最初に断}{ruby:had been correct from the beginning.:じているのと同じ意味になる。}`
+`{ruby:Kanon‐kun had appeared from the back door:厨房の勝手口に大怪我をし}{ruby:in the kitchen with a serious injury.:た嘉音くんが現れた。}`
+`{ruby:{n}Then he had been taken to:{n}そして使用人室に}{ruby:the servant room and cared for.:運び手当てした。}`
+`{ruby:......Then, something:……そして、恐ろしい}{ruby:terrifying had happened.:何かが起こった。}`
+`{ruby:Since these people couldn't imagine that Kanon‐kun could have pulled that:嘉音くんがそんなことをしてのけるとは想像できなくて、}{ruby:off, they had started to suspect whether that really had been Kanon‐kun.:あれが本当に嘉音くんだったのか疑わしくなった。}`
 `{ruby:Is that how things are?:というところなのか。}`
-`{ruby:In other words, this meant......Kanon‐kun had appeared.:つまりそれは、……嘉音くんが現れたということだ。}`
-`{ruby:{n}No matter how confused they were, no matter how they muddled their words, that's what it meant in the end.:{n}彼らがどんなに混乱し、言葉を濁そうとも、つまりはそういうことになる。}`
-`{ruby:So had Kanon‐kun indeed used some trick to escape that room while it was locked?!:やはり嘉音くんがあの部屋を施錠したまま抜け出すトリックがあるということなのか？！}`
+`{ruby:In other words,:つまりそれは、……嘉音くん}{ruby:this meant......Kanon‐kun had appeared.:が現れたということだ。}`
+`{ruby:{n}No matter how confused they were, no matter how they:{n}彼らがどんなに混乱し、言葉を濁そう}{ruby:muddled their words, that's what it meant in the end.:とも、つまりはそういうことになる。}`
+`{ruby:So had Kanon‐kun indeed used some trick:やはり嘉音くんがあの部屋を施錠したまま抜け}{ruby:to escape that room while it was locked?!:出すトリックがあるということなのか？！}`
 `{ruby:No, that doesn't matter anymore.:いや、今そんなことはどうでもいい。}`
-`{ruby:The real problem is that Doctor Nanjo and Kumasawa‐san were killed.:南條先生と熊沢さんが殺されたことの方が重要な問題だ。}`
-`{ruby:Auntie Rosa had claimed that Kanon‐kun was behind this from the very beginning.:楼座叔母さんは、最初っから嘉音くんの仕業だと断定している。}`
-`{ruby:No matter how confused they became and no matter how much they tried to deny it, ...they were halfway saying that it was the truth.:彼らがどう混乱してそれを否定しようとしても、…彼らは半ばそうだと言っている。}`
-`{ruby:......But even so, for some reason, I felt like their awkwardness couldn't be explained just by confusion...:……しかしそれでも、なぜか彼らの歯切れの悪さは、混乱だけでは説明ができないような気もした…。}`
+`{ruby:The real problem is that:南條先生と熊沢さんが殺された}{ruby:Doctor Nanjo and Kumasawa‐san were killed.:ことの方が重要な問題だ。}`
+`{ruby:Auntie Rosa had claimed that Kanon‐kun:楼座叔母さんは、最初っから嘉音く}{ruby:was behind this from the very beginning.:んの仕業だと断定している。}`
+`{ruby:No matter how confused they became and no matter how much they:彼らがどう混乱してそれを否定しようとして}{ruby:tried to deny it, ...they were halfway saying that it was the truth.:も、…彼らは半ばそうだと言っている。}`
+`{ruby:......But even so, for some reason, I felt:……しかしそれでも、なぜか彼らの歯切れの悪さは、}{ruby:like their awkwardness couldn't be explained just by confusion...:混乱だけでは説明ができないような気もした…。}`
 `{ruby:......What had they seen?:……彼らは何を見たんだ？}`
-`{ruby:Like they said, had they really {i:seen something unexplainable with words}...?:彼らが言うように、本当に、{i:口で説明できない何かを見たのか}…？}`
-`{ruby:Auntie Rosa, having decided that she wouldn't be able to get any more out of them, concluded her questioning,:これ以上は何を聞いても埒が明かないだろうと判断した楼座叔母さんは、それで切り上げ、}`
-`{ruby:and said that she wanted to check the two bodies.:二人の遺体を確認したいと言った。}`
+`{ruby:Like they said, had they:彼らが言うように、本当に、{i:口で}{ruby:really {i:seen something unexplainable with words}...?:説明できない何かを見たのか}…？}`
+`{ruby:Auntie Rosa, having decided that she wouldn't be able:これ以上は何を聞いても埒が明かないだろうと判}{ruby:to get any more out of them, concluded her questioning,:断した楼座叔母さんは、それで切り上げ、}`
+`{ruby:and said that she wanted:二人の遺体を確認し}{ruby:to check the two bodies.:たいと言った。}`
 `{ruby:I was also interested in that.:それは俺も関心のあることだった。}`
-`{ruby:Even if these people didn't have a clue what was going on in their confusion,:混乱した彼らには何が何だかわからなくても、}`
-`{ruby:...if those of us who hadn't been at the scene calmly looked at the bodies, we might find something.:…その現場に居合わせなかった俺たちは冷静に遺体を見て、何かを気がつけるかもしれない。}`
-`{ruby:.........But it was a little surprising that Auntie Rosa was also concerned about the bodies, just like I was.:………しかし、楼座叔母さんもまた、俺と同様に遺体が気になるのは少しだけ意外だった。}`
-`{ruby:Even at this point, I still wanted to expose the culprit and the truth myself, if we could find any clues.:俺はこの期に及んでも、何かの手掛かりがあれば、犯人や真相をこの手で暴いてやりたいと思っている。}`
-`{ruby:But Auntie Rosa should have been different.:しかし楼座叔母さんは違ったはずだ。}`
-`{ruby:......Hadn't Auntie Rosa's plan given a higher priority to staying safe than to finding the culprit?:……楼座叔母さんは確か、犯人探しよりも身の安全が最優先の方針だったはず。}`
-`{ruby:I couldn't really see why Auntie Rosa wanted to check the bodies so badly that she would deliberately leave our fort in the parlor.:その楼座叔母さんが、わざわざ篭城の客間を出てまで遺体を確認したい理由が少し見えなかった。}`
-`{ruby:"We will all go to the servant room together.:「みんなで一緒に使用人室に行きます。}`
-`{ruby:If we all move together, it'll be safe.:全員一緒に行動すれば安全よ。}`
+`{ruby:Even if these people didn't have a:混乱した彼らには何が何だ}{ruby:clue what was going on in their confusion,:かわからなくても、}`
+`{ruby:...if those of us who hadn't been at the:…その現場に居合わせなかった俺たちは冷静に遺}{ruby:scene calmly looked at the bodies, we might find something.:体を見て、何かを気がつけるかもしれない。}`
+`{ruby:.........But it was a little surprising that Auntie Rosa:………しかし、楼座叔母さんもまた、俺と同様に}{ruby:was also concerned about the bodies, just like I was.:遺体が気になるのは少しだけ意外だった。}`
+`{ruby:Even at this point, I still wanted to expose the:俺はこの期に及んでも、何かの手掛かりがあれば、犯人}{ruby:culprit and the truth myself, if we could find any clues.:や真相をこの手で暴いてやりたいと思っている。}`
+`{ruby:But Auntie Rosa:しかし楼座叔母さんは}{ruby:should have been different.:違ったはずだ。}`
+`{ruby:......Hadn't Auntie Rosa's plan given a higher priority:……楼座叔母さんは確か、犯人探しよりも}{ruby:to staying safe than to finding the culprit?:身の安全が最優先の方針だったはず。}`
+`{ruby:I couldn't really see why Auntie Rosa wanted to check the bodies:その楼座叔母さんが、わざわざ篭城の客間を出てま}{ruby:so badly that she would deliberately leave our fort in the parlor.:で遺体を確認したい理由が少し見えなかった。}`
+`{ruby:"We will all go:「みんなで一緒に使用}{ruby:to the servant room together.:人室に行きます。}`
+`{ruby:If we all move:全員一緒に行動す}{ruby:together, it'll be safe.:れば安全よ。}`
 `{ruby:Maria, stop that scribbling now!":真里亞、ラクガキ遊びはおしまいになさい！」}`
 `{ruby:"Uu.:「うー。}`
 `{ruby:Not scribbliiing.:ラクガキじゃないぃ。}`
@@ -129,287 +129,287 @@
 `{ruby:Uu...":うー…」}`
 `{ruby:"{f:5:Beatrice}'s problem?:「ベアトリーチェの問題？}`
 `{ruby:What's that? Tell me too.":何のことだよ、俺にも教えてくれよぅ」}`
-`{ruby:"...Auntie Rosa, are you...umm...bringing Maria‐chan too?":「…楼座叔母さん。真里亞ちゃんも、…その、連れて行くんですか」}`
-`{ruby:It seemed that George‐aniki had some resistance to bringing Maria to the bloody crime scene.:譲治の兄貴は、血生臭い現場に真里亞を連れて行くことに抵抗があるようだった。}`
-`{ruby:...But taking into consideration the fact that Maria would be left alone here, it would surely be much safer if we took Maria with us.:…だが、真里亞だけ残していくことを考えたら、一緒に連れて行く方がはるかに安全に違いない。}`
-`{ruby:......In the end, it was just Aniki's irresponsible humanism.:……結局、兄貴の無責任なヒューマニズムってことになる。}`
-`{ruby:{n}We decided that all of us, including Maria, would go to the servant room.:{n}俺たちは真里亞も含め、全員で使用人室へ行くことになった。}`
-`{ruby:The bed in the servant room was stained with bright‐red blood.:使用人室のベッドは、真っ赤な血で染まっていた。}`
+`{ruby:"...Auntie Rosa, are:「…楼座叔母さん。真里亞ちゃんも、}{ruby:you...umm...bringing Maria‐chan too?":…その、連れて行くんですか」}`
+`{ruby:It seemed that George‐aniki had some resistance:譲治の兄貴は、血生臭い現場に真里亞を連れ}{ruby:to bringing Maria to the bloody crime scene.:て行くことに抵抗があるようだった。}`
+`{ruby:...But taking into consideration the fact that Maria would be left alone:…だが、真里亞だけ残していくことを考えたら、一}{ruby:here, it would surely be much safer if we took Maria with us.:緒に連れて行く方がはるかに安全に違いない。}`
+`{ruby:......In the end, it:……結局、兄貴の無責任なヒュー}{ruby:was just Aniki's irresponsible humanism.:マニズムってことになる。}`
+`{ruby:{n}We decided that all of us, including:{n}俺たちは真里亞も含め、全員で}{ruby:Maria, would go to the servant room.:使用人室へ行くことになった。}`
+`{ruby:The bed in the servant:使用人室のベッドは、真っ赤}{ruby:room was stained with bright‐red blood.:な血で染まっていた。}`
 `{ruby:...No, not just the bed.:…いや、ベッドだけじゃない。}`
-`{ruby:The whole room was covered with a gruesome paint from countless blood stains.:部屋中がおびただしい血痕で凄惨なペイントを施されていた。}`
-`{ruby:That dreadful scene alone was enough to give us an idea of the repulsive sight they had been trying to describe...:その凄まじい光景だけで、彼らが語ろうとした何かのおぞましき輪郭を知るのだった…。}`
+`{ruby:The whole room was covered with:部屋中がおびただしい血痕で凄惨}{ruby:a gruesome paint from countless blood stains.:なペイントを施されていた。}`
+`{ruby:That dreadful scene alone was enough to give us an:その凄まじい光景だけで、彼らが語ろうとした}{ruby:idea of the repulsive sight they had been trying to describe...:何かのおぞましき輪郭を知るのだった…。}`
 `{ruby:"......Uu.:「……うー。}`
 `{ruby:Wanna look too!":真里亞も見るー！」}`
-`{ruby:"You wait here with me, Maria‐chan, okay?":「真里亞ちゃんは僕と一緒にここで待ってようね」}`
-`{ruby:George‐aniki was standing by the entrance, covering Maria's eyes, with his back to the room.:譲治の兄貴は、真里亞の目を塞ぎ、入り口のところで部屋に背を向けていた。}`
-`{ruby:......He probably didn't want to dirty an innocent girl's retinas with the repulsive red in this room.:……この部屋のおぞましき赤で、無垢な少女の網膜を汚したくないのだろう。}`
+`{ruby:"You wait here:「真里亞ちゃんは僕と一緒に}{ruby:with me, Maria‐chan, okay?":ここで待ってようね」}`
+`{ruby:George‐aniki was standing by the entrance, covering:譲治の兄貴は、真里亞の目を塞ぎ、入り口}{ruby:Maria's eyes, with his back to the room.:のところで部屋に背を向けていた。}`
+`{ruby:......He probably didn't want to dirty an innocent:……この部屋のおぞましき赤で、無垢な少}{ruby:girl's retinas with the repulsive red in this room.:女の網膜を汚したくないのだろう。}`
 `{ruby:That was surely the correct decision.:きっとそれは正しい判断だ。}`
-`{ruby:......I was acting tough right now, so I didn't mind,:……今の俺は強がっているから気にならないが、}`
-`{ruby:......but I would probably remember this room and start to vomit whenever I saw red paint scattered around,:……俺は今後の人生において、赤いペンキが散らばっているのを見る度に、}`
+`{ruby:......I was acting tough right:……今の俺は強がっている}{ruby:now, so I didn't mind,:から気にならないが、}`
+`{ruby:......but I would probably remember this room and start:……俺は今後の人生において、赤いペン}{ruby:to vomit whenever I saw red paint scattered around,:キが散らばっているのを見る度に、}`
 `{ruby:for the rest of my life.:この部屋を思い出して吐き気を催し続けるのだろう。}`
-`{ruby:......My retinas already had this room burned into them.:……もう俺の網膜にこの部屋は焼き付いてしまった。}`
-`{ruby:{n}...In other words, it was too late for me...:{n}…つまり俺は手遅れだった…。}`
+`{ruby:......My retinas already had:……もう俺の網膜にこの部屋}{ruby:this room burned into them.:は焼き付いてしまった。}`
+`{ruby:{n}...In other words, it:{n}…つまり俺は手}{ruby:was too late for me...:遅れだった…。}`
 `{ruby:"...............Huh......":「……………あら……」}`
 `{ruby:"Wh‐...where did they...!":「ど、…どこへ…ッ！」}`
-`{ruby:Right after they entered the servant room, Gohda‐san and Shannon‐chan appeared flustered.:使用人室に入ってすぐ、郷田さんと紗音ちゃんが動揺する。}`
-`{ruby:...We shook, wondering what horrible new situation had arisen to fluster them for a second time.:…俺たちは、彼らが改めて動揺するどんな恐ろしい事態が新たに起こったのかと慄いた。}`
+`{ruby:Right after they entered the servant:使用人室に入ってすぐ、郷田さん}{ruby:room, Gohda‐san and Shannon‐chan appeared flustered.:と紗音ちゃんが動揺する。}`
+`{ruby:...We shook, wondering what horrible new situation had:…俺たちは、彼らが改めて動揺するどんな恐ろ}{ruby:arisen to fluster them for a second time.:しい事態が新たに起こったのかと慄いた。}`
 `{ruby:"What happened?:「どうしたの？}`
 `{ruby:What is it?":何事？」}`
-`{ruby:Auntie Rosa also shuddered, raised her gun high, and searched for whatever it was that had them shaken.:楼座叔母さんも戦慄し、銃を高く構えて、彼らが動揺する何かを探した。}`
+`{ruby:Auntie Rosa also shuddered, raised her gun high, and:楼座叔母さんも戦慄し、銃を高く構えて}{ruby:searched for whatever it was that had them shaken.:、彼らが動揺する何かを探した。}`
 `{ruby:......But she couldn't find it.:……しかし見付からない。}`
 `{ruby:...Which wasn't surprising.:…無理もない。}`
-`{ruby:{n}...They were shaken {i:because} they couldn't find it.:{n}…彼らは、見付からないから動揺したのだ。}`
-`{ruby:"Hey, hey, what in the world's going on...":「何だ何だ、どうしたってんだ一体…」}`
-`{ruby:".........The two bodies...aren't here.":「………二人の遺体が、ありません」}`
+`{ruby:{n}...They were shaken {i:because}:{n}…彼らは、見付からな}{ruby:they couldn't find it.:いから動揺したのだ。}`
+`{ruby:"Hey, hey, what in:「何だ何だ、どうした}{ruby:the world's going on...":ってんだ一体…」}`
+`{ruby:".........The two:「………二人の遺体が}{ruby:bodies...aren't here.":、ありません」}`
 `{ruby:"What do you mean?":「どういうことなの？」}`
 `{ruby:"......Tha‐that can't be...!:「……そ、そんなはずないんです…！}`
-`{ruby:Those two were definitely...here......!":確かにお二人は、ここに……！」}`
+`{ruby:Those two:確かにお二人は、こ}{ruby:were definitely...here......!":こに……！」}`
 `{ruby:"...Wait wait wait.:「…おいおいおい。}`
-`{ruby:What the hell—are you saying the corpses just walked off somewhere?:何だよ、死体がどこかへ歩いてったってのか？}`
+`{ruby:What the hell—are you saying:何だよ、死体がどこかへ歩}{ruby:the corpses just walked off somewhere?:いてったってのか？}`
 `{ruby:How could that happen?:そんなわけはないだろ？}`
-`{ruby:I mean, wasn't the servant room locked?:だって、この使用人室は施錠されてたんだろ？}`
-`{ruby:Didn't you unlock the door when you came in just now, Gohda‐san?!":それを今、郷田さんが開けて入ったわけじゃないか！」}`
+`{ruby:I mean, wasn't:だって、この使用人室は施}{ruby:the servant room locked?:錠されてたんだろ？}`
+`{ruby:Didn't you unlock the door when:それを今、郷田さんが開けて入}{ruby:you came in just now, Gohda‐san?!":ったわけじゃないか！」}`
 `{ruby:"......So then, what?:「……ってことは何だ。}`
-`{ruby:...Isn't this the same as Jessica's room?!:…朱志香の部屋と同じってことかよ？！}`
-`{ruby:They've disappeared from inside a locked room again?!:また密室の中から消えたってのかよ？！}`
+`{ruby:...Isn't this the:…朱志香の部屋と同じ}{ruby:same as Jessica's room?!:ってことかよ？！}`
+`{ruby:They've disappeared from inside:また密室の中から消えた}{ruby:a locked room again?!:ってのかよ？！}`
 `{ruby:That's ridiculous!!":そんな馬鹿な！！」}`
-`{ruby:"I don't have a clue what happened either!!:「私にも何のことやらさっぱりッ！！}`
-`{ruby:When we left this room, we definitely locked it, and......!!:私たちはこの部屋を出る時、確かに鍵を掛けて、……！！}`
-`{ruby:I don't have a clue what's going on anymore...!!":私こそ、何が何やら、もうわからないのです…！！」}`
-`{ruby:There was a timid and pitiful smile on Gohda‐san's face that he definitely wouldn't have let show normally.:郷田さんが、普段絶対見せないような、気弱そうな苦々しい笑いを浮かべる。}`
+`{ruby:"I don't have a:「私にも何のことやら}{ruby:clue what happened either!!:さっぱりッ！！}`
+`{ruby:When we left this room,:私たちはこの部屋を出る時、確か}{ruby:we definitely locked it, and......!!:に鍵を掛けて、……！！}`
+`{ruby:I don't have a:私こそ、何が何やら、もうわか}{ruby:clue what's going on anymore...!!":らないのです…！！」}`
+`{ruby:There was a timid and pitiful smile on Gohda‐san's:郷田さんが、普段絶対見せないような、気}{ruby:face that he definitely wouldn't have let show normally.:弱そうな苦々しい笑いを浮かべる。}`
 `{ruby:Shannon was the same.:それは紗音も同じだった。}`
 `{ruby:"Both their corpses disappeared!:「二人の死体が消えた！}`
-`{ruby:And furthermore, they disappeared while the door was locked!:しかも鍵を掛けたのに消えた！}`
-`{ruby:Even if the culprit was Kanon‐kun, he shouldn't be holding a master key anymore!!":仮に嘉音くんが犯人だとしても、嘉音くんはマスターキーをもう持ってないはず！！」}`
+`{ruby:And furthermore, they disappeared:しかも鍵を掛けたの}{ruby:while the door was locked!:に消えた！}`
+`{ruby:Even if the culprit was Kanon‐kun, he:仮に嘉音くんが犯人だとしても、嘉音くんはマ}{ruby:shouldn't be holding a master key anymore!!":スターキーをもう持ってないはず！！」}`
 `{ruby:"That's wrong...!:「違います…！}`
 `{ruby:Kanon‐kun is not the culprit...!!":嘉音くんは犯人じゃありません…！！」}`
 `{ruby:"......Shannon...:「……紗音…。}`
 `{ruby:I believe Shannon.:僕は紗音を信じるよ。}`
 `{ruby:Kanon‐kun is not the culprit.:嘉音くんは犯人なんかじゃない。}`
-`{ruby:This must be the doing of someone who looks a lot like him.":きっとこれは、彼によく似た何者かの仕業なんだ」}`
+`{ruby:This must be the doing of:きっとこれは、彼によく似た}{ruby:someone who looks a lot like him.":何者かの仕業なんだ」}`
 `{ruby:"No.:「いえ。}`
-`{ruby:Kanon‐kun could have gotten a master key.:嘉音くんはマスターキーを手に入れられたわよ。}`
-`{ruby:......After all, his master key was found in the pocket of Jessica‐chan's body.:……だって、彼のマスターキーは朱志香ちゃんの遺体のポケットから見付かった。}`
+`{ruby:Kanon‐kun could have:嘉音くんはマスターキーを}{ruby:gotten a master key.:手に入れられたわよ。}`
+`{ruby:......After all, his master key was:……だって、彼のマスターキーは朱志香ちゃ}{ruby:found in the pocket of Jessica‐chan's body.:んの遺体のポケットから見付かった。}`
 `{ruby:...And who took that key?":…そして、その鍵は誰が手に入れた？」}`
 `{ruby:"!!:「ッ！！}`
 `{ruby:Th‐that's right!:そ、そうだ！}`
 `{ruby:It was Doctor Nanjo......!!":南條先生が……！！」}`
 `{ruby:That's right.:そうだ。}`
-`{ruby:Back then, it definitely had been Doctor Nanjo who searched through Jessica's clothes and found the master key...!:確かにあの時、南條先生が朱志香の服を探り、マスターキーを見つけた…！}`
-`{ruby:So, if someone had the opportunity to search Doctor Nanjo's corpse, it would have been easy for them to take the master key back...:なら、南條先生の死体を物色する機会があったなら、マスターキーを取り返すことは容易…。}`
-`{ruby:Auntie Rosa searched under the bed and in the locker.:楼座叔母さんはベッドの下や、ロッカーの中などを調べている。}`
-`{ruby:...By now, I also understood what that meant.:…もう、俺にもその意味が理解できた。}`
-`{ruby:{n}If you assume that there had been two culprits, it could be easily explained.:{n}犯人は二人いたと考えると、簡単に説明できる。}`
-`{ruby:The first person was Kanon‐kun, or maybe an impostor that looked like him.:一人目は、嘉音くん、もしくは彼に酷似した何者かの仕業。}`
-`{ruby:{n}He had finished off Doctor Nanjo and ran off somewhere.:{n}彼は南條先生を葬り、どこかへ逃げ去った。}`
-`{ruby:The second person was......probably the 19th person, {f:5:Beatrice}, whose location was unknown.:二人目は、……多分、所在不明の１９人目、ベアトリーチェだ。}`
-`{ruby:She had hidden under the bed in the servant room beforehand, and with Doctor Nanjo's body still enshrined here, she had waited for Genji‐san and the rest to leave.:ヤツは、予め使用人室のベッドの下に隠れ、ここに南條先生の遺体が安置されたまま、源次さんたちが立ち去るのを待っていた。}`
-`{ruby:Then after that, she had crawled out, taken the master key back from Doctor Nanjo's pocket, and carried the two bodies away for some reason.:そしてその後に這い出て、南條先生のポケットからマスターキーを取り返し、何かの理由で二人の遺体を運び去った。}`
-`{ruby:If she had then locked the door with the master key, this locked room would be created.:そしてマスターキーで施錠すれば、この密室の出来上がりってわけだ。}`
+`{ruby:Back then, it definitely had been Doctor Nanjo who:確かにあの時、南條先生が朱志香の服を}{ruby:searched through Jessica's clothes and found the master key...!:探り、マスターキーを見つけた…！}`
+`{ruby:So, if someone had the opportunity to search Doctor Nanjo's corpse, it:なら、南條先生の死体を物色する機会があったな}{ruby:would have been easy for them to take the master key back...:ら、マスターキーを取り返すことは容易…。}`
+`{ruby:Auntie Rosa searched under the:楼座叔母さんはベッドの下や、ロッ}{ruby:bed and in the locker.:カーの中などを調べている。}`
+`{ruby:...By now, I also:…もう、俺にもその意}{ruby:understood what that meant.:味が理解できた。}`
+`{ruby:{n}If you assume that there had been:{n}犯人は二人いたと考える}{ruby:two culprits, it could be easily explained.:と、簡単に説明できる。}`
+`{ruby:The first person was Kanon‐kun, or:一人目は、嘉音くん、もしくは彼}{ruby:maybe an impostor that looked like him.:に酷似した何者かの仕業。}`
+`{ruby:{n}He had finished off Doctor:{n}彼は南條先生を葬り、}{ruby:Nanjo and ran off somewhere.:どこかへ逃げ去った。}`
+`{ruby:The second person was......probably the 19th:二人目は、……多分、所在不明の１}{ruby:person, {f:5:Beatrice}, whose location was unknown.:９人目、ベアトリーチェだ。}`
+`{ruby:She had hidden under the bed in the servant room beforehand, and with Doctor:ヤツは、予め使用人室のベッドの下に隠れ、ここに南條先生の遺体}{ruby:Nanjo's body still enshrined here, she had waited for Genji‐san and the rest to leave.:が安置されたまま、源次さんたちが立ち去るのを待っていた。}`
+`{ruby:Then after that, she had crawled out, taken the master key back:そしてその後に這い出て、南條先生のポケットからマスターキ}{ruby:from Doctor Nanjo's pocket, and carried the two bodies away for some reason.:ーを取り返し、何かの理由で二人の遺体を運び去った。}`
+`{ruby:If she had then locked the door with:そしてマスターキーで施錠すれば、こ}{ruby:the master key, this locked room would be created.:の密室の出来上がりってわけだ。}`
 `{ruby:"*cackle*cackle*.:「くっくっくっく。}`
-`{ruby:You constructed that one pretty fast with your reasoning from Jessica's room as a premise.:朱志香の部屋の推理を前提に、なかなか素早く組み立ててきたものよ。}`
-`{ruby:With that method, you could indeed create a locked room even without magic.:その方法なら、魔法でなくても密室は作り出せよう。}`
+`{ruby:You constructed that one pretty fast with:朱志香の部屋の推理を前提に、なかな}{ruby:your reasoning from Jessica's room as a premise.:か素早く組み立ててきたものよ。}`
+`{ruby:With that method, you could indeed:その方法なら、魔法でなくて}{ruby:create a locked room even without magic.:も密室は作り出せよう。}`
 `{ruby:Should I give you passing marks?:まずは及第点というところか？}`
-`{ruby:However, as truly fascinating as it was, ......there is something you must not forget.":しかし、実に面白いが、……お前はひとつ忘れてはならぬことがあるぞ？」}`
-`{ruby:"...If the culprit had taken the master key back by the method you say,:「…お前の言う方法で犯人がマスターキーを取り返したなら、}`
+`{ruby:However, as truly fascinating as it was,:しかし、実に面白いが、……お前はひとつ}{ruby:......there is something you must not forget.":忘れてはならぬことがあるぞ？」}`
+`{ruby:"...If the culprit had taken the master:「…お前の言う方法で犯人がマス}{ruby:key back by the method you say,:ターキーを取り返したなら、}`
 `{ruby:......that culprit...:……その犯人はマスターキーを、}`
-`{ruby:{i:would have to have known that Nanjo had taken the master key from Jessica's body}.":{i:朱志香の遺体から南條が回収したことを知っていたことになる}」}`
-`{ruby:"......You don't have to tell me that...:「……言われなくてもわかってるぜ…。}`
-`{ruby:You're probably trying to say that it's information only the people in that place, at that time, could know...":あの時、あの場にいた人物以外、知り得ない情報だ、って言いてぇんだろ…」}`
+`{ruby:{i:would have to have known that Nanjo:{i:朱志香の遺体から南條が回収した}{ruby:had taken the master key from Jessica's body}.":ことを知っていたことになる}」}`
+`{ruby:"......You don't have:「……言われなくても}{ruby:to tell me that...:わかってるぜ…。}`
+`{ruby:You're probably trying to say that it's information only:あの時、あの場にいた人物以外、知り得な}{ruby:the people in that place, at that time, could know...":い情報だ、って言いてぇんだろ…」}`
 `{ruby:"......Heh!:「……へ！}`
-`{ruby:This third locked room was crushed so fast that you can't do anything but gripe.:この第三の密室があっさり破られちまったもんで、そういう手で俺に嫌味を言うしかねぇんだろ。}`
-`{ruby:There's no art in repeating the same content...":同じネタの繰り返しは芸がないぜ…」}`
-`{ruby:Even though I was acting tough, that move of the witch's hurt bad...:虚勢は張るものの、魔女のその指し手はずしりと痛む…。}`
-`{ruby:{n}......I could feel cracks forming in the thing I most wanted to deny.:{n}……俺がもっとも否定したいものに、ひびが入るのがわかる。}`
-`{ruby:She's trying to close in on me from two directions.:こいつは、二つの方向から俺を締め上げている。}`
-`{ruby:On the one hand, there's the frontal attack, where she tries to force me to believe in witches, using locked room tricks that only a witch could do.:一つは、魔女にしかできない密室トリックで、俺に魔女を無理やり信じさせようとする力技のような正攻法。}`
-`{ruby:......And on the other hand, there's the rear attack, where she tries to lure me into thinking it would be better if there was a witch, by strengthening my suspicions of those close to me.:……そしてもう一つは、身内の疑いを濃厚にすることで、俺に魔女を信じた方がマシだと誘導しようとする搦め手だ。}`
-`{ruby:In the first locked room, the chapel, she had used the frontal attack, but it hadn't worked on me.:第一の密室、礼拝堂の時には、正攻法で攻めたが俺に通じなかった。}`
-`{ruby:That's undoubtedly why, with the second locked room, and now the third, she's started to change the direction of her attack...:だから第二の密室、そしてこの第三の密室では、攻め手を変えてきたに違いない…。}`
-`{ruby:However, the fact that she was changing the direction of her attack also proved that my resistance was working a little.:しかし、攻め手を変えているということは、俺の抵抗が少しは通用している証拠でもある。}`
-`{ruby:...And she had surely given up on the frontal attack because she couldn't just win directly with it...:…そして正攻法を捨てたのは、正攻法で堂々と勝てない弱さがあるからに違いない…。}`
-`{ruby:.........I tried to force myself to accept my own position by thinking that.:………そう考え、俺は自分を納得させようとした。}`
-`{ruby:{n}But it seemed that the witch had seen through these thoughts of mine long ago.:{n}だが、魔女は俺のその考えをとっくに看破していたようだった。}`
+`{ruby:This third locked room was crushed so:この第三の密室があっさり破られちまったもんで、そ}{ruby:fast that you can't do anything but gripe.:ういう手で俺に嫌味を言うしかねぇんだろ。}`
+`{ruby:There's no art in:同じネタの繰り返しは}{ruby:repeating the same content...":芸がないぜ…」}`
+`{ruby:Even though I was acting tough,:虚勢は張るものの、魔女のその}{ruby:that move of the witch's hurt bad...:指し手はずしりと痛む…。}`
+`{ruby:{n}......I could feel cracks forming in:{n}……俺がもっとも否定したいも}{ruby:the thing I most wanted to deny.:のに、ひびが入るのがわかる。}`
+`{ruby:She's trying to close in:こいつは、二つの方向から}{ruby:on me from two directions.:俺を締め上げている。}`
+`{ruby:On the one hand, there's the frontal attack, where she tries to force me:一つは、魔女にしかできない密室トリックで、俺に魔女を}{ruby:to believe in witches, using locked room tricks that only a witch could do.:無理やり信じさせようとする力技のような正攻法。}`
+`{ruby:......And on the other hand, there's the rear attack, where she tries to lure me into thinking:……そしてもう一つは、身内の疑いを濃厚にすることで、俺に}{ruby:it would be better if there was a witch, by strengthening my suspicions of those close to me.:魔女を信じた方がマシだと誘導しようとする搦め手だ。}`
+`{ruby:In the first locked room, the chapel, she had:第一の密室、礼拝堂の時には、正攻法}{ruby:used the frontal attack, but it hadn't worked on me.:で攻めたが俺に通じなかった。}`
+`{ruby:That's undoubtedly why, with the second locked room, and now:だから第二の密室、そしてこの第三の密室で}{ruby:the third, she's started to change the direction of her attack...:は、攻め手を変えてきたに違いない…。}`
+`{ruby:However, the fact that she was changing the direction of:しかし、攻め手を変えているということは、俺の}{ruby:her attack also proved that my resistance was working a little.:抵抗が少しは通用している証拠でもある。}`
+`{ruby:...And she had surely given up on the frontal:…そして正攻法を捨てたのは、正攻法で堂々と}{ruby:attack because she couldn't just win directly with it...:勝てない弱さがあるからに違いない…。}`
+`{ruby:.........I tried to force myself to:………そう考え、俺は自分を}{ruby:accept my own position by thinking that.:納得させようとした。}`
+`{ruby:{n}But it seemed that the witch had:{n}だが、魔女は俺のその考えをと}{ruby:seen through these thoughts of mine long ago.:っくに看破していたようだった。}`
 `{ruby:"*cackle*cackle*.:「くっくっくっく。}`
 `{ruby:The frontal attack is indispensable.:正攻法は欠かぬ。}`
-`{ruby:...The rear attack only has meaning because it advances at the same time as the frontal attack.:…搦め手は正攻法と同時に進めてこそ意味がある。}`
-`{ruby:If I were to degenerate into only using the rear attack, it would be nothing more than a foolish plan occurring when my means became my goal.":搦め手のみに堕するは、手段が目的となった時に起こる愚策に過ぎぬぞ」}`
+`{ruby:...The rear attack only has meaning because it:…搦め手は正攻法と同時に進}{ruby:advances at the same time as the frontal attack.:めてこそ意味がある。}`
+`{ruby:If I were to degenerate into only using the rear attack, it would:搦め手のみに堕するは、手段が目的とな}{ruby:be nothing more than a foolish plan occurring when my means became my goal.":った時に起こる愚策に過ぎぬぞ」}`
 `{ruby:"...Ihihi, really?:「…いっひっひ、そうですかい。}`
-`{ruby:Well then, won't you repeat "no one was hiding in the servant room" in that red you're so proud of?":じゃあ、お得意の赤で“何者かが使用人室に隠れていた”を復唱してもらおうじゃないか」}`
+`{ruby:Well then, won't you repeat "no one was hiding in:じゃあ、お得意の赤で“何者かが使用人室に隠れ}{ruby:the servant room" in that red you're so proud of?":ていた”を復唱してもらおうじゃないか」}`
 `{ruby:"There is no need.:「その必要はない。}`
-`{ruby:The premise of your reasoning is about to be destroyed.":お前の推理の前提は今から崩れる」}`
+`{ruby:The premise of your reasoning:お前の推理の前提は}{ruby:is about to be destroyed.":今から崩れる」}`
 `{ruby:"Oh, oh?!:「おっおっ？！}`
 `{ruby:You decline?!:拒否かよ？！}`
 `{ruby:So someone really is hiding?!":やっぱり誰かが隠れていたんだな？！」}`
-`{ruby:"Rosa will destroy your premise right now.:「楼座が今からお前の前提を崩す。}`
+`{ruby:"Rosa will destroy:「楼座が今からお前}{ruby:your premise right now.:の前提を崩す。}`
 `{ruby:...*cackle*cackle*!:…くっくっくっく！}`
 `{ruby:Well, try listening in.":まぁ耳を傾けてみよ」}`
 `{ruby:"Please believe us, Rosa‐sama...!!:「信じてください、楼座さま…！！}`
-`{ruby:The two bodies were certainly lying here!:確かにここに二人の遺体を安置したんです！}`
-`{ruby:The bright‐red blood on the floor is theirs...!!":この床の真っ赤な血は彼らのものなのです…！！」}`
-`{ruby:Auntie Rosa began to search through various objects around the room, her back to Gohda‐san as he cried out in supplication.:楼座叔母さんは、懇願するように叫ぶ郷田さんに背を向けたまま、色々と室内を物色していた。}`
-`{ruby:......Eventually, she found something, and for a while, stopped moving.:……やがて、何かを見つけ、しばらくの間、動かなくなる。}`
-`{ruby:"Rosa‐sama, we definitely aren't lying...!!:「楼座さま、私たちは断じて嘘などついては…！！}`
-`{ruby:The two bodies were definitely here!!":間違いなく二人の遺体はここにあったんです！！」}`
+`{ruby:The two bodies:確かにここに二人の遺体を}{ruby:were certainly lying here!:安置したんです！}`
+`{ruby:The bright‐red blood on:この床の真っ赤な血は彼らの}{ruby:the floor is theirs...!!":ものなのです…！！」}`
+`{ruby:Auntie Rosa began to search through various objects around the:楼座叔母さんは、懇願するように叫ぶ郷田さんに背}{ruby:room, her back to Gohda‐san as he cried out in supplication.:を向けたまま、色々と室内を物色していた。}`
+`{ruby:......Eventually, she found something, and:……やがて、何かを見つけ、しば}{ruby:for a while, stopped moving.:らくの間、動かなくなる。}`
+`{ruby:"Rosa‐sama, we:「楼座さま、私たちは断じて}{ruby:definitely aren't lying...!!:嘘などついては…！！}`
+`{ruby:The two bodies:間違いなく二人の遺体はここ}{ruby:were definitely here!!":にあったんです！！」}`
 `{ruby:"Quiet down.:「静かに。}`
-`{ruby:.........The person who hid the corpses has confessed that they took them to another place.:………死体を隠した本人が、死体は他所に持ち去ったと告白しているわ。}`
+`{ruby:.........The person who hid the corpses has:………死体を隠した本人が、死体は他所}{ruby:confessed that they took them to another place.:に持ち去ったと告白しているわ。}`
 `{ruby:.........With this.":………これでね」}`
-`{ruby:Rosa showed them a single sheet of paper over her shoulder.:楼座が肩越しに一枚の便箋を見せる。}`
+`{ruby:Rosa showed them a single:楼座が肩越しに一枚の}{ruby:sheet of paper over her shoulder.:便箋を見せる。}`
 `{ruby:"What on Earth is that?!:「それは一体？！}`
-`{ruby:It couldn't be......a letter in a sealed envelope with crest, just like in the chapel?!":まさか、……礼拝堂にあったのと同じ、紋章入りの封筒の手紙？！」}`
+`{ruby:It couldn't be......a letter in a sealed:まさか、……礼拝堂にあったのと同じ}{ruby:envelope with crest, just like in the chapel?!":、紋章入りの封筒の手紙？！」}`
 `{ruby:"......Yes, that's right.:「……えぇ、そうよ。}`
 `{ruby:It was set here, out in the open.:ここに堂々と置いてあったわ。}`
 `{ruby:I'll read it.":読むわね」}`
-`{ruby:{e:070:―People of the Ushiromiya family.:{e:070:“右代宮家の皆様。}`
-`{ruby:I wonder if your attempts at solving the epitaph's riddle for the gold are reaching a climax.:黄金の碑文の謎解きはいよいよ佳境に入りましたでしょうか。}`
-`{ruby:Solving the riddle of the epitaph is the single method by which you all can stop me.}:皆さんに私を止めることができる唯一の方法が、碑文の謎を解くことなのです。}}`
-`{ruby:{e:070:You will not be able to stop me, or the ritual, by way of any other method of any kind.:{e:070:それ以外の如何なる方法を以ってしても、私と儀式を止めることはできません。}`
-`{ruby:I ask all of you that you take care not to mistake your goal.}:くれぐれも皆さんの目的をお間違いなきよう、よろしくお願い申し上げます。}}`
-`{ruby:{e:070:Attempting to search for me is useless.:{e:070:私を探そうとも、無駄。}`
-`{ruby:Attempting to escape from me is useless.:私から逃れようとも、無駄。}`
-`{ruby:Attempting to deny me is also—useless.:私を否定しようとも、無駄なのです。}`
+`{ruby:{e:070:―People of:{e:070:“右}{ruby:the Ushiromiya family.:代宮家の皆様。}`
+`{ruby:I wonder if your attempts at solving the:黄金の碑文の謎解きはいよいよ佳}{ruby:epitaph's riddle for the gold are reaching a climax.:境に入りましたでしょうか。}`
+`{ruby:Solving the riddle of the epitaph is the:皆さんに私を止めることができる唯一の方法}{ruby:single method by which you all can stop me.}:が、碑文の謎を解くことなのです。}}`
+`{ruby:{e:070:You will not be able to stop me, or the:{e:070:それ以外の如何なる方法を以ってし}{ruby:ritual, by way of any other method of any kind.:ても、私と儀式を止めることはできません。}`
+`{ruby:I ask all of you that you:くれぐれも皆さんの目的をお間違いなきよ}{ruby:take care not to mistake your goal.}:う、よろしくお願い申し上げます。}}`
+`{ruby:{e:070:Attempting to search:{e:070:私を探}{ruby:for me is useless.:そうとも、無駄。}`
+`{ruby:Attempting to escape:私から逃れようと}{ruby:from me is useless.:も、無駄。}`
+`{ruby:Attempting to deny:私を否定しようとも、}{ruby:me is also—useless.:無駄なのです。}`
 `{ruby:—{f:5:Beatrice} the Golden.}:――黄金のベアトリーチェ。”}}`
 `{ruby:"......P.S.:「……追伸。}`
-`{ruby:I borrowed the two bodies for the ritual.:二人の遺体を儀式にお借りします。}`
-`{ruby:I will return them later, so please accept my apologies.:後ほどご返却いたしますので、ご容赦をお願い致します。}`
-`{ruby:...Furthermore, since these keys belong to all of you, I shall return them.":…あと、この鍵は皆様の物ですのでご返却いたします」}`
-`{ruby:As Rosa read that aloud, the contents of the envelope lay exposed on the palm of her hand.:楼座はそれを読み上げると、封筒の中身を手の平の上に晒した。}`
+`{ruby:I borrowed the two:二人の遺体を儀式に}{ruby:bodies for the ritual.:お借りします。}`
+`{ruby:I will return them later,:後ほどご返却いたしますので、}{ruby:so please accept my apologies.:ご容赦をお願い致します。}`
+`{ruby:...Furthermore, since these keys belong to:…あと、この鍵は皆様の物です}{ruby:all of you, I shall return them.":のでご返却いたします」}`
+`{ruby:As Rosa read that aloud, the contents of the:楼座はそれを読み上げると、封筒の}{ruby:envelope lay exposed on the palm of her hand.:中身を手の平の上に晒した。}`
 `{ruby:They were two master keys.:それは二つのマスターキー。}`
-`{ruby:{n}The master key that Nanjo had found in Jessica's pocket, which had originally been Kanon's, and Kumasawa's master key.:{n}朱志香のポケットから南條が見つけた、本来は嘉音が持っていたマスターキーと、熊沢のマスターキーの二つだった。}`
+`{ruby:{n}The master key that Nanjo had found in Jessica's:{n}朱志香のポケットから南條が見つけた、本来は嘉音が持っ}{ruby:pocket, which had originally been Kanon's, and Kumasawa's master key.:ていたマスターキーと、熊沢のマスターキーの二つだった。}`
 `{ruby:"What the helllllll......:「何だとぉおおぉ……。}`
 `{ruby:So what does that mean...:ってことはどういうことだよ…。}`
 `{ruby:Damn you, again?!:ふざけんなよ、またかよ！}`
-`{ruby:You're saying I can only suspect the servants holding keys again?!":また、マスターキーを持ってる使用人しか疑えないってのかよ？！」}`
-`{ruby:"I haven't said it in red, you know...?:「妾は赤では言ってはおらぬぞ…？}`
-`{ruby:I haven't denied the possibility that at the time they locked the door and left, someone was hiding in this room...:彼らがこの部屋に施錠をして去った時、この部屋に何者かが隠れていた可能性を否定してはおらぬぞ…？}`
+`{ruby:You're saying I can only:また、マスターキーを持ってる使用人}{ruby:suspect the servants holding keys again?!":しか疑えないってのかよ？！」}`
+`{ruby:"I haven't said it:「妾は赤では言って}{ruby:in red, you know...?:はおらぬぞ…？}`
+`{ruby:I haven't denied the possibility that at the time they:彼らがこの部屋に施錠をして去った時、この部屋に何者}{ruby:locked the door and left, someone was hiding in this room...:かが隠れていた可能性を否定してはおらぬぞ…？}`
 `{ruby:*cackle*cackle*cackle*!":くっくくくくくくくく！」}`
-`{ruby:"......If they were hiding under the bed, it wouldn't have been impossible for them to have carried the corpses away somewhere.:「……ベッドの下にでも隠れれば、死体をどこかへ運び出すのはできないことじゃない。}`
-`{ruby:But that way they couldn't lock the door!:しかし、それじゃあ施錠ができない！}`
-`{ruby:The master key they went to all that trouble to get their hands on was set down right here!":わざわざ手に入れたマスターキーを、ここへ置いてっちまってる！」}`
+`{ruby:"......If they were hiding under the bed, it wouldn't have:「……ベッドの下にでも隠れれば、死体をどこ}{ruby:been impossible for them to have carried the corpses away somewhere.:かへ運び出すのはできないことじゃない。}`
+`{ruby:But that way they:しかし、それじゃあ施}{ruby:couldn't lock the door!:錠ができない！}`
+`{ruby:The master key they went to all that trouble:わざわざ手に入れたマスターキーを、}{ruby:to get their hands on was set down right here!":ここへ置いてっちまってる！」}`
 `{ruby:"......That's right, I'd forgotten.:「……そうだ、忘れてた。}`
-`{ruby:What about the keys specifically for this room, the servant room keys?!":この部屋の本来の鍵である“使用人室の鍵”はどうなっている？！」}`
+`{ruby:What about the keys specifically for:この部屋の本来の鍵である“使用人室}{ruby:this room, the servant room keys?!":の鍵”はどうなっている？！」}`
 `{ruby:"Mmhm.:「うむ。}`
-`{ruby:Those {p:1:are in the key box in the center of the servant room}.:それなら{p:1:使用人室の奥のキーボックスに収められているぞ}。}`
-`{ruby:There are several servant room keys, but {p:1:all of those are inside the key box}.":使用人室の鍵は数本あるが、{p:1:その全てがキーボックスに収められている}」}`
-`{ruby:"Which means that the situation isn't any different from the time with the key to Jessica's room...:「ってことは、朱志香の部屋の鍵の時と、状況は何も変わらないってことか…。}`
-`{ruby:It's not like the servants would walk around with an unnecessary key when they have those convenient master keys.:使用人も、便利なマスターキーがあれば、不要な鍵はわざわざ持ち歩かないもんな。}`
-`{ruby:I can accept that they were all still shut away in the key box...":キーボックスにしまわれっ放しになってるのも納得だぜ…」}`
-`{ruby:"And nothing has changed in the other conditions.:「その他の条件も何も変わらぬ。}`
-`{ruby:{p:1:Entry and exit are impossible except for the single door and the single window}.:{p:1:出入りは唯一の扉と唯一の窓から以外は不可能}。}`
-`{ruby:Therefore, hidden doors and irregular methods of entry cannot exist.:ゆえに隠し扉などの不正規な出入り手段は否定される。}`
+`{ruby:Those {p:1:are in the key box:それなら{p:1:使用人室の奥のキー}{ruby:in the center of the servant room}.:ボックスに収められているぞ}。}`
+`{ruby:There are several servant room keys, but:使用人室の鍵は数本あるが、{p:1:その全}{ruby:{p:1:all of those are inside the key box}.":てがキーボックスに収められている}」}`
+`{ruby:"Which means that the situation isn't any different:「ってことは、朱志香の部屋の鍵の時と、}{ruby:from the time with the key to Jessica's room...:状況は何も変わらないってことか…。}`
+`{ruby:It's not like the servants would walk around with:使用人も、便利なマスターキーがあれば、不}{ruby:an unnecessary key when they have those convenient master keys.:要な鍵はわざわざ持ち歩かないもんな。}`
+`{ruby:I can accept that they were all:キーボックスにしまわれっ放しに}{ruby:still shut away in the key box...":なってるのも納得だぜ…」}`
+`{ruby:"And nothing has changed:「その他の条件も何}{ruby:in the other conditions.:も変わらぬ。}`
+`{ruby:{p:1:Entry and exit are impossible except for:{p:1:出入りは唯一の扉と唯}{ruby:the single door and the single window}.:一の窓から以外は不可能}。}`
+`{ruby:Therefore, hidden doors and irregular:ゆえに隠し扉などの不正規な出}{ruby:methods of entry cannot exist.:入り手段は否定される。}`
 `{ruby:Rejoice, great detectives.:喜べ名探偵ども。}`
 `{ruby:*cackle*!":くっくっく！」}`
 `{ruby:":「}`
 `{ruby:{p:1:And those were both locked}.:{p:1:そしてそれらはいずれも施錠されていた}。}`
-`{ruby:{p:1:The door and the window do not permit any kind of entry or exit when they are locked}.:{p:1:扉も窓も、施錠時には如何なる出入りも許さない}。}`
-`{ruby:So it won't work to remove the door, make a crack to slide in through, or anything like that while the lock is maintained.:つまり、施錠を維持したまま、扉を外す、隙間を作ってすり抜ける等々は通用しないということだ。}`
-`{ruby:And obviously, {p:1:it is impossible to unlock the door without the servant room key or a master key}.":当然だが、{p:1:扉の開錠は使用人室の鍵とマスターキー以外は不可能}」}`
-`{ruby:"...It's a pain having to read all these aloud every time.:「…毎回、これを読み上げるのも面倒だの。}`
-`{ruby:Sooner or later, I should think of some word to abbreviate all this into a single phrase.":今度これをまとめて一言に略す言葉でも考えよう」}`
-`{ruby:"But you can't repeat that no one was hiding in this room!:「だが、この部屋に誰かが隠れていたことは復唱できねぇだろう！}`
-`{ruby:......However, that alone won't break open the door of a locked room...:……しかし、それだけでは密室の扉が破れない…。}`
+`{ruby:{p:1:The door and the window do not permit any:{p:1:扉も窓も、施錠時には如}{ruby:kind of entry or exit when they are locked}.:何なる出入りも許さない}。}`
+`{ruby:So it won't work to remove the door, make a crack to:つまり、施錠を維持したまま、扉を外す、隙間を作っ}{ruby:slide in through, or anything like that while the lock is maintained.:てすり抜ける等々は通用しないということだ。}`
+`{ruby:And obviously, {p:1:it is impossible to unlock the door:当然だが、{p:1:扉の開錠は使用人室}{ruby:without the servant room key or a master key}.":の鍵とマスターキー以外は不可能}」}`
+`{ruby:"...It's a pain having to:「…毎回、これを読み上}{ruby:read all these aloud every time.:げるのも面倒だの。}`
+`{ruby:Sooner or later, I should think of some:今度これをまとめて一言に略}{ruby:word to abbreviate all this into a single phrase.":す言葉でも考えよう」}`
+`{ruby:"But you can't repeat that no:「だが、この部屋に誰かが隠れてい}{ruby:one was hiding in this room!:たことは復唱できねぇだろう！}`
+`{ruby:......However, that alone won't break open:……しかし、それだけでは密}{ruby:the door of a locked room...:室の扉が破れない…。}`
 `{ruby:Aaah, damn it, damn it!!:あぁ、クソクソ！！}`
-`{ruby:It's no good, no good, no goddamn good at all...!":駄目だ駄目だ、全然駄目だ…！」}`
+`{ruby:It's no good, no good,:駄目だ駄目だ、全然}{ruby:no goddamn good at all...!":駄目だ…！」}`
 `{ruby:"*cackle*cackle*!:「くっくっくっく！}`
-`{ruby:What happened to that flipping over the chessboard thing that you're so proud of...?:お得意のチェス盤を引っ繰り返すとやらはどうした…？}`
-`{ruby:Please, announce your boastful strange theory.":自慢の珍説をぜひ披露してみよ」}`
-`{ruby:"...............Flip over...the chessboard.:「……………チェス盤を、引っ繰り返す。}`
-`{ruby:............What would I do if I were the culprit?:…………俺が犯人ならどうする。}`
+`{ruby:What happened to that flipping over the:お得意のチェス盤を引っ繰り返}{ruby:chessboard thing that you're so proud of...?:すとやらはどうした…？}`
+`{ruby:Please, announce your:自慢の珍説をぜひ披}{ruby:boastful strange theory.":露してみよ」}`
+`{ruby:"...............Flip:「……………チェス盤を}{ruby:over...the chessboard.:、引っ繰り返す。}`
+`{ruby:............What would I do:…………俺が犯人な}{ruby:if I were the culprit?:らどうする。}`
 `{ruby:I carry the corpses off somewhere.:死体をどこかへ運び出す。}`
 `{ruby:......I leave a letter.:……手紙を残す。}`
-`{ruby:.........I lock the door from the inside.:………内側から鍵を閉める。}`
-`{ruby:......Then I just have to escape this room by some means.":……ここから何かの方法で部屋を脱出すればいいんだ」}`
-`{ruby:".........Damn it, is that even possible?!:「………くそッ、そんな方法はあるのか？！}`
-`{ruby:I was told in red that you can't get outside except by the door or the window...!":扉と窓以外からは外に出られないと赤で言われちまってる…！」}`
+`{ruby:.........I lock the:………内側から鍵}{ruby:door from the inside.:を閉める。}`
+`{ruby:......Then I just have to:……ここから何かの方法で部屋}{ruby:escape this room by some means.":を脱出すればいいんだ」}`
+`{ruby:".........Damn it, is:「………くそッ、そんな}{ruby:that even possible?!:方法はあるのか？！}`
+`{ruby:I was told in red that you can't:扉と窓以外からは外に出られないと}{ruby:get outside except by the door or the window...!":赤で言われちまってる…！」}`
 `{ruby:"..................ah—":「………………あ、」}`
 `{ruby:......At that moment, ......I got it.:……その時、……閃く。}`
 `{ruby:That's right.:そうだ。}`
-`{ruby:......Carry the corpses, leave the letter.:……死体を運び、手紙を残し。}`
-`{ruby:{n}......And not rely on a "hidden door"—{i:in other words, not even able to escape}.:{n}……そして「隠し扉」に頼らず、{i:つまり脱出もできない}。}`
+`{ruby:......Carry the corpses,:……死体を運び、}{ruby:leave the letter.:手紙を残し。}`
+`{ruby:{n}......And not rely on a "hidden door"—{i:in:{n}……そして「隠し扉」に頼らず、}{ruby:other words, not even able to escape}.:{i:つまり脱出もできない}。}`
 `{ruby:...That's it.:…そうだ。}`
-`{ruby:This isn't a question, it's an answer......:これは疑問なんじゃなく、答えだったんだ……。}`
+`{ruby:This isn't a:これは疑問なんじゃなく、}{ruby:question, it's an answer......:答えだったんだ……。}`
 `{ruby:"Beato.:「ベアト。}`
-`{ruby:......Before my repetition request, I want to check the {i:definition of these hidden doors} that you're talking about.":……復唱要求の前に、お前の言う{i:隠し扉の定義}を確認したい」}`
+`{ruby:......Before my repetition request, I want to check the:……復唱要求の前に、お前の言う{i}{ruby:{i:definition of these hidden doors} that you're talking about."::隠し扉の定義}を確認したい」}`
 `{ruby:"What have you thought of?:「何を思いついたやら。}`
 `{ruby:Very well, I'll explain.:良かろう、説明する。}`
-`{ruby:A hidden door refers to an entrance or exit that cannot be recognized by those who do not know of it.:隠し扉とは、知らぬ人間が認識できぬ出入り口のことであろうが。}`
+`{ruby:A hidden door refers to an entrance or exit that:隠し扉とは、知らぬ人間が認識でき}{ruby:cannot be recognized by those who do not know of it.:ぬ出入り口のことであろうが。}`
 `{ruby:Even children know that.":そんなこと子どもでも知っておろう」}`
-`{ruby:"......So in other words, if you can't get outside the room with it, it isn't a hidden door?":「……つまり、部屋の外に出られなかったら、それは隠し扉じゃないってことだよな？」}`
+`{ruby:"......So in other words, if you can't get outside:「……つまり、部屋の外に出られなかったら、}{ruby:the room with it, it isn't a hidden door?":それは隠し扉じゃないってことだよな？」}`
 `{ruby:"Hoh.:「ほぉ。}`
 `{ruby:.........That angle.":………そう来たか」}`
-`{ruby:"I kept thinking that the culprit had escaped the locked room.":「俺は、犯人は密室から抜け出したものだとばかり思っていた」}`
+`{ruby:"I kept thinking that the:「俺は、犯人は密室から抜け出した}{ruby:culprit had escaped the locked room.":ものだとばかり思っていた」}`
 `{ruby:"......That's wrong.:「……違うんだ。}`
-`{ruby:Even the culprit couldn't escape the locked room!:犯人だって密室から、脱出できなかったんだ！}`
-`{ruby:So the culprit decided to hide until we passed by!":だから隠れてやり過ごそうとした！」}`
-`{ruby:I had used this theory for the second locked room, and reasoned that Kanon‐kun might have done this.:俺はこの説を、第二の密室の時、嘉音くんがそうしようとしたかもしれないと推理した。}`
-`{ruby:......But I had given up that reasoning when I was told "Kanon‐kun was killed" in red.:……しかし、“嘉音くんは殺された”と赤で言われたのでこの推理を引っ込めた。}`
-`{ruby:And next, I had reasoned that if there had been a third person in the room, it would have been possible for them to escape through a hidden door.:そして次に、部屋に３人目の人物がいたなら、隠し扉で脱出することも可能だと推理した。}`
-`{ruby:And that was when, for the first time, the claim had been made in red that "no hidden doors exist".:そしてここで初めて、“隠し扉は存在しない”と赤で断言されたのだ。}`
+`{ruby:Even the culprit couldn't:犯人だって密室から、脱出}{ruby:escape the locked room!:できなかったんだ！}`
+`{ruby:So the culprit decided to:だから隠れてやり過ご}{ruby:hide until we passed by!":そうとした！」}`
+`{ruby:I had used this theory for the second locked:俺はこの説を、第二の密室の時、嘉音くんがそ}{ruby:room, and reasoned that Kanon‐kun might have done this.:うしようとしたかもしれないと推理した。}`
+`{ruby:......But I had given up that reasoning when:……しかし、“嘉音くんは殺された”と赤で}{ruby:I was told "Kanon‐kun was killed" in red.:言われたのでこの推理を引っ込めた。}`
+`{ruby:And next, I had reasoned that if there had been a third person in:そして次に、部屋に３人目の人物がいたなら、隠}{ruby:the room, it would have been possible for them to escape through a hidden door.:し扉で脱出することも可能だと推理した。}`
+`{ruby:And that was when, for the first time, the claim:そしてここで初めて、“隠し扉は存在}{ruby:had been made in red that "no hidden doors exist".:しない”と赤で断言されたのだ。}`
 `{ruby:And what I'd learned just now.:そして今わかったこと。}`
-`{ruby:These "hidden doors" the witch was talking about referred to things that made it possible to get into or out of the room.:魔女の言っている「隠し扉」は、外部に出入りできるものを指す。}`
-`{ruby:......In other words, things that didn't permit entry or exit to the outside, and also wouldn't be noticed by people who didn't know about them, wouldn't fall under the definition of "hidden door".:……つまり、外部に出入りできず、しかも知らない人には気付けないものは「隠し扉」の定義に入らないことになっている。}`
-`{ruby:In other words, if there were, for example, something like a "hidden shelf" or a "secret closet", they wouldn't be defined as "hidden doors"!:つまり、例えば「隠し棚」や「秘密のクローゼット」みたいなものは「隠し扉」に定義されてないわけだ！}`
-`{ruby:In other words, the third person in Jessica's room was hiding here, waiting for us to pass by!:つまり、朱志香の部屋の３人目の人物はここに隠れて俺たちをやり過ごしたんだ！}`
-`{ruby:Heh, how pathetic, just a little playing around with words!:へっ、下らねぇぜ、ちょっとした言葉遊びだったんだ！}`
-`{ruby:{n}With this method, it looks like I can even manage the third locked room, the servant room.:{n}この方法なら第三の密室であるこの使用人室も何とかなりそうだ。}`
-`{ruby:If there's a hidden shelf under the bed or anything like that, that would be enough.:ベッドの下でも隠し棚でも何でもいい。}`
-`{ruby:{n}The culprit's hiding somewhere, waiting for us to leave.:{n}どこかに潜み、俺たちが立ち去るのを待っているのだ。}`
-`{ruby:.........The culprit is also trapped in the locked room even now!!:………犯人もまた、密室に閉じ込められたままだったのだッ！！}`
+`{ruby:These "hidden doors" the witch was talking about referred to things:魔女の言っている「隠し扉」は、外}{ruby:that made it possible to get into or out of the room.:部に出入りできるものを指す。}`
+`{ruby:......In other words, things that didn't permit entry or exit to the outside, and also wouldn't:……つまり、外部に出入りできず、しかも知らない人には気付け}{ruby:be noticed by people who didn't know about them, wouldn't fall under the definition of "hidden door".:ないものは「隠し扉」の定義に入らないことになっている。}`
+`{ruby:In other words, if there were, for example, something like a "hidden:つまり、例えば「隠し棚」や「秘密のクローゼット」み}{ruby:shelf" or a "secret closet", they wouldn't be defined as "hidden doors"!:たいなものは「隠し扉」に定義されてないわけだ！}`
+`{ruby:In other words, the third person in Jessica's room:つまり、朱志香の部屋の３人目の人物はここ}{ruby:was hiding here, waiting for us to pass by!:に隠れて俺たちをやり過ごしたんだ！}`
+`{ruby:Heh, how pathetic, just a:へっ、下らねぇぜ、ちょっとし}{ruby:little playing around with words!:た言葉遊びだったんだ！}`
+`{ruby:{n}With this method, it looks like I can:{n}この方法なら第三の密室であるこ}{ruby:even manage the third locked room, the servant room.:の使用人室も何とかなりそうだ。}`
+`{ruby:If there's a hidden shelf under the bed:ベッドの下でも隠し棚}{ruby:or anything like that, that would be enough.:でも何でもいい。}`
+`{ruby:{n}The culprit's hiding somewhere,:{n}どこかに潜み、俺たちが立}{ruby:waiting for us to leave.:ち去るのを待っているのだ。}`
+`{ruby:.........The culprit is also trapped:………犯人もまた、密室に閉じ込め}{ruby:in the locked room even now!!:られたままだったのだッ！！}`
 `{ruby:Which means......at this very moment!:ってことは……、今この瞬間！}`
-`{ruby:The culprit is still hiding in the servant room, holding their breath...!!!:この使用人室には未だ犯人が隠れて息を潜めていることになる…！！！}`
-`{ruby:And that means......... What the hell...:ってことは、………何てこった…。}`
-`{ruby:Even though we've been tortured with locked rooms three times,:俺たちは三度密室を与えられて苦しめられたってのに、}`
-`{ruby:......in this very moment, we've actually gotten the culprit in checkmate!!:……実は今この瞬間、俺たちは犯人を、チェックメイトしているッ！！}`
+`{ruby:The culprit is still hiding in:この使用人室には未だ犯人が隠れて息}{ruby:the servant room, holding their breath...!!!:を潜めていることになる…！！！}`
+`{ruby:And that means.........:ってことは、………}{ruby:What the hell...:何てこった…。}`
+`{ruby:Even though we've been tortured:俺たちは三度密室を与えられて}{ruby:with locked rooms three times,:苦しめられたってのに、}`
+`{ruby:......in this very moment, we've:……実は今この瞬間、俺たちは犯人を}{ruby:actually gotten the culprit in checkmate!!:、チェックメイトしているッ！！}`
 `{ruby:"I've finally started to see it.:「ようやく見えてきたぜ。}`
 `{ruby:......Take this, Beato!!":……食らえベアト！！」}`
 `{ruby:"Repetition requested!:「復唱要求！}`
-`{ruby:"There is no one in this room other than us"!:“この部屋には俺たち以外の誰もいない”！}`
-`{ruby:By us, I mean me, George‐aniki, Maria, Auntie Rosa, Genji‐san, Gohda‐san, and Shannon‐chan, alright?!:俺たちってのは、俺、譲治の兄貴、真里亞、楼座叔母さん、源次さん、郷田さん、紗音ちゃんのことだぜ？！}`
+`{ruby:"There is no one in:“この部屋には俺たち以外}{ruby:this room other than us"!:の誰もいない”！}`
+`{ruby:By us, I mean me, George‐aniki, Maria,:俺たちってのは、俺、譲治の兄貴、真里亞、楼座叔母さん}{ruby:Auntie Rosa, Genji‐san, Gohda‐san, and Shannon‐chan, alright?!:、源次さん、郷田さん、紗音ちゃんのことだぜ？！}`
 `{ruby:Well?!! You can't say it, can you?!":どうだッ！！　言えねぇだろう？！」}`
 `{ruby:".........Hoh......:「………ほぉ……。}`
 `{ruby:.........Hoh......!":………ほぉ……！」}`
 `{ruby:"I'll bet I hit you where it hurts!!:「痛ぇとこを突かれただろう！！}`
-`{ruby:If you decline, then say you decline, damn it!!:拒否なら拒否と言いやがれ！！}`
+`{ruby:If you decline, then:拒否なら拒否と言い}{ruby:say you decline, damn it!!:やがれ！！}`
 `{ruby:Here comes the next one!!:次、行くぜ！！}`
 `{ruby:Repetition requested!!":復唱要求！！」}`
-`{ruby:I don't know how they're hiding in this room.:この部屋のどこにどうやって隠れているかはわからない。}`
-`{ruby:But if that's a fact, then this also resolves the second locked room, Jessica's room, at the same time!!:でも、それが事実であるならば、第二の密室、朱志香の部屋のことだって一気に解決できるんだッ！！}`
+`{ruby:I don't know how:この部屋のどこにどうやって隠}{ruby:they're hiding in this room.:れているかはわからない。}`
+`{ruby:But if that's a fact, then this also resolves:でも、それが事実であるならば、第二の密室、朱志香}{ruby:the second locked room, Jessica's room, at the same time!!:の部屋のことだって一気に解決できるんだッ！！}`
 `{ruby:I've finally caught her by the tail!:ようやく尻尾を掴んだ！}`
-`{ruby:{n}With this, I can explain everything!:{n}これで全てを説明できる！}`
-`{ruby:{n}Witches don't exist, I don't have to doubt anyone!!:{n}魔女なんかいないッ、誰も疑わなくていい！！}`
-`{ruby:Alright, starting now, I'll flip it over!:よし、ここから引っ繰り返すぞ！}`
-`{ruby:The next thing I'll request she repeat is—:次に求める復唱は、}`
+`{ruby:{n}With this, I:{n}これで全てを}{ruby:can explain everything!:説明できる！}`
+`{ruby:{n}Witches don't exist, I:{n}魔女なんかいないッ、}{ruby:don't have to doubt anyone!!:誰も疑わなくていい！！}`
+`{ruby:Alright, starting now,:よし、ここから引っ}{ruby:I'll flip it over!:繰り返すぞ！}`
+`{ruby:The next thing I'll:次に求める復}{ruby:request she repeat is—:唱は、}`
 `{ruby:":「}`
-`{ruby:{p:1:No one exists in this room except your group}.:{p:1:この部屋には、お前たち以外は存在しない}。}`
-`{ruby:{p:1:"Your group" refers to Battler, George, Maria, Rosa, Genji, Gohda, and Shannon}.":{p:1:お前たちの定義とは、戦人、譲治、真里亞、楼座、源次、郷田、紗音のことを指す}」}`
+`{ruby:{p:1:No one exists in:{p:1:この部屋には、お前}{ruby:this room except your group}.:たち以外は存在しない}。}`
+`{ruby:{p:1:"Your group" refers to Battler, George,:{p:1:お前たちの定義とは、戦人、譲治、真里}{ruby:Maria, Rosa, Genji, Gohda, and Shannon}.":亞、楼座、源次、郷田、紗音のことを指す}」}`
 `{ruby:"......Wha‐............":「……な、……………」}`
 `{ruby:"Let's go back to Jessica's room.:「朱志香の部屋に話を戻す。}`
-`{ruby:{p:1:At the time of Jessica's corpse discovery,:{p:1:朱志香の死体発見時、朱志香の部屋にいたのは、}`
-`{ruby:only Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa, and Nanjo were in Jessica's room}.":戦人、譲治、真里亞、楼座、源次、郷田、紗音、熊沢、南條のみだった}」}`
-`{ruby:"Whoops, the corpse of {p:1:Jessica is also included, of course}.:「おっと、死体の{p:1:朱志香ももちろん含む}。}`
-`{ruby:{p:1:Therefore, both in the case of Jessica's room and the case of this servant room, no humans exist that you were not aware of}.:{p:1:よって、朱志香の部屋の件、そしてこの使用人室の件の両方について、そなたが認識していた以外の人間は存在しない}。}`
+`{ruby:{p:1:At the time:{p:1:朱志香の死体発見時、}{ruby:of Jessica's corpse discovery,:朱志香の部屋にいたのは、}`
+`{ruby:only Battler, George, Maria, Rosa, Genji, Gohda,:戦人、譲治、真里亞、楼座、源次、郷田}{ruby:Shannon, Kumasawa, and Nanjo were in Jessica's room}.":、紗音、熊沢、南條のみだった}」}`
+`{ruby:"Whoops, the corpse of {p:1:Jessica:「おっと、死体の{p:1:朱}{ruby:is also included, of course}.:志香ももちろん含む}。}`
+`{ruby:{p:1:Therefore, both in the case of Jessica's room and the case of:{p:1:よって、朱志香の部屋の件、そしてこの使用人室の件の両}{ruby:this servant room, no humans exist that you were not aware of}.:方について、そなたが認識していた以外の人間は存在しない}。}`
 `{ruby:{p:1:No one is hiding}.":{p:1:誰も隠れていない}」}`
 `{ruby:"And I'll say more.:「さらに言おう。}`
-`{ruby:{p:1:No method exists by which the doors can be locked from the outside without using a key}.:{p:1:扉は鍵を使用せずに外から施錠する方法は存在しない}。}`
-`{ruby:{p:1:Regarding the windows, no method exists by which they could somehow be locked from the outside}.":{p:1:窓については外からは如何なる方法でも施錠する方法は存在しない}」}`
+`{ruby:{p:1:No method exists by which the doors can:{p:1:扉は鍵を使用せずに外から}{ruby:be locked from the outside without using a key}.:施錠する方法は存在しない}。}`
+`{ruby:{p:1:Regarding the windows, no method exists by which:{p:1:窓については外からは如何なる方}{ruby:they could somehow be locked from the outside}.":法でも施錠する方法は存在しない}」}`
 `{ruby:"And while I'm at it.:「ついでに言おう。}`
 `{ruby:{p:1:You are incompetent}!":{p:1:そなたは無能だ}！」}`
-`{ruby:"*cackle*cackle*cackle*cackle*, {p:1:hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi}!!":「くっくくくっくくくくく、{p:1:ひーっひひっひひひひひひひひひひひひ}！！」}`
+`{ruby:"*cackle*cackle*cackle*cackle*,:「くっくくくっくくくくく、{p:1:ひーっ}{ruby:{p:1:hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi}!!":ひひっひひひひひひひひひひひひ}！！」}`
 `{ruby:"S‐.........son of a biiiiitch......:「ば、………馬鹿野郎ぉおぉ……。}`
-`{ruby:Then.........it really is......a locked room, isn't it............":それじゃあ、………本当に、……密室じゃねぇかよぉ…………」}`
-`{ruby:"It, ...it was so hard to think of, too.:「せ、…せっかく思いついたのに。}`
-`{ruby:If you had been hiding...that explanation would fit everything.:お前が隠れていたんなら…、全て説明が付いたのに。}`
-`{ruby:Just when I thought I'd broken the trick... .........Damn iiit...":トリックを打ち破れたと思ったってのに、………くそォ…」}`
-`{ruby:".........u............uoooooooooooooooooooooohhh!!":「………ぅ、…………ぅおおぉおおおおおおおおおおおぉおおぉ！！」}`
-`{ruby:It's no good no good no good no goddamn good!!:駄目だ駄目だ駄目だ全然駄目だッ！！}`
+`{ruby:Then.........it really is......a:それじゃあ、………本当に、……密}{ruby:locked room, isn't it............":室じゃねぇかよぉ…………」}`
+`{ruby:"It, ...it was so:「せ、…せっかく思}{ruby:hard to think of, too.:いついたのに。}`
+`{ruby:If you had been:お前が隠れていたんなら…、}{ruby:hiding...that explanation would fit everything.:全て説明が付いたのに。}`
+`{ruby:Just when I thought I'd:トリックを打ち破れたと思ったっ}{ruby:broken the trick... .........Damn iiit...":てのに、………くそォ…」}`
+`{ruby::「………ぅ、…………ぅおおぉおおお}{ruby:".........u............uoooooooooooooooooooooohhh!!":おおおおおおおおぉおおぉ！！」}`
+`{ruby:It's no good no good:駄目だ駄目だ駄目だ全}{ruby:no good no goddamn good!!:然駄目だッ！！}`
 `{ruby:{n}For a second, I thought I had it!:{n}一瞬、閃いたと思った！}`
 `{ruby:It was no goddamn good at all!!:全然駄目だった！！}`
 `{ruby:{f:5:Beatrice}, you bitch,:ベアトリーチェのヤツめ、}`
-`{ruby:I thought you were all smoke and mirrors, playing word games that made clever use of red,:赤をうまく使った言葉遊びで煙に巻き、}`
-`{ruby:I was certain you'd just cleverly deceived me...!!:俺をうまく騙せたに違いないと看破したはずだった…！！}`
-`{ruby:......Just when I thought I'd seen a light in the darkness,:……やっと暗闇に光が見えたと思ったのに、}`
+`{ruby:I thought you were all smoke and mirrors,:赤をうまく使った言葉}{ruby:playing word games that made clever use of red,:遊びで煙に巻き、}`
+`{ruby:I was certain you'd:俺をうまく騙せたに違いないと}{ruby:just cleverly deceived me...!!:看破したはずだった…！！}`
+`{ruby:......Just when I thought I'd:……やっと暗闇に光が見}{ruby:seen a light in the darkness,:えたと思ったのに、}`
 `{ruby:............it disappeared,:…………消えた、}`
-`{ruby:.........it just disappeared.........:………消えちまった………、}`
+`{ruby:.........it:………消えちまっ}{ruby:just disappeared.........:た………、}`
 `{ruby:swallowed up...:真っ赤な海に、}`
 `{ruby:...by a blood‐red sea.........!:……飲み込まれちまった………ッ！}`
 `{ruby:Red,:赤い、}`
@@ -420,20 +420,20 @@
 `{ruby:red:赤い}`
 `{ruby:red!!:赤いッ！！}`
 `{ruby:No one is hiding!:誰も隠れていない！}`
-`{ruby:And there's no hidden door, and no way to trick the doors or the windows while they're locked!!:そして隠し扉もなく、施錠された扉も窓も騙す方法がない！！}`
-`{ruby:Have you just proven that it's all impossible?!:全て不可能だと証明しきっちまったのか？！}`
+`{ruby:And there's no hidden door, and no way to:そして隠し扉もなく、施錠された扉}{ruby:trick the doors or the windows while they're locked!!:も窓も騙す方法がない！！}`
+`{ruby:Have you just proven:全て不可能だと証明しき}{ruby:that it's all impossible?!:っちまったのか？！}`
 `{ruby:Has the Devil's Proof...:悪魔の証明を、}`
 `{ruby:...been pulled off...:……正攻法で、}`
 `{ruby:...with a frontal attack?!:……成し遂げちまったってのかッ？！}`
 `{ruby:Impossible,:ありえねぇ、}`
 `{ruby:......this is impossible!!:……ありえねぇよ、こんなのッ！！}`
 `{ruby:"What's wrong, Ushiromiya Battlerr?:「どうしたのだ右代宮戦人ァ？}`
-`{ruby:Weren't you so confident you could deny witchesss?:魔女を否定する気で満々だったじゃアない。}`
-`{ruby:Why are you groveling and wringing out bitter tears in a place like thaaat?":そんなところで這いつくばって悔し涙を搾り出してどうしたんだイ？」}`
-`{ruby:"Oh, yes, that's a really wonderful method.:「あぁそれはとってもステキな方法。}`
-`{ruby:Truly wonderful how you're trying to make me fall over laughing and drown in a sea of the tears of my own laughter.:妾を笑い転げさせて笑い涙の海で溺れ殺してやろうというのは確かにステキ。}`
-`{ruby:That's what you're really trying to do, riight?:実はそうなんだろォ？}`
-`{ruby:You're trying to make me laugh and laugh and laugh myself to death, riight,:妾を笑って笑って笑い殺してやろうって手なんだろォ、}`
+`{ruby:Weren't you so confident:魔女を否定する気で満々だ}{ruby:you could deny witchesss?:ったじゃアない。}`
+`{ruby:Why are you groveling and wringing out:そんなところで這いつくばって悔し涙}{ruby:bitter tears in a place like thaaat?":を搾り出してどうしたんだイ？」}`
+`{ruby:"Oh, yes, that's:「あぁそれはとっても}{ruby:a really wonderful method.:ステキな方法。}`
+`{ruby:Truly wonderful how you're trying to make me fall over laughing:妾を笑い転げさせて笑い涙の海で溺れ殺し}{ruby:and drown in a sea of the tears of my own laughter.:てやろうというのは確かにステキ。}`
+`{ruby:That's what you're really:実はそうなん}{ruby:trying to do, riight?:だろォ？}`
+`{ruby:You're trying to make me laugh and:妾を笑って笑って笑い殺してや}{ruby:laugh and laugh myself to death, riight,:ろうって手なんだろォ、}`
 `{ruby:U:右}`
 `{ruby:shiro:代}`
 `{ruby:miya:宮}`
@@ -442,117 +442,117 @@
 `{ruby:e:ァ}`
 `{ruby:rr:ア}`
 `{ruby:???":？？？」}`
-`{ruby:"Magic?! Screw that! I'll definitely deny witches exist!!:「何が魔法だ、魔女なんて絶対に否定してやる！！}`
+`{ruby:"Magic?! Screw that! I'll:「何が魔法だ、魔女なんて絶}{ruby:definitely deny witches exist!!:対に否定してやる！！}`
 `{ruby:I'll never believe in you!!:お前なんて絶対に信じない！！}`
 `{ruby:You used the power of magic,:魔法の力で、}`
-`{ruby:......and bullied and killed everyone for fun?:……みんなを面白半分に虐め殺してるなんて、}`
-`{ruby:......I'm never gonna accept thaaaaaaaat!!":……絶対に認めねえぇええええぇえ！！」}`
+`{ruby:......and bullied and:……みんなを面白半分に虐}{ruby:killed everyone for fun?:め殺してるなんて、}`
+`{ruby:......I'm never:……絶対に認めねえぇえ}{ruby:gonna accept thaaaaaaaat!!":えええぇえ！！」}`
 `{ruby:"Hey, Battler?:「なぁ、戦人ァ？}`
 `{ruby:Sorry for bullying you too much.:虐めすぎて悪かった。}`
-`{ruby:I'll "flip over the chessboard" from my side.:妾側から“チェス盤を引っ繰り返してやる”ぞ。}`
-`{ruby:I'll teach your side the best move in your place.:お前に代わって、お前側の最善手を教えてやるよ。}`
+`{ruby:I'll "flip over the:妾側から“チェス盤を引っ}{ruby:chessboard" from my side.:繰り返してやる”ぞ。}`
+`{ruby:I'll teach your side the:お前に代わって、お前側の最}{ruby:best move in your place.:善手を教えてやるよ。}`
 `{ruby:Want to heeeeeaar??":聞きたいィイイ？？」}`
-`{ruby:"Screw you, I don't wanna hear, I don't wanna hear!!":「ふざけんな、聞きたくねぇ聞きたくねぇッ！！」}`
+`{ruby:"Screw you, I don't wanna:「ふざけんな、聞きたくねぇ}{ruby:hear, I don't wanna hear!!":聞きたくねぇッ！！」}`
 `{ruby:"The case of Jessica's room.:「朱志香の部屋の件。}`
-`{ruby:You really struck on a good spot, you know...?:そなたは実に良いところを突いていたのだぞォ…？}`
-`{ruby:Trying to hide and wait for you to pass by.:隠れてやり過ごそうとした。}`
+`{ruby:You really struck on:そなたは実に良いところを突}{ruby:a good spot, you know...?:いていたのだぞォ…？}`
+`{ruby:Trying to hide and wait:隠れてやり過ごそ}{ruby:for you to pass by.:うとした。}`
 `{ruby:That truly was a good observation.":これは実にいい着眼だった」}`
-`{ruby:"...But why did you think that could only be Kanon or me, the 19th person......?:「…だが、なぜそれを嘉音と１９人目の妾にしか考えなかった……？}`
-`{ruby:I see, the "hide" part of "hide and wait for you to pass" must have gotten in the way, so you didn't think that far.":そうか、隠れてやり過ごすの、“隠れて”が邪魔だったから考えが至らなかったか」}`
+`{ruby:"...But why did you think that could:「…だが、なぜそれを嘉音と１９人目}{ruby:only be Kanon or me, the 19th person......?:の妾にしか考えなかった……？}`
+`{ruby:I see, the "hide" part of "hide and wait for you to:そうか、隠れてやり過ごすの、“隠れて”が邪}{ruby:pass" must have gotten in the way, so you didn't think that far.":魔だったから考えが至らなかったか」}`
 `{ruby:"...Loooook, now do you understand?:「…ほぅら、もうわかるだろォ？}`
 `{ruby:It's Jessica.:朱志香だよ。}`
 `{ruby:Jeeeessicaaaaaa!!":朱ェエ志香アアァア！！」}`
-`{ruby:If Jessica were the culprit, ......a farce like this could be easily constructed!!:朱志香が犯人だったなら、……こんな茶番は簡単に構築できる！！}`
-`{ruby:She killed Kanon‐kun, and carried him off somewhere!:嘉音くんを殺し、どこかへ運び出す！}`
-`{ruby:{n}Then, she played dead and let us walk by!:{n}そして、殺されたフリをしてやり過ごす！}`
+`{ruby:If Jessica were the culprit, ......a:朱志香が犯人だったなら、……こん}{ruby:farce like this could be easily constructed!!:な茶番は簡単に構築できる！！}`
+`{ruby:She killed Kanon‐kun, and:嘉音くんを殺し、どこ}{ruby:carried him off somewhere!:かへ運び出す！}`
+`{ruby:{n}Then, she played dead:{n}そして、殺されたフ}{ruby:and let us walk by!:リをしてやり過ごす！}`
 `{ruby:But that's ridiculous!!:でも馬鹿な！！}`
-`{ruby:Doctor Nanjo had definitely checked that she was dead!:南條先生が死亡をちゃんと確認してくれた！}`
-`{ruby:So is Doctor Nanjo an accomplice too?!:なら南條先生もグルだってのか？！}`
+`{ruby:Doctor Nanjo had definitely:南條先生が死亡をちゃんと}{ruby:checked that she was dead!:確認してくれた！}`
+`{ruby:So is Doctor:なら南條先生もグルだ}{ruby:Nanjo an accomplice too?!:ってのか？！}`
 `{ruby:That's wrong!!:違う！！}`
-`{ruby:I had also made sure that Jessica was really dead!:朱志香が本当に死んでいるのは俺も確認した！}`
-`{ruby:Sure, I'd never performed an examination of a corpse before, but she was definitely dead!:確かに俺は検死なんかしたことないけど、確かに死んでた！}`
+`{ruby:I had also made sure:朱志香が本当に死んでいる}{ruby:that Jessica was really dead!:のは俺も確認した！}`
+`{ruby:Sure, I'd never performed an examination of:確かに俺は検死なんかしたことな}{ruby:a corpse before, but she was definitely dead!:いけど、確かに死んでた！}`
 `{ruby:I think she was dead!!:死んでたと思う！！}`
-`{ruby:No, she probably, surely, definitely, at least I think so but she has to be, no, no......:いや多分きっと絶対とは思うけれども必ずいやいや……、}`
+`{ruby:No, she probably, surely, definitely, at least I:いや多分きっと絶対とは思うけれ}{ruby:think so but she has to be, no, no......:ども必ずいやいや……、}`
 `{ruby:...She was dead!!:…死んでた！！}`
 `{ruby:She was dead!!!:死んでたんだッ！！！}`
 `{ruby:"Jessica was also an accomplice.:「朱志香もグルなのよ。}`
-`{ruby:And Nanjo, who examined her corpse, was also an accomplice.:そして検死をした南條もグル。}`
-`{ruby:*cackle*cackle*cackle*cackle*cackle*cackle*!!:くっくくくくくくくっくくくくく！！}`
-`{ruby:Then the third locked room was a faaaarce.":ならば、第三の密室など茶番だろォがァア」}`
+`{ruby:And Nanjo, who examined her:そして検死をした}{ruby:corpse, was also an accomplice.:南條もグル。}`
+`{ruby::くっくくくくくくくっ}{ruby:*cackle*cackle*cackle*cackle*cackle*cackle*!!:くくくくく！！}`
+`{ruby:Then the third locked:ならば、第三の密室など茶}{ruby:room was a faaaarce.":番だろォがァア」}`
 `{ruby:Yeah, then it's simple.:あぁ、なら簡単だ。}`
-`{ruby:Doctor Nanjo was an accomplice so in other words, he was on the culprits' side so in other words in other words...:南條先生はグルなんだからつまり、犯人側なんだからつまりつまり、}`
-`{ruby:he was never killed in the first place?!:元々殺されてなんかいない？！}`
-`{ruby:We thought he had been killed and the body had disappeared, but he wasn't in the servant room in the first place?!:殺された上に遺体が消えたということになっているだけで、元から使用人室にはいない？！}`
-`{ruby:Then is Kumasawa baa‐chan, who disappeared with him, also an accomplice?!:じゃあ、一緒に消えた熊沢の婆ちゃんもグル？！}`
+`{ruby:Doctor Nanjo was an accomplice so in other words, he was:南條先生はグルなんだからつまり、犯}{ruby:on the culprits' side so in other words in other words...:人側なんだからつまりつまり、}`
+`{ruby:he was never killed:元々殺されてなん}{ruby:in the first place?!:かいない？！}`
+`{ruby:We thought he had been killed and the body had disappeared,:殺された上に遺体が消えたということになってい}{ruby:but he wasn't in the servant room in the first place?!:るだけで、元から使用人室にはいない？！}`
+`{ruby:Then is Kumasawa baa‐chan, who:じゃあ、一緒に消えた熊沢}{ruby:disappeared with him, also an accomplice?!:の婆ちゃんもグル？！}`
 `{ruby:......That's not all that's not all!:……それだけじゃないそれだけじゃないッ！}`
-`{ruby:{n}The servants who are going along with that story—Genji‐san and Gohda‐san, and even Shannon‐chan are accomplices!:{n}それと口裏を合わせている源次さんも郷田さんも、そして紗音ちゃんもグル！}`
-`{ruby:Then, the one who stole the key from Maria's handbag was Jessica,:なら、真里亞の手提げから鍵を盗んだのは朱志香で、}`
-`{ruby:...no no, it's also possible it was George‐aniki!:…いやいや譲治の兄貴にだって可能！}`
-`{ruby:After all, if Shannon‐chan was on the culprit's side, then George‐aniki would automatically be on the culprit's side as well!!:だって紗音ちゃんが犯人側なら、譲治の兄貴だって自動的に犯人側だ！！}`
-`{ruby:Wait a second just wait a second, they're all wolves...:ちょっと待てちょっと待ってくれッ、狼だらけ…。}`
+`{ruby:{n}The servants who are going along with that:{n}それと口裏を合わせている源次さんも}{ruby:story—Genji‐san and Gohda‐san, and even Shannon‐chan are accomplices!:郷田さんも、そして紗音ちゃんもグル！}`
+`{ruby:Then, the one who stole the:なら、真里亞の手提げから鍵}{ruby:key from Maria's handbag was Jessica,:を盗んだのは朱志香で、}`
+`{ruby:...no no, it's also:…いやいや譲治の兄貴}{ruby:possible it was George‐aniki!:にだって可能！}`
+`{ruby:After all, if Shannon‐chan was on the culprit's side, then:だって紗音ちゃんが犯人側なら、譲治の}{ruby:George‐aniki would automatically be on the culprit's side as well!!:兄貴だって自動的に犯人側だ！！}`
+`{ruby:Wait a second just wait:ちょっと待てちょっと待って}{ruby:a second, they're all wolves...:くれッ、狼だらけ…。}`
 `{ruby:{n}They're all wolves!!:{n}狼だらけッ！！}`
-`{ruby:Not only am I drowning in an ocean of bright‐red blood,:真っ赤な血の海に溺れている上に、}`
-`{ruby:there are packs of wolves clamoring on the banks, whose blazing eyes tell me that if I crawl out, they'll eat me!!:さらに岸には狼がぎっしりひしめいて、俺が這い上がってきたら食い殺してやろうと目を爛々と輝かせているッ！！}`
+`{ruby:Not only am I drowning:真っ赤な血の海に溺}{ruby:in an ocean of bright‐red blood,:れている上に、}`
+`{ruby:there are packs of wolves clamoring on the banks, whose blazing:さらに岸には狼がぎっしりひしめいて、俺が這い上がってき}{ruby:eyes tell me that if I crawl out, they'll eat me!!:たら食い殺してやろうと目を爛々と輝かせているッ！！}`
 `{ruby:Which way should I die?!:俺はどっちで死ねばいい？！}`
-`{ruby:{n}Will I have everything denied, and drown in a bright‐red sea?!:{n}全てを否定され真っ赤な海に溺れ死ぬのか？！}`
-`{ruby:{n}Will I know the truth, and have my whole body chewed to bits by the wolves?!:{n}真実を知り、狼たちに全身を食い千切られるのか？！}`
+`{ruby:{n}Will I have everything denied,:{n}全てを否定され真っ赤}{ruby:and drown in a bright‐red sea?!:な海に溺れ死ぬのか？！}`
+`{ruby:{n}Will I know the truth, and have my:{n}真実を知り、狼たちに全身}{ruby:whole body chewed to bits by the wolves?!:を食い千切られるのか？！}`
 `{ruby:It's either one hell or the other!!:地獄と地獄しかない！！}`
 `{ruby:I can't choose!:選べないッ！}`
 `{ruby:{n}Hiiiiiiiiiiiiiiiiiiiiiiiiiiiii!!!:{n}ひぃいいいいぃいいいいいいいいい！！！}`
 `{ruby:"That is why I am here...!!:「だからこそ妾がいる…！！}`
-`{ruby:{p:1:Come on, Ushiromiya Battler, kneel}.:{p:1:さぁ右代宮戦人、跪け}。}`
-`{ruby:Then swear your eternal loyalty and lick my shoes...!!":そして永遠の忠誠を誓って妾の靴を舐めるがいい…ッ！！」}`
-`{ruby:"{p:1:If you accept me, all of the riddles will be resolved}.:「{p:1:妾を認めれば全ての謎に決着がつく}。}`
-`{ruby:{p:1:With my power, any kind of locked room can be created or destroyed}!!":{p:1:妾の力をもってすればどのような密室も生み出せ、そして打ち破れる}！！」}`
-`{ruby:"Battler, don't you want to abandon yourself to the joy of surrendering to one with poweeeer??:「戦人ァ、力ある者に屈服する悦びに身を委ねたくはないィィ？？}`
-`{ruby:{p:1:I'll make you my favorite piece of furniture}.:{p:1:そなたは妾の一番のお気に入りの家具にしてやるよ}。}`
-`{ruby:{p:1:I'll love you so much and make you my toy until you turn to ashes}...":{p:1:そなたを愛して愛して、灰になるまで妾の玩具にしてやるよ}…」}`
-`{ruby:"{p:1:*cackle*cackle*cackle*hihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hya{0}hya{0}hya{0}hha{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}ha{0}hha{0}hha{0}hha{0}hha{0}hha{0}hhahha}!!!":「{p:1:くっくくくくくひっひひひひひひひひひひひゃっひゃひゃっはっははははーっははっはっはっはっはっはっはッ}！！！」}`
+`{ruby:{p:1:Come on,:{p:1:さぁ右代宮}{ruby:Ushiromiya Battler, kneel}.:戦人、跪け}。}`
+`{ruby:Then swear your eternal:そして永遠の忠誠を誓って妾の靴}{ruby:loyalty and lick my shoes...!!":を舐めるがいい…ッ！！」}`
+`{ruby:"{p:1:If you accept me, all:「{p:1:妾を認めれば全}{ruby:of the riddles will be resolved}.:ての謎に決着がつく}。}`
+`{ruby:{p:1:With my power, any kind of:{p:1:妾の力をもってすればどのような密}{ruby:locked room can be created or destroyed}!!":室も生み出せ、そして打ち破れる}！！」}`
+`{ruby:"Battler, don't you want to abandon yourself to:「戦人ァ、力ある者に屈服する悦び}{ruby:the joy of surrendering to one with poweeeer??:に身を委ねたくはないィィ？？}`
+`{ruby:{p:1:I'll make you my:{p:1:そなたは妾の一番のお気に}{ruby:favorite piece of furniture}.:入りの家具にしてやるよ}。}`
+`{ruby:{p:1:I'll love you so much and make:{p:1:そなたを愛して愛して、灰にな}{ruby:you my toy until you turn to ashes}...":るまで妾の玩具にしてやるよ}…」}`
+`{ruby::「{p:1:くっくくくくくひっひひひひひひひひひひひゃっひゃひゃ}{ruby:"{p:1:*cackle*cackle*cackle*hihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hya{0}hya{0}hya{0}hha{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}ha{0}hha{0}hha{0}hha{0}hha{0}hha{0}hhahha}!!!":っはっははははーっははっはっはっはっはっはっはッ}！！！」}`
 `{ruby:".........Now it's clear.:「………これで、はっきりしたわ。}`
-`{ruby:There's no longer any reason to doubt.":もう疑いようもない」}`
+`{ruby:There's no longer:もう疑いよう}{ruby:any reason to doubt.":もない」}`
 `{ruby:"Hm...?:「は…？}`
-`{ruby:......What do you mean by that......?":……と、言いますと……？」}`
-`{ruby:"Those two that you kept saying were dead aren't here.:「あなたたちが死んだ死んだという二人はここにいない。}`
-`{ruby:...And now we have the letter from {f:5:Beatrice}, where she was kind enough to confess that she carried the corpses off.:…そしてベアトリーチェからの手紙があり、親切にも死体は持ち去ったと告白してくれている。}`
+`{ruby:......What do you:……と、言います}{ruby:mean by that......?":と……？」}`
+`{ruby:"Those two that you kept:「あなたたちが死んだ死んだと}{ruby:saying were dead aren't here.:いう二人はここにいない。}`
+`{ruby:...And now we have the letter from {f:5:Beatrice}, where she:…そしてベアトリーチェからの手紙があり、親切に}{ruby:was kind enough to confess that she carried the corpses off.:も死体は持ち去ったと告白してくれている。}`
 `{ruby:......That's what it is.":……そういうことよ」}`
 `{ruby:"I've had enough of this farce!!":「もう茶番は飽き飽きしたわ！！」}`
-`{ruby:As Auntie Rosa yelled this, she looked over at everyone with a harsh expression.:楼座叔母さんはそう叫ぶと、一同を険しい表情でぐるりと見渡す。}`
+`{ruby:As Auntie Rosa yelled this, she looked:楼座叔母さんはそう叫ぶと、一同を}{ruby:over at everyone with a harsh expression.:険しい表情でぐるりと見渡す。}`
 `{ruby:"Fa‐:「ちゃ、}`
 `{ruby:......farce?:……茶番って、}`
 `{ruby:......What do you mean...?!":……どういう意味ですか…！」}`
 `{ruby:"I said it in Jessica‐chan's room.:「私は朱志香ちゃんの部屋で言ったわ。}`
-`{ruby:......You can't trust anyone but yourself and those whose corpses have been found.":……信用できるのは自分自身と、死体となって見付かった者以外いないってね」}`
-`{ruby:"And since we cannot find the corpses, there's no reason we should accept that those two were killed.":「そして死体が見付からない以上、あの二人が殺されたことを認めるわけにはいかない」}`
+`{ruby:......You can't trust anyone but yourself:……信用できるのは自分自身と、死体とな}{ruby:and those whose corpses have been found.":って見付かった者以外いないってね」}`
+`{ruby:"And since we cannot find the corpses, there's no:「そして死体が見付からない以上、あの二人が}{ruby:reason we should accept that those two were killed.":殺されたことを認めるわけにはいかない」}`
 `{ruby:"......P‐please wait, Auntie Rosa.:「……ま、待って下さい、楼座叔母さん。}`
 `{ruby:What do you mean by that...?!":それはどういう意味ですか…！」}`
-`{ruby:"Doctor Nanjo and Kumasawa‐san aren't dead, they're alive!:「南條先生と熊沢さんは死んでないわ、生きているッ！}`
-`{ruby:They made it seem like they were killed, and are hiding somewhere in this mansion.:殺されたということにして、この屋敷のどこかに隠れているのよ。}`
+`{ruby:"Doctor Nanjo and Kumasawa‐san:「南條先生と熊沢さんは死んで}{ruby:aren't dead, they're alive!:ないわ、生きているッ！}`
+`{ruby:They made it seem like they were:殺されたということにして、この屋敷}{ruby:killed, and are hiding somewhere in this mansion.:のどこかに隠れているのよ。}`
 `{ruby:So that they can attack us!!":私たちを襲うためにね！！」}`
 `{ruby:"How could you know that?!:「何でそんなことがわかるんですか！}`
-`{ruby:Are you saying that Gohda‐san and the rest are lying?!":郷田さんたちが嘘をついているというんですか？！」}`
+`{ruby:Are you saying that Gohda‐san:郷田さんたちが嘘をついている}{ruby:and the rest are lying?!":というんですか？！」}`
 `{ruby:"......Rosa‐sama!!:「……楼座さま！！}`
-`{ruby:I swear—no, all of the Ushiromiya family servants do!:この郷田、いえ、右代宮家使用人一同！}`
-`{ruby:We all swear that we would do nothing of the sort!!":誓ってそのようなことは致しません！！」}`
-`{ruby:"You all say that those two were killed.:「あなたたちは、南條先生たちは殺されたという。}`
-`{ruby:But since there are no corpses, there's no reason to believe that.:でも死体がない以上、それを信じるわけにはいかないわ。}`
-`{ruby:There's a chance that you worked out a story beforehand, and that you're lying about that!!":あなたたちが口裏を合わせてそういう嘘をついている可能性があるもの！！」}`
-`{ruby:"There's a good way to prove your innocence, isn't there?:「あなたたちの無実を信じる方法はちゃんとあるわよぅ？}`
-`{ruby:For Doctor Nanjo's and Kumasawa‐san's bodies to be found!!":南條先生と熊沢さんの遺体が見付かることよ！！」}`
-`{ruby:"If we find them, then maybe I'll start listening to your story.:「それが見付かったら、私はあなたたちの話を聞いてみようという話にもなるわ。}`
-`{ruby:But until we do, you cannot deny that you are all wolves!!":でも、見付からない限り、あなたたちは狼であることを否定できないッ！！」}`
+`{ruby:I swear—no, all of:この郷田、いえ、右代宮}{ruby:the Ushiromiya family servants do!:家使用人一同！}`
+`{ruby:We all swear that we:誓ってそのようなことは}{ruby:would do nothing of the sort!!":致しません！！」}`
+`{ruby:"You all say that:「あなたたちは、南條先生た}{ruby:those two were killed.:ちは殺されたという。}`
+`{ruby:But since there are no corpses,:でも死体がない以上、それを信}{ruby:there's no reason to believe that.:じるわけにはいかないわ。}`
+`{ruby:There's a chance that you worked out a:あなたたちが口裏を合わせてそういう嘘を}{ruby:story beforehand, and that you're lying about that!!":ついている可能性があるもの！！」}`
+`{ruby:"There's a good way to:「あなたたちの無実を信じる方}{ruby:prove your innocence, isn't there?:法はちゃんとあるわよぅ？}`
+`{ruby:For Doctor Nanjo's and:南條先生と熊沢さんの遺体が}{ruby:Kumasawa‐san's bodies to be found!!":見付かることよ！！」}`
+`{ruby:"If we find them, then maybe:「それが見付かったら、私はあなたたちの話}{ruby:I'll start listening to your story.:を聞いてみようという話にもなるわ。}`
+`{ruby:But until we do, you cannot:でも、見付からない限り、あなたたちは狼}{ruby:deny that you are all wolves!!":であることを否定できないッ！！」}`
 `{ruby:"You too!:「あんたも！}`
 `{ruby:And you!!:あんたも！！}`
-`{ruby:You were probably bought by that witch, your eyes blinded with gold!!:黄金に目が眩んであの魔女に買収されたんでしょう！！}`
+`{ruby:You were probably bought by that:黄金に目が眩んであの魔女に買}{ruby:witch, your eyes blinded with gold!!:収されたんでしょう！！}`
 `{ruby:Do you really want money that much?!:そんなにカネが欲しい？！}`
 `{ruby:That's right, isn't it?!:そうなんでしょう？！}`
-`{ruby:You want to play around for the rest of your life?!:一生遊んで暮らしたいの？！}`
+`{ruby:You want to play around:一生遊んで暮らし}{ruby:for the rest of your life?!:たいの？！}`
 `{ruby:What is that kind of life worth?!!":そんな人生に何の価値があるのよッ！！」}`
 `{ruby:"Rosa‐sama...!!:「楼座さま…！！}`
 `{ruby:We...... We couldn't!":私たちは、……そんなッ！」}`
 `{ruby:"Silence!:「黙りなさい！}`
 `{ruby:And Shannon, don't get any closer!!:そして紗音、それ以上近付かないでッ！！}`
-`{ruby:I can't believe that you would repay a ten‐year‐long debt of gratitude with betrayal!!:１０年も恩を受けながらそれを仇で返すなんて！！}`
-`{ruby:I'll pull the trigger without mercy!!":容赦なく引き金を引くわよ！！」}`
+`{ruby:I can't believe that you would repay:１０年も恩を受けながらそれ}{ruby:a ten‐year‐long debt of gratitude with betrayal!!:を仇で返すなんて！！}`
+`{ruby:I'll pull the:容赦なく引き金を引}{ruby:trigger without mercy!!":くわよ！！」}`
 `{ruby:"How......:「そんな……ッ、}`
 `{ruby:.........How could you...:………そんなのって、}`
 `{ruby:.........It's too......:………ひどすぎ}`
@@ -560,109 +560,109 @@
 `{ruby:"......A‐Auntie Rosa!!:「……ろ、楼座叔母さん！！}`
 `{ruby:That's horrible!!:それは暴言だ！！}`
 `{ruby:A murder occurred in this room!:この部屋で殺人が起こった！}`
-`{ruby:Then the culprit carried the corpses away!:そして犯人が死体を持ち去った！}`
-`{ruby:They are only honestly reporting that to us!!":彼女たちはそれを正直に申告しているだけだッ！！」}`
-`{ruby:".........uuu, ......uuuUUuuUUuughhu!!!":「………う、……ううううぅうぅうううぅぅッ！！！」}`
-`{ruby:Shannon had finally broken down in tears...:紗音はとうとう大粒の涙を零し始める…。}`
-`{ruby:She had sacrificed ten years to the Ushiromiya family.:１０年の月日を右代宮家に捧げた。}`
-`{ruby:{n}She had sacrificed ten of the most brilliant years of her life.:{n}人生でもっとも輝かしい月日の内の１０年を捧げた。}`
-`{ruby:.........And she had believed that she had built up a friendly relationship with Rosa, as well.:………そして楼座とも友好な関係を築けていると信じていた。}`
+`{ruby:Then the culprit:そして犯人が死体を}{ruby:carried the corpses away!:持ち去った！}`
+`{ruby:They are only honestly:彼女たちはそれを正直に申告し}{ruby:reporting that to us!!":ているだけだッ！！」}`
+`{ruby:".........uuu,:「………う、……ううううぅう}{ruby:......uuuUUuuUUuughhu!!!":ぅうううぅぅッ！！！」}`
+`{ruby:Shannon had finally:紗音はとうとう大粒の涙}{ruby:broken down in tears...:を零し始める…。}`
+`{ruby:She had sacrificed ten:１０年の月日を右代}{ruby:years to the Ushiromiya family.:宮家に捧げた。}`
+`{ruby:{n}She had sacrificed ten of the:{n}人生でもっとも輝かしい月}{ruby:most brilliant years of her life.:日の内の１０年を捧げた。}`
+`{ruby:.........And she had believed that she had built:………そして楼座とも友好な関係}{ruby:up a friendly relationship with Rosa, as well.:を築けていると信じていた。}`
 `{ruby:...And this was how she was treated!!:…その仕打ちが、これッ！！}`
-`{ruby:{n}You could kill a person without using a knife...:{n}人は刃物なんか使わなくたって殺せる…。}`
+`{ruby:{n}You could kill a:{n}人は刃物なんか使わ}{ruby:person without using a knife...:なくたって殺せる…。}`
 `{ruby:It wasn't just George‐aniki;:譲治の兄貴じゃなくたって、}`
-`{ruby:...even I could recognize that Shannon‐chan had been stabbed deep into her heart, as blood by the name of tears flowed out...:…俺にだって、紗音ちゃんが心を深々と突き刺されて、涙という血を流しているのがわかる…。}`
+`{ruby:...even I could recognize that Shannon‐chan had been stabbed deep into:…俺にだって、紗音ちゃんが心を深々と突き刺され}{ruby:her heart, as blood by the name of tears flowed out...:て、涙という血を流しているのがわかる…。}`
 `{ruby:"Shannon‐san, stay back...:「紗音さん、下がって…。}`
-`{ruby:......Rosa‐sama, it is true that I have not served for many years, and I understand that I have not earned your trust...":……楼座さま、確かにこの郷田はお勤めして日も浅く、信用を勝ち得ていないのはわかります…」}`
-`{ruby:"...However, ......could you not at least believe Shannon‐san...?!:「…しかしッ、……せめて紗音さんだけでも信じていただくわけには参りませんか…？！}`
-`{ruby:She has dedicated a full ten years of service to the Ushiromiya family...!":彼女は、１０年間も右代宮家に奉仕を捧げてまいりました…！」}`
-`{ruby:"I'm not telling you to believe me...!:「この郷田を信じろとは申しません…！}`
-`{ruby:At the very least, would you at least believe Shannon‐san...?!!":せめてッ、紗音さんだけでも信じてやっていただくわけには参りませんか…！！」}`
-`{ruby:...But......I don't understand anymore!!:…しかし、……もう、俺にもわからないッ！！}`
+`{ruby:......Rosa‐sama, it is true that I have not served for many:……楼座さま、確かにこの郷田はお勤めして日も浅}{ruby:years, and I understand that I have not earned your trust...":く、信用を勝ち得ていないのはわかります…」}`
+`{ruby:"...However, ......could you not:「…しかしッ、……せめて紗音さんだけでも信}{ruby:at least believe Shannon‐san...?!:じていただくわけには参りませんか…？！}`
+`{ruby:She has dedicated a full ten:彼女は、１０年間も右代宮家に奉仕}{ruby:years of service to the Ushiromiya family...!":を捧げてまいりました…！」}`
+`{ruby:"I'm not telling:「この郷田を信じろと}{ruby:you to believe me...!:は申しません…！}`
+`{ruby:At the very least, would:せめてッ、紗音さんだけでも信じてやってい}{ruby:you at least believe Shannon‐san...?!!":ただくわけには参りませんか…！！」}`
+`{ruby:...But......I don't:…しかし、……もう、俺に}{ruby:understand anymore!!:もわからないッ！！}`
 `{ruby:{n}I don't understand!!:{n}わからないんだッ！！}`
-`{ruby:We can't seek an answer without suspecting them!!!:彼らを疑わずして、答えを求めることができないんだ！！！}`
-`{ruby:That's it, bit by bit I'm starting to understand...:あぁあぁ、だんだんわかって来たよ…。}`
-`{ruby:......It's because we seek an answer; ...that's why everything keeps getting stranger...:……答えなんか求めるから、…どんどんおかしくなっていっちまうんだ…。}`
+`{ruby:We can't seek an:彼らを疑わずして、答えを求める}{ruby:answer without suspecting them!!!:ことができないんだ！！！}`
+`{ruby:That's it, bit by:あぁあぁ、だんだんわ}{ruby:bit I'm starting to understand...:かって来たよ…。}`
+`{ruby:......It's because we seek an answer;:……答えなんか求めるから、…どんどん}{ruby:...that's why everything keeps getting stranger...:おかしくなっていっちまうんだ…。}`
 `{ruby:We don't need...an answer.:答えなんか、いらない。}`
-`{ruby:These are all strange murders committed with bizarre magic by the 19th person, the witch {f:5:Beatrice}, as she follows a creepy ritual.:全ては、１９人目の魔女ベアトリーチェが、不気味な儀式に則り、怪しげな魔法で犯した不思議な殺人。}`
-`{ruby:............Isn't that......good enough.........:…………それで、……いいじゃねぇか………。}`
-`{ruby:I don't...want to suspect...anyone anymore.........:もう俺は、…誰も、…疑いたくねぇ………。}`
-`{ruby:Shannon‐chan and Gohda‐san were protesting their innocence, half in tears.:紗音ちゃんと郷田さんは、半ば涙目で身の潔白を訴えていた。}`
+`{ruby:These are all strange murders committed with bizarre magic by the:全ては、１９人目の魔女ベアトリーチェが、不気味な儀}{ruby:19th person, the witch {f:5:Beatrice}, as she follows a creepy ritual.:式に則り、怪しげな魔法で犯した不思議な殺人。}`
+`{ruby:............Isn't:…………それで、……いい}{ruby:that......good enough.........:じゃねぇか………。}`
+`{ruby:I don't...want:もう俺は、…誰も、…疑}{ruby:to suspect...anyone anymore.........:いたくねぇ………。}`
+`{ruby:Shannon‐chan and Gohda‐san were protesting:紗音ちゃんと郷田さんは、半ば涙}{ruby:their innocence, half in tears.:目で身の潔白を訴えていた。}`
 `{ruby:Genji‐san quietly stopped that.:それを源次さんが静かに止める。}`
 `{ruby:"............Stop.:「…………よしなさい。}`
-`{ruby:...What Rosa‐sama says is quite right.:…楼座さまの言うことはもっともだ。}`
+`{ruby:...What Rosa‐sama says:…楼座さまの言うこと}{ruby:is quite right.:はもっともだ。}`
 `{ruby:...Until we find the corpses,:…死体を見つけない限り、}`
-`{ruby:{i:we cannot prove that Doctor Nanjo and Kumasawa are innocent}.":{i:南條先生と熊沢の無実は証明できない}」}`
+`{ruby:{i:we cannot prove that Doctor:{i:南條先生と熊沢の無}{ruby:Nanjo and Kumasawa are innocent}.":実は証明できない}」}`
 `{ruby:That's right.:そうだ。}`
-`{ruby:......By Rosa‐san's argument, if the corpses could be found, then the innocence of at least those people could be proved.:……楼座さんの論法によるならば、死体が見付かればその人物の無実だけは証明できる。}`
+`{ruby:......By Rosa‐san's argument, if the corpses could be found, then:……楼座さんの論法によるならば、死体が見付}{ruby:the innocence of at least those people could be proved.:かればその人物の無実だけは証明できる。}`
 `{ruby:But only the people who were corpses.:でも、死体の人物だけだ。}`
-`{ruby:Even if they searched around the mansion and found the corpses, in the end, their own innocence would not be proved.:彼らが屋敷内を探し回り、死体を見つけたとしても、結局、彼らの無実は証明されない。}`
-`{ruby:They had abducted Doctor Nanjo and Kumasawa‐san, killed them in another place, and locked the room with their own master keys.:彼らが南條先生たちを拉致して他所で殺し、密室は彼らのマスターキーで施錠した。}`
-`{ruby:Unless the locked room could be broken by a method other than that one,:これ以外の方法で密室を打ち破らない限り、}`
-`{ruby:......it would be impossible to prove their innocence...:……彼らの無実は証明できないのだ…。}`
-`{ruby:......But, .........that couldn't be done!!:……だが、………それができないッ！！}`
-`{ruby:They only have one chance to prove their innocence.:彼らが無実を証明できる機会はひとつしかない。}`
-`{ruby:......That can only happen when they meet with the culprit, become corpses, and are reunited with Auntie Rosa.:……彼らが犯人の手に掛けられ、死体となって楼座叔母さんと再会する時だけだ。}`
+`{ruby:Even if they searched around the mansion and found the:彼らが屋敷内を探し回り、死体を見つけたとし}{ruby:corpses, in the end, their own innocence would not be proved.:ても、結局、彼らの無実は証明されない。}`
+`{ruby:They had abducted Doctor Nanjo and Kumasawa‐san, killed them in:彼らが南條先生たちを拉致して他所で殺し、}{ruby:another place, and locked the room with their own master keys.:密室は彼らのマスターキーで施錠した。}`
+`{ruby:Unless the locked room could be broken:これ以外の方法で密室を}{ruby:by a method other than that one,:打ち破らない限り、}`
+`{ruby:......it would be impossible:……彼らの無実は証明}{ruby:to prove their innocence...:できないのだ…。}`
+`{ruby:......But, .........that:……だが、………それ}{ruby:couldn't be done!!:ができないッ！！}`
+`{ruby:They only have one:彼らが無実を証明できる機}{ruby:chance to prove their innocence.:会はひとつしかない。}`
+`{ruby:......That can only happen when they meet with the:……彼らが犯人の手に掛けられ、死体となっ}{ruby:culprit, become corpses, and are reunited with Auntie Rosa.:て楼座叔母さんと再会する時だけだ。}`
 `{ruby:That's messed up!!:そんなのおかしいだろ！！}`
-`{ruby:Innocent if they die, guilty as long as they live, almost like a witch's trial!:死ねば無罪、生きてる限り有罪なんて、まるで魔女裁判だ！}`
+`{ruby:Innocent if they die, guilty as long:死ねば無罪、生きてる限り有罪な}{ruby:as they live, almost like a witch's trial!:んて、まるで魔女裁判だ！}`
 `{ruby:...Oh, right, the enemy's a witch.:…あぁ、そっか、敵は魔女だもんな。}`
 `{ruby:{n}So that makes it OK...?:{n}それでもＯＫってわけかよ…。}`
 `{ruby:"......Rosa‐sama.:「……楼座さま。}`
-`{ruby:We are furniture working for the Ushiromiya family.:私たちは右代宮家にお仕えする家具です。}`
-`{ruby:......Whether we are trusted by you or not, that is not our concern.:……私どもを信用されるもされないもまた、私どもの与り知ることではありません。}`
-`{ruby:No matter what assessment you give us, we will only continue to serve until our final hour.":たとえ、どのようなご評価をいただこうとも、最後の時までお勤めを続けるのみでございます」}`
+`{ruby:We are furniture working:私たちは右代宮家にお仕}{ruby:for the Ushiromiya family.:えする家具です。}`
+`{ruby:......Whether we are trusted by you:……私どもを信用されるもされないもまた、}{ruby:or not, that is not our concern.:私どもの与り知ることではありません。}`
+`{ruby:No matter what assessment you give us, we:たとえ、どのようなご評価をいただこうとも、最後}{ruby:will only continue to serve until our final hour.":の時までお勤めを続けるのみでございます」}`
 `{ruby:"You really are a model servant.:「あなたは本当に使用人の鑑ね。}`
-`{ruby:...I truly understand why Father trusts you.:…お父様が心を許すのもよくわかるわ。}`
-`{ruby:It is truly heartrending that I must suspect even you.":そんなあなたまで疑わなくてはならないなんて、本当に心苦しいわ」}`
+`{ruby:...I truly understand:…お父様が心を許すの}{ruby:why Father trusts you.:もよくわかるわ。}`
+`{ruby:It is truly heartrending that:そんなあなたまで疑わなくてはならな}{ruby:I must suspect even you.":いなんて、本当に心苦しいわ」}`
 `{ruby:"........................":「……………………」}`
-`{ruby:Genji‐san stuck his hand into his pocket and pulled out a master key.:源次さんはポケットに手を突っ込むと、マスターキーを取り出す。}`
-`{ruby:...Then he set it on an adjacent table.:…そしてそれを傍らの机の上に置いた。}`
-`{ruby:"......I believe that I hold this as a proof of trust.:「……私は、信頼の証としてこれを預かっていると信じています。}`
-`{ruby:If that has been lost, I think it is only natural that I return it.":それを失ったなら、これをお返しするのは当然かと思います」}`
+`{ruby:Genji‐san stuck his hand into his:源次さんはポケットに手を突っ込む}{ruby:pocket and pulled out a master key.:と、マスターキーを取り出す。}`
+`{ruby:...Then he set it:…そしてそれを傍らの}{ruby:on an adjacent table.:机の上に置いた。}`
+`{ruby:"......I believe that I hold:「……私は、信頼の証としてこれを}{ruby:this as a proof of trust.:預かっていると信じています。}`
+`{ruby:If that has been lost, I think:それを失ったなら、これをお返し}{ruby:it is only natural that I return it.":するのは当然かと思います」}`
 `{ruby:"..................:「………………。}`
 `{ruby:......That's good judgment.:……それは良い判断ね。}`
-`{ruby:Those master keys are the greatest basis upon which you have been suspected several times today.:今日、何度もあなたたちが疑われてきた最大の根拠はこのマスターキー。}`
-`{ruby:Relinquishing them in order to clear away that suspicion may only be a first step,:それを手放せば疑いが晴らせるのではないかというのは、初歩的ではあるけれど、}`
-`{ruby:but, well, I think it isn't a bad start.":まぁ、悪いことじゃないと思うわ」}`
+`{ruby:Those master keys are the greatest basis upon:今日、何度もあなたたちが疑われてきた}{ruby:which you have been suspected several times today.:最大の根拠はこのマスターキー。}`
+`{ruby:Relinquishing them in order to clear away:それを手放せば疑いが晴らせるのではないか}{ruby:that suspicion may only be a first step,:というのは、初歩的ではあるけれど、}`
+`{ruby:but, well, I think:まぁ、悪いことじゃ}{ruby:it isn't a bad start.":ないと思うわ」}`
 `{ruby:"...............You two.":「……………二人とも」}`
-`{ruby:Genji‐san looked at Gohda‐san and Shannon‐chan.:源次さんが郷田さんと紗音ちゃんを見る。}`
-`{ruby:......The two of them nodded, and set their own master keys onto the table.:……二人は頷き、それぞれのマスターキーを机の上に置いた。}`
-`{ruby:Auntie Rosa lay the two master keys that had come out of the envelope on top.:そこへ、楼座叔母さんが封筒から出てきた二つのマスターキーを重ね置く。}`
-`{ruby:With that, all five master keys were gathered in this place.:これで五つの、全てのマスターキーがこの場所に集まった。}`
-`{ruby:In other words, this was proof that all of the servants' service until today had been negated,:それはつまり、使用人全員の、今日までの労を全て否定し、}`
-`{ruby:and even the final honor that they should have been permitted had been stripped from them...:彼らに許されたはずの最後の名誉までを毟り取った証…。}`
+`{ruby:Genji‐san looked at:源次さんが郷田さんと紗}{ruby:Gohda‐san and Shannon‐chan.:音ちゃんを見る。}`
+`{ruby:......The two of them nodded, and set:……二人は頷き、それぞれのマス}{ruby:their own master keys onto the table.:ターキーを机の上に置いた。}`
+`{ruby:Auntie Rosa lay the two master keys that:そこへ、楼座叔母さんが封筒から出てき}{ruby:had come out of the envelope on top.:た二つのマスターキーを重ね置く。}`
+`{ruby:With that, all five master:これで五つの、全てのマスターキ}{ruby:keys were gathered in this place.:ーがこの場所に集まった。}`
+`{ruby:In other words, this was proof that all:それはつまり、使用人全員の、今}{ruby:of the servants' service until today had been negated,:日までの労を全て否定し、}`
+`{ruby:and even the final honor that they should:彼らに許されたはずの最後の名}{ruby:have been permitted had been stripped from them...:誉までを毟り取った証…。}`
 `{ruby:"Maria, give me that handbag.":「真里亞、その手提げを貸しなさい」}`
 `{ruby:"......Uu!!:「……うー！！}`
 `{ruby:Give it baaack!!":返してー！！」}`
-`{ruby:Auntie Rosa snatched Maria's handbag, tossed all the master keys in there noisily, then lifted one out and held it up for all to see.:楼座叔母さんは真里亞の手提げを引っ手繰ると、その中にマスターキーをざらざらと放り込み、その内の一本を掲げて誇示した。}`
-`{ruby:She was announcing that she had all of the master keys.:マスターキーを全て自分が手にしたという、宣言だ。}`
-`{ruby:"A‐.........are you satisfied now, Aunt Rosa?:「こ、………これで満足かい、楼座叔母さん。}`
-`{ruby:......Now the only master keys are the ones you are holding yourself.:……これでマスターキーは楼座叔母さんが持つものだけだ。}`
+`{ruby:Auntie Rosa snatched Maria's handbag, tossed all the master keys in there:楼座叔母さんは真里亞の手提げを引っ手繰ると、その中にマスター}{ruby:noisily, then lifted one out and held it up for all to see.:キーをざらざらと放り込み、その内の一本を掲げて誇示した。}`
+`{ruby:She was announcing that she:マスターキーを全て自分が手}{ruby:had all of the master keys.:にしたという、宣言だ。}`
+`{ruby:"A‐.........are you satisfied:「こ、………これで満足か}{ruby:now, Aunt Rosa?:い、楼座叔母さん。}`
+`{ruby:......Now the only master keys are:……これでマスターキーは楼座叔}{ruby:the ones you are holding yourself.:母さんが持つものだけだ。}`
 `{ruby:......I hope you're satisfied!!":……これで、満足なんだろッ！！」}`
 `{ruby:"Yes, I'm satisfied.:「えぇ、満足よぅ。}`
-`{ruby:Even if I can't trust anyone, I can at least trust myself!":たとえ全員が信用できなくても、私は私自身だけを信用することが出来る！」}`
-`{ruby:"I've been able to get the gun and all the master keys for myself!:「その私が銃とマスターキーを独占できた！}`
+`{ruby:Even if I can't trust anyone,:たとえ全員が信用できなくても、私は私自}{ruby:I can at least trust myself!":身だけを信用することが出来る！」}`
+`{ruby:"I've been able to get the gun:「その私が銃とマスター}{ruby:and all the master keys for myself!:キーを独占できた！}`
 `{ruby:Now, I don't have to suspect anyone.:これで私はもう、誰も疑わずに済むの。}`
 `{ruby:You're all happy too, right?:あなたたちも嬉しいでしょう？}`
-`{ruby:Now you don't have to be suspected anymore!:これでもう疑われずに済む！}`
-`{ruby:Ahahahahahahahahaha, hah‐hah‐hah‐hah‐hah‐hah‐ha!":あっははははははははは、はっはっはっはっはっはっは！」}`
+`{ruby:Now you don't have:これでもう疑われ}{ruby:to be suspected anymore!:ずに済む！}`
+`{ruby:Ahahahahahahahahaha,:あっははははははははは、はっは}{ruby:hah‐hah‐hah‐hah‐hah‐hah‐ha!":っはっはっはっはっは！」}`
 `{ruby:".........Kihihihihi.":「………きひひひひひ」}`
-`{ruby:Then, Maria, who had looked like a spectator off by herself, sneered at her mother.:その時、ひとりだけ傍観しているように見えた真里亞が、母を嘲笑った。}`
-`{ruby:...Auntie Rosa reacted nervously to that laugh, and turned around.:…その笑いに楼座叔母さんは過敏に反応して振り返る。}`
+`{ruby:Then, Maria, who had looked like a:その時、ひとりだけ傍観しているように}{ruby:spectator off by herself, sneered at her mother.:見えた真里亞が、母を嘲笑った。}`
+`{ruby:...Auntie Rosa reacted nervously to:…その笑いに楼座叔母さんは過}{ruby:that laugh, and turned around.:敏に反応して振り返る。}`
 `{ruby:"......Keys don't matter.:「……鍵なんか関係ないよ。}`
-`{ruby:......{f:5:Beatrice} can open doors with magic.:……ベアトリーチェは魔法で扉を開けられる。}`
+`{ruby:......{f:5:Beatrice} can open:……ベアトリーチェは魔法}{ruby:doors with magic.:で扉を開けられる。}`
 `{ruby:She doesn't need keys.:鍵なんていらない。}`
-`{ruby:...It doesn't matter who has or doesn't have something like that.:…そんなもの、誰が持っていたって持っていなくたって関係ないんだよ。}`
-`{ruby:Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!":きひひひひひひひひひひひひひ…！」}`
-`{ruby:"Aren't I always telling you to stop laughing like that?!!:「その笑い方を止めなさいっていつも言ってるでしょッ！！}`
+`{ruby:...It doesn't matter who has:…そんなもの、誰が持っていたって持っ}{ruby:or doesn't have something like that.:ていなくたって関係ないんだよ。}`
+`{ruby::きひひひひひひひひひ}{ruby:Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!":ひひひひ…！」}`
+`{ruby:"Aren't I always telling you:「その笑い方を止めなさいってい}{ruby:to stop laughing like that?!!:つも言ってるでしょッ！！}`
 `{ruby:......?:……？}`
 `{ruby:What is iiiit, Battler‐kun?":なぁに、戦人くん」}`
-`{ruby:...I had just cut between the two of them.:…俺は、つい二人の間に割り込んでしまう。}`
+`{ruby:...I had just cut:…俺は、つい二人の間に}{ruby:between the two of them.:割り込んでしまう。}`
 `{ruby:......No, that's not it.:……いや違う。}`
-`{ruby:...I was on my knees, and hugging Maria's head.:…膝を付いて、真里亞の頭を抱いてしまう。}`
+`{ruby:...I was on my:…膝を付いて、真里亞の}{ruby:knees, and hugging Maria's head.:頭を抱いてしまう。}`
 `{ruby:{n}......I was......crying.:{n}……俺は、……泣いていた。}`
-`{ruby:"Just...stop it already, Auntie Rosa......:「もう、…よしてくれよ楼座叔母さん……。}`
+`{ruby:"Just...stop it:「もう、…よしてくれよ}{ruby:already, Auntie Rosa......:楼座叔母さん……。}`
 `{ruby:...Maria was...right......":…真里亞が、正しかったんだ……」}`
-`{ruby:"......Wha‐...what are you talking about......?":「……な、…何を言っているの……？」}`
+`{ruby:"......Wha‐...what are:「……な、…何を言っ}{ruby:you talking about......?":ているの……？」}`
 `{ruby:".........Maria...:「………真里亞…。}`
 `{ruby:I'm sorry for...:疑って、}`
 `{ruby:......doubting.:………悪かった。}`
@@ -673,150 +673,150 @@
 `{ruby:...the witch's doing...:……魔女の仕業だったんだ…。}`
 `{ruby:......The witch's...:……魔女の、}`
 `{ruby:...doing......:……仕業だったんだよ……。}`
-`{ruby:...All that stuff about tricks and locked rooms never mattered...":…トリックとか密室とかどうでも良かったんだ…」}`
+`{ruby:...All that stuff about tricks:…トリックとか密室とかどう}{ruby:and locked rooms never mattered...":でも良かったんだ…」}`
 `{ruby:".........It's just, it's just...:「………ただ、ただ、}`
-`{ruby:.........that the witch {f:5:Beatrice} actually exists,:…………ベアトリーチェっていう魔女が実在して、}`
-`{ruby:.........and she really was a witch...:………本当に魔女だっただけなんだ…。}`
+`{ruby:.........that the witch:…………ベアトリーチェって}{ruby:{f:5:Beatrice} actually exists,:いう魔女が実在して、}`
+`{ruby:.........and she really:………本当に魔女だっ}{ruby:was a witch...:ただけなんだ…。}`
 `{ruby:......Because I didn't believe that,:……それを、俺は信じなかったから、}`
 `{ruby:............it was this painful,:…………こんなにも苦しくて、}`
 `{ruby:............this sad............":…………悲しくて…………」}`
-`{ruby:".........Battler, ......you believe in {f:5:Beatrice}......?":「………戦人は、……ベアトリーチェを信じてくれる……？」}`
+`{ruby:".........Battler, ......you:「………戦人は、……ベアトリー}{ruby:believe in {f:5:Beatrice}......?":チェを信じてくれる……？」}`
 `{ruby:"Yes...!:「あぁ…！}`
 `{ruby:I believe.:信じる。}`
 `{ruby:...{f:5:Beatrice} "exists".:…ベアトリーチェは“い”るんだ。}`
-`{ruby:And she's a witch, who uses strange magic...!":そして不思議な魔法を使う、魔女なんだ…！」}`
+`{ruby:And she's a witch,:そして不思議な魔法を使う}{ruby:who uses strange magic...!":、魔女なんだ…！」}`
 `{ruby:"Battler......":「戦人……」}`
-`{ruby:Maria let go of my hand, ...and then she was the one holding my head.:真里亞は俺の手を解くと、…逆に俺の頭を抱えるように抱いた。}`
+`{ruby:Maria let go of my hand, ...and:真里亞は俺の手を解くと、…逆に俺}{ruby:then she was the one holding my head.:の頭を抱えるように抱いた。}`
 `{ruby:"......That's the way, Battler.:「……それでいいんだよ、戦人。}`
-`{ruby:............{f:5:Beatrice} "existed".:…………ベアトリーチェは、“い”たの。}`
-`{ruby:......You just couldn't believe that easily, so couldn't see her.:……戦人が、なかなかそれを信じられなかったから、見えなかったの。}`
+`{ruby:............{f:5:Beatrice}:…………ベアトリーチェ}{ruby:"existed".:は、“い”たの。}`
+`{ruby:......You just couldn't believe that:……戦人が、なかなかそれを信じられ}{ruby:easily, so couldn't see her.:なかったから、見えなかったの。}`
 `{ruby:............The witch "exists".:…………魔女は“い”るの。}`
 `{ruby:"Exists".:“い”る。}`
 `{ruby:Will soon "come".":もうすぐ“来”る」}`
-`{ruby:".........You believed in Beato, so I'm sure you'll be invited to the Golden Land.:「………戦人はベアトを信じてくれたから、きっと黄金郷へ招かれるよ。}`
+`{ruby:".........You believed in Beato, so I'm sure:「………戦人はベアトを信じてくれたか}{ruby:you'll be invited to the Golden Land.:ら、きっと黄金郷へ招かれるよ。}`
 `{ruby:......Very soon.:……もうすぐ。}`
 `{ruby:......It'll be very soon.:……もうすぐだから。}`
 `{ruby:Nothing to be afraid of anymore.":もう、何も怖くない」}`
 `{ruby:"............Not afraid, okay?:「…………怖くないよ？}`
-`{ruby:Always be with me, holding hands, okay...?:真里亞と一緒に、おててを繋いで、…ずっと一緒にいよ…？}`
-`{ruby:Let's solve the epitaph's riddle together.:一緒に碑文の謎を考えよ。}`
+`{ruby:Always be with:真里亞と一緒に、おててを繋いで}{ruby:me, holding hands, okay...?:、…ずっと一緒にいよ…？}`
+`{ruby:Let's solve the:一緒に碑文の謎を}{ruby:epitaph's riddle together.:考えよ。}`
 `{ruby:Let's think about Beato's problem.:ベアトの問題を考えよ。}`
-`{ruby:.........Beato has been saying it from the beginning.:………ベアトは最初から言ってるよ。}`
-`{ruby:She hasn't said anything other than let's play and solve the problem.":この問題を解いて遊ぼうとしか言ってないよ」}`
+`{ruby:.........Beato has been saying:………ベアトは最初か}{ruby:it from the beginning.:ら言ってるよ。}`
+`{ruby:She hasn't said anything other than:この問題を解いて遊ぼうと}{ruby:let's play and solve the problem.":しか言ってないよ」}`
 `{ruby:"Right...... She did......:「あぁ……、そうだったんだ……。}`
-`{ruby:Searching for the culprit was just a total waste of time...:犯人探しなんて、まったくの時間の無駄だったんだ…。}`
+`{ruby:Searching for the culprit was:犯人探しなんて、まったくの時}{ruby:just a total waste of time...:間の無駄だったんだ…。}`
 `{ruby:......If only we had...:……俺たちは、}`
 `{ruby:...just believed in...:……ただ魔女を、}`
 `{ruby:...the witch.........":……信じればよかったんだ………」}`
-`{ruby:After softly brushing my cheek as my tears kept dripping down,:涙を零し続ける俺の頬をそっと撫でた後、}`
-`{ruby:......Maria kissed my forehead, as soft as a feather.:……真里亞は羽のような軽さで、俺の額にキスをする。}`
-`{ruby:For just that instant, ......Maria's smile, which I had once thought was creepy, looked like an angel...:その瞬間だけ、……薄気味悪いとさえ思っていた真里亞の笑顔が、天使に見えた…。}`
-`{ruby:"We have returned the master keys, ...but our loyalty to the Ushiromiya family will not change.:「マスターキーはお返ししましたが、…私どもの右代宮家への忠誠は変わりません。}`
-`{ruby:.........From now on, we will not enter the parlor without permission.:………客間へは、以後、お許しがない限り立ち入りません。}`
-`{ruby:Rosa‐sama, please lock the parlor from the inside.":どうか楼座さまも、客間を内側より施錠なさって下さい」}`
-`{ruby:"......You truly are an admirable person.:「……本当に殊勝な人ね。}`
-`{ruby:When the typhoon passes, ......if the cries of the seagulls return to this island again,:台風が過ぎ去って、……この島に再び、うみねこの鳴き声が戻ってきたなら、}`
-`{ruby:.........I wonder if we will be able to trust each other once more.":………私たちは再び互いを信頼し合えるのかしら」}`
-`{ruby:"......If you were to grant us your trust once again, there would be no greater pleasure.":「……もし、再びの信頼を賜えるのでしたら、これに勝る喜びはありません」}`
+`{ruby:After softly brushing my cheek:涙を零し続ける俺の頬を}{ruby:as my tears kept dripping down,:そっと撫でた後、}`
+`{ruby:......Maria kissed my forehead,:……真里亞は羽のような軽さで}{ruby:as soft as a feather.:、俺の額にキスをする。}`
+`{ruby:For just that instant, ......Maria's smile, which I:その瞬間だけ、……薄気味悪いとさえ思って}{ruby:had once thought was creepy, looked like an angel...:いた真里亞の笑顔が、天使に見えた…。}`
+`{ruby:"We have returned the master keys, ...but our:「マスターキーはお返ししましたが、…私ど}{ruby:loyalty to the Ushiromiya family will not change.:もの右代宮家への忠誠は変わりません。}`
+`{ruby:.........From now on, we will:………客間へは、以後、お許しが}{ruby:not enter the parlor without permission.:ない限り立ち入りません。}`
+`{ruby:Rosa‐sama, please lock the:どうか楼座さまも、客間を内側}{ruby:parlor from the inside.":より施錠なさって下さい」}`
+`{ruby:"......You truly are:「……本当に殊}{ruby:an admirable person.:勝な人ね。}`
+`{ruby:When the typhoon passes, ......if the cries:台風が過ぎ去って、……この島に再び、う}{ruby:of the seagulls return to this island again,:みねこの鳴き声が戻ってきたなら、}`
+`{ruby:.........I wonder if we will be:………私たちは再び互いを信}{ruby:able to trust each other once more.":頼し合えるのかしら」}`
+`{ruby:"......If you were to grant us your trust:「……もし、再びの信頼を賜えるのでした}{ruby:once again, there would be no greater pleasure.":ら、これに勝る喜びはありません」}`
 `{ruby:"You're right.:「そうね。}`
-`{ruby:......We'll definitely be able to understand each other.:……私たちは、必ずわかりあえるわ。}`
+`{ruby:......We'll definitely be able:……私たちは、必ずわ}{ruby:to understand each other.:かりあえるわ。}`
 `{ruby:......When the seagulls cry.":……うみねこのなく頃に」}`
-`{ruby:".........It would probably be better if we left this room as it is until the police come.:「………この部屋は、警察が来るまでこのままにした方が良いでしょう。}`
-`{ruby:Rosa‐sama, if you would please lock it.:楼座さま。施錠をお願いいたします。}`
+`{ruby:".........It would probably be better if we left:「………この部屋は、警察が来るまでこ}{ruby:this room as it is until the police come.:のままにした方が良いでしょう。}`
+`{ruby:Rosa‐sama, if you:楼座さま。施錠をお願}{ruby:would please lock it.:いいたします。}`
 `{ruby:......We will return to the kitchen.:……私たちは厨房へ戻ります。}`
-`{ruby:If you need anything, please command us at any time.":何かございましたら、いつでもご用命下さい」}`
+`{ruby:If you need anything, please:何かございましたら、いつ}{ruby:command us at any time.":でもご用命下さい」}`
 `{ruby:"Thank you.:「ありがとう。}`
 `{ruby:............If you are a wolf,:…………あなたが狼だったなら。}`
 `{ruby:how shamelessly you speak.":何てしゃあしゃあとのたまうのか」}`
 `{ruby:"......And if you are a sheep,:「……そしてあなたが羊だったなら。}`
-`{ruby:.........I'm sorry for throwing you into the wolf cage.":………あなたを狼の檻に放り出してごめんなさい」}`
-`{ruby:"......Furniture entrusts its fate to the family.:「……家具は、家に運命を委ねます。}`
-`{ruby:......Even if it comes to throwing away this life, if by that your trust could be regained,:……命を落とすことになろうとも、それによって楼座さまの信頼を再び勝ち取れるならば、}`
+`{ruby:.........I'm sorry for throwing:………あなたを狼の檻に放り}{ruby:you into the wolf cage.":出してごめんなさい」}`
+`{ruby:"......Furniture entrusts its:「……家具は、家に運}{ruby:fate to the family.:命を委ねます。}`
+`{ruby:......Even if it comes to throwing away this:……命を落とすことになろうとも、それによって}{ruby:life, if by that your trust could be regained,:楼座さまの信頼を再び勝ち取れるならば、}`
 `{ruby:it would be a great honor.":それはとても光栄なことです」}`
 `{ruby:".....................:「…………………。}`
-`{ruby:I hope that you all can remain healthy until the typhoon passes, if that is at all possible.:できることならば、あなたたちが、台風が過ぎ去るまで元気でいることを願っています。}`
-`{ruby:This is all a rhapsody of blowing winds and pouring rain performed by the typhoon.:これは全て台風が奏でる暴風と降雨の狂想曲。}`
-`{ruby:......When the performance ends, and the curtain closes,:……演奏が終われば幕が下り、}`
-`{ruby:......we will surely be able to grasp hands together again.":……私たちは再び手を取り合えるに違いない」}`
+`{ruby:I hope that you all can remain healthy until:できることならば、あなたたちが、台風が過ぎ}{ruby:the typhoon passes, if that is at all possible.:去るまで元気でいることを願っています。}`
+`{ruby:This is all a rhapsody of blowing:これは全て台風が奏でる暴}{ruby:winds and pouring rain performed by the typhoon.:風と降雨の狂想曲。}`
+`{ruby:......When the performance ends,:……演奏が終われ}{ruby:and the curtain closes,:ば幕が下り、}`
+`{ruby:......we will surely be able:……私たちは再び手を取り}{ruby:to grasp hands together again.":合えるに違いない」}`
 `{ruby:"......When the seagulls...cry.":「……うみねこの、なく頃に」}`
 `{ruby:Auntie Rosa nodded in response...:楼座叔母さんは頷いて応える…。}`
 `{ruby:Genji‐san turned on his heels.:源次さんは踵を返す。}`
 `{ruby:{n}He left the servant room.:{n}使用人室を出て行くのだ。}`
-`{ruby:Gohda‐san's face was still streaked with tears,:郷田さんの顔はまだ涙でぐしゃぐしゃだったが、}`
-`{ruby:......but as he had listened to Genji‐san's words, maybe he had managed to sort out his heart.:……源次さんの言葉を聞く内に、心の中の整理がついたのかもしれない。}`
-`{ruby:......His face had been truly shameful,:……本当にみっともない顔だったが、}`
-`{ruby:......but it had returned to the face of the Gohda‐san we knew well.:……俺たちが良く知る郷田さんの表情に戻っていた。}`
-`{ruby:".........I will also be waiting in the kitchen.:「………私も、厨房に控えております。}`
-`{ruby:......If you need anything, please command me at any time.:……何かございましたら、いつでもご用命下さい。}`
-`{ruby:.........If you wish for some warm food, I promise to have the very best prepared for you.":………温かい食事をお望みでしたら、いつでもこの郷田、最高のお料理を用意させていただきます」}`
+`{ruby:Gohda‐san's face was:郷田さんの顔はまだ涙でぐ}{ruby:still streaked with tears,:しゃぐしゃだったが、}`
+`{ruby:......but as he had listened to Genji‐san's words,:……源次さんの言葉を聞く内に、心の中}{ruby:maybe he had managed to sort out his heart.:の整理がついたのかもしれない。}`
+`{ruby:......His face had:……本当にみっともな}{ruby:been truly shameful,:い顔だったが、}`
+`{ruby:......but it had returned to the:……俺たちが良く知る郷田さ}{ruby:face of the Gohda‐san we knew well.:んの表情に戻っていた。}`
+`{ruby:".........I will also be:「………私も、厨房に}{ruby:waiting in the kitchen.:控えております。}`
+`{ruby:......If you need anything, please:……何かございましたら、い}{ruby:command me at any time.:つでもご用命下さい。}`
+`{ruby:.........If you wish for some warm food, I:………温かい食事をお望みでしたら、いつでもこの郷}{ruby:promise to have the very best prepared for you.":田、最高のお料理を用意させていただきます」}`
 `{ruby:"............Thank you.:「…………ありがとう。}`
-`{ruby:I would like to ask you for breakfast tomorrow.:あなたには明日の朝食を頼みたいわ。}`
-`{ruby:......And the boat will probably come by midday tomorrow.:……明日の昼前には船も来るでしょう。}`
-`{ruby:...Thanks for everything up until now.:…今までありがとう。}`
-`{ruby:Your cooking was my only pleasure on Rokkenjima.":六軒島で唯一の楽しみがあなたの食事だったわ」}`
+`{ruby:I would like to:あなたには明日の朝食}{ruby:ask you for breakfast tomorrow.:を頼みたいわ。}`
+`{ruby:......And the boat will:……明日の昼前には船}{ruby:probably come by midday tomorrow.:も来るでしょう。}`
+`{ruby:...Thanks for everything:…今まであり}{ruby:up until now.:がとう。}`
+`{ruby:Your cooking was my:六軒島で唯一の楽しみがあ}{ruby:only pleasure on Rokkenjima.":なたの食事だったわ」}`
 `{ruby:"...Certainly.:「…かしこまりました。}`
-`{ruby:I promise you, I will prepare a supreme breakfast.:この郷田、最高の朝食を用意いたします。}`
-`{ruby:Please, look forward to tomorrow morning.":どうか明日の朝を楽しみにして下さい」}`
+`{ruby:I promise you, I:この郷田、最高の朝食を}{ruby:will prepare a supreme breakfast.:用意いたします。}`
+`{ruby:Please, look forward:どうか明日の朝を楽し}{ruby:to tomorrow morning.":みにして下さい」}`
 `{ruby:"Thank you.:「ありがとう。}`
 `{ruby:............And Shannon‐chan.:…………紗音ちゃんも。}`
-`{ruby:Tomorrow morning, ...let's make up while drinking some delicious coffee.":明日の朝に、…おいしい珈琲を飲みながら、仲直りをしましょう」}`
+`{ruby:Tomorrow morning, ...let's make up:明日の朝に、…おいしい珈琲を飲み}{ruby:while drinking some delicious coffee.":ながら、仲直りをしましょう」}`
 `{ruby:"............":「…………」}`
 `{ruby:"......?:「……？}`
 `{ruby:George‐kun?":譲治くん？」}`
 `{ruby:"......I'm...going with them too.":「……僕も、彼らと一緒に行く」}`
 `{ruby:"...It's alright, George‐sama...:「…いいんです、譲治さま…。}`
 `{ruby:Please, return to the parlor.:どうか客間にお戻りになって下さい。}`
-`{ruby:There are no more master keys anymore.:もうマスターキーは他にありません。}`
-`{ruby:So if you are with Rosa‐sama in the parlor, you won't be threatened by anyone.":だから楼座さまとご一緒に客間にいれば、誰にも脅かされません」}`
+`{ruby:There are no:もうマスターキーは他}{ruby:more master keys anymore.:にありません。}`
+`{ruby:So if you are with Rosa‐sama in:だから楼座さまとご一緒に客間にい}{ruby:the parlor, you won't be threatened by anyone.":れば、誰にも脅かされません」}`
 `{ruby:"That's right.:「そうね。}`
 `{ruby:...That's how things are.:…そういうことになってる。}`
-`{ruby:...Objectively speaking, I think that being with me in the parlor would be the safest.":…客間に私と一緒にいるのが客観的に考えて一番安全だと思うわ」}`
-`{ruby:"......But I won't force you to stay with us.:「……でも、無理に一緒にいろとは言わない。}`
-`{ruby:George‐kun, you may stay in any place you feel is safe.:譲治くんは譲治くんの安全だと思う場所にいればいい。}`
+`{ruby:...Objectively speaking, I think that being with:…客間に私と一緒にいるのが客観的}{ruby:me in the parlor would be the safest.":に考えて一番安全だと思うわ」}`
+`{ruby:"......But I won't force:「……でも、無理に一緒に}{ruby:you to stay with us.:いろとは言わない。}`
+`{ruby:George‐kun, you may stay in:譲治くんは譲治くんの安全だと}{ruby:any place you feel is safe.:思う場所にいればいい。}`
 `{ruby:.........You are already an adult.:……譲治くんももう大人だものね。}`
-`{ruby:It's up to you where and with whom you spend the time until tomorrow morning.":明日の朝までどこで、誰と過ごそうと自由だもの」}`
+`{ruby:It's up to you where and with:明日の朝までどこで、誰と過}{ruby:whom you spend the time until tomorrow morning.":ごそうと自由だもの」}`
 `{ruby:".........Yes.:「………そうさ。}`
 `{ruby:I will decide, by myself...:僕は、僕の判断で。}`
 `{ruby:who I'll spend the night with.":誰と夜を過ごすか決める」}`
 `{ruby:"A‐.........Aniki......":「あ、………兄貴……」}`
-`{ruby:"Battler‐kun, stay with Auntie Rosa in the parlor.:「戦人くんは楼座叔母さんと客間にいるんだ。}`
+`{ruby:"Battler‐kun, stay with Auntie:「戦人くんは楼座叔母さん}{ruby:Rosa in the parlor.:と客間にいるんだ。}`
 `{ruby:I'm sure that's safest.:きっとそれが一番安全なんだ。}`
-`{ruby:......Compared to that, I think being outside the parlor isn't as safe.:……客間の外は、それに比べたら安全ではないと思う。}`
-`{ruby:......So I can't leave her in a place like that alone.":……なら、そんな場所にいる彼女を、僕はひとりにしておけない」}`
-`{ruby:"......It's......not like I suspect Shannon‐chan and the other servants—:「……俺は、……決して紗音ちゃんや他の使用人を、}`
+`{ruby:......Compared to that, I think being:……客間の外は、それに比べた}{ruby:outside the parlor isn't as safe.:ら安全ではないと思う。}`
+`{ruby:......So I can't leave her:……なら、そんな場所にいる彼女を}{ruby:in a place like that alone.":、僕はひとりにしておけない」}`
+`{ruby:"......It's......not like I suspect:「……俺は、……決して紗音}{ruby:Shannon‐chan and the other servants—:ちゃんや他の使用人を、}`
 `{ruby:no, anyone at all......:…いや、誰かを疑ってるわけじゃないんだ……。}`
 `{ruby:I don't want to suspect anyone...":誰も疑いたくないんだ…」}`
 `{ruby:"The inheritance?:「遺産？}`
 `{ruby:The gold?:黄金？}`
 `{ruby:...That's just stupid...:…そんなの下らねぇじゃねぇかよ…。}`
-`{ruby:...There's no way people are killing each other over that......":…そんなので殺し合いなんて、…あるわけねぇじゃねぇかよ……」}`
+`{ruby:...There's no way people are:…そんなので殺し合いなんて、…あ}{ruby:killing each other over that......":るわけねぇじゃねぇかよ……」}`
 `{ruby:"Yes.:「うん。}`
-`{ruby:I know better than anyone how pure your heart is, Battler‐kun.:戦人くんの心が美しいことは、僕が一番知っている。}`
+`{ruby:I know better than anyone:戦人くんの心が美しいことは}{ruby:how pure your heart is, Battler‐kun.:、僕が一番知っている。}`
 `{ruby:......No one will blame you.:……誰も君を責めない。}`
 `{ruby:No one.":誰も」}`
 `{ruby:"..................Anikii...":「………………兄貴ィ…」}`
 `{ruby:"...It's okay.:「…大丈夫。}`
 `{ruby:I'll protect you.:戦人は真里亞が守る。}`
-`{ruby:......If you're with me, even {f:5:Beatrice} can't lay a hand on you.:……真里亞と一緒なら、ベアトリーチェでも手出しできない。}`
-`{ruby:'Cause even though I'm small, I'm a witch.":だって真里亞は、ちっちゃくても、魔女だもの」}`
+`{ruby:......If you're with me, even {f:5:Beatrice}:……真里亞と一緒なら、ベアトリ}{ruby:can't lay a hand on you.:ーチェでも手出しできない。}`
+`{ruby:'Cause even though I'm:だって真里亞は、ちっちゃ}{ruby:small, I'm a witch.":くても、魔女だもの」}`
 `{ruby:"Yeah.:「うん。}`
 `{ruby:.........Maria‐chan.:………真里亞ちゃん。}`
-`{ruby:I'm leaving Battler‐kun in your care.:戦人くんをよろしく。}`
+`{ruby:I'm leaving Battler‐kun:戦人くんをよ}{ruby:in your care.:ろしく。}`
 `{ruby:.........Alright, Shannon.:………さ、紗音。}`
 `{ruby:Let's go.":行こう」}`
 `{ruby:"Yes......:「はい……。}`
-`{ruby:......Rosa‐sama, if you would excuse me.:……楼座さま、それでは失礼させていただきます。}`
-`{ruby:If you have an order, please call me at any time.":ご用命がございましたら、いつでもお呼び付け下さい」}`
-`{ruby:".........I'm sorry for saying something so cruel just now.:「………さっきは酷いことを言ってごめんなさいね。}`
-`{ruby:............I don't expect you to have forgiven me by tomorrow morning.:…………明日の朝まで、許さなくてもいい。}`
-`{ruby:But when tomorrow morning comes, let me apologize again.":でも、明日の朝になったらもう一度謝らせて」}`
+`{ruby:......Rosa‐sama, if you:……楼座さま、それでは失礼}{ruby:would excuse me.:させていただきます。}`
+`{ruby:If you have an order,:ご用命がございましたら、いつ}{ruby:please call me at any time.":でもお呼び付け下さい」}`
+`{ruby:".........I'm sorry for saying:「………さっきは酷いことを}{ruby:something so cruel just now.:言ってごめんなさいね。}`
+`{ruby:............I don't expect you to:…………明日の朝まで、}{ruby:have forgiven me by tomorrow morning.:許さなくてもいい。}`
+`{ruby:But when tomorrow morning:でも、明日の朝になったら}{ruby:comes, let me apologize again.":もう一度謝らせて」}`
 `{ruby:"Yes...:「はい…。}`
 `{ruby:............Thank you very much.":…………ありがとうございます」}`
-`{ruby:George‐aniki and Shannon‐chan left the servant room together.:譲治の兄貴と紗音ちゃんは、二人で使用人室を出て行く。}`
-`{ruby:.........Now, only Maria, Auntie Rosa and I were left in this disgusting, blood‐stained room.:………これでこの血塗れのおぞましい部屋には、俺と真里亞と、楼座叔母さんだけになった。}`
-`{ruby:Until Genji‐san disappeared—until Gohda‐san disappeared—until George‐aniki and Shannon‐chan disappeared—we stood there, in a daze...:源次さんが消え、郷田さんが消え、譲治の兄貴と紗音ちゃんが消えるまで、俺たちは呆然と立ち尽くしていた…。}`
-`{ruby:After their presence and their footsteps had disappeared completely, Auntie Rosa giggled at them, as though she had just remembered something pleasant.:彼らの気配と足音が完全に消えた後、楼座叔母さんは、まるで愉快なことでも思い出したように、くすりと笑い捨てた。}`
-`{ruby:".........You can't trust them at all.:「………何も信用できないわよ。}`
+`{ruby:George‐aniki and Shannon‐chan left:譲治の兄貴と紗音ちゃんは、二}{ruby:the servant room together.:人で使用人室を出て行く。}`
+`{ruby:.........Now, only Maria, Auntie Rosa and I:………これでこの血塗れのおぞましい部屋には、}{ruby:were left in this disgusting, blood‐stained room.:俺と真里亞と、楼座叔母さんだけになった。}`
+`{ruby:Until Genji‐san disappeared—until Gohda‐san disappeared—until George‐aniki and:源次さんが消え、郷田さんが消え、譲治の兄貴と紗音ちゃん}{ruby:Shannon‐chan disappeared—we stood there, in a daze...:が消えるまで、俺たちは呆然と立ち尽くしていた…。}`
+`{ruby:After their presence and their footsteps had disappeared completely, Auntie Rosa:彼らの気配と足音が完全に消えた後、楼座叔母さんは、まるで}{ruby:giggled at them, as though she had just remembered something pleasant.:愉快なことでも思い出したように、くすりと笑い捨てた。}`
+`{ruby:".........You can't trust:「………何も信用で}{ruby:them at all.:きないわよ。}`
 `{ruby:Goddamn furniture.":家具どもが」}`
 `{ruby:That one sentence...:その一言に、}`
 `{ruby:...made me choke.:……俺は窒息する。}`
@@ -826,56 +826,56 @@
 `{ruby:something like that......?":…言うんだよ……」}`
 `{ruby:"There are five master keys in all?:「マスターキーは５つで全部？}`
 `{ruby:Who would believe that?:そんなの誰が信じるの？}`
-`{ruby:It's obvious that some duplicate keys exist.:どうせ複製の鍵があるに決まってるのよ。}`
-`{ruby:......As if we could trust them just because they pulled keys out of their pockets...!!":……彼らが懐から鍵を出したくらいで信用なんかできるものか…！！」}`
+`{ruby:It's obvious that:どうせ複製の鍵があるに}{ruby:some duplicate keys exist.:決まってるのよ。}`
+`{ruby:......As if we could trust them just:……彼らが懐から鍵を出したくらいで}{ruby:because they pulled keys out of their pockets...!!":信用なんかできるものか…！！」}`
 `{ruby:"Th‐......that's not fair.........:「そ、……そりゃあねぇぜ……？}`
-`{ruby:By, ......by setting down those keys, ......they weren't just letting go of the keys...":そ、……その鍵を置いたってのはよ、……単に鍵を手放したってだけじゃねぇ…」}`
-`{ruby:"......You've...made all their hard work count for nothing, disgraced it, trampled it,:「……あんたは、…彼らの今日までの苦労を、……全て台無しにして穢して、踏みつけて、}`
-`{ruby:.........and caused them to give up the keys at the end of it all......":………その挙句としてその鍵を手放させたんだぜ……」}`
+`{ruby:By, ......by setting down those keys, ......they:そ、……その鍵を置いたってのはよ、……単}{ruby:weren't just letting go of the keys...":に鍵を手放したってだけじゃねぇ…」}`
+`{ruby:"......You've...made all their hard work count:「……あんたは、…彼らの今日までの苦労を、…}{ruby:for nothing, disgraced it, trampled it,:…全て台無しにして穢して、踏みつけて、}`
+`{ruby:.........and caused them to give up the:………その挙句としてその鍵を}{ruby:keys at the end of it all......":手放させたんだぜ……」}`
 `{ruby:"What's with that parting line...:「その捨て台詞は何だよ…。}`
-`{ruby:They've shown that they're willing to go this far, ......and you still can't trust them?!:ここまでして見せて、……なお、まだ信用できないってのかよッ？！}`
-`{ruby:Too much... That's just too much......!":あんまりだぜ…、あんまりだぜそんなのって……！」}`
+`{ruby:They've shown that they're willing to go:ここまでして見せて、……なお、まだ}{ruby:this far, ......and you still can't trust them?!:信用できないってのかよッ？！}`
+`{ruby:Too much... That's:あんまりだぜ…、あんまりだぜ}{ruby:just too much......!":そんなのって……！」}`
 `{ruby:"It's a Devil's Proof!:「悪魔の証明なのよ！}`
 `{ruby:There are five master keys in all?!:マスターキーは全部で５つ？！}`
-`{ruby:It's impossible to prove something like that!!:そんなこと、証明不能なのよ！！}`
-`{ruby:You can show that there are five master keys by placing them here!:マスターキーが５つあることはここに置けば示せる！}`
-`{ruby:But you can't prove that no more than five exist!!:でも、５つ以上存在しないことは証明できない！！}`
-`{ruby:Only a demon or a witch could prove something like that, you know?!":そんなことは悪魔か魔女にしか証明できないのよ？！」}`
+`{ruby:It's impossible to:そんなこと、証明不}{ruby:prove something like that!!:能なのよ！！}`
+`{ruby:You can show that there are:マスターキーが５つあることは}{ruby:five master keys by placing them here!:ここに置けば示せる！}`
+`{ruby:But you can't prove that:でも、５つ以上存在しないこ}{ruby:no more than five exist!!:とは証明できない！！}`
+`{ruby:Only a demon or a witch:そんなことは悪魔か魔女にしか}{ruby:could prove something like that, you know?!":証明できないのよ？！」}`
 `{ruby:"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!:「うわああああああぁああぁぁああぁッ！！！}`
-`{ruby:Stop it already stop it already...!!":もうやめてくれもうやめて…ッ！！」}`
-`{ruby:"Please, {f:5:Beatrice}, show yourself right now,:「頼むよベアトリーチェ、今すぐ現れてくれ、}`
-`{ruby:and tell Auntie Rosa in red that "there are only five master keys"!!:そして楼座叔母さんに赤で“マスターキーは５本しかない”って言ってやってくれ！！}`
-`{ruby:Please, I beg you, this can only be proved by devils, a witch like you could prove it!":頼むよ後生だよ、悪魔にしか証明できないんだよ、魔女のお前なら証明できるんだよ！」}`
-`{ruby:"Please, Beato, show yourself here and tell Auntie Rosa...:「頼むからベアト、ここに現れて楼座叔母さんに、}`
-`{ruby:that those are all of the master keys, and that there's no need to suspect anyone anymore...!!!":マスターキーはそれで全部だから、もうみんなを疑わなくていいんだって、教えてやってくれ…！！！」}`
+`{ruby:Stop it already:もうやめてくれもうや}{ruby:stop it already...!!":めて…ッ！！」}`
+`{ruby:"Please, {f:5:Beatrice}, show:「頼むよベアトリーチェ、}{ruby:yourself right now,:今すぐ現れてくれ、}`
+`{ruby:and tell Auntie Rosa in red:そして楼座叔母さんに赤で“マスターキーは５}{ruby:that "there are only five master keys"!!:本しかない”って言ってやってくれ！！}`
+`{ruby:Please, I beg you, this can only be proved:頼むよ後生だよ、悪魔にしか証明できないんだよ}{ruby:by devils, a witch like you could prove it!":、魔女のお前なら証明できるんだよ！」}`
+`{ruby:"Please, Beato, show yourself:「頼むからベアト、ここに現}{ruby:here and tell Auntie Rosa...:れて楼座叔母さんに、}`
+`{ruby:that those are all of the master keys,:マスターキーはそれで全部だから、もうみんなを疑わな}{ruby:and that there's no need to suspect anyone anymore...!!!":くていいんだって、教えてやってくれ…！！！」}`
 `{ruby:":「}`
-`{ruby:{p:1:There are only five master keys}.:{p:1:マスターキーは５本しかない}。}`
-`{ruby:{p:1:There are only five master keys}.":{p:1:マスターキーは５本しかない}」}`
-`{ruby:"...*cackle*, whatever could be wrong?:「…くっくっく、これはどうしたことか。}`
-`{ruby:It doesn't reach Rosa's ears no matter how often I say it.:妾がいくら口にしても楼座に届かぬ。}`
-`{ruby:It seems there must still be someone who denies that I exist, isn't that riiiight?:どうやら、妾の存在を否定しているヤツがまだイるから聞こえないみたいだなァア？}`
+`{ruby:{p:1:There are only:{p:1:マスターキー}{ruby:five master keys}.:は５本しかない}。}`
+`{ruby:{p:1:There are only:{p:1:マスターキー}{ruby:five master keys}.":は５本しかない}」}`
+`{ruby:"...*cackle*, whatever:「…くっくっく、これは}{ruby:could be wrong?:どうしたことか。}`
+`{ruby:It doesn't reach Rosa's ears no:妾がいくら口にしても}{ruby:matter how often I say it.:楼座に届かぬ。}`
+`{ruby:It seems there must still be someone:どうやら、妾の存在を否定しているヤツがま}{ruby:who denies that I exist, isn't that riiiight?:だイるから聞こえないみたいだなァア？}`
 `{ruby:Ushiromiya Battleeeeeeeer???":右代宮戦人ァアアァ？？？」}`
 `{ruby:"I accept it!!:「認めるッ！！}`
-`{ruby:I accept it, you exist you exist you definitely exist!:認めるよ、お前はいるいる確かにいるッ！}`
+`{ruby:I accept it, you exist:認めるよ、お前はいるい}{ruby:you exist you definitely exist!:る確かにいるッ！}`
 `{ruby:So, I beg you, stop this already!!:だから後生だよ、もうこんなのは止めてくれ！！}`
 `{ruby:Stop it already! Stop it already!!:もう止めて！　もう止めて！！}`
 `{ruby:HiiiiIIIiiiiiIiiiiiiii!!":ひぃいいいぃいぃいいいいい！！」}`
-`{ruby:"Your words alone will not reach me; show it with your actions.:「言葉だけでは届かぬぞ、態度で示せ。}`
-`{ruby:Swear from your heart that you will become my furniture.":妾の家具になると心から誓え」}`
+`{ruby:"Your words alone will not reach:「言葉だけでは届かぬ}{ruby:me; show it with your actions.:ぞ、態度で示せ。}`
+`{ruby:Swear from your heart that:妾の家具になると}{ruby:you will become my furniture.":心から誓え」}`
 `{ruby:"Can you do it?:「出来るかァ？}`
-`{ruby:Take off your clothes, be naked, then put both your hands flat and crawl on the ground.:服を脱げ、裸になるんだよ、そして両手を付いて地に這え。}`
+`{ruby:Take off your clothes, be naked, then put:服を脱げ、裸になるんだよ、そし}{ruby:both your hands flat and crawl on the ground.:て両手を付いて地に這え。}`
 `{ruby:Clothing is proof of one's humanity.:着衣は霊長にのみ認められた証だ。}`
-`{ruby:From now on, you will become furniture, so you will lose that right, it's only natural!!":貴様は今から家具になるんだよ、だからその資格を失う、当然のこと！！」}`
-`{ruby:"Then kneel, make your tongue crawl on my shoes.:「そして跪けよ、妾の靴に舌を這わせろ。}`
+`{ruby:From now on, you will become furniture, so:貴様は今から家具になるんだよ、だから}{ruby:you will lose that right, it's only natural!!":その資格を失う、当然のこと！！」}`
+`{ruby:"Then kneel, make your:「そして跪けよ、妾の靴}{ruby:tongue crawl on my shoes.:に舌を這わせろ。}`
 `{ruby:Can you do it?:出来るか？}`
 `{ruby:You can do it, riiiiiiiight??:出来るンだよなアァアア？？}`
-`{ruby:Then I'll appear, sure, I'll say it in red, sure!:そうしたら現れてやるよ赤で言ってやる！}`
-`{ruby:I'll tell Rosa that {p:1:there are only five master keys}!!":{p:1:マスターキーは５本しかない}って、楼座に言ってやるよ！！」}`
-`{ruby:"Oh, but I understand, there's no way you could throw away your lordly pride.:「あぁでもわかってる、誇り高きお前がプライドを捨てられるわけがない。}`
-`{ruby:But that's alright, that's more than enough, you're starting to waver a bit, aren't youu?":それでもいいんだよ充分なんだよ、ちょっとグラァって来ただろォ？」}`
-`{ruby:"For just an instant, you thought maybe it would be alright to lick my shoes, didn't youuu?:「靴を舐めてもいいかって一瞬、思っただろォオ？}`
-`{ruby:And you immediately denied that and felt ashamed, riiiiight??:すぐにそれを否定して自分を恥じただろォオオ？？}`
-`{ruby:Just looking at that expression makes me feel just wooonderful!!":その表情が見れるだけで、最ッ高ォオにステキな気分なんだよォ！！」}`
-`{ruby:"That face of yours is so pathetic, go look in a mirror,:「ザマァねぇ顔だよ、鏡で見てみろよ、}`
-`{ruby:see how low you are there, naked and licking my shoooooes?:裸になって靴を舐めてる最低なお前が映ってるぜェエエ？}`
-`{ruby:Can you see it, Ushiromiya Battleeeeeeeeeeeeeeeeeeeeer???":見えるかよ右代宮戦人ァアアァアアァアァアアアァアッ？？？」}`
+`{ruby:Then I'll appear, sure, I'll:そうしたら現れてやるよ}{ruby:say it in red, sure!:赤で言ってやる！}`
+`{ruby:I'll tell Rosa that {p:1:there:{p:1:マスターキーは５本しかない}}{ruby:are only five master keys}!!":って、楼座に言ってやるよ！！」}`
+`{ruby:"Oh, but I understand, there's no way:「あぁでもわかってる、誇り高きお前が}{ruby:you could throw away your lordly pride.:プライドを捨てられるわけがない。}`
+`{ruby:But that's alright, that's more than enough,:それでもいいんだよ充分なんだよ、ち}{ruby:you're starting to waver a bit, aren't youu?":ょっとグラァって来ただろォ？」}`
+`{ruby:"For just an instant, you thought maybe it:「靴を舐めてもいいかって一}{ruby:would be alright to lick my shoes, didn't youuu?:瞬、思っただろォオ？}`
+`{ruby:And you immediately denied:すぐにそれを否定して自分を}{ruby:that and felt ashamed, riiiiight??:恥じただろォオオ？？}`
+`{ruby:Just looking at that expression:その表情が見れるだけで、最ッ高ォオに}{ruby:makes me feel just wooonderful!!":ステキな気分なんだよォ！！」}`
+`{ruby:"That face of yours is so:「ザマァねぇ顔だよ、}{ruby:pathetic, go look in a mirror,:鏡で見てみろよ、}`
+`{ruby:see how low you are:裸になって靴を舐めてる最低な}{ruby:there, naked and licking my shoooooes?:お前が映ってるぜェエエ？}`
+`{ruby:Can you see:見えるかよ右代宮戦人ァアアァアア}{ruby:it, Ushiromiya Battleeeeeeeeeeeeeeeeeeeeer???":ァアァアアアァアッ？？？」}`

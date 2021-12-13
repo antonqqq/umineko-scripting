@@ -1,743 +1,743 @@
 `{ruby:".........This way?:「………こっち？}`
-`{ruby:......That means go this way, right............?:……こっちへ回れってことよね…………？}`
-`{ruby:They are......inviting me to go this way, after all.........":こいつらが、……私をこっちへ回れと、誘ってるもの………」}`
+`{ruby:......That means go:……こっちへ回れってこ}{ruby:this way, right............?:とよね…………？}`
+`{ruby:They are......inviting me to:こいつらが、……私をこっちへ回れ}{ruby:go this way, after all.........":と、誘ってるもの………」}`
 `{ruby:......!!!:……ッ！！！}`
 `{ruby:My heart leapt.:心臓が飛び上がる。}`
-`{ruby:...Because there, ............gaping wide, ......was the opened mouth of eerie darkness.:…そこには、…………ぽっかりと、……不気味な暗黒が口を開けていたからだ。}`
+`{ruby:...Because there, ............gaping wide, ......was:…そこには、…………ぽっかりと、……不}{ruby:the opened mouth of eerie darkness.:気味な暗黒が口を開けていたからだ。}`
 `{ruby:"Wh‐.........what is this...:「な、………何よこれ…。}`
 `{ruby:What is this......?!":何なのよこれ……？！」}`
-`{ruby:When I strained my eyes, peering into the darkness, I saw something that looked like a light switch.:暗がりに目を凝らすと、灯りのスイッチを思わせるものがあった。}`
-`{ruby:......In addition, there was a switch with open and close written on it.:……他にも、開閉と書かれたスイッチもある。}`
-`{ruby:I resolutely pushed the switch for the lights,:迷わず、灯りのスイッチを入れると、}`
-`{ruby:and rough lights almost like you'd find in a coal mine or something flickered on sporadically,:まるで炭鉱か何かを思わせるような無骨な灯りが点々とつき、}`
-`{ruby:making a staircase that stretched underground come hazily into vision...:地下へ伸びる階段をぼんやりと浮かび上がらせる…。}`
-`{ruby:It was creepy how it now looked even more gloomy with the lights turned on.:灯りがついたはずなのに、むしろその薄暗さを引き立てているようで不気味だった。}`
-`{ruby:Other than the light switch, there was also a switch with open and close written on it.:灯りのスイッチ以外にも、開閉と書かれたスイッチもあった。}`
-`{ruby:...I could probably open and close it with this, but if I was unlucky enough to find that the open part was broken,:…これで、多分、開け閉めができるのだろうが、もし万が一、開けるの方が壊れていたら、}`
-`{ruby:I might be closed up in this creepy underground area for all eternity...:私はこの不気味な地下に、永遠に閉じ込められてしまうかもしれない…。}`
-`{ruby:So for the time being, I didn't touch the open/close switch,:だから私は、とりあえず、開閉のスイッチには触れず、}`
-`{ruby:......and as I readied my gun again, I slowly went down the stairs.:……銃を構え直して、ゆっくりと階段を下りていく。}`
-`{ruby:Because the ceiling was very high, it didn't feel cramped.:天井の高さはたっぷりあったため、息苦しさはない。}`
-`{ruby:{n}On the contrary, it felt as though a cool breeze was blowing upwards, and I even sensed a spiritual presence from the eeriness of it...:{n}むしろ、冷たい風が吹き上げてくるような気がして、その不気味さに霊気さえ感じた…。}`
-`{ruby:With my gun at the ready, and carefully staring forwards, ......I continued descending the stairs......:銃を構え、慎重に先をうかがいながら、……私は階段を下りていく……。}`
-`{ruby:The walls, the stairs, the lights, ...all of them were very old‐fashioned.:壁や階段、灯りは皆、かなり古臭い。}`
-`{ruby:{n}...It may be beyond doubt that this had been made at the same time that the mansion had been constructed on this island.:{n}…この島に屋敷が建てられた当時に作られたものなのは、疑いようもないかもしれない。}`
-`{ruby:There were cracks in the ceiling, and water clung to the walls, constantly dripping down.:天井にはひびが入り、雨水が壁を伝って、さらさらと流れ落ちている。}`
-`{ruby:That water fell into a gutter that had been set up alongside the stairs, then quickly and silently flowed into the underground darkness.:その水は階段脇に設けられた側溝に落ちて、地下の闇へ静かに早く流れていく。}`
-`{ruby:It was as though it was telling me to go faster...:早く先へ進めと私を急かすかのようだった…。}`
-`{ruby:The staircase turned back on itself a number of times.:階段は何度か折り返した。}`
-`{ruby:It was hard to tell how far underground I'd gone, but I thought it to be much deeper than one floor.:どの程度を降りたかわからないが、地下１階よりはもっと深く降りたと思う。}`
-`{ruby:And eventually, ............a rough, metal door showed itself.:するとやがて、…………無骨な金属製の扉が姿を現した。}`
-`{ruby:And there, characters had been written in a dark red paint.:そしてそこには赤黒い塗料で文字が書かれていた。}`
-`{ruby:{n}...They had probably been written a long time ago.:{n}…書かれたのはだいぶ以前だろう。}`
-`{ruby:— {p:1:On the tenth twilight, the journey ends, and you shall reach the Home of the Gold.}:“{p:1:第十の晩に、旅は終わり、黄金の郷に至るだろう}”}`
-`{ruby:My heart, which was already about to explode, jumped about even more as soon as I read those deep‐red characters...:爆発寸前の心臓が、その真っ赤な文字を認めた途端、さらにどきりと跳ねる…。}`
+`{ruby:When I strained my eyes, peering into the darkness,:暗がりに目を凝らすと、灯りのスイ}{ruby:I saw something that looked like a light switch.:ッチを思わせるものがあった。}`
+`{ruby:......In addition, there was a switch:……他にも、開閉と書かれ}{ruby:with open and close written on it.:たスイッチもある。}`
+`{ruby:I resolutely pushed the:迷わず、灯りのスイッ}{ruby:switch for the lights,:チを入れると、}`
+`{ruby:and rough lights almost like you'd find in:まるで炭鉱か何かを思わせるよう}{ruby:a coal mine or something flickered on sporadically,:な無骨な灯りが点々とつき、}`
+`{ruby:making a staircase that stretched:地下へ伸びる階段をぼんやり}{ruby:underground come hazily into vision...:と浮かび上がらせる…。}`
+`{ruby:It was creepy how it now looked:灯りがついたはずなのに、むしろその薄暗さ}{ruby:even more gloomy with the lights turned on.:を引き立てているようで不気味だった。}`
+`{ruby:Other than the light switch, there was also:灯りのスイッチ以外にも、開閉と}{ruby:a switch with open and close written on it.:書かれたスイッチもあった。}`
+`{ruby:...I could probably open and close it with this, but if:…これで、多分、開け閉めができるのだろうが、}{ruby:I was unlucky enough to find that the open part was broken,:もし万が一、開けるの方が壊れていたら、}`
+`{ruby:I might be closed up in:私はこの不気味な地下に、永遠に閉じ込}{ruby:this creepy underground area for all eternity...:められてしまうかもしれない…。}`
+`{ruby:So for the time being,:だから私は、とりあえず、開閉}{ruby:I didn't touch the open/close switch,:のスイッチには触れず、}`
+`{ruby:......and as I readied my gun:……銃を構え直して、ゆっく}{ruby:again, I slowly went down the stairs.:りと階段を下りていく。}`
+`{ruby:Because the ceiling was very:天井の高さはたっぷりあった}{ruby:high, it didn't feel cramped.:ため、息苦しさはない。}`
+`{ruby:{n}On the contrary, it felt as though a cool breeze was blowing:{n}むしろ、冷たい風が吹き上げてくるような気}{ruby:upwards, and I even sensed a spiritual presence from the eeriness of it...:がして、その不気味さに霊気さえ感じた…。}`
+`{ruby:With my gun at the ready, and:銃を構え、慎重に先をうかがいながら、}{ruby:carefully staring forwards, ......I continued descending the stairs......:……私は階段を下りていく……。}`
+`{ruby:The walls, the stairs, the lights,:壁や階段、灯りは皆、}{ruby:...all of them were very old‐fashioned.:かなり古臭い。}`
+`{ruby:{n}...It may be beyond doubt that this had been made at:{n}…この島に屋敷が建てられた当時に作られた}{ruby:the same time that the mansion had been constructed on this island.:ものなのは、疑いようもないかもしれない。}`
+`{ruby:There were cracks in the ceiling, and:天井にはひびが入り、雨水が壁を伝っ}{ruby:water clung to the walls, constantly dripping down.:て、さらさらと流れ落ちている。}`
+`{ruby:That water fell into a gutter that had been set up:その水は階段脇に設けられた側溝に落ちて}{ruby:alongside the stairs, then quickly and silently flowed into the underground darkness.:、地下の闇へ静かに早く流れていく。}`
+`{ruby:It was as though it:早く先へ進めと私を急かす}{ruby:was telling me to go faster...:かのようだった…。}`
+`{ruby:The staircase turned back on:階段は何度か折}{ruby:itself a number of times.:り返した。}`
+`{ruby:It was hard to tell how far underground I'd gone,:どの程度を降りたかわからないが、地下１}{ruby:but I thought it to be much deeper than one floor.:階よりはもっと深く降りたと思う。}`
+`{ruby:And eventually, ............a rough,:するとやがて、…………無骨な}{ruby:metal door showed itself.:金属製の扉が姿を現した。}`
+`{ruby:And there, characters had been:そしてそこには赤黒い塗料で}{ruby:written in a dark red paint.:文字が書かれていた。}`
+`{ruby:{n}...They had probably been:{n}…書かれたのはだ}{ruby:written a long time ago.:いぶ以前だろう。}`
+`{ruby:— {p:1:On the tenth twilight, the journey ends,:“{p:1:第十の晩に、旅は終わ}{ruby:and you shall reach the Home of the Gold.}:り、黄金の郷に至るだろう}”}`
+`{ruby:My heart, which was already about to explode, jumped about:爆発寸前の心臓が、その真っ赤な文字を認}{ruby:even more as soon as I read those deep‐red characters...:めた途端、さらにどきりと跳ねる…。}`
 `{ruby:There's no mistake...:間違いない…。}`
 `{ruby:This is the last stop.:こここそが終点。}`
-`{ruby:{n}.........Father's......Golden Land...!!:{n}………お父様の、……黄金郷…！！}`
-`{ruby:I calmed my throbbing heart, somehow regained my composure, and readied the gun again.:高鳴る心臓を落ち着かせ、何とか冷静さを取り戻し、再び銃を構える。}`
-`{ruby:...But since, in the end, I couldn't open the door with my gun held in both hands...:…でも、両手で銃を構えていては、結局、扉が開けられないので…。}`
-`{ruby:......I lowered the gun, carefully erased my breath, and opened the door......:……私は銃を下ろし、慎重に息を殺しながら、その扉を開く……。}`
-`{ruby:"..................I‐......isn't this......inside the......?!":「………………こ、……ここ、……は……？！」}`
-`{ruby:My first impression when I saw the room...:その部屋を見た第一印象は、}`
-`{ruby:...was to question whether it might have been connected to one of the rooms in the mansion.:……屋敷のどれかの部屋に繋がっていたのではないかというものだった。}`
-`{ruby:Yes, this place had exactly the same atmosphere about it as the forbidden VIP room on the second floor.:そう、これは２階にある開かずの貴賓室の雰囲気にそっくりだった。}`
-`{ruby:But this was underground, so there were no windows.:でもここは地下だから窓はない。}`
-`{ruby:{n}There was only the solemn light of a grand chandelier.:{n}あるのは、荘厳なシャンデリアの厳かな灯りだけ。}`
-`{ruby:But the quality of the interior, dimly lit by the faint light,:しかし、そのわずかな灯りによって照らし出されるインテリアの気品は、}`
-`{ruby:was more than enough to take your breath away.:息をのませて余りあるほどのものだった。}`
-`{ruby:A bed with a canopy, and a rocking chair that looked like it would be very comfortable to sit in.:天蓋付きのベッドに、ゆったりと座れそうなロッキングチェア。}`
+`{ruby:{n}.........Father's......Golden:{n}………お父様の、}{ruby:Land...!!:……黄金郷…！！}`
+`{ruby:I calmed my throbbing heart, somehow regained:高鳴る心臓を落ち着かせ、何とか冷静}{ruby:my composure, and readied the gun again.:さを取り戻し、再び銃を構える。}`
+`{ruby:...But since, in the end, I couldn't open:…でも、両手で銃を構えていては、結}{ruby:the door with my gun held in both hands...:局、扉が開けられないので…。}`
+`{ruby:......I lowered the gun, carefully erased:……私は銃を下ろし、慎重に息を殺}{ruby:my breath, and opened the door......:しながら、その扉を開く……。}`
+`{ruby:"..................I‐......isn't:「………………こ、……こ}{ruby:this......inside the......?!":こ、……は……？！」}`
+`{ruby:My first impression when:その部屋を見た第}{ruby:I saw the room...:一印象は、}`
+`{ruby:...was to question whether it might have been:……屋敷のどれかの部屋に繋がっていた}{ruby:connected to one of the rooms in the mansion.:のではないかというものだった。}`
+`{ruby:Yes, this place had exactly the same atmosphere about:そう、これは２階にある開かずの貴賓}{ruby:it as the forbidden VIP room on the second floor.:室の雰囲気にそっくりだった。}`
+`{ruby:But this was underground,:でもここは地下だか}{ruby:so there were no windows.:ら窓はない。}`
+`{ruby:{n}There was only the solemn:{n}あるのは、荘厳なシャン}{ruby:light of a grand chandelier.:デリアの厳かな灯りだけ。}`
+`{ruby:But the quality of the interior,:しかし、そのわずかな灯りによって照ら}{ruby:dimly lit by the faint light,:し出されるインテリアの気品は、}`
+`{ruby:was more than enough:息をのませて余りあるほ}{ruby:to take your breath away.:どのものだった。}`
+`{ruby:A bed with a canopy, and a rocking chair that:天蓋付きのベッドに、ゆったりと座}{ruby:looked like it would be very comfortable to sit in.:れそうなロッキングチェア。}`
 `{ruby:An extravagant sofa and carpet.:贅沢なソファーに絨毯。}`
-`{ruby:The room was like a dream every girl yearns for at least once...:女の子なら誰もが一度は憧れる夢のような部屋…。}`
-`{ruby:And yet, since it was an underground hidden room with no windows,:にもかかわらず、窓がなく、地下にある秘密の部屋というイメージは、}`
-`{ruby:it actually felt more like it could be the hidden house of a witch.:どちらかというと、魔女の隠れ家とでもいうような雰囲気だった。}`
-`{ruby:I had never swallowed the legend of {f:5:Beatrice}, witch of the forest.:森の魔女ベアトリーチェの伝説を鵜呑みにしたことは一度もない。}`
-`{ruby:However, ......if you were shown this room,:しかし、……この部屋を見せられたなら、}`
-`{ruby:......it certainly would become hard to doubt that she actually had existed,:……彼女は実在し、そしてこの部屋に住んでいたことを、}`
+`{ruby:The room was like a dream:女の子なら誰もが一度は憧れ}{ruby:every girl yearns for at least once...:る夢のような部屋…。}`
+`{ruby:And yet, since it was an:にもかかわらず、窓がなく、地下にあ}{ruby:underground hidden room with no windows,:る秘密の部屋というイメージは、}`
+`{ruby:it actually felt more like it could:どちらかというと、魔女の隠れ家と}{ruby:be the hidden house of a witch.:でもいうような雰囲気だった。}`
+`{ruby:I had never swallowed the legend:森の魔女ベアトリーチェの伝説を鵜}{ruby:of {f:5:Beatrice}, witch of the forest.:呑みにしたことは一度もない。}`
+`{ruby:However, ......if you:しかし、……この部屋を}{ruby:were shown this room,:見せられたなら、}`
+`{ruby:......it certainly would become hard to:……彼女は実在し、そしてこの}{ruby:doubt that she actually had existed,:部屋に住んでいたことを、}`
 `{ruby:and had lived in here.:…何も疑うことが出来なくなってしまうに違いない。}`
 `{ruby:".........Is someone...:「………誰か、}`
 `{ruby:..................there...?":………………いる…？」}`
-`{ruby:Although I was dumbfounded by this room, I cautiously,:私はそんな部屋に度肝を抜かれながらも、慎重に、}`
-`{ruby:...no, timidly kept my gun raised, and searched the interior.:…いや、臆病に銃を構えながら室内を探るのだった。}`
-`{ruby:And......in the center of the room, I found it.:そして、……部屋の奥に、それを見つける。}`
+`{ruby:Although I was dumbfounded:私はそんな部屋に度肝を抜か}{ruby:by this room, I cautiously,:れながらも、慎重に、}`
+`{ruby:...no, timidly kept my gun:…いや、臆病に銃を構えなが}{ruby:raised, and searched the interior.:ら室内を探るのだった。}`
+`{ruby:And......in the center of:そして、……部屋の奥に}{ruby:the room, I found it.:、それを見つける。}`
 `{ruby:"...............Eee—...............":「……………ひッ、……………」}`
-`{ruby:My gasp came out strangely, as though a bunny was being choked.:私の息を呑む音は、まるで子ウサギが窒息するような変な声。}`
-`{ruby:...I mean, ......after finding something like this,:…だって、……これを見てしまったら、}`
-`{ruby:...no one would have any words other than that stupid voice...:…誰だって、そんな間抜けな声しか出せないに決まってるのだ…。}`
+`{ruby:My gasp came out strangely, as:私の息を呑む音は、まるで子ウサ}{ruby:though a bunny was being choked.:ギが窒息するような変な声。}`
+`{ruby:...I mean, ......after:…だって、……これを}{ruby:finding something like this,:見てしまったら、}`
+`{ruby:...no one would have any:…誰だって、そんな間抜けな声しか}{ruby:words other than that stupid voice...:出せないに決まってるのだ…。}`
 `{ruby:"It's here......:「あった……。}`
-`{ruby:......I‐......it's really here.........:……ほ、……本当にあった……ッ…。}`
+`{ruby:......I‐......it's:……ほ、……本当にあ}{ruby:really here.........:った……ッ…。}`
 `{ruby:......Father's......gold......!!":……お父様の、……黄金……ッ！！」}`
-`{ruby:On the opposite side of the canopy bed, it was piled up in a massive heap...:天蓋ベッドの向こう側に、それはうず高く積み上げられていた…。}`
-`{ruby:A mountain, a mountain of gold ingots!!:山と成す、黄金のインゴットの山ッ！！}`
-`{ruby:Of course, they weren't piled up carelessly in a way that would damage the dignity of this room.:もちろんそれは部屋の気品を損ねるような無様な積み方はされていない。}`
-`{ruby:A beautiful scarlet satin weave was laid on the mountain of gold,:その黄金の山には緋色の美しい繻子織りの織物が掛けられ、}`
-`{ruby:creating a beautiful three‐colored mix between the red, the gold, and the black of the deep darkness...:赤と黄金、そして深き闇の黒の美しき三色で彩られていた…。}`
-`{ruby:It was as though, when the witch slept on this bed,:それはまるで、魔女がこのベッドで眠る時、}`
-`{ruby:the gold would be a respectful chamberlain waiting on her.:さながら黄金はその側にうやうやしく控える侍従か何かのように。}`
-`{ruby:Nobly, refinedly, gracefully, beautifully.:気高く、高貴に、優雅に、美しく。}`
-`{ruby:{n}It was piled there with an imposing and yet ceremonious air...:{n}威風堂々としていながら、それでいて畏まったように積み上げられているのだ…。}`
-`{ruby:I tried to grab a single gold ingot and was surprised at its weight.:黄金のインゴットをひとつ取ろうとし、その重さに驚く。}`
-`{ruby:{n}......It was probably about ten kilograms.:{n}……多分、１０ｋｇくらいはあるだろう。}`
-`{ruby:......Just this one ingot would easily be worth ten million without a doubt.:……このインゴット１つで多分、一千万以上の価値が余裕であるに違いない。}`
-`{ruby:The Ushiromiya family crest, the One‐winged Eagle, was lightly imprinted on it.:そこには、右代宮家の紋章である片翼の鷲が薄っすらと刻印されていた。}`
-`{ruby:It was hard to tell whether it had worn away, or whether the impression had been made carelessly in the first place,:磨耗しているのか、そもそもの刻印がいい加減なのか、}`
-`{ruby:but it was certainly the crest of the One‐winged Eagle.:鮮明とは言い難いが、紛れもなく片翼の鷲の紋章だった。}`
-`{ruby:Just how many ingots are piled up here?:そのインゴットが一体、ここに何本積み上げられているというのか？}`
-`{ruby:Just by roughly multiplying both sides, and multiplying that by the height, it must surely come to over several hundred.:でたらめに辺と辺を掛けて、それに高さを掛けただけでも、きっと数百を超えるだろう。}`
-`{ruby:My mind's already blank... I can't calculate it properly.:もう頭が真っ白でまともな計算も出来ない。}`
-`{ruby:{n}......Even a conservative count would put it easily above a billion yen.:{n}……控えめに数えても、十億円を余裕で上回るだろう。}`
-`{ruby:"Well, of course... Of course it would be...:「そりゃそうよ…、そうに決まってるわよ…。}`
+`{ruby:On the opposite side of the canopy bed,:天蓋ベッドの向こう側に、それはう}{ruby:it was piled up in a massive heap...:ず高く積み上げられていた…。}`
+`{ruby:A mountain, a:山と成す、黄金のイン}{ruby:mountain of gold ingots!!:ゴットの山ッ！！}`
+`{ruby:Of course, they weren't piled up carelessly in a:もちろんそれは部屋の気品を損ねるよう}{ruby:way that would damage the dignity of this room.:な無様な積み方はされていない。}`
+`{ruby:A beautiful scarlet satin weave was:その黄金の山には緋色の美しい繻}{ruby:laid on the mountain of gold,:子織りの織物が掛けられ、}`
+`{ruby:creating a beautiful three‐colored mix between the red,:赤と黄金、そして深き闇の黒の美}{ruby:the gold, and the black of the deep darkness...:しき三色で彩られていた…。}`
+`{ruby:It was as though, when:それはまるで、魔女がこ}{ruby:the witch slept on this bed,:のベッドで眠る時、}`
+`{ruby:the gold would be a:さながら黄金はその側にうやうやし}{ruby:respectful chamberlain waiting on her.:く控える侍従か何かのように。}`
+`{ruby:Nobly, refinedly,:気高く、高貴に、優}{ruby:gracefully, beautifully.:雅に、美しく。}`
+`{ruby:{n}It was piled there with:{n}威風堂々としていながら、それでいて畏}{ruby:an imposing and yet ceremonious air...:まったように積み上げられているのだ…。}`
+`{ruby:I tried to grab a single gold:黄金のインゴットをひとつ取ろ}{ruby:ingot and was surprised at its weight.:うとし、その重さに驚く。}`
+`{ruby:{n}......It was probably:{n}……多分、１０ｋｇ}{ruby:about ten kilograms.:くらいはあるだろう。}`
+`{ruby:......Just this one ingot would easily:……このインゴット１つで多分、一千万以}{ruby:be worth ten million without a doubt.:上の価値が余裕であるに違いない。}`
+`{ruby:The Ushiromiya family crest, the One‐winged:そこには、右代宮家の紋章である片翼の}{ruby:Eagle, was lightly imprinted on it.:鷲が薄っすらと刻印されていた。}`
+`{ruby:It was hard to tell whether it had worn away, or:磨耗しているのか、そもそもの}{ruby:whether the impression had been made carelessly in the first place,:刻印がいい加減なのか、}`
+`{ruby:but it was certainly the:鮮明とは言い難いが、紛れもな}{ruby:crest of the One‐winged Eagle.:く片翼の鷲の紋章だった。}`
+`{ruby:Just how many ingots:そのインゴットが一体、ここに何本積}{ruby:are piled up here?:み上げられているというのか？}`
+`{ruby:Just by roughly multiplying both sides, and multiplying that by:でたらめに辺と辺を掛けて、それに高さを掛け}{ruby:the height, it must surely come to over several hundred.:ただけでも、きっと数百を超えるだろう。}`
+`{ruby:My mind's already blank...:もう頭が真っ白でまとも}{ruby:I can't calculate it properly.:な計算も出来ない。}`
+`{ruby:{n}......Even a conservative count would put:{n}……控えめに数えても、十}{ruby:it easily above a billion yen.:億円を余裕で上回るだろう。}`
+`{ruby:"Well, of course... Of:「そりゃそうよ…、そうに}{ruby:course it would be...:決まってるわよ…。}`
 `{ruby:...I mean, it's ten tons of gold...:…だって、１０ｔの黄金よ…？}`
-`{ruby:At the current value, it's more than 20 billion yen of gold...:時価にして２００億円の黄金よ…？}`
-`{ruby:I, ...I found it, ......before anyone else, .........I found it!!:み、…見つけたわ、……誰よりも早く、………私が見つけたわッ！！}`
-`{ruby:Ahaha, wahaha{0}ha{0}ha{0}hahaha, ahah‐hah‐hah‐hah‐hahaha{0}ha{0}ha{0}ha{0}hahaha!!":あはは、わははははははは、あっはっはっはっははははははははははははは！！」}`
-`{ruby:In front of the mountain of gold, I spread my arms and looked up at the ceiling.:私は黄金の山を前に、両手を広げて天井を見上げる。}`
-`{ruby:{n}A laugh without a trace of dignity flowed out from my entire body.:{n}品の欠片もない笑い声が、全身から溢れ出してくる。}`
-`{ruby:I had no intention at all of laughing in such a weird way,:こんなおかしな笑いなんかするつもりは毛頭ないのに、}`
-`{ruby:...but I just, I just couldn't hold back the happy feeling that flowed throughout my entire body.:…でもでも、全身が粟立つほど嬉しい気持ちを抑えられない。}`
-`{ruby:......That older brother of mine probably wouldn't accept his loss just because I had found this gold.:……この黄金の山を見つけたからと言って、すんなりあの兄が負けを認めたりはしないだろう。}`
-`{ruby:...But from now on, there would be no changing the fact that I had been the one to find the gold...!:…しかし、私が一番最初に見つけたという事実は、今や動かしようがない…！}`
-`{ruby:To steal the headship of the family, I would still probably need some subtle tactics.:私が右代宮家の当主を奪うには、まだいくつかの繊細な駆け引きが必要になるだろう。}`
-`{ruby:But after everything I've gone through until now, that's a completely trivial problem.:でも、それはこれまでの日々を考えればまったくにもって些細な問題。}`
-`{ruby:Even if I lose out on the inheritance of the Ushiromiya family and everything...:仮に右代宮家の家督云々の話を抜きにしたって。}`
-`{ruby:{n}...this 20 billion yen's worth of gold is now mine and mine alone!!:{n}…今や、２００億円の黄金は私ひとりのものなのだからッ！！}`
+`{ruby:At the current value, it's more:時価にして２００億円}{ruby:than 20 billion yen of gold...:の黄金よ…？}`
+`{ruby:I, ...I found it, ......before:み、…見つけたわ、……誰よりも早く}{ruby:anyone else, .........I found it!!:、………私が見つけたわッ！！}`
+`{ruby:Ahaha,:あはは、わははははははは、あっはっはっは}{ruby:wahaha{0}ha{0}ha{0}hahaha, ahah‐hah‐hah‐hah‐hahaha{0}ha{0}ha{0}ha{0}hahaha!!":っははははははははははははは！！」}`
+`{ruby:In front of the mountain of gold, I:私は黄金の山を前に、両手を}{ruby:spread my arms and looked up at the ceiling.:広げて天井を見上げる。}`
+`{ruby:{n}A laugh without a trace of:{n}品の欠片もない笑い声が、}{ruby:dignity flowed out from my entire body.:全身から溢れ出してくる。}`
+`{ruby:I had no intention at all:こんなおかしな笑いなんかする}{ruby:of laughing in such a weird way,:つもりは毛頭ないのに、}`
+`{ruby:...but I just, I just couldn't hold back:…でもでも、全身が粟立つほど嬉}{ruby:the happy feeling that flowed throughout my entire body.:しい気持ちを抑えられない。}`
+`{ruby:......That older brother of mine probably wouldn't accept:……この黄金の山を見つけたからと言って、すんな}{ruby:his loss just because I had found this gold.:りあの兄が負けを認めたりはしないだろう。}`
+`{ruby:...But from now on, there would be no changing the:…しかし、私が一番最初に見つけたという}{ruby:fact that I had been the one to find the gold...!:事実は、今や動かしようがない…！}`
+`{ruby:To steal the headship of the family,:私が右代宮家の当主を奪うには、まだいくつか}{ruby:I would still probably need some subtle tactics.:の繊細な駆け引きが必要になるだろう。}`
+`{ruby:But after everything I've gone through:でも、それはこれまでの日々を考えれ}{ruby:until now, that's a completely trivial problem.:ばまったくにもって些細な問題。}`
+`{ruby:Even if I lose out on the:仮に右代宮家の家督云々の}{ruby:inheritance of the Ushiromiya family and everything...:話を抜きにしたって。}`
+`{ruby:{n}...this 20 billion yen's worth of:{n}…今や、２００億円の黄金は私}{ruby:gold is now mine and mine alone!!:ひとりのものなのだからッ！！}`
 `{ruby:"Hahahaha, a‐hah‐hah‐hah‐hah‐ha!!:「はははは、あっはっはっはっはっは！！}`
-`{ruby:There was a time when I thought of money as such a worthless thing.:お金なんて、何て下らないものだろうって思ったことがあるわ。}`
-`{ruby:I thought, there are so many things in this world that you can't buy with money.":世の中にはお金で買えないものなんていくらでもあると思ってた」}`
-`{ruby:"...But now I understand that that's just a lie!:「…でも、そんなのは嘘っぱちだって、今、理解したわ！}`
-`{ruby:It was just an excuse that have‐nots make for themselves!!":そんなのは持たざる者の自分への言い訳だったのよ！！」}`
-`{ruby:"With this mountain of gold before me, I've finally realized something so obvious...!!:「この黄金の山を前にして、私はやっとそんな当り前を理解したわ…！！}`
-`{ruby:I can give birth to all the happiness in this world by melting this gold!:この世の全ての幸せは、この黄金を溶かすことで生み出すことができる！}`
-`{ruby:With this money, my husband's company is fine now.:このお金があれば、夫の会社はもう大丈夫。}`
+`{ruby:There was a time when I thought:お金なんて、何て下らないものだろ}{ruby:of money as such a worthless thing.:うって思ったことがあるわ。}`
+`{ruby:I thought, there are so many things in:世の中にはお金で買えないものなん}{ruby:this world that you can't buy with money.":ていくらでもあると思ってた」}`
+`{ruby:"...But now I understand:「…でも、そんなのは嘘っぱち}{ruby:that that's just a lie!:だって、今、理解したわ！}`
+`{ruby:It was just an excuse:そんなのは持たざる者の自分への}{ruby:that have‐nots make for themselves!!":言い訳だったのよ！！」}`
+`{ruby:"With this mountain of gold before:「この黄金の山を前にして、私はやっと}{ruby:me, I've finally realized something so obvious...!!:そんな当り前を理解したわ…！！}`
+`{ruby:I can give birth to all the:この世の全ての幸せは、この黄金を溶か}{ruby:happiness in this world by melting this gold!:すことで生み出すことができる！}`
+`{ruby:With this money, my:このお金があれば、夫の会}{ruby:husband's company is fine now.:社はもう大丈夫。}`
 `{ruby:We will always be happy as a family.:私たち家族はずっと幸せ。}`
-`{ruby:And I can even leave a vast amount of money to George...!!":そして譲治にも莫大なお金を遺してあげることができる…！！」}`
-`{ruby:"The rest of the relatives will eventually be ruined and disappear.:「他の親戚たちなどやがては没落して消えるわ。}`
-`{ruby:At that time, George will use this gold, and revive the Ushiromiya family's lost honor,:その時、譲治はこの黄金を使って、失われた右代宮家の威光を、}`
+`{ruby:And I can even leave a:そして譲治にも莫大なお金を遺して}{ruby:vast amount of money to George...!!":あげることができる…！！」}`
+`{ruby:"The rest of the relatives:「他の親戚たちなどやがて}{ruby:will eventually be ruined and disappear.:は没落して消えるわ。}`
+`{ruby:At that time, George will use this:その時、譲治はこの黄金を使って、}{ruby:gold, and revive the Ushiromiya family's lost honor,:失われた右代宮家の威光を、}`
 `{ruby:just like Father did...!!:まるでお父様がそうしたように復興させてみせるのよ…！！}`
-`{ruby:There will be no room for anyone to argue then.:その時、誰も異論を挟めないわ。}`
-`{ruby:......George is the true successor of the Ushiromiya family!!":……譲治こそが、右代宮家の本当の跡継ぎなのよッ！！」}`
+`{ruby:There will be no room:その時、誰も異論を}{ruby:for anyone to argue then.:挟めないわ。}`
+`{ruby:......George is the true:……譲治こそが、右代宮家の本}{ruby:successor of the Ushiromiya family!!":当の跡継ぎなのよッ！！」}`
 `{ruby:It happened!!!:成ったッ！！！}`
 `{ruby:My wish was granted!!:叶ったッ！！}`
-`{ruby:That dream I have wished for ever since I was born into this world as Ushiromiya Eva, has been granted completely in this very moment...!!:右代宮絵羽としてこの世に生まれ、願った夢は今この瞬間、全てが叶った…！！}`
-`{ruby:My husband and I will be happy for all eternity.:私も夫も、永遠に幸せになれて。}`
-`{ruby:And I can also give my only son, George, eternal happiness!!:そして一人息子の譲治にも永遠の幸せを贈ることができる！！}`
-`{ruby:There's no way I'll waste it on foolish pleasures!!:下らない快楽になんか浪費するものか！！}`
-`{ruby:{n}My older brother has chewed up the Ushiromiya family, but George and I will revive it!:{n}兄が食い潰し傾かせた右代宮家は、私と譲治が復興させるのよ！}`
-`{ruby:And that means that we truly have succeeded the headship of the Ushiromiya family!!:それこそが、右代宮家の当主を、本当の意味で私たちが継承したという意味なのよッ！！}`
+`{ruby:That dream I have wished for ever since I was born into:右代宮絵羽としてこの世に生まれ、願った}{ruby:this world as Ushiromiya Eva, has been granted completely in this very moment...!!:夢は今この瞬間、全てが叶った…！！}`
+`{ruby:My husband and I will:私も夫も、永遠に幸}{ruby:be happy for all eternity.:せになれて。}`
+`{ruby:And I can also give:そして一人息子の譲治にも永遠の}{ruby:my only son, George, eternal happiness!!:幸せを贈ることができる！！}`
+`{ruby:There's no way I'll:下らない快楽になんか浪}{ruby:waste it on foolish pleasures!!:費するものか！！}`
+`{ruby:{n}My older brother has chewed up the Ushiromiya:{n}兄が食い潰し傾かせた右代宮家}{ruby:family, but George and I will revive it!:は、私と譲治が復興させるのよ！}`
+`{ruby:And that means that we truly have:それこそが、右代宮家の当主を、本当の意味で}{ruby:succeeded the headship of the Ushiromiya family!!:私たちが継承したという意味なのよッ！！}`
 `{ruby:"I succeeded...:「成し遂げたわ…。}`
 `{ruby:I did it, ...honey......George...:やったわ、…あなた…、譲治…。}`
-`{ruby:......I, ......your mother......finally succeeded...:……私は、……母さんは、……ついに成し遂げたわよ…。}`
-`{ruby:......After this, we won't be threatened by anyone...:……もうこれで、誰にも脅かされない…。}`
+`{ruby:......I, ......your:……私は、……母さんは、……}{ruby:mother......finally succeeded...:ついに成し遂げたわよ…。}`
+`{ruby:......After this, we won't:……もうこれで、誰にも}{ruby:be threatened by anyone...:脅かされない…。}`
 `{ruby:Uuuhhu, uuuuUUuuuUUugghhuhuu!!":ううぅう、ううううううぅううううぅッ！！」}`
-`{ruby:That's right, after this, never again will we be smothered by sad nights.:そうよ、これでもう私たちは、二度と悲しい夜に咽ぶことはない。}`
+`{ruby:That's right, after this, never again:そうよ、これでもう私たちは、二度}{ruby:will we be smothered by sad nights.:と悲しい夜に咽ぶことはない。}`
 `{ruby:Congratulations, me.:おめでとう、私。}`
 `{ruby:Congratulations, Ushiromiya Eva.:おめでとう、右代宮絵羽。}`
-`{ruby:......Right here, right now, the sad half of our life has had its heart's desires granted.:…私たちの悲しい半生は、今ここに全ての念願が叶って昇華されたわ。}`
+`{ruby:......Right here, right now, the sad half of:…私たちの悲しい半生は、今ここに全}{ruby:our life has had its heart's desires granted.:ての念願が叶って昇華されたわ。}`
 `{ruby:"It's all thanks to you...:「あなたのお陰よ…。}`
-`{ruby:I was blessed with this chance because of your magic.:あなたの魔法があったから、このチャンスに恵まれた。}`
-`{ruby:Because of that chance, I was able to make it here...!":このチャンスがあったから、私はここに辿り着くことができた…！」}`
+`{ruby:I was blessed with this:あなたの魔法があったから、こ}{ruby:chance because of your magic.:のチャンスに恵まれた。}`
+`{ruby:Because of that chance, I:このチャンスがあったから、私はここ}{ruby:was able to make it here...!":に辿り着くことができた…！」}`
 `{ruby:...Thank you.:…ありがとう。}`
-`{ruby:But my magic couldn't have been granted if we both didn't believe in each other.:でも私の魔法は、私たちが互いに信じあわなくちゃ叶えることができなかった。}`
-`{ruby:So it isn't just the power of my magic.:だから、私の魔法の力だけじゃない。}`
+`{ruby:But my magic couldn't have been granted:でも私の魔法は、私たちが互いに信じあわ}{ruby:if we both didn't believe in each other.:なくちゃ叶えることができなかった。}`
+`{ruby:So it isn't just:だから、私の魔法の力}{ruby:the power of my magic.:だけじゃない。}`
 `{ruby:This is our victory.:私たちの勝利よ。}`
 `{ruby:So, congratulations,:だからこそ、おめでとう。}`
 `{ruby:"us".:“私たち”。}`
 `{ruby:"Thank you, me...:「ありがとう、私…。}`
 `{ruby:Thank you, Ushiromiya Eva...:ありがとう、右代宮絵羽…。}`
-`{ruby:......I'm so glad I didn't give in before now.:……今日まで挫けなくて良かった。}`
-`{ruby:I'm so glad I didn't drown in sorrow and forget to keep struggling...":悲しみに溺れ、足掻くことを忘れなくて良かった…」}`
+`{ruby:......I'm so glad I:……今日まで挫けな}{ruby:didn't give in before now.:くて良かった。}`
+`{ruby:I'm so glad I didn't drown:悲しみに溺れ、足掻くことを}{ruby:in sorrow and forget to keep struggling...":忘れなくて良かった…」}`
 `{ruby:".........No, this is my magic.:「………いいえ、これは私の魔法。}`
 `{ruby:Our magic!:私たちの魔法！}`
 `{ruby:Your magic was the real thing.:あなたの魔法は本物だったわ。}`
-`{ruby:{f:5:Beatrice} the witch of the forest is nothing more than an illusion.:森の魔女ベアトリーチェなんてすでに幻想。}`
-`{ruby:{i:You} are the real witch, who can use real magic.:あなたこそが本当の魔法が使える本当の魔女。}`
+`{ruby:{f:5:Beatrice} the witch of the forest:森の魔女ベアトリーチェ}{ruby:is nothing more than an illusion.:なんてすでに幻想。}`
+`{ruby:{i:You} are the real witch,:あなたこそが本当の魔法が}{ruby:who can use real magic.:使える本当の魔女。}`
 `{ruby:......That's right.:……そうよ。}`
-`{ruby:Right now, {i:you} are the Golden Witch, {f:5:Beatrice}!!":あなたこそが今や、黄金の魔女、ベアトリーチェなのよッ！！」}`
-`{ruby:Eva decided to leave that place for the time being.:絵羽は一度、そこを立ち去ることにした。}`
-`{ruby:{n}And when she climbed the stairs again, trying to leave this secret place...:{n}そして再び階段を登り、この秘密の場所を出ようとした時。}`
-`{ruby:......She saw a creepy, swaying human shadow blocking her path, and her dreamlike state was blown away.:……不気味な人影がゆらりと立ちはだかったのが見えて、夢見心地が吹き飛ぶ。}`
+`{ruby:Right now, {i:you} are:あなたこそが今や、黄金の魔女、ベ}{ruby:the Golden Witch, {f:5:Beatrice}!!":アトリーチェなのよッ！！」}`
+`{ruby:Eva decided to leave that:絵羽は一度、そこを立ち}{ruby:place for the time being.:去ることにした。}`
+`{ruby:{n}And when she climbed the stairs:{n}そして再び階段を登り、この}{ruby:again, trying to leave this secret place...:秘密の場所を出ようとした時。}`
+`{ruby:......She saw a creepy, swaying human shadow blocking:……不気味な人影がゆらりと立ちはだかっ}{ruby:her path, and her dreamlike state was blown away.:たのが見えて、夢見心地が吹き飛ぶ。}`
 `{ruby:".....................Who's there?!":「…………………誰ッ？！」}`
-`{ruby:For an instant, ...she believed that the true master of this room, the real {f:5:Beatrice}, had appeared.:この部屋の真の主、…本当のベアトリーチェが現れたのだと、一瞬信じた。}`
-`{ruby:It seemed that the other person was also holding a gun.:向こうも銃を持っていたらしい。}`
-`{ruby:{n}The two of them were pointing guns at each other.:{n}二人は銃を構えあう。}`
-`{ruby:And eventually, they each realized who the other was...:そしてようやく、お互いは相手が誰かを知る…。}`
+`{ruby:For an instant, ...she believed that the true:この部屋の真の主、…本当のベアトリー}{ruby:master of this room, the real {f:5:Beatrice}, had appeared.:チェが現れたのだと、一瞬信じた。}`
+`{ruby:It seemed that the other:向こうも銃を持って}{ruby:person was also holding a gun.:いたらしい。}`
+`{ruby:{n}The two of them were:{n}二人は銃を}{ruby:pointing guns at each other.:構えあう。}`
+`{ruby:And eventually, they each:そしてようやく、お互いは}{ruby:realized who the other was...:相手が誰かを知る…。}`
 `{ruby:".........Rosa.........?":「………楼座………？」}`
 `{ruby:"...Nee‐san...:「…姉さん…。}`
-`{ruby:.........What are you doing in a place like this...?":………こんなところで何をしているの…？」}`
+`{ruby:.........What are you doing:………こんなところで何}{ruby:in a place like this...?":をしているの…？」}`
 `{ruby:"I could ask you the same.:「お互い様よ。}`
-`{ruby:What business do {i:you} have in a place such as this?":あなたこそこんなところへ何の御用？」}`
-`{ruby:"......I shouldn't have given you that hint, Nee‐san.:「……姉さんにヒントをあげるんじゃなかったわ。}`
-`{ruby:If I hadn't, I definitely would have been the first to reach this place.:そうだったなら、ここに辿り着いたのは、きっと私が一番だった。}`
+`{ruby:What business do {i:you} have:あなたこそこんなとこ}{ruby:in a place such as this?":ろへ何の御用？」}`
+`{ruby:"......I shouldn't have given:「……姉さんにヒントをあげ}{ruby:you that hint, Nee‐san.:るんじゃなかったわ。}`
+`{ruby:If I hadn't, I definitely would have:そうだったなら、ここに辿り着いた}{ruby:been the first to reach this place.:のは、きっと私が一番だった。}`
 `{ruby:.........Too bad.":………残念よ」}`
-`{ruby:It seemed that Rosa knew where this staircase went,:楼座には、この階段がどこに続き、}`
+`{ruby:It seemed that Rosa:楼座には、この階段}{ruby:knew where this staircase went,:がどこに続き、}`
 `{ruby:and what was waiting ahead of her.:そしてその先に何が待ち構えているのか、理解できているようだった。}`
 `{ruby:"That's rich.:「言うわね。}`
-`{ruby:.........Coming from someone who arrived here after me.":………私より遅く辿り着いたくせに」}`
-`{ruby:".........I racked my brains too much over the sweetfish river.:「………鮎の川に悩みすぎたわ。}`
-`{ruby:The sweetfish part didn't really matter that much at all, did it?":鮎なんて大した意味、ないじゃない」}`
+`{ruby:.........Coming from someone who:………私より遅く辿り}{ruby:arrived here after me.":着いたくせに」}`
+`{ruby:".........I racked my brains too:「………鮎の川に悩}{ruby:much over the sweetfish river.:みすぎたわ。}`
+`{ruby:The sweetfish part didn't really matter:鮎なんて大した意味、}{ruby:that much at all, did it?":ないじゃない」}`
 `{ruby:"That isn't true.:「そんなことないわよ。}`
-`{ruby:It was an excellent hint, if you ask me.:立派なヒントだったじゃない。}`
-`{ruby:Well, of course, maybe there was no need for it to be sweetfish.:まぁ確かに、鮎である必要はなかったかもね。}`
-`{ruby:...But when I heard that sweetfish are fish that go out into the sea, I was able to figure it out.":…でも、鮎が海に出る魚だと聞いて、私はそれで気付いたの」}`
+`{ruby:It was an excellent:立派なヒントだっ}{ruby:hint, if you ask me.:たじゃない。}`
+`{ruby:Well, of course, maybe there was:まぁ確かに、鮎である必要}{ruby:no need for it to be sweetfish.:はなかったかもね。}`
+`{ruby:...But when I heard that sweetfish are fish that go:…でも、鮎が海に出る魚だと聞い}{ruby:out into the sea, I was able to figure it out.":て、私はそれで気付いたの」}`
 `{ruby:"......What is inside?":「……この奥には何が？」}`
 `{ruby:"Why not see with your own eyes?:「自分の目で確かめたら？}`
-`{ruby:It definitely won't betray your expectations.":あなたの想像をきっと裏切らないわ」}`
+`{ruby:It definitely won't:あなたの想像をきっと}{ruby:betray your expectations.":裏切らないわ」}`
 `{ruby:"........................:「……………………。}`
 `{ruby:......Don't be afraid, Nee‐san.:……怯えないで、姉さん。}`
-`{ruby:I never had any interest in who became the head.:私は元々、当主が誰になるかなんて興味ない。}`
-`{ruby:I don't even care about the Ushiromiya family name.:右代宮の籍だって興味ないしね。}`
-`{ruby:......Honestly, Krauss nii‐san always did throw his weight around, saying that he was going to be the head,:……本音を言うと、自分が当主になるんだってずっと威張り散らしてた蔵臼兄さんから、}`
-`{ruby:so I actually feel good about you stealing the position from him.":姉さんがその座を奪うなら、かえって小気味がいいくらいよ」}`
+`{ruby:I never had any interest:私は元々、当主が誰になる}{ruby:in who became the head.:かなんて興味ない。}`
+`{ruby:I don't even care:右代宮の籍だって興}{ruby:about the Ushiromiya family name.:味ないしね。}`
+`{ruby:......Honestly, Krauss nii‐san always did throw his weight around,:……本音を言うと、自分が当主になるんだって}{ruby:saying that he was going to be the head,:ずっと威張り散らしてた蔵臼兄さんから、}`
+`{ruby:so I actually feel good about:姉さんがその座を奪うなら、かえ}{ruby:you stealing the position from him.":って小気味がいいくらいよ」}`
 `{ruby:"............Are you serious?":「…………本気で言ってるの？」}`
 `{ruby:"Of course.:「もちろんよ。}`
-`{ruby:I am the outsider of the Ushiromiya siblings.:私は右代宮兄弟のはぐれ者。}`
-`{ruby:......Even if Father had named me as the next head,:……仮に私が当主跡継ぎだとお父様に指名されたとしても、}`
-`{ruby:there's no way my brothers would accept that.:それを兄さんたちが認めてくれるわけもない。}`
-`{ruby:I try not to have such naive dreams.":そこまで甘い夢は見てないつもりよ」}`
+`{ruby:I am the outsider:私は右代宮兄弟の}{ruby:of the Ushiromiya siblings.:はぐれ者。}`
+`{ruby:......Even if Father had named:……仮に私が当主跡継ぎだとお父}{ruby:me as the next head,:様に指名されたとしても、}`
+`{ruby:there's no way my:それを兄さんたちが認めて}{ruby:brothers would accept that.:くれるわけもない。}`
+`{ruby:I try not to:そこまで甘い夢は見て}{ruby:have such naive dreams.":ないつもりよ」}`
 `{ruby:"........................":「……………………」}`
 `{ruby:"Let me see too.:「私にも見せてよ。}`
 `{ruby:The proof of your victory, Nee‐san.:姉さんの勝利の証を。}`
-`{ruby:......As long as I receive the proper portion that we agreed upon as siblings,:……私は、兄弟で取り決めした正当な取り分さえもらえれば、}`
-`{ruby:I plan to actively accept you as the true victor in this "game".":むしろ姉さんがこの“ゲーム”の正当な勝利者だと積極的に認めるつもりよ」}`
-`{ruby:"............If you shot me, then you would have this gold all to yourself, right?":「…………私を撃っちゃえば、この黄金は楼座の独り占めになっちゃうわね？」}`
+`{ruby:......As long as I receive the proper:……私は、兄弟で取り決めした正}{ruby:portion that we agreed upon as siblings,:当な取り分さえもらえれば、}`
+`{ruby:I plan to actively accept you:むしろ姉さんがこの“ゲーム”の正当な勝}{ruby:as the true victor in this "game".":利者だと積極的に認めるつもりよ」}`
+`{ruby:"............If you shot me, then you would:「…………私を撃っちゃえば、この黄金は}{ruby:have this gold all to yourself, right?":楼座の独り占めになっちゃうわね？」}`
 `{ruby:"It's the same for you.:「それは同じよ。}`
-`{ruby:If you shot me, this gold would all be yours.":姉さんが私を撃てば、この黄金は姉さんの独り占め」}`
-`{ruby:".......................................":「…………………………………」}`
-`{ruby:For a tense while, the sisters pointed their guns at each other.:姉妹は互いに銃を向けあったまま、緊迫の時間を過ごした。}`
-`{ruby:{n}Eventually, after they sized up the glint in the other's eyes, they lowered their guns.:{n}やがて、互いの眼光を充分に値踏みしながら、二人は銃を下ろす。}`
-`{ruby:...Eva removed her finger from the trigger, and held the gun upside‐down.:…絵羽が、引き金から指を外し、銃を逆さに持つ仕草をする。}`
-`{ruby:It was a position that she couldn't quickly shoot from.:すぐには撃てない持ち方だ。}`
-`{ruby:{n}When she saw that, Rosa held hers the same way.:{n}それを見て、楼座も同じ持ち方に従う。}`
+`{ruby:If you shot me, this:姉さんが私を撃てば、この黄}{ruby:gold would all be yours.":金は姉さんの独り占め」}`
+`{ruby::「……………………}{ruby:".......................................":……………」}`
+`{ruby:For a tense while, the sisters:姉妹は互いに銃を向けあったまま}{ruby:pointed their guns at each other.:、緊迫の時間を過ごした。}`
+`{ruby:{n}Eventually, after they sized up the glint:{n}やがて、互いの眼光を充分に値踏}{ruby:in the other's eyes, they lowered their guns.:みしながら、二人は銃を下ろす。}`
+`{ruby:...Eva removed her finger from the:…絵羽が、引き金から指を外し、}{ruby:trigger, and held the gun upside‐down.:銃を逆さに持つ仕草をする。}`
+`{ruby:It was a position that:すぐには撃てない}{ruby:she couldn't quickly shoot from.:持ち方だ。}`
+`{ruby:{n}When she saw that, Rosa:{n}それを見て、楼座も}{ruby:held hers the same way.:同じ持ち方に従う。}`
 `{ruby:"......That's right.:「……そうね。}`
-`{ruby:That plan of shooting the other and having all the gold to ourselves is fascinating for both of us.":相手を撃って、黄金を独り占めにしようという提案は、お互いにとって魅力的ね」}`
-`{ruby:"...But if one of us suddenly disappeared on this island while it's isolated by the typhoon, there would be a huge uproar.:「…でも、台風で隔絶したこの島から、突然、失踪すれば、絶対に大騒ぎになる。}`
-`{ruby:......If we hid the corpse here, it probably wouldn't be found easily, but that isn't for certain.":……ここに死体を隠せば、簡単には見付からないだろうけど、それも絶対ではない」}`
-`{ruby:".........No matter how many billion yen's worth of gold is on the line,:「………何百億円の黄金があろうとも。}`
-`{ruby:it isn't worth the risk of committing murder.:殺人の罪を犯すリスクには、割が合わないわ。}`
-`{ruby:In the end, that would become a weakness for Krauss nii‐san and the others to squeeze all the money out of us with.":むしろ、それをダシにされて、蔵臼兄さんたちに搾り取られるのがオチね」}`
+`{ruby:That plan of shooting the other and having all:相手を撃って、黄金を独り占めにしようとい}{ruby:the gold to ourselves is fascinating for both of us.":う提案は、お互いにとって魅力的ね」}`
+`{ruby:"...But if one of us suddenly disappeared on this island while:「…でも、台風で隔絶したこの島から、突然}{ruby:it's isolated by the typhoon, there would be a huge uproar.:、失踪すれば、絶対に大騒ぎになる。}`
+`{ruby:......If we hid the corpse here, it probably:……ここに死体を隠せば、簡単には見付から}{ruby:wouldn't be found easily, but that isn't for certain.":ないだろうけど、それも絶対ではない」}`
+`{ruby:".........No matter how many billion yen's:「………何百億円の黄}{ruby:worth of gold is on the line,:金があろうとも。}`
+`{ruby:it isn't worth the:殺人の罪を犯すリスクには}{ruby:risk of committing murder.:、割が合わないわ。}`
+`{ruby:In the end, that would become a weakness for Krauss nii‐san:むしろ、それをダシにされて、蔵臼兄さ}{ruby:and the others to squeeze all the money out of us with.":んたちに搾り取られるのがオチね」}`
 `{ruby:"I agree.:「同感よ。}`
-`{ruby:......Considering that Nii‐san or Rudolf could have been the one to show up here,:……ここに現れたのが、兄さんや留弗夫であるくらいなら、}`
-`{ruby:......it may have been a blessing in disguise that it was you.:……あんたであったことは不幸中の幸いかもしれない。}`
-`{ruby:...I trust you the most of all the siblings.":…私は兄弟で、あんたを一番信用してるもの」}`
+`{ruby:......Considering that Nii‐san or Rudolf could have:……ここに現れたのが、兄さんや}{ruby:been the one to show up here,:留弗夫であるくらいなら、}`
+`{ruby:......it may have been a blessing:……あんたであったことは不幸}{ruby:in disguise that it was you.:中の幸いかもしれない。}`
+`{ruby:...I trust you the:…私は兄弟で、あんたを一}{ruby:most of all the siblings.":番信用してるもの」}`
 `{ruby:"............Thank you.:「…………ありがとう。}`
-`{ruby:I also trust you the most of the siblings, Nee‐san.":私も姉さんのこと、兄弟で一番信用してるわよ？」}`
-`{ruby:"....................................":「………………………………」}`
-`{ruby:"............I want to see the gold too.":「…………私も黄金が見たいわ」}`
+`{ruby:I also trust you the:私も姉さんのこと、兄弟で一}{ruby:most of the siblings, Nee‐san.":番信用してるわよ？」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
+`{ruby:"............I want to:「…………私も黄金}{ruby:see the gold too.":が見たいわ」}`
 `{ruby:"Do you?:「見る？}`
 `{ruby:Now I also want to see it again.:私ももう一度見たくなったわ。}`
-`{ruby:Even though I saw it with my own eyes, it still doesn't feel real.:この目で見たにもかかわらず、まだ現実感が湧かないの。}`
-`{ruby:...Unless I see it together with you and check once more that it actually exists,:…あなたと一緒に見て、確かに存在することをもう一度確かめないと、}`
-`{ruby:it feels like the gold will turn to fog and disappear.":霧になって黄金が消えてしまいそうな気がするわ」}`
-`{ruby:Eva started descending the staircase once more.:絵羽は再び階段を降り出す。}`
-`{ruby:{n}......However, she didn't carelessly expose her back to Rosa.:{n}……しかし、無用心に楼座に背中を晒したりはしない。}`
-`{ruby:Likewise, even though at a glance it looked like Rosa had lowered her guard, she definitely didn't show any signs of carelessness.:楼座も、一見は警戒心を解いているように見えるが、決して油断は見せなかった。}`
-`{ruby:......And they reached that room of the witch once again.:……そして、再びあの魔女の部屋へ至る。}`
-`{ruby:{n}Rosa also gasped, made speechless by the vast amount of gold...:{n}楼座もまた、息を呑み、莫大な黄金に絶句するのだった…。}`
-`{ruby:......Rosa and Eva walked absentmindedly through the rose garden.:……絵羽たちは薔薇庭園を、放心しながら歩いている。}`
-`{ruby:They had left the guesthouse secretly, so they had to be careful when they returned as well.:ゲストハウスをこっそりと出てきたのだから、戻る時にも細心の注意が要る。}`
-`{ruby:They had to regain their sense of tension soon.:そろそろ緊張感を取り戻さなくてはいけない。}`
+`{ruby:Even though I saw it with my:この目で見たにもかかわらず、}{ruby:own eyes, it still doesn't feel real.:まだ現実感が湧かないの。}`
+`{ruby:...Unless I see it together with you:…あなたと一緒に見て、確かに存在す}{ruby:and check once more that it actually exists,:ることをもう一度確かめないと、}`
+`{ruby:it feels like the gold:霧になって黄金が消えてしま}{ruby:will turn to fog and disappear.":いそうな気がするわ」}`
+`{ruby:Eva started descending:絵羽は再び階段を}{ruby:the staircase once more.:降り出す。}`
+`{ruby:{n}......However, she didn't carelessly:{n}……しかし、無用心に楼座}{ruby:expose her back to Rosa.:に背中を晒したりはしない。}`
+`{ruby:Likewise, even though at a glance it looked like Rosa had:楼座も、一見は警戒心を解いているように見}{ruby:lowered her guard, she definitely didn't show any signs of carelessness.:えるが、決して油断は見せなかった。}`
+`{ruby:......And they reached that room:……そして、再びあの魔}{ruby:of the witch once again.:女の部屋へ至る。}`
+`{ruby:{n}Rosa also gasped, made speechless:{n}楼座もまた、息を呑み、莫大}{ruby:by the vast amount of gold...:な黄金に絶句するのだった…。}`
+`{ruby:......Rosa and Eva walked:……絵羽たちは薔薇庭園を、放}{ruby:absentmindedly through the rose garden.:心しながら歩いている。}`
+`{ruby:They had left the guesthouse secretly, so they:ゲストハウスをこっそりと出てきたのだか}{ruby:had to be careful when they returned as well.:ら、戻る時にも細心の注意が要る。}`
+`{ruby:They had to regain:そろそろ緊張感を取り戻さ}{ruby:their sense of tension soon.:なくてはいけない。}`
 `{ruby:"......Congratulations, Nee‐san.":「……おめでとう、姉さん」}`
 `{ruby:"Thank you.":「ありがと」}`
 `{ruby:"You decided it, didn't you?:「姉さんが決めたのよね？}`
-`{ruby:Fifty percent goes to the bearer of the title of successor to the head.:右代宮家当主跡継ぎの肩書きに５割って。}`
-`{ruby:......It sure did work out well for you.:……ここで効いて来るとはね。}`
-`{ruby:That doesn't refer to Krauss nii‐san anymore.:今やそれは蔵臼兄さんのことではない。}`
-`{ruby:...So your share is now fifty percent along with a quarter of the rest, for a total of 12.5 billion yen.":…だから姉さんの取り分が５割とその四分の一で１２５億」}`
+`{ruby:Fifty percent goes to the bearer of:右代宮家当主跡継ぎの肩}{ruby:the title of successor to the head.:書きに５割って。}`
+`{ruby:......It sure did work:……ここで効いて}{ruby:out well for you.:来るとはね。}`
+`{ruby:That doesn't refer:今やそれは蔵臼兄さん}{ruby:to Krauss nii‐san anymore.:のことではない。}`
+`{ruby:...So your share is now fifty percent along with a:…だから姉さんの取り分が５割と}{ruby:quarter of the rest, for a total of 12.5 billion yen.":その四分の一で１２５億」}`
 `{ruby:"Isn't that an incredible share?:「すごい取り分じゃない。}`
 `{ruby:...I'm satisfied with 2.5 billion.:…私は２５億で満足よ。}`
-`{ruby:Rudolf nii‐san won't complain either.:留弗夫兄さんだって文句は言わないわ。}`
-`{ruby:Krauss nii‐san will probably be the only one to complain.":文句を言うのは蔵臼兄さんだけでしょうね」}`
+`{ruby:Rudolf nii‐san:留弗夫兄さんだって文}{ruby:won't complain either.:句は言わないわ。}`
+`{ruby:Krauss nii‐san will probably be:文句を言うのは蔵臼兄さ}{ruby:the only one to complain.":んだけでしょうね」}`
 `{ruby:"......Yeah, you're right.:「……えぇ、そうね。}`
-`{ruby:...After all, Nii‐san is the practical manager of Rokkenjima.:…何しろ、六軒島の実質的管理者は兄さんだもの。}`
-`{ruby:And since the gold was on these premises,:そしてその敷地内に黄金があった以上、}`
-`{ruby:even though I was the first to discover it, things might get complicated if I don't handle it skillfully.":第一発見者が私でも、うまく事を運ばないと、ややこしいことになりそうよ」}`
+`{ruby:...After all, Nii‐san is:…何しろ、六軒島の実質的管}{ruby:the practical manager of Rokkenjima.:理者は兄さんだもの。}`
+`{ruby:And since the gold:そしてその敷地内に黄}{ruby:was on these premises,:金があった以上、}`
+`{ruby:even though I was the first to discover it,:第一発見者が私でも、うまく事を運ばない}{ruby:things might get complicated if I don't handle it skillfully.":と、ややこしいことになりそうよ」}`
 `{ruby:"It won't get complicated.:「ならないわよ。}`
-`{ruby:We covered this and every other eventuality in excruciating detail in last night's discussion, didn't we?":そこまでをも想定して、私たちは昨夜、さんざん議論を尽くしたんじゃない」}`
-`{ruby:"............I wonder if it will really go that smoothly.:「…………果たしてそううまく行くかしらね。}`
-`{ruby:I've already completely gotten over my excitement.:私はもう、すっかり興奮は醒めてるわよ。}`
-`{ruby:How we regulate everything from here on is the real problem.":ここからの調整の方が、むしろ問題ね」}`
-`{ruby:"...That is a problem for the new head of the Ushiromiya family.:「…それは、新しき右代宮家当主の問題ね。}`
-`{ruby:You should enjoy that problem, Nee‐san.:姉さんが楽しむべき問題よ。}`
+`{ruby:We covered this and every other eventuality in:そこまでをも想定して、私たちは昨夜、さ}{ruby:excruciating detail in last night's discussion, didn't we?":んざん議論を尽くしたんじゃない」}`
+`{ruby:"............I wonder if it:「…………果たしてそうう}{ruby:will really go that smoothly.:まく行くかしらね。}`
+`{ruby:I've already completely:私はもう、すっかり興奮}{ruby:gotten over my excitement.:は醒めてるわよ。}`
+`{ruby:How we regulate everything from:ここからの調整の方が}{ruby:here on is the real problem.":、むしろ問題ね」}`
+`{ruby:"...That is a problem for the:「…それは、新しき右代}{ruby:new head of the Ushiromiya family.:宮家当主の問題ね。}`
+`{ruby:You should enjoy:姉さんが楽しむべ}{ruby:that problem, Nee‐san.:き問題よ。}`
 `{ruby:It has nothing to do with me.":私には関係ないわ」}`
 `{ruby:"Hmm, sharp words...":「ふん、言うわね…」}`
-`{ruby:"......I'll support you as the second person to find it.:「……第二発見者として、姉さんに協力するから。}`
-`{ruby:So please at least give me the early payment we decided on.:どうか例の前払い分。}`
+`{ruby:"......I'll support you as the:「……第二発見者として、姉}{ruby:second person to find it.:さんに協力するから。}`
+`{ruby:So please at least give me:どうか例の前}{ruby:the early payment we decided on.:払い分。}`
 `{ruby:I'd like 150 million yen by March.":私の１億５千万だけは３月までにお願い」}`
 `{ruby:"Yes, that's fine.:「えぇ、いいわ。}`
-`{ruby:......If you support me, I can graciously pay you that much.:……私に協力するなら、それくらい気前良く払うわ。}`
+`{ruby:......If you support me, I:……私に協力するなら、それ}{ruby:can graciously pay you that much.:くらい気前良く払うわ。}`
 `{ruby:I am not Nii‐san.":私は兄さんじゃないもの」}`
-`{ruby:"Anyway, why don't we go and shock Nii‐san and the others?:「とりあえずは兄さんたちを驚かせましょ？}`
-`{ruby:Even if we cover up the actual location, I want to see Krauss nii‐san's shocked face as soon as I can.":実際の場所は伏せるにしても、早く蔵臼兄さんの驚く顔が見たいわ」}`
+`{ruby:"Anyway, why don't we go:「とりあえずは兄さんた}{ruby:and shock Nii‐san and the others?:ちを驚かせましょ？}`
+`{ruby:Even if we cover up the actual location, I want:実際の場所は伏せるにしても、早く蔵}{ruby:to see Krauss nii‐san's shocked face as soon as I can.":臼兄さんの驚く顔が見たいわ」}`
 `{ruby:"...............:「……………。}`
 `{ruby:............Wait a second, Rosa.:…………ちょっと待ってよ、楼座。}`
-`{ruby:Wait a while before telling everyone about it.":それをみんなに伝えるのはまだ待って」}`
+`{ruby:Wait a while before:それをみんなに伝える}{ruby:telling everyone about it.":のはまだ待って」}`
 `{ruby:"..................Huh?:「………………え？}`
 `{ruby:...Why?":…どうして？」}`
 `{ruby:"...You idiot, isn't it obvious?:「…馬鹿ね、決まってるでしょう。}`
-`{ruby:...This is that haughty Krauss nii‐san and that sly Rudolf we're talking about.:…相手はあの尊大な蔵臼兄さんに、狡賢い留弗夫なのよ。}`
-`{ruby:Even if we announce it eventually, it's still too early now.":やがては発表するにしても、今はまだ早いわ」}`
-`{ruby:"Unless we carefully investigate how we should move things along first,:「どうやって話を進めるか、慎重に検討してからじゃないと、}`
-`{ruby:it's possible that all of the gold we've finally found will be snatched away by Nii‐san.":せっかく見つけた黄金を全て兄さんに掠め取られることもありえるわよ」}`
-`{ruby:Eva had thought she had just said something completely obvious.:絵羽は、至極当然のことを言ったつもりだった。}`
-`{ruby:...So when she saw Rosa's expression suddenly cloud over, she was a little surprised.:…なのに、急に楼座が不機嫌そうに表情を曇らせるのを見て、少しだけ驚く。}`
-`{ruby:"......What are you unsatisfied about?:「……何か不満なの？}`
-`{ruby:You know well what kind of people those two are.":蔵臼兄さんたちの性分は、あんただってよく知っているでしょうが」}`
+`{ruby:...This is that haughty Krauss nii‐san:…相手はあの尊大な蔵臼兄さん}{ruby:and that sly Rudolf we're talking about.:に、狡賢い留弗夫なのよ。}`
+`{ruby:Even if we announce it:やがては発表するにしても}{ruby:eventually, it's still too early now.":、今はまだ早いわ」}`
+`{ruby:"Unless we carefully investigate how:「どうやって話を進めるか、慎重}{ruby:we should move things along first,:に検討してからじゃないと、}`
+`{ruby:it's possible that all of the gold we've:せっかく見つけた黄金を全て兄さんに掠}{ruby:finally found will be snatched away by Nii‐san.":め取られることもありえるわよ」}`
+`{ruby:Eva had thought she had:絵羽は、至極当然のことを}{ruby:just said something completely obvious.:言ったつもりだった。}`
+`{ruby:...So when she saw Rosa's expression suddenly:…なのに、急に楼座が不機嫌そうに表情を}{ruby:cloud over, she was a little surprised.:曇らせるのを見て、少しだけ驚く。}`
+`{ruby:"......What are:「……何か不}{ruby:you unsatisfied about?:満なの？}`
+`{ruby:You know well what kind:蔵臼兄さんたちの性分は、あんただっ}{ruby:of people those two are.":てよく知っているでしょうが」}`
 `{ruby:"...............:「……………。}`
 `{ruby:Nee‐san, that's against the rules.":姉さん、それはルール違反よ」}`
 `{ruby:"What do you mean?":「何の話よ」}`
-`{ruby:"......Didn't we make a rule that whoever found the gold would announce it immediately?:「……私たちは、誰が黄金を見つけてもすぐに報告するというルールになっていたはずよ？}`
-`{ruby:If you hesitate, the foundation of the rules will be destroyed,:それを渋れば、ルールの根底が崩れて、}`
-`{ruby:and that could lead to something worse in the future.:後で何かの火種になるかもしれないわ。}`
-`{ruby:...With Krauss nii‐san as crafty as he is,:…蔵臼兄さんが狡猾であるならばあるほどに。}`
-`{ruby:that violation of the rules will complicate things later.":そのルール違反は後で拗れるわ」}`
+`{ruby:"......Didn't we make a rule that whoever:「……私たちは、誰が黄金を見つけてもすぐに報}{ruby:found the gold would announce it immediately?:告するというルールになっていたはずよ？}`
+`{ruby:If you hesitate, the foundation:それを渋れば、ルールの}{ruby:of the rules will be destroyed,:根底が崩れて、}`
+`{ruby:and that could lead to:後で何かの火種になる}{ruby:something worse in the future.:かもしれないわ。}`
+`{ruby:...With Krauss nii‐san as:…蔵臼兄さんが狡猾である}{ruby:crafty as he is,:ならばあるほどに。}`
+`{ruby:that violation of the:そのルール違反は後}{ruby:rules will complicate things later.":で拗れるわ」}`
 `{ruby:"Don't be stupid.:「馬鹿言わないで。}`
 `{ruby:This is Nii‐san's island.:ここは兄さんの島なのよ。}`
 `{ruby:And that gold just now wasn't cash.:そしてさっきの黄金はキャッシュじゃない。}`
-`{ruby:We're talking about the liquidation of a vast ten‐ton mountain, you know?":１０ｔもの莫大な換金物の山なのよ？」}`
-`{ruby:"It will take a significant amount of time to carry it off and turn it into cash.:「運び出して現金化するには相当の手間を掛けるわ。}`
-`{ruby:And that will only work in Nii‐san's favor, since he has practical control over this island.:そしてそれは、この島を実効支配している兄さんに、あらゆる面で有利に働くわ。}`
+`{ruby:We're talking about the liquidation of:１０ｔもの莫大な換金}{ruby:a vast ten‐ton mountain, you know?":物の山なのよ？」}`
+`{ruby:"It will take a significant amount of time:「運び出して現金化するには}{ruby:to carry it off and turn it into cash.:相当の手間を掛けるわ。}`
+`{ruby:And that will only work in Nii‐san's favor,:そしてそれは、この島を実効支配している兄}{ruby:since he has practical control over this island.:さんに、あらゆる面で有利に働くわ。}`
 `{ruby:Don't you even realize that?!":そんなこともわからないの、あんたは！」}`
-`{ruby:".....................I don't like searching each other for weaknesses like that.:「…………………そういう腹の探りあい、私は好きじゃないの。}`
-`{ruby:I just want to clearly lock in my 2.5 billion portion.":私は自分の取り分の２５億をはっきり確定させたいだけ」}`
-`{ruby:"Of course, if you were to give me 2.5 billion in cash right now,:「もちろん、姉さんが私に現金２５億を今すぐ渡してくれるなら、}`
-`{ruby:whatever you did next would be up to you.:後は姉さんがどう交渉しようと勝手よ。}`
-`{ruby:But until I have my share in my own pocket, I will follow the siblings' rules.":でも、私の取り分が手元に入るまでは、私は兄弟のルールを遵守するわ」}`
+`{ruby:".....................I don't like searching each:「…………………そういう腹の探り}{ruby:other for weaknesses like that.:あい、私は好きじゃないの。}`
+`{ruby:I just want to clearly:私は自分の取り分の２５億をは}{ruby:lock in my 2.5 billion portion.":っきり確定させたいだけ」}`
+`{ruby:"Of course, if you were to give:「もちろん、姉さんが私に現金２５}{ruby:me 2.5 billion in cash right now,:億を今すぐ渡してくれるなら、}`
+`{ruby:whatever you did next:後は姉さんがどう交渉}{ruby:would be up to you.:しようと勝手よ。}`
+`{ruby:But until I have my share in my:でも、私の取り分が手元に入るまでは、}{ruby:own pocket, I will follow the siblings' rules.":私は兄弟のルールを遵守するわ」}`
 `{ruby:"You're so naive...:「何を甘いことを…。}`
-`{ruby:You don't understand Nii‐san's craftiness at all!":あんた、兄さんの狡賢さを何もわかってない！」}`
-`{ruby:......It wasn't that Rosa didn't understand the craftiness of her older siblings.:……楼座とて、兄たちの狡猾さを理解していないわけではない。}`
-`{ruby:In that sense, Rosa more or less understood Eva's caution.:その意味においては、実際のところ、楼座は絵羽の慎重さに一定の理解を示してはいた。}`
+`{ruby:You don't understand:あんた、兄さんの狡賢さを}{ruby:Nii‐san's craftiness at all!":何もわかってない！」}`
+`{ruby:......It wasn't that Rosa didn't understand:……楼座とて、兄たちの狡猾さを理}{ruby:the craftiness of her older siblings.:解していないわけではない。}`
+`{ruby:In that sense, Rosa more:その意味においては、実際のところ、楼座は絵}{ruby:or less understood Eva's caution.:羽の慎重さに一定の理解を示してはいた。}`
 `{ruby:But in her heart,:しかし、楼座は内心、それ以上に、}`
-`{ruby:she couldn't clear away her even greater suspicion that Eva wanted to keep all of the gold to herself.:絵羽が黄金を自分だけの独り占めにしてしまうのではないかという疑いが晴らせなかった。}`
-`{ruby:......Because she knew that Eva was at least as crafty as her other siblings, if not more.:……蔵臼たちが狡猾である以上に、絵羽もまた狡猾であることを知っていたからだ。}`
-`{ruby:In other words, by quickly informing the siblings of the gold's discovery,:つまり楼座は、早く黄金発見の報を兄弟に知らせることで、}`
-`{ruby:Rosa wanted to put a stop to any chance Eva had to keep the gold all to herself...:絵羽が独り占めする可能性に対し、楔を打ちたいと思っている…。}`
+`{ruby:she couldn't clear away her even greater suspicion that:絵羽が黄金を自分だけの独り占めにしてしまうの}{ruby:Eva wanted to keep all of the gold to herself.:ではないかという疑いが晴らせなかった。}`
+`{ruby:......Because she knew that Eva was at least:……蔵臼たちが狡猾である以上に、絵羽もま}{ruby:as crafty as her other siblings, if not more.:た狡猾であることを知っていたからだ。}`
+`{ruby:In other words, by quickly informing:つまり楼座は、早く黄金発見の報}{ruby:the siblings of the gold's discovery,:を兄弟に知らせることで、}`
+`{ruby:Rosa wanted to put a stop to any chance:絵羽が独り占めする可能性に対し、}{ruby:Eva had to keep the gold all to herself...:楔を打ちたいと思っている…。}`
 `{ruby:"..................:「………………。}`
 `{ruby:......Rosa.:……楼座。}`
-`{ruby:Sorry, but at least listen to me this once.":悪いけど、今だけは私の言うことを聞きなさい」}`
-`{ruby:".........Are you saying that if I don't listen to what you say, you won't be able to prepare the 150 million?":「………言うことを聞かないと、１億５千万は用意できないってこと？」}`
+`{ruby:Sorry, but at least:悪いけど、今だけは私の言}{ruby:listen to me this once.":うことを聞きなさい」}`
+`{ruby:".........Are you saying that if I don't listen to what:「………言うことを聞かないと、１億５}{ruby:you say, you won't be able to prepare the 150 million?":千万は用意できないってこと？」}`
 `{ruby:"........................:「……………………。}`
-`{ruby:...That isn't the way I wanted to say it.:…そういう言い方をしているつもりはないわ。}`
-`{ruby:...But if you really need that money, it's more realistic to support me.:…でも、あなたが本当にそのお金を必要としているなら、私に協力した方が現実的よ。}`
-`{ruby:......If you talk to Nii‐san and Rudolf, even that natural portion of yours might disappear.:……兄さんたちに話せば、その当然の取り分すらも、なくなってしまうかもしれない。}`
+`{ruby:...That isn't the way:…そういう言い方をしてい}{ruby:I wanted to say it.:るつもりはないわ。}`
+`{ruby:...But if you really need that:…でも、あなたが本当にそのお金を必要として}{ruby:money, it's more realistic to support me.:いるなら、私に協力した方が現実的よ。}`
+`{ruby:......If you talk to Nii‐san and Rudolf,:……兄さんたちに話せば、その当然の取り分す}{ruby:even that natural portion of yours might disappear.:らも、なくなってしまうかもしれない。}`
 `{ruby:You don't want that, do you?":それは嫌でしょう？」}`
 `{ruby:"........................":「……………………」}`
-`{ruby:For a while, a severe expression that she had never shown to her sister before rose to Rosa's face.:楼座はしばらくの間、姉に一度も見せたことのないような、シビアな表情を浮かべた。}`
-`{ruby:There wasn't even a trace of her restraint as a younger sister.:そこには妹としての遠慮は微塵ほどもない。}`
-`{ruby:......There was just the ruthlessness,:……ただただ、莫大な財産をやり取りする、ひとりの人間としての冷酷さ、}`
-`{ruby:no, the seriousness of a single human arguing about a vast sum of wealth.:いや、真剣さがあるだけだった。}`
+`{ruby:For a while, a severe expression that she had:楼座はしばらくの間、姉に一度も見せたことの}{ruby:never shown to her sister before rose to Rosa's face.:ないような、シビアな表情を浮かべた。}`
+`{ruby:There wasn't even a trace of:そこには妹としての遠慮}{ruby:her restraint as a younger sister.:は微塵ほどもない。}`
+`{ruby:......There was:……ただただ、莫大な財産をやり取りす}{ruby:just the ruthlessness,:る、ひとりの人間としての冷酷さ、}`
+`{ruby:no, the seriousness of a single human:いや、真剣さがある}{ruby:arguing about a vast sum of wealth.:だけだった。}`
 `{ruby:Eva made light of it, chuckling.:絵羽は、ふっと笑いながら茶化す。}`
 `{ruby:"......Dear me.:「……やれやれ。}`
-`{ruby:A frightful murder has just taken place, and the culprit still may be on this island...:物騒な殺人事件が起こったばかりで、その犯人がまだ島の中にいるかもしれないってのに、}`
-`{ruby:how careless we must be to stand around here talking like this.":こんなところで立ち話なんて、私たちもつくづく無用心ね」}`
-`{ruby:"I'm sure it's just the servants' farce.:「どうせ使用人たちの茶番でしょ。}`
-`{ruby:No murder ever occurred on this island.":この島で殺人事件なんて、元々起こってないのよ」}`
+`{ruby:A frightful murder has just taken place, and:物騒な殺人事件が起こったばかりで、その犯人が}{ruby:the culprit still may be on this island...:まだ島の中にいるかもしれないってのに、}`
+`{ruby:how careless we must be to:こんなところで立ち話なんて、私}{ruby:stand around here talking like this.":たちもつくづく無用心ね」}`
+`{ruby:"I'm sure it's:「どうせ使用人たち}{ruby:just the servants' farce.:の茶番でしょ。}`
+`{ruby:No murder ever:この島で殺人事件なんて、元}{ruby:occurred on this island.":々起こってないのよ」}`
 `{ruby:"......Oh?:「……あら。}`
 `{ruby:So you really do think that?":やっぱりそう思う？」}`
-`{ruby:"It can be clearly explained by the manner of the six deaths.:「６人の死亡状況ではっきり説明がつくわ。}`
-`{ruby:The locked room involving those six definitely couldn't be created by a crime from the outside.":あの６人の密室は、外部犯行では絶対に作れない」}`
-`{ruby:"......Doctor Nanjo said that they were all dead, but that was also a lie.:「……南條先生は、全員死んでるって言ったけど、あれもウソね。}`
-`{ruby:This is all a complicated act that Father plotted.:これは全て、お父様が仕組んだ手の込んだお芝居よ。}`
-`{ruby:All of the servants are just pretending to be dead.:使用人たちはみんな、死んだフリをしているだけよ。}`
-`{ruby:...A murder never occurred in the first place.:…元々殺人なんか起こってない。}`
-`{ruby:There's no way that there's a murderer prowling around.":殺人犯なんかうろついてるわけがないのよ」}`
+`{ruby:"It can be clearly explained by:「６人の死亡状況ではっ}{ruby:the manner of the six deaths.:きり説明がつくわ。}`
+`{ruby:The locked room involving those six definitely couldn't:あの６人の密室は、外部犯行}{ruby:be created by a crime from the outside.":では絶対に作れない」}`
+`{ruby:"......Doctor Nanjo said that they were all:「……南條先生は、全員死んでるっ}{ruby:dead, but that was also a lie.:て言ったけど、あれもウソね。}`
+`{ruby:This is all a:これは全て、お父様が仕組ん}{ruby:complicated act that Father plotted.:だ手の込んだお芝居よ。}`
+`{ruby:All of the servants are:使用人たちはみんな、死んだ}{ruby:just pretending to be dead.:フリをしているだけよ。}`
+`{ruby:...A murder never occurred:…元々殺人なんか起}{ruby:in the first place.:こってない。}`
+`{ruby:There's no way that:殺人犯なんかうろついて}{ruby:there's a murderer prowling around.":るわけがないのよ」}`
 `{ruby:"...Huh...:「…へぇ。}`
-`{ruby:I'm surprised that you would notice that.:あんたがそれに気付くとは意外ね。}`
-`{ruby:You looked fairly frightened, so I hadn't thought that you realized that much.":割と怯えてるように見えたから、そこまでは気付いてないと思ったのに」}`
-`{ruby:"......I'm a person who can read between the lines in that kind of situation.:「……私、そういう場の空気は読む方なの。}`
-`{ruby:Thanks to you, I've been well trained.":お陰様で鍛えられたから」}`
+`{ruby:I'm surprised that:あんたがそれに気付}{ruby:you would notice that.:くとは意外ね。}`
+`{ruby:You looked fairly frightened, so I:割と怯えてるように見えたから、そこま}{ruby:hadn't thought that you realized that much.":では気付いてないと思ったのに」}`
+`{ruby:"......I'm a person who can read between:「……私、そういう場の}{ruby:the lines in that kind of situation.:空気は読む方なの。}`
+`{ruby:Thanks to you,:お陰様で鍛えら}{ruby:I've been well trained.":れたから」}`
 `{ruby:That's right.:そう。}`
-`{ruby:Before we realized it, the servants had "died", and the members of the Ushiromiya family had become the only ones on this island.:気付けば、使用人たちは“死んで”、この島には今、右代宮家の人間しかいないことになっている。}`
-`{ruby:And after Nanjo had proclaimed the "deaths" of the servants,:そして南條は、使用人たちの“死亡”を宣告した後、}`
-`{ruby:and the relatives had begun to discuss the riddle of the epitaph, he had disappeared off upstairs as though he was in the way...:親族たちが碑文の謎を議論し始めたら、邪魔をしないとでも言う風に２階へ姿を消した…。}`
+`{ruby:Before we realized it, the servants had "died", and the members:気付けば、使用人たちは“死んで”、この島には今、}{ruby:of the Ushiromiya family had become the only ones on this island.:右代宮家の人間しかいないことになっている。}`
+`{ruby:And after Nanjo had proclaimed:そして南條は、使用人たちの}{ruby:the "deaths" of the servants,:“死亡”を宣告した後、}`
+`{ruby:and the relatives had begun to discuss the riddle of the epitaph,:親族たちが碑文の謎を議論し始めたら、邪魔をし}{ruby:he had disappeared off upstairs as though he was in the way...:ないとでも言う風に２階へ姿を消した…。}`
 `{ruby:"Everything...:「全て。}`
-`{ruby:was an act to get us to challenge that epitaph.:私たちに碑文に挑戦してもらおうというお芝居よ。}`
+`{ruby:was an act to get:私たちに碑文に挑戦してもら}{ruby:us to challenge that epitaph.:おうというお芝居よ。}`
 `{ruby:......And that's exactly why...:……だからこそ。}`
-`{ruby:you need to proclaim that you are the victor, Nee‐san.":姉さんが勝利者であるという宣言が必要なのよ」}`
-`{ruby:"There's no way that burnt corpse is really Father.:「あの焼死体が本当のお父様のわけがない。}`
-`{ruby:......He prepared a corpse with the right number of toes from somewhere, and deliberately burned it in that horribly morbid way.":……足の指の数が同じ死体をどこかで調達して、わざわざ悪趣味に焼いて見せたのよ」}`
-`{ruby:"......I'm sure he's hiding somewhere, watching to see how we'll behave.:「……きっとどこかに隠れて、私たちがどう振舞うかを監視してるわ。}`
-`{ruby:...I'm sure he already knows that you have reached the Golden Land, Nee‐san.":…姉さんが黄金郷に至ったこともきっと、すでに知るところよ」}`
-`{ruby:"......And that's why you should proclaim soon that you are the winner.:「……だからこそ、早く姉さんが勝利者であると宣言すべき。}`
-`{ruby:I'm sure Father will appear out of nowhere and proclaim that you are his successor while clapping his hands.":きっとお父様がどこからともなく現れて、手を叩きながら姉さんこそが跡継ぎだと宣言してくれるわ」}`
+`{ruby:you need to proclaim that:姉さんが勝利者であるとい}{ruby:you are the victor, Nee‐san.":う宣言が必要なのよ」}`
+`{ruby:"There's no way that:「あの焼死体が本当のお}{ruby:burnt corpse is really Father.:父様のわけがない。}`
+`{ruby:......He prepared a corpse with the right number of toes:……足の指の数が同じ死体をどこかで調達して}{ruby:from somewhere, and deliberately burned it in that horribly morbid way.":、わざわざ悪趣味に焼いて見せたのよ」}`
+`{ruby:"......I'm sure he's hiding somewhere,:「……きっとどこかに隠れて、私たち}{ruby:watching to see how we'll behave.:がどう振舞うかを監視してるわ。}`
+`{ruby:...I'm sure he already knows that:…姉さんが黄金郷に至ったこともき}{ruby:you have reached the Golden Land, Nee‐san.":っと、すでに知るところよ」}`
+`{ruby:"......And that's why you should proclaim:「……だからこそ、早く姉さんが}{ruby:soon that you are the winner.:勝利者であると宣言すべき。}`
+`{ruby:I'm sure Father will appear out of nowhere and:きっとお父様がどこからともなく現れて、手を叩きな}{ruby:proclaim that you are his successor while clapping his hands.":がら姉さんこそが跡継ぎだと宣言してくれるわ」}`
 `{ruby:"........................":「……………………」}`
 `{ruby:"...Well, still.:「…まぁ、でも。}`
-`{ruby:......I have to pester you for 150 million,:……私は姉さんから１億５千万を無心しなくてはならない以上、}`
-`{ruby:so I can't work against you in anything.":何も逆らうことなんかできないわね」}`
-`{ruby:".........So you'll listen to what I say, and be quiet about this to Nii‐san and the rest...?":「………私の言うことを聞いて、兄さんたちには黙っている、ということね…？」}`
-`{ruby:"....................................":「………………………………」}`
+`{ruby:......I have to pester:……私は姉さんから１億５千万を無}{ruby:you for 150 million,:心しなくてはならない以上、}`
+`{ruby:so I can't work:何も逆らうことなんか}{ruby:against you in anything.":できないわね」}`
+`{ruby:".........So you'll listen to what I say, and:「………私の言うことを聞いて、兄さんたち}{ruby:be quiet about this to Nii‐san and the rest...?":には黙っている、ということね…？」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
 `{ruby:"......Make your position clear.:「……そこをはっきりさせなさい。}`
 `{ruby:...Rosa.":…楼座」}`
 `{ruby:"...............I want to tell them.:「……………私は話したいわ。}`
 `{ruby:We just made that rule last night.:ルールを定めたのはつい昨夜よ。}`
 `{ruby:We shouldn't just throw that away.":それを反故にすべきではないわ」}`
-`{ruby:"Of course, I will announce it in front of the siblings.:「もちろん、必ず兄弟の前で発表はするわ。}`
-`{ruby:...However, I want to make very sure of the situation first.:…でも、その前によく状況を確認したいのよ。}`
-`{ruby:Carrying out ten tons of gold, converting it into money,:１０ｔの黄金の運び出し、そして換金。}`
+`{ruby:"Of course, I will announce:「もちろん、必ず兄弟の}{ruby:it in front of the siblings.:前で発表はするわ。}`
+`{ruby:...However, I want to make:…でも、その前によく状況}{ruby:very sure of the situation first.:を確認したいのよ。}`
+`{ruby:Carrying out ten tons of:１０ｔの黄金の運び出}{ruby:gold, converting it into money,:し、そして換金。}`
 `{ruby:and distributing it fairly.":公平な分配」}`
-`{ruby:"......Until I can affirm my ability to carry those out without Nii‐san getting in the way, I want some time to think.:「……それを兄さんに出し抜かれずに行なえる裏付けが取れるまで、しばらく考える時間が欲しい。}`
-`{ruby:I only want to hold off my announcement until then.:それまで発表を待ちたいというだけの話よ。}`
-`{ruby:.........I'm definitely not keeping it secret because I want it all for myself.":………決して、独り占めしたくて内緒にするわけじゃないわ」}`
+`{ruby:"......Until I can affirm my ability to carry those out without:「……それを兄さんに出し抜かれずに行なえる裏付け}{ruby:Nii‐san getting in the way, I want some time to think.:が取れるまで、しばらく考える時間が欲しい。}`
+`{ruby:I only want to hold:それまで発表を待ちたい}{ruby:off my announcement until then.:というだけの話よ。}`
+`{ruby:.........I'm definitely not keeping it secret:………決して、独り占めしたくて}{ruby:because I want it all for myself.":内緒にするわけじゃないわ」}`
 `{ruby:"..................:「………………。}`
-`{ruby:...You'll definitely announce it to everyone sooner or later, right?":…やがてはきっとみんなに発表するのね？」}`
+`{ruby:...You'll definitely announce it to:…やがてはきっとみんな}{ruby:everyone sooner or later, right?":に発表するのね？」}`
 `{ruby:"...Yes, of course.:「…えぇ、もちろんよ。}`
-`{ruby:Even I want to rub it in Nii‐san's face as soon as I can.":私だって、早く兄さんの鼻を明かしてやりたいもの」}`
-`{ruby:".........About how much time will you need to "think"?":「………姉さんの言う、考える時間というのはどの程度のものなの？」}`
-`{ruby:"I won't know that until I've thought about it.":「そんなの、考えてみなくちゃわからないわ」}`
-`{ruby:"............Would one night be enough?":「…………一晩あれば、それは充分？」}`
-`{ruby:"I can't promise you that it will take only one night...!":「一晩って、そんなの約束できないわよ…！」}`
-`{ruby:"Out of respect for you as the successor to the head, I will support you for one night.:「次期当主の姉さんに敬意を表して、一晩は姉さんに協力するわ。}`
-`{ruby:......This year's family conference will end tomorrow morning, when the typhoon passes and a boat comes to get us.:……今年の親族会議は、台風が通り過ぎて船が迎えに来る明日の朝まで。}`
-`{ruby:...That's right, when the seagulls cry.:…そうね、うみねこのなく頃には、お開きになる。}`
-`{ruby:......I will remain silent until then.":……そこまでは私も黙ってることにする」}`
-`{ruby:"If you think that you need more time to think after that, ...let's talk about it again at that time, alright?:「それ以上の考える時間が必要だというのなら、…その時に改めて相談しましょう？}`
-`{ruby:.........I will support your position...:………私は姉さんの立場を、}`
+`{ruby:Even I want to rub it in:私だって、早く兄さんの鼻を}{ruby:Nii‐san's face as soon as I can.":明かしてやりたいもの」}`
+`{ruby:".........About how much time:「………姉さんの言う、考える時間と}{ruby:will you need to "think"?":いうのはどの程度のものなの？」}`
+`{ruby:"I won't know that:「そんなの、考えてみなく}{ruby:until I've thought about it.":ちゃわからないわ」}`
+`{ruby:"............Would one:「…………一晩あれば}{ruby:night be enough?":、それは充分？」}`
+`{ruby:"I can't promise you that:「一晩って、そんなの約束}{ruby:it will take only one night...!":できないわよ…！」}`
+`{ruby:"Out of respect for you as the successor to:「次期当主の姉さんに敬意を表して}{ruby:the head, I will support you for one night.:、一晩は姉さんに協力するわ。}`
+`{ruby:......This year's family conference will end tomorrow morning, when:……今年の親族会議は、台風が通り過ぎ}{ruby:the typhoon passes and a boat comes to get us.:て船が迎えに来る明日の朝まで。}`
+`{ruby:...That's right, when:…そうね、うみねこのなく頃}{ruby:the seagulls cry.:には、お開きになる。}`
+`{ruby:......I will remain:……そこまでは私も黙っ}{ruby:silent until then.":てることにする」}`
+`{ruby:"If you think that you need more time to think:「それ以上の考える時間が必要だというのな}{ruby:after that, ...let's talk about it again at that time, alright?:ら、…その時に改めて相談しましょう？}`
+`{ruby:.........I will:………私は姉さん}{ruby:support your position...:の立場を、}`
 `{ruby:{i:as much as possible}.":{i:最大限汲み取って}協力するわ」}`
-`{ruby:"......You......really are cunning, aren't you?:「……あんた、……食えないわね。}`
+`{ruby:"......You......really are:「……あんた、……}{ruby:cunning, aren't you?:食えないわね。}`
 `{ruby:...I'm surprised.:…びっくりよ。}`
 `{ruby:Were you always this strong‐willed?":それだけの逞しさがあったなんて」}`
-`{ruby:"......It's true that women become stronger when they have a child.:「……女は子を持つと強くなるって本当ね。}`
-`{ruby:I realized that in myself when I had Maria.":真里亞を産んで、私はそれを強く自覚したわ」}`
+`{ruby:"......It's true that women become:「……女は子を持つと強}{ruby:stronger when they have a child.:くなるって本当ね。}`
+`{ruby:I realized that in:真里亞を産んで、私はそれ}{ruby:myself when I had Maria.":を強く自覚したわ」}`
 `{ruby:"...............:「……………。}`
 `{ruby:Alright.:わかったわ。}`
-`{ruby:I thank you for your cooperation for the time being.:とりあえずはあんたの協力に感謝するわ。}`
-`{ruby:...We can talk about tomorrow when it comes.":…明日の話は明日すればいいことよ」}`
+`{ruby:I thank you for your:とりあえずはあんたの協}{ruby:cooperation for the time being.:力に感謝するわ。}`
+`{ruby:...We can talk about:…明日の話は明日すれ}{ruby:tomorrow when it comes.":ばいいことよ」}`
 `{ruby:"Yes, that's right.:「えぇ、そうね。}`
-`{ruby:......I believe that you will be a fair‐minded successor to the head, who wouldn't even think of taking all of the gold for herself.":……姉さんが黄金を独り占めにするなんて考えない、公平な当主跡継ぎだと信じてるわ」}`
+`{ruby:......I believe that you will be a fair‐minded successor to the head,:……姉さんが黄金を独り占めにするなんて考え}{ruby:who wouldn't even think of taking all of the gold for herself.":ない、公平な当主跡継ぎだと信じてるわ」}`
 `{ruby:"...Isn't that obvious!:「…もちろんでしょ！}`
-`{ruby:......I will split the gold evenly among the siblings as we agreed.":……ちゃんと黄金は兄弟で山分けするわよ」}`
+`{ruby:......I will split the gold evenly:……ちゃんと黄金は兄弟で}{ruby:among the siblings as we agreed.":山分けするわよ」}`
 `{ruby:No way. {i:I} found this.:嫌よ。これは私が見つけた。}`
-`{ruby:Because I, because we solved the riddle of the epitaph!:私が、私たちが碑文の謎を解いたんだから！}`
+`{ruby:Because I, because we solved:私が、私たちが碑文の謎}{ruby:the riddle of the epitaph!:を解いたんだから！}`
 `{ruby:So this gold is all mine...!!:だからこの黄金は全て私のモノだってば…！！}`
 `{ruby:"I won't give it up to anyone!:「誰にも譲らないわ！}`
-`{ruby:I am the head of the Ushiromiya family!:私が右代宮家の当主なのよ！}`
+`{ruby:I am the head:私が右代宮家の当}{ruby:of the Ushiromiya family!:主なのよ！}`
 `{ruby:I am, {i:I} am!!":私が、“私”がッ！！」}`
-`{ruby:In a loud voice, the witch inside Eva claimed exclusive possession of everything.:絵羽の中の魔女が、声高らかに全ての占有を宣言する。}`
-`{ruby:{n}...Of course, that didn't come close to reaching Rosa's ears, and it probably didn't even reach Eva's, either.:{n}…もちろんそれは楼座の耳には遥かに届かないし、絵羽の耳にすら届かないだろう。}`
+`{ruby:In a loud voice, the witch:絵羽の中の魔女が、声高らかに}{ruby:inside Eva claimed exclusive possession of everything.:全ての占有を宣言する。}`
+`{ruby:{n}...Of course, that didn't come close to reaching Rosa's:{n}…もちろんそれは楼座の耳には遥かに届か}{ruby:ears, and it probably didn't even reach Eva's, either.:ないし、絵羽の耳にすら届かないだろう。}`
 `{ruby:"......Mm.:「……うむ。}`
 `{ruby:I shall acknowledge that.:妾がそれを認めようぞ。}`
-`{ruby:You are the true head of the Ushiromiya family, chosen by the witch's epitaph.:そなたこそ、魔女の碑文に選ばれし、正当なる右代宮家の当主よ。}`
-`{ruby:Now, I shall acknowledge that upon my name.":今こそそれを、我が名において認めようぞ」}`
+`{ruby:You are the true head of the:そなたこそ、魔女の碑文に選ばれし}{ruby:Ushiromiya family, chosen by the witch's epitaph.:、正当なる右代宮家の当主よ。}`
+`{ruby:Now, I shall acknowledge:今こそそれを、我が名に}{ruby:that upon my name.":おいて認めようぞ」}`
 `{ruby:"...Y‐:「…あ、}`
 `{ruby:.........you are.........:………あんたは………？}`
 `{ruby:That outfit...:その格好、}`
 `{ruby:you couldn't be...:まさか、}`
 `{ruby:......really...:……本当に、}`
 `{ruby:{f:5:Beatrice}......?":…ベアトリーチェ……？」}`
-`{ruby:Maybe {f:5:Beatrice} was happy that Eva had called her by her own name.:ベアトリーチェは、絵羽が自分の名を呼んでくれたことが嬉しかったのかもしれない。}`
+`{ruby:Maybe {f:5:Beatrice} was happy that Eva:ベアトリーチェは、絵羽が自分の名を呼んでく}{ruby:had called her by her own name.:れたことが嬉しかったのかもしれない。}`
 `{ruby:She cackled pleasantly.:小気味良くからからと笑う。}`
-`{ruby:In concert with that laugh, gold butterflies rose up as though a storm of gold dust had broken out in the room,:その笑いに呼応して、室内に金粉の嵐が巻き起こるように、黄金の蝶たちが湧き上がり、}`
-`{ruby:and the room shone the color of gold...:室内を黄金色で照らし出した…。}`
+`{ruby:In concert with that laugh, gold butterflies rose up as though:その笑いに呼応して、室内に金粉の嵐が巻き起}{ruby:a storm of gold dust had broken out in the room,:こるように、黄金の蝶たちが湧き上がり、}`
+`{ruby:and the room shone:室内を黄金色で照ら}{ruby:the color of gold...:し出した…。}`
 `{ruby:"Indeed.:「如何にも。}`
-`{ruby:I am the Golden Witch, {f:5:Beatrice}.":妾が黄金の魔女、ベアトリーチェである」}`
-`{ruby:"......*cackle*cackle*, there is nothing that should frighten you so.:「……くっくっくく、そう怯えることはないぞ。}`
+`{ruby:I am the:妾が黄金の魔女、ベアト}{ruby:Golden Witch, {f:5:Beatrice}.":リーチェである」}`
+`{ruby:"......*cackle*cackle*, there is nothing:「……くっくっくく、そう}{ruby:that should frighten you so.:怯えることはないぞ。}`
 `{ruby:I am praising your exploits.:妾はそなたの偉業を讃えておる。}`
 `{ruby:...Truly excellent.:…本当に素晴らしい。}`
-`{ruby:Imagine that you would spectacularly solve that riddle of the epitaph...:あの碑文の謎を、見事解いて見せたとは…。}`
+`{ruby:Imagine that you would spectacularly:あの碑文の謎を、見事解}{ruby:solve that riddle of the epitaph...:いて見せたとは…。}`
 `{ruby:It is worthy of my admiration...!":妾を感嘆させるに値する…！」}`
-`{ruby:"...You were the one who sent that letter?:「…あの手紙の差出人はあなた？}`
-`{ruby:So I'll succeed all of the gold and the Ushiromiya family inheritance, right...?:なら私は全ての黄金と右代宮家の家督を引き継げるのよね…？}`
+`{ruby:"...You were the one:「…あの手紙の差出}{ruby:who sent that letter?:人はあなた？}`
+`{ruby:So I'll succeed all of the:なら私は全ての黄金と右代宮家の家}{ruby:gold and the Ushiromiya family inheritance, right...?:督を引き継げるのよね…？}`
 `{ruby:You wrote that in your letter.:あなたはそう、あの手紙に記したわ。}`
 `{ruby:And I overcame that challenge...!":そして私はその挑戦に打ち勝った…！」}`
 `{ruby:"Mm.:「うむ。}`
 `{ruby:I shall acknowledge it.:妾はそれを認めようぞ。}`
-`{ruby:Now, all of this piled‐up gold, and everything of the Ushiromiya family, is for you to do with as you please.:今やこの積み上げられた黄金の全て、右代宮家の全てをどうしようもそなたの自由ぞ。}`
-`{ruby:For as of this moment, you are already the Ushiromiya family head.":何しろ、今この瞬間より、そなたはもう右代宮家の当主なのだから」}`
+`{ruby:Now, all of this piled‐up gold, and everything of the:今やこの積み上げられた黄金の全て、右代宮家}{ruby:Ushiromiya family, is for you to do with as you please.:の全てをどうしようもそなたの自由ぞ。}`
+`{ruby:For as of this moment, you:何しろ、今この瞬間より、そなたはも}{ruby:are already the Ushiromiya family head.":う右代宮家の当主なのだから」}`
 `{ruby:"R‐......really?:「ほ、……本当に？}`
 `{ruby:It's true, right?:本当よね？}`
 `{ruby:Right?!":本当よね？！」}`
 `{ruby:"Do not become agitated.:「興奮するでない。}`
 `{ruby:I am openly praising you.:妾はそなたを率直に褒めておる。}`
 `{ruby:As proof, I shall grant you this.":その証に、そなたにこれを授けよう」}`
-`{ruby:{f:5:Beatrice} took a ring off of her own finger,:ベアトリーチェは自らの指にはめていた指輪を抜き取ると、}`
+`{ruby:{f:5:Beatrice} took a ring:ベアトリーチェは自らの指にはめ}{ruby:off of her own finger,:ていた指輪を抜き取ると、}`
 `{ruby:and held it out to Eva.:それを絵羽に突き出す。}`
 `{ruby:She fearfully accepted it,:恐る恐るそれを受け取ると、}`
-`{ruby:......and realized that it was a ring.:……それが指輪であることがわかった。}`
+`{ruby:......and realized that:……それが指輪である}{ruby:it was a ring.:ことがわかった。}`
 `{ruby:"......C‐:「……こ、}`
 `{ruby:......could.........:……これ………、}`
 `{ruby:this be............":まさか…………」}`
 `{ruby:"Mmhm.:「うむ。}`
-`{ruby:It is the proof of the Ushiromiya family headship, returned to me from Kinzo: the Golden Ring.":金蔵より返還された、右代宮家当主の証である黄金の指輪だ」}`
+`{ruby:It is the proof of the Ushiromiya family:金蔵より返還された、右代宮家当}{ruby:headship, returned to me from Kinzo: the Golden Ring.":主の証である黄金の指輪だ」}`
 `{ruby:"From now on, it is yours.:「今よりそれはそなたのもの。}`
-`{ruby:You may put it on your finger and display it high before your siblings.:それを指にはめ、兄弟たちの前で高々と掲げるが良い。}`
-`{ruby:None should doubt that you have now succeeded the Ushiromiya family inheritance.":そなたが今や右代宮家の家督を継いだことに、誰も疑いを挟めぬであろうぞ」}`
+`{ruby:You may put it on your finger:それを指にはめ、兄弟たちの前}{ruby:and display it high before your siblings.:で高々と掲げるが良い。}`
+`{ruby:None should doubt that you have:そなたが今や右代宮家の家督を継いだこと}{ruby:now succeeded the Ushiromiya family inheritance.":に、誰も疑いを挟めぬであろうぞ」}`
 `{ruby:Eva stared closely at the ring.:絵羽はその指輪をしげしげと見つめる。}`
 `{ruby:...It certainly wasn't a fake.:…断じて贋作などではない。}`
-`{ruby:...Without a doubt, it was the real thing.:…紛れもなく本物。}`
-`{ruby:She, who had dreamed of receiving this ring someday,:その指輪をいつの日にか受け継ぐことを夢見て、}`
-`{ruby:and who had stared fixedly at it countless times, could say that for certain.:何度も何度も凝視してきた自分だからこそ、間違いなく断定できた。}`
+`{ruby:...Without a doubt, it:…紛れもなく}{ruby:was the real thing.:本物。}`
+`{ruby:She, who had dreamed:その指輪をいつの日にか受}{ruby:of receiving this ring someday,:け継ぐことを夢見て、}`
+`{ruby:and who had stared fixedly at it:何度も何度も凝視してきた自分だから}{ruby:countless times, could say that for certain.:こそ、間違いなく断定できた。}`
 `{ruby:This ring...:その指輪が、}`
-`{ruby:had now designated her as its new owner,:今や新しい主として自分を指名し、}`
-`{ruby:......and had been handed over to her......:……手渡されている……。}`
+`{ruby:had now designated her:今や新しい主として}{ruby:as its new owner,:自分を指名し、}`
+`{ruby:......and had been:……手渡されて}{ruby:handed over to her......:いる……。}`
 `{ruby:And...:それを、}`
 `{ruby:timidly...:恐る恐る、}`
-`{ruby:she put it on the middle finger of her left hand...:…自分の左手の中指に通す…。}`
-`{ruby:In that instant, ......she felt a deep emotion welling up inside her that she had never felt before.:その瞬間、……背中を、それまでに体験したことのない感動が込み上げるのを感じた。}`
+`{ruby:she put it on the:…自分の左手の中}{ruby:middle finger of her left hand...:指に通す…。}`
+`{ruby:In that instant, ......she felt a deep emotion welling:その瞬間、……背中を、それまでに体験したこ}{ruby:up inside her that she had never felt before.:とのない感動が込み上げるのを感じた。}`
 `{ruby:Her mind grew blank.:頭が真っ白になる。}`
 `{ruby:Both eyes opened wide.:両目が見開かれる。}`
 `{ruby:{n}That ring...was on her own finger.:{n}自分の指に、…あの指輪がはめられている。}`
-`{ruby:{n}Not in a dream, in reality............!:{n}夢ではなく、現実として…………！}`
+`{ruby:{n}Not in a:{n}夢ではなく、現実}{ruby:dream, in reality............!:として…………！}`
 `{ruby:"That ring is surely also pleased.:「その指輪も喜んでおろう。}`
-`{ruby:Because it was able to come to you, who had dreamed of putting it on your finger for so long.":それほどまでに、指に通すことを夢見ていたそなたの元へ行くことができたのだから」}`
+`{ruby:Because it was able to come to you, who had:それほどまでに、指に通すことを夢見ていたそ}{ruby:dreamed of putting it on your finger for so long.":なたの元へ行くことができたのだから」}`
 `{ruby:"......The ring...:「……指輪…。}`
 `{ruby:......Father's:……お父様の}`
 `{ruby:......ring...............!":……指輪……………！」}`
-`{ruby:"How many nights have you dreamed of putting that on your own finger as you have now done?:「そなたはそれを、そのようにして自らの指に通すことを、どれほどの夜に夢見てきたのか。}`
-`{ruby:......The strength of those feelings became your magic and made that reality.:……その想いの強さがそなたの魔法に通じ、それを実現させたのだ。}`
-`{ruby:Now, you are worthy of calling yourself a true witch.":そなたは今や、立派な魔女を名乗る資格があろうぞ」}`
+`{ruby:"How many nights have you dreamed of putting that:「そなたはそれを、そのようにして自らの指に通}{ruby:on your own finger as you have now done?:すことを、どれほどの夜に夢見てきたのか。}`
+`{ruby:......The strength of those feelings became:……その想いの強さがそなたの魔法に}{ruby:your magic and made that reality.:通じ、それを実現させたのだ。}`
+`{ruby:Now, you are worthy of:そなたは今や、立派な魔女を}{ruby:calling yourself a true witch.":名乗る資格があろうぞ」}`
 `{ruby:"............Wh‐...who are you?:「…………あ、…あなたは何者なの。}`
-`{ruby:...Are you really......{f:5:Beatrice}......":…本当に、……ベアトリーチェなの……」}`
+`{ruby:...Are:…本当に、……ベアトリ}{ruby:you really......{f:5:Beatrice}......":ーチェなの……」}`
 `{ruby:"*cackle*cackle*.:「くっくっくっく。}`
-`{ruby:I am the Golden Witch {f:5:Beatrice}!:我こそは黄金の魔女ベアトリーチェ！}`
+`{ruby:I am the:我こそは黄金の魔女ベ}{ruby:Golden Witch {f:5:Beatrice}!:アトリーチェ！}`
 `{ruby:The Ushiromiya family alchemist!":右代宮家顧問錬金術師！」}`
-`{ruby:"Following my contract with Kinzo, I now pass everything on to you.:「金蔵との契約に従い、そなたに今こそ全てを受け継ごうぞ。}`
-`{ruby:...All of the gold I entrusted Kinzo with.:…金蔵に託した全ての黄金。}`
-`{ruby:And all of the wealth he built up through that.:そしてそれにより築き上げた全ての財産。}`
-`{ruby:And the honor and inheritance of the Ushiromiya family.:そして右代宮家の家督と名誉。}`
-`{ruby:And I will pass on my power, and the title of the Endless Witch.":そして、我が力と無限の魔女の称号をそなたに引き継ごう」}`
+`{ruby:"Following my contract with Kinzo, I:「金蔵との契約に従い、そなたに}{ruby:now pass everything on to you.:今こそ全てを受け継ごうぞ。}`
+`{ruby:...All of the gold:…金蔵に託した全}{ruby:I entrusted Kinzo with.:ての黄金。}`
+`{ruby:And all of the wealth:そしてそれにより築き上}{ruby:he built up through that.:げた全ての財産。}`
+`{ruby:And the honor and:そして右代宮家の}{ruby:inheritance of the Ushiromiya family.:家督と名誉。}`
+`{ruby:And I will pass on my power,:そして、我が力と無限の魔女の称}{ruby:and the title of the Endless Witch.":号をそなたに引き継ごう」}`
 `{ruby:"......A witch's...:「……魔女の、}`
 `{ruby:...title......":……称号……」}`
-`{ruby:"I will pass on all of my magical power, and the titles of the Golden Witch and the Endless Witch.:「妾の全ての魔力と、無限の魔女にして黄金の魔女の称号をそなたに引き継ぐ。}`
-`{ruby:......Following my Predecessor, I will hand over my name, {f:5:Beatrice}, along with those titles.:……先代に従い、称号と共に妾の名、ベアトリーチェもそなたに譲り渡す。}`
-`{ruby:......You may now call yourself by that name!":……今こそそなたが名乗るが良かろう！」}`
+`{ruby:"I will pass on all of my magical power, and:「妾の全ての魔力と、無限の魔女にして黄}{ruby:the titles of the Golden Witch and the Endless Witch.:金の魔女の称号をそなたに引き継ぐ。}`
+`{ruby:......Following my Predecessor, I will hand over:……先代に従い、称号と共に妾の名、ベ}{ruby:my name, {f:5:Beatrice}, along with those titles.:アトリーチェもそなたに譲り渡す。}`
+`{ruby:......You may now call:……今こそそなたが名乗}{ruby:yourself by that name!":るが良かろう！」}`
 `{ruby:Eva gulped.:絵羽はごくりと喉を鳴らす。}`
-`{ruby:The chandelier light, which had seemed dim, now felt too bright.:薄暗いと思っていたシャンデリアの灯りが、今はむしろ眩しすぎるくらい。}`
-`{ruby:"By my name, I shall now carry out the succession of the Golden Witch...!":「我が名において、これより黄金の魔女の継承を執り行おうぞ…！」}`
-`{ruby:The instant that {f:5:Beatrice} made that proclamation, a golden brilliance buried everything,:ベアトリーチェがそう宣言した瞬間、黄金の輝きは全てを埋め尽くし、}`
-`{ruby:......and changed it into a majestic space that looked like a throne room.:……謁見の間を思わせる荘厳な空間に様変わりさせていた。}`
-`{ruby:In the throne room, there was a crowd of {f:5:Beatrice}'s minions and brethren, as well as countless gold butterflies,:謁見の間には、千年ぶりの継承式を祝福しようと、無数の黄金蝶たちと、}`
-`{ruby:celebrating this first succession ceremony in a thousand years.:ベアトリーチェの眷属たち、同胞たちが人垣を成していた。}`
-`{ruby:And there was {f:5:Beatrice}, in the throne that only the Endless Witch was permitted to sit in, holding a golden staff,:見ればベアトリーチェは無限の魔女のみが座すことを許される玉座にて、黄金の杖を持ち、}`
+`{ruby:The chandelier light, which had:薄暗いと思っていたシャンデリアの灯り}{ruby:seemed dim, now felt too bright.:が、今はむしろ眩しすぎるくらい。}`
+`{ruby:"By my name, I shall now carry:「我が名において、これより黄金の魔}{ruby:out the succession of the Golden Witch...!":女の継承を執り行おうぞ…！」}`
+`{ruby:The instant that {f:5:Beatrice} made that:ベアトリーチェがそう宣言した瞬間、}{ruby:proclamation, a golden brilliance buried everything,:黄金の輝きは全てを埋め尽くし、}`
+`{ruby:......and changed it into a majestic:……謁見の間を思わせる荘厳な空}{ruby:space that looked like a throne room.:間に様変わりさせていた。}`
+`{ruby:In the throne room, there was a crowd of:謁見の間には、千年ぶりの継承式を祝福}{ruby:{f:5:Beatrice}'s minions and brethren, as well as countless gold butterflies,:しようと、無数の黄金蝶たちと、}`
+`{ruby:celebrating this first succession:ベアトリーチェの眷属たち、同胞}{ruby:ceremony in a thousand years.:たちが人垣を成していた。}`
+`{ruby:And there was {f:5:Beatrice}, in the throne that only the:見ればベアトリーチェは無限の魔女のみが座すこ}{ruby:Endless Witch was permitted to sit in, holding a golden staff,:とを許される玉座にて、黄金の杖を持ち、}`
 `{ruby:reigning with a dazzling dignity.:眩しささえ感じさせる貫禄で君臨していた。}`
-`{ruby:Without being ordered by anyone, Eva automatically kneeled, hanging her head...:絵羽は誰に命じられるわけでもなく、自然に跪き、頭を垂れた…。}`
-`{ruby:A goat attendant respectfully offered {f:5:Beatrice} a golden staff modeled after the One‐winged Eagle.:山羊の従者がうやうやしく、片翼の鷲を模った黄金の杖をベアトリーチェに差し出す。}`
-`{ruby:After {f:5:Beatrice} stood up and received that staff,:ベアトリーチェは立ち上がってその杖を受け取ると、}`
-`{ruby:she lay the tip of it on Eva's shoulder and spoke.:その先端を絵羽の肩に載せるようにして宣言する。}`
-`{ruby:It was a proclamation one thousand years in coming.:それは千年ぶりの宣言。}`
+`{ruby:Without being ordered by anyone,:絵羽は誰に命じられるわけでもなく}{ruby:Eva automatically kneeled, hanging her head...:、自然に跪き、頭を垂れた…。}`
+`{ruby:A goat attendant respectfully offered {f:5:Beatrice} a:山羊の従者がうやうやしく、片翼の鷲を模った}{ruby:golden staff modeled after the One‐winged Eagle.:黄金の杖をベアトリーチェに差し出す。}`
+`{ruby:After {f:5:Beatrice} stood up:ベアトリーチェは立ち上がっ}{ruby:and received that staff,:てその杖を受け取ると、}`
+`{ruby:she lay the tip of:その先端を絵羽の肩に載せる}{ruby:it on Eva's shoulder and spoke.:ようにして宣言する。}`
+`{ruby:It was a proclamation:それは千年ぶり}{ruby:one thousand years in coming.:の宣言。}`
 `{ruby:"Ushiromiya Eva.:「右代宮絵羽。}`
-`{ruby:You have spectacularly solved the riddle of the witch's epitaph, and reached this Golden Land.:そなたは魔女の碑文の謎を見事解き、この黄金郷へ辿り着いた。}`
+`{ruby:You have spectacularly solved the riddle of:そなたは魔女の碑文の謎を見事解き}{ruby:the witch's epitaph, and reached this Golden Land.:、この黄金郷へ辿り着いた。}`
 `{ruby:......I praise that accomplishment,:……その偉業を讃え、}`
-`{ruby:and hand over all of the Endless Magic as well as the titles of the Golden and Endless Witch.":そなたに無限の魔法の全てと、無限と黄金の両魔女の称号を引き継ぐ」}`
+`{ruby:and hand over all of the Endless Magic as:そなたに無限の魔法の全てと、無限と}{ruby:well as the titles of the Golden and Endless Witch.":黄金の両魔女の称号を引き継ぐ」}`
 `{ruby:"From this point on,:「そなたはこれより、我が名、}`
-`{ruby:you may take my name, {f:5:Beatrice}...!:ベアトリーチェを名乗るが良かろう…！}`
+`{ruby:you may take:ベアトリーチェを名乗}{ruby:my name, {f:5:Beatrice}...!:るが良かろう…！}`
 `{ruby:Come, raise your face.:さぁ、面を上げよ。}`
-`{ruby:Then stand and accept this staff...!":そして立ちてこの杖を受け取れ…！」}`
+`{ruby:Then stand and:そして立ちてこの杖を}{ruby:accept this staff...!":受け取れ…！」}`
 `{ruby:"I, ......I am most grateful...":「あ、……有り難き幸せ…」}`
-`{ruby:Eva stood up dizzily and took the magic staff from {f:5:Beatrice}'s hand.:絵羽は立ち眩みのようにふらふらと立ち上がり、ベアトリーチェの手より黄金の杖を受け取る。}`
+`{ruby:Eva stood up dizzily and took:絵羽は立ち眩みのようにふらふらと立ち上がり、ベ}{ruby:the magic staff from {f:5:Beatrice}'s hand.:アトリーチェの手より黄金の杖を受け取る。}`
 `{ruby:Her hand was trembling slightly.:その手はかすかに震えていた。}`
 `{ruby:As soon as she grasped that staff...:その杖を握った途端。}`
-`{ruby:{n}......she was wrapped up in the brilliant sparkle of gold.:{n}……彼女は眩き黄金の輝きに包まれた。}`
-`{ruby:{n}As though gold butterflies were flowing out from inside of her.:{n}自らの内より黄金の蝶が湧き出すかのよう。}`
-`{ruby:In the instant she succeeded the Golden Witch, Eva felt something in the depths of her soul be reborn.:黄金の魔女を継承した瞬間に、絵羽は自らの魂の奥底から何かが生まれ変わるのを感じた。}`
-`{ruby:To describe it in a word, it was energy.:それは一言で例えるならば、エネルギー。}`
+`{ruby:{n}......she was wrapped up in:{n}……彼女は眩き黄金}{ruby:the brilliant sparkle of gold.:の輝きに包まれた。}`
+`{ruby:{n}As though gold butterflies were:{n}自らの内より黄金の蝶}{ruby:flowing out from inside of her.:が湧き出すかのよう。}`
+`{ruby:In the instant she succeeded the Golden Witch, Eva:黄金の魔女を継承した瞬間に、絵羽は自らの魂の}{ruby:felt something in the depths of her soul be reborn.:奥底から何かが生まれ変わるのを感じた。}`
+`{ruby:To describe it in:それは一言で例えるなら}{ruby:a word, it was energy.:ば、エネルギー。}`
 `{ruby:{n}Energy with a gold color.:{n}黄金色をしたエネルギー。}`
-`{ruby:It felt as though she had been half asleep ever since she was born,:まるで、それまでの自分が生まれた時からずっと寝惚けていて、}`
-`{ruby:......and had now awoken for the first time in her life.:……生まれて初めて目を覚ましたかのような覚醒感。}`
-`{ruby:For the first time in her life, she felt her true eyes inside her eyes open.:瞳の奥にある本当の瞳が、生まれて初めて目を覚ますのを感じた。}`
+`{ruby:It felt as though she had been:まるで、それまでの自分が生まれた}{ruby:half asleep ever since she was born,:時からずっと寝惚けていて、}`
+`{ruby:......and had now awoken for:……生まれて初めて目を覚ま}{ruby:the first time in her life.:したかのような覚醒感。}`
+`{ruby:For the first time in her life, she:瞳の奥にある本当の瞳が、生まれて}{ruby:felt her true eyes inside her eyes open.:初めて目を覚ますのを感じた。}`
 `{ruby:".........Mm.:「………うむ。}`
-`{ruby:A fitting and beautiful outfit for the Golden Witch.":黄金の魔女に相応しき美しき装いよ」}`
-`{ruby:"Come, show yourself to all of these people.:「さぁ、一堂の者たちにそなたの姿を見せてやるが良い。}`
-`{ruby:Show them that you are now the new witch...!":そなたこそが今や新しき魔女であることを知らしめてやるが良い…！」}`
-`{ruby:Eva, ......no, the new {f:5:Beatrice} turned around timidly.:絵羽は、……いや、新しきベアトリーチェは恐る恐る振り返る。}`
-`{ruby:When she did, the witch's minions, which filled the vast throne room,:すると、広大な謁見の間を埋めていた魔女の眷属たちが、}`
-`{ruby:honored her with a wild applause that sounded like the roaring of the sea......:まるで潮騒のようにさえ聞こえる、盛大な拍手で讃えた……。}`
+`{ruby:A fitting and beautiful:黄金の魔女に相応しき}{ruby:outfit for the Golden Witch.":美しき装いよ」}`
+`{ruby:"Come, show yourself to:「さぁ、一堂の者たちにそなた}{ruby:all of these people.:の姿を見せてやるが良い。}`
+`{ruby:Show them that you:そなたこそが今や新しき魔女であるこ}{ruby:are now the new witch...!":とを知らしめてやるが良い…！」}`
+`{ruby:Eva, ......no, the new:絵羽は、……いや、新しきベアトリ}{ruby:{f:5:Beatrice} turned around timidly.:ーチェは恐る恐る振り返る。}`
+`{ruby:When she did, the witch's minions,:すると、広大な謁見の間を埋め}{ruby:which filled the vast throne room,:ていた魔女の眷属たちが、}`
+`{ruby:honored her with a wild applause that:まるで潮騒のようにさえ聞こえる}{ruby:sounded like the roaring of the sea......:、盛大な拍手で讃えた……。}`
 `{ruby:"Come, everyone.:「さぁ、皆の者。}`
-`{ruby:Replace all of the portraits of {f:5:Beatrice} with the new {f:5:Beatrice}!:ベアトリーチェの肖像画を、全て新しきベアトリーチェに差し替えよ！}`
-`{ruby:Offer up words of celebration for the new {f:5:Beatrice}...!!":新しきベアトリーチェに祝いの言葉を奉げよ…！！」}`
+`{ruby:Replace all of the portraits:ベアトリーチェの肖像画を、全て新し}{ruby:of {f:5:Beatrice} with the new {f:5:Beatrice}!:きベアトリーチェに差し替えよ！}`
+`{ruby:Offer up words of:新しきベアトリーチェに祝いの}{ruby:celebration for the new {f:5:Beatrice}...!!":言葉を奉げよ…！！」}`
 `{ruby:"New {f:5:Beatrice}.:「新しきベアトリーチェよ。}`
-`{ruby:Congratulations on the succession of the Golden Witch.:黄金の魔女の継承、おめでとう。}`
-`{ruby:...I hope that you will become able to stand on your own as a noble Golden Witch, and as the Endless Witch.":…あなたが一日も早く、誇り高き黄金の魔女として、そして無限の魔女として一人前になることを願っていますよ」}`
-`{ruby:"Y‐.........yes, ...I will do my best...":「は、………はい、…がんばります…」}`
-`{ruby:"I expect a composure fitting for the Endless Witch from you, unlike your naughty predecessor.:「やんちゃな先代と違い、あなたには無限の魔女に相応しい落ち着きを期待していますよ。}`
+`{ruby:Congratulations on the succession:黄金の魔女の継承、}{ruby:of the Golden Witch.:おめでとう。}`
+`{ruby:...I hope that you will become able to stand on your:…あなたが一日も早く、誇り高き黄金の魔女として、そして}{ruby:own as a noble Golden Witch, and as the Endless Witch.":無限の魔女として一人前になることを願っていますよ」}`
+`{ruby:"Y‐.........yes, ...I will:「は、………はい、…}{ruby:do my best...":がんばります…」}`
+`{ruby:"I expect a composure fitting for the:「やんちゃな先代と違い、あなたには無限の魔女}{ruby:Endless Witch from you, unlike your naughty predecessor.:に相応しい落ち着きを期待していますよ。}`
 `{ruby:Hoh‐hohohohoho.":ほっほほほほほ」}`
-`{ruby:"Masteer, we're in the middle of a serious ceremony, so please, enough of thaaat...":「お師匠様ぁ、今は真面目な儀式中なんだから、そういうのはナシで頼むよぉ」}`
-`{ruby:"Congratulations on the succession of the Golden Witch.:「黄金の魔女の継承、おめでとうございます。}`
+`{ruby:"Masteer, we're in the middle of a:「お師匠様ぁ、今は真面目な儀式中なんだ}{ruby:serious ceremony, so please, enough of thaaat...":から、そういうのはナシで頼むよぉ」}`
+`{ruby:"Congratulations on the succession:「黄金の魔女の継承、おめ}{ruby:of the Golden Witch.:でとうございます。}`
 `{ruby:New {f:5:Beatrice}‐sama.":新しきベアトリーチェさま」}`
 `{ruby:"......I am called Ronove.:「……私はロノウェと申します。}`
-`{ruby:I am one of the 72 demons permitted to serve the Golden Witch.:黄金の魔女さまにお仕えを許されている７２柱の悪魔でございます。}`
-`{ruby:From now on, I will always be at your service.:これより、常にお側に控えております。}`
-`{ruby:If you are ever inconvenienced in the slightest, please let me know at once.":何か不自由がございましたら、いつでもお申し付けください」}`
+`{ruby:I am one of the 72:黄金の魔女さまにお仕えを許されてい}{ruby:demons permitted to serve the Golden Witch.:る７２柱の悪魔でございます。}`
+`{ruby:From now on, I will:これより、常にお側に}{ruby:always be at your service.:控えております。}`
+`{ruby:If you are ever inconvenienced in the:何か不自由がございましたら、い}{ruby:slightest, please let me know at once.":つでもお申し付けください」}`
 `{ruby:"......Th‐......thank you......":「……あ、……ありがとう……」}`
 `{ruby:"Ronove is rude but reliable.:「ロノウェは口は悪いが頼れる男だ。}`
-`{ruby:If you speak to this man of anything that confuses you in your new days as a witch, he should be able to help you.":魔女としての新しき日々への戸惑いは、その男に相談すれば晴れるであろうぞ」}`
-`{ruby:".........And, predecessor {f:5:Beatrice}‐sama,:「………そして、先代ベアトリーチェさま。}`
-`{ruby:it is a shame that I was not permitted to serve you further, even though we have finally been reunited like this.":ようやくこうしてお会いできたのに、これ以上のお仕えを許されずとても残念です」}`
-`{ruby:"......These last thousand years have been very entertaining for me.:「……この千年間、とても楽しく過ごさせていただきました。}`
+`{ruby:If you speak to this man of anything that confuses you in:魔女としての新しき日々への戸惑いは、そ}{ruby:your new days as a witch, he should be able to help you.":の男に相談すれば晴れるであろうぞ」}`
+`{ruby:".........And,:「………そして、先代ベ}{ruby:predecessor {f:5:Beatrice}‐sama,:アトリーチェさま。}`
+`{ruby:it is a shame that I was not permitted to serve:ようやくこうしてお会いできたのに、これ以}{ruby:you further, even though we have finally been reunited like this.":上のお仕えを許されずとても残念です」}`
+`{ruby:"......These last thousand years have:「……この千年間、とても楽しく}{ruby:been very entertaining for me.:過ごさせていただきました。}`
 `{ruby:I deeply thank you.":深く感謝いたします」}`
 `{ruby:"Mm.:「うむ。}`
-`{ruby:......One thousand years with you wasn't boring.:……そなたとの千年、退屈はなかったぞ。}`
-`{ruby:...Please, take care of the new witch.":…新しき魔女の世話、どうかよろしく頼むぞ」}`
+`{ruby:......One thousand years:……そなたとの千年、退}{ruby:with you wasn't boring.:屈はなかったぞ。}`
+`{ruby:...Please, take care:…新しき魔女の世話、どう}{ruby:of the new witch.":かよろしく頼むぞ」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:If that is the final order of the predecessor {f:5:Beatrice},:先代ベアトリーチェさまの最後のご命令、}`
+`{ruby:If that is the final:先代ベアトリーチェさま}{ruby:order of the predecessor {f:5:Beatrice},:の最後のご命令、}`
 `{ruby:...I, Ronove,:…このロノウェ、}`
 `{ruby:shall certainly carry on your wish.":しかと聞き届けました」}`
 `{ruby:"Thank me, 'kay?:「感謝しなさいよ？}`
-`{ruby:I signed as your reference for the succession of the witch, you know?:あんたの魔女継承の推薦人にサインしてあげたんだからね？}`
-`{ruby:So basically, if I hadn't signed, you wouldn't have been able to become the witch.:つまり、私がサインしなかったらあんたは魔女になれなかったってわけぇ。}`
+`{ruby:I signed as your reference for:あんたの魔女継承の推薦人にサイ}{ruby:the succession of the witch, you know?:ンしてあげたんだからね？}`
+`{ruby:So basically, if I hadn't signed, you:つまり、私がサインしなかったらあんたは}{ruby:wouldn't have been able to become the witch.:魔女になれなかったってわけぇ。}`
 `{ruby:So thank me a little, alright?!":だから少しは感謝なさいよねぇ？！」}`
-`{ruby:"This is the Witch of Certainty, Lady {f:5:Lambdadelta}.:「こちらは絶対の魔女、ラムダデルタ卿。}`
-`{ruby:The recommendation of a witch from the Senate was required for your succession as an Endless Witch.:そなたの無限の魔女継承には元老院の魔女の推薦が必要なのだ。}`
-`{ruby:Lady {f:5:Lambdadelta} recommended you, and became your guardian.":ラムダデルタ卿はそなたを推薦され、後見人となって下された」}`
+`{ruby:"This is the Witch:「こちらは絶対の魔女、}{ruby:of Certainty, Lady {f:5:Lambdadelta}.:ラムダデルタ卿。}`
+`{ruby:The recommendation of a witch from the Senate:そなたの無限の魔女継承には元老院}{ruby:was required for your succession as an Endless Witch.:の魔女の推薦が必要なのだ。}`
+`{ruby:Lady {f:5:Lambdadelta} recommended you,:ラムダデルタ卿はそなたを推薦され}{ruby:and became your guardian.":、後見人となって下された」}`
 `{ruby:"Th‐......thanks......":「ど、……どうも……」}`
 `{ruby:"......Heyyy, Beatoo!:「……ちょっとー、ベアトー！}`
 `{ruby:This kid isn't grateful enough!:この子、感謝が足りないわー！}`
 `{ruby:I wanna stop recommending her!":やっぱ推薦やめるー！」}`
-`{ruby:"Being a reference is not a thing to take lightly.:「推薦人は子どもの使いじゃないでしょ。}`
-`{ruby:If you've signed, then you must take responsibility.":サインしたなら、きっちり責任取りなさいよ」}`
-`{ruby:"Lady {f:5:Lambdadelta} is also the Witch of Certainty.:「ラムダデルタ卿は、絶対の魔女でもあられる。}`
-`{ruby:......The Witch of Certainty prefers to make fate firm, to create a fate of Certainty.:……絶対の魔女は、運命を強固にする絶対の運命を好まれる。}`
-`{ruby:She took a great liking to your efforts up to today, and held them in the highest regard.":そなたの今日までの努力を、とても気に入り高く評価して下されたのだ」}`
-`{ruby:"Well, an unfortunate childhood, unrewarded effort...I can sympathize juuust a bit with those, that's all.:「まぁ、不遇の少女時代と、報われない努力にね、ちょーっとだけ同情しただけなんだから。}`
-`{ruby:It's not like I felt sorry for you or anything, don't get so full of yourself!:別に可哀想だからとか思ったわけじゃないわよ、自惚れないでよねー！}`
+`{ruby:"Being a reference is not:「推薦人は子どもの使い}{ruby:a thing to take lightly.:じゃないでしょ。}`
+`{ruby:If you've signed, then:サインしたなら、きっちり}{ruby:you must take responsibility.":責任取りなさいよ」}`
+`{ruby:"Lady {f:5:Lambdadelta} is also:「ラムダデルタ卿は、絶対}{ruby:the Witch of Certainty.:の魔女でもあられる。}`
+`{ruby:......The Witch of Certainty prefers to make:……絶対の魔女は、運命を強固に}{ruby:fate firm, to create a fate of Certainty.:する絶対の運命を好まれる。}`
+`{ruby:She took a great liking to your efforts up:そなたの今日までの努力を、とても気に}{ruby:to today, and held them in the highest regard.":入り高く評価して下されたのだ」}`
+`{ruby:"Well, an unfortunate childhood, unrewarded effort...I can:「まぁ、不遇の少女時代と、報われない努力にね}{ruby:sympathize juuust a bit with those, that's all.:、ちょーっとだけ同情しただけなんだから。}`
+`{ruby:It's not like I felt sorry for you:別に可哀想だからとか思ったわけじゃ}{ruby:or anything, don't get so full of yourself!:ないわよ、自惚れないでよねー！}`
 `{ruby:Tsuun!":ツーンだ！」}`
-`{ruby:"......From my point of view, your succession, well, it's more of a coincidence than a miracle.:「……私から見ればあなたの継承は、まぁ、奇跡というよりは偶然ね。}`
-`{ruby:You wouldn't have been worthy of my recommendation.":私が推薦するには値しない」}`
+`{ruby:"......From my point of view, your succession, well,:「……私から見ればあなたの継承は、}{ruby:it's more of a coincidence than a miracle.:まぁ、奇跡というよりは偶然ね。}`
+`{ruby:You wouldn't have been:私が推薦するには}{ruby:worthy of my recommendation.":値しない」}`
 `{ruby:"*cackle*.:「くっくっく。}`
 `{ruby:This is Lady {f:5:Bernkastel}.:こちらはベルンカステル卿。}`
 `{ruby:She is a very hard‐to‐please person.:とても気難しい御仁でな。}`
-`{ruby:Still, you could say that just having her participate and celebrate is very fortunate.":だが、こうして参列し、祝福してくれただけでも僥倖というものよ」}`
-`{ruby:".........I only came because this is a rare event, unseen in a thousand years.:「………千年ぶりの珍しいイベントだから来ただけよ。}`
-`{ruby:And I heard that there would be some delicious alcohol.":おいしいお酒も出るそうだし」}`
+`{ruby:Still, you could say that just having:だが、こうして参列し、祝福してくれ}{ruby:her participate and celebrate is very fortunate.":ただけでも僥倖というものよ」}`
+`{ruby:".........I only came because this is a:「………千年ぶりの珍しいイベ}{ruby:rare event, unseen in a thousand years.:ントだから来ただけよ。}`
+`{ruby:And I heard that there:おいしいお酒も出}{ruby:would be some delicious alcohol.":るそうだし」}`
 `{ruby:"New {f:5:Beatrice}‐sama.:「新しきベアトリーチェさま。}`
-`{ruby:Please, allow us to greet you as well.":ぜひ私たちにもご挨拶させてくださいっ」}`
-`{ruby:"Huh, ...ah, ...I'm pleased to meet you...":「え、…あ、…どうも初めまして…」}`
-`{ruby:The Seven Sisters of Purgatory formed a line side by side.:煉獄の七姉妹たちが揃って並ぶ。}`
-`{ruby:{n}The eldest sister, Lucifer, took a step forward and kneeled.:{n}長女のルシファーが一歩、歩み出て跪く。}`
+`{ruby:Please, allow us to:ぜひ私たちにもご挨拶さ}{ruby:greet you as well.":せてくださいっ」}`
+`{ruby:"Huh, ...ah, ...I'm:「え、…あ、…どうも}{ruby:pleased to meet you...":初めまして…」}`
+`{ruby:The Seven Sisters of Purgatory:煉獄の七姉妹たちが}{ruby:formed a line side by side.:揃って並ぶ。}`
+`{ruby:{n}The eldest sister, Lucifer, took:{n}長女のルシファーが}{ruby:a step forward and kneeled.:一歩、歩み出て跪く。}`
 `{ruby:"These are furniture who serve me.:「こやつらは、妾に仕えし家具たち。}`
-`{ruby:As a gift in celebration of your inheritance, I will send them to you.":継承祝いに、そなたに遣わそう」}`
-`{ruby:"......After you succeed the Golden Witch, you will need to perform the ritual for your own resurrection.:「……そなたには、黄金の魔女を継承した後、自らの復活の儀式を執り行ってもらわねばならぬ。}`
-`{ruby:The Seven Sisters of Purgatory perform an essential role in that ritual.:その儀式において、煉獄の七姉妹たちは欠かせぬ役割を果たす。}`
-`{ruby:......They're a bunch of miscreants, but they serve their purpose.:……曲者揃いだが役には立つぞ。}`
+`{ruby:As a gift in celebration of your:継承祝いに、そなた}{ruby:inheritance, I will send them to you.":に遣わそう」}`
+`{ruby:"......After you succeed the Golden Witch, you will:「……そなたには、黄金の魔女を継承した後、自ら}{ruby:need to perform the ritual for your own resurrection.:の復活の儀式を執り行ってもらわねばならぬ。}`
+`{ruby:The Seven Sisters of Purgatory perform:その儀式において、煉獄の七姉妹た}{ruby:an essential role in that ritual.:ちは欠かせぬ役割を果たす。}`
+`{ruby:......They're a bunch of miscreants,:……曲者揃いだが役}{ruby:but they serve their purpose.:には立つぞ。}`
 `{ruby:Have them do whatever you wish.":手足とするが良い」}`
-`{ruby:"We will always be by your side, {f:5:Beatrice}‐sama.:「常にベアトリーチェさまのお側にっ。}`
-`{ruby:Please order us to do anything you wish.:何事もお命じください。}`
-`{ruby:We will certainly show that we can accomplish our task...!":必ずや遂行してご覧に入れます…！」}`
-`{ruby:Even after that, various nobles and minions visited and offered words of congratulation for the new witch.:その後も、様々な貴人や眷属たちが訪れては新しき魔女に祝いの言葉を述べた。}`
+`{ruby:"We will always be:「常にベアトリーチェ}{ruby:by your side, {f:5:Beatrice}‐sama.:さまのお側にっ。}`
+`{ruby:Please order us to:何事もお命じく}{ruby:do anything you wish.:ださい。}`
+`{ruby:We will certainly show that:必ずや遂行してご覧に}{ruby:we can accomplish our task...!":入れます…！」}`
+`{ruby:Even after that, various nobles and minions visited:その後も、様々な貴人や眷属たちが訪れて}{ruby:and offered words of congratulation for the new witch.:は新しき魔女に祝いの言葉を述べた。}`
 `{ruby:As she responded to them confusedly,:それらに、しどろもどろになりながらも返事を返す彼女は、}`
-`{ruby:she felt as though she was getting light‐headed due to lack of oxygen.:頭の中が酸欠で希薄になってしまったような気持ちだった。}`
-`{ruby:......She couldn't tell if this was something real or unreal.:……これが現実のものか、非現実のものなのか、区別もつかない。}`
-`{ruby:But there was just one thing she could understand.:でもひとつだけわかることがある。}`
-`{ruby:The feeling of achievement at being permitted to call herself the Golden Witch.:今や自分が、黄金の魔女を名乗ることが許されたという達成感。}`
-`{ruby:...That alone was a truth she could definitely understand...:…これだけは絶対に理解できる真実だった…。}`
+`{ruby:she felt as though she was:頭の中が酸欠で希薄になってしま}{ruby:getting light‐headed due to lack of oxygen.:ったような気持ちだった。}`
+`{ruby:......She couldn't tell if this:……これが現実のものか、非現実の}{ruby:was something real or unreal.:ものなのか、区別もつかない。}`
+`{ruby:But there was just:でもひとつだけわか}{ruby:one thing she could understand.:ることがある。}`
+`{ruby:The feeling of achievement at being:今や自分が、黄金の魔女を名乗るこ}{ruby:permitted to call herself the Golden Witch.:とが許されたという達成感。}`
+`{ruby:...That alone was a:…これだけは絶対に理解で}{ruby:truth she could definitely understand...:きる真実だった…。}`
 `{ruby:"............What......is all this?:「…………これは、……どういうことなんだ。}`
-`{ruby:Of course, I'm not going to swallow this story, ...but what on Earth does it mean?!":もちろん鵜呑みにするつもりはねぇが、…一体、どういう意味なんだ？！」}`
-`{ruby:"Auntie Eva is the new {f:5:Beatrice}?:「絵羽伯母さんが新しいベアトリーチェに？}`
+`{ruby:Of course, I'm not going to swallow this:もちろん鵜呑みにするつもりはねぇが、}{ruby:story, ...but what on Earth does it mean?!":…一体、どういう意味なんだ？！」}`
+`{ruby:"Auntie Eva is:「絵羽伯母さんが新しい}{ruby:the new {f:5:Beatrice}?:ベアトリーチェに？}`
 `{ruby:Are you saying she's become a witch?:魔女になっちまったっていうのか？}`
 `{ruby:......What the hell...!!":……そんな馬鹿な…！！」}`
 `{ruby:"I am also surprised.:「妾も驚いておる。}`
-`{ruby:Imagine that someone would be able to solve that riddle.:まさかあの碑文を解く者が現れるとはな。}`
+`{ruby:Imagine that someone would be:まさかあの碑文を解く者}{ruby:able to solve that riddle.:が現れるとはな。}`
 `{ruby:......However, that is the rule.:……しかし、そういうルールだ。}`
-`{ruby:I must follow it, and pass on the position of Golden Witch and my name.":妾はそれに則り、黄金の魔女の座と我が名を引き継がねばならぬ」}`
-`{ruby:"It is hardly something to be surprised about.:「驚かれるには値しますまい。}`
-`{ruby:Milady wrote that rule in a letter and announced it at the beginning.:お嬢様は元より、そういうルールを手紙に記されて公示されております。}`
-`{ruby:......Eva‐sama was the first to be successful.:……絵羽さまがそれを最初に成し遂げた。}`
+`{ruby:I must follow it, and pass on:妾はそれに則り、黄金の魔女の座と}{ruby:the position of Golden Witch and my name.":我が名を引き継がねばならぬ」}`
+`{ruby:"It is hardly something:「驚かれるには値}{ruby:to be surprised about.:しますまい。}`
+`{ruby:Milady wrote that rule in a:お嬢様は元より、そういうルールを手紙}{ruby:letter and announced it at the beginning.:に記されて公示されております。}`
+`{ruby:......Eva‐sama was the:……絵羽さまがそれを最}{ruby:first to be successful.:初に成し遂げた。}`
 `{ruby:That is all there is to say.":それだけのことでございます」}`
-`{ruby:"......{f:5:Virgilia}, are you there?!":「……ワルギリア、いるか？！」}`
+`{ruby:"......{f:5:Virgilia}, are:「……ワルギリア、}{ruby:you there?!":いるか？！」}`
 `{ruby:"Yes, here I am...":「はい、おりますとも…」}`
 `{ruby:"What does this farce mean?!:「この茶番が意味するところは何だ？！}`
-`{ruby:Even if this depiction of strange witches showing up one after another is some of her bullshit...!:おかしな魔女たちが次々と現れる描写はあいつの戯言だとしても…！}`
-`{ruby:......Isn't this like Auntie Eva has become a witch?!":……これじゃあまるで、絵羽伯母さんが魔女になっちまったみたいじゃないか！」}`
+`{ruby:Even if this depiction of strange witches showing:おかしな魔女たちが次々と現れる描写}{ruby:up one after another is some of her bullshit...!:はあいつの戯言だとしても…！}`
+`{ruby:......Isn't this like Auntie:……これじゃあまるで、絵羽伯母さんが魔女}{ruby:Eva has become a witch?!":になっちまったみたいじゃないか！」}`
 `{ruby:"Calm yourself.:「落ち着いて。}`
-`{ruby:She has simply received the title of "Golden Witch", and might call herself that in the future.:“黄金の魔女”という称号が継承され、あるいは以後、自称するだけに過ぎません。}`
-`{ruby:......This succession ceremony is, without doubt, nothing more than that performed according to that child's "interpretation".:……この継承式はそれをあの子の“解釈”で演出したものに過ぎないに違いない。}`
+`{ruby:She has simply received the title of "Golden:“黄金の魔女”という称号が継承され、ある}{ruby:Witch", and might call herself that in the future.:いは以後、自称するだけに過ぎません。}`
+`{ruby:......This succession ceremony is, without doubt, nothing more:……この継承式はそれをあの子の“解釈”で}{ruby:than that performed according to that child's "interpretation".:演出したものに過ぎないに違いない。}`
 `{ruby:Don't fall for the same move again.":同じ手に何度も掛からないで」}`
 `{ruby:"Th‐...that's right...:「そ、…そうだな…。}`
-`{ruby:That whole grand ceremony was all phony.:この盛大な式典は全てまやかしだ。}`
-`{ruby:But it's at least a fact that Auntie Eva solved the riddle of the epitaph.:だが、絵羽伯母さんが碑文の謎を解いたことまでは事実。}`
-`{ruby:......And at the same time, that means that she inherited the Ushiromiya family headship.":……そしてそれは同時に、右代宮家の家督を受け継いだことも指す」}`
-`{ruby:"......And by obtaining ten tons of gold,:「……そして１０ｔの黄金を得たということは、}`
-`{ruby:......it means that Auntie Eva might as well call herself the "Golden Witch"...is that it...?:……絵羽伯母さんが“黄金の魔女”を自称してもいい…、ということなのか…？}`
-`{ruby:Damn, making things as complicated as ever...!!":くそ、相変わらずややこしいことをしやがって…！！」}`
+`{ruby:That whole grand:この盛大な式典は全}{ruby:ceremony was all phony.:てまやかしだ。}`
+`{ruby:But it's at least a fact that:だが、絵羽伯母さんが碑文の謎}{ruby:Auntie Eva solved the riddle of the epitaph.:を解いたことまでは事実。}`
+`{ruby:......And at the same time, that means:……そしてそれは同時に、右代宮家の}{ruby:that she inherited the Ushiromiya family headship.":家督を受け継いだことも指す」}`
+`{ruby:"......And by obtaining:「……そして１０ｔの黄金}{ruby:ten tons of gold,:を得たということは、}`
+`{ruby:......it means that Auntie Eva might as:……絵羽伯母さんが“黄金の魔女”を自称}{ruby:well call herself the "Golden Witch"...is that it...?:してもいい…、ということなのか…？}`
+`{ruby:Damn, making things:くそ、相変わらずややこしいこ}{ruby:as complicated as ever...!!":とをしやがって…！！」}`
 `{ruby:"...Dear me.:「…やれやれ。}`
-`{ruby:Is a boorish {y:0:Human}{n:0:human} unable to comprehend the grandeur of this ceremony?:無粋なるニンゲンには式典の荘厳さを解することもできぬか。}`
+`{ruby:Is a boorish {y:0:Human}{n:0:human} unable to:無粋なるニンゲンには式典の荘厳}{ruby:comprehend the grandeur of this ceremony?:さを解することもできぬか。}`
 `{ruby:......Oh, well.:……まぁ良い。}`
-`{ruby:Being unable to read between the lines is what makes you {y:0:Human}{n:0:human}.:空気を読めぬのがニンゲンというもの。}`
+`{ruby:Being unable to read between the:空気を読めぬのがニン}{ruby:lines is what makes you {y:0:Human}{n:0:human}.:ゲンというもの。}`
 `{ruby:I pity you, but I do not blame you.":そなたを憐れには思うが責めはせぬぞ」}`
 `{ruby:"Damn it...:「くそ…。}`
-`{ruby:Don't look at me like you feel sorry for me...:可哀想な人を見るような目で見やがって…。}`
-`{ruby:.........Still, for the time being, there's something I need to check.":………だが、とりあえず確認をする必要はある」}`
-`{ruby:"And that's regarding this younger version of Auntie Eva,:「それはあの、若返った絵羽伯母さんみたいな分身、}`
-`{ruby:...in other words, the definition of this new {f:5:Beatrice}.:…つまり、新しいベアトリーチェとかいうやつの定義についてだ。}`
+`{ruby:Don't look at me like:可哀想な人を見るような}{ruby:you feel sorry for me...:目で見やがって…。}`
+`{ruby:.........Still, for the time being,:………だが、とりあえず確}{ruby:there's something I need to check.":認をする必要はある」}`
+`{ruby:"And that's regarding this:「それはあの、若返った絵羽}{ruby:younger version of Auntie Eva,:伯母さんみたいな分身、}`
+`{ruby:...in other words, the:…つまり、新しいベアトリーチェと}{ruby:definition of this new {f:5:Beatrice}.:かいうやつの定義についてだ。}`
 `{ruby:......What the heck {i:is} she?!":……あれは何なんだ？！」}`
-`{ruby:"Even if I tell of it, you will just persist in your disbelief in magic and witches, will you not?:「妾がそれを語ろうとも、どうせそなたは、魔法は信じぬ、魔女は信じぬの一点張りであろう？}`
-`{ruby:So there is nothing in particular for me to explain.:だから妾から説明することは特にない。}`
-`{ruby:You may believe that things are as you think they are.":そなたが思う通りに信じれば良い」}`
-`{ruby:"......The way I think things are...?!:「……俺が思う通りだとぉ…？！}`
-`{ruby:Then, then how should I interpret this...?!":じゃ、じゃあどう解釈すりゃいいんだ…？！」}`
-`{ruby:"For now, grasping it as a visualization of a different being inside Ushiromiya Eva may not be a hindrance, I believe.":「右代宮絵羽の内面的別存在の視覚化、と今は捉えていただき、差し支えないかと思いますよ」}`
-`{ruby:"...Of course, you cannot blindly accept it, but it is probably appropriate for you to think that way now.":「…もちろん、鵜呑みにはできませんが、今はそう理解するのが妥当でしょう」}`
-`{ruby:"............In, in other words, I should think of Auntie Eva and her as the same person?:「…………つ、つまり、絵羽伯母さんも彼女も、同じ人物だと理解すべきなんだな？}`
-`{ruby:......Damn, ...this is starting to feel bad...":……くそ、…何だか気持ち悪い展開になったぜ…」}`
-`{ruby:"With that being the case, from now on, my name is not {f:5:Beatrice}.:「そういうわけで、これよりベアトリーチェは妾の名ではないぞ。}`
-`{ruby:Because I have passed it on to Ushiromiya Eva.":右代宮絵羽に引き継いだからな」}`
-`{ruby:"......Which means that I am nameless!:「……というわけで妾は名無しだ！}`
-`{ruby:Battleerr, isn't there some name that is fitting for me?:戦人ぁ、何か妾に適当な相応しき名はないものか。}`
+`{ruby:"Even if I tell of it, you will just persist:「妾がそれを語ろうとも、どうせそなたは、魔法は}{ruby:in your disbelief in magic and witches, will you not?:信じぬ、魔女は信じぬの一点張りであろう？}`
+`{ruby:So there is nothing in:だから妾から説明するこ}{ruby:particular for me to explain.:とは特にない。}`
+`{ruby:You may believe that things:そなたが思う通りに}{ruby:are as you think they are.":信じれば良い」}`
+`{ruby:"......The way I:「……俺が思う通り}{ruby:think things are...?!:だとぉ…？！}`
+`{ruby:Then, then how:じゃ、じゃあどう解釈すり}{ruby:should I interpret this...?!":ゃいいんだ…？！」}`
+`{ruby:"For now, grasping it as a visualization of a different:「右代宮絵羽の内面的別存在の視覚化、と今は捉え}{ruby:being inside Ushiromiya Eva may not be a hindrance, I believe.":ていただき、差し支えないかと思いますよ」}`
+`{ruby:"...Of course, you cannot blindly accept it, but it:「…もちろん、鵜呑みにはできませんが、}{ruby:is probably appropriate for you to think that way now.":今はそう理解するのが妥当でしょう」}`
+`{ruby:"............In, in other words, I should think of:「…………つ、つまり、絵羽伯母さんも彼女}{ruby:Auntie Eva and her as the same person?:も、同じ人物だと理解すべきなんだな？}`
+`{ruby:......Damn, ...this is:……くそ、…何だか気持ち悪}{ruby:starting to feel bad...":い展開になったぜ…」}`
+`{ruby:"With that being the case, from:「そういうわけで、これよりベアト}{ruby:now on, my name is not {f:5:Beatrice}.:リーチェは妾の名ではないぞ。}`
+`{ruby:Because I have passed:右代宮絵羽に引き継}{ruby:it on to Ushiromiya Eva.":いだからな」}`
+`{ruby:"......Which means that:「……というわけで}{ruby:I am nameless!:妾は名無しだ！}`
+`{ruby:Battleerr, isn't there some name:戦人ぁ、何か妾に適当な相応}{ruby:that is fitting for me?:しき名はないものか。}`
 `{ruby:I shall take your recommendation!:そなたの推薦を受けるぞ！}`
-`{ruby:Isn't there a name that's refined, full of elegance, and make it a little cute if you can...!":何か上品で気品溢れて、できればちょっぴりキュートな名前はないものか…！」}`
-`{ruby:"...Just "Beato" is good enough for you.:「…お前なんかベアトのまんまで充分だぜ。}`
-`{ruby:There's probably enough of a difference between Beato and {f:5:Beatrice}.":ベアトとベアトリーチェで充分区別付くだろ」}`
+`{ruby:Isn't there a name that's refined, full of elegance,:何か上品で気品溢れて、できればちょっぴり}{ruby:and make it a little cute if you can...!":キュートな名前はないものか…！」}`
+`{ruby:"...Just "Beato" is:「…お前なんかベアトの}{ruby:good enough for you.:まんまで充分だぜ。}`
+`{ruby:There's probably enough of a:ベアトとベアトリーチェで}{ruby:difference between Beato and {f:5:Beatrice}.":充分区別付くだろ」}`
 `{ruby:"Mh...muu.:「む、…むぅ。}`
 `{ruby:Stay as Beato, is it...:ベアトのままか…。}`
-`{ruby:It doesn't feel odd, but it's boring for some reason.:違和感はないが、なぜだかつまらぬ。}`
+`{ruby:It doesn't feel odd, but:違和感はないが、なぜ}{ruby:it's boring for some reason.:だかつまらぬ。}`
 `{ruby:Muu.":むぅ」}`
 `{ruby:"Pu ku ku ku ku...:「ぷっくっくっくっく…。}`
-`{ruby:They say the temperature of black tea and a woman's heart are difficult in any time period.":紅茶の温度と女心はいつの時代も難しゅうございます」}`
+`{ruby:They say the temperature of black tea and:紅茶の温度と女心はいつの時代}{ruby:a woman's heart are difficult in any time period.":も難しゅうございます」}`
 `{ruby:".........Battler‐kun.:「………戦人くん。}`
-`{ruby:In any case, handle what is to come with composure.:とにかく、以後は冷静に。}`
-`{ruby:Compared to when this child was {f:5:Beatrice},:この子がベアトリーチェだった時に比べれば、}`
-`{ruby:now that we can tell her apart from Ushiromiya Eva, the situation is advantageous to us.":現在の彼女は、右代宮絵羽と判別が付くだけ、私たちに状況は有利です」}`
-`{ruby:"......And it's exactly because of that,:「……だからこそ、}`
+`{ruby:In any case, handle what:とにかく、以後}{ruby:is to come with composure.:は冷静に。}`
+`{ruby:Compared to when:この子がベアトリーチェだ}{ruby:this child was {f:5:Beatrice},:った時に比べれば、}`
+`{ruby:now that we can tell her apart from:現在の彼女は、右代宮絵羽と判別が付く}{ruby:Ushiromiya Eva, the situation is advantageous to us.":だけ、私たちに状況は有利です」}`
+`{ruby:"......And it's exactly:「……だから}{ruby:because of that,:こそ、}`
 `{ruby:...that I like it even less.:…かえって気に入らねぇんだがな。}`
 `{ruby:......What is she thinking of?:……何を考えてるんだ？}`
 `{ruby:That Beato.........":ベアトのヤツめ………」}`
 `{ruby:Over there, Auntie Eva,:向こうでは魔女たちが、}`
-`{ruby:who had the figure of her younger days and who now possessed the name {f:5:Beatrice}, had a long line forming of witches wishing to bless her.:今やベアトリーチェの名を持つ若き日の姿をした絵羽伯母さんを祝福し続け、長い行列を作っている。}`
+`{ruby:who had the figure of her younger days and who now possessed the:今やベアトリーチェの名を持つ若き日の姿をした絵羽}{ruby:name {f:5:Beatrice}, had a long line forming of witches wishing to bless her.:伯母さんを祝福し続け、長い行列を作っている。}`
 `{ruby:It was like a witch's coronation.:それはさながら、魔女の戴冠式。}`
-`{ruby:Countless gold butterflies flapped their wings, directing this fantastical, gold‐sparkling space.:黄金の蝶が無数に羽ばたき、黄金色に輝く幻想的な空間を演出している。}`
+`{ruby:Countless gold butterflies flapped their:黄金の蝶が無数に羽ばたき、黄金色に輝}{ruby:wings, directing this fantastical, gold‐sparkling space.:く幻想的な空間を演出している。}`
 `{ruby:They were all praising her.:それら全てが彼女を讃えていた。}`
 `{ruby:As I stared from the distance,:俺はそれを遠目に見ながら、}`
-`{ruby:I looked at the {f:5:Beatrice} given new life, who had a slightly embarrassed smile on her face.:少しだけ照れたような表情で笑みを浮かべている新生ベアトリーチェを見る。}`
-`{ruby:......Her expression, which had been hesitant at first,:……初めは戸惑っていた彼女の表情には、}`
-`{ruby:seemed to be full of a happiness that she had finally become aware of.:ようやく自覚できてきた喜びが溢れているようだった。}`
-`{ruby:In that expression, there wasn't a trace of the madness that had led her to that insane laugh before the gold.:その表情には、黄金を前に惑乱した笑い声を上げたような凶気は一切ない。}`
-`{ruby:There was only the innocence of relishing her joy.:ただただ、喜びを噛み締める初々しさがあるだけだった。}`
-`{ruby:Since I deny witches, I couldn't accept her as she showed that joyful expression at her witch succession ceremony...:魔女を否定する俺には、魔女の継承式で喜びの表情を見せる彼女を受け容れることはできない…。}`
-`{ruby:......However, as I watched that innocent smile,:……しかし、あの無邪気な笑顔を見ていると、}`
-`{ruby:...it made me feel like I wanted to celebrate her, just for now.:…今だけは祝福したいような、そんな気持ちにさせられる。}`
-`{ruby:The moment when a strong effort is successful and rewarded is always beautiful.:どんなものであれ、努力が達せられて報われた瞬間は美しい。}`
-`{ruby:Auntie Eva, who had always yearned to succeed the head, and had worked hard since she was young without being rewarded,:ずっとずっと当主跡継ぎに憧れ、小さい頃から報われない努力を重ねてきた絵羽伯母さんは、}`
-`{ruby:......had spectacularly taken hold of the chance given to her by the riddle of the epitaph, ...and had finally gained that position.:……碑文の謎というチャンスを見事に掴み、…そしてその座をとうとう手に入れた。}`
-`{ruby:How divine is the smile of a person whose childhood dreams have been granted?:少女時代からの夢をついに叶えた人間の笑顔の、何と神々しいことか。}`
+`{ruby:I looked at the {f:5:Beatrice} given new life,:少しだけ照れたような表情で笑みを浮かべ}{ruby:who had a slightly embarrassed smile on her face.:ている新生ベアトリーチェを見る。}`
+`{ruby:......Her expression, which had:……初めは戸惑っていた}{ruby:been hesitant at first,:彼女の表情には、}`
+`{ruby:seemed to be full of a happiness:ようやく自覚できてきた喜びが}{ruby:that she had finally become aware of.:溢れているようだった。}`
+`{ruby:In that expression, there wasn't a trace of the madness:その表情には、黄金を前に惑乱した笑い}{ruby:that had led her to that insane laugh before the gold.:声を上げたような凶気は一切ない。}`
+`{ruby:There was only the:ただただ、喜びを噛み締める初}{ruby:innocence of relishing her joy.:々しさがあるだけだった。}`
+`{ruby:Since I deny witches, I couldn't accept her as:魔女を否定する俺には、魔女の継承式で喜びの表情}{ruby:she showed that joyful expression at her witch succession ceremony...:を見せる彼女を受け容れることはできない…。}`
+`{ruby:......However, as I:……しかし、あの無邪気な}{ruby:watched that innocent smile,:笑顔を見ていると、}`
+`{ruby:...it made me feel like I:…今だけは祝福したいような、そ}{ruby:wanted to celebrate her, just for now.:んな気持ちにさせられる。}`
+`{ruby:The moment when a strong effort:どんなものであれ、努力が達せら}{ruby:is successful and rewarded is always beautiful.:れて報われた瞬間は美しい。}`
+`{ruby:Auntie Eva, who had always yearned to succeed the head,:ずっとずっと当主跡継ぎに憧れ、小さい頃から報}{ruby:and had worked hard since she was young without being rewarded,:われない努力を重ねてきた絵羽伯母さんは、}`
+`{ruby:......had spectacularly taken hold of the chance given to her by:……碑文の謎というチャンスを見事に掴み、}{ruby:the riddle of the epitaph, ...and had finally gained that position.:…そしてその座をとうとう手に入れた。}`
+`{ruby:How divine is the smile of a:少女時代からの夢をついに叶えた人間}{ruby:person whose childhood dreams have been granted?:の笑顔の、何と神々しいことか。}`
 `{ruby:I definitely won't accept witches.:俺は魔女を絶対に認めない。}`
-`{ruby:{n}But, ......Battler put his hands together, making a small sound.:{n}でも、……戦人は両手を合わせ、少しだけ音を立てる。}`
+`{ruby:{n}But, ......Battler put his hands:{n}でも、……戦人は両手を合}{ruby:together, making a small sound.:わせ、少しだけ音を立てる。}`
 `{ruby:Clap. Clap.:ぱちり。ぱちり。}`
-`{ruby:......It didn't reach her ears, ...but it did celebrate her.:……それは彼女の耳には届かないけれど、…祝福するものだった。}`
-`{ruby:".........Congratulations, Auntie Eva.":「………おめでとうよ、絵羽伯母さん」}`
-`{ruby:You solved the riddle of the epitaph masterfully, and before anyone else.:あんたは見事、一番乗りで碑文の謎を解いたな。}`
-`{ruby:{n}It's your victory without any complaints.:{n}文句なしにあんたの勝ちだ。}`
-`{ruby:............I won't accept all that about the Golden Witch and so on, but I will accept you as the new head of the Ushiromiya family, and I will celebrate you honestly.:…………黄金の魔女云々は認めないが、右代宮家の新しい当主ってのは、俺も認めて素直に祝うぜ。}`
+`{ruby:......It didn't reach her ears,:……それは彼女の耳には届かないけ}{ruby:...but it did celebrate her.:れど、…祝福するものだった。}`
+`{ruby:".........Congratulations,:「………おめでとうよ}{ruby:Auntie Eva.":、絵羽伯母さん」}`
+`{ruby:You solved the riddle of the:あんたは見事、一番乗りで}{ruby:epitaph masterfully, and before anyone else.:碑文の謎を解いたな。}`
+`{ruby:{n}It's your victory:{n}文句なしにあ}{ruby:without any complaints.:んたの勝ちだ。}`
+`{ruby:............I won't accept all that about the Golden Witch and so on, but I will:…………黄金の魔女云々は認めないが、右代宮家の新}{ruby:accept you as the new head of the Ushiromiya family, and I will celebrate you honestly.:しい当主ってのは、俺も認めて素直に祝うぜ。}`
 `{ruby:"...............Hmph.":「……………ふ」}`
-`{ruby:As though lured by Battler's applause, Beato also clapped.:戦人の拍手に釣られるように、ベアトも手を叩く。}`
+`{ruby:As though lured by:戦人の拍手に釣られるように}{ruby:Battler's applause, Beato also clapped.:、ベアトも手を叩く。}`
 `{ruby:...It was a slightly odd scene.:…ちょっぴりだけ不思議な光景。}`
-`{ruby:Because Battler and Beato, who opposed each other, were standing next to one another, applauding for the same person.:敵対している戦人とベアトが並んで、同じ相手に拍手を送っているのだから。}`
+`{ruby:Because Battler and Beato, who opposed each other, were:敵対している戦人とベアトが並んで、同じ}{ruby:standing next to one another, applauding for the same person.:相手に拍手を送っているのだから。}`
 `{ruby:"I'm not clapping for a witch.:「魔女に拍手してるわけじゃねぇぞ。}`
-`{ruby:...I'm clapping for all of Auntie Eva's efforts up until now.":…絵羽伯母さんのこれまでの努力に拍手してんだぞ」}`
+`{ruby:...I'm clapping for all of:…絵羽伯母さんのこれまでの}{ruby:Auntie Eva's efforts up until now.":努力に拍手してんだぞ」}`
 `{ruby:"I am too.:「妾もだぞ。}`
-`{ruby:I am offering Eva my sincere congratulations in applause for the tremendous accomplishment of solving that epitaph.":あの碑文を見事に解いた絵羽に対し、率直に祝福の拍手を送っておる」}`
+`{ruby:I am offering Eva my sincere congratulations in:あの碑文を見事に解いた絵羽に対し、}{ruby:applause for the tremendous accomplishment of solving that epitaph.":率直に祝福の拍手を送っておる」}`
 `{ruby:".........Hmm.:「………ふむ。}`
-`{ruby:...I don't like the fact that I'm clapping with you.:…お前と一緒に拍手してるってのが気に入らねぇが。}`
-`{ruby:...But, well, I won't worry about it for now.:…ま、今は気にしねぇことにするぜ。}`
-`{ruby:...I guess it doesn't hurt to clap with you every once in a while.":…たまにゃ、お前と一緒に拍手してもバチは当たらねぇか」}`
+`{ruby:...I don't like the fact:…お前と一緒に拍手してるっ}{ruby:that I'm clapping with you.:てのが気に入らねぇが。}`
+`{ruby:...But, well, I won't:…ま、今は気にしねぇ}{ruby:worry about it for now.:ことにするぜ。}`
+`{ruby:...I guess it doesn't hurt to clap:…たまにゃ、お前と一緒に拍手し}{ruby:with you every once in a while.":てもバチは当たらねぇか」}`
 `{ruby:"Mmhm.:「ふむ。}`
 `{ruby:It isn't bad once in a while.:たまにはオツであるな。}`
 `{ruby:......Still, it is fun to applaud.:……しかし、拍手って楽しいなァ。}`
-`{ruby:Even though it was Eva who achieved it and not me, for some reason, I'm starting to feel happy too.":成し遂げたのは妾ではなく絵羽であるというのに、なぜかこっちまで嬉しくなってきおるわ」}`
-`{ruby:"That's because celebrating someone means the same thing as empathizing with their joy, and sharing in it.":「祝福するってことは、その喜びを共感する、共有するって意味だからな」}`
+`{ruby:Even though it was Eva who achieved it and not:成し遂げたのは妾ではなく絵羽であるというのに}{ruby:me, for some reason, I'm starting to feel happy too.":、なぜかこっちまで嬉しくなってきおるわ」}`
+`{ruby:"That's because celebrating someone means the same thing:「祝福するってことは、その喜びを共感}{ruby:as empathizing with their joy, and sharing in it.":する、共有するって意味だからな」}`
 `{ruby:"I see.:「なるほど。}`
-`{ruby:Then, I must even be sharing this irrational happy feeling with you.:では、このわけもなく嬉しい気持ちは、そなたとも共有できているというわけか。}`
-`{ruby:......Since we are a pair of enemies trying to make each other submit, it is an odd experience.":……互いを屈服させようとする敵同士でありながら、これは奇異な体験よ」}`
-`{ruby:"Well, ......just for now, let's have a truce and clap, alright?":「まぁ、……今だけは休戦で手を叩こうじゃねぇか」}`
-`{ruby:Beato laughed impishly, playing around and applauding even louder,:ベアトは悪戯っぽく笑うと、拍手の音で戦人に負けまいと張り切ったのか、}`
-`{ruby:as though eagerly trying not to lose to Battler as she clapped.:より大きな音が出るようはしゃぎながら手を打った。}`
-`{ruby:Battler went along with her, and clapped even louder.:戦人も付き合い、より大きく手を打つ。}`
-`{ruby:And when he did, as though he had ended some kind of ceremony, everyone present put their hands together in loud applause, and highly praised the newly born {f:5:Beatrice}.:すると何かの儀式を終えたのか、そこで一堂は大きな拍手で新生ベアトリーチェを大きく讃えた。}`
-`{ruby:It was just as though Battler's and Beato's applause had been the final thing needed for her succession......:それはまるで戦人たちの拍手が、彼女の承認に必要な最後のものであったかのようだった……。}`
+`{ruby:Then, I must even be sharing:では、このわけもなく嬉しい気持ちは、そな}{ruby:this irrational happy feeling with you.:たとも共有できているというわけか。}`
+`{ruby:......Since we are a pair of enemies trying to:……互いを屈服させようとする敵同士で}{ruby:make each other submit, it is an odd experience.":ありながら、これは奇異な体験よ」}`
+`{ruby:"Well, ......just for now, let's:「まぁ、……今だけは休戦で}{ruby:have a truce and clap, alright?":手を叩こうじゃねぇか」}`
+`{ruby:Beato laughed impishly, playing:ベアトは悪戯っぽく笑うと、拍手の音で}{ruby:around and applauding even louder,:戦人に負けまいと張り切ったのか、}`
+`{ruby:as though eagerly trying not to:より大きな音が出るようはし}{ruby:lose to Battler as she clapped.:ゃぎながら手を打った。}`
+`{ruby:Battler went along with:戦人も付き合い、より}{ruby:her, and clapped even louder.:大きく手を打つ。}`
+`{ruby:And when he did, as though he had ended some kind of ceremony, everyone:すると何かの儀式を終えたのか、そこで一堂は大き}{ruby:present put their hands together in loud applause, and highly praised the newly born {f:5:Beatrice}.:な拍手で新生ベアトリーチェを大きく讃えた。}`
+`{ruby:It was just as though Battler's and Beato's applause:それはまるで戦人たちの拍手が、彼女の承認に必}{ruby:had been the final thing needed for her succession......:要な最後のものであったかのようだった……。}`

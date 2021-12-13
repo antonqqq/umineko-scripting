@@ -1,50 +1,50 @@
-`{ruby:"Wahahahaha, you alright, Battler‐kun...?!:「わっはっはっは、大丈夫か、戦人くん…！}`
-`{ruby:We're already on the ground, y'know, you can't fall any further than that, wahahahaha...!":もう地上やで、これ以上は落ちへんでぇ、わっはっはっは…！」}`
+`{ruby:"Wahahahaha, you:「わっはっはっは、大丈}{ruby:alright, Battler‐kun...?!:夫か、戦人くん…！}`
+`{ruby:We're already on the ground, y'know, you:もう地上やで、これ以上は落ちへん}{ruby:can't fall any further than that, wahahahaha...!":でぇ、わっはっはっは…！」}`
 `{ruby:"Uu, *giggle*giggle*!:「うーっきゃっきゃっきゃ！}`
-`{ruby:Gonna faaall, gonna faaall, *giggle*giggle*!":落ちるー落ちるー、きゃっきゃっきゃ！」}`
-`{ruby:In the lobby of the Niijima airport, Maria dashed around in excitement.:新島空港のロビーを、興奮した真里亞が駆け回る。}`
-`{ruby:{n}Battler's uproar in the plane must have been very funny to her.:{n}機内での戦人の騒ぎがよっぽど面白かったのだろう。}`
+`{ruby:Gonna faaall,:落ちるー落ちるー、きゃ}{ruby:gonna faaall, *giggle*giggle*!":っきゃっきゃ！」}`
+`{ruby:In the lobby of the Niijima:新島空港のロビーを、興奮し}{ruby:airport, Maria dashed around in excitement.:た真里亞が駆け回る。}`
+`{ruby:{n}Battler's uproar in the plane must:{n}機内での戦人の騒ぎがよっ}{ruby:have been very funny to her.:ぽど面白かったのだろう。}`
 `{ruby:"Hey, Maria!:「こら、真里亞！}`
 `{ruby:That's enough!:いい加減にしなさい！}`
 `{ruby:...Sorry, Battler‐kun.:…ごめんね、戦人くん。}`
 `{ruby:Don't take it badly.":気を悪くしないでね」}`
 `{ruby:"Man, you're {i:pathetic}.:「なっさけねぇ男だなぁ、お前はぁ。}`
-`{ruby:A grown‐ass man like you still can't handle vehicles?":でけぇ図体して、相変わらず乗り物はダメなのかよ？」}`
+`{ruby:A grown‐ass man like:でけぇ図体して、相変わらず乗}{ruby:you still can't handle vehicles?":り物はダメなのかよ？」}`
 `{ruby:"Urgh, shut up...:「うるへー…。}`
-`{ruby:All humans have one or two things they can't handle...":人間誰しも苦手なモンの一つや二つ、あるもんだぜ…」}`
-`{ruby:"Battler‐kun, why don't you come with your aunt on an overseas trip sometime soon?:「戦人くん、今度伯母さんと一緒に海外旅行に行きましょうよ。}`
+`{ruby:All humans have one or:人間誰しも苦手なモンの一つや}{ruby:two things they can't handle...":二つ、あるもんだぜ…」}`
+`{ruby:"Battler‐kun, why don't you come with your:「戦人くん、今度伯母さんと一緒に}{ruby:aunt on an overseas trip sometime soon?:海外旅行に行きましょうよ。}`
 `{ruby:What about Europe?:ヨーロッパとか行かない？}`
-`{ruby:I'm sure you'd conquer your fears after the half‐day plane trip.:半日も飛行機に乗ってればきっと克服できるわよぅ。}`
+`{ruby:I'm sure you'd conquer your:半日も飛行機に乗ってればきっ}{ruby:fears after the half‐day plane trip.:と克服できるわよぅ。}`
 `{ruby:*giggle*giggle*giggle*!":くすくすくす！」}`
 `{ruby:"...Stop it, Mother.:「…母さんもよしなよ。}`
-`{ruby:I'm sure Battler‐kun's dislike for vehicles is inherited.":戦人くんの乗り物嫌いはきっと遺伝だよ」}`
+`{ruby:I'm sure Battler‐kun's dislike:戦人くんの乗り物嫌いは}{ruby:for vehicles is inherited.":きっと遺伝だよ」}`
 `{ruby:"Oh, from Asumu‐san?":「あぁ、明日夢さんの？」}`
-`{ruby:"......For some reason, she just couldn't handle vehicles.:「……あいつ、どーいうわけか乗り物系がダメでなぁ。}`
-`{ruby:Pretty much anything other than a bicycle or a car.:自転車と車以外はほぼダメだったぜ。}`
-`{ruby:Whenever we tried to take a trip somewhere far away, that woman was so annoying with the "no not this, no not that,:どこか遠出しようとすると、アレはダメだコレはダメだ、}`
-`{ruby:I'm scared I'm scared, I'm going to fall I'm going to fall, scream scream".":怖い怖い落ちる落ちるぎゃーぎゃーとうるせぇ女だったさ」}`
-`{ruby:"Children tend to learn that things which their parents can't seem to handle are dangerous.:「子どもは、親が苦手がるモノを危険だと学ぶものです。}`
-`{ruby:Battler‐kun must have seen Asumu‐san doing something like that and learned that vehicles are scary.":きっと戦人くんは、明日夢さんのそういうところを見て、乗り物は怖いものだと覚えてしまったんでしょうね」}`
+`{ruby:"......For some reason, she:「……あいつ、どーいうわけか}{ruby:just couldn't handle vehicles.:乗り物系がダメでなぁ。}`
+`{ruby:Pretty much anything other than:自転車と車以外はほぼ}{ruby:a bicycle or a car.:ダメだったぜ。}`
+`{ruby:Whenever we tried to take a trip somewhere far away, that:どこか遠出しようとすると、ア}{ruby:woman was so annoying with the "no not this, no not that,:レはダメだコレはダメだ、}`
+`{ruby:I'm scared I'm scared, I'm going to:怖い怖い落ちる落ちるぎゃーぎゃ}{ruby:fall I'm going to fall, scream scream".":ーとうるせぇ女だったさ」}`
+`{ruby:"Children tend to learn that things which:「子どもは、親が苦手がるモノ}{ruby:their parents can't seem to handle are dangerous.:を危険だと学ぶものです。}`
+`{ruby:Battler‐kun must have seen Asumu‐san doing something:きっと戦人くんは、明日夢さんのそういうところを見て、}{ruby:like that and learned that vehicles are scary.":乗り物は怖いものだと覚えてしまったんでしょうね」}`
 `{ruby:"*giggle*giggle*.:「くすくす。}`
-`{ruby:Could it be Asumu‐san's genes, I wonder?":明日夢さんの遺伝子ってわけかしら？」}`
+`{ruby:Could it be:明日夢さんの遺伝子っ}{ruby:Asumu‐san's genes, I wonder?":てわけかしら？」}`
 `{ruby:"Beats me.:「さぁな。}`
-`{ruby:Those'd be some damned annoying genes.:だとしたら迷惑な遺伝子だな。}`
+`{ruby:Those'd be some:だとしたら迷惑な}{ruby:damned annoying genes.:遺伝子だな。}`
 `{ruby:.........Stop talking about Asumu.:………明日夢の話はよせ。}`
-`{ruby:Right now, the one who's here is you.:今、ここにいるのはお前だ。}`
+`{ruby:Right now, the one:今、ここにいるの}{ruby:who's here is you.:はお前だ。}`
 `{ruby:Right?":そうだろ？」}`
 `{ruby:"...You're right, sorry.":「…そうね、ごめんなさい」}`
 `{ruby:"Heyyy, the cars are here!:「おーい、ハイヤーが来たでぇ！}`
 `{ruby:Exactly three of 'em.:ちょうど３台や。}`
 `{ruby:All in, all in!":乗るで乗るで！」}`
 `{ruby:"Gonna fall, gonna faaall!!:「落ちる落ちるー！！}`
-`{ruby:Where's the parachuuute, where's the parachuuuute!!:パラシュートどこーパラシュートどこー！！}`
+`{ruby:Where's the parachuuute,:パラシュートどこーパラシ}{ruby:where's the parachuuuute!!:ュートどこー！！}`
 `{ruby:Uu‐uu, *giggle*!!":うーうーきゃっきゃっ！！」}`
 `{ruby:"You little rapscallio~n!!:「こんにゃろ〜！！}`
 `{ruby:Wait, wait, come back here, you!:待て待て待ちやがれー！}`
-`{ruby:I'll sentence you to the tickle punishme~nt!!":くすぐりの刑に処してやる〜！！」}`
+`{ruby:I'll sentence you:くすぐりの刑に処して}{ruby:to the tickle punishme~nt!!":やる〜！！」}`
 `{ruby:"Ehheheheheh.:「うっふふふふ。}`
-`{ruby:It's good that they're in high spirits.:元気でいいわ。}`
-`{ruby:If Battler‐kun and Maria‐chan weren't there, the atmosphere in that plane would have been very stiff.":戦人くんと真里亞ちゃんがいてくれなかったら、機内の空気はさぞや硬かったでしょうねぇ」}`
+`{ruby:It's good that:元気でいい}{ruby:they're in high spirits.:わ。}`
+`{ruby:If Battler‐kun and Maria‐chan weren't there, the atmosphere:戦人くんと真里亞ちゃんがいてくれなかったら、}{ruby:in that plane would have been very stiff.":機内の空気はさぞや硬かったでしょうねぇ」}`
 `{ruby:"Thanks.:「ありがとよ。}`
 `{ruby:I'll take that at face value.:言葉通りの意味で受け取っとくぜ。}`
 `{ruby:......Hey, brats!:……おら、ガキども！}`
@@ -55,88 +55,88 @@
 `{ruby:I'm gonna be first iiiiin!:真里亞一番乗りー！}`
 `{ruby:*giggle*!!":きゃっきゃ！！」}`
 `{ruby:"Hey!:「コラ！}`
-`{ruby:Maria, and you too, Battler‐kun, stop fooling around!:真里亞も戦人くんも、もうはしゃがない！}`
+`{ruby:Maria, and you too,:真里亞も戦人くんも、も}{ruby:Battler‐kun, stop fooling around!:うはしゃがない！}`
 `{ruby:You'll bump into someone!":人にぶつかるわよ！」}`
-`{ruby:The tone of Auntie Rosa's voice became a little frightening.:楼座叔母さんの声色が、ちょっぴり怖くなる。}`
-`{ruby:Battler, too, had started to think that perhaps he really was fooling around too much...when, just as expected, he bumped into someone.:戦人も、さすがにはしゃぎ過ぎたかなと思ったら、案の定、人に肩をぶつけた。}`
+`{ruby:The tone of Auntie Rosa's:楼座叔母さんの声色が、ち}{ruby:voice became a little frightening.:ょっぴり怖くなる。}`
+`{ruby:Battler, too, had started to think that perhaps he really was:戦人も、さすがにはしゃぎ過ぎたかなと思}{ruby:fooling around too much...when, just as expected, he bumped into someone.:ったら、案の定、人に肩をぶつけた。}`
 `{ruby:"Oh, sorry...":「あ、すんません…」}`
-`{ruby:"Battler‐kun, your family is going in the car over there.:「戦人くんたちはあっちの車だよ。}`
+`{ruby:"Battler‐kun, your family is going:「戦人くんたちはあ}{ruby:in the car over there.:っちの車だよ。}`
 `{ruby:You're keeping them waiting.":待たせちゃってるよー」}`
-`{ruby:Rushed on by George, Battler made an apologetic gesture to the person he had bumped into and ran up to his parents, who were telling him to come quickly.:譲治に急かされ、戦人はぶつかった人に拝む仕草を送りながら、早く来いと呼ぶ両親のもとへ駆けていく。}`
-`{ruby:With clunking sounds, the doors on the three taxis were shut one after another, and they departed, heading for the harbor......:３台のタクシーは、次々にバンバンっと扉を閉め、港へ向けて出発していった……。}`
+`{ruby:Rushed on by George, Battler made an apologetic gesture to the person he had:譲治に急かされ、戦人はぶつかった人に拝む仕草を送り}{ruby:bumped into and ran up to his parents, who were telling him to come quickly.:ながら、早く来いと呼ぶ両親のもとへ駆けていく。}`
+`{ruby:With clunking sounds, the doors on the three taxis were:３台のタクシーは、次々にバンバンっと扉を}{ruby:shut one after another, and they departed, heading for the harbor......:閉め、港へ向けて出発していった……。}`
 `{ruby:......As their taxis dashed away...:……彼らのタクシーが走り去ると。}`
-`{ruby:...the entire world grew suddenly dull,:世界の全てが急に鈍りだし、}`
+`{ruby:...the entire world:世界の全てが急に}{ruby:grew suddenly dull,:鈍りだし、}`
 `{ruby:......and slowed to a halt.:……緩やかに停止した。}`
 `{ruby:Voices, the wind, and even sound—:声も風も、音も。}`
-`{ruby:absolutely everything ceased, and as if they had been frozen in the instant a photo was taken, everything moving or about to move...:……何もかもが止み、動き動こうとする者すべてが、写真に撮られた瞬間でそのまま凍りついたかのように、}`
+`{ruby:absolutely everything ceased, and as if they had been frozen in:……何もかもが止み、動き動こうとする者すべてが、写真}{ruby:the instant a photo was taken, everything moving or about to move...:に撮られた瞬間でそのまま凍りついたかのように、}`
 `{ruby:...stopped.:……停止する。}`
-`{ruby:People, machines, clock hands, even the dust dancing in the wind—frozen.:人も機械も時計の針も、風に舞う砂埃も、凍り付いている。}`
-`{ruby:{n}People who were in the middle of walking—frozen, with one foot still raised.:{n}歩いてる途中の人が、片足を上げたまま、凍り付いている。}`
-`{ruby:{n}Scraps of paper dancing in the wind—frozen, pinned in midair.:{n}風に舞う紙くずが、空中に縫い止められ、凍り付いている。}`
-`{ruby:......And among these stationary figures in this world that had come to a standstill, a single one...moved.:……その、止まってしまった世界に立ち尽くすはずの人影がひとつ、動く。}`
+`{ruby:People, machines, clock hands, even:人も機械も時計の針も、風に舞う}{ruby:the dust dancing in the wind—frozen.:砂埃も、凍り付いている。}`
+`{ruby:{n}People who were in the middle:{n}歩いてる途中の人が、片足を}{ruby:of walking—frozen, with one foot still raised.:上げたまま、凍り付いている。}`
+`{ruby:{n}Scraps of paper dancing in:{n}風に舞う紙くずが、空中に縫}{ruby:the wind—frozen, pinned in midair.:い止められ、凍り付いている。}`
+`{ruby:......And among these stationary figures in this world:……その、止まってしまった世界に立ち}{ruby:that had come to a standstill, a single one...moved.:尽くすはずの人影がひとつ、動く。}`
 `{ruby:It was a woman.:それは女。}`
-`{ruby:The very woman that Battler had just bumped into...:さっき、戦人が肩をぶつけた女だった…。}`
-`{ruby:It was truly the slightest of movements.:動いたといっても、それは本当にわずか。}`
-`{ruby:Her gaze dropped, her shoulders lowered a minuscule amount, and she sighed.:目線を落とし、ほんの少し肩を下げてため息をつく。}`
+`{ruby:The very woman that:さっき、戦人が肩をぶつ}{ruby:Battler had just bumped into...:けた女だった…。}`
+`{ruby:It was truly:動いたといっても、それ}{ruby:the slightest of movements.:は本当にわずか。}`
+`{ruby:Her gaze dropped, her shoulders lowered:目線を落とし、ほんの少し肩}{ruby:a minuscule amount, and she sighed.:を下げてため息をつく。}`
 `{ruby:{n}...That was all.:{n}…それだけ。}`
-`{ruby:In a normal world, that probably wouldn't even count as movement,:普通の世界でだったら、動いた内にも入らないだろうそれも、}`
-`{ruby:but in this still world, it looked very out of place.:この静寂の世界では大いなる違和感を見せた。}`
+`{ruby:In a normal world, that:普通の世界でだったら、動いた内}{ruby:probably wouldn't even count as movement,:にも入らないだろうそれも、}`
+`{ruby:but in this still world,:この静寂の世界では大いな}{ruby:it looked very out of place.:る違和感を見せた。}`
 `{ruby:...Then something else moved.:…すると、今度は別のものが動く。}`
-`{ruby:{n}It was a black cat that had been dozing in the shadows near the taxi rank.:{n}タクシー乗り場の近くの影でまどろんでいた黒猫だった。}`
+`{ruby:{n}It was a black cat that had been:{n}タクシー乗り場の近くの影で}{ruby:dozing in the shadows near the taxi rank.:まどろんでいた黒猫だった。}`
 `{ruby:It came up right behind the woman,:それは女のすぐ後までやってくると、}`
-`{ruby:......and leisurely...changed its form into that of a {y:0:Human}{n:0:human}.:……ゆるりと、ニンゲンの姿を模して形を変えた。}`
+`{ruby:......and leisurely...changed its form:……ゆるりと、ニンゲンの姿}{ruby:into that of a {y:0:Human}{n:0:human}.:を模して形を変えた。}`
 `{ruby:It wasn't a cat.:猫ではない。}`
 `{ruby:It was a witch.:魔女だった。}`
-`{ruby:{n}Of course, the woman was also a witch.:{n}もちろん、女の方だって、魔女なのだ。}`
-`{ruby:As the witch stood there, her gaze still downwards, she muttered...:立ち尽くす魔女は、目線を落としたまま、呟く…。}`
+`{ruby:{n}Of course, the woman:{n}もちろん、女の方だ}{ruby:was also a witch.:って、魔女なのだ。}`
+`{ruby:As the witch stood there,:立ち尽くす魔女は、目線を落}{ruby:her gaze still downwards, she muttered...:としたまま、呟く…。}`
 `{ruby:".........I can't stop them...:「………みんなが六軒島へ行くのを、}`
-`{ruby:...from going to Rokkenjima, can I...":……私は、止められないのね」}`
+`{ruby:...from going to:……私は、止めら}{ruby:Rokkenjima, can I...":れないのね」}`
 `{ruby:"You cannot.:「止められないわ。}`
-`{ruby:On October 4th, 1986, you are not here.":１９８６年１０月４日に、あなたはここにいない」}`
-`{ruby:"......So if I had been here, it might even have been possible to stop them all from going...?":「……私がここにいたなら、みんなを止めることも、不可能ではなかったの…？」}`
-`{ruby:"What verbal acrobatics a six‐year‐old girl could possibly perform to persuade them to turn back,:「６歳の女の子が、どう立ち回れば彼らを引き返させることが出来るのか、}`
+`{ruby:On October 4th, 1986,:１９８６年１０月４日に、あ}{ruby:you are not here.":なたはここにいない」}`
+`{ruby:"......So if I had been here, it might even:「……私がここにいたなら、みんなを止める}{ruby:have been possible to stop them all from going...?":ことも、不可能ではなかったの…？」}`
+`{ruby:"What verbal acrobatics a six‐year‐old girl could:「６歳の女の子が、どう立ち回れば彼ら}{ruby:possibly perform to persuade them to turn back,:を引き返させることが出来るのか、}`
 `{ruby:I can't even imagine.:私には想像もつかないけれど。}`
 `{ruby:......But yes.:……そうね。}`
-`{ruby:If you had been in this place, the probability wouldn't have been zero.:もしこの場に居たなら、確率はゼロではなかったわ。}`
-`{ruby:If there is a probability other than zero, I can find a miracle.":ゼロでない確率ならば、私は奇跡を探し出せる」}`
+`{ruby:If you had been in this:もしこの場に居たなら、確率}{ruby:place, the probability wouldn't have been zero.:はゼロではなかったわ。}`
+`{ruby:If there is a probability other:ゼロでない確率ならば、私}{ruby:than zero, I can find a miracle.":は奇跡を探し出せる」}`
 `{ruby:"......If I hadn't been sick,:「……私が体調を崩して、}`
-`{ruby:...and they hadn't left me behind......":…置いて行かれなければ……」}`
-`{ruby:With her head facing downwards, the witch tightened her fists...:俯いた魔女は、両手の握り拳を固くする…。}`
-`{ruby:{n}...They were trembling very slightly.:{n}…それは少しだけ震えていた。}`
-`{ruby:"You were sick in bed starting October 3rd, 1986.:「あなたが寝込んだのは１９８６年１０月３日。}`
-`{ruby:And Beato's game board is a snippet of time beginning on October 4th.:そしてベアトのゲーム盤は１０月４日から切り取られている。}`
-`{ruby:......You are not given the possibility of not getting sick.:……あなたには体調を崩さない可能性が与えられていない。}`
-`{ruby:...In other words, you are fundamentally an existence which can never step up onto the game board.":…つまり、あなたは本来、絶対にゲーム盤に上がれない存在なのよ」}`
+`{ruby:...and they hadn't:…置いて行かれな}{ruby:left me behind......":ければ……」}`
+`{ruby:With her head facing downwards,:俯いた魔女は、両手の握}{ruby:the witch tightened her fists...:り拳を固くする…。}`
+`{ruby:{n}...They were:{n}…それは少しだ}{ruby:trembling very slightly.:け震えていた。}`
+`{ruby:"You were sick in:「あなたが寝込んだのは１}{ruby:bed starting October 3rd, 1986.:９８６年１０月３日。}`
+`{ruby:And Beato's game board is a:そしてベアトのゲーム盤は１０月}{ruby:snippet of time beginning on October 4th.:４日から切り取られている。}`
+`{ruby:......You are not given the:……あなたには体調を崩さない可}{ruby:possibility of not getting sick.:能性が与えられていない。}`
+`{ruby:...In other words, you are fundamentally an existence:…つまり、あなたは本来、絶対にゲー}{ruby:which can never step up onto the game board.":ム盤に上がれない存在なのよ」}`
 `{ruby:"Thanks for being so patronizing.:「恩着せがましくてありがとう。}`
 `{ruby:......I'm aware of that.:……わかってるわ。}`
-`{ruby:......I know that just seeing Mom, Dad,:……こうして、お父さんやお母さんや、}`
-`{ruby:.........and Onii‐chan healthy and happy like this,:………お兄ちゃんの元気そうな姿を、}`
+`{ruby:......I know that:……こうして、お父さ}{ruby:just seeing Mom, Dad,:んやお母さんや、}`
+`{ruby:.........and Onii‐chan healthy:………お兄ちゃんの元}{ruby:and happy like this,:気そうな姿を、}`
 `{ruby:......that alone...:……見られただけでも、}`
 `{ruby:...is a very wonderful miracle...:……これはとても素敵な奇跡なんだって、}`
-`{ruby:.........I know that all too well...":………わかってるもの…」}`
-`{ruby:Ange had been trying to stand in the way of her family, and prevent them from going outside the airport, ......towards Rokkenjima.:縁寿は、家族の前に立ち塞がり、空港の外へ、……六軒島へ行かせまいとしたはずだった。}`
-`{ruby:...But that was impossible for Ange, who could not exist there on October 4th, 1986.:…しかし、１９８６年１０月４日に存在し得ない彼女に、それは出来ないこと。}`
-`{ruby:Just receiving a shoulder‐bump and words of apology from her older brother...:兄に肩をぶつけられ、謝罪の言葉をもらえただけでも。}`
-`{ruby:...Even though he hadn't known that she was his sister,:…そして自分が妹だとわかってもらえなくても、}`
+`{ruby:.........I know that:………わかって}{ruby:all too well...":るもの…」}`
+`{ruby:Ange had been trying to stand in the way of her:縁寿は、家族の前に立ち塞がり、空港の外へ、…}{ruby:family, and prevent them from going outside the airport, ......towards Rokkenjima.:…六軒島へ行かせまいとしたはずだった。}`
+`{ruby:...But that was impossible for Ange, who:…しかし、１９８６年１０月４日に存在し}{ruby:could not exist there on October 4th, 1986.:得ない彼女に、それは出来ないこと。}`
+`{ruby:Just receiving a shoulder‐bump and words:兄に肩をぶつけられ、謝罪の言}{ruby:of apology from her older brother...:葉をもらえただけでも。}`
+`{ruby:...Even though he hadn't known:…そして自分が妹だとわか}{ruby:that she was his sister,:ってもらえなくても、}`
 `{ruby:...that was still such a miracle,:……涙が溢れるほどの、}`
-`{ruby:......it could have moved her to tears......:……奇跡……。}`
-`{ruby:"............I'm sorry for the sarcasm.:「…………嫌味を言ってごめんなさい。}`
-`{ruby:I won't waste the miracle you've given me.":私はあなたにもらった奇跡を、無駄になんかしないわ」}`
+`{ruby:......it could have:……奇跡…}{ruby:moved her to tears......:…。}`
+`{ruby:"............I'm sorry:「…………嫌味を言っ}{ruby:for the sarcasm.:てごめんなさい。}`
+`{ruby:I won't waste the:私はあなたにもらった奇跡を、}{ruby:miracle you've given me.":無駄になんかしないわ」}`
 `{ruby:"I'm glad to hear it.:「頼もしいわね。}`
 `{ruby:......Now, let's go with them.:……さぁ、彼らと一緒に行きましょう。}`
 `{ruby:To Rokkenjima.:六軒島へ。}`
-`{ruby:Soon, all of the pieces will be gathered.:駒たちがもうすぐ全て揃う。}`
-`{ruby:......The curtain will open on the fourth game.:……第４のゲームが幕を開けるわ。}`
-`{ruby:Beato and Battler will already be seated by now.":ベアトも戦人も、もう席についてる頃よ」}`
+`{ruby:Soon, all of the:駒たちがもうすぐ}{ruby:pieces will be gathered.:全て揃う。}`
+`{ruby:......The curtain will open:……第４のゲームが}{ruby:on the fourth game.:幕を開けるわ。}`
+`{ruby:Beato and Battler will:ベアトも戦人も、もう席}{ruby:already be seated by now.":についてる頃よ」}`
 `{ruby:"......To Rokkenjima......:「……六軒島へ……。}`
 `{ruby:............To the day my...:…………私の、}`
 `{ruby:no,:…いや、}`
-`{ruby:......the day {i:everyone's} fates changed...October 4th, 1986,:……みんなの運命を変えた、１９８６年１０月４日の、}`
+`{ruby:......the day {i:everyone's}:……みんなの運命を変えた、１}{ruby:fates changed...October 4th, 1986,:９８６年１０月４日の、}`
 `{ruby:...on Rokkenjima.........":…六軒島へ………」}`
 `{ruby:...What happened on that day?:…あの日に、何があったというの？}`
 `{ruby:{n}I will expose that.:{n}私はそれを暴く。}`
 `{ruby:Learn that.:知る。}`
 `{ruby:And I'll take them back...!:そして取り戻す…！}`
-`{ruby:As she stood there with her fists still clenched, she surely turned her face to the heavens.:縁寿は両拳を握り締めたまま、きっと天を仰ぐ。}`
-`{ruby:{n}A single teardrop from the depths of her eyes dripped down into the air.:{n}瞳の淵に溜まった涙の雫が一粒、宙に零れ落ちる。}`
-`{ruby:And when time started moving again, the two witches' figures were sucked into a blowing gale, and erased in an instant.:そして二人の魔女の姿は、時が動き出す時に吹く暴風に飲み込まれて瞬時に消え去った。}`
+`{ruby:As she stood there with her fists still:縁寿は両拳を握り締めたま}{ruby:clenched, she surely turned her face to the heavens.:ま、きっと天を仰ぐ。}`
+`{ruby:{n}A single teardrop from the depths of:{n}瞳の淵に溜まった涙の雫}{ruby:her eyes dripped down into the air.:が一粒、宙に零れ落ちる。}`
+`{ruby:And when time started moving again, the two witches' figures:そして二人の魔女の姿は、時が動き出す時に吹}{ruby:were sucked into a blowing gale, and erased in an instant.:く暴風に飲み込まれて瞬時に消え去った。}`

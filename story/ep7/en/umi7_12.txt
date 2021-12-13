@@ -1,77 +1,77 @@
 `{ruby:The months and years slid by.:そして年月はゆっくりと降り積もる。}`
-`{ruby:In my new, more colorful life, I smiled at the spring sunshine peeking through the trees, gazed up at the column of summer clouds,:彩を得た我が日々は、春の木漏れ日に笑い、夏に入道雲を見上げ、}`
-`{ruby:enjoyed the piles of fallen leaves in autumn, and played in the winter snow the few times it did fall.:秋には落ちる木の葉を愛で、冬は稀なる雪化粧を楽しむ。}`
-`{ruby:As these days passed one after another, there was a considerable change to my environment.:そんな日々が繰り返されるうちに、決して小さくない環境の変化が重なっていった。}`
-`{ruby:That was a complete rotation in the servants from the Gospel House.:それは、福音の家より来た使用人たちの入れ替わりである。}`
-`{ruby:There weren't specific grades like in school, so there was no rule saying how long a servant could work before quitting.:学校のように学年があるわけではないので、誰が何年で辞めると、厳密に決まっているわけではない。}`
-`{ruby:Each servant made their own decision about when they would "graduate" from Rokkenjima.:何年で六軒島を“卒業”するかは、使用人たち個々人と環境が判断することなのである。}`
-`{ruby:Some of those who couldn't stand the environment would quit in as little as three days.:よほど環境が合わない使用人なら、来て３日ともたない者もいる。}`
-`{ruby:After all, life on Rokkenjima was strict.:何しろ、六軒島での生活は厳しい。}`
-`{ruby:It was also strict in the Gospel House, of course, but there were a lot of Rokkenjima‐only rules,:福音の家ももちろん厳しいが、六軒島ならではの決まりごとも多く、}`
-`{ruby:and Natsuhi, the one who supervised the servants, was also very authoritarian.:使用人たちを統括する夏妃の指導も厳しい。}`
-`{ruby:It was probably easy to feel constrained.:窮屈に感じることも多いだろう。}`
-`{ruby:That constrained feeling and the money sat on opposite sides of the scale that they used to decide the time of their graduation.:その窮屈さと給金を秤に掛け、彼らは自ら、卒業の時期を判断するのである。}`
-`{ruby:And sometimes, someone from the Ushiromiya family would use their influence to secure someone a new job, encouraging them to spread their wings and start a new life.:また、時には右代宮家の方から、就職先の斡旋があり、新しいステージへ羽ばたくよう勧められることもある。}`
-`{ruby:The cycle usually lasted two or three years.:そのサイクルは、大抵は２〜３年程度。}`
-`{ruby:No one decided this, but it was one of the goals most servants shot for, an unspoken rule.:誰が決めたわけではないが、それが彼らの勤続の、一つの目標であり、暗黙のルールとなっていた。}`
-`{ruby:However, I was an exception to that rule.:しかし、我はそのルールからも外れていた。}`
-`{ruby:I continued to live as a servant while going to school in Niijima......:未だ、新島の学校に通い続けながら、使用人生活を続けている……。}`
-`{ruby:That year, all of the Gospel House servants quit at once.:その年、ごっそりと福音の家の使用人たちが辞めることとなった。}`
-`{ruby:It wasn't at all rare for friends to quit at the same time as each other.:仲の良い使用人たちが、連れ立って同時に辞めることは珍しくなかった。}`
-`{ruby:All of my fellow servants from the Gospel House graduated from the island at once, leaving only me behind...:我だけを残し、福音の家から来た仲間たちは一斉に、この島から卒業していった…。}`
-`{ruby:Of course, I hadn't been on particularly good terms with them.:我は、別に彼らと仲が良かったわけではない。}`
-`{ruby:On the contrary, it was annoying to be treated like a kid and called Yasu all the time.:むしろ、ヤスヤスと呼ばれ、いつまで経っても半人前扱いだったので、不愉快なくらいだった。}`
+`{ruby:In my new, more colorful life, I smiled at the spring sunshine:彩を得た我が日々は、春の木漏れ日}{ruby:peeking through the trees, gazed up at the column of summer clouds,:に笑い、夏に入道雲を見上げ、}`
+`{ruby:enjoyed the piles of fallen leaves in autumn, and played:秋には落ちる木の葉を愛で、冬}{ruby:in the winter snow the few times it did fall.:は稀なる雪化粧を楽しむ。}`
+`{ruby:As these days passed one after another,:そんな日々が繰り返されるうちに、決して小}{ruby:there was a considerable change to my environment.:さくない環境の変化が重なっていった。}`
+`{ruby:That was a complete rotation in:それは、福音の家より来た使用人}{ruby:the servants from the Gospel House.:たちの入れ替わりである。}`
+`{ruby:There weren't specific grades like in school, so there was:学校のように学年があるわけではないので、誰が何年}{ruby:no rule saying how long a servant could work before quitting.:で辞めると、厳密に決まっているわけではない。}`
+`{ruby:Each servant made their own decision:何年で六軒島を“卒業”するかは、使用人たち}{ruby:about when they would "graduate" from Rokkenjima.:個々人と環境が判断することなのである。}`
+`{ruby:Some of those who couldn't stand the environment:よほど環境が合わない使用人なら、}{ruby:would quit in as little as three days.:来て３日ともたない者もいる。}`
+`{ruby:After all, life:何しろ、六軒島での}{ruby:on Rokkenjima was strict.:生活は厳しい。}`
+`{ruby:It was also strict in the Gospel House, of:福音の家ももちろん厳しいが、六軒島}{ruby:course, but there were a lot of Rokkenjima‐only rules,:ならではの決まりごとも多く、}`
+`{ruby:and Natsuhi, the one who supervised:使用人たちを統括する夏}{ruby:the servants, was also very authoritarian.:妃の指導も厳しい。}`
+`{ruby:It was probably:窮屈に感じることも}{ruby:easy to feel constrained.:多いだろう。}`
+`{ruby:That constrained feeling and the money sat on opposite sides of:その窮屈さと給金を秤に掛け、彼らは自ら}{ruby:the scale that they used to decide the time of their graduation.:、卒業の時期を判断するのである。}`
+`{ruby:And sometimes, someone from the Ushiromiya family would use their influence to secure someone:また、時には右代宮家の方から、就職先の斡旋があり、新}{ruby:a new job, encouraging them to spread their wings and start a new life.:しいステージへ羽ばたくよう勧められることもある。}`
+`{ruby:The cycle usually lasted:そのサイクルは、大抵}{ruby:two or three years.:は２〜３年程度。}`
+`{ruby:No one decided this, but it was one of:誰が決めたわけではないが、それが彼らの勤続の、一}{ruby:the goals most servants shot for, an unspoken rule.:つの目標であり、暗黙のルールとなっていた。}`
+`{ruby:However, I was an:しかし、我はそのルール}{ruby:exception to that rule.:からも外れていた。}`
+`{ruby:I continued to live as a:未だ、新島の学校に通い続けながら、}{ruby:servant while going to school in Niijima......:使用人生活を続けている……。}`
+`{ruby:That year, all of the:その年、ごっそりと福音の家の使用}{ruby:Gospel House servants quit at once.:人たちが辞めることとなった。}`
+`{ruby:It wasn't at all rare for friends to:仲の良い使用人たちが、連れ立って同時}{ruby:quit at the same time as each other.:に辞めることは珍しくなかった。}`
+`{ruby:All of my fellow servants from the Gospel House:我だけを残し、福音の家から来た仲間たちは}{ruby:graduated from the island at once, leaving only me behind...:一斉に、この島から卒業していった…。}`
+`{ruby:Of course, I hadn't been:我は、別に彼らと仲が良か}{ruby:on particularly good terms with them.:ったわけではない。}`
+`{ruby:On the contrary, it was annoying to be treated:むしろ、ヤスヤスと呼ばれ、いつまで経っても半人}{ruby:like a kid and called Yasu all the time.:前扱いだったので、不愉快なくらいだった。}`
 `{ruby:Even when new servants had joined,:せっかく後輩が入ってきても、}`
-`{ruby:the older ones got them believing that "Yasu loses things all the time",:先輩たちが私のことを、ヤスはよく物をなくして云々と吹き込んだため、}`
-`{ruby:so things had still been unpleasant even then.:新しい仲間が来ても不愉快なままだったのだ。}`
-`{ruby:Those unpleasant older servants, as well as the ones who started at the same time or after I did, all quit at once.:その、不愉快な先輩も同輩も後輩も、一度に辞めることとなった。}`
-`{ruby:The Ushiromiya family had no quarrel with those who left.:右代宮家は去る者を追わない。}`
-`{ruby:Adult servants were easier to handle in the first place.:そもそも、使用人としては、大人の方が使いやすい。}`
-`{ruby:The Gospel House servants were only accepted so that they could be trained.:あくまでも福音の家の使用人は、研修として受け容れているだけだ。}`
-`{ruby:So, all of the servants except for me left, and no one tried to stop them......:だから、誰も引き止めず、私以外の使用人たちは、一度に辞めた……。}`
+`{ruby:the older ones got them believing:先輩たちが私のことを、ヤスはよく物を}{ruby:that "Yasu loses things all the time",:なくして云々と吹き込んだため、}`
+`{ruby:so things had still:新しい仲間が来ても不愉快}{ruby:been unpleasant even then.:なままだったのだ。}`
+`{ruby:Those unpleasant older servants, as well as the ones who started:その、不愉快な先輩も同輩も後輩も}{ruby:at the same time or after I did, all quit at once.:、一度に辞めることとなった。}`
+`{ruby:The Ushiromiya family had no:右代宮家は去る者}{ruby:quarrel with those who left.:を追わない。}`
+`{ruby:Adult servants were easier to:そもそも、使用人としては、}{ruby:handle in the first place.:大人の方が使いやすい。}`
+`{ruby:The Gospel House servants were only:あくまでも福音の家の使用人は、研修}{ruby:accepted so that they could be trained.:として受け容れているだけだ。}`
+`{ruby:So, all of the servants except for me:だから、誰も引き止めず、私以外の使}{ruby:left, and no one tried to stop them......:用人たちは、一度に辞めた……。}`
 `{ruby:"Later, Yasu.:「じゃーね、ヤス。}`
 `{ruby:Don't go losing stuff again.":あんた、物を無くしたりするんじゃないわよ」}`
 `{ruby:"......I don't lose things anymore.":「……もう、無くしたりなんかしてません」}`
 `{ruby:"Hmph, later.:「ふんっ。じゃーね。}`
-`{ruby:Make sure you listen to what Madam says.:奥様の言うこと、よく聞くのよ。}`
-`{ruby:Don't you go troubling the next group of servants.":後から来る仲間に迷惑掛けるんじゃないわよ」}`
-`{ruby:"......You know, it's still a mystery.:「……未だに謎よね。}`
+`{ruby:Make sure you listen:奥様の言うこと、よ}{ruby:to what Madam says.:く聞くのよ。}`
+`{ruby:Don't you go troubling:後から来る仲間に迷惑掛け}{ruby:the next group of servants.":るんじゃないわよ」}`
+`{ruby:"......You know, it's:「……未だに}{ruby:still a mystery.:謎よね。}`
 `{ruby:Why did someone recommend Yasu?":どうしてヤスはここに推薦されたの？」}`
-`{ruby:"It's even more surprising that Madam let Yasu stay this long.":「それを言ったら、未だに奥様がヤスの勤務を認めてる方が意外だわ」}`
-`{ruby:"Hey, at least the kid's got the guts to not give up and run away.:「逃げ出さない分だけ、根性があるってもんだ。}`
+`{ruby:"It's even more surprising that:「それを言ったら、未だに奥様がヤス}{ruby:Madam let Yasu stay this long.":の勤務を認めてる方が意外だわ」}`
+`{ruby:"Hey, at least the kid's got the:「逃げ出さない分だけ、根}{ruby:guts to not give up and run away.:性があるってもんだ。}`
 `{ruby:Keep it up, {i:Yasu}.":しっかりな、ヤ・ス」}`
 `{ruby:"I, I......hate being called Yasu...":「わ、私、……ヤスって呼ばれるの、嫌いです…」}`
-`{ruby:At the very end, ......I finally said the one thing I'd always wanted to say to them.:最後の最後に、……彼女らに言い返したかった一言を、ようやく口に出来る。}`
-`{ruby:However, they basically ignored me, and just picked up their things and left...:しかし彼女らは、大して気にも留めず、荷物をまとめてぞろぞろと出て行くのだった…。}`
+`{ruby:At the very end, ......I finally said the:最後の最後に、……彼女らに言い返したか}{ruby:one thing I'd always wanted to say to them.:った一言を、ようやく口に出来る。}`
+`{ruby:However, they basically ignored me, and:しかし彼女らは、大して気にも留めず、荷物を}{ruby:just picked up their things and left...:まとめてぞろぞろと出て行くのだった…。}`
 `{ruby:"........................":「……………………」}`
-`{ruby:"......Guess you never got a chance to become friends with them.":「……みんなとは、ついにお友達になれなかったね」}`
+`{ruby:"......Guess you never got a:「……みんなとは、ついにお}{ruby:chance to become friends with them.":友達になれなかったね」}`
 `{ruby:"I wouldn't even want to.":「なりたくもなかったし」}`
 `{ruby:"Yep.:「うん。}`
-`{ruby:I'm sure they feel the same way, so you're even.:向こうもそうだったろうし、お相子だね。}`
+`{ruby:I'm sure they feel the:向こうもそうだったろう}{ruby:same way, so you're even.:し、お相子だね。}`
 `{ruby:Just forget about those people.:あの人たちのことは、もう忘れちゃおう。}`
-`{ruby:They don't have anything to do with you anymore.:もう、お互い、何の関わりもない。}`
-`{ruby:So, there's no reason to give them any more thought.":だから、心に留める必要もない」}`
+`{ruby:They don't have anything:もう、お互い、何の}{ruby:to do with you anymore.:関わりもない。}`
+`{ruby:So, there's no reason to:だから、心に留める}{ruby:give them any more thought.":必要もない」}`
 `{ruby:"............Yeah.:「…………うん。}`
 `{ruby:......You're right.":……そうだね」}`
 `{ruby:I felt just a bit disappointed.:ちょっとだけ、悔しかった。}`
-`{ruby:I was never able to get them to acknowledge that I'd become a fully‐fledged servant who could take care of myself.:最後まで彼女らに、私がしっかり一人前になったことを、認めてもらえなかった。}`
-`{ruby:"It's hard for people to throw off their first impressions.:「人は、最初の印象をいつまでも引き摺る生き物だからね。}`
+`{ruby:I was never able to get them to acknowledge that:最後まで彼女らに、私がしっかり一人前にな}{ruby:I'd become a fully‐fledged servant who could take care of myself.:ったことを、認めてもらえなかった。}`
+`{ruby:"It's hard for people to:「人は、最初の印象をいつまでも}{ruby:throw off their first impressions.:引き摺る生き物だからね。}`
 `{ruby:......That's just how it is.:……だから仕方がない。}`
-`{ruby:No matter how wonderful a person you grow into,:あなたがどんなに素晴らしい人間に成長しても、}`
-`{ruby:they would probably always call you Yasu and make fun of you.:彼女らはきっと、いつまでもヤスと呼び続けて、あなたを馬鹿にしたと思うもの。}`
-`{ruby:There's no reason for you to seek their validation.":そんな人たちに認めさせようと思うなんて、全然意味のないことなんだよ」}`
+`{ruby:No matter how wonderful:あなたがどんなに素晴らし}{ruby:a person you grow into,:い人間に成長しても、}`
+`{ruby:they would probably always call you:彼女らはきっと、いつまでもヤスと呼び続け}{ruby:Yasu and make fun of you.:て、あなたを馬鹿にしたと思うもの。}`
+`{ruby:There's no reason for:そんな人たちに認めさせようと思うなん}{ruby:you to seek their validation.":て、全然意味のないことなんだよ」}`
 `{ruby:"......Yes.:「……そうだね。}`
 `{ruby:Yeah, you're right, Shannon.:うん、紗音の言う通り。}`
-`{ruby:I'll completely forget about those people.":もう、あの人たちのことは綺麗さっぱり忘れるよ」}`
+`{ruby:I'll completely forget:もう、あの人たちのことは綺}{ruby:about those people.":麗さっぱり忘れるよ」}`
 `{ruby:"Good.:「それがいいよ。}`
-`{ruby:You have two great friends, Kumasawa‐san and me.:あなたには私や熊沢さんなどの、素敵な友達がいるじゃない。}`
-`{ruby:And when the new servants come, you can show them from the start that you can take care of yourself.":そして、新しい使用人の人たちの前では、今度は一人前の姿を見せてあげればいい」}`
+`{ruby:You have two great:あなたには私や熊沢さんなどの、}{ruby:friends, Kumasawa‐san and me.:素敵な友達がいるじゃない。}`
+`{ruby:And when the new servants come, you can show them:そして、新しい使用人の人たちの前では、今}{ruby:from the start that you can take care of yourself.":度は一人前の姿を見せてあげればいい」}`
 `{ruby:Shannon was exactly right.:まったく、紗音の言う通りだった。}`
-`{ruby:I regained a sense of confidence and pride that I hadn't felt since that day when I held the key with the spiderweb charm up high.:私は、あの蜘蛛の糸のまじないの鍵を高々と掲げたあの日以来の、誇らしげな気持ちを取り戻す。}`
-`{ruby:......I am now the most experienced Fukuin servant.:……福音の家の使用人たちの中で、自分が一番の古参となったのだ。}`
-`{ruby:The new servants who come will still probably be older than me,:新しく来る使用人は、相変わらず私よりも年上だろうけれど。}`
-`{ruby:but I need to teach them the ropes as the more experienced servant.:私が、先輩として色々教えなきゃ。}`
-`{ruby:Genji‐sama even told me to guide the newer servants...:源次さまも、これからは先輩として指導するようにと言ってくれてた…。}`
+`{ruby:I regained a sense of confidence and pride that I hadn't felt since:私は、あの蜘蛛の糸のまじないの鍵を高々と掲げた}{ruby:that day when I held the key with the spiderweb charm up high.:あの日以来の、誇らしげな気持ちを取り戻す。}`
+`{ruby:......I am now the:……福音の家の使用人たちの中で、自}{ruby:most experienced Fukuin servant.:分が一番の古参となったのだ。}`
+`{ruby:The new servants who come will:新しく来る使用人は、相変わらず}{ruby:still probably be older than me,:私よりも年上だろうけれど。}`
+`{ruby:but I need to teach them:私が、先輩として色}{ruby:the ropes as the more experienced servant.:々教えなきゃ。}`
+`{ruby:Genji‐sama even told me:源次さまも、これからは先輩として指導}{ruby:to guide the newer servants...:するようにと言ってくれてた…。}`
 `{ruby:Okay.:うん。}`
 `{ruby:......I'll give it my all.:……がんばろう。}`
 `{ruby:"That's the right attitude.:「その意気だね。}`
@@ -82,54 +82,54 @@
 `{ruby:"My name is Belne ({p:0:鐘音}).:「鐘音と申しまーす。}`
 `{ruby:Pleased to meet you.":よろしくお願いしまーす」}`
 `{ruby:.....................:…………………。}`
-`{ruby:The newly arrived servants looked......a bit frivolous.:新しく来た人たちは、……何というか、ちょっと軽薄そうな感じ。}`
-`{ruby:When I first joined the Ushiromiya family, I was incredibly nervous.:私が初めて右代宮家に来た時は、ものすごく緊張していたものだけど。}`
-`{ruby:However, I couldn't see any trace of that nervousness on these girls...:彼女らの様子には、そんなものは微塵も感じられなかった…。}`
+`{ruby:The newly arrived:新しく来た人たちは、……何という}{ruby:servants looked......a bit frivolous.:か、ちょっと軽薄そうな感じ。}`
+`{ruby:When I first joined the:私が初めて右代宮家に来た時は、もの}{ruby:Ushiromiya family, I was incredibly nervous.:すごく緊張していたものだけど。}`
+`{ruby:However, I couldn't see any trace:彼女らの様子には、そんなものは}{ruby:of that nervousness on these girls...:微塵も感じられなかった…。}`
 `{ruby:"Yes.:「えぇ。}`
-`{ruby:Usually, kids with good grades and behavior were selected.":基本的には成績が優秀で、品行方正な子が選ばれます」}`
+`{ruby:Usually, kids with good:基本的には成績が優秀で、品行}{ruby:grades and behavior were selected.":方正な子が選ばれます」}`
 `{ruby:"How are they selected?:「どうやって選ぶの？}`
 `{ruby:Who chooses?":誰が選ぶの？」}`
-`{ruby:"People from the board of directors come and interview them.:「理事の先生方が来て、面接をされるんです。}`
-`{ruby:And other things are considered like their everyday conduct...":他にも、日頃の素行とか…」}`
-`{ruby:"So! As long as they acted like good kids in front of the adults, they could pass?":「じゃあ！　先生の前でだけいい子ぶってても、合格できちゃうってことも？」}`
+`{ruby:"People from the board of:「理事の先生方が来て、面}{ruby:directors come and interview them.:接をされるんです。}`
+`{ruby:And other things are:他にも、日頃の素}{ruby:considered like their everyday conduct...":行とか…」}`
+`{ruby:"So! As long as they acted like good:「じゃあ！　先生の前でだけいい子ぶって}{ruby:kids in front of the adults, they could pass?":ても、合格できちゃうってことも？」}`
 `{ruby:"......Well,:「……まぁ、}`
 `{ruby:ummm,:その、}`
-`{ruby:......there were times that they passed because the adults thought they looked suitable...":……先生が見て、良いと判断されれば合格することも…」}`
-`{ruby:"All of the children who came from the Gospel House were highly individualistic.:「福音の家よりやって来る子たちは、いつだって個性的だった。}`
-`{ruby:Their rough edges would be sanded down as they worked as servants,:それが使用人としての日々の中で研磨され、}`
-`{ruby:and eventually they would grow to be servants who would not shame the Ushiromiya family.":やがては右代宮家の使用人の名に恥じない立派な姿に成長していくのだ」}`
-`{ruby:"However, it was the role of the more experienced servants to encourage this model behavior.:「とはいえ、それを促すのは先輩使用人たちの役目。}`
-`{ruby:......Since I was now the only one with experience, it was my responsibility to guide them.":……今や我だけが古参である以上、彼女らを立派に導く責務があるのだ」}`
+`{ruby:......there were times that they passed:……先生が見て、良いと判断さ}{ruby:because the adults thought they looked suitable...":れれば合格することも…」}`
+`{ruby:"All of the children who came:「福音の家よりやって来る子たちは}{ruby:from the Gospel House were highly individualistic.:、いつだって個性的だった。}`
+`{ruby:Their rough edges would be sanded:それが使用人としての日}{ruby:down as they worked as servants,:々の中で研磨され、}`
+`{ruby:and eventually they would grow to be:やがては右代宮家の使用人の名に恥じな}{ruby:servants who would not shame the Ushiromiya family.":い立派な姿に成長していくのだ」}`
+`{ruby:"However, it was the role of the:「とはいえ、それを促すのは}{ruby:more experienced servants to encourage this model behavior.:先輩使用人たちの役目。}`
+`{ruby:......Since I was now the only one with:……今や我だけが古参である以上、彼女}{ruby:experience, it was my responsibility to guide them.":らを立派に導く責務があるのだ」}`
 `{ruby:"What were the new kids like?":「新しく来た子たちは、どんな感じだった？」}`
 `{ruby:"Elites, no doubt?!:「もちろんエリートね！}`
 `{ruby:Of irreproachable conduct!":品行方正な！」}`
-`{ruby:"......I think they were like that when Madam and Genji‐sama were around.:「……奥様や源次さまの前ではそうだったと思います。}`
+`{ruby:"......I think they were like that:「……奥様や源次さまの前では}{ruby:when Madam and Genji‐sama were around.:そうだったと思います。}`
 `{ruby:However,:でも、}`
-`{ruby:......when their superiors weren't around, well,:……目上の方がいらっしゃらない時はその、}`
-`{ruby:......they didn't take things quite as seriously...":……ちょっと不真面目だったみたいで…」}`
+`{ruby:......when their superiors:……目上の方がいらっし}{ruby:weren't around, well,:ゃらない時はその、}`
+`{ruby:......they didn't take:……ちょっと不真面目だ}{ruby:things quite as seriously...":ったみたいで…」}`
 `{ruby:"Asne‐san...:「明日音さん…。}`
-`{ruby:Make sure you put your tools on the cart when you're done using them.":お道具は使う度にちゃんと台車に戻して下さい」}`
+`{ruby:Make sure you put your tools on:お道具は使う度にちゃんと}{ruby:the cart when you're done using them.":台車に戻して下さい」}`
 `{ruby:"Kyahhahahahaha!:「きゃっははははは！}`
 `{ruby:......Huh?:……え？}`
 `{ruby:Su~re. So~rry.":はーい。ごめんなさーい」}`
-`{ruby:As an experienced servant, I also gave them a warning.:私も先輩として注意する。}`
-`{ruby:"And Belne‐san, you shouldn't set your key down in a place like that.:「鐘音さんも、そんなとこに鍵を置いちゃ駄目です。}`
+`{ruby:As an experienced servant, I:私も先輩として}{ruby:also gave them a warning.:注意する。}`
+`{ruby:"And Belne‐san, you shouldn't set your:「鐘音さんも、そんなとこに}{ruby:key down in a place like that.:鍵を置いちゃ駄目です。}`
 `{ruby:You'll lose it.":なくなっちゃいますよ」}`
 `{ruby:"I'm not gonna lose it.:「なくしませーん。}`
 `{ruby:I never forget where I put things.":私、置いた場所は絶対忘れませんからー」}`
-`{ruby:When I first arrived here, the older servants would often tell me off just as I was doing now.:かつて私が、ここへ来たばかりの頃も、よく先輩使用人たちにそう怒られたものだ。}`
-`{ruby:They would probably have been far more mean and obnoxious about it.:先輩だったら、もっと嫌みったらしく、ネチネチと言っただろう。}`
-`{ruby:I had hated that, so I tried to be more gentle when admonishing them, but they wouldn't take me seriously...:それが嫌だったから、私は諭すようにやさしく言うのだが、彼女らは真面目に聞いてくれない…。}`
+`{ruby:When I first arrived here, the older servants would:かつて私が、ここへ来たばかりの頃も、よく}{ruby:often tell me off just as I was doing now.:先輩使用人たちにそう怒られたものだ。}`
+`{ruby:They would probably have been far:先輩だったら、もっと嫌みったらし}{ruby:more mean and obnoxious about it.:く、ネチネチと言っただろう。}`
+`{ruby:I had hated that, so I tried to be more:それが嫌だったから、私は諭すようにやさしく言う}{ruby:gentle when admonishing them, but they wouldn't take me seriously...:のだが、彼女らは真面目に聞いてくれない…。}`
 `{ruby:"L‐listen up.:「い、いいですか。}`
-`{ruby:You know there's a witch living in the mansion, don't you...?":このお屋敷には魔女が住んでるんですよ…？」}`
+`{ruby:You know there's a witch:このお屋敷には魔女が住ん}{ruby:living in the mansion, don't you...?":でるんですよ…？」}`
 `{ruby:"Oooh, {f:5:Beatrice}~!":「おぉ、ベアトリーチェよ〜！」}`
-`{ruby:"Kyahahahaha! That sounded just like him!":「きゃっはははは！　それ似てるぅ〜！」}`
+`{ruby:"Kyahahahaha! That sounded:「きゃっはははは！　そ}{ruby:just like him!":れ似てるぅ〜！」}`
 `{ruby:"Shannon‐chan,:「まさか、紗音ちゃんも。}`
-`{ruby:don't tell me you believe in that too?":それ信じてるわけじゃないですよねー？」}`
+`{ruby:don't tell me you:それ信じてるわけじゃな}{ruby:believe in that too?":いですよねー？」}`
 `{ruby:"Y‐yes, she really exists...:「い、いえ、本当にいるんですよ…。}`
-`{ruby:If you leave things lying around, the witch will prank you and hide them...":物を放ったらかしにしておくと、魔女が悪戯して隠したりするんですよ…」}`
+`{ruby:If you leave things lying around, the:物を放ったらかしにしておくと、魔女が}{ruby:witch will prank you and hide them...":悪戯して隠したりするんですよ…」}`
 `{ruby:"It's true.:「本当です。}`
-`{ruby:It's gotten me into trouble many times...":私も何度もひどい目に遭わされたことがあるんですから…」}`
+`{ruby:It's gotten me:私も何度もひどい目に遭わされた}{ruby:into trouble many times...":ことがあるんですから…」}`
 `{ruby:"A witch hiding things?":「魔女が物を隠すなんてー」}`
 `{ruby:"That's totally impossible.":「そんなこと、あるわけないじゃないですかー」}`
 `{ruby:"I mean, come on, witches?":「魔女なんてそんなのー、」}`
@@ -137,327 +137,327 @@
 `{ruby:Kyahhahahahaha!":きゃっははははははは！」}`
 `{ruby:"They don't exist.:「いるわけないです。}`
 `{ruby:......Witches.":……魔女なんて」}`
-`{ruby:"......I thought they were just pranks.:「……悪戯だと思ってました。}`
-`{ruby:No, ......I think it just gave me peace of mind to think of them that way......while I still could.":いや、……そう思っていられるうちが気楽だった気がします」}`
-`{ruby:"Do you think the witch {f:5:Beatrice} actually existed...?":「魔女ベアトリーチェは、確かにいたと思う…？」}`
+`{ruby:"......I thought they:「……悪戯だと思}{ruby:were just pranks.:ってました。}`
+`{ruby:No, ......I think it just gave me peace of:いや、……そう思っていられるう}{ruby:mind to think of them that way......while I still could.":ちが気楽だった気がします」}`
+`{ruby:"Do you think the:「魔女ベアトリーチェは、確}{ruby:witch {f:5:Beatrice} actually existed...?":かにいたと思う…？」}`
 `{ruby:"I don't believe it.":「私は信じない」}`
-`{ruby:"......I don't know if it was {f:5:Beatrice},:「……ベアトリーチェであったかは、わかりません。}`
-`{ruby:but I do think that something that wasn't human...:でも、人間じゃない何かは、}`
+`{ruby:"......I don't know:「……ベアトリーチェであっ}{ruby:if it was {f:5:Beatrice},:たかは、わかりません。}`
+`{ruby:but I do think:でも、人間じゃな}{ruby:that something that wasn't human...:い何かは、}`
 `{ruby:...really did exist in that mansion.":……確かにあのお屋敷にいたんじゃないかと思います」}`
-`{ruby:"Do you think there's a chance that this non‐human thing was {f:5:Beatrice}...?":「人間じゃない何かというのは、ベアトリーチェの可能性もあると思う…？」}`
+`{ruby:"Do you think there's a chance:「人間じゃない何かというのは、ベアトリ}{ruby:that this non‐human thing was {f:5:Beatrice}...?":ーチェの可能性もあると思う…？」}`
 `{ruby:"Ridiculous.":「馬鹿馬鹿しい」}`
-`{ruby:"......I wish I could say it was ridiculous.":「……私も馬鹿馬鹿しいと思いたい」}`
-`{ruby:"That must have been a prank of Yasu's. No, not a prank, revenge.":「あれはきっと、ヤスの悪戯、うぅん、仕返しでしょ」}`
-`{ruby:"I did think that at first, but......":「私も、最初はそう思ったけれど……」}`
-`{ruby:"Did something happen that couldn't be explained away as a prank...?":「悪戯では説明できないことがあった…？」}`
+`{ruby:"......I wish I could:「……私も馬鹿馬鹿し}{ruby:say it was ridiculous.":いと思いたい」}`
+`{ruby:"That must have been a prank:「あれはきっと、ヤスの悪戯、}{ruby:of Yasu's. No, not a prank, revenge.":うぅん、仕返しでしょ」}`
+`{ruby:"I did think:「私も、最初はそう思}{ruby:that at first, but......":ったけれど……」}`
+`{ruby:"Did something happen that couldn't:「悪戯では説明できない}{ruby:be explained away as a prank...?":ことがあった…？」}`
 `{ruby:"......It was persistent.:「……執拗。}`
 `{ruby:......And creepy.":……というか、気持ち悪い」}`
-`{ruby:"Specifically, what sorts of things happened?":「具体的にはどんなことがあったの？」}`
-`{ruby:"Things I set down would disappear as soon as I looked away for a second.":「置いた物が、ふっと振り返った拍子には、もうないんです」}`
+`{ruby:"Specifically, what sorts:「具体的にはどんなこ}{ruby:of things happened?":とがあったの？」}`
+`{ruby:"Things I set down would disappear as:「置いた物が、ふっと振り返った}{ruby:soon as I looked away for a second.":拍子には、もうないんです」}`
 `{ruby:"Didn't Yasu just hide them?":「ヤスが隠したんでしょ？」}`
 `{ruby:"I thought so at first.:「最初はそう思った。}`
 `{ruby:It was only natural to think that.:そう考えるのが自然だった。}`
-`{ruby:But I started getting this feeling that something wasn't right.:でも違和感も覚えてた。}`
-`{ruby:I kept thinking...would a timid kid like that really pull such nasty pranks?":あんな気弱な子が、そこまでエゲツないことするかなって、ずっと思ってた」}`
+`{ruby:But I started getting this:でも違和感も覚}{ruby:feeling that something wasn't right.:えてた。}`
+`{ruby:I kept thinking...would a timid kid:あんな気弱な子が、そこまでエゲツないこ}{ruby:like that really pull such nasty pranks?":とするかなって、ずっと思ってた」}`
 `{ruby:"Can you tell us what happened?":「どんなことがあったか、話して？」}`
-`{ruby:"......When my key ring disappeared, it was easy to think that Yasu snatched it when I wasn't looking.:「……鍵束がなくなった時には、私が見てない隙にヤスが、ひょいってどこかに隠したんだろうと思えた。}`
-`{ruby:......But when just a single key disappeared off that key ring...:……でも、鍵束から、ひとつの鍵だけが消えてて、}`
-`{ruby:and reappeared somewhere impossible, I couldn't think of it that way.":それがありもしないところから出てくるなんて、考えられない」}`
-`{ruby:"Maybe Yasu just pulled that one key off while you weren't looking...?":「その鍵だけ、あんたが見てない隙に、引っこ抜いたんじゃないの…？」}`
-`{ruby:"Is that even possible?! Practically speaking?!:「そんなの出来る？！　実際に！}`
-`{ruby:Quickly hiding the whole ring is one thing,:鍵束を丸ごとひょいっと隠すならともかく、}`
-`{ruby:but if you really think about it, taking a single key off a key ring isn't that easy!:鍵束から鍵をひとつ抜き取るって、考えれば考えるほどに簡単じゃないよ？！}`
+`{ruby:"......When my key ring disappeared, it was easy to:「……鍵束がなくなった時には、私が見てない隙にヤス}{ruby:think that Yasu snatched it when I wasn't looking.:が、ひょいってどこかに隠したんだろうと思えた。}`
+`{ruby:......But when just a single:……でも、鍵束から、ひとつ}{ruby:key disappeared off that key ring...:の鍵だけが消えてて、}`
+`{ruby:and reappeared somewhere impossible, I:それがありもしないところから出て}{ruby:couldn't think of it that way.":くるなんて、考えられない」}`
+`{ruby:"Maybe Yasu just pulled that one:「その鍵だけ、あんたが見てない隙に、}{ruby:key off while you weren't looking...?":引っこ抜いたんじゃないの…？」}`
+`{ruby:"Is that even:「そんなの出来る？}{ruby:possible?! Practically speaking?!:！　実際に！}`
+`{ruby:Quickly hiding the whole:鍵束を丸ごとひょいっと隠}{ruby:ring is one thing,:すならともかく、}`
+`{ruby:but if you really think about it, taking a:鍵束から鍵をひとつ抜き取るって、考えれ}{ruby:single key off a key ring isn't that easy!:ば考えるほどに簡単じゃないよ？！}`
 `{ruby:The keys would jingle and jangle.:カチャカチャ、ガチャガチャ。}`
-`{ruby:I was standing right next to them, facing the other way!:すぐそこで私が背中を向けてるのよ？}`
-`{ruby:If someone had taken their time to carefully remove a key when I was that close, even an idiot like me would've noticed!":そんなこと悠長にやってたら、いくら私が馬鹿でも気が付く！」}`
-`{ruby:"But a single key just vanished without a sound.:「でも音もなくすぅっと、鍵がひとつだけ消えていた。}`
-`{ruby:......At that moment, I finally realized.:……あの時に初めて気が付いたの。}`
-`{ruby:This wasn't Yasu trying to get back at me,:これ、逆ギレしたヤスの悪戯じゃなくて、}`
+`{ruby:I was standing right next:すぐそこで私が背中を}{ruby:to them, facing the other way!:向けてるのよ？}`
+`{ruby:If someone had taken their time to carefully remove a key:そんなこと悠長にやってたら、いく}{ruby:when I was that close, even an idiot like me would've noticed!":ら私が馬鹿でも気が付く！」}`
+`{ruby:"But a single key:「でも音もなくすぅっと、鍵が}{ruby:just vanished without a sound.:ひとつだけ消えていた。}`
+`{ruby:......At that moment,:……あの時に初めて}{ruby:I finally realized.:気が付いたの。}`
+`{ruby:This wasn't Yasu trying:これ、逆ギレしたヤスの}{ruby:to get back at me,:悪戯じゃなくて、}`
 `{ruby:......it was something...:……もっとその、}`
 `{ruby:...worse...:……ヤバいモンなんじゃね、}`
 `{ruby:than that.":…って」}`
-`{ruby:"And where did you find this disappearing key?":「その、紛失した鍵はどこから見つかったの？」}`
+`{ruby:"And where did you:「その、紛失した鍵はどこ}{ruby:find this disappearing key?":から見つかったの？」}`
 `{ruby:"It was...:「私の、}`
 `{ruby:......in my locker.":………ロッカーから」}`
-`{ruby:"Belne, you're such a ditz sometimes...:「鐘音、ウッカリ屋だからさ…。}`
-`{ruby:Are you sure you didn't just take that key off yourself and forget that you put it in your locker......?":ひょいって鍵を、それだけ外して、ロッカーにしまったのを忘れてたんじゃないの……？」}`
-`{ruby:"Why would I take that one key off the ring?!:「鍵束から、何でわざわざその鍵だけを外すわけ？！}`
-`{ruby:Have you ever taken a key off your key ring, Asne, or put one on?!:明日音、鍵束の鍵、外したり、あるいは戻したりしたことある？！}`
+`{ruby:"Belne, you're such:「鐘音、ウッカリ屋}{ruby:a ditz sometimes...:だからさ…。}`
+`{ruby:Are you sure you didn't just take that key off:ひょいって鍵を、それだけ外して、ロッカーにし}{ruby:yourself and forget that you put it in your locker......?":まったのを忘れてたんじゃないの……？」}`
+`{ruby:"Why would I take that:「鍵束から、何でわざわざそ}{ruby:one key off the ring?!:の鍵だけを外すわけ？！}`
+`{ruby:Have you ever taken a key off:明日音、鍵束の鍵、外したり、あるい}{ruby:your key ring, Asne, or put one on?!:は戻したりしたことある？！}`
 `{ruby:I tried doing it myself.:私も試してみた。}`
 `{ruby:It's really stiff!:あれ、すごく硬い！}`
-`{ruby:I would never go to all that trouble.:わざわざやらない！}`
+`{ruby:I would never go:わざわざやら}{ruby:to all that trouble.:ない！}`
 `{ruby:There's no point in it!:やる意味ないしッ！}`
 `{ruby:Am I a sleepwalker or something?!:私、夢遊病？！}`
-`{ruby:How could I not remember something I'd done?!":自分でやったことの記憶さえないっての？！」}`
-`{ruby:"I may be stupid, but I'm not that stupid!:「私、馬鹿だけど、そこまで馬鹿じゃない！}`
-`{ruby:I don't forget about things I do that easily!!:私、そこまで自分のこと、忘れてたりしない！！}`
-`{ruby:And anyway, I know I had my key with me when I entered the room!:それに私の鍵さ、確実に部屋に入った時はあったよ？！}`
-`{ruby:Otherwise, how could I have unlocked the door?!":じゃなきゃ、あの部屋の鍵、私、どうやって開けたわけよ？！」}`
+`{ruby:How could I not:自分でやったことの記憶さ}{ruby:remember something I'd done?!":えないっての？！」}`
+`{ruby:"I may be stupid,:「私、馬鹿だけど、そこ}{ruby:but I'm not that stupid!:まで馬鹿じゃない！}`
+`{ruby:I don't forget about:私、そこまで自分のこと、忘}{ruby:things I do that easily!!:れてたりしない！！}`
+`{ruby:And anyway, I know I had my:それに私の鍵さ、確実に部屋に}{ruby:key with me when I entered the room!:入った時はあったよ？！}`
+`{ruby:Otherwise, how could I:じゃなきゃ、あの部屋の鍵、私、ど}{ruby:have unlocked the door?!":うやって開けたわけよ？！」}`
 `{ruby:"......Okay then...:「……だからさ…。}`
 `{ruby:Being careful not to make any sound,:音をさせないようにさ。}`
 `{ruby:Yasu must have, um,:スルリとその、}`
 `{ruby:...slipped the key off,:……ヤスがうまく鍵を抜いて、}`
 `{ruby:and hid it in your locker...":鐘音のロッカーに隠したんだよ、きっと…」}`
 `{ruby:"That's what I thought at first!:「私も最初はそう思った！}`
-`{ruby:I jumped at Yasu, telling that kid not to mess with me!:ヤスに、舐めたことすんじゃねって食って掛かった！}`
+`{ruby:I jumped at Yasu, telling that:ヤスに、舐めたことすんじゃね}{ruby:kid not to mess with me!:って食って掛かった！}`
 `{ruby:But even as I said it, I realized.:でも、言いながら思ってた。}`
-`{ruby:Isn't there something completely wrong here?!":これ、絶対ヘンじゃね？　って！」}`
-`{ruby:"I mean, we were with Yasu the whole time that day as we went around cleaning the rooms, right?!:「だってさ、あの日、私たち、ずっとヤスと一緒に部屋回ってたわけでしょ？！}`
-`{ruby:There's no way Yasu had enough time to take a jangly key off the ring!:鍵をカチャカチャ外すほどの隙は絶対ないよ？！}`
+`{ruby:Isn't there something:これ、絶対ヘンじゃ}{ruby:completely wrong here?!":ね？　って！」}`
+`{ruby:"I mean, we were with Yasu the whole time:「だってさ、あの日、私たち、ずっとヤス}{ruby:that day as we went around cleaning the rooms, right?!:と一緒に部屋回ってたわけでしょ？！}`
+`{ruby:There's no way Yasu had enough time:鍵をカチャカチャ外すほどの}{ruby:to take a jangly key off the ring!:隙は絶対ないよ？！}`
 `{ruby:It was impossible for Yasu!:ヤスには無理！}`
-`{ruby:In fact, that would have been impossible for anyone, to remove just a single key in that short amount of time without making a sound!!":っていうか、誰にも不可能だよ、音をさせずに、それもわずかの隙に鍵を一本だけ抜き取るなんて！！」}`
-`{ruby:"M‐maybe the ring was missing a master key when you got it...":「う、受け取った時から、もうマスターキーが１本足りなかったとか…」}`
+`{ruby:In fact, that would have been impossible for anyone, to remove just:っていうか、誰にも不可能だよ、音をさせずに、それも}{ruby:a single key in that short amount of time without making a sound!!":わずかの隙に鍵を一本だけ抜き取るなんて！！」}`
+`{ruby:"M‐maybe the ring was missing a:「う、受け取った時から、もうマスター}{ruby:master key when you got it...":キーが１本足りなかったとか…」}`
 `{ruby:"I already told you!!:「だから言ってんじゃん！！}`
-`{ruby:The key really was there in the beginning!:ちゃんと鍵は最初あった！}`
-`{ruby:I was the one who unlocked that room!:あの部屋の鍵を開けたのは私！}`
+`{ruby:The key really was:ちゃんと鍵は最初}{ruby:there in the beginning!:あった！}`
+`{ruby:I was the one:あの部屋の鍵を開け}{ruby:who unlocked that room!:たのは私！}`
 `{ruby:So it must have been there!:だから絶対、鍵はあった！}`
-`{ruby:......And then, I went into the room!:……んで、部屋に入って！}`
-`{ruby:I'm an idiot who hates hearing the keys clattering around, so I placed the ring on the bed...!":私、馬鹿だから、鍵のジャラジャラが嫌いで、ひょいっとベッドの上に置いといた…！」}`
-`{ruby:"Then, when we finished cleaning, I picked up the ring, tried to lock the door, and it was gone!:「それで掃除終わって、鍵束取って、施錠しようとしたらもうなかった！}`
-`{ruby:I may have turned my back on the ring, but it was right next to me!:背中を向けてはいたけれど、鍵のすぐ傍にいた！}`
-`{ruby:So, if someone tried to pull a prank by removing just one key, I'd have heard the clinking!:だから、誰かが鍵を１本だけ抜くなんて悪戯をして、悠長にガチャガチャ言わせたらすぐわかる！}`
-`{ruby:And yet, just the key for that room vanished and appeared again in my locker!!":なのに、その部屋の鍵１本だけがすぅっと蒸発して、私のロッカーの中に！！」}`
-`{ruby:"......So okay, let's say that Yasu managed to sneak it away.:「……いいよ、ヤスがこっそりやったって仮定してもいい。}`
+`{ruby:......And then, I:……んで、部屋に}{ruby:went into the room!:入って！}`
+`{ruby:I'm an idiot who hates hearing the keys clattering:私、馬鹿だから、鍵のジャラジャラが嫌いで、ひ}{ruby:around, so I placed the ring on the bed...!":ょいっとベッドの上に置いといた…！」}`
+`{ruby:"Then, when we finished cleaning, I picked up the:「それで掃除終わって、鍵束取って、施}{ruby:ring, tried to lock the door, and it was gone!:錠しようとしたらもうなかった！}`
+`{ruby:I may have turned my back on the:背中を向けてはいたけれど、}{ruby:ring, but it was right next to me!:鍵のすぐ傍にいた！}`
+`{ruby:So, if someone tried to pull a prank by:だから、誰かが鍵を１本だけ抜くなんて悪戯をして、}{ruby:removing just one key, I'd have heard the clinking!:悠長にガチャガチャ言わせたらすぐわかる！}`
+`{ruby:And yet, just the key for that:なのに、その部屋の鍵１本だけがすぅっと蒸}{ruby:room vanished and appeared again in my locker!!":発して、私のロッカーの中に！！」}`
+`{ruby:"......So okay, let's say that:「……いいよ、ヤスがこっそりや}{ruby:Yasu managed to sneak it away.:ったって仮定してもいい。}`
 `{ruby:It's less stressful to imagine.:そう考えると気楽になれるもん。}`
 `{ruby:......But still!:……でもね？！}`
-`{ruby:How could Yasu have put it in my locker, then?!:じゃあ、どうやってロッカーに入れたわけ？！}`
-`{ruby:We were together with Yasu the whole time, right?!:ヤス、私たちとずっと一緒じゃん？！}`
-`{ruby:When I started yelling about it being gone and ran all over the place looking for it, Yasu was with me until the moment I found it in my locker, get it?!":私がないないって大騒ぎして、あちこち探し回ってロッカーの中で見つけるまで、ずっと一緒だったじゃん？！」}`
+`{ruby:How could Yasu have put:じゃあ、どうやってロッカ}{ruby:it in my locker, then?!:ーに入れたわけ？！}`
+`{ruby:We were together with:ヤス、私たちとずっと}{ruby:Yasu the whole time, right?!:一緒じゃん？！}`
+`{ruby:When I started yelling about it being gone and ran all over the place looking for:私がないないって大騒ぎして、あちこち探し回ってロッカー}{ruby:it, Yasu was with me until the moment I found it in my locker, get it?!":の中で見つけるまで、ずっと一緒だったじゃん？！」}`
 `{ruby:"I'm telling you it's impossible!!:「ありえないってッ！！}`
-`{ruby:Even as I jumped at Yasu, I began to feel it.:私、ヤスに当り散らしながら感じ始めてた。}`
-`{ruby:I mean, Yasu's eyes seemed to be saying it silently.:というか、ヤスの瞳がさ、無言で言ってるわけ。}`
-`{ruby:......According to Yasu, the reason things used to go missing all the time...:……あの子の言うさ、いつの間にか物がなくなってるって、}`
-`{ruby:wasn't because Yasu was forgetful, as everyone said, ......but actually...:……みんなが言うようにあの子がぼんやりしてるんじゃなくて……、……本当に実は、}`
-`{ruby:......because impossible things would suddenly happen, just like they had to me,:……私と同じで、突然、ありえないことが起こって、}`
+`{ruby:Even as I jumped at:私、ヤスに当り散らしなが}{ruby:Yasu, I began to feel it.:ら感じ始めてた。}`
+`{ruby:I mean, Yasu's eyes seemed:というか、ヤスの瞳がさ、}{ruby:to be saying it silently.:無言で言ってるわけ。}`
+`{ruby:......According to Yasu, the reason things:……あの子の言うさ、いつの間に}{ruby:used to go missing all the time...:か物がなくなってるって、}`
+`{ruby:wasn't because Yasu was forgetful,:……みんなが言うようにあの子がぼんやりして}{ruby:as everyone said, ......but actually...:るんじゃなくて……、……本当に実は、}`
+`{ruby:......because impossible things would suddenly happen,:……私と同じで、突然、あり}{ruby:just like they had to me,:えないことが起こって、}`
 `{ruby:......and.........and...!":……その、………そのッ…！」}`
-`{ruby:"......Yasu was with you the whole time, so there was no chance for Yasu to put the key in the locker?":「……ヤスはずっと一緒だったから、ロッカーに入れるのは不可能？」}`
-`{ruby:"Did other strange things like that happen?":「そんなおかしなことが、他にも？」}`
+`{ruby:"......Yasu was with you the whole time, so there was:「……ヤスはずっと一緒だったから、}{ruby:no chance for Yasu to put the key in the locker?":ロッカーに入れるのは不可能？」}`
+`{ruby:"Did other strange:「そんなおかしなこと}{ruby:things like that happen?":が、他にも？」}`
 `{ruby:"Yeah, they did.:「うん、そう。}`
-`{ruby:More stuff went missing, but not just that... Things kept happening, over and over...:物がなくなるとか、単純にそれだけじゃないことが、その後も、他にも、何度も何度も。}`
-`{ruby:......Of course, I started getting nervous and being careful not to just leave stuff lying around, ......but that didn't help.":……さすがに薄気味悪くなって、物とかその辺に置かないように気を付けたけど、……それでも駄目だった」}`
+`{ruby:More stuff went missing, but not just:物がなくなるとか、単純にそれだけじゃないこ}{ruby:that... Things kept happening, over and over...:とが、その後も、他にも、何度も何度も。}`
+`{ruby:......Of course, I started getting nervous and being careful not:……さすがに薄気味悪くなって、物とかその辺に置かない}{ruby:to just leave stuff lying around, ......but that didn't help.":ように気を付けたけど、……それでも駄目だった」}`
 `{ruby:"......At first, I was angry at Yasu,:「……最初こそヤス舐めんなって思ってたけど、}`
-`{ruby:......but at some point, I began to realize that I was mistaken.:……途中からマジで、これは違うって理解し始めた。}`
-`{ruby:One time, a key even disappeared from a ring that was in my pocket!:私がポケットに入れっ放しにしてたはずの鍵束から鍵が消えたことだってある！}`
+`{ruby:......but at some point, I began:……途中からマジで、これは}{ruby:to realize that I was mistaken.:違うって理解し始めた。}`
+`{ruby:One time, a key even disappeared from:私がポケットに入れっ放しにしてたはずの}{ruby:a ring that was in my pocket!:鍵束から鍵が消えたことだってある！}`
 `{ruby:Then, I realized.:私は気付いた。}`
 `{ruby:......These weren't Yasu's pranks.:……ヤスが悪戯してんじゃない。}`
-`{ruby:The same thing that had happened to Yasu was now happening to me...!":ヤスも私も、同じ何かに、やられてるんじゃないかッ、って…！」}`
+`{ruby:The same thing that had happened:ヤスも私も、同じ何かに、やられて}{ruby:to Yasu was now happening to me...!":るんじゃないかッ、って…！」}`
 `{ruby:"C‐calm down a bit...:「お、落ち着きなよー……。}`
-`{ruby:I think some of those were Yasu's pranks,:私は、一部はヤスの悪戯。}`
-`{ruby:...and the others were just you being clumsy.:…それ以外のほとんどは、鐘音のウッカリか勘違いだと思ってるよ。}`
-`{ruby:......It's true that the mansion's always dark and eerie,:……確かに屋敷はいつも薄暗くて、どこか薄気味悪かったし……、}`
-`{ruby:......and it does feel like the sort of place you'd find a curse.:何か祟りとか呪いとか、そんなのがあってもおかしくなさそうな雰囲気はあった。}`
-`{ruby:I'm sure that's what made you scared like that...":そのせいできっと、鐘音はおかしな方向に怯えちゃったんじゃないかなって…」}`
+`{ruby:I think some of:私は、一部はヤ}{ruby:those were Yasu's pranks,:スの悪戯。}`
+`{ruby:...and the others were:…それ以外のほとんどは、鐘音のウッ}{ruby:just you being clumsy.:カリか勘違いだと思ってるよ。}`
+`{ruby:......It's true that the:……確かに屋敷はいつも薄暗くて、}{ruby:mansion's always dark and eerie,:どこか薄気味悪かったし……、}`
+`{ruby:......and it does feel like the:何か祟りとか呪いとか、そんなのがあっても}{ruby:sort of place you'd find a curse.:おかしくなさそうな雰囲気はあった。}`
+`{ruby:I'm sure that's what:そのせいできっと、鐘音はおかしな方向に}{ruby:made you scared like that...":怯えちゃったんじゃないかなって…」}`
 `{ruby:"You saw it too, didn't you?!:「あんただって見たでしょ？！}`
-`{ruby:Remember that white shadow we saw vanish into the VIP room that rainy day?!":ほらあの雨の日ッ、貴賓室に消えるおかしな白い影を見たでしょ？！」}`
+`{ruby:Remember that white shadow we saw vanish:ほらあの雨の日ッ、貴賓室に消えるおか}{ruby:into the VIP room that rainy day?!":しな白い影を見たでしょ？！」}`
 `{ruby:"......Y‐yes, I saw,:「……み、見たけど。}`
-`{ruby:but couldn't that just have been Madam or Milady wearing something white...?":白い何かを着た、奥様かお嬢様じゃない…？」}`
+`{ruby:but couldn't that just have been:白い何かを着た、奥様かお}{ruby:Madam or Milady wearing something white...?":嬢様じゃない…？」}`
 `{ruby:"What do you mean, something white?!:「白い何かって何？！}`
-`{ruby:Have you ever seen either of them wearing something like that?!:そんな服を着てるの、奥様もお嬢様も見たことないよ？！}`
-`{ruby:And besides, that VIP room is always locked!:というか、あの貴賓室、いつも施錠されてるし！}`
+`{ruby:Have you ever seen either:そんな服を着てるの、奥様もお嬢}{ruby:of them wearing something like that?!:様も見たことないよ？！}`
+`{ruby:And besides, that VIP:というか、あの貴賓室、いつ}{ruby:room is always locked!:も施錠されてるし！}`
 `{ruby:They don't have keys to it!:奥様とかは鍵持ってないし！}`
-`{ruby:That had to have been some kind of ghost or evil spirit...:あれは絶対、幽霊とか亡霊とか、}`
+`{ruby:That had to have been some:あれは絶対、幽霊と}{ruby:kind of ghost or evil spirit...:か亡霊とか、}`
 `{ruby:...no, the silhouette of the witch!":……うぅん、絶対に魔女の影だった！」}`
 `{ruby:"........................:「……………………。}`
 `{ruby:......Ha...hahaha...:……は、ははは…。}`
-`{ruby:So, as you can see, ......Belne started acting like this at one point.:と、まぁ、……途中から鐘音はこんな感じ。}`
+`{ruby:So, as you can see, ......Belne:と、まぁ、……途中から}{ruby:started acting like this at one point.:鐘音はこんな感じ。}`
 `{ruby:Totally scared.:すっかり怯えてしまった。}`
-`{ruby:......I've got more street smarts than her,:……私はその、スレてるから。}`
-`{ruby:so the more scared she became, the more strongly I felt that this whole thing was stupid and witches couldn't exist.":鐘音がビビればビビるほど、魔女なんて馬鹿らしい、そんなのいるわけないって思いを強くしたけど」}`
-`{ruby:"......Still, I had to be careful about what I said.:「……でも、さすがに空気を読まざるを得なかった。}`
-`{ruby:......I mean, I was starting to realize that this wasn't something I should talk about carelessly.:……というか、迂闊に口にしない方がいい話題だと気付き始めてた。}`
-`{ruby:......All ghost stories and curses sound stupid to outsiders.:……怪談とか祟りってさ、部外者が聞くと本当に馬鹿馬鹿しい。}`
-`{ruby:......But to the people who believe in them, it's absolutely not a joking matter.:……でもね、そこにいる当事者からすると、全然笑えない。}`
+`{ruby:......I've got more:……私はその、ス}{ruby:street smarts than her,:レてるから。}`
+`{ruby:so the more scared she became, the more strongly I:鐘音がビビればビビるほど、魔女なんて馬鹿らしい、}{ruby:felt that this whole thing was stupid and witches couldn't exist.":そんなのいるわけないって思いを強くしたけど」}`
+`{ruby:"......Still, I had to be:「……でも、さすがに空気を}{ruby:careful about what I said.:読まざるを得なかった。}`
+`{ruby:......I mean, I was starting to realize that:……というか、迂闊に口にしない方が}{ruby:this wasn't something I should talk about carelessly.:いい話題だと気付き始めてた。}`
+`{ruby:......All ghost stories and:……怪談とか祟りってさ、部外者が}{ruby:curses sound stupid to outsiders.:聞くと本当に馬鹿馬鹿しい。}`
+`{ruby:......But to the people who believe in:……でもね、そこにいる当事者か}{ruby:them, it's absolutely not a joking matter.:らすると、全然笑えない。}`
 `{ruby:It really was......no joke.":あれは本当に、……笑えない話だったよ」}`
-`{ruby:"......Asne didn't believe a word of what I said.:「……明日音はちっとも私の話を信じてくれなかった。}`
-`{ruby:So, I eventually stopped telling Asne about it......and confessed to Yasu instead.:だから私、途中から明日音に相談するのやめて、……ヤスに打ち明けて相談したの。}`
-`{ruby:I told Yasu "I thought you were the culprit, but it couldn't have been you".:私はあんたの悪戯だと思ってたけど、絶対にあんたじゃない。}`
+`{ruby:"......Asne didn't believe a:「……明日音はちっとも私の話}{ruby:word of what I said.:を信じてくれなかった。}`
+`{ruby:So, I eventually stopped telling Asne:だから私、途中から明日音に相談するのやめ}{ruby:about it......and confessed to Yasu instead.:て、……ヤスに打ち明けて相談したの。}`
+`{ruby:I told Yasu "I thought you were:私はあんたの悪戯だと思ってたけ}{ruby:the culprit, but it couldn't have been you".:ど、絶対にあんたじゃない。}`
 `{ruby:I said that something...:何か、その、}`
 `{ruby:...strange...was happening to me...!":……おかしなものに、やられてるッて…！」}`
 `{ruby:"......And what was the reply?":「……そうしたら、何て？」}`
-`{ruby:"Yasu said that the same thing had happened many times before, but no one would believe it...!:「自分も同じようなことが何度もあったけど、誰に相談しても信じてくれなかったって…！}`
-`{ruby:Besides, even though the older servants always made fun of Yasu, I knew that Yasu wasn't as clumsy or stupid as they said.":第一、先輩とかはヤスのこと馬鹿にしてたけど、ヤスは言われるほどドジでも馬鹿でもなかった」}`
-`{ruby:"I hated being bossed around by a younger person, so I always fought back, but Yasu did have the job pretty much down pat.:「年下に仕切られるのはムカつくから、いつも反抗してたけど、仕事は割りとそつなくこなしてた。}`
-`{ruby:I'd always thought it strange that people made so much fun of Yasu for losing things...!":そんなヤスが、そこまで馬鹿にされるほど、物をなくすなんてことあるのかなぁって不思議に思ってた…！」}`
+`{ruby:"Yasu said that the same thing had happened:「自分も同じようなことが何度もあったけど、誰}{ruby:many times before, but no one would believe it...!:に相談しても信じてくれなかったって…！}`
+`{ruby:Besides, even though the older servants always made fun of Yasu,:第一、先輩とかはヤスのこと馬鹿にしてたけど、ヤス}{ruby:I knew that Yasu wasn't as clumsy or stupid as they said.":は言われるほどドジでも馬鹿でもなかった」}`
+`{ruby:"I hated being bossed around by a younger person, so I always:「年下に仕切られるのはムカつくから、いつも反抗し}{ruby:fought back, but Yasu did have the job pretty much down pat.:てたけど、仕事は割りとそつなくこなしてた。}`
+`{ruby:I'd always thought it strange that people made:そんなヤスが、そこまで馬鹿にされるほど、物をなくすな}{ruby:so much fun of Yasu for losing things...!":んてことあるのかなぁって不思議に思ってた…！」}`
 `{ruby:"I was then sure.:「だから確信したの。}`
 `{ruby:It "existed"!:“い”る！}`
-`{ruby:Some strange, inhuman thing "existed" in this mansion!":このお屋敷には、人間とは異なる、何かおかしなものが“い”るって！」}`
-`{ruby:"And that was the witch {f:5:Beatrice}...?":「それが、魔女ベアトリーチェだと…？」}`
-`{ruby:"If {f:5:Beatrice} is what you want to call it, then I believe in {f:5:Beatrice}!:「もしそれが、そう呼ばれるものならば信じるッ。}`
-`{ruby:Anyway, something that can't be explained away by human actions definitely "existed" there!:とにかく、人間じゃ説明が出来ないものが、確かにあの屋敷には“い”たの！}`
-`{ruby:People who didn't understand kept calling Yasu and me forgetful!:それを理解できない人たちが、私やヤスのことを、ドジだのウッカリだの勝手に言ってた！}`
-`{ruby:They didn't get it... They just didn't get it!!":わかってない、全然わかってないッ！！」}`
+`{ruby:Some strange, inhuman thing:このお屋敷には、人間とは異なる、何か}{ruby:"existed" in this mansion!":おかしなものが“い”るって！」}`
+`{ruby:"And that was:「それが、魔女ベアトリ}{ruby:the witch {f:5:Beatrice}...?":ーチェだと…？」}`
+`{ruby:"If {f:5:Beatrice} is what you want to:「もしそれが、そう呼ばれる}{ruby:call it, then I believe in {f:5:Beatrice}!:ものならば信じるッ。}`
+`{ruby:Anyway, something that can't be explained:とにかく、人間じゃ説明が出来ないものが}{ruby:away by human actions definitely "existed" there!:、確かにあの屋敷には“い”たの！}`
+`{ruby:People who didn't understand kept:それを理解できない人たちが、私やヤスのことを}{ruby:calling Yasu and me forgetful!:、ドジだのウッカリだの勝手に言ってた！}`
+`{ruby:They didn't get it...:わかってない、全然わか}{ruby:They just didn't get it!!":ってないッ！！」}`
 `{ruby:"......B‐but still,:「……で、でも。}`
-`{ruby:......you got a little scared, but it spooked you into shaping up, didn't it?:……鐘音もさすがにヤバイと思って、しっかりするようになったじゃん…。}`
-`{ruby:And then all that fuss about you losing things went away, right...?:そしたら、物がなくなるとかの騒ぎ、なくなったじゃん…？}`
-`{ruby:So it must have been your imagination all the time......":やっぱり鐘音の勘違いだったんだよ……」}`
+`{ruby:......you got a little scared, but it:……鐘音もさすがにヤバイと思って、し}{ruby:spooked you into shaping up, didn't it?:っかりするようになったじゃん…。}`
+`{ruby:And then all that fuss about:そしたら、物がなくなるとかの騒}{ruby:you losing things went away, right...?:ぎ、なくなったじゃん…？}`
+`{ruby:So it must have been:やっぱり鐘音の勘違いだ}{ruby:your imagination all the time......":ったんだよ……」}`
 `{ruby:"You're wrong!!:「違うよ！！}`
-`{ruby:I talked to Yasu, Shannon, and Kumasawa‐san about it!:私、ヤスに、紗音に、熊沢さんとかにも相談したの！}`
-`{ruby:And they said that the witch really did exist...:そしたら、やっぱり魔女はいるって…。}`
-`{ruby:That all the old servants make sure to respect her!":古い使用人たちはみんな、ちゃんと敬ってるって！」}`
-`{ruby:"They said I had been cursed because I'd stupidly gone around saying that {f:5:Beatrice} didn't exist...!:「私はベアトリーチェなんているわけないって、堂々と馬鹿にしてたから祟られたんだって…！}`
+`{ruby:I talked to Yasu,:私、ヤスに、紗音に、熊沢さん}{ruby:Shannon, and Kumasawa‐san about it!:とかにも相談したの！}`
+`{ruby:And they said that:そしたら、やっぱり魔女}{ruby:the witch really did exist...:はいるって…。}`
+`{ruby:That all the old servants:古い使用人たちはみんな、ち}{ruby:make sure to respect her!":ゃんと敬ってるって！」}`
+`{ruby:"They said I had been cursed because I'd:「私はベアトリーチェなんているわけないって、堂}{ruby:stupidly gone around saying that {f:5:Beatrice} didn't exist...!:々と馬鹿にしてたから祟られたんだって…！}`
 `{ruby:So I reformed!:だから心を入れ替えた！}`
-`{ruby:Yasu taught me how to give offerings to the doll in the VIP room!:ヤスに、貴賓室の人形のお参りの仕方を習った！}`
-`{ruby:I asked Genji‐sama for permission and prayed at the shrine on the reef!:源次さまに頼んで、鎮守の社にもお参りさせてもらった！}`
-`{ruby:And then it all stopped, all at once!!":そしたら収まったのッ、ピタリと！！」}`
-`{ruby:"You were okay, Asne, since you stopped making fun of the witch,:「明日音も、途中から魔女のこと馬鹿にしなくなったから良かったけど、}`
-`{ruby:but if you'd cluelessly gone on making fun of her, you would surely have been cursed next!:もしも空気読まずにずっと馬鹿にし続けてたら、今度はあんたが祟りの標的にされてたに違いない！}`
-`{ruby:Yes, I guarantee it! You definitely would have been cursed...!!":うん、私が保証するよ、絶対にあんたが祟られてた…！！」}`
+`{ruby:Yasu taught me how to give offerings:ヤスに、貴賓室の人形のお参}{ruby:to the doll in the VIP room!:りの仕方を習った！}`
+`{ruby:I asked Genji‐sama for permission and:源次さまに頼んで、鎮守の社にも}{ruby:prayed at the shrine on the reef!:お参りさせてもらった！}`
+`{ruby:And then it all:そしたら収まったのッ、}{ruby:stopped, all at once!!":ピタリと！！」}`
+`{ruby:"You were okay, Asne, since you:「明日音も、途中から魔女のこと馬鹿に}{ruby:stopped making fun of the witch,:しなくなったから良かったけど、}`
+`{ruby:but if you'd cluelessly gone on making fun:もしも空気読まずにずっと馬鹿にし続けてたら、今度}{ruby:of her, you would surely have been cursed next!:はあんたが祟りの標的にされてたに違いない！}`
+`{ruby:Yes, I guarantee it! You:うん、私が保証するよ、絶対にあ}{ruby:definitely would have been cursed...!!":んたが祟られてた…！！」}`
 `{ruby:".........Yeah,:「………さすがに、}`
-`{ruby:.....that kind of stuff makes even me uncomfortable...:……私もドン引くかな…。}`
-`{ruby:......Though I'd never say it to their faces...":……口に出して、言いやしないけど…」}`
+`{ruby:.....that kind of stuff:……私もドン引}{ruby:makes even me uncomfortable...:くかな…。}`
+`{ruby:......Though I'd never say:……口に出して、言い}{ruby:it to their faces...":やしないけど…」}`
 `{ruby:"You just don't get it!:「あんた、わかってない！}`
 `{ruby:You really don't!!:本当にわかってないよ？！}`
-`{ruby:So, I made sure to teach all the newer servants well!:だから私は、新しい後輩にはきちっと教えたよ！}`
-`{ruby:A witch called {f:5:Beatrice}‐sama lives in this mansion...!:このお屋敷にはベアトリーチェさまという魔女がいる…！}`
-`{ruby:If you make fun of her, you really will be cursed...!!":馬鹿にするとマジで祟るからって…！！」}`
+`{ruby:So, I made sure to:だから私は、新しい後輩には}{ruby:teach all the newer servants well!:きちっと教えたよ！}`
+`{ruby:A witch called {f:5:Beatrice}‐sama:このお屋敷にはベアトリーチェさ}{ruby:lives in this mansion...!:まという魔女がいる…！}`
+`{ruby:If you make fun of:馬鹿にするとマジで祟る}{ruby:her, you really will be cursed...!!":からって…！！」}`
 `{ruby:".....................Belne...":「…………………鐘音…」}`
-`{ruby:"When things, you know, ......disappear, that's a sign that the witch is close by and watching us...:「物がね、……消えたらそれは、魔女がすぐ近くにいて私たちを見てるって合図なんだよ…。}`
-`{ruby:If you say it's a prank, or that witches aren't real,:悪戯だとか、魔女なんかいるわけないとか！}`
+`{ruby:"When things, you know, ......disappear, that's a sign:「物がね、……消えたらそれは、魔女がすぐ近く}{ruby:that the witch is close by and watching us...:にいて私たちを見てるって合図なんだよ…。}`
+`{ruby:If you say it's a:悪戯だとか、魔女なんか}{ruby:prank, or that witches aren't real,:いるわけないとか！}`
 `{ruby:you'll be cursed even more...!!:そんなことを言ったら、もっともっと祟られてしまう…！！}`
-`{ruby:It was like that for both Yasu and me!:私もヤスもそう！}`
+`{ruby:It was like that:私もヤスもそ}{ruby:for both Yasu and me!:う！}`
 `{ruby:Whenever a key vanishes,:鍵が消えたら、}`
-`{ruby:......that's a sign that the witch has appeared...!!":……それは魔女が現れた徴…！！」}`
-`{ruby:Belne‐san carelessly tossed her key ring on the bed again, humming as she started to clean...:鐘音さんは、また無造作に、ベッドの上に鍵束を投げ出して、鼻歌混じりにお掃除を始める…。}`
-`{ruby:No matter how much I warn her, she doesn't change her ways.:いくら注意しても、改めてくれない。}`
-`{ruby:She's always making fun of me and calling me Yasu, so she won't listen to what I tell her......:私のことを、ヤスヤスと馬鹿にしてるから、私が何を言っても耳を貸してくれない……。}`
-`{ruby:Why won't she listen to what I say...?:どうして私の言うことを聞いてくれないの…？}`
-`{ruby:You mustn't leave things lying carelessly about.:物を無造作に置いちゃいけない。}`
-`{ruby:If you lower your guard, the witch will prank you......:隙を見せたら、魔女に悪戯されて酷い目に……。}`
+`{ruby:......that's a sign that:……それは魔女が現}{ruby:the witch has appeared...!!":れた徴…！！」}`
+`{ruby:Belne‐san carelessly tossed her key ring on the:鐘音さんは、また無造作に、ベッドの上に鍵束を投}{ruby:bed again, humming as she started to clean...:げ出して、鼻歌混じりにお掃除を始める…。}`
+`{ruby:No matter how much I warn:いくら注意しても、改}{ruby:her, she doesn't change her ways.:めてくれない。}`
+`{ruby:She's always making fun of me and calling me:私のことを、ヤスヤスと馬鹿にしてるから、私}{ruby:Yasu, so she won't listen to what I tell her......:が何を言っても耳を貸してくれない……。}`
+`{ruby:Why won't she listen:どうして私の言うことを聞}{ruby:to what I say...?:いてくれないの…？}`
+`{ruby:You mustn't leave:物を無造作に置いち}{ruby:things lying carelessly about.:ゃいけない。}`
+`{ruby:If you lower your guard,:隙を見せたら、魔女に悪戯}{ruby:the witch will prank you......:されて酷い目に……。}`
 `{ruby:"......Ahyahhyahhya!:「……くっひゃっひゃっひゃ！}`
-`{ruby:Look at that delicious key ring lying out there in the open......":うまそうな鍵束が放り出されておるわ……」}`
+`{ruby:Look at that delicious key ring:うまそうな鍵束が放り出さ}{ruby:lying out there in the open......":れておるわ……」}`
 `{ruby:"St‐stop it, please...!:「や、やめて下さい…！}`
 `{ruby:That's Belne‐san's key!:それは鐘音さんの鍵です！}`
 `{ruby:Keep your pranking to me alone.:悪戯は私にして下さい。}`
 `{ruby:Let the others be......!":他の人は許してあげて……！」}`
-`{ruby:"You have become so cautious lately that you are no longer fun.:「そなたは最近、すっかり用心深くなって面白くなかったところだ。}`
-`{ruby:......*cackle*cackle*, I jest, of course.":……くっくくくく、冗談冗談」}`
-`{ruby:"Still, how unpleasant these people are, refusing to listen to my friend's kindly advice.:「それにしても、我が友が親切に忠告しているというのに、耳を貸さぬとは不愉快なヤツらよ。}`
-`{ruby:Any insult to my friend, I take as an insult to myself...!":我が友を蔑む言動の数々、妾に対するものと受け取らせてもらおうぞ…！」}`
-`{ruby:"......Are you planning to steal Belne‐san's key...?:「……鐘音さんの鍵に悪戯するつもりですか…？}`
+`{ruby:"You have become so cautious lately:「そなたは最近、すっかり用心深くな}{ruby:that you are no longer fun.:って面白くなかったところだ。}`
+`{ruby:......*cackle*cackle*, I:……くっくくくく}{ruby:jest, of course.":、冗談冗談」}`
+`{ruby:"Still, how unpleasant these people are, refusing:「それにしても、我が友が親切に忠告しているとい}{ruby:to listen to my friend's kindly advice.:うのに、耳を貸さぬとは不愉快なヤツらよ。}`
+`{ruby:Any insult to my friend, I:我が友を蔑む言動の数々、妾に対するも}{ruby:take as an insult to myself...!":のと受け取らせてもらおうぞ…！」}`
+`{ruby:"......Are you planning:「……鐘音さんの鍵に悪戯}{ruby:to steal Belne‐san's key...?:するつもりですか…？}`
 `{ruby:Please, don't do it...!:お願いだからやめて下さい…！}`
 `{ruby:She'll think I hid it again...!":また私が隠したって疑われます…！」}`
-`{ruby:"She thinks my magic is naught but the work of a child like you...?!:「妾の魔法を、そなた如きの仕業と見下すか…！}`
+`{ruby:"She thinks my magic is naught but:「妾の魔法を、そなた如き}{ruby:the work of a child like you...?!:の仕業と見下すか…！}`
 `{ruby:*cackle*cackle*, very well, then.:くっくくくくく、ならば良かろう。}`
-`{ruby:I shall simply show her a feat impossible for {y:0:Humans}{n:0:humans} to perform...!":ニンゲンには無理なことを見せてやれば良い…！」}`
+`{ruby:I shall simply show her a:ニンゲンには無理なことを見}{ruby:feat impossible for {y:0:Humans}{n:0:humans} to perform...!":せてやれば良い…！」}`
 `{ruby:"{i:I shall show her my magic}!!:「{i:我が魔法を見せてやる}ッ！！}`
 `{ruby:Foolish Belne, if that is your name!:愚かなる鐘音とやら！}`
-`{ruby:You will regret that you did not heed the warnings given you by my friend!:我が友の忠告に耳を貸さなかったこと、後悔させてくれるッ！}`
-`{ruby:This flimsy body of mine will not do the trick! I'm borrowing yours!!:この希薄な体では物足りぬ！　借りるぞ、そなたの体ッ！！}`
-`{ruby:It's been too long since I last demonstrated real magic!:久々に本当の魔法を見せてやりたくなったぞ！}`
-`{ruby:Let my body return for a spell......to the land of the living!":わずかのひと時、再び、我が身を現世にッ！」}`
+`{ruby:You will regret that you did not:我が友の忠告に耳を貸さなかったこ}{ruby:heed the warnings given you by my friend!:と、後悔させてくれるッ！}`
+`{ruby:This flimsy body of mine will:この希薄な体では物足りぬ！　借}{ruby:not do the trick! I'm borrowing yours!!:りるぞ、そなたの体ッ！！}`
+`{ruby:It's been too long since:久々に本当の魔法を見せて}{ruby:I last demonstrated real magic!:やりたくなったぞ！}`
+`{ruby:Let my body return for a:わずかのひと時、再び、我}{ruby:spell......to the land of the living!":が身を現世にッ！」}`
 `{ruby:"Huh?:「え？}`
 `{ruby:Ah, ..................!":あ、………………ッ、」}`
-`{ruby:A shiver ran up my whole body like an electric shock.:足元から霜柱が上るような悪寒が、感電するかのように全身に広がる。}`
-`{ruby:From that moment onwards, ......I couldn't move any part of my body by my own will.:その瞬間から、……私の体の全てが、自分の意思で動かせなくなった。}`
-`{ruby:Like a moment of shock after a blackout,:突然の停電に、何も出来ず呆然とするしかないように、}`
-`{ruby:I could do nothing but accept the fact that I had lost control over my body......:私は、自分の体の支配を失うということを、呆然と受け容れるしかない……。}`
-`{ruby:All of the cells throughout my body felt tingly.:私の体の全ての細胞が、泡立つようなぞくぞくした感じ。}`
-`{ruby:......It felt as though my body had been transformed into someone else's.:……それは、肉体が、私でない誰かのものに瞬時に作りかえられている感触。}`
-`{ruby:......I realized that the witch {f:5:Beatrice} was using my body as a vessel to revive for a short period of time...:……私の肉体を依り代に、……魔女ベアトリーチェは、束の間の復活を果たすのがわかる…。}`
+`{ruby:A shiver ran up my:足元から霜柱が上るような悪寒が、感}{ruby:whole body like an electric shock.:電するかのように全身に広がる。}`
+`{ruby:From that moment onwards, ......I couldn't move any:その瞬間から、……私の体の全てが、}{ruby:part of my body by my own will.:自分の意思で動かせなくなった。}`
+`{ruby:Like a moment of:突然の停電に、何も出来ず呆然}{ruby:shock after a blackout,:とするしかないように、}`
+`{ruby:I could do nothing but accept the fact:私は、自分の体の支配を失うということを}{ruby:that I had lost control over my body......:、呆然と受け容れるしかない……。}`
+`{ruby:All of the cells:私の体の全ての細胞が、泡立つ}{ruby:throughout my body felt tingly.:ようなぞくぞくした感じ。}`
+`{ruby:......It felt as though my body:……それは、肉体が、私でない誰かのもの}{ruby:had been transformed into someone else's.:に瞬時に作りかえられている感触。}`
+`{ruby:......I realized that the witch {f:5:Beatrice} was using my body:……私の肉体を依り代に、……魔女ベアトリーチ}{ruby:as a vessel to revive for a short period of time...:ェは、束の間の復活を果たすのがわかる…。}`
 `{ruby:"......Hmm, very nice.:「……ふむ、いいぞ。}`
-`{ruby:That ticklish feeling of the air on my skin... Having a body is simply wonderful!":この外気の肌をくすぐる感覚、やはり肉体はいい！」}`
+`{ruby:That ticklish feeling of the air on:この外気の肌をくすぐる感覚}{ruby:my skin... Having a body is simply wonderful!":、やはり肉体はいい！」}`
 `{ruby:Wh‐......what are you trying to do?!:な、……何をするつもりなの？}`
 `{ruby:Please, don't do anything mean......:酷いことはやめて……。}`
 `{ruby:This time, everything was backwards.:今や全ては正反対。}`
-`{ruby:My words were spoken inside my heart.:私が口にしていた言葉は心の声。}`
-`{ruby:And the witch's voice was coming out of my mouth...!:そして魔女の声こそが私の口から出る声…！}`
+`{ruby:My words were:私が口にしていた言}{ruby:spoken inside my heart.:葉は心の声。}`
+`{ruby:And the witch's voice was:そして魔女の声こそが私}{ruby:coming out of my mouth...!:の口から出る声…！}`
 `{ruby:"Fear not.:「怯えるな。}`
 `{ruby:I will return your body soon enough.:すぐに体は返す。}`
-`{ruby:I just need to teach her a lesson with a little prank.:ささやかな悪戯で懲らしめるだけであるわ。}`
-`{ruby:However, it will not be one so simple that suspicion could fall on you...!:そなたが疑われるような、安っぽい真似はせぬ…！}`
+`{ruby:I just need to teach her:ささやかな悪戯で懲らし}{ruby:a lesson with a little prank.:めるだけであるわ。}`
+`{ruby:However, it will not be one so:そなたが疑われるような、安}{ruby:simple that suspicion could fall on you...!:っぽい真似はせぬ…！}`
 `{ruby:Come, try to remember.:さぁさ、思い出してご覧なさい。}`
 `{ruby:Where have you been sleeping?!":そなたがどこにて眠っていたのやら！」}`
-`{ruby:Everything went completely white and my mind stopped.:瞬時に頭が真っ白になり、思考が停止した。}`
-`{ruby:Once again, that tingling sensation slid up my body.:全身に再び、足元から泡立つ感触が這い登る。}`
-`{ruby:I could feel it all gather in the fingers of both my hands, ......and come out through my fingertips.:それが全身を伝い、両手の指先に集まり、……その感触が指より放たれるのを感じた。}`
+`{ruby:Everything went completely white:瞬時に頭が真っ白になり}{ruby:and my mind stopped.:、思考が停止した。}`
+`{ruby:Once again, that tingling:全身に再び、足元から泡立}{ruby:sensation slid up my body.:つ感触が這い登る。}`
+`{ruby:I could feel it all gather in the fingers:それが全身を伝い、両手の指先に集まり、……}{ruby:of both my hands, ......and come out through my fingertips.:その感触が指より放たれるのを感じた。}`
 `{ruby:It was an incomprehensible,:それは、得体の知れない、}`
 `{ruby:indescribable,:形容の出来ない、}`
 `{ruby:......unknown sensation.:……未知なる感触。}`
-`{ruby:My head went blank, and I couldn't think at all.:頭が真っ白になり、何も考えられない。}`
-`{ruby:I could do nothing......but abandon my soul to the sensation.:ただ呆然としながら、……足元から全身を伝い、指先より放たれる感触に、魂を委ねる他なかった。}`
+`{ruby:My head went blank, and:頭が真っ白になり、何}{ruby:I couldn't think at all.:も考えられない。}`
+`{ruby:I could do nothing......but abandon:ただ呆然としながら、……足元から全身を伝い、指先}{ruby:my soul to the sensation.:より放たれる感触に、魂を委ねる他なかった。}`
 `{ruby:I finally understood.:やがて、理解する。}`
 `{ruby:This is...:これが、}`
 `{ruby:......what it's like...:………魔法を使う、}`
 `{ruby:to use magic......:ということなのだ……。}`
 `{ruby:"Come, try to remember.:「さぁさ、思い出してご覧なさい。}`
 `{ruby:Where have you been sleeping......?":そなたがどこにて眠っていたのやら……」}`
-`{ruby:My fingers moved like a puppet's, and danced around as though I was a conductor—not of music, but of magic.:私の指が、操り人形のように動き、魔法を奏でるかのように踊る。}`
-`{ruby:I never knew that having my body move without my control could be so exciting...:自分の意思によらずに体が動くことは、こんなにもくすぐったいことなのか…。}`
-`{ruby:When Beato lifted my finger as if a string was attached to it,:ベアトが操り糸を手繰るように指を立てると、}`
-`{ruby:the key ring lying on the bed stood on end.:ベッドの上に放り出されている鍵束が、ひょっこりと起き上がる。}`
+`{ruby:My fingers moved like a puppet's, and danced around as:私の指が、操り人形のように動き、}{ruby:though I was a conductor—not of music, but of magic.:魔法を奏でるかのように踊る。}`
+`{ruby:I never knew that having my body:自分の意思によらずに体が動くことは、こ}{ruby:move without my control could be so exciting...:んなにもくすぐったいことなのか…。}`
+`{ruby:When Beato lifted my finger as:ベアトが操り糸を手繰るよ}{ruby:if a string was attached to it,:うに指を立てると、}`
+`{ruby:the key ring lying on:ベッドの上に放り出されている鍵束}{ruby:the bed stood on end.:が、ひょっこりと起き上がる。}`
 `{ruby:......Belne‐san...didn't notice.:……鐘音さんは、気付かない。}`
 `{ruby:......Neither did Asne‐san.:……明日音さんも、気付かない。}`
-`{ruby:They were fully occupied by their happy chat as they cleaned the room...:お部屋のお掃除をしながら、楽しそうなおしゃべりに夢中になっている…。}`
-`{ruby:I doubt that either of them could have dreamed that a witch was right behind them,:その二人の後に魔女がいて、今まさに魔法の力を振るおうとしているなんて、}`
+`{ruby:They were fully occupied by their:お部屋のお掃除をしながら、楽しそうな}{ruby:happy chat as they cleaned the room...:おしゃべりに夢中になっている…。}`
+`{ruby:I doubt that either of them could have:その二人の後に魔女がいて、今まさに魔法}{ruby:dreamed that a witch was right behind them,:の力を振るおうとしているなんて、}`
 `{ruby:readying herself to use magic.:夢にも思わないだろう。}`
 `{ruby:They could never have imagined...:まさか、自分たちの背中で、……鍵束がダンスを踊っているなんて、}`
-`{ruby:...that the key ring was doing a little dance right behind their backs.:想像も出来ないだろう。}`
-`{ruby:It was like an anime fairy tale I'd seen once as a kid.:それはまるで、幼い頃にテレビで見た、アニメのおとぎ話のよう。}`
-`{ruby:The happy way the keys danced and spun made it look as though they had a will of their own.:楽しそうに跳ねて、くるくるとダンスを踊る様は、まるで鍵束が自らの意思でそうしているかのように見える。}`
-`{ruby:I could feel the fun of making those keys dance with my fingers wash over me...:ぞわぞわと、……指先を通して、鍵束とダンスを踊るという楽しさが、私の全身に染み渡った…。}`
+`{ruby:...that the key ring was doing:想像も出来ない}{ruby:a little dance right behind their backs.:だろう。}`
+`{ruby:It was like an anime fairy:それはまるで、幼い頃にテレビで見}{ruby:tale I'd seen once as a kid.:た、アニメのおとぎ話のよう。}`
+`{ruby:The happy way the keys danced and spun made it:楽しそうに跳ねて、くるくるとダンスを踊る様は、まるで}{ruby:look as though they had a will of their own.:鍵束が自らの意思でそうしているかのように見える。}`
+`{ruby:I could feel the fun of making those:ぞわぞわと、……指先を通して、鍵束とダンスを踊}{ruby:keys dance with my fingers wash over me...:るという楽しさが、私の全身に染み渡った…。}`
 `{ruby:Yes, this is...pleasure......:そう、これは、快楽なのだ……。}`
-`{ruby:As I powerlessly watched the witch control me,:私は全身を魔女に委ねながら呆然と、}`
-`{ruby:......I couldn't help but surrender myself to this new joy called magic......:……魔法という、未知の快楽に、身を委ねる他なかった……。}`
+`{ruby:As I powerlessly watched:私は全身を魔女に委ね}{ruby:the witch control me,:ながら呆然と、}`
+`{ruby:......I couldn't help but surrender myself:……魔法という、未知の快楽に、}{ruby:to this new joy called magic......:身を委ねる他なかった……。}`
 `{ruby:"Whoops, that's no good.:「おっと、いけないいけない。}`
-`{ruby:If the whole ring disappears, my friend will be suspected again.:鍵束ごと無くしては、また我が友が疑われてしまうな。}`
+`{ruby:If the whole ring disappears,:鍵束ごと無くしては、また我が}{ruby:my friend will be suspected again.:友が疑われてしまうな。}`
 `{ruby:......All we need to disappear is...:……いなくなるのは、}`
 `{ruby:...yes, just the key to this room.":……そう、この部屋の鍵だけで良い」}`
-`{ruby:Beato controlled my fingers, controlling the magic.:ベアトが私の指を操り、魔力を操る。}`
-`{ruby:......And thereby controlling the keys.:……そして鍵束を操る。}`
+`{ruby:Beato controlled my:ベアトが私の指を操り}{ruby:fingers, controlling the magic.:、魔力を操る。}`
+`{ruby:......And thereby:……そして鍵束}{ruby:controlling the keys.:を操る。}`
 `{ruby:The key ring slumped down on the bed,:鍵束はくたりと、潰れて倒れ、}`
-`{ruby:.........and then just the mansion's master key stood on end.:………その中の屋敷のマスターキーだけが、再びひょっこりと起き上がった。}`
+`{ruby:.........and then just the mansion's:………その中の屋敷のマスターキーだけが}{ruby:master key stood on end.:、再びひょっこりと起き上がった。}`
 `{ruby:"Well now, what shall I do with this?:「さぁて、この鍵をどうしてやろうか。}`
-`{ruby:......Just erasing it would be terribly dull.:……ただ消し去るだけではつまらぬというもの。}`
+`{ruby:......Just erasing it:……ただ消し去るだけでは}{ruby:would be terribly dull.:つまらぬというもの。}`
 `{ruby:So, ............*cackle*cackle*!:ならば………、……くっくくくく！}`
-`{ruby:Why don't I throw it into her locker?!:そやつのロッカーにでも放り込んでおくか！}`
-`{ruby:That way, I'll give my friend, who's been working here with her the whole time, a perfect alibi!":これならば、ずっと一緒にここで掃除をしている我が友にはアリバイがあるというもの！」}`
+`{ruby:Why don't I throw:そやつのロッカーにでも放}{ruby:it into her locker?!:り込んでおくか！}`
+`{ruby:That way, I'll give my friend, who's been working:これならば、ずっと一緒にここで掃除をしている}{ruby:here with her the whole time, a perfect alibi!":我が友にはアリバイがあるというもの！」}`
 `{ruby:"Come, try to remember.:「さぁさ、思い出してご覧なさい。}`
 `{ruby:Where have you been sleeping?!:そなたがどこで眠っていたのやら！}`
 `{ruby:Yes, it was a warm, dark place...":そう、そこは温かくて暗い場所…」}`
 `{ruby:"The inside of Belne's locker!!:「鐘音のロッカーの中であるわ！！}`
 `{ruby:*cackle*cackle*cackle*!!":くっくくくくくく！！」}`
-`{ruby:When Beato snapped her fingers, the key burst and became a gold butterfly.:ベアトが指を鳴らすと、鍵はポンと爆ぜて、黄金の蝶に姿を変える。}`
+`{ruby:When Beato snapped her fingers, the:ベアトが指を鳴らすと、鍵はポンと爆}{ruby:key burst and became a gold butterfly.:ぜて、黄金の蝶に姿を変える。}`
 `{ruby:......A gold butterfly...?:……黄金の蝶…？}`
-`{ruby:I see, it's gold because she's the Golden Witch, who gave the Master all of his gold.:そうか、お館様に黄金を授けた黄金の魔女だから、黄金なのか。}`
-`{ruby:And butterflies are scared of spiderwebs.:そして、蜘蛛の糸を嫌がるのは蝶。}`
+`{ruby:I see, it's gold because she's the Golden:そうか、お館様に黄金を授けた黄金}{ruby:Witch, who gave the Master all of his gold.:の魔女だから、黄金なのか。}`
+`{ruby:And butterflies are:そして、蜘蛛の糸を}{ruby:scared of spiderwebs.:嫌がるのは蝶。}`
 `{ruby:......So, it's a gold butterfly.:……だから、黄金の、蝶。}`
-`{ruby:The minions of the witch {f:5:Beatrice}...are gold butterflies......:黄金の蝶は、魔女ベアトリーチェの、眷属なのだ……。}`
-`{ruby:After flitting into the air, it burst into a shower of gold sparks and disappeared.:ふわりと、空中を舞った後、ポンと黄金の鱗粉を弾けさせて消える。}`
-`{ruby:Then, the vanished key......went to Belne‐san's locker......:そして、消えた鍵は、……鐘音さんのロッカーの中に……。}`
-`{ruby:Though it was far away, in the locker of a changing room, I had a vivid understanding of its new state.:それはここではない、更衣室のロッカーの話なのに、その様子がありありと理解できた。}`
+`{ruby:The minions of the:黄金の蝶は、魔女ベアトリーチ}{ruby:witch {f:5:Beatrice}...are gold butterflies......:ェの、眷属なのだ……。}`
+`{ruby:After flitting into the air, it burst:ふわりと、空中を舞った後、ポンと黄}{ruby:into a shower of gold sparks and disappeared.:金の鱗粉を弾けさせて消える。}`
+`{ruby:Then, the vanished:そして、消えた鍵は、……鐘音さ}{ruby:key......went to Belne‐san's locker......:んのロッカーの中に……。}`
+`{ruby:Though it was far away, in the locker of a:それはここではない、更衣室のロッカーの話な}{ruby:changing room, I had a vivid understanding of its new state.:のに、その様子がありありと理解できた。}`
 `{ruby:It wasn't by sight or by touch.:それは、視覚でも感触でもない。}`
-`{ruby:{n}It was by some other sense inside my heart, which couldn't be explained by the five senses.:{n}五感では説明の出来ない、心の中のもう一つの感触。}`
-`{ruby:{n}A completely new sensation that I'd never felt before.:{n}今日までに一度も感じたことのない、まったく新しい感触。}`
-`{ruby:It was the completely alien concept...called magic.:つまり、魔法という、まったくの未知の概念。}`
-`{ruby:{n}A completely unknown pleasure that left me in a trance.:{n}恍惚とする他ない、まったくの未知の、快楽。}`
+`{ruby:{n}It was by some other sense inside my:{n}五感では説明の出来ない、}{ruby:heart, which couldn't be explained by the five senses.:心の中のもう一つの感触。}`
+`{ruby:{n}A completely new sensation:{n}今日までに一度も感じたこと}{ruby:that I'd never felt before.:のない、まったく新しい感触。}`
+`{ruby:It was the:つまり、魔法という、まっ}{ruby:completely alien concept...called magic.:たくの未知の概念。}`
+`{ruby:{n}A completely unknown pleasure that:{n}恍惚とする他ない、ま}{ruby:left me in a trance.:ったくの未知の、快楽。}`
 `{ruby:"......It is done, my friend.:「……もう良いぞ、我が友よ。}`
 `{ruby:I shall return this body to you...":この体、そなたに返すぞ…」}`
 `{ruby:Nn, ..................ah......:ん、………………ぁ……。}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:It felt as though I had been spinning through space,:つい先ほどまで宙を舞っていた自分が、唐突に浮力を失い、}`
-`{ruby:and gravity had suddenly come back and thrown me to the ground.:床にストンと落とされたような気持ち。}`
-`{ruby:Like when you're having a great dream, but you're suddenly woken up,:素敵な夢を見ていたのに、唐突に起こされてしまい、}`
-`{ruby:......and all you can remember about the dream was that it was fun.:……しかも何の夢を見ていたのか、楽しかったことだけはわかるのに、思い出せないかのような、}`
+`{ruby:It felt as though I:つい先ほどまで宙を舞っていた自}{ruby:had been spinning through space,:分が、唐突に浮力を失い、}`
+`{ruby:and gravity had suddenly come back:床にストンと落とされ}{ruby:and thrown me to the ground.:たような気持ち。}`
+`{ruby:Like when you're having a great:素敵な夢を見ていたのに、唐}{ruby:dream, but you're suddenly woken up,:突に起こされてしまい、}`
+`{ruby:......and all you can remember about:……しかも何の夢を見ていたのか、楽しかったこと}{ruby:the dream was that it was fun.:だけはわかるのに、思い出せないかのような、}`
 `{ruby:......That sort of lonely feeling.:……そんな寂しさ。}`
-`{ruby:Though Beato had been borrowing my body, it was my own body that used magic.:ベアトに体を奪われていたとはいえ、確かに私の体は魔法を使っていたのだ。}`
-`{ruby:I could still feel that sensation in my hands.:まだ、両手にあの感触が残ってる。}`
-`{ruby:The key ring over there had danced along with the movements of my fingers.:私の指の動きにつられて、鍵束がそこでダンスを踊ったのだ。}`
+`{ruby:Though Beato had been borrowing my body,:ベアトに体を奪われていたとはいえ、確か}{ruby:it was my own body that used magic.:に私の体は魔法を使っていたのだ。}`
+`{ruby:I could still feel:まだ、両手にあの感}{ruby:that sensation in my hands.:触が残ってる。}`
+`{ruby:The key ring over there had danced:私の指の動きにつられて、鍵束が}{ruby:along with the movements of my fingers.:そこでダンスを踊ったのだ。}`
 `{ruby:No, that's not quite it.:いや違う。}`
-`{ruby:The key ring and my fingers had danced together.:鍵束と、私の指が一緒に、ダンスを踊った。}`
+`{ruby:The key ring and:鍵束と、私の指が一緒に}{ruby:my fingers had danced together.:、ダンスを踊った。}`
 `{ruby:That fun, that excitement...:その、楽しさ。わくわくが、}`
-`{ruby:...still tingled slightly in my hands......:……まだ、指にほのかに、残ってる……。}`
+`{ruby:...still tingled slightly:……まだ、指にほのかに}{ruby:in my hands......:、残ってる……。}`
 `{ruby:"Whoops, that was close.":「おっとー、いけないいけない」}`
-`{ruby:Saying this, Belne‐san suddenly turned around and picked up the key ring she had thrown down on the bed.:鐘音さんが唐突にそう言いながら振り返り、ベッドの上に投げ出した鍵束を引っ手繰る。}`
-`{ruby:She must have realized that I was staring at it.:私がじっとそれを見ていたことに気付いたらしい。}`
-`{ruby:"Almost had Yasu complain that I shouldn't leave keys lying about like this.:「まーたヤスに、鍵をこんなところに放り出さないでーって怒られるところでしたー。}`
-`{ruby:I'd never put something down and forget about it.":私、置きっ放しにして忘れたりなんかー、しませんからー」}`
-`{ruby:With a grin, she put the key back into her pocket.:と、にやりと笑いながら、鍵束をポケットに戻す。}`
+`{ruby:Saying this, Belne‐san suddenly turned around and picked up:鐘音さんが唐突にそう言いながら振り返り、ベ}{ruby:the key ring she had thrown down on the bed.:ッドの上に投げ出した鍵束を引っ手繰る。}`
+`{ruby:She must have realized that:私がじっとそれを見ていたこ}{ruby:I was staring at it.:とに気付いたらしい。}`
+`{ruby:"Almost had Yasu complain that I:「まーたヤスに、鍵をこんなところに放り出さ}{ruby:shouldn't leave keys lying about like this.:ないでーって怒られるところでしたー。}`
+`{ruby:I'd never put something:私、置きっ放しにして忘れたりな}{ruby:down and forget about it.":んかー、しませんからー」}`
+`{ruby:With a grin, she put:と、にやりと笑いながら、鍵}{ruby:the key back into her pocket.:束をポケットに戻す。}`
 `{ruby:However, she still hadn't noticed.:しかし、まだ気付いていない。}`
-`{ruby:She probably couldn't even imagine that during the few moments her guard was down...:鍵が一本だけ、……ほんのちょっと油断した間に消えているなんて、}`
-`{ruby:...just a single key had vanished from the ring...:想像もしないだろう…。}`
-`{ruby:It's not easy for a {y:0:Human}{n:0:human} to do things like that.:それはニンゲンには、容易に出来ることではない。}`
+`{ruby:She probably couldn't even imagine that during:鍵が一本だけ、……ほんのちょっと油}{ruby:the few moments her guard was down...:断した間に消えているなんて、}`
+`{ruby:...just a single key:想像もしないだ}{ruby:had vanished from the ring...:ろう…。}`
+`{ruby:It's not easy for a:それはニンゲンには、容易に}{ruby:{y:0:Human}{n:0:human} to do things like that.:出来ることではない。}`
 `{ruby:......But, with magic...:……でも、魔法なら。}`
-`{ruby:With just a little dance of the keys and a butterfly popping, ......it had disappeared.:鍵たちとダンスを踊り、ポンっと蝶が爆ぜるだけで、……姿を消せてしまう。}`
+`{ruby:With just a little dance of the:鍵たちとダンスを踊り、ポンっと蝶が爆ぜ}{ruby:keys and a butterfly popping, ......it had disappeared.:るだけで、……姿を消せてしまう。}`
 `{ruby:"Alright, fingertip inspection!:「はいっ、指先点検！}`
 `{ruby:Bed, okay.:ベッドＯＫ、}`
 `{ruby:Curtains, okay!":カーテンＯＫ！」}`
@@ -468,13 +468,13 @@
 `{ruby:"Y‐yes, that's good......:「お、ＯＫですね……。}`
 `{ruby:Then let's go on to the next room.:じゃあ、次のお部屋に行きましょう。}`
 `{ruby:......Ah, ......Belne‐san.:……あ、……鐘音さん。}`
-`{ruby:Could you......lock up this room for me?":この部屋の施錠、……お願いします」}`
+`{ruby:Could you......lock up:この部屋の施錠、……}{ruby:this room for me?":お願いします」}`
 `{ruby:"Hmm?:「ん？}`
 `{ruby:Su~re.":はーい」}`
 `{ruby:.........Did Belne‐san's key...:………本当に、……鐘音さんの鍵は、}`
 `{ruby:...really disappear by magic?:……魔法で消えたの？}`
-`{ruby:Was that fun magic just a daydream I had......?:あの楽しげな魔法は、私だけの白昼夢では……？}`
-`{ruby:I was so scared of that being true......that I tested it.:それを認めるのが怖くて、……私は、試す。}`
+`{ruby:Was that fun magic:あの楽しげな魔法は、私だ}{ruby:just a daydream I had......?:けの白昼夢では……？}`
+`{ruby:I was so scared of:それを認めるのが怖くて}{ruby:that being true......that I tested it.:、……私は、試す。}`
 `{ruby:"...........................:「………………………。}`
 `{ruby:...............Huh......?":……………あれ……」}`
 `{ruby:"What's wrong?:「どしたのー。}`
@@ -494,69 +494,69 @@
 `{ruby:......My master key's gone.:……マスターキーがない。}`
 `{ruby:Just my master key is gone.:マスターキーだけないっ。}`
 `{ruby:Wh‐why...?!:ど、どうして…？！}`
-`{ruby:This ring's so stiff... There's no way it'd come off......!":こんな頑丈なのに、抜けるわけないのに……！」}`
-`{ruby:I could faintly feel that tingling sensation...:私の指先に、ぞくりと。}`
+`{ruby:This ring's so stiff... There's:こんな頑丈なのに、抜けるわ}{ruby:no way it'd come off......!":けないのに……！」}`
+`{ruby:I could faintly:私の指先に、ぞ}{ruby:feel that tingling sensation...:くりと。}`
 `{ruby:in the tips of my fingers......:……あの、ダンスを踊った時のぞわぞわした感触が、わずかに蘇るのを感じた……。}`
 `{ruby:That night.:夜。}`
-`{ruby:......As I gazed at the ceiling from the bed in my dorm room,:……寮の自室のベッドで天井を眺めながら、}`
+`{ruby:......As I gazed at the ceiling:……寮の自室のベッドで}{ruby:from the bed in my dorm room,:天井を眺めながら、}`
 `{ruby:......I looked at my hands.:……自分の両手を見た。}`
 `{ruby:I couldn't sleep.:眠れない。}`
-`{ruby:The excitement from the time those keys danced was still there in my fingers...:まだ指先に、……あの、鍵束とダンスを踊った時のわくわくが、残っている…。}`
+`{ruby:The excitement from the time those keys:まだ指先に、……あの、鍵束とダンスを踊}{ruby:danced was still there in my fingers...:った時のわくわくが、残っている…。}`
 `{ruby:Is this...:あれは、}`
 `{ruby:...how {f:5:Beatrice}...:……ベアトリーチェにとっては、}`
 `{ruby:...how witches...:……魔女にとっては、}`
 `{ruby:...always feel?:……当り前のことだったのだろうか。}`
-`{ruby:............I have a witch friend called {f:5:Beatrice}.:…………ベアトリーチェという、魔女の友人がいる。}`
-`{ruby:{n}She always used to pull pranks on me with her strange magic.:{n}彼女は不思議な魔法で、いつも私に悪戯をしていた。}`
+`{ruby:............I have a:…………ベアトリーチェとい}{ruby:witch friend called {f:5:Beatrice}.:う、魔女の友人がいる。}`
+`{ruby:{n}She always used to pull pranks:{n}彼女は不思議な魔法で、い}{ruby:on me with her strange magic.:つも私に悪戯をしていた。}`
 `{ruby:Because I saw this all the time,:それをいつも見せられてきたから、}`
-`{ruby:.........I thought I knew what magic was.:………私は魔法を、知っているつもりだった。}`
+`{ruby:.........I thought I:………私は魔法を、知って}{ruby:knew what magic was.:いるつもりだった。}`
 `{ruby:But today...:しかし今日。}`
-`{ruby:.....she had possessed my body......and used magic with it.:……彼女は私の体に憑依し、……私の体で魔法を使った。}`
-`{ruby:The sensation of magic that I finally felt at that time......still held my heart entranced.:そこで初めて知った魔法の感触は、……未だに私の心を虜にしている。}`
+`{ruby:.....she had possessed my:……彼女は私の体に憑依し、…}{ruby:body......and used magic with it.:…私の体で魔法を使った。}`
+`{ruby:The sensation of magic that I finally:そこで初めて知った魔法の感触は、…}{ruby:felt at that time......still held my heart entranced.:…未だに私の心を虜にしている。}`
 `{ruby:It was a completely unknown pleasure.:まったく未知の、初めて知る快楽だった。}`
 `{ruby:After all......:だって……。}`
 `{ruby:With a movement of my fingertips,:指先を動かすと自在に、}`
-`{ruby:.........the key had danced on command.:………鍵が踊ったのだ。}`
-`{ruby:{n}It was an mysterious, wondrous miracle of magic—something no {y:0:Human}{n:0:human} could do.:{n}ニンゲンには出来ない、不思議な不思議な、魔法の奇跡。}`
-`{ruby:I still couldn't let go of that excitement...:まだ、……興奮が冷めない…。}`
+`{ruby:.........the key had:………鍵が踊っ}{ruby:danced on command.:たのだ。}`
+`{ruby:{n}It was an mysterious, wondrous miracle:{n}ニンゲンには出来ない、不思}{ruby:of magic—something no {y:0:Human}{n:0:human} could do.:議な不思議な、魔法の奇跡。}`
+`{ruby:I still couldn't let:まだ、……興奮が}{ruby:go of that excitement...:冷めない…。}`
 `{ruby:........................:……………………。}`
 `{ruby:".........Shannon.:「………紗音。}`
 `{ruby:.........Are you awake...?":………起きてる…？」}`
 `{ruby:".....................:「…………………。}`
 `{ruby:......What's up?":……なぁに」}`
 `{ruby:Shannon was still awake.:紗音はまだ起きていた。}`
-`{ruby:Shannon is always early to bed, early to rise.:紗音はいつも早寝早起き。}`
-`{ruby:By getting to bed early, all of her weariness disappears by the next day.:夜は早めに休んで、一日の疲れを翌日に残さない。}`
-`{ruby:......She lives a model life, one that all servants should respect and admire.:……使用人として憧れるべき、模範的な生活だった。}`
-`{ruby:......If I wanted to become a beloved and respected servant like Shannon,:……紗音のような、……みんなに愛され、尊敬される使用人になりたかったら、}`
-`{ruby:.........I would need to act that way too.:………そうでなくてはいけない。}`
-`{ruby:However, ......I had no confidence that I could do that anymore.:でも、私はそうなれる自信が、……もう、なかった。}`
+`{ruby:Shannon is always early:紗音はいつも早}{ruby:to bed, early to rise.:寝早起き。}`
+`{ruby:By getting to bed early, all of:夜は早めに休んで、一日の疲}{ruby:her weariness disappears by the next day.:れを翌日に残さない。}`
+`{ruby:......She lives a model life, one:……使用人として憧れるべき}{ruby:that all servants should respect and admire.:、模範的な生活だった。}`
+`{ruby:......If I wanted to become a:……紗音のような、……みんなに愛され、}{ruby:beloved and respected servant like Shannon,:尊敬される使用人になりたかったら、}`
+`{ruby:.........I would need to:………そうでなくて}{ruby:act that way too.:はいけない。}`
+`{ruby:However, ......I had no confidence:でも、私はそうなれる自信が}{ruby:that I could do that anymore.:、……もう、なかった。}`
 `{ruby:"I guess...:「私、やっぱり……。}`
-`{ruby:.........I can't become like you after all.":………紗音みたいにはなれない」}`
+`{ruby:.........I can't become:………紗音みたいに}{ruby:like you after all.":はなれない」}`
 `{ruby:"......What do you mean?:「……どうしたの。}`
 `{ruby:This is a bit abrupt.":突然」}`
 `{ruby:"You were my ideal.:「あなたが、理想だった。}`
 `{ruby:Always.":いつも」}`
 `{ruby:".........Yeah.":「………うん」}`
-`{ruby:"At the Gospel House, you were kind to everyone and loved by everyone.:「福音の家では、誰にでもやさしくて、愛されて。}`
-`{ruby:......You would always play with me, and you were my only friend.:……私といつも遊んでくれるあなただけが、私の唯一のお友達だった。}`
-`{ruby:And at the Ushiromiya mansion, you were a wonderful servant, who could carry out any task flawlessly and gracefully.:そして、右代宮のお屋敷では、どんな仕事もそつなく、優雅にこなすことが出来る立派で素敵な使用人で、}`
+`{ruby:"At the Gospel House, you were:「福音の家では、誰にでもや}{ruby:kind to everyone and loved by everyone.:さしくて、愛されて。}`
+`{ruby:......You would always play with me,:……私といつも遊んでくれるあなただ}{ruby:and you were my only friend.:けが、私の唯一のお友達だった。}`
+`{ruby:And at the Ushiromiya mansion, you were a wonderful:そして、右代宮のお屋敷では、どんな仕事もそつなく、}{ruby:servant, who could carry out any task flawlessly and gracefully.:優雅にこなすことが出来る立派で素敵な使用人で、}`
 `{ruby:My idol and goal.:私の憧れで目標だった。}`
 `{ruby:......That's what you were.":……それが、あなた」}`
 `{ruby:"Yeah.:「うん。}`
-`{ruby:......Let's give it our all together.:……一緒にがんばろうよ。}`
+`{ruby:......Let's give it:……一緒にがん}{ruby:our all together.:ばろうよ。}`
 `{ruby:As they say, perseverance prevails.:ほら、石の上にも三年って言うよ。}`
-`{ruby:You're gaining recognition from everyone now.:みんな、どんどんあなたを認めてくれているよ。}`
-`{ruby:So let's aim to become wonderful servants together.":だから一緒に、素敵な使用人を目指そうよ」}`
+`{ruby:You're gaining recognition:みんな、どんどんあなたを}{ruby:from everyone now.:認めてくれているよ。}`
+`{ruby:So let's aim to:だから一緒に、素敵な使}{ruby:become wonderful servants together.":用人を目指そうよ」}`
 `{ruby:"..................:「………………。}`
-`{ruby:......I'm...done with being a servant.":……私、使用人、やめる」}`
+`{ruby:......I'm...done with:……私、使用人}{ruby:being a servant.":、やめる」}`
 `{ruby:"......Huh?":「……え？」}`
 `{ruby:"Instead of a servant,:「使用人より、}`
-`{ruby:......I think it'd be more fun to be a witch.":……魔女の方が、面白そう」}`
+`{ruby:......I think it'd be more:……魔女の方が、}{ruby:fun to be a witch.":面白そう」}`
 `{ruby:"A, a witch...?:「ま、魔女って…。}`
 `{ruby:...What do you mean...?":……何の話…？」}`
-`{ruby:"A servant who everyone loves and relies upon is...:「みんなに愛されて頼りにされる使用人って、}`
-`{ruby:...yeah, it's still something I'd love to be.:……うん、今ももちろん憧れるけど。}`
+`{ruby:"A servant who everyone:「みんなに愛されて頼りに}{ruby:loves and relies upon is...:される使用人って、}`
+`{ruby:...yeah, it's still something:……うん、今ももちろ}{ruby:I'd love to be.:ん憧れるけど。}`
 `{ruby:......But right now,:……でも、今の私には……、}`
 `{ruby:.........I want to be a witch...:………魔女の方が、}`
 `{ruby:even more.":憧れるの」}`
@@ -565,167 +565,167 @@
 `{ruby:.........Huh......?":………え……？」}`
 `{ruby:Shannon was confused.:紗音は戸惑う。}`
 `{ruby:It was hardly surprising.:無理もない。}`
-`{ruby:......All this about quitting as a servant was at least understandable.:……使用人を辞める云々という話ならばまだ理解も出来よう。}`
-`{ruby:But she didn't know how to answer after hearing that her roommate wanted to become a witch...:しかし、魔女に憧れる、などと突然言い出されては、言葉も失おう…。}`
+`{ruby:......All this about quitting as:……使用人を辞める云々という話}{ruby:a servant was at least understandable.:ならばまだ理解も出来よう。}`
+`{ruby:But she didn't know how to answer after:しかし、魔女に憧れる、などと突然言}{ruby:hearing that her roommate wanted to become a witch...:い出されては、言葉も失おう…。}`
 `{ruby:"A witch.:「魔女。}`
 `{ruby:{f:5:Beatrice}.:ベアトリーチェ。}`
-`{ruby:......You see, today, {f:5:Beatrice} possessed me and used my body to do magic.:……今日ね、ベアトリーチェが私に乗り移って、私の体を使って、魔法を使ったの。}`
-`{ruby:That unknown world felt so......thrilling.:その時、その未知の世界に、……こう、ぞくぞくっとしたものを感じたの。}`
-`{ruby:It was far, far more thrilling than even the time I learned that I'd been selected as an Ushiromiya family servant.":それは、右代宮家の使用人に推薦されたことを知らされた時よりも、ずっとずっと上」}`
-`{ruby:"It was like learning about a new world.:「知らなかった世界を初めて知ったような、}`
-`{ruby:......As though I'd been living in a world of darkness all my life and thought I knew what the world was like,:……まるで、暗闇の世界だけに住んでて世界を全て知っているようなつもりになっていた私が、}`
-`{ruby:then finally learned what light was and saw the world for the first time.:初めて光を知って、世界を目にするような。}`
+`{ruby:......You see, today, {f:5:Beatrice} possessed me:……今日ね、ベアトリーチェが私に乗り移っ}{ruby:and used my body to do magic.:て、私の体を使って、魔法を使ったの。}`
+`{ruby:That unknown:その時、その未知の世界に、……こう、}{ruby:world felt so......thrilling.:ぞくぞくっとしたものを感じたの。}`
+`{ruby:It was far, far more thrilling than even the time:それは、右代宮家の使用人に推薦されたことを}{ruby:I learned that I'd been selected as an Ushiromiya family servant.":知らされた時よりも、ずっとずっと上」}`
+`{ruby:"It was like learning:「知らなかった世界を初}{ruby:about a new world.:めて知ったような、}`
+`{ruby:......As though I'd been living in a world of darkness all:……まるで、暗闇の世界だけに住んでて世界を全て}{ruby:my life and thought I knew what the world was like,:知っているようなつもりになっていた私が、}`
+`{ruby:then finally learned what light was and:初めて光を知って、世界}{ruby:saw the world for the first time.:を目にするような。}`
 `{ruby:It was...joy.:そんな、喜び。}`
 `{ruby:......Excitement.":……興奮」}`
-`{ruby:At that time, Beato had only used my fingers, made a key ring dance,:あの時、ベアトは私の指を介して、鍵束とダンスを踊り、}`
-`{ruby:and turned a key into a butterfly before hiding it in a locker.:鍵を一本、蝶に変えてロッカーの中に隠しただけだった。}`
+`{ruby:At that time, Beato had only used:あの時、ベアトは私の指を介し}{ruby:my fingers, made a key ring dance,:て、鍵束とダンスを踊り、}`
+`{ruby:and turned a key into a:鍵を一本、蝶に変えてロッカー}{ruby:butterfly before hiding it in a locker.:の中に隠しただけだった。}`
 `{ruby:But I had understood it with my body.:でも、私の体は理解していた。}`
-`{ruby:If I had moved my fingers a different way, the ring could have flown into the air instead of just dancing,:もし、別の指の動かし方をしていたら、ダンスでなく、宙を羽ばたかせることも、}`
-`{ruby:and I could have turned it into a scurrying lizard instead of a butterfly. ......I could have done anything.:蝶でなく、トカゲに変えてベッドを駆け回ることも、……何でも出来た。}`
-`{ruby:True, {f:5:Beatrice}'s magical power was still weak.:確かにベアトリーチェの魔力は未だ弱い。}`
-`{ruby:It had all happened in the little world behind the backs of the servants filled with the anti‐magic toxin.:反魔法の毒素を持つ鐘音さんたちが背中を向けてくれた束の間の世界の出来事。}`
-`{ruby:However, inside that tiny, short‐lived world, I could have done anything at all.:しかし、その束の間の世界では、何でも出来た。}`
-`{ruby:{n}Beato just happened to settle on making the keys dance and turning one into a butterfly.:{n}ベアトは、たまたま、躍らせて、蝶にしただけ。}`
-`{ruby:{n}But if she wanted to, she could have done anything else!:{n}でも、もしも望んだなら、他のことも何でも出来た！}`
-`{ruby:The endless sensation of that free, unrestricted power...:あの自由な、何の制約もない力の無限の感触。}`
-`{ruby:{n}I could still feel it in my fingertips.:{n}まだこの指先に残ってる。}`
-`{ruby:Could it be that, along with that sensation, a sliver of that magical power might also remain...?:感触だけでなく、魔力の欠片がわずかほどでも残っていたりはしないだろうか…？}`
+`{ruby:If I had moved my fingers a different way, the:もし、別の指の動かし方をしていたら、ダン}{ruby:ring could have flown into the air instead of just dancing,:スでなく、宙を羽ばたかせることも、}`
+`{ruby:and I could have turned it into a scurrying:蝶でなく、トカゲに変えてベッドを駆け}{ruby:lizard instead of a butterfly. ......I could have done anything.:回ることも、……何でも出来た。}`
+`{ruby:True, {f:5:Beatrice}'s magical:確かにベアトリーチェの}{ruby:power was still weak.:魔力は未だ弱い。}`
+`{ruby:It had all happened in the little world behind:反魔法の毒素を持つ鐘音さんたちが背中を}{ruby:the backs of the servants filled with the anti‐magic toxin.:向けてくれた束の間の世界の出来事。}`
+`{ruby:However, inside that tiny, short‐lived world,:しかし、その束の間の世界}{ruby:I could have done anything at all.:では、何でも出来た。}`
+`{ruby:{n}Beato just happened to settle on making the:{n}ベアトは、たまたま、躍}{ruby:keys dance and turning one into a butterfly.:らせて、蝶にしただけ。}`
+`{ruby:{n}But if she wanted to,:{n}でも、もしも望んだなら、}{ruby:she could have done anything else!:他のことも何でも出来た！}`
+`{ruby:The endless sensation of:あの自由な、何の制約もな}{ruby:that free, unrestricted power...:い力の無限の感触。}`
+`{ruby:{n}I could still feel:{n}まだこの指先}{ruby:it in my fingertips.:に残ってる。}`
+`{ruby:Could it be that, along with that sensation,:感触だけでなく、魔力の欠片がわずかほどで}{ruby:a sliver of that magical power might also remain...?:も残っていたりはしないだろうか…？}`
 `{ruby:I can tell.:わかる。}`
 `{ruby:It's still there.:残ってる。}`
-`{ruby:.........There's still just a bit of it there, along with that sensation.:………まだちょっとだけ、感触と共に残ってる。}`
+`{ruby:.........There's still just a bit of:………まだちょっとだけ、}{ruby:it there, along with that sensation.:感触と共に残ってる。}`
 `{ruby:I can do it.:出来る。}`
-`{ruby:......I can still.........do it......:……私にもまだ、………出来る……。}`
+`{ruby:......I can:……私にもまだ、……}{ruby:still.........do it......:…出来る……。}`
 `{ruby:"............Ah......":「…………あっ……」}`
-`{ruby:A single spot of golden light suddenly lit up in this dark room.:暗い部屋に突然、黄金の光が一粒、灯る。}`
-`{ruby:{n}It was right between my clasped hands.:{n}それは、私の組んだ両手の隙間から。}`
+`{ruby:A single spot of golden light:暗い部屋に突然、黄金の}{ruby:suddenly lit up in this dark room.:光が一粒、灯る。}`
+`{ruby:{n}It was right:{n}それは、私の組ん}{ruby:between my clasped hands.:だ両手の隙間から。}`
 `{ruby:When I slowly opened them,:それを……、そうっと、蕾のように開くと。}`
-`{ruby:......I could see a single dot that sparkled gold.:……そこには、黄金に光り輝く粒が、一粒。}`
+`{ruby:......I could see a:……そこには、黄金に光}{ruby:single dot that sparkled gold.:り輝く粒が、一粒。}`
 `{ruby:"What...:「それは、}`
 `{ruby:......is...:………な、}`
 `{ruby:......?":……」}`
-`{ruby:Shannon didn't know what the light meant.:紗音には、その輝きの意味するものが、わからない。}`
-`{ruby:How could light appear from the palms of my hands?:手の平より光が生まれるわけがない。}`
-`{ruby:And yet, even with this miracle right in front of her,:なのに生まれたという奇跡を目の当たりにしてさえ、}`
-`{ruby:......she couldn't understand what it was.:……それが何か、理解できずにいる。}`
-`{ruby:She just sat there with her mouth open in disbelief.:ただ呆然とし、……ぽかんと開いた口を、閉じることも忘れていた。}`
+`{ruby:Shannon didn't know:紗音には、その輝きの意味す}{ruby:what the light meant.:るものが、わからない。}`
+`{ruby:How could light appear from:手の平より光が生まれ}{ruby:the palms of my hands?:るわけがない。}`
+`{ruby:And yet, even with this:なのに生まれたという奇跡を}{ruby:miracle right in front of her,:目の当たりにしてさえ、}`
+`{ruby:......she couldn't understand:……それが何か、理解}{ruby:what it was.:できずにいる。}`
+`{ruby:She just sat there with:ただ呆然とし、……ぽかんと開いた口}{ruby:her mouth open in disbelief.:を、閉じることも忘れていた。}`
 `{ruby:However, to me,:でも、私にとってそれは、}`
-`{ruby:......this was just the return of that bit of sensation in my fingertips.:……確かに指先にまだ残る感触の、再現。}`
+`{ruby:......this was just the return of:……確かに指先にまだ残}{ruby:that bit of sensation in my fingertips.:る感触の、再現。}`
 `{ruby:The golden dot...:黄金の粒は、}`
 `{ruby:...spread out...:……ふわっと広がり、}`
-`{ruby:...and became a small, gold butterfly.:……小さな、黄金の蝶に姿を変える。}`
-`{ruby:It flapped its wings and scattered gold sparks about like Tinker Bell.:それは、ぱたぱたと羽ばたき、ティンカーベルのように、黄金の鱗粉を散らす。}`
-`{ruby:To Shannon, it probably just looked as though a gold butterfly was flapping its wings.:紗音には、ただ、黄金の蝶が羽ばたいているようにしか見えないだろう。}`
-`{ruby:......Of course, that alone was a miracle that she could hardly grasp.:……もちろんそれさえも、彼女には理解し難い奇跡なのだが。}`
-`{ruby:But to me, it was like a remote‐control plane in the shape of a butterfly.:しかし私にはそれは、……蝶に姿を変えての、空中飛行。}`
-`{ruby:{n}I could control that gold butterfly however I wanted.:{n}私は黄金の蝶を、自在に操っているのだ。}`
+`{ruby:...and became a:……小さな、黄金の蝶}{ruby:small, gold butterfly.:に姿を変える。}`
+`{ruby:It flapped its wings and scattered:それは、ぱたぱたと羽ばたき、ティンカー}{ruby:gold sparks about like Tinker Bell.:ベルのように、黄金の鱗粉を散らす。}`
+`{ruby:To Shannon, it probably just looked as:紗音には、ただ、黄金の蝶が羽ばたいて}{ruby:though a gold butterfly was flapping its wings.:いるようにしか見えないだろう。}`
+`{ruby:......Of course, that alone was a:……もちろんそれさえも、彼女に}{ruby:miracle that she could hardly grasp.:は理解し難い奇跡なのだが。}`
+`{ruby:But to me, it was like a:しかし私にはそれは、……蝶に}{ruby:remote‐control plane in the shape of a butterfly.:姿を変えての、空中飛行。}`
+`{ruby:{n}I could control that:{n}私は黄金の蝶を、自}{ruby:gold butterfly however I wanted.:在に操っているのだ。}`
 `{ruby:Not clumsily with threads.:操り糸でよたよたとではない。}`
-`{ruby:{n}......I could make it flap, dance, play through the air as I wished.:{n}……私の意志で羽ばたき、舞い、空中を自在に、遊ぶ。}`
-`{ruby:I was taking a walk through the air as that little butterfly.:蝶という分身を通しての、私の空中散歩。}`
-`{ruby:The golden glint of it pierced the darkness of the small room as it danced about freely.:小さな部屋の闇を黄金の輝きで切り裂き、自在に宙を舞う、喜び。}`
+`{ruby:{n}......I could make it flap, dance,:{n}……私の意志で羽ばたき、}{ruby:play through the air as I wished.:舞い、空中を自在に、遊ぶ。}`
+`{ruby:I was taking a walk through:蝶という分身を通しての}{ruby:the air as that little butterfly.:、私の空中散歩。}`
+`{ruby:The golden glint of it pierced the darkness:小さな部屋の闇を黄金の輝きで切り}{ruby:of the small room as it danced about freely.:裂き、自在に宙を舞う、喜び。}`
 `{ruby:......It was an entrancing pleasure.:……恍惚とした、悦楽。}`
-`{ruby:......However, that sensation in my fingers began to weaken.:……しかし、指先の中のその感触が、少しずつ薄れていく。}`
-`{ruby:I could tell that the few magic butterfly scales left in my fingers were going away.:指の中にわずかに残っていた魔法の鱗粉が、無くなるのがわかった。}`
-`{ruby:Finally, like a sparkler burning out, the gold butterfly gave out one last blink of light,:やがて黄金の蝶は、線香花火が消えてしまうかのように、最後には小さく瞬き、}`
-`{ruby:fell down as a single golden dot, and disappeared without a trace......:ぽとりと黄金の粒になって落ちて、そして跡形もなく消え去った……。}`
-`{ruby:"Wh‐what on Earth just happened......":「い、今のは一体……」}`
+`{ruby:......However, that sensation in:……しかし、指先の中のその感触}{ruby:my fingers began to weaken.:が、少しずつ薄れていく。}`
+`{ruby:I could tell that the few magic butterfly:指の中にわずかに残っていた魔法の鱗}{ruby:scales left in my fingers were going away.:粉が、無くなるのがわかった。}`
+`{ruby:Finally, like a sparkler burning out, the gold:やがて黄金の蝶は、線香花火が消えてしま}{ruby:butterfly gave out one last blink of light,:うかのように、最後には小さく瞬き、}`
+`{ruby:fell down as a single golden:ぽとりと黄金の粒になって落ちて、そ}{ruby:dot, and disappeared without a trace......:して跡形もなく消え去った……。}`
+`{ruby:"Wh‐what on:「い、今のは一}{ruby:Earth just happened......":体……」}`
 `{ruby:"This is magic.:「これが、魔法。}`
 `{ruby:.........It's really fun.":………すごく、楽しいよ」}`
 `{ruby:"M‐.........magic............":「ま、………魔法…………」}`
 `{ruby:"Yeah.:「うん。}`
 `{ruby:Magic.:魔法。}`
-`{ruby:......I was able to use it just now because there was still a little left in my fingers.:……私の指に、まだ少しだけ魔法が残ってたから使えた。}`
-`{ruby:......But if I became a real witch, ......I'd be able to use it whenever and however I wanted......to do anything.:……でも、本当の魔女になれば、もっともっと自由自在に、……何でも出来る。}`
-`{ruby:Now that I've learned how fun this can be,:もう、私はこの楽しさを覚えてしまったの。}`
-`{ruby:I don't want to go back to being {y:0:Human}{n:0:human}.:もう、ニンゲンには戻りたくない。}`
+`{ruby:......I was able to use it just now because:……私の指に、まだ少しだけ魔}{ruby:there was still a little left in my fingers.:法が残ってたから使えた。}`
+`{ruby:......But if I became a real witch, ......I'd be able:……でも、本当の魔女になれば、もっとも}{ruby:to use it whenever and however I wanted......to do anything.:っと自由自在に、……何でも出来る。}`
+`{ruby:Now that I've learned:もう、私はこの楽しさを}{ruby:how fun this can be,:覚えてしまったの。}`
+`{ruby:I don't want to:もう、ニンゲンには}{ruby:go back to being {y:0:Human}{n:0:human}.:戻りたくない。}`
 `{ruby:Being a servant is just too boring.:使用人なんて退屈なの、……耐えられない。}`
-`{ruby:So, ......I'm going to become a witch.":だから、魔女に、……なるよ」}`
+`{ruby:So, ......I'm going:だから、魔女に、}{ruby:to become a witch.":……なるよ」}`
 `{ruby:"B‐become a witch...:「ま、魔女になるって、}`
 `{ruby:............W‐wait......!":…………ま、待って……！」}`
-`{ruby:"I've already made my decision, Shannon.:「もう決めたの、紗音。}`
+`{ruby:"I've already made:「もう決めたの}{ruby:my decision, Shannon.:、紗音。}`
 `{ruby:It's been fun.:今日まで、楽しかった。}`
 `{ruby:I'll give you this room.:この部屋はあげるね。}`
 `{ruby:You can use it by yourself.:あなたひとりで使って。}`
 `{ruby:Later.:じゃあね。}`
 `{ruby:Goodbye.":さようなら」}`
 `{ruby:"W‐wait...!!":「ま、待って…！！」}`
-`{ruby:As Shannon called out repeatedly for me to wait, ......a massive planetarium swallowed me up.:待ってと何度も繰り返す紗音を取り残し、……私を巨大なプラネタリウムが飲み込む。}`
-`{ruby:In the sea of the pitch‐black starry sky, I was alone.:漆黒の星空の海に、私だけ。}`
+`{ruby:As Shannon called out repeatedly for me:待ってと何度も繰り返す紗音を取り残し、……}{ruby:to wait, ......a massive planetarium swallowed me up.:私を巨大なプラネタリウムが飲み込む。}`
+`{ruby:In the sea of the:漆黒の星空の海に}{ruby:pitch‐black starry sky, I was alone.:、私だけ。}`
 `{ruby:I...we...are alone here.:ここには私と私たちだけ。}`
-`{ruby:"I'm done acting the part of a servant.:「使用人ごっこは、もうやめる。}`
-`{ruby:.........I'm going to...modify the world.":………世界を、変更」}`
+`{ruby:"I'm done acting the:「使用人ごっこは、}{ruby:part of a servant.:もうやめる。}`
+`{ruby:.........I'm going:………世界を}{ruby:to...modify the world.":、変更」}`
 `{ruby:".........Mm.:「………うむ。}`
 `{ruby:Understood.:了解したぞ。}`
-`{ruby:In that case, how would you like it to be?":それでは、如何様にしたものか」}`
-`{ruby:"Being a wonderful servant like Shannon wouldn't be bad.:「紗音のような素敵な使用人も、悪くはない。}`
-`{ruby:......But now that I know how fun it is to be a witch, that feels like a boring dream.:……でも、魔女の楽しさを知ってしまったら、もうそれは退屈な憧れ。}`
+`{ruby:In that case, how would:それでは、如何様に}{ruby:you like it to be?":したものか」}`
+`{ruby:"Being a wonderful servant:「紗音のような素敵な使用}{ruby:like Shannon wouldn't be bad.:人も、悪くはない。}`
+`{ruby:......But now that I know how fun it is:……でも、魔女の楽しさを知ってしま}{ruby:to be a witch, that feels like a boring dream.:ったら、もうそれは退屈な憧れ。}`
 `{ruby:I can't go back anymore.":もう、戻れない」}`
 `{ruby:"What will happen to Shannon?":「紗音はどうするのか」}`
-`{ruby:"......Shannon can just be Shannon, and stay as a respected servant.:「……紗音は紗音で、これからも尊敬される使用人でいてくれればいい。}`
+`{ruby:"......Shannon can just be Shannon,:「……紗音は紗音で、これからも尊敬さ}{ruby:and stay as a respected servant.:れる使用人でいてくれればいい。}`
 `{ruby:She'll stay the same.:彼女は彼女のままで。}`
-`{ruby:But from now on, it won't be the two of us together, but her alone.":ただ、これからは私と二人ではなく、彼女だけになるけれど」}`
+`{ruby:But from now on, it won't be:ただ、これからは私と二人ではな}{ruby:the two of us together, but her alone.":く、彼女だけになるけれど」}`
 `{ruby:"Partings can be so sudden.:「別れは唐突に、であるな。}`
 `{ruby:......Ah, well.:……まぁ良い。}`
-`{ruby:Being fickle makes life more entertaining.:気紛れな方が、人生は退屈せぬというものよ。}`
+`{ruby:Being fickle makes:気紛れな方が、人生は退屈}{ruby:life more entertaining.:せぬというものよ。}`
 `{ruby:Then what will you do instead?":されば、どうする」}`
 `{ruby:"I want to be a witch.:「魔女がやりたい。}`
 `{ruby:I want to be Beato.":ベアトがやりたい」}`
 `{ruby:"But I am already {f:5:Beatrice}.":「しかし、妾がすでにベアトリーチェであるぞ？」}`
-`{ruby:"Your backstory that you're a witch and my friend will remain the same,:「あなたが魔女で、私の友人という設定はそのままで。}`
-`{ruby:but I'll modify the world so that Beato is me.":ベアトは私ということに世界を変更する」}`
-`{ruby:"Would I then be a witch who is a friend of {f:5:Beatrice}?":「つまり、妾はベアトリーチェの友人の魔女、ということになるのか」}`
+`{ruby:"Your backstory that you're a witch:「あなたが魔女で、私の友人と}{ruby:and my friend will remain the same,:いう設定はそのままで。}`
+`{ruby:but I'll modify the world:ベアトは私ということに}{ruby:so that Beato is me.":世界を変更する」}`
+`{ruby:"Would I then be a witch:「つまり、妾はベアトリーチェの友人}{ruby:who is a friend of {f:5:Beatrice}?":の魔女、ということになるのか」}`
 `{ruby:"Pretty much.:「そんな感じ。}`
-`{ruby:So, from now on, you're a different witch.":だからあなたは今から、ベアトリーチェじゃない魔女」}`
+`{ruby:So, from now on,:だからあなたは今から、ベアト}{ruby:you're a different witch.":リーチェじゃない魔女」}`
 `{ruby:"Very well.:「わかった。}`
 `{ruby:Then, what will be my new name?":では、妾の新しい名前は何とする？」}`
 `{ruby:".....................:「…………………。}`
-`{ruby:I'll put that on hold until I can think of one.:相応しい名前が思いつくまで、保留にする。}`
+`{ruby:I'll put that on hold:相応しい名前が思いつく}{ruby:until I can think of one.:まで、保留にする。}`
 `{ruby:You'll be nameless for a while.:しばらくは名無しで。}`
 `{ruby:Sorry about that.":ごめんね」}`
 `{ruby:"Worry not, worry not.:「良い良い。}`
 `{ruby:It is to be my name, after all.:せっかくの名前だ。}`
-`{ruby:You had better take your time and think carefully about it.:熟考してもらわねば困るというもの。}`
+`{ruby:You had better take your:熟考してもらわねば困}{ruby:time and think carefully about it.:るというもの。}`
 `{ruby:*cackle*.":くっくっく」}`
-`{ruby:"You'll be {f:5:Beatrice}'s friend that she's had since she was young and couldn't use magic yet.:「あなたはベアトリーチェが幼く、まだ魔法が使えない頃からの友人。}`
-`{ruby:It started with you hiding my things to tease me.":私の物を隠したりして、からかっていたことが、縁の始まり」}`
+`{ruby:"You'll be {f:5:Beatrice}'s friend that she's had since:「あなたはベアトリーチェが幼く、ま}{ruby:she was young and couldn't use magic yet.:だ魔法が使えない頃からの友人。}`
+`{ruby:It started with you hiding:私の物を隠したりして、からかっ}{ruby:my things to tease me.":ていたことが、縁の始まり」}`
 `{ruby:"I see.:「なるほど。}`
-`{ruby:And when {f:5:Beatrice} finally learns magic, I become a friend on an equal footing with her.:それがやがて、魔法に目覚めたベアトリーチェの対等な友人となるわけか。}`
-`{ruby:So, I should act like a big sister sort of friend.":では妾は、少しお姉さん的な立場の友人であるな」}`
+`{ruby:And when {f:5:Beatrice} finally learns magic, I become:それがやがて、魔法に目覚めたベアトリ}{ruby:a friend on an equal footing with her.:ーチェの対等な友人となるわけか。}`
+`{ruby:So, I should act like:では妾は、少しお姉さん的な}{ruby:a big sister sort of friend.":立場の友人であるな」}`
 `{ruby:"Yeah, like that.:「うん、そんな感じ。}`
-`{ruby:......What should we do about how we talk?":……喋り方、どうしようかな」}`
-`{ruby:"It seems that "warawa" has become firmly established as the way {f:5:Beatrice} refers to herself.:「ベアトリーチェの一人称は妾で、すっかり馴染んでしまったな。}`
+`{ruby:......What should we do:……喋り方、どう}{ruby:about how we talk?":しようかな」}`
+`{ruby:"It seems that "warawa" has become firmly:「ベアトリーチェの一人称は妾で、}{ruby:established as the way {f:5:Beatrice} refers to herself.:すっかり馴染んでしまったな。}`
 `{ruby:Should I relinquish that to you?":そなたに譲るか？」}`
 `{ruby:"Yeah.:「うん。}`
-`{ruby:That haughty way of speaking with "warawa" will be mine.":妾という言葉遣いは、私が引き継ぐ」}`
+`{ruby:That haughty way of speaking:妾という言葉遣いは、}{ruby:with "warawa" will be mine.":私が引き継ぐ」}`
 `{ruby:"Hmm, very well.:「うむ、わかったぞ。}`
-`{ruby:Then I shall—no, I can't speak like that any more.:では、妾も、……いやいや、これからは妾ではないな。}`
-`{ruby:......Then I need to find a good way to sound like {f:5:Beatrice}'s big‐sister‐like witch friend.":……私も、ベアトリーチェの姉的立場である、魔女の友人に相応しい喋り方を探しておくことにする」}`
+`{ruby:Then I shall—no, I can't:では、妾も、……いやいや、こ}{ruby:speak like that any more.:れからは妾ではないな。}`
+`{ruby:......Then I need to find a good:……私も、ベアトリーチェの姉的立場である、魔女の}{ruby:way to sound like {f:5:Beatrice}'s big‐sister‐like witch friend.":友人に相応しい喋り方を探しておくことにする」}`
 `{ruby:"Yeah.:「うん。}`
 `{ruby:......Or should it be...:……いや、}`
 `{ruby:.........very well.":………うむっ」}`
 `{ruby:"Ahahahaha.:「くっくくくくく。}`
-`{ruby:Now there's a nice, dignified voice.":なかなかの貫禄」}`
-`{ruby:"What about the way I—let's try that again.:「私の、……いや。}`
+`{ruby:Now there's a:なかなかの}{ruby:nice, dignified voice.":貫禄」}`
+`{ruby:"What about the way:「私の、……}{ruby:I—let's try that again.:いや。}`
 `{ruby:And what of my appearance?":…妾の容姿はどうしたものか」}`
 `{ruby:"Good point.:「そうだな。}`
-`{ruby:I've got a sort of blood‐red witch look.:私は真っ赤な魔女という感じであるからな。}`
-`{ruby:Why not choose a different color for yourself?":赤以外の雰囲気でまとめてみてはどうか」}`
-`{ruby:"......When {f:5:Beatrice} wanders the mansion at night, she is often seen dressed in white.":「……ベアトリーチェは夜の屋敷を徘徊する時、白い人影の姿をすることが多い」}`
-`{ruby:"Of course, ghosts are classically white.":「やはり亡霊といえば、白がイメージか」}`
+`{ruby:I've got a sort:私は真っ赤な魔女という}{ruby:of blood‐red witch look.:感じであるからな。}`
+`{ruby:Why not choose a:赤以外の雰囲気でまとめ}{ruby:different color for yourself?":てみてはどうか」}`
+`{ruby:"......When {f:5:Beatrice} wanders the mansion at night,:「……ベアトリーチェは夜の屋敷を徘徊する}{ruby:she is often seen dressed in white.":時、白い人影の姿をすることが多い」}`
+`{ruby:"Of course, ghosts:「やはり亡霊といえば、}{ruby:are classically white.":白がイメージか」}`
 `{ruby:"A white dress...:「白いドレスの、}`
 `{ruby:...on a witch......:……魔女……。}`
-`{ruby:.........Let's try putting it all together.":………イメージをまとめてみる」}`
-`{ruby:I need a different look than the witch in the demon‐red dress.:悪魔の赤いドレスの魔女とは、また違うイメージで。}`
+`{ruby:.........Let's try putting:………イメージをま}{ruby:it all together.":とめてみる」}`
+`{ruby:I need a different look than:悪魔の赤いドレスの魔女とは}{ruby:the witch in the demon‐red dress.:、また違うイメージで。}`
 `{ruby:{n}A white, noble witch.:{n}白い、高貴な魔女のイメージで。}`
-`{ruby:......Unlike the time with the red witch, I'm thinking about my own look now,:……赤いベアトの時と違って、今度は私自身のイメージなのだから、}`
-`{ruby:......so I'd like to make it beautiful and......cute if I can.:……出来るだけ、素敵な、……可愛いイメージがいいな。}`
+`{ruby:......Unlike the time with the red witch,:……赤いベアトの時と違って、今度は}{ruby:I'm thinking about my own look now,:私自身のイメージなのだから、}`
+`{ruby:......so I'd like to make:……出来るだけ、素敵な、……}{ruby:it beautiful and......cute if I can.:可愛いイメージがいいな。}`
 `{ruby:A white dress.:白いドレス。}`
 `{ruby:A noble look.:高貴なイメージ。}`
-`{ruby:{n}Like one of noble blood, but with a dark, sarcastic streak......:{n}やんごとなき血筋の、だけれども慇懃無礼な感じ……。}`
-`{ruby:No, she's like a tomboy princess, so her voice is a mix of formality and rudeness.:いやいや、やんちゃなお姫様だから、一人称は妾で、ちょっとぞんざいな口の利き方。}`
-`{ruby:Then the dress should be the exact opposite, pure and clean, to make a nice contrast......:だからドレスのイメージはむしろ引き立てるために正反対で、清楚な感じに……。}`
+`{ruby:{n}Like one of noble blood,:{n}やんごとなき血筋の、だけ}{ruby:but with a dark, sarcastic streak......:れども慇懃無礼な感じ……。}`
+`{ruby:No, she's like a tomboy princess, so her:いやいや、やんちゃなお姫様だから、一人称は}{ruby:voice is a mix of formality and rudeness.:妾で、ちょっとぞんざいな口の利き方。}`
+`{ruby:Then the dress should be the exact opposite,:だからドレスのイメージはむしろ引き立てる}{ruby:pure and clean, to make a nice contrast......:ために正反対で、清楚な感じに……。}`
 `{ruby:"..............................:「…………………………。}`
 `{ruby:......How does this form suit me?":……このような姿ではどうか」}`
-`{ruby:"Is this the form of the new {f:5:Beatrice}?!":「これが新しいベアトリーチェの姿なの？！」}`
+`{ruby:"Is this the form:「これが新しいベアトリー}{ruby:of the new {f:5:Beatrice}?!":チェの姿なの？！」}`
 `{ruby:"How beautiful!:「これは美しい！}`
 `{ruby:Just like a noble princess!":高貴な姫君みたいだね！」}`
 `{ruby:"Hmmm...:「ふむ…。}`
@@ -735,98 +735,98 @@
 `{ruby:That's wonderful, Beato.":素敵よ、ベアト」}`
 `{ruby:"Hmm. I like it.:「ふむ。気に入った。}`
 `{ruby:I truly do like this form...":実に気に入ったぞ、この姿…」}`
-`{ruby:"Now, if you can keep this up and give me a wonderful name, that'd be great.:「その調子で、今度は私に素敵な名前を付けてくれると嬉しいわね？}`
-`{ruby:If I have to go around nameless for too long, I'll get all sulky.":いつまでも名無しじゃ、不貞腐れちゃうわ」}`
-`{ruby:"Fear not, I shall find you a splendid name!:「安心せよ、必ず立派な名前を考えてやろうぞ！}`
-`{ruby:But first, there is something I must consider: what shall be the form of my magic?!":それよりまず、考えたいことがある。それは妾の使う魔法のイメージである！」}`
-`{ruby:"Hiding objects and transporting them instantaneously is your theme.:「物を隠したり、別の場所に瞬間移動させる魔法はそなたのイメージだ。}`
-`{ruby:So, I must think of my own particular theme of magic.:だから、妾も妾に相応しい魔法のイメージを考えねばな。}`
-`{ruby:......When I use magic, gold butterflies will flit about.:……魔法を使う時、黄金の蝶が飛び交う。}`
-`{ruby:I'm not backing down on that part...!":そこは譲れぬぞ…！」}`
+`{ruby:"Now, if you can keep this up and:「その調子で、今度は私に素敵な名前}{ruby:give me a wonderful name, that'd be great.:を付けてくれると嬉しいわね？}`
+`{ruby:If I have to go around nameless:いつまでも名無しじゃ、不}{ruby:for too long, I'll get all sulky.":貞腐れちゃうわ」}`
+`{ruby:"Fear not, I shall:「安心せよ、必ず立派な名}{ruby:find you a splendid name!:前を考えてやろうぞ！}`
+`{ruby:But first, there is something I must consider::それよりまず、考えたいことがある。それは}{ruby:what shall be the form of my magic?!":妾の使う魔法のイメージである！」}`
+`{ruby:"Hiding objects and transporting:「物を隠したり、別の場所に瞬間移動さ}{ruby:them instantaneously is your theme.:せる魔法はそなたのイメージだ。}`
+`{ruby:So, I must think of:だから、妾も妾に相応しい魔法}{ruby:my own particular theme of magic.:のイメージを考えねばな。}`
+`{ruby:......When I use magic,:……魔法を使う時、黄金}{ruby:gold butterflies will flit about.:の蝶が飛び交う。}`
+`{ruby:I'm not backing:そこは譲れぬ}{ruby:down on that part...!":ぞ…！」}`
 `{ruby:"*giggle*. Splendid.:「くす。素敵ね。}`
 `{ruby:Just perfect for the Golden Witch.:それこそ、まさに黄金の魔女。}`
-`{ruby:......Then the weaknesses such as spiderwebs and the sacred mirror in the shrine will also go to you?":……じゃあ、蜘蛛の糸が苦手で、社に納められてる霊鏡が苦手で、という弱点もあなたに？」}`
+`{ruby:......Then the weaknesses such as spiderwebs and the sacred:……じゃあ、蜘蛛の糸が苦手で、社に納められて}{ruby:mirror in the shrine will also go to you?":る霊鏡が苦手で、という弱点もあなたに？」}`
 `{ruby:"Hmm.:「ふむ。}`
-`{ruby:Even an all‐powerful witch needs a few small weaknesses to keep things interesting.:万能の魔女にも、何かささやかな弱点があった方が面白いというもの。}`
+`{ruby:Even an all‐powerful witch needs a:万能の魔女にも、何かささやかな弱点}{ruby:few small weaknesses to keep things interesting.:があった方が面白いというもの。}`
 `{ruby:Then let us do it like so.:では、こうしよう。}`
-`{ruby:If I touch a spiderweb, it will burn me.":蜘蛛の糸に触れたら火傷をするということとする」}`
-`{ruby:Silently, a silvery spider dropped down vertically.:すぅっと、銀色の蜘蛛が静かに、上から下に横切っていく。}`
-`{ruby:Beato, now in her new form, lightly touched the silver spiderweb that trailed out behind it.:その後に軌跡として残る銀色の糸に、新しき姿を得たベアトがすっと触れる。}`
-`{ruby:As she did, ......there was a faint sound of flesh burning, and a thin burn was left across her fingers.:すると、……小さく肉の焼ける音がして、ベアトの指先には一文字の火傷が残った。}`
-`{ruby:{f:5:Beatrice} can't stand spiderwebs.:ベアトリーチェは、蜘蛛の糸が苦手。}`
-`{ruby:{n}That was one of the weaknesses of the evil spirits Kumasawa‐san spoke of.:{n}熊沢さんが言ってた、六軒島の悪霊の弱点。}`
-`{ruby:Since the witch {f:5:Beatrice} had revived thanks to the power of those evil spirits,:その悪霊の力を得て、魔女ベアトリーチェは復活をしているから、}`
+`{ruby:If I touch a:蜘蛛の糸に触れたら火傷をす}{ruby:spiderweb, it will burn me.":るということとする」}`
+`{ruby:Silently, a silvery:すぅっと、銀色の蜘蛛が静かに、}{ruby:spider dropped down vertically.:上から下に横切っていく。}`
+`{ruby:Beato, now in her new form, lightly touched:その後に軌跡として残る銀色の糸に、新し}{ruby:the silver spiderweb that trailed out behind it.:き姿を得たベアトがすっと触れる。}`
+`{ruby:As she did, ......there was a faint sound of flesh:すると、……小さく肉の焼ける音がして、ベ}{ruby:burning, and a thin burn was left across her fingers.:アトの指先には一文字の火傷が残った。}`
+`{ruby:{f:5:Beatrice} can't:ベアトリーチェは、蜘}{ruby:stand spiderwebs.:蛛の糸が苦手。}`
+`{ruby:{n}That was one of the weaknesses:{n}熊沢さんが言ってた、}{ruby:of the evil spirits Kumasawa‐san spoke of.:六軒島の悪霊の弱点。}`
+`{ruby:Since the witch {f:5:Beatrice} had revived thanks:その悪霊の力を得て、魔女ベアトリ}{ruby:to the power of those evil spirits,:ーチェは復活をしているから、}`
 `{ruby:she also inherited their weaknesses.:弱点も引き継いでしまっているのだ。}`
-`{ruby:So, the sacred mirror is also one of her weaknesses.:同様に、霊鏡も弱点。}`
-`{ruby:......However, I am unlikely to cross paths with that sacred mirror in the shrine very often.:……しかし、社の霊鏡なんて、そうそう妾の前には現れないだろう。}`
+`{ruby:So, the sacred mirror is:同様に、霊鏡}{ruby:also one of her weaknesses.:も弱点。}`
+`{ruby:......However, I am unlikely to cross paths with:……しかし、社の霊鏡なんて、そうそ}{ruby:that sacred mirror in the shrine very often.:う妾の前には現れないだろう。}`
 `{ruby:That's not very fun.:ちょっと面白くない。}`
-`{ruby:".........Then, while mirrors with sacred power will obviously be a weakness, let us make mirrors in general a weakness too.":「………では、霊力のある鏡は無論のこと、鏡自体も苦手ということにしよう」}`
-`{ruby:"They do often say that mirrors have magical powers.:「鏡って魔力があるってよく言うものね。}`
+`{ruby:".........Then, while mirrors with sacred power will obviously be a:「………では、霊力のある鏡は無論のこと}{ruby:weakness, let us make mirrors in general a weakness too.":、鏡自体も苦手ということにしよう」}`
+`{ruby:"They do often say:「鏡って魔力があるって}{ruby:that mirrors have magical powers.:よく言うものね。}`
 `{ruby:Good idea, I think.:いいんじゃない？}`
 `{ruby:Sounds just like a witch.":如何にも魔女っぽい感じ」}`
-`{ruby:"Let us say that I cannot abide mirrors because when I look at one, it feels as though my magical power is being sucked out.:「鏡を見ると、魔力が吸い取られる感じがするので、苦手、ということにしよう。}`
-`{ruby:Hmm, that sounds quite entertaining.":うむ、面白そうだ」}`
-`{ruby:......Now that I really think about it,:……よくよく考えれば。}`
-`{ruby:I'll be bad with mirrors whether I invent a story for it or not.:そんな設定などなくとも、私は鏡が苦手。}`
+`{ruby:"Let us say that I cannot abide mirrors because when I look:「鏡を見ると、魔力が吸い取られる感じがす}{ruby:at one, it feels as though my magical power is being sucked out.:るので、苦手、ということにしよう。}`
+`{ruby:Hmm, that:うむ、面白そ}{ruby:sounds quite entertaining.":うだ」}`
+`{ruby:......Now that I:……よくよく考}{ruby:really think about it,:えれば。}`
+`{ruby:I'll be bad with mirrors whether I:そんな設定などなくとも}{ruby:invent a story for it or not.:、私は鏡が苦手。}`
 `{ruby:No matter who I want or strive to be,:私が誰になろうとも、憧れようとも、}`
-`{ruby:......the only face that will ever show in a mirror...:……鏡に映るのは、}`
-`{ruby:is the heartlessly pathetic and realistic face of {i:"Yasu"}.:いつも無残なくらいに情けなく現実的な、{i:ヤス}の顔。}`
-`{ruby:Mirrors, which will always force me to face my shabby reality, are something I always want to avoid.:みすぼらしい自分の現実を、無理やり突きつける鏡は、いつだって、私の苦手なもの。}`
+`{ruby:......the only face that will:……鏡に映る}{ruby:ever show in a mirror...:のは、}`
+`{ruby:is the heartlessly pathetic:いつも無残なくらいに情けなく現}{ruby:and realistic face of {i:"Yasu"}.:実的な、{i:ヤス}の顔。}`
+`{ruby:Mirrors, which will always force me to face my:みすぼらしい自分の現実を、無理やり突きつけ}{ruby:shabby reality, are something I always want to avoid.:る鏡は、いつだって、私の苦手なもの。}`
 `{ruby:That's right.:うん。}`
 `{ruby:......I hate mirrors.:……鏡は、嫌い。}`
 `{ruby:......I don't want to look at...:……みすぼらしい自分なんか、}`
 `{ruby:my own...:見たく、}`
 `{ruby:pitiful self.:ない。}`
-`{ruby:"You don't need to decide everything at once.:「一度に何もかも決めなくていいわ。}`
-`{ruby:It's fun to build up a world one little bit at a time.":世界を、ゆっくりと作り上げていくのだって、とても楽しいのだから」}`
+`{ruby:"You don't need to:「一度に何もかも決め}{ruby:decide everything at once.:なくていいわ。}`
+`{ruby:It's fun to build up a:世界を、ゆっくりと作り上げていくの}{ruby:world one little bit at a time.":だって、とても楽しいのだから」}`
 `{ruby:"True.:「うむ。}`
 `{ruby:I understand.:わかっている。}`
-`{ruby:I shall enjoy life as a witch as I slowly expand my world.":ゆっくりと、魔女の生活を楽しみながら、妾の世界を膨らませてゆこうぞ」}`
-`{ruby:"That tiny, dark room is no place for you to sleep now.":「あの狭くて暗い部屋はもう、あんたの寝床じゃないわね」}`
+`{ruby:I shall enjoy life as a:ゆっくりと、魔女の生活を楽しみながら}{ruby:witch as I slowly expand my world.":、妾の世界を膨らませてゆこうぞ」}`
+`{ruby:"That tiny, dark room is no:「あの狭くて暗い部屋はもう、あ}{ruby:place for you to sleep now.":んたの寝床じゃないわね」}`
 `{ruby:"Indeed.:「ふむ。}`
 `{ruby:I am the Golden Witch!:妾こそは黄金の魔女！}`
-`{ruby:I am the ruler of Rokkenjima's night, and the nighttime mansion belongs to me.:六軒島の夜の支配者なれば、夜の屋敷は妾のもの。}`
-`{ruby:That is where I should be living, is it not?":妾の住まうべきは屋敷ではないか」}`
+`{ruby:I am the ruler of Rokkenjima's night,:六軒島の夜の支配者なれば、}{ruby:and the nighttime mansion belongs to me.:夜の屋敷は妾のもの。}`
+`{ruby:That is where I should:妾の住まうべきは屋}{ruby:be living, is it not?":敷ではないか」}`
 `{ruby:"A room for {f:5:Beatrice}?:「ベアトリーチェの部屋？}`
 `{ruby:Haha, isn't it obvious?!":はは、決まってるじゃないか！」}`
 `{ruby:"Yeah, that's right!:「えぇ、そうね！}`
-`{ruby:That wonderful room on the second floor of the mansion......":お屋敷の２階の、あの素敵な部屋……」}`
-`{ruby:"The VIP room of the witch—{i:that} is {f:5:Beatrice}'s room!":「魔女の貴賓室こそ、ベアトリーチェの部屋じゃないか！」}`
+`{ruby:That wonderful room on the:お屋敷の２階の、あの素}{ruby:second floor of the mansion......":敵な部屋……」}`
+`{ruby:"The VIP room of:「魔女の貴賓室こそ、ベアトリー}{ruby:the witch—{i:that} is {f:5:Beatrice}'s room!":チェの部屋じゃないか！」}`
 `{ruby:"Oh, so it is.:「おお、そうであったな。}`
-`{ruby:From this evening forward, that room in the nighttime mansion shall be my dwelling place...!:今宵より、妾が住まうは夜の屋敷のあの部屋ではないか…！}`
-`{ruby:Why didn't I think of that myself, hahaha, heha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!":これはうっかりしていた、ははは、くっはははははははは…！！」}`
+`{ruby:From this evening forward, that room in:今宵より、妾が住まうは夜の屋敷}{ruby:the nighttime mansion shall be my dwelling place...!:のあの部屋ではないか…！}`
+`{ruby:Why didn't I think:これはうっかりしていた、ははは、く}{ruby:of that myself, hahaha, heha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!":っはははははははは…！！」}`
 `{ruby:"Then let's go, Beato.:「じゃあ、行きましょ、ベアト。}`
-`{ruby:If we're going to drink tea together, we'll need a much better room than that cramped one.":魔女が二人、お茶をするなら、あんな狭い部屋じゃなくて、相応しい素敵な部屋でするべきだわ」}`
+`{ruby:If we're going to drink tea together, we'll:魔女が二人、お茶をするなら、あんな狭い部屋じゃ}{ruby:need a much better room than that cramped one.":なくて、相応しい素敵な部屋でするべきだわ」}`
 `{ruby:"Indeed.:「そうであるな。}`
-`{ruby:That room is too crude to welcome friends to and serve tea in.:友人を招いて茶を振舞うには、あの部屋は粗末が過ぎる。}`
+`{ruby:That room is too crude to:友人を招いて茶を振舞うには、}{ruby:welcome friends to and serve tea in.:あの部屋は粗末が過ぎる。}`
 `{ruby:We shall change rooms.:部屋を変えよう。}`
 `{ruby:Let us go, my friend...!":行こうではないか、我が友よ…！」}`
-`{ruby:".........So, this is goodbye to Shannon.":「………紗音とは、お別れね」}`
-`{ruby:When I looked at my feet, ......I could see my own dorm room far beneath me.:足元を見下ろすと、……はるか眼下に、寮の自分の部屋が見える。}`
-`{ruby:I could see Shannon, who had dashed up to the bed I lay on and had been saying "wait" at the moment time froze.:私が横になっているベッドに駆け寄り、}`
+`{ruby:".........So, this is:「………紗音とは}{ruby:goodbye to Shannon.":、お別れね」}`
+`{ruby:When I looked at my feet, ......I could:足元を見下ろすと、……はるか眼下}{ruby:see my own dorm room far beneath me.:に、寮の自分の部屋が見える。}`
+`{ruby:I could see Shannon, who had dashed up to the bed I:私が横になっているベ}{ruby:lay on and had been saying "wait" at the moment time froze.:ッドに駆け寄り、}`
 `{ruby:She was as rigid as a doll.:待って、と言ったまま時間が止まり、人形のように硬直している紗音が見える。}`
-`{ruby:Looking down at it from this height, it really did look like a small dollhouse...:この高みから見下ろすと、それはまるで、小さな人形とそのお家みたいだ…。}`
+`{ruby:Looking down at it from this height,:この高みから見下ろすと、それはまるで、}{ruby:it really did look like a small dollhouse...:小さな人形とそのお家みたいだ…。}`
 `{ruby:"Farewell, Shannon.:「さらばだ、紗音。}`
-`{ruby:......The days I spent as a {y:0:Human}{n:0:human}, growing our friendship as I attempted to emulate you, were truly fun.:……ニンゲンとして、そなたを目標に、そなたと友情を育みながらの日々も、楽しいものであったぞ。}`
-`{ruby:...If I had never learned the joys of magic and awakened as a witch,:…もし妾が、魔法の悦楽を知ることなく、魔女に開眼することがなかったなら、}`
-`{ruby:everything would doubtless have remained as it was.":それはこれからも変わらなかったであろうな」}`
-`{ruby:.........I was your only close friend as well, wasn't I?:………そなたにとっても、妾が唯一の親友であったな。}`
-`{ruby:{n}Please forgive me for erasing that friend so suddenly.:{n}その親友が、忽然と消え去ることをどうか許してほしい。}`
-`{ruby:As a parting gift, ......I will erase "me" from your world.:そなたへの置き土産として、……そなたの世界より、妾そのものを消し去る。}`
-`{ruby:Starting now, this will not be a two‐person room.:今より、その部屋は二人部屋ではない。}`
-`{ruby:It will be a single‐person room, with just you in it.:そなただけの、一人部屋である。}`
-`{ruby:Strive to be a kind, reliable servant loved by everyone,:そなたは、優しく、誰にも愛され、頼りにされる使用人を目指し、}`
-`{ruby:and embody that ideal as you always have.:これからもそなたの理想の姿を体現していくが良い。}`
-`{ruby:Yasu, the stupid, clumsy servant who lost things all the time, no longer exists.:もう、ヤスという、物をなくしてばかりの、愚かでドジな使用人は、存在しない。}`
+`{ruby:......The days I spent as a {y:0:Human}{n:0:human}, growing our:……ニンゲンとして、そなたを目標に、そなたと友情}{ruby:friendship as I attempted to emulate you, were truly fun.:を育みながらの日々も、楽しいものであったぞ。}`
+`{ruby:...If I had never learned the joys:…もし妾が、魔法の悦楽を知ることなく、}{ruby:of magic and awakened as a witch,:魔女に開眼することがなかったなら、}`
+`{ruby:everything would doubtless have:それはこれからも変わらな}{ruby:remained as it was.":かったであろうな」}`
+`{ruby:.........I was your only close:………そなたにとっても、妾が}{ruby:friend as well, wasn't I?:唯一の親友であったな。}`
+`{ruby:{n}Please forgive me for:{n}その親友が、忽然と消え去る}{ruby:erasing that friend so suddenly.:ことをどうか許してほしい。}`
+`{ruby:As a parting gift, ......I:そなたへの置き土産として、……そなたの}{ruby:will erase "me" from your world.:世界より、妾そのものを消し去る。}`
+`{ruby:Starting now, this will:今より、その部屋は二}{ruby:not be a two‐person room.:人部屋ではない。}`
+`{ruby:It will be a single‐person:そなただけの、一人}{ruby:room, with just you in it.:部屋である。}`
+`{ruby:Strive to be a kind,:そなたは、優しく、誰にも愛され、}{ruby:reliable servant loved by everyone,:頼りにされる使用人を目指し、}`
+`{ruby:and embody that ideal:これからもそなたの理想の姿}{ruby:as you always have.:を体現していくが良い。}`
+`{ruby:Yasu, the stupid, clumsy servant who lost:もう、ヤスという、物をなくしてばかりの、}{ruby:things all the time, no longer exists.:愚かでドジな使用人は、存在しない。}`
 `{ruby:Farewell, Shannon.:さらばだ、紗音。}`
-`{ruby:When I mature as the witch {f:5:Beatrice} and wander freely about the nighttime mansion,:妾が魔女ベアトリーチェとして成熟し、夜の屋敷を自在に闊歩するようになれば。}`
-`{ruby:......I may bump into you as you do your nighttime rounds.:……夜の屋敷を見回るそなたと、やがては出会うこともあるだろう。}`
+`{ruby:When I mature as the witch {f:5:Beatrice}:妾が魔女ベアトリーチェとして成熟し、夜の}{ruby:and wander freely about the nighttime mansion,:屋敷を自在に闊歩するようになれば。}`
+`{ruby:......I may bump into you:……夜の屋敷を見回るそなたと、やが}{ruby:as you do your nighttime rounds.:ては出会うこともあるだろう。}`
 `{ruby:However, when I meet you again,:しかし、そなたと再び出会う時。}`
 `{ruby:it will not be a reunion.:それは再会ではない。}`
 `{ruby:{n}It will be our first meeting.:{n}それは、初めての出会いとなるのだ。}`
-`{ruby:After all, though you have heard the rumors about the witch {f:5:Beatrice}, you have never met her......:何しろ、そなたは魔女ベアトリーチェの噂話は聞けど、会ったことなど、一度もないのだから……。}`
+`{ruby:After all, though you have heard the rumors:何しろ、そなたは魔女ベアトリーチェの噂話は聞けど}{ruby:about the witch {f:5:Beatrice}, you have never met her......:、会ったことなど、一度もないのだから……。}`
 `{ruby:Farewell, Shannon.:さらばだ、紗音。}`
-`{ruby:Let us meet again sometime and spin up some fun tale.........:いずれ出会い、何か面白い物語を紡ぎ合おうぞ………。}`
+`{ruby:Let us meet again sometime:いずれ出会い、何か面白い物語}{ruby:and spin up some fun tale.........:を紡ぎ合おうぞ………。}`
 `{ruby:"Wait......!!:「待って……！！}`
 `{ruby:Wai...:ま、}`
 `{ruby:.........t...:…………って}`
@@ -836,30 +836,30 @@
 `{ruby:.........What...:………私は、}`
 `{ruby:...was I doing...?:……何を…？}`
 `{ruby:Was I......talking in my sleep......?:寝惚けて、……たのかしら……？}`
-`{ruby:Apparently, I had gotten out of bed, stretched my hand out towards it,:私は、自分の抜け出た寝床に向かって手を伸ばしながら、}`
+`{ruby:Apparently, I had gotten out of:私は、自分の抜け出た寝床に向}{ruby:bed, stretched my hand out towards it,:かって手を伸ばしながら、}`
 `{ruby:......and said "wait".:……待って、と言っていたようだった。}`
-`{ruby:This isn't the first time I've woken myself up by saying something strange in my sleep, but...:寝惚けておかしなことを口走って、その勢いで目が覚めてしまった経験は、ないことはないけれど。}`
-`{ruby:......I don't remember ever waking up to find myself out of bed and standing up.:……寝床を抜け出して、こうして立ったまま目が覚めた経験なんて、今までに一度もない。}`
-`{ruby:Could this be what they call......sleepwalking...?:ひょっとしてこれが、……噂に聞く、夢遊病なのかしら…。}`
+`{ruby:This isn't the first time I've woken myself:寝惚けておかしなことを口走って、その勢いで目が覚}{ruby:up by saying something strange in my sleep, but...:めてしまった経験は、ないことはないけれど。}`
+`{ruby:......I don't remember ever waking up to:……寝床を抜け出して、こうして立ったまま目が}{ruby:find myself out of bed and standing up.:覚めた経験なんて、今までに一度もない。}`
+`{ruby:Could this be:ひょっとしてこれが、……噂に聞}{ruby:what they call......sleepwalking...?:く、夢遊病なのかしら…。}`
 `{ruby:Am I just tired......?:私、疲れてる……？}`
 `{ruby:......Gotta sleep.:……寝なきゃ。}`
 `{ruby:Gotta get back to sleep.:寝直さなきゃ。}`
 `{ruby:I turned around to face my bed.:私は、自分のベッドに、踵を返す。}`
 `{ruby:............?:…………？}`
 `{ruby:My bed wasn't there.:振り返ったところで、自分のベッドなどそこにはない。}`
-`{ruby:{n}There was no bed in this room except the one I had just turned my back on.:{n}今、背を向けたベッドしか、この部屋にはないのだから。}`
-`{ruby:If I'm the only one in this room, and the only bed is the one behind me,:この部屋にいるのは私一人で、ベッドも私の背中に一つしかないなら……、}`
+`{ruby:{n}There was no bed in this room except:{n}今、背を向けたベッドしか、}{ruby:the one I had just turned my back on.:この部屋にはないのだから。}`
+`{ruby:If I'm the only one in this room,:この部屋にいるのは私一人で、ベッドも}{ruby:and the only bed is the one behind me,:私の背中に一つしかないなら……、}`
 `{ruby:......that must mean it's my bed.:……それはつまり、私のベッドということではないか。}`
-`{ruby:......That feels wrong, for some reason.:……なぜだか、釈然としない。}`
-`{ruby:The bed sheets are all disarranged, as though someone slipped out of them.:ベッドの布団は、誰かが這い出たように、乱れている。}`
+`{ruby:......That feels wrong,:……なぜだか、釈}{ruby:for some reason.:然としない。}`
+`{ruby:The bed sheets are all disarranged,:ベッドの布団は、誰かが這い出}{ruby:as though someone slipped out of them.:たように、乱れている。}`
 `{ruby:"Someone"...?:誰かが這い出た…？}`
 `{ruby:This is my own, single‐person room.:この部屋は、私の一人部屋じゃないか。}`
-`{ruby:So, that there is my bed, and the rumpled sheets mean...:なら、それは私のベッドであり、這い出た跡とはつまり、}`
-`{ruby:that I was just sleeping there until a second ago, don't they...?:私がさっきまでこの布団に寝ていたということではないのか…？}`
+`{ruby:So, that there is my:なら、それは私のベッドであり}{ruby:bed, and the rumpled sheets mean...:、這い出た跡とはつまり、}`
+`{ruby:that I was just sleeping there:私がさっきまでこの布団に寝ていた}{ruby:until a second ago, don't they...?:ということではないのか…？}`
 `{ruby:......But, for some reason,:……でも、どうしてか、}`
 `{ruby:.........that bed...:………このベッドが、}`
 `{ruby:...doesn't feel like my bed.:……自分のベッドだと思えない。}`
-`{ruby:But I, Shannon, have a single‐person room—I was the only person to be given one while all the other kids had to share.:しかし、私、紗音は、他の子たちは相部屋なのに、私一人だけ一人部屋を与えられている。}`
+`{ruby:But I, Shannon, have a single‐person room—I was the only person:しかし、私、紗音は、他の子たちは相部屋なのに}{ruby:to be given one while all the other kids had to share.:、私一人だけ一人部屋を与えられている。}`
 `{ruby:So, there's only one bed.:だから、ベッドも一つ。}`
 `{ruby:{n}And it must be mine.:{n}無論、それは私のベッドのはず。}`
 `{ruby:...........................:………………………。}`
@@ -867,61 +867,61 @@
 `{ruby:...tired?:疲れてる、}`
 `{ruby:......I wonder...":……のかな」}`
 `{ruby:I must just be half‐asleep.:きっと、寝惚けてるだけ。}`
-`{ruby:I have school again first thing tomorrow.:明日も学校が早い。}`
-`{ruby:And after school, I'll go to the mansion, help out with some work,:そして、学校が終わったら、お屋敷に行って、少しお仕事の手伝いをしてから、}`
-`{ruby:and then I want to talk to Kumasawa‐san about the mystery novel I just read.:熊沢さんとまた、読んだばかりの推理小説を語り合いたい。}`
+`{ruby:I have school:明日も学校が}{ruby:again first thing tomorrow.:早い。}`
+`{ruby:And after school, I'll go to:そして、学校が終わったら、お屋敷に行っ}{ruby:the mansion, help out with some work,:て、少しお仕事の手伝いをしてから、}`
+`{ruby:and then I want to talk to:熊沢さんとまた、読んだばかりの}{ruby:Kumasawa‐san about the mystery novel I just read.:推理小説を語り合いたい。}`
 `{ruby:"Time to sleep.:「寝よう。}`
-`{ruby:I'm probably just so worn out that I'm imagining things.:きっと、疲れてるからおかしなことを考えちゃうのね。}`
+`{ruby:I'm probably just so worn:きっと、疲れてるからおかしな}{ruby:out that I'm imagining things.:ことを考えちゃうのね。}`
 `{ruby:.........Good night, Shannon.:………おやすみなさい、紗音。}`
-`{ruby:Just crawl in bed and close your eyes...:布団に包まれて、静かに目を閉じれば。}`
-`{ruby:...and you won't have to think about anything complicated......":……もう、何も難しいことは考えなくていいんだよ……」}`
+`{ruby:Just crawl in bed:布団に包まれて、静か}{ruby:and close your eyes...:に目を閉じれば。}`
+`{ruby:...and you won't have:……もう、何も難しいことは考}{ruby:to think about anything complicated......":えなくていいんだよ……」}`
 `{ruby:I went back into my bed.:私は布団に潜り直す。}`
-`{ruby:It felt a bit uncomfortable to crawl into a bed that wasn't mine.:自分のじゃない布団に潜ることに対する、わずかの嫌悪がチリチリとする。}`
-`{ruby:Still, it might just be because I'm getting so sleepy, but it's starting to feel as though this is my bed after all.:でも、だんだん眠くなってきたせいか、やはりこれは自分の布団だという気がしてきた。}`
+`{ruby:It felt a bit uncomfortable to:自分のじゃない布団に潜ることに対する}{ruby:crawl into a bed that wasn't mine.:、わずかの嫌悪がチリチリとする。}`
+`{ruby:Still, it might just be because I'm getting so sleepy, but:でも、だんだん眠くなってきたせいか、やはり}{ruby:it's starting to feel as though this is my bed after all.:これは自分の布団だという気がしてきた。}`
 `{ruby:.........I'm just half‐asleep......:………私、寝惚けてるんだ……。}`
 `{ruby:I am...Shannon.:私は、紗音。}`
 `{ruby:A lonely servant.:ひとりぼっちの使用人。}`
 `{ruby:I mess up from time to time,:時々、失敗もしちゃうけど、}`
-`{ruby:......but I want to become a kind servant whom everyone loves......:……誰からも愛されるやさしい使用人になりたい……。}`
+`{ruby:......but I want to become:……誰からも愛されるやさしい}{ruby:a kind servant whom everyone loves......:使用人になりたい……。}`
 `{ruby:.........Goodnight,:………おやすみ。}`
 `{ruby:.........me.........:………私………。}`
 `{ruby:Oh, I am one yet many.:あぁ、我こそは我にして我等なり。}`
-`{ruby:I have grown tired of playing the servant.:もう使用人ごっこは飽きた。}`
-`{ruby:I have grown tired of playing the {y:0:Human}{n:0:human}!:ニンゲンごっこは飽きた！}`
-`{ruby:From this moment forth, from this night forth, I am {f:5:Beatrice}!:これより我は、今宵より我はベアトリーチェ！}`
-`{ruby:The Golden Witch {f:5:Beatrice}, who has lived for a thousand years!:千年を経た、黄金の魔女、ベアトリーチェであるぞ！}`
+`{ruby:I have grown tired:もう使用人ごっこ}{ruby:of playing the servant.:は飽きた。}`
+`{ruby:I have grown tired:ニンゲンごっこ}{ruby:of playing the {y:0:Human}{n:0:human}!:は飽きた！}`
+`{ruby:From this moment forth, from:これより我は、今宵より我}{ruby:this night forth, I am {f:5:Beatrice}!:はベアトリーチェ！}`
+`{ruby:The Golden Witch {f:5:Beatrice}, who:千年を経た、黄金の魔女、ベ}{ruby:has lived for a thousand years!:アトリーチェであるぞ！}`
 `{ruby:Praise me, servants.:讃えよ使用人ども。}`
-`{ruby:Have fear when you are chosen for the night shift!:怯えよ、夜回りに選ばれたることを！}`
-`{ruby:On the nighttime island, the mansion is my place, and that is my time...!:夜の島は屋敷は、全て妾のもの、妾の時間…！}`
+`{ruby:Have fear when you are:怯えよ、夜回りに選ば}{ruby:chosen for the night shift!:れたることを！}`
+`{ruby:On the nighttime island, the mansion is:夜の島は屋敷は、全て妾の}{ruby:my place, and that is my time...!:もの、妾の時間…！}`
 `{ruby:Oh, I am one yet many!:あぁ、我こそは我にして我等なり！}`
-`{ruby:Yes, let our world swallow up everything.:さぁ、我等の世界にて全てを飲み込もう。}`
+`{ruby:Yes, let our:さぁ、我等の世界にて全}{ruby:world swallow up everything.:てを飲み込もう。}`
 `{ruby:It is like the raging seas!:それはまるで波濤のように！}`
-`{ruby:Well now, let us drink the mysterious moon dry tonight, with this {y:0:Human}{n:0:human} book as a side dish!:やれやれ、今夜もニンゲンの書物を肴に神秘の月を飲み干そう！}`
+`{ruby:Well now, let us drink the mysterious moon dry:やれやれ、今夜もニンゲンの書物を}{ruby:tonight, with this {y:0:Human}{n:0:human} book as a side dish!:肴に神秘の月を飲み干そう！}`
 `{ruby:You call this mystery?:これがミステリー？}`
 `{ruby:You call this a locked room?:これが密室？}`
-`{ruby:You call this "a crime impossible for {y:0:Human}{n:0:human}s"?:これがニンゲンには不可能な犯罪とな？}`
+`{ruby:You call this "a:これがニンゲンには不可}{ruby:crime impossible for {y:0:Human}{n:0:human}s"?:能な犯罪とな？}`
 `{ruby:Don't make me laugh!:笑わせる！}`
-`{ruby:With all these holes and weak points, you call this a crime impossible for {y:0:Human}{n:0:human}s?!:その程度の隙だらけの穴だらけが、ニンゲンには不可能な犯罪とな！}`
-`{ruby:Is there no splendid locked‐room magic capable of astonishing me?:妾を感嘆させる素晴らしき密室魔法はないのか？}`
-`{ruby:Oh, not here, not there, not this, not that, all of them pathetic!:あぁ、やれやれこれもこれも、それもあれも馬鹿らしい！}`
-`{ruby:It draws out a chuckle, but leaves me unsure which is the side dish, the moon or the book?!:くすりとは笑えるが、これでは月と書物の、どちらが肴かわからぬというもの！}`
-`{ruby:If I get tired of mystery, I can change myself into a butterfly!:ミステリーに飽きれば、蝶に姿を変えて島を屋敷を！}`
+`{ruby:With all these holes and weak points,:その程度の隙だらけの穴だらけが、ニ}{ruby:you call this a crime impossible for {y:0:Human}{n:0:human}s?!:ンゲンには不可能な犯罪とな！}`
+`{ruby:Is there no splendid locked‐room:妾を感嘆させる素晴らしき}{ruby:magic capable of astonishing me?:密室魔法はないのか？}`
+`{ruby:Oh, not here, not there, not:あぁ、やれやれこれもこれも、}{ruby:this, not that, all of them pathetic!:それもあれも馬鹿らしい！}`
+`{ruby:It draws out a chuckle, but leaves me unsure:くすりとは笑えるが、これでは月と書物の}{ruby:which is the side dish, the moon or the book?!:、どちらが肴かわからぬというもの！}`
+`{ruby:If I get tired of mystery,:ミステリーに飽きれば、蝶に}{ruby:I can change myself into a butterfly!:姿を変えて島を屋敷を！}`
 `{ruby:I can flit about the island,:広大な森を！}`
-`{ruby:the mansion, the vast forest at will!:自由気ままに散歩しようではないか。}`
-`{ruby:I'll follow those cowardly servants as they do their nighttime rounds,:臆病なる夜回りの使用人の後を、つけて回り、}`
-`{ruby:and when they check to see that a window is locked, they'll see me laughing at them in the reflection on the glass!:窓の戸締りを確かめる時、そのガラスに姿を映して肩越しに笑ってくれようぞ！}`
+`{ruby:the mansion, the:自由気ままに散歩しよ}{ruby:vast forest at will!:うではないか。}`
+`{ruby:I'll follow those cowardly servants:臆病なる夜回りの使用人の}{ruby:as they do their nighttime rounds,:後を、つけて回り、}`
+`{ruby:and when they check to see that a window is locked,:窓の戸締りを確かめる時、そのガラスに姿}{ruby:they'll see me laughing at them in the reflection on the glass!:を映して肩越しに笑ってくれようぞ！}`
 `{ruby:I can be fickle, and do as I please!:何をするも自由自在、気ままで気紛れ！}`
-`{ruby:Pranks at night will probably be a lot of fun.:夜の悪戯はなかなかに楽しそうだ。}`
-`{ruby:Yes, my mind is made up—I will play like that starting tonight!:よし、決めたぞ、今宵からはそれで遊ぼうぞ！}`
+`{ruby:Pranks at night will probably:夜の悪戯はなかなか}{ruby:be a lot of fun.:に楽しそうだ。}`
+`{ruby:Yes, my mind is made up—I:よし、決めたぞ、今宵から}{ruby:will play like that starting tonight!:はそれで遊ぼうぞ！}`
 `{ruby:*cackle*cackle*, how pleasurable!:くっくくくく、それは愉快！}`
 `{ruby:Tonight will truly be pleasurable!:今宵も愉快だ！}`
-`{ruby:In the world of witches, the only limits to your fun are the limits of your imagination!:魔女の世界は、想像力の限りの全てを遊べる！}`
-`{ruby:My imagination shall become the source of my magical power!:妾の想像力こそが、我が魔力の源なのだ！}`
+`{ruby:In the world of witches, the only limits:魔女の世界は、想像力の限}{ruby:to your fun are the limits of your imagination!:りの全てを遊べる！}`
+`{ruby:My imagination shall become the:妾の想像力こそが、我が}{ruby:source of my magical power!:魔力の源なのだ！}`
 `{ruby:Very well, then—this will be fun!:ならばよかろう、面白い！}`
-`{ruby:I shall allow my imagination to grow without bound.:それを無限大に広げようぞ。}`
-`{ruby:And with it, I shall swallow up the entire island.:そしてそれで、島を全て飲み込んでやろうぞ。}`
-`{ruby:All nights on this island belong to me!!:島の夜は全て妾のものなり！！}`
-`{ruby:Oh, how refined and pleasant are the days of a witch!:あぁ、魔女の日々の何と優雅で愉快なることか！}`
+`{ruby:I shall allow my:それを無限大に広}{ruby:imagination to grow without bound.:げようぞ。}`
+`{ruby:And with it, I shall:そしてそれで、島を全て飲}{ruby:swallow up the entire island.:み込んでやろうぞ。}`
+`{ruby:All nights on this:島の夜は全て妾の}{ruby:island belong to me!!:ものなり！！}`
+`{ruby:Oh, how refined and pleasant:あぁ、魔女の日々の何と優}{ruby:are the days of a witch!:雅で愉快なることか！}`
 `{ruby:Oh, I am one yet many!:あぁ、我こそは我にして我等なり！}`
-`{ruby:Kiha{0}ha{0}ha{0}ha{0}hah{0}hha, hyahhaha!!:くっはははっはっはっは、ひゃっはっは！！}`
-`{ruby:Here's to the wonderful world of witches!!:愉快なる魔女の世界に、乾杯ッ！！}`
+`{ruby:Kiha{0}ha{0}ha{0}ha{0}hah{0}hha,:くっはははっはっはっは、}{ruby:hyahhaha!!:ひゃっはっは！！}`
+`{ruby:Here's to the:愉快なる魔女の世界}{ruby:wonderful world of witches!!:に、乾杯ッ！！}`

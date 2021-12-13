@@ -1,143 +1,143 @@
 `{ruby:Gohda was doing the nighttime rounds.:郷田は、夜の見回りをしていた。}`
-`{ruby:There had never been anything on Rokkenjima outside the Ushiromiya family.:そもそも、六軒島には右代宮家以外は存在しない。}`
-`{ruby:{n}So checking that the doors and windows were all closed had no real purpose.:{n}だから戸締りやその確認には、それほど意味があるわけではない。}`
-`{ruby:However, ever since Natsuhi had scolded them saying that this was careless, the nighttime rounds had become part of the servants' daily routine.:しかし、夏妃がそれを無用心だと咎めて以来、夜回りは使用人たちの日課に組み込まれた。}`
-`{ruby:......The reason that Natsuhi had ordered this was the occasional disturbances of the witch.:……そもそも、夏妃が夜回りを命じたのは、時折起こった、魔女騒動のせいだった。}`
-`{ruby:Everyone who visited this island knew about the legend of {f:5:Beatrice}, the witch of the forest.:この島に出入りする者なら誰もが知る、森の魔女ベアトリーチェの伝説。}`
-`{ruby:This had become established as this island's characteristic ghost story.:それはこの島独自の怪談として根付いていた。}`
-`{ruby:Because of that, it was only natural that some people would occasionally say that, when they thought they were alone in the mansion,:だから時折、誰もいないはずの屋敷内に、不気味な音や人影が…、}`
-`{ruby:...they had heard strange sounds, or seen the shadow of a person.:というような話は、自然と起こったものだった。}`
-`{ruby:However, when that had created a little too big of a disturbance and reached Natsuhi's ears,:しかし、それが少々騒ぎを大きくし過ぎて夏妃の耳にも届き、}`
-`{ruby:she had made a fuss, thinking that some suspicious person might have been coming in and out.:不審者が出入りしているのではないかと騒がれたのだ。}`
-`{ruby:Apparently, it was said that she had roused all of the servants and had them check throughout the mansion.:何でも、使用人全員を叩き起こして、屋敷中を確認させるという大騒ぎもあったという。}`
-`{ruby:Because all of this uproar over the witch had happened before Gohda had come,:これらの魔女騒ぎについては、何れも郷田がやって来る前のことなので、}`
-`{ruby:he had only heard about it from the more senior servants.:郷田は古参の使用人たちから聞かされただけだ。}`
-`{ruby:Ghost stories like that could be found in any workplace.:この手の怪談はどこの職場にもある。}`
-`{ruby:Even at the hotel Gohda had once worked at, and at the restaurant,:かつて郷田が勤めていたホテルにだって、レストランにだって、}`
-`{ruby:there was never a shortage of those types of story.:その手の怪談は事欠かなかったものだ。}`
-`{ruby:So when he heard that story on this island,:だから、この島でその話を聞かされた時、}`
-`{ruby:he smiled bitterly, thinking "ah, so they have that kind of thing here after all".:あぁここにもやっぱりそういうものがあるんだなと苦笑したものだ。}`
-`{ruby:He smiled bitterly, but he thought when in Rome, do as the Romans do, and had not slighted that.:苦笑はするが、それを蔑ろにしないのが、郷に入りては郷に従えというもの。}`
-`{ruby:Gohda went along with it on the outside, but in his heart he thought it was a childish trick.:郷田も上辺は合わせたが、内心は子供だましだと思っていたものだ。}`
+`{ruby:There had never been anything:そもそも、六軒島には右代宮}{ruby:on Rokkenjima outside the Ushiromiya family.:家以外は存在しない。}`
+`{ruby:{n}So checking that the doors and windows:{n}だから戸締りやその確認には、そ}{ruby:were all closed had no real purpose.:れほど意味があるわけではない。}`
+`{ruby:However, ever since Natsuhi had scolded them saying that this was:しかし、夏妃がそれを無用心だと咎めて以来、夜}{ruby:careless, the nighttime rounds had become part of the servants' daily routine.:回りは使用人たちの日課に組み込まれた。}`
+`{ruby:......The reason that Natsuhi had ordered this:……そもそも、夏妃が夜回りを命じたのは、}{ruby:was the occasional disturbances of the witch.:時折起こった、魔女騒動のせいだった。}`
+`{ruby:Everyone who visited this island knew about the:この島に出入りする者なら誰もが知る、}{ruby:legend of {f:5:Beatrice}, the witch of the forest.:森の魔女ベアトリーチェの伝説。}`
+`{ruby:This had become established as:それはこの島独自の怪談と}{ruby:this island's characteristic ghost story.:して根付いていた。}`
+`{ruby:Because of that, it was only natural that some people would:だから時折、誰もいないはずの屋敷}{ruby:occasionally say that, when they thought they were alone in the mansion,:内に、不気味な音や人影が…、}`
+`{ruby:...they had heard strange sounds, or:というような話は、自然と}{ruby:seen the shadow of a person.:起こったものだった。}`
+`{ruby:However, when that had created a little too:しかし、それが少々騒ぎを大きく}{ruby:big of a disturbance and reached Natsuhi's ears,:し過ぎて夏妃の耳にも届き、}`
+`{ruby:she had made a fuss, thinking that some:不審者が出入りしているのでは}{ruby:suspicious person might have been coming in and out.:ないかと騒がれたのだ。}`
+`{ruby:Apparently, it was said that she had roused all:何でも、使用人全員を叩き起こして、屋敷中を}{ruby:of the servants and had them check throughout the mansion.:確認させるという大騒ぎもあったという。}`
+`{ruby:Because all of this uproar over the:これらの魔女騒ぎについては、何れも郷}{ruby:witch had happened before Gohda had come,:田がやって来る前のことなので、}`
+`{ruby:he had only heard about:郷田は古参の使用人たちか}{ruby:it from the more senior servants.:ら聞かされただけだ。}`
+`{ruby:Ghost stories like that could:この手の怪談はどこの}{ruby:be found in any workplace.:職場にもある。}`
+`{ruby:Even at the hotel Gohda had:かつて郷田が勤めていたホテルにだ}{ruby:once worked at, and at the restaurant,:って、レストランにだって、}`
+`{ruby:there was never a shortage:その手の怪談は事欠か}{ruby:of those types of story.:なかったものだ。}`
+`{ruby:So when he heard:だから、この島でその話}{ruby:that story on this island,:を聞かされた時、}`
+`{ruby:he smiled bitterly, thinking "ah, so they:あぁここにもやっぱりそういうものが}{ruby:have that kind of thing here after all".:あるんだなと苦笑したものだ。}`
+`{ruby:He smiled bitterly, but he thought when in Rome,:苦笑はするが、それを蔑ろにしないのが、}{ruby:do as the Romans do, and had not slighted that.:郷に入りては郷に従えというもの。}`
+`{ruby:Gohda went along with it on the outside, but:郷田も上辺は合わせたが、内心は子供}{ruby:in his heart he thought it was a childish trick.:だましだと思っていたものだ。}`
 `{ruby:......At first.:……最初は。}`
 `{ruby:"............This certainly is eerie.:「…………これは確かに不気味ですね。}`
-`{ruby:I see, I understand why the servants got in an uproar over this in the past.":なるほど、過去の使用人たちが、色々と騒ぎたくなる気持ちもわかるものです」}`
-`{ruby:He could understand that if someone, doing the rounds on an eerie night like this,:こんな不気味な夜の夜回りで、}`
-`{ruby:saw a lace curtain waving in the breeze from a window which hadn't been closed,:もしも閉め忘れた窓から入るそよ風がレースのカーテンを揺らしたなら、}`
-`{ruby:they might be tempted to believe they had seen a ghost.:幽霊を見たと信じたくなる気持ちを充分に理解できた。}`
-`{ruby:"So there's a curse if you make fun of the witch of the portrait, huh.:「肖像画の魔女を馬鹿にすると、祟りがあるか。}`
-`{ruby:......Seems like there were servants who got hurt really bad and quit, too.:……大怪我をして辞めた使用人もいるらしいし。}`
+`{ruby:I see, I understand why the servants got:なるほど、過去の使用人たちが、色々と騒}{ruby:in an uproar over this in the past.":ぎたくなる気持ちもわかるものです」}`
+`{ruby:He could understand that if someone, doing:こんな不気味な夜}{ruby:the rounds on an eerie night like this,:の夜回りで、}`
+`{ruby:saw a lace curtain waving in the:もしも閉め忘れた窓から入るそよ風がレ}{ruby:breeze from a window which hadn't been closed,:ースのカーテンを揺らしたなら、}`
+`{ruby:they might be tempted to:幽霊を見たと信じたくなる気持}{ruby:believe they had seen a ghost.:ちを充分に理解できた。}`
+`{ruby:"So there's a curse if you make:「肖像画の魔女を馬鹿にす}{ruby:fun of the witch of the portrait, huh.:ると、祟りがあるか。}`
+`{ruby:......Seems like there were servants who:……大怪我をして辞めた使}{ruby:got hurt really bad and quit, too.:用人もいるらしいし。}`
 `{ruby:...I'd hate to be injured.:…怪我は勘弁だなぁ。}`
 `{ruby:I'm already this old.:俺もこの歳だ。}`
-`{ruby:Doubt I'll ever be blessed with a workplace this hospitable again...:二度とこんな厚遇の職場にゃ恵まれねぇだろうよ…。}`
+`{ruby:Doubt I'll ever be blessed:二度とこんな厚遇の職場にゃ}{ruby:with a workplace this hospitable again...:恵まれねぇだろうよ…。}`
 `{ruby:Aaah.:あー。}`
 `{ruby:Great witch of the portrait.:肖像画の魔女さま。}`
-`{ruby:I'm really gonna work hard here, so please go easy on me.":真面目に働きますんで、ひとつ穏便に頼みます」}`
-`{ruby:Gohda prayed to the portrait, his hands together, as though he was at a Shinto shrine...:郷田は神社でそうするように、肖像画に向かって手を合わせて拝む仕草をする…。}`
-`{ruby:At that time, ...he thought he heard a sound.:その時、…何か音が聞こえた気がした。}`
+`{ruby:I'm really gonna work hard here,:真面目に働きますんで、ひ}{ruby:so please go easy on me.":とつ穏便に頼みます」}`
+`{ruby:Gohda prayed to the portrait, his hands together,:郷田は神社でそうするように、肖像画に向か}{ruby:as though he was at a Shinto shrine...:って手を合わせて拝む仕草をする…。}`
+`{ruby:At that time, ...he:その時、…何か音が聞}{ruby:thought he heard a sound.:こえた気がした。}`
 `{ruby:The kitchen?:厨房？}`
-`{ruby:Was that the sound of something metal falling on the floor?:金物か何かが床に落ちる音だったろうか。}`
-`{ruby:Surely a mouse or a cockroach hadn't come out, and knocked over some of the dishes...:まさかネズミかゴキブリでも出て、食器を落としたのだろうか。}`
+`{ruby:Was that the sound of:金物か何かが床に落ちる}{ruby:something metal falling on the floor?:音だったろうか。}`
+`{ruby:Surely a mouse or a cockroach hadn't come:まさかネズミかゴキブリでも出て、}{ruby:out, and knocked over some of the dishes...:食器を落としたのだろうか。}`
 `{ruby:No, no, how could that be.:いやいやまさか。}`
-`{ruby:It was routinely and thoroughly cleaned!:普段から清潔は徹底している！}`
-`{ruby:Gohda thought that in any case he had better check what that noise had been, and entered the kitchen.:郷田はとにかく音の正体を確かめようと厨房へ入った。}`
+`{ruby:It was routinely:普段から清潔は徹}{ruby:and thoroughly cleaned!:底している！}`
+`{ruby:Gohda thought that in any case he had better:郷田はとにかく音の正体を確か}{ruby:check what that noise had been, and entered the kitchen.:めようと厨房へ入った。}`
 `{ruby:He turned on the kitchen light.:厨房の明かりをつける。}`
-`{ruby:{n}......When he did, he heard a strange sound.:{n}……すると不思議な音が聞こえた。}`
+`{ruby:{n}......When he did, he:{n}……すると不思議}{ruby:heard a strange sound.:な音が聞こえた。}`
 `{ruby:Clankclankclankclankclankclank.:カタカタカタカタカタカタ。}`
-`{ruby:......To a cook like Gohda, that sound seemed like the lid on the pressure cooker or something was shaking.:……料理人である郷田は、その音が圧力鍋か何かが蓋を震わせる音のように感じた。}`
-`{ruby:Of course, it couldn't be in use when no one was in the kitchen.:まさか、人のいない厨房で鍋をかけているわけもない。}`
-`{ruby:{n}If someone {i:had} been using the gas, what a dangerous thing to do, to just walk away from it.:{n}仮にガスを使っていたとして、その側を離れるなど、何と物騒な。}`
-`{ruby:...Just in case, Gohda decided to inspect the area around the gas range...:…郷田は念のため、ガス台の回りを点検することにする…。}`
+`{ruby:......To a cook like Gohda, that sound seemed like:……料理人である郷田は、その音が圧力鍋か}{ruby:the lid on the pressure cooker or something was shaking.:何かが蓋を震わせる音のように感じた。}`
+`{ruby:Of course, it couldn't be in use:まさか、人のいない厨房で鍋を}{ruby:when no one was in the kitchen.:かけているわけもない。}`
+`{ruby:{n}If someone {i:had} been using the gas, what a:{n}仮にガスを使っていたとして、そ}{ruby:dangerous thing to do, to just walk away from it.:の側を離れるなど、何と物騒な。}`
+`{ruby:...Just in case, Gohda decided to:…郷田は念のため、ガス台の回り}{ruby:inspect the area around the gas range...:を点検することにする…。}`
 `{ruby:"...............What is this...?":「……………何ですか、これは…」}`
-`{ruby:When he did, in the corner by the gas range,:すると、ガス台の脇に、}`
-`{ruby:...the pressure cooker really had been placed there, just as he had thought.:…確かに想像の通りに圧力鍋が置かれていた。}`
+`{ruby:When he did, in the:すると、ガス台}{ruby:corner by the gas range,:の脇に、}`
+`{ruby:...the pressure cooker really had been:…確かに想像の通りに圧力}{ruby:placed there, just as he had thought.:鍋が置かれていた。}`
 `{ruby:But the flame wasn't on.:しかしそれは火をかけられてはいない。}`
-`{ruby:{n}...And yet, the lid was clanking...:{n}…にもかかわらず、蓋をカタカタ言わせている…。}`
-`{ruby:Was something fermenting and leaking gas?:何かが発酵してガスでも出している？}`
+`{ruby:{n}...And yet, the:{n}…にもかかわらず、蓋を}{ruby:lid was clanking...:カタカタ言わせている…。}`
+`{ruby:Was something fermenting:何かが発酵してガスで}{ruby:and leaking gas?:も出している？}`
 `{ruby:{n}...How could that be?:{n}…まさか。}`
-`{ruby:......Then was there a mouse or something inside?:……じゃあネズミでも入ってるとか？}`
-`{ruby:{n}...How could there be, ridiculous...:{n}…まさか、馬鹿馬鹿しい…。}`
-`{ruby:In front of people, Gohda acted as though he had a bold personality fitting for his build,:郷田は、人前では体格どおりの豪胆そうな性格を装っているが、}`
-`{ruby:......but he actually had an unexpectedly timid side to him.:……実際は、案外臆病な一面も持っていた。}`
-`{ruby:He was terrified to find out what might be inside, and he couldn't check it carelessly...:その中に何が入っているのか、恐ろしくて、迂闊に確かめられない…。}`
-`{ruby:In his cowardice, ...he grabbed a nearby wooden pestle,:彼は臆病にも、…近くのすりこぎを取り、}`
+`{ruby:......Then was there a:……じゃあネズミでも}{ruby:mouse or something inside?:入ってるとか？}`
+`{ruby:{n}...How could:{n}…まさか、馬}{ruby:there be, ridiculous...:鹿馬鹿しい…。}`
+`{ruby:In front of people, Gohda acted as though:郷田は、人前では体格どおりの豪胆}{ruby:he had a bold personality fitting for his build,:そうな性格を装っているが、}`
+`{ruby:......but he actually had an:……実際は、案外臆病な}{ruby:unexpectedly timid side to him.:一面も持っていた。}`
+`{ruby:He was terrified to find out what might:その中に何が入っているのか、恐ろし}{ruby:be inside, and he couldn't check it carelessly...:くて、迂闊に確かめられない…。}`
+`{ruby:In his cowardice, ...he:彼は臆病にも、…近くの}{ruby:grabbed a nearby wooden pestle,:すりこぎを取り、}`
 `{ruby:and with a {i:clunk!},:それで圧力鍋の側面を、コン！}`
-`{ruby:he tapped it a little strongly against the side of the pressure cooker.:と少し強く叩いてみた。}`
-`{ruby:When he did, the clanking sound suddenly stopped.:すると、カタカタ言わせていた音はぴたりと止まる。}`
-`{ruby:...He should have been relieved now that it had stopped,:…止まって安心のはずなのだが、}`
-`{ruby:...but the fact that it had stopped when he had hit it was even more eerie, and made him even more suspicious about what was inside...:…叩いたら止めた、という点がかえって不気味で、その中身の正体をさらに疑わせた…。}`
+`{ruby:he tapped it a little strongly:と少し強く叩い}{ruby:against the side of the pressure cooker.:てみた。}`
+`{ruby:When he did, the:すると、カタカタ言わせてい}{ruby:clanking sound suddenly stopped.:た音はぴたりと止まる。}`
+`{ruby:...He should have been relieved:…止まって安心のは}{ruby:now that it had stopped,:ずなのだが、}`
+`{ruby:...but the fact that it had stopped when he had hit it was:…叩いたら止めた、という点がかえって不気味}{ruby:even more eerie, and made him even more suspicious about what was inside...:で、その中身の正体をさらに疑わせた…。}`
 `{ruby:"............nn, ...*gulp*.:「…………ん、…ごくり。}`
-`{ruby:.........Strange phenomena do not exist in this world, no sirree.:………この世に、怪奇現象なんて存在しませんとも。}`
-`{ruby:Yes, there's no such thing as witches, or magic, things like that can't possibly exist.:えぇ、そんな魔女も魔法も、そんなもの存在するわけがない。}`
-`{ruby:All phenomena can be explained with science.:全ての現象は科学的に説明できるんです。}`
-`{ruby:......As though monsters and witches could exist...!":……オバケも魔女もいてたまるもんですか…！」}`
-`{ruby:He repeated that many times, trying to build up his own confidence.:自分を勇気付けるように何度もそれを繰り返す。}`
-`{ruby:...It was quite comical how he looked completely different from what he was saying.:…その言葉の意味するところと逆に見えるのが、何とも滑稽だった。}`
-`{ruby:"Who would believe in a witch, who would believe in magic or curses...:「何が魔女だ、何が魔法だ祟りだ…。}`
+`{ruby:.........Strange phenomena do not exist:………この世に、怪奇現象な}{ruby:in this world, no sirree.:んて存在しませんとも。}`
+`{ruby:Yes, there's no such thing as witches,:えぇ、そんな魔女も魔法も、そん}{ruby:or magic, things like that can't possibly exist.:なもの存在するわけがない。}`
+`{ruby:All phenomena can:全ての現象は科学的に説}{ruby:be explained with science.:明できるんです。}`
+`{ruby:......As though monsters:……オバケも魔女もいてた}{ruby:and witches could exist...!":まるもんですか…！」}`
+`{ruby:He repeated that many times, trying:自分を勇気付けるように何}{ruby:to build up his own confidence.:度もそれを繰り返す。}`
+`{ruby:...It was quite comical how he looked:…その言葉の意味するところと逆に見}{ruby:completely different from what he was saying.:えるのが、何とも滑稽だった。}`
+`{ruby:"Who would believe in a witch,:「何が魔女だ、何が魔}{ruby:who would believe in magic or curses...:法だ祟りだ…。}`
 `{ruby:......Come on,:……そら、}`
-`{ruby:......show me what you really are...!:……正体を見せてみろ…！}`
+`{ruby:......show me what:……正体を見せ}{ruby:you really are...!:てみろ…！}`
 `{ruby:Take that!":っそりゃ！」}`
-`{ruby:......He removed the lid of the pressure cooker.:圧力鍋の蓋を、……取り払う。}`
+`{ruby:......He removed the lid:圧力鍋の蓋を、…}{ruby:of the pressure cooker.:…取り払う。}`
 `{ruby:And lying exposed there...:そこに晒されるのは、}`
-`{ruby:was the sparkling clean silver bottom of the pot.:…ピカピカに磨かれた銀色の鍋底。}`
-`{ruby:......There was absolutely nothing frightening like he had imagined.:……彼が想像した、恐ろしい何かはまったく存在しなかった。}`
+`{ruby:was the sparkling clean:…ピカピカに磨かれ}{ruby:silver bottom of the pot.:た銀色の鍋底。}`
+`{ruby:......There was absolutely nothing:……彼が想像した、恐ろしい何か}{ruby:frightening like he had imagined.:はまったく存在しなかった。}`
 `{ruby:"...............Whew.:「……………ふぅ。}`
 `{ruby:...Hahahaha, well, of course.:…はははは、そりゃ当然です。}`
-`{ruby:...There's no way there could have been anything inside.":…中に何も、いるわけがない」}`
-`{ruby:By now, Gohda realized that he had been a coward.:郷田は今頃になって、自分が小心者であったことを自覚する。}`
-`{ruby:......So while he still had some doubts about what had caused the lid to make that sound,:……ならばなぜ、蓋が鳴っていたのかという疑問ももちろん湧いたが、}`
-`{ruby:...he explained it away abstractly as some quirk of positioning or something, and decided not to worry about it too much.:…ちょっとした角度とかの問題、などと抽象的に考え、深くは悩まないことにした。}`
-`{ruby:Then he took the lid he had grabbed, ......and softly set it back down where it had been.:そして手に取った蓋を、……そうっと元通りに置いてみる。}`
-`{ruby:......It's alright, there won't be a sound.:……大丈夫、音は鳴らない。}`
+`{ruby:...There's no way there:…中に何も、いる}{ruby:could have been anything inside.":わけがない」}`
+`{ruby:By now, Gohda realized that:郷田は今頃になって、自分が小心}{ruby:he had been a coward.:者であったことを自覚する。}`
+`{ruby:......So while he still had some doubts about:……ならばなぜ、蓋が鳴っていたのか}{ruby:what had caused the lid to make that sound,:という疑問ももちろん湧いたが、}`
+`{ruby:...he explained it away abstractly as some quirk of positioning:…ちょっとした角度とかの問題、などと抽象}{ruby:or something, and decided not to worry about it too much.:的に考え、深くは悩まないことにした。}`
+`{ruby:Then he took the lid he had grabbed, ......and:そして手に取った蓋を、……そう}{ruby:softly set it back down where it had been.:っと元通りに置いてみる。}`
+`{ruby:......It's alright, there:……大丈夫、音は}{ruby:won't be a sound.:鳴らない。}`
 `{ruby:......Obviously.:……当然だ。}`
-`{ruby:{n}As if witches or magic could exist...!:{n}魔女も魔法もあるもんか…！}`
+`{ruby:{n}As if witches:{n}魔女も魔法も}{ruby:or magic could exist...!:あるもんか…！}`
 `{ruby:Clank.:カタ。}`
 `{ruby:Clankclankclankclank.:カタカタカタカタ。}`
 `{ruby:"...............Huh...?":「……………え…？」}`
-`{ruby:Clank{0}clank{0}clank{0}clank{0}clank{0}clank{0}clank{0}clank.:カタカタカタカタカタカタカタカタ。}`
-`{ruby:CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK!:カタカタカタカタカタカタカタカタカタカタカタカタカタカタカタカタ！}`
+`{ruby::カタカタカタカタカタ}{ruby:Clank{0}clank{0}clank{0}clank{0}clank{0}clank{0}clank{0}clank.:カタカタカタ。}`
+`{ruby::カタカタカタカタカタカタカタカタカタ}{ruby:CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK!:カタカタカタカタカタカタカタ！}`
 `{ruby:"Hii, ......HIIIiiiIIIIii!!":「ひッ、……ひっぃいいいいぃ！！」}`
-`{ruby:All of the pots and utensils in the kitchen started clanking at once.:厨房中の鍋が、食器が、一斉にカタカタと音を鳴らし始める。}`
-`{ruby:And it grew stronger still, until finally, it became so strong that the lid to one of the pots fell off...!:それはさらに一層強くなり、とうとう一部の鍋は蓋を落としてしまうほどにまでなる…！}`
-`{ruby:And, ......from inside that pot, .........a slender white arm slowly streeeetched out.:そして、……蓋を落とした鍋の中からは、………ぬぅぅっと、白く細い腕が、伸びだす。}`
-`{ruby:The lid fell off another pot, and another hand slowly streeeetched out,:次々に他の鍋も蓋を落とし、ぬぅぅ。}`
+`{ruby:All of the pots and utensils:厨房中の鍋が、食器が、一斉にカ}{ruby:in the kitchen started clanking at once.:タカタと音を鳴らし始める。}`
+`{ruby:And it grew stronger still, until finally, it became so:それはさらに一層強くなり、とうとう一部の鍋}{ruby:strong that the lid to one of the pots fell off...!:は蓋を落としてしまうほどにまでなる…！}`
+`{ruby:And, ......from inside that pot, .........a:そして、……蓋を落とした鍋の中からは、……}{ruby:slender white arm slowly streeeetched out.:…ぬぅぅっと、白く細い腕が、伸びだす。}`
+`{ruby:The lid fell off another pot,:次々に他の鍋も蓋を落}{ruby:and another hand slowly streeeetched out,:とし、ぬぅぅ。}`
 `{ruby:and anotherrrr,:ぬぅぅ。}`
 `{ruby:and anotherrrr...:ぬぅぅぅ…。}`
 `{ruby:"Hiiiiiiiii!!!:「ひいいいいい！！！}`
-`{ruby:Witches aren't, witches can't be reeeeeal!!:魔女なんかッ、魔女なんかいるもんかぁああぁあ！！}`
+`{ruby:Witches aren't, witches:魔女なんかッ、魔女なんかいる}{ruby:can't be reeeeeal!!:もんかぁああぁあ！！}`
 `{ruby:I'll never believe iiiiiiiiiit!!":信じるもんかああああぁああああ！！」}`
-`{ruby:When the number of arms grew to seven, a loud, shrill laughter split the air.:その腕の数は７本を数えた時、黄色い哄笑が空間を叩き割る。}`
+`{ruby:When the number of arms grew to:その腕の数は７本を数えた時、黄}{ruby:seven, a loud, shrill laughter split the air.:色い哄笑が空間を叩き割る。}`
 `{ruby:"What a letdown!:「がっかりぃ！}`
-`{ruby:It's a reeeeal letdown that a person who can make such delicious food is such a lightweight!!":これほどのオイシイお料理を作れる人が、こんな小物なんて本当ォにがっかりぃ！！」}`
-`{ruby:"If you don't need him, I'll take him, he's all mine!!":「あんた、いらないんなら私がもらうわぁッ、いっただきィ！！」}`
+`{ruby:It's a reeeeal letdown that a person who:これほどのオイシイお料理を作れる人が、こん}{ruby:can make such delicious food is such a lightweight!!":な小物なんて本当ォにがっかりぃ！！」}`
+`{ruby:"If you don't need him,:「あんた、いらないんなら私がもら}{ruby:I'll take him, he's all mine!!":うわぁッ、いっただきィ！！」}`
 `{ruby:"Wait, I said nooooooooooo!!:「ちょっとォ、駄目だってばぁあああぁ！！}`
 `{ruby:I'm gonna take him!!":私がもらうんだからぁッ！！」}`
 `{ruby:"Huh?!:「えッ？！}`
 `{ruby:Wha, whaa?!?!:えッえッ？！？！}`
 `{ruby:HYAAAAAAAAAAAAAAAAAAAAAAAHHH!!":ひゃああああああああああぁああぁああぁ！！」}`
 `{ruby:""""Kyahahahahahahaha!!!"""":「「「「きゃっははははははは！！！」」」」}`
-`{ruby:Come on, let's search, there's only one more.:さぁ、探そう、あとは１人だ。}`
+`{ruby:Come on, let's search,:さぁ、探そう、あ}{ruby:there's only one more.:とは１人だ。}`
 `{ruby:{n}That old hag!:{n}おいぼれのババアだ！}`
 `{ruby:Where is she?:どこにいるの？}`
-`{ruby:{n}Not the mansion, maybe the guesthouse?:{n}屋敷じゃないよ、ゲストハウスかな？}`
-`{ruby:Kuhihihihi, you snooze you lose, right, you snooze you lose, right?!:くっひひひひ、早い者勝ちだよね、早い者勝ちだよね？！}`
-`{ruby:Come on, search search, find her find her...!:さぁ、探せ探せ、見つけろ見つけろ…！}`
-`{ruby:Don't get noticed by the relatives in the dining hall?:食堂の親族たちには気付かれるな？}`
-`{ruby:Don't get noticed by the kids in the guesthouse?:ゲストハウスの子どもたちには気付かれるな？}`
+`{ruby:{n}Not the mansion,:{n}屋敷じゃないよ、}{ruby:maybe the guesthouse?:ゲストハウスかな？}`
+`{ruby:Kuhihihihi, you snooze you lose,:くっひひひひ、早い者勝ちだよ}{ruby:right, you snooze you lose, right?!:ね、早い者勝ちだよね？！}`
+`{ruby:Come on, search search,:さぁ、探せ探せ、見つ}{ruby:find her find her...!:けろ見つけろ…！}`
+`{ruby:Don't get noticed by the:食堂の親族たちには}{ruby:relatives in the dining hall?:気付かれるな？}`
+`{ruby:Don't get noticed by:ゲストハウスの子どもたち}{ruby:the kids in the guesthouse?:には気付かれるな？}`
 `{ruby:Search in silence, kill in silence!:静かに探せ、静かに殺せ！}`
-`{ruby:{n}After all, it's still just the first twilight!:{n}何たってまだまだ第一の晩！}`
+`{ruby:{n}After all, it's still:{n}何たってまだ}{ruby:just the first twilight!:まだ第一の晩！}`
 `{ruby:She isn't in the guesthouse.:ゲストハウスにはいない。}`
-`{ruby:{n}But she wasn't in the mansion either?:{n}でも屋敷にもいなかったよ？}`
-`{ruby:Hey hey, I found her, I found her, she's in the rose garden.:おいおい、見つけた見つけた、薔薇庭園だよ。}`
-`{ruby:{n}Why's she standing around there without an umbrella?:{n}こいつ、傘も差さずに何をぼんやり？}`
-`{ruby:She's given herself up, all mine all mine all miiine!:観念したんだよ、いただきいただき、いっただきぃ！}`
-`{ruby:{n}You slowpokes can just sit there and watch!:{n}ノロマなあんたたちはぼんやり見てればいいのよ！}`
-`{ruby:I told you, nooooooo, this one's miiiiiiiiiiiiine!!:だから駄目ぇえええぇ、今度は私がもらうのぉおおおおぉおお！！}`
-`{ruby:Come on, if we take any longer we'll be scolded by {f:5:Beatrice}‐sama!:さぁ、これ以上時間を掛けたらベアトリーチェさまに折檻されるよ！}`
+`{ruby:{n}But she wasn't:{n}でも屋敷にも}{ruby:in the mansion either?:いなかったよ？}`
+`{ruby:Hey hey, I found her, I:おいおい、見つけた見つけ}{ruby:found her, she's in the rose garden.:た、薔薇庭園だよ。}`
+`{ruby:{n}Why's she standing around:{n}こいつ、傘も差さ}{ruby:there without an umbrella?:ずに何をぼんやり？}`
+`{ruby:She's given herself up, all:観念したんだよ、いただきい}{ruby:mine all mine all miiine!:ただき、いっただきぃ！}`
+`{ruby:{n}You slowpokes can just:{n}ノロマなあんたたちはぼ}{ruby:sit there and watch!:んやり見てればいいのよ！}`
+`{ruby:I told you,:だから駄目ぇえええぇ、今度は私が}{ruby:nooooooo, this one's miiiiiiiiiiiiine!!:もらうのぉおおおおぉおお！！}`
+`{ruby:Come on, if we take any:さぁ、これ以上時間を掛けたらベアト}{ruby:longer we'll be scolded by {f:5:Beatrice}‐sama!:リーチェさまに折檻されるよ！}`
 `{ruby:Let's take care of it all at once!:一気に片付けてやる！}`
-`{ruby:".......................................":「…………………………………」}`
+`{ruby::「……………………}{ruby:".......................................":……………」}`
 `{ruby:Come on, found her, surrounded her!:さぁ、見つけた取り囲んだ！}`
-`{ruby:Come on, let's get along and do it all at once, okay?!:さぁ仲良く一度に行くよ？！}`
+`{ruby:Come on, let's get along and:さぁ仲良く一度に}{ruby:do it all at once, okay?!:行くよ？！}`
 `{ruby:Diiiiiiiiiiiiiiiiiiiiiiiie!!!:死ねえええええええええええぇえええッ！！！}`
 `{ruby:".........Eeeh...?:「………えぇ…？}`
 `{ruby:.........Huh?":………あれぇ？」}`
@@ -146,308 +146,308 @@
 `{ruby:...this...":…これぇ…」}`
 `{ruby:"............Hoh‐hoh‐hoh‐ho.:「…………ほっほっほっほ。}`
 `{ruby:What naughty girls.:やんちゃなお嬢さんたちだこと。}`
-`{ruby:...Could you be friends of that child...?":…あの子のお友達かしら…？」}`
-`{ruby:"...What is with this............o‐old hag...?!":「…何こいつ、…………バ、ババアのくせに…！」}`
+`{ruby:...Could you be:…あの子のお友達}{ruby:friends of that child...?":かしら…？」}`
+`{ruby:"...What is:「…何こいつ、…………バ、}{ruby:with this............o‐old hag...?!":ババアのくせに…！」}`
 `{ruby:"There's got to be some mistake!!:「何かの間違いよ！！}`
 `{ruby:One more time!!":もう一度ッ！！」}`
-`{ruby:"......Why can she defend against us?!":「……こいつ、どうして私たちを防げるの？！」}`
+`{ruby:"......Why can she:「……こいつ、どうして私}{ruby:defend against us?!":たちを防げるの？！」}`
 `{ruby:"Move aside!:「どいてッ！}`
 `{ruby:One more time!!!":もう一度よッ！！！」}`
-`{ruby:"............No matter how often you try, it's useless.:「…………何度やっても無駄だ。}`
+`{ruby:"............No matter how often:「…………何度やっ}{ruby:you try, it's useless.:ても無駄だ。}`
 `{ruby:This person...is good.":この御仁、…出来る」}`
-`{ruby:"...............I am waiting for that child.:「……………私はあの子を待っているのです。}`
+`{ruby:"...............I am waiting:「……………私はあの子を}{ruby:for that child.:待っているのです。}`
 `{ruby:Would you mind calling for her?":どうか呼んできてはくれませんか？」}`
-`{ruby:"D‐do you think we'd be apprenticed to you like that?!":「そ、そのような丁稚奉公、私たちがすると思うッ？！」}`
+`{ruby:"D‐do you think we'd be:「そ、そのような丁稚奉公、私}{ruby:apprenticed to you like that?!":たちがすると思うッ？！」}`
 `{ruby:"There's no need.":「その必要はない」}`
 `{ruby:"{f:5:Beatrice}‐sama...!":「ベアトリーチェさま…！」}`
-`{ruby:"............It was sufficient for even myself to manifest.:「…………私が顕現するほどでございます。}`
-`{ruby:...I was sure that you would awaken.":…必ずやお目覚めと思いました」}`
+`{ruby:"............It was sufficient for:「…………私が顕現する}{ruby:even myself to manifest.:ほどでございます。}`
+`{ruby:...I was sure:…必ずやお目覚めと}{ruby:that you would awaken.":思いました」}`
 `{ruby:"Ronove.:「ロノウェ。}`
 `{ruby:It has been a long time.:久し振りですね。}`
-`{ruby:......Yes, it truly has been a long time.":……えぇ、本当に久し振りです」}`
-`{ruby:"This woman, she didn't use "sama" for his name......!":「こいつぅ、ロノウェさまを呼びつけに……！」}`
+`{ruby:......Yes, it truly has:……えぇ、本当に久}{ruby:been a long time.":し振りです」}`
+`{ruby:"This woman, she didn't:「こいつぅ、ロノウェさま}{ruby:use "sama" for his name......!":を呼びつけに……！」}`
 `{ruby:"..................And...:「………………そして。}`
 `{ruby:it has been a long time for us also.:あなたもお久し振りですね。}`
 `{ruby:...{f:5:Beatrice}.":…ベアトリーチェ」}`
-`{ruby:"Sh‐she's not even using "sama" for {f:5:Beatrice}‐sama...":「こ、こいつ、ベアトリーチェさままでもを呼びつけにぃ…」}`
+`{ruby:"Sh‐she's not even:「こ、こいつ、ベアトリーチェさ}{ruby:using "sama" for {f:5:Beatrice}‐sama...":ままでもを呼びつけにぃ…」}`
 `{ruby:"Enough.:「良い。}`
 `{ruby:Do you know who this person is?:そのお方をどなたと心得るか。}`
-`{ruby:......{f:5:Beatrice} was originally this person's name.:……ベアトリーチェとはそもそもそのお方の名。}`
-`{ruby:I merely inherited that name from her.:妾はそれを受け継いだに過ぎぬ。}`
+`{ruby:......{f:5:Beatrice} was originally:……ベアトリーチェとはそ}{ruby:this person's name.:もそもそのお方の名。}`
+`{ruby:I merely inherited:妾はそれを受け継い}{ruby:that name from her.:だに過ぎぬ。}`
 `{ruby:......This person is my master.:……そのお方こそは妾の師匠。}`
-`{ruby:The Predecessor Lady {f:5:Beatrice}.":先代ベアトリーチェ卿だ」}`
+`{ruby:The Predecessor:先代ベアトリー}{ruby:Lady {f:5:Beatrice}.":チェ卿だ」}`
 `{ruby:"The Predecessor...:「先代、}`
 `{ruby:...Lady {f:5:Beatrice}......":……ベアトリーチェ卿……」}`
-`{ruby:Gold butterflies appeared in ones and twos from the garden of roses and began to gather around Kumasawa...:薔薇の園から一匹二匹と現れた黄金の蝶たちが、次第に熊沢の周りに集まり始める…。}`
-`{ruby:And after becoming a golden radiance and enveloping her, they burst and disappeared—and Kumasawa's form was no longer there.:そして黄金の輝きとなって彼女を包んだ後、弾けて消えると、そこには熊沢の姿はなかった。}`
-`{ruby:...Instead, there was another Golden Witch, .........the one who had, in the past, explained to {f:5:Beatrice} the path of an Endless Witch,:…代わりにそこにあったのは、………ベアトリーチェにかつて、無限の魔女の道を説き、}`
-`{ruby:the only person {f:5:Beatrice} had called Master in her entire life.:生涯でただひとり、師匠と呼んだ、もう一人の黄金の魔女の姿だった。}`
-`{ruby:Her hair was long, beautiful, and vividly youthful,:髪は長く美しく、瑞々しいほどに若々しく、}`
-`{ruby:and her figure in that elegant dress was unrecognizable as an old lady...:そして優雅なドレスをまとう姿からは、老女の姿はまったく想像できない…。}`
-`{ruby:No, this looked like a completely different person than Kumasawa.:いや、まったく熊沢と別人の姿だった。}`
+`{ruby:Gold butterflies appeared in ones and twos from the:薔薇の園から一匹二匹と現れた黄金の蝶たちが}{ruby:garden of roses and began to gather around Kumasawa...:、次第に熊沢の周りに集まり始める…。}`
+`{ruby:And after becoming a golden radiance and enveloping her,:そして黄金の輝きとなって彼女を包んだ後、弾け}{ruby:they burst and disappeared—and Kumasawa's form was no longer there.:て消えると、そこには熊沢の姿はなかった。}`
+`{ruby:...Instead, there was another Golden Witch, .........the one who had, in:…代わりにそこにあったのは、………ベアトリ}{ruby:the past, explained to {f:5:Beatrice} the path of an Endless Witch,:ーチェにかつて、無限の魔女の道を説き、}`
+`{ruby:the only person {f:5:Beatrice} had:生涯でただひとり、師匠と呼んだ、も}{ruby:called Master in her entire life.:う一人の黄金の魔女の姿だった。}`
+`{ruby:Her hair was long,:髪は長く美しく、瑞々し}{ruby:beautiful, and vividly youthful,:いほどに若々しく、}`
+`{ruby:and her figure in that elegant:そして優雅なドレスをまとう姿からは、老}{ruby:dress was unrecognizable as an old lady...:女の姿はまったく想像できない…。}`
+`{ruby:No, this looked like a:いや、まったく熊沢と}{ruby:completely different person than Kumasawa.:別人の姿だった。}`
 `{ruby:".........Well, well, Master.:「………これはこれはお師匠様。}`
-`{ruby:I never even dreamed the day would come that we would meet each other again.":再びお会いできる日が訪れるとは、夢にも思いませんでした」}`
+`{ruby:I never even dreamed the day would:再びお会いできる日が訪れるとは}{ruby:come that we would meet each other again.":、夢にも思いませんでした」}`
 `{ruby:"Yes, me too.:「えぇ、私もですよ。}`
-`{ruby:...Certainly, I never even dreamed that my sleep would be disturbed.":…よもやまた、眠りを妨げられるとは夢にも思いませんでした」}`
-`{ruby:"Such a troublesome time for you to awaken.:「まったく厄介なところでお目覚めになられる。}`
-`{ruby:......If you remained sleeping as usual, the first twilight could be finished without much trouble.":……いつもの通り、お休みであられたなら、第一の晩を何もてこずることなく終えられるのに」}`
+`{ruby:...Certainly, I never even dreamed:…よもやまた、眠りを妨げられると}{ruby:that my sleep would be disturbed.":は夢にも思いませんでした」}`
+`{ruby:"Such a troublesome time:「まったく厄介なところで}{ruby:for you to awaken.:お目覚めになられる。}`
+`{ruby:......If you remained sleeping as usual, the:……いつもの通り、お休みであられたなら、第一の}{ruby:first twilight could be finished without much trouble.":晩を何もてこずることなく終えられるのに」}`
 `{ruby:"...Or should I welcome you?:「…いいや、むしろ歓迎すべきですかな。}`
-`{ruby:............I was just a little bored.":…………少々、退屈しておりましたところで」}`
-`{ruby:"......Just as usual, it seems you are toying with sinless people in a vulgar game.:「……相変わらず、悪趣味な遊びで、罪もない人々を弄んでいるようですね。}`
-`{ruby:......I believe I have taught you many times that the power of the Endless Witch must not be used to cause people trouble.":……無限の魔女の力は、決して人に迷惑を掛けることに使ってはならないと、何度も教えたはずですよ」}`
+`{ruby:............I was just:…………少々、退屈してお}{ruby:a little bored.":りましたところで」}`
+`{ruby:"......Just as usual, it seems you are:「……相変わらず、悪趣味な遊びで、罪も}{ruby:toying with sinless people in a vulgar game.:ない人々を弄んでいるようですね。}`
+`{ruby:......I believe I have taught you many times that the power:……無限の魔女の力は、決して人に迷惑を掛けることに}{ruby:of the Endless Witch must not be used to cause people trouble.":使ってはならないと、何度も教えたはずですよ」}`
 `{ruby:"Don't say that, Master.:「そういうなよォ、お師匠様。}`
 `{ruby:Isn't boredom our natural enemy?:退屈は私たちの天敵じゃありませんか。}`
-`{ruby:This is just a little spice to escape from that.":それから逃れる為の、ちょっとしたスパイスに過ぎませんよ」}`
+`{ruby:This is just a little:それから逃れる為の、ちょっとし}{ruby:spice to escape from that.":たスパイスに過ぎませんよ」}`
 `{ruby:".........Tch.:「………ち。}`
-`{ruby:The more the corrosion advances, the stronger my power becomes, and the easier it becomes to call my minions.:侵食が進めば進むほどに、妾の力は強くなり、妾の眷属は呼び出しやすくなる。}`
-`{ruby:...But who would have thought it would release the seal on you, Master, at the same time...":…しかし、それは同時にお師匠様の封印を解くことにもつながったとはなぁ…」}`
+`{ruby:The more the corrosion advances, the stronger my power:侵食が進めば進むほどに、妾の力は強くな}{ruby:becomes, and the easier it becomes to call my minions.:り、妾の眷属は呼び出しやすくなる。}`
+`{ruby:...But who would have thought it would release:…しかし、それは同時にお師匠様の封印を}{ruby:the seal on you, Master, at the same time...":解くことにもつながったとはなぁ…」}`
 `{ruby:"It was because I predicted that,:「それを予見していたからこそ。}`
-`{ruby:that I slept very close to you like this.:私はこうして、あなたのすぐ近くで眠りについたのですよ。}`
-`{ruby:......As I prayed in my sleep that I would not be woken again.:……願わくば、二度と起こされぬことを夢見ながら。}`
-`{ruby:...Being reunited with you like this is a very sad thing for me.":…こうしてあなたと再会してしまったのは、私にとってはとても悲しいことです」}`
-`{ruby:"..................You're as cunning as always, Master...:「………………相変わらず、お師匠様は食えないなァ…。}`
+`{ruby:that I slept very:私はこうして、あなたのすぐ近く}{ruby:close to you like this.:で眠りについたのですよ。}`
+`{ruby:......As I prayed in my sleep:……願わくば、二度と起こさ}{ruby:that I would not be woken again.:れぬことを夢見ながら。}`
+`{ruby:...Being reunited with you like this:…こうしてあなたと再会してしまったのは、}{ruby:is a very sad thing for me.":私にとってはとても悲しいことです」}`
+`{ruby:"..................You're as cunning:「………………相変わらず、お}{ruby:as always, Master...:師匠様は食えないなァ…。}`
 `{ruby:*cackle*...":くっくっく…」}`
 `{ruby:"Ronove.:「ロノウェ。}`
-`{ruby:Have the furniture children step back.:家具の子たちを下げなさい。}`
+`{ruby:Have the furniture:家具の子たちを下}{ruby:children step back.:げなさい。}`
 `{ruby:Furniture merely serves its master.:家具は主に仕えるだけです。}`
-`{ruby:The master is responsible for all of her crimes.":全ての罪は主が背負います」}`
+`{ruby:The master is responsible:全ての罪は主が背}{ruby:for all of her crimes.":負います」}`
 `{ruby:".........Certainly.:「………かしこまりました。}`
 `{ruby:Madam {f:5:Beatrice}.":マダム・ベアトリーチェ」}`
-`{ruby:"I have already surrendered that name to this child.:「その名はもう、その子に譲りました。}`
+`{ruby:"I have already surrendered:「その名はもう、その}{ruby:that name to this child.:子に譲りました。}`
 `{ruby:......Come now, step back.:……さぁ、下がりなさい。}`
 `{ruby:Furniture girls.:家具の娘たち。}`
-`{ruby:......For those who do not listen the first time, I say it a second.:……私は一度聞かぬとしても、二度言います。}`
-`{ruby:However, I do not speak it a third...":しかし、三度目は口にしませんよ…？」}`
-`{ruby:"......Step back, Seven Sisters of Purgatory.:「……下がりなさい、煉獄の七姉妹。}`
-`{ruby:If you get involved, you will be turned to dust...":巻き添えになれば塵と化しますよ…」}`
+`{ruby:......For those who do not listen the:……私は一度聞かぬとして}{ruby:first time, I say it a second.:も、二度言います。}`
+`{ruby:However, I do not:しかし、三度目は口に}{ruby:speak it a third...":しませんよ…？」}`
+`{ruby:"......Step back, Seven:「……下がりなさい、}{ruby:Sisters of Purgatory.:煉獄の七姉妹。}`
+`{ruby:If you get involved, you:巻き添えになれば塵と}{ruby:will be turned to dust...":化しますよ…」}`
 `{ruby:"B‐......back, everyone...":「さ、……下がれみんな…」}`
-`{ruby:Ronove and the Seven Sisters of Purgatory retreated.:ロノウェと煉獄の七姉妹は退く。}`
-`{ruby:After that, there was the {f:5:Beatrice} whose bold expression didn't falter,:後には、不敵な表情を崩さないベアトリーチェと、}`
-`{ruby:and the master {f:5:Beatrice}, who had given up that name, and wore a composed smile...:悠然と笑顔を湛えた、名前を譲った師匠のベアトリーチェがいる…。}`
+`{ruby:Ronove and the Seven:ロノウェと煉獄の七}{ruby:Sisters of Purgatory retreated.:姉妹は退く。}`
+`{ruby:After that, there was the:後には、不敵な表情を崩さな}{ruby:{f:5:Beatrice} whose bold expression didn't falter,:いベアトリーチェと、}`
+`{ruby:and the master {f:5:Beatrice}, who had given:悠然と笑顔を湛えた、名前を譲った師}{ruby:up that name, and wore a composed smile...:匠のベアトリーチェがいる…。}`
 `{ruby:"Well then.:「さぁって。}`
 `{ruby:......Master.:……お師匠様。}`
-`{ruby:What tea shall I prepare for our long awaited reunion?":久し振りの再会にはどんなお茶のご用意が良いかなぁ？」}`
+`{ruby:What tea shall I prepare:久し振りの再会にはどんなお茶}{ruby:for our long awaited reunion?":のご用意が良いかなぁ？」}`
 `{ruby:"Let's see.:「そうですね。}`
-`{ruby:This reunion was longer in coming than the visit of a comet.:箒星の訪れよりも久しい再会です。}`
+`{ruby:This reunion was longer in coming:箒星の訪れよりも久}{ruby:than the visit of a comet.:しい再会です。}`
 `{ruby:I will accept your hospitality.:もてなしてもらいましょうか。}`
-`{ruby:.........If there appear to be any issues, then my name and the title of Endless Witch,:………粗相があるようならば、我が名と無限の魔女の称号。}`
-`{ruby:......I will have them returned, understand?":……返してもらいますよ？」}`
+`{ruby:.........If there appear to be any issues, then:………粗相があるようならば、我}{ruby:my name and the title of Endless Witch,:が名と無限の魔女の称号。}`
+`{ruby:......I will have:……返してもらい}{ruby:them returned, understand?":ますよ？」}`
 `{ruby:"*cackle*cackle*!:「くっくっくっく！}`
-`{ruby:So there's even a license renewal policy for the title of Endless Witch?":無限の魔女にも、免許更新制度があったとはなァ」}`
+`{ruby:So there's even a license renewal:無限の魔女にも、免許更新制}{ruby:policy for the title of Endless Witch?":度があったとはなァ」}`
 `{ruby:"......As you say, Master.:「……仰せのままに、お師匠様。}`
-`{ruby:See how splendid your disciple has become,:あなたの弟子が、どれほど立派になったか。}`
-`{ruby:and see how far she has surpassed what you were long ago...!":そして、とっくの昔にどれほどあなたを凌駕したか、とくとご覧に入れましょう…！」}`
-`{ruby:It looked like sparks exploded in the air between the two {f:5:Beatrice}s.:二人のベアトリーチェを中心に、空中を火花が爆ぜたように見えた。}`
-`{ruby:Just by glaring at each other, they purged all spirits from that space.:ただ二人がにらみ合っただけで、空間の霊的存在が一掃される。}`
-`{ruby:...As they watched, the Seven Sisters shivered.:…それを見て、七姉妹は戦慄する。}`
-`{ruby:...Because if they had retreated just three steps less than they had, they would already have been turned to dust by now.:…もう三歩も、二人の側を遠退かなかったら、それだけで塵になっていたに違いないからだ。}`
+`{ruby:See how splendid:あなたの弟子が、どれほ}{ruby:your disciple has become,:ど立派になったか。}`
+`{ruby:and see how far she has:そして、とっくの昔にどれほどあなたを凌駕し}{ruby:surpassed what you were long ago...!":たか、とくとご覧に入れましょう…！」}`
+`{ruby:It looked like sparks exploded in:二人のベアトリーチェを中心に、空中}{ruby:the air between the two {f:5:Beatrice}s.:を火花が爆ぜたように見えた。}`
+`{ruby:Just by glaring at each other,:ただ二人がにらみ合っただけで、空}{ruby:they purged all spirits from that space.:間の霊的存在が一掃される。}`
+`{ruby:...As they watched,:…それを見て、七姉}{ruby:the Seven Sisters shivered.:妹は戦慄する。}`
+`{ruby:...Because if they had retreated just three steps less than they:…もう三歩も、二人の側を遠退かなかったら、そ}{ruby:had, they would already have been turned to dust by now.:れだけで塵になっていたに違いないからだ。}`
 `{ruby:"So, come.:「さぁ、いらっしゃい。}`
 `{ruby:{f:5:Beatrice}.:ベアトリーチェ。}`
-`{ruby:...Surrendering my name to you is the only regret I have in my life.:…あなたにその名を譲ったことが、私の生涯でただ一度の後悔です。}`
-`{ruby:I will now correct that error with my own hands!":その過ちを、今、自らの手で修正しましょう！」}`
+`{ruby:...Surrendering my name to you is the:…あなたにその名を譲ったことが、私}{ruby:only regret I have in my life.:の生涯でただ一度の後悔です。}`
+`{ruby:I will now correct that:その過ちを、今、自らの手}{ruby:error with my own hands!":で修正しましょう！」}`
 `{ruby:"*cackle*cackle*cackle*...:「くっくっくっくっく…。}`
 `{ruby:...Tut tut tut.:…ちっちっち。}`
 `{ruby:......That's wrong, Masterrr.:……そりゃあ違うぜ、お師匠様ァ。}`
 `{ruby:My only error...:妾のただ一度の過ちは、}`
-`{ruby:was becoming your disciple to learn this trifling level of power, got thaaaat?":この程度の力を学ぶのに、あんたに弟子入りしちまったことだぜぇええぇ？」}`
+`{ruby:was becoming your disciple to learn:この程度の力を学ぶのに、あんたに弟子入}{ruby:this trifling level of power, got thaaaat?":りしちまったことだぜぇええぇ？」}`
 `{ruby:"You call this magic?:「何が魔法だ。}`
-`{ruby:You call this being an Endless Witch?:何が無限の魔女だ。}`
-`{ruby:......The power to notice, that's all it waaas!:……こんなの、気付くだけの力じゃねぇえかよォ。}`
-`{ruby:And you made suuuch a big deal of it.:それをもったいぶって偉そうによぅ。}`
-`{ruby:Your time is long past, Masteee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeer!!":お前の出番はとっくに終わってんだよ、お師匠様よぉおおおおおおおおおおぉ！！」}`
+`{ruby:You call this:何が無限の魔}{ruby:being an Endless Witch?:女だ。}`
+`{ruby:......The power to notice,:……こんなの、気付くだけの}{ruby:that's all it waaas!:力じゃねぇえかよォ。}`
+`{ruby:And you made suuuch:それをもったいぶって}{ruby:a big deal of it.:偉そうによぅ。}`
+`{ruby:Your time is:お前の出番はとっくに終わってんだよ、お師}{ruby:long past, Masteee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeer!!":匠様よぉおおおおおおおおおおぉ！！」}`
 `{ruby:".........I,:「………も、}`
-`{ruby:......I, I don't have a clue what's going on anymore......!:……も、もう訳がわからねぇ……！}`
-`{ruby:What in the world is happening right in front of my eyes...!":一体、目の前で何が起こってんだ…！」}`
+`{ruby:......I, I don't have a:……も、もう訳がわ}{ruby:clue what's going on anymore......!:からねぇ……！}`
+`{ruby:What in the world is happening:一体、目の前で何が起こ}{ruby:right in front of my eyes...!":ってんだ…！」}`
 `{ruby:"......Poor thing.:「……可哀想に。}`
-`{ruby:It seems my disciple is causing you trouble.:私の弟子が迷惑を掛けていますね。}`
+`{ruby:It seems my disciple:私の弟子が迷惑を掛}{ruby:is causing you trouble.:けていますね。}`
 `{ruby:I apologize.":謝ります」}`
 `{ruby:"Y‐...you... Who are you?:「あ、…あんた…、何者なんだ。}`
-`{ruby:Why did Kumasawa baa‐chan turn into an attractive lady like this?!:熊沢のばあちゃんが、どうしてこんな姉ちゃんに化けるんだ？！}`
+`{ruby:Why did Kumasawa baa‐chan turn:熊沢のばあちゃんが、どうしてこん}{ruby:into an attractive lady like this?!:な姉ちゃんに化けるんだ？！}`
 `{ruby:I mean, who are you?!:つーか、あんた誰だよッ？！}`
 `{ruby:I don't get it?!:訳がわからねぇ？！}`
-`{ruby:What kind of special effects are these?!:これは何の特撮なんだ？！}`
-`{ruby:My head feels like it's gonna explode!!":俺は頭がどうにかなっちまいそうだッ！！」}`
+`{ruby:What kind of:これは何の特撮な}{ruby:special effects are these?!:んだ？！}`
+`{ruby:My head feels:俺は頭がどうにかなっちま}{ruby:like it's gonna explode!!":いそうだッ！！」}`
 `{ruby:"I am the witch master of that child.:「私は、あの子の魔女の師匠です。}`
 `{ruby:My old name was {f:5:Beatrice}.:かつての名はベアトリーチェ。}`
-`{ruby:When she succeeded me, I gave her that name, so I do not have a name.":あの子が私を継ぐ時に、その名を贈った為、今は名を持ちません」}`
-`{ruby:"You already said it, but your disciple's being a real pain to me!:「あんたがすでに言い切っちまってるが、俺はあんたの弟子のせいで大いに迷惑しているぜ！}`
-`{ruby:Please, take responsibility and do something!:頼むから責任取って何とかしてくれッ！}`
+`{ruby:When she succeeded me, I gave her that:あの子が私を継ぐ時に、その名を贈}{ruby:name, so I do not have a name.":った為、今は名を持ちません」}`
+`{ruby:"You already said it, but your:「あんたがすでに言い切っちまってるが、俺はあ}{ruby:disciple's being a real pain to me!:んたの弟子のせいで大いに迷惑しているぜ！}`
+`{ruby:Please, take responsibility:頼むから責任取って何と}{ruby:and do something!:かしてくれッ！}`
 `{ruby:No, wait!!":じゃなくてッ！！」}`
 `{ruby:"I don't believe in stuff like this!!:「俺はこんなの信じねぇぞ！！}`
 `{ruby:As if witches and magic are real!!:魔女も魔法もあるもんか！！}`
-`{ruby:I won't accept this messed‐up battle!:こんな滅茶苦茶バトル、俺は認めねぇぞ！}`
-`{ruby:Damn it all to hell, what am I supposed to believe?!!":くそったれ、俺は何を信じりゃいいんだ！！」}`
+`{ruby:I won't accept:こんな滅茶苦茶バトル、}{ruby:this messed‐up battle!:俺は認めねぇぞ！}`
+`{ruby:Damn it all to hell,:くそったれ、俺は何を信じ}{ruby:what am I supposed to believe?!!":りゃいいんだ！！」}`
 `{ruby:"Hoh‐hoh‐ho...:「ほっほっほ…。}`
-`{ruby:Just like you, hospitality with a very quick temper.":あなたらしい、とても短気なもてなしですね」}`
+`{ruby:Just like you, hospitality:あなたらしい、とても短気}{ruby:with a very quick temper.":なもてなしですね」}`
 `{ruby:"...*cackle*cackle*.:「…くっくっくっく。}`
-`{ruby:I'd expect nothing less from you, Master.:さすがお師匠様。}`
-`{ruby:It looks like this level of magic is so insignificant to you, you can't even be bothered to open your eyes...!":この程度じゃ、馬鹿馬鹿しくて瞼を開く気にもならないらしい…！」}`
-`{ruby:"Looks like it'll be impossible unless I'm prepared to wreck the whole island, riiiiiight?:「島ごとぶっ壊す気でなきゃ、無理らしいぜぇええぇ？}`
+`{ruby:I'd expect nothing:さすがお師}{ruby:less from you, Master.:匠様。}`
+`{ruby:It looks like this level of magic is so insignificant:この程度じゃ、馬鹿馬鹿しくて瞼を開}{ruby:to you, you can't even be bothered to open your eyes...!":く気にもならないらしい…！」}`
+`{ruby:"Looks like it'll be impossible unless I'm:「島ごとぶっ壊す気でなきゃ、}{ruby:prepared to wreck the whole island, riiiiiight?:無理らしいぜぇええぇ？}`
 `{ruby:Come, arise, Shoulder War Towers!!":さぁさお出でなさい、双肩の戦塔！！」}`
-`{ruby:In response to {f:5:Beatrice}'s summons, a terrific earth tremor split the rose garden.:ベアトリーチェの呼びかけに応え、凄まじい地響きと共に薔薇庭園が裂ける。}`
-`{ruby:And on either side of her shoulders, two massive War Towers sprouted and stabbed into the heavens.:そして彼女の双肩を挟むように、天を突く二基の巨大な戦塔が生える。}`
-`{ruby:They stretched 100 {c:86Ef9C:merute} tall, and each one had over 360 ports.:その高さは１００メルテにも及び、銃眼の数は片方だけで３６０を越える。}`
-`{ruby:They were War Towers of the gods' army corps, which had not allowed the heroes of antiquity to invade their precincts, even as they banded together.:それこそが、古代英雄たちが束になっても神域を侵すことを許さなかった、神々の兵団の戦塔。}`
-`{ruby:As {f:5:Beatrice} elegantly floated in the gap between the massive two‐headed towers, she looked down on her master, sneering with an absolute superiority.:ベアトリーチェはその巨大な双頭の塔の狭間に優雅に浮かびながら、師匠を見下ろし、絶対の優位に嘲笑う。}`
-`{ruby:With the two massive towers lined up behind her shoulders, the witch looked very small,:巨大なる塔を双肩に並べる魔女はあまりに小さく見え、}`
-`{ruby:like a butterfly dancing between large trees.:まるで大樹の間を舞う蝶のように見えた。}`
+`{ruby:In response to {f:5:Beatrice}'s summons, a:ベアトリーチェの呼びかけに応え、凄まじ}{ruby:terrific earth tremor split the rose garden.:い地響きと共に薔薇庭園が裂ける。}`
+`{ruby:And on either side of her shoulders, two:そして彼女の双肩を挟むように、天を}{ruby:massive War Towers sprouted and stabbed into the heavens.:突く二基の巨大な戦塔が生える。}`
+`{ruby:They stretched 100 {c:86Ef9C:merute} tall, and:その高さは１００メルテにも及び、銃眼}{ruby:each one had over 360 ports.:の数は片方だけで３６０を越える。}`
+`{ruby:They were War Towers of the gods' army corps, which had not allowed:それこそが、古代英雄たちが束になっても神域を侵}{ruby:the heroes of antiquity to invade their precincts, even as they banded together.:すことを許さなかった、神々の兵団の戦塔。}`
+`{ruby:As {f:5:Beatrice} elegantly floated in the gap between the massive two‐headed:ベアトリーチェはその巨大な双頭の塔の狭間に優雅に浮か}{ruby:towers, she looked down on her master, sneering with an absolute superiority.:びながら、師匠を見下ろし、絶対の優位に嘲笑う。}`
+`{ruby:With the two massive towers lined up:巨大なる塔を双肩に並べる魔女}{ruby:behind her shoulders, the witch looked very small,:はあまりに小さく見え、}`
+`{ruby:like a butterfly:まるで大樹の間を舞う蝶}{ruby:dancing between large trees.:のように見えた。}`
 `{ruby:"Hihhyahhyahhyaaaaaa!!:「ひっひゃっひゃっひゃあああぁ！！}`
-`{ruby:Don't think you can dodge it by turning into butterflies, alright?:蝶に化ければかわせるとか思うなよぉ？}`
-`{ruby:The density of the twin towers' barrage wouldn't just make you a pinned bug collection, it'd make you a madly stabbed pincushion, get it...?":双子塔の弾幕密度じゃあんた、虫ピンの昆虫標本どころか、滅多刺しの針刺し人形だぜェ…？」}`
-`{ruby:The towers' more than 720 ports opened, and godly soldiers readied their multi‐shot ballistas.:双肩の塔の７２０を越える銃眼が開き、神兵たちが連装式バリスタを構える。}`
+`{ruby:Don't think you can dodge:蝶に化ければかわせると}{ruby:it by turning into butterflies, alright?:か思うなよぉ？}`
+`{ruby:The density of the twin towers' barrage wouldn't just make you a:双子塔の弾幕密度じゃあんた、虫ピンの昆虫標本ど}{ruby:pinned bug collection, it'd make you a madly stabbed pincushion, get it...?":ころか、滅多刺しの針刺し人形だぜェ…？」}`
+`{ruby:The towers' more than 720 ports opened,:双肩の塔の７２０を越える銃眼が開き、神}{ruby:and godly soldiers readied their multi‐shot ballistas.:兵たちが連装式バリスタを構える。}`
 `{ruby:"Does that conclude your turn?":「それであなたの手番は終了ですか？」}`
-`{ruby:"Heh, {i:those} are your last words?!!:「ちっ、それが遺言かよッ！！}`
-`{ruby:OPEN FIII{-}I{-}I{-}I{-}I{-}I{-}I{-}IIIRE!!!":ぶっ放せええええええぇええええぇッ！！！」}`
-`{ruby:Ballista shots numbering easily over a thousand were all fired at once, drawing a beautiful geometric curtain of death.:一斉に放たれる軽く千を超えるバリスタ弾が、美しい幾何学模様で死のカーテンを描く。}`
-`{ruby:The boorish sound performed by those bowstrings was probably even deeper than the sound of Death swinging his scythe.:それらの弦が奏でる無骨な音は、多分、死神が鎌を振るうその音よりも、重い。}`
+`{ruby:"Heh, {i:those} are:「ちっ、それが遺}{ruby:your last words?!!:言かよッ！！}`
+`{ruby:OPEN:ぶっ放せええええええぇえ}{ruby:FIII{-}I{-}I{-}I{-}I{-}I{-}I{-}IIIRE!!!":えええぇッ！！！」}`
+`{ruby:Ballista shots numbering easily over a thousand were all:一斉に放たれる軽く千を超えるバリスタ弾が、}{ruby:fired at once, drawing a beautiful geometric curtain of death.:美しい幾何学模様で死のカーテンを描く。}`
+`{ruby:The boorish sound performed by those bowstrings was probably:それらの弦が奏でる無骨な音は、多分、死}{ruby:even deeper than the sound of Death swinging his scythe.:神が鎌を振るうその音よりも、重い。}`
 `{ruby:"Come, arise, Fallen Tower.:「さぁさお出でなさい、墜落せし塔よ。}`
-`{ruby:Split the single language, and make known the sin.":一なる言語を爆ぜ、その罪を知らしめよ」}`
-`{ruby:The sky was stained an incandescent red, and from between the clouds, a blazing, massive tower fell upside down.:空は灼熱の赤に染まり、雲間から燃え盛る巨大な塔が真っ逆さまに降り落ちる。}`
-`{ruby:That massive falling tower and its rubble...:その墜落する巨大塔とその瓦礫は、}`
-`{ruby:swallowed the thousands of ballista shots, so that not one of them could approach the body of the witch who had summoned it.:数千にも至るバリスタ弾を飲み込み、呼び出した魔女の身にたった一本も近づけない。}`
-`{ruby:Yes, none can approach the mysteries of heaven.:そう、天の神秘には何人たりとも近づけないのだ。}`
-`{ruby:{n}That was the truth of the Fallen Tower.:{n}それこそが墜落せし塔の真実。}`
+`{ruby:Split the single language,:一なる言語を爆ぜ、その}{ruby:and make known the sin.":罪を知らしめよ」}`
+`{ruby:The sky was stained an incandescent red, and from:空は灼熱の赤に染まり、雲間から燃え盛る}{ruby:between the clouds, a blazing, massive tower fell upside down.:巨大な塔が真っ逆さまに降り落ちる。}`
+`{ruby:That massive falling:その墜落する巨大塔}{ruby:tower and its rubble...:とその瓦礫は、}`
+`{ruby:swallowed the thousands of ballista shots, so that not one of:数千にも至るバリスタ弾を飲み込み、呼び出し}{ruby:them could approach the body of the witch who had summoned it.:た魔女の身にたった一本も近づけない。}`
+`{ruby:Yes, none can approach:そう、天の神秘には何人たり}{ruby:the mysteries of heaven.:とも近づけないのだ。}`
+`{ruby:{n}That was the truth:{n}それこそが墜落}{ruby:of the Fallen Tower.:せし塔の真実。}`
 `{ruby:"As I would expect from you, Master!:「さすがお師匠様ァ！}`
-`{ruby:If you do something, you always do it big!!:いちいちやることがデケェや！！}`
+`{ruby:If you do something,:いちいちやることが}{ruby:you always do it big!!:デケェや！！}`
 `{ruby:Kuhhuhu{0}hu{0}huhya{0}hyahya!!":くっひひひひひゃっひゃっひゃ！！」}`
 `{ruby:"My turn isn't over.:「私の手番は終わりませんよ。}`
 `{ruby:Come, arise, Sons of Ivaldi.:さぁさお出でなさい、イヴァルディの息子たち。}`
 `{ruby:Bestow upon me a worthy spear!":我に相応しき槍を与え給えっ」}`
-`{ruby:As the massive crimson tower that had fallen made a mighty gold‐colored explosion,:墜落する紅蓮の巨大塔は黄金色の凄まじい爆発を起こすと、}`
-`{ruby:from inside those flames, a spear showed itself, of such massive proportions that you had to look up to see all of it, much like a tower.:その爆炎の中より、塔のように見上げなければならぬほどの巨大な槍が姿を現す。}`
-`{ruby:...It was too large for even a giant's hand.:…その大きさは巨人の手にもまだ余る。}`
-`{ruby:It was a divinely beautiful spear of the gods, so massive that it gave the illusion that the tower which had fallen had turned into a spear of the same size.:先ほどの墜落する塔がそのまま槍になったかと錯覚するほどに巨大な、そして神々しく美しい神の槍。}`
-`{ruby:A spear of certain victory that no one could escape.:如何なる者も逃がさぬ必勝の槍。}`
-`{ruby:"It looks like your twin towers are useless.:「無用の双子塔ですね。}`
-`{ruby:How foolish that you blocked off your means of escape on both sides.:自ら左右の退路を断つとは愚かしいっ。}`
-`{ruby:You can't defend against even a single spear!":一本の槍をもお前は防げない！」}`
-`{ruby:When she snapped her fingers in command,:彼女が指を鳴らして命じると、}`
-`{ruby:the massive tower‐like spear shot at {f:5:Beatrice} like a lightning bolt.:塔の如き巨大槍は、一条の稲妻のように、ベアトリーチェを目指す。}`
-`{ruby:As the Golden Witch danced in the gap between the towers like a butterfly,:左右の塔の狭間にて蝶のように舞う黄金の魔女の、}`
-`{ruby:it sliced straight through the air like a flash of lightning,:心臓のど真ん中の中心のさらにさらに中央を、}`
-`{ruby:aiming right for the very middle of the absolute center of her heart, with the most ultimate and extreme precision.:超が七つ付く精密さで狙い、稲光のようにまっすぐ宙を駆け抜ける。}`
+`{ruby:As the massive crimson tower that:墜落する紅蓮の巨大塔は黄金色の}{ruby:had fallen made a mighty gold‐colored explosion,:凄まじい爆発を起こすと、}`
+`{ruby:from inside those flames, a spear showed itself, of such massive proportions that:その爆炎の中より、塔のように見上げなけれ}{ruby:you had to look up to see all of it, much like a tower.:ばならぬほどの巨大な槍が姿を現す。}`
+`{ruby:...It was too large:…その大きさは巨人の}{ruby:for even a giant's hand.:手にもまだ余る。}`
+`{ruby:It was a divinely beautiful spear of the gods, so massive that it gave the:先ほどの墜落する塔がそのまま槍になったかと錯覚す}{ruby:illusion that the tower which had fallen had turned into a spear of the same size.:るほどに巨大な、そして神々しく美しい神の槍。}`
+`{ruby:A spear of certain victory:如何なる者も逃がさ}{ruby:that no one could escape.:ぬ必勝の槍。}`
+`{ruby:"It looks like your:「無用の双子塔}{ruby:twin towers are useless.:ですね。}`
+`{ruby:How foolish that you blocked off:自ら左右の退路を断つ}{ruby:your means of escape on both sides.:とは愚かしいっ。}`
+`{ruby:You can't defend against:一本の槍をもお前は}{ruby:even a single spear!":防げない！」}`
+`{ruby:When she snapped:彼女が指を鳴らし}{ruby:her fingers in command,:て命じると、}`
+`{ruby:the massive tower‐like spear shot:塔の如き巨大槍は、一条の稲妻のよう}{ruby:at {f:5:Beatrice} like a lightning bolt.:に、ベアトリーチェを目指す。}`
+`{ruby:As the Golden Witch danced in the:左右の塔の狭間にて蝶のよう}{ruby:gap between the towers like a butterfly,:に舞う黄金の魔女の、}`
+`{ruby:it sliced straight through the:心臓のど真ん中の中心のさ}{ruby:air like a flash of lightning,:らにさらに中央を、}`
+`{ruby:aiming right for the very middle of the absolute center:超が七つ付く精密さで狙い、稲光のよ}{ruby:of her heart, with the most ultimate and extreme precision.:うにまっすぐ宙を駆け抜ける。}`
 `{ruby:"Hah!!:「はッ！！}`
-`{ruby:So, you use Gungnir in a place like this!!:こんなところでグングニルが引けるとはッ！！}`
-`{ruby:You really are incredible, Masteeeerrrrr!!":やっぱりお師匠様はすげェなああぁあ！！」}`
+`{ruby:So, you use Gungnir:こんなところでグングニル}{ruby:in a place like this!!:が引けるとはッ！！}`
+`{ruby:You really:やっぱりお師匠様はすげェ}{ruby:are incredible, Masteeeerrrrr!!":なああぁあ！！」}`
 `{ruby:"Explode, useless towers!:「爆ぜろ、役立たずの塔！}`
 `{ruby:Arise, Giant Soldier Battle Line.:出でよ、巨人兵の戦列よ。}`
-`{ruby:Fully block that divine spear with your shields and chests!!":その楯と胸で、神なる槍を防ぎきれ！！」}`
-`{ruby:The Shoulder War Towers exploded in gold.:双肩の戦塔は黄金色の大爆発を起こす。}`
-`{ruby:{n}They became several billion gold butterflies.:{n}それは何億もの黄金の蝶たち。}`
-`{ruby:Those butterflies took the shape of seven massive armored soldiers.:その蝶たちが７人の巨人装甲兵を模る。}`
-`{ruby:Each stretched a full 50 merute into the sky,:それぞれが５０メルテもの見上げるばかりの身長を持ち、}`
-`{ruby:and they lined up in front of {f:5:Beatrice}, protecting their master and holding massive shields which towered like windmills.:そびえ立つ風車のような大きさの巨大楯をかざしてベアトリーチェの前に並んで主を守る。}`
-`{ruby:Their massive size was evocative of a mountain range.:その巨大さは山脈さえも連想させる。}`
-`{ruby:The witch hiding behind them was like a small moon hiding behind the mountains.:その向こうに隠れる魔女は、さながら山の向こうに隠れる小さな月のようだった。}`
-`{ruby:Once in the past, when the massive shields these giants held had been readied by the whole giants' regiment,:巨人たちが構える巨大楯は、かつて巨人連隊全員が連なって構えた時、}`
-`{ruby:they had protected King Wilhelm's castle not only from arrows, but from the wind and the rain,:ヴィルヘルム王の居城を矢だけでなく、風雨からすら守り、}`
-`{ruby:and when they had faced upwards and held their shields to the heavens, not a single raindrop had gotten through.:天に向けてかざした時には雨粒の一滴すらも許さなかったという。}`
+`{ruby:Fully block that divine spear:その楯と胸で、神なる槍}{ruby:with your shields and chests!!":を防ぎきれ！！」}`
+`{ruby:The Shoulder War:双肩の戦塔は黄金色の}{ruby:Towers exploded in gold.:大爆発を起こす。}`
+`{ruby:{n}They became several:{n}それは何億もの}{ruby:billion gold butterflies.:黄金の蝶たち。}`
+`{ruby:Those butterflies took the shape:その蝶たちが７人の巨}{ruby:of seven massive armored soldiers.:人装甲兵を模る。}`
+`{ruby:Each stretched a full:それぞれが５０メルテもの見上}{ruby:50 merute into the sky,:げるばかりの身長を持ち、}`
+`{ruby:and they lined up in front of {f:5:Beatrice}, protecting:そびえ立つ風車のような大きさの巨大楯をかざし}{ruby:their master and holding massive shields which towered like windmills.:てベアトリーチェの前に並んで主を守る。}`
+`{ruby:Their massive size was:その巨大さは山脈さえ}{ruby:evocative of a mountain range.:も連想させる。}`
+`{ruby:The witch hiding behind them was like:その向こうに隠れる魔女は、さながら山の向}{ruby:a small moon hiding behind the mountains.:こうに隠れる小さな月のようだった。}`
+`{ruby:Once in the past, when the massive shields these:巨人たちが構える巨大楯は、かつて巨}{ruby:giants held had been readied by the whole giants' regiment,:人連隊全員が連なって構えた時、}`
+`{ruby:they had protected King Wilhelm's castle not only:ヴィルヘルム王の居城を矢だけで}{ruby:from arrows, but from the wind and the rain,:なく、風雨からすら守り、}`
+`{ruby:and when they had faced upwards and held their shields:天に向けてかざした時には雨粒の一}{ruby:to the heavens, not a single raindrop had gotten through.:滴すらも許さなかったという。}`
 `{ruby:"Foolish.:「愚かな。}`
-`{ruby:How pitiful is the witch who has forgotten her respect for the divine.:神聖への敬いを忘れた魔女の憐れなことです。}`
-`{ruby:Did you think that giants could defend against a spear of the gods?!":神の槍を巨人如きで防げるとお思いですか！」}`
+`{ruby:How pitiful is the witch who:神聖への敬いを忘れた魔女}{ruby:has forgotten her respect for the divine.:の憐れなことです。}`
+`{ruby:Did you think that giants could:神の槍を巨人如きで防げる}{ruby:defend against a spear of the gods?!":とお思いですか！」}`
 `{ruby:"......Indeed.:「……道理ですね。}`
-`{ruby:No matter how much human metal you are armed with, you cannot block a spear of the gods.:人間の金属でいくら武装しようとも、神の槍は防げません。}`
-`{ruby:A wonderful epaulette mate by Madam.":マダムの見事なエポレットメイトです」}`
+`{ruby:No matter how much human metal you are armed:人間の金属でいくら武装しようと}{ruby:with, you cannot block a spear of the gods.:も、神の槍は防げません。}`
+`{ruby:A wonderful epaulette:マダムの見事なエポレ}{ruby:mate by Madam.":ットメイトです」}`
 `{ruby:"No way?!:「そんなっ？！}`
 `{ruby:{f:5:Beatrice}‐sama!!":ベアトリーチェさまッ！！」}`
-`{ruby:"Of course I haven't forgotten, Master!:「もちろん忘れませんとも、お師匠様ァ！}`
-`{ruby:Come, arise, Hephaestus and his disciples.:さぁさお出でなさい、ヘパイストスと弟子たち。}`
+`{ruby:"Of course I:「もちろん忘れませんと}{ruby:haven't forgotten, Master!:も、お師匠様ァ！}`
+`{ruby:Come, arise, Hephaestus:さぁさお出でなさい、ヘパイ}{ruby:and his disciples.:ストスと弟子たち。}`
 `{ruby:Bestow upon me a worthy shieeeld!!":我に相応しき楯を与え給えぇえ！！」}`
-`{ruby:A golden whirlwind arose at the feet of the Giant Soldiers.:巨人兵たちの足元より黄金の旋風が巻き起こる。}`
-`{ruby:{n}It was a group of countless butterflies.:{n}それは無数の黄金蝶たちの群れ。}`
-`{ruby:...They attached themselves to the massive shields like gold leaf, sparkling like they were a gold mirror.:…それらが金箔のように巨大楯に張り付くと、まるで黄金の鏡のようにぎらぎらと光る。}`
-`{ruby:That was the absolute defensive wall that the King of the Gods gave to the goddess.:それこそは主神が女神に与えた絶対の防御壁。}`
+`{ruby:A golden whirlwind arose at:巨人兵たちの足元より黄金}{ruby:the feet of the Giant Soldiers.:の旋風が巻き起こる。}`
+`{ruby:{n}It was a:{n}それは無数の黄}{ruby:group of countless butterflies.:金蝶たちの群れ。}`
+`{ruby:...They attached themselves to the massive shields like:…それらが金箔のように巨大楯に張り付くと、}{ruby:gold leaf, sparkling like they were a gold mirror.:まるで黄金の鏡のようにぎらぎらと光る。}`
+`{ruby:That was the absolute defensive wall that the:それこそは主神が女神に与}{ruby:King of the Gods gave to the goddess.:えた絶対の防御壁。}`
 `{ruby:{n}The Aegis Shield.:{n}アイギスの楯。}`
-`{ruby:When the holy spear, which left a dignified tail behind it like a comet, crashed into the mountain range of that gold shield,:彗星の如く威厳ある尾を引いた神なる槍がその黄金楯の山脈に激突した時。}`
-`{ruby:there was a terrible thunderous roar.:凄まじい轟音が鳴り響いた。}`
-`{ruby:It was the creaking of the pillars that held up the heavens.:それは天空を支える柱たちが一斉に軋む音。}`
-`{ruby:The Divine Spear spun around and around, sent flying in the direction the sun sets.:神槍はぐるぐると回りながら日の沈む方角へ弾き飛ばされる。}`
+`{ruby:When the holy spear, which left a dignified tail behind it:彗星の如く威厳ある尾を引いた神なる槍}{ruby:like a comet, crashed into the mountain range of that gold shield,:がその黄金楯の山脈に激突した時。}`
+`{ruby:there was a:凄まじい轟音が鳴}{ruby:terrible thunderous roar.:り響いた。}`
+`{ruby:It was the creaking of the:それは天空を支える柱た}{ruby:pillars that held up the heavens.:ちが一斉に軋む音。}`
+`{ruby:The Divine Spear spun around and around,:神槍はぐるぐると回りながら日の}{ruby:sent flying in the direction the sun sets.:沈む方角へ弾き飛ばされる。}`
 `{ruby:"Impossible...:「ありえない…。}`
-`{ruby:Sh‐she defended against the Divine Spear...!!":し、神槍を防いだ…！！」}`
+`{ruby:Sh‐she defended against:し、神槍を防い}{ruby:the Divine Spear...!!":だ…！！」}`
 `{ruby:"No, that is not correct.:「いいえ違います。}`
 `{ruby:The holy spear avoided the impact.:神なる槍がよけたのです。}`
-`{ruby:It is the law of the gods that an absolute spear and an absolute shield must not fight each other.:絶対の槍と絶対の楯は争ってはいけないのが神々の掟。}`
-`{ruby:Although in the end, it means the same thing as defending against it.":それはつまり、防いだのと同じことですがね」}`
-`{ruby:"..................Churlish fighting appears to be the only area in which your skills have improved.":「………………このような荒事ばかり腕をあげましたね」}`
-`{ruby:"Or rather, it seems that you are still as bad as ever at this kind of game, Master.:「むしろお師匠様はこういうお遊びが相変わらず苦手なようで。}`
+`{ruby:It is the law of the gods that an absolute:絶対の槍と絶対の楯は争っては}{ruby:spear and an absolute shield must not fight each other.:いけないのが神々の掟。}`
+`{ruby:Although in the end, it means:それはつまり、防いだのと}{ruby:the same thing as defending against it.":同じことですがね」}`
+`{ruby:"..................Churlish fighting appears to be the only:「………………このような荒事}{ruby:area in which your skills have improved.":ばかり腕をあげましたね」}`
+`{ruby:"Or rather, it seems that you are still as:「むしろお師匠様はこういうお遊び}{ruby:bad as ever at this kind of game, Master.:が相変わらず苦手なようで。}`
 `{ruby:It's my turn to strike back.:妾からのお返しだ。}`
-`{ruby:I shall follow the code and counter a spear with a spear.":法典に則り槍には槍でお返ししましょうぞ」}`
-`{ruby:The Giant Soldier Battle Line, which had fully blocked the Divine Spear, released their holy gold shields.:神槍を防ぎきった巨人兵の戦列は、神なる黄金の楯を手放す。}`
-`{ruby:The shields fell to the earth, making the ground shake.:楯は大地に倒れ、地響きを上げた。}`
-`{ruby:And then another gold whirlwind arose,:すると再び黄金の旋風が巻き起こり、}`
-`{ruby:and the seven gold shields changed their form into seven massive spears of lightning lying on the ground.:７つの黄金の楯を、７つの大地に横たわる巨大な稲妻槍に姿を変える。}`
-`{ruby:In unison, each of the giants lifted a leg high, and firmly stomped on the tips of the handles.:巨人たちは一斉に片足を大きく振り上げると、その柄の先端を強く踏みつける。}`
-`{ruby:As the earth shook with a thunderous sound, the seven lightning spears spun beautifully and flew up above the Giant Soldiers' heads.:轟音と地響きが鳴り響き、７つの稲妻槍が美しく回転しながら巨人兵たちの頭上に飛び上がった。}`
-`{ruby:...They covered everywhere in a spray of gold as they began to fall before the giants.:…それが黄金の飛沫を撒き散らしながら彼らの前に落ちてくる。}`
-`{ruby:Each of the giants squared off, and with the force of their whole body, they kicked and smashed them into pieces.:身構えた巨人たちは、それを渾身の脚力で蹴り砕く。}`
-`{ruby:Those broken pieces numbered exactly 30 each, and became lightning spears of exactly the same size as the original,:砕けた破片はそれぞれきっかり３０を数え、原型とまったく同じ大きさの稲妻槍となり、}`
-`{ruby:which made 210 for all 7 of them; and all of those burst at once,:それが７人で２１０本となり、それらは一斉に爆ぜて、}`
-`{ruby:each splitting into 30 thorns, so that there were 6,300.:さらに各々が３０本の棘に分裂して６３００本となり。}`
-`{ruby:They became a thundercloud barrage, drawing out a beautiful geometric pattern,:美しい幾何学模様を描いた弾幕の雷雲となり、}`
-`{ruby:and then each of those changed into three bolts of lightning, so that 18,900 thunderbolts shot at the Predecessor {f:5:Beatrice}.:さらにそれが全て三叉の稲妻に姿を変え１８９００本の雷撃となって先代のベアトリーチェを撃つ。}`
+`{ruby:I shall follow the code and:法典に則り槍には槍でお}{ruby:counter a spear with a spear.":返ししましょうぞ」}`
+`{ruby:The Giant Soldier Battle Line, which had fully:神槍を防ぎきった巨人兵の戦列は}{ruby:blocked the Divine Spear, released their holy gold shields.:、神なる黄金の楯を手放す。}`
+`{ruby:The shields fell to the:楯は大地に倒れ、地}{ruby:earth, making the ground shake.:響きを上げた。}`
+`{ruby:And then another:すると再び黄金の旋風}{ruby:gold whirlwind arose,:が巻き起こり、}`
+`{ruby:and the seven gold shields changed their form into:７つの黄金の楯を、７つの大地に横た}{ruby:seven massive spears of lightning lying on the ground.:わる巨大な稲妻槍に姿を変える。}`
+`{ruby:In unison, each of the giants lifted a leg:巨人たちは一斉に片足を大きく振り上げる}{ruby:high, and firmly stomped on the tips of the handles.:と、その柄の先端を強く踏みつける。}`
+`{ruby:As the earth shook with a thunderous sound, the seven lightning:轟音と地響きが鳴り響き、７つの稲妻槍が美しく回}{ruby:spears spun beautifully and flew up above the Giant Soldiers' heads.:転しながら巨人兵たちの頭上に飛び上がった。}`
+`{ruby:...They covered everywhere in a spray of gold:…それが黄金の飛沫を撒き散らしな}{ruby:as they began to fall before the giants.:がら彼らの前に落ちてくる。}`
+`{ruby:Each of the giants squared off, and with the force:身構えた巨人たちは、それを}{ruby:of their whole body, they kicked and smashed them into pieces.:渾身の脚力で蹴り砕く。}`
+`{ruby:Those broken pieces numbered exactly 30 each, and became:砕けた破片はそれぞれきっかり３０を数え、原}{ruby:lightning spears of exactly the same size as the original,:型とまったく同じ大きさの稲妻槍となり、}`
+`{ruby:which made 210 for all 7 of:それが７人で２１０本となり、}{ruby:them; and all of those burst at once,:それらは一斉に爆ぜて、}`
+`{ruby:each splitting into 30 thorns,:さらに各々が３０本の棘に分裂}{ruby:so that there were 6,300.:して６３００本となり。}`
+`{ruby:They became a thundercloud barrage,:美しい幾何学模様を描いた}{ruby:drawing out a beautiful geometric pattern,:弾幕の雷雲となり、}`
+`{ruby:and then each of those changed into three bolts of:さらにそれが全て三叉の稲妻に姿を変え１８９００本}{ruby:lightning, so that 18,900 thunderbolts shot at the Predecessor {f:5:Beatrice}.:の雷撃となって先代のベアトリーチェを撃つ。}`
 `{ruby:"It's oveeeeer!!:「決まったぁああぁ！！}`
 `{ruby:{f:5:Beatrice}‐samaaa!!":ベアトリーチェさまぁッ！！」}`
 `{ruby:"I would expect nothing less.:「さすが、やりますね。}`
 `{ruby:......From Madam.":……マダムは」}`
-`{ruby:Certainly, a bundle of almost 20,000 thunderbolts should have reduced the master's body to dust.:２万にも届きかねない稲妻の束は確かに師匠の体を塵に変えたはずだった。}`
+`{ruby:Certainly, a bundle of almost 20,000 thunderbolts:２万にも届きかねない稲妻の束は確かに}{ruby:should have reduced the master's body to dust.:師匠の体を塵に変えたはずだった。}`
 `{ruby:But there was no impact.:しかし手応えがない。}`
-`{ruby:{f:5:Beatrice} knew immediately that she had been fooled.:ベアトリーチェは一杯食わされたとすぐに直感する。}`
-`{ruby:At that moment, from the direction the sun was supposed to set, she felt an impossible ray of sunlight.:その時、日が沈むはずの方角より、ありえない日の出の光を感じた。}`
-`{ruby:A brilliant ray of light shone on her profile.:眩しき一条の光が彼女の横顔を照らす。}`
-`{ruby:It was the figure of the master, holding aloft the spear of the gods that had supposedly been repelled a short while ago.:それはさっき弾かれたはずの神の槍を掲げる師匠の姿。}`
-`{ruby:{n}...She bore a brilliant radiance like the sun on her back, and made it shine on the incarnation of darkness.:{n}…太陽の如き輝きを背負い、暗黒の化身を一条に照らす。}`
-`{ruby:...{f:5:Beatrice}, watching from there,:…そこより見たベアトリーチェは、}`
-`{ruby:was trapped like a mouse in a cage, cornered in a dead‐end formed by the Giant Soldier Battle Line.:巨人兵の戦列で出来た縦の袋小路に自らを追い込んだ袋の鼠。}`
-`{ruby:By now, the Predecessor {f:5:Beatrice} had seized a position directly alongside the Giant Soldier Battle Line.:今、先代ベアトリーチェは巨人兵の戦列を真横から捕らえていた。}`
-`{ruby:"Now we are done playing, {f:5:Beatrice}...!":「これでお遊戯の時間はおしまいですよ、ベアトリーチェ…！」}`
+`{ruby:{f:5:Beatrice} knew immediately that:ベアトリーチェは一杯食わさ}{ruby:she had been fooled.:れたとすぐに直感する。}`
+`{ruby:At that moment, from the direction the sun was:その時、日が沈むはずの方角より、あ}{ruby:supposed to set, she felt an impossible ray of sunlight.:りえない日の出の光を感じた。}`
+`{ruby:A brilliant ray of:眩しき一条の光が彼女}{ruby:light shone on her profile.:の横顔を照らす。}`
+`{ruby:It was the figure of the master, holding aloft the spear:それはさっき弾かれたはずの神}{ruby:of the gods that had supposedly been repelled a short while ago.:の槍を掲げる師匠の姿。}`
+`{ruby:{n}...She bore a brilliant radiance like the sun on her:{n}…太陽の如き輝きを背負い、}{ruby:back, and made it shine on the incarnation of darkness.:暗黒の化身を一条に照らす。}`
+`{ruby:...{f:5:Beatrice}, watching:…そこより見たベア}{ruby:from there,:トリーチェは、}`
+`{ruby:was trapped like a mouse in a cage, cornered:巨人兵の戦列で出来た縦の袋小路}{ruby:in a dead‐end formed by the Giant Soldier Battle Line.:に自らを追い込んだ袋の鼠。}`
+`{ruby:By now, the Predecessor {f:5:Beatrice} had seized a:今、先代ベアトリーチェは巨人兵の}{ruby:position directly alongside the Giant Soldier Battle Line.:戦列を真横から捕らえていた。}`
+`{ruby:"Now we are:「これでお遊戯の時間はおしまいで}{ruby:done playing, {f:5:Beatrice}...!":すよ、ベアトリーチェ…！」}`
 `{ruby:".........H‐have I...:「………こ、こンの妾が、}`
 `{ruby:exposed my flaaaaank......?!":…側面を許しただとぉおぉッ……？！」}`
-`{ruby:Her bold expression hadn't faltered once before now, but now it twisted for the first time.:終始不敵な表情を崩さなかった彼女が初めて表情を歪ませる。}`
-`{ruby:And faster than {f:5:Beatrice} could click her tongue, the Predecessor {f:5:Beatrice} released the holy spear.:そしてベアトリーチェが舌打ちするより早く、先代ベアトリーチェは神なる槍を放つ。}`
-`{ruby:In mid‐air, it sprung up into the air once more, and changed its form once again.:それは空間で一度跳ねて飛び上がると、再びその姿を変えた。}`
+`{ruby:Her bold expression hadn't faltered once before now,:終始不敵な表情を崩さなかった彼}{ruby:but now it twisted for the first time.:女が初めて表情を歪ませる。}`
+`{ruby:And faster than {f:5:Beatrice} could click her:そしてベアトリーチェが舌打ちするより早く、}{ruby:tongue, the Predecessor {f:5:Beatrice} released the holy spear.:先代ベアトリーチェは神なる槍を放つ。}`
+`{ruby:In mid‐air, it sprung up into the air:それは空間で一度跳ねて飛び上が}{ruby:once more, and changed its form once again.:ると、再びその姿を変えた。}`
 `{ruby:"Come, arise, Dvergar brothers.:「さぁさお出でなさい、ドヴェルグの兄弟たち。}`
-`{ruby:Bestow upon me the giant‐smashing Iron Hammer of Heaven!":我に巨人を砕きし天の鉄槌を与え給え！」}`
+`{ruby:Bestow upon me the:我に巨人を砕きし天の鉄}{ruby:giant‐smashing Iron Hammer of Heaven!":槌を与え給え！」}`
 `{ruby:"Giant Soldiers, protect me!!!:「巨人兵どもッ、妾を守れッ！！！}`
-`{ruby:What are you doing, you slowpokes!!!":何をしているかノロマどもッ！！！」}`
-`{ruby:By now it was no longer a spear, but the whirlwind of a massive hammer that raised a sound like a windstorm as it flew through the air.:それはもはや槍でなく、暴風のような音を立てながら飛んでくる巨大なる鎚の旋風。}`
-`{ruby:It was the legendary hammer that had shaken the King of the Frost Giants.:それは霜の巨人の王を震え上がらせた伝説の鎚。}`
-`{ruby:{n}So the Giant Soldiers couldn't escape from that fear.:{n}ゆえに巨人兵たちはその恐怖から逃れられない。}`
-`{ruby:So no matter how much their master ordered them, they couldn't block the path of that hammer.:だからいくら主が命じようとも、その鎚の進路を遮ることができない。}`
+`{ruby:What are you:何をしているかノロマ}{ruby:doing, you slowpokes!!!":どもッ！！！」}`
+`{ruby:By now it was no longer a spear, but the whirlwind of a massive:それはもはや槍でなく、暴風のような音を立}{ruby:hammer that raised a sound like a windstorm as it flew through the air.:てながら飛んでくる巨大なる鎚の旋風。}`
+`{ruby:It was the legendary hammer that had:それは霜の巨人の王を震え}{ruby:shaken the King of the Frost Giants.:上がらせた伝説の鎚。}`
+`{ruby:{n}So the Giant Soldiers:{n}ゆえに巨人兵たちはその}{ruby:couldn't escape from that fear.:恐怖から逃れられない。}`
+`{ruby:So no matter how much their master ordered:だからいくら主が命じようとも、その}{ruby:them, they couldn't block the path of that hammer.:鎚の進路を遮ることができない。}`
 `{ruby:"Back rank mate!:「バックランクメイト！}`
 `{ruby:Rest in peace.":安らかに眠りなさい」}`
-`{ruby:"...Damn iiiiiiiiiiiiiiiit.........!!!":「…ちッくしょおおぉおおおぉ………！！！」}`
-`{ruby:Before the whirlwind of this massive chunk of metal, {f:5:Beatrice} was nothing more than a mere speck.:巨大な鉄塊の旋風の前に、ベアトリーチェなど一粒の豆に過ぎない。}`
-`{ruby:The instant the whirlwind started to suck {f:5:Beatrice} in, {f:5:Beatrice}'s form turned into a massive War Tower.:その旋風がベアトリーチェを飲み込もうとした瞬間、ベアトリーチェの姿が巨大な戦塔に変わる。}`
-`{ruby:The Iron Hammer smashed the War Tower, scattered tremendous amounts of rubble, but it did not reach she who had escaped behind it.:鉄槌は戦塔を砕き、凄まじい瓦礫を撒き散らすが、その後へと逃れていた彼女には届かなかった。}`
-`{ruby:Furthermore, when the smoke started to settle, the War Tower had sucked in the massive Iron Hammer without crumbling, and blocked the way.:しかも噴煙が収まってみると、戦塔は巨大鉄槌を飲み込んだまま崩れず立ちはだかっている。}`
-`{ruby:Even the giant‐smashing Iron Hammer couldn't break through the final tower protecting the witch.:巨人を砕く鉄槌でも、魔女を守る最後の塔は打ち砕けなかったのだ。}`
-`{ruby:However, this War Tower was in fact the witch's last trump card.:しかし、この戦塔は実は魔女の最後の切り札だった。}`
-`{ruby:{n}It was a War Tower for dodging that could only save her from danger once.:{n}危機をたった一度だけ救ってくれる変わり身の戦塔だったのだ。}`
+`{ruby:"...Damn:「…ちッくしょおおぉおお}{ruby:iiiiiiiiiiiiiiiit.........!!!":おぉ………！！！」}`
+`{ruby:Before the whirlwind of this massive chunk of:巨大な鉄塊の旋風の前に、ベアトリー}{ruby:metal, {f:5:Beatrice} was nothing more than a mere speck.:チェなど一粒の豆に過ぎない。}`
+`{ruby:The instant the whirlwind started to suck {f:5:Beatrice}:その旋風がベアトリーチェを飲み込もうとした瞬間}{ruby:in, {f:5:Beatrice}'s form turned into a massive War Tower.:、ベアトリーチェの姿が巨大な戦塔に変わる。}`
+`{ruby:The Iron Hammer smashed the War Tower, scattered tremendous amounts of:鉄槌は戦塔を砕き、凄まじい瓦礫を撒き散らすが、}{ruby:rubble, but it did not reach she who had escaped behind it.:その後へと逃れていた彼女には届かなかった。}`
+`{ruby:Furthermore, when the smoke started to settle, the War Tower had:しかも噴煙が収まってみると、戦塔は巨大鉄槌を}{ruby:sucked in the massive Iron Hammer without crumbling, and blocked the way.:飲み込んだまま崩れず立ちはだかっている。}`
+`{ruby:Even the giant‐smashing Iron Hammer couldn't break:巨人を砕く鉄槌でも、魔女を守る最後}{ruby:through the final tower protecting the witch.:の塔は打ち砕けなかったのだ。}`
+`{ruby:However, this War Tower was in:しかし、この戦塔は実は魔女}{ruby:fact the witch's last trump card.:の最後の切り札だった。}`
+`{ruby:{n}It was a War Tower for dodging:{n}危機をたった一度だけ救ってく}{ruby:that could only save her from danger once.:れる変わり身の戦塔だったのだ。}`
 `{ruby:But this tower was impregnable.:でも、この塔は鉄壁。}`
 `{ruby:No weapon could break through it.:如何なる武器でも打ち砕けない。}`
 `{ruby:Just then, the moon disappeared.:その時、月が消えた。}`
-`{ruby:As {f:5:Beatrice} hid in the shadows of the Giant Soldier Battle Line and the War Tower, she looked up at the sky.:ベアトリーチェは、巨人兵たちの戦列と戦塔の影に潜みながら、空を見上げる。}`
-`{ruby:When she did, inside the moon was the figure of a massive horse ridden by the god of war and death.:すると月の中に、巨大な馬とそれにまたがる戦と死の神の姿が。}`
-`{ruby:The Predecessor {f:5:Beatrice} rode the horse with him.:彼と共に馬上にある先代ベアトリーチェの姿が。}`
-`{ruby:His cloak had blocked the moon and swallowed it in an eerie shadow.:彼のマントは月を遮り不気味な影で月を食んでいた。}`
-`{ruby:{n}And the spear of the gods was in his hand once more...:{n}そしてその手には再び神の槍が…。}`
-`{ruby:It was, in other words, a godly knight who had jumped over the ramparts formed by the Giant Soldiers and the War Tower, attacking from the heavens.:それはつまり、巨人兵の城壁と戦塔を飛び越えて、天空より襲い来る神の騎兵。}`
+`{ruby:As {f:5:Beatrice} hid in the shadows of the Giant Soldier Battle:ベアトリーチェは、巨人兵たちの戦列と戦}{ruby:Line and the War Tower, she looked up at the sky.:塔の影に潜みながら、空を見上げる。}`
+`{ruby:When she did, inside the moon was the figure of:すると月の中に、巨大な馬とそれに}{ruby:a massive horse ridden by the god of war and death.:またがる戦と死の神の姿が。}`
+`{ruby:The Predecessor {f:5:Beatrice} rode:彼と共に馬上にある先代ベ}{ruby:the horse with him.:アトリーチェの姿が。}`
+`{ruby:His cloak had blocked the moon:彼のマントは月を遮り不気味}{ruby:and swallowed it in an eerie shadow.:な影で月を食んでいた。}`
+`{ruby:{n}And the spear of the gods:{n}そしてその手には}{ruby:was in his hand once more...:再び神の槍が…。}`
+`{ruby:It was, in other words, a godly knight who had jumped over the:それはつまり、巨人兵の城壁と戦塔を飛び}{ruby:ramparts formed by the Giant Soldiers and the War Tower, attacking from the heavens.:越えて、天空より襲い来る神の騎兵。}`
 `{ruby:"......*cackle*...:「……くっくっく…。}`
 `{ruby:You got meee...":ぃやられたァァ…」}`
 `{ruby:"Smothered mate.:「スマザードメイト。}`
 `{ruby:It was fun, {f:5:Beatrice}!":楽しかったですよ、ベアトリーチェ！」}`
-`{ruby:"Uuuoooooo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oooo!!!":「うッをおおおおおおぉおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおぉおおおぉッ！！！！」}`
-`{ruby:The struggle to the death between the two witches with the same name...was resolved.:同じ名を名乗った魔女たちの死闘に、決着がつく。}`
-`{ruby:The spear that had been launched from the heavens pierced the ground.:天空より放たれた槍が大地を貫く。}`
-`{ruby:The Giant Soldier Battle Line and the War Tower split up into countless gold butterflies, shrouding the area in a golden storm.:巨人兵の戦列と戦塔が無数の黄金蝶に分解され、辺りを金色の嵐で包んだ。}`
+`{ruby::「うッをおおおおおおぉおおおおおおおおおおおおおおおおおおお}{ruby:"Uuuoooooo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oooo!!!":おおおおおおおおおおおおおおおおぉおおおぉッ！！！！」}`
+`{ruby:The struggle to the death between the:同じ名を名乗った魔女たちの}{ruby:two witches with the same name...was resolved.:死闘に、決着がつく。}`
+`{ruby:The spear that had been launched:天空より放たれた槍}{ruby:from the heavens pierced the ground.:が大地を貫く。}`
+`{ruby:The Giant Soldier Battle Line and the War Tower split up:巨人兵の戦列と戦塔が無数の黄金蝶に分}{ruby:into countless gold butterflies, shrouding the area in a golden storm.:解され、辺りを金色の嵐で包んだ。}`
 `{ruby:Then, the sound of thunder.:そして稲妻の音。}`
-`{ruby:......And the sound of the falling rain and wind.:……そして降りしきる雨と風の音。}`
-`{ruby:Suddenly, that place was the empty rose garden once more.:気付けばそこは、何事もない薔薇庭園。}`
-`{ruby:{n}...The butler and the rest were watching the two witches confronting each other.:{n}…二人の魔女が対峙し、その執事たちが見届けている。}`
-`{ruby:.........But only {f:5:Beatrice} was different.:………しかし、ベアトリーチェだけが違った。}`
-`{ruby:She had been pierced straight through by the spear, from the base of her neck and her right shoulder, to her left buttock,:彼女は一本の槍に、右肩と首の根元から左の臀部までをまっすぐに貫かれ、}`
-`{ruby:unable to even reach the ground with her feet,:地に足を付けることもできぬまま、}`
-`{ruby:...horribly exposed like a pitiful pinned butterfly, tormented by the wind and rain...:…虫ピンで止められた憐れな蝶のように、風雨に苛まれて無様を晒されている…。}`
+`{ruby:......And the sound of:……そして降りしき}{ruby:the falling rain and wind.:る雨と風の音。}`
+`{ruby:Suddenly, that place was the:気付けばそこは、何事}{ruby:empty rose garden once more.:もない薔薇庭園。}`
+`{ruby:{n}...The butler and the rest were:{n}…二人の魔女が対峙し、そ}{ruby:watching the two witches confronting each other.:の執事たちが見届けている。}`
+`{ruby:.........But only:………しかし、ベアトリー}{ruby:{f:5:Beatrice} was different.:チェだけが違った。}`
+`{ruby:She had been pierced straight through by the spear, from the:彼女は一本の槍に、右肩と首の根元から}{ruby:base of her neck and her right shoulder, to her left buttock,:左の臀部までをまっすぐに貫かれ、}`
+`{ruby:unable to even reach:地に足を付けること}{ruby:the ground with her feet,:もできぬまま、}`
+`{ruby:...horribly exposed like a pitiful pinned:…虫ピンで止められた憐れな蝶のように、風}{ruby:butterfly, tormented by the wind and rain...:雨に苛まれて無様を晒されている…。}`
 `{ruby:".........B‐{f:5:Beatrice}‐sama...":「………ベ、ベアトリーチェさま…」}`
 `{ruby:".....................:「…………………。}`
 `{ruby:Truly...:さすが、}`
@@ -457,26 +457,26 @@
 `{ruby:"......Ku,:「……く、}`
 `{ruby:......hihihihi,:……ひひひひ、}`
 `{ruby:......ouch...h...":……痛ェ…ぇ…」}`
-`{ruby:{f:5:Beatrice} wore a bitter smile of false courage,:ベアトリーチェは痩せ我慢のように苦笑いを浮かべるが、}`
-`{ruby:but a strand of blood dangled from her mouth, making her look even more pitiful.:口元からは血の泡が浮き、その憐れさを引き立たせた。}`
-`{ruby:"The title and power of the Endless Witch.:「無限の魔女の称号と力。}`
-`{ruby:You will now return them to me along with the name {f:5:Beatrice}.:そしてベアトリーチェの名を、今こそ返してもらいましょう。}`
-`{ruby:...You are too immature to be called the Endless Witch.":…無限の魔女を語るには、お前は未熟が過ぎます」}`
+`{ruby:{f:5:Beatrice} wore a bitter:ベアトリーチェは痩せ我慢のよ}{ruby:smile of false courage,:うに苦笑いを浮かべるが、}`
+`{ruby:but a strand of blood dangled from:口元からは血の泡が浮き、その}{ruby:her mouth, making her look even more pitiful.:憐れさを引き立たせた。}`
+`{ruby:"The title and power:「無限の魔女の}{ruby:of the Endless Witch.:称号と力。}`
+`{ruby:You will now return them to:そしてベアトリーチェの名を、今}{ruby:me along with the name {f:5:Beatrice}.:こそ返してもらいましょう。}`
+`{ruby:...You are too immature to:…無限の魔女を語るには、お}{ruby:be called the Endless Witch.":前は未熟が過ぎます」}`
 `{ruby:"............Stop...:「…………止めてェ…。}`
 `{ruby:Forgive me, Master...:許しておくれよ、お師匠様ァ…。}`
-`{ruby:I was just fooling around, okay......?":ちょっとふざけただけじゃねぇかよぉ……」}`
+`{ruby:I was just:ちょっとふざけただけじ}{ruby:fooling around, okay......?":ゃねぇかよぉ……」}`
 `{ruby:"I will take my name back from you.:「あなたから我が名を奪います。}`
-`{ruby:I will return you to your original form.:元の姿に戻してあげましょう。}`
-`{ruby:Relinquish this power which is beyond you, and live a life suitable for yourself.":過ぎたる力を手放し、己に相応しい生を全うするが良いでしょう」}`
+`{ruby:I will return you:元の姿に戻してあ}{ruby:to your original form.:げましょう。}`
+`{ruby:Relinquish this power which is beyond you,:過ぎたる力を手放し、己に相応しい}{ruby:and live a life suitable for yourself.":生を全うするが良いでしょう」}`
 `{ruby:".........Come, try to remember.:「………さぁさ、思い出して御覧なさい。}`
 `{ruby:What form did you have?":あなたがどんな姿をしていたのか」}`
-`{ruby:The Predecessor {f:5:Beatrice} began to recite the words of power.:先代ベアトリーチェが力ある言葉を詠い始める。}`
-`{ruby:{n}When she did, small gold butterflies gathered around the skewered {f:5:Beatrice}, and began to swarm about her.:{n}すると串刺しのベアトリーチェの周りに、小さな黄金蝶たちが集まり、そして彼女に群がり始める。}`
-`{ruby:Like butterflies sucking the nectar out of flowers...:蝶たちは花の蜜を舐め取るように。}`
-`{ruby:{n}...they began to suck the magical power out of {f:5:Beatrice}.:{n}…ベアトリーチェの魔力を舐め取り始める。}`
-`{ruby:And it seemed that it caused her intense pain.:そしてそれは、彼女に辛い苦痛を与えているようだった。}`
-`{ruby:{n}A cry of agony escaped from {f:5:Beatrice}'s mouth.:{n}ベアトリーチェの口から苦痛の声が漏れる。}`
-`{ruby:She no longer had any power to resist it...:彼女にはそれに抵抗する力はもはやない…。}`
+`{ruby:The Predecessor {f:5:Beatrice} began to:先代ベアトリーチェが力あ}{ruby:recite the words of power.:る言葉を詠い始める。}`
+`{ruby:{n}When she did, small gold butterflies gathered around:{n}すると串刺しのベアトリーチェの周りに、小さな}{ruby:the skewered {f:5:Beatrice}, and began to swarm about her.:黄金蝶たちが集まり、そして彼女に群がり始める。}`
+`{ruby:Like butterflies sucking the:蝶たちは花の蜜を舐}{ruby:nectar out of flowers...:め取るように。}`
+`{ruby:{n}...they began to suck the:{n}…ベアトリーチェの魔}{ruby:magical power out of {f:5:Beatrice}.:力を舐め取り始める。}`
+`{ruby:And it seemed that:そしてそれは、彼女に辛い苦痛}{ruby:it caused her intense pain.:を与えているようだった。}`
+`{ruby:{n}A cry of agony:{n}ベアトリーチェの口か}{ruby:escaped from {f:5:Beatrice}'s mouth.:ら苦痛の声が漏れる。}`
+`{ruby:She no longer had:彼女にはそれに抵抗する}{ruby:any power to resist it...:力はもはやない…。}`
 `{ruby:"Come, try closing your eyes.:「さぁさ、目を閉じて御覧なさい。}`
 `{ruby:Try to remember.:思い出して御覧なさい。}`
 `{ruby:What form did you have?":あなたがどんな姿をしていたのか」}`
@@ -484,157 +484,157 @@
 `{ruby:Repeat it with me.:あなたも私と一緒に復唱なさい。}`
 `{ruby:Let us chant together.:一緒にお唄を歌いましょう。}`
 `{ruby:Then it will be over in no time.:そうすればすぐに終わりますよ。}`
-`{ruby:Let us end your pain as fast as possible.":あなたの苦痛が、少しでも早く終わります」}`
+`{ruby:Let us end your:あなたの苦痛が、少しで}{ruby:pain as fast as possible.":も早く終わります」}`
 `{ruby:"...Kuhihihi,:「…くひひひ、}`
 `{ruby:......ha,:……は、}`
 `{ruby:...haha...:…はは…。}`
 `{ruby:......You're right...:……そうだなぁ…。}`
 `{ruby:How long has it been...:お師匠様と一緒にお唄を歌うなんて、}`
-`{ruby:......since I chanted with you, Master......":………どれくらいぶりかなァ……」}`
+`{ruby:......since I chanted:………どれくらいぶ}{ruby:with you, Master......":りかなァ……」}`
 `{ruby:"Now, together.:「さぁ、一緒に。}`
 `{ruby:.........Come, try to remember.:………さぁさ、思い出して御覧なさい。}`
 `{ruby:What form did you have?":あなたがどんな姿をしていたのか」}`
 `{ruby:"......Come, try to remember.:「……さぁさ、思い出して御覧なさい。}`
 `{ruby:What form did you have...?":あなたがどんな姿をしていたのか…」}`
-`{ruby:When the two of them began to recite the same chant,:二人が同じ唄を詠い始めると、}`
-`{ruby:more and more gold butterflies danced around, swarming around {f:5:Beatrice}...:黄金の蝶たちはますますに舞い上がり、ベアトリーチェに群がっていく…。}`
+`{ruby:When the two of them:二人が同じ唄を詠}{ruby:began to recite the same chant,:い始めると、}`
+`{ruby:more and more gold butterflies:黄金の蝶たちはますますに舞い上がり、}{ruby:danced around, swarming around {f:5:Beatrice}...:ベアトリーチェに群がっていく…。}`
 `{ruby:".........It's alright, Milady.:「………大丈夫ですよ、お嬢様。}`
-`{ruby:You will lose the fact that you are my disciple,:あなたは私の弟子であることを失いますが、}`
-`{ruby:but that will not change the fact that you are the lady I serve.":私の仕えるお嬢様であることに変わりはありません」}`
-`{ruby:"...After that, I shall read a book for you again.:「…そうしたら、また一緒にご本を読んで差し上げましょう。}`
+`{ruby:You will lose the fact:あなたは私の弟子である}{ruby:that you are my disciple,:ことを失いますが、}`
+`{ruby:but that will not change the fact:私の仕えるお嬢様であること}{ruby:that you are the lady I serve.":に変わりはありません」}`
+`{ruby:"...After that, I shall read:「…そうしたら、また一緒にご本}{ruby:a book for you again.:を読んで差し上げましょう。}`
 `{ruby:I shall bake you apple pies again.:リンゴのパイを焼いて差し上げましょう。}`
 `{ruby:Just like it was long ago.:昔のように。}`
 `{ruby:......Come, try to remember.":……さぁさ、思い出して御覧なさい」}`
 `{ruby:"......Hahahahahaha...:「……はははははは…。}`
 `{ruby:Yes, try to remember.:あぁ、思い出して御覧なさい。}`
-`{ruby:...Are you finally starting to remember...?:…そろそろ思い出せてきたかなぁ…。}`
+`{ruby:...Are you finally:…そろそろ思い出せて}{ruby:starting to remember...?:きたかなぁ…。}`
 `{ruby:............Well, Master.:…………なぁ、お師匠様。}`
 `{ruby:Did you remember...:あんたの後にあるそれ、}`
 `{ruby:...that thing behind yooou...?":……思い出したかなァ…？」}`
 `{ruby:"...What is this...?:「…何ですか…？}`
-`{ruby:.................................This is...":…………………………………これは」}`
-`{ruby:When the Predecessor {f:5:Beatrice} looked behind her,:先代ベアトリーチェが後を振り返ると、}`
-`{ruby:............there was a creepy hedgehog crouching there.:…………そこには不気味な針鼠がうずくまっていた。}`
+`{ruby:.................................This:…………………………}{ruby:is...":………これは」}`
+`{ruby:When the Predecessor:先代ベアトリーチェが}{ruby:{f:5:Beatrice} looked behind her,:後を振り返ると、}`
+`{ruby:............there was a:…………そこには不気味な針}{ruby:creepy hedgehog crouching there.:鼠がうずくまっていた。}`
 `{ruby:No.:違う。}`
 `{ruby:...It was...:…それは、}`
 `{ruby:...herself.:……彼女自身だった。}`
-`{ruby:There was another Predecessor {f:5:Beatrice}, whose whole body was packed with ballista shots,:先代ベアトリーチェがもうひとりいて、全身にバリスタ弾をびっしりと喰らって、}`
-`{ruby:......lying there like a pincushion doll...:……まるで、針刺し人形のようになって横たわっているのだ…。}`
+`{ruby:There was another Predecessor {f:5:Beatrice}, whose:先代ベアトリーチェがもうひとりいて、全身}{ruby:whole body was packed with ballista shots,:にバリスタ弾をびっしりと喰らって、}`
+`{ruby:......lying there like:……まるで、針刺し人形のようにな}{ruby:a pincushion doll...:って横たわっているのだ…。}`
 `{ruby:"......Come, try to remember.:「……さぁさ、思い出して御覧なさい。}`
 `{ruby:What form did you have?:あなたがどんな姿をしていたのか。}`
 `{ruby:......No, I suppose that's wrong.":……違うか」}`
 `{ruby:"......Come, try to remember.:「……さぁさ、思い出して御覧なさい。}`
 `{ruby:How were you killed?:あなたがどうやって殺されたのか。}`
-`{ruby:......Kuhihihii, kuhya{0}hhya{0}hhya{0}hhaa{0}a{0}a{0}aaahh!!":……くっひひひい、くっひゃっひゃっひゃっはあああぁああぁ！！」}`
-`{ruby:The Predecessor {f:5:Beatrice} was shocked.:呆然とする先代ベアトリーチェ。}`
-`{ruby:...Instantly, her form began to grow faint...:…次第にその姿が薄くなっていく…。}`
+`{ruby:......Kuhihihii,:……くっひひひい、くっひゃっひゃっ}{ruby:kuhya{0}hhya{0}hhya{0}hhaa{0}a{0}a{0}aaahh!!":ひゃっはあああぁああぁ！！」}`
+`{ruby:The Predecessor:呆然とする先代ベア}{ruby:{f:5:Beatrice} was shocked.:トリーチェ。}`
+`{ruby:...Instantly, her form:…次第にその姿が薄く}{ruby:began to grow faint...:なっていく…。}`
 `{ruby:"This......:「これは……、}`
 `{ruby:......When...did you............":……いつの間…に…………」}`
-`{ruby:"In the beginning, I did not summon Shoulder Towers.:「最初に呼んだのは双肩の塔ではない。}`
+`{ruby:"In the beginning, I:「最初に呼んだのは双}{ruby:did not summon Shoulder Towers.:肩の塔ではない。}`
 `{ruby:They were Quadruplet Towers.:四つ子の塔だったのよ。}`
-`{ruby:Master, you nonchalantly stepped across the Seventh Rank Rook boundary of death created by the two hidden towers,:お師匠様の左右遥かに潜んだ隠し塔が描く、セブンスランクルークの死の境界線を、}`
-`{ruby:which were lurking in the distance on either side of you.":お師匠様はのこのこと踏み越えてきてくれた」}`
-`{ruby:"......It was bad manners for me to say "check" so late.:「……チェックの発声が遅れてしまったことだけはマナー違反。}`
+`{ruby:Master, you nonchalantly stepped across the Seventh Rank Rook:お師匠様の左右遥かに潜んだ隠し塔が描く、}{ruby:boundary of death created by the two hidden towers,:セブンスランクルークの死の境界線を、}`
+`{ruby:which were lurking in the:お師匠様はのこのこと踏み}{ruby:distance on either side of you.":越えてきてくれた」}`
+`{ruby:"......It was bad manners for:「……チェックの発声が遅れてしま}{ruby:me to say "check" so late.:ったことだけはマナー違反。}`
 `{ruby:Let me openly apologize.:率直に謝ろうぞ。}`
 `{ruby:...*cackle*cackle*cackle*!":…くっくっくっくっくっく！」}`
-`{ruby:The battle had been decided at the very beginning.:戦いは、一番最初に決していたのだ。}`
-`{ruby:It had been over since the time the Predecessor had leaned forward, readying her holy spear to attack {f:5:Beatrice}, who had been wedged between her Shoulder Towers.:双肩の塔に挟まれたベアトリーチェを討つために、先代が身を乗り出し神なる槍を構えた時。}`
-`{ruby:...The hidden towers lurking on either side had bathed her in a windstorm of ballista shots from 720 ports on both sides,:…左右に潜んでいた隠し塔は、左右から７２０の銃眼にてバリスタ弾の暴風を浴びせ、}`
+`{ruby:The battle had been:戦いは、一番最初に決}{ruby:decided at the very beginning.:していたのだ。}`
+`{ruby:It had been over since the time the Predecessor had leaned forward, readying:双肩の塔に挟まれたベアトリーチェを討つために}{ruby:her holy spear to attack {f:5:Beatrice}, who had been wedged between her Shoulder Towers.:、先代が身を乗り出し神なる槍を構えた時。}`
+`{ruby:...The hidden towers lurking on either side had bathed her in:…左右に潜んでいた隠し塔は、左右から７２０}{ruby:a windstorm of ballista shots from 720 ports on both sides,:の銃眼にてバリスタ弾の暴風を浴びせ、}`
 `{ruby:pinning and killing her.:彼女をすでに挟み殺していたのだ。}`
-`{ruby:However, {f:5:Beatrice} hadn't wanted it to be resolved with that.:しかし、ベアトリーチェはそれで決したくなかった。}`
-`{ruby:{n}She had wanted to make her master take her next move, and had continued acting as though the game was still on.:{n}師匠の次の手を続けさせて、ゲームのリレーを続けたかったのだ。}`
-`{ruby:She had immediately revived her with the Endless power,:即座に彼女を無限の力によって蘇らせ、}`
-`{ruby:...and had made her continue the game as though nothing had happened...:…さも当然のようにゲームを続けさせていた…。}`
-`{ruby:Then the Predecessor slowly remembered that she had already been killed,:そして彼女は自らがすでに殺されていたことを徐々に思い出し、}`
-`{ruby:......and began to completely erase her form.:……姿を完全に消していく。}`
-`{ruby:When she did, the spear which had pierced {f:5:Beatrice} also erased itself.:するとベアトリーチェを貫いていた槍も姿を消した。}`
-`{ruby:{f:5:Beatrice} finally fell and landed on her feet.:ベアトリーチェはようやく大地に降り立つ。}`
-`{ruby:{n}...There wasn't even a trace of a scar.:{n}…傷跡など、わずかほども残っていなかった。}`
+`{ruby:However, {f:5:Beatrice} hadn't wanted it:しかし、ベアトリーチェはそ}{ruby:to be resolved with that.:れで決したくなかった。}`
+`{ruby:{n}She had wanted to make her master take her next move,:{n}師匠の次の手を続けさせて、ゲー}{ruby:and had continued acting as though the game was still on.:ムのリレーを続けたかったのだ。}`
+`{ruby:She had immediately revived:即座に彼女を無限の力}{ruby:her with the Endless power,:によって蘇らせ、}`
+`{ruby:...and had made her continue the:…さも当然のようにゲーム}{ruby:game as though nothing had happened...:を続けさせていた…。}`
+`{ruby:Then the Predecessor slowly remembered:そして彼女は自らがすでに殺されて}{ruby:that she had already been killed,:いたことを徐々に思い出し、}`
+`{ruby:......and began to:……姿を完全に消}{ruby:completely erase her form.:していく。}`
+`{ruby:When she did, the spear which:するとベアトリーチェを貫い}{ruby:had pierced {f:5:Beatrice} also erased itself.:ていた槍も姿を消した。}`
+`{ruby:{f:5:Beatrice} finally fell and:ベアトリーチェはようや}{ruby:landed on her feet.:く大地に降り立つ。}`
+`{ruby:{n}...There wasn't even a:{n}…傷跡など、わずかほ}{ruby:trace of a scar.:ども残っていなかった。}`
 `{ruby:".........It was fun,:「………楽しかったぞ、}`
 `{ruby:Master.:お師匠様。}`
-`{ruby:If you want to play again, I'll revive you any time.:また遊びたくなったら、いつでも蘇らせてやるよ。}`
-`{ruby:And once we've had some fun, I'll make you remember that you were a corpse again.":それで適当に遊んだら、死体だったことをまた思い出させてやるからさぁ」}`
+`{ruby:If you want to play:また遊びたくなったら、いつ}{ruby:again, I'll revive you any time.:でも蘇らせてやるよ。}`
+`{ruby:And once we've had some fun, I'll make:それで適当に遊んだら、死体だったこと}{ruby:you remember that you were a corpse again.":をまた思い出させてやるからさぁ」}`
 `{ruby:"Okay?:「な？}`
-`{ruby:I'm fully obeying what you taught me, you know...?:ちゃんとあんたの言いつけは守ってるぜ…？}`
-`{ruby:Didn't you say to always put a toy back in its box when you are done playing with it?:玩具は、遊び終わったらちゃんと玩具箱にしまいましょうってなぁ？}`
-`{ruby:*cackle*cackle*, hahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":くっくっくっく、はっはははははははははははははははははははッ！！」}`
+`{ruby:I'm fully obeying what:ちゃんとあんたの言いつけ}{ruby:you taught me, you know...?:は守ってるぜ…？}`
+`{ruby:Didn't you say to always put a toy back:玩具は、遊び終わったらちゃんと玩具}{ruby:in its box when you are done playing with it?:箱にしまいましょうってなぁ？}`
+`{ruby:*cackle*cackle*,:くっくっくっく、はっはははははははは}{ruby:hahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!":はははははははははははッ！！」}`
 `{ruby:"......Was it...an easy victory?":「……楽勝、でございますかな？」}`
-`{ruby:"You fool, it was a difficult victory!!:「愚かなッ、辛勝だッ！！}`
-`{ruby:............If I hadn't tricked her with the Quadruplet Towers, I would have been the one to die!:…………四つ子塔で騙せてなかったら死んでおったのは妾の方よッ！}`
-`{ruby:......As I would expect from my master.:……さすがはお師匠様。}`
+`{ruby:"You fool, it:「愚かなッ、辛}{ruby:was a difficult victory!!:勝だッ！！}`
+`{ruby:............If I hadn't tricked her with the Quadruplet:…………四つ子塔で騙せてなかったら}{ruby:Towers, I would have been the one to die!:死んでおったのは妾の方よッ！}`
+`{ruby:......As I would:……さすがはお}{ruby:expect from my master.:師匠様。}`
 `{ruby:.........But now I may feel proud.":………だがこれで胸が張れるというもの」}`
-`{ruby:"...Now, I have completely surpassed my master.:「…妾は今こそ、お師匠様を完全に超えたとな。}`
+`{ruby:"...Now, I have:「…妾は今こそ、お師匠様}{ruby:completely surpassed my master.:を完全に超えたとな。}`
 `{ruby:Ronove.:ロノウェ。}`
-`{ruby:Make Master's remains a little better.:お師匠様の亡骸をもう少しマシにしておけ。}`
-`{ruby:......I haven't lost my respect for her that much.":……妾もそこまで敬意を失ってはおらぬでな」}`
+`{ruby:Make Master's remains:お師匠様の亡骸をもう少}{ruby:a little better.:しマシにしておけ。}`
+`{ruby:......I haven't lost my:……妾もそこまで敬意を失}{ruby:respect for her that much.":ってはおらぬでな」}`
 `{ruby:"Certainly.:「かしこまりました。}`
-`{ruby:Tonight's first twilight became a little too riotous.:今宵の第一の晩は、少々派手に暴れすぎました。}`
+`{ruby:Tonight's first twilight became:今宵の第一の晩は、少々派}{ruby:a little too riotous.:手に暴れすぎました。}`
 `{ruby:It will require some cleaning up.:少しは片付けも必要でしょう。}`
 `{ruby:It shall be handled immediately.:すぐに取り掛かります。}`
 `{ruby:Goats, it is time to clean up.":山羊たちよ、お片づけの時間ですよ」}`
-`{ruby:When Ronove snapped his fingers, blazing, sparkling eyes began to blink open in the shadows and darkness,:ロノウェが指を鳴らすと、闇や影に爛々と輝く眼がぱちくりぱちくりと現れ、}`
-`{ruby:becoming goat‐headed attendants, which appeared one after another, slowly out of the black.:山羊頭の従者となって、次々ぬぅっと現れる。}`
-`{ruby:One by one, they lined up behind Ronove's back, wordlessly standing at attention.:それらは無言で畏まりながらロノウェの背後に次々並んだ。}`
-`{ruby:"What shall be done about the six bodies this time?:「この度は、６人の遺体をどのようにいたしますか？}`
+`{ruby:When Ronove snapped his fingers, blazing, sparkling eyes:ロノウェが指を鳴らすと、闇や影に爛々と}{ruby:began to blink open in the shadows and darkness,:輝く眼がぱちくりぱちくりと現れ、}`
+`{ruby:becoming goat‐headed attendants, which appeared one:山羊頭の従者となって、次}{ruby:after another, slowly out of the black.:々ぬぅっと現れる。}`
+`{ruby:One by one, they lined up:それらは無言で畏まりながらロノ}{ruby:behind Ronove's back, wordlessly standing at attention.:ウェの背後に次々並んだ。}`
+`{ruby:"What shall be done about:「この度は、６人の遺体をど}{ruby:the six bodies this time?:のようにいたしますか？}`
 `{ruby:Another locked‐room format?":また密室形式に？」}`
-`{ruby:"......I am not in a mood to think now.:「……妾は今、それを考える気分にない。}`
+`{ruby:"......I am not in:「……妾は今、それを考}{ruby:a mood to think now.:える気分にない。}`
 `{ruby:I will leave it to you.:ロノウェに任す。}`
-`{ruby:...An extraordinary locked room to torment Battler, if you would.":…戦人を悩ませるような、飛びっきりの密室を頼むぞ」}`
+`{ruby:...An extraordinary locked room to:…戦人を悩ませるような、飛び}{ruby:torment Battler, if you would.":っきりの密室を頼むぞ」}`
 `{ruby:"Certainly.:「かしこまりました。}`
 `{ruby:It shall be extraordinary.":それでは飛び切りのを」}`
-`{ruby:"*cackle*cackle*cackle*, hahhhahaha{0}ha{0}ha{0}ha{0}hahaha...!!:「くっくくくくく、はっははははははははは…！！}`
+`{ruby:"*cackle*cackle*cackle*,:「くっくくくくく、はっはは}{ruby:hahhhahaha{0}ha{0}ha{0}ha{0}hahaha...!!:ははははははは…！！}`
 `{ruby:Allllright, where is Battler?:そぅれ、戦人はどこだぁ？}`
-`{ruby:Battleeeeer, did you watch my big momeeeeeeeeent??":戦人ぁああぁ、妾の大活躍、見ィたぁあぁあああぁぁ？？」}`
+`{ruby:Battleeeeer, did you:戦人ぁああぁ、妾の大活躍、見ィ}{ruby:watch my big momeeeeeeeeent??":たぁあぁあああぁぁ？？」}`
 `{ruby:".........Damn iiiiiiiiit...:「………畜生ぉおおぉおぉ…。}`
-`{ruby:After being shown that screwed up magical storm, what can I deny?!":今の滅茶苦茶な魔法の嵐を見せ付けられて、俺は何を否定すればいいんだ？！」}`
+`{ruby:After being shown that screwed up:今の滅茶苦茶な魔法の嵐を見せ付けられて}{ruby:magical storm, what can I deny?!":、俺は何を否定すればいいんだ？！」}`
 `{ruby:"Do witches exist, I ask?!:「魔女はいるも何も！}`
 `{ruby:After all those kabooms and kabangs,:あんなどっかんどっかん、}`
-`{ruby:after being shown all that tremendous fantasy, what can I deny now?!!:凄まじいファンタジーを見せ付けられて、今の俺は何を否定すりゃいいんだよ！！}`
+`{ruby:after being shown all that tremendous:凄まじいファンタジーを見せ付けられて、今}{ruby:fantasy, what can I deny now?!!:の俺は何を否定すりゃいいんだよ！！}`
 `{ruby:I don't get it anymore!:もうわかんねぇッ！}`
-`{ruby:It was like that last time too, but how can I deny that awesome, wonderful magical battle?!":前回もそうだが、このイカス素敵なマジカルバトルをどう否定すりゃいいんだよッ？！」}`
+`{ruby:It was like that last time too, but:前回もそうだが、このイカス素敵なマジカルバト}{ruby:how can I deny that awesome, wonderful magical battle?!":ルをどう否定すりゃいいんだよッ？！」}`
 `{ruby:"I knoo~w, rii~ght?!:「だぁ〜よなぁ〜？！}`
-`{ruby:After watching this, you can't talk your way out of it anymore, caaaan youuuuu???:こんなの見ちまったらもう言い逃れは出来ねェもんなぁああぁ？？？}`
-`{ruby:Alright, Battler, let me hear some ridiculous reasoning, kuhhi{0}hhyah{0}hyahhya!:さぁ戦人ぁ、トンデモ推理を聞かせてくれよォ、くっひひゃっひゃっひゃっひゃッ！}`
+`{ruby:After watching this, you can't talk your:こんなの見ちまったらもう言い逃れは}{ruby:way out of it anymore, caaaan youuuuu???:出来ねェもんなぁああぁ？？？}`
+`{ruby:Alright, Battler, let me:さぁ戦人ぁ、トンデモ推理を聞かせてくれよォ}{ruby:hear some ridiculous reasoning, kuhhi{0}hhyah{0}hyahhya!:、くっひひゃっひゃっひゃっひゃッ！}`
 `{ruby:Uhhiehhiehhyaaahhh!!":うっひぇっひぇっひぇっひゃああぁあぁッ！！」}`
 `{ruby:"Milady, your laugh is undignified.":「お嬢様、笑いに品がございませんよ」}`
 `{ruby:"Oh, my apologies.:「おお、これは済まぬ。}`
 `{ruby:But I am not to blame.":しかし妾の責任ではないぞ」}`
-`{ruby:"After all, when Battler tightly closes his eyes, grinds his teeth and shows me that ever‐so‐bitter expression,:「何しろ戦人に、キュゥっと両目を硬く閉じてキリキリギリギリ歯軋りする、なぁんとも悔しそうなその表情を見せられると、}`
-`{ruby:it just automatically slips out of my mouth, you seeee...:自然と妾の口から零れてしまうものでなぁああぁ…。}`
+`{ruby:"After all, when Battler tightly closes his eyes,:「何しろ戦人に、キュゥっと両目を硬く閉じてキリキリギリギリ歯}{ruby:grinds his teeth and shows me that ever‐so‐bitter expression,:軋りする、なぁんとも悔しそうなその表情を見せられると、}`
+`{ruby:it just automatically slips out:自然と妾の口から零れてしま}{ruby:of my mouth, you seeee...:うものでなぁああぁ…。}`
 `{ruby:Kuhhihihhyahhyahaah!!":くっひひっひゃっひゃっはァ！！」}`
 `{ruby:"Come, Battler‐sama.:「さぁ、戦人さま。}`
-`{ruby:Why don't you return to the table without losing heart?:挫けずにテーブルへお戻りを。}`
-`{ruby:Milady is expecting your counterattack, you see...?":お嬢様は戦人さまの反撃を期待されておりますよ…？」}`
+`{ruby:Why don't you return to:挫けずにテーブル}{ruby:the table without losing heart?:へお戻りを。}`
+`{ruby:Milady is expecting:お嬢様は戦人さまの反撃を期待}{ruby:your counterattack, you see...?":されておりますよ…？」}`
 `{ruby:"Fuck you!!:「ふざけるなッ！！}`
-`{ruby:How the hell can I make a counterargument?!":何をどう反論すりゃいいってんだッ？！」}`
-`{ruby:"In the first place, this has all been fucked up since about the time that the tower sprouted up out of the earth!!:「まず、あの塔が地面から生えてきた辺りからもう滅茶苦茶だろうがッ！！}`
-`{ruby:Should I say that, actually, underground on Rokkenjima, there's a secret laboratory for massive transforming combining robots or something,:実は六軒島の地下に、合体変形巨大ロボの秘密研究所でもあって、}`
-`{ruby:and that by pushing a button, a strange tower sprouts up?!":ボタンひとつでおかしな塔が生えてくるってのか？！」}`
-`{ruby:"Right, and then those huge giants must be robots,:「あぁそれならあのデケェ巨人どもはきっとロボットだぜ、}`
-`{ruby:or maybe an evil secret association's mecha‐monsters?!":あるいは悪の秘密結社のメカ怪獣かもな？！」}`
+`{ruby:How the hell can:何をどう反論すりゃいい}{ruby:I make a counterargument?!":ってんだッ？！」}`
+`{ruby:"In the first place, this has all been fucked up since:「まず、あの塔が地面から生えてきた辺}{ruby:about the time that the tower sprouted up out of the earth!!:りからもう滅茶苦茶だろうがッ！！}`
+`{ruby:Should I say that, actually, underground on Rokkenjima, there's:実は六軒島の地下に、合体変形巨大ロ}{ruby:a secret laboratory for massive transforming combining robots or something,:ボの秘密研究所でもあって、}`
+`{ruby:and that by pushing a:ボタンひとつでおかしな塔が生}{ruby:button, a strange tower sprouts up?!":えてくるってのか？！」}`
+`{ruby:"Right, and then those:「あぁそれならあのデケェ巨人ど}{ruby:huge giants must be robots,:もはきっとロボットだぜ、}`
+`{ruby:or maybe an:あるいは悪の秘密結社のメ}{ruby:evil secret association's mecha‐monsters?!":カ怪獣かもな？！」}`
 `{ruby:"It makes no goddamn sense!!:「わけわかんねぇえよ！！}`
-`{ruby:Don't talk to meeeeeeeeeee, uuo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oohhh!!!":俺に話し掛けるんじゃねええええぇええぇ、うおおおおぉおおおおおおおぉおッ！！！」}`
-`{ruby:"C'mon c'mon c'mon c'mon, don't cry, alright??:「ほらほらほらほら、泣くなよォ？？}`
+`{ruby:Don't talk:俺に話し掛けるんじゃねええええぇええぇ、うお}{ruby:to meeeeeeeeeee, uuo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oohhh!!!":おおおぉおおおおおおおぉおッ！！！」}`
+`{ruby:"C'mon c'mon c'mon:「ほらほらほらほら、}{ruby:c'mon, don't cry, alright??:泣くなよォ？？}`
 `{ruby:Kaboom, kabang, it's magic!!":魔法でどっかんどっかんッ！！」}`
-`{ruby:"If you want, I'll crush the moon and make comets fall like rain!:「そなたが望むなら、月だって砕くし、彗星を雨のようにだって降らすさぁ！}`
-`{ruby:I can even bury the whole island in those bouncy‐chested babes you like so much, seeeeeeeeee??:お前好みのムチムチ姉ちゃんで島を埋め尽くしてやってもいいんだぜぇええぇ？？}`
+`{ruby:"If you want, I'll crush the:「そなたが望むなら、月だって砕くし、彗}{ruby:moon and make comets fall like rain!:星を雨のようにだって降らすさぁ！}`
+`{ruby:I can even bury the whole island in:お前好みのムチムチ姉ちゃんで島を埋め尽く}{ruby:those bouncy‐chested babes you like so much, seeeeeeeeee??:してやってもいいんだぜぇええぇ？？}`
 `{ruby:Hihhihhihhihhi!!":ひっひっひっひ！！」}`
-`{ruby:"Come come, look look look, my turn is over, seeeeeeeeee?!:「さぁさぁ、ほらほらほら、妾の手番は終わったぜえええぇえ？！}`
-`{ruby:Show me your response, counterattack!!:受け手を指せよ、反撃しろよ！！}`
+`{ruby:"Come come, look look look,:「さぁさぁ、ほらほらほら、妾の手}{ruby:my turn is over, seeeeeeeeee?!:番は終わったぜえええぇえ？！}`
+`{ruby:Show me:受け手を指せよ、反}{ruby:your response, counterattack!!:撃しろよ！！}`
 `{ruby:You can't, can yoooooouuu?:出来ねぇだろォオオォ？}`
-`{ruby:I'm a quadrillion percent sure that you can't!!:出来ねぇのは千兆も承知よォ！！}`
-`{ruby:You're useless against this, riiiiiiiiiight?:お前、こういうのダメだもんなぁあぁあぁ？}`
-`{ruby:You actually like this kind of fantasy, don't yooooouuu??":こういうファンタジー、本当は大好きなんだもんなああぁ？？」}`
-`{ruby:"I know all about it, this kind of stuff's been going around everywhere lately hasn't it?!:「知ってんダヨ、今時こんなの巷にいくらでも溢れてるじゃねぇかァ？！}`
-`{ruby:In manga and light novels, in anime and movies!:漫画に小説、アニメに映画ッ！}`
-`{ruby:Some teenage brat has a whole bunch of some strange special abilities, and there's all these kabooms and badooms with the fate of the world at risk!":１０代くらいのガキンチョたちがおかしな特殊能力いっぱい持ってて、世界の命運かけてドッカンバッカンやるやつぅ！」}`
+`{ruby:I'm a quadrillion percent:出来ねぇのは千兆も}{ruby:sure that you can't!!:承知よォ！！}`
+`{ruby:You're useless:お前、こういうのダメだも}{ruby:against this, riiiiiiiiiight?:んなぁあぁあぁ？}`
+`{ruby:You actually like this:こういうファンタジー、本当は大好}{ruby:kind of fantasy, don't yooooouuu??":きなんだもんなああぁ？？」}`
+`{ruby:"I know all about it, this kind of:「知ってんダヨ、今時こんなの巷にいく}{ruby:stuff's been going around everywhere lately hasn't it?!:らでも溢れてるじゃねぇかァ？！}`
+`{ruby:In manga and light:漫画に小説、アニメ}{ruby:novels, in anime and movies!:に映画ッ！}`
+`{ruby:Some teenage brat has a whole bunch of some strange special abilities, and:１０代くらいのガキンチョたちがおかしな特殊能力いっぱい持っ}{ruby:there's all these kabooms and badooms with the fate of the world at risk!":てて、世界の命運かけてドッカンバッカンやるやつぅ！」}`
 `{ruby:"You looove that too, don't you?!:「お前も大好きだもんなァッ？！}`
-`{ruby:I know, don't hide it, you love it, right, hiihyahhyahhyah!!:知ってんだよ隠すなよ、大好きじゃねぇえかよぉ、ひーひゃっひゃっひゃッ！！}`
-`{ruby:That thing that you love just displayed itself a little before your eyes, that's all, riiiiight?":その、お前の大好きなヤツがちょいと目の前で披露されただけじゃねぇえかよォ？」}`
-`{ruby:"Why do you believe it in manga and anime, but you won't believe in meeeeeeeeee??:「どうして漫画やアニメのそれは信じてくれるのに、妾のだけ信じてくれねぇんだよぉおお？？}`
+`{ruby:I know, don't hide it,:知ってんだよ隠すなよ、大好きじゃねぇえか}{ruby:you love it, right, hiihyahhyahhyah!!:よぉ、ひーひゃっひゃっひゃッ！！}`
+`{ruby:That thing that you love just displayed itself:その、お前の大好きなヤツがちょいと目の前で}{ruby:a little before your eyes, that's all, riiiiight?":披露されただけじゃねぇえかよォ？」}`
+`{ruby:"Why do you believe it in manga:「どうして漫画やアニメのそれは信じてくれるのに}{ruby:and anime, but you won't believe in meeeeeeeeee??:、妾のだけ信じてくれねぇんだよぉおお？？}`
 `{ruby:Believe, believe, believe it!:信じろよ信じろよ、信じちまえよ！}`
-`{ruby:You can't argue back, not after you've been shown something like this, riiiiiiiiiiiiight?":反論なんかできねぇさ、こうして見せられちまったんだからなぁあああ？」}`
+`{ruby:You can't argue back, not after:反論なんかできねぇさ、こうして見せられ}{ruby:you've been shown something like this, riiiiiiiiiiiiight?":ちまったんだからなぁあああ？」}`
 `{ruby:"C'mon c'mon c'mon c'mon, answer me,:「ほらほらほらほら、返事をしろよ、}`
-`{ruby:you don't need to think, you can just obediently say "I'm sorry, {f:5:Beatrice}‐sama"!":思考はいらねぇ、素直にごめんなさいベアトリーチェさまって言やぁいいんだよ！」}`
-`{ruby:"Come on come on try saying it, "I'm sorry, {f:5:Beatrice}‐sama", try saying it, say it say it, don't be embarrassed,:「ほらほら言ってみろごめんなさいベアトリーチェさまって言ってみろ言えよ言えよ恥ずかしがるなよ、}`
-`{ruby:kukikiki{0}kak{0}ka{0}ka{0}kah{0}hyah{0}hya{0}a{0}a{0}ah{0}ha{0}hha{0}hha{0}ha{0}hhha{0}hahhya{0}aahh!!":くっききききかっかかかかっひゃっひゃああっはっはっはっはっはっひゃああぁッ！！」}`
+`{ruby:you don't need to think, you:思考はいらねぇ、素直にごめんなさいベアト}{ruby:can just obediently say "I'm sorry, {f:5:Beatrice}‐sama"!":リーチェさまって言やぁいいんだよ！」}`
+`{ruby:"Come on come on try saying it, "I'm sorry, {f:5:Beatrice}‐sama",:「ほらほら言ってみろごめんなさいベアトリーチェさま}{ruby:try saying it, say it say it, don't be embarrassed,:って言ってみろ言えよ言えよ恥ずかしがるなよ、}`
+`{ruby::くっききききかっかかかかっひゃっひゃああっ}{ruby:kukikiki{0}kak{0}ka{0}ka{0}kah{0}hyah{0}hya{0}a{0}a{0}ah{0}ha{0}hha{0}hha{0}ha{0}hhha{0}hahhya{0}aahh!!":はっはっはっはっはっひゃああぁッ！！」}`

@@ -1,199 +1,199 @@
-`{ruby:The majestic Witch of Theatergoing, Drama, and Spectating set down her pen, looked at the ceiling, and sighed deeply.:尊厳なる観劇と戯曲と傍観の魔女は、筆を置き、天井を見上げながら深く息を吐き出すのだった。}`
-`{ruby:The desk was covered with a scattered mountain of paper covered with writing.:机の上は、書き散らされた膨大な量の原稿用紙が乱雑に積まれている。}`
-`{ruby:Words were packed onto the pages in a thin, high‐information‐density language that only the great ones could read.:細やかな、そして尊厳ある者にしか読めぬ情報密度の極めて高い言語が、ぎっしりと書き込まれている。}`
-`{ruby:Each letter of this language carried the same amount of information as several books in the {y:0:Human}{n:0:human} world.:その言語の一文字は、ニンゲンの世界での書籍数冊に匹敵する情報量を持つ。}`
-`{ruby:These letters filled every inch of this huge pile of paper.:それによって、ぎっしりと書き上げられた原稿用紙が、これほどに積み上げられているのだから。}`
-`{ruby:......Surely, she had written out every little detail of some world.:……彼女はきっと、何か一つの世界を、書き切ったに違いなかった。}`
-`{ruby:"............I have written all there is to write.:「…………書き切ったには、書き切った。}`
-`{ruby:Though to be accurate, more could yet be written.":いや、正確には書き切っておらぬのだが」}`
-`{ruby:She stood up, sat down in her favorite rocking chair, and rocked peacefully for a while.:彼女は立ち上がり、お気に入りの揺り椅子に腰を下ろすと、しばらくの間、その緩やかな揺れを楽しんだ。}`
-`{ruby:"How much must one write before they can say they've written it all?:「どこまでを描けば、果たして物語を書き切ったと言えるのか。}`
-`{ruby:......That is what has bothered me in all my years of writing.:……私の、物書きとしての長年の悩みだ。}`
-`{ruby:......The adventures of {y:0:Human}{n:0:human}s can be very interesting as a tale.:……ニンゲンの冒険は物語としてとても面白い。}`
-`{ruby:However, even I still don't know when that adventure stops being an adventure.":しかし、どこまでが冒険で、どこからがそうではないのかが、私をしても、未だによくわからぬのだ」}`
-`{ruby:"......My old friend, who is now gone...:「……すでに没した私の旧友は、}`
-`{ruby:once said that a {y:0:Human}{n:0:human}'s life is an adventure from beginning to end, so there is never a correct time to set down one's pen.:ニンゲンの人生は、初めから終わりまでが全て冒険であり、筆を置くところなど存在しないと言ったが。}`
+`{ruby:The majestic Witch of Theatergoing, Drama, and Spectating set:尊厳なる観劇と戯曲と傍観の魔女は、筆を置き、天}{ruby:down her pen, looked at the ceiling, and sighed deeply.:井を見上げながら深く息を吐き出すのだった。}`
+`{ruby:The desk was covered with a:机の上は、書き散らされた膨大な量の}{ruby:scattered mountain of paper covered with writing.:原稿用紙が乱雑に積まれている。}`
+`{ruby:Words were packed onto the pages in a thin,:細やかな、そして尊厳ある者にしか読めぬ情報密度の極}{ruby:high‐information‐density language that only the great ones could read.:めて高い言語が、ぎっしりと書き込まれている。}`
+`{ruby:Each letter of this language carried the same amount:その言語の一文字は、ニンゲンの世界での}{ruby:of information as several books in the {y:0:Human}{n:0:human} world.:書籍数冊に匹敵する情報量を持つ。}`
+`{ruby:These letters filled every inch:それによって、ぎっしりと書き上げられた原稿用紙}{ruby:of this huge pile of paper.:が、これほどに積み上げられているのだから。}`
+`{ruby:......Surely, she had written out:……彼女はきっと、何か一つの世界を}{ruby:every little detail of some world.:、書き切ったに違いなかった。}`
+`{ruby:"............I have written all:「…………書き切ったに}{ruby:there is to write.:は、書き切った。}`
+`{ruby:Though to be accurate,:いや、正確には書き切っ}{ruby:more could yet be written.":ておらぬのだが」}`
+`{ruby:She stood up, sat down in her favorite:彼女は立ち上がり、お気に入りの揺り椅子に腰を下ろす}{ruby:rocking chair, and rocked peacefully for a while.:と、しばらくの間、その緩やかな揺れを楽しんだ。}`
+`{ruby:"How much must one write before:「どこまでを描けば、果たして物語}{ruby:they can say they've written it all?:を書き切ったと言えるのか。}`
+`{ruby:......That is what has bothered me:……私の、物書きとして}{ruby:in all my years of writing.:の長年の悩みだ。}`
+`{ruby:......The adventures of {y:0:Human}{n:0:human}s can:……ニンゲンの冒険は物語}{ruby:be very interesting as a tale.:としてとても面白い。}`
+`{ruby:However, even I still don't know:しかし、どこまでが冒険で、どこからがそうではない}{ruby:when that adventure stops being an adventure.":のかが、私をしても、未だによくわからぬのだ」}`
+`{ruby:"......My old friend,:「……すでに没した}{ruby:who is now gone...:私の旧友は、}`
+`{ruby:once said that a {y:0:Human}{n:0:human}'s life is an adventure from beginning to:ニンゲンの人生は、初めから終わりまでが全て冒険であ}{ruby:end, so there is never a correct time to set down one's pen.:り、筆を置くところなど存在しないと言ったが。}`
 `{ruby:......I do not agree.:……私はそうは思わぬ。}`
-`{ruby:I think one must put away the pen at some point.:筆の置き所というものがあると思う。}`
-`{ruby:I believe one should write a tale to an appropriate point, then leave the trailing notes and opinions of what follows to the minds of the spectators.":物語は、適当なところまでを記し、その後の余韻や感想は、観劇者に委ねるべきだと思う」}`
-`{ruby:"......In short, the tale must be put inside a cat box at the appropriate time.:「……つまり、物語は適当なところで猫箱にしまうべきなのだ。}`
-`{ruby:......The cat box has been the subject of this long tale, so is it not better to refrain from writing the finale in its entirety, to instead put it in the cat box and leave it there...?":……猫箱を巡っての長き物語なのだから、その終焉も最後までを記さず、猫箱にしまってしまうのが良いのではあるまいか…？」}`
-`{ruby:{f:5:Featherine}......spoke to no one inside the empty study.:フェザリーヌは、自分以外に誰もいない書斎で、……誰にともなく、そう語る。}`
-`{ruby:Of course, no one commented on her words.:もちろん、誰かが相槌を打つわけもない。}`
-`{ruby:However, {f:5:Featherine} seemed to hear something.:しかしフェザリーヌには、それが聞こえたらしい。}`
-`{ruby:{n}She nodded and grinned contentedly.:{n}ウンウンと頷くと、にんまり笑う。}`
+`{ruby:I think one must put:筆の置き所というもの}{ruby:away the pen at some point.:があると思う。}`
+`{ruby:I believe one should write a tale to an appropriate point, then leave:物語は、適当なところまでを記し、その後の余韻}{ruby:the trailing notes and opinions of what follows to the minds of the spectators.":や感想は、観劇者に委ねるべきだと思う」}`
+`{ruby:"......In short, the tale must be put:「……つまり、物語は適当なところ}{ruby:inside a cat box at the appropriate time.:で猫箱にしまうべきなのだ。}`
+`{ruby:......The cat box has been the subject of this long tale, so is it not better to refrain:……猫箱を巡っての長き物語なのだから、その終焉も最後までを記}{ruby:from writing the finale in its entirety, to instead put it in the cat box and leave it there...?":さず、猫箱にしまってしまうのが良いのではあるまいか…？」}`
+`{ruby:{f:5:Featherine}......spoke to no one:フェザリーヌは、自分以外に誰もいない書}{ruby:inside the empty study.:斎で、……誰にともなく、そう語る。}`
+`{ruby:Of course, no one:もちろん、誰かが相槌を}{ruby:commented on her words.:打つわけもない。}`
+`{ruby:However, {f:5:Featherine} seemed:しかしフェザリーヌには、そ}{ruby:to hear something.:れが聞こえたらしい。}`
+`{ruby:{n}She nodded:{n}ウンウンと頷くと}{ruby:and grinned contentedly.:、にんまり笑う。}`
 `{ruby:"Yes, I know.:「わかっている。}`
-`{ruby:I will write a bit further, then lay down my pen.:もう少しだけを書き足し、そこで筆を置こう。}`
-`{ruby:......Then, it will be time for us to say our goodbyes.":……それで、そなたとはお別れだ」}`
-`{ruby:{f:5:Featherine} held up a finger and spun it around, a signal that she wanted to darken the room.:フェザリーヌが、少し暗くせよと指を掲げてくるくる回す。}`
+`{ruby:I will write a bit:もう少しだけを書き足し、}{ruby:further, then lay down my pen.:そこで筆を置こう。}`
+`{ruby:......Then, it will be time:……それで、そなた}{ruby:for us to say our goodbyes.":とはお別れだ」}`
+`{ruby:{f:5:Featherine} held up a finger and spun it around,:フェザリーヌが、少し暗くせよと}{ruby:a signal that she wanted to darken the room.:指を掲げてくるくる回す。}`
 `{ruby:The lights in the study dimmed......:すると、書斎の明かりが、ゆっくりと消えていく……。}`
-`{ruby:"Would you mind letting me rest for a while?:「ほんの少しだけ休ませてはくれぬか。}`
-`{ruby:......During that time, my cat......or rather, my miko will entertain you......":……その間は、我が猫、……もとい、我が巫女にお相手をさせよう……」}`
-`{ruby:"Owowow{0}ow{0}ow{0}ow{0}ow{0}ow{0}ow,:「あ痛たたたたたたたたたたッ、}`
-`{ruby:you suck! Can't you be less clumsy with that needle?!":ヘタクソッ、もっと上手に縫ってー！」}`
+`{ruby:"Would you mind letting:「ほんの少しだけ休ま}{ruby:me rest for a while?:せてはくれぬか。}`
+`{ruby:......During that time, my cat......or:……その間は、我が猫、……もとい、我}{ruby:rather, my miko will entertain you......":が巫女にお相手をさせよう……」}`
+`{ruby::「あ痛たたたたたた}{ruby:"Owowow{0}ow{0}ow{0}ow{0}ow{0}ow{0}ow,:たたたたッ、}`
+`{ruby:you suck! Can't you be:ヘタクソッ、もっと上}{ruby:less clumsy with that needle?!":手に縫ってー！」}`
 `{ruby:"......Shut up.:「……うっさいわね。}`
-`{ruby:If you don't want it sewn by hand, I'll use a sewing machine.:手縫いが嫌なら、ミシンでやるわよ。}`
+`{ruby:If you don't want it sewn:手縫いが嫌なら、ミシ}{ruby:by hand, I'll use a sewing machine.:ンでやるわよ。}`
 `{ruby:Clatter‐clatter‐clatter.":だだだだって」}`
 `{ruby:"No! No machines!:「ミシンは嫌よー！}`
 `{ruby:I want you to do it by hand!:手縫いがいいー！}`
-`{ruby:So please, just a bit more gently......owow!":だからせめてもうちょっとやさしく……、痛い痛い！」}`
-`{ruby:"It's nothing a little spit can't fix.":「唾つけときゃ治るわよ」}`
+`{ruby:So please, just:だからせめてもうちょっとやさ}{ruby:a bit more gently......owow!":しく……、痛い痛い！」}`
+`{ruby:"It's nothing a:「唾つけときゃ}{ruby:little spit can't fix.":治るわよ」}`
 `{ruby:"Yeep!!:「キャン！！}`
-`{ruby:Tell me before you start licking me all of a sudden!":予告なく舐めないでー！」}`
-`{ruby:"I'm going to sew you up with a long, fat needle now.:「今から畳針でぶっすり縫うわよ。}`
-`{ruby:It'll hurt like hell, so you'd better close your eyes.:マジで痛いから覚悟して。}`
+`{ruby:Tell me before you start:予告なく舐めない}{ruby:licking me all of a sudden!":でー！」}`
+`{ruby:"I'm going to sew you up:「今から畳針でぶっ}{ruby:with a long, fat needle now.:すり縫うわよ。}`
+`{ruby:It'll hurt like hell, so:マジで痛いから}{ruby:you'd better close your eyes.:覚悟して。}`
 `{ruby:Five, four, three, two—":５、４、３、２、」}`
-`{ruby:"A‐and keep that stuff to yourse{-}e{-}e{-}e{-}elf!!:「そ、そういう予告は嫌ぁああぁーーー！！}`
+`{ruby:"A‐and keep that:「そ、そういう予告は嫌}{ruby:stuff to yourse{-}e{-}e{-}e{-}elf!!:ぁああぁーーー！！}`
 `{ruby:Ah, B‐Bern, d‐don't, don't, aaaa!!":あ、べ、ベルン、や、やめて、やめてったら、あぁー！！」}`
-`{ruby:But despite all this, the two of them truly were close.:と騒ぐ割には、仲睦まじい二人だった。}`
-`{ruby:Though {f:5:Lambdadelta} had been brutally dismembered in the final fight, she had survived.:最後の戦いで、ばらばらにされたラムダデルタは、ちゃんと生きていた。}`
-`{ruby:But, unfortunately, she was still dismembered.:ただ困ったことに、ばらばらの状態でだ。}`
-`{ruby:So, {f:5:Bernkastel} was sewing her arms and head back on with a needle and thread.:だから、その腕や頭などを、ベルンカステルがちくちくと、針と糸で縫い合わせているのだ。}`
-`{ruby:The left arm, which was still waiting to be reattached, walked around on the bed impatiently with its index and middle fingers.:まだ縫い合わせてもらえない左腕が自分はまだかまだかと、せわしなくベッドの上を、人差し指と中指でヨチヨチと歩き回っている。}`
-`{ruby:Only the arms were left to do, so it looked like this would be finished soon.:残すところはあと腕だけで、もうほとんど体は出来上がっているようだった。}`
-`{ruby:Then, Erika returned, slamming the door open.:そこへバターンと威勢良くドアを開いて、ヱリカが帰ってくる。}`
+`{ruby:But despite all this, the:と騒ぐ割には、仲睦ま}{ruby:two of them truly were close.:じい二人だった。}`
+`{ruby:Though {f:5:Lambdadelta} had been brutally dismembered:最後の戦いで、ばらばらにされたラムダ}{ruby:in the final fight, she had survived.:デルタは、ちゃんと生きていた。}`
+`{ruby:But, unfortunately, she:ただ困ったことに、ばら}{ruby:was still dismembered.:ばらの状態でだ。}`
+`{ruby:So, {f:5:Bernkastel} was sewing her arms and:だから、その腕や頭などを、ベルンカステルがち}{ruby:head back on with a needle and thread.:くちくと、針と糸で縫い合わせているのだ。}`
+`{ruby:The left arm, which was still waiting to be reattached, walked:まだ縫い合わせてもらえない左腕が自分はまだかまだかと、せわしな}{ruby:around on the bed impatiently with its index and middle fingers.:くベッドの上を、人差し指と中指でヨチヨチと歩き回っている。}`
+`{ruby:Only the arms were left to do, so:残すところはあと腕だけで、もうほとんど}{ruby:it looked like this would be finished soon.:体は出来上がっているようだった。}`
+`{ruby:Then, Erika returned,:そこへバターンと威勢良くドアを開}{ruby:slamming the door open.:いて、ヱリカが帰ってくる。}`
 `{ruby:"I'm home, my master!!:「ただいま帰りました、我が主ー！！}`
 `{ruby:I bought some sesame salt!!":ごま塩、買って来ましたー！！」}`
 `{ruby:"......Why sesame salt?:「……ごま塩って何？}`
-`{ruby:You aren't planning to put it in tea, are you...?":まさか紅茶に入れる気…？」}`
+`{ruby:You aren't planning to put:まさか紅茶に入れ}{ruby:it in tea, are you...?":る気…？」}`
 `{ruby:"It's Erika's toy.:「ヱリカの玩具よ。}`
-`{ruby:......Erika, did you bring your chopsticks?":……ヱリカ、お箸は持ってきた？」}`
+`{ruby:......Erika, did you:……ヱリカ、お箸は}{ruby:bring your chopsticks?":持ってきた？」}`
 `{ruby:"Yes, my master!!:「はい、我が主！！}`
-`{ruby:Great detectives have their magnifying glasses!:名探偵に虫眼鏡！}`
+`{ruby:Great detectives have:名探偵に虫眼}{ruby:their magnifying glasses!:鏡！}`
 `{ruby:Furudo Erika has her chopsticks.":古戸ヱリカにお箸ですっ」}`
 `{ruby:"Are you ready?:「じゃあいい？}`
-`{ruby:Pour out that sesame salt and use those chopsticks to separate the sesame seeds from the salt.":そのごま塩の中身をざらっと出して、お箸で、ごまと塩に分けなさい」}`
+`{ruby:Pour out that sesame salt and use those:そのごま塩の中身をざらっと出して、お}{ruby:chopsticks to separate the sesame seeds from the salt.":箸で、ごまと塩に分けなさい」}`
 `{ruby:"Yes, my master!!:「はい、我が主！！}`
-`{ruby:Please watch my fantastic chopstick‐wielding skills!!":私の華麗なるお箸さばきを、どうかご覧下さいっ！！」}`
+`{ruby:Please watch my:私の華麗なるお箸さばきを、ど}{ruby:fantastic chopstick‐wielding skills!!":うかご覧下さいっ！！」}`
 `{ruby:"Yes, good luck.:「えぇ、がんばってね。}`
-`{ruby:......When you're done, make sure you put everything back in the bag.":……終わったら、ちゃんと袋に戻しておくのよ」}`
-`{ruby:".........Are you still bullying her like that?":「………あんた、またそーゆーことしてイジメてんの？」}`
+`{ruby:......When you're done, make sure you:……終わったら、ちゃんと}{ruby:put everything back in the bag.":袋に戻しておくのよ」}`
+`{ruby:".........Are you still:「………あんた、またそーゆー}{ruby:bullying her like that?":ことしてイジメてんの？」}`
 `{ruby:"How rude. I'm playing with her.:「遊んでるのよ。失礼ね。}`
 `{ruby:.........Ah, yes, Erika.:………そうそう、ヱリカ。}`
-`{ruby:The mailman just came by with a letter addressed to you.":さっき郵便配達が来て、あんた宛の手紙を置いていったわ」}`
+`{ruby:The mailman just came by:さっき郵便配達が来て、あんた宛}{ruby:with a letter addressed to you.":の手紙を置いていったわ」}`
 `{ruby:"A letter?!:「手紙？！}`
 `{ruby:I sense a crime calling to me.:事件の予感がしますッ。}`
-`{ruby:Don't tell me, I'll guess who sent it!":言わないでっ、私が差出人を当てます！」}`
-`{ruby:".........The postmark is from Heaven.:「………消印は天界ね。}`
-`{ruby:It's probably from Dlanor or someone.:ドラノール辺りじゃない？}`
+`{ruby:Don't tell me, I'll:言わないでっ、私が差出}{ruby:guess who sent it!":人を当てます！」}`
+`{ruby:".........The postmark:「………消印は}{ruby:is from Heaven.:天界ね。}`
+`{ruby:It's probably from:ドラノール辺り}{ruby:Dlanor or someone.:じゃない？}`
 `{ruby:I'm surprised you're still in touch.:あんたたち、まだ親交があったのね、驚きだわ。}`
-`{ruby:......All it takes is the presence of this postmark,:……ただ消印があるだけで。}`
-`{ruby:and a deduction like this becomes trivial for {f:5:Bernkastel}.":ベルンカステルにはこの程度の推理が可能です」}`
+`{ruby:......All it takes is:……ただ消印があ}{ruby:the presence of this postmark,:るだけで。}`
+`{ruby:and a deduction like:ベルンカステルにはこの程}{ruby:this becomes trivial for {f:5:Bernkastel}.":度の推理が可能です」}`
 `{ruby:"Hey!!:「ピピピー！！}`
 `{ruby:You can't do that, my master!:駄目です、我が主ぃ！}`
 `{ruby:Van Dine's Rule #9!:ヴァンダイン第９則！}`
-`{ruby:It's forbidden to have multiple detectives!":探偵が複数あることを禁ズ！」}`
+`{ruby:It's forbidden to:探偵が複数あること}{ruby:have multiple detectives!":を禁ズ！」}`
 `{ruby:"......Then you'd better get out.:「……じゃあ、あんたが出てけばいいわけだわ。}`
 `{ruby:So long, Great Detective Erika.":またね、名探偵ヱリカ」}`
-`{ruby:"Nooooo, my masteeeer!! {f:5:Erika}, Witch of Truth, is here to serve!":「そんなぁああぁ、我が主ぃいいぃ、真実の魔女ヱリカ、ここにぃ！」}`
-`{ruby:"............I still can't tell if you two like each other or hate each other.":「…………あんたらって、仲いいのか悪いのか、未だによくわかんないわ」}`
+`{ruby:"Nooooo, my masteeeer!! {f:5:Erika}, Witch:「そんなぁああぁ、我が主ぃいいぃ、}{ruby:of Truth, is here to serve!":真実の魔女ヱリカ、ここにぃ！」}`
+`{ruby:"............I still can't tell if you two:「…………あんたらって、仲いいのか悪}{ruby:like each other or hate each other.":いのか、未だによくわかんないわ」}`
 `{ruby:"Of course we hate each other.:「悪いに決まってるでしょ。}`
 `{ruby:You're the only one I love.":私が愛してるのはあんただけよ」}`
 `{ruby:"H‐how could you, my master!!:「そ、そんなぁああぁあ、我が主ぃいいいぃい！！}`
 `{ruby:Lady {f:5:Lambdadelta}!:ラムダデルタ卿！}`
-`{ruby:It looks like there's not enough room for the two of us!":やはり私とあなたは相容れないようですね！」}`
+`{ruby:It looks like there's not enough:やはり私とあなたは相容れ}{ruby:room for the two of us!":ないようですね！」}`
 `{ruby:"Are you serious?:「何よ、あんた。}`
-`{ruby:......Are you challenging the great {f:5:Lambdadelta}?":……この大ラムダデルタを相手に、勝負する気ぃ？」}`
-`{ruby:Erika grinned and grabbed {f:5:Lambdadelta}'s left arm that was walking around the bed.:ヱリカは、にかっと笑い、ベッドの上を歩き回っていたラムダデルタの左腕を捕まえる。}`
-`{ruby:"Here is Lady {f:5:Lambdadelta}'s arm.:「ここにラムダデルタ卿の腕があります。}`
-`{ruby:And here is the sliced‐open end of her arm.":そしてここは、断面です」}`
-`{ruby:Erika grinned and wiggled her fingers menacingly.:ヱリカはにやにや笑いながら、指をわきわきさせる。}`
-`{ruby:"Wait, ......you aren't thinking.........":「ちょ、……まさか、あんた………、」}`
-`{ruby:"Let's see if my rival can handle this.":「私のライバルには、こぉんなことが出来ます」}`
+`{ruby:......Are you challenging:……この大ラムダデルタを相}{ruby:the great {f:5:Lambdadelta}?":手に、勝負する気ぃ？」}`
+`{ruby:Erika grinned and grabbed {f:5:Lambdadelta}'s left:ヱリカは、にかっと笑い、ベッドの上を歩き回}{ruby:arm that was walking around the bed.:っていたラムダデルタの左腕を捕まえる。}`
+`{ruby:"Here is:「ここにラムダデルタ卿}{ruby:Lady {f:5:Lambdadelta}'s arm.:の腕があります。}`
+`{ruby:And here is the:そしてここは、}{ruby:sliced‐open end of her arm.":断面です」}`
+`{ruby:Erika grinned and:ヱリカはにやにや笑いながら}{ruby:wiggled her fingers menacingly.:、指をわきわきさせる。}`
+`{ruby:"Wait, ......you:「ちょ、……まさか、}{ruby:aren't thinking.........":あんた………、」}`
+`{ruby:"Let's see if my:「私のライバルには、こぉ}{ruby:rival can handle this.":んなことが出来ます」}`
 `{ruby:"Gyah,:「ぎゃッ、}`
-`{ruby:gyah{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}haha,:ぎゃわっはははっはっははははは、}`
+`{ruby::ぎゃわっはははっは}{ruby:gyah{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}haha,:っははははは、}`
 `{ruby:ahh{0}hya{0}ha{0}ha{0}haha,:あひゃーひゃっひゃっひゃ、}`
-`{ruby:stoppii{-}i{-}i{-}i{-}it that tickle{-}e{-}e{-}e{-}e{-}es!!":やぁめてぇえええぇくすぐったいいぃいいいぃ！！」}`
-`{ruby:......She tickled the open end of {f:5:Lambdadelta}'s left arm.:……ラムダデルタの左腕の断面をこちょこちょとくすぐる。}`
-`{ruby:Apparently, she was extremely ticklish there.:どうやらそれは、ものすごいくすぐったいことらしかった。}`
-`{ruby:Incidentally, the open end of {f:5:Lambdadelta}'s arm was cute and fluffy with white cotton candy poking out.:ちなみに、ラムダデルタのその断面は、綿飴の白いふわふわがはみ出した可愛いものだ。}`
-`{ruby:Apparently, her body was made out of sweet candy, with a bit of spice thrown in.:何しろ彼女の体は、甘いお菓子とちょっぴりのスパイスで出来ているのだから。}`
-`{ruby:Put your mind at ease, as there is nothing remotely terrifying about her severed arm.:断面は、決して怖いものではないのでご安心を。}`
-`{ruby:Erika ran around, screaming "I've defeated Lady {f:5:Lambdadelta} all by myself, just like my master!":我が主に続き、私もラムダデルタ卿に単機で勝ちました！}`
-`{ruby:{f:5:Lambdadelta} growled and hissed at her.:そう叫びながら飛び回るヱリカに、がるるるるると吼えて威嚇するラムダデルタ。}`
-`{ruby:{f:5:Bernkastel} kept on sewing, an exasperated look on her face.:呆れながらも、ちくちくと親友を縫うベルンカステル。}`
+`{ruby:stoppii{-}i{-}i{-}i{-}it:やぁめてぇえええぇくすぐっ}{ruby:that tickle{-}e{-}e{-}e{-}e{-}es!!":たいいぃいいいぃ！！」}`
+`{ruby:......She tickled the open:……ラムダデルタの左腕の断面を}{ruby:end of {f:5:Lambdadelta}'s left arm.:こちょこちょとくすぐる。}`
+`{ruby:Apparently, she was:どうやらそれは、ものすごいくす}{ruby:extremely ticklish there.:ぐったいことらしかった。}`
+`{ruby:Incidentally, the open end of {f:5:Lambdadelta}'s arm was:ちなみに、ラムダデルタのその断面は、綿飴の}{ruby:cute and fluffy with white cotton candy poking out.:白いふわふわがはみ出した可愛いものだ。}`
+`{ruby:Apparently, her body was made out of sweet:何しろ彼女の体は、甘いお菓子とちょっぴ}{ruby:candy, with a bit of spice thrown in.:りのスパイスで出来ているのだから。}`
+`{ruby:Put your mind at ease, as there:断面は、決して怖いもので}{ruby:is nothing remotely terrifying about her severed arm.:はないのでご安心を。}`
+`{ruby:Erika ran around, screaming "I've defeated Lady:我が主に続き、私もラムダデル}{ruby:{f:5:Lambdadelta} all by myself, just like my master!":タ卿に単機で勝ちました！}`
+`{ruby:{f:5:Lambdadelta} growled and:そう叫びながら飛び回るヱリカに、がるるる}{ruby:hissed at her.:るると吼えて威嚇するラムダデルタ。}`
+`{ruby:{f:5:Bernkastel} kept on sewing, an:呆れながらも、ちくちくと親友}{ruby:exasperated look on her face.:を縫うベルンカステル。}`
 `{ruby:It was a very peaceful scene...:それはとても和やかな風景だった…。}`
 `{ruby:"So?:「それで？}`
 `{ruby:What does the letter say?":手紙には何て？」}`
-`{ruby:"Is there anything about how Dlanor and the others have been doing?":「ドラノールたちの近況でも書いてあんの？」}`
-`{ruby:"Gertrude‐san has been promoted to a full Inquisitor or something.:「ガートルードさんは異端審問官に昇進したとか。}`
+`{ruby:"Is there anything about how Dlanor:「ドラノールたちの近況で}{ruby:and the others have been doing?":も書いてあんの？」}`
+`{ruby:"Gertrude‐san has been promoted to:「ガートルードさんは異端審}{ruby:a full Inquisitor or something.:問官に昇進したとか。}`
 `{ruby:Hip hip hooray, I guess.:そりゃーオメデトウゴザイマス、ぱちぱち。}`
-`{ruby:......Ooh, in addition to her cat, she now has a {ruby:wanyan:meowoof} too.":……へー、最近、猫に続いて、わにゃんを飼い始めたとか」}`
+`{ruby:......Ooh, in addition to her cat,:……へー、最近、猫に続いて、わ}{ruby:she now has a {ruby:wanyan:meowoof} too.":にゃんを飼い始めたとか」}`
 `{ruby:"............What's a meowoof...?":「…………わにゃんって何…？」}`
-`{ruby:"What, you don't know?! You're so out of touch!:「えー、ベルン知らないの？！　遅れてるぅ〜！}`
+`{ruby:"What, you don't know?!:「えー、ベルン知らないの}{ruby:You're so out of touch!:？！　遅れてるぅ〜！}`
 `{ruby:They've been all the rage lately!:最近、ブームじゃないっ！}`
-`{ruby:Even I got a female meowoof a few days back.:最近、私もメスのわにゃんを飼い出したのよ。}`
+`{ruby:Even I got a female:最近、私もメスのわにゃん}{ruby:meowoof a few days back.:を飼い出したのよ。}`
 `{ruby:They make awesome konpeitou too!":金平糖も美味しく作れて最高よ？！」}`
-`{ruby:"......I'm totally lost, but I'll make sure I stay far away from your homemade food in the future...":「……よくわかんないけど、今度からあんたの手作り菓子を食べるのは遠慮するようにするわ…」}`
+`{ruby:"......I'm totally lost, but I'll make sure I stay:「……よくわかんないけど、今度からあんたの手作}{ruby:far away from your homemade food in the future...":り菓子を食べるのは遠慮するようにするわ…」}`
 `{ruby:"Cornelia‐san is.........oooh.:「コーネリアさんは、………へー。}`
-`{ruby:She learned that being good at martial arts gives you an edge in the Inquisitor exams, so she's started combat training.:審問官選考に格闘技段位が有利と知って、最近は格闘技を始めたとかっ。}`
-`{ruby:Pretty hard to imagine her doing that, right?":全然、想像がつきませんねー」}`
-`{ruby:"Well, there's all kinds of combat training.:「格闘技ったって色々あるわよ。}`
+`{ruby:She learned that being good at martial arts gives you:審問官選考に格闘技段位が有利と知って}{ruby:an edge in the Inquisitor exams, so she's started combat training.:、最近は格闘技を始めたとかっ。}`
+`{ruby:Pretty hard to imagine:全然、想像がつき}{ruby:her doing that, right?":ませんねー」}`
+`{ruby:"Well, there's all:「格闘技ったって色}{ruby:kinds of combat training.:々あるわよ。}`
 `{ruby:What's she doing?":何、始めたの？」}`
-`{ruby:"Looks like kickboxing and Chinese Kenpo.:「キックボクシングに中国拳法だとか。}`
+`{ruby:"Looks like kickboxing:「キックボクシングに}{ruby:and Chinese Kenpo.:中国拳法だとか。}`
 `{ruby:Could that be Eva's influence?":絵羽の影響ですかね？」}`
-`{ruby:".........Doesn't she look like she'd fight pretty good standing on one leg?":「………片足で立って戦いそうなイメージない？」}`
+`{ruby:".........Doesn't she look like she'd fight:「………片足で立って戦いそ}{ruby:pretty good standing on one leg?":うなイメージない？」}`
 `{ruby:"Good point.:「そうよねぇ。}`
-`{ruby:A certain someone must've toughened her up by making her stand on one leg all the time.":誰かさんが、片足立ちをずいぶん鍛えたもんねぇ」}`
+`{ruby:A certain someone must've toughened her up by:誰かさんが、片足立ちをずい}{ruby:making her stand on one leg all the time.":ぶん鍛えたもんねぇ」}`
 `{ruby:"It also talks about Will‐san.:「ウィルさんの近況も書いてありますよ。}`
 `{ruby:Ah, that's a surprise!:えー、意外ー！}`
-`{ruby:Looks like Will‐san hit it big on the foreign exchange, and he's now living a life of leisure on the income from his real estate investments...!:ウィルさん、ＦＸで一山当てたらしくて、それで不動産買って、今は不動産収入で悠々自適だとか…！}`
-`{ruby:Sounds like he's started playing badminton lately too.":最近はバドミントンやってるんですってー」}`
-`{ruby:"......I'll bet he has a hellish coach.":「……コーチが厳しそうね」}`
+`{ruby:Looks like Will‐san hit it big on the foreign exchange, and he's now:ウィルさん、ＦＸで一山当てたらしくて、それで不動産}{ruby:living a life of leisure on the income from his real estate investments...!:買って、今は不動産収入で悠々自適だとか…！}`
+`{ruby:Sounds like he's started:最近はバドミントンやって}{ruby:playing badminton lately too.":るんですってー」}`
+`{ruby:"......I'll bet he:「……コーチが厳}{ruby:has a hellish coach.":しそうね」}`
 `{ruby:"His butt's probably swollen by now.":「きっとおしりが腫れ上がってるわよ」}`
 `{ruby:"So, what about Dlanor?":「で、ドラノールは？」}`
 `{ruby:"As usual, she's stamping things,:「相変わらず、ハンコと}`
 `{ruby:stamping things,:ハンコと}`
 `{ruby:sealing things,:決済印と}`
 `{ruby:approving things,:認印と、}`
-`{ruby:and {i:sometimes} even signing things.:たまーにサインの日々だそうで}`
+`{ruby:and {i:sometimes}:たまーにサインの}{ruby:even signing things.:日々だそうで}`
 `{ruby:":」}`
-`{ruby:"She humbly asks me to stir up a crime in her district, since she would get assigned to it personally.":「自分がじきじきに出動するから、自分の管区でぜひ事件を起こしてほしいデスって書いてあります」}`
+`{ruby:"She humbly asks me to stir up a crime in:「自分がじきじきに出動するから、自分の管区でぜひ}{ruby:her district, since she would get assigned to it personally.":事件を起こしてほしいデスって書いてあります」}`
 `{ruby:"Well, why don't you?:「起こしてやったら？}`
 `{ruby:Crime sounds fun.":事件」}`
-`{ruby:"They do say crimes occur wherever the detective goes.":「探偵が行くとこ事件ありって言うもんね」}`
+`{ruby:"They do say crimes:「探偵が行くとこ事件あ}{ruby:occur wherever the detective goes.":りって言うもんね」}`
 `{ruby:"Well, one of these days.:「まぁ、その内。}`
-`{ruby:If I feel like it, I might drop by to bully her.:気が向いたらイジメに行ってあげてもいいかもです。}`
-`{ruby:Oh, and there's also something here about the Chiester Sisters.":あぁ、あとシエスタ姉妹兵たちのことも書いてあります」}`
+`{ruby:If I feel like it, I:気が向いたらイジメに行って}{ruby:might drop by to bully her.:あげてもいいかもです。}`
+`{ruby:Oh, and there's also something:あぁ、あとシエスタ姉妹兵たち}{ruby:here about the Chiester Sisters.":のことも書いてあります」}`
 `{ruby:".........Wait.:「………待って。}`
 `{ruby:I don't want to hear it all at once.:一度に聞きたくないわ。}`
-`{ruby:Let's hold off a bit for dramatic effect.:少しはもったいぶらなきゃ。}`
+`{ruby:Let's hold off a:少しはもったいぶ}{ruby:bit for dramatic effect.:らなきゃ。}`
 `{ruby:.........Okay, that'll do it.":……さぁ、出来た」}`
-`{ruby:"Ah, I finally grew my right arm back!:「あぁ、やっと右腕が生えたわ！}`
+`{ruby:"Ah, I finally grew:「あぁ、やっと右腕}{ruby:my right arm back!:が生えたわ！}`
 `{ruby:Do the left one now, please!":次っ、左腕をお願いね！」}`
 `{ruby:"Let's have some tea first.:「その前にお茶にしましょ。}`
-`{ruby:......Erika, bring in a can of black tea and the pot of dried plums.":……ヱリカ、紅茶の缶と、梅干の壷を用意してちょうだい」}`
+`{ruby:......Erika, bring in a can of black:……ヱリカ、紅茶の缶と、梅干の}{ruby:tea and the pot of dried plums.":壷を用意してちょうだい」}`
 `{ruby:"Yes, my master!":「はいっ、我が主！」}`
-`{ruby:With this particular journey over and done with, the Voyager witches rested their wings.:航海者の魔女たちは、一つの旅を終えて、その翼を休める。}`
-`{ruby:...It was all so that they could leave on a new journey in search of the next fragment.:また次なるカケラを探しに、新しい旅に出るために。}`
-`{ruby:A short break between trips, backdropped by the pleasant scent of black tea......:今だけは紅茶の香りを楽しみながら、ひと時の休憩……。}`
+`{ruby:With this particular journey over and done:航海者の魔女たちは、一つの旅を}{ruby:with, the Voyager witches rested their wings.:終えて、その翼を休める。}`
+`{ruby:...It was all so that they could leave on:また次なるカケラを探しに、}{ruby:a new journey in search of the next fragment.:新しい旅に出るために。}`
+`{ruby:A short break between trips, backdropped:今だけは紅茶の香りを楽しみな}{ruby:by the pleasant scent of black tea......:がら、ひと時の休憩……。}`
 `{ruby:"Where are you going this time?":「今度はどこへ行く？」}`
-`{ruby:"......If you go north, I'm heading south.":「……あんたが北へ行くなら私は南へ」}`
-`{ruby:"Then if you go east, I'm heading west.":「じゃあ、ベルンが東へ行くなら、私は西へ行くわ」}`
-`{ruby:"......I hope we can find another charming tale like this one.":「……また、こんな愉快な物語を見つけられるといいわね」}`
-`{ruby:"Next time, I hope you aren't playing the villain, Bern.":「今度は、ベルンが憎まれ役じゃないといいわねー」}`
+`{ruby:"......If you go:「……あんたが北へ行}{ruby:north, I'm heading south.":くなら私は南へ」}`
+`{ruby:"Then if you go:「じゃあ、ベルンが東へ行く}{ruby:east, I'm heading west.":なら、私は西へ行くわ」}`
+`{ruby:"......I hope we can find:「……また、こんな愉快な物語を}{ruby:another charming tale like this one.":見つけられるといいわね」}`
+`{ruby:"Next time, I hope you:「今度は、ベルンが憎まれ役}{ruby:aren't playing the villain, Bern.":じゃないといいわねー」}`
 `{ruby:"You think so?:「あら。}`
 `{ruby:Being the bad guy was pretty fun.":悪役も楽しかったわよ」}`
-`{ruby:"......I wonder...what kind of tale we'll find next.":「……次は、どんな物語を見つけられるかしらね」}`
-`{ruby:"And what kind of tale we'll next meet in.":「そして、どんな物語で再会できるのかしら」}`
-`{ruby:"The sea of fragments is tiny to a pair who love each other.":「愛し合う二人に、カケラの海は狭いわ」}`
+`{ruby:"......I wonder...what kind of:「……次は、どんな物語を見}{ruby:tale we'll find next.":つけられるかしらね」}`
+`{ruby:"And what kind of:「そして、どんな物語で再}{ruby:tale we'll next meet in.":会できるのかしら」}`
+`{ruby:"The sea of fragments is tiny:「愛し合う二人に、カケ}{ruby:to a pair who love each other.":ラの海は狭いわ」}`
 `{ruby:"Children of Paradise.":「天井桟敷」}`
-`{ruby:"The sea of fragments is pretty huge.":「カケラの海は広大だわ」}`
+`{ruby:"The sea of:「カケラの海は}{ruby:fragments is pretty huge.":広大だわ」}`
 `{ruby:"Ghost in the Shell.":「殻の中の幽霊」}`
 `{ruby:"We'll meet again.:「いつか会えるわよ。}`
 `{ruby:When something else cries.":また何かのなく頃に」}`
 `{ruby:".........Sounds good.:「………いいじゃない。}`
 `{ruby:Let's do that.":それにしましょ」}`
 `{ruby:{a:c::{a:c:}`
-`{ruby:""We will meet again. When something else cries."":「「いつか会えるわ。また何かのなく頃に」」}`
+`{ruby:""We will meet again.:「「いつか会えるわ。また}{ruby:When something else cries."":何かのなく頃に」」}`
 `{ruby:}:}}`
 `{ruby:{a:c::{a:c:}`
 `{ruby:Ahhahahahahahahahahaha......:あっははははははははははは……。}`
 `{ruby:}:}}`
 `{ruby:{a:c::{a:c:}`
-`{ruby:The happy voices of the witches faded into the distance.:魔女たちの楽しそうな声が遠退いていく。}`
+`{ruby:The happy voices of the:魔女たちの楽しそうな声}{ruby:witches faded into the distance.:が遠退いていく。}`
 `{ruby:}:。}}`
 `{ruby:{a:c::{a:c:}`
 `{ruby:So long, everyone.:さよなら、みんな。}`
-`{ruby:See you again, when something else cries.:また何かの、なく頃に。}`
+`{ruby:See you again,:また何かの、な}{ruby:when something else cries.:く頃に。}`
 `{ruby:}:}}`

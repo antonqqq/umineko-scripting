@@ -1,168 +1,168 @@
-`{ruby:Every year, the relatives who visit Rokkenjima let out a sigh of admiration at the rose garden which first greets them...:六軒島を訪れる親族たちは、毎年、最初に出迎えられる薔薇庭園で感嘆のため息を漏らすことになる…。}`
-`{ruby:They stood there talking with each other about the roses' beauty and the state of their blooming this year.:彼らは足を止め、今年の薔薇の美しさや咲き具合について語り合うのだった。}`
-`{ruby:There was a single unhealthy rose among them, and Maria became overwhelmed with dejection at its state.:その中に一輪、枯れ掛けた薔薇があり、真里亞が感傷に囚われ消沈してしまう。}`
+`{ruby:Every year, the relatives who visit Rokkenjima let out a:六軒島を訪れる親族たちは、毎年、最初に出迎えられる}{ruby:sigh of admiration at the rose garden which first greets them...:薔薇庭園で感嘆のため息を漏らすことになる…。}`
+`{ruby:They stood there talking with each other about the:彼らは足を止め、今年の薔薇の美しさや咲}{ruby:roses' beauty and the state of their blooming this year.:き具合について語り合うのだった。}`
+`{ruby:There was a single unhealthy rose among them,:その中に一輪、枯れ掛けた薔薇があり、真}{ruby:and Maria became overwhelmed with dejection at its state.:里亞が感傷に囚われ消沈してしまう。}`
 `{ruby:But George used his quick wits,:でも、譲治が機転を利かし、}`
-`{ruby:and saying she should look after it if she felt that sorry for it, he marked it with a candy wrapper, and immediately restored Maria's good mood.:そんなに可哀想なら面倒を見てあげればいいと飴玉の包み紙で目印を付けてあげると、すぐに機嫌を直した。}`
-`{ruby:And once Battler, with whom she had been getting along well all morning, raised the subject of Halloween that Maria loved so much, she began playing around energetically again.:そして、今朝からずっと仲のいい戦人が、真里亞の大好きなハロウィンの話を振ると、もう元気を取り戻しはしゃぎ始めるのだった。}`
+`{ruby:and saying she should look after it if she felt that sorry for:そんなに可哀想なら面倒を見てあげればいいと飴玉の包み}{ruby:it, he marked it with a candy wrapper, and immediately restored Maria's good mood.:紙で目印を付けてあげると、すぐに機嫌を直した。}`
+`{ruby:And once Battler, with whom she had been getting along well all morning, raised:そして、今朝からずっと仲のいい戦人が、真里亞の大好きなハロウィ}{ruby:the subject of Halloween that Maria loved so much, she began playing around energetically again.:ンの話を振ると、もう元気を取り戻しはしゃぎ始めるのだった。}`
 `{ruby:To Maria,:真里亞にとっては、}`
-`{ruby:those marshmallow jack‐o'‐lantern candies that her mother had bought for her were probably a treasure greater than any other.:今朝、楼座に買ってもらったジャックオーランタンのマシュマロ菓子が何よりの宝物なのだろう。}`
-`{ruby:...It seemed that several of them had been bought for her, and she demanded trick‐or‐treat from every person she met, giving them candy instead of the other way around.:…何本も買ってもらったらしく、会う人会う人にトリックオアトリートを求めては、逆にお菓子を与えているのだった。}`
-`{ruby:"I wonder why Maria likes Halloween so much.:「真里亞はどうしてこんなにハロウィンが好きなんだろうな。}`
-`{ruby:I thought that event was pretty difficult for Japanese people to get used to.":日本人には、ひとつ馴染みにくいイベントだと思ってたんだが」}`
-`{ruby:"Isn't that because it's a kid's festival where they get to parade around in costumes?:「仮装行列で練り歩く子どものお祭りだからじゃねぇのか？}`
-`{ruby:It's fun to play around in an outfit that's different than usual.":普段と違う格好をしてはしゃぎあうってのは楽しいぜ」}`
-`{ruby:"No, ...I think there's probably a slightly deeper reason.:「うーん、…多分、僕はもう少しディープな理由によるものだと思うなぁ。}`
-`{ruby:After all, she is Maria‐chan "the witch".":何しろ、“魔女”の真里亞ちゃんだからね」}`
-`{ruby:"Come to think of it, when we were at the airport, didn't Maria say that if she was going to wear a costume, it would be a witch?:「そういや、飛行場でも真里亞は、仮装するなら魔女になりたいって言っていたっけ。}`
+`{ruby:those marshmallow jack‐o'‐lantern candies that her mother had bought:今朝、楼座に買ってもらったジャックオーランタン}{ruby:for her were probably a treasure greater than any other.:のマシュマロ菓子が何よりの宝物なのだろう。}`
+`{ruby:...It seemed that several of them had been bought for her, and she demanded:…何本も買ってもらったらしく、会う人会う人にトリックオア}{ruby:trick‐or‐treat from every person she met, giving them candy instead of the other way around.:トリートを求めては、逆にお菓子を与えているのだった。}`
+`{ruby:"I wonder why Maria:「真里亞はどうしてこんなにハロ}{ruby:likes Halloween so much.:ウィンが好きなんだろうな。}`
+`{ruby:I thought that event was pretty difficult:日本人には、ひとつ馴染みにくいイ}{ruby:for Japanese people to get used to.":ベントだと思ってたんだが」}`
+`{ruby:"Isn't that because it's a kid's festival:「仮装行列で練り歩く子どものお}{ruby:where they get to parade around in costumes?:祭りだからじゃねぇのか？}`
+`{ruby:It's fun to play around in:普段と違う格好をしてはしゃぎ}{ruby:an outfit that's different than usual.":あうってのは楽しいぜ」}`
+`{ruby:"No, ...I think there's:「うーん、…多分、僕はもう少しディー}{ruby:probably a slightly deeper reason.:プな理由によるものだと思うなぁ。}`
+`{ruby:After all, she:何しろ、“魔女”の真里}{ruby:is Maria‐chan "the witch".":亞ちゃんだからね」}`
+`{ruby:"Come to think of it, when we were at the airport, didn't Maria say:「そういや、飛行場でも真里亞は、仮装するな}{ruby:that if she was going to wear a costume, it would be a witch?:ら魔女になりたいって言っていたっけ。}`
 `{ruby:Does Maria like witches?":真里亞って魔女が好きなんだ？」}`
 `{ruby:"......Yes, she loves them.:「……えぇ、大好きよ。}`
 `{ruby:So much that it becomes a problem.":困ったくらいに」}`
 `{ruby:"Well,:「まぁまぁ。}`
-`{ruby:admiring fantastical stuff like that is to be expected at that age.":あのくらいの年頃は、ファンタジックな存在に憧れるもんですから」}`
-`{ruby:"If she'd at least chosen a heroine of some TV anime to admire, that would've been cute...:「せめて、テレビアニメのヒロインに憧れるくらいなら可愛いんだけど…。}`
+`{ruby:admiring fantastical stuff like that is:あのくらいの年頃は、ファンタジック}{ruby:to be expected at that age.":な存在に憧れるもんですから」}`
+`{ruby:"If she'd at least chosen a heroine of:「せめて、テレビアニメのヒロインに憧}{ruby:some TV anime to admire, that would've been cute...:れるくらいなら可愛いんだけど…。}`
 `{ruby:...haah.":…はぁ」}`
-`{ruby:Judging by Rosa's reactions, it seemed that, as a mother, she did not find her daughter's love for witches pleasant.:楼座のその様子を見る限り、母親としては娘の魔女好きをあまり快く思っていないようだった。}`
-`{ruby:Seemingly all the cousins other than Battler were able to understand this, and they shrugged their shoulders, smiling awkwardly.:それは戦人以外のいとこたちにとっては理解できることであるらしく、苦笑いしながら肩を竦めあうのだった。}`
+`{ruby:Judging by Rosa's reactions, it seemed that, as a mother,:楼座のその様子を見る限り、母親としては娘の魔女}{ruby:she did not find her daughter's love for witches pleasant.:好きをあまり快く思っていないようだった。}`
+`{ruby:Seemingly all the cousins other than Battler were able:それは戦人以外のいとこたちにとっては理解できることで}{ruby:to understand this, and they shrugged their shoulders, smiling awkwardly.:あるらしく、苦笑いしながら肩を竦めあうのだった。}`
 `{ruby:"Hmmmm?:「ふーん？}`
-`{ruby:So if you like witches, you also like Halloween, is that how it works?":魔女好きだとハロウィンも好きになるって論法なのか？」}`
-`{ruby:"I guess I should just ask her myself if I don't know.:「わかんなきゃ本人に聞けばいいか。}`
+`{ruby:So if you like witches, you also:魔女好きだとハロウィンも好きに}{ruby:like Halloween, is that how it works?":なるって論法なのか？」}`
+`{ruby:"I guess I should just ask:「わかんなきゃ本人に}{ruby:her myself if I don't know.:聞けばいいか。}`
 `{ruby:Hey, Maria.:おい真里亞。}`
-`{ruby:What kind of relationship do Halloween and witches have with each other?":ハロウィンと魔女って何か関係あるのか？」}`
-`{ruby:As Battler asked that, George and Jessica let out a small "ah—" noise.:戦人がそれを問い掛けると、譲治と朱志香が、あっと小さく声を上げる。}`
+`{ruby:What kind of relationship do Halloween:ハロウィンと魔女って何}{ruby:and witches have with each other?":か関係あるのか？」}`
+`{ruby:As Battler asked that, George and:戦人がそれを問い掛けると、譲治と朱志}{ruby:Jessica let out a small "ah—" noise.:香が、あっと小さく声を上げる。}`
 `{ruby:...It seemed they were too late.:…まるで後の祭りだとでも言わんばかりだった。}`
-`{ruby:It almost looked as though Maria had been waiting for that question.:その質問は、真里亞にとっては待ってましたとでも言うようなものらしい。}`
-`{ruby:After looking happy for an instant, her expression turned a little mean, as if to say "You don't know anything, do you?":一瞬だけ嬉しそうな表情を見せた後、わかってないなぁとでも言うような小意地の悪いものにかわる。}`
-`{ruby:It was the expression of an enthusiast who has been enraged by the ignorant statement of an outsider with a wrong impression.:門外漢が間違った思い込みで失言し、マニアの逆鱗に触れてしまった時に見せる表情そのものだった。}`
+`{ruby:It almost looked as though Maria:その質問は、真里亞にとっては待ってま}{ruby:had been waiting for that question.:したとでも言うようなものらしい。}`
+`{ruby:After looking happy for an instant, her expression turned a little:一瞬だけ嬉しそうな表情を見せた後、わかってないな}{ruby:mean, as if to say "You don't know anything, do you?":ぁとでも言うような小意地の悪いものにかわる。}`
+`{ruby:It was the expression of an enthusiast who has been enraged:門外漢が間違った思い込みで失言し、マニアの逆鱗に}{ruby:by the ignorant statement of an outsider with a wrong impression.:触れてしまった時に見せる表情そのものだった。}`
 `{ruby:"Uu.:「うー。}`
-`{ruby:...The Celts thought of the changing strength of the sun over the course of a year...:…ケルト人は、一年間を通じてその勢いを変える太陽は、}`
-`{ruby:as its birth, its growing‐up period, its aging and death, and then its revival.":一年を通して、生まれ、育ち、老いて死んで、そして再び蘇ると考えていたの」}`
+`{ruby:...The Celts thought of the changing strength of:…ケルト人は、一年間を通じて}{ruby:the sun over the course of a year...:その勢いを変える太陽は、}`
+`{ruby:as its birth, its growing‐up period, its:一年を通して、生まれ、育ち、老いて死ん}{ruby:aging and death, and then its revival.":で、そして再び蘇ると考えていたの」}`
 `{ruby:"I get it.:「納得だな。}`
-`{ruby:The sun, weak and warm in spring, starts to grow up and become hot,:春のか弱いぽかぽかした太陽が、どんどん成長して暑いくらいになり、}`
-`{ruby:and then it gradually gets weaker and worn out... Yeah, I can see how you could think of that as the passing of the sun's life.":次第に痩せ衰えていく様をなるほど、太陽の一生と考えるのも頷けるぜ」}`
+`{ruby:The sun, weak and warm in spring,:春のか弱いぽかぽかした太陽が、どん}{ruby:starts to grow up and become hot,:どん成長して暑いくらいになり、}`
+`{ruby:and then it gradually gets weaker and worn out... Yeah, I can see:次第に痩せ衰えていく様をなるほど、太}{ruby:how you could think of that as the passing of the sun's life.":陽の一生と考えるのも頷けるぜ」}`
 `{ruby:"Yep.:「うん。}`
-`{ruby:So they thought that at the end of October, the sun died, rested its body in the land of the dead, and then revived again at the winter solstice.:だから彼らは、１０月の最後に太陽は死に、死の国で体を休めて、冬至の日に再び蘇ると考えたの。}`
-`{ruby:And so, they celebrated the day that the sun ends its one‐year lifespan and dies, calling it New Year's Eve, or Samhain.":それで、太陽が一年の生涯を終えて死ぬその日を大晦日、サヴィンと呼んで、お祝いしたの」}`
-`{ruby:"That way of thinking is very interesting, to say that the sun is "revived" on the day of the winter solstice, when the daylight hours start to grow longer again.:「再び日照時間が長くなりだす冬至の日を、太陽の復活の日とする考え方はとても面白いよね。}`
-`{ruby:It's an episode that makes you understand how much ancient people deified the sun.":古代の人々がいかに太陽を神聖視していたかがわかるエピソードだよ」}`
+`{ruby:So they thought that at the end of October, the sun died, rested its:だから彼らは、１０月の最後に太陽は死に、死の国で}{ruby:body in the land of the dead, and then revived again at the winter solstice.:体を休めて、冬至の日に再び蘇ると考えたの。}`
+`{ruby:And so, they celebrated the day that the sun ends its:それで、太陽が一年の生涯を終えて死ぬその日を}{ruby:one‐year lifespan and dies, calling it New Year's Eve, or Samhain.":大晦日、サヴィンと呼んで、お祝いしたの」}`
+`{ruby:"That way of thinking is very interesting, to say that the sun is "revived" on:「再び日照時間が長くなりだす冬至の日を、太陽の}{ruby:the day of the winter solstice, when the daylight hours start to grow longer again.:復活の日とする考え方はとても面白いよね。}`
+`{ruby:It's an episode that makes you understand:古代の人々がいかに太陽を神聖視して}{ruby:how much ancient people deified the sun.":いたかがわかるエピソードだよ」}`
 `{ruby:"...I seeee.:「…なるほどなぁ。}`
-`{ruby:And? What do witches have to do with this?":んで、それが魔女とどう関係があるんだ？」}`
-`{ruby:It seemed that my casual urging forward had slightly infuriated Maria.:俺が適当に先を促したのが少し真里亞の逆鱗に触れたらしい。}`
-`{ruby:She glared at me with eyes that told me to let her explain without interrupting.:口を挟まず説明させろというような目で睨みつけられる。}`
-`{ruby:......Maria looked like she was having fun telling me, so I decided not to interrupt...:……真里亞が楽しそうに語っているのだから、とりあえず口を挟まないことにしておく…。}`
-`{ruby:"In the interval between October and November, life and death become the closest they ever will.:「１０月と１１月の狭間は、生と死がもっとも近くなる。}`
-`{ruby:...The Celts believed that this was the time when the world of the living was at its closest to that of the dead and those not of this world,:…ケルト人たちはこの時期に、生者の世界と、死者やこの世ならざる者の世界がもっとも近付き、}`
-`{ruby:and when they would be visited by many inhabitants of the other world.":異界の住人たちがたくさん訪れると信じてたの」}`
-`{ruby:"......It was like the Bon festival in Japan.:「……日本でいうお盆みたいなものだよ。}`
+`{ruby:And? What do witches:んで、それが魔女とどう}{ruby:have to do with this?":関係があるんだ？」}`
+`{ruby:It seemed that my casual:俺が適当に先を促したのが少し真}{ruby:urging forward had slightly infuriated Maria.:里亞の逆鱗に触れたらしい。}`
+`{ruby:She glared at me with eyes that:口を挟まず説明させろというよ}{ruby:told me to let her explain without interrupting.:うな目で睨みつけられる。}`
+`{ruby:......Maria looked like she was having fun:……真里亞が楽しそうに語っているのだから、と}{ruby:telling me, so I decided not to interrupt...:りあえず口を挟まないことにしておく…。}`
+`{ruby:"In the interval between October and November, life:「１０月と１１月の狭間は、生}{ruby:and death become the closest they ever will.:と死がもっとも近くなる。}`
+`{ruby:...The Celts believed that this was the time when the world of the living:…ケルト人たちはこの時期に、生者の世界と、死者}{ruby:was at its closest to that of the dead and those not of this world,:やこの世ならざる者の世界がもっとも近付き、}`
+`{ruby:and when they would be visited:異界の住人たちがたくさん}{ruby:by many inhabitants of the other world.":訪れると信じてたの」}`
+`{ruby:"......It was like the:「……日本でいうお盆み}{ruby:Bon festival in Japan.:たいなものだよ。}`
 `{ruby:Kihihihihi.":きひひひひ」}`
-`{ruby:At the time, the people believed that the souls returning to the physical world would go into people's houses or possess people to do bad things.:現世に戻ってくる霊魂たちが、人々の家に入ってきたり、あるいは取り憑いて悪さをすると当時の人々は信じていた。}`
-`{ruby:So in order to avoid harm from them, the people invented protective rituals.:そこで彼らは、これらの害を受けないようなおまじないを生み出していった。}`
-`{ruby:One of those was to imitate creepy monsters and scare the souls instead, which was apparently a way to avoid being possessed.:そのひとつが、不気味な怪物の姿を模して、霊魂たちを逆に怖がらせ、取り憑かれないようにしようというものだったらしい。}`
-`{ruby:"So that part became a festival, which turned into a costume parade.:「その部分がお祭りになっていって、仮装行列になってったんだなぁ。}`
+`{ruby:At the time, the people believed that the souls returning to the physical:現世に戻ってくる霊魂たちが、人々の家に入ってきたり、ある}{ruby:world would go into people's houses or possess people to do bad things.:いは取り憑いて悪さをすると当時の人々は信じていた。}`
+`{ruby:So in order to avoid harm:そこで彼らは、これらの害を受けないよう}{ruby:from them, the people invented protective rituals.:なおまじないを生み出していった。}`
+`{ruby:One of those was to imitate creepy monsters and scare the:そのひとつが、不気味な怪物の姿を模して、霊魂たちを逆に怖がら}{ruby:souls instead, which was apparently a way to avoid being possessed.:せ、取り憑かれないようにしようというものだったらしい。}`
+`{ruby:"So that part became a festival,:「その部分がお祭りになっていって、}{ruby:which turned into a costume parade.:仮装行列になってったんだなぁ。}`
 `{ruby:...Maria's really knowledgeable!":…真里亞は本当に物知りだぜ！」}`
 `{ruby:"......Ain't it the truth.:「……ほんまやなぁ。}`
-`{ruby:Even I never knew Halloween had such a history.":わしも、ハロウィンにそないな謂れがあるなんて知らんかったわ」}`
-`{ruby:"But where did the whole "trick or treat" thing come from?":「しかし、それのどこにお菓子をくれなきゃイタズラしちゃうぞってのが出てくるんだ？」}`
-`{ruby:Her knowledge was so extensive that the adults had started listening in too at some point.:意外にも博識なので、大人たちもいつの間にか話を聞いていた。}`
-`{ruby:Maria, who was normally always treated like the youngest, puffed out her chest in pride.:普段、最年少扱いされてばかりの真里亞は得意げに胸を張っているのだった。}`
-`{ruby:Rosa tried to say this was just a kid's story, and that she wanted to quickly break up the circle and set the luggage down in the guesthouse,:楼座は、子どもの話だからと、早く輪を散らしてゲストハウスに荷物を下ろしに行きたいと言うのだが、}`
-`{ruby:but nobody else agreed, and she let out a heavy sigh.:誰も賛同してくれず、はぁっと重いため息を漏らすのだった。}`
+`{ruby:Even I never knew:わしも、ハロウィンにそないな謂れ}{ruby:Halloween had such a history.":があるなんて知らんかったわ」}`
+`{ruby:"But where did the whole:「しかし、それのどこにお菓子をくれなきゃイタ}{ruby:"trick or treat" thing come from?":ズラしちゃうぞってのが出てくるんだ？」}`
+`{ruby:Her knowledge was so extensive that the adults:意外にも博識なので、大人たちもい}{ruby:had started listening in too at some point.:つの間にか話を聞いていた。}`
+`{ruby:Maria, who was normally always treated like:普段、最年少扱いされてばかりの真里亞は}{ruby:the youngest, puffed out her chest in pride.:得意げに胸を張っているのだった。}`
+`{ruby:Rosa tried to say this was just a kid's story, and that she wanted:楼座は、子どもの話だからと、早く輪を散らしてゲスト}{ruby:to quickly break up the circle and set the luggage down in the guesthouse,:ハウスに荷物を下ろしに行きたいと言うのだが、}`
+`{ruby:but nobody else agreed, and:誰も賛同してくれず、はぁっと重}{ruby:she let out a heavy sigh.:いため息を漏らすのだった。}`
 `{ruby:"Uu.:「うー。}`
 `{ruby:Trick or treat is just for fun.:トリックオアトリートは単なるお遊び。}`
-`{ruby:It has nothing to do with what was originally a Celtic ceremony.:本来のケルト人たちの儀式とは何の関係もない。}`
-`{ruby:That was created later when Christian customs were mixed in.:それは後にキリスト教の習慣が混合して出来たものなの。}`
-`{ruby:...But I think that Halloween should be that way.":…でも、真里亞は本来のハロウィンの姿とはそうあるべきだと思うの」}`
-`{ruby:According to Maria, the souls of the dead weren't the only ones who visited from the world of the nonhuman;:真里亞の話によると、人ならざる者たちの世から訪れるのは死者の霊ばかりでなく、}`
-`{ruby:there were also spirits that had an intimate connection to how people lived.:人々の生活と密接な関係にある精霊たちもたくさん訪れるのだという。}`
-`{ruby:It was because humans received the favors of those spirits that they were able to earn a wonderful blessing,:その精霊たちの恩恵を人間が受けられるからこそ、素晴らしい恵みを得ることができ、}`
+`{ruby:It has nothing to do with:本来のケルト人たちの儀式}{ruby:what was originally a Celtic ceremony.:とは何の関係もない。}`
+`{ruby:That was created later when:それは後にキリスト教の習慣が}{ruby:Christian customs were mixed in.:混合して出来たものなの。}`
+`{ruby:...But I think that:…でも、真里亞は本来のハロウィンの}{ruby:Halloween should be that way.":姿とはそうあるべきだと思うの」}`
+`{ruby:According to Maria, the souls of the dead weren't the:真里亞の話によると、人ならざる者たちの世}{ruby:only ones who visited from the world of the nonhuman;:から訪れるのは死者の霊ばかりでなく、}`
+`{ruby:there were also spirits that had:人々の生活と密接な関係にある精霊た}{ruby:an intimate connection to how people lived.:ちもたくさん訪れるのだという。}`
+`{ruby:It was because humans received the favors of those:その精霊たちの恩恵を人間が受けられるからこ}{ruby:spirits that they were able to earn a wonderful blessing,:そ、素晴らしい恵みを得ることができ、}`
 `{ruby:and a year's worth of good crops.:一年の収穫を得ることができたのだ。}`
-`{ruby:"So in other words, Halloween was also a bit of a harvest festival?":「つまり、ハロウィンってのは収穫祭の意味も少しはあったわけか」}`
+`{ruby:"So in other words, Halloween was:「つまり、ハロウィンってのは収穫祭}{ruby:also a bit of a harvest festival?":の意味も少しはあったわけか」}`
 `{ruby:"I see.:「なるほどな。}`
-`{ruby:...Now you mention it, I get the feeling that October is a turning point in various ways, seasonally too.:…言われてみりゃ１０月ってのは、季節的にも色々節目って気がするぜ。}`
-`{ruby:I mean, it's exactly on the other side of the year to Japan's April.:日本の４月のちょうど反対側だもんな。}`
-`{ruby:......Yeah, that might be a good place to mark it.":……なるほど、キリはいいかもしれねぇなぁ」}`
+`{ruby:...Now you mention it, I get the feeling that:…言われてみりゃ１０月ってのは、季節}{ruby:October is a turning point in various ways, seasonally too.:的にも色々節目って気がするぜ。}`
+`{ruby:I mean, it's exactly on the other:日本の４月のちょうど}{ruby:side of the year to Japan's April.:反対側だもんな。}`
+`{ruby:......Yeah, that might be a:……なるほど、キリはいい}{ruby:good place to mark it.":かもしれねぇなぁ」}`
 `{ruby:"Uu!:「うー！}`
-`{ruby:And you know, the witches, they held a coven during that time, called a Sabbat.:そしてね、魔女たちはね、その時期に魔女集会、サバトを開いたの。}`
-`{ruby:The witches would thank the spirits that gave out blessings of prosperity, and reward them.":魔女たちは豊かな恵みをもたらしてくれた精霊たちに感謝し、労ったの」}`
-`{ruby:"Halloween costumes are an imitation of the visitors from the other side.:「ハロウィンの仮装は、向こうから来る客人たちの模倣。}`
-`{ruby:......So, then, the reason we give candy to them must be because of a feeling that they should be thanked for the yearly harvest.":……つまり、彼らにお菓子を施すのは、一年の収穫への感謝の気持ちがあってもいいわけだね」}`
+`{ruby:And you know, the witches, they held:そしてね、魔女たちはね、その時期に}{ruby:a coven during that time, called a Sabbat.:魔女集会、サバトを開いたの。}`
+`{ruby:The witches would thank the spirits that:魔女たちは豊かな恵みをもたらしてくれ}{ruby:gave out blessings of prosperity, and reward them.":た精霊たちに感謝し、労ったの」}`
+`{ruby:"Halloween costumes are an imitation of:「ハロウィンの仮装は、向こう}{ruby:the visitors from the other side.:から来る客人たちの模倣。}`
+`{ruby:......So, then, the reason we give candy to them must be because:……つまり、彼らにお菓子を施すのは、一年の収穫}{ruby:of a feeling that they should be thanked for the yearly harvest.":への感謝の気持ちがあってもいいわけだね」}`
 `{ruby:"Uu!:「うー！}`
 `{ruby:Just like George onii‐chan says!":譲治お兄ちゃんの言う通り！」}`
-`{ruby:"So Halloween is a time when this world and that world intermingle?:「つまり、ハロウィンはこの世とあの世の交流のある時期ってわけなんだな？}`
-`{ruby:So, in other words, it's a precious opportunity for witches to interact with visitors from that world.:それでつまり、魔女たちにとってはそういう世界の客人たちと交流できる大切な機会だったと。}`
+`{ruby:"So Halloween is a time when:「つまり、ハロウィンはこの世とあの世の}{ruby:this world and that world intermingle?:交流のある時期ってわけなんだな？}`
+`{ruby:So, in other words, it's a precious opportunity:それでつまり、魔女たちにとってはそういう世界の}{ruby:for witches to interact with visitors from that world.:客人たちと交流できる大切な機会だったと。}`
 `{ruby:Is that what you want to say?":そう言いたいわけか」}`
 `{ruby:"Uu!!:「うー！！}`
 `{ruby:Just like Battler says!":戦人の言う通り！」}`
 `{ruby:"So you know what?:「だからね？}`
 `{ruby:You know what?!:だからね？！}`
-`{ruby:October is the time when the power of witches and demons is at its most vigorous and prosperous!:魔女たちや悪魔たちの力がもっとも活発で盛んになるのが１０月なの！}`
-`{ruby:Kihihihihihihihi, I'm sure {f:5:Beatrice} will come too!":きひひひひひひひ、きっとベアトリーチェも来てくれる！」}`
-`{ruby:"And then, we'll eat the marshmallow candies together, and she'll take me to the Golden Land with her!:「そしてね、一緒にマシュマロお菓子食べて、真里亞も黄金郷に連れてってもらうの！}`
-`{ruby:We'll sing magical songs together, learn magic spells together, learn how to draw magic circles together!:一緒に魔法のお唄を歌って、魔法の呪文を習って、魔法陣の書き方を習うの！}`
-`{ruby:And then I'm going to learn the secrets of runes, and become a great witch really, really quickly!":そしてね、ルーンの秘密を習って、早く早く真里亞を立派な魔女にしてもらうの！」}`
+`{ruby:October is the time when the power of witches:魔女たちや悪魔たちの力がもっとも活発}{ruby:and demons is at its most vigorous and prosperous!:で盛んになるのが１０月なの！}`
+`{ruby:Kihihihihihihihi, I'm sure:きひひひひひひひ、きっとベアト}{ruby:{f:5:Beatrice} will come too!":リーチェも来てくれる！」}`
+`{ruby:"And then, we'll eat the marshmallow candies together, and:「そしてね、一緒にマシュマロお菓子食べて、}{ruby:she'll take me to the Golden Land with her!:真里亞も黄金郷に連れてってもらうの！}`
+`{ruby:We'll sing magical songs together, learn magic spells:一緒に魔法のお唄を歌って、魔法の呪文を}{ruby:together, learn how to draw magic circles together!:習って、魔法陣の書き方を習うの！}`
+`{ruby:And then I'm going to learn the secrets of:そしてね、ルーンの秘密を習って、早く早く真}{ruby:runes, and become a great witch really, really quickly!":里亞を立派な魔女にしてもらうの！」}`
 `{ruby:"My, my, isn't that wonderful.:「あらあら、それは素敵ねぇ。}`
 `{ruby:It's best for kids to have dreams.:子どもは夢があるのが一番よ。}`
 `{ruby:By the way, Rosa,:ところで楼座、}`
-`{ruby:how old did Maria‐chan turn this year again...?":真里亞ちゃんは今年でいくつになったんだったかしら…？」}`
+`{ruby:how old did Maria‐chan:真里亞ちゃんは今年でいくつにな}{ruby:turn this year again...?":ったんだったかしら…？」}`
 `{ruby:"Ma‐...Maria...:「ま、…真里亞…。}`
 `{ruby:That's enough of that topic!":もうそのお話は終わりにしなさい！」}`
 `{ruby:"Don't worry about it, Rosa‐san.:「気にしないで、楼座さん。}`
-`{ruby:It's a dream that any girl has at one time or another.":女の子なら誰だって一度は思い描く夢じゃない」}`
+`{ruby:It's a dream that any girl:女の子なら誰だって一度は}{ruby:has at one time or another.":思い描く夢じゃない」}`
 `{ruby:"Tha‐thank you very much.:「あ、ありがとうございます。}`
-`{ruby:...But Maria has already outgrown that age.:…でももう、真里亞はそういう歳を卒業していますので。}`
+`{ruby:...But Maria has:…でももう、真里亞はそういう}{ruby:already outgrown that age.:歳を卒業していますので。}`
 `{ruby:...Hey, I'm telling you to stop!":…こら、やめさないと言ってるでしょ！」}`
-`{ruby:Rosa scolded Maria, trying to shut her up before her cheery discussion about black magic earned her the snickers of the relatives.:真里亞がこれ以上、黒魔術的なことを朗々と語りだし、親族たちの失笑を買わないうちに、楼座は黙らせようと凄む。}`
+`{ruby:Rosa scolded Maria, trying to shut her up before her cheery:真里亞がこれ以上、黒魔術的なことを朗々と語りだし、親族た}{ruby:discussion about black magic earned her the snickers of the relatives.:ちの失笑を買わないうちに、楼座は黙らせようと凄む。}`
 `{ruby:"Wow...:「へー…。}`
 `{ruby:That's a pretty large‐scale dream.:そいつぁ何だかスケールのでかい話だな。}`
-`{ruby:......By the way, who was {f:5:Beatrice} again?:……ところでベアトリーチェって誰だっけ？}`
-`{ruby:......What was it, umm, umm, I've heard that before...":……何だっけ、えっとえっと、聞いた名前だな…」}`
-`{ruby:Battler had been gone for six years, and had completely forgotten about the legend of the Rokkenjima witch.:戦人は６年ぶりなので、六軒島の魔女伝説のことをすっかり忘れていた。}`
-`{ruby:However, when he said that he didn't know {f:5:Beatrice}'s name, Maria's mood, which had been so bright until just now, became sour in an instant.:だが、ベアトリーチェの名を知らないと口にしてしまったことは、直前までとても上機嫌だった真里亞を一瞬で不機嫌にしてしまった。}`
-`{ruby:When he saw that, Battler immediately remembered that it was the name of the witch of this island, but the damage had been done.:それを見て、戦人はすぐにこの島の魔女の名前だったと思い出すのだが、全て後の祭り。}`
-`{ruby:...Until Maria's mood improved, many mysterious and fabulous episodes regarding the Golden Witch were drilled into his brain...:…真里亞が機嫌を直すまで、延々と黄金の魔女の素晴らしきミステリアスなエピソードの数々を語りこまれるのだった…。}`
+`{ruby:......By the way,:……ところでベアトリー}{ruby:who was {f:5:Beatrice} again?:チェって誰だっけ？}`
+`{ruby:......What was it, umm,:……何だっけ、えっとえっと}{ruby:umm, I've heard that before...":、聞いた名前だな…」}`
+`{ruby:Battler had been gone for six years, and had:戦人は６年ぶりなので、六軒島の魔女伝}{ruby:completely forgotten about the legend of the Rokkenjima witch.:説のことをすっかり忘れていた。}`
+`{ruby:However, when he said that he didn't know {f:5:Beatrice}'s name, Maria's mood,:だが、ベアトリーチェの名を知らないと口にしてしまったことは、直前}{ruby:which had been so bright until just now, became sour in an instant.:までとても上機嫌だった真里亞を一瞬で不機嫌にしてしまった。}`
+`{ruby:When he saw that, Battler immediately remembered that it was the name:それを見て、戦人はすぐにこの島の魔女の名前}{ruby:of the witch of this island, but the damage had been done.:だったと思い出すのだが、全て後の祭り。}`
+`{ruby:...Until Maria's mood improved, many mysterious and fabulous episodes:…真里亞が機嫌を直すまで、延々と黄金の魔女の素晴らしきミス}{ruby:regarding the Golden Witch were drilled into his brain...:テリアスなエピソードの数々を語りこまれるのだった…。}`
 `{ruby:"That is enough, Maria.:「もうよしなさい、真里亞。}`
-`{ruby:Thank you, Battler‐kun, for going along with her stories.":ありがとうね戦人くん、お話に付き合ってくれて」}`
-`{ruby:"...Kanon‐kun, don't you have work to do?:「…嘉音くん、お仕事があるんでしょう？}`
+`{ruby:Thank you, Battler‐kun, for:ありがとうね戦人くん、お話}{ruby:going along with her stories.":に付き合ってくれて」}`
+`{ruby:"...Kanon‐kun, don't you:「…嘉音くん、お仕事が}{ruby:have work to do?:あるんでしょう？}`
 `{ruby:Please leave now.:もう行って頂戴。}`
-`{ruby:Gohda‐san, I think everyone wants to set down their bags for the time being.:郷田さん、みんな取り敢えず荷物を置きたがってると思うの。}`
-`{ruby:Sorry, but could you guide everyone to the guesthouse?":悪いんだけど、みんなをゲストハウスへ案内してくれるかしら？」}`
+`{ruby:Gohda‐san, I think everyone wants to set:郷田さん、みんな取り敢えず荷物}{ruby:down their bags for the time being.:を置きたがってると思うの。}`
+`{ruby:Sorry, but could you:悪いんだけど、みんなをゲストハウ}{ruby:guide everyone to the guesthouse?":スへ案内してくれるかしら？」}`
 `{ruby:"Certainly.:「かしこまりました。}`
-`{ruby:...Well then, everyone, I will guide you to the guesthouse.":…それでは皆様、ゲストハウスへご案内いたします」}`
+`{ruby:...Well then, everyone, I will:…それでは皆様、ゲストハウ}{ruby:guide you to the guesthouse.":スへご案内いたします」}`
 `{ruby:"......Then if you will excuse me.":「……それでは失礼いたします」}`
-`{ruby:Led by Gohda, the relatives headed off in the direction of the guesthouse.:郷田が親族たちを先導してゲストハウスの方に向かっていく。}`
-`{ruby:Their minds on setting down their luggage and taking a quick rest, they didn't notice that Rosa and Maria had stayed in the same spot.:荷物を置いて、とりあえず一息つきたい彼らは、楼座と真里亞がその場に留まっていることには気付かなかった。}`
-`{ruby:After watching them leave towards the guesthouse, Rosa's features changed suddenly.:彼らがゲストハウスの方へ行ってしまったのを見届けると、楼座の形相がたちまち変わった。}`
-`{ruby:She let go with the hand that had been gripping Maria's arm the whole time.:ずっと真里亞の腕を握り締めていた手を離す。}`
-`{ruby:...There was a bright red mark there, making it clear how much excessive force she had been gripping Maria's slender arm with.:…そこには真っ赤な跡が残り、真里亞の華奢な腕が、いかに過ぎた力で握られていたかわかった。}`
-`{ruby:That hand then smacked Maria over the head, and pulled her left ear up into the air, pinching it sharply...:そしてその手は、真里亞の頭をぴしゃりと叩くと、左の耳を鋭くつねり上げる…。}`
-`{ruby:"I'm always telling you not to talk about witches......:「魔女の話はするなといつも言っているでしょうが……。}`
-`{ruby:...Haven't I always said that was our promise together......?":…それは、ママとの約束だといつも言っているでしょう……」}`
-`{ruby:"Mama, it hurts, Mama, it hurts... It hurts it hurts it hurts......":「ママ痛い、ママ痛い…、痛い痛い痛い……」}`
-`{ruby:"Halloween, Halloween, do you ever stop...?:「ハロウィンハロウィンうるさいのよあんたは…。}`
+`{ruby:Led by Gohda, the relatives headed:郷田が親族たちを先導してゲスト}{ruby:off in the direction of the guesthouse.:ハウスの方に向かっていく。}`
+`{ruby:Their minds on setting down their luggage and taking a quick rest,:荷物を置いて、とりあえず一息つきたい彼らは、楼座と真里}{ruby:they didn't notice that Rosa and Maria had stayed in the same spot.:亞がその場に留まっていることには気付かなかった。}`
+`{ruby:After watching them leave towards:彼らがゲストハウスの方へ行ってしまったのを見}{ruby:the guesthouse, Rosa's features changed suddenly.:届けると、楼座の形相がたちまち変わった。}`
+`{ruby:She let go with the hand that:ずっと真里亞の腕を握り締}{ruby:had been gripping Maria's arm the whole time.:めていた手を離す。}`
+`{ruby:...There was a bright red mark there, making it clear how:…そこには真っ赤な跡が残り、真里亞の華奢な腕が}{ruby:much excessive force she had been gripping Maria's slender arm with.:、いかに過ぎた力で握られていたかわかった。}`
+`{ruby:That hand then smacked Maria over the head, and pulled:そしてその手は、真里亞の頭をぴしゃりと叩}{ruby:her left ear up into the air, pinching it sharply...:くと、左の耳を鋭くつねり上げる…。}`
+`{ruby:"I'm always telling you:「魔女の話はするなといつも言}{ruby:not to talk about witches......:っているでしょうが……。}`
+`{ruby:...Haven't I always said:…それは、ママとの約束だといつ}{ruby:that was our promise together......?":も言っているでしょう……」}`
+`{ruby:"Mama, it hurts, Mama, it hurts...:「ママ痛い、ママ痛い…、}{ruby:It hurts it hurts it hurts......":痛い痛い痛い……」}`
+`{ruby:"Halloween, Halloween, do:「ハロウィンハロウィンうる}{ruby:you ever stop...?:さいのよあんたは…。}`
 `{ruby:A witch festival...?:魔女のお祭り…？}`
-`{ruby:Who cares about the Celts, who cares about black magic, are you an {i:idiot}......?:ケルト人が何よ、黒魔術が何よ、馬ッ鹿じゃないの……？}`
+`{ruby:Who cares about the Celts, who cares:ケルト人が何よ、黒魔術が何よ、}{ruby:about black magic, are you an {i:idiot}......?:馬ッ鹿じゃないの……？}`
 `{ruby:You are nine years old, nine...":あんた、９歳よ９歳…」}`
-`{ruby:"Because you made that ruckus in the train, I had to go to all the trouble of getting off and buying you those disgusting monster marshmallows that look they have fluorescent paint on them...:「電車であんなに騒ぐから、わざわざ電車降りてまでその蛍光塗料みたいな気持ち悪いオバケマシュマロを買ってやったのよ…。}`
-`{ruby:We were even late because I bought them for you.:遅刻してまであんたに買ってやったのよ。}`
-`{ruby:How much more will you have to embarrass me before you're satisfied......?!":あんたどこまで私の顔を潰せば気が済むのよ……！」}`
-`{ruby:As Rosa cursed, she twisted Maria's ear up, making it seem like it was going to snap off...:楼座は呪いの言葉を吐きながら、真里亞の耳を千切れんばかりに捻り上げる…。}`
-`{ruby:An expression of anguish spread across Maria's face, and she stood on her tiptoes as though her life depended on it, trying to soften the pain on the ear that was being pulled...:真里亞は苦悶の表情を浮かべながら、懸命に爪先立ちになって、引っ張られる耳の痛みを和らげようとしている…。}`
-`{ruby:Rosa suddenly stole the candy that Maria had been holding in her hand.:真里亞が手に持っているあのお菓子を楼座は突然奪う。}`
-`{ruby:Then she threw it on the ground and stepped on it over and over.:するとそれを地面に叩き付け、何度も何度も踏みつけた。}`
-`{ruby:To Maria, it was supposed to be proof of her memory of that span of time, however brief, when she had enjoyed going shopping with her mother...:真里亞にとってそれは、束の間とはいえ、母と楽しく買い物をした記憶の証であったはず…。}`
-`{ruby:But it was being trampled by that very same mother.:それが他でもない母に踏みにじられる光景。}`
-`{ruby:{n}...It was as though a brand was being pushed against Maria's eyes, leaving a mark that couldn't be erased...:{n}…それが真里亞の瞳に、消せない焼きごてを押し当てる…。}`
-`{ruby:"Who cares about this disgusting candy,:「こんな気持ち悪いお菓子が何よ、}`
+`{ruby:"Because you made that ruckus in the train, I had to go to all the trouble of:「電車であんなに騒ぐから、わざわざ電車降りてまでその蛍光塗料}{ruby:getting off and buying you those disgusting monster marshmallows that look they have fluorescent paint on them...:みたいな気持ち悪いオバケマシュマロを買ってやったのよ…。}`
+`{ruby:We were even late because:遅刻してまであんたに買}{ruby:I bought them for you.:ってやったのよ。}`
+`{ruby:How much more will you have:あんたどこまで私の顔を潰せ}{ruby:to embarrass me before you're satisfied......?!":ば気が済むのよ……！」}`
+`{ruby:As Rosa cursed, she twisted Maria's ear up, making:楼座は呪いの言葉を吐きながら、真里亞の}{ruby:it seem like it was going to snap off...:耳を千切れんばかりに捻り上げる…。}`
+`{ruby:An expression of anguish spread across Maria's face, and she stood on her tiptoes as though:真里亞は苦悶の表情を浮かべながら、懸命に爪先立ちになっ}{ruby:her life depended on it, trying to soften the pain on the ear that was being pulled...:て、引っ張られる耳の痛みを和らげようとしている…。}`
+`{ruby:Rosa suddenly stole the candy that:真里亞が手に持っているあのお}{ruby:Maria had been holding in her hand.:菓子を楼座は突然奪う。}`
+`{ruby:Then she threw it on the ground:するとそれを地面に叩き付け、}{ruby:and stepped on it over and over.:何度も何度も踏みつけた。}`
+`{ruby:To Maria, it was supposed to be proof of her memory of that:真里亞にとってそれは、束の間とはいえ、母と楽}{ruby:span of time, however brief, when she had enjoyed going shopping with her mother...:しく買い物をした記憶の証であったはず…。}`
+`{ruby:But it was being trampled:それが他でもない母に踏}{ruby:by that very same mother.:みにじられる光景。}`
+`{ruby:{n}...It was as though a brand was being pushed:{n}…それが真里亞の瞳に、消せ}{ruby:against Maria's eyes, leaving a mark that couldn't be erased...:ない焼きごてを押し当てる…。}`
+`{ruby:"Who cares about:「こんな気持ち悪い}{ruby:this disgusting candy,:お菓子が何よ、}`
 `{ruby:disgusting, disgusting...!!":気持ち悪い気持ち悪い…！！」}`
-`{ruby:"This is {i:why}, you see?! {i:This} is why!!:「あんたがそんなんだからッ、あんたがそんなんだからッ！！}`
+`{ruby:"This is {i:why}, you:「あんたがそんなんだからッ、あ}{ruby:see?! {i:This} is why!!:んたがそんなんだからッ！！}`
 `{ruby:Disgusting disgusting disgusting!!!":気持ち悪い気持ち悪い気持ち悪い！！！」}`
-`{ruby:She struck Maria's head over and over again with her palm as she spoke.:そう言いながら何度も何度も平手で頭を打つ。}`
-`{ruby:{n}...She didn't hit Maria's face. Because the red swelling would stand out.:{n}…頬は打たない。赤く腫れて目立つからだ。}`
-`{ruby:Maria closed her eyes tightly, patiently bearing her mother's violence...:真里亞は目を固く瞑り、母の暴力にじっと耐えている…。}`
+`{ruby:She struck Maria's head over and over:そう言いながら何度も何度}{ruby:again with her palm as she spoke.:も平手で頭を打つ。}`
+`{ruby:{n}...She didn't hit Maria's face. Because:{n}…頬は打たない。赤く}{ruby:the red swelling would stand out.:腫れて目立つからだ。}`
+`{ruby:Maria closed her eyes tightly,:真里亞は目を固く瞑り、母の暴}{ruby:patiently bearing her mother's violence...:力にじっと耐えている…。}`
 `{ruby:...No, that wasn't quite it.:…いや、少し違った。}`
-`{ruby:".......Come back, Mama, come back, Mama...:「……帰ってきてママ、帰ってきてママ…。}`
+`{ruby:".......Come back, Mama,:「……帰ってきてママ、}{ruby:come back, Mama...:帰ってきてママ…。}`
 `{ruby:Save me, Mama, save me, Mama...:助けてママ、助けてママ…。}`
 `{ruby:Beat the bad witch......":悪い魔女に打ち勝って……」}`
-`{ruby:She kept bearing it, muttering that over and over...:そう呟き続けながら、ずっと耐えているのだ…。}`
+`{ruby:She kept bearing it,:そう呟き続けながら、ずっ}{ruby:muttering that over and over...:と耐えているのだ…。}`
 `{ruby:"Will you LISTEN!!:「だからッ！！}`
 `{ruby:I TOLD you...:そのッ、}`
 `{ruby:to STOP...:魔女ってのをッ、}`
@@ -170,106 +170,106 @@
 `{ruby:witch!!:つってんのよ！！}`
 `{ruby:You little...:このッ}`
 `{ruby:You... You...!!!":このこのッ！！！」}`
-`{ruby:Rosa's shoulders shook as she breathed, tired from hitting.:叩き疲れた楼座は肩で息をする。}`
-`{ruby:...Maria grasped her hands together, withstanding it, hoping her "mother" would come back quickly...:…真里亞は両手を握り締め、早く“母”が帰ってくるのを耐えている…。}`
+`{ruby:Rosa's shoulders shook as:叩き疲れた楼座は肩}{ruby:she breathed, tired from hitting.:で息をする。}`
+`{ruby:...Maria grasped her hands together, withstanding it,:…真里亞は両手を握り締め、早く“母”}{ruby:hoping her "mother" would come back quickly...:が帰ってくるのを耐えている…。}`
 `{ruby:"......Mama, Mama...:「……ママ、ママ…。}`
 `{ruby:Come back quickly...:早く帰ってきて…。}`
 `{ruby:Save me, Mama......:真里亞を助けてよ、ママ……。}`
 `{ruby:Finish off the bad witch......":悪い魔女をやっつけてよ……」}`
-`{ruby:"Why don't you, ...why don't you just stay there doing that forever!!:「い、…いつまでもそこでそうしていなさい！！}`
-`{ruby:And then you can just stand there, mumbling about witches and Halloween forever!!":そしてそこで、魔女でもハロウィンでもいつまでもブツブツひとりで言ってればいいのよ！！」}`
-`{ruby:After throwing those words at Maria, Rosa went off towards the guesthouse, leaving Maria behind.:楼座はそれだけを言い捨てると、その場に真里亞を残し、ゲストハウスの方へ去っていく。}`
-`{ruby:...Maria, unable even to remember that it was alright to cry,:…真里亞は、泣いてもいいことすら思い出せず、}`
-`{ruby:kept staring down at the trampled, unrecognizable jack‐o'‐lantern candy...:踏みにじられ、見る影もなくなったジャックオーランタンのお菓子をいつまでもいつまでも、見下ろしていた…。}`
+`{ruby:"Why don't you, ...why don't you:「い、…いつまでもそこで}{ruby:just stay there doing that forever!!:そうしていなさい！！}`
+`{ruby:And then you can just stand:そしてそこで、魔女でもハロウィンでもいつまでも}{ruby:there, mumbling about witches and Halloween forever!!":ブツブツひとりで言ってればいいのよ！！」}`
+`{ruby:After throwing those words at Maria, Rosa:楼座はそれだけを言い捨てると、その場に真里亞}{ruby:went off towards the guesthouse, leaving Maria behind.:を残し、ゲストハウスの方へ去っていく。}`
+`{ruby:...Maria, unable even to remember:…真里亞は、泣いてもいい}{ruby:that it was alright to cry,:ことすら思い出せず、}`
+`{ruby:kept staring down at:踏みにじられ、見る影もなくなったジャックオーランタンの}{ruby:the trampled, unrecognizable jack‐o'‐lantern candy...:お菓子をいつまでもいつまでも、見下ろしていた…。}`
 `{ruby:"Oh, Rosa.:「あら、楼座。}`
 `{ruby:Where did you go?":どこ行ってたのぅ？」}`
 `{ruby:"I'm sorry.:「ごめんなさい。}`
-`{ruby:The roses were so wonderful, I got a bit carried away.":薔薇が素敵だったもので、ついつい」}`
-`{ruby:"Rosa, go set your luggage down, quickly.:「楼座、早く荷物を置いて来いよ。}`
+`{ruby:The roses were so wonderful,:薔薇が素敵だったもの}{ruby:I got a bit carried away.":で、ついつい」}`
+`{ruby:"Rosa, go set:「楼座、早く荷物を}{ruby:your luggage down, quickly.:置いて来いよ。}`
 `{ruby:We're going to greet Aniki.":兄貴んとこへ挨拶に行こうぜ」}`
 `{ruby:"Hmm?:「ん？}`
 `{ruby:What happened to Maria‐chan?:真里亞ちゃんはどうしたんや。}`
 `{ruby:Is she still by the flower beds?":まだ花壇におるんかいな」}`
 `{ruby:"...Yes.:「…えぇ。}`
-`{ruby:It looks like there was a rose she liked, and she said she wanted to look after it and wouldn't listen.:気に入った薔薇があるみたいで、世話をするって言って聞かなくて。}`
-`{ruby:I decided to let her do what she wants for a while.":しばらくは好きにさせることにしました」}`
-`{ruby:"............We sometimes forget that girls have their own little world.:「…………女の子には女の子の世界があったことを、私たちはたまに忘れるわ。}`
-`{ruby:Sometimes, we have to respect that, right?":時には尊重してあげないとね」}`
+`{ruby:It looks like there was a rose she liked, and:気に入った薔薇があるみたいで、世話}{ruby:she said she wanted to look after it and wouldn't listen.:をするって言って聞かなくて。}`
+`{ruby:I decided to let her do:しばらくは好きにさせる}{ruby:what she wants for a while.":ことにしました」}`
+`{ruby:"............We sometimes forget that girls:「…………女の子には女の子の世界があっ}{ruby:have their own little world.:たことを、私たちはたまに忘れるわ。}`
+`{ruby:Sometimes, we have:時には尊重してあ}{ruby:to respect that, right?":げないとね」}`
 `{ruby:"......That's right.:「……そうね。}`
-`{ruby:...Thank you for caring, Kyrie nee‐san.":…お気遣いをありがとう、霧江姉さん」}`
+`{ruby:...Thank you for:…お気遣いをありがと}{ruby:caring, Kyrie nee‐san.":う、霧江姉さん」}`
 `{ruby:"...Gohda‐san.:「…郷田さん。}`
 `{ruby:Where is our room?":私たちの部屋はどこ？」}`
 `{ruby:"I will guide you. This way.:「ご案内いたします、こちらでございます。}`
 `{ruby:Allow me to hold your luggage.":お荷物をお持ちいたしましょう」}`
-`{ruby:"I'm fine, I can carry it myself. Thank you.":「結構よ、自分で持てます、ありがとう」}`
-`{ruby:Rosa went into the room that Gohda had guided her to.:楼座は郷田に案内された客室に入る。}`
-`{ruby:Closing the door somewhat violently, she threw her luggage on top of the bed.:そしてやや乱暴に扉を閉めると、ベッドの上に荷物を放り投げる。}`
+`{ruby:"I'm fine, I can:「結構よ、自分で持てま}{ruby:carry it myself. Thank you.":す、ありがとう」}`
+`{ruby:Rosa went into the room:楼座は郷田に案内され}{ruby:that Gohda had guided her to.:た客室に入る。}`
+`{ruby:Closing the door somewhat violently, she threw:そしてやや乱暴に扉を閉めると、ベ}{ruby:her luggage on top of the bed.:ッドの上に荷物を放り投げる。}`
 `{ruby:".................................:「…………………………………………。}`
 `{ruby:............":…………」}`
-`{ruby:She got down on her knees in front of the bed, ......and buried her face in it.:そのベッドの前に、…跪くように両膝を付き、……ベッドに顔を埋める。}`
-`{ruby:For a while, Rosa made as if to shred the sheets with her fingernails, sobbing continually...:しばらくの間、楼座はシーツを爪で引き裂くようにしながら、嗚咽を漏らし続けるのだった…。}`
+`{ruby:She got down on her knees in front:そのベッドの前に、…跪くように両膝を}{ruby:of the bed, ......and buried her face in it.:付き、……ベッドに顔を埋める。}`
+`{ruby:For a while, Rosa made as if to:しばらくの間、楼座はシーツを爪で引き裂くように}{ruby:shred the sheets with her fingernails, sobbing continually...:しながら、嗚咽を漏らし続けるのだった…。}`
 `{ruby:".........Maria‐sama.:「………真里亞さま。}`
 `{ruby:...Are you alright?":…大丈夫ですか」}`
-`{ruby:Kanon, who had been hiding behind a thicket, appeared after watching Rosa leave.:茂みの裏に隠れていた嘉音が、楼座の姿がなくなったことを見届けてから姿を現す。}`
+`{ruby:Kanon, who had been hiding behind:茂みの裏に隠れていた嘉音が、楼座の姿がな}{ruby:a thicket, appeared after watching Rosa leave.:くなったことを見届けてから姿を現す。}`
 `{ruby:"...Kihi......kihihihihihihihihihi...:「…きひ、……きひひひひひひひひひ…。}`
 `{ruby:...I'm fine.:…平気だよ。}`
 `{ruby:...Kihihihihi.":…きひひひひ」}`
-`{ruby:Maria laughed unpleasantly, but to Kanon, who had seen the whole thing, it looked like she was enduring as best she could...:真里亞は気持ち悪く笑うが、一部始終を見ていた嘉音にとってそれは、彼女なりの精一杯のやせ我慢に見えるのだった…。}`
+`{ruby:Maria laughed unpleasantly, but to Kanon, who had seen the whole:真里亞は気持ち悪く笑うが、一部始終を見ていた嘉音にとってそ}{ruby:thing, it looked like she was enduring as best she could...:れは、彼女なりの精一杯のやせ我慢に見えるのだった…。}`
 `{ruby:"She's a horrible person.:「最低のヤツだ。}`
-`{ruby:I can't believe that was a mother......":あれで母親なんて……」}`
+`{ruby:I can't believe:あれで母親なん}{ruby:that was a mother......":て……」}`
 `{ruby:"......It can't be helped.:「……仕方ないよ。}`
-`{ruby:Such pitiful things enter such pitiful vessels.:その程度の器にはその程度のが入り込む。}`
+`{ruby:Such pitiful things:その程度の器にはその程}{ruby:enter such pitiful vessels.:度のが入り込む。}`
 `{ruby:...I am just fine.:…真里亞は全然平気だよ。}`
 `{ruby:Kihihihihihihihihihi......":きひひひひひひひひひ……」}`
-`{ruby:Kanon got down on his knees and picked up the trampled candy.:嘉音は膝を付くと、踏みにじられたお菓子を拾う。}`
-`{ruby:......It was tragic just looking at it.:……それは見るも無惨。}`
-`{ruby:He thought about dusting it off and returning it to her, but really couldn't do so with it in that condition.:埃を払って返してあげようと思ったが、とてもそんな有様ではなかった。}`
-`{ruby:As he was at a loss at what to do, he met eyes with Maria.:どうしようか途方に暮れていると、真里亞と目が合う。}`
+`{ruby:Kanon got down on his knees:嘉音は膝を付くと、踏みにじ}{ruby:and picked up the trampled candy.:られたお菓子を拾う。}`
+`{ruby:......It was tragic:……それは見る}{ruby:just looking at it.:も無惨。}`
+`{ruby:He thought about dusting it off and returning it to:埃を払って返してあげようと思ったが、}{ruby:her, but really couldn't do so with it in that condition.:とてもそんな有様ではなかった。}`
+`{ruby:As he was at a loss at:どうしようか途方に暮れている}{ruby:what to do, he met eyes with Maria.:と、真里亞と目が合う。}`
 `{ruby:{n}......No, they didn't meet.:{n}……いや、合わなかった。}`
-`{ruby:{n}Maria was looking at the candy that Kanon had picked up.:{n}真里亞は、嘉音の拾い上げたお菓子を見ていた。}`
-`{ruby:...Right now, Maria's heart was surely the same as that trampled candy which had been crushed into a pulp...:…今の真里亞の胸中は多分、…この踏みにじられてぐしゃぐしゃに潰されてしまったお菓子と同じに違いない…。}`
-`{ruby:Kanon realized this, but he didn't know what he should do...:嘉音はそれを察したが、どうしてやればいいかわからない…。}`
+`{ruby:{n}Maria was looking at the:{n}真里亞は、嘉音の拾い上}{ruby:candy that Kanon had picked up.:げたお菓子を見ていた。}`
+`{ruby:...Right now, Maria's heart was surely the same as:…今の真里亞の胸中は多分、…この踏みにじられてぐしゃぐ}{ruby:that trampled candy which had been crushed into a pulp...:しゃに潰されてしまったお菓子と同じに違いない…。}`
+`{ruby:Kanon realized this, but he:嘉音はそれを察したが、どうして}{ruby:didn't know what he should do...:やればいいかわからない…。}`
 `{ruby:"...I know...:「…そうだ…。}`
-`{ruby:......I'll exchange it for the one I received earlier.":……さっき僕がもらったのと交換してあげるよ」}`
-`{ruby:Kanon remembered that an identical candy which he had received from Maria was in his pocket.:嘉音は、さっき真里亞にもらった同じお菓子がポケットにあったことを思い出す。}`
+`{ruby:......I'll exchange it for:……さっき僕がもらったの}{ruby:the one I received earlier.":と交換してあげるよ」}`
+`{ruby:Kanon remembered that an identical candy which he:嘉音は、さっき真里亞にもらった同じお菓子}{ruby:had received from Maria was in his pocket.:がポケットにあったことを思い出す。}`
 `{ruby:Maria stuck out her hand.:真里亞は手を突き出す。}`
-`{ruby:......Kanon thought she was trying to accept it, so he held out the candy, but Maria didn't try to grasp it.:……受け取るという意味なのだと思って、お菓子を差し出すが、真里亞は握ろうとしない。}`
+`{ruby:......Kanon thought she was trying to accept it, so he:……受け取るという意味なのだと思って、お菓子}{ruby:held out the candy, but Maria didn't try to grasp it.:を差し出すが、真里亞は握ろうとしない。}`
 `{ruby:......Then Kanon realized.:……そして嘉音は気付く。}`
-`{ruby:...She was asking him to give it back.:…返せと言っているのだ。}`
-`{ruby:......No matter how tragic it was, the trampled candy was Maria's.:……どんなに無惨でも、踏みにじられた方のお菓子が、真里亞のもの。}`
+`{ruby:...She was asking him:…返せと言って}{ruby:to give it back.:いるのだ。}`
+`{ruby:......No matter how tragic it:……どんなに無惨でも、踏みにじられ}{ruby:was, the trampled candy was Maria's.:た方のお菓子が、真里亞のもの。}`
 `{ruby:...Her mother had bought it for her.:…真里亞にと母が買ってくれたもの。}`
-`{ruby:No matter how tragic, it had to be this candy...:どんなに無惨でも、このお菓子でなければならないのだ…。}`
-`{ruby:{n}If only it could be made pretty again by dusting it off...:{n}それが、埃を払えば綺麗になる程度のものだったなら…。}`
+`{ruby:No matter how tragic, it:どんなに無惨でも、このお菓子で}{ruby:had to be this candy...:なければならないのだ…。}`
+`{ruby:{n}If only it could be made:{n}それが、埃を払えば綺麗にな}{ruby:pretty again by dusting it off...:る程度のものだったなら…。}`
 `{ruby:...Kanon hung his head.:…嘉音は俯く。}`
-`{ruby:".........I can't do anything except dust it off.:「……僕には、埃を払う程度しかできない。}`
+`{ruby:".........I can't do anything:「……僕には、埃を払う}{ruby:except dust it off.:程度しかできない。}`
 `{ruby:.........Sorry.":……ごめん」}`
-`{ruby:Kanon held out the miserable candy she wanted.:嘉音は彼女が求める、惨めなお菓子を差し出す。}`
+`{ruby:Kanon held out the:嘉音は彼女が求める、惨め}{ruby:miserable candy she wanted.:なお菓子を差し出す。}`
 `{ruby:{n}Maria took it, and spoke.:{n}真里亞はそれを受け取り、言った。}`
 `{ruby:"...Thank you.:「…ありがとう。}`
-`{ruby:A {y:0:Human}{n:0:human} can't do anything except dust it off, but a witch can repair it to how it was.:ニンゲンには埃しか払えないけど、魔女には元通りに直すことが出来るよ。}`
+`{ruby:A {y:0:Human}{n:0:human} can't do anything except dust it off,:ニンゲンには埃しか払えないけど、魔女}{ruby:but a witch can repair it to how it was.:には元通りに直すことが出来るよ。}`
 `{ruby:It would be easy for {f:5:Beatrice}.:ベアトリーチェなら簡単にね。}`
 `{ruby:Kihihihihihi.":きひひひひひ」}`
 `{ruby:"............Maria‐sama,:「…………真里亞さまは、}`
 `{ruby:...do you...:…ベアトリーチェ…、}`
 `{ruby:know about {f:5:Beatrice}‐sama?":…さまのことをご存知なのですか」}`
-`{ruby:There couldn't be anyone related to the Ushiromiya family who didn't know {f:5:Beatrice}'s name, with Battler as an exception.:右代宮家に関わるものなら、戦人を例外にすればベアトリーチェの名を知らぬ者はおるまい。}`
-`{ruby:...But just now, Maria had told Battler about her proudly.:…しかし先ほど、真里亞は得意げに戦人に語った。}`
-`{ruby:{n}She had spoken almost as though she had been meeting with {f:5:Beatrice} regularly.:{n}それはまるで、普段からベアトリーチェに会っているかのような口調だった。}`
-`{ruby:The inside of the fist Kanon made with his left hand hurt sharply.:嘉音は左の握り拳の内側が、ちりりと痛むのを感じる。}`
-`{ruby:{n}......In the past, a witch called {f:5:Beatrice} had appeared, and had tempted him and Shannon.:{n}……かつて、ベアトリーチェという魔女が現れ、自分と紗音を唆した。}`
-`{ruby:He had always tried to make himself think it had been a bad dream.:あれは悪い夢だったとずっと思い込むようにしていた。}`
-`{ruby:......However, Shannon insisted that it had definitely been a real witch.:……だが、紗音はあれは現実で間違いなく本物の魔女だったと言い張っている。}`
+`{ruby:There couldn't be anyone related to the Ushiromiya family:右代宮家に関わるものなら、戦人を例外にすれば}{ruby:who didn't know {f:5:Beatrice}'s name, with Battler as an exception.:ベアトリーチェの名を知らぬ者はおるまい。}`
+`{ruby:...But just now, Maria had:…しかし先ほど、真里亞は得}{ruby:told Battler about her proudly.:意げに戦人に語った。}`
+`{ruby:{n}She had spoken almost as though:{n}それはまるで、普段からベアトリーチ}{ruby:she had been meeting with {f:5:Beatrice} regularly.:ェに会っているかのような口調だった。}`
+`{ruby:The inside of the fist Kanon:嘉音は左の握り拳の内側が、ち}{ruby:made with his left hand hurt sharply.:りりと痛むのを感じる。}`
+`{ruby:{n}......In the past, a witch called {f:5:Beatrice}:{n}……かつて、ベアトリーチェという}{ruby:had appeared, and had tempted him and Shannon.:魔女が現れ、自分と紗音を唆した。}`
+`{ruby:He had always tried to make himself:あれは悪い夢だったとずっと思}{ruby:think it had been a bad dream.:い込むようにしていた。}`
+`{ruby:......However, Shannon insisted that it:……だが、紗音はあれは現実で間違いなく}{ruby:had definitely been a real witch.:本物の魔女だったと言い張っている。}`
 `{ruby:And then, this summer.:そしてこの夏。}`
-`{ruby:......The shrine to the local Shinto god had been hit by lightning and had disappeared without a trace in the span of a single night.:……鎮守の社が一夜の内に落雷で跡形もなくなってしまった。}`
-`{ruby:...He had known that Shannon had broken the mirror.:…紗音が鏡を割ったことは知っていた。}`
-`{ruby:{n}......And he remembered too that upon the witch's departure, she had left him with the words that she would eventually be revived.:{n}……そして、魔女が去り際にやがて蘇ると捨て台詞を残したことも覚えていた。}`
-`{ruby:And now, .........this girl who had no end of faith in {f:5:Beatrice} spoke as though she had met her.:そして、…………ベアトリーチェを信奉して止まない少女が、ベアトリーチェに会っているかのように話す。}`
-`{ruby:...Kanon couldn't suppress a sense of something ominous welling up in his heart.:…嘉音は、心に何か不吉なものが込み上げるのを抑えられずにいた。}`
-`{ruby:For a while, Maria remained silent, as though she could see into Kanon's heart.:しばらくの間、真里亞は嘉音の胸中を見透かすように沈黙を守った。}`
-`{ruby:...As though she was waiting for his memory of {f:5:Beatrice} to come back to him.:…まるで、ベアトリーチェの記憶が蘇るのを待っていたかのように。}`
+`{ruby:......The shrine to the local Shinto god had been hit by lightning:……鎮守の社が一夜の内に落雷で}{ruby:and had disappeared without a trace in the span of a single night.:跡形もなくなってしまった。}`
+`{ruby:...He had known that:…紗音が鏡を割ったこ}{ruby:Shannon had broken the mirror.:とは知っていた。}`
+`{ruby:{n}......And he remembered too that upon the witch's departure, she had:{n}……そして、魔女が去り際にやがて蘇る}{ruby:left him with the words that she would eventually be revived.:と捨て台詞を残したことも覚えていた。}`
+`{ruby:And now, .........this girl who had no end of:そして、…………ベアトリーチェを信奉して止まない少女}{ruby:faith in {f:5:Beatrice} spoke as though she had met her.:が、ベアトリーチェに会っているかのように話す。}`
+`{ruby:...Kanon couldn't suppress a sense of:…嘉音は、心に何か不吉なものが込み}{ruby:something ominous welling up in his heart.:上げるのを抑えられずにいた。}`
+`{ruby:For a while, Maria remained silent, as:しばらくの間、真里亞は嘉音の胸中を}{ruby:though she could see into Kanon's heart.:見透かすように沈黙を守った。}`
+`{ruby:...As though she was waiting for his:…まるで、ベアトリーチェの記憶が蘇}{ruby:memory of {f:5:Beatrice} to come back to him.:るのを待っていたかのように。}`
 `{ruby:Then, she spoke matter‐of‐factly.:そして、さも事実であるかのように言う。}`
 `{ruby:"Kihihihihi...:「きひひひひ…。}`
-`{ruby:You know, I am friends with {f:5:Beatrice}.:真里亞はね、ベアトリーチェとお友達なの。}`
+`{ruby:You know, I:真里亞はね、ベアトリー}{ruby:am friends with {f:5:Beatrice}.:チェとお友達なの。}`
 `{ruby:I'm meeting her today too, to play.:今日だって会って一緒に遊ぶよ？}`
 `{ruby:Kihihihihihihihihi...":きひひひひひひひひ…」}`
 `{ruby:"Pla‐...play?":「遊び、…ますか」}`
@@ -277,266 +277,266 @@
 `{ruby:Play.:遊ぶよ？}`
 `{ruby:We're going to study magic together.:一緒にね、魔法のお勉強をするの。}`
 `{ruby:Kihihihihihihihi...":きひひひひひひひ…」}`
-`{ruby:......The face of the witch, who Kanon had tried to pretend was a bad dream,:……嘉音が、悪い夢だったと思い込もうとしている魔女の面影が、}`
-`{ruby:......began to slowly creep into the back of his mind......:……じわりじわりと脳裏に蘇ってくるのだった……。}`
-`{ruby:"Father said he was extremely busy with his research.:「お父様は研究で大変ご多忙と仰せです。}`
-`{ruby:He said that, unfortunately, he will be unable to make an appearance.":残念ながらこちらへはお出でになれないとのことです」}`
+`{ruby:......The face of the witch, who Kanon:……嘉音が、悪い夢だったと思い込}{ruby:had tried to pretend was a bad dream,:もうとしている魔女の面影が、}`
+`{ruby:......began to slowly creep into:……じわりじわりと脳裏に蘇}{ruby:the back of his mind......:ってくるのだった……。}`
+`{ruby:"Father said he was:「お父様は研究で大変ご}{ruby:extremely busy with his research.:多忙と仰せです。}`
+`{ruby:He said that, unfortunately, he will:残念ながらこちらへはお出でに}{ruby:be unable to make an appearance.":なれないとのことです」}`
 `{ruby:"......Come on.:「……やれやれ。}`
-`{ruby:We've put this conference in our schedules and come all the way out to Rokkenjima during the very busy fall season.:こちとら、秋の大忙しの中、日程をつけてはるばる六軒島まで来てるんだぜ。}`
-`{ruby:I wish Dad would act a little more sociable.":親父も少しは愛想をよくしてもらいたいもんだぜ」}`
+`{ruby:We've put this conference in our schedules and come all:こちとら、秋の大忙しの中、日程をつけて}{ruby:the way out to Rokkenjima during the very busy fall season.:はるばる六軒島まで来てるんだぜ。}`
+`{ruby:I wish Dad would:親父も少しは愛想をよくして}{ruby:act a little more sociable.":もらいたいもんだぜ」}`
 `{ruby:"So true.:「本当よねぇ。}`
 `{ruby:......Doctor Nanjo.:……南條先生。}`
-`{ruby:Is it really a problem with his research and his mood?:本当に研究や機嫌の問題なのぅ？}`
-`{ruby:He isn't already bedridden, and unable to get up, right?":ベッドから起き上がれないくらいに、容態が悪いって言うんじゃないのぅ？」}`
+`{ruby:Is it really a problem:本当に研究や機嫌の}{ruby:with his research and his mood?:問題なのぅ？}`
+`{ruby:He isn't already bedridden, and:ベッドから起き上がれないくらいに、容態}{ruby:unable to get up, right?":が悪いって言うんじゃないのぅ？」}`
 `{ruby:"......Well, ......I wonder.:「……さて、……どうでしょうかな。}`
 `{ruby:There is not much I can say...":私の口からは何とも…」}`
 `{ruby:Nanjo glanced at Natsuhi.:南條はちらりと夏妃を見る。}`
-`{ruby:{n}As though he wasn't qualified to disregard Natsuhi when he spoke on this topic.:{n}夏妃を差し置いてそれを口にする資格がないという風だった。}`
+`{ruby:{n}As though he wasn't qualified to disregard:{n}夏妃を差し置いてそれを口にす}{ruby:Natsuhi when he spoke on this topic.:る資格がないという風だった。}`
 `{ruby:"Father is healthier than ever.:「お父様はますますにご健康でいらっしゃいます。}`
-`{ruby:Calling him bedridden is the height of rudeness...!":寝たきりなどと、失礼極まりない…！」}`
-`{ruby:"But he only has three months left to live, right?:「でも余命３ヶ月なんでしょう？}`
-`{ruby:Normally, wouldn't that mean that he'd be wasting away, unable to get out of his bed?:普通に考えれば痩せ衰えてベッドからも起きられないはずよぅ。}`
+`{ruby:Calling him bedridden is:寝たきりなどと、失礼}{ruby:the height of rudeness...!":極まりない…！」}`
+`{ruby:"But he only has three:「でも余命３ヶ月な}{ruby:months left to live, right?:んでしょう？}`
+`{ruby:Normally, wouldn't that mean that he'd be wasting:普通に考えれば痩せ衰えてベッドか}{ruby:away, unable to get out of his bed?:らも起きられないはずよぅ。}`
 `{ruby:Right, Doctor Nanjo?":でしょう、南條先生？」}`
-`{ruby:".........For a normal patient, that would probably be the case.:「………並の患者ならそうでしょうがな。}`
-`{ruby:But Kinzo‐san has extraordinary willpower.:金蔵さんは並外れた気力をお持ちです。}`
-`{ruby:...The force of his will may have even the Grim Reaper too terrified to approach...":…あの気迫に、お迎えも恐れて近寄れないのかもしれませんな…」}`
-`{ruby:"If he's that energetic, then we can be at least a little reassured, right?":「それほどまでにお元気なら、少なくとも安心ね」}`
-`{ruby:"...Although if he's that energetic, I wish he'd at least allow us to greet him.:「…そこまで元気なら、せめて挨拶くらいはさせてほしいもんなんだがな。}`
-`{ruby:...Isn't the point of the family conference to come and see Dad's face?:…親族会議ってのは親父の顔を見に来たって意味なんだぜ？}`
-`{ruby:Now I don't know why the hell we came.":これじゃあ、何のために来たのかわからねぇぜ」}`
+`{ruby:".........For a normal patient, that:「………並の患者ならそ}{ruby:would probably be the case.:うでしょうがな。}`
+`{ruby:But Kinzo‐san:金蔵さんは並外れた気}{ruby:has extraordinary willpower.:力をお持ちです。}`
+`{ruby:...The force of his will may have:…あの気迫に、お迎えも恐れて近寄}{ruby:even the Grim Reaper too terrified to approach...":れないのかもしれませんな…」}`
+`{ruby:"If he's that energetic, then we can:「それほどまでにお元気なら}{ruby:be at least a little reassured, right?":、少なくとも安心ね」}`
+`{ruby:"...Although if he's that energetic, I wish:「…そこまで元気なら、せめて挨拶くら}{ruby:he'd at least allow us to greet him.:いはさせてほしいもんなんだがな。}`
+`{ruby:...Isn't the point of the family:…親族会議ってのは親父の顔を見}{ruby:conference to come and see Dad's face?:に来たって意味なんだぜ？}`
+`{ruby:Now I don't know:これじゃあ、何のために来た}{ruby:why the hell we came.":のかわからねぇぜ」}`
 `{ruby:"Don't say that.:「そう言うな。}`
-`{ruby:If he were here, you would complain the whole time about how you couldn't relax.:居れば居たで、心が休まらないといつもぼやくのだろうが。}`
-`{ruby:I say we should celebrate that all of us siblings are here together as a family again this year, as we were the last, without even one of us missing.":兄弟一同、水入らずで今年も全員、欠けることなく集まれたことを喜ぼうじゃないかね」}`
-`{ruby:"You realize we couldn't meet him at last year's family conference either?:「昨年の親族会議でも会えなかったのよ？}`
-`{ruby:I wonder why we can't get him to understand that his children by blood want to see him after two years.":血を分けた子どもたちが、２年ぶりに挨拶したいというのが、どうして理解してもらえないのかしらぁ」}`
-`{ruby:"......If you have words of greeting for him, I will tell him for you.:「……挨拶の言葉があるのでしたら、私どもがお伝えします。}`
+`{ruby:If he were here, you would complain:居れば居たで、心が休まらないと}{ruby:the whole time about how you couldn't relax.:いつもぼやくのだろうが。}`
+`{ruby:I say we should celebrate that all of us siblings are here together as a:兄弟一同、水入らずで今年も全員、欠けること}{ruby:family again this year, as we were the last, without even one of us missing.":なく集まれたことを喜ぼうじゃないかね」}`
+`{ruby:"You realize we couldn't meet him:「昨年の親族会議でも会}{ruby:at last year's family conference either?:えなかったのよ？}`
+`{ruby:I wonder why we can't get him to understand that:血を分けた子どもたちが、２年ぶりに挨拶したいという}{ruby:his children by blood want to see him after two years.":のが、どうして理解してもらえないのかしらぁ」}`
+`{ruby:"......If you have words of greeting for:「……挨拶の言葉があるのでした}{ruby:him, I will tell him for you.:ら、私どもがお伝えします。}`
 `{ruby:Or, Eva‐san,:それとも絵羽さん。}`
-`{ruby:......perhaps you had something other than a greeting you wanted to discuss with Father...?":……何かお父様にお会いして、挨拶以上のお話でもあられるのですか…？」}`
+`{ruby:......perhaps you had something other than a:……何かお父様にお会いして、挨拶以上}{ruby:greeting you wanted to discuss with Father...?":のお話でもあられるのですか…？」}`
 `{ruby:"..................nn.:「………………ん。}`
-`{ruby:...Come on, what are you talking about, sheesh.":…いやぁね、何の話よぅ、もう」}`
+`{ruby:...Come on, what are:…いやぁね、何の話}{ruby:you talking about, sheesh.":よぅ、もう」}`
 `{ruby:"Give it a rest, Eva.:「よさんか絵羽。}`
 `{ruby:Natsuhi‐san, forgive us.:夏妃さん、堪忍な。}`
-`{ruby:Eva's just concerned about Father's condition, as his daughter.:絵羽も娘として、お父さんの病状が不安なだけなんや。}`
-`{ruby:Please understand her feelings a bit.":ちょいと気持ちを汲み取ってぇな」}`
+`{ruby:Eva's just concerned about:絵羽も娘として、お父さんの病}{ruby:Father's condition, as his daughter.:状が不安なだけなんや。}`
+`{ruby:Please understand her:ちょいと気持ちを汲}{ruby:feelings a bit.":み取ってぇな」}`
 `{ruby:"That's right.:「その通りだな。}`
-`{ruby:Eva, how suddenly you've become respectful to Father since he was told how long he has left.:絵羽は親父殿が余命を宣告されてから急に親孝行をするようになったじゃないか。}`
-`{ruby:...Yes, I can just about understand why you might be desperate to see him.:…なるほど、その姿をぜひ見てもらいたいという気持ちも、わからなくない。}`
+`{ruby:Eva, how suddenly you've become respectful to Father:絵羽は親父殿が余命を宣告されてから急に親}{ruby:since he was told how long he has left.:孝行をするようになったじゃないか。}`
+`{ruby:...Yes, I can just about understand why:…なるほど、その姿をぜひ見てもらいたい}{ruby:you might be desperate to see him.:という気持ちも、わからなくない。}`
 `{ruby:......Hmph.":……ふ」}`
-`{ruby:".........What exactly are you implying?":「………何が言いたいのよ」}`
+`{ruby:".........What exactly:「………何が言い}{ruby:are you implying?":たいのよ」}`
 `{ruby:"Quit it, Aneki.:「よせよ姉貴。}`
-`{ruby:Why don't we pray that his mood will improve by dinner?:晩飯までには機嫌を直してくれるよう、祈ろうじゃねぇか。}`
+`{ruby:Why don't we pray that:晩飯までには機嫌を直してくれる}{ruby:his mood will improve by dinner?:よう、祈ろうじゃねぇか。}`
 `{ruby:...And we've just arrived.:…それに俺たちは到着したばかり。}`
-`{ruby:And anyway, we only came to give a light greeting.:まずは軽く挨拶に訪れただけだぜ。}`
-`{ruby:We can hold the family conference even without Dad.":親族会議は親父抜きだって出来る」}`
-`{ruby:"...No, there should even be a few things that we can't talk to him about until we form a unified opinion.:「…いや、兄弟で意見を統一してからじゃなきゃ話せねぇことだって色々あるはずだぜ？}`
+`{ruby:And anyway, we only came:まずは軽く挨拶に訪}{ruby:to give a light greeting.:れただけだぜ。}`
+`{ruby:We can hold the:親族会議は親父抜き}{ruby:family conference even without Dad.":だって出来る」}`
+`{ruby:"...No, there should even be a few things that we:「…いや、兄弟で意見を統一してからじゃなき}{ruby:can't talk to him about until we form a unified opinion.:ゃ話せねぇことだって色々あるはずだぜ？}`
 `{ruby:Right, Hideyoshi nii‐san?":なぁ、秀吉兄さん」}`
 `{ruby:"Yep!:「そうや！}`
 `{ruby:Just as Rudolf‐kun says.:留弗夫くんの言う通りや。}`
-`{ruby:......We can only gather our faces here once a year.:……わしらが全員顔を揃えるのは年に一度しかない。}`
-`{ruby:We've gotta value this precious time we've got, and talk together frankly.":貴重な時間を大事にし、忌憚ない話し合いをせんといかん」}`
-`{ruby:Even though the tea hadn't even come yet, ...they were very strong‐minded.:まだお茶すら来ていないというのに、彼らは本当にたくましかった。}`
-`{ruby:"But before that, I wonder if we have enough leeway to enjoy some black tea at our leisure,:「でも、その前に本家の素晴らしい調度品に囲まれた客間で、}`
-`{ruby:surrounded by the wonderful furnishings of the mansion's parlor...":のんびりと紅茶を楽しむゆとりがあってもいいんじゃないかしら…」}`
-`{ruby:Kyrie's words seemed to hold some slight admonishment towards all of the people gathered in that place.:霧江のその言葉は、居合わせた人間全員に対し、軽い戒めの意味合いがあったようだった。}`
-`{ruby:They all understood, and as they cleared their throats and straightened their neckties, the atmosphere in the room returned to normal for a moment.:全員それを理解し、咳払いをしたり、ネクタイを締めなおしたりなどしながら、一度、場の空気を元に戻す。}`
+`{ruby:......We can only gather our:……わしらが全員顔を揃える}{ruby:faces here once a year.:のは年に一度しかない。}`
+`{ruby:We've gotta value this precious time:貴重な時間を大事にし、忌憚ない}{ruby:we've got, and talk together frankly.":話し合いをせんといかん」}`
+`{ruby:Even though the tea hadn't even:まだお茶すら来ていないというのに、}{ruby:come yet, ...they were very strong‐minded.:彼らは本当にたくましかった。}`
+`{ruby:"But before that, I wonder if we have enough:「でも、その前に本家の素晴らし}{ruby:leeway to enjoy some black tea at our leisure,:い調度品に囲まれた客間で、}`
+`{ruby:surrounded by the wonderful:のんびりと紅茶を楽しむゆとりがあっ}{ruby:furnishings of the mansion's parlor...":てもいいんじゃないかしら…」}`
+`{ruby:Kyrie's words seemed to hold some slight admonishment:霧江のその言葉は、居合わせた人間全員に対し、}{ruby:towards all of the people gathered in that place.:軽い戒めの意味合いがあったようだった。}`
+`{ruby:They all understood, and as they cleared their throats and straightened their:全員それを理解し、咳払いをしたり、ネクタイを締めなお}{ruby:neckties, the atmosphere in the room returned to normal for a moment.:したりなどしながら、一度、場の空気を元に戻す。}`
 `{ruby:"......Excuse me.:「……失礼します。}`
 `{ruby:I have brought some tea.":お茶をお持ちいたしました」}`
 `{ruby:"Hey, Shannon‐chan.:「いよぅ、紗音ちゃん。}`
-`{ruby:You just keep gettin' prettier and prettier!":ますますべっぴんさんになったなぁ！」}`
-`{ruby:Shannon entered the parlor, pushing the serving cart.:紗音が配膳台車を押しながら客間に入ってくる。}`
-`{ruby:Everyone decided to slowly enjoy some black tea for the time being...:一同は、取り敢えず紅茶くらいはのんびりと馳走になることにするのだった…。}`
-`{ruby:A wonderful aroma began to spread throughout the parlor.:客間の中を、優雅な香りがいっぱいに広がっていく。}`
-`{ruby:Looking at that scene, it would have been impossible to guess the strained atmosphere which had been there until right before Shannon had entered.:その様子を見る限り、紗音が来る直前までのギスギスしていた空気が嘘のよう。}`
-`{ruby:...Of course, Shannon, who was setting out the tea, probably didn't even notice.:…もちろん、お茶を配膳している紗音は気付きもしないだろう。}`
-`{ruby:......Kyrie made a gesture that seemed to laugh at everyone's adult appearance.:……そんな、みんなの大人な様子に、霧江は軽く笑い捨てるような仕草をするのだった。}`
-`{ruby:Rudolf didn't like it when Kyrie took the initiative and spoke at the family conference.:留弗夫は、霧江が親族会議で率先して発言するのを好まない。}`
+`{ruby:You just keep:ますますべっぴんさん}{ruby:gettin' prettier and prettier!":になったなぁ！」}`
+`{ruby:Shannon entered the parlor,:紗音が配膳台車を押しなが}{ruby:pushing the serving cart.:ら客間に入ってくる。}`
+`{ruby:Everyone decided to slowly enjoy some:一同は、取り敢えず紅茶くらいはのんびり}{ruby:black tea for the time being...:と馳走になることにするのだった…。}`
+`{ruby:A wonderful aroma began:客間の中を、優雅な香りがい}{ruby:to spread throughout the parlor.:っぱいに広がっていく。}`
+`{ruby:Looking at that scene, it would have been impossible to guess the:その様子を見る限り、紗音が来る直前まで}{ruby:strained atmosphere which had been there until right before Shannon had entered.:のギスギスしていた空気が嘘のよう。}`
+`{ruby:...Of course, Shannon, who was setting:…もちろん、お茶を配膳している紗}{ruby:out the tea, probably didn't even notice.:音は気付きもしないだろう。}`
+`{ruby:......Kyrie made a gesture that seemed:……そんな、みんなの大人な様子に、霧江は軽}{ruby:to laugh at everyone's adult appearance.:く笑い捨てるような仕草をするのだった。}`
+`{ruby:Rudolf didn't like it when Kyrie took:留弗夫は、霧江が親族会議で率先}{ruby:the initiative and spoke at the family conference.:して発言するのを好まない。}`
 `{ruby:...It was his worthless male pride.:…下らない男のプライドだ。}`
-`{ruby:He probably didn't want to look like a weak man taking his wife's advice.:カミさんに助言されているような弱い男だと思われたくないのだろう。}`
-`{ruby:She understood that, and was doing her best to refrain from saying anything unnecessary.:それを理解し、極力、余計な発言をしないよう慎んでいる。}`
-`{ruby:So she separated herself from the circle of siblings, which was good‐natured only in appearance, and slowly enjoyed her tea near the window.:だから、兄たちと上辺だけは水入らずで過ごしているような輪から離れ、窓辺で紅茶をのんびり楽しんでいるのだった。}`
+`{ruby:He probably didn't want to look like:カミさんに助言されているような弱い}{ruby:a weak man taking his wife's advice.:男だと思われたくないのだろう。}`
+`{ruby:She understood that, and was doing her:それを理解し、極力、余計な発言}{ruby:best to refrain from saying anything unnecessary.:をしないよう慎んでいる。}`
+`{ruby:So she separated herself from the circle of siblings, which was:だから、兄たちと上辺だけは水入らずで過ごしているような輪}{ruby:good‐natured only in appearance, and slowly enjoyed her tea near the window.:から離れ、窓辺で紅茶をのんびり楽しんでいるのだった。}`
 `{ruby:"Oh, Rosa‐san.:「あら、楼座さん。}`
-`{ruby:I thought all you siblings were having a friendly discussion together...?":兄弟で水入らずなのでは…？」}`
+`{ruby:I thought all you siblings:兄弟で水入らずな}{ruby:were having a friendly discussion together...?":のでは…？」}`
 `{ruby:"......You are joking.":「……ご冗談を」}`
 `{ruby:"Sorry, don't take it the wrong way.:「ごめんなさい、気を悪くしないで。}`
-`{ruby:I'm just rolling my eyes at my husband.":ウチの夫に呆れてるだけだから」}`
-`{ruby:It seemed that Rosa hadn't been able to keep up the charade of amicability.:楼座は、上辺だけ調子を合わせることができなかったらしい。}`
-`{ruby:...They had come here to fight bloodily and dirtily, each trying to steal the inheritance from the others.:…遺産の奪い合いという血生臭く、かつ泥臭い議論のためにここに訪れているのだ。}`
-`{ruby:She probably didn't want to pretend to be fellow conspirators at this stage.:今更馴れ合いのふりなどしたくないのだろう。}`
-`{ruby:......Or maybe she was still much too inexperienced for that.:……あるいは、その程度にまだまだ彼女は未熟なのか。}`
-`{ruby:"...It looks like the wind has started blowing hard out there.:「…だいぶ、風が出てきているようですね。}`
-`{ruby:...The plants are all shaking so much.":…枝葉があんなに揺れて」}`
-`{ruby:"The typhoon has probably already come fairly close.:「もう台風が近くまで来ているのでしょうね。}`
-`{ruby:......I wonder if it will rain a lot tonight.":……今夜辺りからはだいぶ降るのかしら」}`
-`{ruby:"...............Maria‐chan really has grown a lot this past year.":「……………真里亞ちゃん、この一年でずいぶん立派になりましたね」}`
+`{ruby:I'm just rolling my:ウチの夫に呆れてる}{ruby:eyes at my husband.":だけだから」}`
+`{ruby:It seemed that Rosa hadn't been able:楼座は、上辺だけ調子を合わせる}{ruby:to keep up the charade of amicability.:ことができなかったらしい。}`
+`{ruby:...They had come here to fight bloodily and dirtily,:…遺産の奪い合いという血生臭く、かつ泥臭}{ruby:each trying to steal the inheritance from the others.:い議論のためにここに訪れているのだ。}`
+`{ruby:She probably didn't want to pretend:今更馴れ合いのふりなどし}{ruby:to be fellow conspirators at this stage.:たくないのだろう。}`
+`{ruby:......Or maybe she was still:……あるいは、その程度にまだ}{ruby:much too inexperienced for that.:まだ彼女は未熟なのか。}`
+`{ruby:"...It looks like the wind:「…だいぶ、風が出てき}{ruby:has started blowing hard out there.:ているようですね。}`
+`{ruby:...The plants are:…枝葉があんな}{ruby:all shaking so much.":に揺れて」}`
+`{ruby:"The typhoon has probably:「もう台風が近くまで来て}{ruby:already come fairly close.:いるのでしょうね。}`
+`{ruby:......I wonder if it:……今夜辺りからはだい}{ruby:will rain a lot tonight.":ぶ降るのかしら」}`
+`{ruby:"...............Maria‐chan really has grown:「……………真里亞ちゃん、この一年}{ruby:a lot this past year.":でずいぶん立派になりましたね」}`
 `{ruby:".........Does it look that way...?:「………そう見えます…？}`
-`{ruby:She still can't even fold her own clothing yet.":未だに自分のお洋服を畳むことすらできないんですよ」}`
+`{ruby:She still can't even:未だに自分のお洋服を畳むこと}{ruby:fold her own clothing yet.":すらできないんですよ」}`
 `{ruby:"Yes.:「えぇ。}`
-`{ruby:It's because she has such an affectionate mother.:こんなにも愛情たっぷりなお母さんと一緒なんですもの。}`
-`{ruby:She'll grow into a girl who's rich in heart.":心の豊かな子に成長しますよ」}`
+`{ruby:It's because she has:こんなにも愛情たっぷりなお母}{ruby:such an affectionate mother.:さんと一緒なんですもの。}`
+`{ruby:She'll grow into a:心の豊かな子に成}{ruby:girl who's rich in heart.":長しますよ」}`
 `{ruby:Rosa was silent.:楼座は沈黙している。}`
-`{ruby:{n}.........Maybe she was unsure as to how Kyrie meant that...:{n}………霧江がどちらの意味で言っているのか、わかりかねているのかもしれない…。}`
+`{ruby:{n}.........Maybe she was unsure as:{n}………霧江がどちらの意味で言っているの}{ruby:to how Kyrie meant that...:か、わかりかねているのかもしれない…。}`
 `{ruby:"...Me...?:「…私なんて。}`
 `{ruby:.........I'm not fit to be a mother.:………母親失格ですよ。}`
-`{ruby:...............Children can't choose their parents.:……………子に、生まれる親は選べない。}`
+`{ruby:...............Children can't:……………子に、生まれ}{ruby:choose their parents.:る親は選べない。}`
 `{ruby:That poor girl...":あの子が可哀想で…」}`
 `{ruby:"Doesn't that go both ways?:「お互い様じゃないですか。}`
-`{ruby:......A parent can't choose what kind of child is born, either.":……親だって、生まれる子は選べない」}`
+`{ruby:......A parent can't choose what:……親だって、生まれ}{ruby:kind of child is born, either.":る子は選べない」}`
 `{ruby:"..............................":「…………………………」}`
 `{ruby:Rosa bit her lower lip...:楼座は下唇を噛む…。}`
 `{ruby:"It isn't a matter of who's at fault.:「どちらが悪いとかじゃなくて。}`
-`{ruby:You just need to have the mindset of going through life together with her, and slowly watch over her as she grows up.":一緒に生きていくんだという気持ちで、ゆっくり成長を見守ってあげればいいじゃないですか」}`
-`{ruby:"Rosa‐san, you spend every day with Maria‐chan, so you probably don't notice the gradual changes.:「楼座さんは毎日を真里亞ちゃんと過ごしてるから、小さな変化に気付かないかもしれないけれど。}`
-`{ruby:But the rest of us, who have been reunited with her after a year, really understand that she's grown up a lot...":一年ぶりに再会した私たちには、その大きな成長ぶりがよくわかりますよ…」}`
-`{ruby:"......If you mean that sincerely, then thank you very much.":「……もし、本気で言ってくれてるなら、ありがとうございます」}`
+`{ruby:You just need to have the mindset of going through life:一緒に生きていくんだという気持ちで、ゆっくり成}{ruby:together with her, and slowly watch over her as she grows up.":長を見守ってあげればいいじゃないですか」}`
+`{ruby:"Rosa‐san, you spend every day with Maria‐chan,:「楼座さんは毎日を真里亞ちゃんと過ごしてるから、}{ruby:so you probably don't notice the gradual changes.:小さな変化に気付かないかもしれないけれど。}`
+`{ruby:But the rest of us, who have been reunited with her:一年ぶりに再会した私たちには、その大き}{ruby:after a year, really understand that she's grown up a lot...":な成長ぶりがよくわかりますよ…」}`
+`{ruby:"......If you mean that sincerely,:「……もし、本気で言ってくれてる}{ruby:then thank you very much.":なら、ありがとうございます」}`
 `{ruby:"Then, if you will excuse me.:「それでは、失礼いたします。}`
-`{ruby:If there is anything you desire, please call for it at any time.":御用がありましたら、いつでもお呼び付けください」}`
-`{ruby:Shannon bowed politely and left the room.:紗音が丁寧にお辞儀して退室する。}`
-`{ruby:After Hideyoshi and Rudolf watched her go with turned heads,:鼻の下を伸ばした秀吉と留弗夫がそれを見送ると、}`
-`{ruby:...the atmosphere in the room began to revert back to what it had been right before Shannon had visited.:…場の空気は紗音が訪れる直前のものに逆戻りし始める。}`
-`{ruby:".........If Father is unable to be here, that in itself opens up the opportunity for some certain topics.:「………お父様がいらっしゃられないなら、それはそれで、できる話もあるというものよ。}`
+`{ruby:If there is anything you desire,:御用がありましたら、いつで}{ruby:please call for it at any time.":もお呼び付けください」}`
+`{ruby:Shannon bowed politely:紗音が丁寧にお辞儀}{ruby:and left the room.:して退室する。}`
+`{ruby:After Hideyoshi and Rudolf watched:鼻の下を伸ばした秀吉と留弗}{ruby:her go with turned heads,:夫がそれを見送ると、}`
+`{ruby:...the atmosphere in the room began to revert back:…場の空気は紗音が訪れる直前}{ruby:to what it had been right before Shannon had visited.:のものに逆戻りし始める。}`
+`{ruby:".........If Father is unable to be here, that in:「………お父様がいらっしゃられないなら、それ}{ruby:itself opens up the opportunity for some certain topics.:はそれで、できる話もあるというものよ。}`
 `{ruby:Right, Rudolf?":ねぇ、留弗夫」}`
 `{ruby:"Yes, that's right.:「あぁ、そうだな。}`
-`{ruby:...We didn't come all the way out here just to drink some dusty tea, you know.":…俺たちははるばるここまで、埃の臭いがする紅茶を飲みに来たわけじゃねぇぜ？」}`
+`{ruby:...We didn't come all the way out here:…俺たちははるばるここまで、埃の臭いがす}{ruby:just to drink some dusty tea, you know.":る紅茶を飲みに来たわけじゃねぇぜ？」}`
 `{ruby:"......Very well.:「……良かろう。}`
-`{ruby:Why don't we hear this topic that you're scrambling to get to?":一秒を争ってお前たちがしたいという話を聞こうじゃないか」}`
+`{ruby:Why don't we hear this topic:一秒を争ってお前たちがしたいと}{ruby:that you're scrambling to get to?":いう話を聞こうじゃないか」}`
 `{ruby:".........My, my.:「………やれやれ。}`
 `{ruby:Those people sure are strong‐minded.:たくましい人たちね。}`
 `{ruby:They really started fast.":さっそく始めたわ」}`
 `{ruby:"I must join in as well.:「私も加わらないといけないわ。}`
-`{ruby:......If I don't assert myself, they'll quickly forget that there are four of us siblings.":……あの人たち、私が主張しないと、４人兄弟であることをすぐ忘れるから」}`
+`{ruby:......If I don't assert myself, they'll quickly:……あの人たち、私が主張しないと、４人}{ruby:forget that there are four of us siblings.":兄弟であることをすぐ忘れるから」}`
 `{ruby:"...It can't be easy for you, either.:「…あなたも大変ね。}`
-`{ruby:......Maybe I didn't choose my words well.:……ちょっと言葉を選ばなかったかしら。}`
+`{ruby:......Maybe I didn't:……ちょっと言葉を選ば}{ruby:choose my words well.:なかったかしら。}`
 `{ruby:I'm sorry.":ごめんなさい」}`
 `{ruby:"No, I don't mind.:「うぅん、気にしてません。}`
-`{ruby:...I'm the one who should be apologizing.:…こちらこそごめんなさい。}`
-`{ruby:We're both mothers with daughters, so really, we should have more of these conversations.:私たち、互いに娘を持つ母親同士なんだから、もっと交流しなきゃいけないのに。}`
-`{ruby:But every time we meet, we talk about something strange...":いっつも会えば変な話ばかりで…」}`
-`{ruby:"......That's the fault of the atmosphere in this mansion.:「……この屋敷の空気のせいよ。}`
-`{ruby:Once we breathe in this air, everyone gets so strained.:ここの空気を嗅ぐと、いっつも私たちはギスギスしあってるもの。}`
-`{ruby:......Just once, I want to drink a nice, long cup of tea with you, Rosa‐san, when we aren't attending a family conference.:……楼座さんとは、親族会議じゃない席で、一度ゆっくりお茶でも飲みたいわ。}`
-`{ruby:There's a wonderful coffee shop in Ginza which is a favorite of mine.:銀座に行き付けの素敵な喫茶店があるの。}`
-`{ruby:Please let me invite you sometime soon.":ぜひ今度招待させて」}`
+`{ruby:...I'm the one:…こちらこそごめ}{ruby:who should be apologizing.:んなさい。}`
+`{ruby:We're both mothers with daughters, so really,:私たち、互いに娘を持つ母親同士なんだから}{ruby:we should have more of these conversations.:、もっと交流しなきゃいけないのに。}`
+`{ruby:But every time we meet,:いっつも会えば変な}{ruby:we talk about something strange...":話ばかりで…」}`
+`{ruby:"......That's the fault of:「……この屋敷の空}{ruby:the atmosphere in this mansion.:気のせいよ。}`
+`{ruby:Once we breathe in this:ここの空気を嗅ぐと、いっつも私た}{ruby:air, everyone gets so strained.:ちはギスギスしあってるもの。}`
+`{ruby:......Just once, I want to drink a nice, long cup of:……楼座さんとは、親族会議じゃない席で}{ruby:tea with you, Rosa‐san, when we aren't attending a family conference.:、一度ゆっくりお茶でも飲みたいわ。}`
+`{ruby:There's a wonderful coffee shop in:銀座に行き付けの素敵な}{ruby:Ginza which is a favorite of mine.:喫茶店があるの。}`
+`{ruby:Please let me:ぜひ今度招待}{ruby:invite you sometime soon.":させて」}`
 `{ruby:"Thank you, Kyrie‐san.:「ありがとう、霧江さん。}`
 `{ruby:That sounds good...":その時はぜひ…」}`
 `{ruby:"How horrible.:「いやぁね。}`
 `{ruby:The sky's suddenly gotten dark.:急に空が暗くなってきたわ。}`
-`{ruby:It's almost as though the people in this room have made the weather worse.:まるでこの部屋の人たちが天気を悪くしてるみたい。}`
+`{ruby:It's almost as though the people in:まるでこの部屋の人たちが天}{ruby:this room have made the weather worse.:気を悪くしてるみたい。}`
 `{ruby:......There's already thunder.":……もうゴロゴロ鳴ってるわ」}`
 `{ruby:"Oh?:「あら？}`
-`{ruby:Do I see the first signs of rain...?":ポツリと来たかしら…？」}`
+`{ruby:Do I see the:ポツリと来たかし}{ruby:first signs of rain...?":ら…？」}`
 `{ruby:"...Huh?":「…え？」}`
-`{ruby:There really were small splashes of rain on the glass of the parlor window.:確かに、客間の窓ガラスに小さな雨の飛沫が付いている。}`
-`{ruby:{n}...It seemed that the weather had gotten worse faster than they had expected.:{n}…予想より天気が崩れるのが早いようだった。}`
-`{ruby:......Just then, a silent thunderbolt struck inside Rosa's head, and she remembered that her beloved child was in the rose garden.:……その時、楼座の頭の中に、音無き落雷が落ち、愛娘が薔薇庭園にいたことを思い出す。}`
-`{ruby:A normal girl would think about going into the house if the weather got bad.:普通の子なら、天気が崩れれば家に入ろうと考える。}`
+`{ruby:There really were small splashes of rain:確かに、客間の窓ガラスに小さ}{ruby:on the glass of the parlor window.:な雨の飛沫が付いている。}`
+`{ruby:{n}...It seemed that the weather had:{n}…予想より天気が崩れ}{ruby:gotten worse faster than they had expected.:るのが早いようだった。}`
+`{ruby:......Just then, a silent thunderbolt struck inside Rosa's head, and:……その時、楼座の頭の中に、音無き落雷が落ち}{ruby:she remembered that her beloved child was in the rose garden.:、愛娘が薔薇庭園にいたことを思い出す。}`
+`{ruby:A normal girl would think about going:普通の子なら、天気が崩れれ}{ruby:into the house if the weather got bad.:ば家に入ろうと考える。}`
 `{ruby:{n}......But Maria was different.:{n}……しかし真里亞は違う。}`
-`{ruby:She would sometimes become stubborn, and wouldn't move no matter whether rain or even spears fell from the sky.:時に頑固になると、雨が降ろうが槍が降ろうがそこを動かない。}`
+`{ruby:She would sometimes become stubborn, and wouldn't move no:時に頑固になると、雨が降ろうが槍}{ruby:matter whether rain or even spears fell from the sky.:が降ろうがそこを動かない。}`
 `{ruby:......That's right, I...:……そうだ、私…。}`
-`{ruby:......told that kid "{i:just stay there doing that forever}", didn't I...?:……あの子に、{i:いつまでもそこでそうしてなさい}、って言わなかったっけ…。}`
+`{ruby:......told that kid "{i:just stay:……あの子に、{i:いつまでもそこでそうし}{ruby:there doing that forever}", didn't I...?:てなさい}、って言わなかったっけ…。}`
 `{ruby:"Oh, ......oh no...!:「い、……いけない…！}`
 `{ruby:Maria...!!":真里亞…！！」}`
-`{ruby:At this small exclamation, everyone turned to look at Rosa.:楼座が小さく叫ぶとみんなが振り返る。}`
+`{ruby:At this small exclamation, everyone:楼座が小さく叫ぶとみ}{ruby:turned to look at Rosa.:んなが振り返る。}`
 `{ruby:"...What, what happened?":「…何だ、どうしたんだね？」}`
-`{ruby:"I, I'm sorry, I'm going outside for a second.:「ご、ごめんなさい、ちょっと表に行ってきます。}`
+`{ruby:"I, I'm sorry, I'm:「ご、ごめんなさい、ちょっ}{ruby:going outside for a second.:と表に行ってきます。}`
 `{ruby:I'll be right back!":すぐ戻ります！」}`
-`{ruby:"......What what what? What's going on with her, seriously...":「……何だ何だ、どうしたってんだ、あいつ…」}`
-`{ruby:"Does it matter? She'll be right back.:「いいじゃない。すぐ戻るわよ。}`
+`{ruby:"......What what what? What's:「……何だ何だ、どうした}{ruby:going on with her, seriously...":ってんだ、あいつ…」}`
+`{ruby:"Does it matter?:「いいじゃない。す}{ruby:She'll be right back.:ぐ戻るわよ。}`
 `{ruby:......Why don't we just get started?:……それより始めたら？}`
 `{ruby:With our main topic.":私たちの本題」}`
 `{ruby:"Good idea.:「そうね。}`
-`{ruby:We can move that on even without Rosa.:楼座抜きでも進められる話よ。}`
+`{ruby:We can move that:楼座抜きでも進め}{ruby:on even without Rosa.:られる話よ。}`
 `{ruby:Let's return to the matter at hand.":話を戻しましょ」}`
 `{ruby:"..................":「………………」}`
-`{ruby:Rosa dashed from the entrance hall into the rose garden.:玄関から駆け出た楼座は薔薇庭園に走る。}`
-`{ruby:When she opened the door, the wind that hit her was too strong to be called a breeze, and told her that the typhoon was approaching faster than she had thought.:扉を開くと、そよ風と呼ぶには強すぎる風が出ていて、思ったより早く台風が近付いていることを教えてくれた。}`
-`{ruby:Just as Kyrie had said, small droplets of rain were mixed in with the wind.:霧江が言っていた通り、風には細かい雨粒が混じっている。}`
-`{ruby:There was also the low rumble of thunder.:低い雷鳴も轟いていた。}`
+`{ruby:Rosa dashed from the entrance:玄関から駆け出た楼座は}{ruby:hall into the rose garden.:薔薇庭園に走る。}`
+`{ruby:When she opened the door, the wind that hit her was too strong to be:扉を開くと、そよ風と呼ぶには強すぎる風が出ていて、思っ}{ruby:called a breeze, and told her that the typhoon was approaching faster than she had thought.:たより早く台風が近付いていることを教えてくれた。}`
+`{ruby:Just as Kyrie had said, small droplets:霧江が言っていた通り、風には細}{ruby:of rain were mixed in with the wind.:かい雨粒が混じっている。}`
+`{ruby:There was also the:低い雷鳴も轟い}{ruby:low rumble of thunder.:ていた。}`
 `{ruby:......It could start raining anytime.:……いつ降り出してもおかしくないかもしれない。}`
 `{ruby:Rosa headed for the rose garden.:楼座は、薔薇庭園を目指す。}`
-`{ruby:{n}She headed for the place where she had scolded Maria a short while ago.:{n}さっき真里亞を叱り付けた場所を目指す。}`
+`{ruby:{n}She headed for the place where she:{n}さっき真里亞を叱り}{ruby:had scolded Maria a short while ago.:付けた場所を目指す。}`
 `{ruby:...It was almost lunchtime.:…時間的には、もうすぐお昼だった。}`
-`{ruby:The children had been told that they could just come to the mansion at lunchtime,:子どもたちは、お昼に屋敷に来ればいいということになっていたから、}`
-`{ruby:so they were probably in the guesthouse, waiting to be called.:多分、ゲストハウスにいて呼ばれるのを待っているのだろう。}`
-`{ruby:...Even if Maria didn't come, they would surely think that I had taken her to the mansion with me, and wouldn't worry much.:…真里亞が来なくても、私が屋敷に連れて行ったに違いないと考え、深く心配はしないはずだ。}`
-`{ruby:......After all, she was with her mother, so there shouldn't have been anything to worry about.:……だって、母親が一緒なんだから、心配の必要なんてあるはずがないのだ。}`
-`{ruby:Except I was here, and had thrown my daughter into the worsening weather outside, all alone...!:その私がここにいて、娘を天気の崩れかけた屋外にひとり放り出している…！}`
+`{ruby:The children had been told that they:子どもたちは、お昼に屋敷に来ればい}{ruby:could just come to the mansion at lunchtime,:いということになっていたから、}`
+`{ruby:so they were probably in:多分、ゲストハウスにいて呼ばれ}{ruby:the guesthouse, waiting to be called.:るのを待っているのだろう。}`
+`{ruby:...Even if Maria didn't come, they would surely think that I:…真里亞が来なくても、私が屋敷に連れて行ったに}{ruby:had taken her to the mansion with me, and wouldn't worry much.:違いないと考え、深く心配はしないはずだ。}`
+`{ruby:......After all, she was with her mother, so:……だって、母親が一緒なんだから、心配}{ruby:there shouldn't have been anything to worry about.:の必要なんてあるはずがないのだ。}`
+`{ruby:Except I was here, and had thrown my:その私がここにいて、娘を天気の崩れかけ}{ruby:daughter into the worsening weather outside, all alone...!:た屋外にひとり放り出している…！}`
 `{ruby:"Mariaaa!!:「真里亞ぁあー！！}`
 `{ruby:Are you here?!!:いるのー！！}`
 `{ruby:If you're here, answer me!!":いるなら返事をしてー！！」}`
 `{ruby:".........Uu.":「………うー」}`
 `{ruby:It really was as I'd thought.:やっぱりそうだった。}`
-`{ruby:She was standing stock still, ...exactly the same way she had been, in the place where I had scolded her.:私が叱り付けたあの場所で、…あの時とまったく同じように相変わらず立ち尽くしていた。}`
-`{ruby:Held in her hand......was the candy that I had bought, given her, and then stepped on and crushed.:手に持っているのは、……私が買い与え、そして私が踏み潰した、あのお菓子。}`
-`{ruby:With that gripped in her hand, she had been standing there, as the strong wind whipped her hair about, tormenting her...:それを握り締めたまま、強い風に髪の毛を散らされ苛まれ続けていた…。}`
+`{ruby:She was standing stock still, ...exactly the same way she:私が叱り付けたあの場所で、…あの時とまったく}{ruby:had been, in the place where I had scolded her.:同じように相変わらず立ち尽くしていた。}`
+`{ruby:Held in her hand......was the candy that I had:手に持っているのは、……私が買い与え、}{ruby:bought, given her, and then stepped on and crushed.:そして私が踏み潰した、あのお菓子。}`
+`{ruby:With that gripped in her hand, she had been standing:それを握り締めたまま、強い風に髪の毛}{ruby:there, as the strong wind whipped her hair about, tormenting her...:を散らされ苛まれ続けていた…。}`
 `{ruby:"I'm sorry, I'm sorry!!:「ごめんなさい、ごめんなさい！！}`
 `{ruby:Sorry, Maria...!!:ごめんね真里亞…！！}`
 `{ruby:Forgive Mama...!":ママを許して…！」}`
 `{ruby:"...Uu.:「…うー。}`
 `{ruby:Mama, welcome back...:ママ、お帰り…。}`
-`{ruby:......I waited a long time for you to come back, Mama.:……真里亞、ママが帰ってくるの、ずっと待ってた。}`
-`{ruby:...Got pinched by the scary witch, but held out and waited for Mama to come back, without crying...":…怖い魔女につねられたけど、我慢してママが帰ってくるの、泣かずに待ってた…」}`
+`{ruby:......I waited a long time:……真里亞、ママが帰ってく}{ruby:for you to come back, Mama.:るの、ずっと待ってた。}`
+`{ruby:...Got pinched by the scary witch, but held out:…怖い魔女につねられたけど、我慢してママ}{ruby:and waited for Mama to come back, without crying...":が帰ってくるの、泣かずに待ってた…」}`
 `{ruby:"......Maria...:「……真里亞っ…。}`
-`{ruby:......Forgive Mama... Forgive Mama......":……ママを許して…、ママを許して……」}`
+`{ruby:......Forgive Mama...:……ママを許して…、マ}{ruby:Forgive Mama......":マを許して……」}`
 `{ruby:"It's not your fault, Mama...:「ママは悪くないの…。}`
-`{ruby:You were just possessed by a bad witch again......:また悪い魔女に取り憑かれただけなの……。}`
+`{ruby:You were just possessed:また悪い魔女に取り憑か}{ruby:by a bad witch again......:れただけなの……。}`
 `{ruby:So I'm fine.:だから平気。}`
 `{ruby:Love you, Mama.:ママ大好き。}`
 `{ruby:I love you......":愛してる……」}`
 `{ruby:"UuuuuuUUuuuUUUuughhh!!:「うううううぅううぅぅううぅぅ！！}`
 `{ruby:I'm sorry, I'm sorry...:ごめんなさい、ごめんなさい…。}`
-`{ruby:......Mama......lost to the bad witch...:……悪い魔女に負けた……ママを、}`
+`{ruby:......Mama......lost to:……悪い魔女に負け}{ruby:the bad witch...:た……ママを、}`
 `{ruby:.........Forgive me............":………許して…………」}`
-`{ruby:Rosa buried her face in Maria's small chest, crying and begging forgiveness.:楼座は真里亞の小さな胸に顔を埋めながら、涙を流して許しを乞う。}`
-`{ruby:...And those tears dripped down again, as they had countless times before.:…そして、これが何度目になるかわからない涙を、再び零させた。}`
-`{ruby:If only the brilliant sun had been shining on the two of them,:せめて二人を、燦々とした太陽が照らしていたなら、}`
-`{ruby:all of their cares would have evaporated, and they would have felt like they could begin anew.:二人のわだかまりが全て解け、これからのやり直しを感じさせたかもしれない。}`
-`{ruby:...However, what surrounded the two of them was the worsening weather.:…しかし、今の二人を包むのは崩れ行く天気。}`
-`{ruby:{n}The strong winds mixed in with the sound of thunder were saddening.:{n}雷鳴の混じる強い風であることが悲しかった。}`
-`{ruby:Rosa noticed the sound of Maria sniffling.:真里亞が鼻をすする音に気付く。}`
-`{ruby:{n}...If she stood exposed to the wind for too long, she would probably catch a cold.:{n}…いつまでも風に晒されていたら風邪を引いてしまうだろう。}`
+`{ruby:Rosa buried her face in Maria's:楼座は真里亞の小さな胸に顔を埋めな}{ruby:small chest, crying and begging forgiveness.:がら、涙を流して許しを乞う。}`
+`{ruby:...And those tears dripped down again,:…そして、これが何度目になるかわ}{ruby:as they had countless times before.:からない涙を、再び零させた。}`
+`{ruby:If only the brilliant sun had:せめて二人を、燦々とした太}{ruby:been shining on the two of them,:陽が照らしていたなら、}`
+`{ruby:all of their cares would have evaporated, and:二人のわだかまりが全て解け、これからの}{ruby:they would have felt like they could begin anew.:やり直しを感じさせたかもしれない。}`
+`{ruby:...However, what surrounded the two:…しかし、今の二人を包む}{ruby:of them was the worsening weather.:のは崩れ行く天気。}`
+`{ruby:{n}The strong winds mixed in with:{n}雷鳴の混じる強い風で}{ruby:the sound of thunder were saddening.:あることが悲しかった。}`
+`{ruby:Rosa noticed the:真里亞が鼻をすする}{ruby:sound of Maria sniffling.:音に気付く。}`
+`{ruby:{n}...If she stood exposed to the wind for:{n}…いつまでも風に晒されていた}{ruby:too long, she would probably catch a cold.:ら風邪を引いてしまうだろう。}`
 `{ruby:"......So, Maria.:「……さ、真里亞。}`
 `{ruby:It will be lunch very soon.:もうすぐお昼よ。}`
 `{ruby:Come back to the mansion with Mama.":ママと一緒にお屋敷に行きましょう」}`
 `{ruby:"Uu.:「うー。}`
 `{ruby:I'm not coming.":行かない」}`
 `{ruby:"Wh‐...why...?":「ど、…どうして…？」}`
-`{ruby:Rosa thought that Maria had already forgiven her, so she never imagined she would refuse.:楼座は、もう真里亞に許しを得られたと思ったから、まさか断られると思わなかった。}`
-`{ruby:But that expression on Maria's face didn't look like that of a child resisting her mother.:でもその表情には、母親に反抗したいという様子は見られない。}`
-`{ruby:...So Rosa wasn't able to understand why Maria wanted to stand still in the rose garden, pointlessly, as the weather grew even worse.:…だから楼座は、どうして真里亞が天気の崩れつつある薔薇庭園に、意味もなく立ち尽くしていたいのか理解できなかった。}`
+`{ruby:Rosa thought that Maria had already forgiven:楼座は、もう真里亞に許しを得られたと思った}{ruby:her, so she never imagined she would refuse.:から、まさか断られると思わなかった。}`
+`{ruby:But that expression on Maria's face didn't look:でもその表情には、母親に反抗した}{ruby:like that of a child resisting her mother.:いという様子は見られない。}`
+`{ruby:...So Rosa wasn't able to understand why Maria wanted to stand:…だから楼座は、どうして真里亞が天気の崩れつつある薔薇庭園}{ruby:still in the rose garden, pointlessly, as the weather grew even worse.:に、意味もなく立ち尽くしていたいのか理解できなかった。}`
 `{ruby:Maria answered that question...:その問いに真里亞は答える…。}`
 `{ruby:"It's {f:5:Beatrice}.:「ベアトリーチェがね、}`
 `{ruby:She'll come really soon.:もうすぐ来るの。}`
 `{ruby:So I'm waiting.":だから待ってるの」}`
 `{ruby:".........Maria...":「………真里亞…」}`
-`{ruby:Rosa started to say something, faltered, and then fell silent.:楼座は少しだけ言い澱んでから沈黙する。}`
-`{ruby:...They had just gone to great lengths to make up with each other.:…せっかく仲直りしたばかり。}`
-`{ruby:{n}She chose her words carefully, trying to get Maria to come with her to the mansion without denying the witch outright.:{n}魔女を頭ごなしに否定できず、どう言えば真里亞が自分と一緒に屋敷へ来てくれるか言葉を選んだ。}`
+`{ruby:Rosa started to say something,:楼座は少しだけ言い澱ん}{ruby:faltered, and then fell silent.:でから沈黙する。}`
+`{ruby:...They had just gone to great:…せっかく仲直り}{ruby:lengths to make up with each other.:したばかり。}`
+`{ruby:{n}She chose her words carefully, trying to get Maria to:{n}魔女を頭ごなしに否定できず、どう言えば真里亞}{ruby:come with her to the mansion without denying the witch outright.:が自分と一緒に屋敷へ来てくれるか言葉を選んだ。}`
 `{ruby:"......{f:5:Beatrice} is...:「……ベアトリーチェが、}`
 `{ruby:coming?":…来るの？」}`
 `{ruby:"Uu!":「うー！」}`
 `{ruby:"Really...:「そう…。}`
-`{ruby:Then instead of waiting here, why don't we wait in the mansion?:なら、ここじゃなくて、お屋敷の中で待ちましょう？}`
-`{ruby:If you stay in this wind too long, you'll catch a cold...":いつまでもこんな風の中にいたら風邪を引いてしまうわ…」}`
+`{ruby:Then instead of waiting here, why:なら、ここじゃなくて、お屋}{ruby:don't we wait in the mansion?:敷の中で待ちましょう？}`
+`{ruby:If you stay in this wind:いつまでもこんな風の中にいたら}{ruby:too long, you'll catch a cold...":風邪を引いてしまうわ…」}`
 `{ruby:"She'll come!:「来るー！}`
 `{ruby:{f:5:Beatrice} will come!!!":ベアトリーチェは来るー！！」}`
-`{ruby:"And when she does, I'll give a candy to her.:「そしたらね、ベアトリーチェにね、お菓子あげるの。}`
+`{ruby:"And when she does, I'll:「そしたらね、ベアトリーチェ}{ruby:give a candy to her.:にね、お菓子あげるの。}`
 `{ruby:I'll do trick‐or‐treat!:トリックオアトリートするの！}`
-`{ruby:I'll give her a jack‐o'‐lantern marshmallow candy and say Happy Halloween!!!:ジャックオーランタンのマシュマロお菓子あげてハッピーハロウィンって言うのー！！}`
+`{ruby:I'll give her a jack‐o'‐lantern:ジャックオーランタンのマシュマロお菓子あげ}{ruby:marshmallow candy and say Happy Halloween!!!:てハッピーハロウィンって言うのー！！}`
 `{ruby:Uu!!":うー！！」}`
-`{ruby:Maria pulled yet another sweet out of her handbag, moaning "uu‐uu".:真里亞は手提げからもうひとつ、お菓子を取り出し、うーうー唸った。}`
-`{ruby:Rosa was bewildered, not knowing what to do as Maria started being difficult again...:再び駄々をこね始めた真里亞に、楼座はどうしていいものかわからず困惑する…。}`
-`{ruby:Just then, there was a sudden and massive roar of thunder.:その時、一際大きな雷鳴が轟いた。}`
+`{ruby:Maria pulled yet another sweet:真里亞は手提げからもうひとつ、お菓}{ruby:out of her handbag, moaning "uu‐uu".:子を取り出し、うーうー唸った。}`
+`{ruby:Rosa was bewildered, not knowing what to:再び駄々をこね始めた真里亞に、楼座はどう}{ruby:do as Maria started being difficult again...:していいものかわからず困惑する…。}`
+`{ruby:Just then, there was a:その時、一際大きな}{ruby:sudden and massive roar of thunder.:雷鳴が轟いた。}`
 `{ruby:It was probably...a sign.:それは多分、合図。}`
-`{ruby:......A sign that indicated this island had become closed off by the storm, and detached from common sense and reality.:……この島が、嵐に閉ざされ、現実の常識から切り離されたことを示す合図。}`
-`{ruby:Therefore, as of this moment, all common sense would no doubt be useless.:だから多分、今この瞬間より、全ての常識が通用しなくなるに違いないのだ。}`
-`{ruby:The wind blew even stronger, and in the middle of a blizzard of scattered rose petals,:一際強い風が吹き、薔薇の花びらをたくさん散らす薔薇の吹雪の中、}`
-`{ruby:......a figure appeared, leaving Rosa momentarily unable to imagine that this was a scene from reality.:……現れたその姿を、楼座はしばらくの間、現実の光景だと思えずにいた。}`
-`{ruby:...No, probably, it was―it had to be―fantastical.:…いや多分、でも絶対、…それは幻想的。}`
-`{ruby:Because that figure was shaped like...............:だってその人影は……………。}`
+`{ruby:......A sign that indicated this island had become closed off:……この島が、嵐に閉ざされ、現実の常識}{ruby:by the storm, and detached from common sense and reality.:から切り離されたことを示す合図。}`
+`{ruby:Therefore, as of this moment, all:だから多分、今この瞬間より、全ての常識}{ruby:common sense would no doubt be useless.:が通用しなくなるに違いないのだ。}`
+`{ruby:The wind blew even stronger, and in the:一際強い風が吹き、薔薇の花びらをた}{ruby:middle of a blizzard of scattered rose petals,:くさん散らす薔薇の吹雪の中、}`
+`{ruby:......a figure appeared, leaving Rosa momentarily unable to:……現れたその姿を、楼座はしばらくの}{ruby:imagine that this was a scene from reality.:間、現実の光景だと思えずにいた。}`
+`{ruby:...No, probably, it:…いや多分、でも絶対、}{ruby:was―it had to be―fantastical.:…それは幻想的。}`
+`{ruby:Because that figure:だってその人影は}{ruby:was shaped like...............:……………。}`
 `{ruby:"{f:5:Beatrice}!!":「ベアトリーチェー！！」}`
 `{ruby:Maria dashed over to the figure.:真里亞がその人影に飛びつく。}`
-`{ruby:......Normally, Rosa would scold her daughter if she dashed over to a complete stranger.:……普段の楼座なら、見ず知らずの人に娘が飛びつくようなことがあれば叱る。}`
-`{ruby:...But Rosa forgot about that, unable to do anything but stand there, shocked.:…しかし楼座は、それを忘れて、ただただ呆然とするしかできなかった。}`
+`{ruby:......Normally, Rosa would scold her daughter if:……普段の楼座なら、見ず知らずの人に娘}{ruby:she dashed over to a complete stranger.:が飛びつくようなことがあれば叱る。}`
+`{ruby:...But Rosa forgot about that, unable:…しかし楼座は、それを忘れて、ただた}{ruby:to do anything but stand there, shocked.:だ呆然とするしかできなかった。}`
 `{ruby:"......It's been a while.:「……久しぶりよ。}`
 `{ruby:Have you been in good health?":元気であったか？」}`
 `{ruby:"Uu!:「うー！}`
@@ -544,14 +544,14 @@
 `{ruby:Witches don't catch colds!:魔女は風邪を引かない！}`
 `{ruby:Uu!!":うー！！」}`
 `{ruby:"*cackle*cackle*!:「くっくっくっく！}`
-`{ruby:Witches make people catch colds with curses, but how foolish would it be if they caught one themselves.:魔女は呪いにて風邪を引かせはするが、自らが引いては何とも間抜けな話よ。}`
-`{ruby:You should focus your energies on ensuring that you do not catch a cold yourself.":せいぜい自らが風邪を引くことなどないよう、これからも精進するがいい」}`
-`{ruby:She patted Maria's head as she said this, smiling roguishly...:そう言って悪戯っぽく微笑みながら真里亞の頭を撫でる…。}`
-`{ruby:Rosa couldn't have known the name of the woman who was happily spoiling Maria.:嬉しそうに甘えるその女の名を、楼座は知るはずもなかった。}`
-`{ruby:...However, Maria had called to her in the beginning when she had appeared.:…しかし、真里亞は彼女が姿を現したその最初に呼んでいる。}`
-`{ruby:Therefore, even though Rosa had never met her, and even though she hadn't named herself, Rosa was able to learn her name.:だから楼座は、初対面にもかかわらず、彼女が名乗らずとも、その名を知ることができた。}`
-`{ruby:......However, that name held a special meaning on Rokkenjima and in the Ushiromiya family.:……しかし、その名は、この六軒島では、右代宮家では特別な意味を持つ。}`
-`{ruby:......There's no way something so stupid could......!:……そんな馬鹿なことが、あるわけが……！}`
+`{ruby:Witches make people catch colds with curses, but how:魔女は呪いにて風邪を引かせはするが、自}{ruby:foolish would it be if they caught one themselves.:らが引いては何とも間抜けな話よ。}`
+`{ruby:You should focus your energies on ensuring:せいぜい自らが風邪を引くことなどない}{ruby:that you do not catch a cold yourself.":よう、これからも精進するがいい」}`
+`{ruby:She patted Maria's head as:そう言って悪戯っぽく微笑みなが}{ruby:she said this, smiling roguishly...:ら真里亞の頭を撫でる…。}`
+`{ruby:Rosa couldn't have known the name of:嬉しそうに甘えるその女の名を、}{ruby:the woman who was happily spoiling Maria.:楼座は知るはずもなかった。}`
+`{ruby:...However, Maria had called to her:…しかし、真里亞は彼女が姿を現}{ruby:in the beginning when she had appeared.:したその最初に呼んでいる。}`
+`{ruby:Therefore, even though Rosa had never met her, and even though:だから楼座は、初対面にもかかわらず、彼女が名}{ruby:she hadn't named herself, Rosa was able to learn her name.:乗らずとも、その名を知ることができた。}`
+`{ruby:......However, that name held a special meaning:……しかし、その名は、この六軒島では}{ruby:on Rokkenjima and in the Ushiromiya family.:、右代宮家では特別な意味を持つ。}`
+`{ruby:......There's no way:……そんな馬鹿なことが}{ruby:something so stupid could......!:、あるわけが……！}`
 `{ruby:"{f:5:Beatrice}!:「ベアトリーチェ！}`
 `{ruby:Happy Halloween!:ハッピーハロウィン！}`
 `{ruby:Look, bought these!:ほら、買ったの！}`
@@ -559,222 +559,222 @@
 `{ruby:Uu!":うー！」}`
 `{ruby:"Mm, Happy Halloween.:「うむ、ハッピーハロウィン。}`
 `{ruby:Hoh, for me, you say?:ほぅ、これを妾にとな？}`
-`{ruby:Even the single and only light given to a man lost in the darkness of purgatory, unable to go to heaven or hell, looks truly charming when made into a candy like this.":天国にも地獄にも行けず、煉獄の闇にて彷徨う男の唯一の灯りも、こうして菓子となれば実に可愛らしいことよ」}`
-`{ruby:"......Right now, on this island that has been cut off both from the world of humans and the world of nonhumans,:「……人の世とも、人ならざる者との世とも切り離された今のこの島で、}`
+`{ruby:Even the single and only light given to a man lost in the darkness of purgatory,:天国にも地獄にも行けず、煉獄の闇にて彷徨う男の唯一の灯}{ruby:unable to go to heaven or hell, looks truly charming when made into a candy like this.":りも、こうして菓子となれば実に可愛らしいことよ」}`
+`{ruby:"......Right now, on this island that has been cut off:「……人の世とも、人ならざる者との世}{ruby:both from the world of humans and the world of nonhumans,:とも切り離された今のこの島で、}`
 `{ruby:there may be no sweet more suitable.:これほど相応しい菓子はないかも知れぬな。}`
 `{ruby:*cackle*cackle*...!":くっくくくく…！」}`
 `{ruby:".........Hm?:「………ん？}`
 `{ruby:Maria, what has happened here?":真里亞、それはどうしたのか？」}`
-`{ruby:The witch noticed the sweet that Maria was grasping.:魔女は、真里亞が握り締めているお菓子に気付く。}`
-`{ruby:...It was Maria's candy, which had been stomped on by Rosa, and had taken on a pitiful shape.:…それは楼座が踏みつけて惨めな姿になった、真里亞のお菓子。}`
+`{ruby:The witch noticed the:魔女は、真里亞が握り締めて}{ruby:sweet that Maria was grasping.:いるお菓子に気付く。}`
+`{ruby:...It was Maria's candy, which had been stomped on:…それは楼座が踏みつけて惨めな姿}{ruby:by Rosa, and had taken on a pitiful shape.:になった、真里亞のお菓子。}`
 `{ruby:"......Uu.:「……うー。}`
 `{ruby:Stepped on and smashed.:踏んづけて潰れちゃった。}`
-`{ruby:......Can you return it to normal, Beato...?":……ベアトは元に戻せる…？」}`
-`{ruby:Maria deliberately didn't say that it was her mother who had stepped on it.:真里亞はあえて母に踏まれたとは言わなかった。}`
-`{ruby:{n}However, when the witch saw the candy, for some reason, she looked at Rosa and grinned.:{n}しかし魔女は、そのお菓子を見ると、なぜかにやりと笑って楼座の姿を見る。}`
-`{ruby:...A chill went down Rosa's spine, as though she felt that this gaze could see through every part of her.:…楼座は、自分の全てを見透かすようなその眼差しに背筋がぞくりとするのを感じた。}`
+`{ruby:......Can you return:……ベアトは元に}{ruby:it to normal, Beato...?":戻せる…？」}`
+`{ruby:Maria deliberately didn't say that it was:真里亞はあえて母に踏まれ}{ruby:her mother who had stepped on it.:たとは言わなかった。}`
+`{ruby:{n}However, when the witch saw the candy, for:{n}しかし魔女は、そのお菓子を見ると、}{ruby:some reason, she looked at Rosa and grinned.:なぜかにやりと笑って楼座の姿を見る。}`
+`{ruby:...A chill went down Rosa's spine, as though she felt:…楼座は、自分の全てを見透かすようなその眼}{ruby:that this gaze could see through every part of her.:差しに背筋がぞくりとするのを感じた。}`
 `{ruby:"It will be easy.:「容易いことよ。}`
 `{ruby:Give it to me.":貸すが良い」}`
 `{ruby:"Uu!":「うー！」}`
 `{ruby:Maria held out the candy gleefully.:真里亞は嬉々としてそのお菓子を差し出す。}`
-`{ruby:......Rosa could do nothing but watch this unfold, stunned.:……楼座は呆然とそれを見守るしかない。}`
-`{ruby:{n}...How could this person gloss over the fact that the candy was pitifully trampled, in a way that could satisfy Maria...?:{n}…あんなに惨めに踏み潰されたお菓子を、どう言い繕って誤魔化すというのか…？}`
-`{ruby:Maria looked as though she believed that it could be fixed as good as new.:真里亞はまるで、元通りの新品に直してもらえると信じている。}`
-`{ruby:...There was no way that could be done without real "magic"...!:…そんなこと、本当の「魔法」でもなきゃ、できるわけがない…！}`
-`{ruby:"My, my, it is quite crushed, isn't it.:「これはこれは、見事に潰れているな。}`
+`{ruby:......Rosa could do nothing:……楼座は呆然とそれを}{ruby:but watch this unfold, stunned.:見守るしかない。}`
+`{ruby:{n}...How could this person gloss over the fact that the:{n}…あんなに惨めに踏み潰されたお菓子を}{ruby:candy was pitifully trampled, in a way that could satisfy Maria...?:、どう言い繕って誤魔化すというのか…？}`
+`{ruby:Maria looked as though she believed that:真里亞はまるで、元通りの新品に直}{ruby:it could be fixed as good as new.:してもらえると信じている。}`
+`{ruby:...There was no way that:…そんなこと、本当の「魔法」でも}{ruby:could be done without real "magic"...!:なきゃ、できるわけがない…！}`
+`{ruby:"My, my, it is:「これはこれは、見事}{ruby:quite crushed, isn't it.:に潰れているな。}`
 `{ruby:......Come, Maria.:……さぁさ、真里亞。}`
-`{ruby:Close your eyes and try to remember.":目を閉じて思い出してごらんなさい」}`
-`{ruby:"Because it really was that wonderful a candy.:「本当はあんなにも素敵なお菓子だったから。}`
-`{ruby:The candies in our memories are always full and fluffy.:思い出の中のお菓子はいっつもふっくら。}`
-`{ruby:So you too must close your eyes and try to remember.:だからあなたも思い出してごらんなさい。}`
-`{ruby:What kind of candy was it really{p:0:♪}":本当はどんなお菓子だったのか♪」}`
-`{ruby:...Along with those strange words, spoken as though singing an improvised folk song, the witch threw the sweet into the air.:…即興の民謡のような、歌うように語る不思議な言葉と共に、魔女はお菓子を宙に放る。}`
-`{ruby:Maria had her eyes closed, just as the witch had told her, and was focused on remembering.:真里亞は魔女に言われた通り、目を閉じて思い出していた。}`
-`{ruby:{n}...The shape that the crushed candy had really been.:{n}…潰れたお菓子が、本当はどんな姿をしていたか。}`
+`{ruby:Close your eyes:目を閉じて思い出して}{ruby:and try to remember.":ごらんなさい」}`
+`{ruby:"Because it really was:「本当はあんなにも素敵な}{ruby:that wonderful a candy.:お菓子だったから。}`
+`{ruby:The candies in our memories:思い出の中のお菓子はい}{ruby:are always full and fluffy.:っつもふっくら。}`
+`{ruby:So you too must close:だからあなたも思い出し}{ruby:your eyes and try to remember.:てごらんなさい。}`
+`{ruby:What kind of:本当はどんなお菓子}{ruby:candy was it really{p:0:♪}":だったのか♪」}`
+`{ruby:...Along with those strange words, spoken as though singing an:…即興の民謡のような、歌うように語る不思議}{ruby:improvised folk song, the witch threw the sweet into the air.:な言葉と共に、魔女はお菓子を宙に放る。}`
+`{ruby:Maria had her eyes closed, just as the:真里亞は魔女に言われた通り、目}{ruby:witch had told her, and was focused on remembering.:を閉じて思い出していた。}`
+`{ruby:{n}...The shape that the:{n}…潰れたお菓子が、本当}{ruby:crushed candy had really been.:はどんな姿をしていたか。}`
 `{ruby:Therefore, only Rosa saw that scene.:だから、その光景は楼座だけが見ていた。}`
-`{ruby:The sweet which had been thrown into the air......burst into a gold color―no,:宙に放り上げたお菓子が、……金色に弾けて…、いや違う。}`
+`{ruby:The sweet which had been thrown:宙に放り上げたお菓子が、……金}{ruby:into the air......burst into a gold color―no,:色に弾けて…、いや違う。}`
 `{ruby:those were golden butterflies.:それは黄金の蝶。}`
-`{ruby:It scattered into several golden butterflies, ...and they began to assemble in the witch's hand, held up to the sky.:何匹もの黄金の蝶に散り、…それは宙に手をかざす魔女の手に集まっていく。}`
-`{ruby:And when they had, .........unbelievably, .........the candy had returned to its beautiful original form, just like the time it had been bought...:するとそれは、………信じられないことに、………買った時そのままの綺麗な元の姿に戻っていた…。}`
-`{ruby:Only Rosa and the witch had watched that scene.:楼座と魔女だけがその光景を見ていた。}`
-`{ruby:Unable to understand the event that was occurring right in front of her eyes, Rosa stood with her mouth open, forgetting to shut it...:楼座は、眼前で起きた出来事が理解できず、開いた口を閉じることも思い出せずにいた…。}`
+`{ruby:It scattered into several golden butterflies, ...and they began to:何匹もの黄金の蝶に散り、…それは宙に手}{ruby:assemble in the witch's hand, held up to the sky.:をかざす魔女の手に集まっていく。}`
+`{ruby:And when they had, .........unbelievably, .........the candy had returned to its:するとそれは、………信じられないことに、………買}{ruby:beautiful original form, just like the time it had been bought...:った時そのままの綺麗な元の姿に戻っていた…。}`
+`{ruby:Only Rosa and the:楼座と魔女だけがその}{ruby:witch had watched that scene.:光景を見ていた。}`
+`{ruby:Unable to understand the event that was occurring right in front of:楼座は、眼前で起きた出来事が理解できず、開い}{ruby:her eyes, Rosa stood with her mouth open, forgetting to shut it...:た口を閉じることも思い出せずにいた…。}`
 `{ruby:"You may now open your eyes.:「もう目を開けて良いぞ。}`
 `{ruby:...Take it.:…受け取るが良い。}`
-`{ruby:Now your sweet has returned to normal.":これでそなたの菓子も元通りだ」}`
+`{ruby:Now your sweet:これでそなたの菓子}{ruby:has returned to normal.":も元通りだ」}`
 `{ruby:"Uu!!:「うー！！}`
-`{ruby:{f:5:Beatrice}, you're always awesome awesome, *giggle*!!":ベアトリーチェはいつもすごいすごい、きゃっきゃ！！」}`
+`{ruby:{f:5:Beatrice}, you're always:ベアトリーチェはいつもすごいす}{ruby:awesome awesome, *giggle*!!":ごい、きゃっきゃ！！」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:There was a very bold contrast between Rosa's shocked appearance and Maria's innocently joyful one.:無邪気に喜ぶ真里亞の姿と、呆然とする楼座の姿の対比が、あまりにくっきりとわかれていた。}`
-`{ruby:......Was that what the witch was laughing at?:……それを魔女は笑うのか。}`
-`{ruby:{n}A smile floated to {f:5:Beatrice}'s face, different from the one that she had shown Maria.:{n}ベアトリーチェは真里亞のそれに応えるのとは違う笑いを浮かべる。}`
+`{ruby:There was a very bold contrast between:無邪気に喜ぶ真里亞の姿と、呆然とする楼座の姿の}{ruby:Rosa's shocked appearance and Maria's innocently joyful one.:対比が、あまりにくっきりとわかれていた。}`
+`{ruby:......Was that what the:……それを魔女は}{ruby:witch was laughing at?:笑うのか。}`
+`{ruby:{n}A smile floated to {f:5:Beatrice}'s face, different:{n}ベアトリーチェは真里亞のそれに}{ruby:from the one that she had shown Maria.:応えるのとは違う笑いを浮かべる。}`
 `{ruby:"......Does my face look familiar?:「……妾の顔が、何かに似ているというのか？}`
-`{ruby:If you stare so fixedly, you might burn a hole through it.":そうまじまじと見られては穴も開こうぞ」}`
+`{ruby:If you stare so fixedly, you:そうまじまじと見られて}{ruby:might burn a hole through it.":は穴も開こうぞ」}`
 `{ruby:"Huh, ......ah, I, I'm sorry...!":「え、……あ、ご、ごめんなさい…！」}`
 `{ruby:At those words, it hit Rosa strongly.:楼座はその言葉で強く意識する。}`
 `{ruby:......Rosa knew her face.:……彼女の面影を、楼座は知っていた。}`
-`{ruby:{n}......She knew it from the portrait of the witch.:{n}……魔女の肖像画で知っていた。}`
-`{ruby:But, no, wait, ......was this mystery woman really......?!:しかし、いやでも、……本当にこの謎の女は……？！}`
+`{ruby:{n}......She knew it from:{n}……魔女の肖像}{ruby:the portrait of the witch.:画で知っていた。}`
+`{ruby:But, no, wait, ......was:しかし、いやでも、……本当}{ruby:this mystery woman really......?!:にこの謎の女は……？！}`
 `{ruby:"......Maria.:「……真里亞。}`
-`{ruby:I will give this to you in exchange for that sweet.":この菓子の代わりに、そなたにはこれを与えよう」}`
+`{ruby:I will give this to:この菓子の代わりに、そなた}{ruby:you in exchange for that sweet.":にはこれを与えよう」}`
 `{ruby:"Uu...?:「うー…？}`
 `{ruby:Letter?":手紙？」}`
-`{ruby:The witch pulled a Western envelope from her pocket and gave it to Maria.:魔女は懐より洋形封筒を取り出すと真里亞に与えた。}`
-`{ruby:However, when Maria made to open it, the witch stopped her.:しかし、それを真里亞が開けようとするとそれを制する。}`
+`{ruby:The witch pulled a Western envelope from:魔女は懐より洋形封筒を取り}{ruby:her pocket and gave it to Maria.:出すと真里亞に与えた。}`
+`{ruby:However, when Maria made to:しかし、それを真里亞が開けよ}{ruby:open it, the witch stopped her.:うとするとそれを制する。}`
 `{ruby:"You must not.:「ならぬ。}`
-`{ruby:The time will come soon to open it, but until then, you must not open it under any circumstances.:それを開ける時はすぐに訪れるが、それまで決して開けてはならぬ。}`
+`{ruby:The time will come soon to open it, but:それを開ける時はすぐに訪れるが、そ}{ruby:until then, you must not open it under any circumstances.:れまで決して開けてはならぬ。}`
 `{ruby:Take good care of it.:大事に持っているが良い。}`
-`{ruby:It will become an invitation calling you to the Golden Land.":そなたを黄金郷へ誘う招待状となろう」}`
+`{ruby:It will become an invitation:そなたを黄金郷へ誘う}{ruby:calling you to the Golden Land.":招待状となろう」}`
 `{ruby:"The Golden Land!!:「黄金郷！！}`
-`{ruby:You're finally going to take me there!!:やっと連れてってくれるんだね！！}`
+`{ruby:You're finally going:やっと連れてってくれ}{ruby:to take me there!!:るんだね！！}`
 `{ruby:*giggle*!:きゃっきゃッ！}`
 `{ruby:*giggle*!!":きゃっきゃッ！！」}`
 `{ruby:"Take it and tuck it away safely.:「大事にしまっておくのだぞ。}`
 `{ruby:You must not show it to anyone.":誰にも見せてはならぬ」}`
 `{ruby:"Uu!:「うー！}`
 `{ruby:Promise!:守る！}`
-`{ruby:I always keep my promises with witches!":魔女との約束は絶対に守る！」}`
+`{ruby:I always keep:魔女との約束は絶対}{ruby:my promises with witches!":に守る！」}`
 `{ruby:"......And this is for you.":「……そして、これはそなたへだ」}`
 `{ruby:"huh.........?:「ぇ………？}`
 `{ruby:M‐......me......?!":わ、……私……？！」}`
-`{ruby:She probably hadn't imagined that the witch would speak to her, too.:まさか、魔女が自分に話しかけてくるとは思わなかったのだろう。}`
-`{ruby:Rosa was bewildered by this second Western envelope which had been thrust before her.:楼座は突きつけられたもう一通の洋形封筒に困惑する。}`
-`{ruby:She remembered having seen that Western envelope before.:その洋形封筒は見覚えのあるものだった。}`
+`{ruby:She probably hadn't imagined that the:まさか、魔女が自分に話しかけてく}{ruby:witch would speak to her, too.:るとは思わなかったのだろう。}`
+`{ruby:Rosa was bewildered by this second Western:楼座は突きつけられたもう一通}{ruby:envelope which had been thrust before her.:の洋形封筒に困惑する。}`
+`{ruby:She remembered having seen:その洋形封筒は見覚えの}{ruby:that Western envelope before.:あるものだった。}`
 `{ruby:......There could be no mistake.:……間違いない。}`
-`{ruby:It was Kinzo's special envelope, used when he wrote with his own hand, and bearing the Ushiromiya crest.:右代宮家の紋章をあしらった、金蔵が親書に使う特別な封筒だ。}`
-`{ruby:Moreover, it was sealed with red sealing wax,:しかもそれには赤い封蝋までされていて、}`
-`{ruby:...and further still, it had an imprint which seemed to have been made by the Head's Ring.:…しかも当主の指輪でされたと思われる封印までされていた。}`
-`{ruby:In other words, irrespective of what was written inside,:つまり、この中に何が書いてあるかを問わず、}`
-`{ruby:...this woman, who Maria called {f:5:Beatrice},:…真里亞がベアトリーチェと呼ぶこの女は、}`
-`{ruby:was trusted enough that she was in charge of a personal letter from the current Ushiromiya head...!:右代宮家現当主の親書を預かれるほどの信用を得ているということになる…！}`
-`{ruby:"It could have been any of the four siblings.:「四兄弟の誰でも良かった。}`
-`{ruby:However, the fact that I have met you here probably means that you were chosen by Kinzo's roulette.":だが、ここでそなたと出会ったということは、金蔵のルーレットがそなたを選んだということなのだろう」}`
+`{ruby:It was Kinzo's special envelope, used when he wrote:右代宮家の紋章をあしらった、金蔵}{ruby:with his own hand, and bearing the Ushiromiya crest.:が親書に使う特別な封筒だ。}`
+`{ruby:Moreover, it was sealed:しかもそれには赤い封蝋}{ruby:with red sealing wax,:までされていて、}`
+`{ruby:...and further still, it had an imprint which:…しかも当主の指輪でされたと思}{ruby:seemed to have been made by the Head's Ring.:われる封印までされていた。}`
+`{ruby:In other words, irrespective:つまり、この中に何が書い}{ruby:of what was written inside,:てあるかを問わず、}`
+`{ruby:...this woman, who:…真里亞がベアトリーチ}{ruby:Maria called {f:5:Beatrice},:ェと呼ぶこの女は、}`
+`{ruby:was trusted enough that she was in charge:右代宮家現当主の親書を預かれるほどの信}{ruby:of a personal letter from the current Ushiromiya head...!:用を得ているということになる…！}`
+`{ruby:"It could have been:「四兄弟の誰でも}{ruby:any of the four siblings.:良かった。}`
+`{ruby:However, the fact that I have met you here:だが、ここでそなたと出会ったということは、金蔵のル}{ruby:probably means that you were chosen by Kinzo's roulette.":ーレットがそなたを選んだということなのだろう」}`
 `{ruby:"...So take it.:「…ならば受け取るが良い。}`
-`{ruby:And read its contents aloud while seated at the dinner table, when all of the siblings are gathered.":そしてその中身を、全兄弟の揃う晩餐の席上で読み上げよ」}`
+`{ruby:And read its contents aloud while seated at the:そしてその中身を、全兄弟の揃う}{ruby:dinner table, when all of the siblings are gathered.":晩餐の席上で読み上げよ」}`
 `{ruby:".........What did you say......":「………何ですって……」}`
-`{ruby:Rosa looked back and forth several times between the witch's face and the envelope she had been handed.:楼座は渡された封筒と魔女の顔を何度も見比べる。}`
-`{ruby:Today was the family conference, and the biggest object of discussion was the inheritance problem.:今日は親族会議で、その最大の議題は遺産問題。}`
-`{ruby:......So, she had joined together with Eva and Rudolf,:……そして、彼女は、絵羽、留弗夫の二人と組んで、}`
-`{ruby:and they had planned to force certain conditions upon Krauss to try to extort a prompt payment of several hundred million yen out of him.:蔵臼にある条件を突きつけ、何億円かの即金を支払うよう強要する計画だった。}`
-`{ruby:It was as if the witch could see through all of that.:それらを、魔女はまるで全て見透かしている。}`
-`{ruby:{n}......And when all of the siblings are gathered, ....what is she planning on announcing to us?:{n}……そして、兄弟全員が揃ったところで、私たちに何を宣言しようというのか。}`
-`{ruby:With a personal envelope that no one but the Ushiromiya head can use...!:右代宮家当主にしか扱えぬ親書の封筒で…！}`
+`{ruby:Rosa looked back and forth several times between the:楼座は渡された封筒と魔女の}{ruby:witch's face and the envelope she had been handed.:顔を何度も見比べる。}`
+`{ruby:Today was the family conference, and the:今日は親族会議で、その最}{ruby:biggest object of discussion was the inheritance problem.:大の議題は遺産問題。}`
+`{ruby:......So, she had joined:……そして、彼女は、絵羽、}{ruby:together with Eva and Rudolf,:留弗夫の二人と組んで、}`
+`{ruby:and they had planned to force certain conditions upon Krauss to try:蔵臼にある条件を突きつけ、何億円かの即}{ruby:to extort a prompt payment of several hundred million yen out of him.:金を支払うよう強要する計画だった。}`
+`{ruby:It was as if the witch:それらを、魔女はまるで全}{ruby:could see through all of that.:て見透かしている。}`
+`{ruby:{n}......And when all of the siblings are gathered,:{n}……そして、兄弟全員が揃ったところで}{ruby:....what is she planning on announcing to us?:、私たちに何を宣言しようというのか。}`
+`{ruby:With a personal envelope that no:右代宮家当主にしか扱え}{ruby:one but the Ushiromiya head can use...!:ぬ親書の封筒で…！}`
 `{ruby:"......Maria,:「……真里亞。}`
 `{ruby:the weather is getting worse.:天気が崩れるぞ。}`
-`{ruby:Return to the guesthouse and wait for lunchtime.":ゲストハウスへ戻り、昼を待つが良い」}`
-`{ruby:".........Well then, Rosa, let us meet later.:「………それでは楼座、後ほど会おう。}`
+`{ruby:Return to the guesthouse:ゲストハウスへ戻り、}{ruby:and wait for lunchtime.":昼を待つが良い」}`
+`{ruby:".........Well then, Rosa,:「………それでは楼座}{ruby:let us meet later.:、後ほど会おう。}`
 `{ruby:Allow me to name myself there.:その席で改めて名乗らせてもらおうぞ。}`
 `{ruby:...*cackle*cackle*cackle*.":…くっくくくく」}`
-`{ruby:The witch turned her back to her, laughing.:魔女は笑いながら背を向ける。}`
-`{ruby:{n}...And headed off towards the mansion with an air of composure.:{n}…そして屋敷の方へ悠然と向かっていく。}`
-`{ruby:Maria saw her off with an energetic reply, and then dashed off towards the guesthouse, leaving Rosa where she was.:真里亞は元気よく返事をして見送ると、楼座をその場に残してゲストハウスの方へ駆けていく。}`
-`{ruby:......As though she didn't want to waste a second in informing the other cousins of her good fortune at meeting the witch.:……魔女と出会った幸運を、いとこたちに一刻も早く報告したいかのように。}`
-`{ruby:Ultimately, Rosa was left alone in the rose garden as the winds grew stronger,:楼座は、いよいよに風の強くなる薔薇庭園に取り残され、}`
-`{ruby:......unable to do anything except pray that what had happened was just a daydream...:……たった今の出来事が、どうか白昼の夢でありますようにと祈るしかなかった…。}`
-`{ruby:When the witch entered the entrance hall, ......Genji was there.:魔女が玄関に入ると、……そこには源次の姿があった。}`
-`{ruby:{n}With a respectful bow, Genji welcomed the "guest" who approached from the entrance hall...:{n}源次は、玄関より訪れた「客人」に最敬礼の挨拶をして迎える…。}`
+`{ruby:The witch turned her:魔女は笑いながら}{ruby:back to her, laughing.:背を向ける。}`
+`{ruby:{n}...And headed off towards the:{n}…そして屋敷の方へ}{ruby:mansion with an air of composure.:悠然と向かっていく。}`
+`{ruby:Maria saw her off with an energetic reply, and then:真里亞は元気よく返事をして見送ると、楼座をその}{ruby:dashed off towards the guesthouse, leaving Rosa where she was.:場に残してゲストハウスの方へ駆けていく。}`
+`{ruby:......As though she didn't want to waste a second in informing:……魔女と出会った幸運を、いとこたちに}{ruby:the other cousins of her good fortune at meeting the witch.:一刻も早く報告したいかのように。}`
+`{ruby:Ultimately, Rosa was left alone in the:楼座は、いよいよに風の強くな}{ruby:rose garden as the winds grew stronger,:る薔薇庭園に取り残され、}`
+`{ruby:......unable to do anything except pray that:……たった今の出来事が、どうか白昼の夢で}{ruby:what had happened was just a daydream...:ありますようにと祈るしかなかった…。}`
+`{ruby:When the witch entered the:魔女が玄関に入ると、……そこ}{ruby:entrance hall, ......Genji was there.:には源次の姿があった。}`
+`{ruby:{n}With a respectful bow, Genji welcomed the:{n}源次は、玄関より訪れた「客人」}{ruby:"guest" who approached from the entrance hall...:に最敬礼の挨拶をして迎える…。}`
 `{ruby:"We have been awaiting you.:「お待ちいたしておりました。}`
 `{ruby:.........{f:5:Beatrice}‐sama.":………ベアトリーチェさま」}`
 `{ruby:"...It's been a while, Genji.:「…久しぶりだな、源次。}`
 `{ruby:.........Hmph.:………ふ。}`
 `{ruby:You've gotten old.":老いたではないか」}`
-`{ruby:"......No matter how old it is, furniture will only carry out its work like furniture, until the end.":「……どれほどに老いようとも、家具は家具らしく、最後までお勤めを果たすのみでございます」}`
-`{ruby:".........I remember how his wife used to be jealous of you.:「………あれの妻が、お前に嫉妬したことも懐かしい。}`
+`{ruby:"......No matter how old it is, furniture will only:「……どれほどに老いようとも、家具は家具らしく}{ruby:carry out its work like furniture, until the end.":、最後までお勤めを果たすのみでございます」}`
+`{ruby:".........I remember how his wife:「………あれの妻が、お前に嫉}{ruby:used to be jealous of you.:妬したことも懐かしい。}`
 `{ruby:...Is Kinzo well?":…金蔵は元気か？」}`
 `{ruby:"He is full of life.":「大変お元気にございます」}`
 `{ruby:"......Hmph.:「……ふ。}`
 `{ruby:*cackle*cackle*cackle*cackle*!":くっくくくくくくく！」}`
-`{ruby:The witch's laugh was probably because she knew that Kinzo's own doctor had told him that he would not live much longer.:魔女のその笑いは、金蔵が主治医に余命わずかと宣告されていることを知った上でなのだろう。}`
-`{ruby:...However, if anyone actually looked at Kinzo,:…もっとも、実際の金蔵を見れば、}`
-`{ruby:his energy and vigor, which made it extremely difficult to imagine that his remaining life really was slim, might make it natural to call him "full of life".:余命わずかとは到底思えないその気力に、元気であると例えたとしても何の不思議もないかもしれない。}`
-`{ruby:...Maybe the witch had laughed at that.:…あるいは、魔女はそれを笑ったのか。}`
+`{ruby:The witch's laugh was probably because she knew that Kinzo's own:魔女のその笑いは、金蔵が主治医に余命わずかと宣}{ruby:doctor had told him that he would not live much longer.:告されていることを知った上でなのだろう。}`
+`{ruby:...However, if anyone:…もっとも、実際の}{ruby:actually looked at Kinzo,:金蔵を見れば、}`
+`{ruby:his energy and vigor, which made it extremely difficult to imagine that his remaining:余命わずかとは到底思えないその気力に、元気であると}{ruby:life really was slim, might make it natural to call him "full of life".:例えたとしても何の不思議もないかもしれない。}`
+`{ruby:...Maybe the witch:…あるいは、魔女はそ}{ruby:had laughed at that.:れを笑ったのか。}`
 `{ruby:"Then let us greet him.:「挨拶に行こうではないか。}`
-`{ruby:It will be good to hurl curses at each other after thirty years.":３０年ぶりに、互いに呪いの言葉を吐きあうも良かろう」}`
-`{ruby:As the witch grinned, she started walking, leaving Genji behind.:魔女はにやりと笑うと、源次を置いてさっさと歩き出す。}`
-`{ruby:{n}......Her gait was like that of a family member who knew the inside of the mansion well.:{n}……その足取りは、屋敷の中を充分に知った家人のようだった。}`
-`{ruby:Genji followed her, as though he served her.:源次はその後を仕えるように追う。}`
-`{ruby:At that very moment, Kyrie came out of the parlor.:ちょうどその時、客間から霧江が出てきた。}`
-`{ruby:{n}...She had probably come out to fix her makeup or something.:{n}…化粧直しにでも出たのだろう。}`
-`{ruby:And when she saw Genji following the witch, she was surprised, although her expression did not change.:そして、源次を従えるようにして歩く魔女の姿を見て、表情を崩さぬ程度に驚いた。}`
-`{ruby:There was a visitor for Kinzo, whose remaining life was not long, on the day of the family conference when the fate of the inheritance was to be decided,:金蔵の余命が長くなく、その遺産をどうしようかという親族会議のこの日に来客があり、}`
-`{ruby:...and furthermore, this person was well enough acquainted with the Ushiromiya family that Genji was following behind her.:…しかもその人物は、源次を後に従えて歩くほど右代宮家に馴染みがあって。}`
-`{ruby:......Kyrie immediately realized that this person who she had never met before was someone deeply important.:……霧江はすぐにこの初対面の人物が、重要な意味を持つ何者かであることを理解する。}`
+`{ruby:It will be good to hurl:３０年ぶりに、互いに呪いの言}{ruby:curses at each other after thirty years.":葉を吐きあうも良かろう」}`
+`{ruby:As the witch grinned, she:魔女はにやりと笑うと、源次を}{ruby:started walking, leaving Genji behind.:置いてさっさと歩き出す。}`
+`{ruby:{n}......Her gait was like that of a family:{n}……その足取りは、屋敷の中を}{ruby:member who knew the inside of the mansion well.:充分に知った家人のようだった。}`
+`{ruby:Genji followed her, as:源次はその後を仕え}{ruby:though he served her.:るように追う。}`
+`{ruby:At that very moment, Kyrie:ちょうどその時、客間か}{ruby:came out of the parlor.:ら霧江が出てきた。}`
+`{ruby:{n}...She had probably come out:{n}…化粧直しにで}{ruby:to fix her makeup or something.:も出たのだろう。}`
+`{ruby:And when she saw Genji following the witch,:そして、源次を従えるようにして歩く魔女の}{ruby:she was surprised, although her expression did not change.:姿を見て、表情を崩さぬ程度に驚いた。}`
+`{ruby:There was a visitor for Kinzo, whose remaining life was not long, on the:金蔵の余命が長くなく、その遺産をどうしよう}{ruby:day of the family conference when the fate of the inheritance was to be decided,:かという親族会議のこの日に来客があり、}`
+`{ruby:...and furthermore, this person was well enough acquainted with:…しかもその人物は、源次を後に従えて歩}{ruby:the Ushiromiya family that Genji was following behind her.:くほど右代宮家に馴染みがあって。}`
+`{ruby:......Kyrie immediately realized that this person who she:……霧江はすぐにこの初対面の人物が、重要な}{ruby:had never met before was someone deeply important.:意味を持つ何者かであることを理解する。}`
 `{ruby:Kyrie met eyes with the witch.:霧江は、魔女と目が合う。}`
-`{ruby:{n}......Realizing that it would be rude to pretend not to notice, she greeted the witch.:{n}……知らぬふりをするのも失礼だと悟り、挨拶した。}`
+`{ruby:{n}......Realizing that it would be rude to:{n}……知らぬふりをするのも}{ruby:pretend not to notice, she greeted the witch.:失礼だと悟り、挨拶した。}`
 `{ruby:"............Pleased to meet you.":「…………初めまして」}`
 `{ruby:"Rudolf's second wife?":「留弗夫の後妻だったか」}`
 `{ruby:"That is correct.:「左様でございます。}`
-`{ruby:This is Kyrie‐sama, Rudolf‐sama's current wife.":留弗夫さまの今の奥方様であられます、霧江さまでございます」}`
-`{ruby:From this exchange, Kyrie realized that this woman was a guest of considerably high rank within the Ushiromiya family.:そのやり取りで、霧江は初対面の彼女が、右代宮家においてかなり格の高い賓客であることを理解する。}`
-`{ruby:.........And, the fact she was a guest of that level,:………そして、それほどの賓客であるという事実と、}`
-`{ruby:......coupled with the face of the entrance hall portrait behind her, ......made Kyrie's eyes open wide in an instant...:……彼女が背負う玄関ホールの肖像画の面影が重なり、……霧江の目は見る見るうちに見開かれていった…。}`
+`{ruby:This is Kyrie‐sama,:留弗夫さまの今の奥方様であられま}{ruby:Rudolf‐sama's current wife.":す、霧江さまでございます」}`
+`{ruby:From this exchange, Kyrie realized that this woman was:そのやり取りで、霧江は初対面の彼女が、右代宮家にお}{ruby:a guest of considerably high rank within the Ushiromiya family.:いてかなり格の高い賓客であることを理解する。}`
+`{ruby:.........And, the fact she was:………そして、それほどの賓}{ruby:a guest of that level,:客であるという事実と、}`
+`{ruby:......coupled with the face of the entrance hall portrait:……彼女が背負う玄関ホールの肖像画の面影が重なり、…}{ruby:behind her, ......made Kyrie's eyes open wide in an instant...:…霧江の目は見る見るうちに見開かれていった…。}`
 `{ruby:"......Pleased to meet you.:「……初めまして。}`
 `{ruby:My name is Kyrie.:霧江と申します。}`
-`{ruby:I wonder if this is our first meeting.:初対面でしょうか。}`
-`{ruby:If we did greet each other before, I apologize for forgetting your name.":もし以前に挨拶をしていたなら、名前を忘れてしまって申し訳ございません」}`
-`{ruby:"...You already have a vague idea, yet you expect me to waste my breath?":「…うすうすは想像がついているくせに、妾に敢えて名乗らそうというのか」}`
+`{ruby:I wonder if this:初対面でしょ}{ruby:is our first meeting.:うか。}`
+`{ruby:If we did greet each other:もし以前に挨拶をしていたなら、名前を忘}{ruby:before, I apologize for forgetting your name.":れてしまって申し訳ございません」}`
+`{ruby:"...You already have a vague idea, yet:「…うすうすは想像がついているくせに、}{ruby:you expect me to waste my breath?":妾に敢えて名乗らそうというのか」}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:Kyrie had thought she had given her a sociable and humble greeting.:霧江は社交的に腰を低く挨拶したつもりでいた。}`
-`{ruby:{n}Her expression grew slightly cloudy at that openly oppressive response.:{n}それに対する返事があからさまに高圧的だったので、少し表情を曇らす。}`
-`{ruby:......It didn't seem like this was a person she could grow to like.:……どうも、好きになれそうにない相手のようだった。}`
-`{ruby:...But if Kyrie's imagination was correct, ......this "witch" likely held a huge key to what her own husband was most interested in,:…しかし、もし霧江の想像が当たっているならば、……この「魔女」は恐らく、自分の夫の最大の関心事について、}`
-`{ruby:and one that stood a great chance of influencing tonight's family conference...:そして今夜の親族会議を左右しかねない、大きな鍵を握っているのだ…。}`
-`{ruby:So she did not shoot back a retort, and could only watch in silence as the woman went up the stairs to the second floor, with Genji following behind.:だから買い言葉を返さず、源次を従えて二階へ上がって行くその姿を、黙って見送るしかない。}`
-`{ruby:So when someone tapped her shoulder from behind, she was so surprised, she almost choked.:だからその肩が後から叩かれ、窒息しそうになるくらいに驚いた。}`
+`{ruby:Kyrie had thought she had given:霧江は社交的に腰を低く挨}{ruby:her a sociable and humble greeting.:拶したつもりでいた。}`
+`{ruby:{n}Her expression grew slightly cloudy:{n}それに対する返事があからさまに高}{ruby:at that openly oppressive response.:圧的だったので、少し表情を曇らす。}`
+`{ruby:......It didn't seem like this was:……どうも、好きになれそうに}{ruby:a person she could grow to like.:ない相手のようだった。}`
+`{ruby:...But if Kyrie's imagination was correct, ......this "witch" likely held a:…しかし、もし霧江の想像が当たっているならば、……この}{ruby:huge key to what her own husband was most interested in,:「魔女」は恐らく、自分の夫の最大の関心事について、}`
+`{ruby:and one that stood a great:そして今夜の親族会議を左右しかねない}{ruby:chance of influencing tonight's family conference...:、大きな鍵を握っているのだ…。}`
+`{ruby:So she did not shoot back a retort, and could only watch in silence:だから買い言葉を返さず、源次を従えて二階へ上が}{ruby:as the woman went up the stairs to the second floor, with Genji following behind.:って行くその姿を、黙って見送るしかない。}`
+`{ruby:So when someone tapped her shoulder from:だからその肩が後から叩かれ、窒息}{ruby:behind, she was so surprised, she almost choked.:しそうになるくらいに驚いた。}`
 `{ruby:It was Natsuhi...:それは、夏妃だった…。}`
 `{ruby:".........Kyrie‐san.:「………霧江さん。}`
 `{ruby:Standing still in a place like this,:このようなところに立ち尽くして。}`
 `{ruby:is something the matter...?":いかがなさいましたか…？」}`
 `{ruby:"I, I'm sorry.:「ご、ごめんなさい。}`
-`{ruby:......I was just a little fascinated by the portrait of the witch.":……ちょっと、魔女の肖像画に見とれていただけです」}`
-`{ruby:"......The Golden Witch, {f:5:Beatrice}, was it?:「……黄金の魔女、ベアトリーチェ、ですか。}`
-`{ruby:Something like—the revival of the Ushiromiya family to what it is today would never have been possible without the gold she gave...:今日の右代宮家の復興は、彼女が授けた黄金がなければ成し遂げられなかったとか。}`
-`{ruby:......A fantastical story, very much like Father.":……お父様らしい、幻想的なお話ですね」}`
-`{ruby:Natsuhi spoke of her in her usual way.:夏妃のその言い方は、普段通り。}`
-`{ruby:{n}...She spoke from the position that the idea of a witch was just foolish, and that in the end, it was nothing more than Kinzo's ramblings.:{n}…魔女なんて馬鹿らしい、所詮は金蔵の世迷言に過ぎないという立場での言い分だ。}`
-`{ruby:...However, for some reason, that no longer felt right to Kyrie.:…しかし、今の霧江にはなぜか腑に落ちなかった。}`
-`{ruby:Just now, she herself had seen the Golden Witch come in from the entrance hall and climb up the stairs.:自分はたった今、黄金の魔女が玄関からやってきて階上へ上がって行くのを見たのだ。}`
-`{ruby:So Natsuhi's choice of words seemed almost like a refusal to accept her existence,:だからこそ夏妃の言い方がまるで、その存在を認めない、}`
-`{ruby:or as if she was leading her to think that she did not exist...:あるいは、いないかのように思い込ませる誘導のように感じてしまう…。}`
+`{ruby:......I was just a little fascinated:……ちょっと、魔女の肖像画に}{ruby:by the portrait of the witch.":見とれていただけです」}`
+`{ruby:"......The Golden Witch,:「……黄金の魔女、ベアト}{ruby:{f:5:Beatrice}, was it?:リーチェ、ですか。}`
+`{ruby:Something like—the revival of the Ushiromiya family to what it is:今日の右代宮家の復興は、彼女が授けた黄金}{ruby:today would never have been possible without the gold she gave...:がなければ成し遂げられなかったとか。}`
+`{ruby:......A fantastical story,:……お父様らしい、幻想}{ruby:very much like Father.":的なお話ですね」}`
+`{ruby:Natsuhi spoke of her:夏妃のその言い方は}{ruby:in her usual way.:、普段通り。}`
+`{ruby:{n}...She spoke from the position that the idea of a witch was just:{n}…魔女なんて馬鹿らしい、所詮は金蔵の世}{ruby:foolish, and that in the end, it was nothing more than Kinzo's ramblings.:迷言に過ぎないという立場での言い分だ。}`
+`{ruby:...However, for some reason, that:…しかし、今の霧江にはなぜ}{ruby:no longer felt right to Kyrie.:か腑に落ちなかった。}`
+`{ruby:Just now, she herself had seen the Golden Witch come:自分はたった今、黄金の魔女が玄関からやって}{ruby:in from the entrance hall and climb up the stairs.:きて階上へ上がって行くのを見たのだ。}`
+`{ruby:So Natsuhi's choice of words seemed almost:だからこそ夏妃の言い方がまる}{ruby:like a refusal to accept her existence,:で、その存在を認めない、}`
+`{ruby:or as if she was leading her:あるいは、いないかのように思い込ませ}{ruby:to think that she did not exist...:る誘導のように感じてしまう…。}`
 `{ruby:"...I'm sorry.:「…ごめんなさい。}`
-`{ruby:I think I'm feeling a bit of a headache.:少し頭痛がする気がして。}`
-`{ruby:...I think I'll rest for a little while.":…ちょっと休もうと思います」}`
+`{ruby:I think I'm feeling:少し頭痛がする}{ruby:a bit of a headache.:気がして。}`
+`{ruby:...I think I'll rest:…ちょっと休もう}{ruby:for a little while.":と思います」}`
 `{ruby:"Oh, is that so...?:「あら、そうですか…？}`
-`{ruby:Then I have some good headache medicine.:なら、良い頭痛薬がありますよ。}`
+`{ruby:Then I have:なら、良い頭痛薬が}{ruby:some good headache medicine.:ありますよ。}`
 `{ruby:Allow me to prepare it for you...":用意させましょう…」}`
-`{ruby:The hallway in front of Kinzo's study was filled with the scent of sweet poison particular to that green liquor...:金蔵の書斎前の廊下には、あの緑色の酒独特の、甘い毒の匂いが立ち込めている…。}`
-`{ruby:Genji, who was completely used to it, did not grimace.:慣れきっている源次は顔をしかめない。}`
-`{ruby:{n}...And the Golden Witch didn't grimace either.:{n}…そして黄金の魔女も、顔をしかめなかった。}`
-`{ruby:"......When was the last time he left this room?":「……この中からどれほど出ぬのか」}`
-`{ruby:"I believe it has already been several years.":「すでに数年になるかと思います」}`
-`{ruby:"............He is that intent on making me a bird in a cage?:「…………それほどまでに、妾を篭の鳥としたいか。}`
+`{ruby:The hallway in front of Kinzo's study was filled with:金蔵の書斎前の廊下には、あの緑色の酒独特}{ruby:the scent of sweet poison particular to that green liquor...:の、甘い毒の匂いが立ち込めている…。}`
+`{ruby:Genji, who was completely used:慣れきっている源次は}{ruby:to it, did not grimace.:顔をしかめない。}`
+`{ruby:{n}...And the Golden:{n}…そして黄金の魔女も}{ruby:Witch didn't grimace either.:、顔をしかめなかった。}`
+`{ruby:"......When was the last:「……この中からどれ}{ruby:time he left this room?":ほど出ぬのか」}`
+`{ruby:"I believe it has:「すでに数年になる}{ruby:already been several years.":かと思います」}`
+`{ruby:"............He is that intent on making:「…………それほどまでに、}{ruby:me a bird in a cage?:妾を篭の鳥としたいか。}`
 `{ruby:...Alas.:…哀れな。}`
-`{ruby:......Now you, who made that wish, are the bird in a cage.:……それを願うそなたが、今や篭の鳥。}`
-`{ruby:...The ghost of the study, are you not.:…書斎の亡霊ではないか。}`
-`{ruby:......What a pitiful man to not recognize that.":……それに気付けぬとは哀れな男よ」}`
-`{ruby:"......He would probably continue his research until the day he could meet you again, even if he literally became a ghost.":「……貴方様と再びお会いする日までは、恐らく、文字通り亡霊となっても研究を続けられるでしょう」}`
+`{ruby:......Now you, who made that wish,:……それを願うそなた}{ruby:are the bird in a cage.:が、今や篭の鳥。}`
+`{ruby:...The ghost of the:…書斎の亡霊で}{ruby:study, are you not.:はないか。}`
+`{ruby:......What a pitiful man:……それに気付けぬと}{ruby:to not recognize that.":は哀れな男よ」}`
+`{ruby:"......He would probably continue his research until the day he:「……貴方様と再びお会いする日までは、恐らく、文字}{ruby:could meet you again, even if he literally became a ghost.":通り亡霊となっても研究を続けられるでしょう」}`
 `{ruby:"Is it love or madness or obsession?:「愛か凶気か妄執か。}`
-`{ruby:...I suppose they too will become magic if well enough developed.:…それも高じれば魔力となるか。}`
+`{ruby:...I suppose they too will:…それも高じれば魔}{ruby:become magic if well enough developed.:力となるか。}`
 `{ruby:......You sad mage.":……悲しき魔術師よ」}`
-`{ruby:The witch grasped the doorknob to the study.:魔女は書斎のドアノブを握る。}`
-`{ruby:......When she did, there was a sound like that of flesh burning and splitting open.:……すると、ジュウとまるで肉が焼かれて爆ぜるような音がした。}`
-`{ruby:...It was the sound of the doorknob literally burning the witch's hand.:…それは文字通り、ドアノブが魔女の手を焼いた音だった。}`
+`{ruby:The witch grasped the:魔女は書斎のドア}{ruby:doorknob to the study.:ノブを握る。}`
+`{ruby:......When she did, there was a sound:……すると、ジュウとまるで肉が焼}{ruby:like that of flesh burning and splitting open.:かれて爆ぜるような音がした。}`
+`{ruby:...It was the sound of the:…それは文字通り、ドアノブが魔}{ruby:doorknob literally burning the witch's hand.:女の手を焼いた音だった。}`
 `{ruby:"......{f:5:Beatrice}‐sama...":「……ベアトリーチェさま…」}`
 `{ruby:"What is this?:「何だこれは。}`
 `{ruby:.........A magic ward!:………魔除けか！}`
-`{ruby:...That fool, is he unable to get by without relying on something like this...?":…あやつめ、こんなものに頼らなければ己が身も保てぬというのか…」}`
-`{ruby:"...I have heard that this door is painful for you, {f:5:Beatrice}‐sama.:「…その扉は、ベアトリーチェさまにはお辛いものと伺っております。}`
+`{ruby:...That fool, is he unable to get:…あやつめ、こんなものに頼らなければ}{ruby:by without relying on something like this...?":己が身も保てぬというのか…」}`
+`{ruby:"...I have heard that this:「…その扉は、ベアトリーチェさまに}{ruby:door is painful for you, {f:5:Beatrice}‐sama.:はお辛いものと伺っております。}`
 `{ruby:Shall I open it...?":私がお開け致しましょうか…？」}`
 `{ruby:"No, ...it is fine.:「いや、…良い。}`
-`{ruby:If he wins, I will be a bird in a cage for all eternity.:あやつが勝てば、妾は永遠の篭の鳥。}`
-`{ruby:...If he loses, only the life of a laughingstock will be left, the life of a pitiful mage who went mad with love and lost everything.":…あやつが負ければ、愛にくるい、全てを失った哀れな魔術師の生涯が笑い草となって残るだけ」}`
-`{ruby:"......Already, Kinzo and even I are nothing more than pieces laid out on the game board.:「……もはや金蔵も、妾さえも、ゲーム盤に並べられた駒に過ぎぬ。}`
-`{ruby:...All that is left is for the result of the roulette to decide who wins and who loses.:…あとはルーレットの目が勝敗を分けるだけよ。}`
-`{ruby:.........Until the roulette shows its result, there is no need for me to be reunited with Kinzo.":………ルーレットが目を見せるまで、妾と金蔵が再会する必要はない」}`
-`{ruby:The witch looked at her hand, which, although horribly burned, was beginning to heal bit by bit.:魔女は、焼け爛れながらも、少しずつ癒えていく手の平を見る。}`
+`{ruby:If he wins, I will be a:あやつが勝てば、妾は}{ruby:bird in a cage for all eternity.:永遠の篭の鳥。}`
+`{ruby:...If he loses, only the life of a laughingstock will be left, the:…あやつが負ければ、愛にくるい、全てを失った哀}{ruby:life of a pitiful mage who went mad with love and lost everything.":れな魔術師の生涯が笑い草となって残るだけ」}`
+`{ruby:"......Already, Kinzo and even I are nothing more:「……もはや金蔵も、妾さえも、ゲー}{ruby:than pieces laid out on the game board.:ム盤に並べられた駒に過ぎぬ。}`
+`{ruby:...All that is left is for the result of:…あとはルーレットの目が}{ruby:the roulette to decide who wins and who loses.:勝敗を分けるだけよ。}`
+`{ruby:.........Until the roulette shows its result, there is:………ルーレットが目を見せるまで、}{ruby:no need for me to be reunited with Kinzo.":妾と金蔵が再会する必要はない」}`
+`{ruby:The witch looked at her hand, which, although:魔女は、焼け爛れながらも、少しず}{ruby:horribly burned, was beginning to heal bit by bit.:つ癒えていく手の平を見る。}`
 `{ruby:"......And so the ward, perhaps.:「……あるいは、そのための魔除けなのか。}`
 `{ruby:.........Hmph.:………ふ。}`
 `{ruby:...I see, that is also honorable.:…なるほど、それもまた潔し。}`
-`{ruby:......Now, everything is on top of Kinzo's game board.":……全ては今や金蔵のゲーム盤の上よ」}`
+`{ruby:......Now, everything is on:……全ては今や金蔵の}{ruby:top of Kinzo's game board.":ゲーム盤の上よ」}`
 `{ruby:"I like it, Kinzo.:「気に入ったぞ、金蔵。}`
 `{ruby:Allow me to enjoy my game with you.:そなたとのゲーム、楽しませてもらうぞ。}`
-`{ruby:......Allow me to enjoy the final gamble and fall of an aged mage, who fell in love with me and threw away all his life...!!":……妾に恋焦がれ全ての生涯を投げ出した老魔術師の最後のギャンブル、その散り様を楽しませてもらうぞ…！！」}`
+`{ruby:......Allow me to enjoy the final gamble and fall of an aged:……妾に恋焦がれ全ての生涯を投げ出した老魔術師の最後の}{ruby:mage, who fell in love with me and threw away all his life...!!":ギャンブル、その散り様を楽しませてもらうぞ…！！」}`

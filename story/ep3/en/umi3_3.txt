@@ -1,676 +1,676 @@
-`{ruby:Without even being allowed to wait for dessert, we were chased out of the room.:俺たちはデザートを待つことも許されず、食堂を追い出された。}`
-`{ruby:I heard that, in the end, our parents were unable to get Grandfather to respond.:結局、祖父さまは親たちに取り合ってくれなかったという。}`
-`{ruby:...Well, I'm not sure I should be saying this, but I feel like Grandfather deserves a pat on the back.:…まぁ、こう言っちゃ何だが、祖父さまグッジョブという気分だ。}`
-`{ruby:He had to be feeling pretty satisfied with the shock his strange letter had given to his children, who had all been so infatuated with distributing the inheritance while he was still alive.:祖父さまは、自分の存命中から遺産問題に執心している息子兄弟に、怪しげな手紙でひと泡吹かせて、さぞや満足しているだろう。}`
-`{ruby:I too felt like our despicable parents had gotten what they deserved in all of this confusion.:俺も、浅ましい親父たちが右往左往しているのは、ざまぁ見ろという気分だった。}`
-`{ruby:......But I couldn't really say that I was feeling great.:……もっとも爽快な気分とはとても言い難い。}`
+`{ruby:Without even being allowed to wait for:俺たちはデザートを待つことも許さ}{ruby:dessert, we were chased out of the room.:れず、食堂を追い出された。}`
+`{ruby:I heard that, in the end, our:結局、祖父さまは親たちに取り合}{ruby:parents were unable to get Grandfather to respond.:ってくれなかったという。}`
+`{ruby:...Well, I'm not sure I should be saying this, but:…まぁ、こう言っちゃ何だが、祖父}{ruby:I feel like Grandfather deserves a pat on the back.:さまグッジョブという気分だ。}`
+`{ruby:He had to be feeling pretty satisfied with the shock his strange letter had given to:祖父さまは、自分の存命中から遺産問題に執心している息子兄弟に、}{ruby:his children, who had all been so infatuated with distributing the inheritance while he was still alive.:怪しげな手紙でひと泡吹かせて、さぞや満足しているだろう。}`
+`{ruby:I too felt like our despicable parents had:俺も、浅ましい親父たちが右往左往している}{ruby:gotten what they deserved in all of this confusion.:のは、ざまぁ見ろという気分だった。}`
+`{ruby:......But I couldn't really say:……もっとも爽快な気分と}{ruby:that I was feeling great.:はとても言い難い。}`
 `{ruby:{n}I felt all sulky.:{n}不貞腐れたい気分だった。}`
-`{ruby:Grandfather hadn't entertained them for a moment, but he also apparently hadn't denied anything about the letter.:祖父さまは構ってくれなかったわけだが、手紙のことを否定することもしなかったらしい。}`
-`{ruby:Grandfather's name pops up several times in the witch's letter.:魔女の手紙には、祖父さまの名が何度も出てくる。}`
-`{ruby:If Grandfather knew that someone was stealing his name, then considering his character, he would probably be mad with rage.:もし祖父さまが自分の名を騙られたと知ったなら、キャラクター的に考えて怒りくるうところだろう。}`
-`{ruby:But even though Grandfather now knew the contents of that letter, he had coolly ignored it.:しかし祖父さまは、手紙の内容を知ってもなお、涼しげに無視していたという。}`
-`{ruby:In this case, did that count as a silent yes?:となると、これはもはや無言のイエスも同然ということなのか。}`
-`{ruby:Auntie Eva and Dad had been trying to interpret the letter in their favor, their greed clearly visible.:絵羽伯母さんとウチの親父は、この手紙を自分たちに有利に解釈しようと、欲の皮をギチギチに突っ張らせていた。}`
-`{ruby:It wouldn't have mattered so much if that was all, but the adults had then started focusing on Maria, who had received the letter.:それだけならまだしも、大人たちは今度はその矛先を、手紙を受け取った真里亞に向けた。}`
-`{ruby:They kept pounding her with questions about who had given her that letter.:誰から受け取ったのかとしつこく何度も詰問した。}`
-`{ruby:Maria repeated over and over again that she had gotten it from {f:5:Beatrice}, but there was no way a mysterious person like that could be mixed in with the others on this island.:真里亞は、ベアトリーチェにもらったと何度も繰り返すのだが、そんな謎の人物がこの島に紛れ込んでいるわけもない。}`
-`{ruby:...After all, this is a small island where no one lives except the Ushiromiya family.:…何しろここは、右代宮家以外誰も住まない小さな島なのだから。}`
-`{ruby:Maria kept repeating that she had gotten it from {f:5:Beatrice}, no matter how many times she was asked.:真里亞は何度聞かれてもベアトリーチェにもらったと繰り返すだけ。}`
-`{ruby:It seemed that the adults felt that she was trying to trick them, so they didn't hold back, and questioned her until she broke out in tears...:それを大人たちは、誤魔化していると感じたらしく、彼女が泣き出すまで詰問を決して緩めようとはしなかった…。}`
-`{ruby:By the time Maria was released, she had cried herself to the point of exhaustion.:真里亞は解放された時、泣き疲れてぐったりしていた。}`
-`{ruby:Our parents ordered us to go to the guesthouse and take Maria with us,:親たちは、真里亞を連れてゲストハウスに行っていろと一方的に命じると、}`
-`{ruby:then shut themselves up in the dining hall, and started getting louder and louder as they discussed the inheritance.:自分たちは食堂に閉じこもり、ますますに遺産の話で盛り上がるのだった。}`
-`{ruby:It seemed that, because of that strange letter, the possibility had arisen that Uncle Krauss's ability to become the next head could be returned to a blank slate,:どうやら、おかしな手紙のせいで、蔵臼伯父さんが次の当主になるという話が白紙に戻る可能性が出てきていて、}`
-`{ruby:and in exchange for accepting him, my dad and the rest were trying to swindle Uncle Krauss out of a lot of money...or something like that.:それを認める見返りに親父たちが蔵臼伯父さんから大金をせしめる…、みたいな感じのようだった。}`
-`{ruby:Jessica and I, both astonished, were happy to move over to the guesthouse.:憮然とした俺と朱志香は、喜んでゲストハウスへ移動することにした。}`
-`{ruby:We didn't want to be under the same roof as those filthy adults, their heads so filled with thoughts about money.:カネのことで頭がいっぱいの、汚い大人たちと同じ屋根の屋敷にいたくなかったのだ。}`
-`{ruby:George‐aniki pleaded on behalf of our parents, saying that he wanted us to understand them.:譲治の兄貴は、そんな親たちを理解してやってほしいと弁護する。}`
+`{ruby:Grandfather hadn't entertained them for a moment, but:祖父さまは構ってくれなかったわけだが、手紙の}{ruby:he also apparently hadn't denied anything about the letter.:ことを否定することもしなかったらしい。}`
+`{ruby:Grandfather's name pops up several:魔女の手紙には、祖父さまの}{ruby:times in the witch's letter.:名が何度も出てくる。}`
+`{ruby:If Grandfather knew that someone was stealing his name, then:もし祖父さまが自分の名を騙られたと知ったなら、キ}{ruby:considering his character, he would probably be mad with rage.:ャラクター的に考えて怒りくるうところだろう。}`
+`{ruby:But even though Grandfather now knew the contents:しかし祖父さまは、手紙の内容を知っても}{ruby:of that letter, he had coolly ignored it.:なお、涼しげに無視していたという。}`
+`{ruby:In this case, did that:となると、これはもはや無言のイエ}{ruby:count as a silent yes?:スも同然ということなのか。}`
+`{ruby:Auntie Eva and Dad had been trying to interpret:絵羽伯母さんとウチの親父は、この手紙を自分たちに有利に}{ruby:the letter in their favor, their greed clearly visible.:解釈しようと、欲の皮をギチギチに突っ張らせていた。}`
+`{ruby:It wouldn't have mattered so much if that was all, but the:それだけならまだしも、大人たちは今度はその矛}{ruby:adults had then started focusing on Maria, who had received the letter.:先を、手紙を受け取った真里亞に向けた。}`
+`{ruby:They kept pounding her with questions:誰から受け取ったのかとしつ}{ruby:about who had given her that letter.:こく何度も詰問した。}`
+`{ruby:Maria repeated over and over again that she had gotten it from {f:5:Beatrice}, but there was:真里亞は、ベアトリーチェにもらったと何度も繰り返すのだが}{ruby:no way a mysterious person like that could be mixed in with the others on this island.:、そんな謎の人物がこの島に紛れ込んでいるわけもない。}`
+`{ruby:...After all, this is a small island:…何しろここは、右代宮家以外誰も}{ruby:where no one lives except the Ushiromiya family.:住まない小さな島なのだから。}`
+`{ruby:Maria kept repeating that she had gotten it from:真里亞は何度聞かれてもベアトリーチ}{ruby:{f:5:Beatrice}, no matter how many times she was asked.:ェにもらったと繰り返すだけ。}`
+`{ruby:It seemed that the adults felt that she was trying to trick them,:それを大人たちは、誤魔化していると感じたらしく、彼女が}{ruby:so they didn't hold back, and questioned her until she broke out in tears...:泣き出すまで詰問を決して緩めようとはしなかった…。}`
+`{ruby:By the time Maria was released, she:真里亞は解放された時、泣き疲}{ruby:had cried herself to the point of exhaustion.:れてぐったりしていた。}`
+`{ruby:Our parents ordered us to go to:親たちは、真里亞を連れてゲストハウス}{ruby:the guesthouse and take Maria with us,:に行っていろと一方的に命じると、}`
+`{ruby:then shut themselves up in the dining hall, and:自分たちは食堂に閉じこもり、ますます}{ruby:started getting louder and louder as they discussed the inheritance.:に遺産の話で盛り上がるのだった。}`
+`{ruby:It seemed that, because of that strange letter, the possibility had arisen that Uncle:どうやら、おかしな手紙のせいで、蔵臼伯父さんが次の当主}{ruby:Krauss's ability to become the next head could be returned to a blank slate,:になるという話が白紙に戻る可能性が出てきていて、}`
+`{ruby:and in exchange for accepting him, my dad and the rest were trying:それを認める見返りに親父たちが蔵臼伯父さんから大}{ruby:to swindle Uncle Krauss out of a lot of money...or something like that.:金をせしめる…、みたいな感じのようだった。}`
+`{ruby:Jessica and I, both astonished, were:憮然とした俺と朱志香は、喜んでゲス}{ruby:happy to move over to the guesthouse.:トハウスへ移動することにした。}`
+`{ruby:We didn't want to be under the same roof as:カネのことで頭がいっぱいの、汚い大人たちと}{ruby:those filthy adults, their heads so filled with thoughts about money.:同じ屋根の屋敷にいたくなかったのだ。}`
+`{ruby:George‐aniki pleaded on behalf of our parents,:譲治の兄貴は、そんな親たちを理解}{ruby:saying that he wanted us to understand them.:してやってほしいと弁護する。}`
 `{ruby:...I understood his reasoning.:…理屈ではわかる。}`
-`{ruby:No matter how filthy this talk of money was, it wouldn't go away if you just closed your eyes to it.:金の話はどんなに汚くとも、目を閉じれば済む問題ではない。}`
-`{ruby:But even so, how could they so blatantly degenerate into such money‐grubbing demons...:しかしそれでも、ああもあからさまにカネの亡者に成り下がれるものなのか…。}`
-`{ruby:Maria had cried herself dry, and was hiding in her bed.:真里亞は泣きつかれ、今はベッドに潜っている。}`
-`{ruby:She hadn't even twitched for a while, so she was probably sleeping...:さっきからぴくりとも動かないから、きっと眠ってしまったのだろう…。}`
-`{ruby:".........Who in the world gave that letter to Maria‐chan?":「………真里亞ちゃんは、一体誰にあの手紙をもらったんだろうね」}`
+`{ruby:No matter how filthy this talk of money was, it:金の話はどんなに汚くとも、目を}{ruby:wouldn't go away if you just closed your eyes to it.:閉じれば済む問題ではない。}`
+`{ruby:But even so, how could they:しかしそれでも、ああもあからさまにカネ}{ruby:so blatantly degenerate into such money‐grubbing demons...:の亡者に成り下がれるものなのか…。}`
+`{ruby:Maria had cried herself dry,:真里亞は泣きつかれ、今は}{ruby:and was hiding in her bed.:ベッドに潜っている。}`
+`{ruby:She hadn't even twitched for a:さっきからぴくりとも動かないから、き}{ruby:while, so she was probably sleeping...:っと眠ってしまったのだろう…。}`
+`{ruby:".........Who in the world:「………真里亞ちゃんは、一体誰にあ}{ruby:gave that letter to Maria‐chan?":の手紙をもらったんだろうね」}`
 `{ruby:"George nii‐san.:「譲治兄さん。}`
 `{ruby:You mustn't ask that anymore.:それはもう聞いちゃ駄目だぜ。}`
-`{ruby:If Maria says she got it from {f:5:Beatrice}, can't we just leave it at that...?":真里亞がベアトリーチェにもらったっていうなら、それでいいじゃねぇかよ…」}`
-`{ruby:"I mean, we don't want to make her cry any more than this.":「これ以上、真里亞を泣かせたくないしな」}`
+`{ruby:If Maria says she got it from:真里亞がベアトリーチェにもらったってい}{ruby:{f:5:Beatrice}, can't we just leave it at that...?":うなら、それでいいじゃねぇかよ…」}`
+`{ruby:"I mean, we don't want to:「これ以上、真里亞を泣}{ruby:make her cry any more than this.":かせたくないしな」}`
 `{ruby:......That said.:……そうは言ったものの。}`
-`{ruby:Even we felt a confusion that we couldn't clear away.:俺たちだって、もやもやしたものが晴れない。}`
-`{ruby:"There are only 18 people on this island now.:「この島には今、１８人しかいないんだよ。}`
-`{ruby:The thought that, in the middle of all this rain, an unknown 19th person gave Maria‐chan that letter, and is now hiding somewhere,:そこに、この雨の中、未知の１９人目が、真里亞ちゃんに手紙を託して、今もどこかに隠れているというのは、}`
-`{ruby:honestly doesn't seem realistic at all.":正直、現実的ではないね」}`
-`{ruby:"Probably...Shannon or someone put on the dress from that portrait, and skillfully planned this ahead of time with Maria.":「恐らく…、あの肖像画のドレスを、紗音辺りにでも着てもらって、うまく真里亞と口裏を合わせたってことじゃねぇのかな」}`
-`{ruby:"...Although of course, as soon as Maria saw that dress, that might have been enough on its own to convince her that it was {f:5:Beatrice}.":「…もっとも真里亞の場合、あのドレスを見たら、それだけでベアトリーチェだと信じちまいそうだけどな」}`
-`{ruby:"Maybe it doesn't really matter who handed her the letter.:「誰が渡したかなんて、どうでもいい問題かもしれないな。}`
+`{ruby:Even we felt a confusion:俺たちだって、もやもやし}{ruby:that we couldn't clear away.:たものが晴れない。}`
+`{ruby:"There are only 18:「この島には今、１８人}{ruby:people on this island now.:しかいないんだよ。}`
+`{ruby:The thought that, in the middle of all this rain, an:そこに、この雨の中、未知の１９人目が、真里亞ちゃんに}{ruby:unknown 19th person gave Maria‐chan that letter, and is now hiding somewhere,:手紙を託して、今もどこかに隠れているというのは、}`
+`{ruby:honestly doesn't seem:正直、現実的で}{ruby:realistic at all.":はないね」}`
+`{ruby:"Probably...Shannon or someone put on the dress from that:「恐らく…、あの肖像画のドレスを、紗音辺りにでも着てもらって}{ruby:portrait, and skillfully planned this ahead of time with Maria.":、うまく真里亞と口裏を合わせたってことじゃねぇのかな」}`
+`{ruby:"...Although of course, as soon as Maria saw that dress, that might:「…もっとも真里亞の場合、あのドレスを見たら、それだ}{ruby:have been enough on its own to convince her that it was {f:5:Beatrice}.":けでベアトリーチェだと信じちまいそうだけどな」}`
+`{ruby:"Maybe it doesn't really matter:「誰が渡したかなんて、どうでも}{ruby:who handed her the letter.:いい問題かもしれないな。}`
 `{ruby:The important thing is who sent it.":大事なのは差出人だろ」}`
-`{ruby:"...The point is that Grandfather wanted to cause an uproar by assuming the name of the witch.:「…要は、祖父さまが黄金の魔女の名を騙って、ひと波乱起こしたかったってことなんだぜ。}`
-`{ruby:Seriously, that old geezer's good at riling people up.":まったく、人騒がせなジジイだぜ」}`
-`{ruby:The truth was probably that our occult‐loving Grandfather was playing around,:オカルト被れの祖父さまが、}`
-`{ruby:by choosing a dramatic way of handing the letter over to Maria, who shared the same hobby as he did.:同じ趣味を持つ真里亞に、芝居染みたやり方で手紙を持たせ、遊んでみたというのが真相だろう。}`
-`{ruby:......Paying no heed, though, to the trouble it would cause Maria, or the rest of us.:……真里亞の迷惑を顧みず、迷惑なことこの上ないが。}`
-`{ruby:"Seriously. Messing around with Maria's pure heart...:「ったく。真里亞の純真な心を弄びやがって…。}`
-`{ruby:It doesn't matter who handed the letter over.:手紙を渡したのが誰でもいいさ。}`
-`{ruby:Maria says that she got it from {f:5:Beatrice}, so let's treat it that way.":真里亞がベアトリーチェにもらったって言うんだから、そういうことにしてやろうぜ」}`
+`{ruby:"...The point is that Grandfather wanted to cause:「…要は、祖父さまが黄金の魔女の名を騙って、}{ruby:an uproar by assuming the name of the witch.:ひと波乱起こしたかったってことなんだぜ。}`
+`{ruby:Seriously, that old geezer's:まったく、人騒がせ}{ruby:good at riling people up.":なジジイだぜ」}`
+`{ruby:The truth was probably that:オカルト被れの祖}{ruby:our occult‐loving Grandfather was playing around,:父さまが、}`
+`{ruby:by choosing a dramatic way of handing the letter over:同じ趣味を持つ真里亞に、芝居染みたやり方で手紙}{ruby:to Maria, who shared the same hobby as he did.:を持たせ、遊んでみたというのが真相だろう。}`
+`{ruby:......Paying no heed, though, to the trouble it:……真里亞の迷惑を顧みず、迷}{ruby:would cause Maria, or the rest of us.:惑なことこの上ないが。}`
+`{ruby:"Seriously. Messing around:「ったく。真里亞の純真な}{ruby:with Maria's pure heart...:心を弄びやがって…。}`
+`{ruby:It doesn't matter who:手紙を渡したのが誰}{ruby:handed the letter over.:でもいいさ。}`
+`{ruby:Maria says that she got it from:真里亞がベアトリーチェにもらったって言うん}{ruby:{f:5:Beatrice}, so let's treat it that way.":だから、そういうことにしてやろうぜ」}`
 `{ruby:"I agree.:「同感だよ。}`
 `{ruby:Let's do that.:そうしよう。}`
-`{ruby:To Maria‐chan, {f:5:Beatrice} is kinda like what Santa Claus is to most kids.":子どもにとってのサンタクロースみたいな存在が、真里亞ちゃんにとってはベアトリーチェなんだろうね」}`
-`{ruby:"Whether it be a non‐existent 19th person or Santa Claus,:「いない１９人目もサンタクロースも、}`
-`{ruby:as long as we accept that they exist, they will at least "exist" inside Maria.:俺たちが認めてやれば、それは少なくとも真里亞の中では“い”るということになるわけだ。}`
-`{ruby:...I see, it's important to lie to a child to protect their dreams.":…なるほど、子どもの夢を守るためのウソって大事だなぁ」}`
+`{ruby:To Maria‐chan, {f:5:Beatrice} is kinda like:子どもにとってのサンタクロースみたいな存在が、真里}{ruby:what Santa Claus is to most kids.":亞ちゃんにとってはベアトリーチェなんだろうね」}`
+`{ruby:"Whether it be a non‐existent:「いない１９人目もサ}{ruby:19th person or Santa Claus,:ンタクロースも、}`
+`{ruby:as long as we accept that they:俺たちが認めてやれば、それは少なくとも真里亞}{ruby:exist, they will at least "exist" inside Maria.:の中では“い”るということになるわけだ。}`
+`{ruby:...I see, it's important to lie:…なるほど、子どもの夢を守るた}{ruby:to a child to protect their dreams.":めのウソって大事だなぁ」}`
 `{ruby:"............Hmm?:「…………ん？}`
 `{ruby:What's up, Jessica?:どうしたんだよ朱志香。}`
 `{ruby:Are you still angry?":まだ腹を立ててるのかよ」}`
-`{ruby:Jessica had her hand on her chin, as though there was something that she just couldn't understand.:朱志香は、顎に手を当てて、何か腑に落ちないことでもあるかのようだった。}`
-`{ruby:When I called out to her, she came to her senses.:俺に声を掛けられ、我に返る。}`
+`{ruby:Jessica had her hand on her chin, as:朱志香は、顎に手を当てて、何か腑に落ち}{ruby:though there was something that she just couldn't understand.:ないことでもあるかのようだった。}`
+`{ruby:When I called out to:俺に声を掛けられ}{ruby:her, she came to her senses.:、我に返る。}`
 `{ruby:"Aah, ......sorry.:「あぁ、……ごめん。}`
 `{ruby:Well, ......actually,:いやさ、……実は。}`
-`{ruby:......I was wondering if it was possible that Maria actually met {f:5:Beatrice}.":……真里亞が会ったのは、本当にベアトリーチェだったってことがあるんじゃないかな」}`
+`{ruby:......I was wondering if it was:……真里亞が会ったのは、本当にベアトリーチ}{ruby:possible that Maria actually met {f:5:Beatrice}.":ェだったってことがあるんじゃないかな」}`
 `{ruby:"...What do you mean by that?:「…そりゃどういう意味だよ。}`
-`{ruby:Are you saying that there's a 19th person on this island?":この島に１９人目の人間がいるって言いたいのか？」}`
-`{ruby:"If we take what Maria‐chan said to heart, then we do arrive at that answer.":「真里亞ちゃんの言うことを心から信じたなら、そういう答えに行き着くだろうね」}`
+`{ruby:Are you saying that there's:この島に１９人目の人間がい}{ruby:a 19th person on this island?":るって言いたいのか？」}`
+`{ruby:"If we take what Maria‐chan said to:「真里亞ちゃんの言うことを心から信じたな}{ruby:heart, then we do arrive at that answer.":ら、そういう答えに行き着くだろうね」}`
 `{ruby:"No, that's not what I mean.:「いや、そういうのじゃなくて。}`
-`{ruby:......I'm talking about the story that someone we don't know has been living on this island since long ago.":……昔っからこの島には、私たちの知らない誰かが住んでるんじゃないかって話はあったんだよな」}`
+`{ruby:......I'm talking about the story that someone we don't:……昔っからこの島には、私たちの知らない誰かが住}{ruby:know has been living on this island since long ago.":んでるんじゃないかって話はあったんだよな」}`
 `{ruby:"Living, you say. Where?":「住んでるって、どこに」}`
 `{ruby:"...In the forest.":「…森の中にさ」}`
-`{ruby:The adults were gathered in the dining hall, spending a very long time continuing the discussion that had been started by {f:5:Beatrice}'s letter...:食堂には、大人たちが集まり、ベアトリーチェの手紙に端を発する議論に延々と明け暮れていた…。}`
-`{ruby:Krauss strongly claimed that the letter was a simple prank,:蔵臼は、手紙はただの悪戯であると強く主張したが、}`
-`{ruby:but he couldn't overturn the claim that Kinzo's failure to deny the letter was answer enough.:金蔵が否定しないことこそ答えであるとの主張を覆せなかった。}`
-`{ruby:Judging by Kinzo's character, if he knew that a letter had been written by someone else in his name, he would be mad with rage.:金蔵の性分を考えれば、自分の名を騙る手紙の存在を知れば怒りくるうはずなのだ。}`
-`{ruby:Since all of the siblings knew that, Krauss had no choice but to withdraw his claim.:それを兄弟の誰もが知るからこそ、もはや蔵臼は自分の主張を収めるしかなかった。}`
-`{ruby:Without even having to summarize it, the contents of the letter were simple.:要約するまでもなく、この手紙の内容はシンプルだ。}`
-`{ruby:The person who solved the witch's epitaph would receive the headship and assets.:魔女の碑文を解いた者が、家督と財産を受け継ぐ。}`
-`{ruby:This did a lot of damage to Krauss, who was thought to have been guaranteed the succession,:これは、家督を継ぐことが確定していると思われた蔵臼にとっては最大のダメージであり、}`
-`{ruby:and for everyone else, who had given up on that long ago, it was better news than they could ever have hoped for.:元々諦めていた蔵臼以外にとって望外の朗報であった。}`
-`{ruby:However, there were some points that worried them.:しかし、気になる点もある。}`
-`{ruby:"The person who solved the epitaph" was not limited to a member of the Ushiromiya family.:“碑文を解いた者”が、右代宮家に連なる人間に限定されていない点だ。}`
-`{ruby:Taken literally, anyone, no matter how doubtful their origin, could succeed to the Ushiromiya family.:原文通りなら、謎を解いた人間がどこの馬の骨であっても、右代宮家の家督を継承できることになってしまう。}`
-`{ruby:And furthermore, this meant there was a chance that all of the Ushiromiya family's assets could be stolen by some unknown person.:いや、それどころか、右代宮家の全ての財産を何者かに奪われてしまう可能性だってあるのだ。}`
-`{ruby:In that sense, it was definitely not a situation where anyone could lower their guard, even the siblings other than Krauss.:その意味においては、蔵臼以外の兄弟たちも、気が許せる状況では断じてなかった。}`
-`{ruby:Had this letter come from a saboteur sent by Kinzo who called themselves {f:5:Beatrice}?:この手紙はベアトリーチェを名乗る金蔵の刺客からなのか。}`
-`{ruby:...Or was this the scheme of some unknown person trying to steal the Ushiromiya family's wealth?:…それとも、右代宮家から財産を奪い取ろうとする何者かの謀略なのか。}`
+`{ruby:The adults were gathered in the dining hall, spending a very:食堂には、大人たちが集まり、ベアトリーチェの手紙}{ruby:long time continuing the discussion that had been started by {f:5:Beatrice}'s letter...:に端を発する議論に延々と明け暮れていた…。}`
+`{ruby:Krauss strongly claimed that the:蔵臼は、手紙はただの悪戯で}{ruby:letter was a simple prank,:あると強く主張したが、}`
+`{ruby:but he couldn't overturn the claim that Kinzo's:金蔵が否定しないことこそ答えであ}{ruby:failure to deny the letter was answer enough.:るとの主張を覆せなかった。}`
+`{ruby:Judging by Kinzo's character, if he knew that a letter had been:金蔵の性分を考えれば、自分の名を騙る手紙}{ruby:written by someone else in his name, he would be mad with rage.:の存在を知れば怒りくるうはずなのだ。}`
+`{ruby:Since all of the siblings knew that, Krauss:それを兄弟の誰もが知るからこそ、もはや蔵}{ruby:had no choice but to withdraw his claim.:臼は自分の主張を収めるしかなかった。}`
+`{ruby:Without even having to summarize it,:要約するまでもなく、この手}{ruby:the contents of the letter were simple.:紙の内容はシンプルだ。}`
+`{ruby:The person who solved the witch's:魔女の碑文を解いた者が、家}{ruby:epitaph would receive the headship and assets.:督と財産を受け継ぐ。}`
+`{ruby:This did a lot of damage to Krauss,:これは、家督を継ぐことが確定していると思われ}{ruby:who was thought to have been guaranteed the succession,:た蔵臼にとっては最大のダメージであり、}`
+`{ruby:and for everyone else, who had given up on that long:元々諦めていた蔵臼以外にとっ}{ruby:ago, it was better news than they could ever have hoped for.:て望外の朗報であった。}`
+`{ruby:However, there were some:しかし、気になる}{ruby:points that worried them.:点もある。}`
+`{ruby:"The person who solved the epitaph" was not:“碑文を解いた者”が、右代宮家に連な}{ruby:limited to a member of the Ushiromiya family.:る人間に限定されていない点だ。}`
+`{ruby:Taken literally, anyone, no matter how doubtful:原文通りなら、謎を解いた人間がどこの馬の骨であっても}{ruby:their origin, could succeed to the Ushiromiya family.:、右代宮家の家督を継承できることになってしまう。}`
+`{ruby:And furthermore, this meant there was a chance that all of:いや、それどころか、右代宮家の全ての財産を何者}{ruby:the Ushiromiya family's assets could be stolen by some unknown person.:かに奪われてしまう可能性だってあるのだ。}`
+`{ruby:In that sense, it was definitely not a situation where:その意味においては、蔵臼以外の兄弟たちも}{ruby:anyone could lower their guard, even the siblings other than Krauss.:、気が許せる状況では断じてなかった。}`
+`{ruby:Had this letter come from a saboteur:この手紙はベアトリーチェを名乗}{ruby:sent by Kinzo who called themselves {f:5:Beatrice}?:る金蔵の刺客からなのか。}`
+`{ruby:...Or was this the scheme of some unknown:…それとも、右代宮家から財産を奪い取}{ruby:person trying to steal the Ushiromiya family's wealth?:ろうとする何者かの謀略なのか。}`
 `{ruby:They still didn't know the truth.:真相は未だわからない。}`
-`{ruby:...But they could say one thing for certain.:…しかし、ひとつだけ言えることがある。}`
-`{ruby:Maria had received this problematic letter...:真里亞が問題の手紙を、}`
+`{ruby:...But they could say:…しかし、ひとつだけ言}{ruby:one thing for certain.:えることがある。}`
+`{ruby:Maria had received:真里亞が問題の}{ruby:this problematic letter...:手紙を、}`
 `{ruby:today,:今日、}`
 `{ruby:on this island.:この島で受け取ったということだ。}`
-`{ruby:In other words, someone who was planning something related to that letter was on this island today.:つまり、あの手紙について策謀を巡らせた人間が、今日、まだこの島にいるということなのだ。}`
-`{ruby:......Was the person who set it up Kinzo, one of the four siblings,:……仕掛け人は、金蔵なのか、それとも４兄弟の誰かなのか。}`
+`{ruby:In other words, someone who was planning something:つまり、あの手紙について策謀を巡らせた人間が、}{ruby:related to that letter was on this island today.:今日、まだこの島にいるということなのだ。}`
+`{ruby:......Was the person who set it:……仕掛け人は、金蔵なのか、そ}{ruby:up Kinzo, one of the four siblings,:れとも４兄弟の誰かなのか。}`
 `{ruby:or maybe some unknown person?:あるいは未知の何者かなのか。}`
-`{ruby:No matter how much they suspected each other, they couldn't reach a conclusion.:互いをいくら疑い合えど、結論など出るわけもない。}`
-`{ruby:After getting tired of bickering with each other,:彼らは罵り合いに疲れきり、}`
-`{ruby:they finally reached the extremely obvious conclusion that doubting each other was just a waste of time...:ようやく、互いを疑い合うのは時間の無駄であるという、至極当然な結末にたどり着くのだった…。}`
+`{ruby:No matter how much they suspected:互いをいくら疑い合えど、結}{ruby:each other, they couldn't reach a conclusion.:論など出るわけもない。}`
+`{ruby:After getting tired of:彼らは罵り合いに}{ruby:bickering with each other,:疲れきり、}`
+`{ruby:they finally reached the extremely obvious conclusion that:ようやく、互いを疑い合うのは時間の無駄であるとい}{ruby:doubting each other was just a waste of time...:う、至極当然な結末にたどり着くのだった…。}`
 `{ruby:"......We've made no progress.:「……埒が明かんね。}`
 `{ruby:We've just been wasting time.":無駄な時間を費やしたものだよ」}`
 `{ruby:"That's right.:「そうね。}`
-`{ruby:Now that you realized it, we won't have to waste so much.":兄さんが気付いてくれるだけで、これ以上を浪費しなくて済むわ」}`
-`{ruby:"It is not certain that Father is the one who sent the letter.:「手紙の差出人がお父様と確定したわけではありませんよ。}`
-`{ruby:My husband has merely had enough of you being unable to hold a conversation.":会話の成り立たないあなたに主人が呆れ果てただけです」}`
-`{ruby:"Which one of us can't hold a conversation?:「会話が成り立たないのはどっちよ？}`
-`{ruby:You keep yelling at me every time I say something.:私が何か言う度にあなたは怒鳴ってばかり。}`
-`{ruby:Do you truly think that such shameful behavior is fitting for a member of the Ushiromiya family?":そんな無様で右代宮家に相応しいと本気でお思いなのかしらぁ？」}`
+`{ruby:Now that you realized it, we:兄さんが気付いてくれるだけで、こ}{ruby:won't have to waste so much.":れ以上を浪費しなくて済むわ」}`
+`{ruby:"It is not certain that Father:「手紙の差出人がお父様と確定し}{ruby:is the one who sent the letter.:たわけではありませんよ。}`
+`{ruby:My husband has merely had enough of:会話の成り立たないあなたに主}{ruby:you being unable to hold a conversation.":人が呆れ果てただけです」}`
+`{ruby:"Which one of us:「会話が成り立たない}{ruby:can't hold a conversation?:のはどっちよ？}`
+`{ruby:You keep yelling at me:私が何か言う度にあなたは}{ruby:every time I say something.:怒鳴ってばかり。}`
+`{ruby:Do you truly think that such shameful behavior:そんな無様で右代宮家に相応しいと}{ruby:is fitting for a member of the Ushiromiya family?":本気でお思いなのかしらぁ？」}`
 `{ruby:"Give it a rest, Eva.:「よさんか、絵羽。}`
 `{ruby:You too, Natsuhi‐san.:夏妃さんも。}`
 `{ruby:That topic's finished for now.":一度終わった話やで」}`
-`{ruby:"Sh‐shall we all cool our heads off for now?:「い、一度ここで頭を冷やさない？}`
-`{ruby:Let's have some cool drinks brought over.":冷たいものでも持ってきてもらいましょうよ」}`
+`{ruby:"Sh‐shall we all cool:「い、一度ここで頭}{ruby:our heads off for now?:を冷やさない？}`
+`{ruby:Let's have some:冷たいものでも持ってきて}{ruby:cool drinks brought over.":もらいましょうよ」}`
 `{ruby:"That sounds good.:「そうね。}`
-`{ruby:It would probably be wiser if we cooled our heads.:頭を冷やした方が賢明そう。}`
-`{ruby:Baby, don't you want to go for a smoke, too?":あなたも、そろそろ一服したくなってきたんじゃない？」}`
-`{ruby:"...Aneki looks like she's in a bad mood.:「…姉貴の機嫌が悪そうだからな。}`
+`{ruby:It would probably be wiser:頭を冷やした方が}{ruby:if we cooled our heads.:賢明そう。}`
+`{ruby:Baby, don't you want to:あなたも、そろそろ一服したく}{ruby:go for a smoke, too?":なってきたんじゃない？」}`
+`{ruby:"...Aneki looks like she's:「…姉貴の機嫌が悪}{ruby:in a bad mood.:そうだからな。}`
 `{ruby:So I'll pass on that smoke.:一服の方は遠慮するぜ。}`
 `{ruby:But I agree about the cool drinks.:だが冷たい方は賛成だ。}`
 `{ruby:Rosa, have someone bring some water.:楼座、誰かに水を持って来させてくれ。}`
 `{ruby:A whole pitcher.":水差しごとな」}`
 `{ruby:"Alright...":「うん、わかったわ…」}`
-`{ruby:Rosa headed over to the extension telephone in the corner of the room and called the servant room.:楼座は部屋の隅にある内線電話に向かい、使用人室に電話する。}`
-`{ruby:She then passed on what Rudolf had told her to the person on the other end.:そして、今、留弗夫に言われたことを相手に伝えた。}`
-`{ruby:The vicious bickering up until now vanished like it had never happened.:さっきまでの口汚い罵りあいがまるで嘘のように静まる。}`
-`{ruby:{n}That silence continued until Gohda finished setting the table and retreated from the room...:{n}その静寂は、郷田が配膳を終えて退出するまで続くのだった…。}`
-`{ruby:".........Is there anything else that you require?":「………他に、何かご入用のものはございますでしょうか」}`
+`{ruby:Rosa headed over to the extension telephone in the:楼座は部屋の隅にある内線電話に向}{ruby:corner of the room and called the servant room.:かい、使用人室に電話する。}`
+`{ruby:She then passed on what Rudolf had told:そして、今、留弗夫に言われ}{ruby:her to the person on the other end.:たことを相手に伝えた。}`
+`{ruby:The vicious bickering up until now:さっきまでの口汚い罵りあいが}{ruby:vanished like it had never happened.:まるで嘘のように静まる。}`
+`{ruby:{n}That silence continued until Gohda finished setting:{n}その静寂は、郷田が配膳を終え}{ruby:the table and retreated from the room...:て退出するまで続くのだった…。}`
+`{ruby:".........Is there anything:「………他に、何かご入用のもの}{ruby:else that you require?":はございますでしょうか」}`
 `{ruby:"No.:「ありません。}`
 `{ruby:Please leave us.":もう下がりなさい」}`
 `{ruby:"Yes.:「はい。}`
 `{ruby:...Then if you will excuse me.:…それでは失礼いたします。}`
-`{ruby:If you need anything, call me at any time.":何かございましたら、いつでもお呼び下さい」}`
-`{ruby:After listening to the sound of Gohda's footsteps disappear off into the distance, everyone took a deep breath at the same time to break the tension.:郷田の足音が遠ざかっていくのを聞き届けると、誰からともなく、緊張を解くようなため息が漏れた。}`
+`{ruby:If you need anything,:何かございましたら、いつ}{ruby:call me at any time.":でもお呼び下さい」}`
+`{ruby:After listening to the sound of Gohda's footsteps disappear off into the distance,:郷田の足音が遠ざかっていくのを聞き届けると、誰か}{ruby:everyone took a deep breath at the same time to break the tension.:らともなく、緊張を解くようなため息が漏れた。}`
 `{ruby:"...It sure is raining hard.:「…本当にすごい雨ね。}`
-`{ruby:I wonder if our witch, this 19th person, is taking shelter in the arbor in the rose garden about now?":１９人目の魔女は、今頃、薔薇庭園の東屋で雨宿りでもしているのかしら」}`
+`{ruby:I wonder if our witch, this 19th person, is taking:１９人目の魔女は、今頃、薔薇庭園の東}{ruby:shelter in the arbor in the rose garden about now?":屋で雨宿りでもしているのかしら」}`
 `{ruby:"...I wonder.:「…どうかしらね。}`
-`{ruby:......They might be able to avoid the rain, but it would be quite cold.":……雨は凌げるかもしれないけど、少し肩を冷やしそうね」}`
+`{ruby:......They might be able to avoid the:……雨は凌げるかもしれないけど}{ruby:rain, but it would be quite cold.":、少し肩を冷やしそうね」}`
 `{ruby:".........A mysterious 19th visitor.:「………謎の１９人目の来訪者か。}`
-`{ruby:Sounds pretty interestin', just like a mystery novel.:ちょいと推理小説っぽくて面白い話やな。}`
-`{ruby:Normally, in that kind of story, it's a safe bet that the person doesn't exist, that one of us 18 would be fakin' it.":普通、この手の話は、１８人の中の誰かが騙ってるだけで、実際には存在せんと相場が決まっとるんや」}`
+`{ruby:Sounds pretty interestin', just:ちょいと推理小説っぽく}{ruby:like a mystery novel.:て面白い話やな。}`
+`{ruby:Normally, in that kind of story, it's a safe bet that the:普通、この手の話は、１８人の中の誰かが騙ってるだけ}{ruby:person doesn't exist, that one of us 18 would be fakin' it.":で、実際には存在せんと相場が決まっとるんや」}`
 `{ruby:"...I suspect Genji and the others.:「…私は源次たちが怪しいと睨んでいます。}`
-`{ruby:We should have found any excuse we could to dismiss all of the servants of the One‐winged Eagle.":やはり、どんな難癖を付けてでも片翼の鷲の使用人たちは全て解雇した方が良かったんです」}`
+`{ruby:We should have found any excuse we could to:やはり、どんな難癖を付けてでも片翼の鷲の使用}{ruby:dismiss all of the servants of the One‐winged Eagle.":人たちは全て解雇した方が良かったんです」}`
 `{ruby:"Come now, don't say that.:「まぁ、そう言うな。}`
-`{ruby:We must be grateful for their long years of service.:長く勤めてくれた恩もある。}`
-`{ruby:...Of course, we can't let our guard down.":…もちろん、気は許せんがね」}`
-`{ruby:"So, then, you also agree that whether or not Father was behind this,:「兄さんも、お父様の仕業かどうかはともかく、}`
-`{ruby:the person who handed Maria‐chan the letter was a servant?":あの手紙を真里亞ちゃんに渡したのは、使用人の誰かだろうという点では同意するのね」}`
+`{ruby:We must be grateful for:長く勤めてくれた}{ruby:their long years of service.:恩もある。}`
+`{ruby:...Of course, we can't:…もちろん、気は}{ruby:let our guard down.":許せんがね」}`
+`{ruby:"So, then, you also agree that:「兄さんも、お父様の仕業}{ruby:whether or not Father was behind this,:かどうかはともかく、}`
+`{ruby:the person who handed Maria‐chan:あの手紙を真里亞ちゃんに渡したのは、使用人}{ruby:the letter was a servant?":の誰かだろうという点では同意するのね」}`
 `{ruby:"Indeed.:「うむ。}`
-`{ruby:After all, we were all being "friendly" in our big happy circle the whole time until dinner, weren't we?:何しろ、私たちは夕食までずっと“仲良く”団欒をしていたじゃないか。}`
+`{ruby:After all, we were all being "friendly" in our:何しろ、私たちは夕食までずっと“仲良}{ruby:big happy circle the whole time until dinner, weren't we?:く”団欒をしていたじゃないか。}`
 `{ruby:All of us siblings have alibis.:兄弟全員にアリバイがある。}`
-`{ruby:Only a servant could have handed Maria that letter.":真里亞に手紙を渡せたのは使用人の誰かだけだ」}`
+`{ruby:Only a servant could:真里亞に手紙を渡せたのは}{ruby:have handed Maria that letter.":使用人の誰かだけだ」}`
 `{ruby:"...But all of the servants...:「…でも、使用人の人たちもみんな、}`
-`{ruby:said that they were too busy with the bed‐making to have any spare time during which they could have gone to Maria in the rose garden...:ベッドメイクとかで忙しくて薔薇庭園の真里亞のところへ行く余裕なんかなかったって言ってたし…。}`
+`{ruby:said that they were too busy with the bed‐making to have any spare:ベッドメイクとかで忙しくて薔薇庭園の真里亞のとこ}{ruby:time during which they could have gone to Maria in the rose garden...:ろへ行く余裕なんかなかったって言ってたし…。}`
 `{ruby:.....................":…………………」}`
-`{ruby:"Hey hey, what are you trying to say then?:「おいおい、じゃあ何だってんだよ。}`
-`{ruby:You aren't saying that the witch of the forest {f:5:Beatrice}‐sama came over and actually handed Maria‐chan that letter, are you?":まさか、森の魔女、ベアトリーチェさまがお越しになって、本当に真里亞ちゃんに手紙を渡したって言い出すのかぁ？」}`
+`{ruby:"Hey hey, what are:「おいおい、じゃあ何}{ruby:you trying to say then?:だってんだよ。}`
+`{ruby:You aren't saying that the witch of the forest {f:5:Beatrice}‐sama:まさか、森の魔女、ベアトリーチェさまがお越しになって、本}{ruby:came over and actually handed Maria‐chan that letter, are you?":当に真里亞ちゃんに手紙を渡したって言い出すのかぁ？」}`
 `{ruby:"Ahahaha.:「あっはっはっは。}`
-`{ruby:Rosa, you used to believe so much that it really frightened you, right?:楼座、昔は信じててすごい怖がってたものねぇ？}`
-`{ruby:You don't mean to say that you still believe at this age?:あんたまさか、いい歳してまだ信じてるのぉ？}`
+`{ruby:Rosa, you used to believe so:楼座、昔は信じててすごい}{ruby:much that it really frightened you, right?:怖がってたものねぇ？}`
+`{ruby:You don't mean to say that:あんたまさか、いい歳して}{ruby:you still believe at this age?:まだ信じてるのぉ？}`
 `{ruby:The witch of the forest.":森の魔女ぉ」}`
-`{ruby:......If she did exist, I'd love for her to appear.:……いるならぜひ現れて欲しいものよ。}`
-`{ruby:{n}But no matter how much I wished, she didn't appear before me even once.:{n}でも、どんなに願っても、一度も私の前には現れてくれなかった。}`
+`{ruby:......If she did exist, I'd:……いるならぜひ現れ}{ruby:love for her to appear.:て欲しいものよ。}`
+`{ruby:{n}But no matter how much I wished,:{n}でも、どんなに願っても、一度も}{ruby:she didn't appear before me even once.:私の前には現れてくれなかった。}`
 `{ruby:She didn't save me from my crisis...:私を苦境から助けてはくれなかった…。}`
 `{ruby:"O‐of course not...:「ま、まさか…。}`
-`{ruby:I just thought that since all 18 of us said that we didn't do it, there might really be a 19th person...":でも、１８人全員が自分は違うと言っている以上、本当に１９人目がいるのかもって思っただけなの…」}`
-`{ruby:"That can't be. In the first place, we were the only ones who came on that boat.:「そんなん、あらへんで。第一、船で来たのはわしらだけや。}`
-`{ruby:We didn't see any mysterious stranger ridin' with us.:謎の乗船者なんぞ、わしらは姿も見とらん。}`
-`{ruby:You don't think that they might have swam across this rough sea, right?:まさか、この荒海を泳いで渡ってきたっちゅうんか？}`
+`{ruby:I just thought that since all 18 of us said that:でも、１８人全員が自分は違うと言っている以上、本当}{ruby:we didn't do it, there might really be a 19th person...":に１９人目がいるのかもって思っただけなの…」}`
+`{ruby:"That can't be. In the first place, we:「そんなん、あらへんで。第一、}{ruby:were the only ones who came on that boat.:船で来たのはわしらだけや。}`
+`{ruby:We didn't see any:謎の乗船者なんぞ、わし}{ruby:mysterious stranger ridin' with us.:らは姿も見とらん。}`
+`{ruby:You don't think that they might:まさか、この荒海を泳いで渡}{ruby:have swam across this rough sea, right?:ってきたっちゅうんか？}`
 `{ruby:I can't really imagine that.:ちょいと考えられへんな。}`
 `{ruby:Wahahahahahaha.":わっはっはっはっはっは」}`
 `{ruby:"......Logically that's true.:「……理屈ではそうね。}`
-`{ruby:It is difficult to imagine that there's a single hidden and uninvited guest on this isolated island...:この隔絶された島に、招かれていない客が１人隠れているというのは、常識的に考え難いんだけれど…。}`
+`{ruby:It is difficult to imagine that there's a:この隔絶された島に、招かれていない客が１人隠れてい}{ruby:single hidden and uninvited guest on this isolated island...:るというのは、常識的に考え難いんだけれど…。}`
 `{ruby:...However,:…でも。}`
-`{ruby:.........it looks like some of us still can't bring themselves to discard that possibility entirely, doesn't it?":………どうも、その可能性を捨てきれない人たちがいるみたいね？」}`
-`{ruby:Hideyoshi had laughed it off, saying that there couldn't be a 19th person,:秀吉は１９人目などいるわけがないと笑い飛ばしているが、}`
-`{ruby:but Kyrie had sensitively picked up on the delicate atmosphere among the four siblings.:霧江は４兄弟たちの微妙な空気を敏感に感じ取っていた。}`
-`{ruby:Just by common sense, there couldn't possibly be any uninvited guests on this small, isolated island.:常識で考えれば、この隔絶された小島に招かれざる来客などいるわけもない。}`
-`{ruby:How on earth would they get here, and from where, and where would they be hiding themselves?:一体どこからどうやってやって来てどこに隠れているのか。}`
-`{ruby:{n}And why wouldn't they appear openly, even though they had sent a letter in their own name?:{n}そしてなぜ手紙で自らを名乗るくせに、その姿を堂々と現さないのか。}`
+`{ruby:.........it looks like some of us still can't:………どうも、その可能性を捨てきれ}{ruby:bring themselves to discard that possibility entirely, doesn't it?":ない人たちがいるみたいね？」}`
+`{ruby:Hideyoshi had laughed it off, saying:秀吉は１９人目などいるわけがな}{ruby:that there couldn't be a 19th person,:いと笑い飛ばしているが、}`
+`{ruby:but Kyrie had sensitively picked up on:霧江は４兄弟たちの微妙な空気}{ruby:the delicate atmosphere among the four siblings.:を敏感に感じ取っていた。}`
+`{ruby:Just by common sense, there couldn't possibly be:常識で考えれば、この隔絶された小島に招}{ruby:any uninvited guests on this small, isolated island.:かれざる来客などいるわけもない。}`
+`{ruby:How on earth would they get here, and:一体どこからどうやってやって来}{ruby:from where, and where would they be hiding themselves?:てどこに隠れているのか。}`
+`{ruby:{n}And why wouldn't they appear openly, even though:{n}そしてなぜ手紙で自らを名乗るくせ}{ruby:they had sent a letter in their own name?:に、その姿を堂々と現さないのか。}`
 `{ruby:...None of these could be explained.:…何れの説明もつかない。}`
-`{ruby:But considering that none of the four siblings had joined in on Hideyoshi's laughing,:しかし、４兄弟たちが秀吉の笑いに同調しない以上、}`
-`{ruby:they seemed unable to completely deny in their hearts the possibility of a 19th person...:１９人目の可能性を、心のどこかで否定しきれずにいるのだ…。}`
+`{ruby:But considering that none of the four:しかし、４兄弟たちが秀吉の}{ruby:siblings had joined in on Hideyoshi's laughing,:笑いに同調しない以上、}`
+`{ruby:they seemed unable to completely deny in:１９人目の可能性を、心のどこかで}{ruby:their hearts the possibility of a 19th person...:否定しきれずにいるのだ…。}`
 `{ruby:"Kyrie‐san.:「霧江さん。}`
-`{ruby:I would like to make this clear: we don't remotely believe in that fairytale about the legend of the witch.":誤解しないでいただきたいが、別に私たちはおとぎ話染みた魔女伝説など、これっぱかりも信じちゃいないさ」}`
-`{ruby:"......Another topic to insult Father, is it?:「……また、お父様を侮辱する話ですか。}`
-`{ruby:Simply mentioning that is a betrayal against him.":それを口にすること自体が、お父様への裏切りです」}`
+`{ruby:I would like to make this clear: we don't remotely:誤解しないでいただきたいが、別に私たちはおとぎ話染み}{ruby:believe in that fairytale about the legend of the witch.":た魔女伝説など、これっぱかりも信じちゃいないさ」}`
+`{ruby:"......Another topic to:「……また、お父様を侮}{ruby:insult Father, is it?:辱する話ですか。}`
+`{ruby:Simply mentioning that is:それを口にすること自体が、}{ruby:a betrayal against him.":お父様への裏切りです」}`
 `{ruby:"*giggle*giggle*.:「くすくす。}`
 `{ruby:Well, yes.:まぁねぇ。}`
-`{ruby:......However, this is Father we're talking about.:……でも、あのお父様ですもの。}`
-`{ruby:It is possible that he......you know...?":あるいは本当に、……ねぇ？」}`
-`{ruby:"...............I, ...I don't know anything......":「……………わ、…私は何も知らないわ……」}`
+`{ruby:......However, this is:……でも、あのお父}{ruby:Father we're talking about.:様ですもの。}`
+`{ruby:It is possible:あるいは本当に、}{ruby:that he......you know...?":……ねぇ？」}`
+`{ruby:"...............I, ...I:「……………わ、…私は何}{ruby:don't know anything......":も知らないわ……」}`
 `{ruby:"What's this, what's this?:「何や何や。}`
 `{ruby:Why's everyone gotten so gloomy...?:何を険悪になっとるんや…。}`
 `{ruby:What are you talkin' about?":どういうことや？」}`
-`{ruby:"...You're sayin'...the legend of the witch isn't a joke, ...but a fact?:「…つまり、…魔女伝説は笑い話でも何でもなく、…事実だっちゅうんか？}`
+`{ruby:"...You're sayin'...the legend of the witch:「…つまり、…魔女伝説は笑い話でも何}{ruby:isn't a joke, ...but a fact?:でもなく、…事実だっちゅうんか？}`
 `{ruby:That's ridiculous!":そんなアホな！」}`
 `{ruby:"Hahahaha.:「はははは。}`
-`{ruby:Of course, nobody believes in some witch riding a broom and flying in the sky.:もちろん、箒に跨って空を飛ぶ魔女なんて誰も信じちゃいないさ。}`
-`{ruby:......But, the woman in that portrait,:……だが、あの肖像画の女。}`
-`{ruby:...{f:5:Beatrice}, may really have existed on this island.":…ベアトリーチェは本当にこの島に存在したかもしれない」}`
+`{ruby:Of course, nobody believes in some witch:もちろん、箒に跨って空を飛ぶ魔女}{ruby:riding a broom and flying in the sky.:なんて誰も信じちゃいないさ。}`
+`{ruby:......But, the woman:……だが、あの肖}{ruby:in that portrait,:像画の女。}`
+`{ruby:...{f:5:Beatrice}, may really have:…ベアトリーチェは本当にこの島}{ruby:existed on this island.":に存在したかもしれない」}`
 `{ruby:".........Hideyoshi‐san,:「………秀吉さん。}`
-`{ruby:it looks like we aren't talking about a witch, but something a little simpler.:魔女とかの話じゃなくて、もっとシンプルな話みたいよ。}`
-`{ruby:...Let me see if I have this correct.":…つまり、こういうことね」}`
-`{ruby:"You all suspect that Father had a mistress named {f:5:Beatrice} living in secret somewhere on this island.:「ベアトリーチェという名の愛人を、お父さんがこの島のどこかに隠れ住まわせていたのではないかとみんなは疑っている。}`
+`{ruby:it looks like we aren't talking about:魔女とかの話じゃなくて、もっ}{ruby:a witch, but something a little simpler.:とシンプルな話みたいよ。}`
+`{ruby:...Let me see if:…つまり、こうい}{ruby:I have this correct.":うことね」}`
+`{ruby:"You all suspect that Father had a mistress:「ベアトリーチェという名の愛人を、お父さんがこの島のどこか}{ruby:named {f:5:Beatrice} living in secret somewhere on this island.:に隠れ住まわせていたのではないかとみんなは疑っている。}`
 `{ruby:......Is it something like that?":……そういうことかしら？」}`
-`{ruby:"Father is a paragon of a man, a model of self‐discipline and restraint!:「お父様は自己を厳しく律する模範的な方です！}`
-`{ruby:It is completely inconceivable that he would bring something so filthy onto this island...!":そのような汚らわしい存在を島に連れ込むなど、到底考えられません…！」}`
-`{ruby:Natsuhi snapped at her immediately, but it looked like the four siblings, including her husband Krauss, didn't think that way.:夏妃がさっそく噛み付くが、その夫の蔵臼も含め、４兄弟たちはそうは思っていないようだった。}`
-`{ruby:...On the contrary, it appeared that they thought Kinzo was exactly the kind of person likely to attempt such a stunt.:…むしろ、あの金蔵だからこそ、それくらいのことはしかねないと思っているようだった。}`
-`{ruby:The existence of a mistress who had Kinzo under her spell...:金蔵を夢中にさせる愛人の存在は、}`
-`{ruby:had been whispered of since the very beginning, when he had built the mansion on this island......:それこそこの島に屋敷を構えた当初から囁かれていたのだ……。}`
-`{ruby:"......I'm sorry, Natsuhi‐san, I know how much you respect Dad, but that rumor's been around for a long time.:「……親父を尊敬してる夏妃さんにゃ悪いが、だいぶ昔からそういう噂はあったんだよな。}`
-`{ruby:Dad prepared this island by himself, and built everything.":親父は自分ひとりでこの六軒島の設備、全てを作り上げた」}`
-`{ruby:"...It's been suspected from the beginning that this mansion might have some hidden tricks or secret rooms known only to Dad,:「…屋敷の中には、親父しかわからない仕掛けや、隠し部屋なんかがあるんじゃないかって初めから疑われてたし、}`
-`{ruby:and it's also always been whispered that hidden somewhere on this island, there might be a secret mansion none of us know about.":俺たちの知らない秘密の屋敷が、この島のどこかに隠されてるんじゃないかとも、ずっと囁かれてた」}`
+`{ruby:"Father is a paragon of a:「お父様は自己を厳しく律}{ruby:man, a model of self‐discipline and restraint!:する模範的な方です！}`
+`{ruby:It is completely inconceivable that he would:そのような汚らわしい存在を島に連れ込む}{ruby:bring something so filthy onto this island...!":など、到底考えられません…！」}`
+`{ruby:Natsuhi snapped at her immediately, but it looked like the:夏妃がさっそく噛み付くが、その夫の蔵臼も含め、}{ruby:four siblings, including her husband Krauss, didn't think that way.:４兄弟たちはそうは思っていないようだった。}`
+`{ruby:...On the contrary, it appeared that they thought Kinzo was:…むしろ、あの金蔵だからこそ、それくらいのこ}{ruby:exactly the kind of person likely to attempt such a stunt.:とはしかねないと思っているようだった。}`
+`{ruby:The existence of a mistress:金蔵を夢中にさせる}{ruby:who had Kinzo under her spell...:愛人の存在は、}`
+`{ruby:had been whispered of since the very beginning,:それこそこの島に屋敷を構えた当初}{ruby:when he had built the mansion on this island......:から囁かれていたのだ……。}`
+`{ruby:"......I'm sorry, Natsuhi‐san, I know how much you respect:「……親父を尊敬してる夏妃さんにゃ悪いが、だ}{ruby:Dad, but that rumor's been around for a long time.:いぶ昔からそういう噂はあったんだよな。}`
+`{ruby:Dad prepared this island:親父は自分ひとりでこの六軒島の}{ruby:by himself, and built everything.":設備、全てを作り上げた」}`
+`{ruby:"...It's been suspected from the beginning that this mansion might:「…屋敷の中には、親父しかわからない仕掛けや、隠し部屋}{ruby:have some hidden tricks or secret rooms known only to Dad,:なんかがあるんじゃないかって初めから疑われてたし、}`
+`{ruby:and it's also always been whispered that hidden somewhere on this:俺たちの知らない秘密の屋敷が、この島のどこかに隠}{ruby:island, there might be a secret mansion none of us know about.":されてるんじゃないかとも、ずっと囁かれてた」}`
 `{ruby:"Yes, it has.:「そうね。}`
-`{ruby:This island might look small on a map, ...but it's quite large for just the Ushiromiya family to live on.":地図上は小さな島かも知れないけれど、…右代宮家だけが住むには広大過ぎる島だわ」}`
-`{ruby:"......So people have wondered whether he might have built a secret mansion somewhere in the uncivilized forest for his mistress to live in?:「……そして未開の森のどこかに、愛人を住まわせるための隠し屋敷を作ったかもしれないと、そう思われてたのね？}`
+`{ruby:This island might look small on a map, ...but it's:地図上は小さな島かも知れないけれど、…右代}{ruby:quite large for just the Ushiromiya family to live on.":宮家だけが住むには広大過ぎる島だわ」}`
+`{ruby:"......So people have wondered whether he might have built a secret:「……そして未開の森のどこかに、愛人を住まわせるための隠}{ruby:mansion somewhere in the uncivilized forest for his mistress to live in?:し屋敷を作ったかもしれないと、そう思われてたのね？}`
 `{ruby:That's a rather large‐scale story.":ずいぶん、スケールの大きな話ね」}`
-`{ruby:"In the beginning, we used to say that it might be somewhere inside this mansion.:「最初はそれは、この屋敷の中じゃないかと言われてた。}`
-`{ruby:......That there might be a hidden basement, with a fabulous hidden room, where the witch in that portrait was secretly hiding.":……秘密の地下とかがあったりして、そこに豪華な隠し部屋があり、あの肖像画の魔女が隠れ住んでるんじゃないかとかな」}`
-`{ruby:"...After seeing that intricate auto‐lock on Dad's study, it isn't too hard to imagine, right?":「…親父の書斎の、凝ったオートロックの仕掛けとかを見てると、それも納得できるだろ？」}`
-`{ruby:"......Indeed, Father did spread the rumor that he hid a large amount of gold in some secret place, protected by some secret mechanism.:「……何しろ、莫大な黄金をどこか秘密の場所に、秘密の仕掛けで隠したと吹聴する親父殿だ。}`
-`{ruby:It would not surprise me to find there existed some hidden room inside this very mansion that none of us knows about yet.":この屋敷とて、未だ我々の知らぬ隠し部屋があったとしても、驚くには足りんね」}`
-`{ruby:"When Mother was alive, she would often scour the entire mansion searching for it when Father was absent.:「お母様は存命中、よくお父様の不在をついて屋敷内をしらみ潰しに探し回ってたわね。}`
-`{ruby:......Mother also suspected what Rudolf just said.:……留弗夫が言ったことを、お母様も疑ってたのよ。}`
-`{ruby:She believed that there was a hidden door or stairway somewhere, and that his blonde‐haired mistress was hidden behind it.":どこかに秘密の扉や階段があって、その中に金髪の愛人が隠れていると信じていたわ」}`
-`{ruby:It's hard to believe, but there are some actual examples in other countries of people cheating with someone over a period of several decades by making them live in a hidden attic room.:信じ難いことだが、浮気相手を数十年に亘って、屋根裏部屋に秘密に住まわせていたという実例が外国にある。}`
-`{ruby:And this was Kinzo, with a mansion this extravagant.:増してや、これほど立派な屋敷を持つ金蔵なのだ。}`
-`{ruby:{n}......There was endless opportunity to suspect the existence of hidden rooms...:{n}……秘密の部屋の存在などいくらでも疑えた…。}`
+`{ruby:"In the beginning, we used to say:「最初はそれは、この屋敷の中}{ruby:that it might be somewhere inside this mansion.:じゃないかと言われてた。}`
+`{ruby:......That there might be a hidden basement, with a fabulous:……秘密の地下とかがあったりして、そこに豪華な隠し部屋があ}{ruby:hidden room, where the witch in that portrait was secretly hiding.":り、あの肖像画の魔女が隠れ住んでるんじゃないかとかな」}`
+`{ruby:"...After seeing that intricate auto‐lock on Dad's:「…親父の書斎の、凝ったオートロックの仕掛け}{ruby:study, it isn't too hard to imagine, right?":とかを見てると、それも納得できるだろ？」}`
+`{ruby:"......Indeed, Father did spread the rumor that he hid a large:「……何しろ、莫大な黄金をどこか秘密の場所に、}{ruby:amount of gold in some secret place, protected by some secret mechanism.:秘密の仕掛けで隠したと吹聴する親父殿だ。}`
+`{ruby:It would not surprise me to find there existed some hidden:この屋敷とて、未だ我々の知らぬ隠し部屋が}{ruby:room inside this very mansion that none of us knows about yet.":あったとしても、驚くには足りんね」}`
+`{ruby:"When Mother was alive, she would often scour the:「お母様は存命中、よくお父様の不在をついて}{ruby:entire mansion searching for it when Father was absent.:屋敷内をしらみ潰しに探し回ってたわね。}`
+`{ruby:......Mother also suspected:……留弗夫が言ったことを、}{ruby:what Rudolf just said.:お母様も疑ってたのよ。}`
+`{ruby:She believed that there was a hidden door or stairway:どこかに秘密の扉や階段があって、その中に金}{ruby:somewhere, and that his blonde‐haired mistress was hidden behind it.":髪の愛人が隠れていると信じていたわ」}`
+`{ruby:It's hard to believe, but there are some actual examples in other countries of people cheating:信じ難いことだが、浮気相手を数十年に亘って、屋根裏部}{ruby:with someone over a period of several decades by making them live in a hidden attic room.:屋に秘密に住まわせていたという実例が外国にある。}`
+`{ruby:And this was Kinzo,:増してや、これほど立派な屋}{ruby:with a mansion this extravagant.:敷を持つ金蔵なのだ。}`
+`{ruby:{n}......There was endless opportunity to:{n}……秘密の部屋の存在な}{ruby:suspect the existence of hidden rooms...:どいくらでも疑えた…。}`
 `{ruby:"The legend of the Rokkenjima witch,:「六軒島の魔女伝説って、}`
-`{ruby:...from what I'd heard, it was just a fairy tale made up to prevent children from entering the uncivilized forest by scaring them.:…私の聞いてた話では、子どもたちが未開の森に入り込まないようにって言って作った、怖がらせるためのおとぎ話だったんだけど。}`
-`{ruby:...But it's starting to sound like there's a little more to the story.":…何だか、それだけじゃないって気がしてきたわ」}`
+`{ruby:...from what I'd heard, it was just a fairy tale made:…私の聞いてた話では、子どもたちが未開の森に入り込まないように}{ruby:up to prevent children from entering the uncivilized forest by scaring them.:って言って作った、怖がらせるためのおとぎ話だったんだけど。}`
+`{ruby:...But it's starting to sound like:…何だか、それだけじゃない}{ruby:there's a little more to the story.":って気がしてきたわ」}`
 `{ruby:"Well, yeah.:「まぁな。}`
-`{ruby:As you know, this is a lonely island without anything but the Ushiromiya mansion on it.":何しろ、右代宮の屋敷以外に何もない寂しい島だからな」}`
-`{ruby:"When Rosa and I were little brats, on stormy nights, we were so scared by the sound of rustling trees we could hear from the forest.:「俺や楼座がガキの頃は、そりゃあ、雷雨の夜に森から聞こえてくる木々のざわめきに怯えたもんさ。}`
-`{ruby:We had this crazy delusion that something weird might be looking out at us from between those trees.:その木々の間から、不気味な何かが様子をうかがってるんじゃないかなんて妄想、}`
-`{ruby:It's only natural for any brat to think something like that.":ガキだったら誰でも考える自然なものさ」}`
-`{ruby:"...But some people heard Rosa and me making those claims, and weren't happy to dismiss it as a kid's delusion.:「…だが、俺や楼座がそう訴えるのを聞いて、ガキの妄想だろでは済まさない連中もいたってことなんだろうな。}`
+`{ruby:As you know, this is a lonely island:何しろ、右代宮の屋敷以外に何}{ruby:without anything but the Ushiromiya mansion on it.":もない寂しい島だからな」}`
+`{ruby:"When Rosa and I were little brats, on stormy nights, we were so:「俺や楼座がガキの頃は、そりゃあ、雷雨の夜に森か}{ruby:scared by the sound of rustling trees we could hear from the forest.:ら聞こえてくる木々のざわめきに怯えたもんさ。}`
+`{ruby:We had this crazy delusion that something weird might:その木々の間から、不気味な何かが様子をう}{ruby:be looking out at us from between those trees.:かがってるんじゃないかなんて妄想、}`
+`{ruby:It's only natural for any:ガキだったら誰でも考え}{ruby:brat to think something like that.":る自然なものさ」}`
+`{ruby:"...But some people heard Rosa and me making those claims,:「…だが、俺や楼座がそう訴えるのを聞いて、ガキの妄想だ}{ruby:and weren't happy to dismiss it as a kid's delusion.:ろでは済まさない連中もいたってことなんだろうな。}`
 `{ruby:...Isn't that right, Aneki?":…そうだろ、姉貴」}`
 `{ruby:".........Yes.:「………えぇ。}`
-`{ruby:Nii‐san and I thought that by coincidence you might have spotted Father's mistress, who had been living in secrecy on this island, as she went out for a walk when no one was looking.:私や兄さんは、この島に隠れ住んでいる愛人が、人目を忍んで出歩いていたのを、偶然、あんたたちが目撃したのではないかと考えていたわ。}`
+`{ruby:Nii‐san and I thought that by coincidence you might have spotted Father's mistress, who had been living:私や兄さんは、この島に隠れ住んでいる愛人が、人目を忍んで出歩いてい}{ruby:in secrecy on this island, as she went out for a walk when no one was looking.:たのを、偶然、あんたたちが目撃したのではないかと考えていたわ。}`
 `{ruby:Of course, Mother did too.":もちろん、お母様もね」}`
-`{ruby:"...Among the older servants too, you often heard that ghost story about how the witch of the portrait wanders around the mansion at midnight.:「…古い使用人たちの中にも、深夜の屋敷内に肖像画の魔女が徘徊しているというような怪談が語られていた。}`
-`{ruby:Outwardly, I laughed that off as just a ghost story, but on the inside, I suspected very much that it referred to the existence of a hidden mistress.":私はそれを表向き、怪談として笑い捨てていたが、内心は秘密の愛人の存在を充分に疑っていたよ」}`
-`{ruby:"In that case, .........you're sayin' that the existence of a 19th person...:「となると、………この島に１９人目の何者かがいるかもしれないってのは、}`
+`{ruby:"...Among the older servants too, you often heard that ghost story about:「…古い使用人たちの中にも、深夜の屋敷内に肖像画の魔}{ruby:how the witch of the portrait wanders around the mansion at midnight.:女が徘徊しているというような怪談が語られていた。}`
+`{ruby:Outwardly, I laughed that off as just a ghost story, but on the inside,:私はそれを表向き、怪談として笑い捨てていたが、内}{ruby:I suspected very much that it referred to the existence of a hidden mistress.":心は秘密の愛人の存在を充分に疑っていたよ」}`
+`{ruby:"In that case, .........you're sayin' that:「となると、………この島に１９人目の何}{ruby:the existence of a 19th person...:者かがいるかもしれないってのは、}`
 `{ruby:might not be completely ridiculous?:まったく馬鹿馬鹿しい話でもないっちゅうことなんか。}`
-`{ruby:...That they might actually be somewhere around here......?":…いや、むしろどこかにいるかもしれないわけか……？」}`
-`{ruby:".........Sounds like a case of that "Devil's Proof" Rudolf‐san is always talking about.":「………よく留弗夫さんの言う、“悪魔の証明”というやつになったわね」}`
-`{ruby:"...It might be possible to prove that there is a 19th person, but it's impossible to prove that a 19th person doesn't exist.:「…１９人目がいることは証明可能だけれど、１９人目が存在しないことは証明不能。}`
-`{ruby:......Should we continue this discussion assuming that there is a person named {f:5:Beatrice} hiding somewhere on this island......?":……私たちは、ベアトリーチェという名の人物が島のどこかに潜んでいることを前提に議論を進めるべきなの……？」}`
-`{ruby:"As the first step in crisis management, that's the right way.:「危機管理の基本としては正しいな。}`
-`{ruby:...It's probably way more prudent to say she might exist, rather than thinking there's no way she does.":…いるわけがないと思うよりは、いるかもしれないと用心する方がはるかにマシだろうよ」}`
+`{ruby:...That they might actually:…いや、むしろどこかにいるか}{ruby:be somewhere around here......?":もしれないわけか……？」}`
+`{ruby:".........Sounds like a case of that:「………よく留弗夫さんの言う、“悪魔}{ruby:"Devil's Proof" Rudolf‐san is always talking about.":の証明”というやつになったわね」}`
+`{ruby:"...It might be possible to prove that there is a 19th:「…１９人目がいることは証明可能だけれど、}{ruby:person, but it's impossible to prove that a 19th person doesn't exist.:１９人目が存在しないことは証明不能。}`
+`{ruby:......Should we continue this discussion assuming that there is:……私たちは、ベアトリーチェという名の人物が島のどこかに}{ruby:a person named {f:5:Beatrice} hiding somewhere on this island......?":潜んでいることを前提に議論を進めるべきなの……？」}`
+`{ruby:"As the first step in:「危機管理の基本とし}{ruby:crisis management, that's the right way.:ては正しいな。}`
+`{ruby:...It's probably way more prudent to say she might:…いるわけがないと思うよりは、いるかもしれな}{ruby:exist, rather than thinking there's no way she does.":いと用心する方がはるかにマシだろうよ」}`
 `{ruby:"I, ...I see.:「そ、…そうやな。}`
 `{ruby:Sorry, I was a bit careless...:すまん、ちょいと無用心が過ぎたわ…。}`
-`{ruby:Rosa‐san, sorry for laughin' just now...":楼座さん、さっきは笑ってすまんかったな…」}`
-`{ruby:"Huh, ...ah, ......it's alright, I don't mind.":「え、…あ、……別に気にしてないです」}`
-`{ruby:Hideyoshi apologized deeply for not being conscious enough of danger, despite calling himself the president of a company.:秀吉は、仮にも会社社長を名乗りながら、危機意識が薄くて申し訳ないと深々と謝る。}`
+`{ruby:Rosa‐san, sorry for:楼座さん、さっきは笑って}{ruby:laughin' just now...":すまんかったな…」}`
+`{ruby:"Huh, ...ah, ......it's:「え、…あ、……別に気}{ruby:alright, I don't mind.":にしてないです」}`
+`{ruby:Hideyoshi apologized deeply for not being conscious enough of:秀吉は、仮にも会社社長を名乗りながら、危機}{ruby:danger, despite calling himself the president of a company.:意識が薄くて申し訳ないと深々と謝る。}`
 `{ruby:Silence fell again.:そこで再び一同は沈黙した。}`
-`{ruby:By preparing for the existence of a 19th person,:１９人目の存在に備えるということはつまり、}`
-`{ruby:they were accepting that some unknown person was hidden on this island.:今この島に、未知の人物が隠れ潜んでいることを認めること。}`
-`{ruby:And since this person might have something bad planned for them,:そしてその人物が、何か良からぬことを企んでいるかもしれないともなれば、}`
-`{ruby:it was only natural that it came with a certain degree of discomfort...:若干の不気味さを伴うのは当然のことだった…。}`
-`{ruby:"......In the past, Father would sometimes suddenly disappear without telling anyone where he went.:「……親父殿はかつて、不意に所在を知らせずに姿を消すことがあった。}`
-`{ruby:After all, he is a person who appreciates silence.:何しろ、静寂を好むお人だからな。}`
-`{ruby:It was not out of the ordinary for him to shut himself up in some archive after purposefully not telling anyone where he was going.":わざと所在を知らせず、どこかの書庫に閉じ篭っているなどということは、別に不思議なことではなかったよ」}`
-`{ruby:"......However, after the witch theory began to be refined into the theory about his mistress, it was eventually whispered that he was secretly going back and forth to see her.":「……しかし、魔女伝説が愛人説に掏り替わり、やがてそれは、こっそり愛人のもとへ通っているのではないかと囁かれるようになった」}`
-`{ruby:"Mom was completely overridden with doubt in her final years.:「末期のお袋は疑心暗鬼の塊だったからな。}`
-`{ruby:Sometimes, she'd suddenly start making a racket and asking the servants to look for Dad immediately, saying it was an emergency.":突然大騒ぎして使用人たちに、緊急事態だから今すぐ親父を探せなんて騒ぎ始めることがあったっけ」}`
-`{ruby:"......Yes, that did happen sometimes.:「……あったわね。}`
-`{ruby:Mother was always doing things like that in her later years, and that frightening atmosphere still hasn't gone away.:晩年のお母様はそんなことばかりだったから、未だにその怖い雰囲気が拭えないわ。}`
+`{ruby:By preparing for the:１９人目の存在に備えると}{ruby:existence of a 19th person,:いうことはつまり、}`
+`{ruby:they were accepting that some unknown:今この島に、未知の人物が隠れ潜}{ruby:person was hidden on this island.:んでいることを認めること。}`
+`{ruby:And since this person might:そしてその人物が、何か良からぬことを企}{ruby:have something bad planned for them,:んでいるかもしれないともなれば、}`
+`{ruby:it was only natural that it:若干の不気味さを伴うのは}{ruby:came with a certain degree of discomfort...:当然のことだった…。}`
+`{ruby:"......In the past, Father would sometimes suddenly:「……親父殿はかつて、不意に所在を知}{ruby:disappear without telling anyone where he went.:らせずに姿を消すことがあった。}`
+`{ruby:After all, he is:何しろ、静寂を好む}{ruby:a person who appreciates silence.:お人だからな。}`
+`{ruby:It was not out of the ordinary for him to shut himself:わざと所在を知らせず、どこかの書庫に閉じ篭っているな}{ruby:up in some archive after purposefully not telling anyone where he was going.":どということは、別に不思議なことではなかったよ」}`
+`{ruby:"......However, after the witch theory began to be refined into the theory about his mistress,:「……しかし、魔女伝説が愛人説に掏り替わり、やがてそれは、こっそ}{ruby:it was eventually whispered that he was secretly going back and forth to see her.":り愛人のもとへ通っているのではないかと囁かれるようになった」}`
+`{ruby:"Mom was completely overridden with:「末期のお袋は疑心暗鬼}{ruby:doubt in her final years.:の塊だったからな。}`
+`{ruby:Sometimes, she'd suddenly start making a racket and asking the:突然大騒ぎして使用人たちに、緊急事態だから今すぐ}{ruby:servants to look for Dad immediately, saying it was an emergency.":親父を探せなんて騒ぎ始めることがあったっけ」}`
+`{ruby:"......Yes, that:「……あった}{ruby:did happen sometimes.:わね。}`
+`{ruby:Mother was always doing things like that in her:晩年のお母様はそんなことばかりだったから}{ruby:later years, and that frightening atmosphere still hasn't gone away.:、未だにその怖い雰囲気が拭えないわ。}`
 `{ruby:...I can say it for certain now.:…今だから言える。}`
 `{ruby:She was a person to be pitied.":可哀想な人だったわ」}`
-`{ruby:"So then, ...what were the results of those large‐scale searches of the house?:「それで、…その大々的な家捜しの結果、どうだったんや。}`
+`{ruby:"So then, ...what were the results:「それで、…その大々的な家捜し}{ruby:of those large‐scale searches of the house?:の結果、どうだったんや。}`
 `{ruby:Did they find anythin'?":何か見付かったんか」}`
 `{ruby:"No.:「いいえ。}`
-`{ruby:Not on a single occasion did they even find Father, let alone any hidden rooms.:隠し部屋はおろか、一度たりともお父様が発見されたことはないわ。}`
-`{ruby:And every time, after a lot of time had passed, he would suddenly show up somewhere.:そしていつも、それからだいぶ時間が経ってからひょっこりと、何処からか姿を現すの。}`
-`{ruby:Then he'd say that he'd been taking a nap in some archive or that the wind had called him down for a walk on the beach.":どこかの書庫で昼寝していたとか、風に誘われて浜辺を散歩していたとか何とか言ってね」}`
-`{ruby:"...But it was always some place where the servants had already looked.:「…でも、それらの場所は何れも使用人たちが必ず探している場所。}`
-`{ruby:......We never knew where Father had gone.":……お父様がどこに行っていたのかは、いつもわからなかった」}`
-`{ruby:"By that time, Father was already famous for his adoration of the occult,:「当時からお父様はオカルトに傾倒していることが有名だったから、}`
-`{ruby:so some of the servants exaggerated, saying that he might have turned into butterflies and danced around the rose garden.":一部の使用人たちは、蝶にでも化けて、薔薇庭園を舞っていたのだろうなんてうそぶいていたっけ」}`
-`{ruby:"So in short, Father frequently disappeared, and no one knew where he went.":「つまり、お父さんは、誰も知らないどこかへ姿を消すことが頻繁にあったのね」}`
+`{ruby:Not on a single occasion did they:隠し部屋はおろか、一度たりともお父}{ruby:even find Father, let alone any hidden rooms.:様が発見されたことはないわ。}`
+`{ruby:And every time, after a lot of time:そしていつも、それからだいぶ時間が経ってか}{ruby:had passed, he would suddenly show up somewhere.:らひょっこりと、何処からか姿を現すの。}`
+`{ruby:Then he'd say that he'd been taking a nap in some archive or:どこかの書庫で昼寝していたとか、風に誘われて}{ruby:that the wind had called him down for a walk on the beach.":浜辺を散歩していたとか何とか言ってね」}`
+`{ruby:"...But it was always some place:「…でも、それらの場所は何れも使用}{ruby:where the servants had already looked.:人たちが必ず探している場所。}`
+`{ruby:......We never knew:……お父様がどこに行っていたのか}{ruby:where Father had gone.":は、いつもわからなかった」}`
+`{ruby:"By that time, Father was already:「当時からお父様はオカルトに傾倒し}{ruby:famous for his adoration of the occult,:ていることが有名だったから、}`
+`{ruby:so some of the servants exaggerated, saying that he might:一部の使用人たちは、蝶にでも化けて、薔薇庭園を舞}{ruby:have turned into butterflies and danced around the rose garden.":っていたのだろうなんてうそぶいていたっけ」}`
+`{ruby:"So in short, Father frequently disappeared,:「つまり、お父さんは、誰も知らないどこか}{ruby:and no one knew where he went.":へ姿を消すことが頻繁にあったのね」}`
 `{ruby:"Yeah.:「あぁ。}`
-`{ruby:Since we couldn't find him no matter how much we looked inside the mansion, we grew increasingly of the opinion that Dad might have gone somewhere outside it.:どんなに屋敷中を探しても見付からないんだから、親父は屋敷の外へ行っているのだろうという見解になった。}`
-`{ruby:But there isn't much to speak of in the area outside the mansion.:だが、屋敷の外ったって、それほど大した場所はない。}`
-`{ruby:......Which leaves only the expansive forest.":……となると残るのは、広大な森だ」}`
-`{ruby:"And if you tie that in with the legend of the witch from the forest, you get a theory like this::「それで森の魔女伝説と融合して、出来た仮説はこうだった。}`
-`{ruby:Dad had actually built a hidden mansion somewhere in the forest,:親父は実は、森のどこかに隠し屋敷を作っていて、}`
-`{ruby:inside of which a mistress by the name of {f:5:Beatrice} lived, and he sometimes went to see her.":そこにベアトリーチェという名の愛人を住まわせていて、時折通っているんじゃないかってわけだ」}`
+`{ruby:Since we couldn't find him no matter how much we looked inside the mansion,:どんなに屋敷中を探しても見付からないんだから、親父は}{ruby:we grew increasingly of the opinion that Dad might have gone somewhere outside it.:屋敷の外へ行っているのだろうという見解になった。}`
+`{ruby:But there isn't much to speak:だが、屋敷の外ったって、それ}{ruby:of in the area outside the mansion.:ほど大した場所はない。}`
+`{ruby:......Which leaves only:……となると残るのは}{ruby:the expansive forest.":、広大な森だ」}`
+`{ruby:"And if you tie that in with the legend of:「それで森の魔女伝説と融合して}{ruby:the witch from the forest, you get a theory like this::、出来た仮説はこうだった。}`
+`{ruby:Dad had actually built a:親父は実は、森のどこかに隠}{ruby:hidden mansion somewhere in the forest,:し屋敷を作っていて、}`
+`{ruby:inside of which a mistress by the name of:そこにベアトリーチェという名の愛人を住まわせてい}{ruby:{f:5:Beatrice} lived, and he sometimes went to see her.":て、時折通っているんじゃないかってわけだ」}`
 `{ruby:"...I was also young at the time.:「…私も当時は若くてね。}`
-`{ruby:At one point, I became intent on catching Father cheating, and I tried to follow him when he went outside.":親父殿の浮気の現場を押さえてやろうと意気込み、表へ出る親父の後をつけようとしたことがある」}`
+`{ruby:At one point, I became intent on catching Father cheating,:親父殿の浮気の現場を押さえてやろうと意気込み、表}{ruby:and I tried to follow him when he went outside.":へ出る親父の後をつけようとしたことがある」}`
 `{ruby:"...I failed, of course.:「…もちろん失敗したよ。}`
-`{ruby:Every time Dad went outside, he was oddly intent on staying out of sight, and was extremely cautious that he wasn't being watched.:親父は表へ出る時、異様に人目を嫌い、誰かに見られてないか警戒していた。}`
-`{ruby:He was like that to a very odd extent.":それこそ異常なくらいにね」}`
+`{ruby:Every time Dad went outside, he was oddly intent on staying:親父は表へ出る時、異様に人目を嫌い、誰}{ruby:out of sight, and was extremely cautious that he wasn't being watched.:かに見られてないか警戒していた。}`
+`{ruby:He was like that:それこそ異常なく}{ruby:to a very odd extent.":らいにね」}`
 `{ruby:"But that actually made me sure.:「だから逆に確信したよ。}`
-`{ruby:He must have been going out for some reason that the members of his family couldn't know about.":家人に知られてはならぬ理由で出掛けているに違いないとね」}`
-`{ruby:"And that would be going to meet his mistress.:「そら、愛人のところへ出掛けるんや。}`
-`{ruby:Probably tryin' to avoid being seen.":人目も忍ぶやろな」}`
-`{ruby:After seeing Hideyoshi nod and say "yes, yes" as though this was quite obvious, Eva got a little sullen.:秀吉がさも当然のように、ウンウン言いながら頷くのを見て、絵羽がちょっとムッとする。}`
+`{ruby:He must have been going out for some reason:家人に知られてはならぬ理由で出}{ruby:that the members of his family couldn't know about.":掛けているに違いないとね」}`
+`{ruby:"And that would be:「そら、愛人のところ}{ruby:going to meet his mistress.:へ出掛けるんや。}`
+`{ruby:Probably tryin' to:人目も忍ぶや}{ruby:avoid being seen.":ろな」}`
+`{ruby:After seeing Hideyoshi nod and say "yes, yes" as:秀吉がさも当然のように、ウンウン言いながら頷}{ruby:though this was quite obvious, Eva got a little sullen.:くのを見て、絵羽がちょっとムッとする。}`
 `{ruby:"...Well, anyway.:「…まぁとにかく。}`
-`{ruby:This island was like a sketchbook in which Father, with his Western obsession, could draw out all of his dreams.:西洋かぶれのお父様が、自分の夢を、まるでスケッチブックに描くみたいに実現したのがこの島なのよ。}`
-`{ruby:......Everything about this island was exactly how Father wanted it.:……全てがお父様の思い通りの島。}`
-`{ruby:It wouldn't be odd at all if there were some hidden mansion for his mistress to live in...":愛人を住まわせる隠し屋敷があっても、何の不思議もない…」}`
-`{ruby:Eva's words spoke for what all of the siblings had come to think.:絵羽のその言葉は、４兄弟がずっと思ってきたこと全てを代弁したようだった。}`
-`{ruby:For a while, the room returned to silence again, and everyone listened to the sound of the wind and rain...:しばしの間、室内は再び沈黙に支配され、一同は雨と風の音に耳を傾ける…。}`
-`{ruby:......Was there a hidden mansion on this island, and had Kinzo's mistress been living there in hiding for a long, long time......?:……この島には誰も知らない隠し屋敷があり、そこにずっとずっと、金蔵の愛人が隠れ住まっている……？}`
-`{ruby:Every one of them had thought that they were being too suspicious, and had refrained from saying it for the longest time, but...:誰もが勘繰り過ぎだと思い、長いこと口にすることをはばかられてきたが…。}`
-`{ruby:......it had been a common opinion that everyone shared.:……全員が持つ共通の見解であったのだ。}`
-`{ruby:Kyrie, who had been listening the whole time with her eyes closed, spoke to no one in particular.:その話を、ずっと目を閉じて聞いていた霧江が、誰とはなしに問い掛ける。}`
-`{ruby:"...How long has this rumor about Father's mistress been around?":「…その、お父様の愛人の噂はいつ頃から？」}`
-`{ruby:"As soon as we moved to this island, so about thirty years ago.":「この島に引っ越してきた当初からだから、かれこれ３０年くらい前だな」}`
-`{ruby:"Think about it, it would've been impossible for him to have a hidden mansion constructed once we came here.:「何しろ、隠し屋敷の工事なんて、俺たちが島に来ちまったら無理だろ。}`
-`{ruby:People and materials would have to be going in and out.:人とか機材の出入りがあるもんな。}`
+`{ruby:This island was like a sketchbook in which Father, with:西洋かぶれのお父様が、自分の夢を、まるでスケッチブ}{ruby:his Western obsession, could draw out all of his dreams.:ックに描くみたいに実現したのがこの島なのよ。}`
+`{ruby:......Everything about this island was:……全てがお父様の}{ruby:exactly how Father wanted it.:思い通りの島。}`
+`{ruby:It wouldn't be odd at all if there were:愛人を住まわせる隠し屋敷があっ}{ruby:some hidden mansion for his mistress to live in...":ても、何の不思議もない…」}`
+`{ruby:Eva's words spoke for what all:絵羽のその言葉は、４兄弟がずっと思って}{ruby:of the siblings had come to think.:きたこと全てを代弁したようだった。}`
+`{ruby:For a while, the room returned to silence again, and:しばしの間、室内は再び沈黙に支配され、}{ruby:everyone listened to the sound of the wind and rain...:一同は雨と風の音に耳を傾ける…。}`
+`{ruby:......Was there a hidden mansion on this island, and had Kinzo's:……この島には誰も知らない隠し屋敷があり、そこにず}{ruby:mistress been living there in hiding for a long, long time......?:っとずっと、金蔵の愛人が隠れ住まっている……？}`
+`{ruby:Every one of them had thought that they were being too:誰もが勘繰り過ぎだと思い、長いこと口に}{ruby:suspicious, and had refrained from saying it for the longest time, but...:することをはばかられてきたが…。}`
+`{ruby:......it had been a:……全員が持つ共通の見}{ruby:common opinion that everyone shared.:解であったのだ。}`
+`{ruby:Kyrie, who had been listening the whole time with:その話を、ずっと目を閉じて聞いていた}{ruby:her eyes closed, spoke to no one in particular.:霧江が、誰とはなしに問い掛ける。}`
+`{ruby:"...How long has this rumor:「…その、お父様の愛人の}{ruby:about Father's mistress been around?":噂はいつ頃から？」}`
+`{ruby:"As soon as we moved to:「この島に引っ越してきた当初からだか}{ruby:this island, so about thirty years ago.":ら、かれこれ３０年くらい前だな」}`
+`{ruby:"Think about it, it would've been impossible for him:「何しろ、隠し屋敷の工事なんて、俺た}{ruby:to have a hidden mansion constructed once we came here.:ちが島に来ちまったら無理だろ。}`
+`{ruby:People and materials would have:人とか機材の出入り}{ruby:to be going in and out.:があるもんな。}`
 `{ruby:We'd have found out in no time.":すぐにバレちまうさ」}`
-`{ruby:"So, if this was possible, it would have had to have happened before we moved here.:「だから、可能だとしたら、俺たちが引っ越してくる以前。}`
-`{ruby:...It probably could have been built along with this mansion when we were still living in Odawara.":…多分、俺たちがまだ小田原に住んでいた頃に、この屋敷の工事と一緒に済ましていたんだろうよ」}`
-`{ruby:"It's probably appropriate to assume that he had the plan laid out from the beginning to set up a double life with his family and his mistress.:「お父様は、家族生活と愛人との生活の２つを両立させようと、最初から想定していたと考えるのが妥当なんでしょうねぇ。}`
-`{ruby:And his relationship with that mistress probably went back to the days when we lived in Odawara.":多分、愛人との関係は小田原時代にまで遡るでしょうし」}`
+`{ruby:"So, if this was possible, it would have:「だから、可能だとしたら、俺た}{ruby:had to have happened before we moved here.:ちが引っ越してくる以前。}`
+`{ruby:...It probably could have been built along with:…多分、俺たちがまだ小田原に住んでいた頃に、この}{ruby:this mansion when we were still living in Odawara.":屋敷の工事と一緒に済ましていたんだろうよ」}`
+`{ruby:"It's probably appropriate to assume that he had the plan laid out from:「お父様は、家族生活と愛人との生活の２つを両立させようと、}{ruby:the beginning to set up a double life with his family and his mistress.:最初から想定していたと考えるのが妥当なんでしょうねぇ。}`
+`{ruby:And his relationship with that mistress probably went:多分、愛人との関係は小田原時}{ruby:back to the days when we lived in Odawara.":代にまで遡るでしょうし」}`
 `{ruby:"Probably.:「だろうな。}`
-`{ruby:If, as Father says, she is the source of the vast amount of gold that he used to gain the funds which resurrected the Ushiromiya family,:親父殿が言うように、右代宮家復興の軍資金となった莫大な黄金が、彼女によってもたらされたとするなら、}`
-`{ruby:we could probably conclude that they had a close relationship since Odawara at least.":小田原時代にはもう親交があったと見るべきだろう」}`
-`{ruby:"......A relationship trusting enough for her to lend him a vast quantity of gold.:「……莫大な黄金を貸し付けられるだけの信頼関係だ。}`
-`{ruby:I can't even imagine how old that relationship must have been.":どれほどの古い縁か、想像もつかんね」}`
-`{ruby:".........Most likely, she gave Father some invaluable advice for achieving success in business.:「………恐らく、お父様が事業で成功する上で、何か貴重な助言をしてくれたのでしょう。}`
-`{ruby:It's natural to think that, out of a sense of gratitude for that, he described it as if this person had given him gold.":それに恩を感じ、その人物が黄金を与えてくれたというような言い方をしたと考えるのが自然です」}`
-`{ruby:"If you think about it that way, it's obvious that they would have a close relationship after that.:「そうと考えれば、その後も親交があったのは当然でしょう。}`
-`{ruby:Rather than a debauched relationship with a mistress, it was probably a relationship of gratitude to the person who saved the Ushiromiya family from crisis.":それは恐らく、愛人という爛れた関係ではなく、右代宮家の危機を救った恩人としてに違いありません」}`
-`{ruby:"......That way of looking at it might have some sense to it too.:「……夏妃さんの言うのも、一理あるかもわからんな。}`
-`{ruby:But, even in that case, isn't building a hidden mansion and havin' her live in it going a little too far?:だが、仮にそうでも、隠し屋敷を作って住まわせるってのは、ちょいと行き過ぎた話やろなぁ。}`
-`{ruby:Doesn't that mean that there were some emotions in play beyond gratitude?":恩だけでは量れん感情があったんとちゃうか」}`
+`{ruby:If, as Father says, she is the source of the vast amount of:親父殿が言うように、右代宮家復興の軍資金となった莫大}{ruby:gold that he used to gain the funds which resurrected the Ushiromiya family,:な黄金が、彼女によってもたらされたとするなら、}`
+`{ruby:we could probably conclude that they had:小田原時代にはもう親交があ}{ruby:a close relationship since Odawara at least.":ったと見るべきだろう」}`
+`{ruby:"......A relationship trusting enough for her to:「……莫大な黄金を貸し付けら}{ruby:lend him a vast quantity of gold.:れるだけの信頼関係だ。}`
+`{ruby:I can't even imagine how:どれほどの古い縁か、}{ruby:old that relationship must have been.":想像もつかんね」}`
+`{ruby:".........Most likely, she gave Father some:「………恐らく、お父様が事業で成功する上で、}{ruby:invaluable advice for achieving success in business.:何か貴重な助言をしてくれたのでしょう。}`
+`{ruby:It's natural to think that, out of a sense of gratitude for:それに恩を感じ、その人物が黄金を与えてくれたとい}{ruby:that, he described it as if this person had given him gold.":うような言い方をしたと考えるのが自然です」}`
+`{ruby:"If you think about it that way, it's obvious:「そうと考えれば、その後も親交}{ruby:that they would have a close relationship after that.:があったのは当然でしょう。}`
+`{ruby:Rather than a debauched relationship with a mistress, it was probably a:それは恐らく、愛人という爛れた関係ではなく、右代宮}{ruby:relationship of gratitude to the person who saved the Ushiromiya family from crisis.":家の危機を救った恩人としてに違いありません」}`
+`{ruby:"......That way of looking at it:「……夏妃さんの言うのも、一}{ruby:might have some sense to it too.:理あるかもわからんな。}`
+`{ruby:But, even in that case, isn't building a hidden mansion:だが、仮にそうでも、隠し屋敷を作って住まわせる}{ruby:and havin' her live in it going a little too far?:ってのは、ちょいと行き過ぎた話やろなぁ。}`
+`{ruby:Doesn't that mean that there were:恩だけでは量れん感情があ}{ruby:some emotions in play beyond gratitude?":ったんとちゃうか」}`
 `{ruby:"Well, this is all speculation.:「まぁ、全ては憶測だ。}`
-`{ruby:......In the first place, no one has ever found that hidden mansion.":……第一、その隠し屋敷は誰も見つけたことがねぇ」}`
-`{ruby:"...Aniki, you're planning on expanding this island into a resort, right?:「…兄貴はこの島をリゾート開発する気なんだろ？}`
-`{ruby:You might stumble onto it by chance in the process, who knows?:その際にひょっこり見付かるかもしれねぇぜ？}`
-`{ruby:Maybe you'd even unexpectedly find some gold there, too.":案外、そこに黄金もあったりするかもな」}`
+`{ruby:......In the first place, no one:……第一、その隠し屋敷は誰}{ruby:has ever found that hidden mansion.":も見つけたことがねぇ」}`
+`{ruby:"...Aniki, you're planning on expanding:「…兄貴はこの島をリゾート}{ruby:this island into a resort, right?:開発する気なんだろ？}`
+`{ruby:You might stumble onto it by:その際にひょっこり見付か}{ruby:chance in the process, who knows?:るかもしれねぇぜ？}`
+`{ruby:Maybe you'd even unexpectedly:案外、そこに黄金もあっ}{ruby:find some gold there, too.":たりするかもな」}`
 `{ruby:"...Hahahaha.:「…はははは。}`
-`{ruby:Do you think Rokkenjima is Treasure Island or something?":お前は六軒島を宝島か何かだとでも思っているのかね？」}`
+`{ruby:Do you think Rokkenjima:お前は六軒島を宝島か何かだと}{ruby:is Treasure Island or something?":でも思っているのかね？」}`
 `{ruby:"Don't play dumb.:「惚けないでよ。}`
-`{ruby:...Although you say that you're opening a resort, we know that it's just a cover for a full‐scale investigation of the entire island, okay?:…兄さんがリゾート開発と称して、島の全域調査を計上しようとしてたのを知ってるのよぅ？}`
-`{ruby:Although, it sounds as if, due to all that trouble and confusion we were talking about earlier, you haven't been able to carry it out, of course?":例のトラブルのごたごたで出来なくなっちゃったそうだけどね？」}`
-`{ruby:"I don't know what you're talking about, but you misunderstand.:「何だか知らんが、誤解だな。}`
-`{ruby:It is perfectly natural that investigating this island would be the first step in turning it into a resort.":島の調査はリゾート化の第一段階として、極めて当然のことだ」}`
-`{ruby:Krauss tried to play dumb, but it was plainly obvious to his siblings, who knew him so well.:蔵臼は惚けてみせるが、彼をよく知る兄弟たちにとってそれはとても白々しいものだった。}`
-`{ruby:...Krauss was definitely sure of the existence of a hidden mansion.:…蔵臼は間違いなく、隠し屋敷の存在を確信しているのだ。}`
-`{ruby:And under the pretense of opening a resort, he had been investigating the island in detail, searching for a clue as to the location of the hidden gold.:それで、リゾート開発と称して島を詳しく調べ、黄金の隠し場所の手掛かりを見つけようとしているのだ。}`
-`{ruby:They couldn't tell whether that conviction was just him over‐thinking things, or whether it was based on some physical proof.:その確信は、単なる思い込みなのか、それとも具体的な証拠があってのことなのかはわからない。}`
-`{ruby:......However, if Krauss, with all his guile, was convinced,:……しかし、悪知恵の働く蔵臼がそれを確信している以上、}`
-`{ruby:then the other siblings were similarly convinced that there must be a sufficient basis for it...:それに足る根拠があるに違いないと兄弟たちもまた確信していた…。}`
-`{ruby:"......The story about a witch livin' in a forest is straight out of a fairy tale,:「……森に魔女が住んでるっちゅうのは、そのまんまおとぎ話やが、}`
-`{ruby:but a story about some blonde‐haired girl livin' secretly in a mansion no one knows about in the middle of a forest...isn't much better.":森の中に誰も知らない屋敷があって、金髪の姉ちゃんがひっそり隠れ住んどるっちゅうのも、充分、おとぎ話やな」}`
+`{ruby:...Although you say that you're opening a resort, we know that it's:…兄さんがリゾート開発と称して、島の全域調査}{ruby:just a cover for a full‐scale investigation of the entire island, okay?:を計上しようとしてたのを知ってるのよぅ？}`
+`{ruby:Although, it sounds as if, due to all that trouble and confusion we:例のトラブルのごたごたで出来なくな}{ruby:were talking about earlier, you haven't been able to carry it out, of course?":っちゃったそうだけどね？」}`
+`{ruby:"I don't know what you're:「何だか知らんが}{ruby:talking about, but you misunderstand.:、誤解だな。}`
+`{ruby:It is perfectly natural that investigating this island would:島の調査はリゾート化の第一段階と}{ruby:be the first step in turning it into a resort.":して、極めて当然のことだ」}`
+`{ruby:Krauss tried to play dumb, but it was plainly:蔵臼は惚けてみせるが、彼をよく知る兄弟たちに}{ruby:obvious to his siblings, who knew him so well.:とってそれはとても白々しいものだった。}`
+`{ruby:...Krauss was definitely sure of:…蔵臼は間違いなく、隠し屋敷の}{ruby:the existence of a hidden mansion.:存在を確信しているのだ。}`
+`{ruby:And under the pretense of opening a resort, he had been investigating the island:それで、リゾート開発と称して島を詳しく調べ、黄金の}{ruby:in detail, searching for a clue as to the location of the hidden gold.:隠し場所の手掛かりを見つけようとしているのだ。}`
+`{ruby:They couldn't tell whether that conviction was just him over‐thinking:その確信は、単なる思い込みなのか、それとも具体}{ruby:things, or whether it was based on some physical proof.:的な証拠があってのことなのかはわからない。}`
+`{ruby:......However, if Krauss, with:……しかし、悪知恵の働く蔵臼が}{ruby:all his guile, was convinced,:それを確信している以上、}`
+`{ruby:then the other siblings were similarly convinced that:それに足る根拠があるに違いないと兄}{ruby:there must be a sufficient basis for it...:弟たちもまた確信していた…。}`
+`{ruby:"......The story about a witch livin' in a:「……森に魔女が住んでるっちゅうの}{ruby:forest is straight out of a fairy tale,:は、そのまんまおとぎ話やが、}`
+`{ruby:but a story about some blonde‐haired girl livin' secretly in a mansion:森の中に誰も知らない屋敷があって、金髪の姉ちゃんがひっ}{ruby:no one knows about in the middle of a forest...isn't much better.":そり隠れ住んどるっちゅうのも、充分、おとぎ話やな」}`
 `{ruby:"Certainly.:「そうね。}`
-`{ruby:Taken on its own, the setting sounds just like some kind of children's story.:シチュエーションだけだったら、まるで童話か何かみたいねぇ。}`
+`{ruby:Taken on its own, the setting sounds:シチュエーションだけだったら、ま}{ruby:just like some kind of children's story.:るで童話か何かみたいねぇ。}`
 `{ruby:You like those, don't you, Rosa?":楼座、そういうの好きでしょう」}`
 `{ruby:"......Huh, ......w‐...well, yes...":「……え、……ま、…まぁね…」}`
-`{ruby:"When the mansion was built on this island, Father was at the height of his prosperity.:「この島に屋敷を建てた頃は、親父殿の特に全盛期だ。}`
-`{ruby:With his money, he could probably have obtained anything, made any of his delusions real.:カネに物を言わせて、どんな妄想も実現しただろう。}`
-`{ruby:...A mansion in the forest where a witch quietly waits...:…森の中にひっそりたたずむ魔女の屋敷。}`
-`{ruby:......It sounds like the kind of setting Dad would like.":……親父の好きそうなシチュエーションだ」}`
+`{ruby:"When the mansion was built on this island,:「この島に屋敷を建てた頃は、}{ruby:Father was at the height of his prosperity.:親父殿の特に全盛期だ。}`
+`{ruby:With his money, he could probably have:カネに物を言わせて、どんな}{ruby:obtained anything, made any of his delusions real.:妄想も実現しただろう。}`
+`{ruby:...A mansion in the forest:…森の中にひっそりたた}{ruby:where a witch quietly waits...:ずむ魔女の屋敷。}`
+`{ruby:......It sounds like the kind:……親父の好きそうなシ}{ruby:of setting Dad would like.":チュエーションだ」}`
 `{ruby:"......Doesn't it?:「……だな。}`
-`{ruby:Like something from the occult or a fairy tale.:オカルトチックというかメルヘンチックというか。}`
-`{ruby:...It feels like Dad would be into that.":…親父の趣味って気がするぜ」}`
-`{ruby:On this island, which the Ushiromiya family had lived on for thirty years now,:右代宮家が３０年にもわたって住まってきたこの島に、}`
-`{ruby:a hidden mansion that no one knew about had been quietly built, and within, there lived a witch known only by her portrait...:誰も知らない隠し屋敷がひっそりと建っていて、肖像画でしか知らない魔女が住んでいる…。}`
+`{ruby:Like something from the:オカルトチックというかメル}{ruby:occult or a fairy tale.:ヘンチックというか。}`
+`{ruby:...It feels like Dad:…親父の趣味って}{ruby:would be into that.":気がするぜ」}`
+`{ruby:On this island, which the Ushiromiya family:右代宮家が３０年にもわたって}{ruby:had lived on for thirty years now,:住まってきたこの島に、}`
+`{ruby:a hidden mansion that no one knew about had been quietly:誰も知らない隠し屋敷がひっそりと建っていて、}{ruby:built, and within, there lived a witch known only by her portrait...:肖像画でしか知らない魔女が住んでいる…。}`
 `{ruby:Even this hard‐to‐believe story...:にわかには信じられないこの話も、}`
-`{ruby:might not be completely delusional considering all of Kinzo's strange habits and his vast wealth...:…全て金蔵の奇癖と莫大な財産があれば、決して妄想ではないのかもしれない…。}`
-`{ruby:"......It might not have been impossible for Father to build a hidden mansion to satisfy such a dream.":「……お父さんがそういう夢を思い描いて、隠し屋敷を建てることは不可能じゃないかもしれない」}`
+`{ruby:might not be completely delusional considering all:…全て金蔵の奇癖と莫大な財産があれば、決}{ruby:of Kinzo's strange habits and his vast wealth...:して妄想ではないのかもしれない…。}`
+`{ruby:"......It might not have been impossible for Father to:「……お父さんがそういう夢を思い描いて、隠し屋敷}{ruby:build a hidden mansion to satisfy such a dream.":を建てることは不可能じゃないかもしれない」}`
 `{ruby:"......However, let's be realistic.:「……でも、現実的な話。}`
-`{ruby:Would it be possible to house his beloved woman in that hidden mansion for decades without it becoming inconvenient...?":その隠し屋敷に、愛する女性を不自由なく何十年にもわたって住まわせることなんて、可能なのかしら…？」}`
+`{ruby:Would it be possible to house his beloved woman:その隠し屋敷に、愛する女性を不自由なく何十年にもわた}{ruby:in that hidden mansion for decades without it becoming inconvenient...?":って住まわせることなんて、可能なのかしら…？」}`
 `{ruby:"......Well,:「……さぁ。}`
-`{ruby:if there was love, it could have been possible, right?":愛さえあれば可能なんじゃない？」}`
-`{ruby:"Think about the facilities needed to let his beloved woman live healthily.:「愛する女性が健やかに過ごせるような設備よ。}`
+`{ruby:if there was love, it:愛さえあれば可能な}{ruby:could have been possible, right?":んじゃない？」}`
+`{ruby:"Think about the facilities needed to:「愛する女性が健やかに過}{ruby:let his beloved woman live healthily.:ごせるような設備よ。}`
 `{ruby:......And how Father would do it.:……それもお父さんなりのね。}`
-`{ruby:For example, even if it was on a small scale, it would have to be an intricate and pleasant residence.":それはたとえ、規模が小さかったとしても、趣向を凝らした快適な邸宅に違いない」}`
-`{ruby:"And, in terms of upkeep, it would need::「そしてそれを維持するには、}`
+`{ruby:For example, even if it was on a small scale,:それはたとえ、規模が小さかったとしても、}{ruby:it would have to be an intricate and pleasant residence.":趣向を凝らした快適な邸宅に違いない」}`
+`{ruby:"And, in terms of:「そしてそれを維}{ruby:upkeep, it would need::持するには、}`
 `{ruby:electricity,:電気、}`
 `{ruby:gas,:ガス、}`
 `{ruby:running water.:水道。}`
-`{ruby:As well as possibly some people to help her.:あるいは身の回りの世話に人間も必要かもしれない。}`
-`{ruby:Even providing for her meals would be quite difficult.":食事の世話だって大変でしょうね」}`
-`{ruby:"She would need clothes and makeup, daily necessities.:「衣服や化粧品、日用品。}`
-`{ruby:...The needs of a woman aren't simple.:…女の身の回りは簡単じゃないわ。}`
-`{ruby:......Would it be possible to maintain all of that without any of the family or the servants noticing?":……それだけのものを、家人にも使用人にも悟らせずに維持することって、可能なのかしら」}`
-`{ruby:"............When you say it that way, it sure sounds like a weak point in our theory.:「…………そこまで言われると確かに弱いな。}`
-`{ruby:...But that isn't enough to get rid of my feeling that Dad might have been able to pull it off anyway.:…だがそれでも、親父ならやってのけるかも知れんという気持ちは残る。}`
+`{ruby:As well as possibly:あるいは身の回りの世話に人}{ruby:some people to help her.:間も必要かもしれない。}`
+`{ruby:Even providing for her:食事の世話だって大}{ruby:meals would be quite difficult.":変でしょうね」}`
+`{ruby:"She would need clothes:「衣服や化粧品}{ruby:and makeup, daily necessities.:、日用品。}`
+`{ruby:...The needs of:…女の身の回りは簡}{ruby:a woman aren't simple.:単じゃないわ。}`
+`{ruby:......Would it be possible to maintain all of that:……それだけのものを、家人にも使用人にも悟ら}{ruby:without any of the family or the servants noticing?":せずに維持することって、可能なのかしら」}`
+`{ruby:"............When you say it that way, it sure:「…………そこまで言われ}{ruby:sounds like a weak point in our theory.:ると確かに弱いな。}`
+`{ruby:...But that isn't enough to get rid of my feeling:…だがそれでも、親父ならやってのける}{ruby:that Dad might have been able to pull it off anyway.:かも知れんという気持ちは残る。}`
 `{ruby:...After all, it is Dad.":…何しろ、あの親父だからな」}`
 `{ruby:"That's right.:「そうね。}`
 `{ruby:...It is Father.":…あのお父様だものね」}`
-`{ruby:"When Father had something he wanted to succeed in, he would succeed no matter what.:「お父様は、やり遂げることは何があってもやり遂げます。}`
-`{ruby:...Saying that it would be difficult for a normal person and is therefore impossible...doesn't apply when it comes to Father.":…常人には難しいから無理だろうという理由は、お父様に関してだけは当てはまらないでしょう」}`
+`{ruby:"When Father had something he wanted to:「お父様は、やり遂げることは何}{ruby:succeed in, he would succeed no matter what.:があってもやり遂げます。}`
+`{ruby:...Saying that it would be difficult for a normal person:…常人には難しいから無理だろうという理由は、お}{ruby:and is therefore impossible...doesn't apply when it comes to Father.":父様に関してだけは当てはまらないでしょう」}`
 `{ruby:"Yes.:「うむ。}`
-`{ruby:You should never underestimate Father.:親父殿に関してだけは、見くびらん方がいい。}`
-`{ruby:......Dad's madness can't be understood by normal people.":……親父の凶気は、常人の思考では理解にも及ばん」}`
-`{ruby:I wouldn't put it past {i:the} Ushiromiya Kinzo.:“あの”金蔵ならやりかねない。}`
-`{ruby:...As long as that word could accompany his name, a considerable amount of credibility dwelled in any story, no matter how absurd.:…この枕詞が付く限り、どんな荒唐無稽な話にも少なからずの信憑性が宿った。}`
-`{ruby:However, that didn't shake the importance of what Kyrie had said.:しかし、それでも霧江の言い分は揺るぐものではない。}`
-`{ruby:This was different from stealthily raising a kitten in a cardboard box and keeping it a secret from your parents.:こっそりと、親に内緒で段ボール箱に猫を飼うのとはわけが違う。}`
-`{ruby:Taking care of a person in secret over a period of thirty years would be an incalculably massive task...:人間ひとりを３０年にもわたって秘密に世話するなんて、その手間は計り知れないくらいに膨大だろう…。}`
-`{ruby:"......The legend of Father's gold started before he gained possession of Rokkenjima.:「……お父さんの黄金伝説は、六軒島を取得する前からや。}`
-`{ruby:That would mean he and his mistress go back over thirty years...":となると、その愛人との縁は３０年以上ということになるな…」}`
+`{ruby:You should:親父殿に関してだけは、見}{ruby:never underestimate Father.:くびらん方がいい。}`
+`{ruby:......Dad's madness can't be:……親父の凶気は、常人の思}{ruby:understood by normal people.":考では理解にも及ばん」}`
+`{ruby:I wouldn't put it:“あの”金蔵ならや}{ruby:past {i:the} Ushiromiya Kinzo.:りかねない。}`
+`{ruby:...As long as that word could accompany his name, a considerable:…この枕詞が付く限り、どんな荒唐無稽な}{ruby:amount of credibility dwelled in any story, no matter how absurd.:話にも少なからずの信憑性が宿った。}`
+`{ruby:However, that didn't shake the:しかし、それでも霧江の言い分}{ruby:importance of what Kyrie had said.:は揺るぐものではない。}`
+`{ruby:This was different from stealthily raising a kitten in a:こっそりと、親に内緒で段ボール箱}{ruby:cardboard box and keeping it a secret from your parents.:に猫を飼うのとはわけが違う。}`
+`{ruby:Taking care of a person in secret over a:人間ひとりを３０年にもわたって秘密に世話するなんて}{ruby:period of thirty years would be an incalculably massive task...:、その手間は計り知れないくらいに膨大だろう…。}`
+`{ruby:"......The legend of Father's gold started:「……お父さんの黄金伝説は、六}{ruby:before he gained possession of Rokkenjima.:軒島を取得する前からや。}`
+`{ruby:That would mean he and his:となると、その愛人との縁は３０年}{ruby:mistress go back over thirty years...":以上ということになるな…」}`
 `{ruby:"How old would that make her?:「ってことは、今いくつなんや？}`
-`{ruby:In the worst case, she could be as old as us or older, right?":下手をしたら、わしらと同じかそれ以上の年齢とちゃうか？」}`
-`{ruby:"...By that age, the body starts to break down.:「…体にもボロが出る年頃のはずや。}`
-`{ruby:I don't care what the mansion's like, I couldn't call livin' in a place where people's eyes can't reach, almost as though she were under house arrest, agreeable...":どんな屋敷か知らんが、人目に触れんような、ほとんど軟禁に近い生活は、そう快適とは言えんやろなぁ…」}`
+`{ruby:In the worst case, she could be:下手をしたら、わしらと同じかそ}{ruby:as old as us or older, right?":れ以上の年齢とちゃうか？」}`
+`{ruby:"...By that age, the:「…体にもボロが出る}{ruby:body starts to break down.:年頃のはずや。}`
+`{ruby:I don't care what the mansion's like, I couldn't call livin' in a place:どんな屋敷か知らんが、人目に触れんような、ほとんど軟}{ruby:where people's eyes can't reach, almost as though she were under house arrest, agreeable...":禁に近い生活は、そう快適とは言えんやろなぁ…」}`
 `{ruby:"That's right.:「そうね。}`
-`{ruby:...If what Father told us about {f:5:Beatrice} is true, then that relationship has lasted for over thirty years.":…お父様が語るベアトリーチェについての話が正しいなら、その縁は３０年以上」}`
-`{ruby:"......She might have been a charming young woman at the time, but it is probably appropriate to think that she's now an old bag like us.:「……当時は魅惑的な若い女性だったかもしれないけど、今は私たちと同格の、タフな食えない女と考えるのが妥当でしょうね。}`
-`{ruby:I can easily imagine that, given the contents of that letter.":手紙の内容からもそれは容易に想像できるわ」}`
+`{ruby:...If what Father told us about {f:5:Beatrice} is true,:…お父様が語るベアトリーチェについての話}{ruby:then that relationship has lasted for over thirty years.":が正しいなら、その縁は３０年以上」}`
+`{ruby:"......She might have been a charming young woman at the time, but it:「……当時は魅惑的な若い女性だったかもしれないけど、今は私た}{ruby:is probably appropriate to think that she's now an old bag like us.:ちと同格の、タフな食えない女と考えるのが妥当でしょうね。}`
+`{ruby:I can easily imagine that,:手紙の内容からもそれは容}{ruby:given the contents of that letter.":易に想像できるわ」}`
 `{ruby:"You should talk.:「お前が言うか。}`
 `{ruby:*cackle*cackle*.":くっくっく」}`
-`{ruby:Krauss laughed, as though blind to his own shortcomings.:自分のことを棚に上げて、とでも言うように蔵臼が笑う。}`
-`{ruby:Of course, Eva was offended, but she didn't strike back.:絵羽はもちろんカチンと来たようだが、買い言葉は返さなかった。}`
+`{ruby:Krauss laughed, as though:自分のことを棚に上げて、とで}{ruby:blind to his own shortcomings.:も言うように蔵臼が笑う。}`
+`{ruby:Of course, Eva was offended,:絵羽はもちろんカチンと来たようだ}{ruby:but she didn't strike back.:が、買い言葉は返さなかった。}`
 `{ruby:"Quit it, Aniki.:「よせよ兄貴。}`
-`{ruby:......So if everything we imagine is true, she should want to throw out her chest with pride and join in on Dad's inheritance problem.":……そして俺たちの想像が本当なら、親父の遺産問題に彼女は胸を張って参加したいはずなんだ」}`
-`{ruby:"I mean, ...there's a good chance that this love was mutual, unlike with Mom.:「何しろ、…お袋と違い、相思相愛だった可能性が高いからな。}`
-`{ruby:She might have been aware she was his mistress, and yet at the same time, felt a kind of pride as his real wife.":本人には、愛人の自覚と同時に、正妻としての誇りもあるかもしれない」}`
-`{ruby:".........That is an insult to Mother.":「………それはお母様への侮辱に当たりますよ」}`
+`{ruby:......So if everything we imagine is true, she should want to throw:……そして俺たちの想像が本当なら、親父の遺産問}{ruby:out her chest with pride and join in on Dad's inheritance problem.":題に彼女は胸を張って参加したいはずなんだ」}`
+`{ruby:"I mean, ...there's a good chance that:「何しろ、…お袋と違い、相思相愛}{ruby:this love was mutual, unlike with Mom.:だった可能性が高いからな。}`
+`{ruby:She might have been aware she was his mistress, and yet at:本人には、愛人の自覚と同時に、正妻と}{ruby:the same time, felt a kind of pride as his real wife.":しての誇りもあるかもしれない」}`
+`{ruby:".........That is an:「………それはお母様への}{ruby:insult to Mother.":侮辱に当たりますよ」}`
 `{ruby:"Yeah, sorry.:「あぁ、すまん。}`
-`{ruby:...But everyone knows it was a political marriage decided by his elder relatives.:…だが、親父とお袋が、親戚の長老たちによる政略結婚だったことは誰もが知ってる。}`
-`{ruby:...Because of that, we can be sure that it wouldn't be odd for Dad to have a mistress.":…だからこそ、親父に愛人がいてもおかしくないと確信できるわけだがな」}`
-`{ruby:The family sank after the Great Kanto Earthquake, and Kinzo was set up as the Ushiromiya family head against his will.:関東大震災でお家が傾き、金蔵は望まずして右代宮家の当主に担ぎ出された。}`
-`{ruby:However, in the beginning, he was influenced strongly by the elder relatives, who treated him like a puppet while they pulled the strings.:しかし、当初の金蔵は、それを傀儡にしようという親戚の長老たちの強い影響下にあり、操り人形も同然だった。}`
-`{ruby:He wasn't permitted to decide anything by himself, not even his marriage partner...:自分では何も決めることが許されず、婚姻の相手すらも拒めなかった…。}`
-`{ruby:......And by his meeting with the Golden Witch {f:5:Beatrice} in those unhappy days,:……金蔵の黄金伝説は、そんな灰色の日々に、}`
-`{ruby:Kinzo's Legend of the Gold was quickly embellished into something dramatic.:黄金の魔女ベアトリーチェに出会うことにより、急にドラマチックなものに彩られていく。}`
+`{ruby:...But everyone knows it was a:…だが、親父とお袋が、親戚の長老たちによる}{ruby:political marriage decided by his elder relatives.:政略結婚だったことは誰もが知ってる。}`
+`{ruby:...Because of that, we can be sure that it:…だからこそ、親父に愛人がいてもおか}{ruby:wouldn't be odd for Dad to have a mistress.":しくないと確信できるわけだがな」}`
+`{ruby:The family sank after the Great Kanto Earthquake, and Kinzo:関東大震災でお家が傾き、金蔵は望まずし}{ruby:was set up as the Ushiromiya family head against his will.:て右代宮家の当主に担ぎ出された。}`
+`{ruby:However, in the beginning, he was influenced strongly by the elder:しかし、当初の金蔵は、それを傀儡にしようという親戚の長}{ruby:relatives, who treated him like a puppet while they pulled the strings.:老たちの強い影響下にあり、操り人形も同然だった。}`
+`{ruby:He wasn't permitted to decide anything:自分では何も決めることが許されず、婚}{ruby:by himself, not even his marriage partner...:姻の相手すらも拒めなかった…。}`
+`{ruby:......And by his meeting with the:……金蔵の黄金伝説は、そ}{ruby:Golden Witch {f:5:Beatrice} in those unhappy days,:んな灰色の日々に、}`
+`{ruby:Kinzo's Legend of the Gold:黄金の魔女ベアトリーチェに出会うことにより、}{ruby:was quickly embellished into something dramatic.:急にドラマチックなものに彩られていく。}`
 `{ruby:In other words,:それはつまり、}`
 `{ruby:...it could mean...:…金蔵が本当に愛する女性に出会った、}`
-`{ruby:that Kinzo met with a woman he really did love.:ということなのかもしれない。}`
+`{ruby:that Kinzo met with a:ということなのか}{ruby:woman he really did love.:もしれない。}`
 `{ruby:If she also knew his whole story,:その経緯を彼女も知るならば、}`
-`{ruby:then even if they weren't marriage partners, it wouldn't have been odd for her to consider herself his true wife, inside her heart.:婚姻関係にはなくても、心の中では正妻の自覚を持っていたとしても何の不思議もない。}`
-`{ruby:...And now, the person registered as his true wife was already dead...:…そして、戸籍上の正妻はもう死んでいる…。}`
-`{ruby:"...In which case, she might be fully intending to encroach on not just the rights to his assets, but the battle over the headship as well.":「…となると、財産権どころか、家督争いにも食い込む気、満々ってことになるで」}`
+`{ruby:then even if they weren't marriage partners, it wouldn't have been:婚姻関係にはなくても、心の中では正妻の自覚}{ruby:odd for her to consider herself his true wife, inside her heart.:を持っていたとしても何の不思議もない。}`
+`{ruby:...And now, the person registered as:…そして、戸籍上の正妻は}{ruby:his true wife was already dead...:もう死んでいる…。}`
+`{ruby:"...In which case, she might be fully intending to encroach on not just:「…となると、財産権どころか、家督争いに}{ruby:the rights to his assets, but the battle over the headship as well.":も食い込む気、満々ってことになるで」}`
 `{ruby:".........I see.:「………なるほどな。}`
-`{ruby:I'm starting to see the purpose of this letter.:この手紙の趣旨が少しだけ見えてきたよ。}`
-`{ruby:The headship to the one who solves the epitaph's riddle...:碑文の謎を解く者に家督を…。}`
+`{ruby:I'm starting to see:この手紙の趣旨が少しだ}{ruby:the purpose of this letter.:け見えてきたよ。}`
+`{ruby:The headship to the one:碑文の謎を解く者}{ruby:who solves the epitaph's riddle...:に家督を…。}`
 `{ruby:So that's what it means.":そういう意味か」}`
-`{ruby:"Even if that mistress obtained a rank within the Ushiromiya family, since she is not a direct relative of Father, she would be inferior to even the children.:「仮に、その愛人が右代宮家に序列を得ていたとしても、その序列はお父様の血を直接引かない以上、子どもに劣る。}`
-`{ruby:...In other words, she would be right below Rosa in rank.:…つまり、序列は楼座より１つ下ね。}`
-`{ruby:That's not a good position to join the battle for the headship.":とても家督争いに加われるようなレベルじゃないわ」}`
+`{ruby:"Even if that mistress obtained a rank within the Ushiromiya family, since she is:「仮に、その愛人が右代宮家に序列を得ていたとしても、その}{ruby:not a direct relative of Father, she would be inferior to even the children.:序列はお父様の血を直接引かない以上、子どもに劣る。}`
+`{ruby:...In other words, she would:…つまり、序列は楼座}{ruby:be right below Rosa in rank.:より１つ下ね。}`
+`{ruby:That's not a good position to:とても家督争いに加われるよ}{ruby:join the battle for the headship.":うなレベルじゃないわ」}`
 `{ruby:"So that's it.:「そういうことか。}`
-`{ruby:...If someone can solve the witch's riddle, they will receive the headship regardless of rank.:…魔女の碑文を解けば、序列に関係なく家督が継げる。}`
-`{ruby:In other words, it is the most advantageous condition that {f:5:Beatrice} could get, since she had no chance whatsoever.":つまり、まったく可能性のないベアトリーチェにとってもっとも有利な条件ってわけだ」}`
-`{ruby:The revival of the Ushiromiya family had been made possible by the gold {f:5:Beatrice} had bestowed.:右代宮家の復興は、ベアトリーチェが黄金を授けたことによって成し遂げられた。}`
-`{ruby:...In other words, the credit belonged to her.:…つまり、彼女の手柄ということになる。}`
-`{ruby:She had built that wealth together with Kinzo, so it was natural that she would have thought of herself as the one who should inherit it...:自分と金蔵の二人で築いた財産なのだから、それを引き継ぐのは自分だと考えるのは自然な流れ…。}`
-`{ruby:It would also be natural for her to despise the thought of giving a single cent to the children of the wife Kinzo had never loved.:愛のない妻から生まれた子どもたちに、ビタ一文譲るものかと考えるのも、これもまた自然な流れだろう。}`
+`{ruby:...If someone can solve the witch's riddle,:…魔女の碑文を解けば、序列に}{ruby:they will receive the headship regardless of rank.:関係なく家督が継げる。}`
+`{ruby:In other words, it is the most advantageous condition:つまり、まったく可能性のないベアトリーチェ}{ruby:that {f:5:Beatrice} could get, since she had no chance whatsoever.":にとってもっとも有利な条件ってわけだ」}`
+`{ruby:The revival of the Ushiromiya family had been:右代宮家の復興は、ベアトリーチェが黄金を}{ruby:made possible by the gold {f:5:Beatrice} had bestowed.:授けたことによって成し遂げられた。}`
+`{ruby:...In other words, the:…つまり、彼女の手柄と}{ruby:credit belonged to her.:いうことになる。}`
+`{ruby:She had built that wealth together with Kinzo, so it was natural that:自分と金蔵の二人で築いた財産なのだから、それを引}{ruby:she would have thought of herself as the one who should inherit it...:き継ぐのは自分だと考えるのは自然な流れ…。}`
+`{ruby:It would also be natural for her to despise the thought of giving:愛のない妻から生まれた子どもたちに、ビタ一文譲るも}{ruby:a single cent to the children of the wife Kinzo had never loved.:のかと考えるのも、これもまた自然な流れだろう。}`
 `{ruby:"H‐how incredibly impertinent...!:「ず、図々しいにもほどがあります…！}`
-`{ruby:Even if this mistress actually existed, for her to fight over the rights to the head's inheritance would be an outrageous action far above her place!:仮に愛人が実在したとしても、当主継承権を争おうなど、身の程を弁えぬ暴挙です！}`
-`{ruby:What disregard for her own place...!":何という身の程知らず…！」}`
-`{ruby:Natsuhi turned red, her fist quivering.:夏妃は真っ赤になって握り拳を振るわせた。}`
-`{ruby:...There were also complicated circumstances behind her entry into the Ushiromiya register.:…彼女もまた、右代宮家への入籍は複雑な事情がある。}`
-`{ruby:{n}Those who knew that understood more or less why she was so angry for the sake of Kinzo's dead wife.:{n}それを知る人間たちは、亡き金蔵の妻の肩を持つ彼女の気持ちを、何となく理解できるのだった。}`
-`{ruby:"...Well, thanks to her outrageous action, we now all have an even chance, right?":「…まぁ、その暴挙のお陰で私たちにも公平にチャンスがあるわけなんだけど、ねぇ？」}`
-`{ruby:"And also, Father has given that outrageous action his silent approval.:「それに、お父様はこの暴挙を黙認されている。}`
-`{ruby:......Will the person who succeeds the Ushiromiya family be his mistress {f:5:Beatrice}, or one of us, who he may not love, but who do carry his blood?:……右代宮家を継ぐのは愛人ベアトリーチェか、愛はなくとも血を受け継ぐ私たちか。}`
-`{ruby:Maybe he wants to make us struggle over that to see who is worthy.":それを争わせて確かめたいというのでしょうね」}`
-`{ruby:As Eva giggled roguishly, Krauss shrugged his shoulders and looked away.:絵羽が悪戯っぽくくすりと笑いかけると、蔵臼は肩を竦めて目線を逸らす。}`
-`{ruby:"......However, since it was the other party that brought up this condition,:「……でも、その条件を向こうが出してきたということは、}`
-`{ruby:I wonder if that means that the other party has a significant advantage.":向こうは充分な勝算があるということじゃないのかしら」}`
+`{ruby:Even if this mistress actually existed, for her to fight over the rights:仮に愛人が実在したとしても、当主継承権を争}{ruby:to the head's inheritance would be an outrageous action far above her place!:おうなど、身の程を弁えぬ暴挙です！}`
+`{ruby:What disregard for:何という身の程知}{ruby:her own place...!":らず…！」}`
+`{ruby:Natsuhi turned red,:夏妃は真っ赤になって握}{ruby:her fist quivering.:り拳を振るわせた。}`
+`{ruby:...There were also complicated circumstances behind:…彼女もまた、右代宮家への入}{ruby:her entry into the Ushiromiya register.:籍は複雑な事情がある。}`
+`{ruby:{n}Those who knew that understood more or less why she:{n}それを知る人間たちは、亡き金蔵の妻の肩を持つ}{ruby:was so angry for the sake of Kinzo's dead wife.:彼女の気持ちを、何となく理解できるのだった。}`
+`{ruby:"...Well, thanks to her outrageous action, we:「…まぁ、その暴挙のお陰で私たちにも公平に}{ruby:now all have an even chance, right?":チャンスがあるわけなんだけど、ねぇ？」}`
+`{ruby:"And also, Father has given:「それに、お父様はこの暴}{ruby:that outrageous action his silent approval.:挙を黙認されている。}`
+`{ruby:......Will the person who succeeds the Ushiromiya family be his mistress {f:5:Beatrice}, or:……右代宮家を継ぐのは愛人ベアトリーチェか}{ruby:one of us, who he may not love, but who do carry his blood?:、愛はなくとも血を受け継ぐ私たちか。}`
+`{ruby:Maybe he wants to make us struggle:それを争わせて確かめたい}{ruby:over that to see who is worthy.":というのでしょうね」}`
+`{ruby:As Eva giggled roguishly, Krauss:絵羽が悪戯っぽくくすりと笑いかけると}{ruby:shrugged his shoulders and looked away.:、蔵臼は肩を竦めて目線を逸らす。}`
+`{ruby:"......However, since it was the other:「……でも、その条件を向こうが}{ruby:party that brought up this condition,:出してきたということは、}`
+`{ruby:I wonder if that means that:向こうは充分な勝算があるとい}{ruby:the other party has a significant advantage.":うことじゃないのかしら」}`
 `{ruby:"Tha‐that's a point, too.:「そ、それもそうや。}`
-`{ruby:...In the first place, if {f:5:Beatrice} meant that letter literally, then she's Father's alchemist.:…第一、ベアトリーチェはあの手紙の文面通りなら、お父さんの顧問錬金術師。}`
-`{ruby:In other words, she's the manager of his gold.:つまり、黄金の管理者や。}`
-`{ruby:It wouldn't be strange at all if she knew where it was hidden, would it?!":その隠し場所を知っていても何の不思議もないやないか！」}`
+`{ruby:...In the first place, if {f:5:Beatrice} meant:…第一、ベアトリーチェはあの手紙の文面}{ruby:that letter literally, then she's Father's alchemist.:通りなら、お父さんの顧問錬金術師。}`
+`{ruby:In other words, she's:つまり、黄金の}{ruby:the manager of his gold.:管理者や。}`
+`{ruby:It wouldn't be strange at all if:その隠し場所を知っていても何の}{ruby:she knew where it was hidden, would it?!":不思議もないやないか！」}`
 `{ruby:"What a bad joke this is.:「こりゃひどい話やで。}`
-`{ruby:It's like she's givin' us a riddle that she knows the answer to!:答えを知っているなぞなぞを出してきたも同じや！}`
-`{ruby:She'll probably show up rudely, say "hey, here's the answer, I'll take the headship now",:これでしゃあしゃあと現れて、これが答えや、家督はいただきやで、なんて言われたら、}`
+`{ruby:It's like she's givin' us a:答えを知っているなぞなぞを}{ruby:riddle that she knows the answer to!:出してきたも同じや！}`
+`{ruby:She'll probably show up rudely, say "hey,:これでしゃあしゃあと現れて、これが答えや、家}{ruby:here's the answer, I'll take the headship now",:督はいただきやで、なんて言われたら、}`
 `{ruby:and snatch everythin' away from us!":わしら、全てかっぱらわれちまうわ！」}`
 `{ruby:"........................:「……………………。}`
 `{ruby:...That's right.:…そうね。}`
-`{ruby:The one who sets a riddle always knows the answer.:なぞなぞの出題者は、常に正解を知っているものよ。}`
-`{ruby:There's a good chance that this is all a trap to steal everything from us.":これは、私たちから全てを奪うために作られた罠の可能性が高いわ」}`
-`{ruby:"...If you think about it like that, don't you start to doubt whether she really has the gold in the first place?:「…そこまで考えると、そもそも彼女が本当に黄金を持っているかどうかは怪しいと思わんかね？}`
+`{ruby:The one who sets a:なぞなぞの出題者は、常に正}{ruby:riddle always knows the answer.:解を知っているものよ。}`
+`{ruby:There's a good chance that this is:これは、私たちから全てを奪うために}{ruby:all a trap to steal everything from us.":作られた罠の可能性が高いわ」}`
+`{ruby:"...If you think about it like that, don't you start to:「…そこまで考えると、そもそも彼女が本当に黄金}{ruby:doubt whether she really has the gold in the first place?:を持っているかどうかは怪しいと思わんかね？}`
 `{ruby:Why would she tell us about it?:なぜ我々にその存在を教える。}`
-`{ruby:All she'd have to do would be stay silent and embezzle it.":黙って着服すれば良いものを」}`
+`{ruby:All she'd have to do would:黙って着服すれば}{ruby:be stay silent and embezzle it.":良いものを」}`
 `{ruby:"You're right.:「確かに。}`
 `{ruby:...Doesn't make much sense.":…おかしな話だな」}`
 `{ruby:Indeed, it was just as they said.:確かにその通りだった。}`
-`{ruby:If the epitaph showed the way to where the gold was hidden, why would she challenge them to try to solve it?:碑文が黄金の隠し場所を示しているなら、なぜそれを解いてみろなどと挑発を？}`
-`{ruby:If they actually did solve it, wouldn't the gold all be stolen...?:仮に解かれたら、黄金を奪われてしまうではないか…。}`
-`{ruby:Could it be that this person was trying to stir the siblings up so that they tried to solve the epitaph,:ひょっとして、碑文を解くように焚き付けて、}`
-`{ruby:and would then snatch it up before they did solve it...?:脇から掻っ攫おうと考えているのでは…。}`
+`{ruby:If the epitaph showed the way to where the gold was:碑文が黄金の隠し場所を示しているなら、}{ruby:hidden, why would she challenge them to try to solve it?:なぜそれを解いてみろなどと挑発を？}`
+`{ruby:If they actually did solve it,:仮に解かれたら、黄金を奪われ}{ruby:wouldn't the gold all be stolen...?:てしまうではないか…。}`
+`{ruby:Could it be that this person was trying to stir:ひょっとして、碑文を解く}{ruby:the siblings up so that they tried to solve the epitaph,:ように焚き付けて、}`
+`{ruby:and would then snatch it:脇から掻っ攫おうと考え}{ruby:up before they did solve it...?:ているのでは…。}`
 `{ruby:That was a very reasonable guess.:それは極めて妥当な想像だった。}`
 `{ruby:"............No,:「…………いえ。}`
-`{ruby:if you flip over the chessboard, there might be a pretty good chance that they actually do have the gold.":チェス盤を引っ繰り返して考えれば、黄金を実際に持っている可能性は低くないかもしれない」}`
+`{ruby:if you flip over the chessboard, there might be a:チェス盤を引っ繰り返して考えれば、黄金を実際に}{ruby:pretty good chance that they actually do have the gold.":持っている可能性は低くないかもしれない」}`
 `{ruby:"How can you be so certain?":「どうしてそんなことが断言できるのよぅ？」}`
 `{ruby:"...Wait, Aneki.:「…待て姉貴。}`
 `{ruby:......Kyrie, please keep talking.:……霧江、続きを話してくれ。}`
 `{ruby:Why do you think that?":どうしてそう思うんだ？」}`
-`{ruby:"After all, do they really think that just telling us the answer to the riddle in the witch's epitaph,:「だって、私たちは魔女の碑文なんて言うなぞなぞの答えを教えられたくらいで、}`
-`{ruby:would seriously be enough for us to hand over the headship of the Ushiromiya family?:本気で右代宮家の家督を明け渡す気？}`
-`{ruby:That we'd be so impressed at the answer to the riddle that we'd just give up?":なぞなぞの答えに感服して降参を？」}`
+`{ruby:"After all, do they really think that just telling:「だって、私たちは魔女の碑文なんて言うな}{ruby:us the answer to the riddle in the witch's epitaph,:ぞなぞの答えを教えられたくらいで、}`
+`{ruby:would seriously be enough for us to:本気で右代宮家の家督}{ruby:hand over the headship of the Ushiromiya family?:を明け渡す気？}`
+`{ruby:That we'd be so impressed at the answer:なぞなぞの答えに感服}{ruby:to the riddle that we'd just give up?":して降参を？」}`
 `{ruby:"......Well,:「……そらまぁ、}`
 `{ruby:......that's true.:……それもそうやな。}`
-`{ruby:If they think we'd just give up after bein' told the answer to the riddle,:なぞなぞの答えを教えられたくらいで、わしらがあっさり降参して、}`
-`{ruby:that we'd just say "here you go" and hand it over, they've got another thing comin'.":家督をハイどうぞと渡すかっちゅうたら、そら甘い話やな」}`
+`{ruby:If they think we'd just give up:なぞなぞの答えを教えられたくらいで}{ruby:after bein' told the answer to the riddle,:、わしらがあっさり降参して、}`
+`{ruby:that we'd just say "here you go" and:家督をハイどうぞと渡すかっちゅ}{ruby:hand it over, they've got another thing comin'.":うたら、そら甘い話やな」}`
 `{ruby:"Of course.:「当然です。}`
-`{ruby:The headship of the Ushiromiya family is not something that can be handed over so easily!":右代宮家の家督を、そんな程度のことで譲ることがあるわけがない！」}`
+`{ruby:The headship of the Ushiromiya family is not:右代宮家の家督を、そんな程度のこと}{ruby:something that can be handed over so easily!":で譲ることがあるわけがない！」}`
 `{ruby:"That's it exactly.:「そういうことよ。}`
-`{ruby:No matter how one‐sided a game {f:5:Beatrice} proposes, and even if she splendidly shows us the answer,:いくらベアトリーチェが一方的にこんなゲームを提案しても、そして見事その答えを示して見せたとしても。}`
-`{ruby:there's no way that we'll obediently hand over the headship.":私たちは家督を素直に譲るわけもない」}`
-`{ruby:"......In other words, unless there is something that forcibly compels us to play this game under fair conditions,:「……つまり、私たちがこのゲームに対等な条件で挑まなくてはならないという、強制力がない限り、}`
+`{ruby:No matter how one‐sided a game {f:5:Beatrice} proposes,:いくらベアトリーチェが一方的にこんなゲームを提案して}{ruby:and even if she splendidly shows us the answer,:も、そして見事その答えを示して見せたとしても。}`
+`{ruby:there's no way that we'll:私たちは家督を素直に}{ruby:obediently hand over the headship.":譲るわけもない」}`
+`{ruby:"......In other words, unless there is something that forcibly:「……つまり、私たちがこのゲームに対等な条件で挑}{ruby:compels us to play this game under fair conditions,:まなくてはならないという、強制力がない限り、}`
 `{ruby:this game won't function as a game.":このゲームは成立しないのよ」}`
 `{ruby:"That's right.:「そうだな。}`
-`{ruby:......Unless the losers are {i:forcibly compelled} to hand over the headship, the game doesn't work.":……負けた時、家督を譲ることに{i:強制力を持たせなきゃ}、このゲームは成立しない」}`
-`{ruby:"And what would this compelling force be?:「その強制力というのはどういう意味だね？}`
-`{ruby:Would they bind us in chains and threaten us into handing over the headship?":我々を鎖で縛って、家督を譲るよう脅迫でもしようというのかね？」}`
+`{ruby:......Unless the losers are {i:forcibly compelled} to:……負けた時、家督を譲ることに{i:強制力を}{ruby:hand over the headship, the game doesn't work.":持たせなきゃ}、このゲームは成立しない」}`
+`{ruby:"And what would:「その強制力というのは}{ruby:this compelling force be?:どういう意味だね？}`
+`{ruby:Would they bind us in chains and:我々を鎖で縛って、家督を譲るよう脅}{ruby:threaten us into handing over the headship?":迫でもしようというのかね？」}`
 `{ruby:".........I see.:「………なるほどね。}`
 `{ruby:I get it.:わかったわ。}`
-`{ruby:......They would just have to do something which would make us willingly give up the headship.:……私たちが、喜んで家督を放棄したくなるようにすればいいわけね。}`
+`{ruby:......They would just have to do something which:……私たちが、喜んで家督を放棄した}{ruby:would make us willingly give up the headship.:くなるようにすればいいわけね。}`
 `{ruby:I see.:なるほど。}`
-`{ruby:...Then, yes, certainly, {f:5:Beatrice} would have to be in possession of the ten tons of gold...!":…ならば確かに、ベアトリーチェは１０ｔの黄金を持っていなければならない…！」}`
+`{ruby:...Then, yes, certainly, {f:5:Beatrice} would have to be:…ならば確かに、ベアトリーチェは１０ｔの}{ruby:in possession of the ten tons of gold...!":黄金を持っていなければならない…！」}`
 `{ruby:"R‐right, I get it too!:「そ、そうか、わしにもわかったで！}`
-`{ruby:In other words, ...it's a trade, right?!":つまり、…取り引きっちゅうわけやな？！」}`
+`{ruby:In other words,:つまり、…取り引きっちゅ}{ruby:...it's a trade, right?!":うわけやな？！」}`
 `{ruby:"Huh?:「え？}`
 `{ruby:Wh‐what do you mean...?:ど、どういう意味ですか…。}`
 `{ruby:A trade?:取り引き？}`
 `{ruby:Trade what?!":何を？！」}`
-`{ruby:"The Ushiromiya family headship for the hidden gold.:「右代宮家の家督と隠し黄金をよ。}`
-`{ruby:...{f:5:Beatrice} surely plans to tell us the location of the ten tons of gold, and use that as a bribe to gain the Ushiromiya family headship.":…ベアトリーチェはきっと１０ｔの黄金の所在を明かし、それで右代宮家の家督を買収するつもりなのよ」}`
+`{ruby:"The Ushiromiya family headship:「右代宮家の家督と}{ruby:for the hidden gold.:隠し黄金をよ。}`
+`{ruby:...{f:5:Beatrice} surely plans to tell us the location of the ten tons of:…ベアトリーチェはきっと１０ｔの黄金の所在を明かし}{ruby:gold, and use that as a bribe to gain the Ushiromiya family headship.":、それで右代宮家の家督を買収するつもりなのよ」}`
 `{ruby:"R‐ridiculous!!":「ばッ、馬鹿馬鹿しい！！」}`
-`{ruby:"They want to trade the succession to the glorious Ushiromiya family for...m‐money?!:「栄光ある右代宮家の家督を、…お、お金でやり取りしようというのですか？！}`
+`{ruby:"They want to trade the succession:「栄光ある右代宮家の家督を、…お、お金}{ruby:to the glorious Ushiromiya family for...m‐money?!:でやり取りしようというのですか？！}`
 `{ruby:Blasphemy!!:冒涜です！！}`
-`{ruby:Blasphemy against the Ushiromiya family!!":右代宮家への冒涜ですッ！！」}`
+`{ruby:Blasphemy against:右代宮家への冒涜で}{ruby:the Ushiromiya family!!":すッ！！」}`
 `{ruby:"......Listen without getting mad.:「……怒らずに聞いて。}`
-`{ruby:...About how much wealth does this glorious Ushiromiya family have right now?:…その栄光ある右代宮家には今、どの程度の財産があるの？}`
+`{ruby:...About how much wealth does this:…その栄光ある右代宮家には今、}{ruby:glorious Ushiromiya family have right now?:どの程度の財産があるの？}`
 `{ruby:Are we really that affluent?":私たちはそんなにも裕福なの？」}`
-`{ruby:"Th‐the definition of affluence is not dependent on property.:「ゆ、裕福の定義とは財産で決まるのではありません。}`
+`{ruby:"Th‐the definition of affluence:「ゆ、裕福の定義とは財産で決}{ruby:is not dependent on property.:まるのではありません。}`
 `{ruby:It is about heart!:心の持ちようで決まります！}`
-`{ruby:Of what relevance is our financial situation to—":私たちの財産状況が一体何の、」}`
-`{ruby:Krauss interrupted Natsuhi as she started to go on emotionally.:感情的にまくし立てる夏妃を、蔵臼が制する。}`
-`{ruby:In this situation, the more she went on and on emotionally, the worse it would actually sound for them.:今の状況では、彼女が感情的にまくし立てればまくし立てるほど、それは逆に聞こえた。}`
-`{ruby:".........Myself aside, I have heard that the rest of you are in pretty unfavorable situations right now.":「………私はともかく、お前たちの状況は芳しくないと聞いているよ」}`
+`{ruby:Of what relevance is:私たちの財産状況が}{ruby:our financial situation to—":一体何の、」}`
+`{ruby:Krauss interrupted Natsuhi as she:感情的にまくし立てる夏妃}{ruby:started to go on emotionally.:を、蔵臼が制する。}`
+`{ruby:In this situation, the more she went on and:今の状況では、彼女が感情的にまくし立てれば}{ruby:on emotionally, the worse it would actually sound for them.:まくし立てるほど、それは逆に聞こえた。}`
+`{ruby:".........Myself aside, I have heard that the rest:「………私はともかく、お前たちの状}{ruby:of you are in pretty unfavorable situations right now.":況は芳しくないと聞いているよ」}`
 `{ruby:"Ohhh, really?:「あぁら、そう？}`
-`{ruby:I've heard that your financial situation is extremely unfavorable, actually?":兄さんの財政状況だって、相当に芳しくないと聞いているわよぅ？」}`
-`{ruby:"Repeatedly exchanging collateral for new money to gamble with.:「次々担保に入れて新しい博打の掛け金にして。}`
-`{ruby:Repeatedly dabbling in gamble after gamble, unable to accept your losses.:負けを認めないために次々新しい博打に手を出して。}`
-`{ruby:...If you want to talk about our state of affairs, not one of us here is as impoverished as you, Nii‐san.":…内情の話をしたら、この中で兄さんほど火の車の人間は存在しないわ」}`
+`{ruby:I've heard that your financial:兄さんの財政状況だって、相当に芳し}{ruby:situation is extremely unfavorable, actually?":くないと聞いているわよぅ？」}`
+`{ruby:"Repeatedly exchanging collateral for:「次々担保に入れて新しい}{ruby:new money to gamble with.:博打の掛け金にして。}`
+`{ruby:Repeatedly dabbling in gamble after:負けを認めないために次々新}{ruby:gamble, unable to accept your losses.:しい博打に手を出して。}`
+`{ruby:...If you want to talk about our state of affairs,:…内情の話をしたら、この中で兄さんほ}{ruby:not one of us here is as impoverished as you, Nii‐san.":ど火の車の人間は存在しないわ」}`
 `{ruby:"How much have you lost, Nii‐san?:「どれだけ損失を出してんのよ、兄さんは。}`
 `{ruby:You have no talent!":才能ないのよ！」}`
-`{ruby:"W‐who are you saying has no talent?!!:「だ、誰の才能がないというのですかッ！！}`
+`{ruby:"W‐who are you:「だ、誰の才能がないと}{ruby:saying has no talent?!!:いうのですかッ！！}`
 `{ruby:And impoverished, you say?!!":言うに事欠き、火の車とは！！」}`
-`{ruby:Natsuhi became indignant once again, but Krauss raised his hand again and interrupted her.:再び夏妃が激昂するが、蔵臼もまた再び手を上げてそれを制した。}`
-`{ruby:"......It seems you are making a small mistake.:「……多少の誤解があるようだ。}`
-`{ruby:Business is not something that can be judged based simply on progress.:ビジネスは経過で判断できるものではない。}`
-`{ruby:When someone conducts business with a view to the long‐term as I do,:私のような長期的視野でのビジネスともなると、}`
-`{ruby:it may sometimes appear at a glance that they have suffered some significant short‐term losses.":時に短い単位期間では一見、大きな損失を出しているようにも見えるものだ」}`
+`{ruby:Natsuhi became indignant once again, but Krauss:再び夏妃が激昂するが、蔵臼もまた}{ruby:raised his hand again and interrupted her.:再び手を上げてそれを制した。}`
+`{ruby:"......It seems you are:「……多少の誤解が}{ruby:making a small mistake.:あるようだ。}`
+`{ruby:Business is not something that can:ビジネスは経過で判断で}{ruby:be judged based simply on progress.:きるものではない。}`
+`{ruby:When someone conducts business with a:私のような長期的視野での}{ruby:view to the long‐term as I do,:ビジネスともなると、}`
+`{ruby:it may sometimes appear at a glance:時に短い単位期間では一見、大きな損失を}{ruby:that they have suffered some significant short‐term losses.":出しているようにも見えるものだ」}`
 `{ruby:"Aniki,:「兄貴。}`
 `{ruby:we've been collecting evidence.:裏は取れてんだぜ。}`
-`{ruby:Now is not the time to be putting up a front.":今は見栄を張ってる場合じゃない」}`
-`{ruby:"......So this is what Kyrie is trying to say.:「……つまり霧江はこう言いたいのさ。}`
-`{ruby:......Every last one of us is stuck for money.:……俺たちは全員が全員、カネに困ってる。}`
-`{ruby:And {f:5:Beatrice} has ten tons of gold.":そしてベアトリーチェは１０ｔの黄金を持っている」}`
-`{ruby:"......As the only person who knows the location of the ten tons of gold, {f:5:Beatrice} is planning on using it to force us to sell the position of family head.:「……ベアトリーチェは、自分だけが在り処を知る１０ｔの黄金で、私たちに家督を売らせるつもりなのよ。}`
-`{ruby:...About how much is ten tons of gold worth?":…１０ｔの黄金の価値はどのくらい？」}`
-`{ruby:"As a rough estimate... 2 billion yen?:「ざっと見積もって…、２０億？}`
+`{ruby:Now is not the time:今は見栄を張ってる}{ruby:to be putting up a front.":場合じゃない」}`
+`{ruby:"......So this is what:「……つまり霧江はこ}{ruby:Kyrie is trying to say.:う言いたいのさ。}`
+`{ruby:......Every last one of:……俺たちは全員が全員}{ruby:us is stuck for money.:、カネに困ってる。}`
+`{ruby:And {f:5:Beatrice} has:そしてベアトリーチェは１０}{ruby:ten tons of gold.":ｔの黄金を持っている」}`
+`{ruby:"......As the only person who knows the location of the ten tons of gold, {f:5:Beatrice}:「……ベアトリーチェは、自分だけが在り処を知る１０ｔ}{ruby:is planning on using it to force us to sell the position of family head.:の黄金で、私たちに家督を売らせるつもりなのよ。}`
+`{ruby:...About how much is:…１０ｔの黄金の価値}{ruby:ten tons of gold worth?":はどのくらい？」}`
+`{ruby:"As a rough:「ざっと見積もって}{ruby:estimate... 2 billion yen?:…、２０億？}`
 `{ruby:.........No, 20 billion yen.:………いえ、２００億ね。}`
-`{ruby:If she threw that much our way, we would be jumping with joy to accept her as the successor to the head.":これだけを積まれたら、私たちは歓喜して彼女を次期当主に認めるわ」}`
+`{ruby:If she threw that much our way, we would be jumping:これだけを積まれたら、私たちは歓喜}{ruby:with joy to accept her as the successor to the head.":して彼女を次期当主に認めるわ」}`
 `{ruby:The scene returned to silence.:シンと静まり返る。}`
-`{ruby:Even the rain and the wind sounded louder.:いや、むしろ風雨の音が賑やかにさえ感じた。}`
-`{ruby:...That was probably also the sound of the windstorm that disturbed the insides of their minds...:…それは多分、彼らの心の中を掻き乱す暴風の音でもあるかもしれない…。}`
+`{ruby:Even the rain and:いや、むしろ風雨の音が賑}{ruby:the wind sounded louder.:やかにさえ感じた。}`
+`{ruby:...That was probably also the sound of the:…それは多分、彼らの心の中を掻き乱す}{ruby:windstorm that disturbed the insides of their minds...:暴風の音でもあるかもしれない…。}`
 `{ruby:"............Y‐...you must be joking.:「…………じょ、…冗談じゃないわよ。}`
-`{ruby:...The thought that just because she tossed me a little money...:…多少お金を積まれたくらいで…、}`
-`{ruby:......I'd give up the family headship to some woman of doubtful origin......":……どこの馬の骨とも知れない女に家督を譲るなんて……」}`
+`{ruby:...The thought that just because:…多少お金を積まれ}{ruby:she tossed me a little money...:たくらいで…、}`
+`{ruby:......I'd give up the family headship:……どこの馬の骨とも知れない女}{ruby:to some woman of doubtful origin......":に家督を譲るなんて……」}`
 `{ruby:"Don't talk stupid...!:「アホ抜かせ…！}`
-`{ruby:You weren't even going to succeed Father as head in the first place...!:元々お前に家督なんぞ行かんやないか…！}`
-`{ruby:We have nothin' to lose and money to gain.:わしらは何も失わずに、カネだけをもらえる話やで。}`
-`{ruby:Sure, we'll have to calculate our profit and loss, but it's somethin' worth listenin' to...!":そら、損得勘定は必要やろが、聞くに値する話や…！」}`
-`{ruby:They knew that much of the Ushiromiya family assets had been eaten up by Krauss.:右代宮家の財産は、かなりが蔵臼に食い潰されていることがわかっている。}`
-`{ruby:The dregs that remained of that inheritance...versus the "compensation for being accepted as the head" that {f:5:Beatrice} would pay.:その残り滓の遺産分配と、ベアトリーチェが支払う“家督を認める対価”。}`
-`{ruby:It was a shame, but honestly, the former was less enticing than the latter.:残念だが、前者より後者の方が期待できるというのが本音だった。}`
-`{ruby:"...Well, it probably wouldn't end up as four equal portions.:「…まぁ、四等分とはならねぇだろうな。}`
-`{ruby:Since Aniki would be giving up his position of successor, his portion would have to be larger.:次期当主を降りることになる兄貴に、取り分が多くなるのは止むを得ねぇだろうよ。}`
-`{ruby:...Makes me feel kinda jealous, you know?":…羨ましい話だぜ？」}`
+`{ruby:You weren't even going to succeed:元々お前に家督なんぞ行}{ruby:Father as head in the first place...!:かんやないか…！}`
+`{ruby:We have nothin' to:わしらは何も失わずに、カネだ}{ruby:lose and money to gain.:けをもらえる話やで。}`
+`{ruby:Sure, we'll have to calculate our profit:そら、損得勘定は必要やろが、}{ruby:and loss, but it's somethin' worth listenin' to...!":聞くに値する話や…！」}`
+`{ruby:They knew that much of the Ushiromiya:右代宮家の財産は、かなりが蔵臼に食い}{ruby:family assets had been eaten up by Krauss.:潰されていることがわかっている。}`
+`{ruby:The dregs that remained of that inheritance...versus the "compensation:その残り滓の遺産分配と、ベアトリーチ}{ruby:for being accepted as the head" that {f:5:Beatrice} would pay.:ェが支払う“家督を認める対価”。}`
+`{ruby:It was a shame, but honestly, the:残念だが、前者より後者の方が期待}{ruby:former was less enticing than the latter.:できるというのが本音だった。}`
+`{ruby:"...Well, it probably wouldn't end:「…まぁ、四等分とはな}{ruby:up as four equal portions.:らねぇだろうな。}`
+`{ruby:Since Aniki would be giving up his position:次期当主を降りることになる兄貴に、取り分}{ruby:of successor, his portion would have to be larger.:が多くなるのは止むを得ねぇだろうよ。}`
+`{ruby:...Makes me feel:…羨ましい話}{ruby:kinda jealous, you know?":だぜ？」}`
 `{ruby:".................................":「………………………………」}`
 `{ruby:"Dear...!:「あなた…！}`
-`{ruby:The amount of money isn't the problem, right?!:金額の問題じゃないでしょう？！}`
-`{ruby:Your cowardly younger siblings are trying to sell the glory of the Ushiromiya family for money!:不甲斐ない弟たちは、お金で右代宮家の栄光を売り払うつもりなのですよ？！}`
-`{ruby:Why aren't you displaying your dignity as the eldest son?!":ここで長男の威厳を示さずして何とするのですッ！」}`
+`{ruby:The amount of money:金額の問題じゃない}{ruby:isn't the problem, right?!:でしょう？！}`
+`{ruby:Your cowardly younger siblings are trying to sell:不甲斐ない弟たちは、お金で右代宮家の栄}{ruby:the glory of the Ushiromiya family for money!:光を売り払うつもりなのですよ？！}`
+`{ruby:Why aren't you displaying your:ここで長男の威厳を示さずして}{ruby:dignity as the eldest son?!":何とするのですッ！」}`
 `{ruby:".........Natsuhi.:「………夏妃。}`
 `{ruby:Stay quiet for a while.":しばらく黙っていなさい」}`
 `{ruby:"Dear?!?!":「あなたッ？！？！」}`
 `{ruby:"......This is a dizzying proposal.:「……こりゃあ、くらっと来る話だぜ。}`
-`{ruby:......We were each planning on getting 250 million yen out of Aniki.:……俺たちは兄貴から２億半ずつ引っ張ろうと思ってた。}`
-`{ruby:If the witch would treat us with even ten percent of those ten tons...:もし魔女さまが俺たちに、１０ｔの内の１割も弾んでくれたなら…、}`
+`{ruby:......We were each planning on getting:……俺たちは兄貴から２億半ず}{ruby:250 million yen out of Aniki.:つ引っ張ろうと思ってた。}`
+`{ruby:If the witch would treat us with:もし魔女さまが俺たちに、１０ｔの内}{ruby:even ten percent of those ten tons...:の１割も弾んでくれたなら…、}`
 `{ruby:......ummm—":……えぇと、」}`
 `{ruby:"That's 2 billion.":「２０億ね」}`
 `{ruby:"...Yeah.:「…あぁ。}`
-`{ruby:That would mean she's treating us with ten times our original goal.:俺たちは当初の見積もりの１０倍も弾まれちまうことになる。}`
-`{ruby:That alone would be more than enough for us.:そんだけあれば俺たちは充分だぜ。}`
-`{ruby:......It's not like I have any attachment to the Ushiromiya name.:……どうせ、右代宮なんて名前に未練はねぇんだ。}`
+`{ruby:That would mean she's treating us:俺たちは当初の見積もりの１０倍}{ruby:with ten times our original goal.:も弾まれちまうことになる。}`
+`{ruby:That alone would be:そんだけあれば俺た}{ruby:more than enough for us.:ちは充分だぜ。}`
+`{ruby:......It's not like I have:……どうせ、右代宮なんて名}{ruby:any attachment to the Ushiromiya name.:前に未練はねぇんだ。}`
 `{ruby:I'd be happy to sell it off...":喜んで売っ払ってやらぁ…」}`
-`{ruby:"Even if the full ten tons might be a bit much to expect,:「１０ｔ全てを提供してくれるかは、さすがに皮算用だとしても。}`
-`{ruby:.........I see, it would still be an attractive prospect for us.:………なるほど、私たちにとって魅力的な話になるわね。}`
-`{ruby:...We were trying to form an alliance among the siblings to kick this outsider called {f:5:Beatrice} out.":…私たちは、ベアトリーチェなどという余所者を弾き出すために兄弟同盟を組もうとしていた」}`
+`{ruby:"Even if the full ten tons:「１０ｔ全てを提供してくれるかは}{ruby:might be a bit much to expect,:、さすがに皮算用だとしても。}`
+`{ruby:.........I see, it would still:………なるほど、私たちにとっ}{ruby:be an attractive prospect for us.:て魅力的な話になるわね。}`
+`{ruby:...We were trying to form an alliance among:…私たちは、ベアトリーチェなどという余所者を弾}{ruby:the siblings to kick this outsider called {f:5:Beatrice} out.":き出すために兄弟同盟を組もうとしていた」}`
 `{ruby:"......But, if this is her plan,:「……しかし、彼女の目論みがこうならば、}`
-`{ruby:......it will tear apart the unity between us.:……私たち兄弟の団結はバラバラにされるわ。}`
-`{ruby:...Yes, by this point we can state it clearly.:…えぇ、今こそはっきり断言できる。}`
-`{ruby:......The goal of {f:5:Beatrice}'s letter was to disturb our alliance.":……ベアトリーチェの手紙の目的は、私たちの結束を掻き乱すことなのよ」}`
-`{ruby:If the three younger siblings, who were never going to have any connection with the succession of the headship in the first place,:そもそも当主継承権と関係のない蔵臼以外の兄弟は、}`
-`{ruby:were paid enough money to satisfy them, they would happily accept {f:5:Beatrice} as the next head.:納得できるカネが支払われれば、喜んでベアトリーチェの当主継承を認めるだろう。}`
-`{ruby:So every obstacle to her headship would be removed except for Krauss.:本丸の蔵臼以外の堀は全て埋まるわけだ。}`
-`{ruby:In that case, the negotiations would be one‐on‐one between her and Krauss.:そうなれば、交渉は彼女と蔵臼の一対一になる。}`
-`{ruby:He tried to look strong, but Krauss's financial and political situation was extremely weak.:強気を装ってはいるが、蔵臼の財政状況も非常に悪い。}`
-`{ruby:{n}...He did bluff in front of his siblings, but on the inside, he was probably thinking that it might be alright to enter negotiations depending on the sum of money involved.:{n}…兄弟たちの前では、虚勢を張っているが、内心は、金額次第では交渉に応じても良いと思っているだろう。}`
-`{ruby:In order to bury his losses, Krauss had taken advantage of the fact that Kinzo had shut himself up in his room, and had embezzled Kinzo's personal assets.:蔵臼は損失を埋めるため、金蔵が引き篭もっているのをいい事に、金蔵の個人資産を着服していた。}`
-`{ruby:Therefore, when Kinzo died and the inheritance was distributed, Krauss would be held to account for that.:だから、金蔵が逝去して遺産分配になれば、その責任を追及されることになるだろう。}`
-`{ruby:But if he gave up his seat as the head to {f:5:Beatrice},:しかし、ベアトリーチェに当主の座を譲るなら、}`
-`{ruby:she would also receive the rights to the assets, and as a result, the distribution of the inheritance to the siblings would not occur.:同時に財産権も譲ることになり、その結果、兄弟たちに対する遺産分配は行なわれない。}`
-`{ruby:......In other words, Krauss' embezzlement might not have to be made known to the other siblings...:……つまり、蔵臼の着服は、兄弟たちに知られずに済むかもしれないのだ…。}`
-`{ruby:Of course, the siblings were frightened of Kinzo, but it was doubtful whether they still actually respected him as a father.:兄弟たちは、金蔵を恐れてこそいるが、父としての尊敬の念を今も持っているかは怪しい。}`
-`{ruby:By this time, they each had their own families, their own wealth, and their own lives.:今ではそれぞれが自分の家族を持ち、自分の財産も生活も持っている。}`
-`{ruby:If they were paid enough money in exchange for Rokkenjima, the wrecked remains of Kinzo's dreams,:金蔵の夢の残骸である六軒島と引き換えに、充分なカネが払われるなら、}`
-`{ruby:......there was a significant possibility that they would relinquish the Ushiromiya family name......:……彼らは右代宮家の名を手放す可能性が、充分にあったのだ……。}`
-`{ruby:In other words, {f:5:Beatrice}'s victory was already guaranteed in this "game".:つまり、この“ゲーム”は、すでにベアトリーチェの勝ちで決まっているのだ。}`
-`{ruby:Not as the winner of "{f:5:Beatrice}'s game",:“ベアトリーチェのゲーム”の勝者という意味ではない。}`
-`{ruby:{n}...but as the winner of "Kinzo's game".:{n}…“金蔵のゲーム”の勝者という意味でだ。}`
+`{ruby:......it will tear apart:……私たち兄弟の団結はバ}{ruby:the unity between us.:ラバラにされるわ。}`
+`{ruby:...Yes, by this point:…えぇ、今こそはっき}{ruby:we can state it clearly.:り断言できる。}`
+`{ruby:......The goal of {f:5:Beatrice}'s letter:……ベアトリーチェの手紙の目的は、私}{ruby:was to disturb our alliance.":たちの結束を掻き乱すことなのよ」}`
+`{ruby:If the three younger siblings, who were never going to have:そもそも当主継承権と関係の}{ruby:any connection with the succession of the headship in the first place,:ない蔵臼以外の兄弟は、}`
+`{ruby:were paid enough money to satisfy them, they:納得できるカネが支払われれば、喜んでベア}{ruby:would happily accept {f:5:Beatrice} as the next head.:トリーチェの当主継承を認めるだろう。}`
+`{ruby:So every obstacle to her headship:本丸の蔵臼以外の堀は全}{ruby:would be removed except for Krauss.:て埋まるわけだ。}`
+`{ruby:In that case, the negotiations would:そうなれば、交渉は彼女と}{ruby:be one‐on‐one between her and Krauss.:蔵臼の一対一になる。}`
+`{ruby:He tried to look strong, but Krauss's:強気を装ってはいるが、蔵臼の}{ruby:financial and political situation was extremely weak.:財政状況も非常に悪い。}`
+`{ruby:{n}...He did bluff in front of his siblings, but on the inside, he was probably:{n}…兄弟たちの前では、虚勢を張っているが、内心は、}{ruby:thinking that it might be alright to enter negotiations depending on the sum of money involved.:金額次第では交渉に応じても良いと思っているだろう。}`
+`{ruby:In order to bury his losses, Krauss had taken advantage of the fact that:蔵臼は損失を埋めるため、金蔵が引き篭もっているの}{ruby:Kinzo had shut himself up in his room, and had embezzled Kinzo's personal assets.:をいい事に、金蔵の個人資産を着服していた。}`
+`{ruby:Therefore, when Kinzo died and the inheritance was:だから、金蔵が逝去して遺産分配になれば、そ}{ruby:distributed, Krauss would be held to account for that.:の責任を追及されることになるだろう。}`
+`{ruby:But if he gave up his:しかし、ベアトリーチェに}{ruby:seat as the head to {f:5:Beatrice},:当主の座を譲るなら、}`
+`{ruby:she would also receive the rights to the assets, and as a:同時に財産権も譲ることになり、その結果、兄}{ruby:result, the distribution of the inheritance to the siblings would not occur.:弟たちに対する遺産分配は行なわれない。}`
+`{ruby:......In other words, Krauss' embezzlement might not have:……つまり、蔵臼の着服は、兄弟たちに知}{ruby:to be made known to the other siblings...:られずに済むかもしれないのだ…。}`
+`{ruby:Of course, the siblings were frightened of Kinzo, but it:兄弟たちは、金蔵を恐れてこそいるが、父として}{ruby:was doubtful whether they still actually respected him as a father.:の尊敬の念を今も持っているかは怪しい。}`
+`{ruby:By this time, they each had their own:今ではそれぞれが自分の家族を持ち、}{ruby:families, their own wealth, and their own lives.:自分の財産も生活も持っている。}`
+`{ruby:If they were paid enough money in exchange:金蔵の夢の残骸である六軒島と引き換え}{ruby:for Rokkenjima, the wrecked remains of Kinzo's dreams,:に、充分なカネが払われるなら、}`
+`{ruby:......there was a significant possibility that:……彼らは右代宮家の名を手放す可能}{ruby:they would relinquish the Ushiromiya family name......:性が、充分にあったのだ……。}`
+`{ruby:In other words, {f:5:Beatrice}'s victory:つまり、この“ゲーム”は、すでにベアト}{ruby:was already guaranteed in this "game".:リーチェの勝ちで決まっているのだ。}`
+`{ruby:Not as the:“ベアトリーチェのゲーム”の}{ruby:winner of "{f:5:Beatrice}'s game",:勝者という意味ではない。}`
+`{ruby:{n}...but as the:{n}…“金蔵のゲーム”の}{ruby:winner of "Kinzo's game".:勝者という意味でだ。}`
 `{ruby:...Kinzo had put up the epitaph.:…金蔵は碑文を掲示した。}`
-`{ruby:{n}And to this day, no one had been able to solve it.:{n}そして今日まで誰も解けなかった。}`
+`{ruby:{n}And to this day, no one:{n}そして今日まで誰}{ruby:had been able to solve it.:も解けなかった。}`
 `{ruby:So {f:5:Beatrice} had "solved" it.:だからベアトリーチェが“解いた”。}`
-`{ruby:In other words, this is less of a game and more like {f:5:Beatrice}'s declaration of victory...:ならばつまり、これはゲームというより、ベアトリーチェの勝利宣言のようなものなのか…。}`
-`{ruby:However, Kyrie still felt something was slightly out of place.:しかし、霧江はまだ少し引っ掛かると考えていた。}`
-`{ruby:If this was a declaration of victory, {f:5:Beatrice} would only have to display the gold openly, and state that she would buy the family headship.:もし勝利宣言ならば、勝者らしく、黄金を堂々と示し、家督を買い取ると宣言すればいいだけの話だ。}`
-`{ruby:And yet, even at this late stage, she was explicitly telling the siblings to try to solve the epitaph.:なのに、わざわざこの期に及んで、碑文を解いてみろ、}`
-`{ruby:Why had she set up this "new game", where she agreed to hand over the all of the gold and the right to succeed the head to the person who solved the epitaph?:解けたら家督と黄金を全て引き渡そうと、“新たなゲーム”を仕掛けてくる意味が、どこにあるというのか。}`
-`{ruby:Kyrie tried flipping over the chessboard several times.:霧江は何度かチェス盤を引っ繰り返して考えた。}`
-`{ruby:{n}...Searching for the best strategy that might have guided {f:5:Beatrice} to this line of thinking.:{n}…どういう最善手ならば、その思考に至るのかを探った。}`
-`{ruby:...In the end, ...she reached a single conclusion.:…その末、…ひとつの結論に辿り着く。}`
+`{ruby:In other words, this is less of a:ならばつまり、これはゲームというより、ベアト}{ruby:game and more like {f:5:Beatrice}'s declaration of victory...:リーチェの勝利宣言のようなものなのか…。}`
+`{ruby:However, Kyrie still felt something:しかし、霧江はまだ少し引っ}{ruby:was slightly out of place.:掛かると考えていた。}`
+`{ruby:If this was a declaration of victory, {f:5:Beatrice} would only have to:もし勝利宣言ならば、勝者らしく、黄金を堂々と示し}{ruby:display the gold openly, and state that she would buy the family headship.:、家督を買い取ると宣言すればいいだけの話だ。}`
+`{ruby:And yet, even at this late stage, she was:なのに、わざわざこの期に及ん}{ruby:explicitly telling the siblings to try to solve the epitaph.:で、碑文を解いてみろ、}`
+`{ruby:Why had she set up this "new game", where she agreed to hand over the all:解けたら家督と黄金を全て引き渡そうと、“新たなゲーム}{ruby:of the gold and the right to succeed the head to the person who solved the epitaph?:”を仕掛けてくる意味が、どこにあるというのか。}`
+`{ruby:Kyrie tried flipping over:霧江は何度かチェス盤を引}{ruby:the chessboard several times.:っ繰り返して考えた。}`
+`{ruby:{n}...Searching for the best strategy that might:{n}…どういう最善手ならば、そ}{ruby:have guided {f:5:Beatrice} to this line of thinking.:の思考に至るのかを探った。}`
+`{ruby:...In the end, ...she:…その末、…ひとつの}{ruby:reached a single conclusion.:結論に辿り着く。}`
 `{ruby:"...............Arrogance,:「……………驕り、}`
 `{ruby:...perhaps?:…なのかしら。}`
 `{ruby:Or maybe,:あるいは、}`
 `{ruby:......she's playing......?":……遊び……？」}`
 `{ruby:"...What are you talking about?":「…何の話？」}`
-`{ruby:"The witch sent us a letter of challenge, telling us to try to solve the epitaph.:「魔女は、碑文を解いてみろと私たちに挑戦状を送ったわ。}`
-`{ruby:She might be taking us lightly, thinking we could never solve it.:どうせ解けないだろうと、タカを括ってるでしょうけどね。}`
-`{ruby:......However, there should be at least an extremely small chance that we will solve it.":……でも、何万分の一かの確率で、私たちが解いてしまう可能性もあるはず」}`
-`{ruby:"After all, we have here four of Father's children by blood, right?:「何しろ、ここにはお父さんの血を引く子どもが４人もいるのよ？}`
-`{ruby:Four people related by blood to the questioner, who, if they tried frantically to work together and avoid having those assets stolen from them,:出題者の血縁者が４人も揃い、財産を奪われまいと死に物ぐるいで知恵を出し合ったなら、}`
-`{ruby:might come across the answer of the riddle by chance.":偶然にも謎が解けてしまうこともあるかもしれない」}`
-`{ruby:The reason the witch had a superior position on the negotiations compared to the siblings was that only she knew the location of the hidden gold.:魔女が４兄弟に対し交渉で優位に立てるのは、彼女が唯一、黄金の隠し場所を知っているからだ。}`
-`{ruby:But if that hiding place was exposed to someone other than her, the witch's superior position would crumble.:だがもし、その隠し場所を彼女以外の人間が暴けたなら、魔女の優位は崩れる。}`
-`{ruby:"In short, {f:5:Beatrice} gains nothing but risk by writing this witch's letter of challenge.":「つまり、魔女の手紙に書かれている挑発文は、ベアトリーチェにとってリスクにしかならないのよ」}`
-`{ruby:"......Of course, it might have had the effect of splitting apart the siblings' alliance,:「……確かに、兄弟の連帯を分断するという効果はあったけれど、}`
-`{ruby:but if that was her only goal, why would she take this risk, however slight it might be......?:それを狙うためだけに、わずかとは言えこのようなリスクを……？}`
+`{ruby:"The witch sent us a letter of challenge,:「魔女は、碑文を解いてみろと私}{ruby:telling us to try to solve the epitaph.:たちに挑戦状を送ったわ。}`
+`{ruby:She might be taking us lightly,:どうせ解けないだろうと、タカを}{ruby:thinking we could never solve it.:括ってるでしょうけどね。}`
+`{ruby:......However, there should be at least an:……でも、何万分の一かの確率で、私たち}{ruby:extremely small chance that we will solve it.":が解いてしまう可能性もあるはず」}`
+`{ruby:"After all, we have here four:「何しろ、ここにはお父さんの血を引}{ruby:of Father's children by blood, right?:く子どもが４人もいるのよ？}`
+`{ruby:Four people related by blood to the questioner, who, if they tried:出題者の血縁者が４人も揃い、財産を奪われまい}{ruby:frantically to work together and avoid having those assets stolen from them,:と死に物ぐるいで知恵を出し合ったなら、}`
+`{ruby:might come across the answer:偶然にも謎が解けてしまうこ}{ruby:of the riddle by chance.":ともあるかもしれない」}`
+`{ruby:The reason the witch had a superior position on the negotiations compared to:魔女が４兄弟に対し交渉で優位に立てるのは、彼女}{ruby:the siblings was that only she knew the location of the hidden gold.:が唯一、黄金の隠し場所を知っているからだ。}`
+`{ruby:But if that hiding place was exposed to someone:だがもし、その隠し場所を彼女以外の人間}{ruby:other than her, the witch's superior position would crumble.:が暴けたなら、魔女の優位は崩れる。}`
+`{ruby:"In short, {f:5:Beatrice} gains nothing but risk:「つまり、魔女の手紙に書かれている挑発文は、ベア}{ruby:by writing this witch's letter of challenge.":トリーチェにとってリスクにしかならないのよ」}`
+`{ruby:"......Of course, it might have had the:「……確かに、兄弟の連帯を分断す}{ruby:effect of splitting apart the siblings' alliance,:るという効果はあったけれど、}`
+`{ruby:but if that was her only goal, why would:それを狙うためだけに、わずかとは}{ruby:she take this risk, however slight it might be......?:言えこのようなリスクを……？}`
 `{ruby:I think that's reckless.":私は無用心だと思う」}`
-`{ruby:"...But if you keep in mind a certain type of emotion, it becomes possible to understand that risk.":「…でもね、ある種の感情を念頭に置いた時、このリスクは理解可能になるのよ」}`
+`{ruby:"...But if you keep in mind a certain type:「…でもね、ある種の感情を念頭に置いた時}{ruby:of emotion, it becomes possible to understand that risk.":、このリスクは理解可能になるのよ」}`
 `{ruby:"..................:「………………。}`
-`{ruby:...And you're saying that's arrogance?":…それが、驕りだというの？」}`
+`{ruby:...And you're:…それが、驕りだ}{ruby:saying that's arrogance?":というの？」}`
 `{ruby:"Yes, that's right.:「えぇ、そうよ。}`
-`{ruby:......When people have an overwhelming advantage, they tend to get arrogant.:……圧倒的な優位に立つと、人は驕るわ。}`
-`{ruby:And when they do, they sometimes deliberately take on a small risk, to show off that advantage to the losers.":すると敗者に対し、その優位性をひけらかすために、微小なリスクをわざと背負うことがある」}`
-`{ruby:"......A moderate amount of risk adds a little spice to the joy of victory.:「…適度なリスクは、勝利の喜びを引き立たせるスパイスだもの。}`
-`{ruby:Nothing is as boring as a victory without risk.":リスクなき勝利ほど退屈なものはない」}`
+`{ruby:......When people have an overwhelming:……圧倒的な優位に立つ}{ruby:advantage, they tend to get arrogant.:と、人は驕るわ。}`
+`{ruby:And when they do, they sometimes deliberately take on a:すると敗者に対し、その優位性をひけらかすために}{ruby:small risk, to show off that advantage to the losers.":、微小なリスクをわざと背負うことがある」}`
+`{ruby:"......A moderate amount of risk adds a:「…適度なリスクは、勝利の喜びを}{ruby:little spice to the joy of victory.:引き立たせるスパイスだもの。}`
+`{ruby:Nothing is as boring:リスクなき勝利ほど退}{ruby:as a victory without risk.":屈なものはない」}`
 `{ruby:"...............I understand that.:「……………わかるわ。}`
 `{ruby:I also like that sort of thing.:私もそういうの、好きだもの。}`
 `{ruby:...I understand well.":…よくわかるわ」}`
-`{ruby:"I tried thinking of a few other plausible explanations for the true motive behind {f:5:Beatrice}'s letter,:「ベアトリーチェの手紙の真意を、もっともらしく色々と解釈してみたけれど、}`
-`{ruby:......but I think that this really might be the truth.:……実はこれが真実かもしれない。}`
-`{ruby:......The emotion hidden behind that letter...:……あの手紙の裏に潜む感情は、}`
+`{ruby:"I tried thinking of a few other plausible:「ベアトリーチェの手紙の真意を、もっと}{ruby:explanations for the true motive behind {f:5:Beatrice}'s letter,:もらしく色々と解釈してみたけれど、}`
+`{ruby:......but I think that this:……実はこれが真実}{ruby:really might be the truth.:かもしれない。}`
+`{ruby:......The emotion hidden:……あの手紙の裏に}{ruby:behind that letter...:潜む感情は、}`
 `{ruby:......was arrogance.":………驕りなのよ」}`
 `{ruby:"............Arrogance.":「…………驕り」}`
-`{ruby:"She's trying to throw her weight around, looking down on us, as if there's no way we could figure out such a difficult epitaph.:「難解な碑文が、お前たちに解けるものかと、私たちを見下して威張り散らしたいのよ。}`
-`{ruby:...It might even be possible, if surprising, that the epitaph wasn't written by Father, but by her.":…案外、ひょっとすると、碑文はお父さんじゃなく、彼女が作ったのかもしれないわね」}`
+`{ruby:"She's trying to throw her weight around, looking down on us, as:「難解な碑文が、お前たちに解けるものかと、}{ruby:if there's no way we could figure out such a difficult epitaph.:私たちを見下して威張り散らしたいのよ。}`
+`{ruby:...It might even be possible, if surprising, that:…案外、ひょっとすると、碑文はお父さんじゃ}{ruby:the epitaph wasn't written by Father, but by her.":なく、彼女が作ったのかもしれないわね」}`
 `{ruby:"......Fine by me.:「……上等じゃないの。}`
-`{ruby:......Solve the riddle of the epitaph, she says?":……碑文の謎が解けるか、ですって？」}`
-`{ruby:If only I solved it, I would be made the head, right...?:もしも解いたなら、私を当主にしてくれるのね…？}`
+`{ruby:......Solve the riddle of:……碑文の謎が解ける}{ruby:the epitaph, she says?":か、ですって？」}`
+`{ruby:If only I solved it, I:もしも解いたなら、私を当主}{ruby:would be made the head, right...?:にしてくれるのね…？}`
 `{ruby:...I'll solve it...:…解いてやる…。}`
 `{ruby:I'll accept the witch's challenge.:魔女の挑戦を受けてやるわ。}`
-`{ruby:As if my other braindead siblings could solve it.:他の間抜けな兄弟たちに解けるものか。}`
-`{ruby:I'll solve it by myself, and then I'll prove that I am the one who is fit to succeed the Ushiromiya family......:私ひとりが解いて、私こそが右代宮家を引き継ぐに相応しいということを証明してやるわ……。}`
+`{ruby:As if my other:他の間抜けな兄弟たち}{ruby:braindead siblings could solve it.:に解けるものか。}`
+`{ruby:I'll solve it by myself, and then I'll prove that I:私ひとりが解いて、私こそが右代宮家を引き継ぐに}{ruby:am the one who is fit to succeed the Ushiromiya family......:相応しいということを証明してやるわ……。}`
 `{ruby:"I'll take that challenge.:「その挑戦、乗ったわ。}`
 `{ruby:...I will...:…私が、}`
 `{ruby:solve the riddle......":…謎を解いてやる……」}`

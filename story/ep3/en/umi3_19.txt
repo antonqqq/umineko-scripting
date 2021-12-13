@@ -1,86 +1,86 @@
 `{ruby:"Hahahaha, wahahahaha!:「はっはっはっは、わっはっはっはっは！}`
-`{ruby:I never thought that Lady {f:5:Bernkastel}'s piece would barge in at the very end...!":まさか、最後の最後でベルンカステル卿の駒が乱入してくるとは…！」}`
-`{ruby:"......I searched all over the place for a piece fitting for a game with you.:「……あんたとのゲームに相応しい駒を、ずいぶんあちこち探し回ったの。}`
-`{ruby:......I'm sure that you'll grow to enjoy her.":……きっと気に入ってもらえると思うわ」}`
+`{ruby:I never thought that Lady {f:5:Bernkastel}'s piece:まさか、最後の最後でベルンカステル卿}{ruby:would barge in at the very end...!":の駒が乱入してくるとは…！」}`
+`{ruby:"......I searched all over the place for:「……あんたとのゲームに相応しい駒を}{ruby:a piece fitting for a game with you.:、ずいぶんあちこち探し回ったの。}`
+`{ruby:......I'm sure that you'll:……きっと気に入っても}{ruby:grow to enjoy her.":らえると思うわ」}`
 `{ruby:"What's with that piece?!:「何よあの駒！}`
 `{ruby:Who was that person, who was it?!:誰よあいつ、何者よ！}`
-`{ruby:She didn't say her name! That's not fair!!:名乗らないなんてズルイわよ！！}`
+`{ruby:She didn't say her:名乗らないなんてズ}{ruby:name! That's not fair!!:ルイわよ！！}`
 `{ruby:Hey, don't you think so too?!":ねぇ、あんたもそう思うでしょ？！」}`
 `{ruby:"...I have a general idea.:「…妾は大体察しはついておるが。}`
-`{ruby:......Come on, normally, anyone would know.":……というか、普通、わかるであろう」}`
+`{ruby:......Come on, normally,:……というか、普通、}{ruby:anyone would know.":わかるであろう」}`
 `{ruby:"Normally?!:「普通？！}`
-`{ruby:No we wouldn't, it was that character's first appearance, wasn't it?!:わかんないわよぅ、初登場のキャラでしょ？！}`
-`{ruby:If she doesn't say her name, I won't—the players won't—everyone won't know, right?!":名乗らなかったら私もプレイヤーもみんなわかんないわよ、ねぇ？！」}`
-`{ruby:"............Beato, it's alright if you don't tell her.:「…………ベアト、教えてあげなくていいわよ。}`
+`{ruby:No we wouldn't, it was:わかんないわよぅ、初登場}{ruby:that character's first appearance, wasn't it?!:のキャラでしょ？！}`
+`{ruby:If she doesn't say her name,:名乗らなかったら私もプレイヤーもみん}{ruby:I won't—the players won't—everyone won't know, right?!":なわかんないわよ、ねぇ？！」}`
+`{ruby:"............Beato, it's alright if:「…………ベアト、教えて}{ruby:you don't tell her.:あげなくていいわよ。}`
 `{ruby:See?:ね？}`
 `{ruby:Isn't she a funny kid?":面白い子でしょ？」}`
 `{ruby:"M‐...mm.:「う、…うむ。}`
-`{ruby:......Lady {f:5:Lambdadelta}'s simple‐minded naiveté truly is precious and funny.:……ラムダデルタ卿の天真爛漫にして天然なところは、実に貴重で面白いものである。}`
+`{ruby:......Lady {f:5:Lambdadelta}'s simple‐minded naiveté:……ラムダデルタ卿の天真爛漫にして天然なと}{ruby:truly is precious and funny.:ころは、実に貴重で面白いものである。}`
 `{ruby:......*cackle*cackle*!":……くっくっくっく！」}`
-`{ruby:"Why, why, why I am the only one you won't tell, you meanie!!:「何よ何よ、何で私にだけ教えてくれないのよ、意地悪ぅー！！}`
-`{ruby:Okay, in exchange, I'll teach you a special secret that only I know!:じゃあ、私だけが気付いた、取って置きの秘密を特別に教えてあげるわ！}`
+`{ruby:"Why, why, why I am the:「何よ何よ、何で私にだけ教えてく}{ruby:only one you won't tell, you meanie!!:れないのよ、意地悪ぅー！！}`
+`{ruby:Okay, in exchange, I'll teach you:じゃあ、私だけが気付いた、取って置き}{ruby:a special secret that only I know!:の秘密を特別に教えてあげるわ！}`
 `{ruby:So tell me!":だから教えなさいよ！」}`
 `{ruby:"......Hoh.:「……ほぅ。}`
 `{ruby:A special secret, you say!:取って置きの秘密とな！}`
 `{ruby:Now that, I do want to hear...!":聞きたいぞ聞きたいぞ…！」}`
 `{ruby:"Blehhh!:「べーだ！}`
-`{ruby:If you want me to tell you, first tell me who that woman really was!:教えて欲しかったら、先にあの女の正体を教えるのよ！}`
+`{ruby:If you want me to tell you,:教えて欲しかったら、先にあの}{ruby:first tell me who that woman really was!:女の正体を教えるのよ！}`
 `{ruby:The secret I know sure is awesome!:私の知った秘密はスゴイわよぅ？！}`
-`{ruby:I mean, it's gonna blow you away like finding out that Santa‐san is actually Daddy!":何しろ、サンタさんの正体が実はお父さんだったってくらいスゴイんだからぁ！」}`
+`{ruby:I mean, it's gonna blow you away:何しろ、サンタさんの正体が実はお父さんだ}{ruby:like finding out that Santa‐san is actually Daddy!":ったってくらいスゴイんだからぁ！」}`
 `{ruby:"Huh?:「あら？}`
 `{ruby:*giggle*!:くす！}`
-`{ruby:Oopsie{p:0:☆} Sorry, I'll bet you're so shocked that your world turned upside‐down, right?!:言っちゃったぁ☆　ごめんなさいねぇ、天地が引っ繰り返るくらいびっくりしちゃったでしょう？！}`
+`{ruby:Oopsie{p:0:☆} Sorry, I'll bet you're so:言っちゃったぁ☆　ごめんなさいねぇ、天地が引っ繰}{ruby:shocked that your world turned upside‐down, right?!:り返るくらいびっくりしちゃったでしょう？！}`
 `{ruby:Oh‐hoh‐hoh‐hoh‐ho!":をーっほっほっほっほ！」}`
-`{ruby:".........Your father was the one who came to your place, Lambda?":「………ラムダのとこには、お父さんが来てたの？」}`
-`{ruby:"To my place... Wait, what's that supposed to mean?":「来てたの、ってどーゆう意味よぅ」}`
-`{ruby:"...Lord {f:5:Santa Claus} only visits the homes of children with clean hearts.:「…サンタクロース卿は、心の綺麗な子どものところへしか訪れないのよ。}`
+`{ruby:".........Your father was the one:「………ラムダのとこには、}{ruby:who came to your place, Lambda?":お父さんが来てたの？」}`
+`{ruby:"To my place... Wait,:「来てたの、ってどー}{ruby:what's that supposed to mean?":ゆう意味よぅ」}`
+`{ruby:"...Lord {f:5:Santa Claus} only visits the:「…サンタクロース卿は、心の綺麗な子}{ruby:homes of children with clean hearts.:どものところへしか訪れないのよ。}`
 `{ruby:He didn't come to your place, then?":あんたのとこには来なかったのね？」}`
-`{ruby:"Well, Lord {f:5:Santa Claus} is gracious.:「まぁ、サンタクロース卿は寛大であるからな。}`
-`{ruby:Unless you are a reeeally bad scoundrel, he will give you a present.:よーっぽどの大悪党でもない限り、プレゼントを恵んでくださるぞ。}`
+`{ruby:"Well, Lord {f:5:Santa:「まぁ、サンタクロース卿}{ruby:Claus} is gracious.:は寛大であるからな。}`
+`{ruby:Unless you are a reeeally bad:よーっぽどの大悪党でもない限り、プ}{ruby:scoundrel, he will give you a present.:レゼントを恵んでくださるぞ。}`
 `{ruby:After all, he even gave them to me!":何しろ、妾にもくれたくらいだからな！」}`
-`{ruby:".........As you grow and your heart becomes hardened, he stops coming, doesn't he?:「………成長して心が荒んでくると来なくなるのよね。}`
-`{ruby:How old were you, Beato, when he stopped coming?":ベアトのとこにはいくつくらいまで来てたの？」}`
+`{ruby:".........As you grow and your heart:「………成長して心が荒んでく}{ruby:becomes hardened, he stops coming, doesn't he?:ると来なくなるのよね。}`
+`{ruby:How old were you,:ベアトのとこにはいくつく}{ruby:Beato, when he stopped coming?":らいまで来てたの？」}`
 `{ruby:"Mm.:「うむ。}`
-`{ruby:He stopped coming when I was about twelve.:１２歳くらいまでは来ておったぞ。}`
-`{ruby:My maiden's heart awoke, and I quickly got somewhat embarrassed about Lord {f:5:Santa} coming.":乙女心に目覚めると、急にサンタ卿が来るのが、何だか恥ずかしくなってな」}`
-`{ruby:"After I wrote "Thanks for everything, that's enough.:「“これまでありがとうございました、もう結構です。}`
-`{ruby:So make sure you splurge on the last presents", he stopped coming.:だから最後のプレゼントは奮発してください”と手紙を置いたら、来なくなった。}`
-`{ruby:Oooh, and I was looking forward to it too!:うーむ、ちょっぴり期待したのだがな！}`
-`{ruby:How old were you when he stopped coming, Lady {f:5:Bernkastel}?":ベルンカステル卿はいつくらいまで来ていたのか」}`
+`{ruby:He stopped coming when:１２歳くらいまでは}{ruby:I was about twelve.:来ておったぞ。}`
+`{ruby:My maiden's heart awoke, and I quickly:乙女心に目覚めると、急にサンタ卿が来る}{ruby:got somewhat embarrassed about Lord {f:5:Santa} coming.":のが、何だか恥ずかしくなってな」}`
+`{ruby:"After I wrote "Thanks:「“これまでありがとうござい}{ruby:for everything, that's enough.:ました、もう結構です。}`
+`{ruby:So make sure you splurge on:だから最後のプレゼントは奮発してください}{ruby:the last presents", he stopped coming.:”と手紙を置いたら、来なくなった。}`
+`{ruby:Oooh, and I was:うーむ、ちょっぴり期}{ruby:looking forward to it too!:待したのだがな！}`
+`{ruby:How old were you when:ベルンカステル卿はいつくら}{ruby:he stopped coming, Lady {f:5:Bernkastel}?":いまで来ていたのか」}`
 `{ruby:".........I was pretty wild.:「………私、荒んでたし。}`
 `{ruby:...It happened fairly early.:…結構早かったっけ。}`
 `{ruby:I think when I was about nine.:確か９歳頃ね。}`
-`{ruby:...Something about that beard really irritated me, so I waited in my futon with some sewing scissors ready, thinking I'd cut it off.:…何か、あのヒゲが無性にムカついて、ちょん切ってやろうと、布団の中で裁縫バサミ構えて待ってたの。}`
-`{ruby:............What a cringeworthy age.":…………痛いお年頃よね」}`
-`{ruby:"So, ......Lady {f:5:Lambdadelta}, as long as you can remember, Lord {f:5:Santa Claus} has never come to see you, you say.:「で、……ラムダデルタ卿には、物心ついてからサンタクロース卿がおいでになったことがない、と。}`
-`{ruby:............He usually comes until the last year of elementary school or during middle school.":…………普通は小学校高学年から中学校くらいの間までは来るものであるぞ」}`
-`{ruby:"...Maybe we should have a doctor look at her.:「…ある意味、お医者で見てもらった方がいいわよ。}`
-`{ruby:I hear that maturing too fast can have an adverse effect on the growth of mind and body.:早熟すぎると心身の成長に悪影響があるらしいから。}`
-`{ruby:...Yeah, there's definitely some of those.:…あぁ、確かに出てるわね。}`
+`{ruby:...Something about that beard really irritated me, so I waited in:…何か、あのヒゲが無性にムカついて、ちょん切ってや}{ruby:my futon with some sewing scissors ready, thinking I'd cut it off.:ろうと、布団の中で裁縫バサミ構えて待ってたの。}`
+`{ruby:............What a:…………痛いお}{ruby:cringeworthy age.":年頃よね」}`
+`{ruby:"So, ......Lady {f:5:Lambdadelta}, as long as you can remember, Lord:「で、……ラムダデルタ卿には、物心ついてからサン}{ruby:{f:5:Santa Claus} has never come to see you, you say.:タクロース卿がおいでになったことがない、と。}`
+`{ruby:............He usually comes until the last year:…………普通は小学校高学年から中学校く}{ruby:of elementary school or during middle school.":らいの間までは来るものであるぞ」}`
+`{ruby:"...Maybe we should have:「…ある意味、お医者で見て}{ruby:a doctor look at her.:もらった方がいいわよ。}`
+`{ruby:I hear that maturing too fast can have an:早熟すぎると心身の成長に悪}{ruby:adverse effect on the growth of mind and body.:影響があるらしいから。}`
+`{ruby:...Yeah, there's definitely:…あぁ、確かに出}{ruby:some of those.:てるわね。}`
 `{ruby:...Adverse effects.":悪影響」}`
-`{ruby:"Hey, wh‐what are you guys talking about!!:「んなッ、な、何の話をしてるのよアンタたちはー！！}`
+`{ruby:"Hey, wh‐what are:「んなッ、な、何の話をしてる}{ruby:you guys talking about!!:のよアンタたちはー！！}`
 `{ruby:Gaaaaah!!":むがーー！！」}`
-`{ruby:"*cackle*cackle*cackle*cackle*cackle*!:「くっくくっくくくくくくく！}`
-`{ruby:Wahahahaha, it truly is boisterous when three witches gather!":わっはっはっは、魔女も３人集まれば実に姦しい！」}`
-`{ruby:"......If you're talking about that level of secret, I doubt it's worth listening to.:「……この程度のレベルの秘密じゃ、聞く価値もなさそうね。}`
+`{ruby::「くっくくっくく}{ruby:"*cackle*cackle*cackle*cackle*cackle*!:くくくくく！}`
+`{ruby:Wahahahaha, it truly is:わっはっはっは、魔女も３人集}{ruby:boisterous when three witches gather!":まれば実に姦しい！」}`
+`{ruby:"......If you're talking about that level of:「……この程度のレベルの秘密じ}{ruby:secret, I doubt it's worth listening to.:ゃ、聞く価値もなさそうね。}`
 `{ruby:Can I go now?:私、もう行ってもいい？}`
-`{ruby:I have to prepare for the next game.":次のゲームの準備をしなくちゃならないから」}`
+`{ruby:I have to prepare:次のゲームの準備をしなく}{ruby:for the next game.":ちゃならないから」}`
 `{ruby:"Wha—hey, wait a sec!:「ちょッ、ちょっと待ちなさいよぅ！}`
 `{ruby:Tell me who that woman really was!!":あの女の正体を教えなさいよー！！」}`
-`{ruby:"......Well then, tell me this special secret of yours first.:「……じゃあ、あなたの取って置きの秘密を先に教えなさいよ。}`
-`{ruby:If it's good enough, then I'll tell you.":見合うものだったら教えてあげるわ」}`
+`{ruby:"......Well then, tell me this:「……じゃあ、あなたの取って置き}{ruby:special secret of yours first.:の秘密を先に教えなさいよ。}`
+`{ruby:If it's good enough,:見合うものだったら教}{ruby:then I'll tell you.":えてあげるわ」}`
 `{ruby:"Hoh‐hoh‐hoh‐ho!!:「ほっほっほっほ！！}`
-`{ruby:Alright, I'll tell you, and it really is a special secret, okay?!:いいわよ、教えてあげるわ、取って置きの秘密なんだからぁ！}`
-`{ruby:......Remember, in this game, there was a girl who found the gold and became the new witch, right?":……ほら、今回のゲームで、黄金を見つけて新しい魔女になった子がいたでしょ？」}`
+`{ruby:Alright, I'll tell you, and it:いいわよ、教えてあげるわ、取って}{ruby:really is a special secret, okay?!:置きの秘密なんだからぁ！}`
+`{ruby:......Remember, in this game, there was a girl who:……ほら、今回のゲームで、黄金を見つけて新}{ruby:found the gold and became the new witch, right?":しい魔女になった子がいたでしょ？」}`
 `{ruby:"Mm.:「うむ。}`
-`{ruby:Just what kind of secret could that person have?":あやつに、一体どんな秘密があるというのか？」}`
+`{ruby:Just what kind of:あやつに、一体どんな秘密}{ruby:secret could that person have?":があるというのか？」}`
 `{ruby:"Ehheheheheh!:「うっふふふふふ！}`
-`{ruby:I realized who that girl actually is.:あの子の正体にね、私、気付いちゃったの。}`
+`{ruby:I realized who:あの子の正体にね、私、気}{ruby:that girl actually is.:付いちゃったの。}`
 `{ruby:Does anyone know?:みんなにはわかるかしらぁ？}`
 `{ruby:*giggle*giggle*!:くすくす！}`
-`{ruby:There was a hint in the way she talked.":ヒントはね、喋り方にあったのよぅ」}`
-`{ruby:"Remember, that girl said it a lot, right?:「ほら、あの子、よく口にしてたでしょ？}`
-`{ruby:"Why don't you something foreverrrr?",:ナントカしちゃえばぁ〜？}`
+`{ruby:There was a hint:ヒントはね、喋り方に}{ruby:in the way she talked.":あったのよぅ」}`
+`{ruby:"Remember, that girl said:「ほら、あの子、よく口}{ruby:it a lot, right?:にしてたでしょ？}`
+`{ruby:"Why don't:ナントカしちゃえ}{ruby:you something foreverrrr?",:ばぁ〜？}`
 `{ruby:right?!:って！}`
 `{ruby:Yes, that phrase was the main point!:そう、この語尾がポイントだったのよ！}`
 `{ruby:Foreverrrr?:えばぁ〜？}`
@@ -92,144 +92,144 @@
 `{ruby:Oh‐hoh‐hoh‐hoh‐ho!!":をーっほっほっほっほ！！」}`
 `{ruby:"Hoh...!:「ほぅ…！}`
 `{ruby:I did not notice that!:それは気付かなかった！}`
-`{ruby:...Mngh, to think that there would be a hint in a place like that.":…むぅ、そのようなところにヒントがあったとはな」}`
-`{ruby:"......You're good at playing along with her, Beato.:「……ベアトって付き合いがいいのね。}`
-`{ruby:This kid can get a little full of herself, so don't take it too far.:その子、増長するから程々になさいよ。}`
+`{ruby:...Mngh, to think that there would be:…むぅ、そのようなところにヒ}{ruby:a hint in a place like that.":ントがあったとはな」}`
+`{ruby:"......You're good at playing:「……ベアトって付き}{ruby:along with her, Beato.:合いがいいのね。}`
+`{ruby:This kid can get a little full:その子、増長するから}{ruby:of herself, so don't take it too far.:程々になさいよ。}`
 `{ruby:See you, I'm leaving.":じゃあね、私は席を外すわ」}`
 `{ruby:"Wait, wait!:「ちょっとちょっと！}`
-`{ruby:It's not fair if you just listen to my secret and don't tell me yours!!:私の秘密だけ聞いて、あんたは喋んないなんてズルイわよ！！}`
+`{ruby:It's not fair if you just listen:私の秘密だけ聞いて、あんたは喋ん}{ruby:to my secret and don't tell me yours!!:ないなんてズルイわよ！！}`
 `{ruby:Tell me who she really was!!":あんたもあの女の正体を話しなさいよー！！」}`
-`{ruby:"......Your secret was so incredible that mine just wouldn't match up.:「……あんたの秘密が凄すぎてつり合わないわ。}`
-`{ruby:...So in exchange, I'll tell you my own special secret.:…じゃあ代わりに、私も取って置きの秘密を教えてあげるわ。}`
-`{ruby:I'll tell you the name of the culprit in this game called {i:Higurashi no Naku Koro ni}.":『ひぐらしのなく頃に』ってゲームの、犯人の名前を教えてあげる」}`
+`{ruby:"......Your secret was so incredible:「……あんたの秘密が凄す}{ruby:that mine just wouldn't match up.:ぎてつり合わないわ。}`
+`{ruby:...So in exchange, I'll tell:…じゃあ代わりに、私も取って置}{ruby:you my own special secret.:きの秘密を教えてあげるわ。}`
+`{ruby:I'll tell you the name of the culprit:『ひぐらしのなく頃に』ってゲームの}{ruby:in this game called {i:Higurashi no Naku Koro ni}.":、犯人の名前を教えてあげる」}`
 `{ruby:"Gyaaaaaaaaaaaaaaa, don't tell meee!!:「ぎゃーーーーーッ、言わないでぇ！！}`
 `{ruby:I'm playing it right nowwww!!":私、今プレイしてるとこなのーッ！！」}`
 `{ruby:"......Ahhahahahahhahhahhahhah...:「……あっははははっはっはっは…。}`
 `{ruby:See you, Beato.:じゃあね、ベアト。}`
 `{ruby:The black tea was delicious.:紅茶美味しかったわ。}`
-`{ruby:Oh, about the crackers, though, the repertoire of jam was lacking.:あと、お茶菓子のクラッカーだけど、ジャムのレパートリーが足りないわ。}`
-`{ruby:Get some gochujang chili paste every once in a while.:たまにはコチジャンでも用意しなさい。}`
+`{ruby:Oh, about the crackers, though,:あと、お茶菓子のクラッカーだけど、ジ}{ruby:the repertoire of jam was lacking.:ャムのレパートリーが足りないわ。}`
+`{ruby:Get some gochujang chili paste:たまにはコチジャンで}{ruby:every once in a while.:も用意しなさい。}`
 `{ruby:It goes great with Russian tea.:ロシアンティにもぴったりだし。}`
 `{ruby:Later.":じゃあね」}`
 `{ruby:"I see. Alright.:「そうか、わかったぞ。}`
 `{ruby:I shall try it.:試してみよう。}`
-`{ruby:I shall call for you when the preparations are finished for the next game.:次のゲームの準備が整ったら呼ぼうぞ。}`
-`{ruby:Until then, feel free to draw up a strategy at your leisure.":それまでゆっくり戦略でも練るが良い」}`
+`{ruby:I shall call for you when the:次のゲームの準備が整}{ruby:preparations are finished for the next game.:ったら呼ぼうぞ。}`
+`{ruby:Until then, feel free to draw:それまでゆっくり戦略}{ruby:up a strategy at your leisure.":でも練るが良い」}`
 `{ruby:"Yes, I will.:「えぇ、そうするわ。}`
-`{ruby:This last game was pretty interesting.:今回のゲームはなかなか面白かったわよ。}`
+`{ruby:This last game:今回のゲームはなかなか}{ruby:was pretty interesting.:面白かったわよ。}`
 `{ruby:Later.":じゃあね」}`
 `{ruby:"Heyyy, wait a sec, tell meee!!!":「ちょっとー、待ちなさいよ、教えなさいよー！！！」}`
 `{ruby:"*cackle*cackle*.:「くっくっくっく。}`
 `{ruby:My, my, you two really are close.":いやいや、本当にお二人は仲が良い」}`
 `{ruby:"..............................:「…………………………。}`
 `{ruby:......Yes, that's right.:……えぇ、そうよ。}`
-`{ruby:...Oh, how I love you, {f:5:Bernkastel}.:…あぁ、大好きよベルンカステル。}`
-`{ruby:You could even say I'm in love with you.":愛してるとさえ言ってもいいわ」}`
-`{ruby:"......I want to gouge out her eyes so she can see no one other than me.:「……あの瞳を抉り出して、私以外を映さないようにしてやりたい。}`
-`{ruby:......Oh, wouldn't that just be to die for?:……あぁ、それは本当に素敵よね。}`
-`{ruby:It'd be wonderful to dunk them in black tea.:紅茶に沈めても素敵かもしれない。}`
+`{ruby:...Oh, how I:…あぁ、大好きよベ}{ruby:love you, {f:5:Bernkastel}.:ルンカステル。}`
+`{ruby:You could even say:愛してるとさえ言っ}{ruby:I'm in love with you.":てもいいわ」}`
+`{ruby:"......I want to gouge out her eyes so:「……あの瞳を抉り出して、私以外を}{ruby:she can see no one other than me.:映さないようにしてやりたい。}`
+`{ruby:......Oh, wouldn't that just:……あぁ、それは本}{ruby:be to die for?:当に素敵よね。}`
+`{ruby:It'd be wonderful to:紅茶に沈めても素敵}{ruby:dunk them in black tea.:かもしれない。}`
 `{ruby:Ahah!":アハ！」}`
-`{ruby:"Who knew she had entranced Lady {f:5:Lambdadelta} to this extent.:「ラムダデルタ卿をここまで夢中にさせるとは。}`
-`{ruby:......It seems I carry a heavy responsibility.:……妾も責任重大であるな。}`
-`{ruby:Still, this last game truly was close!:しかし今回は実に惜しかった！}`
-`{ruby:I was a breath away from defeating Battler.":あと一息で戦人をコロリと行けたものを」}`
+`{ruby:"Who knew she had entranced:「ラムダデルタ卿をここま}{ruby:Lady {f:5:Lambdadelta} to this extent.:で夢中にさせるとは。}`
+`{ruby:......It seems I:……妾も責任重大}{ruby:carry a heavy responsibility.:であるな。}`
+`{ruby:Still, this last:しかし今回は実に}{ruby:game truly was close!:惜しかった！}`
+`{ruby:I was a breath:あと一息で戦人をコロリ}{ruby:away from defeating Battler.":と行けたものを」}`
 `{ruby:"..................Beato.:「………………ベアト。}`
 `{ruby:Can I ask you something?":一個聞いていい？」}`
 `{ruby:"What is it?:「何であるか？}`
 `{ruby:I won't tell you that girl's name.:あの女の名前は教えぬぞ。}`
 `{ruby:*cackle*cackle*!":くっくっくっく！」}`
-`{ruby:"...Just when are you going to stop screwing around?:「…いつまでチャラけてんのよ。}`
-`{ruby:...Do you even have the {i:slightest} intention of winning?":…あんた、勝つ気あんの？」}`
-`{ruby:{f:5:Lambdadelta} threatened her with a low voice that she had never used in front of {f:5:Bernkastel}.:ラムダデルタが、決してベルンカステルの前では口にしたことのない、低い声で凄む。}`
-`{ruby:...It completely blew away the calm atmosphere which had been there until a moment ago.:…それは直前までの、穏やかな空気を全て吹き飛ばした。}`
+`{ruby:"...Just when are you:「…いつまでチャラ}{ruby:going to stop screwing around?:けてんのよ。}`
+`{ruby:...Do you even have:…あんた、勝つ気}{ruby:the {i:slightest} intention of winning?":あんの？」}`
+`{ruby:{f:5:Lambdadelta} threatened her with a low voice that:ラムダデルタが、決してベルンカステルの前で}{ruby:she had never used in front of {f:5:Bernkastel}.:は口にしたことのない、低い声で凄む。}`
+`{ruby:...It completely blew away the calm atmosphere:…それは直前までの、穏やかな}{ruby:which had been there until a moment ago.:空気を全て吹き飛ばした。}`
 `{ruby:".........You know,:「………私はね。}`
-`{ruby:I'm supporting you 'cause you're meant to be a witch who can win against {f:5:Bernkastel}.:ベルンカステルに勝てる魔女ってことで、あんたに肩入れしてんのよ。}`
-`{ruby:If you don't have the power to win against her,:…あんたに、ベルンカステルに勝てる力がないってんなら、}`
-`{ruby:then I'm ready to abandon you at any time, got it......?":いつだって私はあんたなんか見捨てるんだからね……？」}`
+`{ruby:I'm supporting you 'cause you're meant to:ベルンカステルに勝てる魔女ってこと}{ruby:be a witch who can win against {f:5:Bernkastel}.:で、あんたに肩入れしてんのよ。}`
+`{ruby:If you don't have the:…あんたに、ベルンカステルに勝}{ruby:power to win against her,:てる力がないってんなら、}`
+`{ruby:then I'm ready to abandon:いつだって私はあんたなんか見}{ruby:you at any time, got it......?":捨てるんだからね……？」}`
 `{ruby:"...............How scathing.:「……………これは手厳しい。}`
 `{ruby:What about me dissatisfies you?:妾の何がご不満なのか。}`
-`{ruby:...As you know, my game board is perfect.:…卿もご存知の通り、妾のゲーム盤は完璧だ。}`
-`{ruby:Lady {f:5:Bernkastel} will never be able to win...":ベルンカステル卿には決して勝てはせぬ…」}`
+`{ruby:...As you know, my:…卿もご存知の通り、妾の}{ruby:game board is perfect.:ゲーム盤は完璧だ。}`
+`{ruby:Lady {f:5:Bernkastel} will never:ベルンカステル卿には決}{ruby:be able to win...":して勝てはせぬ…」}`
 `{ruby:"Yeah, that's right.:「えぇ、そうよ。}`
 `{ruby:Your board truly is impressive.:あんたのゲーム盤は実に見事よ。}`
-`{ruby:{f:5:Bernkastel} could spend a hundred years,:ベルンカステルが、百年はおろか、}`
-`{ruby:or even a thousand years here, and she would still be unable to win against this game board, it truly is that impressive and perfect.":千年を費やそうとも絶対に勝つことのできない、実に見事な完璧なゲーム盤よ」}`
-`{ruby:"......That's why, in exchange for letting me borrow that, I made you a witch.:「……だから私はそれを借りることの引き換えに、あんたを魔女にしてやったのよ。}`
-`{ruby:.........If I stop being your guardian, you'll immediately go back to being a {y:0:Human}{n:0:human}.:………私があんたの後見人を辞めれば、あんたはすぐにニンゲンに逆戻り。}`
-`{ruby:...Make sure you don't forget that, no matter how much incredible magical power you hold, ......you are nothing more than a temporary witch.":…どんなにすごい魔力を持っていても、…あんたは仮初の魔女でしかないことを、……決して忘れないことよ」}`
+`{ruby:{f:5:Bernkastel} could spend:ベルンカステルが、}{ruby:a hundred years,:百年はおろか、}`
+`{ruby:or even a thousand years here, and she would still be unable:千年を費やそうとも絶対に勝つことのでき}{ruby:to win against this game board, it truly is that impressive and perfect.":ない、実に見事な完璧なゲーム盤よ」}`
+`{ruby:"......That's why, in exchange for letting me:「……だから私はそれを借りることの引き換}{ruby:borrow that, I made you a witch.:えに、あんたを魔女にしてやったのよ。}`
+`{ruby:.........If I stop being your guardian, you'll:………私があんたの後見人を辞めれば、}{ruby:immediately go back to being a {y:0:Human}{n:0:human}.:あんたはすぐにニンゲンに逆戻り。}`
+`{ruby:...Make sure you don't forget that, no matter how much incredible:…どんなにすごい魔力を持っていても、…あんたは仮初の}{ruby:magical power you hold, ......you are nothing more than a temporary witch.":魔女でしかないことを、……決して忘れないことよ」}`
 `{ruby:"I, ......I know that.:「わ、……わかっておるわ。}`
 `{ruby:...I am grateful to you...":…そなたには感謝しておる…」}`
 `{ruby:"Don't speak so casually.:「タメ口聞かないでよ。}`
-`{ruby:I'll forgive that when {f:5:Bernkastel}'s around, but I won't when she isn't.:ベルンカステルがいる時は許すけど、いない時は許さないわ。}`
-`{ruby:Recently, maybe you've forgotten your debt to me.":あんた、最近、私の恩を忘れてるでしょ」}`
-`{ruby:"Th‐that is, .........n‐...not, ......not so, my Lady......":「そ、そんなことは、………あ、…あり、……ありません……」}`
-`{ruby:"...Aah, changed my mind, that creeps me out.:「…あー、やっぱ気持ち悪いわ。}`
+`{ruby:I'll forgive that when {f:5:Bernkastel}'s around,:ベルンカステルがいる時は許すけ}{ruby:but I won't when she isn't.:ど、いない時は許さないわ。}`
+`{ruby:Recently, maybe you've forgotten:あんた、最近、私の恩を}{ruby:your debt to me.":忘れてるでしょ」}`
+`{ruby:"Th‐that is, .........n‐...not,:「そ、そんなことは、………あ、…}{ruby:......not so, my Lady......":あり、……ありません……」}`
+`{ruby:"...Aah, changed my mind,:「…あー、やっぱ気}{ruby:that creeps me out.:持ち悪いわ。}`
 `{ruby:You can talk the same way as usual.:いつもの喋り方でいい。}`
 `{ruby:But be mindful of what you say.:でも、口の利き方には注意してよ。}`
-`{ruby:......I have a surprisingly short temper, you see?":……私、案外短気よ？」}`
+`{ruby:......I have a surprisingly:……私、案外短}{ruby:short temper, you see?":気よ？」}`
 `{ruby:"M‐......mm......":「う、……うむ……」}`
 `{ruby:"Back to the point.:「話を戻すわ。}`
 `{ruby:...Your game board truly is perfect.:…あんたのゲーム盤は実に完璧。}`
-`{ruby:......You should be able to defeat {f:5:Bernkastel} without any trouble.:……ベルンカステルを容易に負かすことができるでしょうよ。}`
-`{ruby:...But that kid won't give in easily.:…しかしあの子は簡単に屈服しない。}`
+`{ruby:......You should be able to:……ベルンカステルを容易に負か}{ruby:defeat {f:5:Bernkastel} without any trouble.:すことができるでしょうよ。}`
+`{ruby:...But that kid:…しかしあの子は簡単}{ruby:won't give in easily.:に屈服しない。}`
 `{ruby:She'll challenge you over and over.":何度でも挑んでくるわ」}`
 `{ruby:"That is no problem.:「問題はない。}`
-`{ruby:...It has been certified by you, Lady {f:5:Lambdadelta}.:…ラムダデルタ卿のお墨付きではないか。}`
+`{ruby:...It has been certified:…ラムダデルタ卿のお墨}{ruby:by you, Lady {f:5:Lambdadelta}.:付きではないか。}`
 `{ruby:......My game board is perfect.":……妾のゲーム盤は完璧だ」}`
 `{ruby:"Yeah, that's right, it's perfect.:「えぇ、そうよ、完璧よ。}`
-`{ruby:............So long as you, the player, are perfect as well, that is?":…………プレイヤーである、あんたも完璧ならね？」}`
-`{ruby:".........I don't understand what you mean by this...":「………それは、どういう意味か…」}`
+`{ruby:............So long as you, the player,:…………プレイヤーである、}{ruby:are perfect as well, that is?":あんたも完璧ならね？」}`
+`{ruby:".........I don't understand what:「………それは、どう}{ruby:you mean by this...":いう意味か…」}`
 `{ruby:"What {i:I} mean by this...?:「どういう意味？}`
-`{ruby:That's what {i:I} want to ask {i:you}.:私が聞きたいくらいよ。}`
-`{ruby:.........You play around a lot in your games.:………あんたのゲームには、遊びが多い。}`
-`{ruby:...At first, I thought it was part of your tactics, because it would completely baffle {f:5:Bernkastel} from time to time.":…それは時にベルンカステルを煙に巻くから、あんたなりの策略なんだと、私も最初は思ってた」}`
-`{ruby:"............But I get the feeling that's not quite true.:「…………でも、何だか違う気がするの。}`
-`{ruby:You're not playing around in a match you know you can win,:あんた、勝てる試合を弄んでるんじゃなくて、}`
-`{ruby:......the truth is, you don't care whether you win or lose, do you?":……勝っても負けても、どうでもいいって思ってるんじゃないの？」}`
+`{ruby:That's what {i:I}:私が聞きたいく}{ruby:want to ask {i:you}.:らいよ。}`
+`{ruby:.........You play around a:………あんたのゲームに}{ruby:lot in your games.:は、遊びが多い。}`
+`{ruby:...At first, I thought it was part of your tactics,:…それは時にベルンカステルを煙に巻くから、あん}{ruby:because it would completely baffle {f:5:Bernkastel} from time to time.":たなりの策略なんだと、私も最初は思ってた」}`
+`{ruby:"............But I get the:「…………でも、何だか}{ruby:feeling that's not quite true.:違う気がするの。}`
+`{ruby:You're not playing around in a:あんた、勝てる試合を弄ん}{ruby:match you know you can win,:でるんじゃなくて、}`
+`{ruby:......the truth is, you don't care:……勝っても負けても、どうでもいい}{ruby:whether you win or lose, do you?":って思ってるんじゃないの？」}`
 `{ruby:"R‐......ridiculous...:「ば、……馬鹿馬鹿しい…。}`
 `{ruby:How could that be...":そんなこと、あるわけもなかろうが…」}`
 `{ruby:"Listen close, okay?:「いいこと？}`
-`{ruby:Your role is to break {f:5:Bernkastel}, force her to yield.:あんたの役目は、ベルンカステルを屈服させることよ。}`
-`{ruby:In other words, that means being the victor in this game for all eternity.:つまりゲームに、永遠に勝者でいること。}`
-`{ruby:......As long as you keep trying to become the {i:certain} victor, then I will give you my power as the Witch of Certainty.:……あなたが“絶対”の勝者であり続けようとする限り、私は絶対の魔女として、あなたに力を与えるわ。}`
+`{ruby:Your role is to break:あんたの役目は、ベルンカステ}{ruby:{f:5:Bernkastel}, force her to yield.:ルを屈服させることよ。}`
+`{ruby:In other words, that means being the:つまりゲームに、永遠に}{ruby:victor in this game for all eternity.:勝者でいること。}`
+`{ruby:......As long as you keep trying to become the {i:certain} victor,:……あなたが“絶対”の勝者であり続けようとする限り}{ruby:then I will give you my power as the Witch of Certainty.:、私は絶対の魔女として、あなたに力を与えるわ。}`
 `{ruby:............However.":…………でも」}`
-`{ruby:"If you fight in a way that doesn't deny any possibility of your loss,:「もしもあなたが、自らの敗北の可能性を否定しないような戦い方をしているなら、}`
+`{ruby:"If you fight in a way that:「もしもあなたが、自らの敗北の可能性を否}{ruby:doesn't deny any possibility of your loss,:定しないような戦い方をしているなら、}`
 `{ruby:...that's a different story.":…話は変わるわよ」}`
 `{ruby:"This is a game, of course...:「もちろん、これはゲームである…。}`
-`{ruby:In the same way that Lady {f:5:Bernkastel} will lose if I win,:妾が勝てばベルンカステル卿が負けるように。}`
-`{ruby:...there will be some days on which I will lose and she will win.:…向こうが勝てば妾が負ける日もあるだろう。}`
-`{ruby:The possibility of loss always exists.:常に敗北の可能性はありうる。}`
+`{ruby:In the same way that Lady:妾が勝てばベルンカステル}{ruby:{f:5:Bernkastel} will lose if I win,:卿が負けるように。}`
+`{ruby:...there will be some days on which:…向こうが勝てば妾が負け}{ruby:I will lose and she will win.:る日もあるだろう。}`
+`{ruby:The possibility of:常に敗北の可能性}{ruby:loss always exists.:はありうる。}`
 `{ruby:That is why I—":だからこそ妾は、」}`
-`{ruby:"...............This is why you're useless.:「……………だからアンタは使えないのよ。}`
-`{ruby:There's no need for this to be a game board for you.:あんたはゲーム盤である必要なんかない。}`
-`{ruby:It simply needs to be a bird cage to lock {f:5:Bernkastel} up here for all eternity.":ベルンカステルを、永遠にここに閉じ込める鳥篭でさえあればいいの」}`
+`{ruby:"...............This is:「……………だからアン}{ruby:why you're useless.:タは使えないのよ。}`
+`{ruby:There's no need for this to:あんたはゲーム盤である}{ruby:be a game board for you.:必要なんかない。}`
+`{ruby:It simply needs to be a bird cage:ベルンカステルを、永遠にここに閉じ}{ruby:to lock {f:5:Bernkastel} up here for all eternity.":込める鳥篭でさえあればいいの」}`
 `{ruby:"...What's the role of a bird cage?:「…鳥篭の役目は？}`
-`{ruby:Making certain that the little bird inside never escapes.:中の小鳥を絶対に逃がさないことよ。}`
-`{ruby:......What's a bird cage worth if it has gaps that sometimes let the bird out?":……たまに抜け出せてしまうような、隙間のある鳥篭に何の価値が？」}`
-`{ruby:".........O‐of course, games exist to be won.:「………む、無論、ゲームは勝つ為のもの。}`
+`{ruby:Making certain that the:中の小鳥を絶対に逃が}{ruby:little bird inside never escapes.:さないことよ。}`
+`{ruby:......What's a bird cage worth if it:……たまに抜け出せてしまうような、}{ruby:has gaps that sometimes let the bird out?":隙間のある鳥篭に何の価値が？」}`
+`{ruby:".........O‐of course, games:「………む、無論、ゲー}{ruby:exist to be won.:ムは勝つ為のもの。}`
 `{ruby:So it is impossible for me to lose.:そして妾が負けることはありえぬ。}`
-`{ruby:...Therefore, I will continue to win......:…ゆえに妾は勝ち続けようぞ……。}`
+`{ruby:...Therefore, I will:…ゆえに妾は勝ち続}{ruby:continue to win......:けようぞ……。}`
 `{ruby:...As you wish, for all eternity...":…お望み通り、永遠に…」}`
 `{ruby:"Good answer—that's all I want.:「良い返事よ、それでいいわ。}`
-`{ruby:......I'll allow you to play around and use fakes as part of your tactics.:……策略としての遊びやフェイクは許す。}`
-`{ruby:...It was sometimes effective in this last game.":…今回、有効だったところもあるしね」}`
+`{ruby:......I'll allow you to play around and:……策略としての遊びや}{ruby:use fakes as part of your tactics.:フェイクは許す。}`
+`{ruby:...It was sometimes effective:…今回、有効だったと}{ruby:in this last game.":ころもあるしね」}`
 `{ruby:"............But hear this.:「…………でもね。}`
-`{ruby:If you make a move hoping for anything else other than victory,:もしあなたが、勝ち以外を望むような指し手をしたら、}`
-`{ruby:............make sure you're wonderfully prepared, okay?":…………その時は、素敵な覚悟をなさいよね？」}`
+`{ruby:If you make a move hoping:もしあなたが、勝ち以外を望む}{ruby:for anything else other than victory,:ような指し手をしたら、}`
+`{ruby:............make sure you're:…………その時は、素敵な}{ruby:wonderfully prepared, okay?":覚悟をなさいよね？」}`
 `{ruby:"I, I will not do such a thing...:「そ、そのようなことはせぬ…。}`
 `{ruby:I swear it...!":誓うとも…！」}`
-`{ruby:"............Originally, you weren't even a witch,:「…………元々、魔女ですらないあんたが、本当はどんなにみすぼらしい存在だったか、}`
-`{ruby:and I can remind you what a truly shabby creature you were at any time.:いつだって思い出させてあげるんだから。}`
-`{ruby:............If you betray my expectations...:…………私の期待を裏切ったら。}`
-`{ruby:At that time, I will have a delightful delightful penalty waiting for you.":その時は楽しい楽しい罰ゲームが待ってるわよぅ」}`
-`{ruby:"...Of the billions of fragment worlds out there, ......I'll send you into the most miserable fragment and seal you there.:「…百億のカケラ世界の中から、……もっとも惨めなカケラにあんたを送り込んで封印してあげる。}`
-`{ruby:.........You were miserable in the first place, so it'll be worth choosing a really miserable fragment.:………あんたは、元々が惨めだから、惨めなカケラも実に選び甲斐があるわ。}`
-`{ruby:...*giggle*giggle*giggle*giggle*giggle*.":…くすくすくすくすくすくす」}`
+`{ruby:"............Originally, you weren't:「…………元々、魔女ですらないあんたが、本}{ruby:even a witch,:当はどんなにみすぼらしい存在だったか、}`
+`{ruby:and I can remind you what a:いつだって思い出させて}{ruby:truly shabby creature you were at any time.:あげるんだから。}`
+`{ruby:............If you:…………私の期待を}{ruby:betray my expectations...:裏切ったら。}`
+`{ruby:At that time, I will have:その時は楽しい楽しい罰ゲー}{ruby:a delightful delightful penalty waiting for you.":ムが待ってるわよぅ」}`
+`{ruby:"...Of the billions of fragment worlds out there, ......I'll send:「…百億のカケラ世界の中から、……もっとも惨めな}{ruby:you into the most miserable fragment and seal you there.:カケラにあんたを送り込んで封印してあげる。}`
+`{ruby:.........You were miserable in the first place, so:………あんたは、元々が惨めだから、惨め}{ruby:it'll be worth choosing a really miserable fragment.:なカケラも実に選び甲斐があるわ。}`
+`{ruby::…くすくすくすく}{ruby:...*giggle*giggle*giggle*giggle*giggle*.":すくすくす」}`
 `{ruby:".................................":「………………………………」}`
-`{ruby:"Oh, how I love you, {f:5:Bernkastel}.:「あぁ、愛してるわベルンカステル。}`
-`{ruby:...Scrabble your feet in {f:5:Beatrice}'s bird cage as much as you like,:…ベアトリーチェの鳥篭で、好きなだけ足掻いて、}`
-`{ruby:and spend a thousand years learning that you can no longer escape.":もはや逃れられないことを千年かけて知りなさい」}`
+`{ruby:"Oh, how I:「あぁ、愛してるわベ}{ruby:love you, {f:5:Bernkastel}.:ルンカステル。}`
+`{ruby:...Scrabble your feet in {f:5:Beatrice}'s bird:…ベアトリーチェの鳥篭で、}{ruby:cage as much as you like,:好きなだけ足掻いて、}`
+`{ruby:and spend a thousand years learning:もはや逃れられないことを千}{ruby:that you can no longer escape.":年かけて知りなさい」}`
 `{ruby:"......And when you give in,:「……そしてあなたが屈服したら、}`
-`{ruby:...I'll train you so that you can't tweet in anyone's palm but mine.":…私の手の平でしか鳴けないように、たっぷりと仕込んであげるんだから」}`
-`{ruby:"............*giggle*giggle*giggle*giggle*,:「…………くすくすくすくすくす、}`
-`{ruby:ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!":あっははははははははははははははははは…！！」}`
+`{ruby:...I'll train you so that you:…私の手の平でしか鳴けないように、た}{ruby:can't tweet in anyone's palm but mine.":っぷりと仕込んであげるんだから」}`
+`{ruby::「…………くすくす}{ruby:"............*giggle*giggle*giggle*giggle*,:くすくすくす、}`
+`{ruby::あっはははははははははは}{ruby:ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!":ははははははは…！！」}`

@@ -1,136 +1,136 @@
 `{ruby:"...........................Now then.:「………………………さて。}`
-`{ruby:How will the game be resolved this time?:この度のゲームはどう転ぶのか。}`
-`{ruby:...You may submit, and you may resist.:…委ねるもよし、抗うもよし。}`
-`{ruby:......Either way, it will truly be an entertaining banquet worth betting my short remaining life on.":……いずれにせよ、わしに残されたわずかの命を賭すに値する、実に楽しい宴よ」}`
-`{ruby:In his dimly lit study, which was occasionally brightened by lightning,:金蔵は薄暗い書斎で、時折、稲光に照らされながら、}`
-`{ruby:Kinzo kept mumbling to himself, laughing to himself.:ぶつぶつと独り言を口走っては、それにひとり、笑う。}`
-`{ruby:On the antique clock with an intricate design that was sitting on his desk,:机の上に置かれた、凝った意匠の施されたアンティークの時計は、}`
-`{ruby:the two overlapping hands had begun to tilt to the right, and separate from one another.:重なっていた２本の針を右に傾かせ、ずらし始めている。}`
-`{ruby:The passage of time that had counted to 24 had returned to 0, and begun to start counting again...:２４を数えた時の刻みが０に戻り、再びそれを数え直していた…。}`
-`{ruby:"......The passage of time is a brutal thing.:「……時の刻みとは残酷なものよ。}`
-`{ruby:It drags itself all the way to 24 over the course of a day, and then returns back to 0.:２４を数えるために一日を掛けて辿り着き、そして再び０に戻る。}`
-`{ruby:......It surely managed to count to 23:59.:……２３時５９分までは確かに数えただろう。}`
-`{ruby:However, was it ever able to reach 24:00?:しかし、２４時に辿り着くことはできたのだろうか？}`
-`{ruby:......If you believe that it returns to 0:00 again without reaching it, how futile it seems.":……辿り着けず、再び０時に戻ったと考えれば、それは何とも虚しいことよ」}`
-`{ruby:No, is that not the same as a person's life?:いや、それこそが人の生涯か。}`
-`{ruby:You live, aiming for a perfect 24, and in the instant you reach it, you return to 0.:完全な２４を目指して生き、そこに辿り着いた刹那、０に戻る。}`
-`{ruby:People may praise the departed, saying that they did reach 24, but that is absolutely not 24.:故人は２４に辿り着けたと人々は讃えるだろうが、それは断じて２４ではない。}`
+`{ruby:How will the game:この度のゲームはど}{ruby:be resolved this time?:う転ぶのか。}`
+`{ruby:...You may submit,:…委ねるもよし、}{ruby:and you may resist.:抗うもよし。}`
+`{ruby:......Either way, it will truly be an entertaining:……いずれにせよ、わしに残されたわずかの}{ruby:banquet worth betting my short remaining life on.":命を賭すに値する、実に楽しい宴よ」}`
+`{ruby:In his dimly lit study,:金蔵は薄暗い書斎で、時折、}{ruby:which was occasionally brightened by lightning,:稲光に照らされながら、}`
+`{ruby:Kinzo kept mumbling to:ぶつぶつと独り言を口走っては}{ruby:himself, laughing to himself.:、それにひとり、笑う。}`
+`{ruby:On the antique clock with an intricate:机の上に置かれた、凝った意匠の施}{ruby:design that was sitting on his desk,:されたアンティークの時計は、}`
+`{ruby:the two overlapping hands had begun to tilt:重なっていた２本の針を右に傾}{ruby:to the right, and separate from one another.:かせ、ずらし始めている。}`
+`{ruby:The passage of time that had counted to 24:２４を数えた時の刻みが０に戻り、}{ruby:had returned to 0, and begun to start counting again...:再びそれを数え直していた…。}`
+`{ruby:"......The passage of time:「……時の刻みとは}{ruby:is a brutal thing.:残酷なものよ。}`
+`{ruby:It drags itself all the way to 24 over the:２４を数えるために一日を掛けて辿}{ruby:course of a day, and then returns back to 0.:り着き、そして再び０に戻る。}`
+`{ruby:......It surely managed:……２３時５９分までは確}{ruby:to count to 23:59.:かに数えただろう。}`
+`{ruby:However, was it ever:しかし、２４時に辿り着くこ}{ruby:able to reach 24:00?:とはできたのだろうか？}`
+`{ruby:......If you believe that it returns to 0:00:……辿り着けず、再び０時に戻ったと考え}{ruby:again without reaching it, how futile it seems.":れば、それは何とも虚しいことよ」}`
+`{ruby:No, is that not the:いや、それこそが}{ruby:same as a person's life?:人の生涯か。}`
+`{ruby:You live, aiming for a perfect 24, and in:完全な２４を目指して生き、そこに}{ruby:the instant you reach it, you return to 0.:辿り着いた刹那、０に戻る。}`
+`{ruby:People may praise the departed, saying that they:故人は２４に辿り着けたと人々は讃えるだ}{ruby:did reach 24, but that is absolutely not 24.:ろうが、それは断じて２４ではない。}`
 `{ruby:.........It is nothing more than 0.:………所詮は、０なのだ。}`
 `{ruby:"I am different.:「わしは違うぞ。}`
 `{ruby:......I will reach 24 alive.:……わしは生きて２４に辿り着く。}`
-`{ruby:Because that itself is the Golden Land.:そここそが黄金郷。}`
-`{ruby:...That is {f:5:Beatrice}'s dwelling.":…ベアトリーチェの住処なのだから」}`
-`{ruby:Kinzo had been fumbling around with some tarot cards for some time.:金蔵は先ほどからずっと、タロットカードを弄っていた。}`
-`{ruby:It looked as though he was trying to divine his own luck, his own propensity for victory, and doing it over every time he didn't like the result.:そして己の勝負運を占っては、その結果が気に入らない度にやり直しているように見えた。}`
-`{ruby:The most forbidden action in tarot reading is to try predicting the same thing twice.:タロット占いでもっとも禁じられている行為は、同じことを二度占うことである。}`
-`{ruby:It is a desecration to the result of the fortune telling,:それは占いの結果に対する冒涜であり、}`
-`{ruby:and also desecrates the existence higher than humans which delivers signs through the tarot cards.:タロットを通じて神託を与えてくれる、人より上位の存在への冒涜ともなるのである。}`
+`{ruby:Because that itself:そここそが黄}{ruby:is the Golden Land.:金郷。}`
+`{ruby:...That is:…ベアトリーチェの住}{ruby:{f:5:Beatrice}'s dwelling.":処なのだから」}`
+`{ruby:Kinzo had been fumbling around with:金蔵は先ほどからずっと、タロ}{ruby:some tarot cards for some time.:ットカードを弄っていた。}`
+`{ruby:It looked as though he was trying to divine his own luck, his own:そして己の勝負運を占っては、その結果が気に入}{ruby:propensity for victory, and doing it over every time he didn't like the result.:らない度にやり直しているように見えた。}`
+`{ruby:The most forbidden action in tarot reading:タロット占いでもっとも禁じられている行為}{ruby:is to try predicting the same thing twice.:は、同じことを二度占うことである。}`
+`{ruby:It is a desecration to:それは占いの結果に対}{ruby:the result of the fortune telling,:する冒涜であり、}`
+`{ruby:and also desecrates the existence higher than:タロットを通じて神託を与えてくれる、人より}{ruby:humans which delivers signs through the tarot cards.:上位の存在への冒涜ともなるのである。}`
 `{ruby:However, Kinzo knew.:しかし、金蔵は知っている。}`
-`{ruby:The reason the tarot cards shouldn't be used twice was that, since it was nothing more than a random number generator,:タロットが二度占ってはならないのは、これが単なる乱数発生器でしかないため、}`
-`{ruby:it was natural that if you read them twice, a different result would appear.:二度占えば異なる結果が出るのは当然だからだ。}`
-`{ruby:......Therefore, reading twice was only forbidden to preserve the mystique of the tarot cards' results.:……だから、タロットの結果に神秘性を持たせるために、二度の占いを禁じているに過ぎないのだ。}`
-`{ruby:...However, that didn't mean that Kinzo didn't take tarot reading seriously.:…しかし、だからといって金蔵がタロット占いを馬鹿にしているわけではない。}`
-`{ruby:Kinzo's interpretation of tarot reading was done in a completely different way.:金蔵の解釈によるタロット占いは、まったく別のやり方だった。}`
-`{ruby:That was to repeat the reading, over and over, until he reached the result most favorable to him,:それは、自分の得たい最高の結果が出るまで、一切の妥協なく、}`
-`{ruby:without the slightest amount of compromise.:何度も何度もタロットを繰り返すことだ。}`
-`{ruby:It would depend on how he defined the result most favorable to him,:最高の結果がどの程度のものかの定義にもよるが、}`
-`{ruby:but if he demanded the best result in a strict sense,:厳密な意味での最高の結果を求めたなら、}`
-`{ruby:it would be the same as a simple roulette of luck, where he sought an arithmetic miracle.:それは単なる算数的奇跡を求める運のルーレットと同じになる。}`
-`{ruby:......However, to Kinzo, who made miracles of numbers the basis of his magical power, this could become very much like a magic ritual.:……しかし、数字の奇跡こそを魔力の根源とする金蔵にとって、それは充分、魔法の儀式となり得た。}`
+`{ruby:The reason the tarot cards shouldn't be used twice was:タロットが二度占ってはならないのは、これ}{ruby:that, since it was nothing more than a random number generator,:が単なる乱数発生器でしかないため、}`
+`{ruby:it was natural that if you read:二度占えば異なる結果が出}{ruby:them twice, a different result would appear.:るのは当然だからだ。}`
+`{ruby:......Therefore, reading twice was only forbidden to:……だから、タロットの結果に神秘性を持たせるため}{ruby:preserve the mystique of the tarot cards' results.:に、二度の占いを禁じているに過ぎないのだ。}`
+`{ruby:...However, that didn't mean that:…しかし、だからといって金蔵がタロット}{ruby:Kinzo didn't take tarot reading seriously.:占いを馬鹿にしているわけではない。}`
+`{ruby:Kinzo's interpretation of tarot reading was:金蔵の解釈によるタロット占いは、}{ruby:done in a completely different way.:まったく別のやり方だった。}`
+`{ruby:That was to repeat the reading, over and over,:それは、自分の得たい最高の結果が}{ruby:until he reached the result most favorable to him,:出るまで、一切の妥協なく、}`
+`{ruby:without the slightest:何度も何度もタロットを}{ruby:amount of compromise.:繰り返すことだ。}`
+`{ruby:It would depend on how he:最高の結果がどの程度のもの}{ruby:defined the result most favorable to him,:かの定義にもよるが、}`
+`{ruby:but if he demanded the:厳密な意味での最高の結}{ruby:best result in a strict sense,:果を求めたなら、}`
+`{ruby:it would be the same as a simple:それは単なる算数的奇跡を求める運}{ruby:roulette of luck, where he sought an arithmetic miracle.:のルーレットと同じになる。}`
+`{ruby:......However, to Kinzo, who made miracles of numbers the basis of:……しかし、数字の奇跡こそを魔力の根源とする金蔵}{ruby:his magical power, this could become very much like a magic ritual.:にとって、それは充分、魔法の儀式となり得た。}`
 `{ruby:In other words,:つまり、}`
-`{ruby:until the result he desired appeared perfectly, he would repeat the tarot readings over and over, turning his labor, conviction, and the feelings of his heart into a prayer,:自分の望む結果が完全に出るまで、延々とタロットを繰り返すその手間と信念、心の気持ちが祈祷に通じ、}`
-`{ruby:so that when it reached heaven, the result would be sublimated—this was Kinzo's personal magical interpretation.:それが天に届いた時、結果となって昇華されるという、金蔵独自の魔法解釈だ。}`
-`{ruby:Therefore, even though the tarot cards Kinzo used were exactly the same as generally used tarot cards,:だから、金蔵が扱っているタロットは、世間一般のタロットとまったく同じものだったが、}`
-`{ruby:the way they were used was completely different...:そのやり方がまったく異なっていたのだ…。}`
+`{ruby:until the result he desired appeared perfectly, he would repeat the tarot readings over:自分の望む結果が完全に出るまで、延々とタロットを繰}{ruby:and over, turning his labor, conviction, and the feelings of his heart into a prayer,:り返すその手間と信念、心の気持ちが祈祷に通じ、}`
+`{ruby:so that when it reached heaven, the result:それが天に届いた時、結果となって昇華さ}{ruby:would be sublimated—this was Kinzo's personal magical interpretation.:れるという、金蔵独自の魔法解釈だ。}`
+`{ruby:Therefore, even though the tarot cards Kinzo used:だから、金蔵が扱っているタロットは、世間一般}{ruby:were exactly the same as generally used tarot cards,:のタロットとまったく同じものだったが、}`
+`{ruby:the way they were:そのやり方がまったく異}{ruby:used was completely different...:なっていたのだ…。}`
 `{ruby:".................................:「……………………………。}`
-`{ruby:...Tonight, ......it refuses to go my way.":…今宵は、……思い通りにならぬな」}`
+`{ruby:...Tonight, ......it refuses:…今宵は、……思い通}{ruby:to go my way.":りにならぬな」}`
 `{ruby:Kinzo stopped his hands for a second.:金蔵は一度手を止める。}`
-`{ruby:...It seemed the result he expected wasn't showing up.:…なかなか思い通りの結果が出ないようだった。}`
-`{ruby:On the contrary, many bad cards that shouldn't often appear were appearing repeatedly,:それどころか、そうそう出るはずのない悪いカードが繰り返し現れ、}`
-`{ruby:and continuing to interfere with the miracle Kinzo wished for.:金蔵の求める奇跡を妨害し続けていた。}`
+`{ruby:...It seemed the result:…なかなか思い通りの結果}{ruby:he expected wasn't showing up.:が出ないようだった。}`
+`{ruby:On the contrary, many bad cards:それどころか、そうそう出るはずのな}{ruby:that shouldn't often appear were appearing repeatedly,:い悪いカードが繰り返し現れ、}`
+`{ruby:and continuing to interfere with:金蔵の求める奇跡を妨}{ruby:the miracle Kinzo wished for.:害し続けていた。}`
 `{ruby:"..................Hmph.:「………………ふ。}`
 `{ruby:...Is that how it is?":…そういうことなのか」}`
-`{ruby:It seemed that Kinzo had taken some kind of sign from this abnormal course of events.:普段とは違う流れに、金蔵は何かの神託を得たらしい。}`
-`{ruby:But judging by the unlucky cards scattered over the desk, it was difficult to imagine that the sign had been a good one...:しかし、不吉なカードたちが机の上に散らばる様を見る限り、その神託が良き報せであるとは考え難かった…。}`
-`{ruby:For a while, Kinzo closed his eyes tightly, pondering something.:金蔵はしばらくの間、固く目を閉じ、何かを思案した。}`
-`{ruby:Then as the thunder roared, he made up his mind about something, took the telephone receiver, and dialed.:そして雷鳴に何かを決断し、受話器を取りダイヤルする。}`
+`{ruby:It seemed that Kinzo had taken some kind:普段とは違う流れに、金蔵は何}{ruby:of sign from this abnormal course of events.:かの神託を得たらしい。}`
+`{ruby:But judging by the unlucky cards scattered over the desk, it:しかし、不吉なカードたちが机の上に散らばる様を見る限}{ruby:was difficult to imagine that the sign had been a good one...:り、その神託が良き報せであるとは考え難かった…。}`
+`{ruby:For a while, Kinzo closed:金蔵はしばらくの間、固く目を}{ruby:his eyes tightly, pondering something.:閉じ、何かを思案した。}`
+`{ruby:Then as the thunder roared, he made up his:そして雷鳴に何かを決断し、受}{ruby:mind about something, took the telephone receiver, and dialed.:話器を取りダイヤルする。}`
 `{ruby:"............It is I.:「…………わしだ。}`
 `{ruby:Is Genji there? It is urgent.":源次はおるか。至急だ」}`
 `{ruby:"..................haah.":「………………はぁ」}`
-`{ruby:In front of the main entrance, Shannon was cooling her flushed face in the frigid air.:紗音は玄関前で、冷えた空気に火照った顔を冷ましていた。}`
+`{ruby:In front of the main entrance, Shannon was:紗音は玄関前で、冷えた空気に火}{ruby:cooling her flushed face in the frigid air.:照った顔を冷ましていた。}`
 `{ruby:...She had thought...:…譲治からの求婚は、}`
-`{ruby:...that George's proposal would surely come sometime.:……きっといつかあるだろうと思っていた。}`
-`{ruby:It wasn't as if her heart had been unprepared.:心の準備はなかったわけではない。}`
+`{ruby:...that George's proposal:……きっといつかあるだ}{ruby:would surely come sometime.:ろうと思っていた。}`
+`{ruby:It wasn't as if:心の準備はなかった}{ruby:her heart had been unprepared.:わけではない。}`
 `{ruby:{n}And she had nodded as an answer.:{n}そして、応える形で頷いてしまった。}`
-`{ruby:Had she been reckless because of her youth?:若さゆえの無謀だったのだろうか？}`
-`{ruby:{n}Should she have thought about her future more seriously?:{n}もっと将来のことは真剣に考えた方が？}`
-`{ruby:She found herself worrying that he might have thought of her as a cheap girl because of her immediate reply.:即答したせいで、むしろ安っぽい女だなんて思われはしなかったろうか。}`
-`{ruby:...Perhaps at least holding off until tomorrow morning would have given the impression of thinking more seriously?:…せめて明日の朝まで保留したほうが、真剣に考えてる雰囲気をアピールできただろうか。}`
-`{ruby:Now that she had already received the ring from George,:譲治に、もう指輪をもらった後の今になって、}`
-`{ruby:Shannon kept fidgeting in embarrassment, thinking she should have done this, should have done that.:ああすれば良かったこうすれば良かったと、紗音はひとりもじもじと照れ隠しを続けているのだった。}`
-`{ruby:As she did, she heard the sound of footsteps coming towards her, splashing through puddles.:そこへ、ばたばたと水溜りを踏み散らしながら駆けてくる足音を聞く。}`
-`{ruby:Shannon immediately chased away the emotions welling up inside her.:紗音はすぐに浮かれた気持ちを追い出した。}`
+`{ruby:Had she been reckless:若さゆえの無謀だっ}{ruby:because of her youth?:たのだろうか？}`
+`{ruby:{n}Should she have thought:{n}もっと将来のことは}{ruby:about her future more seriously?:真剣に考えた方が？}`
+`{ruby:She found herself worrying that he might have thought of:即答したせいで、むしろ安っぽい女だな}{ruby:her as a cheap girl because of her immediate reply.:んて思われはしなかったろうか。}`
+`{ruby:...Perhaps at least holding off until tomorrow morning:…せめて明日の朝まで保留したほうが、真剣に考}{ruby:would have given the impression of thinking more seriously?:えてる雰囲気をアピールできただろうか。}`
+`{ruby:Now that she had already:譲治に、もう指輪をもらっ}{ruby:received the ring from George,:た後の今になって、}`
+`{ruby:Shannon kept fidgeting in embarrassment, thinking she:ああすれば良かったこうすれば良かったと、紗音はひ}{ruby:should have done this, should have done that.:とりもじもじと照れ隠しを続けているのだった。}`
+`{ruby:As she did, she heard the sound:そこへ、ばたばたと水溜りを踏み散ら}{ruby:of footsteps coming towards her, splashing through puddles.:しながら駆けてくる足音を聞く。}`
+`{ruby:Shannon immediately chased away the:紗音はすぐに浮かれた気}{ruby:emotions welling up inside her.:持ちを追い出した。}`
 `{ruby:"......Genji‐sama?:「……源次さま？}`
 `{ruby:Kanon‐kun too...!:嘉音くんも…！}`
-`{ruby:I, I'm sorry, for not coming back right away, umm...":す、すみません、すぐに戻らなくてその…、」}`
-`{ruby:She grew stiff, thinking that she would surely be scolded for spending too much time in her secret lover's meeting with George.:譲治との逢瀬に時間を割きすぎたことを叱られるに違いないと、身を固くした。}`
+`{ruby:I, I'm sorry, for not:す、すみません、すぐに戻}{ruby:coming back right away, umm...":らなくてその…、」}`
+`{ruby:She grew stiff, thinking that she would surely be scolded for:譲治との逢瀬に時間を割きすぎたことを叱}{ruby:spending too much time in her secret lover's meeting with George.:られるに違いないと、身を固くした。}`
 `{ruby:"Shannon.:「紗音。}`
-`{ruby:The Master has told us to come to the study urgently.:お館様が至急、書斎へ来るようにとの仰せだ。}`
+`{ruby:The Master has told us:お館様が至急、書斎へ来る}{ruby:to come to the study urgently.:ようにとの仰せだ。}`
 `{ruby:Let us hurry.":急ぐぞ」}`
 `{ruby:"......Huh?:「……え？}`
 `{ruby:Y‐yes, certainly...!:は、はい、かしこまりました…！}`
 `{ruby:What in the world...?":一体、何事なの…？」}`
-`{ruby:"He said he had an ominous premonition.:「不吉な予感がするってさ。}`
-`{ruby:......How selfish, when he was the one who chose to start this ritual.":……自分で儀式を起こしておいて、都合のいい話さ」}`
-`{ruby:"We will enter from the back, so that Gohda doesn't notice us.:「郷田に気取られぬよう、裏から入る。}`
+`{ruby:"He said he:「不吉な予感がす}{ruby:had an ominous premonition.:るってさ。}`
+`{ruby:......How selfish, when he was the:……自分で儀式を起こしてお}{ruby:one who chose to start this ritual.":いて、都合のいい話さ」}`
+`{ruby:"We will enter from the back,:「郷田に気取られぬよ}{ruby:so that Gohda doesn't notice us.:う、裏から入る。}`
 `{ruby:Hide your footsteps.":足音に気をつけろ」}`
 `{ruby:"Yes.:「はい。}`
 `{ruby:.........Nee‐san, take care.:………姉さん、注意して。}`
 `{ruby:You're so noisy.":姉さんは賑やかだから」}`
-`{ruby:Kanon was especially good at hiding his presence.:嘉音は特に、気配を殺せるように出来ている。}`
+`{ruby:Kanon was especially good:嘉音は特に、気配を殺せる}{ruby:at hiding his presence.:ように出来ている。}`
 `{ruby:...Like he was a cat.:…例えるならば猫。}`
-`{ruby:He was able to suddenly be there without anyone noticing, and leave in the same way.:誰にも気取られることなく、いつの間にかそこにいて、いつの間にか立ち去ることができる。}`
-`{ruby:So, even if he were to step in a puddle,:だからたとえ、水溜りを踏むことになろうとも、}`
-`{ruby:the sound he would make would be far smaller than that of the rain hitting the puddles...:その音は水溜りを叩く雨音よりも遥かに小さい…。}`
+`{ruby:He was able to suddenly be there without:誰にも気取られることなく、いつの間にかそこに}{ruby:anyone noticing, and leave in the same way.:いて、いつの間にか立ち去ることができる。}`
+`{ruby:So, even if he were:だからたとえ、水溜りを踏}{ruby:to step in a puddle,:むことになろうとも、}`
+`{ruby:the sound he would make would be far:その音は水溜りを叩く雨音よ}{ruby:smaller than that of the rain hitting the puddles...:りも遥かに小さい…。}`
 `{ruby:Genji also had that ability.:源次もまた、そういう力を持ち合わせていた。}`
-`{ruby:...Well, in the first place, that was how the servants were supposed to be, even going by the name of furniture.:…いや、本来、家具とまで呼ばれる使用人はそうあるべきなのだ。}`
-`{ruby:Just like how desks and closets go unnoticed by members of the family,:家人が机や戸棚に対して何の気配も感じないように、使用人もそうであり、}`
-`{ruby:the servants also treated being able to show up unobtrusively when they needed to as their greatest virtue.:彼らが必要とする時にさりげなく現れるのが最大の美徳なのだ。}`
-`{ruby:In that sense, Shannon's footsteps still strongly asserted themselves.:そこへ行くと、紗音の足音はまだ自己主張が強い。}`
-`{ruby:...She was also trying to hide her footsteps,:…彼女なりに足音を潜めているつもりだが、}`
-`{ruby:but compared to Kanon and Genji, well, you could say she was a little more lively...:嘉音たちのそれに比べれば、なるほど、賑やかとは言い得ていた…。}`
-`{ruby:Eventually they reached the back door, and the three of them entered the mansion.:やがて裏口に辿り着き、３人は屋敷の中に入った。}`
-`{ruby:Immediately, .........they thought they felt something.:すぐに、………何かを感じた気がした。}`
-`{ruby:It wasn't quite a sense of smell, ...rather, they felt it from the depths of their noses,:嗅覚とは違うけれど、…鼻の奥底で感じるような、}`
-`{ruby:......and this hard‐to‐describe sensation, which you might call a sixth sense, allowed them to perceive that something was different than usual.:……勘とでも言えばいいのか、形容し難い感覚が、いつもと違う何かを知覚した。}`
+`{ruby:...Well, in the first place, that was how the servants:…いや、本来、家具とまで呼ばれる}{ruby:were supposed to be, even going by the name of furniture.:使用人はそうあるべきなのだ。}`
+`{ruby:Just like how desks and closets:家人が机や戸棚に対して何の気配も感じ}{ruby:go unnoticed by members of the family,:ないように、使用人もそうであり、}`
+`{ruby:the servants also treated being able to show up:彼らが必要とする時にさりげなく現}{ruby:unobtrusively when they needed to as their greatest virtue.:れるのが最大の美徳なのだ。}`
+`{ruby:In that sense, Shannon's:そこへ行くと、紗音の足音は}{ruby:footsteps still strongly asserted themselves.:まだ自己主張が強い。}`
+`{ruby:...She was also trying:…彼女なりに足音を潜め}{ruby:to hide her footsteps,:ているつもりだが、}`
+`{ruby:but compared to Kanon and Genji, well, you:嘉音たちのそれに比べれば、なるほど}{ruby:could say she was a little more lively...:、賑やかとは言い得ていた…。}`
+`{ruby:Eventually they reached the back door, and:やがて裏口に辿り着き、３人}{ruby:the three of them entered the mansion.:は屋敷の中に入った。}`
+`{ruby:Immediately, .........they thought:すぐに、………何かを}{ruby:they felt something.:感じた気がした。}`
+`{ruby:It wasn't quite a sense of smell, ...rather,:嗅覚とは違うけれど、…鼻の}{ruby:they felt it from the depths of their noses,:奥底で感じるような、}`
+`{ruby:......and this hard‐to‐describe sensation, which you might call a sixth:……勘とでも言えばいいのか、形容し難い感}{ruby:sense, allowed them to perceive that something was different than usual.:覚が、いつもと違う何かを知覚した。}`
 `{ruby:"............Genji‐sama.":「…………源次さま」}`
 `{ruby:"...Yes. We must hurry.":「…うむ。急ぐぞ」}`
-`{ruby:That perception caused them to feel that something tense was closing in on them.:その知覚は、緊迫した何かが迫っていることを感じさせる。}`
-`{ruby:Realizing that, the three of them dashed up the stairs, aiming for Kinzo's study, still hiding their footsteps.:３人はそれを理解し、足音を殺したまま、階段を駆け上がり金蔵の書斎を目指した。}`
-`{ruby:When they dashed up the stairs, ...that smell of sweet poison particular to Kinzo's study reached their noses.:階段を駆け上がると、…金蔵の書斎特有の甘い毒の臭いが鼻を突く。}`
+`{ruby:That perception caused them to feel that:その知覚は、緊迫した何かが迫っ}{ruby:something tense was closing in on them.:ていることを感じさせる。}`
+`{ruby:Realizing that, the three of them dashed up the:３人はそれを理解し、足音を殺したまま、階}{ruby:stairs, aiming for Kinzo's study, still hiding their footsteps.:段を駆け上がり金蔵の書斎を目指した。}`
+`{ruby:When they dashed up the stairs, ...that smell of:階段を駆け上がると、…金蔵の書斎特}{ruby:sweet poison particular to Kinzo's study reached their noses.:有の甘い毒の臭いが鼻を突く。}`
 `{ruby:".....................hm.":「…………………む」}`
 `{ruby:"What is it, Genji‐sama...?":「いかがなさいましたか、源次さま…」}`
 `{ruby:"......The barrier is...dead.":「……結界が、死んでいる」}`
 `{ruby:"Huh?:「え？}`
 `{ruby:...............Ah.":……………あ」}`
-`{ruby:After hearing Kanon, she looked at the door to the study.:嘉音に言われて、書斎の扉を見る。}`
-`{ruby:{n}A scorpion pattern was engraved on the doorknob.:{n}そのドアノブには、サソリの紋様が刻まれている。}`
+`{ruby:After hearing Kanon, she looked:嘉音に言われて、書}{ruby:at the door to the study.:斎の扉を見る。}`
+`{ruby:{n}A scorpion pattern was:{n}そのドアノブには、サソ}{ruby:engraved on the doorknob.:リの紋様が刻まれている。}`
 `{ruby:A powerful magic‐repellent.:強力な魔除けだ。}`
-`{ruby:The final barrier, which protected Kinzo himself.:金蔵の身を守る、最後の結界。}`
+`{ruby:The final barrier,:金蔵の身を守る、}{ruby:which protected Kinzo himself.:最後の結界。}`
 `{ruby:It had been broken.:それが破られていた。}`
-`{ruby:Of course, there was no change to the doorknob that the eye could see.:もちろん、見た目にはそのドアノブに何の変化もない。}`
-`{ruby:{n}However, they who could understand things that people couldn't perceive, were able to recognize the dramatic change...:{n}しかし、人には知覚できぬものを理解できる彼らには、その劇的変化が理解できた…。}`
+`{ruby:Of course, there was no change to:もちろん、見た目にはそのドア}{ruby:the doorknob that the eye could see.:ノブに何の変化もない。}`
+`{ruby:{n}However, they who could understand things that people:{n}しかし、人には知覚できぬものを理解でき}{ruby:couldn't perceive, were able to recognize the dramatic change...:る彼らには、その劇的変化が理解できた…。}`
 `{ruby:"......My lord.:「……お館様。}`
 `{ruby:My lord...!:お館様…！}`
 `{ruby:It is Genji.:源次でございます。}`
 `{ruby:Please open this door.":ここをお開け下さい」}`
-`{ruby:Genji called in this way after knocking several times, but there was no answer from the study.:源次が数度ノックしてそう声を掛けるが、書斎から返事はなかった。}`
+`{ruby:Genji called in this way after knocking several:源次が数度ノックしてそう声を掛ける}{ruby:times, but there was no answer from the study.:が、書斎から返事はなかった。}`
 `{ruby:"Shannon, protect our backs.:「紗音、背中を守れ。}`
 `{ruby:Kanon, search inside the room.":嘉音、室内を探れ」}`
 `{ruby:""Yes...!"":「「はい…！」」}`
-`{ruby:Kanon put his ear against the door, searching for a presence inside the study.:嘉音は扉に耳を当て、書斎の中の気配を探る。}`
-`{ruby:To protect the backs of the other two, who were watching the door, Shannon faced the other way, with her back to them, prepared for the unexpected.:紗音は扉に注視する二人の背中を守るため、背を合わせるように逆を向き、不測の事態に備えた。}`
-`{ruby:"............The Master is here, I believe.:「…………お館様はいらっしゃられるはずです。}`
+`{ruby:Kanon put his ear against the door,:嘉音は扉に耳を当て、書斎}{ruby:searching for a presence inside the study.:の中の気配を探る。}`
+`{ruby:To protect the backs of the other two, who were watching the door,:紗音は扉に注視する二人の背中を守るため、背を合}{ruby:Shannon faced the other way, with her back to them, prepared for the unexpected.:わせるように逆を向き、不測の事態に備えた。}`
+`{ruby:"............The Master is:「…………お館様はいらっ}{ruby:here, I believe.:しゃられるはずです。}`
 `{ruby:...However, it's too quiet.":…ですが、静か過ぎます」}`
 `{ruby:"Then he is safe?":「ご無事だということか」}`
 `{ruby:"No.:「いいえ。}`
@@ -138,96 +138,96 @@
 `{ruby:"...It............couldn't be...":「…まさか、…………そんな」}`
 `{ruby:"My lord.:「お館様。}`
 `{ruby:Excuse us about the door.":扉を失礼させていただきます」}`
-`{ruby:Genji pulled a gold key out of his pocket.:源次は懐より、黄金の鍵を取り出す。}`
-`{ruby:{n}It was the only key to the study that existed, other than the one Kinzo held.:{n}金蔵が持つ以外に、唯一存在する書斎の鍵だ。}`
-`{ruby:He stuck it in the keyhole, and turned it heavily.:鍵穴にそれを刺し、重い手応えで捻る。}`
-`{ruby:{n}......At a glance, that would have indicated that it really was a strong lock.:{n}……一見、それは確かに厳重な施錠を示した。}`
-`{ruby:However, the fact that the barrier had been destroyed...:しかし、結界が破られているということは、}`
-`{ruby:meant that this door had long been wide open for anyone with magical power...:魔力ある者にとって、この扉はすでに開きっぱなしと同じ意味だ…。}`
-`{ruby:The lock made a heavy sound, indicating that the door had been opened {i:to humans as well}.:ゴトリと重い音がして、{i:人間にとっても}、扉が開かれたことを示す。}`
+`{ruby:Genji pulled a gold:源次は懐より、黄金の}{ruby:key out of his pocket.:鍵を取り出す。}`
+`{ruby:{n}It was the only key to the study:{n}金蔵が持つ以外に、唯}{ruby:that existed, other than the one Kinzo held.:一存在する書斎の鍵だ。}`
+`{ruby:He stuck it in the:鍵穴にそれを刺し、重}{ruby:keyhole, and turned it heavily.:い手応えで捻る。}`
+`{ruby:{n}......At a glance, that would have indicated:{n}……一見、それは確か}{ruby:that it really was a strong lock.:に厳重な施錠を示した。}`
+`{ruby:However, the fact that:しかし、結界が破られて}{ruby:the barrier had been destroyed...:いるということは、}`
+`{ruby:meant that this door had long been:魔力ある者にとって、この扉はすでに}{ruby:wide open for anyone with magical power...:開きっぱなしと同じ意味だ…。}`
+`{ruby:The lock made a heavy sound, indicating that:ゴトリと重い音がして、{i:人間にとっ}{ruby:the door had been opened {i:to humans as well}.:ても}、扉が開かれたことを示す。}`
 `{ruby:"......Excuse me.":「……失礼いたします」}`
 `{ruby:As Genji respectfully bowed his head,:源次はうやうやしく頭を下げながら、}`
-`{ruby:and Kanon's sense of tension grew tighter,:そして嘉音は緊張感を張り巡らせながら、}`
-`{ruby:and Shannon acted nervous, they entered the study...:そして紗音はおろおろとしながら書斎へ入る…。}`
-`{ruby:They immediately discovered Kinzo's figure.:金蔵の姿はすぐに見つけられた。}`
-`{ruby:......He was sitting in a reception sofa so that his back faced them.:……応接ソファーに背を向けるようにして座っていた。}`
-`{ruby:Genji noticed the person sitting across from him, and again bowed deeply.:源次はその向かいに座る人物に気付き、再び頭を深々と下げる。}`
+`{ruby:and Kanon's sense:そして嘉音は緊張感を張}{ruby:of tension grew tighter,:り巡らせながら、}`
+`{ruby:and Shannon acted nervous,:そして紗音はおろおろとし}{ruby:they entered the study...:ながら書斎へ入る…。}`
+`{ruby:They immediately:金蔵の姿はすぐに見}{ruby:discovered Kinzo's figure.:つけられた。}`
+`{ruby:......He was sitting in a reception:……応接ソファーに背を向ける}{ruby:sofa so that his back faced them.:ようにして座っていた。}`
+`{ruby:Genji noticed the person sitting across:源次はその向かいに座る人物に気付}{ruby:from him, and again bowed deeply.:き、再び頭を深々と下げる。}`
 `{ruby:Kanon also noticed that person,:嘉音もその人物に気付き、}`
 `{ruby:......and he didn't bow his head.:……彼は頭を下げなかった。}`
-`{ruby:He went in front of Shannon and spread both arms, blocking the way to her.:両手を広げて紗音の前に出て、その背で庇った。}`
-`{ruby:So without even seeing that person's face, Shannon already had a good idea who it was...:だから紗音はもう、その人物の顔を見なくてもおおよその想像がついた…。}`
+`{ruby:He went in front of Shannon and:両手を広げて紗音の前に出}{ruby:spread both arms, blocking the way to her.:て、その背で庇った。}`
+`{ruby:So without even seeing that person's face, Shannon:だから紗音はもう、その人物の顔を見な}{ruby:already had a good idea who it was...:くてもおおよその想像がついた…。}`
 `{ruby:"...So you have come.:「…お越しでございましたか。}`
 `{ruby:{f:5:Beatrice}‐sama.":ベアトリーチェさま」}`
 `{ruby:"Genji, is it?:「源次か。}`
 `{ruby:You came very quickly.:なかなかに早いな。}`
-`{ruby:Yes, it is better when furniture answers its master's call quickly.:やはり家具は、主の呼び掛けに素早く応える方が良い。}`
+`{ruby:Yes, it is better when:やはり家具は、主の呼び掛けに}{ruby:furniture answers its master's call quickly.:素早く応える方が良い。}`
 `{ruby:Very different from this person.":こやつとは大違いだ」}`
 `{ruby:"........................:「……………………。}`
-`{ruby:......So Ronove‐sama has come as well.":……ロノウェさまもお越しでしたか」}`
-`{ruby:Genji directed his greeting towards the thin darkness behind and to the right of {f:5:Beatrice}, where nothing appeared to be.:ベアトリーチェの右後ろの何もないはずの薄暗闇に、源次が会釈する。}`
-`{ruby:Even Kanon and Shannon couldn't have imagined that someone would be there.:そこに誰かがいるようには、嘉音にも紗音にも、思えなかった。}`
-`{ruby:......However, the darkness answered immediately, and praised Genji's eyesight...:……しかし、暗闇はすぐに答え、源次の眼力を讃えた…。}`
+`{ruby:......So Ronove‐sama has:……ロノウェさまもお}{ruby:come as well.":越しでしたか」}`
+`{ruby:Genji directed his greeting towards the thin darkness behind and:ベアトリーチェの右後ろの何もないは}{ruby:to the right of {f:5:Beatrice}, where nothing appeared to be.:ずの薄暗闇に、源次が会釈する。}`
+`{ruby:Even Kanon and Shannon couldn't have:そこに誰かがいるようには、嘉音に}{ruby:imagined that someone would be there.:も紗音にも、思えなかった。}`
+`{ruby:......However, the darkness answered:……しかし、暗闇はすぐに答え}{ruby:immediately, and praised Genji's eyesight...:、源次の眼力を讃えた…。}`
 `{ruby:"As usual, you don't disappoint.:「相変わらず、さすがです。}`
 `{ruby:It has been quite some time.:だいぶの久し振りになりますね。}`
-`{ruby:.........Dear me, you have gotten old, haven't you?:………それにしても老けましたね。}`
+`{ruby:.........Dear me, you have:………それにしても}{ruby:gotten old, haven't you?:老けましたね。}`
 `{ruby:Have you really reached that age?":それだけの齢を重ねましたか」}`
 `{ruby:"I have lived a full life.:「充実した日々を過ごしております。}`
-`{ruby:...It appears that your life has grown to be even more full, Ronove‐sama.":…ロノウェさまにおかれましても、ますます充実されておりますよう、お見受けいたします」}`
+`{ruby:...It appears that your life has:…ロノウェさまにおかれましても、ますます充実}{ruby:grown to be even more full, Ronove‐sama.":されておりますよう、お見受けいたします」}`
 `{ruby:"Yes.:「えぇ。}`
 `{ruby:Thank you.:お陰様です。}`
-`{ruby:.........And Shannon, it has been a long time since I last saw you, as well.:………そして紗音も久し振りですね。}`
+`{ruby:.........And Shannon, it has been a long:………そして紗音も久}{ruby:time since I last saw you, as well.:し振りですね。}`
 `{ruby:You have grown quite beautiful.:君はずいぶんと美しくなった。}`
-`{ruby:And, it seems that you have grown quite strong.:そして、ずいぶんと強くなったようですね。}`
+`{ruby:And, it seems that:そして、ずいぶんと強く}{ruby:you have grown quite strong.:なったようですね。}`
 `{ruby:It is good to see.":良いことです」}`
 `{ruby:"............Thank you very much.":「…………ありがとうございます」}`
 `{ruby:"......Nee‐san, who in the world...":「……姉さん、あいつは一体…」}`
-`{ruby:"This will be the first time I have met you, Kanon‐kun.:「嘉音くんとは、会うのは初めてになりますね。}`
-`{ruby:......I have been entrusted with the position of {f:5:Beatrice}‐sama's head furniture. My name is Ronove.:……私は、ベアトリーチェさまの家具頭を任されております、ロノウェと申します。}`
-`{ruby:......I am an old friend of Genji‐san's.:……源次さんの古い馴染みですよ。}`
+`{ruby:"This will be the first:「嘉音くんとは、会うのは}{ruby:time I have met you, Kanon‐kun.:初めてになりますね。}`
+`{ruby:......I have been entrusted with the position:……私は、ベアトリーチェさまの家具頭を任}{ruby:of {f:5:Beatrice}‐sama's head furniture. My name is Ronove.:されております、ロノウェと申します。}`
+`{ruby:......I am an:……源次さんの古い}{ruby:old friend of Genji‐san's.:馴染みですよ。}`
 `{ruby:I am also furniture, just like you.:あなたと同じに、私も家具です。}`
-`{ruby:Although the master I serve is different.":仕える主は異なりますが」}`
-`{ruby:The color of tension didn't disappear from Kanon's expression in the slightest.:嘉音の表情からは決して緊張の色は消えない。}`
-`{ruby:......Serving under a different master, furniture could become kind, brutal, or anything else as desired.:……家具は仕える主が違えば、やさしくも残酷にも如何様にでもなる。}`
-`{ruby:...If he called himself furniture serving the hated {f:5:Beatrice},:…彼が嫌悪するベアトリーチェに仕える家具だと名乗ったならば、}`
-`{ruby:then surely he was a despicable being as well...:彼もまた嫌悪すべき存在に違いないのだ…。}`
+`{ruby:Although the master:仕える主は異な}{ruby:I serve is different.":りますが」}`
+`{ruby:The color of tension didn't disappear:嘉音の表情からは決して緊}{ruby:from Kanon's expression in the slightest.:張の色は消えない。}`
+`{ruby:......Serving under a different master, furniture could:……家具は仕える主が違えば、やさし}{ruby:become kind, brutal, or anything else as desired.:くも残酷にも如何様にでもなる。}`
+`{ruby:...If he called himself:…彼が嫌悪するベアトリーチェに仕}{ruby:furniture serving the hated {f:5:Beatrice},:える家具だと名乗ったならば、}`
+`{ruby:then surely he was:彼もまた嫌悪すべき存在}{ruby:a despicable being as well...:に違いないのだ…。}`
 `{ruby:"*cackle*cackle*!:「くっくっくっく！}`
-`{ruby:It seems that I'm completely despised.:妾もすっかり嫌われたものだ。}`
-`{ruby:It's as though you hate everything to do with me.":坊主憎ければ袈裟まで何とかとはよく言ったものよ」}`
-`{ruby:{f:5:Beatrice} openly sneered at Kanon's hate‐filled face...:ベアトリーチェは、嘉音の嫌悪感に満ちたその顔を露骨に嘲笑う…。}`
+`{ruby:It seems that:妾もすっかり嫌われ}{ruby:I'm completely despised.:たものだ。}`
+`{ruby:It's as though you hate:坊主憎ければ袈裟まで何とか}{ruby:everything to do with me.":とはよく言ったものよ」}`
+`{ruby:{f:5:Beatrice} openly sneered:ベアトリーチェは、嘉音の嫌悪感に満}{ruby:at Kanon's hate‐filled face...:ちたその顔を露骨に嘲笑う…。}`
 `{ruby:Then, Kanon finally observed.:そして嘉音はようやく知った。}`
-`{ruby:{f:5:Beatrice} and Kinzo were enjoying a chess game, sitting in facing reception sofas.:ベアトリーチェと金蔵は応接ソファーに向かい合い、チェスを興じていたのだ。}`
+`{ruby:{f:5:Beatrice} and Kinzo were enjoying a:ベアトリーチェと金蔵は応接ソファーに向}{ruby:chess game, sitting in facing reception sofas.:かい合い、チェスを興じていたのだ。}`
 `{ruby:But Kinzo hadn't even quivered.:しかし、金蔵は微動だにしない。}`
-`{ruby:He was holding his head with both hands, his eyes closed tight, ...as he contemplated his next move.:両手で自らの頭を抱え、固く目を瞑り…、次の手を黙考しているのだ。}`
+`{ruby:He was holding his head with both hands, his:両手で自らの頭を抱え、固く目を瞑り}{ruby:eyes closed tight, ...as he contemplated his next move.:…、次の手を黙考しているのだ。}`
 `{ruby:......No, was he in anguish...?:……いや、苦悩しているのか…。}`
 `{ruby:".........My lord.........":「………お館様………」}`
 `{ruby:"I have told Kinzo two things.:「妾が金蔵に伝えたのは２つ。}`
 `{ruby:There was good news and bad news.:良い報せと悪い報せだった。}`
-`{ruby:......The good news was that he would have the fortune of being reunited with me before the ritual even ends.:……良い報せは、儀式を終えずして妾と再会できる幸運を得たこと。}`
-`{ruby:The bad news was that Kinzo had been selected for the very first sacrifice of the ceremony.":悪い報せは、金蔵が儀式の一番最初の生贄に選ばれてしまったことだ」}`
+`{ruby:......The good news was that he would have the fortune:……良い報せは、儀式を終えずして妾}{ruby:of being reunited with me before the ritual even ends.:と再会できる幸運を得たこと。}`
+`{ruby:The bad news was that Kinzo had been:悪い報せは、金蔵が儀式の一番最初の}{ruby:selected for the very first sacrifice of the ceremony.":生贄に選ばれてしまったことだ」}`
 `{ruby:"*cackle*cackle*!:「くっくっくっく！}`
-`{ruby:There's absolutely nothing I can do about it.:こればかりは妾にもどうしようもない。}`
-`{ruby:Because it truly was decided by the fickle roulette.":実に気まぐれにルーレットにて決めたのだから」}`
+`{ruby:There's absolutely nothing I:こればかりは妾にもどう}{ruby:can do about it.:しようもない。}`
+`{ruby:Because it truly was:実に気まぐれにルーレット}{ruby:decided by the fickle roulette.":にて決めたのだから」}`
 `{ruby:"...L‐liar.:「…う、嘘を吐け。}`
-`{ruby:You just take pleasure in killing people......":弄んで殺しているくせに……」}`
+`{ruby:You just take:弄んで殺している}{ruby:pleasure in killing people......":くせに……」}`
 `{ruby:"Stop it, Kanon‐kun......":「よして、嘉音くん……」}`
 `{ruby:"......So, Kinzo.:「……さて、金蔵。}`
-`{ruby:Isn't it about time you decided to accept your loss?:そろそろ負けを認める気になったのか？}`
-`{ruby:......*cackle*, by this, our long lasting contest is resolved, right?":……くっくっく、これにて、妾との長きに亘る勝負は決着だな？」}`
+`{ruby:Isn't it about time you:そろそろ負けを認める}{ruby:decided to accept your loss?:気になったのか？}`
+`{ruby:......*cackle*, by this, our long:……くっくっく、これにて、妾との長}{ruby:lasting contest is resolved, right?":きに亘る勝負は決着だな？」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:At a glance, you couldn't tell the current situation on that chaotic chessboard.:ぱっと見る限り、混迷したチェス盤を一望しただけでは戦局は見えない。}`
-`{ruby:...However, judging from Kinzo's anguish and {f:5:Beatrice}'s malicious relaxedness,:…しかし、金蔵の苦悩とベアトリーチェの悪意ある余裕を見る限り、}`
-`{ruby:it looked as though it was already decided...:すでにそれは決しているように見えた…。}`
+`{ruby:At a glance, you couldn't tell:ぱっと見る限り、混迷したチェス盤を一}{ruby:the current situation on that chaotic chessboard.:望しただけでは戦局は見えない。}`
+`{ruby:...However, judging from Kinzo's:…しかし、金蔵の苦悩とベアトリーチ}{ruby:anguish and {f:5:Beatrice}'s malicious relaxedness,:ェの悪意ある余裕を見る限り、}`
+`{ruby:it looked as though:すでにそれは決している}{ruby:it was already decided...:ように見えた…。}`
 `{ruby:"............It is unavoidable...:「…………是非もなし…。}`
 `{ruby:...Is this also entertainment?":…これもまた一興か」}`
 `{ruby:"It is to me too.:「妾もだ。}`
-`{ruby:......Concluding my contest with you may bring a flood of emotions, but it has already surpassed love and hate.:……そなたとの勝負に決着がつくことは、万感の思いあれど、もはや恩讐を越える。}`
+`{ruby:......Concluding my contest with you may bring a flood:……そなたとの勝負に決着がつくことは、万}{ruby:of emotions, but it has already surpassed love and hate.:感の思いあれど、もはや恩讐を越える。}`
 `{ruby:...It was fun.:…楽しかったぞ。}`
-`{ruby:Several decades that were not boring...!":退屈しない数十年であった…！」}`
-`{ruby:{f:5:Beatrice} advanced her queen, and made her final move.:ベアトリーチェがクイーンを進め、最後の一手を指す。}`
+`{ruby:Several decades that:退屈しない数十年で}{ruby:were not boring...!":あった…！」}`
+`{ruby:{f:5:Beatrice} advanced her queen,:ベアトリーチェがクイーンを進}{ruby:and made her final move.:め、最後の一手を指す。}`
 `{ruby:......It was thus...:……それで、}`
 `{ruby:decided.:決まりだった。}`
 `{ruby:"Checkmate.:「チェックメイト。}`
-`{ruby:.........This is a final tribute from me to you.:………これが妾からそなたへの手向けだ。}`
+`{ruby:.........This is a final:………これが妾からそな}{ruby:tribute from me to you.:たへの手向けだ。}`
 `{ruby:Without reserve,:心置きなく、}`
 `{ruby:...sleep.":…眠れ」}`
 `{ruby:"Heheheh,:「ふっふっふ、}`
@@ -239,188 +239,188 @@
 `{ruby:hah:はっ}`
 `{ruby:hah:はっ}`
 `{ruby:hah!!":はッ！！」}`
-`{ruby:Kinzo suddenly stood up and laughed, like an opera singer facing a full crowd and spreading his arms,:金蔵はがばっと立ち上がると、満場の客座に向かって両手を広げるオペラ歌手のように振る舞い、}`
-`{ruby:...as though he had succeeded in a century‐long plan.:…まるで百年の計を成し遂げたかのように笑う。}`
+`{ruby:Kinzo suddenly stood up and laughed, like an opera:金蔵はがばっと立ち上がると、満場の客座に向かっ}{ruby:singer facing a full crowd and spreading his arms,:て両手を広げるオペラ歌手のように振る舞い、}`
+`{ruby:...as though he had:…まるで百年の計を成し遂}{ruby:succeeded in a century‐long plan.:げたかのように笑う。}`
 `{ruby:That laugh...:その笑いが、}`
 `{ruby:...spat crimson.:……紅蓮を吹く。}`
-`{ruby:Crimson flames poured out from inside him,:紅蓮の炎が内より溢れ出し、}`
-`{ruby:spitting even out of his mouth, ears, and nose, and all at once, his body was wrapped in hellfire...:口、耳、鼻を問わずに吹き出して、たちまちの内にその身を業火で包んだ…。}`
+`{ruby:Crimson flames poured:紅蓮の炎が内より}{ruby:out from inside him,:溢れ出し、}`
+`{ruby:spitting even out of his mouth, ears, and nose,:口、耳、鼻を問わずに吹き出して、たちま}{ruby:and all at once, his body was wrapped in hellfire...:ちの内にその身を業火で包んだ…。}`
 `{ruby:But Kinzo kept laughing.:しかし金蔵は笑い続ける。}`
-`{ruby:The more he laughed, the more the hellfire spewed from his entire body, and began to char him...:笑えば笑うほどに、全身から業火が噴出し、その身を焼き焦がしていく…。}`
-`{ruby:Those flames became a brilliant light,:その炎は眩しい灯りとなり、}`
-`{ruby:which dazzlingly shone on the various magic tools throughout the room, and made their distorted shadows dance across the walls.:室内の様々な魔法具を煌々と照らして、その歪な影絵を壁に踊らせて見せた。}`
-`{ruby:...Those shadows looked like the dead in hell, in ecstasy over Kinzo as he burned...:…その影絵はまるで、燃え盛る金蔵に歓喜する地獄の亡者たちにも見えた…。}`
+`{ruby:The more he laughed, the more the hellfire spewed:笑えば笑うほどに、全身から業火が噴出}{ruby:from his entire body, and began to char him...:し、その身を焼き焦がしていく…。}`
+`{ruby:Those flames became:その炎は眩しい灯}{ruby:a brilliant light,:りとなり、}`
+`{ruby:which dazzlingly shone on the various magic tools throughout the:室内の様々な魔法具を煌々と照らして、そ}{ruby:room, and made their distorted shadows dance across the walls.:の歪な影絵を壁に踊らせて見せた。}`
+`{ruby:...Those shadows looked like the dead in:…その影絵はまるで、燃え盛る金蔵に歓喜}{ruby:hell, in ecstasy over Kinzo as he burned...:する地獄の亡者たちにも見えた…。}`
 `{ruby:And,:そしてそれは、}`
-`{ruby:for one who had made a contract with a witch,:魔女と契約を交わし、}`
-`{ruby:and who had reached the end of that contract,:その契約を終えた者が辿る、}`
-`{ruby:...it was an extremely fitting end...:…極めて正当な末路だった…。}`
-`{ruby:After laughing and howling in the roaring flames for some time,:しばらくの間、猛火の中で吼えるように笑い続けた後、}`
-`{ruby:Kinzo flopped to the ground, as though he was a puppet whose strings had been cut.:まるで糸の切れた操り人形のように、金蔵はばたりと倒れる。}`
-`{ruby:Those incredible blazing flames disappeared as though they had burned up everything there was to burn,:あれほど燃え盛っていた炎は、まるでもう全てを焼き尽くしたかのように消え、}`
-`{ruby:and afterwards, all that was left was a festering and burnt body that would make you want to avert your eyes...:後には焼け爛れ、目を背けたくなるような遺体が残されただけだった…。}`
+`{ruby:for one who had made:魔女と契約を}{ruby:a contract with a witch,:交わし、}`
+`{ruby:and who had reached:その契約を終えた}{ruby:the end of that contract,:者が辿る、}`
+`{ruby:...it was an:…極めて正当な末}{ruby:extremely fitting end...:路だった…。}`
+`{ruby:After laughing and howling in:しばらくの間、猛火の中で吼え}{ruby:the roaring flames for some time,:るように笑い続けた後、}`
+`{ruby:Kinzo flopped to the ground, as though he:まるで糸の切れた操り人形のよう}{ruby:was a puppet whose strings had been cut.:に、金蔵はばたりと倒れる。}`
+`{ruby:Those incredible blazing flames disappeared as though they:あれほど燃え盛っていた炎は、まるでもう}{ruby:had burned up everything there was to burn,:全てを焼き尽くしたかのように消え、}`
+`{ruby:and afterwards, all that was left was a festering and:後には焼け爛れ、目を背けたくなるよう}{ruby:burnt body that would make you want to avert your eyes...:な遺体が残されただけだった…。}`
 `{ruby:".....................Horrible...":「…………………惨い…」}`
 `{ruby:"Hmph.:「ふ。}`
 `{ruby:You should talk.:お前が言うか。}`
-`{ruby:Even though you think that was a fitting way for him to die...":相応しい死に方だと思っているくせに…」}`
-`{ruby:"......Why have you shown yourself...?:「……なぜお前が姿を現している…？}`
-`{ruby:Do you have some business with us...?":僕たちに何か用だとでも言うのか…」}`
+`{ruby:Even though you think that was:相応しい死に方だと思っ}{ruby:a fitting way for him to die...":ているくせに…」}`
+`{ruby:"......Why have:「……なぜお前が姿を}{ruby:you shown yourself...?:現している…？}`
+`{ruby:Do you have:僕たちに何か用だとで}{ruby:some business with us...?":も言うのか…」}`
 `{ruby:"Stop it, Kanon‐kun.:「よして嘉音くん。}`
-`{ruby:......You must not provoke {f:5:Beatrice}‐sama.":……ベアトリーチェさまを挑発しては駄目」}`
-`{ruby:"It appears that you have completely terrified them.:「すっかり怯えさせてしまいましたね。}`
+`{ruby:......You must:……ベアトリーチェさま}{ruby:not provoke {f:5:Beatrice}‐sama.":を挑発しては駄目」}`
+`{ruby:"It appears that you:「すっかり怯えさせて}{ruby:have completely terrified them.:しまいましたね。}`
 `{ruby:Pu ku ku ku.":ぷっくっくっく」}`
-`{ruby:"It seems I just can't get along with Kanon.:「妾はつくづく、嘉音とは仲良くなれぬようだ。}`
-`{ruby:A pity, I must say I quite like him myself...?":そう嫌いでもないというのにな…？」}`
-`{ruby:{f:5:Beatrice} smiled broadly, or perhaps wickedly.:ベアトリーチェはニコリと、あるいはニヤリと微笑む。}`
-`{ruby:Kanon violently averted his gaze, obviously disturbed.:嘉音は乱暴に視線を逸らし、あからさまな不快感を示した。}`
-`{ruby:...His reaction was so different from what he had obviously intended that it made the witch and her butler laugh.:…その仕草は、彼の思惑とは異なり、魔女とその執事を笑わせた。}`
+`{ruby:"It seems I just:「妾はつくづく、嘉音とは}{ruby:can't get along with Kanon.:仲良くなれぬようだ。}`
+`{ruby:A pity, I must say:そう嫌いでもないとい}{ruby:I quite like him myself...?":うのにな…？」}`
+`{ruby:{f:5:Beatrice} smiled broadly,:ベアトリーチェはニコリと、あ}{ruby:or perhaps wickedly.:るいはニヤリと微笑む。}`
+`{ruby:Kanon violently averted:嘉音は乱暴に視線を逸らし、あか}{ruby:his gaze, obviously disturbed.:らさまな不快感を示した。}`
+`{ruby:...His reaction was so different from what he had obviously:…その仕草は、彼の思惑とは異なり}{ruby:intended that it made the witch and her butler laugh.:、魔女とその執事を笑わせた。}`
 `{ruby:"Kanon.:「嘉音。}`
-`{ruby:......You stand in the presence of {f:5:Beatrice}‐sama.:……ベアトリーチェさまの御前であるぞ。}`
-`{ruby:Carefully consider your manner of speech.":言葉遣いに気をつけなさい」}`
+`{ruby:......You stand in:……ベアトリーチェさま}{ruby:the presence of {f:5:Beatrice}‐sama.:の御前であるぞ。}`
+`{ruby:Carefully consider your:言葉遣いに気をつ}{ruby:manner of speech.":けなさい」}`
 `{ruby:"Oh, there is no problem, Genji.:「あぁ、構わぬぞ源次。}`
 `{ruby:Let him say as he likes.:好きに言わせてやれ。}`
 `{ruby:I am gracious.":妾は寛大である」}`
 `{ruby:"......How are you gracious...!":「……何が寛大だ…！」}`
-`{ruby:"I am always gracious to those who are about to die.:「妾は死に行く者には、いつだって寛大である。}`
+`{ruby:"I am always gracious to:「妾は死に行く者には、い}{ruby:those who are about to die.:つだって寛大である。}`
 `{ruby:*cackle*cackle*...!":くっくっくっく…！」}`
-`{ruby:Kanon was brought to sudden realization by that creepy laughter...:その薄気味悪い笑いに、嘉音ははっとする…。}`
-`{ruby:{f:5:Beatrice}'s reason for being here was not just to take Kinzo's life.:ベアトリーチェがここにいるのは、金蔵の命を奪うだけではないのだ。}`
-`{ruby:The first twilight required six sacrifices.:第一の晩に必要な生贄は６人。}`
+`{ruby:Kanon was brought to sudden:その薄気味悪い笑いに、嘉}{ruby:realization by that creepy laughter...:音ははっとする…。}`
+`{ruby:{f:5:Beatrice}'s reason for being here was:ベアトリーチェがここにいるのは、金}{ruby:not just to take Kinzo's life.:蔵の命を奪うだけではないのだ。}`
+`{ruby:The first twilight:第一の晩に必要な}{ruby:required six sacrifices.:生贄は６人。}`
 `{ruby:{n}Kinzo alone wasn't nearly enough.:{n}金蔵だけではまだまだ足りないのだ。}`
-`{ruby:{n}...And they had just nonchalantly come to this place...:{n}…そしてそこへ、自分たちがのこのこと訪れている…。}`
+`{ruby:{n}...And they had just:{n}…そしてそこへ、自分たち}{ruby:nonchalantly come to this place...:がのこのこと訪れている…。}`
 `{ruby:"*cackle*cackle*cackle*!:「くっくくくくく！}`
 `{ruby:Don't worry, Kanon.:安心せよ、嘉音。}`
-`{ruby:......You won't be selected as sacrifices just because you came here.:……そなたらがここに訪れたから生贄に選ばれるのではない。}`
-`{ruby:......It was because you were selected as sacrifices that you were called here...!":……生贄に選ばれているからこそ、ここに呼ばれているんじゃあないか…！」}`
+`{ruby:......You won't be selected as:……そなたらがここに訪れたから}{ruby:sacrifices just because you came here.:生贄に選ばれるのではない。}`
+`{ruby:......It was because you were selected:……生贄に選ばれているからこそ、ここに}{ruby:as sacrifices that you were called here...!":呼ばれているんじゃあないか…！」}`
 `{ruby:".........What.........!":「………何だと………！」}`
-`{ruby:They instinctively figured it out immediately...:勘のいい彼らはすぐに察した…。}`
-`{ruby:Six sacrifices were required for the first twilight.:第一の晩に必要な生贄は６人。}`
-`{ruby:{n}After Kinzo, how many more would you need to add up to six?:{n}金蔵の１人に、あといくつを加えたら６人になるのか。}`
-`{ruby:......In this mansion, the number 5 instantly made them think of the number of servants here...:……この屋敷で５人という数字は、彼らにとって真っ先に使用人の人数を想起させた…。}`
-`{ruby:"............Is that...what you desire?":「……………それが、お望みですか」}`
+`{ruby:They instinctively figured:勘のいい彼らはすぐ}{ruby:it out immediately...:に察した…。}`
+`{ruby:Six sacrifices were required:第一の晩に必要な}{ruby:for the first twilight.:生贄は６人。}`
+`{ruby:{n}After Kinzo, how many more would:{n}金蔵の１人に、あといくつ}{ruby:you need to add up to six?:を加えたら６人になるのか。}`
+`{ruby:......In this mansion, the number 5 instantly made:……この屋敷で５人という数字は、彼らにとっ}{ruby:them think of the number of servants here...:て真っ先に使用人の人数を想起させた…。}`
+`{ruby:"............Is that...what:「……………それが、}{ruby:you desire?":お望みですか」}`
 `{ruby:"Mmhm.:「うむ。}`
 `{ruby:...Thank me, furniture.:…感謝せよ、家具どもよ。}`
-`{ruby:Your days of suffering have tonight finally come to an end.:そなたたちの苦難の日々は今宵、ようやく終わりを迎えた。}`
-`{ruby:You should thank me, as I have come to tell you this.":それを告げに訪れた妾に感謝せよ」}`
+`{ruby:Your days of suffering have:そなたたちの苦難の日々は今宵、}{ruby:tonight finally come to an end.:ようやく終わりを迎えた。}`
+`{ruby:You should thank me, as I:それを告げに訪れた}{ruby:have come to tell you this.":妾に感謝せよ」}`
 `{ruby:".........Certainly.:「………かしこまりました。}`
 `{ruby:If that is your desire.":それをお望みでしたら」}`
 `{ruby:"...G‐:「…げ、}`
 `{ruby:......Genji‐sama...":……源次さま…」}`
-`{ruby:Genji had agreed to the witch's heartless announcement in his usual manner, without raising an eyebrow.:魔女の伝える無情の宣告にも、源次は眉一つ動かさず、いつもの仕草で頷く。}`
-`{ruby:"After the Master's death, {f:5:Beatrice}‐sama is our master.:「お館様亡き後は、ベアトリーチェさまが我等の主。}`
-`{ruby:Answering her demand is our final duty.:その求めに応じるのが、我等の最後の務めだ。}`
+`{ruby:Genji had agreed to the witch's heartless announcement:魔女の伝える無情の宣告にも、源次は眉一}{ruby:in his usual manner, without raising an eyebrow.:つ動かさず、いつもの仕草で頷く。}`
+`{ruby:"After the Master's death,:「お館様亡き後は、ベアトリ}{ruby:{f:5:Beatrice}‐sama is our master.:ーチェさまが我等の主。}`
+`{ruby:Answering her demand:その求めに応じるのが、我}{ruby:is our final duty.:等の最後の務めだ。}`
 `{ruby:......Shannon.:……紗音。}`
 `{ruby:Kanon.:嘉音。}`
-`{ruby:You have done well serving until today.:今日までよく仕えた。}`
+`{ruby:You have done:今日までよく}{ruby:well serving until today.:仕えた。}`
 `{ruby:That hard work is now over.":その労苦もこれにて終わりだ」}`
 `{ruby:"......As I expected of you, Genji.:「……源次はさすがですね。}`
-`{ruby:As fellow furniture, I think honorably of you.":同じ家具として、あなたを誇りに思いますよ」}`
+`{ruby:As fellow furniture, I:同じ家具として、あなたを}{ruby:think honorably of you.":誇りに思いますよ」}`
 `{ruby:"Shannon.:「紗音。}`
 `{ruby:......Do you have any objections?":……異論はないか」}`
 `{ruby:"......No.":「……はい」}`
-`{ruby:".........I heard that George‐sama gave you a ring.:「………譲治さまから指輪を贈られたそうだな。}`
+`{ruby:".........I heard that George‐sama:「………譲治さまから指輪}{ruby:gave you a ring.:を贈られたそうだな。}`
 `{ruby:Even so, you have no regrets?":それでもなお、未練はないか」}`
 `{ruby:"No.:「はい。}`
-`{ruby:......That blessing was more than furniture deserves.:……家具の身に過ぎた幸福でした。}`
-`{ruby:...Just receiving the ring has already fulfilled my feelings.":…指輪を頂戴しただけで、私の想いはすでに達せられております」}`
-`{ruby:Shannon had not yet reached as high of a philosophical state of mind as Genji.:紗音は、源次に比べるとまだ達観の境地には達していなかった。}`
-`{ruby:There probably really were regrets left in her heart.:本当はまだ心の中に未練があっただろう。}`
-`{ruby:...She probably wanted to spend a little more warm time with the person of her thoughts, George.:…想い人の譲治と、もう少し温かな時間を過ごしたかっただろう。}`
-`{ruby:......But she released herself from that.:……でも、それから自分を、解き放つ。}`
-`{ruby:She took a single deep breath, and from that point on, the expression she wore was blank.:深く静かな吐息をひとつ零した後には、淡白な表情を浮かべた彼女がいた。}`
+`{ruby:......That blessing was:……家具の身に過ぎ}{ruby:more than furniture deserves.:た幸福でした。}`
+`{ruby:...Just receiving the ring:…指輪を頂戴しただけで、私の想い}{ruby:has already fulfilled my feelings.":はすでに達せられております」}`
+`{ruby:Shannon had not yet reached as high:紗音は、源次に比べるとまだ達観の}{ruby:of a philosophical state of mind as Genji.:境地には達していなかった。}`
+`{ruby:There probably really were:本当はまだ心の中に未練}{ruby:regrets left in her heart.:があっただろう。}`
+`{ruby:...She probably wanted to spend a little more:…想い人の譲治と、もう少し温かな}{ruby:warm time with the person of her thoughts, George.:時間を過ごしたかっただろう。}`
+`{ruby:......But she released:……でも、それから自}{ruby:herself from that.:分を、解き放つ。}`
+`{ruby:She took a single deep breath, and from:深く静かな吐息をひとつ零した後には、}{ruby:that point on, the expression she wore was blank.:淡白な表情を浮かべた彼女がいた。}`
 `{ruby:"...............Very good.":「……………それで良い」}`
-`{ruby:"I am a little surprised that you have been able to calm yourself this much, Shannon.:「紗音がそこまでの落ち着きを得るとは、少し驚きでした。}`
-`{ruby:It seems that you have also come to terms with things as furniture.":あなたも家具として達観したようですね」}`
-`{ruby:"Won't you at least shed some bitter tears for not being able to spend a night with the man you love?:「惚れた男と夜も共にできず、少しは悔し涙を零さんのか。}`
+`{ruby:"I am a little surprised that you have:「紗音がそこまでの落ち着きを得}{ruby:been able to calm yourself this much, Shannon.:るとは、少し驚きでした。}`
+`{ruby:It seems that you have also:あなたも家具として達観}{ruby:come to terms with things as furniture.":したようですね」}`
+`{ruby:"Won't you at least shed some bitter tears for not:「惚れた男と夜も共にできず、少}{ruby:being able to spend a night with the man you love?:しは悔し涙を零さんのか。}`
 `{ruby:What a boring woman.":退屈な女よ」}`
 `{ruby:"............:「…………。}`
-`{ruby:.........This feeling cannot be understood by the likes of you, {f:5:Beatrice}‐sama.:………ベアトリーチェさま如きに、この気持ちはわかりません。}`
-`{ruby:......If you desire our lives, please accept them.:……私たちの命をご所望でしたら、どうぞお受け取り下さい。}`
-`{ruby:We will solemnly carry out that duty.":私たちは謹んでそのお勤めを全うします」}`
+`{ruby:.........This feeling cannot be understood:………ベアトリーチェさま如きに、}{ruby:by the likes of you, {f:5:Beatrice}‐sama.:この気持ちはわかりません。}`
+`{ruby:......If you desire our:……私たちの命をご所望でしたら}{ruby:lives, please accept them.:、どうぞお受け取り下さい。}`
+`{ruby:We will solemnly:私たちは謹んでそのお勤}{ruby:carry out that duty.":めを全うします」}`
 `{ruby:"......Good.:「……それでいい。}`
 `{ruby:Well said...":よくぞ言ったな…」}`
 `{ruby:"Pu ku ku ku.:「ぷっくっくっく。}`
-`{ruby:Just the type of person {f:5:Beatrice}‐sama is bad with.":ベアトリーチェさまの苦手なタイプのようで」}`
-`{ruby:"Recently, this one has become quite detached.:「最近、こやつめはだいぶ達観しよった。}`
-`{ruby:...It seems that I tortured her too much last time.:…どうも前回、苛め過ぎたようだ。}`
-`{ruby:Speaking of which, didn't I do the same to Battler?":それを言ったら戦人もか？」}`
+`{ruby:Just the type of:ベアトリーチェさまの苦手}{ruby:person {f:5:Beatrice}‐sama is bad with.":なタイプのようで」}`
+`{ruby:"Recently, this one:「最近、こやつめはだい}{ruby:has become quite detached.:ぶ達観しよった。}`
+`{ruby:...It seems that I tortured:…どうも前回、苛め}{ruby:her too much last time.:過ぎたようだ。}`
+`{ruby:Speaking of which, didn't I:それを言ったら戦}{ruby:do the same to Battler?":人もか？」}`
 `{ruby:"...Hmmm.:「…ふーむ。}`
 `{ruby:Am I still soft?:妾はまだぬるいのか？}`
-`{ruby:Or is my style of cornering them lacking?:それとも追い詰め方が下手なのか？}`
+`{ruby:Or is my style:それとも追い詰め方が}{ruby:of cornering them lacking?:下手なのか？}`
 `{ruby:In any case, she's just no fun.":何れにせよ、面白みのないヤツよ」}`
-`{ruby:".........However, it seems that you will still entertain me, right?:「………しかし、お前はまだ妾を楽しませてくれそうだよなぁ？}`
+`{ruby:".........However, it seems that you:「………しかし、お前はまだ妾を楽}{ruby:will still entertain me, right?:しませてくれそうだよなぁ？}`
 `{ruby:Kanooon?":嘉音ぉぉん？」}`
 `{ruby:"............Kanon‐kun...":「…………嘉音くん…」}`
 `{ruby:"..................":「………………」}`
-`{ruby:Compared to the two who had attained a philosophical state of mind, ...there was a painful anguish on Kanon's face.:達観の境地に達した二人に比べ、…嘉音の表情には苦々しい苦悶が浮かぶ。}`
-`{ruby:Kanon was still far too young to accept his demise without regrets,:唐突に現れた魔女に、終焉を告げられて、何の未練もなく受け容れるには、}`
-`{ruby:after being told of it by a suddenly appearing witch...:嘉音はまだまだ若かった…。}`
+`{ruby:Compared to the two who had attained a philosophical state:達観の境地に達した二人に比べ、…嘉音}{ruby:of mind, ...there was a painful anguish on Kanon's face.:の表情には苦々しい苦悶が浮かぶ。}`
+`{ruby:Kanon was still far too young:唐突に現れた魔女に、終焉を告げられて}{ruby:to accept his demise without regrets,:、何の未練もなく受け容れるには、}`
+`{ruby:after being told of it:嘉音はまだまだ若}{ruby:by a suddenly appearing witch...:かった…。}`
 `{ruby:"......Kanon.:「……嘉音。}`
 `{ruby:I detest boredom more than anything.:妾は退屈を何より嫌う。}`
-`{ruby:And it isn't interesting that those other two have obediently accepted their deaths.:そして、お前を除く二人が素直に死を受け容れるもので、面白くない。}`
-`{ruby:......So I don't want you to betray my expectations.":……だからそなたには、妾の期待を裏切らないでもらいたいものだ」}`
-`{ruby:"............Are you trying to make me your plaything...?":「…………僕を慰み者にしようというのか…」}`
-`{ruby:Kanon realized that he was being provoked.:嘉音は、自らが挑発されていることを自覚する。}`
-`{ruby:...However, no matter how much anger spurred him on, his opponent was a witch.:…だが、どのような怒りに駆られたところで、相手は魔女。}`
+`{ruby:And it isn't interesting that those:そして、お前を除く二人が素直に死を}{ruby:other two have obediently accepted their deaths.:受け容れるもので、面白くない。}`
+`{ruby:......So I don't want:……だからそなたには、妾の期待を裏}{ruby:you to betray my expectations.":切らないでもらいたいものだ」}`
+`{ruby:"............Are you trying to:「…………僕を慰み者にし}{ruby:make me your plaything...?":ようというのか…」}`
+`{ruby:Kanon realized that:嘉音は、自らが挑発されて}{ruby:he was being provoked.:いることを自覚する。}`
+`{ruby:...However, no matter how much anger spurred:…だが、どのような怒りに駆られ}{ruby:him on, his opponent was a witch.:たところで、相手は魔女。}`
 `{ruby:He was furniture.:自分は家具。}`
-`{ruby:He had no chance of victory from the beginning.:勝ち目など元よりない。}`
-`{ruby:But the witch was expecting that he would struggle in vain and writhe around,:それでも魔女は、自分が悪足掻きをして、のた打ち回ることに期待し、}`
+`{ruby:He had no chance:勝ち目など元よ}{ruby:of victory from the beginning.:りない。}`
+`{ruby:But the witch was expecting that he:それでも魔女は、自分が悪足掻きをし}{ruby:would struggle in vain and writhe around,:て、のた打ち回ることに期待し、}`
 `{ruby:and was looking forward to it...:それを楽しもうとしている…。}`
-`{ruby:......Just thinking about that was frustrating enough to get his blood boiling.:……それを思えば、腸が煮えくり返るほど悔しい。}`
-`{ruby:Was disappointing the witch by refusing to resist, like the other two,:姉たちのように、敢えて抵抗しないことによって、魔女を拍子抜けさせるのも、}`
-`{ruby:the only way he could strike back at her...?:唯一魔女に報いることができる一矢なのか…。}`
-`{ruby:"Eldest of the Seven Sisters of Purgatory, Lucifer.:「煉獄の七姉妹が長女、ルシファー。}`
+`{ruby:......Just thinking about that was frustrating:……それを思えば、腸が煮え}{ruby:enough to get his blood boiling.:くり返るほど悔しい。}`
+`{ruby:Was disappointing the witch by refusing:姉たちのように、敢えて抵抗しないことに}{ruby:to resist, like the other two,:よって、魔女を拍子抜けさせるのも、}`
+`{ruby:the only way he:唯一魔女に報いることがで}{ruby:could strike back at her...?:きる一矢なのか…。}`
+`{ruby:"Eldest of the Seven:「煉獄の七姉妹が長女}{ruby:Sisters of Purgatory, Lucifer.:、ルシファー。}`
 `{ruby:Arise.":出でよ」}`
-`{ruby:"......Lucifer the Proud, right here.":「……傲慢のルシファー、ここに」}`
+`{ruby:"......Lucifer the:「……傲慢のルシフ}{ruby:Proud, right here.":ァー、ここに」}`
 `{ruby:"Kanon.:「嘉音。}`
-`{ruby:It would be too cruel to force furniture to fight a witch.:家具に魔女と戦えというのも酷な話よ。}`
-`{ruby:No matter how much anger spurs you on, you could hardly hold hope in a battle you have no chance of winning.:そなたがいくら怒りに駆られようとも、勝算のない戦いでは希望も持てまい。}`
-`{ruby:Of course, a battle without a chance of success would be boring for me as well.":無論、勝ち目のない戦いでは妾も退屈というもの」}`
-`{ruby:"......So, furniture against furniture.:「……ならば家具は家具。}`
-`{ruby:Why not resolve it with a battle between furniture?:家具同士で決着をつけてはどうか？}`
-`{ruby:That should be enough to allow you some hope for victory, right...?":それならば勝てる希望も持てるであろう…？」}`
+`{ruby:It would be too cruel to:家具に魔女と戦えとい}{ruby:force furniture to fight a witch.:うのも酷な話よ。}`
+`{ruby:No matter how much anger spurs you on, you could hardly:そなたがいくら怒りに駆られようとも、勝}{ruby:hold hope in a battle you have no chance of winning.:算のない戦いでは希望も持てまい。}`
+`{ruby:Of course, a battle without a chance of:無論、勝ち目のない戦いでは}{ruby:success would be boring for me as well.":妾も退屈というもの」}`
+`{ruby:"......So, furniture:「……ならば家}{ruby:against furniture.:具は家具。}`
+`{ruby:Why not resolve it:家具同士で決着をつ}{ruby:with a battle between furniture?:けてはどうか？}`
+`{ruby:That should be enough to allow:それならば勝てる希望も持}{ruby:you some hope for victory, right...?":てるであろう…？」}`
 `{ruby:"..................:「………………。}`
-`{ruby:...With all due respect, {f:5:Beatrice}‐sama.:…恐れながらベアトリーチェさま。}`
-`{ruby:Is it truly possible that I could yield to this good‐for‐nothing furniture?":私がそのような出来損ないの家具に劣るようなことがありましょうか？」}`
-`{ruby:"As if this cute kid would have any chance in hell against me...:「こんな可愛い子に、私が万一にも負けるようなことなど…。}`
-`{ruby:Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh.":うっふふふふふふふふふふふ」}`
-`{ruby:".................................kh.":「……………………………く」}`
-`{ruby:"Show me that you can defeat my furniture of the Seven Stakes of Purgatory.:「我が家具、煉獄の七杭を打ち破って見せよ。}`
-`{ruby:If you manage to come out the admirable victor,:見事打ち破って見せたなら、}`
+`{ruby:...With all:…恐れながらベアト}{ruby:due respect, {f:5:Beatrice}‐sama.:リーチェさま。}`
+`{ruby:Is it truly possible that I:私がそのような出来損ないの家具に劣る}{ruby:could yield to this good‐for‐nothing furniture?":ようなことがありましょうか？」}`
+`{ruby:"As if this cute kid would:「こんな可愛い子に、私が万一に}{ruby:have any chance in hell against me...:も負けるようなことなど…。}`
+`{ruby::うっふふふふふふ}{ruby:Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh.":ふふふふふ」}`
+`{ruby::「…………………}{ruby:".................................kh.":…………く」}`
+`{ruby:"Show me that you can defeat my:「我が家具、煉獄の七杭を}{ruby:furniture of the Seven Stakes of Purgatory.:打ち破って見せよ。}`
+`{ruby:If you manage to:見事打ち破って見}{ruby:come out the admirable victor,:せたなら、}`
 `{ruby:.........hm, let us see...":………そうだな」}`
-`{ruby:"I will let you have free choice over the five people who will escape becoming one of the 13 sacrifices.:「１３人の生贄を逃れることのできる５人をそなたに自由に決めさせてやろう。}`
-`{ruby:I will unconditionally welcome the five people you recommend into the Golden Land.:そなたの推薦する５人を、妾は無条件にて黄金郷に迎え入れる。}`
+`{ruby:"I will let you have free choice over the five:「１３人の生贄を逃れることのできる５人}{ruby:people who will escape becoming one of the 13 sacrifices.:をそなたに自由に決めさせてやろう。}`
+`{ruby:I will unconditionally welcome the five:そなたの推薦する５人を、妾は無条}{ruby:people you recommend into the Golden Land.:件にて黄金郷に迎え入れる。}`
 `{ruby:...How about that?":…それならばどうか」}`
-`{ruby:Kanon understood that he was being provoked.:嘉音は、自分が挑発されていることを理解している。}`
-`{ruby:{n}......However, the witch's condition was very tempting.:{n}……しかし、魔女の出す条件はあまりに誘惑的だった。}`
-`{ruby:The evil ritual the witch and the rest were trying to carry out was, at this point,:嘉音にとって、魔女たちが執り行おうとしている邪悪な儀式は、}`
-`{ruby:not something that Kanon cared about in the slightest.:それ自体が今更どうこうというものではない。}`
-`{ruby:......On the contrary, it was much more important for him to survive, be invited to the Golden Land,:……むしろ、生き残って黄金郷へ招かれ、}`
-`{ruby:...and have his wish granted by {f:5:Beatrice} there...:…そこでベアトリーチェによって願いを叶えてもらえることの方が重要な意味を持っていた…。}`
-`{ruby:"You cried that you'd had enough of being furniture, right...?:「そなたは家具は嫌だと泣いたなぁ…？}`
+`{ruby:Kanon understood that:嘉音は、自分が挑発されてい}{ruby:he was being provoked.:ることを理解している。}`
+`{ruby:{n}......However, the witch's:{n}……しかし、魔女の出す条}{ruby:condition was very tempting.:件はあまりに誘惑的だった。}`
+`{ruby:The evil ritual the witch and the rest:嘉音にとって、魔女たちが執り行お}{ruby:were trying to carry out was, at this point,:うとしている邪悪な儀式は、}`
+`{ruby:not something that Kanon:それ自体が今更どうこうと}{ruby:cared about in the slightest.:いうものではない。}`
+`{ruby:......On the contrary, it was much more important for:……むしろ、生き残って}{ruby:him to survive, be invited to the Golden Land,:黄金郷へ招かれ、}`
+`{ruby:...and have his wish:…そこでベアトリーチェによって願いを叶えてもら}{ruby:granted by {f:5:Beatrice} there...:えることの方が重要な意味を持っていた…。}`
+`{ruby:"You cried that you'd had:「そなたは家具は嫌だ}{ruby:enough of being furniture, right...?:と泣いたなぁ…？}`
 `{ruby:I shall grant your desire.:そなたの望み、叶えてやろうぞ。}`
-`{ruby:I shall give you that human body which you wanted so much that you cried yourself to sleep.:枕を濡らしてまで望んだ、人間の体を与えてやろうぞ。}`
+`{ruby:I shall give you that human body which you:枕を濡らしてまで望んだ、人間}{ruby:wanted so much that you cried yourself to sleep.:の体を与えてやろうぞ。}`
 `{ruby:What do you say...?:どうだぁ…？}`
-`{ruby:Then you could be together with Jessica, right?:そうすれば朱志香とも結ばれるぞ？}`
+`{ruby:Then you could be:そうすれば朱志香とも}{ruby:together with Jessica, right?:結ばれるぞ？}`
 `{ruby:Ooh, just perfect.:おぉ、丁度良い。}`
-`{ruby:You may include Jessica and yourself in the five you recommend for invitation to the Golden Land.":黄金郷へ招ける５人に朱志香とそなたを推薦すれば良い」}`
-`{ruby:"......If you have some hesitation toward making only yourself happy,:「……自分だけが幸せになることに抵抗があるならば、}`
-`{ruby:then you can add Shannon and her loved one, George, as well.:さらに紗音と、その想い人である譲治を加えれば良い。}`
-`{ruby:If you're worried about duty, then you can also add Genji.":義理があるならばさらに源次も加えれば良い」}`
+`{ruby:You may include Jessica and yourself in the:黄金郷へ招ける５人に朱志香と}{ruby:five you recommend for invitation to the Golden Land.":そなたを推薦すれば良い」}`
+`{ruby:"......If you have some hesitation:「……自分だけが幸せになるこ}{ruby:toward making only yourself happy,:とに抵抗があるならば、}`
+`{ruby:then you can add Shannon and:さらに紗音と、その想い人であ}{ruby:her loved one, George, as well.:る譲治を加えれば良い。}`
+`{ruby:If you're worried about duty,:義理があるならばさらに源}{ruby:then you can also add Genji.":次も加えれば良い」}`
 `{ruby:"Hoh!:「ほぅ！}`
 `{ruby:That's five people.:これで５人だ。}`
 `{ruby:Just enough room, Kanon.:充分ではないか、嘉音。}`
-`{ruby:.........With this much of a reward, ......*cackle*cackle*cackle*!:………これだけのご褒美があれば、……くっくくくくく！}`
-`{ruby:You won't let me get bored, will youuuu...?":そなたは妾を退屈させはしないよなぁぁ…？」}`
+`{ruby:.........With this much:………これだけのご褒美があれ}{ruby:of a reward, ......*cackle*cackle*cackle*!:ば、……くっくくくくく！}`
+`{ruby:You won't let me:そなたは妾を退屈させはし}{ruby:get bored, will youuuu...?":ないよなぁぁ…？」}`
 `{ruby:"......She's just playing with you.:「……どうせ戯れよ。}`
 `{ruby:There is no need to listen to her.":耳を貸す必要はない」}`
 `{ruby:"I, ......I'm sick of this.:「ぼ、……僕は嫌だ。}`
-`{ruby:Is this really what you want, Nee‐san?!":姉さんはそれでいいの？！」}`
-`{ruby:{f:5:Beatrice} couldn't hide her evil smile at those words.:その言葉に、ベアトリーチェは邪悪な笑みを隠せない。}`
+`{ruby:Is this really:姉さんはそれでい}{ruby:what you want, Nee‐san?!":いの？！」}`
+`{ruby:{f:5:Beatrice} couldn't hide her:その言葉に、ベアトリーチェは}{ruby:evil smile at those words.:邪悪な笑みを隠せない。}`
 `{ruby:"I'm sick of this.:「僕は嫌だ。}`
 `{ruby:I want to be happy!:幸せになりたい！}`
 `{ruby:I've had enough of being furniture.:家具なんてもう嫌だ。}`
-`{ruby:I want to become human, ......and have normal love...!:人間になって、……普通の恋がしたい…！}`
-`{ruby:I want to know that...the ocean is blue, like you!":僕も姉さんのように、…海が青いってことを知りたいんだ！」}`
+`{ruby:I want to become:人間になって、……普通}{ruby:human, ......and have normal love...!:の恋がしたい…！}`
+`{ruby:I want to know that...the:僕も姉さんのように、…海が青いっ}{ruby:ocean is blue, like you!":てことを知りたいんだ！」}`
 `{ruby:"............How young.:「…………若いですね。}`
 `{ruby:I'm jealous.":羨ましい」}`
 `{ruby:"That's why I like the young ones.:「だから若者は好きなのだ。}`
@@ -430,25 +430,25 @@
 `{ruby:"..............................":「…………………………」}`
 `{ruby:"...Hehheheheheheheheheheheh.:「…うふふふふふふふふふふ。}`
 `{ruby:I don't like it.:気に入らないわぁ。}`
-`{ruby:...You know you can't win against {f:5:Beatrice}‐sama,:…ベアトリーチェさまは無理でも、}`
-`{ruby:but you look down on me as though you might be able to win against me...:私にだったら勝てるかもしれないという見下しが、}`
+`{ruby:...You know you:…ベアトリーチェさ}{ruby:can't win against {f:5:Beatrice}‐sama,:まは無理でも、}`
+`{ruby:but you look down on me as though:私にだったら勝てるかもしれ}{ruby:you might be able to win against me...:ないという見下しが、}`
 `{ruby:......I {i:really} don't like it.":……最高に気に入らないわぁ」}`
-`{ruby:That was probably humiliating to Lucifer.:ルシファーにとって、それは恐らく屈辱的なことなのだろう。}`
-`{ruby:...But at the same time, she was also happy that she was so lucky to have this lovely prey all to herself...:…しかし同時に、この可愛らしい獲物を独り占めできる幸運にも喜びを感じていた…。}`
-`{ruby:".........Come, furniture of the witch.:「………来い、魔女の家具。}`
-`{ruby:.........Don't think that you can look down on me forever...!":………いつまでも僕を見くびることができると思うな…！」}`
+`{ruby:That was probably:ルシファーにとって、それは恐ら}{ruby:humiliating to Lucifer.:く屈辱的なことなのだろう。}`
+`{ruby:...But at the same time, she was also happy that she:…しかし同時に、この可愛らしい獲物を独り占}{ruby:was so lucky to have this lovely prey all to herself...:めできる幸運にも喜びを感じていた…。}`
+`{ruby:".........Come, furniture:「………来い、魔}{ruby:of the witch.:女の家具。}`
+`{ruby:.........Don't think that you can:………いつまでも僕を見くびるこ}{ruby:look down on me forever...!":とができると思うな…！」}`
 `{ruby:"Come, now, Battler.:「さぁさ、戦人ぁ。}`
 `{ruby:It is time for another fun show!:楽しい見世物の時間であるぞ？}`
 `{ruby:*cackle*cackle*!":くっくっくっく！」}`
 `{ruby:".........Damn.:「………くそ。}`
-`{ruby:It's turned into something ridiculous again...:また、おかしなことになりやがった…。}`
-`{ruby:Like I'd ever accept that it's a magic battle...!":魔法バトルなんて認めてたまるかよ…！」}`
-`{ruby:"Look, look, don't turn your eyes away, look at it.:「ほらほら、目を瞑らずにちゃんと見ろよォ。}`
+`{ruby:It's turned into:また、おかしなことに}{ruby:something ridiculous again...:なりやがった…。}`
+`{ruby:Like I'd ever accept:魔法バトルなんて認めて}{ruby:that it's a magic battle...!":たまるかよ…！」}`
+`{ruby:"Look, look, don't turn your:「ほらほら、目を瞑らずに}{ruby:eyes away, look at it.:ちゃんと見ろよォ。}`
 `{ruby:Look look, look look!:ほらほら、ほらほら！}`
 `{ruby:It's magic, it's furniture,:魔法だよォ家具だよォ、}`
-`{ruby:no matter how much you try to deny me and magic,:そなたがどんなに妾や魔法の存在を否定しようとも、}`
+`{ruby:no matter how much you:そなたがどんなに妾や魔法の}{ruby:try to deny me and magic,:存在を否定しようとも、}`
 `{ruby:look look, look look look look!":ほらほら、ほらほらほらほらァ！」}`
-`{ruby:"All this bwaan bwaan, ka‐shing ka‐shing, right in front of your eyes, it was all for nothing, riiiight?:「こうして目の前でブォンブォンカキンカキンやられちゃあ、台無しだよなぁああぁ？}`
+`{ruby:"All this bwaan bwaan, ka‐shing ka‐shing, right in front:「こうして目の前でブォンブォンカキンカキン}{ruby:of your eyes, it was all for nothing, riiiight?:やられちゃあ、台無しだよなぁああぁ？}`
 `{ruby:Look look look look,:ほらほらほらほら、}`
 `{ruby:stop thinking already,:もう思考なんて止めちまえよォ、}`
 `{ruby:I told you magic exists!:魔法はあるんだって！}`
@@ -457,144 +457,144 @@
 `{ruby:look closely,:しっかり見ろよ、}`
 `{ruby:look look look look look!!":ほらほらほらほらほらァ！！」}`
 `{ruby:"Damn it, damn it damn it damn it...:「畜生、畜生畜生畜生…。}`
-`{ruby:I won't accept witches, I won't accept magic...!:魔女を認めない、魔法を認めない…！}`
-`{ruby:But if it's as obvious as this, what the hell am I meant to say?!:でも、こんなにあからさまにやられちまったら、何だって言やぁいいんだ？！}`
+`{ruby:I won't accept witches,:魔女を認めない、魔法}{ruby:I won't accept magic...!:を認めない…！}`
+`{ruby:But if it's as obvious as this,:でも、こんなにあからさまにやられちまっ}{ruby:what the hell am I meant to say?!:たら、何だって言やぁいいんだ？！}`
 `{ruby:...............Damn, damndamndamn!":……………くそ、くそくそくそ！」}`
-`{ruby:"Come now, don't turn away, look closely, alriiiight??:「ほらぁ、目を背けるなよ、しっかり見ろよォオオォ？？}`
-`{ruby:Magic exists, it's fantasy, stop playing detective.":魔法はあるんだよ、ファンタジーなんだよ、推理ごっことか止めちまえよ」}`
-`{ruby:"I know all about it, the truth is you're awful at thinking about things, riiight??:「知ってんだよ、モノを考えンの本当は苦手なんだろォ？？}`
-`{ruby:Just stop, just stoooop, *cackle*cackle*!:止めちまえ止めちまえェエ、くっくっくっく！}`
-`{ruby:Look look, obviously fantasy, obviously fantasy, kihhihi{0}hya{0}hyah{0}hyah{0}hyah{0}hyah{0}hyah{0}hyaa{0}a{0}a{0}aahhh!!":ほらほらどうせファンタジーどうせファンタジー、くっひひひゃひゃっひゃっひゃっひゃっひゃっひゃあぁああぁ！！」}`
-`{ruby:"Shut up shut up shut uuuuuuuuuuup...!!!:「うるせえうるせえぇうるせええぇえええぇ…！！！}`
+`{ruby:"Come now, don't turn:「ほらぁ、目を背けるなよ、し}{ruby:away, look closely, alriiiight??:っかり見ろよォオオォ？？}`
+`{ruby:Magic exists, it's:魔法はあるんだよ、ファンタジーなんだよ}{ruby:fantasy, stop playing detective.":、推理ごっことか止めちまえよ」}`
+`{ruby:"I know all about it, the truth:「知ってんだよ、モノを考えンの}{ruby:is you're awful at thinking about things, riiight??:本当は苦手なんだろォ？？}`
+`{ruby:Just stop,:止めちまえ止めちまえェエ}{ruby:just stoooop, *cackle*cackle*!:、くっくっくっく！}`
+`{ruby:Look look, obviously:ほらほらどうせファンタジーどうせファンタジー、くっひひひゃ}{ruby:fantasy, obviously fantasy, kihhihi{0}hya{0}hyah{0}hyah{0}hyah{0}hyah{0}hyah{0}hyaa{0}a{0}a{0}aahhh!!":ひゃっひゃっひゃっひゃっひゃっひゃあぁああぁ！！」}`
+`{ruby:"Shut up shut:「うるせえうるせえぇうるせ}{ruby:up shut uuuuuuuuuuup...!!!:ええぇえええぇ…！！！}`
 `{ruby:Don't talk to meeeeeeee...!!":俺に話し掛けるんじゃねええぇええぇ…！！」}`
-`{ruby:".........This guy's gotten obstinate.:「………こいつ、意地になっちゃってぇ。}`
-`{ruby:...Get down on the ground right now and apologize for being so conceited that you thought you could "at least beat me".:…私になら勝てるなんて思いあがりをしたことを、今すぐ床に這いつくばって謝ってごらんなさい…？}`
-`{ruby:If you do, I'll spare you, alright...?":そうしたら、特別に許してあげてもいいわよぅ…？」}`
-`{ruby:"I'll spare you from having your skin ripped off while you're still alive,:「生きながら生皮を剥がして、}`
-`{ruby:and being lashed all over your body as you squirm until you die.:絶命するまで全身を鞭打ってのた打ち回らすのを、特別に許してあげてもいいわよぅ。}`
-`{ruby:Hehheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh!":ふっふふふふふふふふふふ！」}`
+`{ruby:".........This guy's:「………こいつ、意地に}{ruby:gotten obstinate.:なっちゃってぇ。}`
+`{ruby:...Get down on the ground right now and apologize for being:…私になら勝てるなんて思いあがりをしたことを、今}{ruby:so conceited that you thought you could "at least beat me".:すぐ床に這いつくばって謝ってごらんなさい…？}`
+`{ruby:If you do,:そうしたら、特別に許してあげ}{ruby:I'll spare you, alright...?":てもいいわよぅ…？」}`
+`{ruby:"I'll spare you from having your:「生きながら生皮}{ruby:skin ripped off while you're still alive,:を剥がして、}`
+`{ruby:and being lashed all over your:絶命するまで全身を鞭打ってのた打ち回らすの}{ruby:body as you squirm until you die.:を、特別に許してあげてもいいわよぅ。}`
+`{ruby::ふっふふふふふふ}{ruby:Hehheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh!":ふふふふ！」}`
 `{ruby:"You're a cute kid, so apologize...:「可愛い子なんだから、謝っちゃいなさいよ…。}`
-`{ruby:If you do, you can spend your last moments in blissful, wonderful ecstasy as I gently, gently finish you off......":そうしたら、あなただけは、最高にステキな気分の中で、やさしくやさしく逝かせてアゲル……」}`
+`{ruby:If you do, you can spend your last moments in:そうしたら、あなただけは、最高にステキな気分の}{ruby:blissful, wonderful ecstasy as I gently, gently finish you off......":中で、やさしくやさしく逝かせてアゲル……」}`
 `{ruby:"Be silent, furniture of the witch.:「黙れ、魔女の家具。}`
-`{ruby:...I have no intention of speaking with you.":…お前と問答するつもりはない」}`
-`{ruby:"S‐......so you say that you think nothing of me, do you...?":「わっ、……私なんか眼中にないと言うのね…？」}`
-`{ruby:"Hehhheh{0}eh{0}eh{0}eh{0}eh{0}eheheh, I don't like it, that disrespectful gaze of yours...:「ふっふふふふふふふふふッ、気に入らないわぁ、畏怖を感じないその眼っ、}`
+`{ruby:...I have no intention:…お前と問答するつ}{ruby:of speaking with you.":もりはない」}`
+`{ruby:"S‐......so you say that you:「わっ、……私なんか眼中に}{ruby:think nothing of me, do you...?":ないと言うのね…？」}`
+`{ruby:"Hehhheh{0}eh{0}eh{0}eh{0}eh{0}eheheh, I don't like it,:「ふっふふふふふふふふふッ、気に入らな}{ruby:that disrespectful gaze of yours...:いわぁ、畏怖を感じないその眼っ、}`
 `{ruby:I really don't like iiiiit!!":本当に気に入らないわぁああッ！！」}`
-`{ruby:"............Kanon‐kun...............":「…………嘉音くん……………」}`
+`{ruby::「…………嘉音くん}{ruby:"............Kanon‐kun...............":……………」}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:"......Isn't he stronger than he was against Satan?":「……あやつ、サタンの時よりも筋がいいではないか」}`
-`{ruby:"That is why humans are so frightening.:「だから人間は恐ろしいのです。}`
-`{ruby:Sometimes they even become witches, and treat demons as butlers.":たまに魔女にまでなり、悪魔を執事扱いにしたりいたしますよ」}`
+`{ruby:"......Isn't he stronger than:「……あやつ、サタンの時より}{ruby:he was against Satan?":も筋がいいではないか」}`
+`{ruby:"That is why:「だから人間は恐ろ}{ruby:humans are so frightening.:しいのです。}`
+`{ruby:Sometimes they even become witches,:たまに魔女にまでなり、悪魔を執事}{ruby:and treat demons as butlers.":扱いにしたりいたしますよ」}`
 `{ruby:"Pu ku ku ku ku!:「ぷっくっくっくっく！}`
 `{ruby:So, which should I cheer on?":妾はどちらを応援すれば良いというのか」}`
 `{ruby:"...Are you...:「…こいつっ、}`
-`{ruby:......saying that this guy's on par with me...!":………私と互角に渡り合うと言うの…！」}`
+`{ruby:......saying that this guy's:………私と互角に渡り合}{ruby:on par with me...!":うと言うの…！」}`
 `{ruby:".........Don't look down on me.:「………僕を見くびるな。}`
-`{ruby:As long as you have that pride, you can never win against me.":お前にその驕りがある限り、僕には決して勝てない」}`
+`{ruby:As long as you have that:お前にその驕りがある限り、}{ruby:pride, you can never win against me.":僕には決して勝てない」}`
 `{ruby:"Y‐y‐:「わ、私が、}`
-`{ruby:...you speak of Lucifer, the eldest of the Seven Sisters of Purgatory, and say that I can never win?!:…この、煉獄の七姉妹が長女、ルシファーを指して、決して勝てないと？！}`
+`{ruby:...you speak of Lucifer, the eldest of the Seven:…この、煉獄の七姉妹が長女、ルシファ}{ruby:Sisters of Purgatory, and say that I can never win?!:ーを指して、決して勝てないと？！}`
 `{ruby:H‐how...conceited!!":こ、この、思いあがりがっ！！」}`
 `{ruby:"...Wha...............":「…なッ………………、」}`
-`{ruby:Kanon was desperately trying to stay alive, and he had the strong desire to become human.:嘉音には、死に物ぐるいでも生き残り、人間になりたいという強い願いがあった。}`
-`{ruby:But Lucifer didn't feel anything stronger than a slight desire to play.:でもルシファーには、軽く遊んでやろうという気持ち以上に強いものは、何もなかった。}`
-`{ruby:......So, that reached its inevitable result.:……だから、それが必然の結果になって現れる。}`
-`{ruby:For the ability to yield such a result is the power of humans.:その結果を示せるのが、人の力。}`
+`{ruby:Kanon was desperately trying to stay alive, and:嘉音には、死に物ぐるいでも生き残り、人間}{ruby:he had the strong desire to become human.:になりたいという強い願いがあった。}`
+`{ruby:But Lucifer didn't feel anything stronger:でもルシファーには、軽く遊んでやろうという}{ruby:than a slight desire to play.:気持ち以上に強いものは、何もなかった。}`
+`{ruby:......So, that reached:……だから、それが必然の}{ruby:its inevitable result.:結果になって現れる。}`
+`{ruby:For the ability to yield such:その結果を示せるの}{ruby:a result is the power of humans.:が、人の力。}`
 `{ruby:...The power of the heart.:…心の力。}`
-`{ruby:"...............That's as far as you go.:「……………これまでだ。}`
+`{ruby:"...............That's as far:「……………こ}{ruby:as you go.:れまでだ。}`
 `{ruby:You can never win against me.":お前は僕に、決して勝てない」}`
-`{ruby:A glowing red trail extended straight out from Kanon's arm,:嘉音の腕より閃く赤き軌跡が真っ直ぐに伸び、}`
-`{ruby:......pointing at Lucifer's throat, just beneath the tip of her chin...:……ルシファーの喉元を指し、顎の先端をぴったりと捉えていた…。}`
+`{ruby:A glowing red trail extended:嘉音の腕より閃く赤き軌跡}{ruby:straight out from Kanon's arm,:が真っ直ぐに伸び、}`
+`{ruby:......pointing at Lucifer's throat, just:……ルシファーの喉元を指し、顎の先}{ruby:beneath the tip of her chin...:端をぴったりと捉えていた…。}`
 `{ruby:"Wh‐:「な、}`
 `{ruby:......what is this...?!:……何よこれぇ…？！}`
 `{ruby:How could I...:この私が、}`
-`{ruby:......There...must be some mistake...":……こんなの、何かの間違いよっ…」}`
-`{ruby:As she ground her teeth in irritation, she tried to deny the reality right before her eyes.:歯軋りをしながら悔しがりながら、目の前の現実を拒否しようとする。}`
-`{ruby:...But no matter how much she believed in her own superiority, it didn't change the facts right before her eyes.:…しかし、どんなに彼女が自らを優位であると信じようとも、目の前の事実は変わらない。}`
+`{ruby:......There...must be:……こんなの、何かの}{ruby:some mistake...":間違いよっ…」}`
+`{ruby:As she ground her teeth in irritation, she:歯軋りをしながら悔しがりながら、目}{ruby:tried to deny the reality right before her eyes.:の前の現実を拒否しようとする。}`
+`{ruby:...But no matter how much she believed in her own:…しかし、どんなに彼女が自らを優位であると信}{ruby:superiority, it didn't change the facts right before her eyes.:じようとも、目の前の事実は変わらない。}`
 `{ruby:"Hoh.:「ほぉ。}`
 `{ruby:...Well done, Kanon.:…やるな、嘉音。}`
-`{ruby:Wonderful, you haven't made me bored.:見事だ、妾を退屈させなかった。}`
-`{ruby:......How pitiful my furniture is in comparison.:……それに比べ、妾の家具の何と情けないことか。}`
+`{ruby:Wonderful, you haven't:見事だ、妾を退屈さ}{ruby:made me bored.:せなかった。}`
+`{ruby:......How pitiful my:……それに比べ、妾の家具の}{ruby:furniture is in comparison.:何と情けないことか。}`
 `{ruby:*cackle*cackle*!":くっくっくっく！」}`
 `{ruby:"......Lucifer.:「……ルシファー。}`
 `{ruby:You are boring Milady.:お嬢様を退屈させていますよ？}`
-`{ruby:Was this opponent really too much for you to handle...?":やはりあなたには荷が勝ちすぎた相手でしたか…？」}`
-`{ruby:"I'm disappointed, eldest of the Seven Staaakes.:「失望するぞ、七杭の長女ォ？}`
-`{ruby:Kuhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!":くっひひひひひひひひひひひ…！」}`
-`{ruby:That would have seemed like nothing more than a simple rebuke to an outsider.:それはわからぬ者には単なる詰りでしかない。}`
-`{ruby:However, furniture serving the witch knew what kind of severe treatment was promised by that rebuke,:しかし、魔女に仕える家具には、その詰りの裏側にどれほどの辛辣な仕打ちが約束され、}`
-`{ruby:and understood what had been left unsaid...:そして語ることを端折っているのか理解できる…。}`
+`{ruby:Was this opponent really too:やはりあなたには荷が勝ちすぎ}{ruby:much for you to handle...?":た相手でしたか…？」}`
+`{ruby:"I'm disappointed, eldest:「失望するぞ、七}{ruby:of the Seven Staaakes.:杭の長女ォ？}`
+`{ruby::くっひひひひひひひひ}{ruby:Kuhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!":ひひひ…！」}`
+`{ruby:That would have seemed like nothing more:それはわからぬ者には単な}{ruby:than a simple rebuke to an outsider.:る詰りでしかない。}`
+`{ruby:However, furniture serving the witch knew what kind:しかし、魔女に仕える家具には、その詰りの裏}{ruby:of severe treatment was promised by that rebuke,:側にどれほどの辛辣な仕打ちが約束され、}`
+`{ruby:and understood what:そして語ることを端折ってい}{ruby:had been left unsaid...:るのか理解できる…。}`
 `{ruby:"Uuuuuuuuuuuguuhhh!!:「ぅうぅぅぅぅぅぅぅぅっ！！}`
-`{ruby:You......good‐for‐nothing FURNITU{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}UURE!!!":この、……出来損ない家具があああああぁあぁッ！！！」}`
+`{ruby:You......good‐for‐nothing:この、……出来損ない家具がああ}{ruby:FURNITU{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}UURE!!!":あああぁあぁッ！！！」}`
 `{ruby:She howled.:彼女は吼えた。}`
-`{ruby:...Abandoning her last bit of pride, she made her body explode, exposing her true form.:…最後のプライドを投げ出し、自らの人の姿を弾かせ、真の姿を曝け出す。}`
-`{ruby:That form was a demon stake, which bounced and deflected off the walls all over the room...:それは、部屋中の壁に乱反射して飛び交う、悪魔の杭の姿…。}`
+`{ruby:...Abandoning her last bit of pride, she:…最後のプライドを投げ出し、自らの人}{ruby:made her body explode, exposing her true form.:の姿を弾かせ、真の姿を曝け出す。}`
+`{ruby:That form was a demon stake, which bounced:それは、部屋中の壁に乱反射して}{ruby:and deflected off the walls all over the room...:飛び交う、悪魔の杭の姿…。}`
 `{ruby:"How could you shame me so much!!:「よくも私にここまで恥をかかせたなっ！！}`
-`{ruby:I'll kill you, kill you kill you kill you!!:殺すっ殺す殺す殺す！！}`
+`{ruby:I'll kill you, kill:殺すっ殺す殺す}{ruby:you kill you kill you!!:殺す！！}`
 `{ruby:You slowpoke!:このノロマが！}`
-`{ruby:Even though you can't even follow my movements anymore!!:私の姿をもはや追うこともできないくせにっ！！}`
-`{ruby:I won't play around anymore, I'm seriously mad, I'll pierce your heart in one blow!!":もう遊ばないよ、本気で怒ったわよっ、お前の心臓を一撃で貫いてやるよっ！！」}`
-`{ruby:"I'll plow right through you, and make a fountain of bright‐red blood reach the ceiling!!:「ぶっすりざっくり貫いて、真っ赤な血の噴水を天井にまで届かせてやるよっ！！}`
-`{ruby:DIIIII{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}IIEEEE!!":死ねぇええええええええええぇええええぇえぇッ！！」}`
+`{ruby:Even though you can't:私の姿をもはや追うこともで}{ruby:even follow my movements anymore!!:きないくせにっ！！}`
+`{ruby:I won't play around anymore, I'm seriously:もう遊ばないよ、本気で怒ったわよっ、お前}{ruby:mad, I'll pierce your heart in one blow!!":の心臓を一撃で貫いてやるよっ！！」}`
+`{ruby:"I'll plow right through you, and make:「ぶっすりざっくり貫いて、真っ赤な血の噴}{ruby:a fountain of bright‐red blood reach the ceiling!!:水を天井にまで届かせてやるよっ！！}`
+`{ruby::死ねぇええええええええええぇ}{ruby:DIIIII{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}IIEEEE!!":ええええぇえぇッ！！」}`
 `{ruby:"Ka‐Kanon‐kun.........!!":「か、嘉音くん………ッ！！」}`
-`{ruby:With a speed exceeding even the limits that the human eye could follow,:人の目では捉えることの出来ない領域にまで踏み込んだ速度で、}`
-`{ruby:Lucifer went wild, and flew at Kanon's heart...:ルシファーは存分に撹乱した後に、嘉音のその心臓に喰らい付く…。}`
-`{ruby:Lucifer confirmed that the sweet taste she could feel was definitely Kanon's blood.:ルシファーは確かに感じたその甘い舌触りに、嘉音の血を確信した。}`
+`{ruby:With a speed exceeding even the:人の目では捉えることの出来ない領}{ruby:limits that the human eye could follow,:域にまで踏み込んだ速度で、}`
+`{ruby:Lucifer went wild, and:ルシファーは存分に撹乱した後に、嘉}{ruby:flew at Kanon's heart...:音のその心臓に喰らい付く…。}`
+`{ruby:Lucifer confirmed that the sweet taste:ルシファーは確かに感じたその甘い舌}{ruby:she could feel was definitely Kanon's blood.:触りに、嘉音の血を確信した。}`
 `{ruby:...But she quickly noticed.:…しかし、すぐに気付く。}`
-`{ruby:{n}...She hadn't pierced Kanon's heart...:{n}…彼女は嘉音の心臓を貫けたわけではないのだ…。}`
+`{ruby:{n}...She hadn't:{n}…彼女は嘉音の心臓を貫}{ruby:pierced Kanon's heart...:けたわけではないのだ…。}`
 `{ruby:"............Hoh.:「…………ほぉ。}`
 `{ruby:*cackle*cackle*!":くっくっくっく！」}`
 `{ruby:"This is why humans are frightening.:「これだから人間は恐ろしい。}`
 `{ruby:...Would you like some black tea?":…紅茶はいかがですかな？」}`
 `{ruby:"I am fine for now.:「今は良い。}`
-`{ruby:This is so interesting I don't need black tea...!":紅茶もいらぬほどに、面白い…！」}`
+`{ruby:This is so interesting:紅茶もいらぬほどに}{ruby:I don't need black tea...!":、面白い…！」}`
 `{ruby:"......K‐:「……か、}`
 `{ruby:............Kanon‐kun............":…………嘉音くん…………」}`
 `{ruby:"So arrogant......:「驕ったな……。}`
-`{ruby:......That's why you can't win against me......":……だから、お前は僕に勝てないんだ……」}`
-`{ruby:The floor was stained with dripping blood.:床をボタボタと溢れる血が汚す。}`
+`{ruby:......That's why you:……だから、お前は僕に}{ruby:can't win against me......":勝てないんだ……」}`
+`{ruby:The floor was:床をボタボタと溢れ}{ruby:stained with dripping blood.:る血が汚す。}`
 `{ruby:...It really was Kanon's blood,:…その血は確かに嘉音の血だが、}`
-`{ruby:......but it wasn't flowing out of his chest.:……胸からは流れていなかった。}`
-`{ruby:Kanon had sacrificed his own left hand to protect his heart...:嘉音は心臓を守る代わりに、自らの左手を捧げたのだ…。}`
+`{ruby:......but it wasn't flowing:……胸からは流れて}{ruby:out of his chest.:いなかった。}`
+`{ruby:Kanon had sacrificed his own:嘉音は心臓を守る代わりに、自}{ruby:left hand to protect his heart...:らの左手を捧げたのだ…。}`
 `{ruby:Lucifer was arrogant.:ルシファーは傲慢だった。}`
-`{ruby:Even though she had been given enough time to realize that this was an opponent capable of cornering her,:自らを追い詰めるほどの相手であることを理解する時間が与えられていたはずなのに、}`
-`{ruby:even so, in her pride, she had believed that he was a worthless opponent.:それでもなお、取るに足らない相手だと驕った。}`
+`{ruby:Even though she had been given enough time to:自らを追い詰めるほどの相手であることを理解}{ruby:realize that this was an opponent capable of cornering her,:する時間が与えられていたはずなのに、}`
+`{ruby:even so, in her pride, she had:それでもなお、取るに足ら}{ruby:believed that he was a worthless opponent.:ない相手だと驕った。}`
 `{ruby:She had gotten careless.:油断した。}`
-`{ruby:......So just as she had announced, she had aimed for his chest, trying to pierce his heart.:……だから予告通りに心臓を貫こうとその胸を狙ってしまった。}`
-`{ruby:Because she was arrogant, she hadn't even thought of aiming for somewhere other than the place she had announced.:彼女が傲慢だったからこそ、予告した以外の部位を狙おうなどと思わなかった。}`
-`{ruby:...No, maybe she had thought about it a little.:…いや、少しは思ったかもしれない。}`
-`{ruby:{n}...However, her pride would not allow her to aim for a different spot.:{n}…しかし、他を狙うことは彼女のプライドが許さなかった。}`
+`{ruby:......So just as she had announced, she had:……だから予告通りに心臓を貫こう}{ruby:aimed for his chest, trying to pierce his heart.:とその胸を狙ってしまった。}`
+`{ruby:Because she was arrogant, she hadn't even thought of:彼女が傲慢だったからこそ、予告した以外}{ruby:aiming for somewhere other than the place she had announced.:の部位を狙おうなどと思わなかった。}`
+`{ruby:...No, maybe she had:…いや、少しは思った}{ruby:thought about it a little.:かもしれない。}`
+`{ruby:{n}...However, her pride would not allow:{n}…しかし、他を狙うことは彼}{ruby:her to aim for a different spot.:女のプライドが許さなかった。}`
 `{ruby:Because she was...:なぜなら彼女は、}`
 `{ruby:......Lucifer the Proud.:………傲慢のルシファーだったから。}`
 `{ruby:Kanon, withstanding the pain,:嘉音は苦痛に堪えながら、}`
-`{ruby:grasped the demon stake sticking deep into his left hand strongly with his right,:左手に深々と突き刺さり貫いている悪魔の杭を、右手でしっかりと握り締め、}`
+`{ruby:grasped the demon stake sticking deep into:左手に深々と突き刺さり貫いている悪魔の}{ruby:his left hand strongly with his right,:杭を、右手でしっかりと握り締め、}`
 `{ruby:...and pulled it out......:…引き抜く……。}`
-`{ruby:The sound of breaking bones and even more blood dripping down could be heard.:骨を抉る音と、さらに血が零れる音が聞こえた。}`
-`{ruby:{n}Shannon instinctively averted her eyes.:{n}紗音は思わず目を背ける。}`
-`{ruby:There was an air hole in the back of the pierced hand so big that you could clearly see through to the other side...:抜いた手の甲には、はっきりと向こうを覗くことが出来るほどの無惨な風穴が残されていた…。}`
+`{ruby:The sound of breaking bones and even:骨を抉る音と、さらに血が}{ruby:more blood dripping down could be heard.:零れる音が聞こえた。}`
+`{ruby:{n}Shannon instinctively:{n}紗音は思わず}{ruby:averted her eyes.:目を背ける。}`
+`{ruby:There was an air hole in the back of the pierced hand:抜いた手の甲には、はっきりと向こうを覗くことが}{ruby:so big that you could clearly see through to the other side...:出来るほどの無惨な風穴が残されていた…。}`
 `{ruby:Kanon's face was filled with agony,:苦痛に満ちた表情を浮かべる嘉音だが、}`
 `{ruby:......but in this very moment,:……今この瞬間。}`
 `{ruby:he had won, without a doubt.:彼は間違いなく、勝利していた。}`
-`{ruby:The demon stake he was gripping with his right hand turned back into Lucifer again...:右腕で握り締めた悪魔の杭が、再びルシファーの姿に戻る…。}`
-`{ruby:Kanon was now gripping exactly where her neck was.:それはちょうど、嘉音が彼女の喉を握り締めている形になった。}`
+`{ruby:The demon stake he was gripping with:右腕で握り締めた悪魔の杭が、再}{ruby:his right hand turned back into Lucifer again...:びルシファーの姿に戻る…。}`
+`{ruby:Kanon was now gripping:それはちょうど、嘉音が彼女の喉を}{ruby:exactly where her neck was.:握り締めている形になった。}`
 `{ruby:".........Ga,:「………が、}`
 `{ruby:............gu,:…………ぐ、}`
 `{ruby:..................h...":………………っ…、」}`
 `{ruby:"...I win.:「…僕の勝ちだ。}`
 `{ruby:.........{f:5:Beatrice}.":………ベアトリーチェ」}`
-`{ruby:Kanon didn't hold back at all with the hand gripping Lucifer's throat.:嘉音は喉を握り締める力を、決して手加減はしなかった。}`
-`{ruby:......She had challenged him again after their fight had already been decided.:……一度はついた勝負を、彼女が重ねて挑んだのだ。}`
-`{ruby:{n}Kanon had no obligation to be considerate.:{n}嘉音に手心を加える義理はない。}`
-`{ruby:But even so, Kanon released the witch's furniture.:しかしそれでも、嘉音は魔女の家具を解放した。}`
-`{ruby:......Was it his naive humanism, his pity for another piece of furniture,:……彼の甘いヒューマニズムか、家具同士の憐れみか、}`
-`{ruby:or a final show of respect to the witch?:それとも魔女への最後の敬意かはわからない。}`
-`{ruby:In any case, when she was released, Lucifer fell face‐down on the ground,:何れにせよ、解放されたルシファーは床に突っ伏し、}`
-`{ruby:and made as if to vomit, moaning over the pain in her throat...:嘔吐するような仕草をしながら、喉の苦しみに呻いていた…。}`
+`{ruby:Kanon didn't hold back at all:嘉音は喉を握り締める力を、決}{ruby:with the hand gripping Lucifer's throat.:して手加減はしなかった。}`
+`{ruby:......She had challenged him again after:……一度はついた勝負を、彼}{ruby:their fight had already been decided.:女が重ねて挑んだのだ。}`
+`{ruby:{n}Kanon had no:{n}嘉音に手心を加}{ruby:obligation to be considerate.:える義理はない。}`
+`{ruby:But even so, Kanon:しかしそれでも、嘉音は魔}{ruby:released the witch's furniture.:女の家具を解放した。}`
+`{ruby:......Was it his naive humanism, his:……彼の甘いヒューマニズムか}{ruby:pity for another piece of furniture,:、家具同士の憐れみか、}`
+`{ruby:or a final show:それとも魔女への最後の敬}{ruby:of respect to the witch?:意かはわからない。}`
+`{ruby:In any case, when she was:何れにせよ、解放されたルシ}{ruby:released, Lucifer fell face‐down on the ground,:ファーは床に突っ伏し、}`
+`{ruby:and made as if to vomit,:嘔吐するような仕草をしながら、}{ruby:moaning over the pain in her throat...:喉の苦しみに呻いていた…。}`
 `{ruby:"Spectacular, Kanon.:「お見事ですよ、嘉音。}`
-`{ruby:......Your great efforts have gone some way to proving Kinzo's research correct.":……あなたの奮闘により、金蔵の研究の正しさがひとつ、実証されました」}`
+`{ruby:......Your great efforts have gone some:……あなたの奮闘により、金蔵の研究の}{ruby:way to proving Kinzo's research correct.":正しさがひとつ、実証されました」}`
 `{ruby:Ronove was clapping his hands.:ロノウェがパチパチと手を叩く。}`
-`{ruby:...To Kanon, who had achieved a difficult victory, incurring a wound on his left hand that couldn't be closed, that applause seemed nothing but shallow.:…左手に、塞ぐこともできぬほどの傷を負って、辛い勝利を収めた嘉音にとっては、白々しくしか感じられない。}`
-`{ruby:"......All possibilities are hidden in the human heart, was it?:「……人の心はあらゆる可能性を秘める、か。}`
-`{ruby:.........My, my, this is why humans are frightening!:………いやはや、これだから人間は恐ろしい！}`
+`{ruby:...To Kanon, who had achieved a difficult victory, incurring a wound on:…左手に、塞ぐこともできぬほどの傷を負って、辛い勝利を}{ruby:his left hand that couldn't be closed, that applause seemed nothing but shallow.:収めた嘉音にとっては、白々しくしか感じられない。}`
+`{ruby:"......All possibilities are hidden in:「……人の心はあらゆる可}{ruby:the human heart, was it?:能性を秘める、か。}`
+`{ruby:.........My, my, this is:………いやはや、これだか}{ruby:why humans are frightening!:ら人間は恐ろしい！}`
 `{ruby:Well done, Kanon.:天晴れであるぞ嘉音。}`
 `{ruby:You are victorious.:そなたは勝利した。}`
 `{ruby:Spectacular!":見事だ！」}`
@@ -603,128 +603,128 @@
 `{ruby:......haah......":……はぁ……」}`
 `{ruby:"Are you okay?!:「大丈夫？！}`
 `{ruby:Kanon‐kun......":嘉音くん……」}`
-`{ruby:Shannon ran up to him and wrapped a handkerchief around his left hand, which was still spraying blood.:紗音が駆け寄り、ハンカチで鮮血を迸らせ続けている左手を包む。}`
+`{ruby:Shannon ran up to him and wrapped a handkerchief:紗音が駆け寄り、ハンカチで鮮血を}{ruby:around his left hand, which was still spraying blood.:迸らせ続けている左手を包む。}`
 `{ruby:"That was spectacular, Kanon!:「見事であるぞ、嘉音！}`
 `{ruby:Truly spectacular.:実に見事である。}`
-`{ruby:I was also slightly hoping for an upset.:妾も少しは番くるわせを期待した。}`
-`{ruby:How truly wonderful you are as furniture not to let me down.:それを裏切らぬとは、そなたは誠に素晴らしき家具であるぞ。}`
+`{ruby:I was also slightly:妾も少しは番くるわ}{ruby:hoping for an upset.:せを期待した。}`
+`{ruby:How truly wonderful you are as:それを裏切らぬとは、そなたは誠}{ruby:furniture not to let me down.:に素晴らしき家具であるぞ。}`
 `{ruby:*cackle*cackle*!:くっくっくっく！}`
 `{ruby:I think better of you now.:見直した。}`
 `{ruby:I honestly think better of you!":正直、見直したぞ！」}`
-`{ruby:"Y‐......you better not have forgotten our promise...:「や、……約束を忘れてはいないだろうな…、}`
+`{ruby:"Y‐......you better not:「や、……約束を忘れては}{ruby:have forgotten our promise...:いないだろうな…、}`
 `{ruby:{f:5:Beatrice}...":ベアトリーチェ…」}`
 `{ruby:"Mhm.:「うむ。}`
 `{ruby:Of course I have not forgotten.:もちろん忘れてはおらぬぞ。}`
-`{ruby:Witches and demons are admittedly unjust.:魔女も悪魔も非道ではある。}`
-`{ruby:However, we are much more noble than humans when it comes to our contracts.":だがしかし契約に限っては人間など及ばぬほどに高潔だ」}`
+`{ruby:Witches and demons:魔女も悪魔も非道}{ruby:are admittedly unjust.:ではある。}`
+`{ruby:However, we are much more noble than:だがしかし契約に限っては人間}{ruby:humans when it comes to our contracts.":など及ばぬほどに高潔だ」}`
 `{ruby:"I will not go back on my word.:「妾は反故にはせぬ。}`
 `{ruby:I guaranteed that if you won,:そなたが勝利したなら、}`
-`{ruby:I would give you the right to decide the five people who will escape becoming the 13 sacrifices.":１３人の生贄を逃れることができる５人を自由に決める権利を保証した」}`
+`{ruby:I would give you the right to decide the:１３人の生贄を逃れることができる５人}{ruby:five people who will escape becoming the 13 sacrifices.":を自由に決める権利を保証した」}`
 `{ruby:"......B‐{f:5:Beatrice}‐sama.:「……ベ、ベアトリーチェさまっ。}`
 `{ruby:I haven't yet...lo—:私はまだ、敗れたわけではっ…、}`
 `{ruby:higi!!":ひぎッ！！」}`
-`{ruby:{f:5:Beatrice} twirled her pipe, and heaven and earth turned over just for Lucifer.:ベアトリーチェが煙管をくるりと回すと、ルシファーにだけ天地が逆転する。}`
-`{ruby:......So as a horribly natural result, she "fell" onto the ceiling.:……だからひどく当然の結果として、彼女は天井に“墜落”した。}`
-`{ruby:The ceiling doesn't seem that high to people standing on the floor.:床に立つ者にとって、天井はそう高くは感じない。}`
-`{ruby:{n}...However, people who fall on it upside‐down and head‐first surely don't feel the same way...:{n}…しかし、真っ逆さまに頭から墜ちる者は、そうは感じまい…。}`
+`{ruby:{f:5:Beatrice} twirled her pipe, and heaven:ベアトリーチェが煙管をくるりと回すと、}{ruby:and earth turned over just for Lucifer.:ルシファーにだけ天地が逆転する。}`
+`{ruby:......So as a horribly natural:……だからひどく当然の結果として}{ruby:result, she "fell" onto the ceiling.:、彼女は天井に“墜落”した。}`
+`{ruby:The ceiling doesn't seem that high:床に立つ者にとって、天井は}{ruby:to people standing on the floor.:そう高くは感じない。}`
+`{ruby:{n}...However, people who fall on it upside‐down:{n}…しかし、真っ逆さまに頭から}{ruby:and head‐first surely don't feel the same way...:墜ちる者は、そうは感じまい…。}`
 `{ruby:"Milady.:「お嬢様。}`
 `{ruby:Isn't this a little much?":さすがにやり過ぎでは」}`
 `{ruby:"*cackle*cackle*!:「くっくくくく！}`
 `{ruby:That may be so.:それもそうであるな。}`
 `{ruby:I suppose I will forgive her.":許してやるか」}`
 `{ruby:{f:5:Beatrice} spun her pipe again.:もう一度ベアトリーチェは煙管を回す。}`
-`{ruby:When she did, the magic that had been affecting Lucifer was released.:すると彼女に掛けられた魔法は解かれた。}`
-`{ruby:......So as a horribly natural result, this time with extreme legitimacy, she "fell" back onto the floor.:……だからひどく当然の結果として、彼女は床に、再び極めて正当に“墜落”した。}`
+`{ruby:When she did, the magic that:すると彼女に掛けられた}{ruby:had been affecting Lucifer was released.:魔法は解かれた。}`
+`{ruby:......So as a horribly natural result, this time:……だからひどく当然の結果として、彼女は}{ruby:with extreme legitimacy, she "fell" back onto the floor.:床に、再び極めて正当に“墜落”した。}`
 `{ruby:"Agah......!!":「あがっ……！！」}`
 `{ruby:"............Ku,:「…………く、}`
 `{ruby:............u,:…………ぅ、}`
 `{ruby:...{f:5:Beatrice}‐sama,:…ベアトリーチェさま、}`
 `{ruby:...f‐...forgive me............":…お、…お許しを…………」}`
 `{ruby:"What are you afraid of?:「何を怯えておるか。}`
-`{ruby:I have already forgiven you, haven't I?:妾はもはや許したぞ？}`
+`{ruby:I have already:妾はもはや許}{ruby:forgiven you, haven't I?:したぞ？}`
 `{ruby:*cackle*!:くっくっく！}`
 `{ruby:So, Kanon.:さて嘉音。}`
 `{ruby:Shall we continue?":続けようではないか」}`
 `{ruby:".........Continue what?:「………何をだ。}`
-`{ruby:...You aren't saying that you want me to finish her, are you...?!":…まさか彼女に止めを刺せとでも言うつもりなのか…！」}`
+`{ruby:...You aren't saying that you want:…まさか彼女に止めを刺せとで}{ruby:me to finish her, are you...?!":も言うつもりなのか…！」}`
 `{ruby:"Ah, no, no.:「あぁ、違う違うゥ。}`
 `{ruby:It isn't over yet, right?":まだ終わっちゃいないだろがァ？」}`
 `{ruby:".........What isn't?:「………何をだ。}`
 `{ruby:...Stop dodging the question...!!":…はぐらかすな…！！」}`
 `{ruby:"I did promise you, didn't I?:「妾は確かにそなたと約束したぞ？}`
-`{ruby:If you could defeat my furniture, of {i:the Seven Stakes of Purgatory}, riiiiiiight?:妾の家具、{i:煉獄の七杭}を打ち破ったなら、となぁああぁ？}`
-`{ruby:Come, arise, Seven Stakes of Purgatory.:さぁさお出でなさい、煉獄の七杭。}`
-`{ruby:The six younger sisters of the worthless elder sister!":不甲斐なき長女の６人の妹たち！」}`
-`{ruby:""""""Kyahhahahahahahahaha{0}ha{0}ha{0}ha{0}ha!!"""""":「「「「「「きゃっははははははははははははははッ！！」」」」」」}`
-`{ruby:With shrill laughing voices, the air split,:空間が黄色い笑い声と共に爆ぜ、}`
-`{ruby:and gold sprayed everywhere as the remaining six of the Seven Stakes of Purgatory showed themselves...:黄金の飛沫を飛び散らせながら、煉獄の七姉妹の残り６人が姿を現す…。}`
-`{ruby:All of the Seven Sisters of Purgatory, only one of which Kanon had been able to defeat by sacrificing his left arm, were gathered...:左腕を捧げてようやく１人を倒せた七杭の姉妹が、全員揃う…。}`
-`{ruby:By now, Kanon regretted his thoughtlessness in accepting the witch's challenge.:嘉音は今になって、魔女の勝負に乗った浅はかさを悔いる。}`
-`{ruby:{n}...He had been foolish to assume that a game with a witch would be on an even footing......!:{n}…魔女のゲームが対等であるなどと思いこんだ自分が、愚かだった……！}`
+`{ruby:If you could defeat my furniture,:妾の家具、{i:煉獄の七杭}を打ち}{ruby:of {i:the Seven Stakes of Purgatory}, riiiiiiight?:破ったなら、となぁああぁ？}`
+`{ruby:Come, arise, Seven:さぁさお出でなさい、}{ruby:Stakes of Purgatory.:煉獄の七杭。}`
+`{ruby:The six younger sisters:不甲斐なき長女の６}{ruby:of the worthless elder sister!":人の妹たち！」}`
+`{ruby::「「「「「「きゃっはははははははは}{ruby:""""""Kyahhahahahahahahaha{0}ha{0}ha{0}ha{0}ha!!"""""":ははははははッ！！」」」」」」}`
+`{ruby:With shrill laughing:空間が黄色い笑い声}{ruby:voices, the air split,:と共に爆ぜ、}`
+`{ruby:and gold sprayed everywhere as the remaining six:黄金の飛沫を飛び散らせながら、煉獄の}{ruby:of the Seven Stakes of Purgatory showed themselves...:七姉妹の残り６人が姿を現す…。}`
+`{ruby:All of the Seven Sisters of Purgatory, only one of which Kanon:左腕を捧げてようやく１人を倒せた}{ruby:had been able to defeat by sacrificing his left arm, were gathered...:七杭の姉妹が、全員揃う…。}`
+`{ruby:By now, Kanon regretted his:嘉音は今になって、魔女の勝負に}{ruby:thoughtlessness in accepting the witch's challenge.:乗った浅はかさを悔いる。}`
+`{ruby:{n}...He had been foolish to assume that a game:{n}…魔女のゲームが対等であるなどと}{ruby:with a witch would be on an even footing......!:思いこんだ自分が、愚かだった……！}`
 `{ruby:"............Laaame‐o.:「…………ダッサぁ。}`
-`{ruby:Onee‐sama, why are you crawling on the floor?":お姉様、どうして床に這いつくばってるのぉ？」}`
+`{ruby:Onee‐sama, why are you:お姉様、どうして床に這い}{ruby:crawling on the floor?":つくばってるのぉ？」}`
 `{ruby:"Y‐...you people...............:「お、…お前たち……………、}`
 `{ruby:gh......":ぐ……」}`
-`{ruby:"See, this is why Onee‐sama's useless.:「だからお姉様は駄目なのよ。}`
-`{ruby:Even though she acts like she's so great as the oldest sister, that's just on the outside.":長女を偉そうに名乗るくせに、上っ面だけなのよ」}`
+`{ruby:"See, this is:「だからお姉様は}{ruby:why Onee‐sama's useless.:駄目なのよ。}`
+`{ruby:Even though she acts like she's so great:長女を偉そうに名乗るくせに}{ruby:as the oldest sister, that's just on the outside.":、上っ面だけなのよ」}`
 `{ruby:"Yeah, seriously!:「えぇ、まったく！}`
-`{ruby:Lucifer onee‐sama, your disgraceful behavior will damage others' opinions about all of us!:ルシファーお姉様一人の醜態が私たちへの評価を下げるのよ！}`
+`{ruby:Lucifer onee‐sama, your disgraceful behavior will:ルシファーお姉様一人の醜態が私た}{ruby:damage others' opinions about all of us!:ちへの評価を下げるのよ！}`
 `{ruby:Know your shame!:恥を知りなさいな！}`
 `{ruby:You novice!":この未熟者が！」}`
 `{ruby:"............Ku, .........gu......":「……………く、………ぐ……」}`
 `{ruby:"Kanon‐ku~n, awesome awesome.:「嘉音くぅん、すごいすごい。}`
 `{ruby:But don't get cocky, okay?:でも、いい気にならないことよ？}`
-`{ruby:Lucifer onee‐sama just brags all the time, she's no big deal compared to the rest of us sisters.":ルシファーお姉様なんて、威張ってるだけで、姉妹の中じゃ大したことないんだからぁ」}`
-`{ruby:"...That's why I'm always saying Lucifer‐nee shouldn't do anything.:「…だからルシファー姉は何もしなくていいといつも言っている。}`
-`{ruby:It's alright if she just brags all the time.:お姉様は威張ってだけいればいい。}`
-`{ruby:Because we superior ones always have to clean up the fighting scenes.":荒事は全て、優秀な私たちで片付けるのだから」}`
+`{ruby:Lucifer onee‐sama just brags all the time, she's no:ルシファーお姉様なんて、威張ってるだけで、姉}{ruby:big deal compared to the rest of us sisters.":妹の中じゃ大したことないんだからぁ」}`
+`{ruby:"...That's why I'm always:「…だからルシファー姉は何もしな}{ruby:saying Lucifer‐nee shouldn't do anything.:くていいといつも言っている。}`
+`{ruby:It's alright if she:お姉様は威張ってだ}{ruby:just brags all the time.:けいればいい。}`
+`{ruby:Because we superior ones always have:荒事は全て、優秀な私たち}{ruby:to clean up the fighting scenes.":で片付けるのだから」}`
 `{ruby:"What are you gonna do, Onee‐sama?:「お姉様、どうするぅ？}`
 `{ruby:We respect your pride,:私たちはお姉様のプライドを尊重して、}`
-`{ruby:so we were planning on letting you challenge him again in that beaten‐up body without getting in the way...":そのボロボロの体で再び挑むのを期待して、手出しをしないつもりなんだけれど…」}`
-`{ruby:"......But Kanon‐kun sure is strong, right?:「……でも、嘉音くんは強いわよねぇ？}`
-`{ruby:Right now, no matter how much you struggle, there's no way you can win, right...?":今のお姉様じゃ、もうどう足掻いても勝ち目はないわよねぇ…？」}`
+`{ruby:so we were planning on letting you challenge him:そのボロボロの体で再び挑むのを期待して、}{ruby:again in that beaten‐up body without getting in the way...":手出しをしないつもりなんだけれど…」}`
+`{ruby:"......But Kanon‐kun sure:「……でも、嘉音くん}{ruby:is strong, right?:は強いわよねぇ？}`
+`{ruby:Right now, no matter how much you:今のお姉様じゃ、もうどう足掻いても}{ruby:struggle, there's no way you can win, right...?":勝ち目はないわよねぇ…？」}`
 `{ruby:"......Y‐:「……お、}`
 `{ruby:.........you peopleee............":………お前たちぃ…………、」}`
 `{ruby:"*cackle*cackle*!:「くっくっくっく！}`
-`{ruby:My, my, you sisters are always so lively.:やれやれ、いつも賑やかな姉妹たちであるな。}`
+`{ruby:My, my, you sisters:やれやれ、いつも賑やかな}{ruby:are always so lively.:姉妹たちであるな。}`
 `{ruby:Is now really the time for discord?":今は仲違いをしている場合か」}`
-`{ruby:"Being a 7‐person unit is what makes you the Seven Sisters of Purgatory.:「そなたらは７人揃ってこその煉獄の七姉妹であろうが。}`
-`{ruby:Now play nice and execute the task I gave you.:仲良くして妾の仕事を遂行せよ。}`
+`{ruby:"Being a 7‐person unit is what:「そなたらは７人揃ってこその}{ruby:makes you the Seven Sisters of Purgatory.:煉獄の七姉妹であろうが。}`
+`{ruby:Now play nice and execute:仲良くして妾の仕事}{ruby:the task I gave you.:を遂行せよ。}`
 `{ruby:Swiftly, alright?":迅速にな？」}`
 `{ruby:"Come on, Lucifer onee‐sama.:「ねぇ、ルシファーお姉様ぁ。}`
-`{ruby:If you want to borrow the power of your little sisters...:私たち妹の力が借りたいならぁ。}`
+`{ruby:If you want to borrow:私たち妹の力が借り}{ruby:the power of your little sisters...:たいならぁ。}`
 `{ruby:Say it, okay?:言ってよ？}`
-`{ruby:We want to hear you ask us for help from your own mouth.":お姉様の口から助けを求める言葉が聞きたいの」}`
-`{ruby:"Kh, ............you plan to mock me even more.........?!":「く、…………私を、これ以上愚弄する気かぁ………！」}`
+`{ruby:We want to hear you ask:お姉様の口から助けを求める}{ruby:us for help from your own mouth.":言葉が聞きたいの」}`
+`{ruby:"Kh, ............you plan to:「く、…………私を、これ以上}{ruby:mock me even more.........?!":愚弄する気かぁ………！」}`
 `{ruby:"‘I, the foolish—:「“愚かで。}`
 `{ruby:weak—:ひ弱で。}`
 `{ruby:ugly—:見苦しくて。}`
 `{ruby:shaaameful!—:情けなァい！}`
-`{ruby:eldest sister Lucifer, beg my younger sisters to save me’.:この長女のルシファーを、どうか妹の皆様、お助け下さぁい”って。}`
+`{ruby:eldest sister Lucifer, beg my:この長女のルシファーを、どうか妹の}{ruby:younger sisters to save me’.:皆様、お助け下さぁい”って。}`
 `{ruby:......C'mon, let's hear it.:……ねぇ、聞かせてよぅ。}`
-`{ruby:If you let us hear that, we'll save you.:それを聞かせてくれたら助けてあげる。}`
+`{ruby:If you let us:それを聞かせてくれた}{ruby:hear that, we'll save you.:ら助けてあげる。}`
 `{ruby:That's a deal, right?:それでいいわよねぇ？}`
 `{ruby:Everyone?!":みんなぁ？！」}`
 `{ruby:"......You.........:「……お前たちっ……、}`
 `{ruby:...b‐:……お、}`
 `{ruby:......bitcheees......":……おのれぇえぇ……」}`
-`{ruby:The Seven Sisters of Purgatory taunted their elder sister, calling her worthless.:煉獄の七姉妹たちは、口々に不甲斐ないと姉を詰る。}`
+`{ruby:The Seven Sisters of Purgatory taunted:煉獄の七姉妹たちは、口々に}{ruby:their elder sister, calling her worthless.:不甲斐ないと姉を詰る。}`
 `{ruby:Verbally abusing her.:罵る。}`
-`{ruby:...Even Kanon, who had been fighting her for his life until a second ago, couldn't bear to look straight at it...:…それは、ついさっきまで命をやり取りしていた嘉音にとってすら、正視に耐えない…。}`
+`{ruby:...Even Kanon, who had been fighting her for his life:…それは、ついさっきまで命をやり取りしてい}{ruby:until a second ago, couldn't bear to look straight at it...:た嘉音にとってすら、正視に耐えない…。}`
 `{ruby:"A‐as i—:「わ、わたっ、}`
 `{ruby:......as if I...:……私が、}`
 `{ruby:...could say...:……そのようなことを、}`
 `{ruby:...something like that......":……口にできるものかぁ……っ」}`
 `{ruby:"Do it quickly.:「早くせよ。}`
-`{ruby:Obviously we won't get anywhere with you alone.:どうせお前一人では埒が明かぬわ。}`
-`{ruby:Hurry up and slay Kanon as the Seven Sisters.":早く七姉妹にて嘉音を討て」}`
+`{ruby:Obviously we won't get:どうせお前一人では}{ruby:anywhere with you alone.:埒が明かぬわ。}`
+`{ruby:Hurry up and slay:早く七姉妹にて嘉}{ruby:Kanon as the Seven Sisters.":音を討て」}`
 `{ruby:"Pu ku ku ku...:「ぷっくっくっく…。}`
 `{ruby:Oh, what could be wrong, Lucifer?:そら、どうしましたか、ルシファー？}`
-`{ruby:It is an order from Milady, you know?":お嬢様の命令ですよ？」}`
+`{ruby:It is an order:お嬢様の命令で}{ruby:from Milady, you know?":すよ？」}`
 `{ruby:"............How cruel.":「…………ひどい」}`
-`{ruby:Lucifer ground her teeth over and over, hurled curses at her sisters, and then,:ルシファーは何度も歯軋りを繰り返し、妹たちに呪いの言葉を投げ掛けた後、}`
-`{ruby:...............as she trembled all over,:……………わなわなと震えながら、}`
-`{ruby:......she answered her sisters' request...:……妹たちの要望に応じる…。}`
+`{ruby:Lucifer ground her teeth over and over,:ルシファーは何度も歯軋りを繰り返し、妹}{ruby:hurled curses at her sisters, and then,:たちに呪いの言葉を投げ掛けた後、}`
+`{ruby:...............as she:……………わなわな}{ruby:trembled all over,:と震えながら、}`
+`{ruby:......she answered:……妹たちの要望}{ruby:her sisters' request...:に応じる…。}`
 `{ruby:"...I, ............I, the foolish,:「…お、…………愚かで、}`
 `{ruby:......weak,:……ひ弱で、}`
 `{ruby:.........ugly...:………見苦しくて…。}`
@@ -735,55 +735,55 @@
 `{ruby:......beg...:……どうか、}`
 `{ruby:.........uuuuuuuughhuhu!!:………ううううぅうううぅッ！！}`
 `{ruby:Uwaaaaaaaaaaaaaaaaa...!!":うわああぁあああぁぁあぁぁぁ…！！」}`
-`{ruby:She was finally unable to endure saying those degrading words,:屈辱の言葉を口にすることに、とうとう耐え切れなくなり、}`
-`{ruby:...and the girl bearing the name of Pride broke down crying.:…傲慢の名を持つ彼女は泣き崩れる。}`
-`{ruby:However, the six younger sisters kept giggling coldheartedly.:しかし６人の妹たちは、冷酷にくすくす笑い続けるのだった。}`
+`{ruby:She was finally unable to:屈辱の言葉を口にすることに、と}{ruby:endure saying those degrading words,:うとう耐え切れなくなり、}`
+`{ruby:...and the girl bearing the:…傲慢の名を持つ彼女}{ruby:name of Pride broke down crying.:は泣き崩れる。}`
+`{ruby:However, the six younger:しかし６人の妹たちは、冷酷にく}{ruby:sisters kept giggling coldheartedly.:すくす笑い続けるのだった。}`
 `{ruby:"Heyyyy!:「ちょっとー！}`
 `{ruby:Don't try to trick us by crying!:泣いて誤魔化さないでー！}`
 `{ruby:You haven't finished saying iiiit!":まだ言い切ってないぃー！」}`
 `{ruby:"That should be enough.:「もう充分だろう。}`
-`{ruby:Come, sisters, let us display our power.":さぁ姉妹たち、我等の力を見せてやろう」}`
-`{ruby:"I won't be satisfied until I hear the whole thing, you know?!:「私は全部聞かなきゃ満足しないわよぅ？！}`
-`{ruby:C'mon, c'mon, Onee‐sama, keep going!":ほらほらお姉様、続けてよぉ！」}`
+`{ruby:Come, sisters, let:さぁ姉妹たち、我等の力}{ruby:us display our power.":を見せてやろう」}`
+`{ruby:"I won't be satisfied until I:「私は全部聞かなきゃ満}{ruby:hear the whole thing, you know?!:足しないわよぅ？！}`
+`{ruby:C'mon, c'mon,:ほらほらお姉様、続}{ruby:Onee‐sama, keep going!":けてよぉ！」}`
 `{ruby:"That's enough!:「もう充分よ！}`
-`{ruby:Come on, this shame has been brought upon all of us sisters!:さぁ、この屈辱は姉妹全員の屈辱！}`
+`{ruby:Come on, this shame has been:さぁ、この屈辱は姉妹}{ruby:brought upon all of us sisters!:全員の屈辱！}`
 `{ruby:We won't let them return alive!":生かして帰しはしないわよッ！」}`
-`{ruby:"Alright, how should we play with this pitiful furniture?:「さぁて、哀れな家具をどのように遊んでやろうかしら。}`
+`{ruby:"Alright, how should we:「さぁて、哀れな家具をどのよ}{ruby:play with this pitiful furniture?:うに遊んでやろうかしら。}`
 `{ruby:Any wonderful suggestiooons?":素敵な提案はあるぅ？」}`
 `{ruby:"Meee, me!:「はぁい、はい！}`
-`{ruby:Beelze thiiinks...the seven of us shouuuld...get along and split Kanon up between us!":ベルゼはぁ、仲良く七人でぇ、嘉音くんをわけっこしたらいいと思いまーす！」}`
+`{ruby:Beelze thiiinks...the seven of us shouuuld...get:ベルゼはぁ、仲良く七人でぇ、嘉音くんをわ}{ruby:along and split Kanon up between us!":けっこしたらいいと思いまーす！」}`
 `{ruby:"Good plan.:「良い提案だな。}`
-`{ruby:......That way all of the sisters can get along.":……それでなら、姉妹でみんな仲良しだ」}`
+`{ruby:......That way all of:……それでなら、姉妹で}{ruby:the sisters can get along.":みんな仲良しだ」}`
 `{ruby:"Then I'll take the head!:「なら私、頭部ね！}`
 `{ruby:All of you can have the limbs!!":手足はあんたらにあげるわー！」}`
 `{ruby:"No no, noooooooooooo!!:「やだやだ、駄目ぇえええぇ！！}`
 `{ruby:{i:I} get the heaaaad!!":私が頭なのぉー！！」}`
-`{ruby:"You know there's no way there'll be any meaning to promises like that!:「そんな約束、意味があるわけないでしょ？！}`
-`{ruby:It's obviously gonna be first one there wins!":早い者勝ちに決まってるわ！」}`
+`{ruby:"You know there's no way there'll:「そんな約束、意味がある}{ruby:be any meaning to promises like that!:わけないでしょ？！}`
+`{ruby:It's obviously gonna be:早い者勝ちに決まっ}{ruby:first one there wins!":てるわ！」}`
 `{ruby:"Kuhihihihi!!:「くひひひひ！！}`
-`{ruby:Kanon‐kun, if you have a suggestion for how you'd like to be killed, just tell us, okay?:どんな殺され方がいいか、嘉音くんも提案があったら教えてね？}`
-`{ruby:We Seven Sisters will kill you in an awwwwesome way!":七姉妹で飛びっきりの殺し方をしてあげる！」}`
-`{ruby:"...........................Damn......":「………………………くそ……」}`
+`{ruby:Kanon‐kun, if you have a suggestion for how:どんな殺され方がいいか、嘉音くん}{ruby:you'd like to be killed, just tell us, okay?:も提案があったら教えてね？}`
+`{ruby:We Seven Sisters will kill:七姉妹で飛びっきりの殺し}{ruby:you in an awwwwesome way!":方をしてあげる！」}`
+`{ruby::「……………………}{ruby:"...........................Damn......":…くそ……」}`
 `{ruby:"......Aaarrrrrrgggh!!:「……くぅうううぅっ！！}`
 `{ruby:You've shamed me so much!!:ここまで恥をかかせたんだものっ！！}`
-`{ruby:Even slicing you into eight pieces won't be enough!!:八つ裂きでも足りない！！}`
-`{ruby:I'll slice you into a hundred pieces!!:百裂きにしてくれるッ！！}`
+`{ruby:Even slicing you into:八つ裂きでも足り}{ruby:eight pieces won't be enough!!:ない！！}`
+`{ruby:I'll slice you:百裂きにしてくれ}{ruby:into a hundred pieces!!:るッ！！}`
 `{ruby:Here we go, everyone!!":行くよ、お前たちッ！！」}`
 `{ruby:""""""Yeees, Onee‐sama!:「「「「「「はぁい、お姉様ぁッ！}`
 `{ruby:Kyahhahahahahahaha!!"""""":きゃっはははははははッ！！」」」」」」}`
 `{ruby:The seven of them burst at once.:７人の姿が一斉に爆ぜる。}`
-`{ruby:{n}They had no desire to play or boast.:{n}遊ぶ気も驕る気も何もない。}`
-`{ruby:{n}This time, they would genuinely follow their master's order.:{n}今度こそ主の命令に純粋に従う。}`
+`{ruby:{n}They had no desire:{n}遊ぶ気も驕る}{ruby:to play or boast.:気も何もない。}`
+`{ruby:{n}This time, they would:{n}今度こそ主の命}{ruby:genuinely follow their master's order.:令に純粋に従う。}`
 `{ruby:...Slay Kanon. Swiftly!:…嘉音を討て。迅速に！}`
-`{ruby:The Seven Sisters jumped around the room faster than the eye could see, deciding how they would kill Kanon.:七姉妹たちは目にも留まらぬ速度で室内を跳ね回り、嘉音をどう殺そうかと吟味する。}`
-`{ruby:They tortured Kanon with their cruel giggles, sometimes making a close pass at him.:残酷なくすくす笑いと、ちょっかいを出すように時折かする彼女らが嘉音を苛む。}`
-`{ruby:...They kept scraping his arms, shoulders, and cheeks,:…腕、肩、頬などが、チリチリとかすられ、削られ、}`
+`{ruby:The Seven Sisters jumped around the room faster than:七姉妹たちは目にも留まらぬ速度で室内を跳ね}{ruby:the eye could see, deciding how they would kill Kanon.:回り、嘉音をどう殺そうかと吟味する。}`
+`{ruby:They tortured Kanon with their cruel giggles,:残酷なくすくす笑いと、ちょっかいを出すよ}{ruby:sometimes making a close pass at him.:うに時折かする彼女らが嘉音を苛む。}`
+`{ruby:...They kept scraping his:…腕、肩、頬などが、チリチ}{ruby:arms, shoulders, and cheeks,:リとかすられ、削られ、}`
 `{ruby:carving red lines into his body...:彼の体は次第に赤い一文字の模様が次々刻まれていく…。}`
-`{ruby:At that time, Shannon dashed up behind him, holding on to him so that she blocked the way to his body at least a little.:その時、紗音が彼の背中に駆け寄り、その身を少しでも庇おうと抱きついた。}`
+`{ruby:At that time, Shannon dashed up behind him, holding on to him:その時、紗音が彼の背中に駆け寄り、その}{ruby:so that she blocked the way to his body at least a little.:身を少しでも庇おうと抱きついた。}`
 `{ruby:"{nobreak:{m:-5:—}—}Kh......!!":「――くっ……！！」}`
 `{ruby:"Ah......?!":「あっ……？！」}`
-`{ruby:At the same time, a red cylinder wrapped around the two of them, like a beam of light sent from heaven.:それと同時に、天より射した一条の光のような、赤き円筒が二人を包む。}`
-`{ruby:That cylinder repelled the evil ones who tormented Kanon...:その円筒は、嘉音を苛む邪悪たちを弾き返した…。}`
+`{ruby:At the same time, a red cylinder wrapped around the:それと同時に、天より射した一条の光の}{ruby:two of them, like a beam of light sent from heaven.:ような、赤き円筒が二人を包む。}`
+`{ruby:That cylinder repelled the:その円筒は、嘉音を苛む邪悪}{ruby:evil ones who tormented Kanon...:たちを弾き返した…。}`
 `{ruby:"Whaaaat!!:「何ぃー！！}`
 `{ruby:That's cheeatiiing!:ずーるいー！}`
 `{ruby:This has nothing to do with youuu!":あんたは関係ないでしょぉー！」}`
@@ -796,147 +796,147 @@
 `{ruby:May we have Shannon as our prey...?":紗音を私たちの獲物にしても…？」}`
 `{ruby:"Hm?:「ん？}`
 `{ruby:Aah, I don't mind, do as you like.:あー、構わんぞ好きにしろ。}`
-`{ruby:It seems Kanon alone won't be enough to satisfy your gluttony.":お前たちの悪食には嘉音ひとりでは足らなかろうしな」}`
+`{ruby:It seems Kanon alone won't:お前たちの悪食には嘉音ひとり}{ruby:be enough to satisfy your gluttony.":では足らなかろうしな」}`
 `{ruby:"I am so very grateful.:「ありがたき幸せ。}`
-`{ruby:Come on, I'll make you regret coming out uninvited!":さぁ、しゃしゃり出てきたことを後悔させてやろう！」}`
-`{ruby:"I'll turn you to scraps of meat so shredded you can't even tell who's who,:「どっちがどっちか、わからないくらいの肉片にして、}`
-`{ruby:mix you and mix you and mince you into hamburgers!":混ぜて混ぜてミンチにしてハンバーグにしてあげるぅ！」}`
-`{ruby:"Idiot, breaking that barrier comes first!:「馬鹿ね、それよりあの結界を破る方が先でしょうが！}`
-`{ruby:Do your job before you start worrying about food!":食い意地より先に仕事しなさいッ！」}`
+`{ruby:Come on, I'll make:さぁ、しゃしゃり出てきたこと}{ruby:you regret coming out uninvited!":を後悔させてやろう！」}`
+`{ruby:"I'll turn you to scraps of meat:「どっちがどっちか、わからな}{ruby:so shredded you can't even tell who's who,:いくらいの肉片にして、}`
+`{ruby:mix you and mix you:混ぜて混ぜてミンチにしてハン}{ruby:and mince you into hamburgers!":バーグにしてあげるぅ！」}`
+`{ruby:"Idiot, breaking that:「馬鹿ね、それよりあの結界を}{ruby:barrier comes first!:破る方が先でしょうが！}`
+`{ruby:Do your job before:食い意地より先に仕事}{ruby:you start worrying about food!":しなさいッ！」}`
 `{ruby:""""Yees, Onee‐sama!!"""":「「「「はぁい、お姉様ぁッ！！」」」」}`
 `{ruby:"Gu......uuu......!!":「ぐ……うぅっ……！！」}`
-`{ruby:As a horribly natural first action, the Seven Sisters began to destroy the barrier Shannon had created.:七姉妹は、ひどく当然の最初の作業として、紗音が生み出した結界を破り始める。}`
-`{ruby:...Shannon's barrier certainly was extremely strong.:…確かに紗音の結界は非常に強力だ。}`
-`{ruby:{n}It was enough power to impress even {f:5:Beatrice}.:{n}ベアトリーチェが、一目置くほどの力はある。}`
-`{ruby:...It was strong enough that frail furniture would turn to dust just by touching it,:…脆弱な家具ならば、触れただけで塵にされてしまうほどに強力で、}`
-`{ruby:and it was firm, like a tree with deep roots.:深々と根を下ろす大樹のように磐石だ。}`
-`{ruby:But no matter how big a tree gets, it will eventually surrender to a saw or a hatchet.:しかし、どんな大樹も、いつかは斧と鋸に屈する。}`
-`{ruby:{n}For the Seven Sisters, "chopping down" Shannon's barrier, while it was a pain, was not impossible.:{n}七姉妹たちにとって紗音の結界を“切り倒す”のは、面倒ではあっても不可能なことではないのだ。}`
+`{ruby:As a horribly natural first action, the Seven:七姉妹は、ひどく当然の最初の作業として、}{ruby:Sisters began to destroy the barrier Shannon had created.:紗音が生み出した結界を破り始める。}`
+`{ruby:...Shannon's barrier certainly:…確かに紗音の結界は}{ruby:was extremely strong.:非常に強力だ。}`
+`{ruby:{n}It was enough power:{n}ベアトリーチェが、一}{ruby:to impress even {f:5:Beatrice}.:目置くほどの力はある。}`
+`{ruby:...It was strong enough that frail furniture:…脆弱な家具ならば、触れただけで塵}{ruby:would turn to dust just by touching it,:にされてしまうほどに強力で、}`
+`{ruby:and it was firm, like:深々と根を下ろす大樹}{ruby:a tree with deep roots.:のように磐石だ。}`
+`{ruby:But no matter how big a tree gets, it:しかし、どんな大樹も、いつ}{ruby:will eventually surrender to a saw or a hatchet.:かは斧と鋸に屈する。}`
+`{ruby:{n}For the Seven Sisters, "chopping down" Shannon's barrier,:{n}七姉妹たちにとって紗音の結界を“切り倒す”の}{ruby:while it was a pain, was not impossible.:は、面倒ではあっても不可能なことではないのだ。}`
 `{ruby:"Hnf......!!":「ふんっ……！！」}`
-`{ruby:The sound, like beetles jumping around, grew even more fierce and filled the room.:甲虫が跳ね回って飛び回るような音が、さらに激しくなって部屋を満たす。}`
-`{ruby:They cut up and steadily eroded away that red barrier, as though with a hatchet, a saw, no, a chainsaw by now...:赤い結界を斧で鋸で、いや、今やチェーンソーのように切り刻み、侵食していく…。}`
+`{ruby:The sound, like beetles jumping around, grew:甲虫が跳ね回って飛び回るような音が、}{ruby:even more fierce and filled the room.:さらに激しくなって部屋を満たす。}`
+`{ruby:They cut up and steadily eroded away that red barrier, as:赤い結界を斧で鋸で、いや、今やチェーンソ}{ruby:though with a hatchet, a saw, no, a chainsaw by now...:ーのように切り刻み、侵食していく…。}`
 `{ruby:"............How foolish.:「…………愚かな。}`
-`{ruby:You must have known that your barrier can't fully protect you from these girls.:君の結界ではその子たちを防ぎきれないことは知っていたでしょうに。}`
+`{ruby:You must have known that your barrier:君の結界ではその子たちを防ぎきれな}{ruby:can't fully protect you from these girls.:いことは知っていたでしょうに。}`
 `{ruby:Why...?":なぜ…」}`
-`{ruby:".........Because I can't just let it happen.":「………見過ごせないからです」}`
-`{ruby:Shannon spoke back resolutely as she covered Kanon, who was already spent of all his energy and sprawled on the floor.:紗音は、もう精根が尽き果ててすっかり床に崩れ落ちてしまった嘉音を庇いながら、毅然と言い返す。}`
-`{ruby:"If you hadn't barged in uninvited, I would have given you a sleeplike death.:「しゃしゃり出なければ、眠るような死を与えてやったのに。}`
-`{ruby:Why have you deliberately exposed yourself to the Seven Sisters?":なぜわざわざ七姉妹の前に身を晒すのか」}`
-`{ruby:"......All death is not equal, you know?:「……死は同じではないぞ？}`
-`{ruby:You realize an intense death tortures you even after you die?:苛烈な死は、死して尚、苛むぞ？}`
+`{ruby:".........Because I can't:「………見過ごせな}{ruby:just let it happen.":いからです」}`
+`{ruby:Shannon spoke back resolutely as she covered Kanon, who was:紗音は、もう精根が尽き果ててすっかり床に崩れ落ち}{ruby:already spent of all his energy and sprawled on the floor.:てしまった嘉音を庇いながら、毅然と言い返す。}`
+`{ruby:"If you hadn't barged in uninvited, I:「しゃしゃり出なければ、眠るよ}{ruby:would have given you a sleeplike death.:うな死を与えてやったのに。}`
+`{ruby:Why have you deliberately exposed:なぜわざわざ七姉妹の前}{ruby:yourself to the Seven Sisters?":に身を晒すのか」}`
+`{ruby:"......All death is:「……死は同じで}{ruby:not equal, you know?:はないぞ？}`
+`{ruby:You realize an intense death:苛烈な死は、死して}{ruby:tortures you even after you die?:尚、苛むぞ？}`
 `{ruby:*cackle*cackle*cackle*!":くっくくくくくくく！」}`
-`{ruby:"............Go ahead, do as you like.:「…………どうぞ、お好きなように。}`
-`{ruby:Just like you do as you want, I have done as I wanted.":あなたがしたいことを好きにするように、私もしたいことを好きにしたまでです」}`
+`{ruby:"............Go ahead, do:「…………どうぞ、お}{ruby:as you like.:好きなように。}`
+`{ruby:Just like you do as you:あなたがしたいことを好きにするように、私}{ruby:want, I have done as I wanted.":もしたいことを好きにしたまでです」}`
 `{ruby:"........................:「……………………。}`
 `{ruby:......Hmmmm.:……ふぅむ。}`
-`{ruby:Somehow, you simply lack entertainment value recently, you know?:どうにもそなたはこのところ面白みに欠けるな？}`
-`{ruby:The most interesting part about love is during the time when it's uncertain whether or not you will achieve it.":恋というヤツは、達するかどうかの辺りが一番面白い」}`
-`{ruby:"After achieving it, a woman is like salmon who has finished laying its eggs.:「達してしまった後の女は、さながら産卵を終えたシャケの如しか？}`
+`{ruby:Somehow, you simply lack:どうにもそなたはこのとこ}{ruby:entertainment value recently, you know?:ろ面白みに欠けるな？}`
+`{ruby:The most interesting part about love is during the time:恋というヤツは、達するかどう}{ruby:when it's uncertain whether or not you will achieve it.":かの辺りが一番面白い」}`
+`{ruby:"After achieving it, a woman is like:「達してしまった後の女は、さながら}{ruby:salmon who has finished laying its eggs.:産卵を終えたシャケの如しか？}`
 `{ruby:I have already tired of you.":そなたにはもう飽きた」}`
 `{ruby:"Thank you.:「ありがとう。}`
-`{ruby:No words I could hear from a witch would make me happier.":魔女から聞ける言葉で、もっとも嬉しい言葉です」}`
+`{ruby:No words I could hear from:魔女から聞ける言葉で、もっ}{ruby:a witch would make me happier.":とも嬉しい言葉です」}`
 `{ruby:"......Hehehehhihihahaha.:「……ふっふふふふひひははは。}`
-`{ruby:Then, at least in the end, show me a way of dying that will please me greatly.":なら、せめて最後に、妾を思いっきり喜ばせる死に方をして見せろよ」}`
+`{ruby:Then, at least in the end, show me:なら、せめて最後に、妾を思いっきり}{ruby:a way of dying that will please me greatly.":喜ばせる死に方をして見せろよ」}`
 `{ruby:"Seven Sisters, did you hear that?!:「七姉妹よ、聞こえたな？！}`
-`{ruby:Show me the limits of your brutality in the way you kill Shannon!!":紗音の殺し方、お前たちの残虐の限りを見せてみよ！！」}`
+`{ruby:Show me the limits of your:紗音の殺し方、お前たちの残虐の}{ruby:brutality in the way you kill Shannon!!":限りを見せてみよ！！」}`
 `{ruby:"...............Shannon...":「……………紗音…」}`
 `{ruby:"......My apologies.:「……申し訳ございません。}`
-`{ruby:In the end, I wasn't able to match up to your greatness, Genji‐sama.":やはり私には、源次さまの高みには至れませんでした」}`
+`{ruby:In the end, I wasn't able:やはり私には、源次さまの高み}{ruby:to match up to your greatness, Genji‐sama.":には至れませんでした」}`
 `{ruby:".........You're an idiot, Nee‐san...:「………姉さんは馬鹿だ…。}`
-`{ruby:If you'd just left me be, ...then you might not have met this horrible...":僕なんか放っておけば、…姉さんまでひどい目に遭うことは…」}`
+`{ruby:If you'd just left me be, ...then:僕なんか放っておけば、…姉さんま}{ruby:you might not have met this horrible...":でひどい目に遭うことは…」}`
 `{ruby:"No, it's alright.:「うぅん、いいの。}`
-`{ruby:...I was able to receive the ring from George‐sama, and live as a woman.:…譲治さまに指輪をもらって、女として生きられた。}`
-`{ruby:I was able to protect you, and live as a sister.:あなたを庇って、姉として生きられた。}`
-`{ruby:With this, my life is settled with no regrets.":私の生は、全てこれで未練なく全うした」}`
-`{ruby:"......Nnnngggggaaaaaaaaahhhh, you're pissing me off.:「……んんんんぁあああぁあああぁあぁ、イライラするぜェ。}`
-`{ruby:That philosophic view is really irritating!!:その達観が本当にイラつくぜぇえぇ？！}`
-`{ruby:This is why you're furniture you don't even smell like a humaaaaaan!!":だから家具なんだよ、お前からは人間の臭いがしねぇえんだよぉおおお！！」}`
+`{ruby:...I was able to receive the ring:…譲治さまに指輪をもらって}{ruby:from George‐sama, and live as a woman.:、女として生きられた。}`
+`{ruby:I was able to protect:あなたを庇って、姉と}{ruby:you, and live as a sister.:して生きられた。}`
+`{ruby:With this, my life:私の生は、全てこれで未}{ruby:is settled with no regrets.":練なく全うした」}`
+`{ruby:"......Nnnngggggaaaaaaaaahhhh, you're:「……んんんんぁあああぁあああ}{ruby:pissing me off.:ぁあぁ、イライラするぜェ。}`
+`{ruby:That philosophic view:その達観が本当にイラ}{ruby:is really irritating!!:つくぜぇえぇ？！}`
+`{ruby:This is why you're furniture you:だから家具なんだよ、お前からは人間の臭}{ruby:don't even smell like a humaaaaaan!!":いがしねぇえんだよぉおおお！！」}`
 `{ruby:"Look at {i:me}, {i:I} am human!!:「妾を見ろよ、妾こそ人間だろぉが？！}`
-`{ruby:Don't spout off philosophical stuff like you're more complete than I am, you furnituuuuuuuuuuure!!":家具のくせに、妾よりも完成されたかのような、達観したかのようなことを言うんじゃねええええぇえええぇッ！！」}`
+`{ruby:Don't spout off philosophical stuff like you're:家具のくせに、妾よりも完成されたかのような、達観したかの}{ruby:more complete than I am, you furnituuuuuuuuuuure!!":ようなことを言うんじゃねええええぇえええぇッ！！」}`
 `{ruby:"............How ugly.:「…………醜い。}`
 `{ruby:Is that regret your true form?":その未練が、あなたの正体なの？」}`
-`{ruby:"It's not a regreeeeeet, this is called LIVING!!:「未練じゃねぇえええぇえ、それが生きるってもんだッ！！}`
-`{ruby:You received a ring, so it's alright if you die, what?!:指輪もらったから死んでもいいとかッ！}`
-`{ruby:Aaaaah, I can't understand it, not a clue not a hope, goddamn astonished, goddamn shocked, no goddamn good at aa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aalll!!":あああぁ理解できねぇ、さっぱりがっかり愕然呆然ッ、全然駄目だぜええええぇえ！！」}`
-`{ruby:"......Milady, I might suggest you are acting somewhat undignified.":「……お嬢様、少し品がないかと」}`
+`{ruby:"It's not a regreeeeeet,:「未練じゃねぇえええぇえ、それ}{ruby:this is called LIVING!!:が生きるってもんだッ！！}`
+`{ruby:You received a ring, so:指輪もらったから死んで}{ruby:it's alright if you die, what?!:もいいとかッ！}`
+`{ruby:Aaaaah, I can't understand it, not a clue not a:あああぁ理解できねぇ、さっぱりがっかり愕然呆}{ruby:hope, goddamn astonished, goddamn shocked, no goddamn good at aa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aalll!!":然ッ、全然駄目だぜええええぇえ！！」}`
+`{ruby:"......Milady, I might suggest:「……お嬢様、少し}{ruby:you are acting somewhat undignified.":品がないかと」}`
 `{ruby:"Shut up, furniture!!:「うるさいわ家具がッ！！}`
-`{ruby:Shannooooonn, do you think I'll let you die easilyyyyyyyyyyy?!:紗音ぉおおおんん、楽に死なせてもらえると思うなよぉおおおおぉ？！}`
-`{ruby:Now's the time to bite your tooooooongue!!":舌を噛むなら今の内だぁあああッ！！」}`
+`{ruby:Shannooooonn, do you think:紗音ぉおおおんん、楽に死なせてもら}{ruby:I'll let you die easilyyyyyyyyyyy?!:えると思うなよぉおおおおぉ？！}`
+`{ruby:Now's the time:舌を噛むなら今の内だぁ}{ruby:to bite your tooooooongue!!":あああッ！！」}`
 `{ruby:"............How pitiful.:「…………憐れね。}`
-`{ruby:If you can see yourself reflected in my eyes,:もしも私の眼にあなたのその姿が映って、それが見えるなら。}`
+`{ruby:If you can see:もしも私の眼にあなたのその姿が}{ruby:yourself reflected in my eyes,:映って、それが見えるなら。}`
 `{ruby:then shudder at your own ugliness.":己が醜さに慄くといい」}`
 `{ruby:"Don't worry,:「安心しろよ、}`
-`{ruby:I'll crush you mush you mash you up so you're even uglier, while you're still aliii{-}i{-}i{-}i{-}i{-}iiive!!!":てめェはそれよりさらに滅茶苦茶グチャグチャに生きながら醜く潰してやるからよぉおおおおおおおッ！！！」}`
-`{ruby:At that time, .........Genji softly entered the red barrier.:その時、………赤き結界に、源次がすっと入った。}`
-`{ruby:{n}Maybe that barrier didn't block those without ill intent.:{n}その結界は敵意を持たない者には障壁とならないのだろうか。}`
-`{ruby:Then Genji...softly held Shannon from behind,:そして源次は、…そっと紗音を後から抱き締め、}`
-`{ruby:......and covered her eyes with his right hand.:……右手で彼女の目を覆う。}`
+`{ruby:I'll crush you mush you mash you up:てめェはそれよりさらに滅茶苦茶グチャグチャに生きなが}{ruby:so you're even uglier, while you're still aliii{-}i{-}i{-}i{-}i{-}iiive!!!":ら醜く潰してやるからよぉおおおおおおおッ！！！」}`
+`{ruby:At that time, .........Genji:その時、………赤き結界に、}{ruby:softly entered the red barrier.:源次がすっと入った。}`
+`{ruby:{n}Maybe that barrier didn't:{n}その結界は敵意を持たない者に}{ruby:block those without ill intent.:は障壁とならないのだろうか。}`
+`{ruby:Then Genji...softly held:そして源次は、…そっと紗}{ruby:Shannon from behind,:音を後から抱き締め、}`
+`{ruby:......and covered her eyes:……右手で彼女の}{ruby:with his right hand.:目を覆う。}`
 `{ruby:"............Genji‐sama...":「…………源次さま…」}`
 `{ruby:"You have done enough now...:「もう充分だ…。}`
 `{ruby:.........Go to sleep before me.":………先に休みなさい」}`
 `{ruby:"............Yes.:「…………はい。}`
-`{ruby:.........Thank you very much, Genji‐sama...":………ありがとうございます、源次さま…」}`
+`{ruby:.........Thank you:………ありがとうござい}{ruby:very much, Genji‐sama...":ます、源次さま…」}`
 `{ruby:".........Mhm.":「………うむ」}`
-`{ruby:After that, Genji softly pressed his left hand against the area around her collarbone...:それから源次は、左手を、彼女の鎖骨の辺りにやさしく押し当てる…。}`
-`{ruby:......As he did, from the area where that left hand pressed,:……すると、その左手を押し当てたところから、}`
-`{ruby:......a crimson stain gently spread out.:……真紅の染みがやさしく広がる。}`
+`{ruby:After that, Genji softly pressed his left:それから源次は、左手を、彼女の鎖骨}{ruby:hand against the area around her collarbone...:の辺りにやさしく押し当てる…。}`
+`{ruby:......As he did, from the:……すると、その左手を押}{ruby:area where that left hand pressed,:し当てたところから、}`
+`{ruby:......a crimson stain:……真紅の染みがや}{ruby:gently spread out.:さしく広がる。}`
 `{ruby:When Genji removed his hand,:源次がその手を離すと、}`
-`{ruby:.........bright‐red fresh blood oozed out of there.:………そこには真っ赤な鮮血が湧き出していた。}`
-`{ruby:For just the very first instant, it appeared to be shaped like a crimson rose...:それは最初の一瞬だけ、真紅の薔薇模様にも見えた…。}`
-`{ruby:And when he removed the right hand that covered Shannon's eyes,:そして紗音の目を覆っていた右手を離すと、}`
-`{ruby:.........there was a peaceful expression on her face, as though she was sleeping.:………紗音は眠るような安らかな表情を浮かべていて。}`
+`{ruby:.........bright‐red fresh blood:………そこには真っ赤な鮮}{ruby:oozed out of there.:血が湧き出していた。}`
+`{ruby:For just the very first instant, it:それは最初の一瞬だけ、真紅の}{ruby:appeared to be shaped like a crimson rose...:薔薇模様にも見えた…。}`
+`{ruby:And when he removed the:そして紗音の目を覆って}{ruby:right hand that covered Shannon's eyes,:いた右手を離すと、}`
+`{ruby:.........there was a peaceful expression on:………紗音は眠るような安らか}{ruby:her face, as though she was sleeping.:な表情を浮かべていて。}`
 `{ruby:......And she fell softly,:……そして、ふわりと、}`
 `{ruby:...silently down,:…音もなく倒れて、}`
 `{ruby:.........and slept.:………眠った。}`
-`{ruby:Her soul had already been sent to a world where the malicious witch and her furniture could never reach her,:もう、悪意ある魔女やその家具たちが、どれほどの邪悪で彼女を苛もうとも、}`
-`{ruby:no matter how evilly they tortured her...:決して届かない世界へ、彼女の魂は送られていた…。}`
-`{ruby:{f:5:Beatrice} and the Seven Sisters were shocked by this scene.:ベアトリーチェと七姉妹たちはその光景に呆然とする。}`
-`{ruby:{n}...Only Ronove had a mysterious expression along with his smile.:{n}…ロノウェだけが笑みの中に神妙なものを浮かべていた。}`
-`{ruby:Then Genji leaned over Kanon, who was crouching on the floor.:そして源次は床にうずくまる嘉音に屈み込む。}`
+`{ruby:Her soul had already been sent to a world where:もう、悪意ある魔女やその家具たちが、ど}{ruby:the malicious witch and her furniture could never reach her,:れほどの邪悪で彼女を苛もうとも、}`
+`{ruby:no matter how:決して届かない世界へ、彼女}{ruby:evilly they tortured her...:の魂は送られていた…。}`
+`{ruby:{f:5:Beatrice} and the Seven Sisters:ベアトリーチェと七姉妹たちは}{ruby:were shocked by this scene.:その光景に呆然とする。}`
+`{ruby:{n}...Only Ronove had a mysterious:{n}…ロノウェだけが笑みの中に}{ruby:expression along with his smile.:神妙なものを浮かべていた。}`
+`{ruby:Then Genji leaned over Kanon,:そして源次は床にうずくま}{ruby:who was crouching on the floor.:る嘉音に屈み込む。}`
 `{ruby:".........You did well.:「………よく頑張った。}`
 `{ruby:You, too, should sleep now.":お前ももう休むといい」}`
 `{ruby:".................................:「……………………………。}`
 `{ruby:............Yes.:…………はい。}`
 `{ruby:Thank you very much, Genji‐sama.":ありがとうございます、源次さま」}`
-`{ruby:Just as he had done with Shannon, after gently covering Kanon's eyes with his hand,:源次は紗音にそうしたように、嘉音の目を手でやさしく覆った後、}`
-`{ruby:Genji gently covered the area around Kanon's collarbone with his other hand.:もう片方の手で、同じように鎖骨の辺りをやさしく覆う。}`
-`{ruby:......And when that was removed with the lightness of a feather,:……そしてその手を、まるで羽を思わせる軽さで取り払うと、}`
+`{ruby:Just as he had done with Shannon,:源次は紗音にそうしたように、嘉音}{ruby:after gently covering Kanon's eyes with his hand,:の目を手でやさしく覆った後、}`
+`{ruby:Genji gently covered the area around:もう片方の手で、同じように鎖}{ruby:Kanon's collarbone with his other hand.:骨の辺りをやさしく覆う。}`
+`{ruby:......And when that was removed:……そしてその手を、まるで羽を}{ruby:with the lightness of a feather,:思わせる軽さで取り払うと、}`
 `{ruby:...there was a crimson rose shape.:…そこには真紅の薔薇模様が。}`
-`{ruby:But that rose shape quickly turned into the stain of bright‐red blood pouring out...:でもその薔薇模様はすぐに真っ赤な溢れ出す血の染みと化す…。}`
+`{ruby:But that rose shape quickly turned into:でもその薔薇模様はすぐに真っ赤な}{ruby:the stain of bright‐red blood pouring out...:溢れ出す血の染みと化す…。}`
 `{ruby:"Wh‐:「な、}`
 `{ruby:............what is...that......":…………何よ、それぇ……」}`
 `{ruby:"......What a boring person.:「……つまらぬヤツ。}`
-`{ruby:...The fun of a balloon of life is in poking it with a needle and making it forcefully explode.":…生命の風船は、針にて突き、威勢よく割るから面白いのだろうが」}`
+`{ruby:...The fun of a balloon of life is in:…生命の風船は、針にて突き、威勢よ}{ruby:poking it with a needle and making it forcefully explode.":く割るから面白いのだろうが」}`
 `{ruby:"Spectacular, Genji.:「見事です、源次。}`
-`{ruby:............You truly are furniture.":…………それでこそ、家具です」}`
+`{ruby:............You truly:…………それでこそ}{ruby:are furniture.":、家具です」}`
 `{ruby:"......Thank you very much.:「……ありがとうございます。}`
-`{ruby:...Well then, {f:5:Beatrice}‐sama, Ronove‐sama.:…それではベアトリーチェさま、ロノウェさま。}`
-`{ruby:With this as my final task, allow me to rest.":これを以って私の最後のお勤めとし、お暇をさせていただきます」}`
+`{ruby:...Well then,:…それではベアトリーチェ}{ruby:{f:5:Beatrice}‐sama, Ronove‐sama.:さま、ロノウェさま。}`
+`{ruby:With this as my final:これを以って私の最後のお勤めとし}{ruby:task, allow me to rest.":、お暇をさせていただきます」}`
 `{ruby:"............Grr.:「…………ち。}`
 `{ruby:You took what I was playing with.:妾の楽しみを勝手に奪いおって。}`
-`{ruby:All of that thrashing and mashing I wanted to do to them,:この二人をギッタギタのグッチャグチャにしたかった分、}`
-`{ruby:I hope you're willing to take all that instead??":そなたがそれを代わるのであろうなぁ？？」}`
-`{ruby:{f:5:Beatrice} faced him with an unsatisfied expression,:ベアトリーチェは不満の表情を向けるが、}`
-`{ruby:but Ronove spoke quietly to Genji with a soothing smile.:ロノウェは安らぎを感じさせる笑顔で、静かに源次に告げた。}`
+`{ruby:All of that thrashing and mashing:この二人をギッタギタのグッチ}{ruby:I wanted to do to them,:ャグチャにしたかった分、}`
+`{ruby:I hope you're willing:そなたがそれを代わるの}{ruby:to take all that instead??":であろうなぁ？？」}`
+`{ruby:{f:5:Beatrice} faced him:ベアトリーチェは不満の}{ruby:with an unsatisfied expression,:表情を向けるが、}`
+`{ruby:but Ronove spoke quietly to:ロノウェは安らぎを感じさせる笑}{ruby:Genji with a soothing smile.:顔で、静かに源次に告げた。}`
 `{ruby:"You have worked hard.:「ご苦労でした。}`
 `{ruby:You are my greatest servant.:あなたは私の最高の僕です。}`
-`{ruby:......I shall bestow as a final gift to you a peaceful sleep worthy of all your labors until now.":……これまでの労をねぎらうに値する安らかな眠りを、あなたへの最後の褒美として取らせましょう」}`
+`{ruby:......I shall bestow as a final gift to you:……これまでの労をねぎらうに値する安らかな眠りを}{ruby:a peaceful sleep worthy of all your labors until now.":、あなたへの最後の褒美として取らせましょう」}`
 `{ruby:"Wha?!:「ちょっ？！}`
 `{ruby:Wait, what are you...!":おいッ勝手な真似を…！」}`
 `{ruby:When Ronove snapped his fingers,:ロノウェがパチリと指を鳴らすと、}`
-`{ruby:......as if Genji was a puppet that had crumpled from its strings being cut,:……源次がもしも操り人形だったなら、その糸が切れて崩れ落ちたと錯覚するくらいに、}`
+`{ruby:......as if Genji was a puppet that:……源次がもしも操り人形だったなら、その糸}{ruby:had crumpled from its strings being cut,:が切れて崩れ落ちたと錯覚するくらいに、}`
 `{ruby:...suddenly, and yet gently...:…あっさりと、だけれどもやさしく。}`
-`{ruby:He fell, sprawled on the floor, into a sleep that witches couldn't call him back from...:彼は床に、崩れ落ちて、魔女たちには呼び戻せない眠りに落ちた…。}`
-`{ruby:That was as filled with kindness as the sleep he had given Shannon and Kanon...:それは、彼が紗音たちに与えた眠りと同じくらいに、やさしさに溢れたものであった…。}`
+`{ruby:He fell, sprawled on the floor, into a:彼は床に、崩れ落ちて、魔女たちには}{ruby:sleep that witches couldn't call him back from...:呼び戻せない眠りに落ちた…。}`
+`{ruby:That was as filled with kindness as:それは、彼が紗音たちに与えた眠りと同じくら}{ruby:the sleep he had given Shannon and Kanon...:いに、やさしさに溢れたものであった…。}`
 `{ruby:"......What was that, Ronove?:「……何だよォ、ロノウェぇ。}`
 `{ruby:......What a boring anticlimax.":……拍子抜けでつまらぬぞ」}`
-`{ruby:"Are you not a powerful Great Witch, Milady?:「お嬢様は偉大なる大魔女ではございませんか。}`
-`{ruby:Something such as this is not enough to pay attention to.:この程度、気に留めるほどにもございませんよ。}`
-`{ruby:......It is not like you to allow the blood to rush to your head because of provocation from someone like Shannon.":……紗音ごときの挑発で頭に血を上らせるなど、らしくもない」}`
+`{ruby:"Are you not a:「お嬢様は偉大なる大魔女}{ruby:powerful Great Witch, Milady?:ではございませんか。}`
+`{ruby:Something such as this is:この程度、気に留めるほど}{ruby:not enough to pay attention to.:にもございませんよ。}`
+`{ruby:......It is not like you to allow the blood to:……紗音ごときの挑発で頭に血を上}{ruby:rush to your head because of provocation from someone like Shannon.":らせるなど、らしくもない」}`
 `{ruby:"...........................:「………………………。}`
 `{ruby:...hmph.":…ふん」}`
-`{ruby:What was there that {f:5:Beatrice} didn't like?:ベアトリーチェは何が気に入らないのだろうか。}`
-`{ruby:{n}...Was she still unable to remove the thorn of Shannon's words?:{n}…紗音の言葉の棘が、今もなお抜けないというのか。}`
-`{ruby:Ronove laughed lightly, as though lamenting the complexity of the human and the female heart, and ordered the Seven Sisters to go.:ロノウェは、人間と女の心の複雑さを嘆くように薄く笑うと、七姉妹たちに行けと命じる。}`
-`{ruby:......After all, there were still two sacrifices left for the first twilight.:……何しろ、第一の晩の生贄はまだ２人残っているのだから。}`
-`{ruby:The Seven Sisters cavorted as they disappeared...:七姉妹たちは大はしゃぎして姿を消すのだった…。}`
+`{ruby:What was there:ベアトリーチェは何が気に}{ruby:that {f:5:Beatrice} didn't like?:入らないのだろうか。}`
+`{ruby:{n}...Was she still unable to:{n}…紗音の言葉の棘が、今も}{ruby:remove the thorn of Shannon's words?:なお抜けないというのか。}`
+`{ruby:Ronove laughed lightly, as though lamenting the complexity of the human:ロノウェは、人間と女の心の複雑さを嘆くように}{ruby:and the female heart, and ordered the Seven Sisters to go.:薄く笑うと、七姉妹たちに行けと命じる。}`
+`{ruby:......After all, there were still two:……何しろ、第一の晩の生贄はま}{ruby:sacrifices left for the first twilight.:だ２人残っているのだから。}`
+`{ruby:The Seven Sisters:七姉妹たちは大はしゃぎし}{ruby:cavorted as they disappeared...:て姿を消すのだった…。}`

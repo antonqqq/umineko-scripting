@@ -1,288 +1,288 @@
 `{ruby:Quadrillion.:Ｑｕａｄｒｉｌｌｉｏｎ。}`
-`{ruby:There's only one place you'll find that word on Rokkenjima.:それが刻まれた場所が、六軒島に一ヶ所だけある。}`
-`{ruby:Gold butterflies flitted from shadow to shadow, dodging raindrops.:黄金蝶が梢の陰から陰へ、小雨を避けながら、ひらりと飛ぶ。}`
-`{ruby:"......Unless my memory is mistaken, this is probably the place.":「……妾の記憶が間違っていなければ、確かここで見た覚えがある」}`
+`{ruby:There's only one place you'll:それが刻まれた場所が、六軒}{ruby:find that word on Rokkenjima.:島に一ヶ所だけある。}`
+`{ruby:Gold butterflies flitted from:黄金蝶が梢の陰から陰へ、小雨を}{ruby:shadow to shadow, dodging raindrops.:避けながら、ひらりと飛ぶ。}`
+`{ruby:"......Unless my memory is mistaken,:「……妾の記憶が間違っていなければ}{ruby:this is probably the place.":、確かここで見た覚えがある」}`
 `{ruby:It was......the chapel.:そこは、……礼拝堂だった。}`
-`{ruby:{n}That mysterious building, one of the oldest on Rokkenjima, which had been built at the same time as the mansion.:{n}六軒島に屋敷と同時に最も古く建てられた、謎多き建物だ。}`
-`{ruby:It was called the chapel, but not once had Kinzo used it for worship, and the members of the family had never been allowed inside.:礼拝堂と名は付いているが、金蔵が礼拝に使ったためしは一度もなく、親族たちに立ち入らせたことも一度も無い。}`
-`{ruby:There were strict orders that none approach it without reason, and its purpose was always a mystery.:濫りに近付くべからずと厳命され、何のために建てられたのか、ずっと謎に思われてきた。}`
-`{ruby:However, any mystery will lose its luster after several decades.:しかし、どんな謎も、数十年という長い時間の間には色褪せる。}`
-`{ruby:At some point, everyone forgot the chapel even existed,:いつしか、礼拝堂という存在も忘れられ、}`
-`{ruby:and that splendid building passed from the thoughts of Rokkenjima's residents......:これほどに立派な建物なのに、六軒島の住人たちからは忘れ去られていた……。}`
-`{ruby:Of course, this had been true for Beato as well.:無論、それはベアトもだった。}`
-`{ruby:Beato, who hated boredom, had no desire to approach places that humans never went.:退屈を嫌うベアトは、人の立ち入らない場所には好んで近寄らない。}`
-`{ruby:Her last memory of the place was of the time she went in there to taunt Shannon as she tried to clean.:以前、礼拝堂の掃除をする紗音をからかった時に出入りをしたのが、最後の記憶だった。}`
+`{ruby:{n}That mysterious building, one of the oldest on Rokkenjima, which:{n}六軒島に屋敷と同時に最も古}{ruby:had been built at the same time as the mansion.:く建てられた、謎多き建物だ。}`
+`{ruby:It was called the chapel, but not once had Kinzo used it:礼拝堂と名は付いているが、金蔵が礼拝に使ったためしは一}{ruby:for worship, and the members of the family had never been allowed inside.:度もなく、親族たちに立ち入らせたことも一度も無い。}`
+`{ruby:There were strict orders that none approach it:濫りに近付くべからずと厳命され、何のために建}{ruby:without reason, and its purpose was always a mystery.:てられたのか、ずっと謎に思われてきた。}`
+`{ruby:However, any mystery will lose:しかし、どんな謎も、数十年という}{ruby:its luster after several decades.:長い時間の間には色褪せる。}`
+`{ruby:At some point, everyone:いつしか、礼拝堂という}{ruby:forgot the chapel even existed,:存在も忘れられ、}`
+`{ruby:and that splendid building passed:これほどに立派な建物なのに、六軒島の住}{ruby:from the thoughts of Rokkenjima's residents......:人たちからは忘れ去られていた……。}`
+`{ruby:Of course, this had been:無論、それはベア}{ruby:true for Beato as well.:トもだった。}`
+`{ruby:Beato, who hated boredom, had no desire:退屈を嫌うベアトは、人の立ち入らな}{ruby:to approach places that humans never went.:い場所には好んで近寄らない。}`
+`{ruby:Her last memory of the place was of the time she:以前、礼拝堂の掃除をする紗音をからかった時}{ruby:went in there to taunt Shannon as she tried to clean.:に出入りをしたのが、最後の記憶だった。}`
 `{ruby:"......There can be no doubt.:「……間違いない。}`
 `{ruby:That is it.:あれであるな。}`
 `{ruby:......Quadrillion.":……Ｑｕａｄｒｉｌｌｉｏｎ」}`
-`{ruby:Beato looked up......above the door of the chapel.:ベアトが見上げるのは、……礼拝堂の扉の上。}`
-`{ruby:{n}There was a relief displayed over an arch.:{n}アーチ上に掲げられている、レリーフだった。}`
+`{ruby:Beato looked up......above the:ベアトが見上げるのは、…}{ruby:door of the chapel.:…礼拝堂の扉の上。}`
+`{ruby:{n}There was a relief:{n}アーチ上に掲げられて}{ruby:displayed over an arch.:いる、レリーフだった。}`
 `{ruby:English words were written there.:そこには英文が記されている。}`
-`{ruby:"‘You will be blessed only at a probability of a Quadrillion to one’.:「“お前は千兆分の一の確率でしか、祝福されない”、か。}`
+`{ruby:"‘You will be blessed only at:「“お前は千兆分の一の確率でし}{ruby:a probability of a Quadrillion to one’.:か、祝福されない”、か。}`
 `{ruby:.........Heheh.:………ふふん。}`
-`{ruby:So, you thought that was the probability of someone solving this riddle...?":あの謎を解ける者が現れる確率を、そなたは、千兆という名の奇跡に見立てたのか…」}`
+`{ruby:So, you thought that was the:あの謎を解ける者が現れる確率を、そなたは、}{ruby:probability of someone solving this riddle...?":千兆という名の奇跡に見立てたのか…」}`
 `{ruby:This chapel was built long ago.:この礼拝堂が建てられたのは、ずいぶん昔のことだ。}`
-`{ruby:If there is a mechanism like the one I imagine,:もし、妾の想像する通りの仕掛けがあるとしたら、}`
-`{ruby:......Kinzo must have prepared that epitaph riddle many decades ago.:……金蔵は、数十年の昔から、あの碑文の謎を用意していたことになる。}`
-`{ruby:He must have been planning to use it as a ritual for choosing a fitting successor all this time.:いつの日にか、自分の後を継ぐに相応しい者を選ぶ儀式に使おうと、ずっと寝かし続けていた仕掛けに違いあるまい。}`
-`{ruby:......However, that ritual is now a ritual to open the door to the Golden Land and to my resurrection.:……もっとも、その儀式は今や、黄金郷への扉を開く、復活の儀式であるが。}`
+`{ruby:If there is a mechanism:もし、妾の想像する通りの仕}{ruby:like the one I imagine,:掛けがあるとしたら、}`
+`{ruby:......Kinzo must have prepared that:……金蔵は、数十年の昔から、あの碑文}{ruby:epitaph riddle many decades ago.:の謎を用意していたことになる。}`
+`{ruby:He must have been planning to use it as:いつの日にか、自分の後を継ぐに相応しい者を選ぶ儀式に使お}{ruby:a ritual for choosing a fitting successor all this time.:うと、ずっと寝かし続けていた仕掛けに違いあるまい。}`
+`{ruby:......However, that ritual is now a ritual to open:……もっとも、その儀式は今や、黄金郷へ}{ruby:the door to the Golden Land and to my resurrection.:の扉を開く、復活の儀式であるが。}`
 `{ruby:When I snapped my fingers,:パチリと指を鳴らすと、}`
-`{ruby:the ground bulged, and several dead trees sprouted out of it, curving and twisting like snakes.:目の前の地面が膨れ上がり、そこから朽木が大蛇のように何本も生えてくる。}`
-`{ruby:They twisted around each other to form a ladder, which leaned itself against the door.:それは絡まり合い、はしごの形となって、扉に立てかかった。}`
-`{ruby:"If my guess is right, ......there's some sort of mechanism in that relief.":「妾の想像通りならば、……あのレリーフが仕掛けだ」}`
+`{ruby:the ground bulged, and several dead trees sprouted:目の前の地面が膨れ上がり、そこから朽木}{ruby:out of it, curving and twisting like snakes.:が大蛇のように何本も生えてくる。}`
+`{ruby:They twisted around each other to form:それは絡まり合い、はしごの形と}{ruby:a ladder, which leaned itself against the door.:なって、扉に立てかかった。}`
+`{ruby:"If my guess is right, ......there's:「妾の想像通りならば、……あ}{ruby:some sort of mechanism in that relief.":のレリーフが仕掛けだ」}`
 `{ruby:I slowly climbed the ladder.:ゆっくりとはしごを上る。}`
-`{ruby:Because of the size of the door, the relief was very high up.:扉が大きいこともあり、レリーフの位置は高かった。}`
-`{ruby:This close up, it looks much bigger than it did from the ground.:こうして間近でレリーフを見ると、下で見るより遥かに大きく見えた。}`
-`{ruby:"............Come to think of it, whenever we cleaned the chapel,:「…………そう言えば、礼拝堂を大掃除する時。}`
-`{ruby:......this relief was the only thing that Genji always made sure he polished himself.:……あの源次が、わざわざこのレリーフだけは、自らの手で磨いていたな。}`
-`{ruby:......I always wondered why he didn't leave something so trivial to the younger servants.":……その程度のこと、なぜ若い使用人に任せぬのかと不思議に思っていたものだが」}`
-`{ruby:I thought it strange, but nothing more.:不思議には思っても、それ以上のことは何も考えなかった。}`
-`{ruby:The Master treasured this relief, so the head servant cared for it himself.:お館様の大事なレリーフだから、使用人頭の源次が自ら。}`
+`{ruby:Because of the size of the:扉が大きいこともあり、レリ}{ruby:door, the relief was very high up.:ーフの位置は高かった。}`
+`{ruby:This close up, it looks much:こうして間近でレリーフを見ると、下}{ruby:bigger than it did from the ground.:で見るより遥かに大きく見えた。}`
+`{ruby:"............Come to think of it,:「…………そう言えば、礼}{ruby:whenever we cleaned the chapel,:拝堂を大掃除する時。}`
+`{ruby:......this relief was the only thing that:……あの源次が、わざわざこのレリーフ}{ruby:Genji always made sure he polished himself.:だけは、自らの手で磨いていたな。}`
+`{ruby:......I always wondered why he didn't leave:……その程度のこと、なぜ若い使用人に任せ}{ruby:something so trivial to the younger servants.":ぬのかと不思議に思っていたものだが」}`
+`{ruby:I thought it:不思議には思っても、それ以上の}{ruby:strange, but nothing more.:ことは何も考えなかった。}`
+`{ruby:The Master treasured this relief, so:お館様の大事なレリーフだから}{ruby:the head servant cared for it himself.:、使用人頭の源次が自ら。}`
 `{ruby:......I always accepted that excuse.:……それで納得してしまっていた。}`
 `{ruby:But now, I understand.:しかし、今になれば納得できる。}`
-`{ruby:{n}There must be a trick to this relief.:{n}やはり、このレリーフには仕掛けがあったのだ。}`
-`{ruby:And Genji polished it himself to make sure that no one else accidentally found out......:それに不用意に近付かせないために、源次が自ら磨いていたのだ……。}`
-`{ruby:"So, from this Quadrillion, I am to sacrifice the six letters chosen by the key......?":「この、Ｑｕａｄｒｉｌｌｉｏｎから、鍵の選びし６文字を生贄に捧げると言うことか……」}`
-`{ruby:I prodded and played with the letter "Q".:指先で、Ｑの文字をいじる。}`
-`{ruby:My fingertips were soon covered with dust.:土埃が指先をくすぐった。}`
-`{ruby:However, I quickly realized that something felt strange about it.:でも、すぐに違和感のある感触を覚えた。}`
+`{ruby:{n}There must be a:{n}やはり、このレリーフに}{ruby:trick to this relief.:は仕掛けがあったのだ。}`
+`{ruby:And Genji polished it himself to make:それに不用意に近付かせないために、}{ruby:sure that no one else accidentally found out......:源次が自ら磨いていたのだ……。}`
+`{ruby:"So, from this Quadrillion, I am to:「この、Ｑｕａｄｒｉｌｌｉｏｎから、鍵の選び}{ruby:sacrifice the six letters chosen by the key......?":し６文字を生贄に捧げると言うことか……」}`
+`{ruby:I prodded and played:指先で、Ｑの文字}{ruby:with the letter "Q".:をいじる。}`
+`{ruby:My fingertips were:土埃が指先をく}{ruby:soon covered with dust.:すぐった。}`
+`{ruby:However, I quickly realized that:でも、すぐに違和感のあ}{ruby:something felt strange about it.:る感触を覚えた。}`
 `{ruby:"......Don't tell me this letter...:「……この文字、まさか。}`
-`{ruby:......No, ......it had to be like this.:……いや、……そうでなくてはならん。}`
-`{ruby:There would be no other way to offer up sacrifices......":でなくては、生贄に捧げられぬからな……」}`
-`{ruby:Beato grabbed hold of the letter "Q", and after experimenting with different levels of force,:ベアトがＱの文字を掴み、力加減を色々と試すと、}`
-`{ruby:......the letter came out with a scraping sound.:……それはゴリリと音をさせて、引き抜けた。}`
+`{ruby:......No, ......it had:……いや、……そうで}{ruby:to be like this.:なくてはならん。}`
+`{ruby:There would be no other:でなくては、生贄に捧げ}{ruby:way to offer up sacrifices......":られぬからな……」}`
+`{ruby:Beato grabbed hold of the letter "Q",:ベアトがＱの文字を掴み、力}{ruby:and after experimenting with different levels of force,:加減を色々と試すと、}`
+`{ruby:......the letter came out:……それはゴリリと音をさ}{ruby:with a scraping sound.:せて、引き抜けた。}`
 `{ruby:"Just......as I thought.........":「やはり、……な………」}`
 `{ruby:Here's the "Q" I pulled out.:引き抜かれたＱの文字。}`
 `{ruby:And there's a wedge—no.:そしてそこからは楔が、……違う。}`
 `{ruby:It's a key.:これは、鍵だ。}`
-`{ruby:A key was attached to the back of the "Q", and that had been stuck into a keyhole in the relief.:Ｑの文字には鍵が生えていて、それが文字盤の鍵穴に挿されていたのだ。}`
+`{ruby:A key was attached to the back of the "Q",:Ｑの文字には鍵が生えていて、それが文}{ruby:and that had been stuck into a keyhole in the relief.:字盤の鍵穴に挿されていたのだ。}`
 `{ruby:"......I see......:「……そういうことか……。}`
-`{ruby:In that case, I know what to do next.:ならば、あとはわかるぞ。}`
-`{ruby:......Very good, this "Q" key is a wrong answer.:……よしよし、このＱの鍵は違う。}`
+`{ruby:In that case, I:ならば、あとは}{ruby:know what to do next.:わかるぞ。}`
+`{ruby:......Very good, this "Q":……よしよし、この}{ruby:key is a wrong answer.:Ｑの鍵は違う。}`
 `{ruby:Away with you.":お前はハズレだ」}`
-`{ruby:Beato carelessly tossed the "Q" key aside.:引き抜いたＱの鍵を、ベアトはぞんざいに放る。}`
+`{ruby:Beato carelessly tossed:引き抜いたＱの鍵を、ベア}{ruby:the "Q" key aside.:トはぞんざいに放る。}`
 `{ruby:This was the first sacrifice.:これが、最初の生贄。}`
-`{ruby:She kept on pulling out the keys for the six letters representing "the key".:この調子で、鍵の示す６人を、文字盤の鍵を、引き抜いていく。}`
-`{ruby:"......So, "a" will also be sacrificed.:「……ａも生贄であるな。}`
+`{ruby:She kept on pulling out the keys:この調子で、鍵の示す６人を、文字}{ruby:for the six letters representing "the key".:盤の鍵を、引き抜いていく。}`
+`{ruby:"......So, "a" will:「……ａも生贄}{ruby:also be sacrificed.:であるな。}`
 `{ruby:......And both "i"s.:……そしてｉも２つ生贄だ。}`
 `{ruby:......And then the "n" at the end.":……最後のｎも生贄か」}`
-`{ruby:"Now, I only sacrifice one "l", ......but unfortunately, there are two "l"s here.":「ｌは１文字を生贄であるが、……困ったぞ、ｌは２つあるではないか」}`
+`{ruby:"Now, I only sacrifice one "l",:「ｌは１文字を生贄であるが、……困っ}{ruby:......but unfortunately, there are two "l"s here.":たぞ、ｌは２つあるではないか」}`
 `{ruby:There were two "l"s.:ｌは２文字ある。}`
-`{ruby:I didn't know which I should sacrifice.:どちらのｌを生贄に捧げればいいか、わからない。}`
-`{ruby:I tried pulling both out, but the keys were of different shapes.:試しに両方を引き抜いてみるが、どちらの鍵も違う形状だった。}`
-`{ruby:So, one is a right answer, and one is a wrong answer.:片方は正解、片方はハズレだ。}`
+`{ruby:I didn't know:どちらのｌを生贄に捧げれば}{ruby:which I should sacrifice.:いいか、わからない。}`
+`{ruby:I tried pulling both out, but:試しに両方を引き抜いてみるが、ど}{ruby:the keys were of different shapes.:ちらの鍵も違う形状だった。}`
+`{ruby:So, one is a right answer,:片方は正解、片方}{ruby:and one is a wrong answer.:はハズレだ。}`
 `{ruby:"Well, there are only two.:「どうせ２通りしかない。}`
-`{ruby:......If I make a mistake, I can just try the other one.":……誤りだったら、もう片方を試せばいいだけのこと」}`
-`{ruby:Unless messing up sets off a trap that blows up the island, of course.:仕掛けを失敗すると、大爆発を起こすなどという物騒な罠でもない限り、な。}`
-`{ruby:Thinking it a waste of time to sit here worrying, I decided on the "l" on the right and pulled it out.:悩むだけ無駄だと思い、２つ並んだｌの、右側に決め、それを引き抜く。}`
+`{ruby:......If I make a mistake, I:……誤りだったら、もう片方を}{ruby:can just try the other one.":試せばいいだけのこと」}`
+`{ruby:Unless messing up sets off a trap:仕掛けを失敗すると、大爆発を起こすなど}{ruby:that blows up the island, of course.:という物騒な罠でもない限り、な。}`
+`{ruby:Thinking it a waste of time to sit here worrying, I:悩むだけ無駄だと思い、２つ並んだｌの}{ruby:decided on the "l" on the right and pulled it out.:、右側に決め、それを引き抜く。}`
 `{ruby:Five letters remained in the word.:文字盤には、５文字が残された。}`
 `{ruby:"And now, the first twilight is over.:「これにて、第一の晩は終了だ。}`
 `{ruby:......On to the second twilight.":……続いて、第二の晩」}`
-`{ruby:On the second twilight, those who remain shall tear apart the two who are close.:第二の晩に、残されし者は寄り添う二人を引き裂け。}`
+`{ruby:On the second twilight, those who remain:第二の晩に、残されし者は寄}{ruby:shall tear apart the two who are close.:り添う二人を引き裂け。}`
 `{ruby:"The "d" and "r" are close.:「ｄとｒが寄り添っているな。}`
-`{ruby:What does it mean to tear them apart...?:これを引き裂くとは如何に…？}`
+`{ruby:What does it mean:これを引き裂くと}{ruby:to tear them apart...?:は如何に…？}`
 `{ruby:Do I pull them out?":抜けば良いのか？」}`
-`{ruby:But if I do, there will only be three letters left.:しかし、抜けば残る文字は３文字になる。}`
-`{ruby:By this point, I was able to make a good guess at what the "gouge and kill" lines from the fourth twilight onwards meant.:この頃には、第四の晩以降の、頭を抉りて殺せ、の行の意味を察することが出来るようになっていた。}`
-`{ruby:"Gouge and kill probably means to turn the keys and take them out.:「抉りて殺せは恐らく、鍵を捻って回してから引き抜けという意味であるに違いない。}`
-`{ruby:In that case, the parts about going from head to leg must mean starting at the left and going right.":となれば、頭から足は、恐らく、左の文字鍵から右へ順にそれを行なえという意味に違いあるまい」}`
-`{ruby:If that's the case, five letters have to remain on the board.:となるなら、文字盤には５文字が残らなければならない。}`
-`{ruby:{n}In other words, "tear apart" doesn't mean kill.:{n}つまり、引き裂けは、殺せという意味ではないのだ。}`
-`{ruby:"If so, then we can read "tear apart" to mean putting a gap between the "d" and the "r".:「それで引き裂けと考えた場合、このｄとｒ、２字の間隔をあけよと読み取れるな。}`
+`{ruby:But if I do, there:しかし、抜けば残る文字}{ruby:will only be three letters left.:は３文字になる。}`
+`{ruby:By this point, I was able to make a good guess at:この頃には、第四の晩以降の、頭を抉りて殺せ、の行}{ruby:what the "gouge and kill" lines from the fourth twilight onwards meant.:の意味を察することが出来るようになっていた。}`
+`{ruby:"Gouge and kill probably means to:「抉りて殺せは恐らく、鍵を捻って回してから}{ruby:turn the keys and take them out.:引き抜けという意味であるに違いない。}`
+`{ruby:In that case, the parts about going from head to:となれば、頭から足は、恐らく、左の文字鍵から右へ}{ruby:leg must mean starting at the left and going right.":順にそれを行なえという意味に違いあるまい」}`
+`{ruby:If that's the case, five letters:となるなら、文字盤には５文字}{ruby:have to remain on the board.:が残らなければならない。}`
+`{ruby:{n}In other words, "tear:{n}つまり、引き裂けは、殺せ}{ruby:apart" doesn't mean kill.:という意味ではないのだ。}`
+`{ruby:"If so, then we can read "tear apart" to:「それで引き裂けと考えた場合、このｄとｒ}{ruby:mean putting a gap between the "d" and the "r".:、２字の間隔をあけよと読み取れるな。}`
 `{ruby:......But how?:……しかし、どうやる？}`
-`{ruby:Once again, there are two ways to do it...":またしてもやり方は２通りであるぞ…」}`
-`{ruby:Do I remove the "d" and move it to the left?:ｄを抜いて、左へずらすのか。}`
-`{ruby:{n}Do I remove the "r" and move it to the right?:{n}ｒを抜いて、右へずらすのか。}`
-`{ruby:......After pondering this for some time, I realized that both choices were wrong.:……しばらく悩んだ末、そのどちらも間違いであることに気付く。}`
+`{ruby:Once again, there are:またしてもやり方は２通}{ruby:two ways to do it...":りであるぞ…」}`
+`{ruby:Do I remove the "d":ｄを抜いて、左へ}{ruby:and move it to the left?:ずらすのか。}`
+`{ruby:{n}Do I remove the "r":{n}ｒを抜いて、右}{ruby:and move it to the right?:へずらすのか。}`
+`{ruby:......After pondering this for some time,:……しばらく悩んだ末、そのどちら}{ruby:I realized that both choices were wrong.:も間違いであることに気付く。}`
 `{ruby:"No.:「違う。}`
 `{ruby:That's not right.:そうではないのだ。}`
-`{ruby:I've had it wrong since I removed that "l".":さっきのｌから間違っていた」}`
-`{ruby:A short while ago, I removed the right of the two "l"s.:２字並んだｌの、さっきは右を抜いた。}`
-`{ruby:{n}However, if I had removed the left one...:{n}しかし、あのｌをもし、左を抜いていたなら。}`
+`{ruby:I've had it wrong:さっきのｌから間}{ruby:since I removed that "l".":違っていた」}`
+`{ruby:A short while ago, I removed:２字並んだｌの、さっ}{ruby:the right of the two "l"s.:きは右を抜いた。}`
+`{ruby:{n}However, if I had:{n}しかし、あのｌをもし}{ruby:removed the left one...:、左を抜いていたなら。}`
 `{ruby:......It would look like this.:……こうなる。}`
-`{ruby:If you line it up this way, it's easy to see the next step.:この並び方なら、自ずと正しい手順は見えてくる。}`
+`{ruby:If you line it up this way,:この並び方なら、自ずと正し}{ruby:it's easy to see the next step.:い手順は見えてくる。}`
 `{ruby:{n}The "r" gets shifted to the right.:{n}ｒを右にずらすのだ。}`
-`{ruby:This way, all of the letters are spread out evenly.:こうすれば、全ての文字が均等に並ぶ。}`
+`{ruby:This way, all of the:こうすれば、全ての文}{ruby:letters are spread out evenly.:字が均等に並ぶ。}`
 `{ruby:{n}This must be it.:{n}こうだ、こうに違いない。}`
-`{ruby:"And this next part......is another tough one.:「そして次が、……また難題であるぞ。}`
+`{ruby:"And this next:「そして次が、……ま}{ruby:part......is another tough one.:た難題であるぞ。}`
 `{ruby:......Praise my name...?":……我が名を讃えよとな…？」}`
-`{ruby:It's already clear that this is a word game.:文字遊びであることはすでに判明している。}`
-`{ruby:Those who remain shall praise my noble name.:残されし者は、誉れ高き我が名を讃えよ。}`
-`{ruby:I am supposed to do something with the remaining five letters.:残された５文字で、何かをしろと言うのだ。}`
+`{ruby:It's already clear that:文字遊びであることはす}{ruby:this is a word game.:でに判明している。}`
+`{ruby:Those who remain shall:残されし者は、誉れ高き}{ruby:praise my noble name.:我が名を讃えよ。}`
+`{ruby:I am supposed to do:残された５文字で、何か}{ruby:something with the remaining five letters.:をしろと言うのだ。}`
 `{ruby:Most likely, rearrange them.:恐らく、この５文字を並べ替えろというのだろう。}`
 `{ruby:"......‘u’, "d", "r", "l", "o"...:「……ｕ、ｄ、ｒ、ｌ、ｏ…。}`
-`{ruby:......Can I do something with these five letters to give them some sort of meaning?":……この５文字をどうにかすると、何かの意味になるということか」}`
+`{ruby:......Can I do something with these five:……この５文字をどうにかすると、何}{ruby:letters to give them some sort of meaning?":かの意味になるということか」}`
 `{ruby:Praise...my name.:我が名を、讃えよ。}`
 `{ruby:"Gh.:「く。}`
-`{ruby:......How can I get stuck after coming so far......?:……ここまで来て、わけのわからぬ謎を……。}`
-`{ruby:How are these five letters supposed to praise a name...?!":この５文字で、どう我が名とやらを讃えろというのか…！」}`
+`{ruby:......How can I get:……ここまで来て、わけの}{ruby:stuck after coming so far......?:わからぬ謎を……。}`
+`{ruby:How are these five letters:この５文字で、どう我が名とやら}{ruby:supposed to praise a name...?!":を讃えろというのか…！」}`
 `{ruby:That man's name is Ushiromiya Kinzo.:あやつの名は右代宮金蔵。}`
-`{ruby:{n}Is the "u" part of Ushiromiya......?:{n}ｕは、右代宮のｕか……？}`
-`{ruby:No, several letters don't match, and there aren't nearly enough letters to make Ushiromiya...:いいや、合うのはその１文字だけだし、右代宮などという長い字数にはとても足りない…。}`
-`{ruby:"One thing that is certain... "My name" must refer to Kinzo.:「我が名とは金蔵を指すことだけは間違いない。}`
-`{ruby:......Then, does the "u" stand for Ushiromiya after all?:……ならばやはりｕは右代宮を指すのか？}`
+`{ruby:{n}Is the "u":{n}ｕは、右代宮}{ruby:part of Ushiromiya......?:のｕか……？}`
+`{ruby:No, several letters don't match, and there:いいや、合うのはその１文字だけだし、右代宮な}{ruby:aren't nearly enough letters to make Ushiromiya...:どという長い字数にはとても足りない…。}`
+`{ruby:"One thing that is certain...:「我が名とは金蔵を指すこ}{ruby:"My name" must refer to Kinzo.:とだけは間違いない。}`
+`{ruby:......Then, does the "u":……ならばやはりｕは右}{ruby:stand for Ushiromiya after all?:代宮を指すのか？}`
 `{ruby:Like an initial.:イニシャルであるとか。}`
-`{ruby:......Then what do the "d", "r", "l", and "o" stand for?:……ならば、ｄ、ｒ、ｌ、ｏは何を意味する？}`
+`{ruby:......Then what do the "d",:……ならば、ｄ、ｒ、ｌ、}{ruby:"r", "l", and "o" stand for?:ｏは何を意味する？}`
 `{ruby:They can't mean Kinzo.:金蔵も意味せぬ。}`
-`{ruby:Do the "r" and "o"......stand for Rokkenjima...?:ｒ、ｏで、……まさか六軒島を…？}`
-`{ruby:The master of Rokkenjima, Kinzo......:六軒島の主、金蔵……。}`
-`{ruby:......Hmm, not nearly enough letters......":……うぅむ、字数がまるで足らぬ……」}`
+`{ruby:Do the "r":ｒ、ｏで、……まさ}{ruby:and "o"......stand for Rokkenjima...?:か六軒島を…？}`
+`{ruby:The master:六軒島の主、金}{ruby:of Rokkenjima, Kinzo......:蔵……。}`
+`{ruby:......Hmm, not:……うぅむ、字数がま}{ruby:nearly enough letters......":るで足らぬ……」}`
 `{ruby:This riddle left me totally confused.:この謎は、完全に妾の頭を混乱させた。}`
-`{ruby:{n}However, there were only five letters left.:{n}しかし、残された文字はたったの５文字しかない。}`
-`{ruby:There can't be so many possible combinations of those letters.:５文字が作れる組み合わせなど、決して多くはないのだ。}`
+`{ruby:{n}However, there were:{n}しかし、残された文字は}{ruby:only five letters left.:たったの５文字しかない。}`
+`{ruby:There can't be so many:５文字が作れる組み合わせなど}{ruby:possible combinations of those letters.:、決して多くはないのだ。}`
 `{ruby:I could use process of elimination.:総当りで試すことだって出来る。}`
-`{ruby:Thinking I'd play around with it, I pulled out the "u".:とりあえず試そうと思い、まず１文字目のｕを引き抜く。}`
+`{ruby:Thinking I'd play around with:とりあえず試そうと思い、まず}{ruby:it, I pulled out the "u".:１文字目のｕを引き抜く。}`
 `{ruby:......There were four letters left.:……残るは４文字。}`
 `{ruby:"d", "r", "l", and "o".:ｄ、ｒ、ｌ、ｏ。}`
-`{ruby:"....................................":「………………………………」}`
-`{ruby:My idea that the "u" stood for Ushiromiya was like a heavenly oracle.:ｕのことを、ずっと、右代宮のｕに違いないと決め付けていたことが、むしろ私に天啓を与える。}`
-`{ruby:When I removed the "u", I thought of making a word with the remaining four letters.:だから、ｕを除いた４文字で、何かを作るべきだという考えに至る。}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
+`{ruby:My idea that the "u" stood:ｕのことを、ずっと、右代宮のｕに違いないと決め}{ruby:for Ushiromiya was like a heavenly oracle.:付けていたことが、むしろ私に天啓を与える。}`
+`{ruby:When I removed the "u", I thought of:だから、ｕを除いた４文字で、何かを}{ruby:making a word with the remaining four letters.:作るべきだという考えに至る。}`
 `{ruby:"d", "r", "l", and "o".:ｄ、ｒ、ｌ、ｏ。}`
-`{ruby:Those four letters spun around in my head, changing their orders,:その４文字が、ぐるぐると頭の中で回り、入れ替わり、}`
-`{ruby:......and led me to a single English word that would serve to "praise" Kinzo...:……金蔵を“讃える”、ある一つの英単語を導き出す…。}`
+`{ruby:Those four letters spun around:その４文字が、ぐるぐると頭の}{ruby:in my head, changing their orders,:中で回り、入れ替わり、}`
+`{ruby:......and led me to a single English:……金蔵を“讃える”、ある一}{ruby:word that would serve to "praise" Kinzo...:つの英単語を導き出す…。}`
 `{ruby:"It's lord.:「ｌｏｒｄだ。}`
 `{ruby:......Lord...!":……卿…！」}`
 `{ruby:I had absolutely no basis for it.:何の根拠もない思い付き。}`
-`{ruby:......However, it was like a flash of inspiration.:……しかし、天啓そのものの閃き。}`
-`{ruby:I quickly changed the letters around before that flash faded from my mind.:妾はその閃きが脳裏から薄れ去る前に、文字を手早く入れ替える。}`
+`{ruby:......However, it was like:……しかし、天啓そ}{ruby:a flash of inspiration.:のものの閃き。}`
+`{ruby:I quickly changed the letters around:妾はその閃きが脳裏から薄れ去る前}{ruby:before that flash faded from my mind.:に、文字を手早く入れ替える。}`
 `{ruby:"‘l’, "o", "r", "d"!:「ｌ、ｏ、ｒ、ｄ！}`
 `{ruby:Lord!:ロード！}`
 `{ruby:"u"!:ｕ！}`
 `{ruby:Ushiromiya!:右代宮！}`
-`{ruby:......Lord Ushiromiya! How do you like that?!":……右代宮卿ッ、どうか？！」}`
-`{ruby:"On the fourth twilight, .........gouge the head...:「第四の晩に、………頭を抉りて、}`
+`{ruby:......Lord Ushiromiya! How:……右代宮卿ッ、ど}{ruby:do you like that?!":うか？！」}`
+`{ruby:"On the fourth:「第四の晩に、……}{ruby:twilight, .........gouge the head...:…頭を抉りて、}`
 `{ruby:.........oho?!":…………む？！」}`
-`{ruby:It was a key, so it wouldn't turn if it was the wrong one.:鍵だから、間違っていたら回すことは出来ない。}`
+`{ruby:It was a key, so it wouldn't:鍵だから、間違っていたら}{ruby:turn if it was the wrong one.:回すことは出来ない。}`
 `{ruby:But it did turn.:しかし、回る。}`
 `{ruby:I could gouge it...!:抉れる…！}`
-`{ruby:With a sound of scraping stone, I gouged the first letter, the "l", ......and then pulled it out.:１文字目のｌはゴリリと音を立てながら抉り、……そして引き抜ける。}`
+`{ruby:With a sound of scraping stone, I gouged the:１文字目のｌはゴリリと音を立てなが}{ruby:first letter, the "l", ......and then pulled it out.:ら抉り、……そして引き抜ける。}`
 `{ruby:"Next! The fifth twilight...!:「次ッ、第五の晩…！}`
-`{ruby:Gouge the chest......and kill......!":胸を抉りて……殺せ……！」}`
-`{ruby:The "o" was gouged and pulled out easily.:当然であるかのように、ｏの文字鍵もまた抉られ、引き抜かれる。}`
+`{ruby:Gouge the:胸を抉りて……殺}{ruby:chest......and kill......!":せ……！」}`
+`{ruby:The "o" was gouged:当然であるかのように、ｏの文字鍵}{ruby:and pulled out easily.:もまた抉られ、引き抜かれる。}`
 `{ruby:Then, the "r".:そして、ｒ。}`
 `{ruby:Next, the "d".:続いて、ｄ。}`
 `{ruby:And finally, the "u".:最後に、ｕ。}`
-`{ruby:When I turned the key of the "u", I could feel a resistance, as though some mechanism had been activated.:最後のｕの鍵を回した時、明らかに何かの仕掛けを作動させたかのような手応えがあった。}`
-`{ruby:I waited for something to change, ......but nothing did.:何かの変化を待つが、……それ以上、何も起こらない。}`
+`{ruby:When I turned the key of the "u", I could:最後のｕの鍵を回した時、明らかに何かの仕掛け}{ruby:feel a resistance, as though some mechanism had been activated.:を作動させたかのような手応えがあった。}`
+`{ruby:I waited for something:何かの変化を待つが、……それ}{ruby:to change, ......but nothing did.:以上、何も起こらない。}`
 `{ruby:However, I had felt something happen.:しかし、確実に何かの手応えはあったのだ。}`
-`{ruby:{n}A secret door or something must have opened up somewhere around here.:{n}きっと、秘密の入口か何かが、どこかに開いたに違いない。}`
-`{ruby:......Waiting around won't accomplish anything.:……待てども、それ以上の変化はない。}`
-`{ruby:I've probably done everything I can here......:恐らく妾は、ここで出来る全てのことをやり遂げたのだろう……。}`
-`{ruby:All of the letters in "Quadrillion" had been removed.:こうして、文字盤のＱｕａｄｒｉｌｌｉｏｎが、全て引き抜かれる。}`
-`{ruby:"On the ninth twilight, ......the witch revives, and none shall be left alive......":「第九の晩に、……魔女は蘇り、誰も生き残れはしない……」}`
-`{ruby:So now...has the witch...have I...revived......?:これで、魔女は、……妾は蘇ったというのか……？}`
+`{ruby:{n}A secret door or something must:{n}きっと、秘密の入口か何かが}{ruby:have opened up somewhere around here.:、どこかに開いたに違いない。}`
+`{ruby:......Waiting around:……待てども、それ以}{ruby:won't accomplish anything.:上の変化はない。}`
+`{ruby:I've probably done:恐らく妾は、ここで出来る全てのこ}{ruby:everything I can here......:とをやり遂げたのだろう……。}`
+`{ruby:All of the letters:こうして、文字盤のＱｕａｄｒｉｌｌ}{ruby:in "Quadrillion" had been removed.:ｉｏｎが、全て引き抜かれる。}`
+`{ruby:"On the ninth twilight, ......the witch:「第九の晩に、……魔女は蘇り、}{ruby:revives, and none shall be left alive......":誰も生き残れはしない……」}`
+`{ruby:So now...has:これで、魔女は、……妾は蘇}{ruby:the witch...have I...revived......?:ったというのか……？}`
 `{ruby:The tenth twilight.:第十の晩。}`
-`{ruby:{n}The journey ends, and you shall reach the Home of the Gold......:{n}旅は終わり、黄金の郷に至るだろう……。}`
-`{ruby:When I stepped down off the ladder and looked around,:何かを求め、はしごを降りて周りを見回した時。}`
-`{ruby:......I immediately noticed that small change.:……すぐにその小さな変化に気が付いた。}`
+`{ruby:{n}The journey ends, and you shall:{n}旅は終わり、黄金の}{ruby:reach the Home of the Gold......:郷に至るだろう……。}`
+`{ruby:When I stepped down off:何かを求め、はしごを降り}{ruby:the ladder and looked around,:て周りを見回した時。}`
+`{ruby:......I immediately noticed:……すぐにその小さな変}{ruby:that small change.:化に気が付いた。}`
 `{ruby:"......That lion statue............":「……ライオンの像が…………」}`
-`{ruby:At some point, the lion statue in front of the chapel had turned to face a different direction.:礼拝堂前に鎮座しているライオンの像が、いつの間にか横を向いている。}`
+`{ruby:At some point, the lion statue in front of:礼拝堂前に鎮座しているライオンの像が}{ruby:the chapel had turned to face a different direction.:、いつの間にか横を向いている。}`
 `{ruby:......What an elaborate mechanism...!:……何という大仕掛けか。}`
-`{ruby:Did Kinzo plan up this extravagant device back when he first started building on this island......?:金蔵はこの島に屋敷を建てた当初から、このような大仰な仕掛けを用意していたというのか……。}`
-`{ruby:I walked up to the lion statue and stared at it.:ライオンの像に近付き、まじまじと見る。}`
-`{ruby:{n}Other than the fact that it was pointing a different direction, nothing had changed.:{n}向きが変わった以上の、それ以上の変化はない。}`
-`{ruby:{n}In that case, is the lion looking at something in particular now......?:{n}ならば、ライオンの目線の先に何かがあるのか……？}`
-`{ruby:I followed its line of sight.........and saw another lion statue.:その目線の先には、………向こうにも、ライオンの像が。}`
-`{ruby:And that lion statue had also changed its direction.:そしてそのライオンの像もまた、いつの間にか向きが変わっている。}`
+`{ruby:Did Kinzo plan up this extravagant device back:金蔵はこの島に屋敷を建てた当初から、このような}{ruby:when he first started building on this island......?:大仰な仕掛けを用意していたというのか……。}`
+`{ruby:I walked up to the:ライオンの像に近付き、}{ruby:lion statue and stared at it.:まじまじと見る。}`
+`{ruby:{n}Other than the fact that it was:{n}向きが変わった以上の、}{ruby:pointing a different direction, nothing had changed.:それ以上の変化はない。}`
+`{ruby:{n}In that case, is the lion:{n}ならば、ライオンの目線の}{ruby:looking at something in particular now......?:先に何かがあるのか……？}`
+`{ruby:I followed its line of:その目線の先には、………向こ}{ruby:sight.........and saw another lion statue.:うにも、ライオンの像が。}`
+`{ruby:And that lion statue:そしてそのライオンの像もまた、いつ}{ruby:had also changed its direction.:の間にか向きが変わっている。}`
 `{ruby:"I see......:「なるほど……。}`
 `{ruby:So, let the lions guide you.:ライオンの道案内に従え、ということか。}`
-`{ruby:......As elaborate as ever, I see, Kinzo.":……金蔵め、凝った仕掛けを作りおる」}`
+`{ruby:......As elaborate as:……金蔵め、凝った仕}{ruby:ever, I see, Kinzo.":掛けを作りおる」}`
 `{ruby:I wasn't complaining anymore.:もう、これは悪態ではない。}`
-`{ruby:......I felt a bit of respect and awe at Kinzo for setting up such an intricate device...:……これほど長い間、誰にも、これほどの仕掛けを知られずに隠していた金蔵に対する、}`
-`{ruby:and having it go undiscovered for all these years.:ある種の感服、敬意のようなものだった。}`
-`{ruby:There were lion statues standing like guards at the entrance and the corners of the chapel.:ライオンの像は礼拝堂の入口と四隅を守護神のように守っている。}`
-`{ruby:The direction they faced had changed, pointing around to the back of the chapel.:それらの向きが変わり、礼拝堂の裏手へ回り込むように誘導していた。}`
+`{ruby:......I felt a bit of respect and awe:……これほど長い間、誰にも、これほどの仕掛}{ruby:at Kinzo for setting up such an intricate device...:けを知られずに隠していた金蔵に対する、}`
+`{ruby:and having it go:ある種の感服、敬意のよ}{ruby:undiscovered for all these years.:うなものだった。}`
+`{ruby:There were lion statues standing like guards at:ライオンの像は礼拝堂の入口と四隅}{ruby:the entrance and the corners of the chapel.:を守護神のように守っている。}`
+`{ruby:The direction they faced had changed, pointing:それらの向きが変わり、礼拝堂の裏手}{ruby:around to the back of the chapel.:へ回り込むように誘導していた。}`
 `{ruby:There was something there.:そこに、何かがある。}`
 `{ruby:"....................................:「………………………………。}`
 `{ruby:............Hoh.........":…………ほう………」}`
 `{ruby:It was no longer a surprise.:もはや、驚かなかった。}`
-`{ruby:This was after the mechanism in the relief.:文字盤の仕掛け。}`
+`{ruby:This was after the:文字盤の仕}{ruby:mechanism in the relief.:掛け。}`
 `{ruby:After being guided by the lions.:ライオンたちの道案内。}`
-`{ruby:So, when a gaping open secret passageway appeared, .........with stairs leading down to the darkness below, ......it wasn't surprising to me anymore.:だから、ぽっかりと秘密の通路が開き、………薄暗い地下へ招く階段が現れていたとしても、……もはや、驚かなかった。}`
-`{ruby:"So, .........is this the entrance to the Golden Land, Kinzo......?!!":「これが、………黄金郷への入口だというのか、金蔵……！！」}`
+`{ruby:So, when a gaping open secret passageway appeared, .........with stairs leading:だから、ぽっかりと秘密の通路が開き、………薄暗い地下へ招く}{ruby:down to the darkness below, ......it wasn't surprising to me anymore.:階段が現れていたとしても、……もはや、驚かなかった。}`
+`{ruby:"So, .........is this the entrance:「これが、………黄金郷への入口だ}{ruby:to the Golden Land, Kinzo......?!!":というのか、金蔵……！！」}`
 `{ruby:".........Did you find it...?:「………見つけたんですか…。}`
 `{ruby:Grandfather's......gold......?":お祖父さまの、……黄金を……」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:.........At the end of my long, long journey......was the Golden Land.":………長い長い時間を掛けて辿り着いた、……黄金郷でした」}`
-`{ruby:"According to the previous games, there was an underground VIP room there, along with ten tons of gold, right?":「過去のゲームによるならば、そこには地下の貴賓室があり、そして、１０ｔの黄金が？」}`
+`{ruby:.........At the end of my:………長い長い時間を掛けて辿り}{ruby:long, long journey......was the Golden Land.":着いた、……黄金郷でした」}`
+`{ruby:"According to the previous games, there was an underground:「過去のゲームによるならば、そこには地下の貴}{ruby:VIP room there, along with ten tons of gold, right?":賓室があり、そして、１０ｔの黄金が？」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:After going down a rough stairway, ......there was a door at the end of the passage.:地下への無骨な階段を降りていくと、……突き当りには扉が。}`
-`{ruby:Inside, it was beautifully furnished, a true VIP room.":中は、まさに貴賓室と呼ぶべき、美しき内装でした」}`
-`{ruby:"......And was the gold all you found there?":「……見つけたのは、黄金だけだったのか？」}`
+`{ruby:After going down a rough stairway, ......there was:地下への無骨な階段を降りていく}{ruby:a door at the end of the passage.:と、……突き当りには扉が。}`
+`{ruby:Inside, it was beautifully:中は、まさに貴賓室と呼ぶべ}{ruby:furnished, a true VIP room.":き、美しき内装でした」}`
+`{ruby:"......And was the gold:「……見つけたのは、黄金}{ruby:all you found there?":だけだったのか？」}`
 `{ruby:"Yes, at the time......:「はい、その時は……。}`
-`{ruby:It would be a lie to say that I was not dizzied by the sight of all that gold stacked high...":積み上げられた黄金に、目が眩まぬわけもありませんでした…」}`
+`{ruby:It would be a lie to say that I was:積み上げられた黄金に、目が眩まぬ}{ruby:not dizzied by the sight of all that gold stacked high...":わけもありませんでした…」}`
 `{ruby:"............Is this...:「…………これは、}`
 `{ruby:...real......?":……本物なのか……」}`
-`{ruby:I lightly touched the pile of gold with my finger.:積み上げられた黄金の山に、そっと指を触れる。}`
+`{ruby:I lightly touched the pile:積み上げられた黄金の山に}{ruby:of gold with my finger.:、そっと指を触れる。}`
 `{ruby:{n}It was hard...and cold.:{n}硬く、冷たかった。}`
-`{ruby:I had almost thought that it might crumble like a sandcastle if I touched it.:触れたら、砂の城が崩れるみたいに、……ざぁっと溶けて、消えてしまうかと思っていた。}`
+`{ruby:I had almost thought that it might:触れたら、砂の城が崩れるみたいに、……ざぁっ}{ruby:crumble like a sandcastle if I touched it.:と溶けて、消えてしまうかと思っていた。}`
 `{ruby:Now, there could be no doubt.:もはや、何の疑いの余地もない。}`
-`{ruby:{n}This certainly was......a ten ton pile of gold ingots.:{n}紛れもなく、……１０ｔの黄金の、インゴットの山だった。}`
+`{ruby:{n}This certainly was......a ten:{n}紛れもなく、……１０ｔの黄}{ruby:ton pile of gold ingots.:金の、インゴットの山だった。}`
 `{ruby:"......Haha,:「……はは、}`
 `{ruby:...............ha......":……………は……」}`
-`{ruby:Considering the amount of gold I had just found, I figured I ought to be crying out in delight.:これほどの黄金を見つけたのだから、歓喜の声を上げるべきだと思った。}`
-`{ruby:......I didn't really feel like laughing, but I thought it only good manners to do so in a situation like this,:……別に笑いたくはなかったが、このような場面では、そうするのが作法のように思い、}`
+`{ruby:Considering the amount of gold I had just found,:これほどの黄金を見つけたのだから、歓}{ruby:I figured I ought to be crying out in delight.:喜の声を上げるべきだと思った。}`
+`{ruby:......I didn't really feel like laughing, but I thought it:……別に笑いたくはなかったが、このような場}{ruby:only good manners to do so in a situation like this,:面では、そうするのが作法のように思い、}`
 `{ruby:so I forced it out.:無理やりにでも、笑ってみた。}`
-`{ruby:Because of this, only a few feeble laughs slipped from my mouth.:そんなだから、擦れた笑いが一つ二つ、口から零れただけだった。}`
-`{ruby:At that moment, even stronger than any delight...:今となっては、歓喜の気持ちより、}`
-`{ruby:was a feeling as though I'd entered a place I wasn't supposed to be...:立ち入ってはならぬ場所に勝手に入ってしまったかのような、居心地の悪さの方が強い…。}`
-`{ruby:For a while, all I could do was stand there shocked, unsure what I should do now that the epitaph's riddle had been completed.:この、碑文の謎の終点で、妾はこれからどうすればいいのか、しばし呆然とする他なかった。}`
+`{ruby:Because of this, only a few:そんなだから、擦れた笑いが一つ二}{ruby:feeble laughs slipped from my mouth.:つ、口から零れただけだった。}`
+`{ruby:At that moment, even:今となっては、歓喜}{ruby:stronger than any delight...:の気持ちより、}`
+`{ruby:was a feeling as though I'd entered:立ち入ってはならぬ場所に勝手に入ってしまった}{ruby:a place I wasn't supposed to be...:かのような、居心地の悪さの方が強い…。}`
+`{ruby:For a while, all I could do was stand there shocked, unsure:この、碑文の謎の終点で、妾はこれからどうすれ}{ruby:what I should do now that the epitaph's riddle had been completed.:ばいいのか、しばし呆然とする他なかった。}`
 `{ruby:Then, I heard approaching footsteps.:その時、足音が近付いてくるのを聞いた。}`
-`{ruby:They were coming from the stairway I had entered by.:自分が下ってきた階段の方からだった。}`
+`{ruby:They were coming from the:自分が下ってきた階段}{ruby:stairway I had entered by.:の方からだった。}`
 `{ruby:Someone was coming.:誰が来たのだろう。}`
 `{ruby:Could it be...Kinzo?:まさか、金蔵？}`
-`{ruby:If he finds out I've been in a place like this, won't I get scolded harshly......?:このような場所にいることが知られたら、酷く叱られるのでは……。}`
-`{ruby:I thought about hiding and pretending this never happened, but my legs wouldn't move.:隠れて、知らん振りを決め込もうと心では思っても、足が動かない。}`
-`{ruby:I kept standing there, stunned, in front of the pile of gold......as the footsteps drew closer and closer...:妾は黄金の山の前で、……呆然と足音の人物がやって来るのを待ち受けていた…。}`
+`{ruby:If he finds out I've been in a:このような場所にいることが知られた}{ruby:place like this, won't I get scolded harshly......?:ら、酷く叱られるのでは……。}`
+`{ruby:I thought about hiding and pretending this:隠れて、知らん振りを決め込もうと心}{ruby:never happened, but my legs wouldn't move.:では思っても、足が動かない。}`
+`{ruby:I kept standing there, stunned, in front of the:妾は黄金の山の前で、……呆然と足音の人物}{ruby:pile of gold......as the footsteps drew closer and closer...:がやって来るのを待ち受けていた…。}`
 `{ruby:".................................!":「……………………………っ」}`
-`{ruby:The door opened, ......and I saw who it was.:扉が開き、……その人物が姿を見せる。}`
+`{ruby:The door opened, ......and:扉が開き、……その人}{ruby:I saw who it was.:物が姿を見せる。}`
 `{ruby:......It............wasn't Kinzo.:……それは、…………金蔵ではなかった。}`
 `{ruby:".................................":「……………………………」}`
 `{ruby:".........You......":「………そなたは……」}`
-`{ruby:"......Did you reach this place by your power alone?":「……自分の力だけで、辿り着いたのか」}`
+`{ruby:"......Did you reach this:「……自分の力だけで、}{ruby:place by your power alone?":辿り着いたのか」}`
 `{ruby:"I‐......indeed...":「う、……うむ…」}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:For some time, Genji stared at Beato in silence, as though he was calculating something.:源次はしばらくの間、じっとベアトを見つめ、何かを量るように沈黙した。}`
-`{ruby:Then, he slowly clapped his hands together.:そして、ゆっくりと手を叩いた。}`
-`{ruby:......He did it again, over and over.:……繰り返し、何度も。}`
-`{ruby:It took quite a long time before I realized that he was applauding me...:それが祝福を意味しているものだと気付くのに、しばらくの時間を要した…。}`
-`{ruby:"The Master has said that he will hand over the gold and the headship to the first person who solves the epitaph.:「お館様は、碑文を最初に解いた者に、黄金と家督の全てを譲り渡すと仰られた。}`
-`{ruby:......And, he believed that this person would be {f:5:Beatrice}...":……そして、その人物が、ベアトリーチェであると信じた…」}`
+`{ruby:For some time, Genji stared at Beato:源次はしばらくの間、じっとベアトを見}{ruby:in silence, as though he was calculating something.:つめ、何かを量るように沈黙した。}`
+`{ruby:Then, he slowly:そして、ゆっくりと}{ruby:clapped his hands together.:手を叩いた。}`
+`{ruby:......He did it:……繰り返し、}{ruby:again, over and over.:何度も。}`
+`{ruby:It took quite a long time before:それが祝福を意味しているものだと気付く}{ruby:I realized that he was applauding me...:のに、しばらくの時間を要した…。}`
+`{ruby:"The Master has said that he will hand over the gold:「お館様は、碑文を最初に解いた者に、黄金}{ruby:and the headship to the first person who solves the epitaph.:と家督の全てを譲り渡すと仰られた。}`
+`{ruby:......And, he believed that:……そして、その人物が、ベアト}{ruby:this person would be {f:5:Beatrice}...":リーチェであると信じた…」}`
 `{ruby:"......{f:5:Beatrice}......:「……ベアトリーチェ……。}`
 `{ruby:.........Me......?":………私が……？」}`
 `{ruby:"This is fate.:「これは、運命だ。}`
-`{ruby:.........It is fate that brought you to this day.":………お前は、今日を迎えるのが、運命だったのだ」}`
+`{ruby:.........It is fate that:………お前は、今日を迎える}{ruby:brought you to this day.":のが、運命だったのだ」}`
 `{ruby:"..............................":「…………………………」}`
-`{ruby:I didn't really understand what Genji was saying.:源次が何を言っているのか、よくはわからない。}`
-`{ruby:The shock of seeing the gold still had me paralyzed...:きっと私は、黄金のことでまだ呆然としていて、頭がよく回っていないからに違いない…。}`
+`{ruby:I didn't really understand:源次が何を言っているのか}{ruby:what Genji was saying.:、よくはわからない。}`
+`{ruby:The shock of seeing the:きっと私は、黄金のことでまだ呆然としていて、}{ruby:gold still had me paralyzed...:頭がよく回っていないからに違いない…。}`
 `{ruby:"......Come this way.":「……こっちへ来なさい」}`
 `{ruby:"O‐okay......":「は、はい……」}`
 `{ruby:Genji opened a closet.:源次がクローゼットを開く。}`
-`{ruby:Inside it was a dress form wearing a beautiful dress made of black cloth and golden stitching.:そこには、黒地に金刺繍の施された美しいドレスを着た、トルソーが収められていた。}`
-`{ruby:When I saw it, I understood immediately.:それを見て、すぐに理解する。}`
+`{ruby:Inside it was a dress form wearing a:そこには、黒地に金刺繍の施された美しいドレ}{ruby:beautiful dress made of black cloth and golden stitching.:スを着た、トルソーが収められていた。}`
+`{ruby:When I saw:それを見て、すぐ}{ruby:it, I understood immediately.:に理解する。}`
 `{ruby:......It was the witch's dress.:……魔女のドレスだ。}`
-`{ruby:The black dress worn by the {f:5:Beatrice} in the portrait......:肖像画のベアトリーチェが着ていた、あの黒いドレスなのだ……。}`
+`{ruby:The black dress worn by:肖像画のベアトリーチェが着ていた}{ruby:the {f:5:Beatrice} in the portrait......:、あの黒いドレスなのだ……。}`
 `{ruby:"Change into this.":「これに着替えなさい」}`
 `{ruby:"......This is..........":「……これは………」}`
-`{ruby:"It is something that.........you once wore.":「かつて、………お前が着ていたものだ」}`
+`{ruby:"It is something:「かつて、………お前が}{ruby:that.........you once wore.":着ていたものだ」}`
 `{ruby:I've never worn a dress like this.:こんなドレスなど、着たこともない。}`
-`{ruby:However, I understood what Genji meant.:でも、源次の言う意味はわかった。}`
-`{ruby:This dress was one that {f:5:Beatrice} once wore.:このドレスはかつて、ベアトリーチェが着ていたものなのだ。}`
-`{ruby:And the one who shows a miracle by solving the epitaph is {f:5:Beatrice}.:そして、碑文を解く奇跡を見せた者は、ベアトリーチェなのだ。}`
-`{ruby:By reaching this room, .........I had succeeded the position of the real {f:5:Beatrice},:私はこの部屋に辿り着くことで、………あの肖像画の、}`
+`{ruby:However, I understood:でも、源次の言う意}{ruby:what Genji meant.:味はわかった。}`
+`{ruby:This dress was one:このドレスはかつて、ベアトリー}{ruby:that {f:5:Beatrice} once wore.:チェが着ていたものなのだ。}`
+`{ruby:And the one who shows a:そして、碑文を解く奇跡を見せた者}{ruby:miracle by solving the epitaph is {f:5:Beatrice}.:は、ベアトリーチェなのだ。}`
+`{ruby:By reaching this room, .........I had:私はこの部屋に辿り着くことで}{ruby:succeeded the position of the real {f:5:Beatrice},:、………あの肖像画の、}`
 `{ruby:the one in the portrait.:本当のベアトリーチェを、継承したのだ。}`
 `{ruby:Why do I call myself {f:5:Beatrice}?:私はどうしてベアトリーチェを名乗ったのか？}`
-`{ruby:Because the name of the Golden Witch who rules over Rokkenjima's night is {f:5:Beatrice}.:六軒島の夜の支配者にして、黄金の魔女の名が、ベアトリーチェだったから。}`
+`{ruby:Because the name of the Golden Witch:六軒島の夜の支配者にして、黄金の魔女の}{ruby:who rules over Rokkenjima's night is {f:5:Beatrice}.:名が、ベアトリーチェだったから。}`
 `{ruby:......That's right.:……そう。}`
 `{ruby:I was never the real {f:5:Beatrice}.:私は、本当のベアトリーチェではなかった。}`
-`{ruby:I was a different witch, stealing the name of the witch from Kinzo's delusions.:金蔵の幻想に登場する、魔女の名を騙った、別の魔女だったのだ。}`
-`{ruby:And now, ......I have become the real {f:5:Beatrice}......:それが今、……私は、本当のベアトリーチェを継承している……。}`
-`{ruby:By solving the epitaph's riddle, I would achieve my resurrection.:碑文の謎を解けば、自分は復活を遂げる。}`
-`{ruby:{n}......I was the one who decided on that rule, or so I thought...:{n}……そういうことにしたのは、自分のはず。}`
-`{ruby:But as it turns out, ......this really {i:was}.........a ritual to resurrect {f:5:Beatrice}...:なのに、……これは本当に、………ベアトリーチェが復活する、儀式だったのだ…。}`
-`{ruby:I believed that I could create my own fate with magic.:自分は魔法で、運命を作り出せると信じていた。}`
-`{ruby:{n}I was a master of that magic, ......yet fate had led me here by the hand...:{n}その魔法を自在に操れる私が、……運命に導かれて、ここへやって来たなんて…。}`
-`{ruby:At this moment, I was forced to truly accept and believe in this word called "fate"...:私は今こそ、本当の意味での、運命という言葉を信じざるを得なかった…。}`
+`{ruby:I was a different witch, stealing the:金蔵の幻想に登場する、魔女の名を}{ruby:name of the witch from Kinzo's delusions.:騙った、別の魔女だったのだ。}`
+`{ruby:And now, ......I have:それが今、……私は、本当のベアト}{ruby:become the real {f:5:Beatrice}......:リーチェを継承している……。}`
+`{ruby:By solving the epitaph's riddle,:碑文の謎を解けば、自分}{ruby:I would achieve my resurrection.:は復活を遂げる。}`
+`{ruby:{n}......I was the one who decided:{n}……そういうことにし}{ruby:on that rule, or so I thought...:たのは、自分のはず。}`
+`{ruby:But as it turns out, ......this:なのに、……これは本当に、………ベアトリ}{ruby:really {i:was}.........a ritual to resurrect {f:5:Beatrice}...:ーチェが復活する、儀式だったのだ…。}`
+`{ruby:I believed that I could:自分は魔法で、運命を作り}{ruby:create my own fate with magic.:出せると信じていた。}`
+`{ruby:{n}I was a master of that magic, ......yet:{n}その魔法を自在に操れる私が、……運命}{ruby:fate had led me here by the hand...:に導かれて、ここへやって来たなんて…。}`
+`{ruby:At this moment, I was forced to truly:私は今こそ、本当の意味での、運命とい}{ruby:accept and believe in this word called "fate"...:う言葉を信じざるを得なかった…。}`
 `{ruby:"And after I put this on.........?":「これを、着たら………？」}`
 `{ruby:"......You will go to the Master.:「……お館様のところへ行く。}`
 `{ruby:Ready yourself.":支度をしなさい」}`
@@ -290,361 +290,361 @@
 `{ruby:"......O‐...okay.":「……は、…はい」}`
 `{ruby:"My lord.:「お館様。}`
 `{ruby:It is Genji.":源次でございます」}`
-`{ruby:After Genji knocked, the sound of the study's door unlocking could be heard.:源次がノックをすると、書斎の扉の鍵が開く音がする。}`
-`{ruby:After a single glance telling me to wait, Genji entered alone.:しばらく待てと、もう一度目配せをしてから、源次だけが中へ入った。}`
-`{ruby:"I cannot believe that this day has come......:「このような日が来るとは……。}`
-`{ruby:Fate can be such a strange thing......":運命とは、本当に不思議なものです……」}`
+`{ruby:After Genji knocked, the sound of:源次がノックをすると、書斎の}{ruby:the study's door unlocking could be heard.:扉の鍵が開く音がする。}`
+`{ruby:After a single glance telling:しばらく待てと、もう一度目配せをし}{ruby:me to wait, Genji entered alone.:てから、源次だけが中へ入った。}`
+`{ruby:"I cannot believe that:「このような日が来}{ruby:this day has come......:るとは……。}`
+`{ruby:Fate can be:運命とは、本当に不思議}{ruby:such a strange thing......":なものです……」}`
 `{ruby:Kumasawa was with us too.:熊沢も一緒だった。}`
-`{ruby:I thought this dress, which didn't really suit me, would lead to a lot of jokes, ......but she didn't laugh at me at all.:私の似合わないドレス姿を、色々と笑われるだろうと思っていたが、……彼女はまったく茶化さなかった。}`
-`{ruby:On the contrary, when she saw me, ......her expression had turned stern, as though a long‐awaited day had finally come.:それどころか、私の姿を見て、……まるで、来るべき日がようやく来たとでも言うような、厳かな表情をしているのだった。}`
+`{ruby:I thought this dress, which didn't really suit me, would lead to:私の似合わないドレス姿を、色々と笑われるだろうと思}{ruby:a lot of jokes, ......but she didn't laugh at me at all.:っていたが、……彼女はまったく茶化さなかった。}`
+`{ruby:On the contrary, when she saw me, ......her expression had:それどころか、私の姿を見て、……まるで、来るべき日がようや}{ruby:turned stern, as though a long‐awaited day had finally come.:く来たとでも言うような、厳かな表情をしているのだった。}`
 `{ruby:......My heart raced.:……心臓が高鳴る。}`
-`{ruby:It wasn't supposed to matter who solved the epitaph.:碑文は、誰が解いても良かったはず。}`
-`{ruby:There shouldn't be anything strange about me solving it......:私が解いても、おかしくはないはず……。}`
-`{ruby:Everyone else maintained solemn expressions, ......and that, along with everything else, made this feel like some sort of grand ceremony.:源次たちは、ずっと神妙な顔をしていて、……これも含めて全てが、厳かな式典のようだった。}`
+`{ruby:It wasn't supposed to:碑文は、誰が解いても}{ruby:matter who solved the epitaph.:良かったはず。}`
+`{ruby:There shouldn't be anything:私が解いても、おかしく}{ruby:strange about me solving it......:はないはず……。}`
+`{ruby:Everyone else maintained solemn expressions, ......and that, along with everything:源次たちは、ずっと神妙な顔をしていて、……これ}{ruby:else, made this feel like some sort of grand ceremony.:も含めて全てが、厳かな式典のようだった。}`
 `{ruby:The suffocating silence continued.:息苦しい沈黙が、ずっと続く。}`
-`{ruby:Eventually, the door opened, and Genji peeked out.:やがて、扉が開き、源次が顔を覗かせた。}`
+`{ruby:Eventually, the door opened,:やがて、扉が開き、源次}{ruby:and Genji peeked out.:が顔を覗かせた。}`
 `{ruby:".........Please enter,:「………お入り下さい。}`
 `{ruby:.........{f:5:Beatrice}‐sama.":………ベアトリーチェさま」}`
-`{ruby:He was saying those words to me, ......but not to the person I had been until a short while ago.:その言葉は、私に対してではあったけれども、……さっきまでの私に対するものではなかった。}`
+`{ruby:He was saying those words to me, ......but not to:その言葉は、私に対してではあったけれども、……}{ruby:the person I had been until a short while ago.:さっきまでの私に対するものではなかった。}`
 `{ruby:".....................":「…………………」}`
 `{ruby:"Go ahead,:「さぁ。}`
 `{ruby:......{f:5:Beatrice}‐sama...":……どうぞ、ベアトリーチェさま…」}`
-`{ruby:Kumasawa also urged me forward with a respectful bow.:熊沢も最敬礼で促す。}`
-`{ruby:{n}Kinzo was probably waiting for me inside.:{n}金蔵が、中で待ち受けているのだろう。}`
-`{ruby:What expression should I wear as I go in...?:どんな顔をして入ればいい…？}`
+`{ruby:Kumasawa also urged me:熊沢も最敬礼}{ruby:forward with a respectful bow.:で促す。}`
+`{ruby:{n}Kinzo was probably:{n}金蔵が、中で待ち受}{ruby:waiting for me inside.:けているのだろう。}`
+`{ruby:What expression should I:どんな顔をして入}{ruby:wear as I go in...?:ればいい…？}`
 `{ruby:How should I greet him...?:何と挨拶すればいい…？}`
 `{ruby:{n}I don't have a clue...:{n}何も、わからない…。}`
-`{ruby:As the two of them motioned me forward, it was all I could do to avoid tripping over my dress as I walked.:私は二人に促されながら、ドレスの裾を踏まないように歩くだけで精一杯だった。}`
+`{ruby:As the two of them motioned me forward, it was all:私は二人に促されながら、ドレスの裾を踏ま}{ruby:I could do to avoid tripping over my dress as I walked.:ないように歩くだけで精一杯だった。}`
 `{ruby:".........Kinzo‐san.:「………金蔵さん。}`
 `{ruby:She is here.":いらっしゃいましたぞ」}`
-`{ruby:Kinzo was before the portrait of {f:5:Beatrice}, crouched on the ground as though kneeling.:金蔵は、ベアトリーチェを描いた肖像画の前で跪くようにうずくまっていた。}`
-`{ruby:At Nanjo's words, he slowly turned, still crouching...:南條に促されて、ゆっくりと、しゃがんだまま振り返る…。}`
+`{ruby:Kinzo was before the portrait of {f:5:Beatrice},:金蔵は、ベアトリーチェを描いた肖像画の}{ruby:crouched on the ground as though kneeling.:前で跪くようにうずくまっていた。}`
+`{ruby:At Nanjo's words, he:南條に促されて、ゆっくりと、し}{ruby:slowly turned, still crouching...:ゃがんだまま振り返る…。}`
 `{ruby:"...............Oh...:「……………ぉ…。}`
 `{ruby:.........Oohhhhhh.........":………ぉぉおぉ………」}`
-`{ruby:Kinzo's eyes were already red with crying.:金蔵の顔は、すでに泣き腫らしていて目は真っ赤だった。}`
-`{ruby:{n}When he saw me, he groaned with wonder.:{n}私の姿を見て、感嘆するように呻く。}`
+`{ruby:Kinzo's eyes were:金蔵の顔は、すでに泣き腫らし}{ruby:already red with crying.:ていて目は真っ赤だった。}`
+`{ruby:{n}When he saw me,:{n}私の姿を見て、感}{ruby:he groaned with wonder.:嘆するように呻く。}`
 `{ruby:"......{f:5:Beatrice}......:「……ベアトリーチェ……。}`
 `{ruby:.........{f:5:Beatrice}.........":………ベアトリーチェ………」}`
-`{ruby:Had he even forgotten how to stand up?:立ち上がり方さえ忘れてしまったのだろうか。}`
+`{ruby:Had he even forgotten:立ち上がり方さえ忘れてし}{ruby:how to stand up?:まったのだろうか。}`
 `{ruby:{n}He crawled over to where I was.:{n}よたよたと、私に這い寄る。}`
-`{ruby:...As he called out to me with the name of the woman he had loved long ago.:私の姿に、遠き昔に愛した女性の名を呼び掛けながら。}`
+`{ruby:...As he called out to me with the:私の姿に、遠き昔に愛した女性}{ruby:name of the woman he had loved long ago.:の名を呼び掛けながら。}`
 `{ruby:I was too stunned to move.:私は呆然と立ち尽くすことしか出来ない。}`
-`{ruby:Then, Kinzo grabbed the hem of my dress, gripped it tightly, ......then curled up and sobbed.:そして金蔵は、私のドレスの裾を掴み、握り締めると、……うずくまって、再び泣いた。}`
+`{ruby:Then, Kinzo grabbed the hem of my dress,:そして金蔵は、私のドレスの裾を掴み、握り締}{ruby:gripped it tightly, ......then curled up and sobbed.:めると、……うずくまって、再び泣いた。}`
 `{ruby:"{f:5:Beatrice}......:「ベアトリーチェ……。}`
 `{ruby:......I'm sorry. I'm so sorry......:……済まなかった、済まなかった……。}`
-`{ruby:I knew how you felt, ......and yet I......:お前の心はわかっていたのに、……私は何と言う……。}`
-`{ruby:I'm so sorry...... Forgive me...... Forgive me, I beg you......":済まなかった……、許しておくれ……、許しておくれ……」}`
-`{ruby:"....................................":「………………………………」}`
+`{ruby:I knew how you:お前の心はわかっていたのに、}{ruby:felt, ......and yet I......:……私は何と言う……。}`
+`{ruby:I'm so sorry...... Forgive me......:済まなかった……、許しておくれ}{ruby:Forgive me, I beg you......":……、許しておくれ……」}`
+`{ruby::「…………………}{ruby:"....................................":……………」}`
 `{ruby:There was nothing I could say.:私に掛けられる言葉はない。}`
-`{ruby:However, just standing here like this was all I needed to do.:しかし、今はただ、こうしているだけでいい。}`
-`{ruby:Kinzo's moment of atonement, the moment he had spent half of his life searching for, had finally come.:金蔵は半生をかけて求めた贖罪の時を、今、ようやく得たのだ。}`
-`{ruby:......A human's life is packed with sin.:……人の生は、罪に塗れている。}`
-`{ruby:So, humans seek forgiveness while they still live.:だから人は、生ある内に、許しを得たいと思っている。}`
-`{ruby:However, in most cases, there are none in this world capable of giving such forgiveness.:しかし多くの場合、許しを与えられる人は、この世にいない。}`
+`{ruby:However, just standing here like this:しかし、今はただ、こうし}{ruby:was all I needed to do.:ているだけでいい。}`
+`{ruby:Kinzo's moment of atonement, the moment he had spent:金蔵は半生をかけて求めた贖罪の時}{ruby:half of his life searching for, had finally come.:を、今、ようやく得たのだ。}`
+`{ruby:......A human's life:……人の生は、罪に}{ruby:is packed with sin.:塗れている。}`
+`{ruby:So, humans seek forgiveness:だから人は、生ある内に、許し}{ruby:while they still live.:を得たいと思っている。}`
+`{ruby:However, in most cases, there are none:しかし多くの場合、許しを与えら}{ruby:in this world capable of giving such forgiveness.:れる人は、この世にいない。}`
 `{ruby:It was like that for Kinzo.:彼の場合も、そうだった。}`
-`{ruby:There was no longer anyone in the world who could give that to him.:すでにこの世に、いなかった。}`
-`{ruby:{n}......But a miracle had woven one together, and in this moment, he had obtained the impossible...:{n}……それが、奇跡によって紡がれて、今、それを得たのだ…。}`
+`{ruby:There was no longer anyone in the:すでにこの世に、}{ruby:world who could give that to him.:いなかった。}`
+`{ruby:{n}......But a miracle had woven one together, and:{n}……それが、奇跡によって紡が}{ruby:in this moment, he had obtained the impossible...:れて、今、それを得たのだ…。}`
 `{ruby:"Oooohhhh, {f:5:Beatrice}...:「おぉおおぉぉ、ベアトリーチェ…。}`
 `{ruby:......{f:5:Beatrice}......:……ベアトリーチェ……。}`
-`{ruby:...You need not forgive me, you need not say anything...!:…たとえ許してくれなくてもいい、何も言わなくてもいい…！}`
-`{ruby:All I ever wanted......was to say one word......of apology......!:私はッ、……お前にただ一言ッ、謝れればそれでよかった……！}`
+`{ruby:...You need not forgive me,:…たとえ許してくれなくてもいい}{ruby:you need not say anything...!:、何も言わなくてもいい…！}`
+`{ruby:All I ever wanted......was:私はッ、……お前にただ一言ッ、謝}{ruby:to say one word......of apology......!:れればそれでよかった……！}`
 `{ruby:{nobr:Oooohhhhhh.........}":ぉぉぉおぉぉおぉ………」}`
-`{ruby:Kinzo kept grasping the dress's hem and sobbing.:金蔵はいつまでも、ドレスの裾を握り締めて、泣き続けた。}`
-`{ruby:The sins of humans are not forgiven by other people.:人の罪は、許しで許されるのではない。}`
-`{ruby:{n}They find forgiveness through regret and repentance.:{n}悔いることで、許されるのだ。}`
-`{ruby:......I want to believe that some sin, some fault of his......has been forgiven thanks to the way I look...:……彼の何かの罪が、咎が、……私の姿を通して許されたと、信じたい…。}`
+`{ruby:Kinzo kept grasping the:金蔵はいつまでも、ドレスの裾を}{ruby:dress's hem and sobbing.:握り締めて、泣き続けた。}`
+`{ruby:The sins of humans are:人の罪は、許しで許さ}{ruby:not forgiven by other people.:れるのではない。}`
+`{ruby:{n}They find forgiveness:{n}悔いることで、}{ruby:through regret and repentance.:許されるのだ。}`
+`{ruby:......I want to believe that some sin, some fault:……彼の何かの罪が、咎が、……私の姿}{ruby:of his......has been forgiven thanks to the way I look...:を通して許されたと、信じたい…。}`
 `{ruby:Kinzo's sobbing gradually ceased,:次第に嗚咽は収まり、}`
-`{ruby:......and he slowly looked up at me and rose.:……金蔵はようやく私を見上げ、ゆっくりと立ち上がる。}`
+`{ruby:......and he slowly looked:……金蔵はようやく私を見上げ}{ruby:up at me and rose.:、ゆっくりと立ち上がる。}`
 `{ruby:He staggered.:ふらふらだった。}`
 `{ruby:Nanjo rushed forward to support him.:南條が駆け寄り、肩を支える。}`
 `{ruby:".................................":「……………………………」}`
-`{ruby:".........To know.........that you are alive......:「………よくぞ、………生きていてくれた……。}`
+`{ruby:".........To know.........that:「………よくぞ、………生}{ruby:you are alive......:きていてくれた……。}`
 `{ruby:......It brings me such...joy......":……嬉しいぞ……」}`
-`{ruby:This time, his words weren't directed through me, but at me.:それは、私を通してではなく、私に掛けた言葉だった。}`
-`{ruby:{n}I hesitated, unsure how I should respond.:{n}私は何と応えればいいかわからず、わずかにうろたえる。}`
-`{ruby:"......My lord, I beg your forgiveness for keeping this a secret from you all this time.":「……今日までお館様に内密にしておりましたことを、どうかお許し下さい」}`
+`{ruby:This time, his words weren't:それは、私を通してではなく、}{ruby:directed through me, but at me.:私に掛けた言葉だった。}`
+`{ruby:{n}I hesitated, unsure:{n}私は何と応えればいいかわか}{ruby:how I should respond.:らず、わずかにうろたえる。}`
+`{ruby:"......My lord, I beg your forgiveness for keeping:「……今日までお館様に内密にしておりま}{ruby:this a secret from you all this time.":したことを、どうかお許し下さい」}`
 `{ruby:"No matter.:「よい。}`
 `{ruby:......I do not fault you, Genji...:……良いのだ、源次…。}`
-`{ruby:......Considering the sin that I committed, ......every single day until now has been necessary for my atonement......":……私の犯した罪を思えば、……今日までの日々は全て、贖罪のために必要な日々であったのだ……」}`
-`{ruby:"However, there can be no doubt that today's miracle is a true one.:「しかし、今日の奇跡は、紛れもなく、本物の奇跡でございます。}`
-`{ruby:......By her own power, without anyone's help,:……彼女は誰の助けもなく、自分だけの力で、}`
-`{ruby:......she solved the epitaph before anyone else.":……誰よりも最初に碑文を解いたのです」}`
-`{ruby:"You did well.........to solve that convoluted epitaph......":「よくぞ、……あの難解な碑文を解けたな……」}`
+`{ruby:......Considering the sin that I committed, ......every single:……私の犯した罪を思えば、……今日までの日々は全}{ruby:day until now has been necessary for my atonement......":て、贖罪のために必要な日々であったのだ……」}`
+`{ruby:"However, there can be no doubt:「しかし、今日の奇跡は、紛れもな}{ruby:that today's miracle is a true one.:く、本物の奇跡でございます。}`
+`{ruby:......By her own:……彼女は誰の助けもなく}{ruby:power, without anyone's help,:、自分だけの力で、}`
+`{ruby:......she solved the:……誰よりも最初に碑文}{ruby:epitaph before anyone else.":を解いたのです」}`
+`{ruby:"You did well.........to:「よくぞ、……あの難解な}{ruby:solve that convoluted epitaph......":碑文を解けたな……」}`
 `{ruby:"Th‐.........thanks......":「は、………はい……」}`
 `{ruby:"......Yes.:「……うむ。}`
-`{ruby:......Your voice resembles your mother's.:……母の声に、よく似ておる。}`
-`{ruby:Even your face reminds me of that mother and daughter......:……面影も、母や娘を思い出す……。}`
-`{ruby:...There can be no doubt that {f:5:Beatrice}'s blood flows through your veins......":…紛れもなく、お前にはベアトリーチェの血が流れておる……」}`
+`{ruby:......Your voice:……母の声に、よ}{ruby:resembles your mother's.:く似ておる。}`
+`{ruby:Even your face reminds me:……面影も、母や娘を}{ruby:of that mother and daughter......:思い出す……。}`
+`{ruby:...There can be no doubt that:…紛れもなく、お前にはベアトリー}{ruby:{f:5:Beatrice}'s blood flows through your veins......":チェの血が流れておる……」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:......The traces of the lady of Kuwadorian in her youth are right there.":……若き日の、九羽鳥庵のお嬢様の面影が、よく残っております」}`
-`{ruby:Who......are they saying I look like......?:私が、誰に面影が、似ているって……？}`
+`{ruby:......The traces of the lady of:……若き日の、九羽鳥庵のお嬢様の}{ruby:Kuwadorian in her youth are right there.":面影が、よく残っております」}`
+`{ruby:Who......are they saying:私が、誰に面影が、似}{ruby:I look like......?:ているって……？}`
 `{ruby:"......{f:5:Beatrice}‐sama,:「……ベアトリーチェさま。}`
-`{ruby:please forgive me for keeping what I am about to tell you a secret for all this time.:これまで、あなたにも秘密にしてきたことを、どうかお許し下さい。}`
-`{ruby:You are the child of {f:5:Beatrice}‐sama and the Master.":あなたは、ベアトリーチェさまとお館様よりお生まれになったのです」}`
+`{ruby:please forgive me for keeping what I am about:これまで、あなたにも秘密にしてきた}{ruby:to tell you a secret for all this time.:ことを、どうかお許し下さい。}`
+`{ruby:You are the child:あなたは、ベアトリーチェさまとお館}{ruby:of {f:5:Beatrice}‐sama and the Master.":様よりお生まれになったのです」}`
 `{ruby:"........................What......?":「……………………ぇ…、」}`
 `{ruby:"It's true.:「真実でございます。}`
-`{ruby:......You have been raised as a child without parents.:……あなた様は今日まで、両親のいない子として育てられてまいりました。}`
-`{ruby:However, your true father is the Master.:しかし、本当のお父上はお館様。}`
-`{ruby:And your true mother......is {f:5:Beatrice}‐sama.":そして本当のお母上は、……ベアトリーチェさまなのでございます」}`
-`{ruby:"......Is that, ......umm, ......really............?":「……それは、……ぁの、……本当に…………」}`
+`{ruby:......You have been raised:……あなた様は今日まで、両親のいない}{ruby:as a child without parents.:子として育てられてまいりました。}`
+`{ruby:However, your true:しかし、本当のお父}{ruby:father is the Master.:上はお館様。}`
+`{ruby:And your:そして本当のお母上は、……ベアトリ}{ruby:true mother......is {f:5:Beatrice}‐sama.":ーチェさまなのでございます」}`
+`{ruby:"......Is that,:「……それは、……ぁの、}{ruby:......umm, ......really............?":……本当に…………」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:You truly are a descendant of {f:5:Beatrice}‐sama.":あなたは、本当にベアトリーチェさまの、ご子孫でございます」}`
-`{ruby:Is such a strange fate.........really possible......?:そんな、………不思議な運命ってあるだろうか……？}`
+`{ruby:You truly are:あなたは、本当にベアトリーチェさ}{ruby:a descendant of {f:5:Beatrice}‐sama.":まの、ご子孫でございます」}`
+`{ruby:Is such a:そんな、………不思議な運命}{ruby:strange fate.........really possible......?:ってあるだろうか……？}`
 `{ruby:I've dreamed about it.:私は夢想していた。}`
-`{ruby:Dreamed about what it'd be like to be the Golden Witch, {f:5:Beatrice}.:自分が黄金の魔女ベアトリーチェだったらと。}`
+`{ruby:Dreamed about what it'd be like:自分が黄金の魔女ベアトリ}{ruby:to be the Golden Witch, {f:5:Beatrice}.:ーチェだったらと。}`
 `{ruby:But that dream was for me alone.:でも、それは私だけの夢想だった。}`
-`{ruby:So, I'd dreamed that if I solved the epitaph,:だから私は、碑文の謎を解けば。}`
-`{ruby:......and carried out its ritual, I would revive as the true {f:5:Beatrice}.:……碑文の儀式を行なえば、本当のベアトリーチェとして蘇れると、夢想した。}`
+`{ruby:So, I'd dreamed that:だから私は、碑文の}{ruby:if I solved the epitaph,:謎を解けば。}`
+`{ruby:......and carried out its ritual, I:……碑文の儀式を行なえば、本当のベアト}{ruby:would revive as the true {f:5:Beatrice}.:リーチェとして蘇れると、夢想した。}`
 `{ruby:......Is it really conceivable...:……そしたら、本当に、}`
 `{ruby:...that after I solved it...:……ベアトリーチェが蘇ったなんて、}`
-`{ruby:...{f:5:Beatrice} actually did revive......?:……信じられるだろうか……？}`
+`{ruby:...{f:5:Beatrice} actually:……信じられるだ}{ruby:did revive......?:ろうか……？}`
 `{ruby:"I...:「私が、}`
 `{ruby:...truly carry...:……本当に、}`
 `{ruby:......{f:5:Beatrice}'s...:………ベアトリーチェの、}`
 `{ruby:......blood......?":………血を……」}`
 `{ruby:"Yes.:「はい。}`
-`{ruby:There is no doubt of that whatsoever.":一切の紛れはございません」}`
-`{ruby:"......It must have been hard for you to live until this day without knowing a parent's affection...:「……今日まで、親子の愛情も知らず、さぞやお辛い思いをされてきたでしょう…。}`
-`{ruby:......And yet, look at how wonderfully you've grown......":……にもかかわらず、本当にご立派に育たれました……」}`
-`{ruby:"......So, ......you all knew.........?:「……皆さんは、……知ってたんですか………。}`
+`{ruby:There is no:一切の紛れはござ}{ruby:doubt of that whatsoever.":いません」}`
+`{ruby:"......It must have been hard for you to:「……今日まで、親子の愛情も知らず、さぞ}{ruby:live until this day without knowing a parent's affection...:やお辛い思いをされてきたでしょう…。}`
+`{ruby:......And yet, look at:……にもかかわらず、本当にご}{ruby:how wonderfully you've grown......":立派に育たれました……」}`
+`{ruby:"......So, ......you:「……皆さんは、……知っ}{ruby:all knew.........?:てたんですか………。}`
 `{ruby:About me......?":私のことを………」}`
-`{ruby:Genji, Kumasawa, and even Nanjo nodded wordlessly.:源次も熊沢も、南條までもが、無言で頷く。}`
-`{ruby:......Now that I think about it, that explains so many things.:……こうして思えば、心当たりなどいくつもあったかもしれない。}`
+`{ruby:Genji, Kumasawa, and:源次も熊沢も、南條まで}{ruby:even Nanjo nodded wordlessly.:もが、無言で頷く。}`
+`{ruby:......Now that I think about:……こうして思えば、心当たりなど}{ruby:it, that explains so many things.:いくつもあったかもしれない。}`
 `{ruby:I was always...in some way...special.:自分だけが、いつも何か、特別だった気がする。}`
-`{ruby:{n}Genji and especially Kumasawa always treated me very kindly.:{n}源次も、特に熊沢も、親切に接してくれていたように思う。}`
-`{ruby:Then, ......does that mean this day is a promised day, which would eventually have come no matter what......?:では、……今日という日は、いつかやがて必ず訪れる、約束の日だったというのだろうか……？}`
+`{ruby:{n}Genji and especially Kumasawa:{n}源次も、特に熊沢も、親切に}{ruby:always treated me very kindly.:接してくれていたように思う。}`
+`{ruby:Then, ......does that mean this day is a promised:では、……今日という日は、いつかやがて必ず訪れ}{ruby:day, which would eventually have come no matter what......?:る、約束の日だったというのだろうか……？}`
 `{ruby:I don't understand anything anymore.:私にはもう、何もわからない。}`
 `{ruby:It's all God's miracle.:全ては、神様の奇跡。}`
-`{ruby:The promised fate has led me to this day.:約束された運命が、私をあるべき日へ誘ったのだ。}`
+`{ruby:The promised fate has:約束された運命が、私をある}{ruby:led me to this day.:べき日へ誘ったのだ。}`
 `{ruby:".........{f:5:Beatrice}.:「………ベアトリーチェ。}`
 `{ruby:............No,:…………いや、}`
 `{ruby:.........Lion.":………理御」}`
 `{ruby:"...............?":「……………？」}`
-`{ruby:"That is the name I wanted to give you......":「そなたに与えようと思っていた、名前だ……」}`
+`{ruby:"That is the name:「そなたに与えようと思っ}{ruby:I wanted to give you......":ていた、名前だ……」}`
 `{ruby:"......It is your true name.":「……あなたの、本当の名前でございます」}`
 `{ruby:"Lion......:「理御……。}`
-`{ruby:I will now return to you everything that {f:5:Beatrice} gave me.:今こそ、そなたに、ベアトリーチェより与えられた、全てを返そう。}`
-`{ruby:......I return to you the gold, as well as everything of the Ushiromiya family, which was created by it.":……あの黄金も、それによって生み出された、右代宮家の全ても、そなたに返そう」}`
+`{ruby:I will now return to:今こそ、そなたに、ベアトリーチェよ}{ruby:you everything that {f:5:Beatrice} gave me.:り与えられた、全てを返そう。}`
+`{ruby:......I return to you the gold, as well as:……あの黄金も、それによって生み出された}{ruby:everything of the Ushiromiya family, which was created by it.":、右代宮家の全ても、そなたに返そう」}`
 `{ruby:Kinzo stuck out a wrinkled hand.:金蔵は、枯れ木のような手を差し出す。}`
-`{ruby:On his finger was a ring with the One‐winged Eagle crest, which was the symbol of the Ushiromiya family head.:その指には、右代宮家当主であることを示す、片翼の鷲の紋章が刻まれた指輪が輝いていた。}`
-`{ruby:He pulled it off, grasped it tightly, and then held it out to me.:それを引き抜くと、強く握り締めながら、私に向かって突き出す。}`
+`{ruby:On his finger was a ring with the One‐winged Eagle:その指には、右代宮家当主であることを示す、片}{ruby:crest, which was the symbol of the Ushiromiya family head.:翼の鷲の紋章が刻まれた指輪が輝いていた。}`
+`{ruby:He pulled it off, grasped it tightly,:それを引き抜くと、強く握り締めな}{ruby:and then held it out to me.:がら、私に向かって突き出す。}`
 `{ruby:......I didn't know what to do.:……私はどうしていいかわからない。}`
-`{ruby:Slowly, as though they were being drawn forward, ......I held out my hands, palms up.:引き寄せられるように、おずおずと、……私は両手を、手の平を上にして差し出す。}`
-`{ruby:After pressing his fist against my cupped hands, Kinzo slowly opened his hand and let the ring drop.:金蔵は、その手の上に、……拳をぐっと押し付けてから、ゆっくりと手を開き、指輪を預ける。}`
+`{ruby:Slowly, as though they were being drawn:引き寄せられるように、おずおずと、……私}{ruby:forward, ......I held out my hands, palms up.:は両手を、手の平を上にして差し出す。}`
+`{ruby:After pressing his fist against my cupped hands, Kinzo:金蔵は、その手の上に、……拳をぐっと押し付けて}{ruby:slowly opened his hand and let the ring drop.:から、ゆっくりと手を開き、指輪を預ける。}`
 `{ruby:".........Lion, my child.........:「………我が子、理御よ………。}`
-`{ruby:......That your fate has been toyed with is a result of my sin.:……今日までお前の運命を弄んだのは全て私の罪のせいだ。}`
+`{ruby:......That your fate has been toyed:……今日までお前の運命を弄んだ}{ruby:with is a result of my sin.:のは全て私の罪のせいだ。}`
 `{ruby:......Please forgive me...:……許しておくれ…。}`
-`{ruby:......You now inherit my ring as the new and proper head of the Ushiromiya family.":……そなたは今や、我が指輪を受け継ぎ、正しく新しい、右代宮家の当主である」}`
+`{ruby:......You now inherit my ring as the:……そなたは今や、我が指輪を受け継ぎ、正}{ruby:new and proper head of the Ushiromiya family.":しく新しい、右代宮家の当主である」}`
 `{ruby:"All of that gold belongs to you.:「あの黄金は全てそなたのもの。}`
-`{ruby:I ask that you use it as you please, and hope that it will be enough to heal some small part of the pain you have suffered...:好きに使い、今日までの日々の辛き思い出を、わずかでも癒すがいい…。}`
-`{ruby:That trifling amount of gold may be nothing in comparison with the sin I committed,:あの程度の黄金、私の犯した罪には到底及びはせぬが。}`
-`{ruby:.........but even so, it should be enough to bring you some comfort.":………それでも、そなたを慰めるくらいは出来るはずだ」}`
+`{ruby:I ask that you use it as you please, and hope that it:好きに使い、今日までの日々の辛き思い}{ruby:will be enough to heal some small part of the pain you have suffered...:出を、わずかでも癒すがいい…。}`
+`{ruby:That trifling amount of gold may be:あの程度の黄金、私の犯した罪}{ruby:nothing in comparison with the sin I committed,:には到底及びはせぬが。}`
+`{ruby:.........but even so, it should be:………それでも、そなたを慰め}{ruby:enough to bring you some comfort.":るくらいは出来るはずだ」}`
 `{ruby:"Th‐.........thank...you.........":「ぁ、………ありがとう…ございます………」}`
 `{ruby:".........Lion.:「………理御。}`
-`{ruby:.........I have one.........final request.":………最後にひとつだけ、………頼みがある」}`
+`{ruby:.........I have:………最後にひとつだけ、}{ruby:one.........final request.":………頼みがある」}`
 `{ruby:"Wh‐......what is that.........?":「な、……何でしょうか………」}`
 `{ruby:"Could you..................:「私を、………………。}`
 `{ruby:.........call me.........":………呼んでくれぬか………」}`
-`{ruby:"......Huh? ......Sorry, what did you say......?":「……ぇ、……すみません、今、何と……」}`
-`{ruby:"Could you............call me.........Father?":「私を、…………お父様と、………呼んでくれぬか」}`
+`{ruby:"......Huh? ......Sorry, what:「……ぇ、……すみませ}{ruby:did you say......?":ん、今、何と……」}`
+`{ruby:"Could:「私を、…………お父様と、}{ruby:you............call me.........Father?":………呼んでくれぬか」}`
 `{ruby:"..............................":「…………………………、」}`
-`{ruby:"......I understand why you are not able to...:「……呼べぬ気持ちはわかる…。}`
-`{ruby:......I have not been a father to you in any way.:……私はそなたに何も父らしいことをしなかった。}`
-`{ruby:Furthermore, you have been raised without knowing anything about your father.:そしてそなたもまた、父など知らずに育った。}`
-`{ruby:......I realize that it's not a name you can call me by.:……とても口に出来る言葉ではないとわかっている。}`
-`{ruby:And, I realize that I have no right to ask this of you.:そして、それを求める資格が、私にないこともわかっている。}`
-`{ruby:.........But, knowing all of that, ......still, I ask you......:………だが、それを承知で、……頼む……。}`
-`{ruby:......If I could just hear that, ......I would have no further regrets......":……それさえ聞けたなら、……もう私に、何の未練もない……」}`
-`{ruby:.........After being asked like that, ......was it possible for me to refuse?:………そのように言われて、……私は断れるだろうか？}`
-`{ruby:Even if I am his child, ......I cannot see him as my father...:いくら、……本当に私が、彼の子供だとしても、……彼を父親だと認めることは、出来ない…。}`
-`{ruby:So, I felt a strong resistance to saying that word.:だから、それを口にするのは、強い違和感を覚える。}`
-`{ruby:But......I decided that saying it was the right thing to do.:でも、……今はそれを口にすべきだと思った。}`
+`{ruby:"......I understand why you:「……呼べぬ気持ち}{ruby:are not able to...:はわかる…。}`
+`{ruby:......I have not been a:……私はそなたに何も父らし}{ruby:father to you in any way.:いことをしなかった。}`
+`{ruby:Furthermore, you have been raised:そしてそなたもまた、父な}{ruby:without knowing anything about your father.:ど知らずに育った。}`
+`{ruby:......I realize that it's not a:……とても口に出来る言葉で}{ruby:name you can call me by.:はないとわかっている。}`
+`{ruby:And, I realize that I have:そして、それを求める資格が、私}{ruby:no right to ask this of you.:にないこともわかっている。}`
+`{ruby:.........But, knowing all of:………だが、それを承知}{ruby:that, ......still, I ask you......:で、……頼む……。}`
+`{ruby:......If I could just hear that,:……それさえ聞けたなら、……もう}{ruby:......I would have no further regrets......":私に、何の未練もない……」}`
+`{ruby:.........After being asked like that, ......was:………そのように言われて、…}{ruby:it possible for me to refuse?:…私は断れるだろうか？}`
+`{ruby:Even if I am his child,:いくら、……本当に私が、彼の子供だとしても、…}{ruby:......I cannot see him as my father...:…彼を父親だと認めることは、出来ない…。}`
+`{ruby:So, I felt a strong:だから、それを口にするのは}{ruby:resistance to saying that word.:、強い違和感を覚える。}`
+`{ruby:But......I decided that saying it:でも、……今はそれを口に}{ruby:was the right thing to do.:すべきだと思った。}`
 `{ruby:Only God can truly forgive sins.:罪を許せるのは神様だけだ。}`
-`{ruby:But, ......though it may be temporary,:でも、……仮であっても。}`
-`{ruby:people can be saved by the forgiveness of others.:人の許しで、人は救われるのだ。}`
+`{ruby:But, ......though it:でも、……仮で}{ruby:may be temporary,:あっても。}`
+`{ruby:people can be saved:人の許しで、人は救}{ruby:by the forgiveness of others.:われるのだ。}`
 `{ruby:".........F‐.....................":「………ぉ…………………」}`
 `{ruby:"........................":「…………………うむ…」}`
 `{ruby:"..................:「………………。}`
 `{ruby:.........Fath......er............":………お父……様…………」}`
-`{ruby:"Heh, ............heheheh............":「ふ、…………ふっふふふ…………」}`
+`{ruby:"Heh,:「ふ、…………ふっふ}{ruby:............heheheh............":ふふ…………」}`
 `{ruby:That awkward word made Kinzo laugh.:私のたどたどしい言葉に、金蔵は笑った。}`
-`{ruby:{n}Drops of silver fell from both of his eyes.:{n}その両目からすうっと、銀の雫が伝い落ちる。}`
-`{ruby:At that moment, ......the shadow that had covered his face......was wiped away......:その時、……確かに彼の表情を覆っていた影は、払われた……。}`
+`{ruby:{n}Drops of silver fell:{n}その両目からすうっと}{ruby:from both of his eyes.:、銀の雫が伝い落ちる。}`
+`{ruby:At that moment, ......the shadow that:その時、……確かに彼の表情を覆っ}{ruby:had covered his face......was wiped away......:ていた影は、払われた……。}`
 `{ruby:"Thank you, ......Lion.:「ありがとう、……理御。}`
 `{ruby:My child......:我が子よ……。}`
-`{ruby:.........And {f:5:Beatrice}, as well.:………そしてベアトリーチェ。}`
-`{ruby:Thank you for this last chance......to ask for forgiveness.........":最後に、許しを請う機会を与えてくれて、……ありがとう………」}`
-`{ruby:"......Of course, I don't believe that such a simple act will earn me forgiveness.:「……もちろん、これしきで許されたとは思いはせぬ。}`
-`{ruby:......The rest, I will do as I burn in the fires of hell.:……続きは地獄の業火で焼かれながらとしようではないか。}`
-`{ruby:.........I, Ushiromiya Kinzo, have no more regrets in this life!!:………右代宮金蔵ッ、我が生に一切の未練なしッ！！}`
-`{ruby:None at all! No regrets or things left undone!!:もはや何もなし！　心残りも遣り残しも何もなし！！}`
-`{ruby:Wahaha, ......waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}hah!!:わはは、……わっははははっはっはっはッ！！}`
-`{ruby:Waaah{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}haha!!!":わあっはっはっはっはっはっはっはっはッ！！！」}`
-`{ruby:Looking up to the heavens, Kinzo spread his arms as though facing an applauding audience,:金蔵は天を見上げながら、喝采する客席に向かって両手を上げて応えるかのような仕草をしながら、}`
-`{ruby:......laughing at the top of his lungs.:……大きな声で笑い続ける。}`
-`{ruby:It was the final pleasure, known only by those who have been released from all regrets of this world.:それは、この世の一切の未練から解放された者だけが知る、最期の、愉悦。}`
-`{ruby:.........Kinzo's laugh weakened, ......and when it disappeared...:………金蔵の笑い声がかすれ、……消えた時。}`
+`{ruby:.........And {f:5:Beatrice},:………そしてベア}{ruby:as well.:トリーチェ。}`
+`{ruby:Thank you for this:最後に、許しを請う機会を与えてく}{ruby:last chance......to ask for forgiveness.........":れて、……ありがとう………」}`
+`{ruby:"......Of course, I don't believe that such:「……もちろん、これしきで許}{ruby:a simple act will earn me forgiveness.:されたとは思いはせぬ。}`
+`{ruby:......The rest, I will do as:……続きは地獄の業火で焼かれな}{ruby:I burn in the fires of hell.:がらとしようではないか。}`
+`{ruby:.........I, Ushiromiya Kinzo, have no:………右代宮金蔵ッ、我が生}{ruby:more regrets in this life!!:に一切の未練なしッ！！}`
+`{ruby:None at all! No:もはや何もなし！　心残りも遣}{ruby:regrets or things left undone!!:り残しも何もなし！！}`
+`{ruby:Wahaha,:わはは、……わっはははは}{ruby:......waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}hah!!:っはっはっはッ！！}`
+`{ruby::わあっはっはっはっはっはっ}{ruby:Waaah{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}haha!!!":はっはっはッ！！！」}`
+`{ruby:Looking up to the heavens, Kinzo spread:金蔵は天を見上げながら、喝采する客席に向かって両}{ruby:his arms as though facing an applauding audience,:手を上げて応えるかのような仕草をしながら、}`
+`{ruby:......laughing at the:……大きな声で笑}{ruby:top of his lungs.:い続ける。}`
+`{ruby:It was the final pleasure, known only by those:それは、この世の一切の未練から解放さ}{ruby:who have been released from all regrets of this world.:れた者だけが知る、最期の、愉悦。}`
+`{ruby:.........Kinzo's laugh weakened,:………金蔵の笑い声がかす}{ruby:......and when it disappeared...:れ、……消えた時。}`
 `{ruby:He dropped to his knees...:彼は、操り人形の糸が切れたかのように、}`
-`{ruby:...like a puppet with its strings cut...:……カクンと膝をつき、}`
+`{ruby:...like a puppet:……カクンと膝}{ruby:with its strings cut...:をつき、}`
 `{ruby:............and slowly...:…………ゆっくりと、}`
 `{ruby:......fell to the ground.........:………倒れた………。}`
 `{ruby:"......M‐.........my lord......":「……お、………お館様……」}`
 `{ruby:"Doctor Nanjo......":「南條先生……」}`
 `{ruby:"Y‐......yes.........":「う、……うむ………」}`
-`{ruby:Though their master had fallen, ......they walked up to him slowly.:主が倒れたというのに、……彼らの歩み寄りは、ゆっくりだった。}`
+`{ruby:Though their master had fallen,:主が倒れたというのに、……彼らの}{ruby:......they walked up to him slowly.:歩み寄りは、ゆっくりだった。}`
 `{ruby:They already knew.:彼らはもう、知っていたのだ。}`
-`{ruby:{n}Kinzo's soul......had already burned itself out.:{n}金蔵が、……魂の全てを燃やし尽くしたことを。}`
-`{ruby:After checking Kinzo's pulse, Nanjo shook his head and stood back up.:脈を取ったりしていた南條は、小さく首を横に振るとゆっくりと立ち上がる。}`
+`{ruby:{n}Kinzo's soul......had already:{n}金蔵が、……魂の全てを}{ruby:burned itself out.:燃やし尽くしたことを。}`
+`{ruby:After checking Kinzo's pulse, Nanjo shook:脈を取ったりしていた南條は、小さく首を}{ruby:his head and stood back up.:横に振るとゆっくりと立ち上がる。}`
 `{ruby:"............It was a peaceful death.:「…………大往生だ。}`
-`{ruby:......I don't think he had any regrets at all.":……何の心残りもないだろう」}`
-`{ruby:"It may be......that the Master died long before now.:「お館様は、……あるいはもう、ずっと以前にお亡くなりになっていたのです。}`
-`{ruby:......It was only his magic and tenacity that kept him here so long.:……それを、お館様の魔法と執念で、……今日までを永らえていたに過ぎないのです。}`
-`{ruby:......And.........once he finally had a chance to apologize to {f:5:Beatrice}‐sama for everything, .........he finished everything he had to do...":……そして、………ベアトリーチェさまに謝罪する機会をようやく得て、………全てを、終えられたのでしょう…」}`
-`{ruby:".........Please, ......rest in peace.:「………安らかに、……お眠り下さい。}`
-`{ruby:............I believe that you have redeemed yourself.":…………あなたは罪を、償われたと信じます」}`
-`{ruby:".................................Father.........":「……………………………お父様…………」}`
+`{ruby:......I don't think he:……何の心残りも}{ruby:had any regrets at all.":ないだろう」}`
+`{ruby:"It may be......that the:「お館様は、……あるいはもう、ずっと以}{ruby:Master died long before now.:前にお亡くなりになっていたのです。}`
+`{ruby:......It was only his magic and:……それを、お館様の魔法と執念で、……今日}{ruby:tenacity that kept him here so long.:までを永らえていたに過ぎないのです。}`
+`{ruby:......And.........once he finally had a chance to apologize to:……そして、………ベアトリーチェさまに謝罪する機会をよ}{ruby:{f:5:Beatrice}‐sama for everything, .........he finished everything he had to do...":うやく得て、………全てを、終えられたのでしょう…」}`
+`{ruby:".........Please, ......rest:「………安らかに、…}{ruby:in peace.:…お眠り下さい。}`
+`{ruby:............I believe that:…………あなたは罪を、償}{ruby:you have redeemed yourself.":われたと信じます」}`
+`{ruby::「…………………………}{ruby:".................................Father.........":…お父様…………」}`
 `{ruby:That was...:それが、}`
 `{ruby:...the one‐night reunion...:……私と父との、}`
 `{ruby:...between me and my father...:……一夜限りの再会と、}`
 `{ruby:...and also our final farewell......:……別れだった……。}`
-`{ruby:".........This gold all belongs to you now.:「………この黄金は、全てあなたのものです。}`
-`{ruby:......If you wish to exchange it for money, I can arrange for that.":……現金化をご希望でしたら、そのように手配することも出来ます」}`
+`{ruby:".........This gold all:「………この黄金は、全て}{ruby:belongs to you now.:あなたのものです。}`
+`{ruby:......If you wish to exchange it:……現金化をご希望でしたら、そのよ}{ruby:for money, I can arrange for that.":うに手配することも出来ます」}`
 `{ruby:"I hear it's worth 20 billion yen.:「２００億円の価値があるそうです。}`
-`{ruby:.........All of your dreams in this world can now be granted with money.":………もうあんたには、この世で、カネで叶えられぬ夢はありませんな」}`
+`{ruby:.........All of your dreams in this:………もうあんたには、この世で、カネ}{ruby:world can now be granted with money.":で叶えられぬ夢はありませんな」}`
 `{ruby:"Hoh‐hoh‐hoh‐ho......:「ほっほっほっほ……。}`
-`{ruby:It must be tough to think of what to do with this much money when it suddenly comes your way.":急にこんな大金が手に入っても、使い道に困ってしまいますねぇ」}`
-`{ruby:"............There is nothing I desire among the things money can buy.:「…………お金で手に入れられるものの中に、私の欲しいものはありません。}`
-`{ruby:......So, for the present, I would like to leave this here.":……ですから、これは当分は、そのままにしておこうと思います」}`
-`{ruby:......Of course, I'm glad I have a lot of money.:……もちろん、お金がたくさんあるのは嬉しいことだけれど。}`
-`{ruby:However, money can't heal the pain in my heart.:私の胸の痛みは、お金では癒せない。}`
-`{ruby:{n}I just.........want him to come back.:{n}ただ、………彼が帰って来て欲しいだけ。}`
+`{ruby:It must be tough to think of what to do:急にこんな大金が手に入っても、使}{ruby:with this much money when it suddenly comes your way.":い道に困ってしまいますねぇ」}`
+`{ruby:"............There is nothing I desire:「…………お金で手に入れられるものの中}{ruby:among the things money can buy.:に、私の欲しいものはありません。}`
+`{ruby:......So, for the present, I:……ですから、これは当分は、その}{ruby:would like to leave this here.":ままにしておこうと思います」}`
+`{ruby:......Of course, I'm glad I:……もちろん、お金がたくさんあ}{ruby:have a lot of money.:るのは嬉しいことだけれど。}`
+`{ruby:However, money can't heal:私の胸の痛みは、お金}{ruby:the pain in my heart.:では癒せない。}`
+`{ruby:{n}I just.........want him:{n}ただ、………彼が帰}{ruby:to come back.:って来て欲しいだけ。}`
 `{ruby:"As you wish.:「畏まりました。}`
 `{ruby:Then it shall be left here.:では、そのように致します。}`
 `{ruby:......Also, take this key.":……それから、この鍵を」}`
 `{ruby:".........What is this?":「………これは？」}`
-`{ruby:"It is the key to this underground VIP room.:「この地下貴賓室へ至る鍵です。}`
-`{ruby:If you use this, you won't need to use the more complicated device.":これを使えば、もう仕掛けを使う必要はありません」}`
-`{ruby:She was the only one who knew the answer to the epitaph's riddle, and the only key to this place was now hers.:碑文の謎は、彼女以外、誰も答えを知らず、そして唯一の鍵も、彼女の手に委ねられる。}`
-`{ruby:......At this point, she truly was the master of this golden VIP room.:……今や、彼女は本当に、この黄金の貴賓室の主だった。}`
-`{ruby:"You are already the master of Rokkenjima.:「あなたはもはや、この六軒島の主です。}`
-`{ruby:You have the right to know all of this island's secrets.":この島の全ての秘密を、お知りになられる資格があります」}`
-`{ruby:".........We should talk about Kuwadorian too.":「………九羽鳥庵のことも、話すべきでしょうな」}`
-`{ruby:"That's the mansion your mother lived in.:「あなたのお母上が、お過ごしになられた隠し館です。}`
-`{ruby:......I'm sure you've heard rumors about it.":……お噂くらいはお聞きになったことがあるでしょう」}`
+`{ruby:"It is the key:「この地下貴賓室へ}{ruby:to this underground VIP room.:至る鍵です。}`
+`{ruby:If you use this, you won't:これを使えば、もう仕掛けを}{ruby:need to use the more complicated device.":使う必要はありません」}`
+`{ruby:She was the only one who knew the answer to the:碑文の謎は、彼女以外、誰も答えを知らず、そ}{ruby:epitaph's riddle, and the only key to this place was now hers.:して唯一の鍵も、彼女の手に委ねられる。}`
+`{ruby:......At this point, she truly was:……今や、彼女は本当に、この}{ruby:the master of this golden VIP room.:黄金の貴賓室の主だった。}`
+`{ruby:"You are already:「あなたはもはや、この}{ruby:the master of Rokkenjima.:六軒島の主です。}`
+`{ruby:You have the right to:この島の全ての秘密を、お知りに}{ruby:know all of this island's secrets.":なられる資格があります」}`
+`{ruby:".........We should talk:「………九羽鳥庵のことも、}{ruby:about Kuwadorian too.":話すべきでしょうな」}`
+`{ruby:"That's the mansion:「あなたのお母上が、お過ごし}{ruby:your mother lived in.:になられた隠し館です。}`
+`{ruby:......I'm sure you've:……お噂くらいはお聞きになっ}{ruby:heard rumors about it.":たことがあるでしょう」}`
 `{ruby:"Kuwadorian.........":「九羽鳥庵………」}`
-`{ruby:"There are two mansions on this island, one at either end.:「この島の両端には二つの屋敷があります。}`
-`{ruby:......One is the mansion we know well.:……一方は、私たちのよく知るお屋敷。}`
-`{ruby:The other is a hidden mansion known as Kuwadorian.":もう一方は、九羽鳥庵と呼ばれる、隠し屋敷でございます」}`
-`{ruby:"Below this island are the remains of a military base built during the war.:「この島の地下には、戦争中に造られた基地の跡があるのです。}`
-`{ruby:The Master used that to travel between the two ends of the island...":お館様はそれを利用されて、島の両端を行き来されておりました…」}`
-`{ruby:"There is an underground path in the back of this room, and if you follow it, you will reach the basement of Kuwadorian on the other end of this island.:「この部屋の奥に地下道があり、それを進めば、島の反対側の九羽鳥庵の地下に繋がります。}`
-`{ruby:......That is a secret mansion, which only the Master knew of.:……お館様しかご存知でない、秘密の屋敷です。}`
-`{ruby:Of course, that mansion, like everything else, now belongs to the new head.":もちろん、その屋敷ももはや、新しき当主のものです」}`
-`{ruby:"......It's the mansion your mother lived in.:「……あんたの、お母さんが暮らしていた屋敷だ。}`
-`{ruby:It's probably worth taking a trip over there sometime.":一度行ってみるのもいいだろう」}`
+`{ruby:"There are two mansions on:「この島の両端には二つ}{ruby:this island, one at either end.:の屋敷があります。}`
+`{ruby:......One is the:……一方は、私たちの}{ruby:mansion we know well.:よく知るお屋敷。}`
+`{ruby:The other is a:もう一方は、九羽鳥庵と呼ばれる}{ruby:hidden mansion known as Kuwadorian.":、隠し屋敷でございます」}`
+`{ruby:"Below this island are the remains of:「この島の地下には、戦争中に造ら}{ruby:a military base built during the war.:れた基地の跡があるのです。}`
+`{ruby:The Master used that to travel:お館様はそれを利用されて、島の両端}{ruby:between the two ends of the island...":を行き来されておりました…」}`
+`{ruby:"There is an underground path in the back of this room, and if you follow:「この部屋の奥に地下道があり、それを進めば、}{ruby:it, you will reach the basement of Kuwadorian on the other end of this island.:島の反対側の九羽鳥庵の地下に繋がります。}`
+`{ruby:......That is a secret mansion,:……お館様しかご存知でな}{ruby:which only the Master knew of.:い、秘密の屋敷です。}`
+`{ruby:Of course, that mansion, like everything:もちろん、その屋敷ももはや、}{ruby:else, now belongs to the new head.":新しき当主のものです」}`
+`{ruby:"......It's the mansion:「……あんたの、お母さんが}{ruby:your mother lived in.:暮らしていた屋敷だ。}`
+`{ruby:It's probably worth taking:一度行ってみるのも}{ruby:a trip over there sometime.":いいだろう」}`
 `{ruby:"My......mother............":「私の、……お母さん…………」}`
 `{ruby:I've lived alone my whole life.:ずっと一人で、生きてきた。}`
-`{ruby:The only person I've ever felt like calling "Mother" is Kumasawa‐san, who always helped me out.:母と呼びたいと思ったのは、いつも助けてくれた熊沢さんだけだった。}`
-`{ruby:The mansion where a mother I've never met nor seen lived...:会ったことも見たこともない、お母さんの、暮らした屋敷。}`
-`{ruby:.........Who in the world.........am I......?:………私は一体、………何者なの……？}`
+`{ruby:The only person I've ever felt like calling:母と呼びたいと思ったのは、いつも助}{ruby:"Mother" is Kumasawa‐san, who always helped me out.:けてくれた熊沢さんだけだった。}`
+`{ruby:The mansion where a mother:会ったことも見たこともない、お}{ruby:I've never met nor seen lived...:母さんの、暮らした屋敷。}`
+`{ruby:.........Who in:………私は一体、……}{ruby:the world.........am I......?:…何者なの……？}`
 `{ruby:"Ask any questions you wish.:「何でも、お尋ね下さい。}`
-`{ruby:......You now deserve to know everything.":……今のあなたには、全てを知る資格がございます」}`
-`{ruby:"......Right now, ......I'm feeling very confused.:「……今は、……何が何だかわからなくて。}`
-`{ruby:......I don't even know where I should start asking questions.:……何から聞けばいいかも、わかりません。}`
-`{ruby:......But I'm sure......I'll think of plenty of things to ask about.:……でもきっと、……たくさん聞きたいことが、これから見つかると思います。}`
+`{ruby:......You now deserve:……今のあなたには、全てを}{ruby:to know everything.":知る資格がございます」}`
+`{ruby:"......Right now, ......I'm:「……今は、……何が何}{ruby:feeling very confused.:だかわからなくて。}`
+`{ruby:......I don't even know where:……何から聞けばいいか}{ruby:I should start asking questions.:も、わかりません。}`
+`{ruby:......But I'm sure......I'll think of:……でもきっと、……たくさん聞きたいこ}{ruby:plenty of things to ask about.:とが、これから見つかると思います。}`
 `{ruby:......When I do, please tell me...":……その時、教えて下さい…」}`
 `{ruby:"As you wish.":「畏まりました」}`
 `{ruby:"A‐......also,:「あ、……あと、}`
-`{ruby:......being treated so respectfully like that...:……そんなに畏まられると、}`
+`{ruby:......being treated so:……そんなに畏ま}{ruby:respectfully like that...:られると、}`
 `{ruby:is a bit uncomfortable.:……居心地が悪いです。}`
-`{ruby:I'd be happier if you could talk to me the same way you've always done.":これまでと同じ口調で話し掛けてくれた方が、嬉しいです」}`
-`{ruby:"If that is what you wish, then I will do so.":「それをお望みでしたら、そのようにも致します」}`
+`{ruby:I'd be happier if you could talk:これまでと同じ口調で話し掛けて}{ruby:to me the same way you've always done.":くれた方が、嬉しいです」}`
+`{ruby:"If that is what you:「それをお望みでしたら、そ}{ruby:wish, then I will do so.":のようにも致します」}`
 `{ruby:"Hoh‐hoh‐hoh‐ho.:「ほっほっほっほ。}`
 `{ruby:That's easier for me too.":私も、その方が気楽です」}`
 `{ruby:".........Well now.:「………さて。}`
 `{ruby:What will we do now, Genji‐san?:これから、どうするんだ、源次さん。}`
 `{ruby:......Kinzo‐san is dead.":……金蔵さんは、亡くなった」}`
-`{ruby:"I will tell Krauss‐sama and Madam that he has passed away.:「旦那様と奥様に、お亡くなりになられたことをお伝えします。}`
-`{ruby:......Then, we must tell them that Lion‐sama is the official successor to the headship.:……そして、理御さまが正式な、当主後継者であることをお伝えしなくてはなりません。}`
-`{ruby:After all, from this point forth, you are the Ushiromiya family head.":今日より、あなたが右代宮家当主なのですから」}`
+`{ruby:"I will tell Krauss‐sama and:「旦那様と奥様に、お亡くなりにな}{ruby:Madam that he has passed away.:られたことをお伝えします。}`
+`{ruby:......Then, we must tell them that Lion‐sama:……そして、理御さまが正式な、当主後継者で}{ruby:is the official successor to the headship.:あることをお伝えしなくてはなりません。}`
+`{ruby:After all, from this point forth,:今日より、あなたが右代宮}{ruby:you are the Ushiromiya family head.":家当主なのですから」}`
 `{ruby:"M‐me as the head? That's......:「わ、私が当主なんてそんな……。}`
-`{ruby:And isn't Krauss‐sama the successor......?":それに、次期当主は蔵臼さまでは……」}`
-`{ruby:"The one who solves the epitaph's riddle is the successor.:「碑文の謎を解いた者が次期当主である。}`
-`{ruby:.........There exists a will specifying this.:………これはお預かりしている遺言状にも明記してございます。}`
-`{ruby:.........The Master's final order was that you were to inherit everything.":………お館様の最後の命令が、あなたに全てを引き継ぐことなのです」}`
+`{ruby:And isn't:それに、次期当主は蔵}{ruby:Krauss‐sama the successor......?":臼さまでは……」}`
+`{ruby:"The one who solves the:「碑文の謎を解いた者が}{ruby:epitaph's riddle is the successor.:次期当主である。}`
+`{ruby:.........There exists a:………これはお預かりしている遺言}{ruby:will specifying this.:状にも明記してございます。}`
+`{ruby:.........The Master's final order was:………お館様の最後の命令が、あなた}{ruby:that you were to inherit everything.":に全てを引き継ぐことなのです」}`
 `{ruby:"P‐please wait...!:「ま、待って下さい…！}`
-`{ruby:I appreciate the sentiment, ......but I can't do the job of being the successor,:お気持ちは嬉しいですが、……私には次期当主なんて、務まりませんし、}`
-`{ruby:......and I can't accept such a big responsibility.:……そんな大任、とてもお引き受け出来ません。}`
-`{ruby:I think it would be better for Krauss‐sama to inherit that role......":その役目は、やはり蔵臼さまが引き継がれる方が、いいと思います……」}`
+`{ruby:I appreciate the sentiment, ......but I can't:お気持ちは嬉しいですが、……私には次}{ruby:do the job of being the successor,:期当主なんて、務まりませんし、}`
+`{ruby:......and I can't accept:……そんな大任、とてもお}{ruby:such a big responsibility.:引き受け出来ません。}`
+`{ruby:I think it would be better:その役目は、やはり蔵臼さまが引き継が}{ruby:for Krauss‐sama to inherit that role......":れる方が、いいと思います……」}`
 `{ruby:".........Are you certain?":「………よろしいのですか」}`
-`{ruby:"Today, ......I have learned who I am.:「私は今日ここで、……自分が誰かを知ることが出来ました。}`
-`{ruby:......Everyone knows about their parents,:……人なら誰でも知っている両親のこと。}`
-`{ruby:but I didn't, since the time of my birth.:私には、生まれながらにしてそれがなかった。}`
-`{ruby:......And here, today, I finally learned the truth.:……それを今日ここで、得ることが出来ました。}`
+`{ruby:"Today, ......I have:「私は今日ここで、……自分が誰}{ruby:learned who I am.:かを知ることが出来ました。}`
+`{ruby:......Everyone knows:……人なら誰でも知って}{ruby:about their parents,:いる両親のこと。}`
+`{ruby:but I didn't, since:私には、生まれながらにし}{ruby:the time of my birth.:てそれがなかった。}`
+`{ruby:......And here, today, I:……それを今日ここで、得}{ruby:finally learned the truth.:ることが出来ました。}`
 `{ruby:......That alone is enough for me.":……それだけで、私は充分なんです」}`
-`{ruby:If I suddenly became the Ushiromiya family head, how would Krauss‐sama react?:突然、右代宮家の当主は私なんてことになれば、蔵臼さまがどんな顔をなさるやら。}`
+`{ruby:If I suddenly became the Ushiromiya:突然、右代宮家の当主は私なんてことになれ}{ruby:family head, how would Krauss‐sama react?:ば、蔵臼さまがどんな顔をなさるやら。}`
 `{ruby:How angry would Madam be?:奥様がどんな形相でお怒りになられるやら。}`
-`{ruby:I don't want to become the head if it means making them feel like that.:私は、そんな思いをしてまで当主になんかなりたくない。}`
+`{ruby:I don't want to become the head:私は、そんな思いをしてまで当}{ruby:if it means making them feel like that.:主になんかなりたくない。}`
 `{ruby:Today, I learned who I am.:私が何者か、今日、私は得ることが出来た。}`
 `{ruby:Who gave birth to me, how, and when?:誰から、いつ、どのようにして生まれてきたのか。}`
-`{ruby:......These are things I want to learn from them as time goes by.:……それを、時間をかけてゆっくりと、彼らから聞いていこう。}`
+`{ruby:......These are things I want to:……それを、時間をかけてゆっくり}{ruby:learn from them as time goes by.:と、彼らから聞いていこう。}`
 `{ruby:That alone is enough.:それだけで、もう、充分なのだ。}`
 `{ruby:".........I am Lion.:「………私は理御。}`
-`{ruby:......And I am the Golden Witch, {f:5:Beatrice}.:……そして、黄金の魔女、ベアトリーチェです。}`
+`{ruby:......And I am:……そして、黄金の魔女、}{ruby:the Golden Witch, {f:5:Beatrice}.:ベアトリーチェです。}`
 `{ruby:Knowing that is enough for me.:それがわかっただけで、私は充分です。}`
-`{ruby:......I don't plan on calling myself the head.:……私は当主を主張するつもりはありません。}`
-`{ruby:......Krauss‐sama can take that job.":……その役目は、蔵臼さまに」}`
-`{ruby:"Is that your order, as the Ushiromiya family head?":「それは、右代宮家当主としてのご命令ですか」}`
+`{ruby:......I don't plan on:……私は当主を主張するつ}{ruby:calling myself the head.:もりはありません。}`
+`{ruby:......Krauss‐sama can:……その役目は、}{ruby:take that job.":蔵臼さまに」}`
+`{ruby:"Is that your order,:「それは、右代宮家当主と}{ruby:as the Ushiromiya family head?":してのご命令ですか」}`
 `{ruby:".........Yes.":「………はい」}`
 `{ruby:".....................:「…………………。}`
 `{ruby:......As you wish, Master.:……畏まりました、お館様。}`
 `{ruby:Then I will make it so.":では、そのように致します」}`
-`{ruby:"And please, don't tell anyone about what happened tonight.:「今夜のことも、全て内密にして下さい。}`
+`{ruby:"And please, don't tell:「今夜のことも、全て内}{ruby:anyone about what happened tonight.:密にして下さい。}`
 `{ruby:.........I want to stay me.:………私は、これからも私のままでいます。}`
-`{ruby:......There's nothing I'd want to do if I had the Ushiromiya headship or the gold.":……私が右代宮家の当主になって、……あるいは黄金を手に入れて、やりたいことなど何もないのですから」}`
+`{ruby:......There's nothing I'd want to do if:……私が右代宮家の当主になって、……あるいは黄金を手}{ruby:I had the Ushiromiya headship or the gold.":に入れて、やりたいことなど何もないのですから」}`
 `{ruby:......I just...:……私は、ただ。}`
-`{ruby:"I want to wait.........here on this island......as I have done in the past.:「この島で、………これまでと同じように、……待っていたいだけなのです。}`
-`{ruby:I want everything to be exactly the same as it was.:これまでと同じに、……何も変わらずに。}`
+`{ruby:"I want to wait.........here on this:「この島で、………これまでと同じように}{ruby:island......as I have done in the past.:、……待っていたいだけなのです。}`
+`{ruby:I want everything to be:これまでと同じに、……}{ruby:exactly the same as it was.:何も変わらずに。}`
 `{ruby:.........That's my only wish.":………それだけが、私の望みです」}`
 `{ruby:"...........................:「………………………。}`
 `{ruby:As you wish, Master.:畏まりました、お館様。}`
-`{ruby:......Everything that has happened tonight will not go beyond those present here.:……今夜のことは全て、この場限りの秘密と致します。}`
+`{ruby:......Everything that has happened tonight will:……今夜のことは全て、この場}{ruby:not go beyond those present here.:限りの秘密と致します。}`
 `{ruby:......Kumasawa.:……熊沢。}`
 `{ruby:Doctor Nanjo.:南條先生。}`
 `{ruby:That is the wish of the new head.":新しき当主様はそうご希望でいらっしゃいます」}`
-`{ruby:"......If that's what you want, I have no objections.:「……あんたがそうしたいというなら、私は何の異論もない。}`
-`{ruby:Kinzo‐san's will entrusts everything to you.:金蔵さんの遺言は、あんたに全てを委ねる、だ。}`
-`{ruby:If this is what you want to do, none of us will complain.":そのあんたがそれを望むなら、私たちには何の文句もない」}`
-`{ruby:"You say "exactly the same as it was",:「これまでと同じように、と言いますけれど…。}`
-`{ruby:......but do you really mean exactly the same...?:……本当にこれまでと同じように、この島で生活を続けられるのですか…？}`
+`{ruby:"......If that's what you:「……あんたがそうしたいという}{ruby:want, I have no objections.:なら、私は何の異論もない。}`
+`{ruby:Kinzo‐san's will entrusts:金蔵さんの遺言は、あんた}{ruby:everything to you.:に全てを委ねる、だ。}`
+`{ruby:If this is what you want:そのあんたがそれを望むなら、私}{ruby:to do, none of us will complain.":たちには何の文句もない」}`
+`{ruby:"You say "exactly the:「これまでと同じように、}{ruby:same as it was",:と言いますけれど…。}`
+`{ruby:......but do you really:……本当にこれまでと同じように、この}{ruby:mean exactly the same...?:島で生活を続けられるのですか…？}`
 `{ruby:With no differences at all...?":これまでと、何も変わらず…？」}`
 `{ruby:"Yes.:「はい。}`
 `{ruby:.........We'll keep this a secret.:………今夜のことは秘密にします。}`
-`{ruby:......This place and the gold will be sealed away.:……ここも黄金も封印します。}`
-`{ruby:If I need money, I'll ask you about it then.:もしも、お金が必要になったら、その時、改めて相談することにします。}`
+`{ruby:......This place and the:……ここも黄金も}{ruby:gold will be sealed away.:封印します。}`
+`{ruby:If I need money, I'll:もしも、お金が必要になったら、その時}{ruby:ask you about it then.:、改めて相談することにします。}`
 `{ruby:.........That's enough for me.":………私には、それで充分です」}`
 `{ruby:"As you wish.:「畏まりました。}`
-`{ruby:The mechanism leading to this place and the key both belong to you.:ここに至る仕掛けも鍵も、全てあなただけのものでございます。}`
-`{ruby:......And all of us swear to keep the events of this night a secret.:……そして今夜のことは私共一同、秘密にすることを誓います。}`
-`{ruby:.........Krauss‐sama will be the successor,:………次期当主は蔵臼さまとなられますが、}`
-`{ruby:......but in my heart, you will be the only true successor.":……私の中では、真の当主様は、あなただけでございます」}`
-`{ruby:"......As you have ordered, we will behave the same way we always have, but please order us whenever it suits you.:「……ご命令に従い、これからもこれまでと同じように振る舞いますが、いつでも御用命下さい。}`
+`{ruby:The mechanism leading to this place:ここに至る仕掛けも鍵も、全てあな}{ruby:and the key both belong to you.:ただけのものでございます。}`
+`{ruby:......And all of us swear to keep:……そして今夜のことは私共一同、}{ruby:the events of this night a secret.:秘密にすることを誓います。}`
+`{ruby:.........Krauss‐sama will:………次期当主は蔵臼さ}{ruby:be the successor,:まとなられますが、}`
+`{ruby:......but in my heart, you:……私の中では、真の当主様は、}{ruby:will be the only true successor.":あなただけでございます」}`
+`{ruby:"......As you have ordered, we will behave the same way:「……ご命令に従い、これからもこれまでと同じよ}{ruby:we always have, but please order us whenever it suits you.:うに振る舞いますが、いつでも御用命下さい。}`
 `{ruby:You are my only master.":私の主は、あなただけなのでございます」}`
-`{ruby:"..................Th‐.........thank you very much...":「………………あ、………ありがとうございます…」}`
-`{ruby:A vast mountain of gold and the ring of the Ushiromiya family head.:莫大な黄金の山と、右代宮家の当主の指輪。}`
-`{ruby:{n}The dress of the portrait {f:5:Beatrice}.:{n}肖像画のベアトリーチェのドレス。}`
-`{ruby:And.........I became the true {f:5:Beatrice}, the Golden Witch.:そして、………私は本当に、黄金の魔女、ベアトリーチェとなる。}`
-`{ruby:Right here in my very own Golden Land.:この、私だけの黄金郷で。}`
-`{ruby:If I think about it, not much has actually changed.:思えば、これまでとこれからも、何も変わらない。}`
-`{ruby:After all, I've always been the Golden Witch. ......I've just had a few more people acknowledge that.:だって私は最初から黄金の魔女で、……それが今、ほんの数人に、認められただけなのだから。}`
+`{ruby:"..................Th‐.........thank you:「………………あ、………あ}{ruby:very much...":りがとうございます…」}`
+`{ruby:A vast mountain of gold and:莫大な黄金の山と、右代}{ruby:the ring of the Ushiromiya family head.:宮家の当主の指輪。}`
+`{ruby:{n}The dress of:{n}肖像画のベアトリ}{ruby:the portrait {f:5:Beatrice}.:ーチェのドレス。}`
+`{ruby:And.........I became the true:そして、………私は本当に、黄金の}{ruby:{f:5:Beatrice}, the Golden Witch.:魔女、ベアトリーチェとなる。}`
+`{ruby:Right here in my:この、私だけの}{ruby:very own Golden Land.:黄金郷で。}`
+`{ruby:If I think about it,:思えば、これまでとこれから}{ruby:not much has actually changed.:も、何も変わらない。}`
+`{ruby:After all, I've always been the Golden Witch.:だって私は最初から黄金の魔女で、……それが今、}{ruby:......I've just had a few more people acknowledge that.:ほんの数人に、認められただけなのだから。}`
 `{ruby:{a:c:November 29th.:{a:c:１１月２９日。}`
 `{ruby:{n}The day I became a true witch.}:{n}私は本当の魔女に、なりました。}}`
 `{ruby:{a:c::{a:c:}`
 `{ruby:Oh, I am one yet many.:あぁ、我こそは我にして我等なり。}`
-`{ruby:I am the Golden Witch, {f:5:Beatrice}.}:我は、黄金の魔女ベアトリーチェ。}}`
+`{ruby:I am the:我は、黄金の魔女ベア}{ruby:Golden Witch, {f:5:Beatrice}.}:トリーチェ。}}`
 `{ruby:{a:c::{a:c:}`
-`{ruby:The true ruler of Rokkenjima,{n}......and the possessor of endless gold.}:この六軒島の真の支配者にして、{n}………無限の黄金の所有者。}}`
+`{ruby:The true ruler of Rokkenjima,{n}......and:この六軒島の真の支配者にして、{n}{ruby:the possessor of endless gold.}:}………無限の黄金の所有者。}}`
 `{ruby:{a:c::{a:c:}`
 `{ruby:Yet, I am in no way complete.}:でも何も満たされず。}}`
 `{ruby:{a:c::{a:c:}`
-`{ruby:......Here I wait...{n}for the return of the one person I love......}:……たった一人の想い人が帰って来てくれる日を、{n}待っています……。}}`
+`{ruby:......Here I wait...{n}for the return:……たった一人の想い人が帰って来てくれ}{ruby:of the one person I love......}:る日を、{n}待っています……。}}`

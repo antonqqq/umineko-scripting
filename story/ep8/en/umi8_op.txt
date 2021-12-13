@@ -1,178 +1,178 @@
-`{ruby:Two silhouettes could be seen in the chapel.:礼拝堂の中には、……二人の人影。}`
-`{ruby:{n}A big brother...and his little sister.:{n}それは、兄と、妹の姿。}`
-`{ruby:The big brother who would never return from that day twelve years in the past, and the little sister who waited all alone twelve years in the future.:１２年前の過去より戻らぬ兄と、それを孤独に待つ１２年の未来の妹。}`
-`{ruby:However, the big brother knew everything, understood everything.:しかし、兄は全てを理解し、全てを知っている。}`
-`{ruby:{n}And the little sister knew nothing, understood nothing.:{n}そして、妹は全てを知らず、何も知っていない。}`
-`{ruby:So, no matter how much time passed, the little sister remained as the girl she had been twelve years before.:だから、妹はいつまで経っても、１２年前の少女のまま。}`
-`{ruby:She remained a six‐year‐old girl forever......:いつまでも永遠に、６歳の少女のままだった……。}`
-`{ruby:Her sobs into her big brother's chest finally subsided......:兄の胸に顔を埋めていた妹の嗚咽が、ようやく収まる……。}`
-`{ruby:She quietly waited for his next words.:そして、兄の次の言葉を静かに待つ。}`
-`{ruby:After patting her head gently, the big brother fished around inside his shirt pocket.:兄はその頭をやさしく撫でてから、自分の懐をまさぐる。}`
+`{ruby:Two silhouettes could be:礼拝堂の中には、…}{ruby:seen in the chapel.:…二人の人影。}`
+`{ruby:{n}A big brother...and:{n}それは、兄}{ruby:his little sister.:と、妹の姿。}`
+`{ruby:The big brother who would never return from that day twelve years in the:１２年前の過去より戻らぬ兄と、それ}{ruby:past, and the little sister who waited all alone twelve years in the future.:を孤独に待つ１２年の未来の妹。}`
+`{ruby:However, the big brother:しかし、兄は全てを理解し}{ruby:knew everything, understood everything.:、全てを知っている。}`
+`{ruby:{n}And the little sister:{n}そして、妹は全てを知ら}{ruby:knew nothing, understood nothing.:ず、何も知っていない。}`
+`{ruby:So, no matter how much time passed, the little sister:だから、妹はいつまで経っても}{ruby:remained as the girl she had been twelve years before.:、１２年前の少女のまま。}`
+`{ruby:She remained a:いつまでも永遠に、６歳の少}{ruby:six‐year‐old girl forever......:女のままだった……。}`
+`{ruby:Her sobs into her:兄の胸に顔を埋めていた妹の嗚咽}{ruby:big brother's chest finally subsided......:が、ようやく収まる……。}`
+`{ruby:She quietly waited:そして、兄の次の言葉}{ruby:for his next words.:を静かに待つ。}`
+`{ruby:After patting her head gently, the big:兄はその頭をやさしく撫でてか}{ruby:brother fished around inside his shirt pocket.:ら、自分の懐をまさぐる。}`
 `{ruby:Then, ......he took something out.:そして、……それを取り出してみせた。}`
 `{ruby:"Are you listening, Ange?:「いいかい、縁寿。}`
 `{ruby:Take good care of this.":これを大事に持つんだ」}`
 `{ruby:".........What is it...?:「………これ、何…？}`
 `{ruby:.........A key...?":………鍵…？」}`
-`{ruby:Battler took a large key attached to a necklace out of his pocket, then held it out to Ange.:戦人は懐より、首飾りに繋がった大きな鍵を取り出し、縁寿に差し出す。}`
-`{ruby:It was large enough to cover Battler's entire palm,:それは戦人の手の平いっぱいの大きさがあり、}`
-`{ruby:and little Ange probably wouldn't even be able to wrap her hand all the way around it.:幼い縁寿には一握りしても余るほどの大きさが感じられた。}`
-`{ruby:The key glittered gold and had a beautiful, intricate design.:金色に輝き、凝った意匠が施された美しい鍵。}`
-`{ruby:Its weight alone made it clear that this key was something very important.:その重みだけで、さぞ大切な鍵に違いないとわからせてくれた。}`
-`{ruby:Battler put the necklace around Ange's neck.:戦人はその鍵のついた首飾りを、縁寿の首に掛ける。}`
-`{ruby:"This precious key is yours alone, Ange.":「これは縁寿だけの、大切な鍵だ」}`
+`{ruby:Battler took a large key attached to a necklace:戦人は懐より、首飾りに繋がった大きな}{ruby:out of his pocket, then held it out to Ange.:鍵を取り出し、縁寿に差し出す。}`
+`{ruby:It was large enough:それは戦人の手の平いっぱ}{ruby:to cover Battler's entire palm,:いの大きさがあり、}`
+`{ruby:and little Ange probably wouldn't even be able:幼い縁寿には一握りしても余るほ}{ruby:to wrap her hand all the way around it.:どの大きさが感じられた。}`
+`{ruby:The key glittered gold and:金色に輝き、凝った意匠が}{ruby:had a beautiful, intricate design.:施された美しい鍵。}`
+`{ruby:Its weight alone made it clear:その重みだけで、さぞ大切な鍵に違}{ruby:that this key was something very important.:いないとわからせてくれた。}`
+`{ruby:Battler put the:戦人はその鍵のついた首飾り}{ruby:necklace around Ange's neck.:を、縁寿の首に掛ける。}`
+`{ruby:"This precious key:「これは縁寿だけの}{ruby:is yours alone, Ange.":、大切な鍵だ」}`
 `{ruby:"What's it for......?":「何の鍵なの……？」}`
 `{ruby:"The time to use it will come soon.:「使うべき時は、すぐに来る。}`
-`{ruby:When it does, you'll have to decide for yourself.:そして縁寿が、自分で決めるんだ。}`
+`{ruby:When it does, you'll:そして縁寿が、自分}{ruby:have to decide for yourself.:で決めるんだ。}`
 `{ruby:......Understand?":……わかるね？」}`
-`{ruby:......Of course, she didn't have a clue what Battler was talking about.:……戦人が何を言っているのか、わかるはずもない。}`
-`{ruby:But she did realize that he was telling her to take good care of this key.:でも、この鍵を大切にしろという話だけはわかる。}`
-`{ruby:So, Ange nodded, at least in response to that part.:だから縁寿は、それについてだけ、頷いて見せた。}`
+`{ruby:......Of course, she didn't have a:……戦人が何を言っているの}{ruby:clue what Battler was talking about.:か、わかるはずもない。}`
+`{ruby:But she did realize that he was telling:でも、この鍵を大切にしろと}{ruby:her to take good care of this key.:いう話だけはわかる。}`
+`{ruby:So, Ange nodded, at least:だから縁寿は、それについて}{ruby:in response to that part.:だけ、頷いて見せた。}`
 `{ruby:In her hand, the key had felt heavy.:手に持った時は、ずしりと重いと思ったのに。}`
-`{ruby:However, now that it was around her neck, it felt as light as an ordinary necklace.:首に掛けてみると、普通の首飾り程度の重さにしか感じられなかった。}`
+`{ruby:However, now that it was around her neck,:首に掛けてみると、普通の首飾り程度}{ruby:it felt as light as an ordinary necklace.:の重さにしか感じられなかった。}`
 `{ruby:How strange.:とても不思議だった。}`
 `{ruby:"Okay, let's go.":「さぁ。行こうか」}`
 `{ruby:"Where......?":「どこへ……？」}`
-`{ruby:She had been sure that her brother was about to sit down.:てっきり、兄は腰を下ろすものだと思っていた。}`
-`{ruby:Just a second ago, he had said that he'd tell her what happened on Rokkenjima that day.:兄はついさっき、あの日、六軒島で何があったのかを話そうと言ってくれたのだ。}`
-`{ruby:She had thought that he would tell her here......:それを、ここで語ってくれるのかと思っていた……。}`
+`{ruby:She had been sure that her:てっきり、兄は腰を下ろす}{ruby:brother was about to sit down.:ものだと思っていた。}`
+`{ruby:Just a second ago, he had said that:兄はついさっき、あの日、六軒島で何があっ}{ruby:he'd tell her what happened on Rokkenjima that day.:たのかを話そうと言ってくれたのだ。}`
+`{ruby:She had thought that:それを、ここで語ってくれる}{ruby:he would tell her here......:のかと思っていた……。}`
 `{ruby:"On that day, on that island...:「あの日、あの島で。}`
 `{ruby:What happened?":何があったのか」}`
-`{ruby:"Weren't you about to tell me that, Onii‐chan...?":「お兄ちゃんがそれを、聞かせてくれるんじゃないの…？」}`
+`{ruby:"Weren't you about to:「お兄ちゃんがそれを、聞かせて}{ruby:tell me that, Onii‐chan...?":くれるんじゃないの…？」}`
 `{ruby:"Oh, I will.:「聞かせるとも。}`
-`{ruby:I'll tell the story and let you listen.:話して、縁寿に、聞かせる。}`
-`{ruby:......However, it might be the kind of thing you can't really feel if you just hear about it from someone else.":……でもそれは、縁寿にはただ話を聞いているだけには、感じられないかもしれない」}`
+`{ruby:I'll tell the story:話して、縁寿に、}{ruby:and let you listen.:聞かせる。}`
+`{ruby:......However, it might be the kind of thing you can't:……でもそれは、縁寿にはただ話を聞いている}{ruby:really feel if you just hear about it from someone else.":だけには、感じられないかもしれない」}`
 `{ruby:".........What do you mean...?":「………それはどういうこと…？」}`
-`{ruby:"What you really want...isn't to know what happened on that island on that day.":「縁寿が本当に望んでいるのは、あの日、あの島であったことを、知りたいんじゃない」}`
-`{ruby:......So, ......he does understand, after all.:……やはり、……兄は、わかっていてくれた。}`
-`{ruby:What happened on that island that day?:あの日、あの島で何があったのか。}`
-`{ruby:Trying to answer that question was all I was capable of, so I wished for nothing more.:それを知ろうとすることが、私に出来る限界だから、敢えてその程度を望んだのだ。}`
+`{ruby:"What you really want...isn't to know what:「縁寿が本当に望んでいるのは、あの日、あの}{ruby:happened on that island on that day.":島であったことを、知りたいんじゃない」}`
+`{ruby:......So, ......he does:……やはり、……兄は、わ}{ruby:understand, after all.:かっていてくれた。}`
+`{ruby:What happened on:あの日、あの島で何}{ruby:that island that day?:があったのか。}`
+`{ruby:Trying to answer that question was all I:それを知ろうとすることが、私に出来る限界}{ruby:was capable of, so I wished for nothing more.:だから、敢えてその程度を望んだのだ。}`
 `{ruby:......But, if I could...:……もし、許されるなら。}`
 `{ruby:I'd......want to go there.:私は、……行きたい。}`
 `{ruby:To that island.:あの日、}`
 `{ruby:On that day.:あの島へ。}`
-`{ruby:To Rokkenjima, on that day I couldn't go... To the Ushiromiya family mansion.:私が行けなかったあの日の六軒島へ、右代宮本家のお屋敷へ。}`
+`{ruby:To Rokkenjima, on that day I:私が行けなかったあの日の六軒島}{ruby:couldn't go... To the Ushiromiya family mansion.:へ、右代宮本家のお屋敷へ。}`
 `{ruby:Mom and Dad.:お父さんやお母さん。}`
 `{ruby:All my cousins, all my relatives.:いとこたちや親戚たち。}`
 `{ruby:And...everyone else.:みんな、みんな。}`
-`{ruby:I want to go back......to that island on that day.:私は、あの日のあの島へ、……帰りたいのだ。}`
-`{ruby:So, I've always remained the way I was on that day.:だから、私はいつまでも、あの日の私のままなのだ。}`
-`{ruby:{n}My heart and soul stopped, stuck as a six‐year‐old's forever...:{n}６歳のまま、私の心と魂を、永遠に留めてしまっている…。}`
+`{ruby:I want to go back......to:私は、あの日のあの島へ、}{ruby:that island on that day.:……帰りたいのだ。}`
+`{ruby:So, I've always remained the:だから、私はいつまでも、あ}{ruby:way I was on that day.:の日の私のままなのだ。}`
+`{ruby:{n}My heart and soul stopped,:{n}６歳のまま、私の心と魂を、}{ruby:stuck as a six‐year‐old's forever...:永遠に留めてしまっている…。}`
 `{ruby:"......I want to go back there.":「……帰りたいの、私は」}`
 `{ruby:"I know.":「わかってる」}`
 `{ruby:"Mom, Dad, Onii‐chan.:「お父さんとお母さん、お兄ちゃん。}`
 `{ruby:Everyone.:みんな。}`
-`{ruby:.........I want to go......to where everyone is......":………私は、みんなのところへ、……帰りたい……」}`
-`{ruby:"That's why......I've decided to invite you there.":「だから、……招くことにしたんだ」}`
+`{ruby:.........I want to:………私は、みんなのところ}{ruby:go......to where everyone is......":へ、……帰りたい……」}`
+`{ruby:"That's why......I've decided:「だから、……招くこ}{ruby:to invite you there.":とにしたんだ」}`
 `{ruby:".........Huh...?":「………え…？」}`
 `{ruby:"I'm the Game Master now.:「お兄ちゃんはもう、ゲームマスターなんだ。}`
-`{ruby:Only those who know everything about the game board can open it up and invite pieces in.:ゲーム盤の全てを知る者だけが、ゲーム盤を開き、駒を招くことが出来る。}`
-`{ruby:......So, I'll invite you to come to the game board.":……だから俺は、縁寿をゲーム盤へ、招待する」}`
-`{ruby:"You'll......take me to Rokkenjima......on that day......":「私を、……あの日の六軒島へ、……連れていってくれるの……」}`
+`{ruby:Only those who know everything about the game:ゲーム盤の全てを知る者だけが、ゲーム}{ruby:board can open it up and invite pieces in.:盤を開き、駒を招くことが出来る。}`
+`{ruby:......So, I'll invite you to:……だから俺は、縁寿をゲ}{ruby:come to the game board.":ーム盤へ、招待する」}`
+`{ruby:"You'll......take me to:「私を、……あの日の六軒島へ、…}{ruby:Rokkenjima......on that day......":…連れていってくれるの……」}`
 `{ruby:"That's right.:「あぁ。}`
-`{ruby:I'll invite you to the Rokkenjima of 1986.":縁寿を、１９８６年の六軒島へ、招待しよう」}`
+`{ruby:I'll invite you to:縁寿を、１９８６年の六軒}{ruby:the Rokkenjima of 1986.":島へ、招待しよう」}`
 `{ruby:"Will I be able to see them?:「会えるの？}`
 `{ruby:Everyone......?":みんなに……」}`
 `{ruby:"Of course.":「もちろん」}`
-`{ruby:"Even though......my memory is vague, ......and I can't remember anyone's faces clearly...":「私、……もう記憶もおぼろげで、……みんなの顔、はっきりと思い出せないのに…」}`
+`{ruby:"Even though......my memory is vague, ......and:「私、……もう記憶もおぼろげで、……みんな}{ruby:I can't remember anyone's faces clearly...":の顔、はっきりと思い出せないのに…」}`
 `{ruby:"You'll remember soon enough.:「すぐに思い出すさ。}`
-`{ruby:...And, though it'll be a reunion after twelve years for you,:…そして、縁寿にとっては１２年ぶりの再会でも。}`
-`{ruby:......it'll only have been a short gap for the rest of us.:……俺たちにとっては、しばらくぶりでしかないんだ。}`
+`{ruby:...And, though it'll be a:…そして、縁寿にとっては１}{ruby:reunion after twelve years for you,:２年ぶりの再会でも。}`
+`{ruby:......it'll only have been a short:……俺たちにとっては、しばら}{ruby:gap for the rest of us.:くぶりでしかないんだ。}`
 `{ruby:......Everyone will welcome you.:……みんな歓迎する。}`
-`{ruby:Everyone will welcome you back from the distant future.":１２年の、遠い未来からようやく帰ってきた縁寿を、みんな歓迎してくれる」}`
-`{ruby:"Will I......be able to stay there forever......?":「私は、……いつまでもそこにいられるの……？」}`
-`{ruby:This way, ......I'll be able to be with everyone forever.:これで、永遠に私は、……みんなと一緒にいられる。}`
-`{ruby:{n}This is the goal I'm supposed to reach......:{n}そここそが、私の辿り着くべき場所……。}`
+`{ruby:Everyone will welcome you:１２年の、遠い未来からようやく帰ってき}{ruby:back from the distant future.":た縁寿を、みんな歓迎してくれる」}`
+`{ruby:"Will I......be able:「私は、……いつまでもそこ}{ruby:to stay there forever......?":にいられるの……？」}`
+`{ruby:This way, ......I'll be able:これで、永遠に私は、……み}{ruby:to be with everyone forever.:んなと一緒にいられる。}`
+`{ruby:{n}This is the goal:{n}そここそが、私の辿}{ruby:I'm supposed to reach......:り着くべき場所……。}`
 `{ruby:"Ange, listen to me carefully.":「縁寿、よくお聞き」}`
-`{ruby:But Battler spoke in an admonishing tone.:しかし戦人は、諭すように言う。}`
-`{ruby:{n}As though warning me that this dream would not be granted...:{n}それは叶わぬ夢だと、釘を刺すかのように…。}`
-`{ruby:"The Rokkenjima family conference only lasts one night.:「六軒島の親族会議は、一泊で終わる。}`
-`{ruby:Although, the typhoon stopped the boat from coming that day, so it went on for one night more.":あの日は台風だったから、船の都合で二泊だったけれどね」}`
-`{ruby:"So, when the typhoon passes, ......I'll have to leave the island again...?":「それが過ぎたら、……私は島から、帰らなくてはならないの…？」}`
+`{ruby:But Battler spoke:しかし戦人は、諭す}{ruby:in an admonishing tone.:ように言う。}`
+`{ruby:{n}As though warning me that:{n}それは叶わぬ夢だと、}{ruby:this dream would not be granted...:釘を刺すかのように…。}`
+`{ruby:"The Rokkenjima family conference:「六軒島の親族会議は}{ruby:only lasts one night.:、一泊で終わる。}`
+`{ruby:Although, the typhoon stopped the boat from coming that:あの日は台風だったから、船の都}{ruby:day, so it went on for one night more.":合で二泊だったけれどね」}`
+`{ruby:"So, when the typhoon passes, ......I'll:「それが過ぎたら、……私は島から、}{ruby:have to leave the island again...?":帰らなくてはならないの…？」}`
 `{ruby:"......Not exactly.:「……少し違う。}`
 `{ruby:The decision is yours, Ange.":それを決めるのも、縁寿なんだ」}`
 `{ruby:"........................":「……………………」}`
 `{ruby:"You have to decide that yourself.":「縁寿が、それを決める」}`
 `{ruby:......I understand, of course.:……もちろん、わかってる。}`
-`{ruby:I don't exist on that island on that day.:あの日、あの島に、私はいない。}`
-`{ruby:It's a miracle just to be invited there like this.:その私を、あの日のあの島に招いてくれるだけで、……これは、奇跡なのだ。}`
-`{ruby:Just the two days before the typhoon passes.:台風が過ぎ去るまでの、ほんの二日間。}`
-`{ruby:Just getting those two days to myself is already the sort of miracle that will never come again.:その、ほんの二日間をくれるだけでも、それは得がたい、二度とない、奇跡。}`
-`{ruby:If I'm greedy enough to ask for more, that faint miracle might vanish.:それ以上を欲張ったら、そのわずかな奇跡が、爆ぜて消えてしまうかもしれない。}`
-`{ruby:......Even though I thought this, my young heart, which was still six years old, wasn't satisfied with that short‐lived miracle...:……そうは思っても、６歳のまま止まった私の幼い心は、そのわずかな時間の奇跡に満足しようとしない…。}`
+`{ruby:I don't exist on:あの日、あの島に、}{ruby:that island on that day.:私はいない。}`
+`{ruby:It's a miracle just to:その私を、あの日のあの島に招いてくれる}{ruby:be invited there like this.:だけで、……これは、奇跡なのだ。}`
+`{ruby:Just the two days:台風が過ぎ去るまでの}{ruby:before the typhoon passes.:、ほんの二日間。}`
+`{ruby:Just getting those two days to myself is already:その、ほんの二日間をくれるだけでも、そ}{ruby:the sort of miracle that will never come again.:れは得がたい、二度とない、奇跡。}`
+`{ruby:If I'm greedy enough to ask:それ以上を欲張ったら、そのわずかな奇跡が}{ruby:for more, that faint miracle might vanish.:、爆ぜて消えてしまうかもしれない。}`
+`{ruby:......Even though I thought this, my young heart, which was:……そうは思っても、６歳のまま止まった私の幼い心は、}{ruby:still six years old, wasn't satisfied with that short‐lived miracle...:そのわずかな時間の奇跡に満足しようとしない…。}`
 `{ruby:"I don't want to leave.":「帰りたくない」}`
 `{ruby:".........I know.":「………わかるよ」}`
 `{ruby:"I'll be with everyone forever.:「いつまでも、みんなと一緒にいる。}`
 `{ruby:I'll stay with my family.:家族で一緒にいる。}`
-`{ruby:Even if you tell me I have to head back, ......I'll stay on Rokkenjima.":お兄ちゃんが、もう帰らなくちゃって言っても……、私は六軒島に残る」}`
-`{ruby:"You can stay or you can leave, but it's not as though one of those is "the right choice".:「残るのが正しいとか、帰るのが正しいとか。}`
+`{ruby:Even if you tell me I have:お兄ちゃんが、もう帰らなくちゃって言}{ruby:to head back, ......I'll stay on Rokkenjima.":っても……、私は六軒島に残る」}`
+`{ruby:"You can stay or you can leave, but it's:「残るのが正しいとか、帰}{ruby:not as though one of those is "the right choice".:るのが正しいとか。}`
 `{ruby:That's not how it is, Ange.":そういうのじゃないんだよ、縁寿」}`
-`{ruby:"......Even so, you'll let me choose......?":「……それでも、それを私が選ぶの……？」}`
+`{ruby:"......Even so, you'll:「……それでも、それを}{ruby:let me choose......?":私が選ぶの……？」}`
 `{ruby:"Yes.:「そうだよ。}`
 `{ruby:That's what the key is for.":その為の鍵が、それなんだよ」}`
-`{ruby:Battler touched the glittering key that hung from Ange's neck.:戦人は、縁寿の胸元で金色に輝くそれを、そっと撫でる。}`
+`{ruby:Battler touched the glittering key:戦人は、縁寿の胸元で金色に輝}{ruby:that hung from Ange's neck.:くそれを、そっと撫でる。}`
 `{ruby:"I've...already made my decision.":「私の答えはもう、決まってるよ」}`
 `{ruby:"You don't have to decide now.:「今は選ばなくていい。}`
 `{ruby:The time to choose will come soon.:選ぶべき時は、すぐに訪れるから。}`
-`{ruby:......When it does, you must use your honest heart to choose how you'll use that key.":……その時の、縁寿の素直な心で、その鍵をどう使うか、選びなさい」}`
+`{ruby:......When it does, you must use your honest:……その時の、縁寿の素直な心で、そ}{ruby:heart to choose how you'll use that key.":の鍵をどう使うか、選びなさい」}`
 `{ruby:"...........................":「………………………」}`
-`{ruby:"You don't need to listen to anything I tell you.:「お兄ちゃんの言うことなんか何も聞かなくてもいい。}`
-`{ruby:You're free to decide however you like.:縁寿のわがままなように、答えを決めても構わない。}`
+`{ruby:"You don't need to listen:「お兄ちゃんの言うことなんか}{ruby:to anything I tell you.:何も聞かなくてもいい。}`
+`{ruby:You're free to:縁寿のわがままなように、答}{ruby:decide however you like.:えを決めても構わない。}`
 `{ruby:............However,:…………でも。}`
-`{ruby:if you're a good kid, and if you can trust your big brother...":もしも縁寿が良い子で、お兄ちゃんを信用できるなら」}`
+`{ruby:if you're a good kid, and:もしも縁寿が良い子で、お兄ち}{ruby:if you can trust your big brother...":ゃんを信用できるなら」}`
 `{ruby:"......Then what......?":「……信用できる、なら……？」}`
 `{ruby:"Then believe everything I tell you.":「お兄ちゃんの言うことは、すべて信じなさい」}`
 `{ruby:"Believe......everything...":「すべて、……信じる…」}`
-`{ruby:"That will lead to the best choice for you.:「それが縁寿にとって、一番良い選択になるから。}`
-`{ruby:Listen to my words and believe everything I say.:お兄ちゃんの言葉に耳を傾け、そしてすべてを信じなさい。}`
+`{ruby:"That will lead to:「それが縁寿にとって、一番}{ruby:the best choice for you.:良い選択になるから。}`
+`{ruby:Listen to my words:お兄ちゃんの言葉に耳を傾け、そ}{ruby:and believe everything I say.:してすべてを信じなさい。}`
 `{ruby:......Can you do that?":……出来るかい？」}`
 `{ruby:"............I don't know.":「…………わかんない」}`
 `{ruby:"That's good enough.:「それでもいい。}`
 `{ruby:Just believe whatever you want to.:信じたいものだけを信じればいい。}`
 `{ruby:That's also for you to decide.":それも、縁寿が決めていいんだよ」}`
 `{ruby:"......If I don't believe you,:「……お兄ちゃんを信じないと。}`
-`{ruby:......will I wake up from this dream...?":……この夢は、醒めてしまうの…？」}`
+`{ruby:......will I wake:……この夢は、醒めて}{ruby:up from this dream...?":しまうの…？」}`
 `{ruby:"That won't happen.:「そんなことはない。}`
 `{ruby:So don't worry.":だから安心していいよ」}`
-`{ruby:For some reason, Ange was suspicious of her brother...and scared of him.:縁寿は何となく、兄を疑い、怯えていた。}`
-`{ruby:Her wish was to remain on that island on that day, together with her family, forever.:彼女の希望は、あの日のあの島に、永遠に留まり、家族といつまでも一緒にいること。}`
-`{ruby:......She was afraid that, once she got her two miraculous days,:……奇跡の二日間を得たなら、それに納得し、１２年後の未来にひとりで帰れと、}`
-`{ruby:......her brother might tell her to be satisfied with those, and ask her to return to twelve years in the future all alone.:……兄がそんなことを言い出しはしないかと、彼女は怯えていた。}`
+`{ruby:For some reason, Ange was suspicious:縁寿は何となく、兄を疑}{ruby:of her brother...and scared of him.:い、怯えていた。}`
+`{ruby:Her wish was to remain on that island:彼女の希望は、あの日のあの島に、永遠に留ま}{ruby:on that day, together with her family, forever.:り、家族といつまでも一緒にいること。}`
+`{ruby:......She was afraid that, once:……奇跡の二日間を得たなら、それに納得し}{ruby:she got her two miraculous days,:、１２年後の未来にひとりで帰れと、}`
+`{ruby:......her brother might tell her to be satisfied with those, and:……兄がそんなことを言い出しはし}{ruby:ask her to return to twelve years in the future all alone.:ないかと、彼女は怯えていた。}`
 `{ruby:"I already told you.:「さっきも言ったと思う。}`
 `{ruby:......You can go, or you can stay.:……残るのが正しいとか、帰るのが正しいとか。}`
 `{ruby:There is no right decision.:そういうのはないんだよ。}`
 `{ruby:That's for you to decide.:それを、縁寿が決める。}`
-`{ruby:And you don't need to make your decision right now.":そしてそれは、今すぐ決めなくていい」}`
-`{ruby:"And no one will force me to make either choice...?":「そのどちらかの選択を、誰も強要しない…？」}`
+`{ruby:And you don't need to:そしてそれは、今すぐ}{ruby:make your decision right now.":決めなくていい」}`
+`{ruby:"And no one will force:「そのどちらかの選択を、}{ruby:me to make either choice...?":誰も強要しない…？」}`
 `{ruby:"Of course.":「もちろん」}`
-`{ruby:"You won't tell me.........to go back to the future......?":「お兄ちゃんは私に、未来へ帰れなんて、………言わない……？」}`
-`{ruby:".........There is a choice that I want you to choose.:「………お兄ちゃんは、縁寿に選んでほしいある選択がある。}`
-`{ruby:......I want you to reach that decision by yourself.:……それを縁寿が自発的に選んでくれることを望んでる。}`
-`{ruby:So, though I hope you make a certain choice, I will respect your decision.":だから望んではいるが、縁寿の選択は尊重したい」}`
+`{ruby:"You won't tell me.........to:「お兄ちゃんは私に、未来へ帰れな}{ruby:go back to the future......?":んて、………言わない……？」}`
+`{ruby:".........There is a choice that:「………お兄ちゃんは、縁寿に選}{ruby:I want you to choose.:んでほしいある選択がある。}`
+`{ruby:......I want you to:……それを縁寿が自発的に選ん}{ruby:reach that decision by yourself.:でくれることを望んでる。}`
+`{ruby:So, though I hope you make a:だから望んではいるが、縁寿}{ruby:certain choice, I will respect your decision.":の選択は尊重したい」}`
 `{ruby:"And I've already told you.:「私もさっき言った。}`
 `{ruby:I've already made my choice.":私の答えは、もう決まっているよ」}`
 `{ruby:"And I told you.:「俺もさっき言った。}`
 `{ruby:Now isn't the time to choose.":今は、それを選択する時じゃない」}`
 `{ruby:"When will it be time?":「それはいつ？」}`
 `{ruby:"The key will tell you.":「その鍵がいずれ、教えてくれるよ」}`
-`{ruby:The large, gold key hung from Ange's neck.:縁寿の首に掛かる、大きな金色の鍵。}`
+`{ruby:The large, gold key:縁寿の首に掛かる、大}{ruby:hung from Ange's neck.:きな金色の鍵。}`
 `{ruby:Her small hand held it tightly......:それを、縁寿の小さな手が、ぎゅうっと握り締める……。}`
-`{ruby:.........At that moment, she noticed a book lying on the chapel's altar.:………その時、礼拝堂の祭壇の上に置かれた、一冊の本が目に入る。}`
-`{ruby:The book had a lock on it, and was sealed so that it could not be read without a key.:その本は、自らに錠前を掛け、鍵がなければ読めないように封印されていた。}`
-`{ruby:Ange looked between the key hanging at her chest and the book on the altar.:縁寿は、自分の胸元の鍵と、祭壇のその本を、じっと見比べる。}`
-`{ruby:".........Will this key unlock that book?":「………あの本は、この鍵で開くの？」}`
+`{ruby:.........At that moment, she noticed a:………その時、礼拝堂の祭壇の上に置}{ruby:book lying on the chapel's altar.:かれた、一冊の本が目に入る。}`
+`{ruby:The book had a lock on it, and was sealed:その本は、自らに錠前を掛け、鍵がなけれ}{ruby:so that it could not be read without a key.:ば読めないように封印されていた。}`
+`{ruby:Ange looked between the key hanging at:縁寿は、自分の胸元の鍵と、祭壇の}{ruby:her chest and the book on the altar.:その本を、じっと見比べる。}`
+`{ruby:".........Will this key:「………あの本は、こ}{ruby:unlock that book?":の鍵で開くの？」}`
 `{ruby:"Don't touch that.":「あの本は駄目だ」}`
-`{ruby:His sudden, forceful response made Ange flinch.:ぴしゃりと言われ、縁寿は少し面食らう。}`
-`{ruby:Battler, realizing he had scared Ange, softened his expression.:戦人は、縁寿を怖がらせてしまったことに気付き、表情を和らげて言う。}`
+`{ruby:His sudden, forceful:ぴしゃりと言われ、縁寿}{ruby:response made Ange flinch.:は少し面食らう。}`
+`{ruby:Battler, realizing he had:戦人は、縁寿を怖がらせてしまったこと}{ruby:scared Ange, softened his expression.:に気付き、表情を和らげて言う。}`
 `{ruby:"Come on, let's go.:「さぁ、行こう。}`
-`{ruby:.........I'm inviting you to come back to October 4th, 1986.":………１９８６年１０月４日に、縁寿を招待するよ」}`
+`{ruby:.........I'm inviting you to come:………１９８６年１０月４日}{ruby:back to October 4th, 1986.":に、縁寿を招待するよ」}`
 `{ruby:"Okay.":「うん」}`
-`{ruby:Battler held out his hand, and Ange gripped it tightly.:戦人が手を伸ばすと、縁寿は固くそれを握る。}`
+`{ruby:Battler held out his hand,:戦人が手を伸ばすと、縁寿}{ruby:and Ange gripped it tightly.:は固くそれを握る。}`
 `{ruby:Then, they started walking.:そして二人は、歩き出す。}`
-`{ruby:A brilliant light lay beyond the chapel's door.:礼拝堂の扉の向こうには、眩い光が。}`
-`{ruby:That blinding light peeked in through the cracks around the door.:目が潰れそうになるほどの光が、扉の隙間から鋭く入ってくる。}`
-`{ruby:......The brother and sister began to walk through to the other side......:……その向こうに、二人は歩いていく……。}`
+`{ruby:A brilliant light lay:礼拝堂の扉の向こうに}{ruby:beyond the chapel's door.:は、眩い光が。}`
+`{ruby:That blinding light peeked in:目が潰れそうになるほどの光が、扉}{ruby:through the cracks around the door.:の隙間から鋭く入ってくる。}`
+`{ruby:......The brother and sister began to:……その向こうに、二人}{ruby:walk through to the other side......:は歩いていく……。}`
 `{ruby:{a:c::{a:c:}`
 `{ruby:Welcome back, Ange.:お帰り、縁寿。}`
 `{ruby:And after this, that will be it.}:そしてこれで最後なんだ。}}`
 `{ruby:{a:c::{a:c:}`
-`{ruby:Just for you, I'll open this game board...{n}......one final time......}:このゲーム盤を、縁寿のために、{n}……最後にもう一度だけ開く……。}}`
+`{ruby:Just for you, I'll open:このゲーム盤を、縁寿のために、{n}}{ruby:this game board...{n}......one final time......}:……最後にもう一度だけ開く……。}}`
