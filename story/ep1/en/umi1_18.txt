@@ -1,659 +1,659 @@
-`「おー、みんな『うみねこのなく頃に』、お疲れさん！"Hey, everyone, good job finishing "Umineko no Naku Koro ni"!`
-`　やれやれ、わけがわかんない内に物語が終わっちまったなぁ！」 Man, I still didn't have a clue what was going on when the story ended!"`
-`「つまり何だ？"So just what happened?`
-`　あれは結局、犯人は暴けず時間切れのバッドエンドでしたーってことなのか？」 Was that basically the "bad ending", where time runs out before the culprit can be exposed?"`
-`「うー。"Uu.`
-`きっとバッドエンド。 Definitely a bad ending.`
-`うー」 Uu."`
-`「そうだね。"I think so too.`
-`一日目の夜に真里亞ちゃんが読んだ、ベアトリーチェの手紙に、碑文の謎を解いてみろとちゃんと予告してたもんね。 {f:5:Beatrice}'s letter, which Maria‐chan read on the first day, did tell us in advance to solve the riddle of the epitaph.`
-`僕たちは自衛や犯人を探るのに忙しくて、全然その謎に挑まなかったし」 We were all so busy trying to protect ourselves and look for the culprit that we didn't even take a shot at it."`
-`「………そうですね。".........Yes, that's true.`
-`ちゃんと碑文の謎に挑んでいたら、違う結末もあったのでしょうか」 If we had actually tried to solve the riddle, I'm sure things would have ended differently."`
-`「それはどうかな。"I wonder about that.`
-`紗音ちゃんもお疲れ！」 Shannon‐chan, you did a good job too!"`
-`「お茶の給仕なんてしなくていいぜ。"You don't have to be our waitress and serve tea.`
-`何しろここはお疲れさま会なんだからよ。 After all, this is a wrap party.`
-`酷ぇ目に遭った者同士、仲良く傷の舐めあいをしよぅぜ〜〜！ As a group of people who met a horrible fate, let's all get along and lick each other's wou~~nds!`
-`　べろべろべろ〜！！」 Licklickli~ck!!"`
-`「酷ぇ目って言ったら、紗音がぶっちぎりだったぜ？"Speaking of a horrible fate, Shannon beats the rest of us hands down, doesn't she?`
-`　綺麗どころのキャラだから、てっきり最後まで生き残るかと思ったら、 She was such a beautiful character, so I thought she'd definitely survive until the very end,`
-`一番最初に殺されるし、しかも、何だっけ？ but she was killed right in the beginning, and on top of that...what was it?`
-`　顔面を半分砕かれてたんだっけ？ Half of her face was smashed, right?`
-`　最悪だよなぁ！」 That's the worst!"`
-`「…………そういうお役目でしたら、……その、仕方ありませんし…」"............That was my role, so, umm......there was no way around it..."`
-`「…姉さんが気にすることはないよ。"...Nee‐san, it's nothing for you to worry about.`
-`お嬢様方も、ラストのエピローグを見る限り、相当悲惨な最期を遂げられたようだしね」 Judging by the final epilogue, even Milady and the others met with a considerably tragic end."`
-`「あっはっはっは…、どうもそうみたいだね。"Ahahaha... It seems that way.`
-`何だか、全身を食いちぎられてばらばらにされたみたいな、恐ろしい描写があったような気がするよ」 I think I remember seeing this horrible picture, kind of like my entire body had been eaten apart and dismembered."`
-`「それを言ったら、嘉音くんの最期が一番かっこよかったと思うぜぇ？"Speaking of which, don't you think Kanon‐kun's last moments were the coolest?`
-`　返り討ちとは言え、犯人と一騎打ちだろ？ Even though he had the tables turned on him, it was a showdown with the culprit, right?`
-`　俺らのよくわからん最期よりは数段マシだぜ〜？」 It's a whole bunch better than our confusing last moments!"`
-`「………結局、何も歯が立ちませんでしたが」".........Though, in the end, I was no match for her."`
-`「でも、…嘉音くんの死は大きなヒントになったと思うな。"Still, ...I think that Kanon‐kun's death was a big hint.`
-`だって、あのせいで、１９人目の存在が明らかになったんだから」 I mean, because of that, it became clear that a 19th person existed."`
-`「そうだね。"Yes.`
-`あの時点では全員の所在が明らかだった。 At that time, everyone's location was obvious.`
-`だから嘉音くんを殺せるのは、未知の１９人目しかありえない」 So it was impossible for anyone other than some unknown 19th person to kill Kanon‐kun."`
-`「うー！"Uu!`
-`　真里亞は最初からベアトリーチェだって、ずーっと言ってるー。 I did say it was {f:5:Beatrice} from the beginning, over and oooover.`
-`うー！」 Uu!"`
-`「……信じたくはねぇけど、ベアトリーチェを名乗る、魔女が犯人ってことになるんだろうぜ」"......I don't wanna believe it, but that does prove the culprit was a witch calling herself {f:5:Beatrice}."`
-`「そうですよね…。"That's right...`
-`人にはできない、不思議なことがいっぱいありましたし…」 There were many strange things that happened which a human couldn't do..."`
-`「うー。絵羽伯母さんの密室殺人とか、魔女にしかできない。"Uu. Only a witch could do things like Auntie Eva's locked‐room murder.`
-`人間にはできない！ A human couldn't do that!`
-`　うー！」 Uu!"`
-`「…………１９人目が存在することが明らかで、しかもその人物は人間では考えられない力を持っている」"............Not only is it clear that a 19th person exists, but it is also obvious that this person holds a power that humans can't even imagine."`
-`「となれば、その人物をベアトリーチェと呼んでも、差し支えはねぇだろうぜ」"In that case, I don't think there's anything wrong with calling this person {f:5:Beatrice}."`
-`「…多分、僕たちはラストで、出会っているよ。"...We probably met at the very end.`
-`…黄金の魔女にね」 ...Met with the Golden Witch."`
-`「だから真里亞は、ベアトリーチェがいるーってずっと言ってる。"That's why I kept telling you {f:5:Beatrice} exists.`
-`みんなずっと信じなかったから駄目だった。 It all went bad because no one ever believed.`
-`うー！ Uu!`
-`　信じないと奇跡は起きないって、友達の魔女も言ってる！ Even one of my witch friends says miracles won't happen if you don't believe!`
-`　うー！」 Uu!"`
-`「そうですね。"That's right.`
-`ベアトリーチェさまは、敬う者に寛大だそうですし」 {f:5:Beatrice}‐sama is generous to those who respect her."`
-`「……真里亞さまは、恐ろしい事件が次々と起こっていっても、最後までベアトリーチェさまの脅威からは外されていたように思います」"......I feel as if, despite the fact that horrible incidents kept occurring one after the other, Maria‐sama wasn't in danger from {f:5:Beatrice}‐sama until the end."`
-`「真里亞は、一番の最初っからベアトリーチェを信じてたもんな。"Maria did believe in {f:5:Beatrice} from the very beginning.`
-`…でも、それじゃあ、同じように信じてた嘉音くんたちも殺されたのは納得がいかないぜ？」 ...But then, so did Kanon‐kun and the others, so how do you explain why they were all killed?"`
-`「……それは多分、ベアトリーチェさまなりのご都合があられたのでしょう」"......{f:5:Beatrice}‐sama probably had her reasons."`
-`「碑文の歌が、ベアトリーチェさまの復活の儀式を意味するものなら、大勢の生贄が必要だった。"If the epitaph poem represented {f:5:Beatrice}‐sama's resurrection ritual, then she needed many sacrifices.`
-`……そのひとりにご指名をいただけたということなのでしょう」 ......He must simply have been designated to be one of those."`
-`「…紗音ちゃんは、酷い最期だったよ…。"...Shannon‐chan, you met a horrible end...`
-`せめて、もう少し綺麗で安らかな方法もあったろうに」 At the very least, I wish your death could have been more peaceful and pretty."`
-`「………まぁその、…痛かったわけじゃないですし…。".........Umm, well, ...it's not like it hurt...`
-`それにほら。 Besides,`
-`今はこうして全然平気ですから、へっちゃらです」 as you can see, right now, I'm perfectly fine, so don't worry."`
-`紗音が劇中では砕かれていた頬を撫でて見せると、みんなは微笑ましそうに大笑いしました。Shannon proved this by stroking her cheek which had been crushed during the story, and everyone laughed out loud, smiling.`
-`「でも、こう言っちゃ何だけど、…僕はてっきり本格ミステリーだと思ってたからね。"Well, it feels a bit weird saying this, ...but I was sure this story would be in the standard mystery genre.`
-`ファンタジーだとわかってちょっと驚いてるよ。 I'm a little surprised to find out that it's fantasy.`
-`遺産を巡る外界から隔絶された孤島の洋館ものなんて、推理ものの王道だと思ってたからさ」 After all, a story revolving around an inheritance, set on a Western‐style mansion shut away on an isolated island, ...I thought that was the classic formula for mysteries."`
-`「……うー。"......Uu.`
-`ファンタジーじゃないい！ It's not fantasyyyy!`
-`　ベアトリーチェは“い”るのー！ {f:5:Beatrice} "exiiists"!`
-`　うー」 Uu."`
-`「………えぇ、わかっています。".........Yes, we know.`
-`ベアトリーチェさまは“い”らっしゃいます」 {f:5:Beatrice}‐sama does "exist"."`
-`「そうですね。"That's right.`
-`……ベアトリーチェさまは“い”らっしゃいます」 ......{f:5:Beatrice}‐sama does "exist"."`
-`「…悔しいが認めざるを得ねぇよな。"...I hate to admit it, but I've got no choice.`
-`１９人目の魔女の関与は明らかだしなぁ…！」 Because it's obvious that a 19th person, a witch, was involved...!"`
-`「人間には不可能なことをいくつもやってのけてる。"She pulled off many things that would be impossible for humans.`
-`劇中の僕らは、それを否定したくてあれこれと考えたけれども」 During the story, we thought of all kinds of things, trying to deny that."`
-`「…今なら、はっきり言えるよ。"...But now I can say it clearly.`
-`どれもいずれも、全て、人間には不可能な犯罪だった。 Each one of them, all of them, were crimes impossible for a human.`
-`……魔法の力を使いこなす、魔女のベアトリーチェにしか為し得ない犯行だよ」 ......Those crimes would be impossible to carry out unless it was the witch {f:5:Beatrice} using all of the power magic could provide."`
-`「犯人は魔女だった。"The culprit was a witch.`
-`その一点において、何の曇りもねぇぜ。 That point is perfectly clear.`
-`ベアトリーチェさま万歳ってわけだ。 Long live {f:5:Beatrice}‐sama.`
-`はっははははは」 Hahahahahaha."`
-`「うー。"Uu.`
-`みんな信じた。 Everyone believed.`
-`真里亞は嬉しい。 I'm happy.`
-`うー！」 Uu!"`
-`「……神さまも魔女も、怖がる人には恐ろしい存在かもしれませんけど、"......Gods and witches might seem terrifying to people who are frightened of them,`
-`信じ、敬う人にとっては、きっと慈しみのある存在に違いないと思います」 but I think they must have affection for those who believe in and respect them."`
-`「…………姉さんの、言う通りだと思います」"............I think it's just as you say."`
-`「じゃあさ、せっかく殺人事件ごっこは終わったわけだし。"So, now we're all done with playing with murder cases.`
-`ここで気を取り直して、ちゃんとベアトリーチェの言う通り、碑文の謎に挑戦してみねぇか？」 Now's the time to pull ourselves together and try hard to solve the riddle of the epitaph, just like {f:5:Beatrice} said, right?"`
-`「うー！"Uu!`
-`　賛成！ Agreed!`
-`　きっとベアトリーチェも喜ぶ」 {f:5:Beatrice} will definitely be happy."`
-`「ははははは…。"Hahahahaha...`
-`劇中ではみんな無視してたからね、あの手紙は」 We all ignored that letter during the story, after all."`
-`「……せっかく、出題されたのに、ほとんど無視されて。"......Even though it was thrust right in front of us, we almost completely ignored it.`
-`何だか可哀想ですね、ベアトリーチェさま」 I kind of feel sorry for {f:5:Beatrice}‐sama."`
-`「碑文のメモがある！"I have a memo with the epitaph on it!`
-`　みんなで謎解き、みんなで謎解き…！」 Let's all solve the puzzle, let's all solve the puzzle...!"`
-`「物語は多分、この時点から間違ってたんだろうね」"This story probably went wrong ever since that time."`
-`「………そうかもしれません。".........That may be so.`
-`私たちは、ベアトリーチェさまのご指示通り、碑文の謎に挑むべきだったのかもしれません」 Maybe we should have tried solving the epitaph's riddle from the beginning, like {f:5:Beatrice}‐sama said."`
-`「まぁ、すっかり遅くなっちまったけどな。"Well, it's a little late now.`
-`今からでも再挑戦するってことで、魔女さまには許してもらおうぜ。 Even so, let's try solving it now and see if the witch forgives us.`
-`ささ、碑文の謎に挑戦してみよう。 Let's go, let's try to solve the riddle of the epitaph.`
-`……何々、“懐かしき、故郷を貫く鮎の川”…」 ......Here we are, "Behold the sweetfish river, running through my beloved home of old"..."`
-`真里亞がテーブルの上に、碑文を記したノートのページを開くと、As Maria put her notebook on the table, and opened to the page where the epitaph was written,`
-`みんなはそこを覗き込みながら、楽しげに碑文の謎をあれこれ推測して賑わうのでした。 everyone peered closely at it, and had fun and lively discussion as they started guessing this and that about the riddle.`
-`紅茶の香りと、焼きたてのクッキーのバニラの香りが、それに彩を加える、とても楽しげでゆったりとした時間……。Surrounded by the smell of the black tea and the freshly baked vanilla cookies, they spent the time comfortably and happily......`
-`「………………ちょいと待てよ、お前ら」"..................Wait a second, you guys."`
-`なのに、戦人が水を差すような言い方で、それを口にしました。Battler said, in a tone that ruined the mood.`
-`見れば表情はどこか不愉快そう。His expression looked a little unhappy.`
-`{n}この楽しい時間の何が気に入らないというのでしょうか。{n}What could he not like about all of this fun?`
-`「…お前ら、さっきから聞いてりゃ、何を思考停止してんだ？"...I've been listening to you guys, and—why did you all stop thinking?`
-`　何で魔女の仕業ってことで決まってんだよ。 Why are you so sure that the witch was behind all of this?`
-`…そんなのあるわきゃねぇじゃねぇかよ」 ...Don't you realize that stuff like that doesn't exist?"`
-`戦人のその一言に、…お茶会の楽しい空気があっという間になくなってしまいました。With just those words, ...the happy atmosphere of the tea party disappeared in no time at all.`
-`譲治も、朱志香も。George and Jessica.`
-`紗音も、嘉音も。 And Shannon and Kanon.`
-`そして真里亞も。 And Maria.`
-`……戦人は何を変なことを言い出すんだろうと、きょとんとしています。......All of them stared blankly, wondering why Battler was saying such weird things.`
-`愚かで身の程知らずの戦人も、さすがに自分が失言したことに気付きました。Even the foolish and arrogant Battler noticed he had said the wrong thing.`
-`「…だ、………だって。"...W‐.........well, come on.`
-`明らかに人間には無理な事件だったじゃないか」 Isn't it clear that these crimes were impossible for a human?"`
-`「そ、そうだぜ、そうだぜ。"Y‐yeah, yeah!`
-`…どの事件も人間には無理なことばかり」 ...None of the cases would have been possible for a human."`
-`「そうですよね…。"That's right...`
-`だって、人間じゃ、説明がつかないことばかりじゃないですか…」 After all, wasn't it full of things that you couldn't explain using humans...?"`
-`「…戦人さまが、何を言い出すのか、僕にはわかりません」"...I don't understand what you're saying, Battler‐sama."`
-`「お…、お前たちこそ、何を口々に言い出すのかさっぱりだぜ。"I, I'm the one who doesn't have a clue what {i:you guys} are talking about!`
-`こんなの人間が起こした事件に決まってるじゃねぇかよ。 Isn't it obvious that humans committed these crimes?`
-`魔女なんているわけねぇだろ…？」 There's obviously no such thing as witches, right...?"`
-`「じゃ、…じゃあ。"Th‐...then...`
-`…私が倉庫の中で殺されてた時、顔の半分を酷いことにされていましたが、 ...What about when I was killed in the storehouse, and something horrible was done to half of my face?`
-`……あれは人間が犯人なら、どう再現するというのですか…？」 ......If the culprit was human, how could they have accomplished it...?"`
-`「…そりゃ、"...Well...`
-`……まぁ、 ......I mean...`
-`どうやったらあんな酷ぇことができるのか、ちょっと想像はつかねぇけどよ」 It's hard to imagine how they could've done something that awful."`
-`「でも、あそこは薔薇庭園の倉庫だぜ？"But that was the rose garden storehouse, right?`
-`　きっと中に妙な道具とかがいくらでもあっただろ。 I'm sure there were plenty of weird tools in there.`
-`わかんねぇけどよ、例えば、電ノコとかグラインダーとか、そんな電動工具でも使ったのかもしれねぇじゃないか」 Don't ask me, but...they could've used some electrical tool like a grinder or an electric saw, couldn't they?"`
-`「……………そ、"...............Th‐`
-`………それは……、.........that's......`
-`…その…」...umm..."`
-`「じゃあ、戦人…。"Okay, Battler...`
-`祖父さまが密室の書斎から消え去っていたのはどう説明するんだよ…。 Then how do you explain Grandfather's disappearance from the locked room of his study...?`
-`扉は封印されていたのに、祖父さまは忽然と消え去ってたぜ…？」 Grandfather disappeared all of a sudden even though the door was sealed, remember...?"`
-`「その話は劇中でも出ただろ。"We talked about that during the story, too.`
-`祖父さまが何らかの方法を使えば、レシートを誤魔化すことは不可能じゃない。 It's not impossible that Grandfather used some trick to fool the receipt.`
-`あるいは窓から出て、あるいは落ちて、夏妃伯母さんが窓を内側から施錠した可能性もある。 It's also possible that he went out the window, or fell out the window, and Aunt Natsuhi locked it from the inside.`
-`別に、魔法を使わなくたって、他にもいくつか手は思いつくだろうぜ…？」 I could think of a bunch of tricks you could use without relying on magic...you see?"`
-`「…………そ、"............Th‐`
-`……それはそうだけどよ………」......that makes sense, but........."`
-`「なら戦人くん。"In that case, Battler‐kun,`
-`僕の母さんたちが客室の中で殺されていたのはどう説明するんだい？ how do you explain the way my parents were killed in the guest room?`
-`　扉には鍵もチェーンも掛かってた。 The door was sealed by the lock and the chain.`
-`無論、窓もね。 Naturally, the windows were sealed too.`
-`どうやって人間に、母さんたちを殺せたって言うんだい？」 How would you suggest a human could have killed my parents?"`
-`「…まぁ、"...Well,`
-`……確かにそのトリックは劇中でも保留になったままだったな。 ......you're right, we did have to leave that trick alone during the story.`
-`とにかく、犯人は鍵だけは持ってる可能性が高いからな。 Anyways, there's a good chance that the culprit had the key at least.`
-`チェーンに許される程度の、扉の隙間は確保できたわけだ」 And it was possible to look in through the crack of the door that the chain allowed."`
-`「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。"......This is extremely far‐fetched, but it is possible that some device was used through that crack.`
-`…いや、あるいは、その隙間から、何かを出したとか…？」 ...Or maybe they brought something out through the crack...?"`
-`「……んんん、確かにチェーンってのは、偉いシンプルだが、密室を構成するでかい要素だな…。"......Hmmmm, well, even though chains are incredibly simple, they're a big factor in constructing a locked room...`
-`………だが、密室トリックなんておよそやり尽くされてるんだ。 .........But authors have done almost every possible locked‐room trick there is to do by now.`
-`そこいらの書店で密室ミステリーを数冊買ってくりゃ、どうせビンゴなトリックが見付かるだろうぜ」 If you bought just a few locked‐room mysteries from some bookstore or other, you could probably find some trick that would fit perfectly."`
-`「……とにかく、俺には思いつかねぇが、どうにかやりくりすりゃあ、人間にできないことはないだろうって断言できる」"......Anyways, I can't think of one now...but I can state for certain that a human could manage it somehow if they tried hard enough."`
-`「それは酷い暴論じゃないかい…？"Isn't that argument horribly irrational...?`
-`　説明できないのに、人間に可能だと断言できるなんて、めちゃめちゃだよ…」 It's just ridiculous to claim that it's possible for a human to do something, even though you can't explain how..."`
-`「……何がどうめちゃめちゃなんだよ。"......Why is that ridiculous?`
-`兄貴たちは何を思考停止してんだよ。 Why did all of you stop thinking?`
-`一見できなさそうに見えても、どうせできるんだよ。 Even if it looks impossible, it has to be doable.`
-`それがお約束ってもんだろうが」 Doesn't it always work like that?"`
-`「めちゃめちゃなのは戦人の方だぜ。"Battler, you're the one being ridiculous.`
-`……人間にできるってんなら、説明してみろよ。 ......If you think a human could've done it, try explaining how.`
-`できねぇだろ？」 You can't, can you?"`
-`「できなきゃすぐに犯人は魔女ってことで落ち着くのかよ。"And just because I can't explain it, that immediately makes the culprit a witch?`
-`その論法で行っちまったら、世界中の未解決事件は全部、魔女が犯人ってことで決着しちまうぞ！」 With that argument, all of the unsolved crimes in the world could be resolved by saying a witch is the culprit!"`
-`「……戦人は問題を掏り替えてるし、何も説明してない。"......Battler, you're sidestepping the issue, and you aren't explaining anything.`
-`…真里亞たちは、“人間にはできない。 ...We are saying "A human can't do it.`
-`だから人間じゃない存在が犯人。 Therefore the culprit is something that isn't human.`
-`それが魔女”だと、そう言っている。 And that something is a witch."`
-`なのに戦人は、説明できないけど魔女はありえないとか、一方的な決め付けで言ってる」 And yet you keep arbitrarily deciding that witches are impossible even though you can't explain anything."`
-`「……きひひひひひひひひひひ、まるで、無知な時代の人類のようだね。"......Kihihihihihihihihihihihi, it's almost like humanity was during the dark ages.`
-`地球が回ってるはずがない、説明はできないけど、 Like those fools who claimed that the Earth couldn't possibly be spinning,`
-`宇宙が地球を中心に回ってるんだと言い張る愚か者のよう」 that the heavens had to be spinning around the Earth, even though they couldn't say how."`
-`「……………な、…何だか気に入らねぇ論法だが。"...............Th‐...that kind of argument kinda pisses me off.`
-`つまりお前らはこう言いたいのかよ。 So this is basically what you're trying to say.`
-`…人間に可能だと説明できないなら、犯人が魔女、 ...If I can't explain how a human could do it,`
-`…ベアトリーチェであることを受け容れろってことかよ」 ...then I must accept that the culprit is the witch, {f:5:Beatrice}?"`
-`「…………そこまで押し付けているわけではありません。"............It's not like we're forcing you.`
-`ただ、戦人さまが、何を根拠にそのような世迷言を言い出すのかと思いまして」 We were just wondering on what basis you can say such nonsense."`
-`「よ、…世迷言って、"N‐...nonsense...`
-`………。......`
-`……な、…なぁ、俺ってさっきからそんなに変なこと言ってるか？！」 ......H‐...hey, is what I've been saying really that weird?!"`
-`「おかしいのは俺なのか？！"Am I the one who's crazy?!`
-`　さっきから偉ぇ不愉快だぞッ？！」 You guys are really starting to freak me out!"`
-`「……戦人さま。"......Battler‐sama.`
-`僕は、自分が死んだ時、ボイラー室で、存在しないはずの１９人目に殺されています」 When I died in the boiler room, I was killed by a 19th person who shouldn't exist."`
-`「…それが人間の仕業だと説明できるのですか？"...Can you explain how a human could have done that?`
-`　あの時、１８人の所在は全員がはっきりしていました。 At that time, the locations of the 18 were well known.`
-`にもかかわらず、僕は殺されている」 Even so, I was killed."`
-`「その件も劇中で言ってるぜ…？！"We talked about that in the story as well...!`
-`　例えば、熊沢の婆ちゃんだ。 Kumasawa baa‐chan, for example.`
-`嘉音くんがボイラー室に下りてからすぐ後を追ったと言ってるが、実は嘘かも知れねぇ」 She said that she followed right after you'd headed down into the boiler room, but for all we know, that might've been a lie."`
-`「一緒にボイラー室に入って、不意を突いてブッスリ行っちまったのかも知れねぇ！"She might've entered the boiler room with you and caught you by surprise!`
-`　あるいは、ボイラー室に踏み込むと、何かのトラップが発動して、例のアイスピックが打ち込まれるように仕掛けられていたのかもしれない」 Or maybe, when you stepped into the boiler room, you activated some kind of trap, one that might have been set up to hit you with one of those icepicks."`
-`「何しろ焼却炉からは祖父さまの遺体の悪臭だ。"After all, the stink of Grandfather's body was coming from the incinerator.`
-`必ず誰かがやってくるわけだから、仕掛けだけ施せば、犯人はその場を離れ、嘉音くんの死亡時刻にアリバイを作ることは充分できる…！」 Someone was bound to come, so all the culprit had to do was set up a trap, and it would be more than possible for them to stay away from that place and create an alibi for the time of your death...!"`
-`「……ボイラー室のトラップって、どんなのですか…？」"......You talk about a trap in the boiler room...but what kind of trap?"`
-`「そうだよ。"That's right.`
-`あの後、すぐみんながボイラー室に駆けつけた。 After that happened, we all immediately ran over to the boiler room.`
-`でもそんな変な仕掛けは見つけられなかったじゃないか！」 But we didn't find any kind of weird device like that!"`
-`「……左様です。"......That is correct.`
-`戦人さま、どんな仕掛けで、僕は殺されたというのですか…？」 Battler‐sama, what kind of trap do you claim I was killed with...?"`
-`「いや、"Well,`
-`…………それはわからねぇ。 .........I don't know that.`
-`…でも、とにかく、何かの仕掛けをうまくやってだな、あるいは誰かが嘘をついて…、 ...But anyway, they must have pulled off some kind of trap, or maybe someone is lying, or...`
-`こうも考えられるぜ？！」or what about this?!"`
-`「そもそもあれは嘉音くんの自作自演だったとかな？！"Kanon‐kun, what if the whole thing was just you playacting?!`
-`　そ、そうだ、自作自演だ！！ Th‐that's it, you were playacting!!`
-`　絵羽伯母さんたちも自作自演なんだよ。 Auntie Eva and Uncle Hideyoshi were also playacting.`
-`自分で密室を作り、死んだふりをした！」 They made the locked room themselves, and were only pretending to be dead!"`
-`「………戦人…。".........Battler...`
-`………お前、 .........Has your...`
-`さっきから頭、head been...`
-`…大丈夫か……？」feeling alright......?"`
-`「……あの、………冷たいお飲み物でもお持ちしましょうか…？」"......Umm, .........should I bring some cold drinks...?"`
-`「そ、そこまで憐れみの目で見られるほど妙なことは言ってねぇだろ…。"D‐don't look at me with those pitying eyes, I'm not saying something that crazy...`
-`俺はあくまでも、トリックを考える上での可能性について言っただけだぜ？」 I'm just pointing out possibilities that could have been used as tricks, alright?"`
-`「それにほら、死者が実は死んでないなんて、推理物のお約束じゃねぇかよ！」"Look, isn't one of the clichés in mystery stories that the victims aren't really dead?!"`
-`「お約束って…？」"Clichés...?"`
-`「つ、つまりだ。"O‐okay, so.`
-`嘉音くんが殺された時、確かに俺たち全員の所在ははっきりしていた。 When Kanon‐kun was killed, we really did know for sure where the rest of us were.`
-`そして熊沢の婆ちゃんも嘘はついてないとする」 And let's assume that Kumasawa baa‐chan wasn't lying."`
-`「でも、それは生存者だけの話だ。"But that only holds true for the survivors.`
-`……もし、死んだふりをして犠牲者に混じり姿を眩ましていた犯人が別行動をしていたとしたら、全ては説明できる！」 ......If the culprit pretended to be dead, placed themselves together with the real victims to hide themselves, and then acted on their own later, then everything would be explained!"`
-`「…………はぁ…。"............I guess...`
-`つまり、絵羽叔母さんたちが犯人だと言いたいわけか…？ Are you trying to say that Auntie Eva or one of the rest of them was the culprit...?`
-`　でも、叔母さんたちの死亡については南條先生が医者として判断してるぜ？」 But Doctor Nanjo confirmed everyone's death as a doctor, remember?"`
-`「……そうです。"......That's right.`
-`南條先生は、全ての犠牲者について確認しています。 Doctor Nanjo checked all of the victims.`
-`…もし戦人さまの説を採用するなら、南條先生も犯人ということになりますか？」 ...Battler‐sama, for your theory to work, wouldn't Doctor Nanjo have to be one of the culprits too?"`
-`「あ、あぁっ、そうだな！！"Uh, yeah, that's right!!`
-`　南條先生が犯人の一味で、嘘の死亡宣告をしていたかもしれないと考えりゃ、話は変わってくるぜ…！ Once you consider that Doctor Nanjo might have been one of the culprits and faked the proclamation of death, the whole story changes...!`
-`　ほら、これも推理物のお約束じゃねぇかよ！！」 See, that's also a cliché in mystery novels, isn't it?!!"`
-`「……でも、南條先生も殺されたよ…？」"......But Doctor Nanjo was also killed..."`
-`「っと、………それはだな。"Umm, .........about that...`
-`…そうさ、南條先生は偽装死なんだ！」 ...That's right, Doctor Nanjo faked his death!"`
-`「何しろ、南條先生以外に検死ができるやつはいねぇし、あの時はもう混乱してる状況下だ。"I mean, there wasn't anyone except Doctor Nanjo who could examine corpses properly, and everyone was really confused then anyway.`
-`本当に脈が止まってるかなんて、のんびり確かめてる暇もなかったぜ！ We didn't have any spare time to check and see if he still had a pulse!`
-`　この論法なら、死者は誰だって歩き回れたことになる！」 With this theory, any one of the dead people could have been walking around!"`
-`「………私たち最初の６人は難しかったんじゃないかと思います…。".........I think that it would have been hard for the six of us who died in the beginning to do that...`
-`……だって、シャッターを閉められた上に、…内側からは開けられない南京錠を掛けられちゃいましたし…」 ......After all, the shutter was closed, ...and there was a padlock that couldn't have been opened from the inside..."`
-`「そうだぜ。"Yeah.`
-`その鍵は母さんが預かった。 Mom was holding onto that key.`
-`じゃあ、母さんも犯人の一味だってのかよ？」 So was Mom one of the culprits too?"`
-`「…あぁあぁぁぁ、いやいや…、"...Aaaaaaah, wait a sec, ...`
-`最初の６人は無理そうだが、絵羽伯母さんたちは外から鍵を掛けただけだろ。maybe it was impossible for the first six, but in the case of Aniki's parents, the door was only locked on the outside.`
-`なら内側から開けられるし…、 So they could have opened it from the inside...`
-`…そうさ、俺たちが部屋を出た後、窓から飛び出して、ボイラー室に先回りしたとか！」 ...That's right, after we left the room, maybe they jumped out the window and got to the boiler room first!"`
-`「く、……苦しいか…？！"Is, ......is that too much...?!`
-`　あるいは南條先生も検死を誤ったとかな？！」 Or maybe Doctor Nanjo made a mistake when examining the corpses?!"`
-`「ほら、自分でも言ってたぜ？"Look, he said it himself, right?`
-`　検死は誤診率が高いとかって！ He said that there's a very high probability of making a mistake when examining corpses!`
-`　うまく偽装したとか、身代わり死体を用意したとかで、死を誤魔化したんだ！！ They disguised it well, or prepared a substitute corpse or something, and faked their own death!!`
-`　方法やトリックは、これから考えるとして、とにかくとにかく、１９人目を否定することはそう難しいことじゃないんだ！」 Let's leave the method or trick they used for later...and...you see, it's not that hard to deny a 19th person existed!"`
-`「ましてや魔女ぉ？"Much less a {i:witch}!`
-`　それだけは断じてありえねぇ！！」 At least that much is completely impossible!!"`
-`「…………戦人がさっきから、何で頑なに、みんなの中に犯人がいるようにしたいのか、わかんない。"............I don't know why you've been trying so stubbornly to say that one of us is the culprit.`
-`きひひひひひひひひひ、つまり戦人は、親族の誰かを疑いたいんだよね…？」 Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi, in other words, you want to suspect one of your relatives...?"`
-`「そういうわけじゃねぇ…。"That's not it...`
-`ただその、安易に１９人目を肯定はできねぇし、仮にいたとしてもそれは人間だって見地から話を構築すべきであって、 It's just, uh, I can't easily accept that a 19th person existed...and even if one did, I think we should construct our argument from the point of view that the culprit was a human—`
-`それら全部を否定しきった最後の最後で苦し紛れに出てくるのが魔女だろって話をしたいんだ」witches are something you only start talking about in desperation, at the very end, after everything else has been disproved, that's what I'm trying to say."`
-`「魔女なんているわけないだろ？！"I mean, come on, there's no way witches exist, right?!`
-`　何でさっきからみんなは、魔女が犯人ってことでひょいひょい納得したがるんだ？」 Why have you all just been casually accepting that the culprit was a witch?"`
-`「そりゃ、身内に殺人犯がいると思いたくねぇ家族愛は立派さ。"I think it's great how your family love makes you hate the thought that someone close to you is a murderer.`
-`でも、それで誤魔化しちまっていいのかよ？！ But is it alright to just brush things over like that?!`
-`　あれだけ大勢を殺した憎き犯人を見つけ出したいとは思わねぇのかよ？！」 Don't you want to find the detestable culprit who killed so many people?!"`
-`「兄貴だって、両親の仇を見つけたいだろ？！"Aniki, you want to avenge your parents, don't you?!`
-`　朱志香だって嘉音くんの仇を、そして嘉音くんだって、紗音ちゃんの仇を見つけたいだろ？！ Jessica, you want to avenge Kanon‐kun, and Kanon‐kun, you want to avenge Shannon‐chan, right?!`
-`　紗音ちゃんだって、自分を殺したのが誰なのか知りたいはずだ」 Shannon‐chan, you should at least want to know who it was that killed you."`
-`「何でこうパーンと全面降伏して、魔女が犯人ってことになっちまうんだよ？！"Why have you all totally surrendered and decided that the culprit was a witch?!`
-`　お前らさっきから何なんだ？！」 What's wrong with all of you?!"`
-`短気で愚かな戦人は、自分の無知を他者に求めようと食って掛かります。The foolish and short‐tempered Battler tried to force his ignorance on the others by yelling at them.`
-`…しかし、みんなは憐れみの眼差しで、ただ静かに見守るのでした。...However, everyone just looked at him pityingly, silently watching over him.`
-`すると、聡明なる真里亞は笑いながら、戦人に間違いを指摘してあげました。Then, the wise Maria laughed, and pointed out Battler's mistake for him.`
-`「……………きひひひひひひひひ。"...............Kihihihihihihihihi.`
-`…呆れてるんだよ。 ...We're just astounded.`
-`……戦人はさっきから、支離滅裂なことを繰り返しては何かをわかったような気になってるだけ」 ......All you've been doing is repeating this nonsense, thinking you've figured something out, Battler."`
-`「……だから？"......So what?`
-`　それで？ And?`
-`　人間にどうやって？ How would a human do it?`
-`　具体的には？ Concretely?`
-`　そう聞くと、決まって戦人は、今は思いつかないけど、とか、何かの仕掛けで、とか、抽象的な言葉で逃げたりお茶を濁したり」 Whenever we ask you those questions, all you say is "I just can't think of anything now" or "with some kind of device" or something, using abstract words to run away and evade the topic."`
-`「……むしろ、知りたいよ戦人。"......In fact, I want to ask {i:you}, Battler.`
-`どうしてベアトリーチェを信じないの？ Why don't {i:you} believe in {f:5:Beatrice}?`
-`　“い”るのに、どうして？」 She "exists", so why don't you believe?"`
-`「“い”ねぇからだよ！"Because she doesn't "exist"!`
-`　魔女なんか“い”ねぇ！！ Witches don't "exist"!!`
-`　いるわけがねぇ！！」 There's no way!!"`
-`……それは、まるで認めたくないというだけの、子どものわがままのよう。......He was almost like a stubborn child refusing for no reason.`
-`憐れみの眼差しが、静かに戦人を包みましたが、頑なな彼の心にそれは届きません。The pitying gazes quietly blanketed Battler, but they didn't reach his stubborn heart.`
-`「…………まるっきり、駄々っ子のわがままだぜ？」"............You're acting just totally like a kid who can't have his way..."`
-`「……戦人さま。"......Battler‐sama.`
-`お気持ちはわかりますが…」 I understand your feelings, but..."`
-`「………ベアトリーチェさまは、“い”らっしゃるのです」".........{f:5:Beatrice}‐sama does "exist"."`
-`「戦人くん…、どうして、信じないんだい？"Battler‐kun... Why don't you believe?`
-`　これほどまでに、状況証拠は揃ってるのに」 Look at how much circumstantial evidence there is."`
-`「説明できなきゃ全て魔女なんて、俺はそんな論法は認めねぇ。"I don't accept the argument that if I can't explain it it's all the witch.`
-`どうして電球が明るくなるのか、仕掛けを知らなきゃ全て魔法ってことになるのか？」 If you don't know how a light bulb shines, if you don't know the principle, does that mean it's all magic?"`
-`「違うだろ？！"It doesn't, does it!`
-`　魔法じゃなきゃ説明がつかないことなど存在しない！！ There's nothing that can't be explained without magic!!`
-`　魔女だの魔法だのってのは、思考の放棄だ！ All of this about witches and magic is just abdication of thought!`
-`　兄貴たちは、わからねぇ事件に屈服して降参しただけなんだ！ You just surrendered and gave up because you don't understand what happened!`
-`　そうだろ？！」 I'm right, aren't I!"`
-`「…………………き、ひひひひひひひひひひひ。".....................Ki‐hihihihihihihihihihihi.`
-`…やっぱり、 ...Well, I'm not surprised,`
-`……戦人だけはどうしても信じないね」 ......but it looks like you're the only one who's not going to believe no matter what."`
-`「……誰かひとりでも信じなかったら“奇跡”は起きない。"......If even a single person doesn't believe, the "miracle" won't occur.`
-`……だから、戦人のその蒙昧な思い込みを改めさせなきゃ、奇跡が、……魔法が完成しないんだよ」 ......So, if you don't rethink your ignorant theories, the miracle, ......the magic won't be completed."`
-`「へへ…。"Heheh...`
-`なぁるほどな。 Nowww I see.`
-`……ようやく一端が見えてきたぜ。 ......I finally figured it out.`
-`…つまりお前らは俺に、魔女様は存在する、って言わせたいんだろ？ ...So in other words, you guys want to get me to say that the witch exists, don't you?`
-`　全員が認めた嘘は“真実”になる。 If everyone accepts this lie, it will become "the truth".`
-`……そういうこったろッ？！」 ......That's what this is all about, isn't it?!"`
-`「……生憎だな。"......Well, too bad.`
-`ここばかりは生憎だが、そいつぁ全然駄目だぜ、お断りだ。 This is the one place I'm going to have to say too bad, that's no goddamn good at all. I refuse.`
-`……{i:お前らが俺にそう詰め寄るからこそ、だからこそ全然駄目なんだ}」 ......{i:You guys are all pressing me, and that is exactly why it's no goddamn good.}"`
-`「…………………どうして？」".....................Why?"`
-`「悪ぃが、最後の最後でもう一回、チェス盤をひっくり返させてもらうぜ…？"Sorry, but why don't you let me flip over the chessboard one last time...?`
-`　魔女の存在を俺に認めさせたいなら、一番簡単な方法があるはずさ」 If you want to force me to accept that there's a witch, there's a really easy way."`
-`「……それは、人間にはできないから魔女なんていう遠回しな方法じゃない！"......And it's not the roundabout way of saying "humans can't do it so it must be a witch"!`
-`　魔女が魔法でやって見せた、それを俺に見せるだけの話なんだ」 All you have to do is actually show it to me, the way a witch did it with magic."`
-`「さらにだ、さっき真里亞が言ったことが一番墓穴を掘ってる。"Furthermore, what Maria said earlier is what will really dig her grave.`
-`……誰かひとりでも信じなかったら“奇跡”は起きないってな」 ......You said that if even one person doesn't believe, a "miracle" won't occur."`
-`「真の奇跡は、誰が信じようと信じまいと勝手に起こる！"But real miracles happen whether people believe in them or not!`
-`　たとえ俺一人が信じなかったとしてもだ！！ Even if I alone don't believe!!`
-`　だからこそ、俺が信じれば成立する奇跡も魔法も、そして魔女も嘘っぱちだってわけさ！！」 So any miracles or magic or witches that exist only because I believe in them are downright lies!!"`
-`「…………………………………」"................................."`
-`その戦人の無知な暴言によって荒んでしまった空気を、The uneasy mood following Battler's ignorant rant...`
-`とても涼しげで軽やかな笑い声が吹き飛ばしてくれました。was thoughtfully blown away by a very refreshing and light laugh.`
-`誰の笑い声…？Whose laugh...?`
-`　戦人は初めて聞くその声に驚きました。 Battler was surprised by that voice which he had never heard before.`
-`見れば、いつの間にか、譲治や朱志香、紗音に嘉音たちは畏まるように口を噤んでいます。When he looked at George and Jessica, at Shannon and Kanon and Maria, he noticed that they had suddenly gone respectfully silent.`
-`「………………ベアトリーチェ」"..................{f:5:Beatrice}."`
-`「………良い。".........Wonderful.`
-`…久しぶりに愉快な人間に出会えたものよ」 ...I haven't been able to meet such a charming human for quite some time."`
-`「お、"Wh‐`
-`………………お前、..................who...`
-`………誰だ…」......are you..."`
-`「……招かれた茶会のホストも知らぬか。"......So you don't even know the host of the tea party to which you were invited.`
-`……良い良い。 ......Simply wonderful.`
-`くっくっくっく…！」 *cackle*cackle*...!"`
-`「…こちらのお方は、千年を生きる黄金の魔女、ベアトリーチェさまにあらせられます」"...You are graced by the presence of the Golden Witch who has lived for a thousand years, {f:5:Beatrice}‐sama."`
-`「ご機嫌麗しゅう、ベアトリーチェさま…」"I am most honored to see you, {f:5:Beatrice}‐sama..."`
-`「……戦人くんの暴言をどうかお許し下さい」"......Please forgive Battler‐kun's ranting."`
-`「こ、こいつは頑固でその、まだ、自分の置かれた状況がわかってなくて……！」"Th‐this guy's just stubborn, and, umm, he still doesn't understand the situation he's in......!"`
-`「くっくっくっくっく…。"*cackle*cackle*cackle*...`
-`良い良い。 It is fine.`
-`……千年も生きると、大抵の魔女は生き飽きる。 ......After a thousand years, most witches get tired of living.`
-`そなたのような気骨ある男も時には良い」 Once in a while, it is nice to meet a man with backbone such as yourself."`
-`「……………ベアトリーチェがお姿を現してくれるのは、とても光栄なことだよ、戦人」"...............It is quite an honor to be present when {f:5:Beatrice} shows herself, Battler."`
-`「……へ、"......Heh,`
-`………へっへっへっへ…！！ .........heh‐heh‐heh‐heh...!!`
-`　こりゃあ、 Now this...`
-`……たまげたぜ。 ......This is some shit.`
-`…そこまでして、俺に魔女が、 ...Are you really that desperate to make me believe that a witch,`
-`…１９人目が犯人だと思い込ませてぇのかよ…」 ...that a 19th person is the culprit...?"`
-`「ますますに気に入った…！"This is starting to get interesting...!`
-`　だから全然駄目だぜ…！！ And it's no goddamn good...!!`
-`　お前は、真里亞たちが主張する、魔女ベアトリーチェの幻影というわけだ」 You must be an illusion of the witch {f:5:Beatrice} who's asserted by Maria and the others."`
-`「………そして、全員がその存在を信じることでようやく存在を許される。".........And only when everyone believes in your existence will you finally be allowed to exist.`
-`…そういう虚構の存在なんだろ？ ...You're that kind of a fictional being, right?`
-`　だから俺にも信じさせたい。 That's why you want to make me believe too.`
-`{i:俺だけが信じないから、存在できない}。 {i:You can't exist, because I alone don't believe in you}.`
-`………そうなんだろ？！」 .........Isn't that right?!"`
-`「………魔に通じぬ凡夫の分際にしては、理解力は悪くない。".........Your power of understanding isn't bad for a common mortal who knows nothing of magic.`
-`………なるほど、どうやらそなたは生まれながらにして、魔力に強い抵抗力を持つらしいな」 .........I see, it seems that you were born with a strong magic‐resisting power."`
-`「……我ら魔女の天敵よ。"......The natural enemy of us witches.`
-`…どう逆さに振るって見せようとも、 ...No matter how much we tip you upside down and shake you,`
-`{i:決して我らを信じない}。 {i:you will never believe in us}.`
-`{i:だから魔法が及ばない}。 {i:Therefore, magic will fall short against you}.`
-`…お前のその態度にも納得が行こうというものよ。 ...That attitude of yours makes a great deal of sense.`
-`くっくっくっく…！」 *cackle*cackle*...!"`
-`「何を言ってやがるかさっぱりだぜ、いっひっひ！"I've got no clue what you're saying, ihihi!`
-`　わざわざお姿まで現してもらって恐縮だが、 It's very kind of you to go to all of the trouble of showing yourself to us,`
-`俺はお前さんの存在なんて、これっぽっちも信じやしないぜ」 but I don't believe you exist in the slightest."`
-`「確かにこの２日間、妙なことは何度か起こった。"It's true that many strange things happened during those two days.`
-`さっき真里亞に言われた通り、俺はそれら全てにトリックの説明がつけられると思っているが、個々に具体的にはまだ挙げられてねぇ。 Like Maria said earlier, even though I think that all of the tricks could be explained, I still can't lay out the practical details of each one.`
-`だが、だからといって屈するわけじゃない」 But that doesn't mean I'll surrender."`
-`「俺は兄貴たちとは違うぜ？"I'm different from the rest of them, see?`
-`　説明できないから、魔女の仕業だなんて論法には絶対ぇならねぇぜ」 I'll never argue that it was the work of a witch just because I can't explain it."`
-`「………ますますに気に入ったぞ。".........My interest in you grows deeper.`
-`お前は屈服させ甲斐がある…」 It will be worth my time to break you..."`
-`「……お前のような男にこそ、我が名を讃えさせてみせたいぞ……？"......You're just the kind of man I'd love to force into praising my name......`
-`　お前のような男にこそ、爪先にキスをさせてみたいものよ。 You're just the kind of man I'd love to force into kissing my toes.`
-`…くっくっくっくっく！」 ...*cackle*cackle*cackle*!"`
-`「寝言言いたきゃ好きなだけ言ってろ…！"Talk all the nonsense you want...!`
-`　俺はお前なんか否定してやるぜ。 I deny you exist.`
-`全ての出来事を“人間とトリック”で説明してやる…！！ All of the events can be explained with "human tricks"...!!`
-`　そこには一片たりとも魔女も魔法も入り込む余地はねぇッ！！」 There's no room for even a speck of magic or witches!!"`
-`「良い！"Wonderful!`
-`　……それでこそ千年の退屈も紛れるというものよ」 ......This is the perfect form of diversion from a thousand years of boredom."`
-`「ならば聞こう。"Then let me ask you.`
-`お前は先ほど、絵羽たちを殺すのに、扉の隙間を利用すれば良いと言ったな…？ A short while ago, you said that using the crack in the door would be sufficient to kill Eva and Hideyoshi, right...?`
-`　人間とトリックで、どう殺してみせるのか、説明するがいい」 Explain how you would do that using your human tricks."`
-`「……へ。"......Heh.`
-`いきなり、一番辛いところから切り込んできやがったな。 Suddenly jumping right into the toughest part, are you?`
-`…ってことは、このトリックが一番の自信作、ってことなんだろ？ ...Does that mean that this is the trick you're proudest of?`
-`　{i:真犯人}さんよぅ」 Miss {i:Real Culprit}?"`
-`ベアトリーチェが黄金の煙管を振るうと、{f:5:Beatrice} shook her golden pipe,`
-`そこから七色の煙が柔らかく尾を引きました。 and seven colors of gentle smoke trailed out of the end.`
-`…それらは見る見る周囲を覆うと、...The smoke quickly obscured the surroundings,`
-`……いつの間にかそこはお屋敷の廊下に。 ......and they were suddenly in the hallway of the mansion.`
-`目の前には、チェーンで閉じられ、わずかに開いた客室の扉が…。In front of their eyes, a slightly opened door, secured by a chain...`
-`そう、絵羽たちが殺された部屋の入口なのです。Yes, it was the entrance to the room where Eva and Hideyoshi had been killed.`
-`「……べ、便利じゃねぇかよ…」"......N‐nice trick..."`
-`「さて。"Now then.`
-`このわずかな隙間から、どうしてみせるのか、戦人とやら」 Show me what you would do through this small crack, "Battler"."`
-`「く、…………。"Erk............`
-`……た、多分、あの“アイスピック”を打ち出せる射出機があるんだ。 ......Th‐they probably had some device to shoot those "icepicks".`
-`そいつを使って……」 If they used that......"`
-`「その隙間からは見えぬ、ベッドの上の絵羽をどう狙うのか？"How would you aim at Eva over on the bed when you can't see that far through this crack?`
-`　……そして、バスルームに篭り扉を閉めた秀吉をどう狙うのか…？」 ......And how would you reach Hideyoshi, in the bathroom with the door shut...?"`
-`「……………………………くそ、………。".................................Dammit.........`
-`…隙間はある…。 ...There is a crack...`
-`何か方法があるはずなんだ……」 There should be some way......"`
-`「くっくっくっく。"*cackle*cackle*.`
-`お前に思いつかぬなら、妾がやって見せても良いぞ」 If you can't think of one, allow me."`
-`「……ほぉ。"......Oh?`
-`魔女さまならどうやってみせるってんだよ…。 Go on, how would a great witch do it, then...`
-`お手並みを拝見してやろうじゃねぇか…」 C'mon, let's see your little trick..."`
-`「………戦人、ベアトリーチェに口の利き方がぞんざい…」"............Battler, you're being rude to {f:5:Beatrice}..."`
-`「良い良い。"It is fine, quite fine.`
-`愉快な男よ。 What a charming man.`
-`…それでこそ屈服させる楽しみが増すというものよ」 ...It will make it all the more enjoyable to break him."`
-`「……へ！"......Heh!`
-`　そんなに俺に爪先にキスをさせてぇかよ…！ You really want to make me kiss your toes that much...?!`
-`　俺が降参したらな！ Only if I surrender!`
-`　だが見てろ、きっと俺がこのトリックを暴いて、逆に手前ぇを俺のケツにキスさせてやるぜ！」 But watch... I'll definitely expose this trick, and then I'll make you kiss my ass instead!"`
-`「……………くっくっく。"...............*cackle*.`
-`愉快な男よ。 What a charming man.`
-`覚えておこうぞ、その約束を。 I shall remember that promise.`
-`…弱き魔女は、力を得るために悪魔の尻にキスをする。 ...Weak witches kiss the behinds of demons to gain power.`
-`それを超える屈服の誓いはないからな。 Because there is no greater oath of total submission.`
-`そこまで言わせたからこそ、妾はお前を屈服させてみたくなる。 It is words like those that give me the desire to subjugate you.`
-`………くっくっくっく…！」 .........*cackle*cackle*...!"`
-`ベアトリーチェは、戦人の品なき暴言を気に留めることなく、黄金の煙管を再び振るいました。Paying no mind to Battler's crude ranting, {f:5:Beatrice} once again waved her golden pipe.`
-`……そう、この黄金の煙管は、彼女にとっての大事なケーンなのです。......Yes, for that golden pipe was her precious magic wand.`
-`「さぁさ、お出でなさいな子どもたち。"Come, arise, children.`
-`我こそは煉獄の案内人。 I am the guide of Purgatory.`
-`大罪を赦せし七つの杭を持て」 Wield the seven stakes, which forgave the deadly sins."`
-`謳うような魔法の言葉に導かれ、７つの杭が集います。Guided by those magic words, which sounded like a psalm, seven stakes gathered.`
-`{n}…それは、罪深き人の大罪を象徴する七人の悪魔たちの杭。{n}...They were the stakes of the seven demons symbolizing the deadly sins of sinful people.`
-`「ベルゼブブにアスモデウス。"Beelzebub and Asmodeus.`
-`さぁさ、罪を赦しなさい。 Come, forgive their sins.`
-`罪人の魂を解放なさい…！」 Release the spirits of the sinners...!"`
-`「ぅおッ…？！」"Wha...?!"`
-`ベアトリーチェの呼びかけに、ベルゼブブの杭とアスモデウスの杭が応えます。The stakes of Beelzebub and Asmodeus responded to {f:5:Beatrice}'s call.`
-`その２本の悪魔の杭は、まるでキューに弾かれたビリヤードの玉のように弾かれ、扉の隙間に吸い込まれていきます。The two demonic stakes burst into motion like billiard balls struck by a cue, and were sucked in through the crack of the door.`
-`そして、部屋中の壁に何度も乱反射する音が、まるで啄木鳥の啄ばむ音のように聞こえてくるのです。Then came the sound of them deflecting repeatedly off the walls of the room, making a sound like a woodpecker.`
-`そして最後に、気持ちのいい音が聞こえました。And finally, a pleasant sound could be heard.`
-`……例えるなら、薪割りの時、振るい下ろした斧が綺麗にさっくりと薪を割ったような、とても小気味よい音。......It was a small, satisfying sound, like the one heard when someone is chopping firewood and the falling ax neatly and easily slices through the wood.`
-`それは、２本の杭がそれぞれ、絵羽と秀吉の眉間に深々と打ち込まれた時の音。It was the sound of the two stakes burying themselves deep into Eva and Hideyoshi's foreheads.`
-`「…………ど真ん中というところよ。"............Right through the middle.`
-`見てみるか…？」 Want to see...?"`
-`部屋からは確かに、眉間が砕ける音が二人分聞こえました。They had definitely heard two sounds like someone's forehead being split open.`
-`扉越しの戦人には見ることも叶いませんが、Battler wasn't permitted to see it, since he was on the other side of the door,`
-`二度死ぬ二人は、二度目も寸分違わぬ同じ姿で倒れ、同じ模様の血痕を描くのでした。 but those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood spray as before.`
-`「ば、…………馬鹿野郎…。"Y‐............you must be crazy...`
-`そ、……そんな滅茶苦茶で……！ Th‐......this is insane......!`
-`　こ、殺せてたまるかよッ！！！」 Y‐you can't kill people with this insanity!!!"`
-`「殺せるとも。"I most certainly can.`
-`……このように殺せるとも…！ ......I can kill them just like this...!`
-`　くっくくくくくくく！」 *cackle*cackle*cackle*!"`
-`気付けばそこは廊下ではなく、元のお茶会の席。Suddenly, they were no longer in the hall, but seated at the tea party they had started from.`
-`……戦人以外のみんなは神妙に座っていましたが、……嘉音が呻きながら口から鮮血を垂らし始めます。......Everyone but Battler was sitting meekly, ......but Kanon was moaning, fresh blood dangling from his mouth.`
-`{n}お茶会の席で、はしたないですね。{n}Such bad manners for a tea party.`
-`嘉音の胸には、サタンの杭が深々と打ち込まれていました。Satan's stake was buried deep into Kanon's chest.`
-`「………………ぅ、"..................u...`
-`……………く...............gah...`
-`………」......"`
-`「か、……嘉音くん……、"Ka‐......Kanon‐kun......`
-`嘉音くんッ！！Kanon‐kun!!`
-`　く、……くそぉおおぉおぉ！！」 Daa......damn iiiiiiiiiit!!"`
-`激昂するのは戦人ばかり。Battler was the only one getting agitated.`
-`他の、譲治や朱志香、紗音は、まるで先生に怒られている生徒のように、神妙に俯いています。George, Jessica, Shannon—everyone else was meekly hanging their heads like students being told off by their teacher.`
-`「…嘉音は瑣末な怒りに囚われ、妾の宴を乱そうとした。"...Kanon, you were captivated by a trifling anger and tried to disturb my banquet.`
-`……怒りに囚われやすいのがお前の大罪よ。 ......Your deadly sin is being easily captivated by anger.`
-`清め、悔いてやり直すがいい」 Cleanse yourself, regret, and do it over."`
-`「……ァト"......{f:5:at}`
-`……リーチェ……、......{f:5:rice}......`
-`……さ、ま……………」......sa...ma..............."`
-`「ベ、…ベアトリーチェさま…。"B‐...{f:5:Beatrice}‐sama...`
-`どうかお許し下さい…。 Please, forgive him...`
-`嘉音くんは充分に反省したと思います……！」 I think Kanon‐kun has repented enough......!"`
-`「良い。"Wonderful.`
-`妾は敬う者に寛大である。 I am generous to those who respect me.`
-`……くっくっくっくっく…！」 ......*cackle*cackle*...!"`
-`「ふざけるなッ！！！"Cut the crap!!!`
-`　こんな三文芝居で俺がお前の存在を認めると思うなよ？！ Don't think for a second that this piss‐poor show of theatrics will convince me of your sorry existence!`
-`　何が千年を生きた魔女だ！ Like hell you're a thousand‐year‐old witch!`
-`　手前ぇのトリックなんざ、千年じゃねえ、せいぜい百年程度のミステリー界が作ったお約束の累積上にあるだけだ！」 Your tricks aren't a thousand years old, at best they're the accumulation of a hundred years of clichés that the mystery world created!"`
-`「魔法なんかじゃねぇ！！"They're not magic!!`
-`　断じてねぇ！！ No way are they magic!!`
-`　事件の全ては“人間とトリック”で説明がつく！！」 All of these crimes can be explained with "human tricks"!!"`
-`「くっくっくっく！"*cackle*cackle*!`
-`　我が千年を人間共の百年で語るか…。 You would explain my thousand years with a hundred years by humans...?`
-`良い良い、だからこそ妾はお前を気に入る…！」 Good, good, that's why I like you...!"`
-`「……………愚かな戦人…。"...............Foolish Battler...`
-`きっひひひひひひひひひひひひひひひひ…！」 Kihhihihihihihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!"`
-`「……よすんだ、戦人くん…。"......Stop yourself, Battler‐kun...`
-`ベアトリーチェさまに逆らっちゃ…、 {f:5:Beatrice}‐sama is someone you can't...`
-`い…けない……」go...against......"`
-`「…………ん、"............nn...`
-`………ぅ、......u...`
-`……………ぅ…」............u..."`
-`紗音が頬を押さえながら呻き始めます。Shannon started moaning, holding her cheek.`
-`{n}…虫歯でも痛むのかもしれません。{n}...Maybe she had a toothache.`
-`ですが、それはどうも虫歯ではないようでした。But it didn't look anything like a toothache.`
-`{n}……うっすらと赤い模様が、紗音が押さえる頬全体に広がっていくのです。{n}......A slight redness spread across the cheek Shannon was holding.`
-`その赤い模様は、紗音にとって、堪え難い苦痛を与えているようでした…。It looked like that redness was causing Shannon unbearable pain...`
-`頬に当てる手はいつしか爪を立てるほどになり、全身に汗が玉のように浮いていきます…。She started to press her nails into her cheek, and drops of sweat appeared all over her body...`
-`「…紗音…、"...Shannon...`
-`紗音…！！Shannon...!!`
-`　しっかり…しっかりッ！」 Hang in there...hang in there!"`
-`「どうしたってんだよ！"What's going on?!`
-`　くそ、何なんだこりゃ、この赤いのは…！」 Damn it, what the hell is that red stuff...?!"`
-`それは見る見る広がって、紗音の顔半分を覆ってしまいます…。It expanded rapidly, covering half of Shannon's face...`
-`…そして、ようやく愚鈍で間抜けな戦人は気付くのです。...Then, the stupid dunce Battler finally realized...`
-`「た、頼む、戦人くん…！"Ple‐please, Battler‐kun...!`
-`　ベアトリーチェさまを信じてくれ…！ Please believe in {f:5:Beatrice}‐sama...!`
-`　後生だから…！！ I beg you...!!`
-`　あぁあぁぁ、君が信じないから、 Aaaaaaah, because you won't believe,`
-`信じないからぁ、ぁぁああぁ…、 because you won't believe, aaaaaaaaaah...`
-`魔法が、the magic is,`
-`……魔法が解けてしまうぅうぅうぅッ！！」 ......the magic is wearing off!!!!!!!!"`
-`戦人は、……生まれて初めて、石榴が裂ける音というものを聞きます。For the first time in his life, ......Battler heard that sound, like a pomegranate splitting.`
-`その、赤い飛沫が、戦人の顔にも飛び散りました…。The red spray even landed on Battler's face...`
-`哀れ、紗音の顔は半分がばっくりと裂け、…あの倉庫の中でのおぞましい最期をもう一度そこに繰り返してしまいます。How sad—Shannon's face had been split in half, ...and her last horrible moments in that storehouse had been repeated once again.`
-`「う、うわぁああああああああぁああああぁ、紗音、紗音ッ！！"U...uwaaaaaaaaaaaaaaaaaaaaaaaaa, Shannon, Shannon!!`
-`　うわああああぁあああああぁぁあぁあああああ！！！」 Uwaaaaaaaaaaaaaaaaaaa!!!"`
-`「く…、うぐぐ、くそお、くそおぉおおおおッ！"G...ghhhkkk, damn you, damn youuuuuuu!`
-`　やめろ、やめろやめろぉおおぉ！！ Stop it, stop it, stop it!!`
-`　死者を辱めるな、死者を辱めるなあああぁッ！！」 Don't humiliate the dead, don't humiliate the deeeeeaaaaad!!"`
-`「ぅうう、……く、………ひぃッ！！」"Uuuu......gah.........eeeggh!!"`
-`今度は、譲治の全身に赤い模様が広がっていきます…。 This time, red patterns began to spread across George's entire body...`
-`それはまるで、紅茶にたっぷりと落としたミルクが描くかのような美しき雲模様。 It was like the beautiful cloud drawn by milk when it is poured into black tea.`
-`それらがじわりと、そして全体に、広がっていきます。 They slowly spread out and extended across his entire body.`
-`……それらは色濃くなるに従い、譲治に苦痛を与えるようでした。......As they grew more saturated in color, they seemed to give George increasingly greater pain.`
-`その奇怪な模様を見て、……戦人は、譲治たちがどのような奇怪な最期を遂げたのか、Looking at those bizarre patterns, ......Battler was petrified as he frantically thought with his pitifully clumsy imagination...`
-`哀れなほど拙い想像力で必死に考え、立ち竦みます…。about the nature of the strange deaths that George and the others had experienced...`
-`やがて、……その赤い模様はさらに隣の朱志香にも……。Before long, ......that redness reached the nearby Jessica as well......`
-`「く、"Gah,`
-`………ぃ、 .........ee...`
-`……く、......ack...`
-`…………ッ！！」.........hh!!"`
-`「や、やめろやめろやめろッ！！！"St‐stop stop stop!!!`
-`　兄貴が何をした、 What did Aniki do,`
-`朱志香が何をした、 what did Jessica do,`
-`もうやめろぉおおおおおおぉ！！！」 just STOOOOOOP!!!"`
-`「ば、"Ba‐`
-`……戦人……、......Battler......`
-`……ま、 ......Don‐`
-`…魔女なんかに、...don't let the witch...`
-`…挫けるんじゃねぇぜ……！break your spirit......!`
-`　……否定しろ、 ......Deny her,`
-`ぶっ消してやれ…。 erase her...`
-`こいつは、……誰かひとりでも否定する限り、 As, ......as long as at least one person denies her,`
-`存在できない幻影なんだ……！ she's an illusion that can't exist......!`
-`　ううぅううぅ、くぅッ！！！」 Uuuuughhh, gghhh!!"`
-`「だ、大丈夫か朱志香！！"A‐are you OK, Jessica?!!`
-`　うわッ、あ、兄貴ッ？！？！」 Whah, A‐Aniki?!?!"`
-`もう譲治は人の形をしてはいません。George was no longer shaped like a person.`
-`…まるで、お料理でおいしいお肉を削いだ後に残した残骸の山のよう。 ...He looked like the pile of leftover meat after the good, delicious meat has been scraped off to be cooked.`
-`…せいぜい、人の頃の痕跡を残すのは、下顎の部分とあばら骨の形状くらいでしょうか。...The only traces left of his time as a human were the shape of his lower jaw and rib cage.`
-`そして、赤い模様がどんどん色濃くなる朱志香も、同じ末路を辿ることは明白でした。And it was clear that Jessica, who was covered with a steadily strengthening redness, was approaching the same fate.`
-`「…………うー。"............Uu.`
-`…戦人。 ...Battler.`
-`……早く、ベアトリーチェを信じて…。 ......Quick, believe in {f:5:Beatrice}...`
-`………じゃないと、 .........If you don't,`
-`………みんなの魔法が、 .........everyone's magic...`
-`………解けてしまう…」......will wear off..."`
-`「ま、真里亞、お、お前も全身に……ッ！！！」"Ma‐Maria, it's all over your body, too......!!!"`
-`「妾は魔法で、全ての死者を蘇らせる。"I resurrect all the dead with my magic.`
-`……でも、お前が信じない限り、それは真の力を持たない。 ......But as long as you don't believe, that magic will hold no true power.`
-`くっくっくっくっく！ *cackle*cackle*cackle*!`
-`　もっともお前ほどの男が、この程度のことで屈服することはあるまい…？」 But I'm sure that a man of your caliber won't be broken by something like this, right...?"`
-`「ば、"Ba‐`
-`…戦人……ッ！...Battler......!`
-`　私たちは、 We...`
-`……身内を疑いたくなかった…。...didn't want to doubt our friends...`
-`現実から目を逸らしたから、 We refused to face reality,`
-`…魔女に屈してしまった……！ ...and gave in to the witch......!`
-`　でも、 But...`
-`…戦人なら…。I know you...`
-`……戦人なら、 ......I know you won't...`
-`……魔女になんか屈しない……！...give in to that witch......!`
-`　ひぐッ、 Geh...`
-`ぐかかか、ggghh...`
-`……くかかかかかかかッ！！！」......gggggghhkkkkkkk!!!"`
-`「朱志香ッ、朱志香ぁぁああぁ、わぁああああああああぁあああぁあッ！！」"Jessica, JESSICAAAAA, waaaaAAAAAAAaaaAAAahh!!"`
-`哀れ、朱志香も同じ末路。How sad—Jessica met the same end.`
-`{n}…譲治と同じ、お肉屋さんの残骸のよう。{n}...Just like George, she ended up like a butcher's leftovers.`
-`崩れて解けて、混じってしまうから、もうどれが譲治で朱志香か、わからない。Broken apart, melted, and all mixed up, so you couldn't tell which was George and which was Jessica anymore.`
-`「……………戦人。"...............Battler.`
-`泣かないで。 Don't cry.`
-`…ベアトリーチェは、死者を何度でも蘇らせてくれるよ。 ...{f:5:Beatrice} will resurrect the dead over and over.`
-`だから悲しくないよ…。 So there's nothing to be sad about...`
-`……だから、 ......So,`
-`………死んでも、 ............even if we die, we're still...`
-`………平……、......just......`
-`気…、」fine—"`
-`真里亞の全身にも赤い模様がじわりじわりと蝕んでいきます…。The redness began eating into the whole of Maria's body...`
-`それを見て、愚かな戦人は絶叫します。 When he saw this, the foolish Battler screamed out loud.`
-`「手前ぇは許さねぇ、絶対に許さねぇッ！！"You bitch, you won't get away with this, I'll never forgive you!!`
-`　何が魔女だ、何が魔法だ！！ You call yourself a witch?! You call this magic?!`
-`　俺は全身全霊を賭けてお前を否定してやるぞ…！！ I'll deny you with every last fiber of my being...!!`
-`　何が何でも手前ぇを認めるわけにはいかねぇ！！ I don't care what happens, there's not a chance in hell I'm ever gonna accept you!!`
-`　俺をここまで敵に回しやがった以上、絶対ぇに手前ぇだけは許さねぇ！！」 If you want me as an enemy that bad, I'm gonna make sure you get what's coming to you!!"`
-`「許さねぇ許さねぇ絶対許さねぇ！！"I'll get you for this, you're gonna pay for this, you're going to fucking pay!!!!`
-`　よくもこの右代宮戦人を敵に回しやがったッ！！ You're gonna regret making Ushiromiya Battler your enemy!!`
-`　何が何でも貴様を否定してやるぞ！！ I'll deny you no matter what!!`
-`　どんな不可解だろうと全部、“人間”で説明してやるッ！！！ Every last impossible thing, I'll explain it all with "humans"!!!`
-`　手前ぇをこの世から、細胞の一欠けらまで残さず消し去ってやるッ！！！」 I'll erase every cell of you from this world!!!"`
-`「よくぞ言ったぞ、戦人とやら…！"You! You speak well, "Battler"...!`
-`　それでこそ我が千年の退屈も紛れるというもの！」 That's the kind of thing that can divert me from my thousand years of boredom!"`
-`「さぁ、説明するがいい。"Come, explain.`
-`“人間とトリック”とやらで説明してみせるがいい！ Try explaining it all with your so‐called "human tricks"!`
-`　そして人間の身の程を知るがいい！！ And learn how lowly humans are!!`
-`　我が千年を、人間共が築いたとかいう百年で太刀打ちできるか試してみるがいいッ！！ Let's see you try to use what humanity has built up in a hundred years to oppose my thousand!!`
-`　それでこそお前を屈服させる楽しみが増すというものよ…！！」 It will make forcing you to submit all the more enjoyable...!!"`
-`「さぁ聞こう、戦人とやら！"So tell me, "Battler"!`
-`　真里亞の手紙は？ What about Maria's letter?`
-`　６人の殺し方は？ How the six were killed?`
-`　シャッターは？ The shutter?`
-`　レシートの封印は？ The receipt seal?`
-`　チェーンの密室は？ The locked room with the chain?`
-`　嘉音のボイラー室は？ Kanon in the boiler room?`
-`　源次たちの客間は？！ Genji and the others in the parlor?!`
-`　夏妃の自殺は？！ Natsuhi's suicide?!`
-`　碑文の謎は？！ The riddle of the epitaph?!`
-`　隠された黄金の在り処は？！」 The location of the hidden gold?!"`
-`「さぁ、戦人とやら、“人間”の力を見せてもらおうではないかッ！"Come, Battler, why don't you show me the power of "humans"?!`
-`　ふっはははははははははははははははは！！！」 Fuhahahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!!"`
-`「うをおぉおおおぉおおおおおおおおおおおおおおおおおぉッッ！！！」"OoooooOOOOOOooooooooooOOOOOOOOohh!!!"`
+`{ruby:"Hey, everyone, good job finishing "Umineko no Naku Koro ni"!:「おー、みんな『うみねこのなく頃に』、お疲れさん！}`
+`{ruby:Man, I still didn't have a clue what was going on when the story ended!":やれやれ、わけがわかんない内に物語が終わっちまったなぁ！」}`
+`{ruby:"So just what happened?:「つまり何だ？}`
+`{ruby:Was that basically the "bad ending", where time runs out before the culprit can be exposed?":あれは結局、犯人は暴けず時間切れのバッドエンドでしたーってことなのか？」}`
+`{ruby:"Uu.:「うー。}`
+`{ruby:Definitely a bad ending.:きっとバッドエンド。}`
+`{ruby:Uu.":うー」}`
+`{ruby:"I think so too.:「そうだね。}`
+`{ruby:{f:5:Beatrice}'s letter, which Maria‐chan read on the first day, did tell us in advance to solve the riddle of the epitaph.:一日目の夜に真里亞ちゃんが読んだ、ベアトリーチェの手紙に、碑文の謎を解いてみろとちゃんと予告してたもんね。}`
+`{ruby:We were all so busy trying to protect ourselves and look for the culprit that we didn't even take a shot at it.":僕たちは自衛や犯人を探るのに忙しくて、全然その謎に挑まなかったし」}`
+`{ruby:".........Yes, that's true.:「………そうですね。}`
+`{ruby:If we had actually tried to solve the riddle, I'm sure things would have ended differently.":ちゃんと碑文の謎に挑んでいたら、違う結末もあったのでしょうか」}`
+`{ruby:"I wonder about that.:「それはどうかな。}`
+`{ruby:Shannon‐chan, you did a good job too!":紗音ちゃんもお疲れ！」}`
+`{ruby:"You don't have to be our waitress and serve tea.:「お茶の給仕なんてしなくていいぜ。}`
+`{ruby:After all, this is a wrap party.:何しろここはお疲れさま会なんだからよ。}`
+`{ruby:As a group of people who met a horrible fate, let's all get along and lick each other's wou~~nds!:酷ぇ目に遭った者同士、仲良く傷の舐めあいをしよぅぜ〜〜！}`
+`{ruby:Licklickli~ck!!":べろべろべろ〜！！」}`
+`{ruby:"Speaking of a horrible fate, Shannon beats the rest of us hands down, doesn't she?:「酷ぇ目って言ったら、紗音がぶっちぎりだったぜ？}`
+`{ruby:She was such a beautiful character, so I thought she'd definitely survive until the very end,:綺麗どころのキャラだから、てっきり最後まで生き残るかと思ったら、}`
+`{ruby:but she was killed right in the beginning, and on top of that...what was it?:一番最初に殺されるし、しかも、何だっけ？}`
+`{ruby:Half of her face was smashed, right?:顔面を半分砕かれてたんだっけ？}`
+`{ruby:That's the worst!":最悪だよなぁ！」}`
+`{ruby:"............That was my role, so, umm......there was no way around it...":「…………そういうお役目でしたら、……その、仕方ありませんし…」}`
+`{ruby:"...Nee‐san, it's nothing for you to worry about.:「…姉さんが気にすることはないよ。}`
+`{ruby:Judging by the final epilogue, even Milady and the others met with a considerably tragic end.":お嬢様方も、ラストのエピローグを見る限り、相当悲惨な最期を遂げられたようだしね」}`
+`{ruby:"Ahahaha... It seems that way.:「あっはっはっは…、どうもそうみたいだね。}`
+`{ruby:I think I remember seeing this horrible picture, kind of like my entire body had been eaten apart and dismembered.":何だか、全身を食いちぎられてばらばらにされたみたいな、恐ろしい描写があったような気がするよ」}`
+`{ruby:"Speaking of which, don't you think Kanon‐kun's last moments were the coolest?:「それを言ったら、嘉音くんの最期が一番かっこよかったと思うぜぇ？}`
+`{ruby:Even though he had the tables turned on him, it was a showdown with the culprit, right?:返り討ちとは言え、犯人と一騎打ちだろ？}`
+`{ruby:It's a whole bunch better than our confusing last moments!":俺らのよくわからん最期よりは数段マシだぜ〜？」}`
+`{ruby:".........Though, in the end, I was no match for her.":「………結局、何も歯が立ちませんでしたが」}`
+`{ruby:"Still, ...I think that Kanon‐kun's death was a big hint.:「でも、…嘉音くんの死は大きなヒントになったと思うな。}`
+`{ruby:I mean, because of that, it became clear that a 19th person existed.":だって、あのせいで、１９人目の存在が明らかになったんだから」}`
+`{ruby:"Yes.:「そうだね。}`
+`{ruby:At that time, everyone's location was obvious.:あの時点では全員の所在が明らかだった。}`
+`{ruby:So it was impossible for anyone other than some unknown 19th person to kill Kanon‐kun.":だから嘉音くんを殺せるのは、未知の１９人目しかありえない」}`
+`{ruby:"Uu!:「うー！}`
+`{ruby:I did say it was {f:5:Beatrice} from the beginning, over and oooover.:真里亞は最初からベアトリーチェだって、ずーっと言ってるー。}`
+`{ruby:Uu!":うー！」}`
+`{ruby:"......I don't wanna believe it, but that does prove the culprit was a witch calling herself {f:5:Beatrice}.":「……信じたくはねぇけど、ベアトリーチェを名乗る、魔女が犯人ってことになるんだろうぜ」}`
+`{ruby:"That's right...:「そうですよね…。}`
+`{ruby:There were many strange things that happened which a human couldn't do...":人にはできない、不思議なことがいっぱいありましたし…」}`
+`{ruby:"Uu. Only a witch could do things like Auntie Eva's locked‐room murder.:「うー。絵羽伯母さんの密室殺人とか、魔女にしかできない。}`
+`{ruby:A human couldn't do that!:人間にはできない！}`
+`{ruby:Uu!":うー！」}`
+`{ruby:"............Not only is it clear that a 19th person exists, but it is also obvious that this person holds a power that humans can't even imagine.":「…………１９人目が存在することが明らかで、しかもその人物は人間では考えられない力を持っている」}`
+`{ruby:"In that case, I don't think there's anything wrong with calling this person {f:5:Beatrice}.":「となれば、その人物をベアトリーチェと呼んでも、差し支えはねぇだろうぜ」}`
+`{ruby:"...We probably met at the very end.:「…多分、僕たちはラストで、出会っているよ。}`
+`{ruby:...Met with the Golden Witch.":…黄金の魔女にね」}`
+`{ruby:"That's why I kept telling you {f:5:Beatrice} exists.:「だから真里亞は、ベアトリーチェがいるーってずっと言ってる。}`
+`{ruby:It all went bad because no one ever believed.:みんなずっと信じなかったから駄目だった。}`
+`{ruby:Uu!:うー！}`
+`{ruby:Even one of my witch friends says miracles won't happen if you don't believe!:信じないと奇跡は起きないって、友達の魔女も言ってる！}`
+`{ruby:Uu!":うー！」}`
+`{ruby:"That's right.:「そうですね。}`
+`{ruby:{f:5:Beatrice}‐sama is generous to those who respect her.":ベアトリーチェさまは、敬う者に寛大だそうですし」}`
+`{ruby:"......I feel as if, despite the fact that horrible incidents kept occurring one after the other, Maria‐sama wasn't in danger from {f:5:Beatrice}‐sama until the end.":「……真里亞さまは、恐ろしい事件が次々と起こっていっても、最後までベアトリーチェさまの脅威からは外されていたように思います」}`
+`{ruby:"Maria did believe in {f:5:Beatrice} from the very beginning.:「真里亞は、一番の最初っからベアトリーチェを信じてたもんな。}`
+`{ruby:...But then, so did Kanon‐kun and the others, so how do you explain why they were all killed?":…でも、それじゃあ、同じように信じてた嘉音くんたちも殺されたのは納得がいかないぜ？」}`
+`{ruby:"......{f:5:Beatrice}‐sama probably had her reasons.":「……それは多分、ベアトリーチェさまなりのご都合があられたのでしょう」}`
+`{ruby:"If the epitaph poem represented {f:5:Beatrice}‐sama's resurrection ritual, then she needed many sacrifices.:「碑文の歌が、ベアトリーチェさまの復活の儀式を意味するものなら、大勢の生贄が必要だった。}`
+`{ruby:......He must simply have been designated to be one of those.":……そのひとりにご指名をいただけたということなのでしょう」}`
+`{ruby:"...Shannon‐chan, you met a horrible end...:「…紗音ちゃんは、酷い最期だったよ…。}`
+`{ruby:At the very least, I wish your death could have been more peaceful and pretty.":せめて、もう少し綺麗で安らかな方法もあったろうに」}`
+`{ruby:".........Umm, well, ...it's not like it hurt...:「………まぁその、…痛かったわけじゃないですし…。}`
+`{ruby:Besides,:それにほら。}`
+`{ruby:as you can see, right now, I'm perfectly fine, so don't worry.":今はこうして全然平気ですから、へっちゃらです」}`
+`{ruby:Shannon proved this by stroking her cheek which had been crushed during the story, and everyone laughed out loud, smiling.:紗音が劇中では砕かれていた頬を撫でて見せると、みんなは微笑ましそうに大笑いしました。}`
+`{ruby:"Well, it feels a bit weird saying this, ...but I was sure this story would be in the standard mystery genre.:「でも、こう言っちゃ何だけど、…僕はてっきり本格ミステリーだと思ってたからね。}`
+`{ruby:I'm a little surprised to find out that it's fantasy.:ファンタジーだとわかってちょっと驚いてるよ。}`
+`{ruby:After all, a story revolving around an inheritance, set on a Western‐style mansion shut away on an isolated island, ...I thought that was the classic formula for mysteries.":遺産を巡る外界から隔絶された孤島の洋館ものなんて、推理ものの王道だと思ってたからさ」}`
+`{ruby:"......Uu.:「……うー。}`
+`{ruby:It's not fantasyyyy!:ファンタジーじゃないい！}`
+`{ruby:{f:5:Beatrice} "exiiists"!:ベアトリーチェは“い”るのー！}`
+`{ruby:Uu.":うー」}`
+`{ruby:".........Yes, we know.:「………えぇ、わかっています。}`
+`{ruby:{f:5:Beatrice}‐sama does "exist".":ベアトリーチェさまは“い”らっしゃいます」}`
+`{ruby:"That's right.:「そうですね。}`
+`{ruby:......{f:5:Beatrice}‐sama does "exist".":……ベアトリーチェさまは“い”らっしゃいます」}`
+`{ruby:"...I hate to admit it, but I've got no choice.:「…悔しいが認めざるを得ねぇよな。}`
+`{ruby:Because it's obvious that a 19th person, a witch, was involved...!":１９人目の魔女の関与は明らかだしなぁ…！」}`
+`{ruby:"She pulled off many things that would be impossible for humans.:「人間には不可能なことをいくつもやってのけてる。}`
+`{ruby:During the story, we thought of all kinds of things, trying to deny that.":劇中の僕らは、それを否定したくてあれこれと考えたけれども」}`
+`{ruby:"...But now I can say it clearly.:「…今なら、はっきり言えるよ。}`
+`{ruby:Each one of them, all of them, were crimes impossible for a human.:どれもいずれも、全て、人間には不可能な犯罪だった。}`
+`{ruby:......Those crimes would be impossible to carry out unless it was the witch {f:5:Beatrice} using all of the power magic could provide.":……魔法の力を使いこなす、魔女のベアトリーチェにしか為し得ない犯行だよ」}`
+`{ruby:"The culprit was a witch.:「犯人は魔女だった。}`
+`{ruby:That point is perfectly clear.:その一点において、何の曇りもねぇぜ。}`
+`{ruby:Long live {f:5:Beatrice}‐sama.:ベアトリーチェさま万歳ってわけだ。}`
+`{ruby:Hahahahahaha.":はっははははは」}`
+`{ruby:"Uu.:「うー。}`
+`{ruby:Everyone believed.:みんな信じた。}`
+`{ruby:I'm happy.:真里亞は嬉しい。}`
+`{ruby:Uu!":うー！」}`
+`{ruby:"......Gods and witches might seem terrifying to people who are frightened of them,:「……神さまも魔女も、怖がる人には恐ろしい存在かもしれませんけど、}`
+`{ruby:but I think they must have affection for those who believe in and respect them.":信じ、敬う人にとっては、きっと慈しみのある存在に違いないと思います」}`
+`{ruby:"............I think it's just as you say.":「…………姉さんの、言う通りだと思います」}`
+`{ruby:"So, now we're all done with playing with murder cases.:「じゃあさ、せっかく殺人事件ごっこは終わったわけだし。}`
+`{ruby:Now's the time to pull ourselves together and try hard to solve the riddle of the epitaph, just like {f:5:Beatrice} said, right?":ここで気を取り直して、ちゃんとベアトリーチェの言う通り、碑文の謎に挑戦してみねぇか？」}`
+`{ruby:"Uu!:「うー！}`
+`{ruby:Agreed!:賛成！}`
+`{ruby:{f:5:Beatrice} will definitely be happy.":きっとベアトリーチェも喜ぶ」}`
+`{ruby:"Hahahahaha...:「ははははは…。}`
+`{ruby:We all ignored that letter during the story, after all.":劇中ではみんな無視してたからね、あの手紙は」}`
+`{ruby:"......Even though it was thrust right in front of us, we almost completely ignored it.:「……せっかく、出題されたのに、ほとんど無視されて。}`
+`{ruby:I kind of feel sorry for {f:5:Beatrice}‐sama.":何だか可哀想ですね、ベアトリーチェさま」}`
+`{ruby:"I have a memo with the epitaph on it!:「碑文のメモがある！}`
+`{ruby:Let's all solve the puzzle, let's all solve the puzzle...!":みんなで謎解き、みんなで謎解き…！」}`
+`{ruby:"This story probably went wrong ever since that time.":「物語は多分、この時点から間違ってたんだろうね」}`
+`{ruby:".........That may be so.:「………そうかもしれません。}`
+`{ruby:Maybe we should have tried solving the epitaph's riddle from the beginning, like {f:5:Beatrice}‐sama said.":私たちは、ベアトリーチェさまのご指示通り、碑文の謎に挑むべきだったのかもしれません」}`
+`{ruby:"Well, it's a little late now.:「まぁ、すっかり遅くなっちまったけどな。}`
+`{ruby:Even so, let's try solving it now and see if the witch forgives us.:今からでも再挑戦するってことで、魔女さまには許してもらおうぜ。}`
+`{ruby:Let's go, let's try to solve the riddle of the epitaph.:ささ、碑文の謎に挑戦してみよう。}`
+`{ruby:......Here we are, "Behold the sweetfish river, running through my beloved home of old"...":……何々、“懐かしき、故郷を貫く鮎の川”…」}`
+`{ruby:As Maria put her notebook on the table, and opened to the page where the epitaph was written,:真里亞がテーブルの上に、碑文を記したノートのページを開くと、}`
+`{ruby:everyone peered closely at it, and had fun and lively discussion as they started guessing this and that about the riddle.:みんなはそこを覗き込みながら、楽しげに碑文の謎をあれこれ推測して賑わうのでした。}`
+`{ruby:Surrounded by the smell of the black tea and the freshly baked vanilla cookies, they spent the time comfortably and happily......:紅茶の香りと、焼きたてのクッキーのバニラの香りが、それに彩を加える、とても楽しげでゆったりとした時間……。}`
+`{ruby:"..................Wait a second, you guys.":「………………ちょいと待てよ、お前ら」}`
+`{ruby:Battler said, in a tone that ruined the mood.:なのに、戦人が水を差すような言い方で、それを口にしました。}`
+`{ruby:His expression looked a little unhappy.:見れば表情はどこか不愉快そう。}`
+`{ruby:{n}What could he not like about all of this fun?:{n}この楽しい時間の何が気に入らないというのでしょうか。}`
+`{ruby:"...I've been listening to you guys, and—why did you all stop thinking?:「…お前ら、さっきから聞いてりゃ、何を思考停止してんだ？}`
+`{ruby:Why are you so sure that the witch was behind all of this?:何で魔女の仕業ってことで決まってんだよ。}`
+`{ruby:...Don't you realize that stuff like that doesn't exist?":…そんなのあるわきゃねぇじゃねぇかよ」}`
+`{ruby:With just those words, ...the happy atmosphere of the tea party disappeared in no time at all.:戦人のその一言に、…お茶会の楽しい空気があっという間になくなってしまいました。}`
+`{ruby:George and Jessica.:譲治も、朱志香も。}`
+`{ruby:And Shannon and Kanon.:紗音も、嘉音も。}`
+`{ruby:And Maria.:そして真里亞も。}`
+`{ruby:......All of them stared blankly, wondering why Battler was saying such weird things.:……戦人は何を変なことを言い出すんだろうと、きょとんとしています。}`
+`{ruby:Even the foolish and arrogant Battler noticed he had said the wrong thing.:愚かで身の程知らずの戦人も、さすがに自分が失言したことに気付きました。}`
+`{ruby:"...W‐.........well, come on.:「…だ、………だって。}`
+`{ruby:Isn't it clear that these crimes were impossible for a human?":明らかに人間には無理な事件だったじゃないか」}`
+`{ruby:"Y‐yeah, yeah!:「そ、そうだぜ、そうだぜ。}`
+`{ruby:...None of the cases would have been possible for a human.":…どの事件も人間には無理なことばかり」}`
+`{ruby:"That's right...:「そうですよね…。}`
+`{ruby:After all, wasn't it full of things that you couldn't explain using humans...?":だって、人間じゃ、説明がつかないことばかりじゃないですか…」}`
+`{ruby:"...I don't understand what you're saying, Battler‐sama.":「…戦人さまが、何を言い出すのか、僕にはわかりません」}`
+`{ruby:"I, I'm the one who doesn't have a clue what {i:you guys} are talking about!:「お…、お前たちこそ、何を口々に言い出すのかさっぱりだぜ。}`
+`{ruby:Isn't it obvious that humans committed these crimes?:こんなの人間が起こした事件に決まってるじゃねぇかよ。}`
+`{ruby:There's obviously no such thing as witches, right...?":魔女なんているわけねぇだろ…？」}`
+`{ruby:"Th‐...then...:「じゃ、…じゃあ。}`
+`{ruby:...What about when I was killed in the storehouse, and something horrible was done to half of my face?:…私が倉庫の中で殺されてた時、顔の半分を酷いことにされていましたが、}`
+`{ruby:......If the culprit was human, how could they have accomplished it...?":……あれは人間が犯人なら、どう再現するというのですか…？」}`
+`{ruby:"...Well...:「…そりゃ、}`
+`{ruby:......I mean...:……まぁ、}`
+`{ruby:It's hard to imagine how they could've done something that awful.":どうやったらあんな酷ぇことができるのか、ちょっと想像はつかねぇけどよ」}`
+`{ruby:"But that was the rose garden storehouse, right?:「でも、あそこは薔薇庭園の倉庫だぜ？}`
+`{ruby:I'm sure there were plenty of weird tools in there.:きっと中に妙な道具とかがいくらでもあっただろ。}`
+`{ruby:Don't ask me, but...they could've used some electrical tool like a grinder or an electric saw, couldn't they?":わかんねぇけどよ、例えば、電ノコとかグラインダーとか、そんな電動工具でも使ったのかもしれねぇじゃないか」}`
+`{ruby:"...............Th‐:「……………そ、}`
+`{ruby:.........that's......:………それは……、}`
+`{ruby:...umm...":…その…」}`
+`{ruby:"Okay, Battler...:「じゃあ、戦人…。}`
+`{ruby:Then how do you explain Grandfather's disappearance from the locked room of his study...?:祖父さまが密室の書斎から消え去っていたのはどう説明するんだよ…。}`
+`{ruby:Grandfather disappeared all of a sudden even though the door was sealed, remember...?":扉は封印されていたのに、祖父さまは忽然と消え去ってたぜ…？」}`
+`{ruby:"We talked about that during the story, too.:「その話は劇中でも出ただろ。}`
+`{ruby:It's not impossible that Grandfather used some trick to fool the receipt.:祖父さまが何らかの方法を使えば、レシートを誤魔化すことは不可能じゃない。}`
+`{ruby:It's also possible that he went out the window, or fell out the window, and Aunt Natsuhi locked it from the inside.:あるいは窓から出て、あるいは落ちて、夏妃伯母さんが窓を内側から施錠した可能性もある。}`
+`{ruby:I could think of a bunch of tricks you could use without relying on magic...you see?":別に、魔法を使わなくたって、他にもいくつか手は思いつくだろうぜ…？」}`
+`{ruby:"............Th‐:「…………そ、}`
+`{ruby:......that makes sense, but.........":……それはそうだけどよ………」}`
+`{ruby:"In that case, Battler‐kun,:「なら戦人くん。}`
+`{ruby:how do you explain the way my parents were killed in the guest room?:僕の母さんたちが客室の中で殺されていたのはどう説明するんだい？}`
+`{ruby:The door was sealed by the lock and the chain.:扉には鍵もチェーンも掛かってた。}`
+`{ruby:Naturally, the windows were sealed too.:無論、窓もね。}`
+`{ruby:How would you suggest a human could have killed my parents?":どうやって人間に、母さんたちを殺せたって言うんだい？」}`
+`{ruby:"...Well,:「…まぁ、}`
+`{ruby:......you're right, we did have to leave that trick alone during the story.:……確かにそのトリックは劇中でも保留になったままだったな。}`
+`{ruby:Anyways, there's a good chance that the culprit had the key at least.:とにかく、犯人は鍵だけは持ってる可能性が高いからな。}`
+`{ruby:And it was possible to look in through the crack of the door that the chain allowed.":チェーンに許される程度の、扉の隙間は確保できたわけだ」}`
+`{ruby:"......This is extremely far‐fetched, but it is possible that some device was used through that crack.:「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。}`
+`{ruby:...Or maybe they brought something out through the crack...?":…いや、あるいは、その隙間から、何かを出したとか…？」}`
+`{ruby:"......Hmmmm, well, even though chains are incredibly simple, they're a big factor in constructing a locked room...:「……んんん、確かにチェーンってのは、偉いシンプルだが、密室を構成するでかい要素だな…。}`
+`{ruby:.........But authors have done almost every possible locked‐room trick there is to do by now.:………だが、密室トリックなんておよそやり尽くされてるんだ。}`
+`{ruby:If you bought just a few locked‐room mysteries from some bookstore or other, you could probably find some trick that would fit perfectly.":そこいらの書店で密室ミステリーを数冊買ってくりゃ、どうせビンゴなトリックが見付かるだろうぜ」}`
+`{ruby:"......Anyways, I can't think of one now...but I can state for certain that a human could manage it somehow if they tried hard enough.":「……とにかく、俺には思いつかねぇが、どうにかやりくりすりゃあ、人間にできないことはないだろうって断言できる」}`
+`{ruby:"Isn't that argument horribly irrational...?:「それは酷い暴論じゃないかい…？}`
+`{ruby:It's just ridiculous to claim that it's possible for a human to do something, even though you can't explain how...":説明できないのに、人間に可能だと断言できるなんて、めちゃめちゃだよ…」}`
+`{ruby:"......Why is that ridiculous?:「……何がどうめちゃめちゃなんだよ。}`
+`{ruby:Why did all of you stop thinking?:兄貴たちは何を思考停止してんだよ。}`
+`{ruby:Even if it looks impossible, it has to be doable.:一見できなさそうに見えても、どうせできるんだよ。}`
+`{ruby:Doesn't it always work like that?":それがお約束ってもんだろうが」}`
+`{ruby:"Battler, you're the one being ridiculous.:「めちゃめちゃなのは戦人の方だぜ。}`
+`{ruby:......If you think a human could've done it, try explaining how.:……人間にできるってんなら、説明してみろよ。}`
+`{ruby:You can't, can you?":できねぇだろ？」}`
+`{ruby:"And just because I can't explain it, that immediately makes the culprit a witch?:「できなきゃすぐに犯人は魔女ってことで落ち着くのかよ。}`
+`{ruby:With that argument, all of the unsolved crimes in the world could be resolved by saying a witch is the culprit!":その論法で行っちまったら、世界中の未解決事件は全部、魔女が犯人ってことで決着しちまうぞ！」}`
+`{ruby:"......Battler, you're sidestepping the issue, and you aren't explaining anything.:「……戦人は問題を掏り替えてるし、何も説明してない。}`
+`{ruby:...We are saying "A human can't do it.:…真里亞たちは、“人間にはできない。}`
+`{ruby:Therefore the culprit is something that isn't human.:だから人間じゃない存在が犯人。}`
+`{ruby:And that something is a witch.":それが魔女”だと、そう言っている。}`
+`{ruby:And yet you keep arbitrarily deciding that witches are impossible even though you can't explain anything.":なのに戦人は、説明できないけど魔女はありえないとか、一方的な決め付けで言ってる」}`
+`{ruby:"......Kihihihihihihihihihihihi, it's almost like humanity was during the dark ages.:「……きひひひひひひひひひひ、まるで、無知な時代の人類のようだね。}`
+`{ruby:Like those fools who claimed that the Earth couldn't possibly be spinning,:地球が回ってるはずがない、説明はできないけど、}`
+`{ruby:that the heavens had to be spinning around the Earth, even though they couldn't say how.":宇宙が地球を中心に回ってるんだと言い張る愚か者のよう」}`
+`{ruby:"...............Th‐...that kind of argument kinda pisses me off.:「……………な、…何だか気に入らねぇ論法だが。}`
+`{ruby:So this is basically what you're trying to say.:つまりお前らはこう言いたいのかよ。}`
+`{ruby:...If I can't explain how a human could do it,:…人間に可能だと説明できないなら、犯人が魔女、}`
+`{ruby:...then I must accept that the culprit is the witch, {f:5:Beatrice}?":…ベアトリーチェであることを受け容れろってことかよ」}`
+`{ruby:"............It's not like we're forcing you.:「…………そこまで押し付けているわけではありません。}`
+`{ruby:We were just wondering on what basis you can say such nonsense.":ただ、戦人さまが、何を根拠にそのような世迷言を言い出すのかと思いまして」}`
+`{ruby:"N‐...nonsense...:「よ、…世迷言って、}`
+`{ruby:......:………。}`
+`{ruby:......H‐...hey, is what I've been saying really that weird?!":……な、…なぁ、俺ってさっきからそんなに変なこと言ってるか？！」}`
+`{ruby:"Am I the one who's crazy?!:「おかしいのは俺なのか？！}`
+`{ruby:You guys are really starting to freak me out!":さっきから偉ぇ不愉快だぞッ？！」}`
+`{ruby:"......Battler‐sama.:「……戦人さま。}`
+`{ruby:When I died in the boiler room, I was killed by a 19th person who shouldn't exist.":僕は、自分が死んだ時、ボイラー室で、存在しないはずの１９人目に殺されています」}`
+`{ruby:"...Can you explain how a human could have done that?:「…それが人間の仕業だと説明できるのですか？}`
+`{ruby:At that time, the locations of the 18 were well known.:あの時、１８人の所在は全員がはっきりしていました。}`
+`{ruby:Even so, I was killed.":にもかかわらず、僕は殺されている」}`
+`{ruby:"We talked about that in the story as well...!:「その件も劇中で言ってるぜ…？！}`
+`{ruby:Kumasawa baa‐chan, for example.:例えば、熊沢の婆ちゃんだ。}`
+`{ruby:She said that she followed right after you'd headed down into the boiler room, but for all we know, that might've been a lie.":嘉音くんがボイラー室に下りてからすぐ後を追ったと言ってるが、実は嘘かも知れねぇ」}`
+`{ruby:"She might've entered the boiler room with you and caught you by surprise!:「一緒にボイラー室に入って、不意を突いてブッスリ行っちまったのかも知れねぇ！}`
+`{ruby:Or maybe, when you stepped into the boiler room, you activated some kind of trap, one that might have been set up to hit you with one of those icepicks.":あるいは、ボイラー室に踏み込むと、何かのトラップが発動して、例のアイスピックが打ち込まれるように仕掛けられていたのかもしれない」}`
+`{ruby:"After all, the stink of Grandfather's body was coming from the incinerator.:「何しろ焼却炉からは祖父さまの遺体の悪臭だ。}`
+`{ruby:Someone was bound to come, so all the culprit had to do was set up a trap, and it would be more than possible for them to stay away from that place and create an alibi for the time of your death...!":必ず誰かがやってくるわけだから、仕掛けだけ施せば、犯人はその場を離れ、嘉音くんの死亡時刻にアリバイを作ることは充分できる…！」}`
+`{ruby:"......You talk about a trap in the boiler room...but what kind of trap?":「……ボイラー室のトラップって、どんなのですか…？」}`
+`{ruby:"That's right.:「そうだよ。}`
+`{ruby:After that happened, we all immediately ran over to the boiler room.:あの後、すぐみんながボイラー室に駆けつけた。}`
+`{ruby:But we didn't find any kind of weird device like that!":でもそんな変な仕掛けは見つけられなかったじゃないか！」}`
+`{ruby:"......That is correct.:「……左様です。}`
+`{ruby:Battler‐sama, what kind of trap do you claim I was killed with...?":戦人さま、どんな仕掛けで、僕は殺されたというのですか…？」}`
+`{ruby:"Well,:「いや、}`
+`{ruby:.........I don't know that.:…………それはわからねぇ。}`
+`{ruby:...But anyway, they must have pulled off some kind of trap, or maybe someone is lying, or...:…でも、とにかく、何かの仕掛けをうまくやってだな、あるいは誰かが嘘をついて…、}`
+`{ruby:or what about this?!":こうも考えられるぜ？！」}`
+`{ruby:"Kanon‐kun, what if the whole thing was just you playacting?!:「そもそもあれは嘉音くんの自作自演だったとかな？！}`
+`{ruby:Th‐that's it, you were playacting!!:そ、そうだ、自作自演だ！！}`
+`{ruby:Auntie Eva and Uncle Hideyoshi were also playacting.:絵羽伯母さんたちも自作自演なんだよ。}`
+`{ruby:They made the locked room themselves, and were only pretending to be dead!":自分で密室を作り、死んだふりをした！」}`
+`{ruby:".........Battler...:「………戦人…。}`
+`{ruby:.........Has your...:………お前、}`
+`{ruby:head been...:さっきから頭、}`
+`{ruby:feeling alright......?":…大丈夫か……？」}`
+`{ruby:"......Umm, .........should I bring some cold drinks...?":「……あの、………冷たいお飲み物でもお持ちしましょうか…？」}`
+`{ruby:"D‐don't look at me with those pitying eyes, I'm not saying something that crazy...:「そ、そこまで憐れみの目で見られるほど妙なことは言ってねぇだろ…。}`
+`{ruby:I'm just pointing out possibilities that could have been used as tricks, alright?":俺はあくまでも、トリックを考える上での可能性について言っただけだぜ？」}`
+`{ruby:"Look, isn't one of the clichés in mystery stories that the victims aren't really dead?!":「それにほら、死者が実は死んでないなんて、推理物のお約束じゃねぇかよ！」}`
+`{ruby:"Clichés...?":「お約束って…？」}`
+`{ruby:"O‐okay, so.:「つ、つまりだ。}`
+`{ruby:When Kanon‐kun was killed, we really did know for sure where the rest of us were.:嘉音くんが殺された時、確かに俺たち全員の所在ははっきりしていた。}`
+`{ruby:And let's assume that Kumasawa baa‐chan wasn't lying.":そして熊沢の婆ちゃんも嘘はついてないとする」}`
+`{ruby:"But that only holds true for the survivors.:「でも、それは生存者だけの話だ。}`
+`{ruby:......If the culprit pretended to be dead, placed themselves together with the real victims to hide themselves, and then acted on their own later, then everything would be explained!":……もし、死んだふりをして犠牲者に混じり姿を眩ましていた犯人が別行動をしていたとしたら、全ては説明できる！」}`
+`{ruby:"............I guess...:「…………はぁ…。}`
+`{ruby:Are you trying to say that Auntie Eva or one of the rest of them was the culprit...?:つまり、絵羽叔母さんたちが犯人だと言いたいわけか…？}`
+`{ruby:But Doctor Nanjo confirmed everyone's death as a doctor, remember?":でも、叔母さんたちの死亡については南條先生が医者として判断してるぜ？」}`
+`{ruby:"......That's right.:「……そうです。}`
+`{ruby:Doctor Nanjo checked all of the victims.:南條先生は、全ての犠牲者について確認しています。}`
+`{ruby:...Battler‐sama, for your theory to work, wouldn't Doctor Nanjo have to be one of the culprits too?":…もし戦人さまの説を採用するなら、南條先生も犯人ということになりますか？」}`
+`{ruby:"Uh, yeah, that's right!!:「あ、あぁっ、そうだな！！}`
+`{ruby:Once you consider that Doctor Nanjo might have been one of the culprits and faked the proclamation of death, the whole story changes...!:南條先生が犯人の一味で、嘘の死亡宣告をしていたかもしれないと考えりゃ、話は変わってくるぜ…！}`
+`{ruby:See, that's also a cliché in mystery novels, isn't it?!!":ほら、これも推理物のお約束じゃねぇかよ！！」}`
+`{ruby:"......But Doctor Nanjo was also killed...":「……でも、南條先生も殺されたよ…？」}`
+`{ruby:"Umm, .........about that...:「っと、………それはだな。}`
+`{ruby:...That's right, Doctor Nanjo faked his death!":…そうさ、南條先生は偽装死なんだ！」}`
+`{ruby:"I mean, there wasn't anyone except Doctor Nanjo who could examine corpses properly, and everyone was really confused then anyway.:「何しろ、南條先生以外に検死ができるやつはいねぇし、あの時はもう混乱してる状況下だ。}`
+`{ruby:We didn't have any spare time to check and see if he still had a pulse!:本当に脈が止まってるかなんて、のんびり確かめてる暇もなかったぜ！}`
+`{ruby:With this theory, any one of the dead people could have been walking around!":この論法なら、死者は誰だって歩き回れたことになる！」}`
+`{ruby:".........I think that it would have been hard for the six of us who died in the beginning to do that...:「………私たち最初の６人は難しかったんじゃないかと思います…。}`
+`{ruby:......After all, the shutter was closed, ...and there was a padlock that couldn't have been opened from the inside...":……だって、シャッターを閉められた上に、…内側からは開けられない南京錠を掛けられちゃいましたし…」}`
+`{ruby:"Yeah.:「そうだぜ。}`
+`{ruby:Mom was holding onto that key.:その鍵は母さんが預かった。}`
+`{ruby:So was Mom one of the culprits too?":じゃあ、母さんも犯人の一味だってのかよ？」}`
+`{ruby:"...Aaaaaaah, wait a sec, ...:「…あぁあぁぁぁ、いやいや…、}`
+`{ruby:maybe it was impossible for the first six, but in the case of Aniki's parents, the door was only locked on the outside.:最初の６人は無理そうだが、絵羽伯母さんたちは外から鍵を掛けただけだろ。}`
+`{ruby:So they could have opened it from the inside...:なら内側から開けられるし…、}`
+`{ruby:...That's right, after we left the room, maybe they jumped out the window and got to the boiler room first!":…そうさ、俺たちが部屋を出た後、窓から飛び出して、ボイラー室に先回りしたとか！」}`
+`{ruby:"Is, ......is that too much...?!:「く、……苦しいか…？！}`
+`{ruby:Or maybe Doctor Nanjo made a mistake when examining the corpses?!":あるいは南條先生も検死を誤ったとかな？！」}`
+`{ruby:"Look, he said it himself, right?:「ほら、自分でも言ってたぜ？}`
+`{ruby:He said that there's a very high probability of making a mistake when examining corpses!:検死は誤診率が高いとかって！}`
+`{ruby:They disguised it well, or prepared a substitute corpse or something, and faked their own death!!:うまく偽装したとか、身代わり死体を用意したとかで、死を誤魔化したんだ！！}`
+`{ruby:Let's leave the method or trick they used for later...and...you see, it's not that hard to deny a 19th person existed!":方法やトリックは、これから考えるとして、とにかくとにかく、１９人目を否定することはそう難しいことじゃないんだ！」}`
+`{ruby:"Much less a {i:witch}!:「ましてや魔女ぉ？}`
+`{ruby:At least that much is completely impossible!!":それだけは断じてありえねぇ！！」}`
+`{ruby:"............I don't know why you've been trying so stubbornly to say that one of us is the culprit.:「…………戦人がさっきから、何で頑なに、みんなの中に犯人がいるようにしたいのか、わかんない。}`
+`{ruby:Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi, in other words, you want to suspect one of your relatives...?":きひひひひひひひひひ、つまり戦人は、親族の誰かを疑いたいんだよね…？」}`
+`{ruby:"That's not it...:「そういうわけじゃねぇ…。}`
+`{ruby:It's just, uh, I can't easily accept that a 19th person existed...and even if one did, I think we should construct our argument from the point of view that the culprit was a human—:ただその、安易に１９人目を肯定はできねぇし、仮にいたとしてもそれは人間だって見地から話を構築すべきであって、}`
+`{ruby:witches are something you only start talking about in desperation, at the very end, after everything else has been disproved, that's what I'm trying to say.":それら全部を否定しきった最後の最後で苦し紛れに出てくるのが魔女だろって話をしたいんだ」}`
+`{ruby:"I mean, come on, there's no way witches exist, right?!:「魔女なんているわけないだろ？！}`
+`{ruby:Why have you all just been casually accepting that the culprit was a witch?":何でさっきからみんなは、魔女が犯人ってことでひょいひょい納得したがるんだ？」}`
+`{ruby:"I think it's great how your family love makes you hate the thought that someone close to you is a murderer.:「そりゃ、身内に殺人犯がいると思いたくねぇ家族愛は立派さ。}`
+`{ruby:But is it alright to just brush things over like that?!:でも、それで誤魔化しちまっていいのかよ？！}`
+`{ruby:Don't you want to find the detestable culprit who killed so many people?!":あれだけ大勢を殺した憎き犯人を見つけ出したいとは思わねぇのかよ？！」}`
+`{ruby:"Aniki, you want to avenge your parents, don't you?!:「兄貴だって、両親の仇を見つけたいだろ？！}`
+`{ruby:Jessica, you want to avenge Kanon‐kun, and Kanon‐kun, you want to avenge Shannon‐chan, right?!:朱志香だって嘉音くんの仇を、そして嘉音くんだって、紗音ちゃんの仇を見つけたいだろ？！}`
+`{ruby:Shannon‐chan, you should at least want to know who it was that killed you.":紗音ちゃんだって、自分を殺したのが誰なのか知りたいはずだ」}`
+`{ruby:"Why have you all totally surrendered and decided that the culprit was a witch?!:「何でこうパーンと全面降伏して、魔女が犯人ってことになっちまうんだよ？！}`
+`{ruby:What's wrong with all of you?!":お前らさっきから何なんだ？！」}`
+`{ruby:The foolish and short‐tempered Battler tried to force his ignorance on the others by yelling at them.:短気で愚かな戦人は、自分の無知を他者に求めようと食って掛かります。}`
+`{ruby:...However, everyone just looked at him pityingly, silently watching over him.:…しかし、みんなは憐れみの眼差しで、ただ静かに見守るのでした。}`
+`{ruby:Then, the wise Maria laughed, and pointed out Battler's mistake for him.:すると、聡明なる真里亞は笑いながら、戦人に間違いを指摘してあげました。}`
+`{ruby:"...............Kihihihihihihihihi.:「……………きひひひひひひひひ。}`
+`{ruby:...We're just astounded.:…呆れてるんだよ。}`
+`{ruby:......All you've been doing is repeating this nonsense, thinking you've figured something out, Battler.":……戦人はさっきから、支離滅裂なことを繰り返しては何かをわかったような気になってるだけ」}`
+`{ruby:"......So what?:「……だから？}`
+`{ruby:And?:それで？}`
+`{ruby:How would a human do it?:人間にどうやって？}`
+`{ruby:Concretely?:具体的には？}`
+`{ruby:Whenever we ask you those questions, all you say is "I just can't think of anything now" or "with some kind of device" or something, using abstract words to run away and evade the topic.":そう聞くと、決まって戦人は、今は思いつかないけど、とか、何かの仕掛けで、とか、抽象的な言葉で逃げたりお茶を濁したり」}`
+`{ruby:"......In fact, I want to ask {i:you}, Battler.:「……むしろ、知りたいよ戦人。}`
+`{ruby:Why don't {i:you} believe in {f:5:Beatrice}?:どうしてベアトリーチェを信じないの？}`
+`{ruby:She "exists", so why don't you believe?":“い”るのに、どうして？」}`
+`{ruby:"Because she doesn't "exist"!:「“い”ねぇからだよ！}`
+`{ruby:Witches don't "exist"!!:魔女なんか“い”ねぇ！！}`
+`{ruby:There's no way!!":いるわけがねぇ！！」}`
+`{ruby:......He was almost like a stubborn child refusing for no reason.:……それは、まるで認めたくないというだけの、子どものわがままのよう。}`
+`{ruby:The pitying gazes quietly blanketed Battler, but they didn't reach his stubborn heart.:憐れみの眼差しが、静かに戦人を包みましたが、頑なな彼の心にそれは届きません。}`
+`{ruby:"............You're acting just totally like a kid who can't have his way...":「…………まるっきり、駄々っ子のわがままだぜ？」}`
+`{ruby:"......Battler‐sama.:「……戦人さま。}`
+`{ruby:I understand your feelings, but...":お気持ちはわかりますが…」}`
+`{ruby:".........{f:5:Beatrice}‐sama does "exist".":「………ベアトリーチェさまは、“い”らっしゃるのです」}`
+`{ruby:"Battler‐kun... Why don't you believe?:「戦人くん…、どうして、信じないんだい？}`
+`{ruby:Look at how much circumstantial evidence there is.":これほどまでに、状況証拠は揃ってるのに」}`
+`{ruby:"I don't accept the argument that if I can't explain it it's all the witch.:「説明できなきゃ全て魔女なんて、俺はそんな論法は認めねぇ。}`
+`{ruby:If you don't know how a light bulb shines, if you don't know the principle, does that mean it's all magic?":どうして電球が明るくなるのか、仕掛けを知らなきゃ全て魔法ってことになるのか？」}`
+`{ruby:"It doesn't, does it!:「違うだろ？！}`
+`{ruby:There's nothing that can't be explained without magic!!:魔法じゃなきゃ説明がつかないことなど存在しない！！}`
+`{ruby:All of this about witches and magic is just abdication of thought!:魔女だの魔法だのってのは、思考の放棄だ！}`
+`{ruby:You just surrendered and gave up because you don't understand what happened!:兄貴たちは、わからねぇ事件に屈服して降参しただけなんだ！}`
+`{ruby:I'm right, aren't I!":そうだろ？！」}`
+`{ruby:".....................Ki‐hihihihihihihihihihihi.:「…………………き、ひひひひひひひひひひひ。}`
+`{ruby:...Well, I'm not surprised,:…やっぱり、}`
+`{ruby:......but it looks like you're the only one who's not going to believe no matter what.":……戦人だけはどうしても信じないね」}`
+`{ruby:"......If even a single person doesn't believe, the "miracle" won't occur.:「……誰かひとりでも信じなかったら“奇跡”は起きない。}`
+`{ruby:......So, if you don't rethink your ignorant theories, the miracle, ......the magic won't be completed.":……だから、戦人のその蒙昧な思い込みを改めさせなきゃ、奇跡が、……魔法が完成しないんだよ」}`
+`{ruby:"Heheh...:「へへ…。}`
+`{ruby:Nowww I see.:なぁるほどな。}`
+`{ruby:......I finally figured it out.:……ようやく一端が見えてきたぜ。}`
+`{ruby:...So in other words, you guys want to get me to say that the witch exists, don't you?:…つまりお前らは俺に、魔女様は存在する、って言わせたいんだろ？}`
+`{ruby:If everyone accepts this lie, it will become "the truth".:全員が認めた嘘は“真実”になる。}`
+`{ruby:......That's what this is all about, isn't it?!":……そういうこったろッ？！」}`
+`{ruby:"......Well, too bad.:「……生憎だな。}`
+`{ruby:This is the one place I'm going to have to say too bad, that's no goddamn good at all. I refuse.:ここばかりは生憎だが、そいつぁ全然駄目だぜ、お断りだ。}`
+`{ruby:......{i:You guys are all pressing me, and that is exactly why it's no goddamn good.}":……{i:お前らが俺にそう詰め寄るからこそ、だからこそ全然駄目なんだ}」}`
+`{ruby:".....................Why?":「…………………どうして？」}`
+`{ruby:"Sorry, but why don't you let me flip over the chessboard one last time...?:「悪ぃが、最後の最後でもう一回、チェス盤をひっくり返させてもらうぜ…？}`
+`{ruby:If you want to force me to accept that there's a witch, there's a really easy way.":魔女の存在を俺に認めさせたいなら、一番簡単な方法があるはずさ」}`
+`{ruby:"......And it's not the roundabout way of saying "humans can't do it so it must be a witch"!:「……それは、人間にはできないから魔女なんていう遠回しな方法じゃない！}`
+`{ruby:All you have to do is actually show it to me, the way a witch did it with magic.":魔女が魔法でやって見せた、それを俺に見せるだけの話なんだ」}`
+`{ruby:"Furthermore, what Maria said earlier is what will really dig her grave.:「さらにだ、さっき真里亞が言ったことが一番墓穴を掘ってる。}`
+`{ruby:......You said that if even one person doesn't believe, a "miracle" won't occur.":……誰かひとりでも信じなかったら“奇跡”は起きないってな」}`
+`{ruby:"But real miracles happen whether people believe in them or not!:「真の奇跡は、誰が信じようと信じまいと勝手に起こる！}`
+`{ruby:Even if I alone don't believe!!:たとえ俺一人が信じなかったとしてもだ！！}`
+`{ruby:So any miracles or magic or witches that exist only because I believe in them are downright lies!!":だからこそ、俺が信じれば成立する奇跡も魔法も、そして魔女も嘘っぱちだってわけさ！！」}`
+`{ruby:".................................":「…………………………………」}`
+`{ruby:The uneasy mood following Battler's ignorant rant...:その戦人の無知な暴言によって荒んでしまった空気を、}`
+`{ruby:was thoughtfully blown away by a very refreshing and light laugh.:とても涼しげで軽やかな笑い声が吹き飛ばしてくれました。}`
+`{ruby:Whose laugh...?:誰の笑い声…？}`
+`{ruby:Battler was surprised by that voice which he had never heard before.:戦人は初めて聞くその声に驚きました。}`
+`{ruby:When he looked at George and Jessica, at Shannon and Kanon and Maria, he noticed that they had suddenly gone respectfully silent.:見れば、いつの間にか、譲治や朱志香、紗音に嘉音たちは畏まるように口を噤んでいます。}`
+`{ruby:"..................{f:5:Beatrice}.":「………………ベアトリーチェ」}`
+`{ruby:".........Wonderful.:「………良い。}`
+`{ruby:...I haven't been able to meet such a charming human for quite some time.":…久しぶりに愉快な人間に出会えたものよ」}`
+`{ruby:"Wh‐:「お、}`
+`{ruby:..................who...:………………お前、}`
+`{ruby:......are you...":………誰だ…」}`
+`{ruby:"......So you don't even know the host of the tea party to which you were invited.:「……招かれた茶会のホストも知らぬか。}`
+`{ruby:......Simply wonderful.:……良い良い。}`
+`{ruby:*cackle*cackle*...!":くっくっくっく…！」}`
+`{ruby:"...You are graced by the presence of the Golden Witch who has lived for a thousand years, {f:5:Beatrice}‐sama.":「…こちらのお方は、千年を生きる黄金の魔女、ベアトリーチェさまにあらせられます」}`
+`{ruby:"I am most honored to see you, {f:5:Beatrice}‐sama...":「ご機嫌麗しゅう、ベアトリーチェさま…」}`
+`{ruby:"......Please forgive Battler‐kun's ranting.":「……戦人くんの暴言をどうかお許し下さい」}`
+`{ruby:"Th‐this guy's just stubborn, and, umm, he still doesn't understand the situation he's in......!":「こ、こいつは頑固でその、まだ、自分の置かれた状況がわかってなくて……！」}`
+`{ruby:"*cackle*cackle*cackle*...:「くっくっくっくっく…。}`
+`{ruby:It is fine.:良い良い。}`
+`{ruby:......After a thousand years, most witches get tired of living.:……千年も生きると、大抵の魔女は生き飽きる。}`
+`{ruby:Once in a while, it is nice to meet a man with backbone such as yourself.":そなたのような気骨ある男も時には良い」}`
+`{ruby:"...............It is quite an honor to be present when {f:5:Beatrice} shows herself, Battler.":「……………ベアトリーチェがお姿を現してくれるのは、とても光栄なことだよ、戦人」}`
+`{ruby:"......Heh,:「……へ、}`
+`{ruby:.........heh‐heh‐heh‐heh...!!:………へっへっへっへ…！！}`
+`{ruby:Now this...:こりゃあ、}`
+`{ruby:......This is some shit.:……たまげたぜ。}`
+`{ruby:...Are you really that desperate to make me believe that a witch,:…そこまでして、俺に魔女が、}`
+`{ruby:...that a 19th person is the culprit...?":…１９人目が犯人だと思い込ませてぇのかよ…」}`
+`{ruby:"This is starting to get interesting...!:「ますますに気に入った…！}`
+`{ruby:And it's no goddamn good...!!:だから全然駄目だぜ…！！}`
+`{ruby:You must be an illusion of the witch {f:5:Beatrice} who's asserted by Maria and the others.":お前は、真里亞たちが主張する、魔女ベアトリーチェの幻影というわけだ」}`
+`{ruby:".........And only when everyone believes in your existence will you finally be allowed to exist.:「………そして、全員がその存在を信じることでようやく存在を許される。}`
+`{ruby:...You're that kind of a fictional being, right?:…そういう虚構の存在なんだろ？}`
+`{ruby:That's why you want to make me believe too.:だから俺にも信じさせたい。}`
+`{ruby:{i:You can't exist, because I alone don't believe in you}.:{i:俺だけが信じないから、存在できない}。}`
+`{ruby:.........Isn't that right?!":………そうなんだろ？！」}`
+`{ruby:".........Your power of understanding isn't bad for a common mortal who knows nothing of magic.:「………魔に通じぬ凡夫の分際にしては、理解力は悪くない。}`
+`{ruby:.........I see, it seems that you were born with a strong magic‐resisting power.":………なるほど、どうやらそなたは生まれながらにして、魔力に強い抵抗力を持つらしいな」}`
+`{ruby:"......The natural enemy of us witches.:「……我ら魔女の天敵よ。}`
+`{ruby:...No matter how much we tip you upside down and shake you,:…どう逆さに振るって見せようとも、}`
+`{ruby:{i:you will never believe in us}.:{i:決して我らを信じない}。}`
+`{ruby:{i:Therefore, magic will fall short against you}.:{i:だから魔法が及ばない}。}`
+`{ruby:...That attitude of yours makes a great deal of sense.:…お前のその態度にも納得が行こうというものよ。}`
+`{ruby:*cackle*cackle*...!":くっくっくっく…！」}`
+`{ruby:"I've got no clue what you're saying, ihihi!:「何を言ってやがるかさっぱりだぜ、いっひっひ！}`
+`{ruby:It's very kind of you to go to all of the trouble of showing yourself to us,:わざわざお姿まで現してもらって恐縮だが、}`
+`{ruby:but I don't believe you exist in the slightest.":俺はお前さんの存在なんて、これっぽっちも信じやしないぜ」}`
+`{ruby:"It's true that many strange things happened during those two days.:「確かにこの２日間、妙なことは何度か起こった。}`
+`{ruby:Like Maria said earlier, even though I think that all of the tricks could be explained, I still can't lay out the practical details of each one.:さっき真里亞に言われた通り、俺はそれら全てにトリックの説明がつけられると思っているが、個々に具体的にはまだ挙げられてねぇ。}`
+`{ruby:But that doesn't mean I'll surrender.":だが、だからといって屈するわけじゃない」}`
+`{ruby:"I'm different from the rest of them, see?:「俺は兄貴たちとは違うぜ？}`
+`{ruby:I'll never argue that it was the work of a witch just because I can't explain it.":説明できないから、魔女の仕業だなんて論法には絶対ぇならねぇぜ」}`
+`{ruby:".........My interest in you grows deeper.:「………ますますに気に入ったぞ。}`
+`{ruby:It will be worth my time to break you...":お前は屈服させ甲斐がある…」}`
+`{ruby:"......You're just the kind of man I'd love to force into praising my name......:「……お前のような男にこそ、我が名を讃えさせてみせたいぞ……？}`
+`{ruby:You're just the kind of man I'd love to force into kissing my toes.:お前のような男にこそ、爪先にキスをさせてみたいものよ。}`
+`{ruby:...*cackle*cackle*cackle*!":…くっくっくっくっく！」}`
+`{ruby:"Talk all the nonsense you want...!:「寝言言いたきゃ好きなだけ言ってろ…！}`
+`{ruby:I deny you exist.:俺はお前なんか否定してやるぜ。}`
+`{ruby:All of the events can be explained with "human tricks"...!!:全ての出来事を“人間とトリック”で説明してやる…！！}`
+`{ruby:There's no room for even a speck of magic or witches!!":そこには一片たりとも魔女も魔法も入り込む余地はねぇッ！！」}`
+`{ruby:"Wonderful!:「良い！}`
+`{ruby:......This is the perfect form of diversion from a thousand years of boredom.":……それでこそ千年の退屈も紛れるというものよ」}`
+`{ruby:"Then let me ask you.:「ならば聞こう。}`
+`{ruby:A short while ago, you said that using the crack in the door would be sufficient to kill Eva and Hideyoshi, right...?:お前は先ほど、絵羽たちを殺すのに、扉の隙間を利用すれば良いと言ったな…？}`
+`{ruby:Explain how you would do that using your human tricks.":人間とトリックで、どう殺してみせるのか、説明するがいい」}`
+`{ruby:"......Heh.:「……へ。}`
+`{ruby:Suddenly jumping right into the toughest part, are you?:いきなり、一番辛いところから切り込んできやがったな。}`
+`{ruby:...Does that mean that this is the trick you're proudest of?:…ってことは、このトリックが一番の自信作、ってことなんだろ？}`
+`{ruby:Miss {i:Real Culprit}?":{i:真犯人}さんよぅ」}`
+`{ruby:{f:5:Beatrice} shook her golden pipe,:ベアトリーチェが黄金の煙管を振るうと、}`
+`{ruby:and seven colors of gentle smoke trailed out of the end.:そこから七色の煙が柔らかく尾を引きました。}`
+`{ruby:...The smoke quickly obscured the surroundings,:…それらは見る見る周囲を覆うと、}`
+`{ruby:......and they were suddenly in the hallway of the mansion.:……いつの間にかそこはお屋敷の廊下に。}`
+`{ruby:In front of their eyes, a slightly opened door, secured by a chain...:目の前には、チェーンで閉じられ、わずかに開いた客室の扉が…。}`
+`{ruby:Yes, it was the entrance to the room where Eva and Hideyoshi had been killed.:そう、絵羽たちが殺された部屋の入口なのです。}`
+`{ruby:"......N‐nice trick...":「……べ、便利じゃねぇかよ…」}`
+`{ruby:"Now then.:「さて。}`
+`{ruby:Show me what you would do through this small crack, "Battler".":このわずかな隙間から、どうしてみせるのか、戦人とやら」}`
+`{ruby:"Erk............:「く、…………。}`
+`{ruby:......Th‐they probably had some device to shoot those "icepicks".:……た、多分、あの“アイスピック”を打ち出せる射出機があるんだ。}`
+`{ruby:If they used that......":そいつを使って……」}`
+`{ruby:"How would you aim at Eva over on the bed when you can't see that far through this crack?:「その隙間からは見えぬ、ベッドの上の絵羽をどう狙うのか？}`
+`{ruby:......And how would you reach Hideyoshi, in the bathroom with the door shut...?":……そして、バスルームに篭り扉を閉めた秀吉をどう狙うのか…？」}`
+`{ruby:".................................Dammit.........:「……………………………くそ、………。}`
+`{ruby:...There is a crack...:…隙間はある…。}`
+`{ruby:There should be some way......":何か方法があるはずなんだ……」}`
+`{ruby:"*cackle*cackle*.:「くっくっくっく。}`
+`{ruby:If you can't think of one, allow me.":お前に思いつかぬなら、妾がやって見せても良いぞ」}`
+`{ruby:"......Oh?:「……ほぉ。}`
+`{ruby:Go on, how would a great witch do it, then...:魔女さまならどうやってみせるってんだよ…。}`
+`{ruby:C'mon, let's see your little trick...":お手並みを拝見してやろうじゃねぇか…」}`
+`{ruby:"............Battler, you're being rude to {f:5:Beatrice}...":「………戦人、ベアトリーチェに口の利き方がぞんざい…」}`
+`{ruby:"It is fine, quite fine.:「良い良い。}`
+`{ruby:What a charming man.:愉快な男よ。}`
+`{ruby:...It will make it all the more enjoyable to break him.":…それでこそ屈服させる楽しみが増すというものよ」}`
+`{ruby:"......Heh!:「……へ！}`
+`{ruby:You really want to make me kiss your toes that much...?!:そんなに俺に爪先にキスをさせてぇかよ…！}`
+`{ruby:Only if I surrender!:俺が降参したらな！}`
+`{ruby:But watch... I'll definitely expose this trick, and then I'll make you kiss my ass instead!":だが見てろ、きっと俺がこのトリックを暴いて、逆に手前ぇを俺のケツにキスさせてやるぜ！」}`
+`{ruby:"...............*cackle*.:「……………くっくっく。}`
+`{ruby:What a charming man.:愉快な男よ。}`
+`{ruby:I shall remember that promise.:覚えておこうぞ、その約束を。}`
+`{ruby:...Weak witches kiss the behinds of demons to gain power.:…弱き魔女は、力を得るために悪魔の尻にキスをする。}`
+`{ruby:Because there is no greater oath of total submission.:それを超える屈服の誓いはないからな。}`
+`{ruby:It is words like those that give me the desire to subjugate you.:そこまで言わせたからこそ、妾はお前を屈服させてみたくなる。}`
+`{ruby:.........*cackle*cackle*...!":………くっくっくっく…！」}`
+`{ruby:Paying no mind to Battler's crude ranting, {f:5:Beatrice} once again waved her golden pipe.:ベアトリーチェは、戦人の品なき暴言を気に留めることなく、黄金の煙管を再び振るいました。}`
+`{ruby:......Yes, for that golden pipe was her precious magic wand.:……そう、この黄金の煙管は、彼女にとっての大事なケーンなのです。}`
+`{ruby:"Come, arise, children.:「さぁさ、お出でなさいな子どもたち。}`
+`{ruby:I am the guide of Purgatory.:我こそは煉獄の案内人。}`
+`{ruby:Wield the seven stakes, which forgave the deadly sins.":大罪を赦せし七つの杭を持て」}`
+`{ruby:Guided by those magic words, which sounded like a psalm, seven stakes gathered.:謳うような魔法の言葉に導かれ、７つの杭が集います。}`
+`{ruby:{n}...They were the stakes of the seven demons symbolizing the deadly sins of sinful people.:{n}…それは、罪深き人の大罪を象徴する七人の悪魔たちの杭。}`
+`{ruby:"Beelzebub and Asmodeus.:「ベルゼブブにアスモデウス。}`
+`{ruby:Come, forgive their sins.:さぁさ、罪を赦しなさい。}`
+`{ruby:Release the spirits of the sinners...!":罪人の魂を解放なさい…！」}`
+`{ruby:"Wha...?!":「ぅおッ…？！」}`
+`{ruby:The stakes of Beelzebub and Asmodeus responded to {f:5:Beatrice}'s call.:ベアトリーチェの呼びかけに、ベルゼブブの杭とアスモデウスの杭が応えます。}`
+`{ruby:The two demonic stakes burst into motion like billiard balls struck by a cue, and were sucked in through the crack of the door.:その２本の悪魔の杭は、まるでキューに弾かれたビリヤードの玉のように弾かれ、扉の隙間に吸い込まれていきます。}`
+`{ruby:Then came the sound of them deflecting repeatedly off the walls of the room, making a sound like a woodpecker.:そして、部屋中の壁に何度も乱反射する音が、まるで啄木鳥の啄ばむ音のように聞こえてくるのです。}`
+`{ruby:And finally, a pleasant sound could be heard.:そして最後に、気持ちのいい音が聞こえました。}`
+`{ruby:......It was a small, satisfying sound, like the one heard when someone is chopping firewood and the falling ax neatly and easily slices through the wood.:……例えるなら、薪割りの時、振るい下ろした斧が綺麗にさっくりと薪を割ったような、とても小気味よい音。}`
+`{ruby:It was the sound of the two stakes burying themselves deep into Eva and Hideyoshi's foreheads.:それは、２本の杭がそれぞれ、絵羽と秀吉の眉間に深々と打ち込まれた時の音。}`
+`{ruby:"............Right through the middle.:「…………ど真ん中というところよ。}`
+`{ruby:Want to see...?":見てみるか…？」}`
+`{ruby:They had definitely heard two sounds like someone's forehead being split open.:部屋からは確かに、眉間が砕ける音が二人分聞こえました。}`
+`{ruby:Battler wasn't permitted to see it, since he was on the other side of the door,:扉越しの戦人には見ることも叶いませんが、}`
+`{ruby:but those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood spray as before.:二度死ぬ二人は、二度目も寸分違わぬ同じ姿で倒れ、同じ模様の血痕を描くのでした。}`
+`{ruby:"Y‐............you must be crazy...:「ば、…………馬鹿野郎…。}`
+`{ruby:Th‐......this is insane......!:そ、……そんな滅茶苦茶で……！}`
+`{ruby:Y‐you can't kill people with this insanity!!!":こ、殺せてたまるかよッ！！！」}`
+`{ruby:"I most certainly can.:「殺せるとも。}`
+`{ruby:......I can kill them just like this...!:……このように殺せるとも…！}`
+`{ruby:*cackle*cackle*cackle*!":くっくくくくくくく！」}`
+`{ruby:Suddenly, they were no longer in the hall, but seated at the tea party they had started from.:気付けばそこは廊下ではなく、元のお茶会の席。}`
+`{ruby:......Everyone but Battler was sitting meekly, ......but Kanon was moaning, fresh blood dangling from his mouth.:……戦人以外のみんなは神妙に座っていましたが、……嘉音が呻きながら口から鮮血を垂らし始めます。}`
+`{ruby:{n}Such bad manners for a tea party.:{n}お茶会の席で、はしたないですね。}`
+`{ruby:Satan's stake was buried deep into Kanon's chest.:嘉音の胸には、サタンの杭が深々と打ち込まれていました。}`
+`{ruby:"..................u...:「………………ぅ、}`
+`{ruby:...............gah...:……………く}`
+`{ruby:......":………」}`
+`{ruby:"Ka‐......Kanon‐kun......:「か、……嘉音くん……、}`
+`{ruby:Kanon‐kun!!:嘉音くんッ！！}`
+`{ruby:Daa......damn iiiiiiiiiit!!":く、……くそぉおおぉおぉ！！」}`
+`{ruby:Battler was the only one getting agitated.:激昂するのは戦人ばかり。}`
+`{ruby:George, Jessica, Shannon—everyone else was meekly hanging their heads like students being told off by their teacher.:他の、譲治や朱志香、紗音は、まるで先生に怒られている生徒のように、神妙に俯いています。}`
+`{ruby:"...Kanon, you were captivated by a trifling anger and tried to disturb my banquet.:「…嘉音は瑣末な怒りに囚われ、妾の宴を乱そうとした。}`
+`{ruby:......Your deadly sin is being easily captivated by anger.:……怒りに囚われやすいのがお前の大罪よ。}`
+`{ruby:Cleanse yourself, regret, and do it over.":清め、悔いてやり直すがいい」}`
+`{ruby:"......{f:5:at}:「……ァト}`
+`{ruby:......{f:5:rice}......:……リーチェ……、}`
+`{ruby:......sa...ma...............":……さ、ま……………」}`
+`{ruby:"B‐...{f:5:Beatrice}‐sama...:「ベ、…ベアトリーチェさま…。}`
+`{ruby:Please, forgive him...:どうかお許し下さい…。}`
+`{ruby:I think Kanon‐kun has repented enough......!":嘉音くんは充分に反省したと思います……！」}`
+`{ruby:"Wonderful.:「良い。}`
+`{ruby:I am generous to those who respect me.:妾は敬う者に寛大である。}`
+`{ruby:......*cackle*cackle*...!":……くっくっくっくっく…！」}`
+`{ruby:"Cut the crap!!!:「ふざけるなッ！！！}`
+`{ruby:Don't think for a second that this piss‐poor show of theatrics will convince me of your sorry existence!:こんな三文芝居で俺がお前の存在を認めると思うなよ？！}`
+`{ruby:Like hell you're a thousand‐year‐old witch!:何が千年を生きた魔女だ！}`
+`{ruby:Your tricks aren't a thousand years old, at best they're the accumulation of a hundred years of clichés that the mystery world created!":手前ぇのトリックなんざ、千年じゃねえ、せいぜい百年程度のミステリー界が作ったお約束の累積上にあるだけだ！」}`
+`{ruby:"They're not magic!!:「魔法なんかじゃねぇ！！}`
+`{ruby:No way are they magic!!:断じてねぇ！！}`
+`{ruby:All of these crimes can be explained with "human tricks"!!":事件の全ては“人間とトリック”で説明がつく！！」}`
+`{ruby:"*cackle*cackle*!:「くっくっくっく！}`
+`{ruby:You would explain my thousand years with a hundred years by humans...?:我が千年を人間共の百年で語るか…。}`
+`{ruby:Good, good, that's why I like you...!":良い良い、だからこそ妾はお前を気に入る…！」}`
+`{ruby:"...............Foolish Battler...:「……………愚かな戦人…。}`
+`{ruby:Kihhihihihihihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!":きっひひひひひひひひひひひひひひひひ…！」}`
+`{ruby:"......Stop yourself, Battler‐kun...:「……よすんだ、戦人くん…。}`
+`{ruby:{f:5:Beatrice}‐sama is someone you can't...:ベアトリーチェさまに逆らっちゃ…、}`
+`{ruby:go...against......":い…けない……」}`
+`{ruby:"............nn...:「…………ん、}`
+`{ruby:......u...:………ぅ、}`
+`{ruby:............u...":……………ぅ…」}`
+`{ruby:Shannon started moaning, holding her cheek.:紗音が頬を押さえながら呻き始めます。}`
+`{ruby:{n}...Maybe she had a toothache.:{n}…虫歯でも痛むのかもしれません。}`
+`{ruby:But it didn't look anything like a toothache.:ですが、それはどうも虫歯ではないようでした。}`
+`{ruby:{n}......A slight redness spread across the cheek Shannon was holding.:{n}……うっすらと赤い模様が、紗音が押さえる頬全体に広がっていくのです。}`
+`{ruby:It looked like that redness was causing Shannon unbearable pain...:その赤い模様は、紗音にとって、堪え難い苦痛を与えているようでした…。}`
+`{ruby:She started to press her nails into her cheek, and drops of sweat appeared all over her body...:頬に当てる手はいつしか爪を立てるほどになり、全身に汗が玉のように浮いていきます…。}`
+`{ruby:"...Shannon...:「…紗音…、}`
+`{ruby:Shannon...!!:紗音…！！}`
+`{ruby:Hang in there...hang in there!":しっかり…しっかりッ！」}`
+`{ruby:"What's going on?!:「どうしたってんだよ！}`
+`{ruby:Damn it, what the hell is that red stuff...?!":くそ、何なんだこりゃ、この赤いのは…！」}`
+`{ruby:It expanded rapidly, covering half of Shannon's face...:それは見る見る広がって、紗音の顔半分を覆ってしまいます…。}`
+`{ruby:...Then, the stupid dunce Battler finally realized...:…そして、ようやく愚鈍で間抜けな戦人は気付くのです。}`
+`{ruby:"Ple‐please, Battler‐kun...!:「た、頼む、戦人くん…！}`
+`{ruby:Please believe in {f:5:Beatrice}‐sama...!:ベアトリーチェさまを信じてくれ…！}`
+`{ruby:I beg you...!!:後生だから…！！}`
+`{ruby:Aaaaaaah, because you won't believe,:あぁあぁぁ、君が信じないから、}`
+`{ruby:because you won't believe, aaaaaaaaaah...:信じないからぁ、ぁぁああぁ…、}`
+`{ruby:the magic is,:魔法が、}`
+`{ruby:......the magic is wearing off!!!!!!!!":……魔法が解けてしまうぅうぅうぅッ！！」}`
+`{ruby:For the first time in his life, ......Battler heard that sound, like a pomegranate splitting.:戦人は、……生まれて初めて、石榴が裂ける音というものを聞きます。}`
+`{ruby:The red spray even landed on Battler's face...:その、赤い飛沫が、戦人の顔にも飛び散りました…。}`
+`{ruby:How sad—Shannon's face had been split in half, ...and her last horrible moments in that storehouse had been repeated once again.:哀れ、紗音の顔は半分がばっくりと裂け、…あの倉庫の中でのおぞましい最期をもう一度そこに繰り返してしまいます。}`
+`{ruby:"U...uwaaaaaaaaaaaaaaaaaaaaaaaaa, Shannon, Shannon!!:「う、うわぁああああああああぁああああぁ、紗音、紗音ッ！！}`
+`{ruby:Uwaaaaaaaaaaaaaaaaaaa!!!":うわああああぁあああああぁぁあぁあああああ！！！」}`
+`{ruby:"G...ghhhkkk, damn you, damn youuuuuuu!:「く…、うぐぐ、くそお、くそおぉおおおおッ！}`
+`{ruby:Stop it, stop it, stop it!!:やめろ、やめろやめろぉおおぉ！！}`
+`{ruby:Don't humiliate the dead, don't humiliate the deeeeeaaaaad!!":死者を辱めるな、死者を辱めるなあああぁッ！！」}`
+`{ruby:"Uuuu......gah.........eeeggh!!":「ぅうう、……く、………ひぃッ！！」}`
+`{ruby:This time, red patterns began to spread across George's entire body...:今度は、譲治の全身に赤い模様が広がっていきます…。}`
+`{ruby:It was like the beautiful cloud drawn by milk when it is poured into black tea.:それはまるで、紅茶にたっぷりと落としたミルクが描くかのような美しき雲模様。}`
+`{ruby:They slowly spread out and extended across his entire body.:それらがじわりと、そして全体に、広がっていきます。}`
+`{ruby:......As they grew more saturated in color, they seemed to give George increasingly greater pain.:……それらは色濃くなるに従い、譲治に苦痛を与えるようでした。}`
+`{ruby:Looking at those bizarre patterns, ......Battler was petrified as he frantically thought with his pitifully clumsy imagination...:その奇怪な模様を見て、……戦人は、譲治たちがどのような奇怪な最期を遂げたのか、}`
+`{ruby:about the nature of the strange deaths that George and the others had experienced...:哀れなほど拙い想像力で必死に考え、立ち竦みます…。}`
+`{ruby:Before long, ......that redness reached the nearby Jessica as well......:やがて、……その赤い模様はさらに隣の朱志香にも……。}`
+`{ruby:"Gah,:「く、}`
+`{ruby:.........ee...:………ぃ、}`
+`{ruby:......ack...:……く、}`
+`{ruby:.........hh!!":…………ッ！！」}`
+`{ruby:"St‐stop stop stop!!!:「や、やめろやめろやめろッ！！！}`
+`{ruby:What did Aniki do,:兄貴が何をした、}`
+`{ruby:what did Jessica do,:朱志香が何をした、}`
+`{ruby:just STOOOOOOP!!!":もうやめろぉおおおおおおぉ！！！」}`
+`{ruby:"Ba‐:「ば、}`
+`{ruby:......Battler......:……戦人……、}`
+`{ruby:......Don‐:……ま、}`
+`{ruby:...don't let the witch...:…魔女なんかに、}`
+`{ruby:break your spirit......!:…挫けるんじゃねぇぜ……！}`
+`{ruby:......Deny her,:……否定しろ、}`
+`{ruby:erase her...:ぶっ消してやれ…。}`
+`{ruby:As, ......as long as at least one person denies her,:こいつは、……誰かひとりでも否定する限り、}`
+`{ruby:she's an illusion that can't exist......!:存在できない幻影なんだ……！}`
+`{ruby:Uuuuughhh, gghhh!!":ううぅううぅ、くぅッ！！！」}`
+`{ruby:"A‐are you OK, Jessica?!!:「だ、大丈夫か朱志香！！}`
+`{ruby:Whah, A‐Aniki?!?!":うわッ、あ、兄貴ッ？！？！」}`
+`{ruby:George was no longer shaped like a person.:もう譲治は人の形をしてはいません。}`
+`{ruby:...He looked like the pile of leftover meat after the good, delicious meat has been scraped off to be cooked.:…まるで、お料理でおいしいお肉を削いだ後に残した残骸の山のよう。}`
+`{ruby:...The only traces left of his time as a human were the shape of his lower jaw and rib cage.:…せいぜい、人の頃の痕跡を残すのは、下顎の部分とあばら骨の形状くらいでしょうか。}`
+`{ruby:And it was clear that Jessica, who was covered with a steadily strengthening redness, was approaching the same fate.:そして、赤い模様がどんどん色濃くなる朱志香も、同じ末路を辿ることは明白でした。}`
+`{ruby:"............Uu.:「…………うー。}`
+`{ruby:...Battler.:…戦人。}`
+`{ruby:......Quick, believe in {f:5:Beatrice}...:……早く、ベアトリーチェを信じて…。}`
+`{ruby:.........If you don't,:………じゃないと、}`
+`{ruby:.........everyone's magic...:………みんなの魔法が、}`
+`{ruby:......will wear off...":………解けてしまう…」}`
+`{ruby:"Ma‐Maria, it's all over your body, too......!!!":「ま、真里亞、お、お前も全身に……ッ！！！」}`
+`{ruby:"I resurrect all the dead with my magic.:「妾は魔法で、全ての死者を蘇らせる。}`
+`{ruby:......But as long as you don't believe, that magic will hold no true power.:……でも、お前が信じない限り、それは真の力を持たない。}`
+`{ruby:*cackle*cackle*cackle*!:くっくっくっくっく！}`
+`{ruby:But I'm sure that a man of your caliber won't be broken by something like this, right...?":もっともお前ほどの男が、この程度のことで屈服することはあるまい…？」}`
+`{ruby:"Ba‐:「ば、}`
+`{ruby:...Battler......!:…戦人……ッ！}`
+`{ruby:We...:私たちは、}`
+`{ruby:...didn't want to doubt our friends...:……身内を疑いたくなかった…。}`
+`{ruby:We refused to face reality,:現実から目を逸らしたから、}`
+`{ruby:...and gave in to the witch......!:…魔女に屈してしまった……！}`
+`{ruby:But...:でも、}`
+`{ruby:I know you...:…戦人なら…。}`
+`{ruby:......I know you won't...:……戦人なら、}`
+`{ruby:...give in to that witch......!:……魔女になんか屈しない……！}`
+`{ruby:Geh...:ひぐッ、}`
+`{ruby:ggghh...:ぐかかか、}`
+`{ruby:......gggggghhkkkkkkk!!!":……くかかかかかかかッ！！！」}`
+`{ruby:"Jessica, JESSICAAAAA, waaaaAAAAAAAaaaAAAahh!!":「朱志香ッ、朱志香ぁぁああぁ、わぁああああああああぁあああぁあッ！！」}`
+`{ruby:How sad—Jessica met the same end.:哀れ、朱志香も同じ末路。}`
+`{ruby:{n}...Just like George, she ended up like a butcher's leftovers.:{n}…譲治と同じ、お肉屋さんの残骸のよう。}`
+`{ruby:Broken apart, melted, and all mixed up, so you couldn't tell which was George and which was Jessica anymore.:崩れて解けて、混じってしまうから、もうどれが譲治で朱志香か、わからない。}`
+`{ruby:"...............Battler.:「……………戦人。}`
+`{ruby:Don't cry.:泣かないで。}`
+`{ruby:...{f:5:Beatrice} will resurrect the dead over and over.:…ベアトリーチェは、死者を何度でも蘇らせてくれるよ。}`
+`{ruby:So there's nothing to be sad about...:だから悲しくないよ…。}`
+`{ruby:......So,:……だから、}`
+`{ruby:............even if we die, we're still...:………死んでも、}`
+`{ruby:......just......:………平……、}`
+`{ruby:fine—":気…、」}`
+`{ruby:The redness began eating into the whole of Maria's body...:真里亞の全身にも赤い模様がじわりじわりと蝕んでいきます…。}`
+`{ruby:When he saw this, the foolish Battler screamed out loud.:それを見て、愚かな戦人は絶叫します。}`
+`{ruby:"You bitch, you won't get away with this, I'll never forgive you!!:「手前ぇは許さねぇ、絶対に許さねぇッ！！}`
+`{ruby:You call yourself a witch?! You call this magic?!:何が魔女だ、何が魔法だ！！}`
+`{ruby:I'll deny you with every last fiber of my being...!!:俺は全身全霊を賭けてお前を否定してやるぞ…！！}`
+`{ruby:I don't care what happens, there's not a chance in hell I'm ever gonna accept you!!:何が何でも手前ぇを認めるわけにはいかねぇ！！}`
+`{ruby:If you want me as an enemy that bad, I'm gonna make sure you get what's coming to you!!":俺をここまで敵に回しやがった以上、絶対ぇに手前ぇだけは許さねぇ！！」}`
+`{ruby:"I'll get you for this, you're gonna pay for this, you're going to fucking pay!!!!:「許さねぇ許さねぇ絶対許さねぇ！！}`
+`{ruby:You're gonna regret making Ushiromiya Battler your enemy!!:よくもこの右代宮戦人を敵に回しやがったッ！！}`
+`{ruby:I'll deny you no matter what!!:何が何でも貴様を否定してやるぞ！！}`
+`{ruby:Every last impossible thing, I'll explain it all with "humans"!!!:どんな不可解だろうと全部、“人間”で説明してやるッ！！！}`
+`{ruby:I'll erase every cell of you from this world!!!":手前ぇをこの世から、細胞の一欠けらまで残さず消し去ってやるッ！！！」}`
+`{ruby:"You! You speak well, "Battler"...!:「よくぞ言ったぞ、戦人とやら…！}`
+`{ruby:That's the kind of thing that can divert me from my thousand years of boredom!":それでこそ我が千年の退屈も紛れるというもの！」}`
+`{ruby:"Come, explain.:「さぁ、説明するがいい。}`
+`{ruby:Try explaining it all with your so‐called "human tricks"!:“人間とトリック”とやらで説明してみせるがいい！}`
+`{ruby:And learn how lowly humans are!!:そして人間の身の程を知るがいい！！}`
+`{ruby:Let's see you try to use what humanity has built up in a hundred years to oppose my thousand!!:我が千年を、人間共が築いたとかいう百年で太刀打ちできるか試してみるがいいッ！！}`
+`{ruby:It will make forcing you to submit all the more enjoyable...!!":それでこそお前を屈服させる楽しみが増すというものよ…！！」}`
+`{ruby:"So tell me, "Battler"!:「さぁ聞こう、戦人とやら！}`
+`{ruby:What about Maria's letter?:真里亞の手紙は？}`
+`{ruby:How the six were killed?:６人の殺し方は？}`
+`{ruby:The shutter?:シャッターは？}`
+`{ruby:The receipt seal?:レシートの封印は？}`
+`{ruby:The locked room with the chain?:チェーンの密室は？}`
+`{ruby:Kanon in the boiler room?:嘉音のボイラー室は？}`
+`{ruby:Genji and the others in the parlor?!:源次たちの客間は？！}`
+`{ruby:Natsuhi's suicide?!:夏妃の自殺は？！}`
+`{ruby:The riddle of the epitaph?!:碑文の謎は？！}`
+`{ruby:The location of the hidden gold?!":隠された黄金の在り処は？！」}`
+`{ruby:"Come, Battler, why don't you show me the power of "humans"?!:「さぁ、戦人とやら、“人間”の力を見せてもらおうではないかッ！}`
+`{ruby:Fuhahahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!!":ふっはははははははははははははははは！！！」}`
+`{ruby:"OoooooOOOOOOooooooooooOOOOOOOOohh!!!":「うをおぉおおおぉおおおおおおおおおおおおおおおおおぉッッ！！！」}`

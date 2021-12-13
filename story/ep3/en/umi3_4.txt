@@ -1,871 +1,871 @@
-`「…なるほどな…。"...I see...`
-`魔女じゃなく、ベアトリーチェという名の愛人が島に存在していたわけか…」 So, not a witch, but a mistress by the name of {f:5:Beatrice} did exist on the island..."`
-`「……つまり人間は１８人以上いる！"......So there can be more than 18 people!`
-`　ということは、１８人全員に不可能だから魔法犯罪である、という図式は崩せるわけだ。 Which means I can defeat that line of reasoning which says that, if it was impossible for all 18 people, it must be a crime involving magic.`
-`……これは大きい情報だぜ」 ......That's some big information."`
-`「失礼いたします。"Excuse me.`
-`戦人さま、紅茶とクッキーはいかがですか？」 Battler‐sama, would you care for some black tea and cookies?"`
-`どこからともなく、あのロノウェとか名乗ったベアトの執事が現れる。Beato's butler, who called himself Ronove, appeared out of nowhere in particular.`
-`手に持つ銀のトレーには、美味しそうに湯気を立てる紅茶とクッキーを盛り付けた皿が置かれていた。Placed upon the silver tray that he held was a plate filled with delicious‐looking, steaming black tea and cookies.`
-`…どうもこいつの笑みは好かないぜ。...I really don't like this guy's smile.`
-`{n}何というのか、客を歓待する笑みじゃない。{n}For some reason, it doesn't look like a smile used to warmly greet a guest.`
-`{n}どこか小馬鹿にしたような、そんな笑いなのだ。{n}It feels like he's making fun of me for some reason.`
-`…それが文字通り馬鹿にしているのか、...I don't know whether he really takes me for an idiot,`
-`それとも冗談程度のレベルなのかわからないのが、何ともイラつくが。 or whether it's just a joke or something, but it's really irritating me.`
-`「……いらねぇよ。"......I don't want any.`
-`俺は今、取り込み中なんだ。 I'm busy right now.`
-`放っておいてくれ」 Leave me alone."`
-`「おやおや。"Oh, my.`
-`それはそれは美味しく焼けたクッキーなのに、とても残念です。 That is a shame, when the cookies have turned out oh so very delicious.`
-`ニンゲン如きには勿体無いくらいに素敵に焼きあがった、それはそれは素敵なクッキーなのに」 Cooked so wonderfully it is a shame to waste them on a simple {y:0:Human}{n:0:human}, truly wonderful cookies."`
-`「気が向いたら食ってやるぜ。"I'll eat some when I feel like it.`
-`その辺に置いて、とっとと失せな」 Set it down somewhere over there and get out of here."`
-`「左様でございますか。"Will that be acceptable?`
-`それではそのようにいたしますよ。 Then I shall do so.`
-`冷めてからお召し上がりになって、焼きたてを召し上がらなかったことを存分に後悔なされると良いでしょう」 You may eat them when they get cold and stale, and then regret as much as you like that you did not eat them when they were freshly baked."`
-`「………いちいち、うるさいヤツだな。".........You really are annoying.`
-`…まぁ、耳元で気色悪くケラケラ笑うベアトのヤツよりゃ数段マシだがよ」 ...Well, you're a lot better than that Beato, who keeps doing that creepy cackle right next to my ear."`
-`「いえいえまったく。"Oh, yes, yes, that is quite true.`
-`お嬢様の笑い声は時折、実に品がありません。 There are times when Milady's laughter becomes quite undignified.`
-`それを聞く度に、なぜ私ほどの高貴な悪魔が、 Every time I hear it, I think of my noble rank,`
-`あのような者を主にしなければならないのか、理解に苦しむのでございますよ。 and struggle to comprehend why I must have such a person as my master.`
-`ぷっくっくっく…」 Pu ku ku ku..."`
-`「……変なヤツだな。"......Man you're weird.`
-`そんなに嫌なら仕えなきゃいいだろうが」 If you don't like it, then couldn't you just not work for her?"`
-`「それでも尚お仕えするのが、家具の喜びなのでございますよ。"To continue serving despite that is furniture's joy.`
-`それでなくては家具は務まりません」 One could not serve as furniture without such an attitude."`
-`「……それはさておき。"......Let us set that aside.`
-`ゲームの方はいかがでございますか？ How has the game been proceeding?`
-`　先ほど、良い情報を見つけたようなことを言われ、お喜びになられていたようですが。 Just now, I believe I heard you say that you had found some good information, and were quite pleased by it.`
-`はてさて、どのような浅知恵が思いついたやら」 Well now, I wonder what your shallow wit has thought up."`
-`ロノウェはくすくすと小馬鹿にするように笑いながら、As Ronove made fun of me and giggled,`
-`俺に言われた通りの文字通りに、適当なその辺に紅茶とクッキーを配膳する。 he followed my earlier words to the letter and placed the black tea and cookies somewhere arbitrary nearby.`
-`「……大方、１９人目の存在に自信を深めたからでございましょう？"......I imagine it is because you have gained increased confidence in the existence of a 19th person?`
-`　よろしければ、ぜひご高説をお聞かせ願えますか？」 Would you be gracious enough to allow me to hear your opinion?"`
-`「………………。"..................`
-`……あぁ、いいぜ。 ......Yeah, sure.`
-`どうせベアトの前で改めて言うしな。 I'm just going to say it again in front of Beato anyway.`
-`隠す必要もないさ」 No reason to hide it."`
-`「……いいか。"......Alright.`
-`この島に隠し屋敷があって、愛人を住まわせていたらしいんだ。 It looks like there's a hidden mansion somewhere on this island, and that Grandfather had his mistress living there.`
-`となりゃ、俺を苦しめてきた１８人なのか１９人なのかって疑問は簡単に決着する」 In that case, the question that's been torturing me, about whether there are 18 or 19 people, can be easily resolved."`
-`「戦人さまは魔女を否定するくせに、"Although you deny witches,`
-`１８人の中にも犯人を求められないダブルスタンダードの袋小路に、自らを追い込まれました」 you hold a double standard by refusing to seek a culprit among the 18, and have driven yourself into a dead‐end."`
-`「…魔女を否定するもっとも簡単な方法は、１８人の誰かを疑うことだ。"...The easiest way to deny the witch would be to doubt one of the 18.`
-`……１８人全員のアリバイは、そう簡単には揃わない。 ......It's not so easy for every one of the 18 to have an alibi.`
-`常にひとりくらいはアリバイの脆い人間が生まれる。 You always find at least one person with a fragile alibi.`
-`……俺はそいつを生贄にすることで、常に魔女を否定し続けることもできるだろう」 ......I could probably continue to deny the witch forever if I just used that person as a sacrifice."`
-`「しかし、それは断固拒否するッ！！"However, I will steadfastly refuse to do that!!`
-`　あぁダメだぜ、全然ダメだ！ Yeah, that's no good, that's no goddamn good at all!`
-`　１８人はみんな俺にとって親たちや親戚たちやいとこたち！ Every one of those 18 people is either a parent, a relative or a cousin to me!`
-`　そして真面目だったり面白かったりする頼もしい使用人の人たちだ。 And those reliable servants, who are sometimes serious and sometimes funny.`
-`俺はその人たちの誰を生贄にすることも許せないッ！！」 I won't let myself use any one of them as a sacrifice!!"`
-`「かつて俺はその決意があやふやだった。"In the past, my resolve wavered.`
-`だからその心の弱さをベアトに突かれたんだ」 That's how Beato hit me where my heart was weak."`
-`「……自らの弱点を認め、理解する。"......Accepting and understanding your own weaknesses.`
-`なかなか出来ることではありません。 That is not something which can often be accomplished.`
-`戦人さまは１９人目が存在する説を槍にする。 Battler‐sama, you are using this theory about a 19th person as a spear.`
-`…槍というよりは楯、でしょうかな」 ...Or should I say, a shield?"`
-`「何れにせよ、これまでのゲームでの無策と違い、"In any event, unlike how unprepared you were in the games up until now,`
-`戦い方に指針を持たれるのは、劇的飛躍と申せましょう。 let us call the fact that you now have a compass bearing on how to fight...a dramatic leap forward.`
-`これで戦人さまは、敬愛する１８人を疑わずに、 With this, you need not doubt any of the 18 you love and respect,`
-`存分に１９人目を疑い、人間犯人説を追求できるわけでございます」 and can easily suspect a 19th person, and pursue your theory that the culprit is a human."`
-`「そういうことさ。"That's it exactly.`
-`最初のゲームの、嘉音くんが殺されたボイラー室とか、 Like in the first game, when Kanon‐kun was killed in the boiler room,`
-`…他にも他にも、 ...and a bunch of other places,`
-`１９人目が存在していたなら、迷う必要なんかないトリックはいくつもある」 there are countless tricks I can use without hesitation if a 19th person existed."`
-`一番最初のゲームで、嘉音くんはボイラー室で殺された。In the very first game, Kanon‐kun had been killed in the boiler room.`
-`普通に考えたなら、一緒にボイラー室に下りた熊沢さんが襲ったとか、One might think that he was attacked by Kumasawa‐san, who had gone down into the boiler room with him,`
-`あるいは死んだように見えた誰かが実は偽装で、 or maybe that someone who had appeared to be dead earlier was actually faking,`
-`ボイラー室で嘉音くんを待ち伏せたとか、 and had ambushed Kanon‐kun in the boiler room.`
-`何れにせよ、１８人の誰かを疑わなければならない指し手だった。 Either way, it was a move that forced me to suspect one of the 18.`
-`しかし、１９人目が存在することをあっさりと仮定するだけで、However, by simply proposing that a 19th person exists,`
-`このボイラー室の殺人について１８人の誰も疑う必要はない。 there's no longer any need to suspect one of the 18 for that murder in the boiler room.`
-`「つまり！"In short!`
-`　１８人の誰にも無理だから＝犯人は魔女、 "Impossible for any of the 18 = The culprit is a witch"...`
-`という図式だけは否定することができるわけさ」 is an equation that I can now deny."`
-`この論法なら例えば、今回のゲームでもすでに問題提起されている、Using this argument, we can take, for example, the question which has been raised once again in this game,`
-`“真里亞に手紙を渡したのは誰か？” "who gave Maria the letter?",`
-`という問いも簡単に説明できる。 and come up with an easy explanation.`
-`１８人全員にアリバイがあろうとも、 Even if all 18 people have alibis,`
-`ゆえに１９人目の人物が訪れて手紙を渡したと、実に簡単に説明できるのだ。 I can easily explain everything by saying that a 19th person visited her and gave her the letter.`
-`「………ふむふむ。".........Hmm, hmm.`
-`とても良い一手だと思いますよ。 I think that is quite a good move.`
-`私だったらどう切り返しましょうか」 How would I strike back?"`
-`「……例え戦人さまが理解されたとしても、未だに弱点は健在。"......Battler‐sama, despite your understanding, there are still plenty of weak points.`
-`“１８人攻め”は有効な手でしょうね。 Perhaps the "18 people attack" will be an effective move.`
-`戦人さまの守りがどの程度か確かめる意味でも、改めてそこを突くのも面白いかもしれません」 As an attempt to judge how strong your defense is, it may be interesting to attack from that angle again."`
-`「ならどう来る。"Then how would you do it,`
-`悪魔の執事…！」 demon butler...?!"`
-`「……戦人さまが指された、１９人目の駒を迎え撃つのが妥当でございましょう。"......I believe it would be appropriate to attack this 19th piece that you have played.`
-`戦人さまは１９人目にお会いしておりませんね？ Battler‐sama, have you ever met this 19th person?`
-`　１９人目が存在する証拠をお願いできますかな？」 May I ask you for some proof that this 19th person exists?"`
-`「甘ぇぜ。"How naive.`
-`もちろん、その指し手で来るだろうことは読んでいる…！」 Of course, I knew you'd probably try that move...!"`
-`「それはそれは。"My, my.`
-`受け手をお願いいたします」 Please respond to it."`
-`「魔女だの悪魔だの。"Witches and demons and the like...`
-`お前らにこれほど相応しい一手はないぜ。 There's no move more appropriate for you than this one.`
-`……それがこいつっ、」 ......And that is—"`
-`「“悪魔の証明”さッ！」"The "Devil's Proof"!"`
-`俺たち人間は、何かを示されると、必ず証拠を示せと反論する。When we humans are accused of something, we always counterattack by saying to show some evidence.`
-`それが人間の指し手だからだ。 Because that's a human move.`
-`だが、俺は魔女と戦っている。But I'm fighting with a witch.`
-`{n}人ならざる者との戦いに臨んでいる！{n}I'm taking part in a battle with someone who isn't human!`
-`だから、魔女とのゲームでしか使えない手がある。And some moves exist which can only be used in a game against a witch.`
-`{n}卑劣な一手がある！{n}There are cheap moves!`
-`それがこの“悪魔の証明”。And that's what this "Devil's Proof" is.`
-`{n}ゆえに、証拠は不要！{n}Therefore, evidence is unnecessary!`
-`六軒島には、右代宮家の屋敷以外にも秘密の屋敷があり、Let's take the assumption that there is a hidden mansion on Rokkenjima separate from the Ushiromiya family mansion,`
-`そこにベアトリーチェという女性が住んでいるという仮定。 and that a woman named {f:5:Beatrice} is living there.`
-`これを実証するには、その屋敷を見つけ、ベアトリーチェを実際に連れて来なければならない。In order to prove this, one must find this mansion and actually bring {f:5:Beatrice} out of it.`
-`それが人の世での実証だ。That's called actual proof in the human world.`
-`しかし、“悪魔の証明”に則るならば、例え何の証拠もなくとも、彼女の存在を否定できない。However, if we follow the rules of the "Devil's Proof", you can't disprove that she exists, even if there's no evidence that she does.`
-`存在しないことは証明不能だからだ。Because it's impossible to prove that something doesn't exist.`
-`……そう、これまでに、さんざん苛まれてきた“悪魔の証明”を逆手に取ったことになる。......That's right, this "Devil's Proof", which tormented me so much before, I've finally managed to use to my own advantage.`
-`ヤツらは常に“悪魔の証明”で魔女の存在を無理やり認めさせようとしてきた。Those guys were always trying to force me to accept the existence of the witch by using the "Devil's Proof".`
-`魔女はいると自称するベアトに対し、That was because, in response to Beato's professions that witches do exist,`
-`俺は“魔女はいない”という証拠を示すことが物理的にできない。 I physically could not offer any proof that "witches don't exist".`
-`だからこそ、魔女は存在するという暴論を反撃不能で突き付けられてきた。That is why I have been subjected to this nonsense that witches exist, and why I have been unable to counterattack.`
-`だからここでチェス盤を引っ繰り返す！And that's why I'll flip over the chessboard right now!`
-`魔女が存在することを否定できないならば、それはつまり、If I can't disprove that witches exist, then that means,`
-`１９人目の人間が存在すると俺が言い出しても、それもまた否定できないわけだ。 if I suggest that a 19th human exists, you can't disprove that either.`
-`つまり、問題の謎の愛人は狡猾に隠れているわけだから、どんなに探しても見付からないのは当然。In other words, the enigmatic mistress in question is craftily hiding herself, so it's perfectly natural that you can never find her no matter how hard you look.`
-`だから、１９人目が見付からないこと＝１９人目はいない、とはならないわけだ。So you can't say that "The 19th person can't be found = The 19th person doesn't exist".`
-`ゆえに、１９人目の否定は不可能。Therefore, it is impossible to disprove a 19th person.`
-`{n}ベアトが自らの存在を否定不能とした“悪魔の証明”が、{n}Beato used the "Devil's Proof" to make denying her existence impossible,`
-`今度はそのまま俺の武器になったわけだ。 but this time it's become my weapon.`
-`この論法が罷り通るなら、１９人目どころか、If we can get away with this argument, then never mind a 19th person,`
-`島には俺らの与り知れない人間が、 this island could be full of people we don't know about,`
-`それこそ１０人、１００人隠れていたとしても、その存在を否定することはできない。 and even if there are ten or a hundred of them hiding, she still can't disprove that they exist.`
-`前回、前々回のゲームで登場した殺害現場の中には、非常に手の掛かる凝った現場がいくつか登場する。In the last game and the one before that, among the murder scenes that showed up, there were several that were extremely intricate and must have taken a lot of effort to set up.`
-`それらは単独の犯人が構築したと考えようとすると、非常に困難になってしまう。It's very difficult to imagine that a single culprit could have set all of those up.`
-`しかし、１９人目どころか、１０人も１００人も隠れていたならまったく何の問題もない。However, if not just a 19th person, but ten or a hundred people were hidden somewhere, that wouldn't be any problem at all.`
-`全員で手分けして作業すれば、どんな作業も短時間にこなせてしまうだろう。If they all split up the work, they could handle any job in a short period of time.`
-`それだけの大勢の人間が、あの屋敷内に気配もなく潜んでいたのかという疑問は当然、出るだろうが、Of course, doubts will naturally arise at whether a large group of people like that could sneak around the mansion without being noticed,`
-`これも“悪魔の証明”で決着できる。 but those are all settled by the "Devil's Proof".`
-`気配がなかった姿を見なかった＝屋敷内に１００人いたことの否定、にはならないからだ。Because not seeing or not noticing a hundred people inside the mansion does not disprove that they were there.`
-`自ら口にしておきながら何て暴論だろうな、反吐が出るぜ！Even though I'm saying it myself, it's such a stupid argument that it makes me wanna throw up!`
-`　だが、そんなド汚ぇ一手だからこそ、魔女への一手に相応しいんだ。 However, it's because it's such a dirty‐as‐hell move that makes it the perfect one to use against a witch.`
-`まぁ、想像だけにせよ、Well, we're only imagining here,`
-`…山羊の仮面被った不審な男たちが、１００人も物陰にササッと隠れてて……、 ...but the thought of about a hundred suspicious men wearing goat masks hiding in the shadows......`
-`何てのは、笑えるを超えて、ゴキブリみたいだよな。 That goes beyond "funny", makes me think of cockroaches.`
-`１匹見たら物陰には１００匹隠れてるってわけだ。If you see one, it means there's a hundred hiding in the shadows.`
-`「……まぁ、屁理屈まみれの暴論だとは思うぜ。"......Well, I do think this is a ridiculous argument that's horribly twisted.`
-`相手が人間だったなら、寝言を言うなと怒鳴られるところだろうよ」 If my opponent was human, I'm sure they'd yell at me like I was out of my mind."`
-`「……だが、俺の相手は魔女だ。"......But my opponent is a witch.`
-`そして、俺たちがやってるのはそういう勝負なんだろう？ And after all, that is the kind of competition we're having, isn't it?`
-`　どんな暴論であろうとも、人間で説明を付け、魔女を否定する！！」 I'll use any kind of reckless argument to explain it using humans, and deny the witch!!"`
-`「……とにかく、この一手で俺は二度と親しい１８人のみんなを疑わなくて済む。"......Anyway, with this move, I'll never again have to doubt any of the 18 who are close to me.`
-`俺は二度とッ、前回の失敗は繰り返さないッ…！！」 I will never again repeat the defeat I suffered last time...!!"`
-`「……なるほど。"......I see.`
-`前回の失敗を学ばれているのですね。 You have learned from your defeat last time.`
-`良いことですよ。 That is good.`
-`さすがに三度もゲームを重ねると要領がよくなるものです」 It is no surprise that by the third game you have become quite devious."`
-`「………まずは自陣の守りを固める。".........You first strengthen your own defense.`
-`実に堅実な初歩です。 That is truly a solid first step.`
-`なかなかの妙手と思いますよ」 Quite a spectacular move, I think."`
-`「まぁ、１９人目の人物を仮定したとしても、"Well, even if we do assume that there is a 19th person,`
-`マスターキーの本数などのように、何人、人間を増やしてもクリアできないトリックも残ってる。 there are still a few tricks left that I can't get past no matter how many humans I add, like the number of master keys.`
-`…しかし、とりあえずの初手としては悪くないはずだ」 ...Still, it isn't bad as a first step, for the time being."`
-`「戦人さまの切り札、１９人目の人物という大駒。"This is your trump card, the important piece known as the 19th person.`
-`……証拠はあるのかとの私の一手に、戦人さまは“悪魔の証明”で反撃。 ......You countered my move of asking for evidence by using the "Devil's Proof".`
-`……良い攻防です」 ......A good skirmish."`
-`「お嬢様のおられないところで、勝手に手を進めてしまうのは申し訳ないのですが。"Although I have no excuse for making moves by myself when Milady is absent,`
-`………私も少し、面白くなってきてしまったところです。 .........I find that I too have become slightly interested.`
-`…お嬢様に代わり、さらに一手進めさせていただきましょうか」 ...I wonder if you would permit me to make yet another move on Milady's behalf?"`
-`「……来いよ。"......Go for it.`
-`魔女だろうと悪魔だろうと、相手に不足はねぇ！」 I don't care if you're a witch or a demon, I'll take you all on!"`
-`「戦人さまの指された一手“悪魔の証明”。"The move that you made, the "Devil's Proof".`
-`これは私ども悪魔の十八番でございますが、他にも私どもにはいくつもの手がございます。 It is a specialty of us demons, but there are also various other moves available to us.`
-`……“ヘンペルのカラス”という一手はご存知ですかな？」 ......Do you know of a move called "Hempel's Raven"?"`
-`「ヘンペルのカラスぅ…？？"Hempel's Raven...??`
-`　何の話だ？」 What are you talking about?"`
-`「…くっくっくっく。"...*cackle*cackle*.`
-`あっははははははははははははっはっは…！」 Ah‐ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah‐ha{0}ha{0}ha{0}hah‐hah‐ha...!"`
-`その時、…あぁ、何度聞いても腹立たしいあの笑い声が木霊してくる。Just then, ...aah, that laugh, which gets on my nerves every time I hear it, started echoing around.`
-`部屋が眩い黄金の蝶たちで満たされ、その金色の旋風の中に、あの黄金の魔女が姿を現す。The room was filled with dazzling golden butterflies, and in the center of that whirlwind, the Golden Witch appeared.`
-`「これはこれはお嬢様。"Why, if it isn't Milady.`
-`おはようございます」 Good morning."`
-`「妾のいないところで、何やら面白そうなことをしていると思えば」"I thought you might be doing something interesting while I was away."`
-`「……“ヘンペルのカラス”か。"......‘Hempel's Raven’, was it?`
-`何とも笑える懐かしい一手よ。 What an amusing and nostalgic move.`
-`よもや戦人に披露する日が来ようとはな。 To think the day would come when it would be introduced to Battler.`
-`それは“悪魔の証明”に並ぶ古典的一手だ」 It's a classic move to use against the "Devil's Proof"."`
-`「……ロノウェ、それは妾が指す一手ぞ。"......Ronove, I will make this move.`
-`妾の楽しみを減らしてくれるな」 Do not get in the way of my fun."`
-`「出やがったな、ゲラゲラ魔女め。"So you've finally shown up, you guffawing witch.`
-`相変わらず下品に笑いやがって。 I see you still have that undignified laugh.`
-`……こいつもお前のこと、笑い方に品がねぇって陰口言ってたぜ。 ......This guy was talking behind your back just now, telling me about how your laughing lacks class.`
-`なぁ？」 Right?"`
-`「それは心外な。"I am offended.`
-`本当か」 Is that true?"`
-`「滅相もない。"By no means.`
-`心より尊敬申し上げているお嬢様に、 I have only words of the highest heartfelt respect for Milady;`
-`この私めがどうしてそのような陰口を申せましょうか」 why would I speak such gossip?"`
-`「…よくもしゃあしゃあと言えるもんだなぁ。"...I can't believe you can say that so brazenly.`
-`お前とは仲良くなれそうにないぜ…」 Doesn't look like we'll be getting along well together..."`
-`「くっくっくっくっく。"*cackle*cackle*cackle*.`
-`まぁ良い。 Well, that is fine.`
-`話を戻そう。 Let us return to the conversation.`
-`“ヘンペルのカラス”は、実証を対偶的に行なってみせる」 "Hempel's Raven" is used to show proof using the contrapositive."`
-`「……つまりこういう手だ。"......Essentially, it is a move like this:`
-`カラスが黒いことを証明するにはどうすればいい？」 What must you do to prove that ravens are black?"`
-`「は？"Huh?`
-`　何の話だ？？ What are you talking about??`
-`　カラスが黒いことを証明って…。 Prove that ravens are black...`
-`…カラスを捕まえてきて、色が黒いことを確認すりゃいいだけの話だろ」 ...Wouldn't you just have to catch the ravens and check to see if they're black?"`
-`「その通り。"That is right.`
-`“カラス＝黒い”、を証明すれば良い。 You must simply prove that "if it is a raven, it is black".`
-`ということは、“黒くない鳥＝カラスではない”、を証明しても、同じ論法になるのがわかるかな？」 And do you see that, if you prove that "if a bird is not black, it is not a raven", you would reach the same argument?"`
-`「世界中の、カラスでない鳥を全て調べ、それらが黒くないことを証明すれば、"If you go throughout the world and examine all birds that are not ravens, and prove that none of them are black,`
-`それは結果的に、“ゆえに黒い鳥はカラスである”となるわけだ。 then as a result, you can claim that "therefore, birds that are black are ravens".`
-`これを対偶論法という。 This is called an argument by the contrapositive.`
-`…そなたには難しいか？」 ...Is that difficult for you?"`
-`「あぁまったく。"Yeah, no kidding.`
-`…何言ってやがるのかさっぱりだ」 ...I have no idea what you're saying."`
-`「戦人さま。"Battler‐sama.`
-`こういう例え話はいかがでしょう。 What about this example?`
-`２つの箱があり、片方はアタリでクッキーが入っているといたします。 Let us say that you have two boxes, and one of them is the winner, with a cookie inside.`
-`もちろん、もう片方はハズレで空っぽです」 Of course, the other one is the loser, and is empty."`
-`例えば、ここに２つの箱があり、For example, let us say that we have two boxes here,`
-`片方はアタリで中にクッキーがあり、もう片方はハズレで空っぽだとする。 one being the winner with a cookie inside, and the other being the loser, which is empty.`
-`この時、“クッキーが入っている＝アタリ”となり、Now, it holds that "if there is a cookie inside, it is the winner",`
-`同時に“アタリでない＝クッキーが入っていない”ともなるわけだ。 and at the same time, it also holds that "if it is not the winner, there is no cookie inside".`
-`この関係にある時、後者を対偶と呼ぶ…。When such a relationship exists, we call the latter the contrapositive...`
-`“ＡであるならＢ”である時、それは同時に“ＢでないならＡではない”でもあるわけだ。When "if A then B" is true, then at the same time, "if not B then not A" is also true.`
-`「…そりゃ当然だろうよ。"...Well, that's obvious.`
-`もし選んだ方がハズレだったなら、もう片方は自動的にアタリってことになる」 If the one you picked was the loser, then you would automatically know that the other one was the winner."`
-`「…つまり、箱を適当に選び、アタリを引こうとハズレを引こうと、"...In other words, if you choose the box at random, whether it's the winner or the loser,`
-`最初の一手でどっちの箱にクッキーが入っているか、特定できるわけだ」 you'll be able to figure out which box has the cookie in it after your first move."`
-`「その通り。"That is correct.`
-`開けた箱にクッキーが入っていたなら“悪魔の証明”を満たす。 If the cookie is in the box you open, then the "Devil's Proof" is satisfied.`
-`“この箱はアタリ＝この箱にはクッキーが入っている”をまさに実証できるわけだ」 You can prove directly that "this box is the winner = this box has a cookie in it"."`
-`「しかし、開けた箱が空っぽだったなら、この時は逆に“ヘンペルのカラス”を満たす。"However, if the box that you open is empty, then the reverse, "Hempel's Raven", is satisfied.`
-`“この箱にクッキーが入っていない＝この箱はアタリではない”となるのだから」 Because then, it holds that "this box does not have a cookie in it = this box is not the winner"."`
-`「そしてそれは、箱が２つしかないことを前提としている限り、"And that means, as long as we accept the premise that there are no more than two boxes,`
-`もう片方の箱が自動的にアタリであることを対偶的に示している」 the contrapositive shows that the other box is automatically the winner."`
-`「……まぁ、何となく理屈はわかったぜ。"......Well, I think I'm starting to see your reasoning.`
-`毒を制するには毒、屁理屈には屁理屈ってわけだ」 Only poison can stop poison, and only twisted logic can stop twisted logic."`
-`「…それで？"...Then what?`
-`　俺の、“島には１９人目の人間が隠れているに違いないから、 How does that overturn my claim that "no doubt there is a 19th human hidden on this island,`
-`１８人全員にアリバイがあっても、 so even if all of the 18 people have alibis,`
-`それは魔女を認めることにはならない”をどう切り替えしてくれるってんだ……？」 that does not amount to an acceptance of witches"......?"`
-`「良かろう。"Very well.`
-`妾の手は教えよう。 I will tell you my move.`
-`まずそなたは、“１８人の中に犯人はいない＝ならば犯人は１９人目”としている」 First of all, you are stating that "if the culprit is not among the 18, then the culprit is a 19th person"."`
-`「くっくっくっく！"*cackle*cackle*!`
-`　…ならば対偶として、こうなるわけだ。 ...So if you use the contrapositive, it ends up like this.`
-`つまり、“犯人は１９人目ではない＝ならば１８人の中に犯人がいる”！」 In short, "if the culprit is not a 19th person, then the culprit is one of the 18"!"`
-`「はぁ？！"Whaah?!`
-`　何だと、そりゃどういう意味だッ？！」 What the, what does that mean?!"`
-`「そなたの指し手を逆手に取っただけだがな。"All I have done is turn your move on its head.`
-`そう難しい話ではあるまいに。 It shouldn't be that difficult to understand.`
-`ロノウェ、説明せよ。 Ronove, explain.`
-`そなたのさっきのクッキーの箱の例えは戦人にわかりやすいらしい」 It seems your cookie‐in‐a‐box analogy from before will be easy for Battler to understand."`
-`「それでは僭越ながら。"Then forgive my presumption.`
-`先ほどの例え話でもう一度ご説明させていただきます」 Allow me to explain using my earlier example once more."`
-`先ほどの、２箱の宝箱があり、Allow me to repeat once more my earlier story,`
-`どちらかにクッキーが入っているという話をもう一度繰り返させていただきます。 about two treasure chests, one of which has a cookie in it.`
-`この場合、片方の箱は“１８人”を示し、もう片方の箱は“１９人目”を示します。In this situation, one of the boxes represents "the 18 people", and the other box represents "the 19th person".`
-`ならばクッキーはつまり“犯人”を示すわけです。So the cookie would represent the "culprit".`
-`戦人さまは、１８人の箱を開けられます。Battler‐sama, you open the 18 box.`
-`{n}そしてクッキーがそこになかった為、{n}Because the cookie is not there,`
-`“＝クッキーは１９人目の箱に入っている”と逆説的に証明されたわけでございます。 you have proven from the opposite direction that "therefore, the cookie is in the 19 box".`
-`ならばそれはさらに逆説的にこうも申し上げられます。In that case, if we reverse things further, we can also say the following.`
-`つまり、１９人目の箱が空っぽであることを先に示したならば、Namely, if it was first shown that the 19 box was empty,`
-`“１８人の箱の中にクッキーが入っている”ことを同様に実証してしまうわけです。 it would prove in just the same way that "the cookie is in the 18 box".`
-`戦人さまが１８人を疑わなくて済むために打たれた一手が、Battler‐sama, this move you played in order to avoid having to doubt any of the 18,`
-`逆に“１８人攻め”の布石に使われてしまった…！ has in fact been used against you to launch the "18 person attack"...!"`
-`「……んな、"......Huh,`
-`……何だとぉ………」 ......what did you say........."`
-`「くっくくくくくく！"*cackle*cackle*cackle*cackle*!`
-`　妾が１９人目の箱の中身が空っぽであることを先に証明すれば、 If I go first and prove that the inside of the 19 box is empty,`
-`そなたは自動的に、 automatically,`
-`１８人の箱の中にクッキーがあることを認めなければならないということになる。 you will be forced to accept that the cookie is in the 18 box.`
-`そなたは、それを逆の言い方で口にしたに過ぎんのだぞ？」 All you have done is say this the other way around, you see?"`
-`「つまり、……俺の自信満々の一手は、同時に諸刃の剣でもあるってわけか」"So, ......that move that I was so confident in, ...was actually a double‐edged sword?"`
-`「その通りよ。"That's right.`
-`そなたの１９人目で全てを説明する一手は、それが破られた時、 Your move to explain everything with a 19th person carries the risk that, if it is thwarted,`
-`１８人でしか説明できないことを認めざるを得ないリスクを背負っている」 you will be forced to accept that you can only explain things by using the 18."`
-`なるほどな…。I see...`
-`“ヘンペルのカラス”。 "Hempel's Raven".`
-`{n}……つまりは返し技ってことなのか？！{n}......So this is a countering technique?!`
-`…いや、よくよく考えれば、これは俺にばかりやたらと不利な返し技だ。...Wait, if I really think about it, this countering technique is far more disadvantageous for me than for her.`
-`クッキーという言い方がいけない。The problem is in thinking about it like a cookie.`
-`{n}宝箱の中に爆弾というハズレが１つだけ入っていると考え直してみると、さらによくわかる。{n}If I imagine that just one of the treasure chests is a "losing" chest with a bomb in it, I can begin to understand it quite well.`
-`そして宝箱の数を２つではなく、And if I think of it not as two treasure chests,`
-`１８人分＋１９人目用ということで、 but as 18, one for each person, plus one more for the 19th person,`
-`合計１９箱用意して考えれば、さらにわかりやすくなる。 for a total of 19 boxes, it gets even easier to understand.`
-`まず、人間犯人説は、必ずどれかの箱に爆弾が入っているという前提を成立させる。First of all, one of the premises established by the human culprit theory was that the bomb would definitely be in one of those boxes.`
-`俺は、その爆弾を１８人の誰の箱にも入れたくない為、“悪魔の証明”を使い、Because I hadn't wanted to place that bomb in any of the 18's boxes, I had used the "Devil's Proof",`
-`１９人目の箱を生み出して、その中に爆弾を放り込んだわけだ。 and created the 19th box so that I could throw the bomb in there.`
-`……ここまではいい。 ......That much was alright.`
-`しかし、ベアトはこう返した。But Beato had struck back like this:`
-`ならば、１９人目の箱の中身が空っぽだったなら、If, then, the 19th box was empty inside,`
-`その時点で自動的に、１８人の誰かの箱の中に爆弾が入っていることが確定すると。 that would automatically mean that the bomb was set in one of the other 18 boxes.`
-`俺は１８人の箱の中身全てを調べ、If I could examine the contents of each of the 18's boxes,`
-`どの箱にも爆弾が入っていなかったことを証明すれば、 and show that the bomb was not in any one of those boxes,`
-`無事に１８人の無実を証明できるだろう。 I would be able to safely show that the 18 people were innocent.`
-`これが可能ならば、俺は心強い！If that was possible, I would be feeling confident!`
-`しかし、それは現実には限りなく不可能なのだ。However, in reality, that's as close as you can get to impossible.`
-`ここには台風で警察が来られない。The police wouldn't come here in this typhoon.`
-`{n}科学捜査も鑑識も何もない。{n}There would be no scientific investigations, no autopsies, no nothing.`
-`{n}つまり、何も確定的に示せない！{n}In short, I can't show anything decisively!`
-`俺には１８人が口々に主張するアリバイを鵜呑みにする以上の検証が不可能なのだ。It's impossible for me to find any proof other than simply gulping down whatever alibis each of the 18 give.`
-`ならば、俺個人が彼らの無実を完全に確認しきらなければならない。In that case, I have to confirm their innocence both personally and perfectly.`
-`例えば、ずっと一緒にいて一秒も漏らさず監視してるとか。Like staying with someone the whole time, never letting them out of my sight for a second.`
-`そういうことをすれば、その人物に関してだけは無実を、If I do that, I can probably be sure of that person's innocence,`
-`箱の中に爆弾がないと確認できたことになるだろう。 and that the bomb is not in that box.`
-`…しかし、そんなことは現実的に不可能だ！...However, in reality, something like that is impossible!`
-`{n}つまり、俺にはたった１箱でも、その中身を確認するには膨大な手間を必要とするわけだ。{n}In other words, I have to expend an incredible effort just to check the contents of one box.`
-`しかもそれを１８箱分も！And there are 18 of them!`
-`　つまり、１８人全員を鎖で縛って監禁するくらいじゃなきゃ、 In other words, unless I bind all 18 of them in chains and watch over them,`
-`全員の完全な空箱証明は不可能だ。 it's impossible to prove that all of them have empty boxes.`
-`しかし、ベアトは１９人目の箱を、たった１箱だけ開けて見せ、However, Beato only has to open one box, the 19th box,`
-`それが空っぽだと証明するだけで、１８人の箱に爆弾があることを証明できてしまう。 and show that it is empty, to prove that the bomb is in one of the other 18 boxes.`
-`（しかも、１８人の“どの”箱に入っているかを実証する必要がない！） (Furthermore, there's no need for her to show {i:which} of the 18 boxes has the bomb!)`
-`俺とベアトでは、持論を説明する手間が１８倍も違うのだ……。I have 18 times more work to do to explain my pet theory than Beato does for hers......`
-`「世の中には、“悪魔の証明”がそうであるように、"Just as you know from the "Devil's Proof",`
-`反論に膨大な手間が掛かり、事実上不可能であるケースが少なくない」 there are many cases in this world where refuting something would take a vast amount of effort that is impossible in practice."`
-`「しかし、“ヘンペルのカラス”はその問題を逆手に取り、容易に実証することを可能とする！」"However, "Hempel's Raven" turns that problem around, and makes it possible to prove things easily!"`
-`「“ヘンペルのカラス”を使えば、様々な暴論が実証可能なのです」"By using "Hempel's Raven", various reckless arguments become possible to prove."`
-`「……例えば、“私以外の人間＝愚かである”という命題があったとします。"......For example, let us say that I make the proposition "All humans except me are foolish".`
-`これを証明するには本来、私を除く全人類を調べ、愚かであることを証明しなければなりません」 Normally, in order to prove this, I would have to examine all of humanity except myself and show that they are all foolish."`
-`「…しかし、何十億人も調べるなど、現実には不可能でしょう。"...However, in reality, it would be impossible to investigate billions of people.`
-`戦人さまの１８箱を開ける手間とまったく同じです」 It is exactly the same kind of effort you would need to open all 18 boxes."`
-`「くっくっく！"*cackle*cackle*!`
-`　しかし“ヘンペルのカラス”ならば、その命題は対偶的にこう変換される」 However, by using "Hempel's Raven", the contrapositive of that proposition would change it as follows."`
-`「つまり“私以外の人間＝愚かである”を、そなた風に言うならば、"Essentially, take this "All humans except me are foolish", and to use your style of phrase,`
-`チェス盤を引っ繰り返し、“愚かではない＝私”として証明しても良いということだ。 flip over the chessboard, and you merely need prove that "not foolish = me".`
-`……つまりどういうことだと思う？」 ......And what do you think that means?"`
-`「くっくっくっく！"*cackle*cackle*!`
-`　“妾が聡明である”という事実を知るだけで、 As soon as I know the fact that "I am wise",`
-`全人類は愚かであることの何十億人分もの証明が直ちに終了してしまうわけだ。 I finish proving in an instant that every one of the billions of people in the human race is foolish.`
-`全人類が妾よりも愚かであることを、わずか１秒も掛けずに証明終了できる！！」 In less than a second, I can finish proving that the entire human race is more foolish than me!!"`
-`「世界最強最速のＱＥＤ。"It's the strongest and fastest QED in the world.`
-`これぞ This...`
-`“ヘンペルのカラス”ッ！」is "Hempel's Raven"!"`
-`「なッ、………何つぅ暴論だよ………！！！」"Wha‐.........what a ridiculous argument.........!!!"`
-`「これはとてもとても便利な一手ですよ。"It is a very, very convenient move.`
-`悪魔どころか、神々も好む一手です。 Not only demons, but gods also use it.`
-`“幸福である＝神の僕”を命題とする時、 When you propose "blessed = God's servant",`
-`対偶は“神の僕でない人間＝幸福であってはいけない”となります」 the contrapositive is "if a human is not a servant of God, then he must not be blessed"."`
-`「つまり、神の僕がその加護によって幸福であることを実証する為には、"So in order for servants of God to prove that they are granted fortune by their divine protection,`
-`その加護を受けぬ人々が不幸であることを実証すればいいわけです」 they only have to prove that those who don't receive that divine protection suffer misfortune."`
-`「………そして彼らは、".........Therefore,`
-`自らの神を信じない人々を不幸に突き落とすことで、自らの幸福を実証する」 by bringing misfortune down upon those people who don't believe in their own god, they prove their own blessedness."`
-`「人に幸福を与えるには莫大なコストが掛かる。"It takes an enormous cost to give humans happiness.`
-`…しかし、人を不幸にするのに必要なコストははるかに安上がりだ」 ...However, the necessary cost to bring humans misfortune is much cheaper."`
-`「くっくくくくくくくくく。"*cackle*cackle*cackle*cackle*cackle*.`
-`つまり、“ヘンペルのカラス”を使えば、神々は実に低コストで信者に加護の喜びを与えられるわけよ」 So by using "Hempel's Raven", gods can actually give believers the joy of divine protection at the lowest cost."`
-`「あ、……悪魔だ。"Y‐......you demon.`
-`悪魔の理論だ…。 It's a demon's argument...`
-`…滅茶苦茶だ…！！！」 ...That's messed up...!!!"`
-`「話が逸れてしまったようだな。"It seems that we've gone off‐topic.`
-`そろそろ話を戻そうぞ」 Let us return to it."`
-`「妾の反撃の一手は以上だ。"I have finished describing the move for my counterattack.`
-`……そなたの、“１９人目が犯人だから、１８人は無実で魔女も存在しない”への反撃は、 ......The counterattack to your claim that "a 19th person is the culprit; therefore, the 18 are innocent and the witch doesn't exist" is:`
-`“ならば、１９人目が犯人でないことを証明できたら、 "In that case, if I can prove that the culprit is not some 19th person,`
-`１８人か魔女のどちらかが犯人ということで確定するぞ？” do we agree that the culprit must either be one of the 18, or a witch?".`
-`との確認だ」 I await your answer."`
-`俺はしばらくの間、呆然となり開いた口を閉じることも忘れていた…。For a while, I just stood there, shocked, completely forgetting to close my mouth...`
-`ヤツらの得意手を逆手に取って、してやったりと思ったら、Just when I'd thought that I'd got my own back on them by using their favorite move against them,`
-`その反撃は俺の想像をはるかに超えるさらに暴論…！ the counterattack to that had been this reckless argument that I could not even have begun to imagine...!`
-`やはり、…無理なのか…？！Was it really...impossible...?!`
-`１８人しかいないこの島で、魔女を否定しつつ、To continue denying the witch on an island with no more than 18 people,`
-`にもかかわらず、１８人の無実を信じるなんて、 and yet still believe in the innocence of those 18 people...`
-`………そんなのは妄想なのか？！ .........Was that just a delusion?!`
-`　現実逃避でしかないのか？！ Was I just trying to escape reality?!`
-`まだだ…。Not yet...`
-`……悪足掻きを止めるな。 ......Don't give up this struggle yet.`
-`何が“何たらのカラス”だ。Who cares about "Whoever's Raven"?`
-`{n}おかしな豆知識で煙に巻かれるな…。{n}They're just trying to speak in riddles by bringing up some weird bits of trivia...`
-`こっちは“悪魔の証明”で仕掛けた。I had used the "Devil's Proof".`
-`{n}一度仕掛けた手に不安を持つな。{n}Don't feel doubt in something once you've used it.`
-`{n}繰り出した槍を信じろ。{n}Believe in the spear you've lunged forward with.`
-`さらに力強く、……抉り出せ……！Apply even more force......and gouge it in......!`
-`「……まだまだ序盤だぞ。"......The game is still in the opening.`
-`この程度で長考するつもりか？」 Do you already intend to spend this long thinking?"`
-`「……………………。"........................`
-`あ、 Ah,`
-`……いや待て、 ......wait a sec,`
-`確認するぞ」 I want to be sure."`
-`「確かに俺は、わかりやすく１９人目という言い方をしたが、"While yes, I did use the phrasing of a "19th person" to make it easy to understand,`
-`“悪魔の証明”によって１８人以上人間を増やせるなら、 if I can use the "Devil's Proof" to raise the number of people above 18,`
-`それは１０人いるか１００人いるかもわからない、不特定多数ということだ」 then what I mean is an unspecified large number of extra people—you don't know if it's ten or a hundred."`
-`「{i:お前が想定する人数より常に１人多い}。"{i:Always one more than you assume}.`
-`…わかるか？」 ...Understand?"`
-`俺の屁理屈に、ヤツも飛び切りの屁理屈で返してきた。She had returned my twisted logic with something even more twisted.`
-`{n}ならばそれに反撃できるのも、さらにぶっ飛んだ屁理屈だけなんだ…！{n}So the only thing that could counter that would be even crazier twisted logic...!`
-`「ふむ、なるほど。"Hmm, I see.`
-`………妾が１９人目のアリバイを何らかの方法で証明したとしても。 .........Even if I somehow prove an alibi for the 19th person,`
-`その瞬間にそなたは２０人目を生み出し、犯人だと主張する。 as soon as I do, you will think up a 20th person, and claim that they are the culprit.`
-`これを無限に繰り返すことによって、妾は永遠に彼らのアリバイの証明が終えられないというわけか」 By repeating this infinitely, you would make it so I kept searching for their alibis for all eternity."`
-`「……なるほどなるほど、くっくっくっく！"......I see, I see, *cackle*cackle*!`
-`　さながら蝗の大群を呼び出す魔王よな。 Just like a demon king summoning a plague of locusts.`
-`さすがは金蔵の孫よ。 I wouldn't expect anything less from Kinzo's grandchild.`
-`召喚術の才能には恵まれていると見える」 It looks like you have been gifted with a talent in summoning."`
-`「……つまり！"......In short!`
-`　１８人以外の存在Ｘは、常にアリバイを証明することが不可能なんだ！ It is impossible to continually prove an alibi for the "X" existing outside of the first 18!`
-`　……どうだベアト…！ ......How do you like that, Beato...?!`
-`　屁理屈合戦だとわかれば俺も負けねぇぜ！」 Now that I know we're having a battle with twisted logic, I won't lose!"`
-`「くっくくくくくくくくくくくくくく！！"*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!`
-`　愚かしいぞ…。 How foolish...`
-`妾を誰と心得る？ Who do you think I am?`
-`　妾こそは無限の魔女！ I am the Endless Witch, the Infinite Witch!`
-`　その妾に無限にて挑むとは片腹痛いわ。 For you to challenge me at infinity is absurd.`
-`無限を操ることはつまり、無限を殺すこともできるということ」 Having control over infinity means also that I am able to kill infinity."`
-`「……妾が１９人目を斬れば、そなたは２０人目を呼び、"......When your 19th person folds, you will call a 20th,`
-`２０人目を斬れば２１人目を呼び、 and when your 20th person folds, you will call a 21st,`
-`２１人目を斬れば２２人目を斬れば、 and when your 21st person folds and your 22nd person folds,`
-`２３人目を呼び３４人目を呼び６４３５８２２３５７９６７３２０４人目を呼びッ、 you will call a 23rd, a 34th, a 64358223579673204th,`
-`妾を永遠に翻弄できるとでも？！」 you think you can trifle with me for all eternity?!"`
-`「“無限後退”とは笑わせるッ、"I laugh at "infinite regress",`
-`妾に無限は通じぬわ！！」 the {i:infinite} doesn't affect me!!"`
-`「ほぅ、ならばどうやってこの俺の“無限”を殺すんだよ、見せてみろよ！！」"Hoh, well then, how will you kill my "infinity"? Just try and show me!!"`
-`「"`
-`{p:1:妾には真実を赤で語る力があろうが}ッ！！！」{p:1:I have the power to speak the truth in red}!!!"`
-`「…………………ッ！！".....................!!`
-`　………来やがったなぁ…………」 .........Here it comes............"`
-`「妾が赤で語る時、そこには一切の幻想がない。"When I speak in red, it contains absolutely no illusions.`
-`妾がこの島には１００人しかいないと一言赤で語れば、 If I say once in red that there are no more than 100 people on this island,`
-`そなたにはもはや１０１人目を生み出すことは叶わぬのだ」 you will no longer be permitted to create a 101st person."`
-`「くっくっくっく！"*cackle*cackle*!`
-`　ほぅら、戦人ぁ。 Come now, Battlerrr.`
-`今度はどんな真実を赤で語ってみせようか？ What truth shall I tell in red this time?`
-`　どんな拠り所を叩き斬って、そなたを絶望に突き落としてやろうか？ Where shall I strike for the kill and force you into hopelessness?`
-`　くっくっくっくっく！ *cackle*cackle*cackle*!`
-`　そら、いつもの怯えた顔を見せてみるがいい……」 Come, show me your usual frightened face......"`
-`「…………………………」".............................."`
-`「………………何？」"..................What?"`
-`「……いっひっひっひっひ」"......Ihihihihi."`
-`「…そなた、…笑うか…」"...Why...are you laughing...?"`
-`俺は今、どんな薄気味悪い顔で笑ってるんだろうな。I wonder what kind of creepy look I had on my face as I laughed right then.`
-`{n}赤は怖ぇさ。{n}That red sure is scary.`
-`…こいつが飛び出す度に、俺は絶望の底へ叩き込まれる。 ...Every time it jumps out, I'm driven into the depths of hopelessness.`
-`しかし、……もう俺は気付いたのさ。But......I had already realized it.`
-`{n}…赤は、不必要に恐れる必要がないんだ。{n}...There was no need to be unnecessarily afraid of the red.`
-`「………また抜きやがったな、伝家の宝刀だ。".........You've brought out your secret weapon again.`
-`それで…？ So...?`
-`　今度はベアトリーチェさまは、何をどう赤で語って下さるってんだ？」 What and how will the great {f:5:Beatrice}‐sama speak in red this time?"`
-`「……ほぉ。"......Hoh.`
-`それはどういう意味か。 What do you mean by this?`
-`急に余裕を見せおって…」 Suddenly looking so relaxed..."`
-`「悪ぃが、その真っ赤な宝刀は、俺も抜いてくれるのを待ってたんだ。"Sorry, but I've been waiting for you to take out that blood‐red treasured sword.`
-`……さて、お前は今度は何を赤で宣言してくれるんだ？」 ......Let's see, what will you proclaim in red this time?"`
-`「“犯人は１８人の中にいる”とでも言ってくれるのか？"You aren't going to say "the culprit was one of the 18", are you?`
-`　言っとくが、そいつは自爆だぜ？ Let me warn you, that would be self‐destruction, remember?`
-`　その時点で、お前は魔女説を自ら捨てたも同然。 That would be the same as throwing away your own witch theory yourself.`
-`まさに投了だ」 A complete resignation."`
-`そうさ。That's right.`
-`赤は常にベアトの武器になるとは限らない。 The red isn't always necessarily to Beato's advantage.`
-`それどころか、誤って使えば、自らをも死に至らしかねないほどに危険なのだ。 On the contrary, if she used it the wrong way, it's dangerous enough that she could bring about her own death.`
-`もし迂闊に使い、自らを否定するようなことを言ってしまえば、それはまさに自爆も同然。 If she used it carelessly and said something which ended up denying herself, that would be exactly the same thing as self‐destructing.`
-`「確かに俺にとっても、"Of course,`
-`１８人の中に犯人がいると赤で言われることは、受け容れたくない悲しい事実さ。 it would also be sad and difficult for me to accept if you told me in red that one of the 18 was the culprit.`
-`……例え誰が犯人であっても、俺はきっと辛い気持ちになるだろうぜ…」 ......No matter who the culprit actually was, it would surely bring me some tough emotions..."`
-`「だが、それはそれ以前にお前の敗北も意味するッ！"But before that, it would mean your defeat!`
-`　人間が犯人だとお前が赤で語ることは、お前の投了宣言にも等しい！！ Saying in red that the culprit is a human is equivalent to your proclamation of resignation!!`
-`　お前が、俺と刺し違えても相打ちにしたいってんなら、それも面白い一手だろうぜ。 If you want to strike me a blow so badly you're prepared to die at the same time, I think that's a pretty interesting move.`
-`だが、この勝負は俺の勝ちで終わるッ！！」 However, this battle will end in my victory!!"`
-`ベアトリーチェの赤は、まさに伝家の宝刀。{f:5:Beatrice}'s red was truly her secret weapon, her treasured blade.`
-`ヤツが赤で語ったことは証拠も反論の余地もなく、それが真実となって確定してしまう。 The things she spoke in red would become solidified as the truth, and no amount of evidence or counterarguments could change them.`
-`それらは俺を何度も叩き斬り、わずかな心の拠り所をいつも真っ二つにしてきた。They had cut me down to size many times now, rending in two any supports my heart had to lean on.`
-`だが、迂闊に使えばそれは俺に真相を探る情報とされてしまうこともある。However, if she used it carelessly, then I could also find a little information about the truth.`
-`…俺は前回、特に礼拝堂の密室トリックの時、それを逆手に取り、...In the last game, especially during the chapel's locked room trick, I had taken advantage of that,`
-`一度はぎりぎりまで追い詰めたはずだ。 and had once closed her in almost completely.`
-`だがヤツもなかなかに狡猾。But she was also pretty sly.`
-`それに懲り、以来、慎重に赤を使うタイミングを計るようになった…。 She had learned from experience, and since then, had started using discretion in the timing of the red...`
-`この緊張感はまるで、文字通りの真剣勝負のようだ。This feeling of tension was almost literally like a battle with real swords.`
-`…こいつは高度な知能戦。...This was a battle of high intelligence.`
-`{n}……いや、知能戦じゃない。{n}......No, not of intelligence.`
-`{n}やっぱり屁理屈だ。{n}It really was twisted logic.`
-`こいつは、世界で最凶最悪の屁理屈合戦だ…！！This was the world's craziest and worst battle of twisted logic...!!`
-`「さぁ、今度はお前の手番だぜ。"So, now it's your move.`
-`……そうさ。 ......That's right.`
-`お前の“ヘンペルのカラス”を使うには、 To use your "Hempel's Raven",`
-`まず、１８人以外に何人の人間がいるのかを、赤で確定させる必要がある」 first, you'll have to confirm in red how many humans there are other than the 18."`
-`「その上で、それらの人間についてさらに赤で犯人でないことを宣言したならば、"And after that, if you proclaim in red that none of the people in that group are the culprit,`
-`……なるほど、こいつは俺にとって致命傷になるだろうぜ」 ......that's right, that might be a fatal wound to me."`
-`「………あれほど怯えていた赤を、もはや微塵も怯えぬとはな…。".........I'm surprised that you no longer have even an atom of fear for that red which you feared so much...`
-`逞しいヤツよ」 You're quite sturdy."`
-`「抜いてみろよ。"Unsheathe it.`
-`伝家の宝刀。 Your treasured blade.`
-`……バッサリ決まって、今度こそ俺を屈服できるかもしれねぇぜ…？」 ......A single perfect swing, and you might be able to break me this time, who knows...?"`
-`「……くっくっくっくっくっく。"......*cackle*cackle*cackle*.`
-`…面白い。 ...Interesting.`
-`こうでなくてはな…」 I wouldn't have it any other way..."`
-`煽る。Agitate her.`
-`挑発する。 Provoke her.`
-`{n}ヤツに赤で語らせるよう、追い詰めるんだ…。{n}Drive her into a corner to make her speak in red...`
-`確かにヤツの赤は、いつも俺の一縷の望みをぶった斬ってきた。Of course her red has always cut right through my only threads of hope.`
-`しかし、……それを恐れるな。 But......don't be afraid of that.`
-`この、虚偽と幻想で侵食された島で、たったひとつ信じることができるのが、On this island overcome with falsehoods and illusions, the only thing I can trust...`
-`ヤツが語る赤の情報だけなのだ。is the information that she speaks in red.`
-`落ちれば奈落という、崖と崖の間に見出す唯一の活路。It is my only way across the chasm of Hell.`
-`たった一本の綱渡り。 Just a single tightrope.`
-`ヤツの慈悲無き真っ赤な刃こそが、唯一の生きる道なのだ。Her merciless blood‐red blade is the only way I can survive.`
-`…それは文字通り、綱渡りどころか、刃の上を歩くようなもの…。...This isn't just walking on a tightrope, it's literally like walking on the edge of a blade...`
-`もちろん、俺は恐れている。Of course I'm afraid.`
-`俺の勝利条件である魔女否定は、ヤツの言う対偶では、＝犯人は人間、となる。 In terms of her contrapositive, my victory condition—the denial of the witch—meant that the culprit was a human.`
-`でも俺は、１８人の中に犯人を求めたくない。But I didn't want to search for the culprit amid the 18.`
-`…だからこそ、魔女も１８人も同時に否定しなければならないという弱点を抱え、...Therefore, I held on to a weak point, since I had to deny the witch and the 18 at the same time.`
-`にもかかわらずそれを理解できず、そこを突かれて前回はボロボロに負けた。 Since I had been unable to understand that last time, that was where she had hit me, leaving me tattered and defeated.`
-`……しかし、それでいい。......But that's alright.`
-`{n}突かせろ。{n}Let her hit me.`
-`攻めさせろ。 Let her attack.`
-`上等だ…。 No problem...`
-`古いチャンバラ映画で誰かが言ってたぜ。Someone said it once in an old sword‐fighting movie.`
-`{n}「良い城には一箇所だけ、わざと弱い部分がある」ってな。{n}That "a good fortress has one, and only one, intentionally weak point".`
-`敵はそこに群がる。The enemy would gather there.`
-`誘き出される。 They would be lured there.`
-`{n}そしてそこが決戦場となる。{n}And that would be where the actual battle took place.`
-`…俺が弱点を理解し、...As long as I understand my weak points,`
-`ヤツが俺のこの弱点を攻めたいと思う限り、 and as long as she wants to attack those weak points,`
-`……それはつまり、そう攻めるよう俺が誘導したのと同じことなんだ…。 ......it's as if I've induced her to attack there...`
-`間合いを慎重に計りながら、…じりじりと後退するんだ。Carefully judge the distance from your enemy, ...and retreat step by step.`
-`向こうに先に抜かせるんだ。 Make them draw their sword first.`
-`ヤツが闇雲に赤を振り回せば振り回すほど、俺に反撃のチャンスは増える。The more she recklessly flourishes that red, the more chances I'll have to strike back.`
-`赤に怯えるな。Don't be afraid of the red.`
-`{n}むしろ、赤で反論せざるを得ないよう、追い詰めろ……！{n}Keep the pressure on, so that she is forced to refute with the red......!`
-`ヤツがどんなに高圧に赤を語ろうとも、No matter how oppressively she speaks in red,`
-`……そう、その赤こそは、ヤツの傷口より噴出す血潮も同じなのだ。 ......yes, that red itself is the same as fresh blood spurting from her wounds.`
-`「さぁ。"Come on.`
-`…どうしたよ。 ...What's wrong?`
-`……まずはこの島に合計で何人いるのか、赤で語ってもらおうじゃねぇか。 ......First of all, why don't you tell me in red how many people are on this island total?`
-`さもないと、お前のカラスは俺に斬り込めないぜ……！」 If you don't, your raven can't cut me up......!"`
-`「…………………ふ。".....................Hmph.`
-`…破れかぶれが、こうもやり難いとは。 ...How surprising that you can be this desperate and yet this difficult.`
-`…捨て身というヤツは、いつの時代も侮れんな」 ...One cannot make light of someone putting their life on the line, no matter what the era."`
-`「……やはり金蔵の孫か。"......It's no surprise you're Kinzo's grandchild.`
-`追い詰められれば追い詰められるほどに、 The more cornered you are,`
-`…………不敵！」 ............the bolder you become!"`
-`「…いっひっひっひ…」"...Ihihihi..."`
-`ゴホンとロノウェが咳払いをする。Ronove cleared his throat.`
-`「膠着しましたね。"You appear to be at a standstill.`
-`せっかくの紅茶も冷めてしまいますよ、 That black tea I worked so hard to make is getting cold,`
-`お嬢様」 Milady."`
-`「………く」".........kh."`
-`味方のはずのロノウェが、主に悪戯っぽく次の手を急かす。Ronove, who was supposed to be her ally, roguishly rushed her next move.`
-`ベアトは笑いを返し、余裕をアピールしたつもりだったろうが、……額に浮かぶ汗を隠せない。Beato smiled back, probably intending to demonstrate that she was still relaxed, ......but she couldn't hide the sweat building up on her forehead.`
-`格下の相手を鼻であしらってやろうという余裕は、今や完全に失われていた。By now she had completely lost that relaxedness which had allowed her to turn her nose up at her worthless opponent.`
-`もちろん、ヤツもこの程度で追い詰められているわけではないだろう。Of course, she probably wasn't really cornered by something like this.`
-`…ただただ、…慎重なだけなのだ。 ...She was just...being cautious.`
-`これまでは俺が不慣れだった。Until now, I had been inexperienced.`
-`{n}戦い方がよくわからず、対戦相手として力量不足だった。{n}I didn't have a good grasp on how to fight, and I was underpowered as an opponent.`
-`しかし、俺が三度目のゲームともなり、手練れ始めていることに気付き、However, now that we had reached the third game, she realized that I was starting to become skilled,`
-`より慎重に、そして一手一手に熟考を始めたのだ……。 and she had grown more cautious, thinking every move over carefully......`
-`あぁ、それでいいぜ、ベアトリーチェ。Sure, that's just fine, {f:5:Beatrice}.`
-`{n}そして待たせたな。{n}And sorry to have kept you waiting.`
-`{n}これで満足だろ…？{n}Are you happy now...?`
-`「……面白くなってきたぜ……？"......Now things are starting to get interesting, right......?`
-`　ひっひっひっひ！」 Hihihihi!"`
-`「くっくっくっくっく！"*cackle*cackle*cackle*!`
-`　…戦人ぁぁぁ……」 ...Battleeeeerrrrr......"`
-`「埒が明かねぇな…。"This isn't going anywhere...`
-`なら、ズバっと気持ちよく、いつものヤツで行こうじゃねぇか」 Then, should I just dive right in and go with the usual?"`
-`「……ほぅ。"......Hoh.`
-`いつものヤツとな。 The usual, you say.`
-`…ならば頼もうではないか。 ...Then by all means.`
-`あれを聞かぬと、やはり始まった気がせぬわ…」 If I don't hear that, I guess I just won't get the sense that we've started..."`
-`初手は、俺からだ……。The first move was mine......`
-`「行くぜベアト」"Here I come, Beato."`
-`「復唱要求。"Repetition requested.`
-`……“この島には、１８人しかいない”」 ......‘There are only 18 people on this island’."`
-`「…………………」"....................."`
-`「…こいつを赤で言われちまったら、俺は１８人の誰かを疑わざるを得ない。"...If I hear you say this in red, I will have no choice but to doubt one of the 18.`
-`……１９人目の仕業にはもうできず、八方塞がりさ」 ......Since it could no longer be the work of a 19th person, all doors will be closed to me."`
-`「………だが、俺は１８人の中に犯人が絶対にいないと信じてる！".........But I believe that the culprit is definitely not one of the 18!`
-`　あんな残酷な殺人を、１８人の誰にも起こせるものか…！！」 There's no way that any of those 18 could commit such brutal murders...!!"`
-`「…………………」"....................."`
-`「繰り返すぞ。"I'll say it again.`
-`復唱要求！ Repetition requested!`
-`　“この島には、１８人しかいない”」 "There are only 18 people on this island"."`
-`「…………………………。"..............................`
-`………拒否する。 .........I decline.`
-`理由は明かさない」 I won't say why."`
-`ふぅっ…！Whew...!`
-`　俺にとって、最悪の赤は回避された。 I had avoided what would have been the worst red for me.`
-`もしこれを復唱されていたら、If she had repeated that,`
-`俺は魔女を認めるか１８人の誰かを疑うのかの、最悪の二択を迫られ、 I would have been faced with those two worst choices of accepting the witch or suspecting one of the 18,`
-`前回の二の舞となってしまう…。 like last time all over again...`
-`だが、ベアトはこの究極最大の俺の弱点を、赤で宣言しなかった。But Beato had not proclaimed my ultimate and greatest weakness in red.`
-`突かない理由のない、よだれが出そうな弱点なのに、復唱を拒否した。She had declined to repeat it—even though there was no reason why she shouldn't have struck—even though it was a weakness she should have been drooling at.`
-`王手飛車取りにも等しいこの一手を、赤で斬れなかった…！She hadn't sliced me up with red by using that move, which should have been as good as forking a rook and the king...!`
-`……これは、俺にとってあまりに有利な幸先だ。......This was a big sign of my advantage.`
-`そうさ。That's right.`
-`１８人の中に犯人などいない。 The culprit isn't one of the 18 people.`
-`{n}俺は誰も疑わない…！{n}I won't doubt anyone...!`
-`そして犯人は魔女でもないのだから、And since the culprit isn't a witch either,`
-`………つまりこの島に１９人目が存在するということ。 .........it means that a 19th person exists on this island.`
-`それがお前だ。And that's you.`
-`祖父さまの３０年来の愛人で、A person who, as Grandfather's mistress of thirty years,`
-`ずっとずっと森の中の隠された屋敷に、ひっそりと隠れ住まっていた人物。 has been living secretly in a hidden mansion in the forest for a long, long time.`
-`“人間”の、ベアトリーチェ………！！The {i:human} {f:5:Beatrice}.........!!`
-`「そうさ。"That's right.`
-`お前は魔女なんかじゃない。 You aren't a witch or anything like it.`
-`……この島に何十年も隠れ住んできた、…ただの人間なんだッ…！」 ......You're just a human...who's been living on this island in hiding for several decades...!"`
-`「………くくくく。".........*cackle*cackle*.`
-`くっくっくっくっく…。 *cackle*cackle*cackle*...`
-`…千年を経た無限の魔女の妾を、ただの人間呼ばわりしたか。 ...Did you just call me, the Endless Witch who has lived for over one thousand years, a mere human?`
-`……くっくくくくくくくくくくく！」 ......*cackle*cackle*cackle*cackle*cackle*cackle*!"`
-`ベアトリーチェはしばらくの間、小気味よく、あるいは悔し紛れに、気持ち悪く笑い続けた。For a while, {f:5:Beatrice} continued to laugh unpleasantly, gloating or maybe spiteful.`
-`「…いいか、続けるぜ。"...Are you ready? I'll keep going.`
-`…続けて復唱要求」 ...Again, repetition requested."`
-`「“この島には、１９人以上がいる”！」"‘There are at least 19 people on this island’!"`
-`「…………………………」".............................."`
-`ベアトリーチェは再び沈黙する。{f:5:Beatrice} fell silent once again.`
-`この島に存在する人間の数を確定することが、The feeling that confirming the number of humans on this island...`
-`場合によっては何かの大きな不利になるかもしれないことを感じ取り、might possibly stand to give her some large disadvantage,`
-`相当、慎重になっているのだろう。 was probably making her extremely cautious.`
-`もはや、赤は俺にとって反撃の足掛かり。The red had already become a foothold for my counterattack.`
-`そこまでわかっているなら、赤は魔女にとってリスクあるものになる。 With that in mind, the red had become a risk for the witch.`
-`しかし、もしこれを復唱できないなら、ヤツの“ヘンペルのカラス”は有効にならない。But if she couldn't repeat this, her "Hempel's Raven" wouldn't work.`
-`俺の“悪魔の証明”を打ち破るには、In order to break my "Devil's Proof",`
-`１８人以外の人間の存在と人数を、 first, the existence of and number of people outside the 18...`
-`事前に赤で確定する必要があるのだから。needed to be confirmed in red.`
-`そう。That's right.`
-`１９人目の存在は、赤以外では打ち破れない。 She couldn't break the existence of a 19th person unless she used red.`
-`俺はベアトを、赤を使う他ないように{i:追い詰めた}…！I had {i:closed Beato in}, giving her no choice but to speak in red...!`
-`この魔女とのゲーム…、There really was...`
-`………戦い方は、.........a way to fight,`
-`……確かにあるッ！ ......in this witch's game!`
-`「拒否してもいいんだぜ。"It's alright to decline.`
-`…お前が赤で言えないなら、この島の合計人数は１８＋Ｘってことになる」 ...If you can't say it in red, then that will mean the total number of people on this island will be 18+X."`
-`「……このＸは、初手で許すには相当デカい大駒だぜ？"......That X is a pretty huge piece to allow me to have on the first move, isn't it?`
-`　何しろ、以後、１８人の誰にも不可能だった、という根拠のトリックは、 After all, from then on, all of the tricks with the basis "it was impossible for any of the 18"...`
-`全て１８人以外の人間Ｘで説明可能になる。will become explainable with a human X outside of the 18 people.`
-`……全員アリバイ系の密室を、全て打ち破れる大駒だ…！」 ......This is a huge piece that can break open any locked room hinging on everyone having an alibi...!"`
-`それはさながら、It was just like...`
-`敵陣にわずかの隙間があれば鋭く食い込める、チェスのビショップのようなもの。a bishop in chess, which can cut a thin line through enemy forces as long as there's a slight gap.`
-`同じ色のマスにしか効果を発揮しないが、その盤上の支配力は大きい。 It only exerts an effect over squares of the same color, but it has a great ability to control the board.`
-`「…………………………。"..............................`
-`………………く」 ..................kh."`
-`ベアトも、現在の窮状をよく理解しているようだった。It looked like Beato also well understood her current plight.`
-`これほどの大駒を、これほどの序盤に見捨てられるわけもない…。She couldn't just let such an important piece go, especially this close to the beginning of the game...`
-`赤き宝刀を抜けば、それを救うことは難しくないだろう。If she pulled out her red treasured sword, it wouldn't be that difficult to save that piece.`
-`……しかしベアトは、むしろ俺がそれを待ち受けていることも、充分に察している。......But Beato was completely aware that I was expecting it.`
-`迂闊な赤き真実が、自らの首を絞めることになるかもしれないと怯えている…！ She was afraid that a careless red truth might end up strangling her own neck...!`
-`なぜなら、…本来、魔女は赤で否定されるべき存在だからだ。Because, ...in the first place, a witch was something which should be {i:denied} in red.`
-`信じろ。Believe.`
-`疑うな！ Don't doubt!`
-`　魔女などいない！ Witches don't exist!`
-`{n}この世にそんなもの、存在するわけもない。{n}Something like that can't exist in this world.`
-`それが存在できるのは、現実の狭間だけ。They can only exist in the cracks in reality.`
-`…その隙間にて、真実の暴風から必死に身を守って縮こまり、...They are a fragile existence, curled up in these cracks, frantically trying to protect themselves from the brutal winds of truth,`
-`虚偽と幻想で食い繋いでいる時だけ、蜃気楼のように細々と存在できる脆弱な存在なのだ。 and they can only barely exist like a mirage by surviving on falsehoods and fantasy.`
-`つまり、魔女だけが使える赤は、自らを否定しかねない現実そのもの。In other words, the red, which only witches can use, is the very reality by which they risk denying themselves.`
-`……赤を振りかざせば振りかざすほどに。......The more they brandish their red words...`
-`魔女はわずかずつだが、自らの凌げる現実の隙間を失っていく。the more they begin to lose, bit by bit, that crack in reality inside which they can endure.`
-`だからこそ、あやふやな情報、That is why they don't want, through the red,`
-`……つまり、幻想の余地ある現実の隙間を、無用心に赤で失いたくないのだ。 ......to carelessly lose that crack in reality which is based on fuzzy information, or in other words, fantasy.`
-`それが徐々に自分を追い詰めていくと理解しているから。Because they understand that they would be gradually cornering themselves.`
-`もちろん、ヤツはそれを認めないだろう。Of course, she would never admit it.`
-`それを認めれば、Because, if she did,`
-`自分がこの世に存在してはならない虚数的存在であることを認めたも同然になってしまうのだから。 it would be the same as admitting that she is something that can't exist in this world, like an imaginary number.`
-`怯えるな。Don't be afraid.`
-`強気でいろ…！ Stay strong...!`
-`{n}ヤツが一番骨身に染みてわかってるんだ。{n}She knows this deep down, and better than anyone.`
-`赤き宝刀は、相当の覚悟がなければ容易には使えないのだということを…！That her red treasured sword can't easily be used without considerable resolve...!`
-`「…どうしたよ。"...What's wrong.`
-`繰り返すぜ。 I'll say it again.`
-`……復唱要求！」 ......Repetition requested!"`
-`「“この島には、１９人以上がいる”！」"‘There are at least 19 people on this island’!"`
-`「……………………。"........................`
-`……ふ。 ......Hmh.`
-`…拒否する」 ...I decline."`
-`ベアトは悩みに悩みぬいた末。At the end of a long, long time spent deliberating,`
-`……深いため息をひとつ漏らしながら、静かに拒否を宣言した。 ......letting a single deep breath escape, she quietly proclaimed her refusal.`
-`……使うと思ってた。......I had thought that she'd use it.`
-`だがベアトは、序盤の勝ちを譲ってまで赤を使うことを拒否した。But Beato refused to speak in red, even though it would cost her victory in the opening part of the game.`
-`「拒否したな……？"You declined, yes......?`
-`　ということは、今後、 Which means that, from now on,`
-`俺は１８人以外の架空人物Ｘを何人でも使い放題ってことになるぜ…？」 I can create as many fictional character Xs outside of the 18 as I want...?"`
-`「好きにするがよい。"Do as you wish.`
-`…妾はそなたの復唱を拒否した。 ...I have declined your repetition.`
-`今はそれで充分であろう？ Isn't that enough for now?`
-`　……拒否の理由は、 ......The reason I declined was...`
-`………。......`
-`…いや、今はまだ明かさぬ。 ...No, I will not reveal that for now.`
-`いずれすぐにわかる」 You will know soon in any case."`
-`「…いっひっひ。"...Ihihi.`
-`もったいぶりやがってよ…」 Still acting tough, I see..."`
-`「……敢えて使わぬ赤もまた、赤らしい使い方よ。"......Red that I deliberately don't use is in itself a fitting use of red.`
-`そなたは赤き宝刀と呼んだな。 You called it my red treasured sword.`
-`愉快な例えよ。 A pleasant analogy.`
-`妾も使おう。 I will use it too.`
-`……宝刀は抜かぬ内が花よ。 ......A treasured sword is at its best when it is sheathed.`
-`むしろ抜かぬことによって醸せる畏怖というものもある」 In fact, there are times it can instill even more fear because it is sheathed."`
-`「そうだな。"That's right.`
-`…俺はお前がいつ赤で引っ繰り返してくるか、常に念頭に置いて戦わなければならない。 ...As I fight, I always have to keep in mind when you might turn everything over with those red words.`
-`こいつは偉ぇプレッシャーだ」 It's some pretty serious pressure."`
-`「……それに、復唱を拒否される方が辛い場合もある。"......And there are times when having a repetition declined makes things harder for me.`
-`…何しろ、俺の読みが正しいから拒否できないのか、 ...Those times, I can't tell whether you can't repeat because my guess was right,`
-`ミスリードにはまって泳がされてるのか区別がつかないからな」 or whether you're just misleading me and letting me think whatever I want."`
-`「…そういう意味では、なるほど。"...In that sense, yes, I see.`
-`抜かずの宝刀ってわけだ」 A sheathed treasured sword."`
-`「…………なぁに。"............What does it matter?`
-`同じ突き落とすなら、少しでも高いところに行かせてからに限る。 If I'm going to push you off a cliff anyway, I might as well let you climb a little higher first.`
-`…まだ始まったばかりよ。 ...We have still barely begun.`
-`まだまだな…」 Much is left to come..."`
-`「この勝負は、今は妾がリザインする。"I'll resign from this challenge.`
-`…淡き勝利に今は酔え。 ...Go and get drunk on your faint victory for now.`
-`……今はな」 ......Only for now."`
-`その負け惜しみが、事実上、序盤戦のピリオドとなったらしい。That bitter comment did, in fact, appear to have marked the end of the game's opening battle.`
-`にもかかわらず、まったく気は抜けない。 Even so, I couldn't relax my guard at all.`
-`…ロノウェが乾いた拍手の音を聞かせてくれるまで、俺の緊張感は緩まなかった…。...I was unable to relax my feeling of tension until I was greeted by the sound of Ronove's applause...`
-`「……お見事です、戦人さま。"......Spectacular, Battler‐sama.`
-`まずは序盤は、戦人さま有利の展開でスタートというところでしょうか？」 I suppose we could say that this game has started with at least the opening unfolding to your advantage?"`
-`「さぁな…。"No idea...`
-`この駒が、俺の手でもぎ取ったものなのか、 I still don't know whether this piece was something I tore from her with my own hands,`
-`取るよう誘導されたものかはまだわからねぇな」 or whether she guided me into taking it."`
-`「……どうせお前のことだ。"......After all, knowing you...`
-`俺が罠にはまり始めてるのを知ってて、白々しく拍手をしてるんだろ…？」you probably know that I'm being led into a trap, and that clapping is just a barefaced lie, right...?"`
-`「まさか。"How could you think that?`
-`序盤とは言え、お嬢様より一本を奪った手腕を純粋に祝福いたしております。 I am innocently celebrating your ability that has enabled you to take one shot at Milady, though granted it is only the opening.`
-`…何しろお嬢様はすぐ増長するお方。 ...After all, Milady is a person who is quick to become arrogant.`
-`たまにはこのような刺激も良い薬かと思いますよ」 I believe that a little stimulation such as that makes for a good medicine every once in a while."`
-`「…お前んとこの執事、ホント口悪ぃな…」"...This butler of yours sure has a vicious tongue..."`
-`「であろぅ？"Isn't that so?`
-`　たまに妾でもカチンと来るぞ」 Sometimes he enrages even me."`
-`「それはそれは、大変に失礼いたしました」"My, my, how incredibly rude of me."`
-`「さぁさ、お嬢様に戦人さま。"Well then, Milady, Battler‐sama.`
-`紅茶のおかわりはいかがですかな？ Would you care for some more black tea?`
-`　まだゲームは始まったばかりでございます。 The game has still barely begun.`
-`ゲームを彩るお茶とお菓子は、どうかこの私めにお任せを。 Please leave any tea or pastries that might adorn this game to me.`
-`どうぞお気兼ねなく、ゲームをお進めになってください」 Please, do not hesitate to advance further in the game."`
-`「そうさせてもらう。"I will.`
-`先を進めるぜ。 Let's move forward.`
-`これからが本番だ」 Now is when it really starts."`
-`「…………ふ。"............Hmph.`
-`良かろう。 Very well.`
-`時計を進めようではないか。 Let us advance the clock.`
-`ロノウェ、紅茶を頼む」 Ronove, black tea, please."`
-`「かしこまりました。"Certainly.`
-`クッキーは？」 What about a cookie?"`
-`「いらぬ。"No need.`
-`ベルゼブブにやれば喜ぼう。 Give it to Beelzebub to keep her happy.`
-`…………しばし沈黙せよ」 ............Remain silent for now."`
-`悪魔の執事が紅茶を注ぐ音を聞きながら、魔女は浅く目を瞑り黙り込む。While listening to the sound of the demon butler pouring tea, the witch closed her eyes slightly and fell into silence.`
-`……しばらくの間、沈思黙考したが、やがて悪戯っぽい何かを瞳に浮かべた。......For some time, she was deeply lost in thought, but eventually a roguish glint came into her eyes.`
-`「よかろう。"Very well.`
-`…………妾がどうして初手にて赤で語るのを拒否したのか、今よりわからせてやろうぞ」 ............Why don't I inform you now why I declined to speak in red for the first move."`
-`「……何ぃ…？"......What...?`
-`　上等じゃねぇかよ。 Bring it on.`
-`お手並み拝見と行くぜ」 Show me what you've got."`
-`「くっくっく…。"*cackle*cackle*...`
-`やはり、見逃すには惜しい大駒よ」 It really is a big piece that you'd hate to miss."`
-`「……拙速かも知れぬが、動かせてもらおう。"......It may be hasty, but allow me to move.`
-`赤は使わぬが、今よりそれを妾に代わって楼座が説明する。 I won't use red, but from here on, Rosa will explain on my behalf.`
-`聞くが良い」 Listen."`
-`「もちろん、私も同意よ。"Of course, I agree as well.`
-`楼座もそうでしょう？ You too, right, Rosa?`
-`　……………楼座？」 ...............Rosa?"`
-`「え、あっ、ごめんなさい…。"Huh, ah, sorry...`
-`わ、私も同じよ。 M‐me too.`
-`同意するわ」 I agree."`
-`「………どうしたんや、楼座さん。".........What's wrong, Rosa‐san.`
-`…あんたさっきからずいぶん大人しいなぁ。 ...You've been really quiet for a while now.`
-`体調でも悪いんとちゃうか…？」 Are you feelin' sick...?"`
-`楼座は、元々、兄弟喧嘩に進んで口を挟む性分ではない。From the beginning, Rosa had never been one to willingly cut in on the siblings' fights.`
-`…しかしそれにしても、ずいぶんと消極的で、...But even so, she seemed unmotivated,`
-`今夜の会議ではまったくといっていいほど、発言していなかった。 and had said almost nothing at all during this night's conference.`
-`ずっと俯いて、何か他のことを考えているようだった…。The whole time, she had been hanging her head, and appeared to be thinking of something else...`
-`「あんた、さっきからぼんやりしてるわよ。"You've been in a daze for a while now.`
-`そんなので遺産が守れると思ってるの？ Do you think you can protect the inheritance like that?`
-`　あんたも一児の母なんだから、もっとしっかりなさいよ」 You are also the mother of your child, so get a stronger hold on yourself."`
-`「ご、ごめんなさい……」"I, I'm sorry......"`
-`「朝がだいぶ早かったんじゃないかね？"I imagine you woke up quite early this morning?`
-`　体調が悪いなら無理をしない方がいいだろう」 If you feel sick, you shouldn't overdo it."`
-`「……客室にベッドの用意がありますよ。"......The beds have been prepared in the guest rooms.`
-`お休みになってはいかがですか？ How about taking a rest?`
-`　ご案内しますよ」 I will guide you."`
-`「いえ、…大丈夫です。"No, ...I'm fine.`
-`ありがとう」 Thank you."`
-`「…どうしたんだ。"...What is it?`
-`何か心配事でもあるのか？」 Is there something you're worrying about?"`
-`「………いえ、別に………」".........No, not really........."`
-`「そう…？"Are you sure...?`
-`　さっきからずっと、心ここに在らずという感じよ。 It feels like your mind has been elsewhere this whole time.`
-`…そしてそれは、今、私たちがしている議題と、何か関係があるんじゃないかしら…？」 ...I wonder if that has anything to do with what we've been talking about...?"`
-`その言葉に、みんなが一斉に楼座に注目する。At those words, everyone stared at Rosa together.`
-`それに応えるように、楼座もびくりと肩を震わせた。As if in response, Rosa's shoulders quivered.`
-`霧江の指摘は間違っていないようだった。Apparently Kyrie's guess hadn't been wrong.`
-`{n}…楼座もまた、それを否定しない…。{n}...Nor did Rosa deny it...`
-`「………………いえ、あの…。"..................No, umm...`
-`……………………………」 ................................."`
-`何かを口にしようとしたが、それを飲み込み、再び沈黙してしまう。She swallowed whatever it was she had been about to say, and went silent again.`
-`さすがに他の兄弟たちも、彼女の様子が普段と違うことに気付き始めた…。By now, even the other siblings were also beginning to realize that something about her demeanor was different from usual...`
-`「どうしたんだ。"What is it?`
-`…さっきからおかしいぞ。 ...You've been weird for a while.`
-`何か思うことでもあるのか…？」 Do you have something on your mind...?"`
-`「わしら全員で団結しようって誓い合ったばかりやないか。"All of us've just sworn to remain united, haven't we?`
-`ひとりで悩むなんて、水臭い話やで。 Don't be all unfriendly now, worryin' by yourself.`
-`話したってぇな」 Let's talk it over."`
-`「……楼座。"......Rosa.`
-`話しなさい」 Tell us."`
-`男たちに次々と催促され、楼座は観念しおずおずと打ち明ける…。Pressed by the men one after the other, Rosa made up her mind, and nervously began to open up...`
-`それはまるで、It was almost...`
-`ささやかな悪戯が、重大な事態を招いてしまったことを告白するような、as though she was trying to confess to some modest prank which had inadvertently brought about a serious situation...`
-`そんな雰囲気によく似ていた。such was the atmosphere in the room.`
-`「いえ、その……。"No, umm......`
-`……ベ、ベアトリーチェっていう、お父様の愛人って、 ......Th‐this mistress of Grandfather's, this {f:5:Beatrice},`
-`……本当にその、 ......is she really, um,`
-`………生きてるのかしらって思って…」 .........still alive, I was wondering..."`
-`「はぁ？"Huh?`
-`　そりゃ生きてるに決まってるでしょう。 Obviously she's alive.`
-`こうして手紙を送ってくるぐらいだもの」 She's sending letters to us, what more do you want?"`
-`「元気かどうかは別の問題だろうけどな。"Whether she's healthy or not is a different story though.`
-`肖像画の美女も、今じゃきっといいお歳だろうぜ」 The lovely woman in that portrait must be getting up there in age by now."`
-`「元気やと思うでぇ。"I'd think she's healthy.`
-`カネのことで悪知恵働くヤツは、決まっていくつになっても元気や！ People who are crafty when it comes to money are healthy no matter how old they are!`
-`　案外、悪巧みは最高の回春剤かも知らへんで。 Evil plans might even be the best rejuvenating agent.`
-`わっはっはっは」 Wahahaha."`
-`「……生きてるはず、"......She can't be...`
-`………ないの」......alive."`
-`「え？"Huh?`
-`　……今、何て？」 ......What did you just say?"`
-`「ベアトリーチェは、"{f:5:Beatrice} is...`
-`……死んでるのよ…。...dead...`
-`………わ、 .........I,`
-`…私が殺した…！」 ...I killed her...!"`
-`「な、……何だって……？！」"Wh‐......what did you say......?!"`
-`「…ど、…どういうことよ、楼座…！」"...Wh‐...what do you mean, Rosa...?!"`
-`「で、でも、私が殺したわけじゃ…。"B‐but, it's not like I was the one who kill—`
-`……で、でも私があんなところに連れ出したから！ ......But, but I was the one that brought her to a place like that!`
-`　…やっぱり私が殺したのよ…。 ...I really did kill her...`
-`あれは夢だと思い込もうとしたのよ！！」 I tried to make myself believe it was a dream!!"`
-`「……でも、……やっぱりあれは夢じゃなかったのよ！"......But......it really wasn't after all!`
-`　だからこれは、……ベアトリーチェの亡霊からの手紙なのよ！！ Which means this is......a letter from {f:5:Beatrice}'s ghost!!`
-`　うわああああぁああぁああぁあぁ！！」 Uwaaaaaaaaaaaaaaa!!"`
-`突然のことに、誰もが言葉を失う。It was so sudden that everyone was lost for words.`
-`楼座は取りとめもないことを口走りながら、髪を振り乱しながら頭を抱えていた…。 Rosa kept on talking, unable to stop, holding her head as her hair flew all about...`
-`「どうか落ち着いて…！"Please, calm yourself...!`
-`　楼座さん…！」 Rosa‐san...!"`
-`「わ、わしには何が何やらさっぱりや…！"I, I have absolutely no clue what's goin' on...!`
-`　もう死んどる？ Already dead?`
-`　どういう意味なんや…！」 What do you mean...?!"`
-`「……２つの意味があると思うわ。"......I think it means two things.`
-`まず１つ目は、…言葉通りの意味。 First, ...its literal meaning.`
-`…そしてもう１つは、私たちの想像が正しかったことを裏付けるもの」 ...And second, it substantiates that our earlier guess was correct."`
-`「ということは……。"Which means......`
-`………楼座は、……ベアトリーチェに、会ったことがあるというのかね」 .........Rosa, ......you have met with {f:5:Beatrice}?"`
-`「そ、そんな話、楼座の口からは一度も聞いたことがないわ。"I, I've never heard Rosa speak about that once.`
-`…楼座、いつよ？ ...Rosa, when was it?`
-`　あなたは一体、いつベアトリーチェに会ったのよ？！」 When could you possibly have met {f:5:Beatrice}?!"`
-`「昔よ！"Long ago!`
-`　ずっとずっと昔よ！！ Long, long, long ago!!`
-`　まだこの島に引っ越してきたばかりで私は幼かった！！ We had just moved over to the island and I was young!!`
-`　私は悪くないの、私が殺したわけじゃ…！！ It wasn't my fault, it's not like {i:I} killed her...!!`
-`　うううぅうううぅ！！」 Uuuuuuuuughhhuuu!!"`
-`「…落ち着け！"...Calm down!`
-`　誰もお前を責めちゃいねぇぜ？ Nobody's blaming you for anything, alright?`
-`　まずは水でも飲め。 First, drink some water.`
-`な？ Okay?`
-`　夏妃さん、水差しを頼む」 Natsuhi‐san, the pitcher, please."`
-`「は、はい。"Y‐yes.`
-`………どうぞ、楼座さん。 .........Here you go, Rosa‐san.`
-`どうか落ち着いて……」 Please, calm yourself......"`
-`「……………………………………」".........................................."`
-`楼座が荒い呼吸の中に落ち着きを取り戻すまで、……誰も一言も発することはできなかった…。Until Rosa was able to regain her calm amidst her ragged breathing, ......no one was able to speak a word...`
+`{ruby:"...I see...:「…なるほどな…。}`
+`{ruby:So, not a witch, but a mistress by the name of {f:5:Beatrice} did exist on the island...":魔女じゃなく、ベアトリーチェという名の愛人が島に存在していたわけか…」}`
+`{ruby:"......So there can be more than 18 people!:「……つまり人間は１８人以上いる！}`
+`{ruby:Which means I can defeat that line of reasoning which says that, if it was impossible for all 18 people, it must be a crime involving magic.:ということは、１８人全員に不可能だから魔法犯罪である、という図式は崩せるわけだ。}`
+`{ruby:......That's some big information.":……これは大きい情報だぜ」}`
+`{ruby:"Excuse me.:「失礼いたします。}`
+`{ruby:Battler‐sama, would you care for some black tea and cookies?":戦人さま、紅茶とクッキーはいかがですか？」}`
+`{ruby:Beato's butler, who called himself Ronove, appeared out of nowhere in particular.:どこからともなく、あのロノウェとか名乗ったベアトの執事が現れる。}`
+`{ruby:Placed upon the silver tray that he held was a plate filled with delicious‐looking, steaming black tea and cookies.:手に持つ銀のトレーには、美味しそうに湯気を立てる紅茶とクッキーを盛り付けた皿が置かれていた。}`
+`{ruby:...I really don't like this guy's smile.:…どうもこいつの笑みは好かないぜ。}`
+`{ruby:{n}For some reason, it doesn't look like a smile used to warmly greet a guest.:{n}何というのか、客を歓待する笑みじゃない。}`
+`{ruby:{n}It feels like he's making fun of me for some reason.:{n}どこか小馬鹿にしたような、そんな笑いなのだ。}`
+`{ruby:...I don't know whether he really takes me for an idiot,:…それが文字通り馬鹿にしているのか、}`
+`{ruby:or whether it's just a joke or something, but it's really irritating me.:それとも冗談程度のレベルなのかわからないのが、何ともイラつくが。}`
+`{ruby:"......I don't want any.:「……いらねぇよ。}`
+`{ruby:I'm busy right now.:俺は今、取り込み中なんだ。}`
+`{ruby:Leave me alone.":放っておいてくれ」}`
+`{ruby:"Oh, my.:「おやおや。}`
+`{ruby:That is a shame, when the cookies have turned out oh so very delicious.:それはそれは美味しく焼けたクッキーなのに、とても残念です。}`
+`{ruby:Cooked so wonderfully it is a shame to waste them on a simple {y:0:Human}{n:0:human}, truly wonderful cookies.":ニンゲン如きには勿体無いくらいに素敵に焼きあがった、それはそれは素敵なクッキーなのに」}`
+`{ruby:"I'll eat some when I feel like it.:「気が向いたら食ってやるぜ。}`
+`{ruby:Set it down somewhere over there and get out of here.":その辺に置いて、とっとと失せな」}`
+`{ruby:"Will that be acceptable?:「左様でございますか。}`
+`{ruby:Then I shall do so.:それではそのようにいたしますよ。}`
+`{ruby:You may eat them when they get cold and stale, and then regret as much as you like that you did not eat them when they were freshly baked.":冷めてからお召し上がりになって、焼きたてを召し上がらなかったことを存分に後悔なされると良いでしょう」}`
+`{ruby:".........You really are annoying.:「………いちいち、うるさいヤツだな。}`
+`{ruby:...Well, you're a lot better than that Beato, who keeps doing that creepy cackle right next to my ear.":…まぁ、耳元で気色悪くケラケラ笑うベアトのヤツよりゃ数段マシだがよ」}`
+`{ruby:"Oh, yes, yes, that is quite true.:「いえいえまったく。}`
+`{ruby:There are times when Milady's laughter becomes quite undignified.:お嬢様の笑い声は時折、実に品がありません。}`
+`{ruby:Every time I hear it, I think of my noble rank,:それを聞く度に、なぜ私ほどの高貴な悪魔が、}`
+`{ruby:and struggle to comprehend why I must have such a person as my master.:あのような者を主にしなければならないのか、理解に苦しむのでございますよ。}`
+`{ruby:Pu ku ku ku...":ぷっくっくっく…」}`
+`{ruby:"......Man you're weird.:「……変なヤツだな。}`
+`{ruby:If you don't like it, then couldn't you just not work for her?":そんなに嫌なら仕えなきゃいいだろうが」}`
+`{ruby:"To continue serving despite that is furniture's joy.:「それでも尚お仕えするのが、家具の喜びなのでございますよ。}`
+`{ruby:One could not serve as furniture without such an attitude.":それでなくては家具は務まりません」}`
+`{ruby:"......Let us set that aside.:「……それはさておき。}`
+`{ruby:How has the game been proceeding?:ゲームの方はいかがでございますか？}`
+`{ruby:Just now, I believe I heard you say that you had found some good information, and were quite pleased by it.:先ほど、良い情報を見つけたようなことを言われ、お喜びになられていたようですが。}`
+`{ruby:Well now, I wonder what your shallow wit has thought up.":はてさて、どのような浅知恵が思いついたやら」}`
+`{ruby:As Ronove made fun of me and giggled,:ロノウェはくすくすと小馬鹿にするように笑いながら、}`
+`{ruby:he followed my earlier words to the letter and placed the black tea and cookies somewhere arbitrary nearby.:俺に言われた通りの文字通りに、適当なその辺に紅茶とクッキーを配膳する。}`
+`{ruby:"......I imagine it is because you have gained increased confidence in the existence of a 19th person?:「……大方、１９人目の存在に自信を深めたからでございましょう？}`
+`{ruby:Would you be gracious enough to allow me to hear your opinion?":よろしければ、ぜひご高説をお聞かせ願えますか？」}`
+`{ruby:"..................:「………………。}`
+`{ruby:......Yeah, sure.:……あぁ、いいぜ。}`
+`{ruby:I'm just going to say it again in front of Beato anyway.:どうせベアトの前で改めて言うしな。}`
+`{ruby:No reason to hide it.":隠す必要もないさ」}`
+`{ruby:"......Alright.:「……いいか。}`
+`{ruby:It looks like there's a hidden mansion somewhere on this island, and that Grandfather had his mistress living there.:この島に隠し屋敷があって、愛人を住まわせていたらしいんだ。}`
+`{ruby:In that case, the question that's been torturing me, about whether there are 18 or 19 people, can be easily resolved.":となりゃ、俺を苦しめてきた１８人なのか１９人なのかって疑問は簡単に決着する」}`
+`{ruby:"Although you deny witches,:「戦人さまは魔女を否定するくせに、}`
+`{ruby:you hold a double standard by refusing to seek a culprit among the 18, and have driven yourself into a dead‐end.":１８人の中にも犯人を求められないダブルスタンダードの袋小路に、自らを追い込まれました」}`
+`{ruby:"...The easiest way to deny the witch would be to doubt one of the 18.:「…魔女を否定するもっとも簡単な方法は、１８人の誰かを疑うことだ。}`
+`{ruby:......It's not so easy for every one of the 18 to have an alibi.:……１８人全員のアリバイは、そう簡単には揃わない。}`
+`{ruby:You always find at least one person with a fragile alibi.:常にひとりくらいはアリバイの脆い人間が生まれる。}`
+`{ruby:......I could probably continue to deny the witch forever if I just used that person as a sacrifice.":……俺はそいつを生贄にすることで、常に魔女を否定し続けることもできるだろう」}`
+`{ruby:"However, I will steadfastly refuse to do that!!:「しかし、それは断固拒否するッ！！}`
+`{ruby:Yeah, that's no good, that's no goddamn good at all!:あぁダメだぜ、全然ダメだ！}`
+`{ruby:Every one of those 18 people is either a parent, a relative or a cousin to me!:１８人はみんな俺にとって親たちや親戚たちやいとこたち！}`
+`{ruby:And those reliable servants, who are sometimes serious and sometimes funny.:そして真面目だったり面白かったりする頼もしい使用人の人たちだ。}`
+`{ruby:I won't let myself use any one of them as a sacrifice!!":俺はその人たちの誰を生贄にすることも許せないッ！！」}`
+`{ruby:"In the past, my resolve wavered.:「かつて俺はその決意があやふやだった。}`
+`{ruby:That's how Beato hit me where my heart was weak.":だからその心の弱さをベアトに突かれたんだ」}`
+`{ruby:"......Accepting and understanding your own weaknesses.:「……自らの弱点を認め、理解する。}`
+`{ruby:That is not something which can often be accomplished.:なかなか出来ることではありません。}`
+`{ruby:Battler‐sama, you are using this theory about a 19th person as a spear.:戦人さまは１９人目が存在する説を槍にする。}`
+`{ruby:...Or should I say, a shield?":…槍というよりは楯、でしょうかな」}`
+`{ruby:"In any event, unlike how unprepared you were in the games up until now,:「何れにせよ、これまでのゲームでの無策と違い、}`
+`{ruby:let us call the fact that you now have a compass bearing on how to fight...a dramatic leap forward.:戦い方に指針を持たれるのは、劇的飛躍と申せましょう。}`
+`{ruby:With this, you need not doubt any of the 18 you love and respect,:これで戦人さまは、敬愛する１８人を疑わずに、}`
+`{ruby:and can easily suspect a 19th person, and pursue your theory that the culprit is a human.":存分に１９人目を疑い、人間犯人説を追求できるわけでございます」}`
+`{ruby:"That's it exactly.:「そういうことさ。}`
+`{ruby:Like in the first game, when Kanon‐kun was killed in the boiler room,:最初のゲームの、嘉音くんが殺されたボイラー室とか、}`
+`{ruby:...and a bunch of other places,:…他にも他にも、}`
+`{ruby:there are countless tricks I can use without hesitation if a 19th person existed.":１９人目が存在していたなら、迷う必要なんかないトリックはいくつもある」}`
+`{ruby:In the very first game, Kanon‐kun had been killed in the boiler room.:一番最初のゲームで、嘉音くんはボイラー室で殺された。}`
+`{ruby:One might think that he was attacked by Kumasawa‐san, who had gone down into the boiler room with him,:普通に考えたなら、一緒にボイラー室に下りた熊沢さんが襲ったとか、}`
+`{ruby:or maybe that someone who had appeared to be dead earlier was actually faking,:あるいは死んだように見えた誰かが実は偽装で、}`
+`{ruby:and had ambushed Kanon‐kun in the boiler room.:ボイラー室で嘉音くんを待ち伏せたとか、}`
+`{ruby:Either way, it was a move that forced me to suspect one of the 18.:何れにせよ、１８人の誰かを疑わなければならない指し手だった。}`
+`{ruby:However, by simply proposing that a 19th person exists,:しかし、１９人目が存在することをあっさりと仮定するだけで、}`
+`{ruby:there's no longer any need to suspect one of the 18 for that murder in the boiler room.:このボイラー室の殺人について１８人の誰も疑う必要はない。}`
+`{ruby:"In short!:「つまり！}`
+`{ruby:"Impossible for any of the 18 = The culprit is a witch"...:１８人の誰にも無理だから＝犯人は魔女、}`
+`{ruby:is an equation that I can now deny.":という図式だけは否定することができるわけさ」}`
+`{ruby:Using this argument, we can take, for example, the question which has been raised once again in this game,:この論法なら例えば、今回のゲームでもすでに問題提起されている、}`
+`{ruby:"who gave Maria the letter?",:“真里亞に手紙を渡したのは誰か？”}`
+`{ruby:and come up with an easy explanation.:という問いも簡単に説明できる。}`
+`{ruby:Even if all 18 people have alibis,:１８人全員にアリバイがあろうとも、}`
+`{ruby:I can easily explain everything by saying that a 19th person visited her and gave her the letter.:ゆえに１９人目の人物が訪れて手紙を渡したと、実に簡単に説明できるのだ。}`
+`{ruby:".........Hmm, hmm.:「………ふむふむ。}`
+`{ruby:I think that is quite a good move.:とても良い一手だと思いますよ。}`
+`{ruby:How would I strike back?":私だったらどう切り返しましょうか」}`
+`{ruby:"......Battler‐sama, despite your understanding, there are still plenty of weak points.:「……例え戦人さまが理解されたとしても、未だに弱点は健在。}`
+`{ruby:Perhaps the "18 people attack" will be an effective move.:“１８人攻め”は有効な手でしょうね。}`
+`{ruby:As an attempt to judge how strong your defense is, it may be interesting to attack from that angle again.":戦人さまの守りがどの程度か確かめる意味でも、改めてそこを突くのも面白いかもしれません」}`
+`{ruby:"Then how would you do it,:「ならどう来る。}`
+`{ruby:demon butler...?!":悪魔の執事…！」}`
+`{ruby:"......I believe it would be appropriate to attack this 19th piece that you have played.:「……戦人さまが指された、１９人目の駒を迎え撃つのが妥当でございましょう。}`
+`{ruby:Battler‐sama, have you ever met this 19th person?:戦人さまは１９人目にお会いしておりませんね？}`
+`{ruby:May I ask you for some proof that this 19th person exists?":１９人目が存在する証拠をお願いできますかな？」}`
+`{ruby:"How naive.:「甘ぇぜ。}`
+`{ruby:Of course, I knew you'd probably try that move...!":もちろん、その指し手で来るだろうことは読んでいる…！」}`
+`{ruby:"My, my.:「それはそれは。}`
+`{ruby:Please respond to it.":受け手をお願いいたします」}`
+`{ruby:"Witches and demons and the like...:「魔女だの悪魔だの。}`
+`{ruby:There's no move more appropriate for you than this one.:お前らにこれほど相応しい一手はないぜ。}`
+`{ruby:......And that is—":……それがこいつっ、」}`
+`{ruby:"The "Devil's Proof"!":「“悪魔の証明”さッ！」}`
+`{ruby:When we humans are accused of something, we always counterattack by saying to show some evidence.:俺たち人間は、何かを示されると、必ず証拠を示せと反論する。}`
+`{ruby:Because that's a human move.:それが人間の指し手だからだ。}`
+`{ruby:But I'm fighting with a witch.:だが、俺は魔女と戦っている。}`
+`{ruby:{n}I'm taking part in a battle with someone who isn't human!:{n}人ならざる者との戦いに臨んでいる！}`
+`{ruby:And some moves exist which can only be used in a game against a witch.:だから、魔女とのゲームでしか使えない手がある。}`
+`{ruby:{n}There are cheap moves!:{n}卑劣な一手がある！}`
+`{ruby:And that's what this "Devil's Proof" is.:それがこの“悪魔の証明”。}`
+`{ruby:{n}Therefore, evidence is unnecessary!:{n}ゆえに、証拠は不要！}`
+`{ruby:Let's take the assumption that there is a hidden mansion on Rokkenjima separate from the Ushiromiya family mansion,:六軒島には、右代宮家の屋敷以外にも秘密の屋敷があり、}`
+`{ruby:and that a woman named {f:5:Beatrice} is living there.:そこにベアトリーチェという女性が住んでいるという仮定。}`
+`{ruby:In order to prove this, one must find this mansion and actually bring {f:5:Beatrice} out of it.:これを実証するには、その屋敷を見つけ、ベアトリーチェを実際に連れて来なければならない。}`
+`{ruby:That's called actual proof in the human world.:それが人の世での実証だ。}`
+`{ruby:However, if we follow the rules of the "Devil's Proof", you can't disprove that she exists, even if there's no evidence that she does.:しかし、“悪魔の証明”に則るならば、例え何の証拠もなくとも、彼女の存在を否定できない。}`
+`{ruby:Because it's impossible to prove that something doesn't exist.:存在しないことは証明不能だからだ。}`
+`{ruby:......That's right, this "Devil's Proof", which tormented me so much before, I've finally managed to use to my own advantage.:……そう、これまでに、さんざん苛まれてきた“悪魔の証明”を逆手に取ったことになる。}`
+`{ruby:Those guys were always trying to force me to accept the existence of the witch by using the "Devil's Proof".:ヤツらは常に“悪魔の証明”で魔女の存在を無理やり認めさせようとしてきた。}`
+`{ruby:That was because, in response to Beato's professions that witches do exist,:魔女はいると自称するベアトに対し、}`
+`{ruby:I physically could not offer any proof that "witches don't exist".:俺は“魔女はいない”という証拠を示すことが物理的にできない。}`
+`{ruby:That is why I have been subjected to this nonsense that witches exist, and why I have been unable to counterattack.:だからこそ、魔女は存在するという暴論を反撃不能で突き付けられてきた。}`
+`{ruby:And that's why I'll flip over the chessboard right now!:だからここでチェス盤を引っ繰り返す！}`
+`{ruby:If I can't disprove that witches exist, then that means,:魔女が存在することを否定できないならば、それはつまり、}`
+`{ruby:if I suggest that a 19th human exists, you can't disprove that either.:１９人目の人間が存在すると俺が言い出しても、それもまた否定できないわけだ。}`
+`{ruby:In other words, the enigmatic mistress in question is craftily hiding herself, so it's perfectly natural that you can never find her no matter how hard you look.:つまり、問題の謎の愛人は狡猾に隠れているわけだから、どんなに探しても見付からないのは当然。}`
+`{ruby:So you can't say that "The 19th person can't be found = The 19th person doesn't exist".:だから、１９人目が見付からないこと＝１９人目はいない、とはならないわけだ。}`
+`{ruby:Therefore, it is impossible to disprove a 19th person.:ゆえに、１９人目の否定は不可能。}`
+`{ruby:{n}Beato used the "Devil's Proof" to make denying her existence impossible,:{n}ベアトが自らの存在を否定不能とした“悪魔の証明”が、}`
+`{ruby:but this time it's become my weapon.:今度はそのまま俺の武器になったわけだ。}`
+`{ruby:If we can get away with this argument, then never mind a 19th person,:この論法が罷り通るなら、１９人目どころか、}`
+`{ruby:this island could be full of people we don't know about,:島には俺らの与り知れない人間が、}`
+`{ruby:and even if there are ten or a hundred of them hiding, she still can't disprove that they exist.:それこそ１０人、１００人隠れていたとしても、その存在を否定することはできない。}`
+`{ruby:In the last game and the one before that, among the murder scenes that showed up, there were several that were extremely intricate and must have taken a lot of effort to set up.:前回、前々回のゲームで登場した殺害現場の中には、非常に手の掛かる凝った現場がいくつか登場する。}`
+`{ruby:It's very difficult to imagine that a single culprit could have set all of those up.:それらは単独の犯人が構築したと考えようとすると、非常に困難になってしまう。}`
+`{ruby:However, if not just a 19th person, but ten or a hundred people were hidden somewhere, that wouldn't be any problem at all.:しかし、１９人目どころか、１０人も１００人も隠れていたならまったく何の問題もない。}`
+`{ruby:If they all split up the work, they could handle any job in a short period of time.:全員で手分けして作業すれば、どんな作業も短時間にこなせてしまうだろう。}`
+`{ruby:Of course, doubts will naturally arise at whether a large group of people like that could sneak around the mansion without being noticed,:それだけの大勢の人間が、あの屋敷内に気配もなく潜んでいたのかという疑問は当然、出るだろうが、}`
+`{ruby:but those are all settled by the "Devil's Proof".:これも“悪魔の証明”で決着できる。}`
+`{ruby:Because not seeing or not noticing a hundred people inside the mansion does not disprove that they were there.:気配がなかった姿を見なかった＝屋敷内に１００人いたことの否定、にはならないからだ。}`
+`{ruby:Even though I'm saying it myself, it's such a stupid argument that it makes me wanna throw up!:自ら口にしておきながら何て暴論だろうな、反吐が出るぜ！}`
+`{ruby:However, it's because it's such a dirty‐as‐hell move that makes it the perfect one to use against a witch.:だが、そんなド汚ぇ一手だからこそ、魔女への一手に相応しいんだ。}`
+`{ruby:Well, we're only imagining here,:まぁ、想像だけにせよ、}`
+`{ruby:...but the thought of about a hundred suspicious men wearing goat masks hiding in the shadows......:…山羊の仮面被った不審な男たちが、１００人も物陰にササッと隠れてて……、}`
+`{ruby:That goes beyond "funny", makes me think of cockroaches.:何てのは、笑えるを超えて、ゴキブリみたいだよな。}`
+`{ruby:If you see one, it means there's a hundred hiding in the shadows.:１匹見たら物陰には１００匹隠れてるってわけだ。}`
+`{ruby:"......Well, I do think this is a ridiculous argument that's horribly twisted.:「……まぁ、屁理屈まみれの暴論だとは思うぜ。}`
+`{ruby:If my opponent was human, I'm sure they'd yell at me like I was out of my mind.":相手が人間だったなら、寝言を言うなと怒鳴られるところだろうよ」}`
+`{ruby:"......But my opponent is a witch.:「……だが、俺の相手は魔女だ。}`
+`{ruby:And after all, that is the kind of competition we're having, isn't it?:そして、俺たちがやってるのはそういう勝負なんだろう？}`
+`{ruby:I'll use any kind of reckless argument to explain it using humans, and deny the witch!!":どんな暴論であろうとも、人間で説明を付け、魔女を否定する！！」}`
+`{ruby:"......Anyway, with this move, I'll never again have to doubt any of the 18 who are close to me.:「……とにかく、この一手で俺は二度と親しい１８人のみんなを疑わなくて済む。}`
+`{ruby:I will never again repeat the defeat I suffered last time...!!":俺は二度とッ、前回の失敗は繰り返さないッ…！！」}`
+`{ruby:"......I see.:「……なるほど。}`
+`{ruby:You have learned from your defeat last time.:前回の失敗を学ばれているのですね。}`
+`{ruby:That is good.:良いことですよ。}`
+`{ruby:It is no surprise that by the third game you have become quite devious.":さすがに三度もゲームを重ねると要領がよくなるものです」}`
+`{ruby:".........You first strengthen your own defense.:「………まずは自陣の守りを固める。}`
+`{ruby:That is truly a solid first step.:実に堅実な初歩です。}`
+`{ruby:Quite a spectacular move, I think.":なかなかの妙手と思いますよ」}`
+`{ruby:"Well, even if we do assume that there is a 19th person,:「まぁ、１９人目の人物を仮定したとしても、}`
+`{ruby:there are still a few tricks left that I can't get past no matter how many humans I add, like the number of master keys.:マスターキーの本数などのように、何人、人間を増やしてもクリアできないトリックも残ってる。}`
+`{ruby:...Still, it isn't bad as a first step, for the time being.":…しかし、とりあえずの初手としては悪くないはずだ」}`
+`{ruby:"This is your trump card, the important piece known as the 19th person.:「戦人さまの切り札、１９人目の人物という大駒。}`
+`{ruby:......You countered my move of asking for evidence by using the "Devil's Proof".:……証拠はあるのかとの私の一手に、戦人さまは“悪魔の証明”で反撃。}`
+`{ruby:......A good skirmish.":……良い攻防です」}`
+`{ruby:"Although I have no excuse for making moves by myself when Milady is absent,:「お嬢様のおられないところで、勝手に手を進めてしまうのは申し訳ないのですが。}`
+`{ruby:.........I find that I too have become slightly interested.:………私も少し、面白くなってきてしまったところです。}`
+`{ruby:...I wonder if you would permit me to make yet another move on Milady's behalf?":…お嬢様に代わり、さらに一手進めさせていただきましょうか」}`
+`{ruby:"......Go for it.:「……来いよ。}`
+`{ruby:I don't care if you're a witch or a demon, I'll take you all on!":魔女だろうと悪魔だろうと、相手に不足はねぇ！」}`
+`{ruby:"The move that you made, the "Devil's Proof".:「戦人さまの指された一手“悪魔の証明”。}`
+`{ruby:It is a specialty of us demons, but there are also various other moves available to us.:これは私ども悪魔の十八番でございますが、他にも私どもにはいくつもの手がございます。}`
+`{ruby:......Do you know of a move called "Hempel's Raven"?":……“ヘンペルのカラス”という一手はご存知ですかな？」}`
+`{ruby:"Hempel's Raven...??:「ヘンペルのカラスぅ…？？}`
+`{ruby:What are you talking about?":何の話だ？」}`
+`{ruby:"...*cackle*cackle*.:「…くっくっくっく。}`
+`{ruby:Ah‐ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah‐ha{0}ha{0}ha{0}hah‐hah‐ha...!":あっははははははははははははっはっは…！」}`
+`{ruby:Just then, ...aah, that laugh, which gets on my nerves every time I hear it, started echoing around.:その時、…あぁ、何度聞いても腹立たしいあの笑い声が木霊してくる。}`
+`{ruby:The room was filled with dazzling golden butterflies, and in the center of that whirlwind, the Golden Witch appeared.:部屋が眩い黄金の蝶たちで満たされ、その金色の旋風の中に、あの黄金の魔女が姿を現す。}`
+`{ruby:"Why, if it isn't Milady.:「これはこれはお嬢様。}`
+`{ruby:Good morning.":おはようございます」}`
+`{ruby:"I thought you might be doing something interesting while I was away.":「妾のいないところで、何やら面白そうなことをしていると思えば」}`
+`{ruby:"......‘Hempel's Raven’, was it?:「……“ヘンペルのカラス”か。}`
+`{ruby:What an amusing and nostalgic move.:何とも笑える懐かしい一手よ。}`
+`{ruby:To think the day would come when it would be introduced to Battler.:よもや戦人に披露する日が来ようとはな。}`
+`{ruby:It's a classic move to use against the "Devil's Proof".":それは“悪魔の証明”に並ぶ古典的一手だ」}`
+`{ruby:"......Ronove, I will make this move.:「……ロノウェ、それは妾が指す一手ぞ。}`
+`{ruby:Do not get in the way of my fun.":妾の楽しみを減らしてくれるな」}`
+`{ruby:"So you've finally shown up, you guffawing witch.:「出やがったな、ゲラゲラ魔女め。}`
+`{ruby:I see you still have that undignified laugh.:相変わらず下品に笑いやがって。}`
+`{ruby:......This guy was talking behind your back just now, telling me about how your laughing lacks class.:……こいつもお前のこと、笑い方に品がねぇって陰口言ってたぜ。}`
+`{ruby:Right?":なぁ？」}`
+`{ruby:"I am offended.:「それは心外な。}`
+`{ruby:Is that true?":本当か」}`
+`{ruby:"By no means.:「滅相もない。}`
+`{ruby:I have only words of the highest heartfelt respect for Milady;:心より尊敬申し上げているお嬢様に、}`
+`{ruby:why would I speak such gossip?":この私めがどうしてそのような陰口を申せましょうか」}`
+`{ruby:"...I can't believe you can say that so brazenly.:「…よくもしゃあしゃあと言えるもんだなぁ。}`
+`{ruby:Doesn't look like we'll be getting along well together...":お前とは仲良くなれそうにないぜ…」}`
+`{ruby:"*cackle*cackle*cackle*.:「くっくっくっくっく。}`
+`{ruby:Well, that is fine.:まぁ良い。}`
+`{ruby:Let us return to the conversation.:話を戻そう。}`
+`{ruby:"Hempel's Raven" is used to show proof using the contrapositive.":“ヘンペルのカラス”は、実証を対偶的に行なってみせる」}`
+`{ruby:"......Essentially, it is a move like this::「……つまりこういう手だ。}`
+`{ruby:What must you do to prove that ravens are black?":カラスが黒いことを証明するにはどうすればいい？」}`
+`{ruby:"Huh?:「は？}`
+`{ruby:What are you talking about??:何の話だ？？}`
+`{ruby:Prove that ravens are black...:カラスが黒いことを証明って…。}`
+`{ruby:...Wouldn't you just have to catch the ravens and check to see if they're black?":…カラスを捕まえてきて、色が黒いことを確認すりゃいいだけの話だろ」}`
+`{ruby:"That is right.:「その通り。}`
+`{ruby:You must simply prove that "if it is a raven, it is black".:“カラス＝黒い”、を証明すれば良い。}`
+`{ruby:And do you see that, if you prove that "if a bird is not black, it is not a raven", you would reach the same argument?":ということは、“黒くない鳥＝カラスではない”、を証明しても、同じ論法になるのがわかるかな？」}`
+`{ruby:"If you go throughout the world and examine all birds that are not ravens, and prove that none of them are black,:「世界中の、カラスでない鳥を全て調べ、それらが黒くないことを証明すれば、}`
+`{ruby:then as a result, you can claim that "therefore, birds that are black are ravens".:それは結果的に、“ゆえに黒い鳥はカラスである”となるわけだ。}`
+`{ruby:This is called an argument by the contrapositive.:これを対偶論法という。}`
+`{ruby:...Is that difficult for you?":…そなたには難しいか？」}`
+`{ruby:"Yeah, no kidding.:「あぁまったく。}`
+`{ruby:...I have no idea what you're saying.":…何言ってやがるのかさっぱりだ」}`
+`{ruby:"Battler‐sama.:「戦人さま。}`
+`{ruby:What about this example?:こういう例え話はいかがでしょう。}`
+`{ruby:Let us say that you have two boxes, and one of them is the winner, with a cookie inside.:２つの箱があり、片方はアタリでクッキーが入っているといたします。}`
+`{ruby:Of course, the other one is the loser, and is empty.":もちろん、もう片方はハズレで空っぽです」}`
+`{ruby:For example, let us say that we have two boxes here,:例えば、ここに２つの箱があり、}`
+`{ruby:one being the winner with a cookie inside, and the other being the loser, which is empty.:片方はアタリで中にクッキーがあり、もう片方はハズレで空っぽだとする。}`
+`{ruby:Now, it holds that "if there is a cookie inside, it is the winner",:この時、“クッキーが入っている＝アタリ”となり、}`
+`{ruby:and at the same time, it also holds that "if it is not the winner, there is no cookie inside".:同時に“アタリでない＝クッキーが入っていない”ともなるわけだ。}`
+`{ruby:When such a relationship exists, we call the latter the contrapositive...:この関係にある時、後者を対偶と呼ぶ…。}`
+`{ruby:When "if A then B" is true, then at the same time, "if not B then not A" is also true.:“ＡであるならＢ”である時、それは同時に“ＢでないならＡではない”でもあるわけだ。}`
+`{ruby:"...Well, that's obvious.:「…そりゃ当然だろうよ。}`
+`{ruby:If the one you picked was the loser, then you would automatically know that the other one was the winner.":もし選んだ方がハズレだったなら、もう片方は自動的にアタリってことになる」}`
+`{ruby:"...In other words, if you choose the box at random, whether it's the winner or the loser,:「…つまり、箱を適当に選び、アタリを引こうとハズレを引こうと、}`
+`{ruby:you'll be able to figure out which box has the cookie in it after your first move.":最初の一手でどっちの箱にクッキーが入っているか、特定できるわけだ」}`
+`{ruby:"That is correct.:「その通り。}`
+`{ruby:If the cookie is in the box you open, then the "Devil's Proof" is satisfied.:開けた箱にクッキーが入っていたなら“悪魔の証明”を満たす。}`
+`{ruby:You can prove directly that "this box is the winner = this box has a cookie in it".":“この箱はアタリ＝この箱にはクッキーが入っている”をまさに実証できるわけだ」}`
+`{ruby:"However, if the box that you open is empty, then the reverse, "Hempel's Raven", is satisfied.:「しかし、開けた箱が空っぽだったなら、この時は逆に“ヘンペルのカラス”を満たす。}`
+`{ruby:Because then, it holds that "this box does not have a cookie in it = this box is not the winner".":“この箱にクッキーが入っていない＝この箱はアタリではない”となるのだから」}`
+`{ruby:"And that means, as long as we accept the premise that there are no more than two boxes,:「そしてそれは、箱が２つしかないことを前提としている限り、}`
+`{ruby:the contrapositive shows that the other box is automatically the winner.":もう片方の箱が自動的にアタリであることを対偶的に示している」}`
+`{ruby:"......Well, I think I'm starting to see your reasoning.:「……まぁ、何となく理屈はわかったぜ。}`
+`{ruby:Only poison can stop poison, and only twisted logic can stop twisted logic.":毒を制するには毒、屁理屈には屁理屈ってわけだ」}`
+`{ruby:"...Then what?:「…それで？}`
+`{ruby:How does that overturn my claim that "no doubt there is a 19th human hidden on this island,:俺の、“島には１９人目の人間が隠れているに違いないから、}`
+`{ruby:so even if all of the 18 people have alibis,:１８人全員にアリバイがあっても、}`
+`{ruby:that does not amount to an acceptance of witches"......?":それは魔女を認めることにはならない”をどう切り替えしてくれるってんだ……？」}`
+`{ruby:"Very well.:「良かろう。}`
+`{ruby:I will tell you my move.:妾の手は教えよう。}`
+`{ruby:First of all, you are stating that "if the culprit is not among the 18, then the culprit is a 19th person".":まずそなたは、“１８人の中に犯人はいない＝ならば犯人は１９人目”としている」}`
+`{ruby:"*cackle*cackle*!:「くっくっくっく！}`
+`{ruby:...So if you use the contrapositive, it ends up like this.:…ならば対偶として、こうなるわけだ。}`
+`{ruby:In short, "if the culprit is not a 19th person, then the culprit is one of the 18"!":つまり、“犯人は１９人目ではない＝ならば１８人の中に犯人がいる”！」}`
+`{ruby:"Whaah?!:「はぁ？！}`
+`{ruby:What the, what does that mean?!":何だと、そりゃどういう意味だッ？！」}`
+`{ruby:"All I have done is turn your move on its head.:「そなたの指し手を逆手に取っただけだがな。}`
+`{ruby:It shouldn't be that difficult to understand.:そう難しい話ではあるまいに。}`
+`{ruby:Ronove, explain.:ロノウェ、説明せよ。}`
+`{ruby:It seems your cookie‐in‐a‐box analogy from before will be easy for Battler to understand.":そなたのさっきのクッキーの箱の例えは戦人にわかりやすいらしい」}`
+`{ruby:"Then forgive my presumption.:「それでは僭越ながら。}`
+`{ruby:Allow me to explain using my earlier example once more.":先ほどの例え話でもう一度ご説明させていただきます」}`
+`{ruby:Allow me to repeat once more my earlier story,:先ほどの、２箱の宝箱があり、}`
+`{ruby:about two treasure chests, one of which has a cookie in it.:どちらかにクッキーが入っているという話をもう一度繰り返させていただきます。}`
+`{ruby:In this situation, one of the boxes represents "the 18 people", and the other box represents "the 19th person".:この場合、片方の箱は“１８人”を示し、もう片方の箱は“１９人目”を示します。}`
+`{ruby:So the cookie would represent the "culprit".:ならばクッキーはつまり“犯人”を示すわけです。}`
+`{ruby:Battler‐sama, you open the 18 box.:戦人さまは、１８人の箱を開けられます。}`
+`{ruby:{n}Because the cookie is not there,:{n}そしてクッキーがそこになかった為、}`
+`{ruby:you have proven from the opposite direction that "therefore, the cookie is in the 19 box".:“＝クッキーは１９人目の箱に入っている”と逆説的に証明されたわけでございます。}`
+`{ruby:In that case, if we reverse things further, we can also say the following.:ならばそれはさらに逆説的にこうも申し上げられます。}`
+`{ruby:Namely, if it was first shown that the 19 box was empty,:つまり、１９人目の箱が空っぽであることを先に示したならば、}`
+`{ruby:it would prove in just the same way that "the cookie is in the 18 box".:“１８人の箱の中にクッキーが入っている”ことを同様に実証してしまうわけです。}`
+`{ruby:Battler‐sama, this move you played in order to avoid having to doubt any of the 18,:戦人さまが１８人を疑わなくて済むために打たれた一手が、}`
+`{ruby:has in fact been used against you to launch the "18 person attack"...!":逆に“１８人攻め”の布石に使われてしまった…！}`
+`{ruby:"......Huh,:「……んな、}`
+`{ruby:......what did you say.........":……何だとぉ………」}`
+`{ruby:"*cackle*cackle*cackle*cackle*!:「くっくくくくくく！}`
+`{ruby:If I go first and prove that the inside of the 19 box is empty,:妾が１９人目の箱の中身が空っぽであることを先に証明すれば、}`
+`{ruby:automatically,:そなたは自動的に、}`
+`{ruby:you will be forced to accept that the cookie is in the 18 box.:１８人の箱の中にクッキーがあることを認めなければならないということになる。}`
+`{ruby:All you have done is say this the other way around, you see?":そなたは、それを逆の言い方で口にしたに過ぎんのだぞ？」}`
+`{ruby:"So, ......that move that I was so confident in, ...was actually a double‐edged sword?":「つまり、……俺の自信満々の一手は、同時に諸刃の剣でもあるってわけか」}`
+`{ruby:"That's right.:「その通りよ。}`
+`{ruby:Your move to explain everything with a 19th person carries the risk that, if it is thwarted,:そなたの１９人目で全てを説明する一手は、それが破られた時、}`
+`{ruby:you will be forced to accept that you can only explain things by using the 18.":１８人でしか説明できないことを認めざるを得ないリスクを背負っている」}`
+`{ruby:I see...:なるほどな…。}`
+`{ruby:"Hempel's Raven".:“ヘンペルのカラス”。}`
+`{ruby:{n}......So this is a countering technique?!:{n}……つまりは返し技ってことなのか？！}`
+`{ruby:...Wait, if I really think about it, this countering technique is far more disadvantageous for me than for her.:…いや、よくよく考えれば、これは俺にばかりやたらと不利な返し技だ。}`
+`{ruby:The problem is in thinking about it like a cookie.:クッキーという言い方がいけない。}`
+`{ruby:{n}If I imagine that just one of the treasure chests is a "losing" chest with a bomb in it, I can begin to understand it quite well.:{n}宝箱の中に爆弾というハズレが１つだけ入っていると考え直してみると、さらによくわかる。}`
+`{ruby:And if I think of it not as two treasure chests,:そして宝箱の数を２つではなく、}`
+`{ruby:but as 18, one for each person, plus one more for the 19th person,:１８人分＋１９人目用ということで、}`
+`{ruby:for a total of 19 boxes, it gets even easier to understand.:合計１９箱用意して考えれば、さらにわかりやすくなる。}`
+`{ruby:First of all, one of the premises established by the human culprit theory was that the bomb would definitely be in one of those boxes.:まず、人間犯人説は、必ずどれかの箱に爆弾が入っているという前提を成立させる。}`
+`{ruby:Because I hadn't wanted to place that bomb in any of the 18's boxes, I had used the "Devil's Proof",:俺は、その爆弾を１８人の誰の箱にも入れたくない為、“悪魔の証明”を使い、}`
+`{ruby:and created the 19th box so that I could throw the bomb in there.:１９人目の箱を生み出して、その中に爆弾を放り込んだわけだ。}`
+`{ruby:......That much was alright.:……ここまではいい。}`
+`{ruby:But Beato had struck back like this::しかし、ベアトはこう返した。}`
+`{ruby:If, then, the 19th box was empty inside,:ならば、１９人目の箱の中身が空っぽだったなら、}`
+`{ruby:that would automatically mean that the bomb was set in one of the other 18 boxes.:その時点で自動的に、１８人の誰かの箱の中に爆弾が入っていることが確定すると。}`
+`{ruby:If I could examine the contents of each of the 18's boxes,:俺は１８人の箱の中身全てを調べ、}`
+`{ruby:and show that the bomb was not in any one of those boxes,:どの箱にも爆弾が入っていなかったことを証明すれば、}`
+`{ruby:I would be able to safely show that the 18 people were innocent.:無事に１８人の無実を証明できるだろう。}`
+`{ruby:If that was possible, I would be feeling confident!:これが可能ならば、俺は心強い！}`
+`{ruby:However, in reality, that's as close as you can get to impossible.:しかし、それは現実には限りなく不可能なのだ。}`
+`{ruby:The police wouldn't come here in this typhoon.:ここには台風で警察が来られない。}`
+`{ruby:{n}There would be no scientific investigations, no autopsies, no nothing.:{n}科学捜査も鑑識も何もない。}`
+`{ruby:{n}In short, I can't show anything decisively!:{n}つまり、何も確定的に示せない！}`
+`{ruby:It's impossible for me to find any proof other than simply gulping down whatever alibis each of the 18 give.:俺には１８人が口々に主張するアリバイを鵜呑みにする以上の検証が不可能なのだ。}`
+`{ruby:In that case, I have to confirm their innocence both personally and perfectly.:ならば、俺個人が彼らの無実を完全に確認しきらなければならない。}`
+`{ruby:Like staying with someone the whole time, never letting them out of my sight for a second.:例えば、ずっと一緒にいて一秒も漏らさず監視してるとか。}`
+`{ruby:If I do that, I can probably be sure of that person's innocence,:そういうことをすれば、その人物に関してだけは無実を、}`
+`{ruby:and that the bomb is not in that box.:箱の中に爆弾がないと確認できたことになるだろう。}`
+`{ruby:...However, in reality, something like that is impossible!:…しかし、そんなことは現実的に不可能だ！}`
+`{ruby:{n}In other words, I have to expend an incredible effort just to check the contents of one box.:{n}つまり、俺にはたった１箱でも、その中身を確認するには膨大な手間を必要とするわけだ。}`
+`{ruby:And there are 18 of them!:しかもそれを１８箱分も！}`
+`{ruby:In other words, unless I bind all 18 of them in chains and watch over them,:つまり、１８人全員を鎖で縛って監禁するくらいじゃなきゃ、}`
+`{ruby:it's impossible to prove that all of them have empty boxes.:全員の完全な空箱証明は不可能だ。}`
+`{ruby:However, Beato only has to open one box, the 19th box,:しかし、ベアトは１９人目の箱を、たった１箱だけ開けて見せ、}`
+`{ruby:and show that it is empty, to prove that the bomb is in one of the other 18 boxes.:それが空っぽだと証明するだけで、１８人の箱に爆弾があることを証明できてしまう。}`
+`{ruby:(Furthermore, there's no need for her to show {i:which} of the 18 boxes has the bomb!):（しかも、１８人の“どの”箱に入っているかを実証する必要がない！）}`
+`{ruby:I have 18 times more work to do to explain my pet theory than Beato does for hers......:俺とベアトでは、持論を説明する手間が１８倍も違うのだ……。}`
+`{ruby:"Just as you know from the "Devil's Proof",:「世の中には、“悪魔の証明”がそうであるように、}`
+`{ruby:there are many cases in this world where refuting something would take a vast amount of effort that is impossible in practice.":反論に膨大な手間が掛かり、事実上不可能であるケースが少なくない」}`
+`{ruby:"However, "Hempel's Raven" turns that problem around, and makes it possible to prove things easily!":「しかし、“ヘンペルのカラス”はその問題を逆手に取り、容易に実証することを可能とする！」}`
+`{ruby:"By using "Hempel's Raven", various reckless arguments become possible to prove.":「“ヘンペルのカラス”を使えば、様々な暴論が実証可能なのです」}`
+`{ruby:"......For example, let us say that I make the proposition "All humans except me are foolish".:「……例えば、“私以外の人間＝愚かである”という命題があったとします。}`
+`{ruby:Normally, in order to prove this, I would have to examine all of humanity except myself and show that they are all foolish.":これを証明するには本来、私を除く全人類を調べ、愚かであることを証明しなければなりません」}`
+`{ruby:"...However, in reality, it would be impossible to investigate billions of people.:「…しかし、何十億人も調べるなど、現実には不可能でしょう。}`
+`{ruby:It is exactly the same kind of effort you would need to open all 18 boxes.":戦人さまの１８箱を開ける手間とまったく同じです」}`
+`{ruby:"*cackle*cackle*!:「くっくっく！}`
+`{ruby:However, by using "Hempel's Raven", the contrapositive of that proposition would change it as follows.":しかし“ヘンペルのカラス”ならば、その命題は対偶的にこう変換される」}`
+`{ruby:"Essentially, take this "All humans except me are foolish", and to use your style of phrase,:「つまり“私以外の人間＝愚かである”を、そなた風に言うならば、}`
+`{ruby:flip over the chessboard, and you merely need prove that "not foolish = me".:チェス盤を引っ繰り返し、“愚かではない＝私”として証明しても良いということだ。}`
+`{ruby:......And what do you think that means?":……つまりどういうことだと思う？」}`
+`{ruby:"*cackle*cackle*!:「くっくっくっく！}`
+`{ruby:As soon as I know the fact that "I am wise",:“妾が聡明である”という事実を知るだけで、}`
+`{ruby:I finish proving in an instant that every one of the billions of people in the human race is foolish.:全人類は愚かであることの何十億人分もの証明が直ちに終了してしまうわけだ。}`
+`{ruby:In less than a second, I can finish proving that the entire human race is more foolish than me!!":全人類が妾よりも愚かであることを、わずか１秒も掛けずに証明終了できる！！」}`
+`{ruby:"It's the strongest and fastest QED in the world.:「世界最強最速のＱＥＤ。}`
+`{ruby:This...:これぞ}`
+`{ruby:is "Hempel's Raven"!":“ヘンペルのカラス”ッ！」}`
+`{ruby:"Wha‐.........what a ridiculous argument.........!!!":「なッ、………何つぅ暴論だよ………！！！」}`
+`{ruby:"It is a very, very convenient move.:「これはとてもとても便利な一手ですよ。}`
+`{ruby:Not only demons, but gods also use it.:悪魔どころか、神々も好む一手です。}`
+`{ruby:When you propose "blessed = God's servant",:“幸福である＝神の僕”を命題とする時、}`
+`{ruby:the contrapositive is "if a human is not a servant of God, then he must not be blessed".":対偶は“神の僕でない人間＝幸福であってはいけない”となります」}`
+`{ruby:"So in order for servants of God to prove that they are granted fortune by their divine protection,:「つまり、神の僕がその加護によって幸福であることを実証する為には、}`
+`{ruby:they only have to prove that those who don't receive that divine protection suffer misfortune.":その加護を受けぬ人々が不幸であることを実証すればいいわけです」}`
+`{ruby:".........Therefore,:「………そして彼らは、}`
+`{ruby:by bringing misfortune down upon those people who don't believe in their own god, they prove their own blessedness.":自らの神を信じない人々を不幸に突き落とすことで、自らの幸福を実証する」}`
+`{ruby:"It takes an enormous cost to give humans happiness.:「人に幸福を与えるには莫大なコストが掛かる。}`
+`{ruby:...However, the necessary cost to bring humans misfortune is much cheaper.":…しかし、人を不幸にするのに必要なコストははるかに安上がりだ」}`
+`{ruby:"*cackle*cackle*cackle*cackle*cackle*.:「くっくくくくくくくくく。}`
+`{ruby:So by using "Hempel's Raven", gods can actually give believers the joy of divine protection at the lowest cost.":つまり、“ヘンペルのカラス”を使えば、神々は実に低コストで信者に加護の喜びを与えられるわけよ」}`
+`{ruby:"Y‐......you demon.:「あ、……悪魔だ。}`
+`{ruby:It's a demon's argument...:悪魔の理論だ…。}`
+`{ruby:...That's messed up...!!!":…滅茶苦茶だ…！！！」}`
+`{ruby:"It seems that we've gone off‐topic.:「話が逸れてしまったようだな。}`
+`{ruby:Let us return to it.":そろそろ話を戻そうぞ」}`
+`{ruby:"I have finished describing the move for my counterattack.:「妾の反撃の一手は以上だ。}`
+`{ruby:......The counterattack to your claim that "a 19th person is the culprit; therefore, the 18 are innocent and the witch doesn't exist" is::……そなたの、“１９人目が犯人だから、１８人は無実で魔女も存在しない”への反撃は、}`
+`{ruby:"In that case, if I can prove that the culprit is not some 19th person,:“ならば、１９人目が犯人でないことを証明できたら、}`
+`{ruby:do we agree that the culprit must either be one of the 18, or a witch?".:１８人か魔女のどちらかが犯人ということで確定するぞ？”}`
+`{ruby:I await your answer.":との確認だ」}`
+`{ruby:For a while, I just stood there, shocked, completely forgetting to close my mouth...:俺はしばらくの間、呆然となり開いた口を閉じることも忘れていた…。}`
+`{ruby:Just when I'd thought that I'd got my own back on them by using their favorite move against them,:ヤツらの得意手を逆手に取って、してやったりと思ったら、}`
+`{ruby:the counterattack to that had been this reckless argument that I could not even have begun to imagine...!:その反撃は俺の想像をはるかに超えるさらに暴論…！}`
+`{ruby:Was it really...impossible...?!:やはり、…無理なのか…？！}`
+`{ruby:To continue denying the witch on an island with no more than 18 people,:１８人しかいないこの島で、魔女を否定しつつ、}`
+`{ruby:and yet still believe in the innocence of those 18 people...:にもかかわらず、１８人の無実を信じるなんて、}`
+`{ruby:.........Was that just a delusion?!:………そんなのは妄想なのか？！}`
+`{ruby:Was I just trying to escape reality?!:現実逃避でしかないのか？！}`
+`{ruby:Not yet...:まだだ…。}`
+`{ruby:......Don't give up this struggle yet.:……悪足掻きを止めるな。}`
+`{ruby:Who cares about "Whoever's Raven"?:何が“何たらのカラス”だ。}`
+`{ruby:{n}They're just trying to speak in riddles by bringing up some weird bits of trivia...:{n}おかしな豆知識で煙に巻かれるな…。}`
+`{ruby:I had used the "Devil's Proof".:こっちは“悪魔の証明”で仕掛けた。}`
+`{ruby:{n}Don't feel doubt in something once you've used it.:{n}一度仕掛けた手に不安を持つな。}`
+`{ruby:{n}Believe in the spear you've lunged forward with.:{n}繰り出した槍を信じろ。}`
+`{ruby:Apply even more force......and gouge it in......!:さらに力強く、……抉り出せ……！}`
+`{ruby:"......The game is still in the opening.:「……まだまだ序盤だぞ。}`
+`{ruby:Do you already intend to spend this long thinking?":この程度で長考するつもりか？」}`
+`{ruby:"........................:「……………………。}`
+`{ruby:Ah,:あ、}`
+`{ruby:......wait a sec,:……いや待て、}`
+`{ruby:I want to be sure.":確認するぞ」}`
+`{ruby:"While yes, I did use the phrasing of a "19th person" to make it easy to understand,:「確かに俺は、わかりやすく１９人目という言い方をしたが、}`
+`{ruby:if I can use the "Devil's Proof" to raise the number of people above 18,:“悪魔の証明”によって１８人以上人間を増やせるなら、}`
+`{ruby:then what I mean is an unspecified large number of extra people—you don't know if it's ten or a hundred.":それは１０人いるか１００人いるかもわからない、不特定多数ということだ」}`
+`{ruby:"{i:Always one more than you assume}.:「{i:お前が想定する人数より常に１人多い}。}`
+`{ruby:...Understand?":…わかるか？」}`
+`{ruby:She had returned my twisted logic with something even more twisted.:俺の屁理屈に、ヤツも飛び切りの屁理屈で返してきた。}`
+`{ruby:{n}So the only thing that could counter that would be even crazier twisted logic...!:{n}ならばそれに反撃できるのも、さらにぶっ飛んだ屁理屈だけなんだ…！}`
+`{ruby:"Hmm, I see.:「ふむ、なるほど。}`
+`{ruby:.........Even if I somehow prove an alibi for the 19th person,:………妾が１９人目のアリバイを何らかの方法で証明したとしても。}`
+`{ruby:as soon as I do, you will think up a 20th person, and claim that they are the culprit.:その瞬間にそなたは２０人目を生み出し、犯人だと主張する。}`
+`{ruby:By repeating this infinitely, you would make it so I kept searching for their alibis for all eternity.":これを無限に繰り返すことによって、妾は永遠に彼らのアリバイの証明が終えられないというわけか」}`
+`{ruby:"......I see, I see, *cackle*cackle*!:「……なるほどなるほど、くっくっくっく！}`
+`{ruby:Just like a demon king summoning a plague of locusts.:さながら蝗の大群を呼び出す魔王よな。}`
+`{ruby:I wouldn't expect anything less from Kinzo's grandchild.:さすがは金蔵の孫よ。}`
+`{ruby:It looks like you have been gifted with a talent in summoning.":召喚術の才能には恵まれていると見える」}`
+`{ruby:"......In short!:「……つまり！}`
+`{ruby:It is impossible to continually prove an alibi for the "X" existing outside of the first 18!:１８人以外の存在Ｘは、常にアリバイを証明することが不可能なんだ！}`
+`{ruby:......How do you like that, Beato...?!:……どうだベアト…！}`
+`{ruby:Now that I know we're having a battle with twisted logic, I won't lose!":屁理屈合戦だとわかれば俺も負けねぇぜ！」}`
+`{ruby:"*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!:「くっくくくくくくくくくくくくくく！！}`
+`{ruby:How foolish...:愚かしいぞ…。}`
+`{ruby:Who do you think I am?:妾を誰と心得る？}`
+`{ruby:I am the Endless Witch, the Infinite Witch!:妾こそは無限の魔女！}`
+`{ruby:For you to challenge me at infinity is absurd.:その妾に無限にて挑むとは片腹痛いわ。}`
+`{ruby:Having control over infinity means also that I am able to kill infinity.":無限を操ることはつまり、無限を殺すこともできるということ」}`
+`{ruby:"......When your 19th person folds, you will call a 20th,:「……妾が１９人目を斬れば、そなたは２０人目を呼び、}`
+`{ruby:and when your 20th person folds, you will call a 21st,:２０人目を斬れば２１人目を呼び、}`
+`{ruby:and when your 21st person folds and your 22nd person folds,:２１人目を斬れば２２人目を斬れば、}`
+`{ruby:you will call a 23rd, a 34th, a 64358223579673204th,:２３人目を呼び３４人目を呼び６４３５８２２３５７９６７３２０４人目を呼びッ、}`
+`{ruby:you think you can trifle with me for all eternity?!":妾を永遠に翻弄できるとでも？！」}`
+`{ruby:"I laugh at "infinite regress",:「“無限後退”とは笑わせるッ、}`
+`{ruby:the {i:infinite} doesn't affect me!!":妾に無限は通じぬわ！！」}`
+`{ruby:"Hoh, well then, how will you kill my "infinity"? Just try and show me!!":「ほぅ、ならばどうやってこの俺の“無限”を殺すんだよ、見せてみろよ！！」}`
+`{ruby:":「}`
+`{ruby:{p:1:I have the power to speak the truth in red}!!!":{p:1:妾には真実を赤で語る力があろうが}ッ！！！」}`
+`{ruby:".....................!!:「…………………ッ！！}`
+`{ruby:.........Here it comes............":………来やがったなぁ…………」}`
+`{ruby:"When I speak in red, it contains absolutely no illusions.:「妾が赤で語る時、そこには一切の幻想がない。}`
+`{ruby:If I say once in red that there are no more than 100 people on this island,:妾がこの島には１００人しかいないと一言赤で語れば、}`
+`{ruby:you will no longer be permitted to create a 101st person.":そなたにはもはや１０１人目を生み出すことは叶わぬのだ」}`
+`{ruby:"*cackle*cackle*!:「くっくっくっく！}`
+`{ruby:Come now, Battlerrr.:ほぅら、戦人ぁ。}`
+`{ruby:What truth shall I tell in red this time?:今度はどんな真実を赤で語ってみせようか？}`
+`{ruby:Where shall I strike for the kill and force you into hopelessness?:どんな拠り所を叩き斬って、そなたを絶望に突き落としてやろうか？}`
+`{ruby:*cackle*cackle*cackle*!:くっくっくっくっく！}`
+`{ruby:Come, show me your usual frightened face......":そら、いつもの怯えた顔を見せてみるがいい……」}`
+`{ruby:"..............................":「…………………………」}`
+`{ruby:"..................What?":「………………何？」}`
+`{ruby:"......Ihihihihi.":「……いっひっひっひっひ」}`
+`{ruby:"...Why...are you laughing...?":「…そなた、…笑うか…」}`
+`{ruby:I wonder what kind of creepy look I had on my face as I laughed right then.:俺は今、どんな薄気味悪い顔で笑ってるんだろうな。}`
+`{ruby:{n}That red sure is scary.:{n}赤は怖ぇさ。}`
+`{ruby:...Every time it jumps out, I'm driven into the depths of hopelessness.:…こいつが飛び出す度に、俺は絶望の底へ叩き込まれる。}`
+`{ruby:But......I had already realized it.:しかし、……もう俺は気付いたのさ。}`
+`{ruby:{n}...There was no need to be unnecessarily afraid of the red.:{n}…赤は、不必要に恐れる必要がないんだ。}`
+`{ruby:".........You've brought out your secret weapon again.:「………また抜きやがったな、伝家の宝刀だ。}`
+`{ruby:So...?:それで…？}`
+`{ruby:What and how will the great {f:5:Beatrice}‐sama speak in red this time?":今度はベアトリーチェさまは、何をどう赤で語って下さるってんだ？」}`
+`{ruby:"......Hoh.:「……ほぉ。}`
+`{ruby:What do you mean by this?:それはどういう意味か。}`
+`{ruby:Suddenly looking so relaxed...":急に余裕を見せおって…」}`
+`{ruby:"Sorry, but I've been waiting for you to take out that blood‐red treasured sword.:「悪ぃが、その真っ赤な宝刀は、俺も抜いてくれるのを待ってたんだ。}`
+`{ruby:......Let's see, what will you proclaim in red this time?":……さて、お前は今度は何を赤で宣言してくれるんだ？」}`
+`{ruby:"You aren't going to say "the culprit was one of the 18", are you?:「“犯人は１８人の中にいる”とでも言ってくれるのか？}`
+`{ruby:Let me warn you, that would be self‐destruction, remember?:言っとくが、そいつは自爆だぜ？}`
+`{ruby:That would be the same as throwing away your own witch theory yourself.:その時点で、お前は魔女説を自ら捨てたも同然。}`
+`{ruby:A complete resignation.":まさに投了だ」}`
+`{ruby:That's right.:そうさ。}`
+`{ruby:The red isn't always necessarily to Beato's advantage.:赤は常にベアトの武器になるとは限らない。}`
+`{ruby:On the contrary, if she used it the wrong way, it's dangerous enough that she could bring about her own death.:それどころか、誤って使えば、自らをも死に至らしかねないほどに危険なのだ。}`
+`{ruby:If she used it carelessly and said something which ended up denying herself, that would be exactly the same thing as self‐destructing.:もし迂闊に使い、自らを否定するようなことを言ってしまえば、それはまさに自爆も同然。}`
+`{ruby:"Of course,:「確かに俺にとっても、}`
+`{ruby:it would also be sad and difficult for me to accept if you told me in red that one of the 18 was the culprit.:１８人の中に犯人がいると赤で言われることは、受け容れたくない悲しい事実さ。}`
+`{ruby:......No matter who the culprit actually was, it would surely bring me some tough emotions...":……例え誰が犯人であっても、俺はきっと辛い気持ちになるだろうぜ…」}`
+`{ruby:"But before that, it would mean your defeat!:「だが、それはそれ以前にお前の敗北も意味するッ！}`
+`{ruby:Saying in red that the culprit is a human is equivalent to your proclamation of resignation!!:人間が犯人だとお前が赤で語ることは、お前の投了宣言にも等しい！！}`
+`{ruby:If you want to strike me a blow so badly you're prepared to die at the same time, I think that's a pretty interesting move.:お前が、俺と刺し違えても相打ちにしたいってんなら、それも面白い一手だろうぜ。}`
+`{ruby:However, this battle will end in my victory!!":だが、この勝負は俺の勝ちで終わるッ！！」}`
+`{ruby:{f:5:Beatrice}'s red was truly her secret weapon, her treasured blade.:ベアトリーチェの赤は、まさに伝家の宝刀。}`
+`{ruby:The things she spoke in red would become solidified as the truth, and no amount of evidence or counterarguments could change them.:ヤツが赤で語ったことは証拠も反論の余地もなく、それが真実となって確定してしまう。}`
+`{ruby:They had cut me down to size many times now, rending in two any supports my heart had to lean on.:それらは俺を何度も叩き斬り、わずかな心の拠り所をいつも真っ二つにしてきた。}`
+`{ruby:However, if she used it carelessly, then I could also find a little information about the truth.:だが、迂闊に使えばそれは俺に真相を探る情報とされてしまうこともある。}`
+`{ruby:...In the last game, especially during the chapel's locked room trick, I had taken advantage of that,:…俺は前回、特に礼拝堂の密室トリックの時、それを逆手に取り、}`
+`{ruby:and had once closed her in almost completely.:一度はぎりぎりまで追い詰めたはずだ。}`
+`{ruby:But she was also pretty sly.:だがヤツもなかなかに狡猾。}`
+`{ruby:She had learned from experience, and since then, had started using discretion in the timing of the red...:それに懲り、以来、慎重に赤を使うタイミングを計るようになった…。}`
+`{ruby:This feeling of tension was almost literally like a battle with real swords.:この緊張感はまるで、文字通りの真剣勝負のようだ。}`
+`{ruby:...This was a battle of high intelligence.:…こいつは高度な知能戦。}`
+`{ruby:{n}......No, not of intelligence.:{n}……いや、知能戦じゃない。}`
+`{ruby:{n}It really was twisted logic.:{n}やっぱり屁理屈だ。}`
+`{ruby:This was the world's craziest and worst battle of twisted logic...!!:こいつは、世界で最凶最悪の屁理屈合戦だ…！！}`
+`{ruby:"So, now it's your move.:「さぁ、今度はお前の手番だぜ。}`
+`{ruby:......That's right.:……そうさ。}`
+`{ruby:To use your "Hempel's Raven",:お前の“ヘンペルのカラス”を使うには、}`
+`{ruby:first, you'll have to confirm in red how many humans there are other than the 18.":まず、１８人以外に何人の人間がいるのかを、赤で確定させる必要がある」}`
+`{ruby:"And after that, if you proclaim in red that none of the people in that group are the culprit,:「その上で、それらの人間についてさらに赤で犯人でないことを宣言したならば、}`
+`{ruby:......that's right, that might be a fatal wound to me.":……なるほど、こいつは俺にとって致命傷になるだろうぜ」}`
+`{ruby:".........I'm surprised that you no longer have even an atom of fear for that red which you feared so much...:「………あれほど怯えていた赤を、もはや微塵も怯えぬとはな…。}`
+`{ruby:You're quite sturdy.":逞しいヤツよ」}`
+`{ruby:"Unsheathe it.:「抜いてみろよ。}`
+`{ruby:Your treasured blade.:伝家の宝刀。}`
+`{ruby:......A single perfect swing, and you might be able to break me this time, who knows...?":……バッサリ決まって、今度こそ俺を屈服できるかもしれねぇぜ…？」}`
+`{ruby:"......*cackle*cackle*cackle*.:「……くっくっくっくっくっく。}`
+`{ruby:...Interesting.:…面白い。}`
+`{ruby:I wouldn't have it any other way...":こうでなくてはな…」}`
+`{ruby:Agitate her.:煽る。}`
+`{ruby:Provoke her.:挑発する。}`
+`{ruby:{n}Drive her into a corner to make her speak in red...:{n}ヤツに赤で語らせるよう、追い詰めるんだ…。}`
+`{ruby:Of course her red has always cut right through my only threads of hope.:確かにヤツの赤は、いつも俺の一縷の望みをぶった斬ってきた。}`
+`{ruby:But......don't be afraid of that.:しかし、……それを恐れるな。}`
+`{ruby:On this island overcome with falsehoods and illusions, the only thing I can trust...:この、虚偽と幻想で侵食された島で、たったひとつ信じることができるのが、}`
+`{ruby:is the information that she speaks in red.:ヤツが語る赤の情報だけなのだ。}`
+`{ruby:It is my only way across the chasm of Hell.:落ちれば奈落という、崖と崖の間に見出す唯一の活路。}`
+`{ruby:Just a single tightrope.:たった一本の綱渡り。}`
+`{ruby:Her merciless blood‐red blade is the only way I can survive.:ヤツの慈悲無き真っ赤な刃こそが、唯一の生きる道なのだ。}`
+`{ruby:...This isn't just walking on a tightrope, it's literally like walking on the edge of a blade...:…それは文字通り、綱渡りどころか、刃の上を歩くようなもの…。}`
+`{ruby:Of course I'm afraid.:もちろん、俺は恐れている。}`
+`{ruby:In terms of her contrapositive, my victory condition—the denial of the witch—meant that the culprit was a human.:俺の勝利条件である魔女否定は、ヤツの言う対偶では、＝犯人は人間、となる。}`
+`{ruby:But I didn't want to search for the culprit amid the 18.:でも俺は、１８人の中に犯人を求めたくない。}`
+`{ruby:...Therefore, I held on to a weak point, since I had to deny the witch and the 18 at the same time.:…だからこそ、魔女も１８人も同時に否定しなければならないという弱点を抱え、}`
+`{ruby:Since I had been unable to understand that last time, that was where she had hit me, leaving me tattered and defeated.:にもかかわらずそれを理解できず、そこを突かれて前回はボロボロに負けた。}`
+`{ruby:......But that's alright.:……しかし、それでいい。}`
+`{ruby:{n}Let her hit me.:{n}突かせろ。}`
+`{ruby:Let her attack.:攻めさせろ。}`
+`{ruby:No problem...:上等だ…。}`
+`{ruby:Someone said it once in an old sword‐fighting movie.:古いチャンバラ映画で誰かが言ってたぜ。}`
+`{ruby:{n}That "a good fortress has one, and only one, intentionally weak point".:{n}「良い城には一箇所だけ、わざと弱い部分がある」ってな。}`
+`{ruby:The enemy would gather there.:敵はそこに群がる。}`
+`{ruby:They would be lured there.:誘き出される。}`
+`{ruby:{n}And that would be where the actual battle took place.:{n}そしてそこが決戦場となる。}`
+`{ruby:...As long as I understand my weak points,:…俺が弱点を理解し、}`
+`{ruby:and as long as she wants to attack those weak points,:ヤツが俺のこの弱点を攻めたいと思う限り、}`
+`{ruby:......it's as if I've induced her to attack there...:……それはつまり、そう攻めるよう俺が誘導したのと同じことなんだ…。}`
+`{ruby:Carefully judge the distance from your enemy, ...and retreat step by step.:間合いを慎重に計りながら、…じりじりと後退するんだ。}`
+`{ruby:Make them draw their sword first.:向こうに先に抜かせるんだ。}`
+`{ruby:The more she recklessly flourishes that red, the more chances I'll have to strike back.:ヤツが闇雲に赤を振り回せば振り回すほど、俺に反撃のチャンスは増える。}`
+`{ruby:Don't be afraid of the red.:赤に怯えるな。}`
+`{ruby:{n}Keep the pressure on, so that she is forced to refute with the red......!:{n}むしろ、赤で反論せざるを得ないよう、追い詰めろ……！}`
+`{ruby:No matter how oppressively she speaks in red,:ヤツがどんなに高圧に赤を語ろうとも、}`
+`{ruby:......yes, that red itself is the same as fresh blood spurting from her wounds.:……そう、その赤こそは、ヤツの傷口より噴出す血潮も同じなのだ。}`
+`{ruby:"Come on.:「さぁ。}`
+`{ruby:...What's wrong?:…どうしたよ。}`
+`{ruby:......First of all, why don't you tell me in red how many people are on this island total?:……まずはこの島に合計で何人いるのか、赤で語ってもらおうじゃねぇか。}`
+`{ruby:If you don't, your raven can't cut me up......!":さもないと、お前のカラスは俺に斬り込めないぜ……！」}`
+`{ruby:".....................Hmph.:「…………………ふ。}`
+`{ruby:...How surprising that you can be this desperate and yet this difficult.:…破れかぶれが、こうもやり難いとは。}`
+`{ruby:...One cannot make light of someone putting their life on the line, no matter what the era.":…捨て身というヤツは、いつの時代も侮れんな」}`
+`{ruby:"......It's no surprise you're Kinzo's grandchild.:「……やはり金蔵の孫か。}`
+`{ruby:The more cornered you are,:追い詰められれば追い詰められるほどに、}`
+`{ruby:............the bolder you become!":…………不敵！」}`
+`{ruby:"...Ihihihi...":「…いっひっひっひ…」}`
+`{ruby:Ronove cleared his throat.:ゴホンとロノウェが咳払いをする。}`
+`{ruby:"You appear to be at a standstill.:「膠着しましたね。}`
+`{ruby:That black tea I worked so hard to make is getting cold,:せっかくの紅茶も冷めてしまいますよ、}`
+`{ruby:Milady.":お嬢様」}`
+`{ruby:".........kh.":「………く」}`
+`{ruby:Ronove, who was supposed to be her ally, roguishly rushed her next move.:味方のはずのロノウェが、主に悪戯っぽく次の手を急かす。}`
+`{ruby:Beato smiled back, probably intending to demonstrate that she was still relaxed, ......but she couldn't hide the sweat building up on her forehead.:ベアトは笑いを返し、余裕をアピールしたつもりだったろうが、……額に浮かぶ汗を隠せない。}`
+`{ruby:By now she had completely lost that relaxedness which had allowed her to turn her nose up at her worthless opponent.:格下の相手を鼻であしらってやろうという余裕は、今や完全に失われていた。}`
+`{ruby:Of course, she probably wasn't really cornered by something like this.:もちろん、ヤツもこの程度で追い詰められているわけではないだろう。}`
+`{ruby:...She was just...being cautious.:…ただただ、…慎重なだけなのだ。}`
+`{ruby:Until now, I had been inexperienced.:これまでは俺が不慣れだった。}`
+`{ruby:{n}I didn't have a good grasp on how to fight, and I was underpowered as an opponent.:{n}戦い方がよくわからず、対戦相手として力量不足だった。}`
+`{ruby:However, now that we had reached the third game, she realized that I was starting to become skilled,:しかし、俺が三度目のゲームともなり、手練れ始めていることに気付き、}`
+`{ruby:and she had grown more cautious, thinking every move over carefully......:より慎重に、そして一手一手に熟考を始めたのだ……。}`
+`{ruby:Sure, that's just fine, {f:5:Beatrice}.:あぁ、それでいいぜ、ベアトリーチェ。}`
+`{ruby:{n}And sorry to have kept you waiting.:{n}そして待たせたな。}`
+`{ruby:{n}Are you happy now...?:{n}これで満足だろ…？}`
+`{ruby:"......Now things are starting to get interesting, right......?:「……面白くなってきたぜ……？}`
+`{ruby:Hihihihi!":ひっひっひっひ！」}`
+`{ruby:"*cackle*cackle*cackle*!:「くっくっくっくっく！}`
+`{ruby:...Battleeeeerrrrr......":…戦人ぁぁぁ……」}`
+`{ruby:"This isn't going anywhere...:「埒が明かねぇな…。}`
+`{ruby:Then, should I just dive right in and go with the usual?":なら、ズバっと気持ちよく、いつものヤツで行こうじゃねぇか」}`
+`{ruby:"......Hoh.:「……ほぅ。}`
+`{ruby:The usual, you say.:いつものヤツとな。}`
+`{ruby:...Then by all means.:…ならば頼もうではないか。}`
+`{ruby:If I don't hear that, I guess I just won't get the sense that we've started...":あれを聞かぬと、やはり始まった気がせぬわ…」}`
+`{ruby:The first move was mine......:初手は、俺からだ……。}`
+`{ruby:"Here I come, Beato.":「行くぜベアト」}`
+`{ruby:"Repetition requested.:「復唱要求。}`
+`{ruby:......‘There are only 18 people on this island’.":……“この島には、１８人しかいない”」}`
+`{ruby:".....................":「…………………」}`
+`{ruby:"...If I hear you say this in red, I will have no choice but to doubt one of the 18.:「…こいつを赤で言われちまったら、俺は１８人の誰かを疑わざるを得ない。}`
+`{ruby:......Since it could no longer be the work of a 19th person, all doors will be closed to me.":……１９人目の仕業にはもうできず、八方塞がりさ」}`
+`{ruby:".........But I believe that the culprit is definitely not one of the 18!:「………だが、俺は１８人の中に犯人が絶対にいないと信じてる！}`
+`{ruby:There's no way that any of those 18 could commit such brutal murders...!!":あんな残酷な殺人を、１８人の誰にも起こせるものか…！！」}`
+`{ruby:".....................":「…………………」}`
+`{ruby:"I'll say it again.:「繰り返すぞ。}`
+`{ruby:Repetition requested!:復唱要求！}`
+`{ruby:"There are only 18 people on this island".":“この島には、１８人しかいない”」}`
+`{ruby:"..............................:「…………………………。}`
+`{ruby:.........I decline.:………拒否する。}`
+`{ruby:I won't say why.":理由は明かさない」}`
+`{ruby:Whew...!:ふぅっ…！}`
+`{ruby:I had avoided what would have been the worst red for me.:俺にとって、最悪の赤は回避された。}`
+`{ruby:If she had repeated that,:もしこれを復唱されていたら、}`
+`{ruby:I would have been faced with those two worst choices of accepting the witch or suspecting one of the 18,:俺は魔女を認めるか１８人の誰かを疑うのかの、最悪の二択を迫られ、}`
+`{ruby:like last time all over again...:前回の二の舞となってしまう…。}`
+`{ruby:But Beato had not proclaimed my ultimate and greatest weakness in red.:だが、ベアトはこの究極最大の俺の弱点を、赤で宣言しなかった。}`
+`{ruby:She had declined to repeat it—even though there was no reason why she shouldn't have struck—even though it was a weakness she should have been drooling at.:突かない理由のない、よだれが出そうな弱点なのに、復唱を拒否した。}`
+`{ruby:She hadn't sliced me up with red by using that move, which should have been as good as forking a rook and the king...!:王手飛車取りにも等しいこの一手を、赤で斬れなかった…！}`
+`{ruby:......This was a big sign of my advantage.:……これは、俺にとってあまりに有利な幸先だ。}`
+`{ruby:That's right.:そうさ。}`
+`{ruby:The culprit isn't one of the 18 people.:１８人の中に犯人などいない。}`
+`{ruby:{n}I won't doubt anyone...!:{n}俺は誰も疑わない…！}`
+`{ruby:And since the culprit isn't a witch either,:そして犯人は魔女でもないのだから、}`
+`{ruby:.........it means that a 19th person exists on this island.:………つまりこの島に１９人目が存在するということ。}`
+`{ruby:And that's you.:それがお前だ。}`
+`{ruby:A person who, as Grandfather's mistress of thirty years,:祖父さまの３０年来の愛人で、}`
+`{ruby:has been living secretly in a hidden mansion in the forest for a long, long time.:ずっとずっと森の中の隠された屋敷に、ひっそりと隠れ住まっていた人物。}`
+`{ruby:The {i:human} {f:5:Beatrice}.........!!:“人間”の、ベアトリーチェ………！！}`
+`{ruby:"That's right.:「そうさ。}`
+`{ruby:You aren't a witch or anything like it.:お前は魔女なんかじゃない。}`
+`{ruby:......You're just a human...who's been living on this island in hiding for several decades...!":……この島に何十年も隠れ住んできた、…ただの人間なんだッ…！」}`
+`{ruby:".........*cackle*cackle*.:「………くくくく。}`
+`{ruby:*cackle*cackle*cackle*...:くっくっくっくっく…。}`
+`{ruby:...Did you just call me, the Endless Witch who has lived for over one thousand years, a mere human?:…千年を経た無限の魔女の妾を、ただの人間呼ばわりしたか。}`
+`{ruby:......*cackle*cackle*cackle*cackle*cackle*cackle*!":……くっくくくくくくくくくくく！」}`
+`{ruby:For a while, {f:5:Beatrice} continued to laugh unpleasantly, gloating or maybe spiteful.:ベアトリーチェはしばらくの間、小気味よく、あるいは悔し紛れに、気持ち悪く笑い続けた。}`
+`{ruby:"...Are you ready? I'll keep going.:「…いいか、続けるぜ。}`
+`{ruby:...Again, repetition requested.":…続けて復唱要求」}`
+`{ruby:"‘There are at least 19 people on this island’!":「“この島には、１９人以上がいる”！」}`
+`{ruby:"..............................":「…………………………」}`
+`{ruby:{f:5:Beatrice} fell silent once again.:ベアトリーチェは再び沈黙する。}`
+`{ruby:The feeling that confirming the number of humans on this island...:この島に存在する人間の数を確定することが、}`
+`{ruby:might possibly stand to give her some large disadvantage,:場合によっては何かの大きな不利になるかもしれないことを感じ取り、}`
+`{ruby:was probably making her extremely cautious.:相当、慎重になっているのだろう。}`
+`{ruby:The red had already become a foothold for my counterattack.:もはや、赤は俺にとって反撃の足掛かり。}`
+`{ruby:With that in mind, the red had become a risk for the witch.:そこまでわかっているなら、赤は魔女にとってリスクあるものになる。}`
+`{ruby:But if she couldn't repeat this, her "Hempel's Raven" wouldn't work.:しかし、もしこれを復唱できないなら、ヤツの“ヘンペルのカラス”は有効にならない。}`
+`{ruby:In order to break my "Devil's Proof",:俺の“悪魔の証明”を打ち破るには、}`
+`{ruby:first, the existence of and number of people outside the 18...:１８人以外の人間の存在と人数を、}`
+`{ruby:needed to be confirmed in red.:事前に赤で確定する必要があるのだから。}`
+`{ruby:That's right.:そう。}`
+`{ruby:She couldn't break the existence of a 19th person unless she used red.:１９人目の存在は、赤以外では打ち破れない。}`
+`{ruby:I had {i:closed Beato in}, giving her no choice but to speak in red...!:俺はベアトを、赤を使う他ないように{i:追い詰めた}…！}`
+`{ruby:There really was...:この魔女とのゲーム…、}`
+`{ruby:.........a way to fight,:………戦い方は、}`
+`{ruby:......in this witch's game!:……確かにあるッ！}`
+`{ruby:"It's alright to decline.:「拒否してもいいんだぜ。}`
+`{ruby:...If you can't say it in red, then that will mean the total number of people on this island will be 18+X.":…お前が赤で言えないなら、この島の合計人数は１８＋Ｘってことになる」}`
+`{ruby:"......That X is a pretty huge piece to allow me to have on the first move, isn't it?:「……このＸは、初手で許すには相当デカい大駒だぜ？}`
+`{ruby:After all, from then on, all of the tricks with the basis "it was impossible for any of the 18"...:何しろ、以後、１８人の誰にも不可能だった、という根拠のトリックは、}`
+`{ruby:will become explainable with a human X outside of the 18 people.:全て１８人以外の人間Ｘで説明可能になる。}`
+`{ruby:......This is a huge piece that can break open any locked room hinging on everyone having an alibi...!":……全員アリバイ系の密室を、全て打ち破れる大駒だ…！」}`
+`{ruby:It was just like...:それはさながら、}`
+`{ruby:a bishop in chess, which can cut a thin line through enemy forces as long as there's a slight gap.:敵陣にわずかの隙間があれば鋭く食い込める、チェスのビショップのようなもの。}`
+`{ruby:It only exerts an effect over squares of the same color, but it has a great ability to control the board.:同じ色のマスにしか効果を発揮しないが、その盤上の支配力は大きい。}`
+`{ruby:"..............................:「…………………………。}`
+`{ruby:..................kh.":………………く」}`
+`{ruby:It looked like Beato also well understood her current plight.:ベアトも、現在の窮状をよく理解しているようだった。}`
+`{ruby:She couldn't just let such an important piece go, especially this close to the beginning of the game...:これほどの大駒を、これほどの序盤に見捨てられるわけもない…。}`
+`{ruby:If she pulled out her red treasured sword, it wouldn't be that difficult to save that piece.:赤き宝刀を抜けば、それを救うことは難しくないだろう。}`
+`{ruby:......But Beato was completely aware that I was expecting it.:……しかしベアトは、むしろ俺がそれを待ち受けていることも、充分に察している。}`
+`{ruby:She was afraid that a careless red truth might end up strangling her own neck...!:迂闊な赤き真実が、自らの首を絞めることになるかもしれないと怯えている…！}`
+`{ruby:Because, ...in the first place, a witch was something which should be {i:denied} in red.:なぜなら、…本来、魔女は赤で否定されるべき存在だからだ。}`
+`{ruby:Believe.:信じろ。}`
+`{ruby:Don't doubt!:疑うな！}`
+`{ruby:Witches don't exist!:魔女などいない！}`
+`{ruby:{n}Something like that can't exist in this world.:{n}この世にそんなもの、存在するわけもない。}`
+`{ruby:They can only exist in the cracks in reality.:それが存在できるのは、現実の狭間だけ。}`
+`{ruby:...They are a fragile existence, curled up in these cracks, frantically trying to protect themselves from the brutal winds of truth,:…その隙間にて、真実の暴風から必死に身を守って縮こまり、}`
+`{ruby:and they can only barely exist like a mirage by surviving on falsehoods and fantasy.:虚偽と幻想で食い繋いでいる時だけ、蜃気楼のように細々と存在できる脆弱な存在なのだ。}`
+`{ruby:In other words, the red, which only witches can use, is the very reality by which they risk denying themselves.:つまり、魔女だけが使える赤は、自らを否定しかねない現実そのもの。}`
+`{ruby:......The more they brandish their red words...:……赤を振りかざせば振りかざすほどに。}`
+`{ruby:the more they begin to lose, bit by bit, that crack in reality inside which they can endure.:魔女はわずかずつだが、自らの凌げる現実の隙間を失っていく。}`
+`{ruby:That is why they don't want, through the red,:だからこそ、あやふやな情報、}`
+`{ruby:......to carelessly lose that crack in reality which is based on fuzzy information, or in other words, fantasy.:……つまり、幻想の余地ある現実の隙間を、無用心に赤で失いたくないのだ。}`
+`{ruby:Because they understand that they would be gradually cornering themselves.:それが徐々に自分を追い詰めていくと理解しているから。}`
+`{ruby:Of course, she would never admit it.:もちろん、ヤツはそれを認めないだろう。}`
+`{ruby:Because, if she did,:それを認めれば、}`
+`{ruby:it would be the same as admitting that she is something that can't exist in this world, like an imaginary number.:自分がこの世に存在してはならない虚数的存在であることを認めたも同然になってしまうのだから。}`
+`{ruby:Don't be afraid.:怯えるな。}`
+`{ruby:Stay strong...!:強気でいろ…！}`
+`{ruby:{n}She knows this deep down, and better than anyone.:{n}ヤツが一番骨身に染みてわかってるんだ。}`
+`{ruby:That her red treasured sword can't easily be used without considerable resolve...!:赤き宝刀は、相当の覚悟がなければ容易には使えないのだということを…！}`
+`{ruby:"...What's wrong.:「…どうしたよ。}`
+`{ruby:I'll say it again.:繰り返すぜ。}`
+`{ruby:......Repetition requested!":……復唱要求！」}`
+`{ruby:"‘There are at least 19 people on this island’!":「“この島には、１９人以上がいる”！」}`
+`{ruby:"........................:「……………………。}`
+`{ruby:......Hmh.:……ふ。}`
+`{ruby:...I decline.":…拒否する」}`
+`{ruby:At the end of a long, long time spent deliberating,:ベアトは悩みに悩みぬいた末。}`
+`{ruby:......letting a single deep breath escape, she quietly proclaimed her refusal.:……深いため息をひとつ漏らしながら、静かに拒否を宣言した。}`
+`{ruby:......I had thought that she'd use it.:……使うと思ってた。}`
+`{ruby:But Beato refused to speak in red, even though it would cost her victory in the opening part of the game.:だがベアトは、序盤の勝ちを譲ってまで赤を使うことを拒否した。}`
+`{ruby:"You declined, yes......?:「拒否したな……？}`
+`{ruby:Which means that, from now on,:ということは、今後、}`
+`{ruby:I can create as many fictional character Xs outside of the 18 as I want...?":俺は１８人以外の架空人物Ｘを何人でも使い放題ってことになるぜ…？」}`
+`{ruby:"Do as you wish.:「好きにするがよい。}`
+`{ruby:...I have declined your repetition.:…妾はそなたの復唱を拒否した。}`
+`{ruby:Isn't that enough for now?:今はそれで充分であろう？}`
+`{ruby:......The reason I declined was...:……拒否の理由は、}`
+`{ruby:......:………。}`
+`{ruby:...No, I will not reveal that for now.:…いや、今はまだ明かさぬ。}`
+`{ruby:You will know soon in any case.":いずれすぐにわかる」}`
+`{ruby:"...Ihihi.:「…いっひっひ。}`
+`{ruby:Still acting tough, I see...":もったいぶりやがってよ…」}`
+`{ruby:"......Red that I deliberately don't use is in itself a fitting use of red.:「……敢えて使わぬ赤もまた、赤らしい使い方よ。}`
+`{ruby:You called it my red treasured sword.:そなたは赤き宝刀と呼んだな。}`
+`{ruby:A pleasant analogy.:愉快な例えよ。}`
+`{ruby:I will use it too.:妾も使おう。}`
+`{ruby:......A treasured sword is at its best when it is sheathed.:……宝刀は抜かぬ内が花よ。}`
+`{ruby:In fact, there are times it can instill even more fear because it is sheathed.":むしろ抜かぬことによって醸せる畏怖というものもある」}`
+`{ruby:"That's right.:「そうだな。}`
+`{ruby:...As I fight, I always have to keep in mind when you might turn everything over with those red words.:…俺はお前がいつ赤で引っ繰り返してくるか、常に念頭に置いて戦わなければならない。}`
+`{ruby:It's some pretty serious pressure.":こいつは偉ぇプレッシャーだ」}`
+`{ruby:"......And there are times when having a repetition declined makes things harder for me.:「……それに、復唱を拒否される方が辛い場合もある。}`
+`{ruby:...Those times, I can't tell whether you can't repeat because my guess was right,:…何しろ、俺の読みが正しいから拒否できないのか、}`
+`{ruby:or whether you're just misleading me and letting me think whatever I want.":ミスリードにはまって泳がされてるのか区別がつかないからな」}`
+`{ruby:"...In that sense, yes, I see.:「…そういう意味では、なるほど。}`
+`{ruby:A sheathed treasured sword.":抜かずの宝刀ってわけだ」}`
+`{ruby:"............What does it matter?:「…………なぁに。}`
+`{ruby:If I'm going to push you off a cliff anyway, I might as well let you climb a little higher first.:同じ突き落とすなら、少しでも高いところに行かせてからに限る。}`
+`{ruby:...We have still barely begun.:…まだ始まったばかりよ。}`
+`{ruby:Much is left to come...":まだまだな…」}`
+`{ruby:"I'll resign from this challenge.:「この勝負は、今は妾がリザインする。}`
+`{ruby:...Go and get drunk on your faint victory for now.:…淡き勝利に今は酔え。}`
+`{ruby:......Only for now.":……今はな」}`
+`{ruby:That bitter comment did, in fact, appear to have marked the end of the game's opening battle.:その負け惜しみが、事実上、序盤戦のピリオドとなったらしい。}`
+`{ruby:Even so, I couldn't relax my guard at all.:にもかかわらず、まったく気は抜けない。}`
+`{ruby:...I was unable to relax my feeling of tension until I was greeted by the sound of Ronove's applause...:…ロノウェが乾いた拍手の音を聞かせてくれるまで、俺の緊張感は緩まなかった…。}`
+`{ruby:"......Spectacular, Battler‐sama.:「……お見事です、戦人さま。}`
+`{ruby:I suppose we could say that this game has started with at least the opening unfolding to your advantage?":まずは序盤は、戦人さま有利の展開でスタートというところでしょうか？」}`
+`{ruby:"No idea...:「さぁな…。}`
+`{ruby:I still don't know whether this piece was something I tore from her with my own hands,:この駒が、俺の手でもぎ取ったものなのか、}`
+`{ruby:or whether she guided me into taking it.":取るよう誘導されたものかはまだわからねぇな」}`
+`{ruby:"......After all, knowing you...:「……どうせお前のことだ。}`
+`{ruby:you probably know that I'm being led into a trap, and that clapping is just a barefaced lie, right...?":俺が罠にはまり始めてるのを知ってて、白々しく拍手をしてるんだろ…？」}`
+`{ruby:"How could you think that?:「まさか。}`
+`{ruby:I am innocently celebrating your ability that has enabled you to take one shot at Milady, though granted it is only the opening.:序盤とは言え、お嬢様より一本を奪った手腕を純粋に祝福いたしております。}`
+`{ruby:...After all, Milady is a person who is quick to become arrogant.:…何しろお嬢様はすぐ増長するお方。}`
+`{ruby:I believe that a little stimulation such as that makes for a good medicine every once in a while.":たまにはこのような刺激も良い薬かと思いますよ」}`
+`{ruby:"...This butler of yours sure has a vicious tongue...":「…お前んとこの執事、ホント口悪ぃな…」}`
+`{ruby:"Isn't that so?:「であろぅ？}`
+`{ruby:Sometimes he enrages even me.":たまに妾でもカチンと来るぞ」}`
+`{ruby:"My, my, how incredibly rude of me.":「それはそれは、大変に失礼いたしました」}`
+`{ruby:"Well then, Milady, Battler‐sama.:「さぁさ、お嬢様に戦人さま。}`
+`{ruby:Would you care for some more black tea?:紅茶のおかわりはいかがですかな？}`
+`{ruby:The game has still barely begun.:まだゲームは始まったばかりでございます。}`
+`{ruby:Please leave any tea or pastries that might adorn this game to me.:ゲームを彩るお茶とお菓子は、どうかこの私めにお任せを。}`
+`{ruby:Please, do not hesitate to advance further in the game.":どうぞお気兼ねなく、ゲームをお進めになってください」}`
+`{ruby:"I will.:「そうさせてもらう。}`
+`{ruby:Let's move forward.:先を進めるぜ。}`
+`{ruby:Now is when it really starts.":これからが本番だ」}`
+`{ruby:"............Hmph.:「…………ふ。}`
+`{ruby:Very well.:良かろう。}`
+`{ruby:Let us advance the clock.:時計を進めようではないか。}`
+`{ruby:Ronove, black tea, please.":ロノウェ、紅茶を頼む」}`
+`{ruby:"Certainly.:「かしこまりました。}`
+`{ruby:What about a cookie?":クッキーは？」}`
+`{ruby:"No need.:「いらぬ。}`
+`{ruby:Give it to Beelzebub to keep her happy.:ベルゼブブにやれば喜ぼう。}`
+`{ruby:............Remain silent for now.":…………しばし沈黙せよ」}`
+`{ruby:While listening to the sound of the demon butler pouring tea, the witch closed her eyes slightly and fell into silence.:悪魔の執事が紅茶を注ぐ音を聞きながら、魔女は浅く目を瞑り黙り込む。}`
+`{ruby:......For some time, she was deeply lost in thought, but eventually a roguish glint came into her eyes.:……しばらくの間、沈思黙考したが、やがて悪戯っぽい何かを瞳に浮かべた。}`
+`{ruby:"Very well.:「よかろう。}`
+`{ruby:............Why don't I inform you now why I declined to speak in red for the first move.":…………妾がどうして初手にて赤で語るのを拒否したのか、今よりわからせてやろうぞ」}`
+`{ruby:"......What...?:「……何ぃ…？}`
+`{ruby:Bring it on.:上等じゃねぇかよ。}`
+`{ruby:Show me what you've got.":お手並み拝見と行くぜ」}`
+`{ruby:"*cackle*cackle*...:「くっくっく…。}`
+`{ruby:It really is a big piece that you'd hate to miss.":やはり、見逃すには惜しい大駒よ」}`
+`{ruby:"......It may be hasty, but allow me to move.:「……拙速かも知れぬが、動かせてもらおう。}`
+`{ruby:I won't use red, but from here on, Rosa will explain on my behalf.:赤は使わぬが、今よりそれを妾に代わって楼座が説明する。}`
+`{ruby:Listen.":聞くが良い」}`
+`{ruby:"Of course, I agree as well.:「もちろん、私も同意よ。}`
+`{ruby:You too, right, Rosa?:楼座もそうでしょう？}`
+`{ruby:...............Rosa?":……………楼座？」}`
+`{ruby:"Huh, ah, sorry...:「え、あっ、ごめんなさい…。}`
+`{ruby:M‐me too.:わ、私も同じよ。}`
+`{ruby:I agree.":同意するわ」}`
+`{ruby:".........What's wrong, Rosa‐san.:「………どうしたんや、楼座さん。}`
+`{ruby:...You've been really quiet for a while now.:…あんたさっきからずいぶん大人しいなぁ。}`
+`{ruby:Are you feelin' sick...?":体調でも悪いんとちゃうか…？」}`
+`{ruby:From the beginning, Rosa had never been one to willingly cut in on the siblings' fights.:楼座は、元々、兄弟喧嘩に進んで口を挟む性分ではない。}`
+`{ruby:...But even so, she seemed unmotivated,:…しかしそれにしても、ずいぶんと消極的で、}`
+`{ruby:and had said almost nothing at all during this night's conference.:今夜の会議ではまったくといっていいほど、発言していなかった。}`
+`{ruby:The whole time, she had been hanging her head, and appeared to be thinking of something else...:ずっと俯いて、何か他のことを考えているようだった…。}`
+`{ruby:"You've been in a daze for a while now.:「あんた、さっきからぼんやりしてるわよ。}`
+`{ruby:Do you think you can protect the inheritance like that?:そんなので遺産が守れると思ってるの？}`
+`{ruby:You are also the mother of your child, so get a stronger hold on yourself.":あんたも一児の母なんだから、もっとしっかりなさいよ」}`
+`{ruby:"I, I'm sorry......":「ご、ごめんなさい……」}`
+`{ruby:"I imagine you woke up quite early this morning?:「朝がだいぶ早かったんじゃないかね？}`
+`{ruby:If you feel sick, you shouldn't overdo it.":体調が悪いなら無理をしない方がいいだろう」}`
+`{ruby:"......The beds have been prepared in the guest rooms.:「……客室にベッドの用意がありますよ。}`
+`{ruby:How about taking a rest?:お休みになってはいかがですか？}`
+`{ruby:I will guide you.":ご案内しますよ」}`
+`{ruby:"No, ...I'm fine.:「いえ、…大丈夫です。}`
+`{ruby:Thank you.":ありがとう」}`
+`{ruby:"...What is it?:「…どうしたんだ。}`
+`{ruby:Is there something you're worrying about?":何か心配事でもあるのか？」}`
+`{ruby:".........No, not really.........":「………いえ、別に………」}`
+`{ruby:"Are you sure...?:「そう…？}`
+`{ruby:It feels like your mind has been elsewhere this whole time.:さっきからずっと、心ここに在らずという感じよ。}`
+`{ruby:...I wonder if that has anything to do with what we've been talking about...?":…そしてそれは、今、私たちがしている議題と、何か関係があるんじゃないかしら…？」}`
+`{ruby:At those words, everyone stared at Rosa together.:その言葉に、みんなが一斉に楼座に注目する。}`
+`{ruby:As if in response, Rosa's shoulders quivered.:それに応えるように、楼座もびくりと肩を震わせた。}`
+`{ruby:Apparently Kyrie's guess hadn't been wrong.:霧江の指摘は間違っていないようだった。}`
+`{ruby:{n}...Nor did Rosa deny it...:{n}…楼座もまた、それを否定しない…。}`
+`{ruby:"..................No, umm...:「………………いえ、あの…。}`
+`{ruby:.................................":……………………………」}`
+`{ruby:She swallowed whatever it was she had been about to say, and went silent again.:何かを口にしようとしたが、それを飲み込み、再び沈黙してしまう。}`
+`{ruby:By now, even the other siblings were also beginning to realize that something about her demeanor was different from usual...:さすがに他の兄弟たちも、彼女の様子が普段と違うことに気付き始めた…。}`
+`{ruby:"What is it?:「どうしたんだ。}`
+`{ruby:...You've been weird for a while.:…さっきからおかしいぞ。}`
+`{ruby:Do you have something on your mind...?":何か思うことでもあるのか…？」}`
+`{ruby:"All of us've just sworn to remain united, haven't we?:「わしら全員で団結しようって誓い合ったばかりやないか。}`
+`{ruby:Don't be all unfriendly now, worryin' by yourself.:ひとりで悩むなんて、水臭い話やで。}`
+`{ruby:Let's talk it over.":話したってぇな」}`
+`{ruby:"......Rosa.:「……楼座。}`
+`{ruby:Tell us.":話しなさい」}`
+`{ruby:Pressed by the men one after the other, Rosa made up her mind, and nervously began to open up...:男たちに次々と催促され、楼座は観念しおずおずと打ち明ける…。}`
+`{ruby:It was almost...:それはまるで、}`
+`{ruby:as though she was trying to confess to some modest prank which had inadvertently brought about a serious situation...:ささやかな悪戯が、重大な事態を招いてしまったことを告白するような、}`
+`{ruby:such was the atmosphere in the room.:そんな雰囲気によく似ていた。}`
+`{ruby:"No, umm......:「いえ、その……。}`
+`{ruby:......Th‐this mistress of Grandfather's, this {f:5:Beatrice},:……ベ、ベアトリーチェっていう、お父様の愛人って、}`
+`{ruby:......is she really, um,:……本当にその、}`
+`{ruby:.........still alive, I was wondering...":………生きてるのかしらって思って…」}`
+`{ruby:"Huh?:「はぁ？}`
+`{ruby:Obviously she's alive.:そりゃ生きてるに決まってるでしょう。}`
+`{ruby:She's sending letters to us, what more do you want?":こうして手紙を送ってくるぐらいだもの」}`
+`{ruby:"Whether she's healthy or not is a different story though.:「元気かどうかは別の問題だろうけどな。}`
+`{ruby:The lovely woman in that portrait must be getting up there in age by now.":肖像画の美女も、今じゃきっといいお歳だろうぜ」}`
+`{ruby:"I'd think she's healthy.:「元気やと思うでぇ。}`
+`{ruby:People who are crafty when it comes to money are healthy no matter how old they are!:カネのことで悪知恵働くヤツは、決まっていくつになっても元気や！}`
+`{ruby:Evil plans might even be the best rejuvenating agent.:案外、悪巧みは最高の回春剤かも知らへんで。}`
+`{ruby:Wahahaha.":わっはっはっは」}`
+`{ruby:"......She can't be...:「……生きてるはず、}`
+`{ruby:......alive.":………ないの」}`
+`{ruby:"Huh?:「え？}`
+`{ruby:......What did you just say?":……今、何て？」}`
+`{ruby:"{f:5:Beatrice} is...:「ベアトリーチェは、}`
+`{ruby:...dead...:……死んでるのよ…。}`
+`{ruby:.........I,:………わ、}`
+`{ruby:...I killed her...!":…私が殺した…！」}`
+`{ruby:"Wh‐......what did you say......?!":「な、……何だって……？！」}`
+`{ruby:"...Wh‐...what do you mean, Rosa...?!":「…ど、…どういうことよ、楼座…！」}`
+`{ruby:"B‐but, it's not like I was the one who kill—:「で、でも、私が殺したわけじゃ…。}`
+`{ruby:......But, but I was the one that brought her to a place like that!:……で、でも私があんなところに連れ出したから！}`
+`{ruby:...I really did kill her...:…やっぱり私が殺したのよ…。}`
+`{ruby:I tried to make myself believe it was a dream!!":あれは夢だと思い込もうとしたのよ！！」}`
+`{ruby:"......But......it really wasn't after all!:「……でも、……やっぱりあれは夢じゃなかったのよ！}`
+`{ruby:Which means this is......a letter from {f:5:Beatrice}'s ghost!!:だからこれは、……ベアトリーチェの亡霊からの手紙なのよ！！}`
+`{ruby:Uwaaaaaaaaaaaaaaa!!":うわああああぁああぁああぁあぁ！！」}`
+`{ruby:It was so sudden that everyone was lost for words.:突然のことに、誰もが言葉を失う。}`
+`{ruby:Rosa kept on talking, unable to stop, holding her head as her hair flew all about...:楼座は取りとめもないことを口走りながら、髪を振り乱しながら頭を抱えていた…。}`
+`{ruby:"Please, calm yourself...!:「どうか落ち着いて…！}`
+`{ruby:Rosa‐san...!":楼座さん…！」}`
+`{ruby:"I, I have absolutely no clue what's goin' on...!:「わ、わしには何が何やらさっぱりや…！}`
+`{ruby:Already dead?:もう死んどる？}`
+`{ruby:What do you mean...?!":どういう意味なんや…！」}`
+`{ruby:"......I think it means two things.:「……２つの意味があると思うわ。}`
+`{ruby:First, ...its literal meaning.:まず１つ目は、…言葉通りの意味。}`
+`{ruby:...And second, it substantiates that our earlier guess was correct.":…そしてもう１つは、私たちの想像が正しかったことを裏付けるもの」}`
+`{ruby:"Which means......:「ということは……。}`
+`{ruby:.........Rosa, ......you have met with {f:5:Beatrice}?":………楼座は、……ベアトリーチェに、会ったことがあるというのかね」}`
+`{ruby:"I, I've never heard Rosa speak about that once.:「そ、そんな話、楼座の口からは一度も聞いたことがないわ。}`
+`{ruby:...Rosa, when was it?:…楼座、いつよ？}`
+`{ruby:When could you possibly have met {f:5:Beatrice}?!":あなたは一体、いつベアトリーチェに会ったのよ？！」}`
+`{ruby:"Long ago!:「昔よ！}`
+`{ruby:Long, long, long ago!!:ずっとずっと昔よ！！}`
+`{ruby:We had just moved over to the island and I was young!!:まだこの島に引っ越してきたばかりで私は幼かった！！}`
+`{ruby:It wasn't my fault, it's not like {i:I} killed her...!!:私は悪くないの、私が殺したわけじゃ…！！}`
+`{ruby:Uuuuuuuuughhhuuu!!":うううぅうううぅ！！」}`
+`{ruby:"...Calm down!:「…落ち着け！}`
+`{ruby:Nobody's blaming you for anything, alright?:誰もお前を責めちゃいねぇぜ？}`
+`{ruby:First, drink some water.:まずは水でも飲め。}`
+`{ruby:Okay?:な？}`
+`{ruby:Natsuhi‐san, the pitcher, please.":夏妃さん、水差しを頼む」}`
+`{ruby:"Y‐yes.:「は、はい。}`
+`{ruby:.........Here you go, Rosa‐san.:………どうぞ、楼座さん。}`
+`{ruby:Please, calm yourself......":どうか落ち着いて……」}`
+`{ruby:"..........................................":「……………………………………」}`
+`{ruby:Until Rosa was able to regain her calm amidst her ragged breathing, ......no one was able to speak a word...:楼座が荒い呼吸の中に落ち着きを取り戻すまで、……誰も一言も発することはできなかった…。}`

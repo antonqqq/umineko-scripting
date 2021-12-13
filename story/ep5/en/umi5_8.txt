@@ -1,761 +1,761 @@
-`……戦人は、ぼんやりと窓の外を見ているだけだった。......Battler did nothing but gaze lazily out the window.`
-`親族たちの罵り合いは、いつ果てるともなく続いている……。The fighting between the relatives continued without end......`
-`最初、親族たちは書斎へ押し掛けた。At first, the relatives had crowded around the study.`
-`しかし、いくらノックしても、書斎の主が応えてくれることはなかった。However, no matter how much they knocked, the master of the study did not answer even once.`
-`絵羽たちは、源次が持つもう１つの鍵で扉を開けるべきだと主張した。Eva and several others said that they should open the door with the second key, the one Genji held.`
-`だが、夏妃は咄嗟の機転で、最近の金蔵は特に機嫌が悪く、However, in a flash of brilliance, Natsuhi said that Kinzo had been in a particularly bad mood and had taken back the key he'd previously given Genji,`
-`源次に持たせていた鍵も取り上げてしまい、今は２本とも、鍵を金蔵自らが持っている、 meaning that he now had both keys himself.`
-`だから扉を開くことが出来ないと言い訳する。 She claimed that it was therefore impossible for them to open the door.`
-`明日の朝、必ず金蔵に会わせるからと約束し、ようやく食堂に戻ってきたのだ。After she promised to let them meet Kinzo tomorrow morning no matter what, they finally returned to the dining hall.`
-`だがもちろん、食堂に戻ってきてからも、罵り合いは収まらない。But, of course, the argument continued on even after they returned there.`
-`絵羽たちは大量の現金がすぐ欲しく、何とか蔵臼を脅迫して、それを支払わせようとしている。Eva's group wanted a lot of cash very soon, and they were trying to threaten Krauss somehow and make him pay up.`
-`……戦人が碑文を解いたことにより、......Apparently, Battler's solving of the epitaph, which threatened Krauss's position as the next head,`
-`蔵臼の次期当主の座を脅かしているのも、大きな追い風のようだった。 had given the others a huge tailwind.`
-`一方の蔵臼と夏妃は、そもそも、碑文の謎を解いた人物に、On the other side, Krauss and Natsuhi denied the very basis of their argument,`
-`黄金の所有権が渡るという記述はどこにもないと、話の根底から反論。 claiming that it had never been specified that ownership of the gold would be handed over to the person who solved the epitaph.`
-`あれは隠された黄金ではなく、金蔵が貯蔵したものに過ぎず、They asserted that it hadn't been hidden gold, but just Kinzo's stockpile,`
-`今なお、金蔵の所有物であって、その分配は金蔵の死後の遺産分配まで待つのが筋であると主張した。 and it was still Kinzo's property, which meant it was only natural for it to be distributed after Kinzo's death with the rest of the inheritance.`
-`こう主張すれば、絵羽たちは再び、ならお父様を出せ出せという論法になる。After hearing this, Eva's group once again started demanding that they be allowed to see Kinzo.`
-`……最初からわかりきっていることだろう。......It had probably been clear as day from the beginning.`
-`{n}この兄弟喧嘩は、金蔵にしか収められないのだ…。{n}This sibling fight could only be settled by Kinzo...`
-`すぐに現金が欲しい絵羽たちと、It was obvious that this confrontation was between Eva's group, which wanted cash fast,`
-`金欠を隠しているが、それでも急ぎの現金を必要としない蔵臼の対決の構図が、鮮明に表れている。 and Krauss, who was hiding his lack of funds but still didn't need money right away.`
-`戦人はそのやり取りをぼんやりと聞きながら、As Battler listened vaguely to this exchange,`
-`……普段は金持ちぶってるくせに、みんな案外、借金塗れなんだなと心の中で呆れるのだった…。 ......he marveled at how, despite their usual affluent airs, they were all surprisingly deep in debt...`
-`「それもさっき聞いた話ではないかね。"Didn't you already say that a short while ago?`
-`もういい、休止しよう。 That's enough, let's take a break.`
-`お互い、一度した話を延々と繰り返しているだけだ」 We're all repeating the same things over and over again."`
-`時計を見上げると、もうじき２４時になるというところだった。According to the clock, it was almost midnight.`
-`確かに、それはちょうどいい、休憩のタイミングに違いない。It certainly was a perfect time for a break.`
-`わずかだけ、場の空気が緩んだ…。The atmosphere relaxed just a bit...`
-`「同感や。"I agree.`
-`お互い、一服するのも悪くないで。 It'd do both sides some good to take a breather.`
-`…ほな、以後は議事を取りながらにせんか。 ...Listen, why don't we take a record down for the rest.`
-`言った言わないはもうゴメンや」 I've had enough of fighting over what was or wasn't said."`
-`「まったくだわ。"Seriously.`
-`舌の根も乾かないうちに、そんなことは言ってないなんて、平気で言い出す兄さんとの会議に、議事録は必須だものねぇ」 We really can't do without a record of proceedings, not when Nii‐san can so easily deny something he's said before the words stop bouncing off the walls."`
-`「文字じゃ、書くのも手間だし、インチキだっていくらでも出来るわ」"With a written record, just writing it would be a pain, and it'd be open to forgery."`
-`「そうだな。"Right.`
-`……兄貴、こいつは動くのか？」 ......Aniki, does this thing work?"`
-`「オーディオセットかね。"The tape set?`
-`…なるほど。 ...I see.`
-`それならば議事を手書きせずに済むし、捏造も出来んね。 This way, we can keep a record without bothering to write it down, and forgery will be impossible.`
-`互いにとって公平だ」 It's fair for both sides."`
-`「勝手にいじらないように…！"Make sure you don't mess anything up...!`
-`　当主様の大切な音楽テープですよ！」 Those are Father's precious music tapes!"`
-`その貫禄あるオーディオセットは、この威厳ある食堂にとても相応しい重厚さを持っていた。The dignified tape set had a sense of weight to it which matched this majestic dining hall perfectly.`
-`機嫌のいい日曜日の朝食には、それで名曲のテープやレコードを流すこともある。On pleasant Sunday mornings, it would sometimes be used to play famous tapes or records.`
-`しかし今は、この議事の記録係として、もっとも中立で公平な存在だった…。However, right now, it was the most neutral and impartial conference record keeper around...`
-`留弗夫は適当にカセットラックを漁り、生テープを探す。Rudolf fished randomly around the cassette rack, searching for a blank tape.`
-`そして、高尚な音楽テープを見つけては、キザったらしいとケチをつけるのだった。And every time he found some tape with "sophisticated" music, he would chuckle at how pompous it was.`
-`「失礼します。"Excuse me.`
-`……お呼びでしょうか」 ......You called?"`
-`「休憩することになったの。"We're taking a break.`
-`申し訳ないんだけど、何か飲み物を用意してもらえないかしら。 Sorry, but could you make us something to drink?`
-`ビスケットみたいなものがあってもいいかもね」 And maybe some biscuits would be nice too."`
-`「かしこまりました。"Certainly.`
-`すぐにご用意いたします……」 I will prepare it right away......"`
-`「あと、……ごめんなさい。"Also, ......sorry.`
-`風邪薬あるかしら。 Do you have any cold medicine?`
-`さっきから熱っぽくて」 I've been feeling a bit feverish."`
-`「なら無理はよくないな。"Then don't overstrain yourself.`
-`休みたまえ」 Get some sleep."`
-`「楼座がいいと思うなら、好きに休めばぁ？"If you really feel like it, why not get some sleep, Rosa?`
-`　私ならこの大事な会議中に風邪くらいじゃ休まないけどね」 Though I wouldn't step out of such an important conference because of a simple cold."`
-`「そうかね？"Really?`
-`　私は遠慮なく休ませてもらうよ。 I would excuse myself without hesitation.`
-`夏妃、私たちも少し休まないかね」 Natsuhi, why don't we take a short rest too?"`
-`「…………はい、あなた」"............Yes, dear."`
-`夏妃は、作戦会議があるに違いないと敏感に察し、立ち上がる。Sensing that he meant to have a strategy meeting, Natsuhi stood up.`
-`……そうでないにしても、わずかの時間でも、ここの空気を吸わずに済むなら、理由は何でもよかった。......Even if that wasn't the case, she was so desperate to get out of the room even for a moment that she'd have taken any excuse.`
-`蔵臼と夏妃は食堂を出て、……場の空気は、本当の意味で弛緩するのだった。Krauss and Natsuhi left the dining hall, ......and the tension in the room truly relaxed.`
-`「…………ふぅ」"............Phew."`
-`「戦人くんもお疲れ様。"You've been doing great, Battler‐kun.`
-`……サイアクの気分でしょ。 ......I imagine you feel just horrible.`
-`大人の階段だと思って諦めて」 Think of this as part of growing up and just accept it."`
-`「俺は、いつまでここでぼさーっとしてりゃいいんすかね」"Just how long am I going to have to sit around doing nothing here?"`
-`「……さぁ。"......Who knows.`
-`戦人くんは私たちのお神輿だからね。 After all, you're like our personal donation box.`
-`……眠い？」 ......Sleepy?"`
-`「古典の授業程度には」"About the same as Japanese Lit class."`
-`「今夜はどうせお父さんは現れないでしょう。"I'm pretty sure Father won't show up tonight anyway.`
-`蔵臼兄さんたちが戻ってきたら、戦人くんはもう戻っていいかと提案してみるわ」 When Krauss nii‐san and the rest come back, I'll propose that we might as well let you go."`
-`「……よろしく頼んます」"......I'd appreciate that."`
-`コンコン。Tap‐tap.`
-`軽いノックと、かちゃかちゃと陶器がぶつかりあう軽やかな音が聞こえる。A light knock and the faint sound of china clinking together could be heard.`
-`「失礼します……」"Excuse us......"`
-`「お茶をお持ちいたしました」"We have brought tea."`
-`紗音と嘉音の二人が配膳台車と共に訪れる。Shannon and Kanon had come by with a serving cart.`
-`紅茶の良い香りが、一層、彼らの緊張を解きほぐしてくれるのだった。The pleasant smell of black tea relieved their tension all the more.`
-`「……よう。"......Hey.`
-`話は聞いてるか？」 Did you hear?"`
-`「何のお話でしょうか……？」"What are you talking about......?"`
-`「…………僕たちは、何も」"............We didn't hear anything."`
-`「よしなさい、留弗夫。"Stop it, Rudolf.`
-`教える必要は何もないわ」 There's no reason to tell them."`
-`「……僕たちは、家具ですから。"......We are furniture,`
-`親族会議のお話には、関心ありません」 so we have no interest in the family conference."`
-`「そうね。"I see.`
-`それが賢い返事だわ」 That's a wise answer."`
-`「……深夜勤なの？"......You have the midnight shift?`
-`　大変ね」 That must be tough."`
-`「そういうお役目ですので。"That is our job.`
-`……ご用命いただけて嬉しいです」 ......We would be happy to receive your orders."`
-`「そうかもしれんな。"You could be right there.`
-`することもなく、ぼんやり起きてる方がしんどいもんや。 It'd probably be even more tiresome to sit around awake doing nothing.`
-`わしも下積み時代に、倉庫番とかやったことあるんやけどな。 When I was still down in the bottom rungs, I once worked as a warehouse keeper.`
-`ただ起きてるだけでも、これがとにかく辛いんや…！ Even if you're just staying awake, it's still pretty tough...!`
-`　戦争直後はな、物資泥棒とかぞろぞろおってな。 Right after the war, you had robbers all over the place.`
-`警察も頼れん時代で、とにかく物騒でなぁ…！」 Plus you couldn't rely on the police back then, so it was a pretty dangerous time...!"`
-`秀吉の、裸一貫から、米軍の横流し物資で財を築き上げたのは、彼の誇らしい武勇伝だ。Hideyoshi was particularly proud of how he had started with nothing and built up assets by diverting goods from the American army.`
-`この話が始まると、とにかく秀吉は饒舌になる。Once the subject came up, Hideyoshi tended to get pretty talkative.`
-`それを知る親族たちは、ちょうどいい生贄が来てくれたと、胸を撫で下ろすのだった。The relatives knew this and were greatly relieved to see that a perfect sacrifice had come up.`
-`「バレたら一大事や！"If you got found out, you were in for it big time!`
-`　アメさんは怖いでぇ！ Those Yanks are scary!`
-`　牛肉食っとるからパワーも桁違いや。 Their strength's in another league 'cause of all that beef they eat.`
-`捕まったら最後、銃殺刑かデスバイハンギングや！」 Get caught and that'd be the end of ya! Firin' squad or <death by hanging>!"`
-`「わかるか？　デスバイハンギング！"You know that one? <Death by hanging>!`
-`　あー、それでな、わしは思うたんや。 Oh yeah, and then, I figured it out.`
-`肉や！　肉や！ It's all about the meat! The meat!`
-`　日本人はもっと肉を食わなあかん！ Japanese people've gotta eat more meat!`
-`　そしてわしは胃袋を掴む商売を始めなあかんという天啓を受けたんや！」 And that's when I had the revelation—I had to start up a business to capture people's stomachs!"`
-`「は、…はぁ…。"I, ...I see...`
-`それは、た、大変なお仕事ですね……」 That m‐must have been quite a difficult task......"`
-`「よしなさいよ、あなた。"Stop it, darling.`
-`戦後生まれにいくら話しても、当時の苦労なんか伝わらないわよ」 No matter how much you tell people born after the war, they'll never understand how hard it was back then."`
-`「ん、またわしの悪い癖が出てしもうたな…！"Oops, looks like my bad habit's jumped out again...!`
-`　すまんすまん！ Sorry, sorry!`
-`　わはははははは！」 Waha{0}ha{0}ha{0}haha!"`
-`「あなたたちもお茶をしていきなさいよ。"You two should have some tea as well.`
-`たまには、自分たちがどういう紅茶を淹れてるか、その舌で学ぶのもいい勉強になると思うわ」 I think it might help you if once in a while you used your own mouths to learn more about the tea you're brewing."`
-`「………いえ、結構です。".........No, we'll be fine.`
-`お気遣いなく…」 There's no need to be concerned for our sakes..."`
-`「少し付き合ってくれよ。"Hang out with us for a bit.`
-`大人ばかりで俺も窒息しそうなんだ」 Being surrounded by only adults makes me feel like I'm gonna suffocate."`
-`「そら、次期当主の戦人さまのご命令だぞ！"Hear that? That's an order from Battler‐sama, successor to the head!`
-`　そこに座って、俺たちとしばらくお茶しろぃ。 Sit over there and have some tea with us.`
-`それで、最近の出来事とか趣味とか、見てるテレビとか若者の今の流行りとか、そういう話をしやがれぃ。 And tell us about what's been going on recently, your hobbies, TV shows you're watching, and whatever it is that's popular with young folks these days.`
-`俺たちの勉強になるからな」 There's a lot we could learn."`
-`「くす。"*giggle*.`
-`名案ね。 That's a brilliant idea.`
-`ほら、二人とも座って。 Come on, sit down, both of you.`
-`そして、話題に飢えた私たちの生贄になってちょうだい」 And become our sacrifices now that we're starved of things to talk about."`
-`「わっはははははは。"Wahahahahahaha.`
-`そやなぁ。 That's right.`
-`若い子と話をしよう思うたら、キャバクラでもいかんとこの歳では難しいわ」 The only way I'm gettin' to talk to young folk at this age is goin' to a cabaret club."`
-`「……いつまでぼさっと突っ立ってんのよ。"......How long are you planning on standing around there?`
-`留弗夫が座れと命令したわ。 Rudolf told you to sit.`
-`座りなさいよ。 Go on, sit down.`
-`……私も許可してあげるわ」 ......I give you permission as well."`
-`絵羽の許可が出て、紗音と嘉音は顔を見合わせた後、ようやく、おずおずとその命令に従う。After getting Eva's permission, Shannon and Kanon looked at each other and finally obeyed, nervously.`
-`しばらくの間、二人は質問攻めに遭い、親族たちのいい玩具にされるのだった……。For a while, the two were pounded by questions and became the relatives' playthings......`
-`その時、コンコン…、Tap‐tap.`
-`……と控えめなノックが聞こえた。 Another reserved knock could be heard.`
-`使用人たちは誰だって、そんな風にノックするのだから、All of the servants tended to knock in a similar manner,`
-`誰も違和感は覚えはしない。 so no one noticed anything strange.`
-`しかし紗音と嘉音は、きょとんとした顔をして振り返る。However, Shannon and Kanon turned around with surprised looks on their faces.`
-`……今日の使用人は、自分たちと源次と、熊沢と郷田。......The servants here today included the two of them, Genji, Kumasawa, and Gohda.`
-`郷田はゲストハウスの深夜勤。Gohda had the midnight shift at the guesthouse.`
-`{n}熊沢はゲストハウスの控え室で就寝している。{n}Kumasawa had gone to bed in the servants' quarters in the guesthouse.`
-`自分たちはここにいて、……あとは源次しかいないのだが、And they were in here, ......so Genji was the only person left,`
-`…源次がこんなノックの仕方をしないことを、彼らはよく知っていた……。 ...but they knew very well that Genji wouldn't knock like that......`
-`「……誰だ？"......Who is it?`
-`　開いてるぜ。勝手に入れよ」 It's not locked. Just come in."`
-`留弗夫も、そのノックに心当たりがなかった。Rudolf didn't recognize the knock either.`
-`誰だ？　という彼の言葉で、誰もがそんなノックをする人物に心当たりがないことに気付く……。And when he asked "Who is it?", everyone came to the same realization that they too had no idea who would knock like that......`
-`するともう一度だけ、コンコン、と同じノックが繰り返された。After that, the same knock repeated just once more.`
-`……ひょっとして、両手が塞がってるから、開けてくれ、…とでも言うのか…？......Could it be that someone had their hands full...and was asking that the door be opened for them...?`
-`少しおかしな空気が流れる中、ホールから、大時計の音が聞こえてくる。As a slightly odd feeling began to encompass the room, the sound of the large clock in the hall could be heard.`
-`それは、１０月４日の終わりと、１０月５日の始まりを教えるものだった……。It was the sign that October 4th had ended and October 5th had begun......`
-`時間は、わずかに遡る。A short while earlier—`
-`その頃、蔵臼と夏妃の夫婦は、食堂から離れた２階の、ひと気のない廊下にいた……。Krauss and Natsuhi were well away from the dining hall, in a deserted corridor on the second floor......`
-`「………もう、それしか手はないのかね」".........So, we no longer have any other options."`
-`「はい…。"Yes...`
-`……明日一日、同じ手はもはや通用しないでしょう。 ......I do not think the same trick will work again tomorrow.`
-`…これ以上を渋れば、絵羽さんたちは、お父様を監禁しているなどと主張して、警察に訴える可能性さえあります。 ...If we hesitate any longer, there's a chance that Eva‐san and the others will claim that we have Father locked up and call the police.`
-`もう、……これが限界です」 This is......as far as we can go."`
-`「……………………………」"................................."`
-`「……戦人くんが黄金を発見するのが、……まったく想定外でした。"......Battler‐kun finding the gold......was completely unexpected.`
-`あれさえなければ、何とかうまくやりくりできる筋書きを考えていたのですが……」 If only that hadn't happened, I'd thought of a plan which might have managed to get us through this somehow......"`
-`「……ふ。"......Hmph.`
-`私が賭けるといつもこうだな。 Just like every other bet I've made.`
-`…いつも想定外のことが起き、絶対確実だった話が、おかしくなる」 ...Something unexpected always arises, and the "guaranteed" outcome is thrown off course."`
-`「…………明日の朝、お父様の部屋が空っぽである、ということにします。".........We'll have Father's room be empty starting tomorrow morning.`
-`源次と口裏を合わせ、早朝に森へ出掛けて行くのを見た、と言わせましょう」 Let's plan it out with Genji and have him say that he saw Father heading out into the forest early in the morning."`
-`「その失踪を、絵羽たちが素直に受け入れるとは思えん…」"I doubt Eva and the others will swallow that story of his disappearance..."`
-`「百も承知です。"I'm fully aware of that.`
-`しかし、もうそれしか手がありません…！」 However, we have no other options...!"`
-`「そのようなことをすれば、……絵羽たちは疑わしいと騒ぎ立てるだろう。"If we do such a thing, ......Eva and the others will doubtless make a fuss about it being suspicious.`
-`絵羽たちはカネをせしめるためなら、形振りなど構うまい。 They aren't worried about appearances as long as they can squeeze some money out of us.`
-`…それこそ、おかしな雑誌とつるんで、私の信用にダメージを与えてくるかもしれない」 ...They might strike a deal with some odd magazine and cause serious damage to the confidence placed in me."`
-`「ダメージで済むではありませんか…！"We can live with {i:damage}...!`
-`　万一にも、お父様の秘密を知られたら、それどころでは済みません…！！」 If by any chance Father's secret is discovered, it won't be a matter of mere damage...!!"`
-`「明日一日を、ぎりぎりまで粘ってからでも遅くはない。"There's nothing wrong with persisting until the last second tomorrow.`
-`もしも明日を無事に乗り切ることが出来れば、私たちは何も失うものはないのだ。 If we're able to make it through safely, we won't have to lose anything.`
-`焦って、失踪という切り札を切る必要はない…！」 There's no need to get impatient and use up our trump card...!"`
-`「彼らが、お父様を監禁していると騒ぎ立て、そこに失踪していたと返すのですか？"You want to wait until after they start accusing us of locking Father up, and {i:then} reply that he's gone missing?`
-`　その方がはるかに疑いを招きます…！！」 That is far more likely to draw suspicion...!!"`
-`「……………………むむ……」"........................nnnn......"`
-`「……もう、"......Let's just...`
-`…お父様に、お休みいただきましょう…。put Father to rest now...`
-`これ以上は、 To go any further...`
-`……無理です……」......would be impossible......"`
-`「落ち着きたまえ。"Calm yourself.`
-`絵羽たちの毒気を浴び過ぎて冷静を失っただけだ。 You've just had too much exposure to the toxin from Eva and the others and have lost your composure.`
-`……あの書斎に入る鍵は２本しかない！ ......Only two keys exist which can let anyone into that study!`
-`　そしてその２本はここに、君が持っている。 And you have both of them right here.`
-`だから誰も入ることなど出来ん。 That means no one can go inside.`
-`あの扉は特別製だ。 That door is of a very special make.`
-`彼らが倉庫からどんな工具を持ってこようとも、びくともせんよ」 No matter what kind of tools they bring out of the storehouse, it won't even budge."`
-`「そういう物理的な問題ではありません…！」"It isn't a physical problem like that...!"`
-`「だから焦るな、落ち着けっ。"Look, stop panicking, settle down.`
-`何なら、君は熱を出したことにして寝込んでいてくれればいい。 If you like, you can pretend to have gotten a fever and stay in bed.`
-`その間に、私が全て乗り切って見せる」 In the meantime, I will overcome all of this."`
-`「……あなただけに任せられません…！"......I can't leave everything to you...!`
-`　私も最後まで戦います…！」 I'll fight until the end too...!"`
-`夏妃が激情に涙を堪えきれなくなった時、……そっと蔵臼がその肩を抱いた。When Natsuhi could no longer hold back the tears brought on by her fierce emotions, ......Krauss held her gently.`
-`……夫の抱擁に温かみを感じたのは、どれくらいぶりだろう……。......Just how long had it been since she'd last felt warmth from her husband's embrace......`
-`「頭痛が、………酷いのだろう？"Your headache.........is killing you, isn't it?`
-`　君がそういうしわを眉間に浮かべる時は、いつもそうだ」 Whenever you get those creases between your eyebrows, I can tell."`
-`「…………あなた……」"............Dear......"`
-`夫に、自分の気持ちを察することなど出来ないと思ってきた。She had come to think that her husband could never understand the way she felt.`
-`なのに、……こんな時に限って、………。But, ......when it came to times like this.........`
-`「……失踪という切り札は、最後の最後まで待とう。"......Let's wait for the very last moment before using our disappearance trump card.`
-`伝家の宝刀と同じだよ。 It's like a last‐resort treasured sword:`
-`抜かない内が華だ。 it's best when it remains in its sheath.`
-`大事なのは、いつでも抜けるという心構えではないかね…？」 The important thing is being ready to pull it out at any time, wouldn't you agree...?"`
-`「それは、……わかっています…」"I......understand that..."`
-`「その切り札を、私に預けてくれんかね。"Why don't you leave that trump card with me?`
-`………もちろん、最後の瞬間の責任は、全て私が取る。 .........Of course, at the final moment, I will take all of the responsibility.`
-`……君と朱志香は巻き込まん」 ......I won't get you and Jessica involved."`
-`「それは、…どういう意味ですか…！」"What...do you mean by that...?!"`
-`「右代宮家が滅ぶ時、その瓦礫に潰されるのは私だけで充分だ。"If the Ushiromiya family is destroyed, it is enough that I alone am crushed under the rubble.`
-`………台風が過ぎたら、離婚届を準備しよう。 .........After the typhoon passes, I will prepare divorce forms.`
-`それに捺印し、君に預けておく。 I will sign the papers for you to keep and use when you please.`
-`……内緒で、君の名義にしてある財産がある。 ......I have some assets hidden away in your name.`
-`さらにそれに慰謝料を加えれば、君と朱志香は不自由なく暮らせるはずだ」 Add on the settlement, and it should be enough for you and Jessica to live in comfort."`
-`「嫌です！！"No!!`
-`　私の墓碑に刻むべき名は、右代宮夏妃です…！ Ushiromiya Natsuhi is the name that should be engraved on my tombstone...!`
-`　どうか最後の瞬間までご一緒に…！ Please let me be with you until the last moment...!`
-`　たとえあなたが、右代宮家最後の当主であろうとも、 Even if it turns out that you are the last head of the Ushiromiya family,`
-`……夏妃を最後までどうか、 ......please let Natsuhi...`
-`……当主夫人で、...be the name of his wife...`
-`……あなたの妻でいさせて下さい……」...your wife......"`
-`……蔵臼は、財界のフィクサーとしての、信用と財力だけで存在している。......Krauss's existence was based solely upon the power of his assets and his trustworthiness as a financial fixer.`
-`それが両方とも揺らげば、後には何も残らない。If those were both undermined, nothing would remain.`
-`金蔵失踪の切り札を切れば、二本しかない屋台骨の片方を失うことになる。Using the trump card of Kinzo's disappearance would mean losing one of these two essential supports.`
-`……首を斬られる代わりに右腕を差し出すようなもの。......It was like offering your right arm to save your head from being cut off.`
-`首に比べればマシだろうが、失血多量で死ぬかもしれないし、It was probably better than losing your head, but you still might die from the blood loss,`
-`万一、生き残れたとしても、生涯癒せぬ、大きな痛手を背負うことになる……。 and even on the off‐chance that you did survive, you would have to bear a heavy wound that wouldn't heal for the rest of your life......`
-`蔵臼は、死すら覚悟しているのだ……。Krauss was prepared even for death......`
-`それを夏妃は理解し、Natsuhi understood this,`
-`……蔵臼の胸に顔を埋め、 ......buried her face in Krauss's chest,`
-`…泣いた…。 ...and cried...`
-`「…………お取り込み中、失礼いたします」"............My apologies for interrupting."`
-`突然の源次の声に、夏妃は、ぱっと飛び退き、慌てて涙を拭った。Genji's sudden voice made Natsuhi jump back and hurriedly wipe the tears from her eyes.`
-`そんな夏妃を蔵臼は背中に庇う。Krauss stood in front of Natsuhi, shielding her.`
-`「源次さんか。"Ah, Genji‐san.`
-`驚かせないでくれたまえ。 Please don't sneak up on us.`
-`……何か用かね？」 ......Do you have some business?"`
-`「………はい。".........Yes.`
-`申し訳ございませんが、奥様にご報告が」 My apologies, but I have something to report to Madam."`
-`「私に、……ですか……？"To......me......?`
-`　あなた……」 Dear......"`
-`「構わんよ」"I don't mind."`
-`蔵臼は夏妃の側を離れ、少し離れた窓のところへ行くと、Krauss left Natsuhi's side, went to a window a short way off,`
-`風雨に荒れる薔薇庭園を眺める……。 and gazed at the windy and rainy rose garden......`
-`夏妃も源次を伴い、少しだけ離れた。Natsuhi went with Genji to a place a short distance away.`
-`「……何事ですか」"......What is it?"`
-`「………はい。".........Well...`
-`実は、また奥様にお電話が」 The truth is, another phone call has come for you, Madam."`
-`その時、突然、不気味な音が聞こえて驚く。At that moment, she was surprised by a sudden, eerie sound.`
-`{n}それはホールの大時計が、２４時を知らせる音だった…。{n}It was the large clock in the hall announcing midnight...`
-`「まさか、…………また、……あの男なのですか…？」"You don't mean............that man......again...?"`
-`「………はい。".........Yes.`
-`……如何致しましょう」 ......What is to be done?"`
-`「よ、……用件は何だと言っていますか」"D‐......did he say what business he had with me?"`
-`「………お答えいただけません。".........He would not answer.`
-`奥様と直接お話ししたいとの一点張りでございます」 He kept insisting that he wanted to speak to you directly."`
-`「…………………………」".............................."`
-`また、……１９年前の復讐を名乗る男から、…電話が。Again, ...a phone call......from the man who claimed to be taking revenge for what had happened 19 years ago.`
-`１９年前。19 years ago.`
-`……それは、朱志香や戦人が産まれる、ちょうど１年前だ。......That was just one year before Jessica and Battler were born.`
-`夏妃にとって、１９年前と１８年前の境は、あまりに大きい。In Natsuhi's eyes, the gap between 19 years ago and 18 years ago was immense.`
-`……長い間、右代宮家の跡継ぎをもうけるという妻の役目を成し遂げられず、冷遇され続けてきた。......For a long time, she was unable to fulfill her role of creating a successor for the Ushiromiya family...and was treated very coldly.`
-`それが、ようやく朱志香を出産し、But then, she finally gave birth to Jessica...`
-`右代宮家次期当主の妻を、胸を張って名乗れるようになったのだ。and became able to call herself the wife to the Ushiromiya successor with her head held high.`
-`……だから、彼女にとって、右代宮夏妃は１８年前より始まるのである。......So in her eyes, "Ushiromiya Natsuhi" began 18 years ago.`
-`……だから、それ以前の１９年前は、……呪わしい記憶でしかない。......So everything before that, including 19 years ago......contained nothing but hateful memories.`
-`その、……呪わしき時代の最後の年が、………電話の向こうから、復讐を囁いてくる……。The last year of that hateful period.........was whispering of revenge...from the other end of the phone......`
-`………また、……潮騒の音が聞こえる……。.........Once again......she heard the roar of the sea......`
-`………………………………。....................................`
-`「………如何なさいますか」".........What is to be done?"`
-`「私の、……部屋に転送しなさい。"Transfer it......to my room.`
-`……主人には、内密に」 ......Don't let my husband know."`
-`「……畏まりました」"......As you wish."`
-`源次は最初から、蔵臼に知られたくない電話だろうことを察している。From the very beginning, Genji had understood that she wouldn't want Krauss hearing about this phone call.`
-`だから夏妃に、こっそりと報告したのだ……。That was why he had told Natsuhi covertly......`
-`夏妃は電話の転送を命じると、今日はこれで休むと蔵臼に伝え、足早に立ち去る……。Natsuhi ordered that he transfer the call, told Krauss that she would turn in for the night, and left at a quick pace......`
-`自室に戻り、鍵を掛ける。She returned to her room and locked the door.`
-`…それは特別なことではない。...There's nothing peculiar about that.`
-`{n}……右代宮家では廊下は公道と同じ。{n}......In the Ushiromiya family, hallways are like public roads.`
-`{n}自室に入ったら鍵をするのは特別なことではないのだ…。{n}There's no special meaning in locking the door when you enter your own room...`
-`そう、言い聞かせる。...This is what she told herself.`
-`すると、それを見届けたかのように、電話が鳴り響いた。Then, as though it had been waiting for her, the telephone rang.`
-`{n}…源次が電話を転送してくれたのだろう。{n}...Genji must have transferred the call.`
-`深く深呼吸をし、覚悟を決めてから、…………受話器を取った。She took a deep breath, readied herself, ............and picked up the receiver.`
-`「…………もしもし………」"............Hello........."`
-`「…………………………」".............................."`
-`また、……だんまりの沈黙から。Again, ......it started with silence.`
-`こちらを焦らし、不快にさせようという魂胆が見え透いて、苛立つ…。She realized that the person at the other end was trying to keep her in suspense and make her feel uncomfortable, and she got angry...`
-`「どうして黙っているのですか…！"Why are you silent...?!`
-`　切ります…！」 I'm hanging up...!"`
-`「…はっはっはっはっはっは…。"...Hahahahahahaha...`
-`……切るなよ、カアサン。 ......Don't hang up, Mother.`
-`もう少し声を聞いていたいんだからさ……」 I want to hear your voice a little longer......"`
-`またあの、……不快な声……。Again......that unpleasant voice......`
-`「私を愚弄する気ですか…！"Are you trying to mock me...?!`
-`　用件をお言いなさい…！」 State your business...!"`
-`「カアサンと、遊びたい」"I want to play with you, Mother."`
-`「…は、……はぁ？"...Wh‐......what?`
-`　何を言っているんですか、あなたは！ What are you talking about?!`
-`　私はあなたとなど、遊びたくありません…！！」 I have no desire to play with you...!!"`
-`「……親族会議で疲れたんだろ？"......You're tired from the family conference, right?`
-`　持病の頭痛がだいぶ辛いんじゃないかい…？」 I'll bet that chronic headache of yours is giving you a bad time."`
-`「よ、余計なお世話です…！」"Th‐that's none of your business...!"`
-`頭痛を悩みにしていることを知られているだけで、悪寒が走る…。Just the fact that he knew her headache was troubling her made a shiver run up her spine...`
-`「頭痛になるのは、頭が凝ってるからさ。"You get headaches because your head's all stiff.`
-`そのままベッドに入ったって、いい夢は見られないよ」 You won't have pleasant dreams if you go straight to bed like that."`
-`「だから余計なお世話だと言っています！！"Haven't I told you that's none of your business?!!`
-`　切りますよ！！」 I'm hanging up!!"`
-`夏妃は、電話を切ると強気に叫ぶが、実際には出来ない…。Natsuhi forcefully yelled that she was hanging up, but in actuality, she couldn't...`
-`なぜなら、こうして自分に電話を掛けてくるだけ、まだマシだからだ。After all, this person was choosing to call her, and that was much better than the alternative.`
-`……もし、乱暴に電話を切ったなら、......If she hung up violently,`
-`…自分以外の人間に、電話を掛けてくるかもしれないのだから…。 ...this person might choose to call someone else...`
-`「頭の凝りを解すために、ちょっとだけ遊ぼうよ。"Let's play a bit to help you relax.`
-`何、時間は取らせないよ」 Don't worry, I won't take up much of your time."`
-`「あ、…あなたと遊ぶ気などありません……！」"I, ...I have no intention of playing with you......!"`
-`「……カアサンの名前は、夏妃。"......Your name is Natsuhi, Mother.`
-`名前に季節を持ってるね。 It has the kanji for a season in it.`
-`いい名前だ。 Pretty nice name.`
-`………でも、夏妃だからって、夏が好きとは限らない。 .........However, just because your name is Natsuhi, that doesn't necessarily mean that you like summer.`
-`…カアサンが本当に好きな季節は、何だい……？」 ...Which season is your real favorite, Mother......?"`
-`「それをあなたに教えると思いますか」"You think I'll tell you?"`
-`「教えてくれないなら、……俺が切るよ。"If you don't, ......I'll hang up.`
-`………いいのかい？」 .........Are you sure you want that?"`
-`「…く、………………」"...kh.................."`
-`それは明らかな脅迫だった。It was clearly a threat.`
-`……電話をもし切らせるようなことがあったなら、......It meant that if she forced him to hang up the phone,`
-`その後、何が起こっても知らないという意味も同然……。 anything might happen......`
-`夏妃は、名も知らぬ男の脅迫に屈する屈辱に耐えながら、男の求める答えを口にした……。Humiliated that she was forced to give in to a threat made by a man whose name she didn't even know, she gave him the answer he wanted......`
-`「………あ、………秋です」".........I‐.........it's autumn."`
-`「どうして……？」"Why......?"`
-`「す、過ごしやすい季節だからです…！"B‐because it's an easy season to pass the time in...!`
-`　他に特に理由はありませんっ。 There's no other reason in particular.`
-`これで満足ですか？！」 Are you satisfied now?!"`
-`「あぁ、満足だ。"Yeah, I'm satisfied.`
-`……やっぱりカアサンの好きな季節は、俺と同じだったよ。 ......It looks like your favorite season really is the same as mine.`
-`……俺も秋が好きなんだ。 ......I like the fall too.`
-`………くっくくくくくくくくくくくくく…」 .........Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh..."`
-`「……嘘吐き！"......Liar!`
-`　出まかせを言うんじゃありません…！」 You just made that up...!"`
-`この男は、私が何の季節を好きだと言おうと、そう言うに違いないのだ。This man would no doubt have done the same thing no matter which season I said I liked.`
-`……何が目的なの？！......What is he after?!`
-`私をこんな不愉快な気持ちにさせて、何が楽しいというの…？！What's so fun about making me uncomfortable like this...?!`
-`「嘘吐きなんてひどいな。"It's not nice to call someone a liar.`
-`……出まかせなんかじゃない。 ......I didn't make it up.`
-`俺はカアサンが秋が好きだって、確信してたよ。 I was already certain that you liked the fall, Mother.`
-`………証拠を見せてもいい」 .........I can even show you proof."`
-`「証拠………？」"Proof.........?"`
-`「あぁ。"Yeah.`
-`……カアサンの部屋に、時計はあるかい…？」 ......Is there a clock in your room, Mother...?"`
-`「…時計……？"...A clock......?`
-`　え、……えぇ、ありますが、それが何か……？」 Y‐......yes, there is, but what's your point......?"`
-`夏妃の部屋には、凝った細工の美しいアンティーク時計がある。In Natsuhi's room, there was a beautiful antique clock with an intricate design.`
-`……蔵臼がずいぶん昔の誕生日に買ってくれたものだ。......Krauss had bought it for her as a birthday present long ago.`
-`「………今は、０時７分ですね。".........It's seven minutes past midnight right now.`
-`もう眠いので、茶番を早く終わらせなさい…！」 I'm tired, so please get this farce over with quickly...!"`
-`「その時計、持ち上げてみてよ」"Try lifting the clock up."`
-`「ど、どうしてです」"Wh‐why?"`
-`「………いちいちうるせぇな。".........You just don't know when to shut up.`
-`俺の言うことにお前は歯向かうんじゃないよ。 Stop resisting every single time I say something.`
-`黙って言われたとおりにすればいいんだ」 Just shut up and do what I say."`
-`突然、男の声色が低く、脅すように変わる。The tone of the man's voice suddenly went low, turning into a threat.`
-`{n}それは明らかに不快感を示すもの。{n}It indicated clear displeasure.`
-`この男は、一見、落ち着いた話し方をしているが、その胸中はまったく違うのだ。Outwardly, this man had a calm manner of speaking, but on the inside, things were completely different.`
-`もし、これ以上、ほんのわずかでも男を怒らせたなら、すぐにもその本性を現すに違いない…。If she angered this man even the slightest bit further, he would surely show his true nature right away...`
-`「……そんなに電話を切られたいかよ？"......Are you really that eager to make me hang up?`
-`　こうしてあんたに電話をしてる内が華なんだぜ……。 You'd better start realizing how lucky you are that I'm talking on the phone with you right now......`
-`…あんたが１９年前にしたこと、俺はいつだって、あんたの旦那や娘に話すことが出来るんだ…」 ...I can tell your husband and daughter about what happened 19 years ago any time I want to..."`
-`「あ、あなたが何の話をしているか知りませんが、夫や娘を巻き込まないで下さい…！"I, I don't know what you're talking about, but please don't get my husband and daughter involved...!`
-`　こうして私が電話を聞いていますから…！」 I'm listening to everything you say...!"`
-`「なら、言われたとおりにしやがれってんだ……」"Then do what you're goddamn told......"`
-`二度と口答えするな、とでも言うように、男は再び低い声で脅す…。Once again, the man threatened me in a low voice, as though warning me never to talk back to him again...`
-`私は、頭が頭痛と心臓の音、……そして潮騒の音でいっぱいになる…。My head was filled with the pain from my headache, the sound of my beating heart, ......and the roar of the sea...`
-`……もはや、逆らうことなど出来ない。......I couldn't disobey him anymore.`
-`………男が命じたとおりに、私はアンティーク時計を、持ち上げる…。.........As the man had ordered, I lifted up the antique clock...`
-`「……………………………？」".................................?"`
-`そこには、一枚のトランプのようなものが。There lay something that resembled a single playing card.`
-`{n}…………？{n}............?`
-`時計の保証書か何かかしら…………。Perhaps it was the warranty for the clock.........?`
-`{n}そう思い、手に取り、裏返す…………。{n}Thinking this, she took it and turned it over............`
-`「眠気、………覚めたかい？」"Are you.........wide awake now?"`
-`「ひ、あ、"Eek, ah,`
-`……あぁああぁぁぁ……。 ......aaaaaaaahhhhh......`
-`ど、 Wh‐`
-`どど、wh‐wh‐`
-`どうして、why...`
-`……こ、 ...Why is...`
-`……こんな…ッ？！？！」...this...?!?!"`
-`「あんたの頭痛が、少しは引いたなら嬉しいんだけどな。"Well, I'll be happy if your headache's gone down a bit.`
-`……嬉しいって言ってよ、カアサン」 ......Tell me you're happy, Mother."`
-`「どうやってこれを？！"How did you...?!`
-`　どうして？！ Why?!`
-`　どうやってッ？！」 How?!"`
-`「嬉しいですって言ってほしいな、この人殺しめ。"I want you to tell me you're happy, you murderer.`
-`よくも潔癖な奥様面が出来るもんだぜ、反吐が出る。 How dare you act like a normal, neat‐freak mother. You make me want to vomit.`
-`その反吐を、あんたの夫や娘にもぶちまけられたいかい？ Do you want some of it to land on your husband and daughter as well?`
-`　嫌だろ？ You don't, do you?`
-`　黙ってて欲しいだろ？ You want me to keep quiet, don't you?`
-`　あぁ、黙っててやるよ、ほら、嬉しいだろ？ Yeah, I'll keep quiet. See, aren't you happy?`
-`　嬉しいだろッ？！」 Aren't you happy?!"`
-`「う、………ぅぅ、嬉しいです…嬉しいです…ッ！！"Ah, .........aaaah, I'm happy... I'm happy...!!`
-`　だから、…やめて…。 So please...stop...`
-`夫と娘に構わないで…！ Don't burden my husband and daughter...!`
-`　何が要求ですか。 What is it you want?`
-`お金ですか？ Money?`
-`　いくらですかッ？！」 How much?!"`
-`「カネなんか欲しくないよ。"I don't want money.`
-`……俺の傷は、カネをいくら積んだって癒せないんだ。 ......My wounds couldn't be healed with any amount of money.`
-`だが薬ならある。 But there is a medicine.`
-`……そうだな。 ......Yes,`
-`それは軟膏みたいなもんだ。 it's like a kind of ointment.`
-`……ねっとり、どろどろして糸を引く」 ......Thick, syrupy and dribbling."`
-`「…………それはあんたへの、"............And that is...`
-`…俺の恨み、my hatred,`
-`……怨嗟だよ。 ......my resentment towards you.`
-`…そいつを塗ってでしか、 ...Slathering myself with that...`
-`痛みが抑えられないんだよ…」is the only way to hold back the pain..."`
-`夏妃はこれまでの人生で、このような呪いの言葉を掛けられたことなどない。Natsuhi had never had anything so hateful said to her in her entire life.`
-`だから、それを聞かされている自分は、何か悪い夢でも見ているではないかと、何度も疑った。So she suspected many times that she must be having some sort of bad dream.`
-`だが、……これは断じて夢ではない…。However, ......this definitely wasn't a dream...`
-`「……あ、"......Y‐`
-`…あなたはまさか、...you couldn't possibly be...`
-`……この島にいるのですか…」...on this island right now, could you...?"`
-`「あぁ。"I am.`
-`約束しただろ？ Didn't I promise you?`
-`　親族会議には出る、って」 I said I'd be at the family conference."`
-`「不可能です…！"That's impossible...!`
-`　この台風では来られるわけもありませんッ…！！」 There's no way you could have come during this typhoon...!!"`
-`「台風になる前から来てれば問題はないよ。"That's no problem if I came before the typhoon reached here.`
-`……それに、台風の最中であっても、ヱリカとかいう来客があったはずだ」 ......And I'm pretty sure this guest called Erika or whatever arrived even during the typhoon."`
-`全身を凍った血液が駆け巡る……。Her blood froze......`
-`{n}古戸ヱリカは偶然が招いた来客のはず…。{n}Furudo Erika had been brought here by coincidence...`
-`{n}その名を知るには、相当身近にいなくてはならない……。{n}If he knew that name, he would have to be very close by......`
-`「あ、"Wh‐`
-`……あなたは......where...`
-`……ど、...a‐`
-`……どこに………」......are you.........?"`
-`「……あんたの紹介がない内は、誰の前にも現れないさ。"......I won't appear in front of anyone until you introduce me.`
-`安心しな。 Don't worry.`
-`………おっと、俺を探しても無駄だよ。 .........Oh yeah, it's useless to try and search for me.`
-`あんたの屋敷は広い。 Your mansion is huge.`
-`電話だってそこいら中にあるしな。 And you have phones all over the place.`
-`あんただって、俺に会いたくないだろ？」 Besides, I'm sure you don't want to see me either, do you?"`
-`「……それとも、俺を見つけ出して、みんなに紹介してくれるのか…？"......Or are you offering to find me and introduce me to everyone...?`
-`　朱志香にも紹介してくれよ。 Introduce me to Jessica too.`
-`……１つ上の兄です、ってな。 ......Tell her I'm her older brother by one year.`
-`くっくくくくくくくくくくく！！」 Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh!!"`
-`「や、やめて……、朱志香に構わないで……」"S‐stop it...... Stay away from Jessica......"`
-`「怖がらせ過ぎたかな。"I guess I've scared you a bit too much.`
-`今夜はこれで勘弁してやるよ。 That's all from me...for tonight.`
-`……だが、忘れるな。 ......But don't forget.`
-`あんたは俺に逆らえないんだ。 You cannot disobey me.`
-`わかってるな、 Understand,`
-`……カアサン」 ......Mother?"`
-`「……は、………はい……」"......Y‐.........yes......"`
-`「今夜はこれで電話を切るが、……明日の朝まで、命令がある」"I'm going to hang up for the night, ......but I have an order to be followed up until tomorrow morning."`
-`「な、……何ですかッ………」"Wh‐......what is that.........?"`
-`「あんたは今夜もう、その部屋を出てはならないし、どこにも電話を掛けてはならない。"You may no longer leave that room tonight, and you may not make any phone calls.`
-`電話が掛かってきても取ることも許さねぇぜ。 If the phone rings, you aren't allowed to pick it up, either.`
-`そして今すぐ灯りを消し、布団を被って寝ろ。 And you will turn the lights off right now, get in bed, and sleep.`
-`そしていつもの時間に起床しろ。 Then you will wake up at your ordinary time.`
-`…………くっくくくく。 ............Heheheheheh.`
-`健康的な生活でいいなぁ。 It sure is nice to live a healthy life.`
-`カアサンの体を労るなんて、本当に俺は親孝行者だよ……」 I really am such a good son, working so hard for the sake of my Mother's body......"`
-`「わ、……わかりました。"I, ......I understand.`
-`今すぐ寝ます。 I'll sleep right now.`
-`部屋も出ません、電話も出ません…！ I won't leave my room, and I won't pick up the phone...!`
-`　だから、……夫と娘には……！」 So please, don't tell my husband and daughter......!"`
-`「カアサンが俺の命令を守る限り、あんたの秘密は守ってやるよ。"As long as you follow my orders, I'll keep your secret, Mother.`
-`……命令を破るなよ。 ......Don't disobey me.`
-`……俺はもう、お前のすぐ近くにいる。 ......I'm already very close by.`
-`部屋の灯りが消えるかどうか、そして電話をしているかどうかさえ、俺には手を取るようにわかるんだ。 I can easily tell whether you've turned your lights off and whether you're on the phone.`
-`…俺さえ望むなら、あんたの寝顔にキスすることだって出来るんだからな」 ...If I wished to, I could even kiss your sleeping face."`
-`「守ります！"I'll keep it!`
-`　約束は守りますッ！！ I'll keep my promise!!`
-`　だから止めて、もう止めてッ！ So stop it, just stop it!`
-`　止めてぇええええええぇええええ！！」 Stop iiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iittt!!"`
-`……夏妃は時計の下から見つけたカードを、絶叫とともに握り潰してしまう。......As she screamed, Natsuhi crushed the card she had found under the clock into a little ball.`
-`それは、タロットカードのような絵柄が書かれていて、It had a pattern on it like a tarot card,`
-`……漢字で一文字、 along with one single word:`
-`“秋”と書かれていた………。 "Autumn".........`
-`再び、時間は遡る。We go back in time once again.`
-`時間は、今まさにホールの大時計が２４時を告げている真っ最中だ。The large clock in the hall was right in the middle of striking midnight.`
-`食堂の親族たちは、二度繰り返されたノックの主が何者なのか、Wondering who the person who had now knocked twice was,`
-`……扉をじっと凝視した。 ......the relatives in the dining hall stared at the door.`
-`留弗夫が、入れよと声を掛ける。Rudolf told them to come in.`
-`……だが返事はない。 ......But there was no answer.`
-`彼らは、ノックの直後に鳴ったホールの大時計が、Until the end of that long tone marking the coming of midnight, which had come from the large clock in the hall shortly after the knock,`
-`２４時を告げる長い音色が終わるまで、身動きひとつ出来ずにいるのだった……。 they were unable to move in the slightest......`
-`「……手が塞がってて、開けられないんじゃないのか……？」"......Maybe their hands are full and they can't open it......"`
-`「かもな。"Maybe.`
-`……だが、名乗らねぇってのは薄気味悪いな」 ......But it's a little creepy that they won't say their name."`
-`「……開けますか」"......Should I open it?"`
-`「開けなさい」"Do it."`
-`嘉音は頷き返すと、ゆっくり扉を開く……。Kanon nodded back, then slowly opened the door......`
-`「ん、……それは…？！」"Ah, ......what's that...?!"`
-`「……これは、……親父の封筒？」"......It's......one of Dad's envelopes?"`
-`扉を開けてすぐの、廊下の床に、Right behind the opened door, on the floor of the hallway,`
-`……その封筒は置かれていた。 ......lay the envelope.`
-`「廊下には誰もいません。"There's no one in the hallway.`
-`これを置いて、立ち去ったのでしょうか…」 Perhaps they placed this here and left..."`
-`大人たちも廊下に飛び出すが、The adults flew out into the corridor as well,`
-`ノックをしたらしき人影は、気配すらもなかった……。 but they could find no trace of anyone who might have knocked on the door......`
-`小一時間ほど前、紗音と嘉音の二人がお茶の準備のためにやって来た。Barely an hour ago, Shannon and Kanon had come in to serve tea.`
-`その時、そこに何も落ちていなかったことを、一同が確認している。At that time, everyone had seen that nothing lay in that spot.`
-`何者かが来て、ノックし、片翼の鷲の紋章の記された封筒を置いて行ったのだ…。Someone came, knocked, left an envelope with the mark of the One‐winged Eagle on it, and left...`
-`「ま、……まさか、お館様でしょうか……？！」"C‐......could it have been...the Master......?!"`
-`「……考えられない話じゃないわ。"......It's not unthinkable.`
-`……この屋敷で、誰と呼ばれて返事をしないのは、お父様くらいだもの」 ......Father's pretty much the only person in this mansion who would refuse to answer when asked who he was."`
-`「ありえないわ。"That's not possible.`
-`なら、どうしてお父様は堂々と入ってこないの？」 If that's so, then why didn't Father come in here openly?"`
-`「……そやな。"......That's right.`
-`お父さんだったら、ノックなどせず、いきなり入ってくるやろな…。 Father would probably just come in here all of a sudden without knockin'...`
-`今、この屋敷は、戸締りがされとるんやろ…？ The doors and windows of this mansion are locked now, right...?`
-`　なら、ここに手紙を置くことが出来るんは、蔵臼さんか夏妃さん、そして源次さんの誰かしか考えられんで」 In that case, the only people who could've left the letter there are Krauss‐san, Natsuhi‐san, and Genji‐san."`
-`屋敷はこの時点では完全に戸締りされていた。By this point, the mansion had been completely locked up.`
-`よって、ゲストハウスのいとこたちと、南條、郷田、熊沢、そしてヱリカはここに来られない。Therefore, those in the guesthouse—the cousins, Nanjo, Gohda, Kumasawa, and Erika—could not have come here.`
-`そして、蔵臼、夏妃、源次の３人以外の全てがここにいた以上、Furthermore, since Krauss, Natsuhi, and Genji were the only three who weren't in this room,`
-`廊下に手紙を置けたのは、蔵臼たち３人の誰かということになる。 one of those three had to have been the one who set that letter down in the corridor.`
-`となれば、蔵臼たちが、金蔵のメッセージを装って手紙を置いていった可能性が高い…。In that case, it was very likely that Krauss and the others had placed the letter there to make it seem like a message from Kinzo...`
-`「なるほどね…。"I see...`
-`お父様の名を騙って、戦人くんを次期当主に認めないっ、みたいなことが書いてあるのよ。 It'll have something written on it which is supposedly in Father's name, saying that he won't accept Battler‐kun as the next head, or something of the sort.`
-`馬鹿馬鹿しい。 Ridiculous.`
-`兄さんめ、よくもこんな子供騙しを…！」 I can't believe you'd try to pull such a childish trick, Nii‐san...!"`
-`「別に俺は、次期当主なんて興味ねぇぜ…」"It's not like I have any interest in being the next head..."`
-`「諦めろ。"Give up.`
-`それがお前の運命なんだよ。 This is just your fate.`
-`……とにかく、中身を読んでみようじゃねぇか」 ......Anyway, why don't we read what's inside?"`
-`留弗夫はその手紙を食堂のテーブルの上に置くと、Rudolf set the letter on the dining hall table and showed everyone the front and back,`
-`タネも仕掛けもございませんと、まるで手品師のように表と裏を全員に確認させる。 almost like a magician does before performing his act to show that there are no tricks or hidden mechanisms.`
-`「……この封筒は、間違いなくお父様の封筒なの？」"......This envelope is without a doubt Father's?"`
-`「え、…えぇ、間違いないわ。"Y‐...yes, there's no doubt.`
-`お父様が親書に好んで使う封筒よ…。 Father liked to use these envelopes for handwritten letters...`
-`どう、紗音ちゃん？」 What do you think, Shannon‐chan?"`
-`「は、はい……。"Y‐yes......`
-`……私の目にも、……お館様が使われる封筒に見えます…」 ......To my eyes as well, ......it looks like the type of envelope that the Master uses..."`
-`「だからって、お父様が書いたってことにはならないわよ。"That doesn't mean Father was the one who wrote it.`
-`兄さんなら、お父様の書斎の引き出しからひょいと手に入れることなんて、造作もない話だわ…！」 It would be pitifully easy for Nii‐san to snatch one of these from a drawer in Father's study...!"`
-`「蔵臼さまとて、容易に書斎には入れません…。"Even Krauss‐sama cannot easily enter the study...`
-`封筒を盗み出すなど、難しいことかと……」 It might be hard for him to steal an envelope......"`
-`「開けてみようぜ。"Let's try opening it.`
-`それから考えても遅くないはずだ。 We can think about this later.`
-`……何か入ってるな。 ......There's something in it.`
-`何だろうな」 I wonder what."`
-`留弗夫は、少し乱暴に封筒を破く。Rudolf opened the envelope a bit roughly.`
-`すると中から折り畳んだ手紙と、Then, a folded letter...`
-`……きらりと光る物が転がり落ちる。...and a glittering object fell out.`
-`……指輪だった。......It was a ring.`
-`「え？"Huh?`
-`　…………ちょっと、…その指輪……！」 ............Wait a second, ...that ring is......!"`
-`すぐに気付き、絵羽がそれを引っ手繰る…。Eva noticed it immediately and grabbed it...`
-`「こ、"Th‐`
-`……これ、......this is...`
-`……お父様の指輪よ…？！...Father's ring...!`
-`　と、当主の指輪だわ？！」 I‐it's the Head's Ring!!"`
-`「……な、…なんやて…！！"......Wh‐...what in the...!!`
-`　ホンマか？！」 Seriously?!"`
-`「間違いなく、お父様の指輪なの…？"Are you sure it's Father's ring...?`
-`　レプリカということは…？」 Could it be a replica...?"`
-`「いいえ、これは本物よ！"No, this is the real thing!`
-`　私は、いつかこの指輪を自分の指に通してやるとずっと夢見てきたのよ。 I've always dreamed about wearing this ring on my finger someday.`
-`お父様が指にしてた時から、私は誰よりもこの指輪のことをよく知ってるわ。 Even though Father wore this on his finger, I know more about it than anyone else.`
-`……これはお父様の指輪よ、間違いなく！ ......This is Father's ring, no doubt about it!`
-`　どうしてここに？！」 Why is it here?!"`
-`「じゃあ、やっぱりこの手紙はお父様が…？！」"Then it really {i:was} Father who wrote this letter...?!"`
-`「……へ、へっへへへへ。"......Heh, heheheheh.`
-`こりゃ、差出人は親父じゃねぇぞ。 The sender isn't Dad.`
-`…もっと面白ぇ」 ...It's someone much more interesting."`
-`「じゃあ、……誰からの手紙だってんだ」"Then, ......who is the letter from?"`
-`「右代宮家顧問錬金術師！"It's from the Ushiromiya family alchemist!`
-`　………黄金の魔女、ベアトリーチェさまからだぜ……？！」 .........The Golden Witch, {f:5:Beatrice}‐sama......!!"`
-`留弗夫は、手紙の、そう書かれた部分を全員に見せる。Rudolf showed everyone the part of the letter where that was written.`
-`{n}確かに、そこにはそう書かれていた……。{n}It really did say that......`
-`「ベ、……ベアトリーチェから……？！」"I‐......it's from {f:5:Beatrice}......?!"`
-`「何て書いてあるの……？」"What's it say......?"`
-`「読むぞ。"I'll read it.`
-`………コングラッチュレイションズ…。 .........<Congratulations>...`
-`戦人さまが碑文の謎を見事に解かれ、黄金郷に辿り着きましたことを認めます。 I acknowledge that Battler‐sama has spectacularly solved the riddle of the epitaph and reached the Golden Land.`
-`………黄金は全て、戦人さまのものです。 .........The gold belongs to him in its entirety.`
-`そして、右代宮家の新しき当主も戦人さまです。 Furthermore, he is also the new head of the Ushiromiya family.`
-`……その証として、…………金蔵さまよりお預かりしている…、当主の指輪をお送りします…。 ......As proof, ............I send the Head's Ring, which Kinzo‐sama left in my charge...`
-`……どうぞ戦人さま、指輪をされて、新しい黄金の主となり、どうか右代宮家をお導き下さい。 ......Battler‐sama, I beg that you put on this ring, become the new master of the gold, and lead the Ushiromiya family into the future.`
-`……新しき当主のご活躍を、心よりお祈りいたしております…………」 ......I pray with utmost sincerity that you flourish as the new head............"`
-`「……は、……はは！"......Hah, ......hahah!`
-`　何てこった…！ What the hell...!`
-`　親父が書斎から出て来ねぇもんだから、森の魔女ベアトリーチェが直接、戦人を認めてくれたわけだ…！ I see, Dad just won't come out of his study, so {f:5:Beatrice}, the witch of the forest, has acknowledged Battler directly...!`
-`　ははは、はっはははははははは！」 Hahaha, haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!"`
-`「……戦人くん。"......Battler‐kun.`
-`この指輪はあなたが持つのよ。 You should hold onto this ring.`
-`……これは、当主が身に付けるべき、特別な指輪。 ......This is a special ring to be worn by the family head.`
-`………ベアトリーチェが何者か知らないけれど、 .........I don't know who this {f:5:Beatrice} is,`
-`彼女は一部始終を見届け、あなたが真の跡継ぎだと認めてこの指輪を送ったのよ」 but she's watched the whole thing and sent you this ring after acknowledging you as the true successor."`
-`「い、……いいんすか…。"I‐......is that alright...?`
-`こんな重要な指輪を……」 It's such an important ring......"`
-`「あぁ、いいんだ。"Yeah, it's fine.`
-`誇らしげに指にはめるといい。 You should wear it proudly on your finger.`
-`……いいか、兄貴や夏妃さんが外せと言っても、絶対に外すんじゃねぇぞ…！」 ......Got it? Even if Aniki and Natsuhi‐san tell you to take it off, you better not do it no matter what...!"`
-`戦人は親戚たち一同に、薄気味悪い笑みで、その指輪に指を通すよう勧められる…。With creepy smiles on their faces, all of the relatives urged Battler to put the ring on his finger...`
-`断ると色々と荒れそうだったので、戦人は渋々と、それを左手の中指にすることにする……。It looked like things would get pretty nasty if he refused, so Battler reluctantly decided to put it on the middle finger of his left hand......`
-`重く、ごつごつした指輪だった……。The ring was heavy and stiff......`
-`そこへ、蔵臼が戻ってくる。At that moment, Krauss returned.`
-`……すぐに源次も戻ってきた。......Genji came back as well immediately afterwards.`
-`「申し訳ないね。"My apologies.`
-`妻は具合が悪そうだったので、先に休ませてもらった。 It looks like my wife isn't feeling so well, so she's gone to bed early.`
-`…………何かあったのかね？ ............Did something happen?`
-`　何だか諸君がひどく慌しいようだ」 You all seem incredibly flustered."`
-`「………………戦人さま、……それは………」"..................Battler‐sama, ......that........."`
-`指に通したばかりの戦人のそれに、源次はすぐに敏感に気付く…。Immediately, Genji keenly spotted the thing that Battler had just put on his finger...`
-`「さすが源次さんや、お目が高い！"Your eyesight's pretty good, Genji‐san!`
-`　……これが誰の指輪か、わかるようやな」 ......Looks like you know whose ring this is."`
-`「何…？"What...?`
-`　何の話だね……？」 What are you talking about......?"`
-`蔵臼の怪訝そうな顔からは、とても彼が手紙を置いた本人と思えない……。From Krauss's questioning look, it was very difficult to imagine that he could have been the one who set that letter there......`
-`そして、その表情はすぐに、驚愕のものに変わることになる。Furthermore, his expression quickly changed into one of shock.`
-`「うっふっふっふ！！"Eheheheheh!!`
-`　そうよ、右代宮家当主の指輪よ！！」 That's right, it's the ring of the Ushiromiya family head!!"`
-`親族会議は新たな議題を迎え……、The family conference took up this new topic,`
-`再び嵐を迎えるのだった………。 ......and the storm came once again.........`
-`相変わらずの大雨は変わらない。The rain was still pouring down as hard as ever.`
-`……この天気が、明日も丸一日ずっと続くというのだから、気分も落ち込むというものだった。......This weather was supposed to continue all day tomorrow as well, which was making me feel a bit depressed.`
-`……おっと、もう、時間的には明日じゃなくて今日か…。......Oh wait...given the time, that's today, not tomorrow...`
-`{n}だが、今はそんなことはどうでもいい。{n}But that doesn't really matter now.`
-`………眠い…。.........I'm sleepy...`
-`俺は寝ぼけ眼で、傘を開く。With half‐asleep eyes, I opened my umbrella.`
-`{n}大粒の激しい雨が、容赦なく傘を打ち鳴らした……。{n}The large drops of rain pounded against it mercilessly.........`
-`親族会議は、午前１時頃に一応は終了が宣言されたが、Technically, they had called an end to the family conference at {nobr:1 a.m.},`
-`まだぐだぐだと場外乱闘が続いている。 but the post‐match scuffles were still dragging on.`
-`その時に、するりと抜け出せた楼座叔母さんが本当に羨ましい。I was really jealous of Auntie Rosa, who managed to slip out of there at that time.`
-`真里亞が夜更かししてるかもしれない、見てくると言って、うまいこと抜け出したのだ。She cleverly got away by saying that she'd check on Maria, who might have been staying up too late.`
-`俺は、親父に絡まれて引き際を逃し、……午前３時……、Thanks to Dad constantly involving me, I missed my chance to escape,`
-`この時間まで付き合わされてしまった…。 ...and they made me stick around until now, ......{nobr:3 a.m.}...`
-`あれだけの長い時間を掛けて、彼らは何を決めたんだろう…？What on Earth did they spend all that time deciding...?`
-`何も決まりはしない。Nothing got decided at all.`
-`……ただ延々と、言った言わないと、小学生並みの争いが繰り返されていただけだ。......They just kept on arguing about who said what, like elementary school kids.`
-`……連中だってきっと、もう眠いのだ。......They must be tired too.`
-`だから延々、ぐだぐだと下らない問答が繰り返されてるに違いない。I'm sure that's why they keep dragging on with the same pointless questions.`
-`親たちに対する呆れや怒りは、もう何も感じない。I no longer felt any shock or anger towards them.`
-`{n}眠さに勝る鎮静剤は、きっと、存在しないに違いないな…。{n}I guess no painkiller works better than drowsiness...`
-`……俺は親たちを残し、今度こそゲストハウスへ戻るのだった。......I left them behind and finally returned to the guesthouse.`
-`ゲストハウスに戻ると、１階のラウンジが明るい。When I returned to the guesthouse, the lights were on in the lounge downstairs.`
-`それどころか、談笑さえ聞こえてくる……。Not only that, I could even hear people chatting inside......`
-`{n}こんな時間まで、まだ起きてる連中がいるらしい。{n}Apparently, some people were still awake even at this time of night.`
-`何と、こんな深夜にもかかわらず、郷田さんと南條先生はまだ起きていて談笑していた。Despite the late hour, Gohda‐san and Doctor Nanjo were still awake and chatting.`
-`カウンターにはお皿やコップが並び、Plates and cups were lined up on the counter,`
-`さながら、郷田さんがバーテンダーを勤める飲み屋のようだ。 and it looked almost like a bar with Gohda‐san as the bartender.`
-`俺が戻ってきたのに気付くと、ようやく今が何時かを自覚したようだった。After noticing I'd come back, it looked as though Doctor Nanjo finally realized how late it was.`
-`お酒を注ぎ足してくる郷田さんに、南條先生は大仰な仕草でそれを断っている。As Gohda‐san made to top off his glass, he declined with an exaggerated gesture.`
-`「もう結構、もう結構です。"No, that's enough, that's enough.`
-`……この時間では夜更かしのし過ぎだ」 ......It's already too late to be up."`
-`「もうこんな時間とは…。"Look how late it's gotten...`
-`南條先生があまりにお話がお上手なもので、ついつい」 You were such a good person to chat with, I hardly noticed."`
-`「それを言ったら、あんたの酒の肴のお陰だ。"No, no, it was your skill at entertaining that made the difference.`
-`また、別の機会に一杯やりましょう」 We'll have to do this again sometime."`
-`「えぇ、喜んで！"Yes, gladly!`
-`　戦人さま、お帰りなさいませ。 Battler‐sama, welcome back.`
-`まだ、旦那様方の会議は続いておりますか？」 Is the discussion with Krauss‐sama and the others still continuing?"`
-`「……あの調子で、ぐだぐだと明け方までやるんだろーぜ。"......The way things were going, they'll probably drag it all the way out until dawn.`
-`知ったことじゃねぇぜ…」 None of my business..."`
-`大あくびをしながら、投げやりに言ってやる。I spoke carelessly, with a big yawn.`
-`「………皆さん、案外、体力がおありですね。".........You all have more stamina than I expected.`
-`びっくりです」 It's quite a surprise."`
-`「何だ、……お前までいたのか…」"Oh, ......so you're here too..."`
-`「……何となく流れで、こちらでささやかな夜会が始まったもので。"......Yes, a humble little night gathering had begun to form quite naturally here,`
-`交ぜてもらっていました。 so I took it upon myself to join.`
-`………例のことは、話してませんのでご安心を」 .........Don't worry, I haven't said a word about you‐know‐what."`
-`「………………………」"..........................."`
-`ヱリカの姿はソファーにあった。Erika could be seen on the sofa.`
-`靴まで脱いで、すっかり我が家のようにくつろぎきっている。She had taken her shoes off and was lounging around as though she owned the place.`
-`「ヱリカさまも、本当に色々なお話をご存知で。"And you too, Erika‐sama—you are very knowledgeable on a variety of subjects.`
-`とても楽しく聞かせていただきました」 I enjoyed listening to you immensely."`
-`「あんたは本当に博識だ。"Your knowledge truly is extensive.`
-`若いのに大したもんだよ…」 Very impressive for one so young..."`
-`「………どういたしまして。".........You're very welcome.`
-`古戸ヱリカは、この程度には博識ですので」 It's merely the trivial knowledge of Furudo Erika."`
-`ヱリカは、スカートの裾を摘み上げるみたいなポーズをして見せる。Erika posed by picking up the hem of her skirt.`
-`もっとも、ソファーに足を投げ出してくつろぎきってるので、優雅さは微塵もないが。She was lounging on the sofa with her feet up, so it didn't look remotely elegant.`
-`「……楼座叔母さんは？」"......Where's Auntie Rosa?"`
-`「午前の１時頃にお戻りになりましたが、すぐに上がられ、お休みになられました」"She returned around 1 a.m., but she went straight upstairs to sleep."`
-`それが正しいだろうな…。That was probably the right choice...`
-`{n}あんな会議にずっと付き合ってたのだ。{n}She'd been going along with that conference for so long.`
-`俺だって、今すぐベッドに倒れ込みたい気持ちなのだから。 I feel like flopping down in bed right away myself.`
-`……駄目だ。......I've had it.`
-`{n}今すぐ、ここで倒れ込みたいくらいに眠い…。{n}I'm tired enough that I might flop over right here...`
-`「………さぁ、私たちもこれくらいにしましょう。".........Well then, let's call it a night.`
-`郷田さんも、明日の朝食の準備で、朝が早いのでしょう？」 Don't you have to get up early tomorrow morning to make breakfast, Gohda‐san?"`
-`「朝食の仕込みはすでに済んでおります。"Preparations for breakfast have already been made.`
-`どうぞ明日の朝食も、大いにご期待いただければ幸いです」 As always, I have full confidence that you will enjoy it greatly, so please look forward to it."`
-`郷田さんにとって、親族会議は自分の料理の腕の独壇場だ。In Gohda‐san's eyes, the family conference is an open stage on which to display his culinary skills.`
-`{n}気力が充実して、眠くさえもならないのだろう。{n}He's probably so pumped up he won't even get sleepy.`
-`ヱリカは、それを若々しいと笑いながら立ち上がる。As she laughed at how youthful Gohda was, Erika stood up.`
-`{n}その起立が、解散の合図となった。{n}This acted as the sign that it was time to disperse.`
-`「お片付けは私の方でしておきます。"I will clean up here.`
-`どうぞ皆様はお休みを」 Please enjoy your sleep, everyone."`
-`片付けを郷田さんに任せ、俺もトイレに行ってから２階に上がる。Leaving the clean‐up to Gohda‐san, I went to the bathroom and then climbed the stairs to the second floor.`
-`「それでは皆さん、お休みなさい。"Goodnight, everyone.`
-`老骨には、ちと夜更かしが過ぎましたな」 These old bones have stayed up a little too late."`
-`「………お休みなさい、南條先生。".........Good night, Doctor Nanjo.`
-`お休みなさい、戦人さん」 Good night, Battler‐san."`
-`「おう。"Yeah.`
-`………お休み…」 .........Night..."`
-`そして２階の廊下で、俺たちは解散する。Then, in the upstairs hallway, we split up.`
-`南條先生は南條先生の部屋へ。Doctor Nanjo went to his own room.`
-`ヱリカはヱリカの部屋へ。Erika went to her room.`
-`そして俺は、いとこ部屋へ帰る。And I returned to the cousins' room.`
-`いとこ部屋からは、はしゃぐような声は聞こえない。I couldn't hear any sounds of playing coming from the cousins' room.`
-`……ひょっとして、もう眠ってしまったか？......Could they have already gone to sleep?`
-`{n}無理もない、この時間だ。{n}No surprise, at this time of night.`
-`{n}まだ遊んでたら、さすがに夜更かしが過ぎる…。{n}If they were still playing, they would have been staying up way too late...`
-`そろりと扉を開くと、When I opened the door quietly,`
-`案の定、もう真っ暗で豆電球になっていた。 as expected, the room was already pitch black except for a small nightlight.`
-`みんなベッドの中でとっくに眠っている。Everyone was already sleeping in their beds.`
-`さぞやみんな、楽しく遊んではしゃいだんだろうな。I bet they all had a great time horsing around.`
-`……そして、青春を語り合って、夜更かしを楽しんだだろうよ。......They probably had a ton of fun staying up late and talking about their youth.`
-`……俺も黄金さえ見つけなければ、それに交じって、楽しく過ごせていたのに…。......If only I hadn't found the gold, I could have had fun spending time with them...`
-`もう、I'm already...`
-`眠くて、tired...`
-`……眠くて。...so tired.`
-`着替えることも歯を磨くことも忘れ、Forgetting even to change my clothes or brush my teeth,`
-`俺はベッドにのっそりと潜り込み、 I crawled into bed,`
-`………そのまま眠りの沼に沈んでいく………。 .........and immediately started to sink into the marshes of sleep.........`
-`あぁ、……何て今日はめちゃくちゃな一日だったんだ……。Aaah, ......today's been so insane......`
-`クソ親父たちは、今もまだ親族会議を続けてやがるのだろうか……。I wonder if that old bastard is still in that family conference now......`
-`……よく眠くならないもんだぜ…………。......How does he not get tired............?`
-`そう言えば、クソ親父め……、Come to think of it......`
-`……別れ際に何か言ってなかったっけ……。......what was it that old bastard said when we parted company......?`
-`“明日、家族で、重要な話がしたい。— Tomorrow, there's something important I want to talk about, as a family.`
-`お前にかかわることだ。” It's about you.`
-`……どうせ次期当主が云々って話だろうよ。......I'm sure it's more stuff about being the successor.`
-`{n}…そんな話、聞きたくもねぇ……。{n}...I don't even want to hear about it......`
-`“こいつを話せば、— If I tell you about this,`
-`……俺は殺されるだろうな。” ......I'm probably gonna get murdered.`
-`いつだって殺してやるぜ、クソ親父め……。I'll murder you whenever you want, you old bastard......`
-`それから、……何だって言ったんだっけな……。And then, ......what was it he said next......?`
-`“お前の、生まれについての話だ。”— It's about your birth.`
-`俺の、My...`
-`…………生まれ……？............birth......?`
-`……やんごとなき右代宮の血筋が云々って話だろ……。......Probably just something about the noble Ushiromiya lineage......`
-`興味ねぇよ……。Not interested......`
-`………眠らせて.........Just let me`
-`……くれ………。......sleep.........`
+`{ruby:......Battler did nothing but gaze lazily out the window.:……戦人は、ぼんやりと窓の外を見ているだけだった。}`
+`{ruby:The fighting between the relatives continued without end......:親族たちの罵り合いは、いつ果てるともなく続いている……。}`
+`{ruby:At first, the relatives had crowded around the study.:最初、親族たちは書斎へ押し掛けた。}`
+`{ruby:However, no matter how much they knocked, the master of the study did not answer even once.:しかし、いくらノックしても、書斎の主が応えてくれることはなかった。}`
+`{ruby:Eva and several others said that they should open the door with the second key, the one Genji held.:絵羽たちは、源次が持つもう１つの鍵で扉を開けるべきだと主張した。}`
+`{ruby:However, in a flash of brilliance, Natsuhi said that Kinzo had been in a particularly bad mood and had taken back the key he'd previously given Genji,:だが、夏妃は咄嗟の機転で、最近の金蔵は特に機嫌が悪く、}`
+`{ruby:meaning that he now had both keys himself.:源次に持たせていた鍵も取り上げてしまい、今は２本とも、鍵を金蔵自らが持っている、}`
+`{ruby:She claimed that it was therefore impossible for them to open the door.:だから扉を開くことが出来ないと言い訳する。}`
+`{ruby:After she promised to let them meet Kinzo tomorrow morning no matter what, they finally returned to the dining hall.:明日の朝、必ず金蔵に会わせるからと約束し、ようやく食堂に戻ってきたのだ。}`
+`{ruby:But, of course, the argument continued on even after they returned there.:だがもちろん、食堂に戻ってきてからも、罵り合いは収まらない。}`
+`{ruby:Eva's group wanted a lot of cash very soon, and they were trying to threaten Krauss somehow and make him pay up.:絵羽たちは大量の現金がすぐ欲しく、何とか蔵臼を脅迫して、それを支払わせようとしている。}`
+`{ruby:......Apparently, Battler's solving of the epitaph, which threatened Krauss's position as the next head,:……戦人が碑文を解いたことにより、}`
+`{ruby:had given the others a huge tailwind.:蔵臼の次期当主の座を脅かしているのも、大きな追い風のようだった。}`
+`{ruby:On the other side, Krauss and Natsuhi denied the very basis of their argument,:一方の蔵臼と夏妃は、そもそも、碑文の謎を解いた人物に、}`
+`{ruby:claiming that it had never been specified that ownership of the gold would be handed over to the person who solved the epitaph.:黄金の所有権が渡るという記述はどこにもないと、話の根底から反論。}`
+`{ruby:They asserted that it hadn't been hidden gold, but just Kinzo's stockpile,:あれは隠された黄金ではなく、金蔵が貯蔵したものに過ぎず、}`
+`{ruby:and it was still Kinzo's property, which meant it was only natural for it to be distributed after Kinzo's death with the rest of the inheritance.:今なお、金蔵の所有物であって、その分配は金蔵の死後の遺産分配まで待つのが筋であると主張した。}`
+`{ruby:After hearing this, Eva's group once again started demanding that they be allowed to see Kinzo.:こう主張すれば、絵羽たちは再び、ならお父様を出せ出せという論法になる。}`
+`{ruby:......It had probably been clear as day from the beginning.:……最初からわかりきっていることだろう。}`
+`{ruby:{n}This sibling fight could only be settled by Kinzo...:{n}この兄弟喧嘩は、金蔵にしか収められないのだ…。}`
+`{ruby:It was obvious that this confrontation was between Eva's group, which wanted cash fast,:すぐに現金が欲しい絵羽たちと、}`
+`{ruby:and Krauss, who was hiding his lack of funds but still didn't need money right away.:金欠を隠しているが、それでも急ぎの現金を必要としない蔵臼の対決の構図が、鮮明に表れている。}`
+`{ruby:As Battler listened vaguely to this exchange,:戦人はそのやり取りをぼんやりと聞きながら、}`
+`{ruby:......he marveled at how, despite their usual affluent airs, they were all surprisingly deep in debt...:……普段は金持ちぶってるくせに、みんな案外、借金塗れなんだなと心の中で呆れるのだった…。}`
+`{ruby:"Didn't you already say that a short while ago?:「それもさっき聞いた話ではないかね。}`
+`{ruby:That's enough, let's take a break.:もういい、休止しよう。}`
+`{ruby:We're all repeating the same things over and over again.":お互い、一度した話を延々と繰り返しているだけだ」}`
+`{ruby:According to the clock, it was almost midnight.:時計を見上げると、もうじき２４時になるというところだった。}`
+`{ruby:It certainly was a perfect time for a break.:確かに、それはちょうどいい、休憩のタイミングに違いない。}`
+`{ruby:The atmosphere relaxed just a bit...:わずかだけ、場の空気が緩んだ…。}`
+`{ruby:"I agree.:「同感や。}`
+`{ruby:It'd do both sides some good to take a breather.:お互い、一服するのも悪くないで。}`
+`{ruby:...Listen, why don't we take a record down for the rest.:…ほな、以後は議事を取りながらにせんか。}`
+`{ruby:I've had enough of fighting over what was or wasn't said.":言った言わないはもうゴメンや」}`
+`{ruby:"Seriously.:「まったくだわ。}`
+`{ruby:We really can't do without a record of proceedings, not when Nii‐san can so easily deny something he's said before the words stop bouncing off the walls.":舌の根も乾かないうちに、そんなことは言ってないなんて、平気で言い出す兄さんとの会議に、議事録は必須だものねぇ」}`
+`{ruby:"With a written record, just writing it would be a pain, and it'd be open to forgery.":「文字じゃ、書くのも手間だし、インチキだっていくらでも出来るわ」}`
+`{ruby:"Right.:「そうだな。}`
+`{ruby:......Aniki, does this thing work?":……兄貴、こいつは動くのか？」}`
+`{ruby:"The tape set?:「オーディオセットかね。}`
+`{ruby:...I see.:…なるほど。}`
+`{ruby:This way, we can keep a record without bothering to write it down, and forgery will be impossible.:それならば議事を手書きせずに済むし、捏造も出来んね。}`
+`{ruby:It's fair for both sides.":互いにとって公平だ」}`
+`{ruby:"Make sure you don't mess anything up...!:「勝手にいじらないように…！}`
+`{ruby:Those are Father's precious music tapes!":当主様の大切な音楽テープですよ！」}`
+`{ruby:The dignified tape set had a sense of weight to it which matched this majestic dining hall perfectly.:その貫禄あるオーディオセットは、この威厳ある食堂にとても相応しい重厚さを持っていた。}`
+`{ruby:On pleasant Sunday mornings, it would sometimes be used to play famous tapes or records.:機嫌のいい日曜日の朝食には、それで名曲のテープやレコードを流すこともある。}`
+`{ruby:However, right now, it was the most neutral and impartial conference record keeper around...:しかし今は、この議事の記録係として、もっとも中立で公平な存在だった…。}`
+`{ruby:Rudolf fished randomly around the cassette rack, searching for a blank tape.:留弗夫は適当にカセットラックを漁り、生テープを探す。}`
+`{ruby:And every time he found some tape with "sophisticated" music, he would chuckle at how pompous it was.:そして、高尚な音楽テープを見つけては、キザったらしいとケチをつけるのだった。}`
+`{ruby:"Excuse me.:「失礼します。}`
+`{ruby:......You called?":……お呼びでしょうか」}`
+`{ruby:"We're taking a break.:「休憩することになったの。}`
+`{ruby:Sorry, but could you make us something to drink?:申し訳ないんだけど、何か飲み物を用意してもらえないかしら。}`
+`{ruby:And maybe some biscuits would be nice too.":ビスケットみたいなものがあってもいいかもね」}`
+`{ruby:"Certainly.:「かしこまりました。}`
+`{ruby:I will prepare it right away......":すぐにご用意いたします……」}`
+`{ruby:"Also, ......sorry.:「あと、……ごめんなさい。}`
+`{ruby:Do you have any cold medicine?:風邪薬あるかしら。}`
+`{ruby:I've been feeling a bit feverish.":さっきから熱っぽくて」}`
+`{ruby:"Then don't overstrain yourself.:「なら無理はよくないな。}`
+`{ruby:Get some sleep.":休みたまえ」}`
+`{ruby:"If you really feel like it, why not get some sleep, Rosa?:「楼座がいいと思うなら、好きに休めばぁ？}`
+`{ruby:Though I wouldn't step out of such an important conference because of a simple cold.":私ならこの大事な会議中に風邪くらいじゃ休まないけどね」}`
+`{ruby:"Really?:「そうかね？}`
+`{ruby:I would excuse myself without hesitation.:私は遠慮なく休ませてもらうよ。}`
+`{ruby:Natsuhi, why don't we take a short rest too?":夏妃、私たちも少し休まないかね」}`
+`{ruby:"............Yes, dear.":「…………はい、あなた」}`
+`{ruby:Sensing that he meant to have a strategy meeting, Natsuhi stood up.:夏妃は、作戦会議があるに違いないと敏感に察し、立ち上がる。}`
+`{ruby:......Even if that wasn't the case, she was so desperate to get out of the room even for a moment that she'd have taken any excuse.:……そうでないにしても、わずかの時間でも、ここの空気を吸わずに済むなら、理由は何でもよかった。}`
+`{ruby:Krauss and Natsuhi left the dining hall, ......and the tension in the room truly relaxed.:蔵臼と夏妃は食堂を出て、……場の空気は、本当の意味で弛緩するのだった。}`
+`{ruby:"............Phew.":「…………ふぅ」}`
+`{ruby:"You've been doing great, Battler‐kun.:「戦人くんもお疲れ様。}`
+`{ruby:......I imagine you feel just horrible.:……サイアクの気分でしょ。}`
+`{ruby:Think of this as part of growing up and just accept it.":大人の階段だと思って諦めて」}`
+`{ruby:"Just how long am I going to have to sit around doing nothing here?":「俺は、いつまでここでぼさーっとしてりゃいいんすかね」}`
+`{ruby:"......Who knows.:「……さぁ。}`
+`{ruby:After all, you're like our personal donation box.:戦人くんは私たちのお神輿だからね。}`
+`{ruby:......Sleepy?":……眠い？」}`
+`{ruby:"About the same as Japanese Lit class.":「古典の授業程度には」}`
+`{ruby:"I'm pretty sure Father won't show up tonight anyway.:「今夜はどうせお父さんは現れないでしょう。}`
+`{ruby:When Krauss nii‐san and the rest come back, I'll propose that we might as well let you go.":蔵臼兄さんたちが戻ってきたら、戦人くんはもう戻っていいかと提案してみるわ」}`
+`{ruby:"......I'd appreciate that.":「……よろしく頼んます」}`
+`{ruby:Tap‐tap.:コンコン。}`
+`{ruby:A light knock and the faint sound of china clinking together could be heard.:軽いノックと、かちゃかちゃと陶器がぶつかりあう軽やかな音が聞こえる。}`
+`{ruby:"Excuse us......":「失礼します……」}`
+`{ruby:"We have brought tea.":「お茶をお持ちいたしました」}`
+`{ruby:Shannon and Kanon had come by with a serving cart.:紗音と嘉音の二人が配膳台車と共に訪れる。}`
+`{ruby:The pleasant smell of black tea relieved their tension all the more.:紅茶の良い香りが、一層、彼らの緊張を解きほぐしてくれるのだった。}`
+`{ruby:"......Hey.:「……よう。}`
+`{ruby:Did you hear?":話は聞いてるか？」}`
+`{ruby:"What are you talking about......?":「何のお話でしょうか……？」}`
+`{ruby:"............We didn't hear anything.":「…………僕たちは、何も」}`
+`{ruby:"Stop it, Rudolf.:「よしなさい、留弗夫。}`
+`{ruby:There's no reason to tell them.":教える必要は何もないわ」}`
+`{ruby:"......We are furniture,:「……僕たちは、家具ですから。}`
+`{ruby:so we have no interest in the family conference.":親族会議のお話には、関心ありません」}`
+`{ruby:"I see.:「そうね。}`
+`{ruby:That's a wise answer.":それが賢い返事だわ」}`
+`{ruby:"......You have the midnight shift?:「……深夜勤なの？}`
+`{ruby:That must be tough.":大変ね」}`
+`{ruby:"That is our job.:「そういうお役目ですので。}`
+`{ruby:......We would be happy to receive your orders.":……ご用命いただけて嬉しいです」}`
+`{ruby:"You could be right there.:「そうかもしれんな。}`
+`{ruby:It'd probably be even more tiresome to sit around awake doing nothing.:することもなく、ぼんやり起きてる方がしんどいもんや。}`
+`{ruby:When I was still down in the bottom rungs, I once worked as a warehouse keeper.:わしも下積み時代に、倉庫番とかやったことあるんやけどな。}`
+`{ruby:Even if you're just staying awake, it's still pretty tough...!:ただ起きてるだけでも、これがとにかく辛いんや…！}`
+`{ruby:Right after the war, you had robbers all over the place.:戦争直後はな、物資泥棒とかぞろぞろおってな。}`
+`{ruby:Plus you couldn't rely on the police back then, so it was a pretty dangerous time...!":警察も頼れん時代で、とにかく物騒でなぁ…！」}`
+`{ruby:Hideyoshi was particularly proud of how he had started with nothing and built up assets by diverting goods from the American army.:秀吉の、裸一貫から、米軍の横流し物資で財を築き上げたのは、彼の誇らしい武勇伝だ。}`
+`{ruby:Once the subject came up, Hideyoshi tended to get pretty talkative.:この話が始まると、とにかく秀吉は饒舌になる。}`
+`{ruby:The relatives knew this and were greatly relieved to see that a perfect sacrifice had come up.:それを知る親族たちは、ちょうどいい生贄が来てくれたと、胸を撫で下ろすのだった。}`
+`{ruby:"If you got found out, you were in for it big time!:「バレたら一大事や！}`
+`{ruby:Those Yanks are scary!:アメさんは怖いでぇ！}`
+`{ruby:Their strength's in another league 'cause of all that beef they eat.:牛肉食っとるからパワーも桁違いや。}`
+`{ruby:Get caught and that'd be the end of ya! Firin' squad or <death by hanging>!":捕まったら最後、銃殺刑かデスバイハンギングや！」}`
+`{ruby:"You know that one? <Death by hanging>!:「わかるか？　デスバイハンギング！}`
+`{ruby:Oh yeah, and then, I figured it out.:あー、それでな、わしは思うたんや。}`
+`{ruby:It's all about the meat! The meat!:肉や！　肉や！}`
+`{ruby:Japanese people've gotta eat more meat!:日本人はもっと肉を食わなあかん！}`
+`{ruby:And that's when I had the revelation—I had to start up a business to capture people's stomachs!":そしてわしは胃袋を掴む商売を始めなあかんという天啓を受けたんや！」}`
+`{ruby:"I, ...I see...:「は、…はぁ…。}`
+`{ruby:That m‐must have been quite a difficult task......":それは、た、大変なお仕事ですね……」}`
+`{ruby:"Stop it, darling.:「よしなさいよ、あなた。}`
+`{ruby:No matter how much you tell people born after the war, they'll never understand how hard it was back then.":戦後生まれにいくら話しても、当時の苦労なんか伝わらないわよ」}`
+`{ruby:"Oops, looks like my bad habit's jumped out again...!:「ん、またわしの悪い癖が出てしもうたな…！}`
+`{ruby:Sorry, sorry!:すまんすまん！}`
+`{ruby:Waha{0}ha{0}ha{0}haha!":わはははははは！」}`
+`{ruby:"You two should have some tea as well.:「あなたたちもお茶をしていきなさいよ。}`
+`{ruby:I think it might help you if once in a while you used your own mouths to learn more about the tea you're brewing.":たまには、自分たちがどういう紅茶を淹れてるか、その舌で学ぶのもいい勉強になると思うわ」}`
+`{ruby:".........No, we'll be fine.:「………いえ、結構です。}`
+`{ruby:There's no need to be concerned for our sakes...":お気遣いなく…」}`
+`{ruby:"Hang out with us for a bit.:「少し付き合ってくれよ。}`
+`{ruby:Being surrounded by only adults makes me feel like I'm gonna suffocate.":大人ばかりで俺も窒息しそうなんだ」}`
+`{ruby:"Hear that? That's an order from Battler‐sama, successor to the head!:「そら、次期当主の戦人さまのご命令だぞ！}`
+`{ruby:Sit over there and have some tea with us.:そこに座って、俺たちとしばらくお茶しろぃ。}`
+`{ruby:And tell us about what's been going on recently, your hobbies, TV shows you're watching, and whatever it is that's popular with young folks these days.:それで、最近の出来事とか趣味とか、見てるテレビとか若者の今の流行りとか、そういう話をしやがれぃ。}`
+`{ruby:There's a lot we could learn.":俺たちの勉強になるからな」}`
+`{ruby:"*giggle*.:「くす。}`
+`{ruby:That's a brilliant idea.:名案ね。}`
+`{ruby:Come on, sit down, both of you.:ほら、二人とも座って。}`
+`{ruby:And become our sacrifices now that we're starved of things to talk about.":そして、話題に飢えた私たちの生贄になってちょうだい」}`
+`{ruby:"Wahahahahahaha.:「わっはははははは。}`
+`{ruby:That's right.:そやなぁ。}`
+`{ruby:The only way I'm gettin' to talk to young folk at this age is goin' to a cabaret club.":若い子と話をしよう思うたら、キャバクラでもいかんとこの歳では難しいわ」}`
+`{ruby:"......How long are you planning on standing around there?:「……いつまでぼさっと突っ立ってんのよ。}`
+`{ruby:Rudolf told you to sit.:留弗夫が座れと命令したわ。}`
+`{ruby:Go on, sit down.:座りなさいよ。}`
+`{ruby:......I give you permission as well.":……私も許可してあげるわ」}`
+`{ruby:After getting Eva's permission, Shannon and Kanon looked at each other and finally obeyed, nervously.:絵羽の許可が出て、紗音と嘉音は顔を見合わせた後、ようやく、おずおずとその命令に従う。}`
+`{ruby:For a while, the two were pounded by questions and became the relatives' playthings......:しばらくの間、二人は質問攻めに遭い、親族たちのいい玩具にされるのだった……。}`
+`{ruby:Tap‐tap.:その時、コンコン…、}`
+`{ruby:Another reserved knock could be heard.:……と控えめなノックが聞こえた。}`
+`{ruby:All of the servants tended to knock in a similar manner,:使用人たちは誰だって、そんな風にノックするのだから、}`
+`{ruby:so no one noticed anything strange.:誰も違和感は覚えはしない。}`
+`{ruby:However, Shannon and Kanon turned around with surprised looks on their faces.:しかし紗音と嘉音は、きょとんとした顔をして振り返る。}`
+`{ruby:......The servants here today included the two of them, Genji, Kumasawa, and Gohda.:……今日の使用人は、自分たちと源次と、熊沢と郷田。}`
+`{ruby:Gohda had the midnight shift at the guesthouse.:郷田はゲストハウスの深夜勤。}`
+`{ruby:{n}Kumasawa had gone to bed in the servants' quarters in the guesthouse.:{n}熊沢はゲストハウスの控え室で就寝している。}`
+`{ruby:And they were in here, ......so Genji was the only person left,:自分たちはここにいて、……あとは源次しかいないのだが、}`
+`{ruby:...but they knew very well that Genji wouldn't knock like that......:…源次がこんなノックの仕方をしないことを、彼らはよく知っていた……。}`
+`{ruby:"......Who is it?:「……誰だ？}`
+`{ruby:It's not locked. Just come in.":開いてるぜ。勝手に入れよ」}`
+`{ruby:Rudolf didn't recognize the knock either.:留弗夫も、そのノックに心当たりがなかった。}`
+`{ruby:And when he asked "Who is it?", everyone came to the same realization that they too had no idea who would knock like that......:誰だ？　という彼の言葉で、誰もがそんなノックをする人物に心当たりがないことに気付く……。}`
+`{ruby:After that, the same knock repeated just once more.:するともう一度だけ、コンコン、と同じノックが繰り返された。}`
+`{ruby:......Could it be that someone had their hands full...and was asking that the door be opened for them...?:……ひょっとして、両手が塞がってるから、開けてくれ、…とでも言うのか…？}`
+`{ruby:As a slightly odd feeling began to encompass the room, the sound of the large clock in the hall could be heard.:少しおかしな空気が流れる中、ホールから、大時計の音が聞こえてくる。}`
+`{ruby:It was the sign that October 4th had ended and October 5th had begun......:それは、１０月４日の終わりと、１０月５日の始まりを教えるものだった……。}`
+`{ruby:A short while earlier—:時間は、わずかに遡る。}`
+`{ruby:Krauss and Natsuhi were well away from the dining hall, in a deserted corridor on the second floor......:その頃、蔵臼と夏妃の夫婦は、食堂から離れた２階の、ひと気のない廊下にいた……。}`
+`{ruby:".........So, we no longer have any other options.":「………もう、それしか手はないのかね」}`
+`{ruby:"Yes...:「はい…。}`
+`{ruby:......I do not think the same trick will work again tomorrow.:……明日一日、同じ手はもはや通用しないでしょう。}`
+`{ruby:...If we hesitate any longer, there's a chance that Eva‐san and the others will claim that we have Father locked up and call the police.:…これ以上を渋れば、絵羽さんたちは、お父様を監禁しているなどと主張して、警察に訴える可能性さえあります。}`
+`{ruby:This is......as far as we can go.":もう、……これが限界です」}`
+`{ruby:".................................":「……………………………」}`
+`{ruby:"......Battler‐kun finding the gold......was completely unexpected.:「……戦人くんが黄金を発見するのが、……まったく想定外でした。}`
+`{ruby:If only that hadn't happened, I'd thought of a plan which might have managed to get us through this somehow......":あれさえなければ、何とかうまくやりくりできる筋書きを考えていたのですが……」}`
+`{ruby:"......Hmph.:「……ふ。}`
+`{ruby:Just like every other bet I've made.:私が賭けるといつもこうだな。}`
+`{ruby:...Something unexpected always arises, and the "guaranteed" outcome is thrown off course.":…いつも想定外のことが起き、絶対確実だった話が、おかしくなる」}`
+`{ruby:".........We'll have Father's room be empty starting tomorrow morning.:「…………明日の朝、お父様の部屋が空っぽである、ということにします。}`
+`{ruby:Let's plan it out with Genji and have him say that he saw Father heading out into the forest early in the morning.":源次と口裏を合わせ、早朝に森へ出掛けて行くのを見た、と言わせましょう」}`
+`{ruby:"I doubt Eva and the others will swallow that story of his disappearance...":「その失踪を、絵羽たちが素直に受け入れるとは思えん…」}`
+`{ruby:"I'm fully aware of that.:「百も承知です。}`
+`{ruby:However, we have no other options...!":しかし、もうそれしか手がありません…！」}`
+`{ruby:"If we do such a thing, ......Eva and the others will doubtless make a fuss about it being suspicious.:「そのようなことをすれば、……絵羽たちは疑わしいと騒ぎ立てるだろう。}`
+`{ruby:They aren't worried about appearances as long as they can squeeze some money out of us.:絵羽たちはカネをせしめるためなら、形振りなど構うまい。}`
+`{ruby:...They might strike a deal with some odd magazine and cause serious damage to the confidence placed in me.":…それこそ、おかしな雑誌とつるんで、私の信用にダメージを与えてくるかもしれない」}`
+`{ruby:"We can live with {i:damage}...!:「ダメージで済むではありませんか…！}`
+`{ruby:If by any chance Father's secret is discovered, it won't be a matter of mere damage...!!":万一にも、お父様の秘密を知られたら、それどころでは済みません…！！」}`
+`{ruby:"There's nothing wrong with persisting until the last second tomorrow.:「明日一日を、ぎりぎりまで粘ってからでも遅くはない。}`
+`{ruby:If we're able to make it through safely, we won't have to lose anything.:もしも明日を無事に乗り切ることが出来れば、私たちは何も失うものはないのだ。}`
+`{ruby:There's no need to get impatient and use up our trump card...!":焦って、失踪という切り札を切る必要はない…！」}`
+`{ruby:"You want to wait until after they start accusing us of locking Father up, and {i:then} reply that he's gone missing?:「彼らが、お父様を監禁していると騒ぎ立て、そこに失踪していたと返すのですか？}`
+`{ruby:That is far more likely to draw suspicion...!!":その方がはるかに疑いを招きます…！！」}`
+`{ruby:"........................nnnn......":「……………………むむ……」}`
+`{ruby:"......Let's just...:「……もう、}`
+`{ruby:put Father to rest now...:…お父様に、お休みいただきましょう…。}`
+`{ruby:To go any further...:これ以上は、}`
+`{ruby:......would be impossible......":……無理です……」}`
+`{ruby:"Calm yourself.:「落ち着きたまえ。}`
+`{ruby:You've just had too much exposure to the toxin from Eva and the others and have lost your composure.:絵羽たちの毒気を浴び過ぎて冷静を失っただけだ。}`
+`{ruby:......Only two keys exist which can let anyone into that study!:……あの書斎に入る鍵は２本しかない！}`
+`{ruby:And you have both of them right here.:そしてその２本はここに、君が持っている。}`
+`{ruby:That means no one can go inside.:だから誰も入ることなど出来ん。}`
+`{ruby:That door is of a very special make.:あの扉は特別製だ。}`
+`{ruby:No matter what kind of tools they bring out of the storehouse, it won't even budge.":彼らが倉庫からどんな工具を持ってこようとも、びくともせんよ」}`
+`{ruby:"It isn't a physical problem like that...!":「そういう物理的な問題ではありません…！」}`
+`{ruby:"Look, stop panicking, settle down.:「だから焦るな、落ち着けっ。}`
+`{ruby:If you like, you can pretend to have gotten a fever and stay in bed.:何なら、君は熱を出したことにして寝込んでいてくれればいい。}`
+`{ruby:In the meantime, I will overcome all of this.":その間に、私が全て乗り切って見せる」}`
+`{ruby:"......I can't leave everything to you...!:「……あなただけに任せられません…！}`
+`{ruby:I'll fight until the end too...!":私も最後まで戦います…！」}`
+`{ruby:When Natsuhi could no longer hold back the tears brought on by her fierce emotions, ......Krauss held her gently.:夏妃が激情に涙を堪えきれなくなった時、……そっと蔵臼がその肩を抱いた。}`
+`{ruby:......Just how long had it been since she'd last felt warmth from her husband's embrace......:……夫の抱擁に温かみを感じたのは、どれくらいぶりだろう……。}`
+`{ruby:"Your headache.........is killing you, isn't it?:「頭痛が、………酷いのだろう？}`
+`{ruby:Whenever you get those creases between your eyebrows, I can tell.":君がそういうしわを眉間に浮かべる時は、いつもそうだ」}`
+`{ruby:"............Dear......":「…………あなた……」}`
+`{ruby:She had come to think that her husband could never understand the way she felt.:夫に、自分の気持ちを察することなど出来ないと思ってきた。}`
+`{ruby:But, ......when it came to times like this.........:なのに、……こんな時に限って、………。}`
+`{ruby:"......Let's wait for the very last moment before using our disappearance trump card.:「……失踪という切り札は、最後の最後まで待とう。}`
+`{ruby:It's like a last‐resort treasured sword::伝家の宝刀と同じだよ。}`
+`{ruby:it's best when it remains in its sheath.:抜かない内が華だ。}`
+`{ruby:The important thing is being ready to pull it out at any time, wouldn't you agree...?":大事なのは、いつでも抜けるという心構えではないかね…？」}`
+`{ruby:"I......understand that...":「それは、……わかっています…」}`
+`{ruby:"Why don't you leave that trump card with me?:「その切り札を、私に預けてくれんかね。}`
+`{ruby:.........Of course, at the final moment, I will take all of the responsibility.:………もちろん、最後の瞬間の責任は、全て私が取る。}`
+`{ruby:......I won't get you and Jessica involved.":……君と朱志香は巻き込まん」}`
+`{ruby:"What...do you mean by that...?!":「それは、…どういう意味ですか…！」}`
+`{ruby:"If the Ushiromiya family is destroyed, it is enough that I alone am crushed under the rubble.:「右代宮家が滅ぶ時、その瓦礫に潰されるのは私だけで充分だ。}`
+`{ruby:.........After the typhoon passes, I will prepare divorce forms.:………台風が過ぎたら、離婚届を準備しよう。}`
+`{ruby:I will sign the papers for you to keep and use when you please.:それに捺印し、君に預けておく。}`
+`{ruby:......I have some assets hidden away in your name.:……内緒で、君の名義にしてある財産がある。}`
+`{ruby:Add on the settlement, and it should be enough for you and Jessica to live in comfort.":さらにそれに慰謝料を加えれば、君と朱志香は不自由なく暮らせるはずだ」}`
+`{ruby:"No!!:「嫌です！！}`
+`{ruby:Ushiromiya Natsuhi is the name that should be engraved on my tombstone...!:私の墓碑に刻むべき名は、右代宮夏妃です…！}`
+`{ruby:Please let me be with you until the last moment...!:どうか最後の瞬間までご一緒に…！}`
+`{ruby:Even if it turns out that you are the last head of the Ushiromiya family,:たとえあなたが、右代宮家最後の当主であろうとも、}`
+`{ruby:......please let Natsuhi...:……夏妃を最後までどうか、}`
+`{ruby:...be the name of his wife...:……当主夫人で、}`
+`{ruby:...your wife......":……あなたの妻でいさせて下さい……」}`
+`{ruby:......Krauss's existence was based solely upon the power of his assets and his trustworthiness as a financial fixer.:……蔵臼は、財界のフィクサーとしての、信用と財力だけで存在している。}`
+`{ruby:If those were both undermined, nothing would remain.:それが両方とも揺らげば、後には何も残らない。}`
+`{ruby:Using the trump card of Kinzo's disappearance would mean losing one of these two essential supports.:金蔵失踪の切り札を切れば、二本しかない屋台骨の片方を失うことになる。}`
+`{ruby:......It was like offering your right arm to save your head from being cut off.:……首を斬られる代わりに右腕を差し出すようなもの。}`
+`{ruby:It was probably better than losing your head, but you still might die from the blood loss,:首に比べればマシだろうが、失血多量で死ぬかもしれないし、}`
+`{ruby:and even on the off‐chance that you did survive, you would have to bear a heavy wound that wouldn't heal for the rest of your life......:万一、生き残れたとしても、生涯癒せぬ、大きな痛手を背負うことになる……。}`
+`{ruby:Krauss was prepared even for death......:蔵臼は、死すら覚悟しているのだ……。}`
+`{ruby:Natsuhi understood this,:それを夏妃は理解し、}`
+`{ruby:......buried her face in Krauss's chest,:……蔵臼の胸に顔を埋め、}`
+`{ruby:...and cried...:…泣いた…。}`
+`{ruby:"............My apologies for interrupting.":「…………お取り込み中、失礼いたします」}`
+`{ruby:Genji's sudden voice made Natsuhi jump back and hurriedly wipe the tears from her eyes.:突然の源次の声に、夏妃は、ぱっと飛び退き、慌てて涙を拭った。}`
+`{ruby:Krauss stood in front of Natsuhi, shielding her.:そんな夏妃を蔵臼は背中に庇う。}`
+`{ruby:"Ah, Genji‐san.:「源次さんか。}`
+`{ruby:Please don't sneak up on us.:驚かせないでくれたまえ。}`
+`{ruby:......Do you have some business?":……何か用かね？」}`
+`{ruby:".........Yes.:「………はい。}`
+`{ruby:My apologies, but I have something to report to Madam.":申し訳ございませんが、奥様にご報告が」}`
+`{ruby:"To......me......?:「私に、……ですか……？}`
+`{ruby:Dear......":あなた……」}`
+`{ruby:"I don't mind.":「構わんよ」}`
+`{ruby:Krauss left Natsuhi's side, went to a window a short way off,:蔵臼は夏妃の側を離れ、少し離れた窓のところへ行くと、}`
+`{ruby:and gazed at the windy and rainy rose garden......:風雨に荒れる薔薇庭園を眺める……。}`
+`{ruby:Natsuhi went with Genji to a place a short distance away.:夏妃も源次を伴い、少しだけ離れた。}`
+`{ruby:"......What is it?":「……何事ですか」}`
+`{ruby:".........Well...:「………はい。}`
+`{ruby:The truth is, another phone call has come for you, Madam.":実は、また奥様にお電話が」}`
+`{ruby:At that moment, she was surprised by a sudden, eerie sound.:その時、突然、不気味な音が聞こえて驚く。}`
+`{ruby:{n}It was the large clock in the hall announcing midnight...:{n}それはホールの大時計が、２４時を知らせる音だった…。}`
+`{ruby:"You don't mean............that man......again...?":「まさか、…………また、……あの男なのですか…？」}`
+`{ruby:".........Yes.:「………はい。}`
+`{ruby:......What is to be done?":……如何致しましょう」}`
+`{ruby:"D‐......did he say what business he had with me?":「よ、……用件は何だと言っていますか」}`
+`{ruby:".........He would not answer.:「………お答えいただけません。}`
+`{ruby:He kept insisting that he wanted to speak to you directly.":奥様と直接お話ししたいとの一点張りでございます」}`
+`{ruby:"..............................":「…………………………」}`
+`{ruby:Again, ...a phone call......from the man who claimed to be taking revenge for what had happened 19 years ago.:また、……１９年前の復讐を名乗る男から、…電話が。}`
+`{ruby:19 years ago.:１９年前。}`
+`{ruby:......That was just one year before Jessica and Battler were born.:……それは、朱志香や戦人が産まれる、ちょうど１年前だ。}`
+`{ruby:In Natsuhi's eyes, the gap between 19 years ago and 18 years ago was immense.:夏妃にとって、１９年前と１８年前の境は、あまりに大きい。}`
+`{ruby:......For a long time, she was unable to fulfill her role of creating a successor for the Ushiromiya family...and was treated very coldly.:……長い間、右代宮家の跡継ぎをもうけるという妻の役目を成し遂げられず、冷遇され続けてきた。}`
+`{ruby:But then, she finally gave birth to Jessica...:それが、ようやく朱志香を出産し、}`
+`{ruby:and became able to call herself the wife to the Ushiromiya successor with her head held high.:右代宮家次期当主の妻を、胸を張って名乗れるようになったのだ。}`
+`{ruby:......So in her eyes, "Ushiromiya Natsuhi" began 18 years ago.:……だから、彼女にとって、右代宮夏妃は１８年前より始まるのである。}`
+`{ruby:......So everything before that, including 19 years ago......contained nothing but hateful memories.:……だから、それ以前の１９年前は、……呪わしい記憶でしかない。}`
+`{ruby:The last year of that hateful period.........was whispering of revenge...from the other end of the phone......:その、……呪わしき時代の最後の年が、………電話の向こうから、復讐を囁いてくる……。}`
+`{ruby:.........Once again......she heard the roar of the sea......:………また、……潮騒の音が聞こえる……。}`
+`{ruby:....................................:………………………………。}`
+`{ruby:".........What is to be done?":「………如何なさいますか」}`
+`{ruby:"Transfer it......to my room.:「私の、……部屋に転送しなさい。}`
+`{ruby:......Don't let my husband know.":……主人には、内密に」}`
+`{ruby:"......As you wish.":「……畏まりました」}`
+`{ruby:From the very beginning, Genji had understood that she wouldn't want Krauss hearing about this phone call.:源次は最初から、蔵臼に知られたくない電話だろうことを察している。}`
+`{ruby:That was why he had told Natsuhi covertly......:だから夏妃に、こっそりと報告したのだ……。}`
+`{ruby:Natsuhi ordered that he transfer the call, told Krauss that she would turn in for the night, and left at a quick pace......:夏妃は電話の転送を命じると、今日はこれで休むと蔵臼に伝え、足早に立ち去る……。}`
+`{ruby:She returned to her room and locked the door.:自室に戻り、鍵を掛ける。}`
+`{ruby:...There's nothing peculiar about that.:…それは特別なことではない。}`
+`{ruby:{n}......In the Ushiromiya family, hallways are like public roads.:{n}……右代宮家では廊下は公道と同じ。}`
+`{ruby:{n}There's no special meaning in locking the door when you enter your own room...:{n}自室に入ったら鍵をするのは特別なことではないのだ…。}`
+`{ruby:...This is what she told herself.:そう、言い聞かせる。}`
+`{ruby:Then, as though it had been waiting for her, the telephone rang.:すると、それを見届けたかのように、電話が鳴り響いた。}`
+`{ruby:{n}...Genji must have transferred the call.:{n}…源次が電話を転送してくれたのだろう。}`
+`{ruby:She took a deep breath, readied herself, ............and picked up the receiver.:深く深呼吸をし、覚悟を決めてから、…………受話器を取った。}`
+`{ruby:"............Hello.........":「…………もしもし………」}`
+`{ruby:"..............................":「…………………………」}`
+`{ruby:Again, ......it started with silence.:また、……だんまりの沈黙から。}`
+`{ruby:She realized that the person at the other end was trying to keep her in suspense and make her feel uncomfortable, and she got angry...:こちらを焦らし、不快にさせようという魂胆が見え透いて、苛立つ…。}`
+`{ruby:"Why are you silent...?!:「どうして黙っているのですか…！}`
+`{ruby:I'm hanging up...!":切ります…！」}`
+`{ruby:"...Hahahahahahaha...:「…はっはっはっはっはっは…。}`
+`{ruby:......Don't hang up, Mother.:……切るなよ、カアサン。}`
+`{ruby:I want to hear your voice a little longer......":もう少し声を聞いていたいんだからさ……」}`
+`{ruby:Again......that unpleasant voice......:またあの、……不快な声……。}`
+`{ruby:"Are you trying to mock me...?!:「私を愚弄する気ですか…！}`
+`{ruby:State your business...!":用件をお言いなさい…！」}`
+`{ruby:"I want to play with you, Mother.":「カアサンと、遊びたい」}`
+`{ruby:"...Wh‐......what?:「…は、……はぁ？}`
+`{ruby:What are you talking about?!:何を言っているんですか、あなたは！}`
+`{ruby:I have no desire to play with you...!!":私はあなたとなど、遊びたくありません…！！」}`
+`{ruby:"......You're tired from the family conference, right?:「……親族会議で疲れたんだろ？}`
+`{ruby:I'll bet that chronic headache of yours is giving you a bad time.":持病の頭痛がだいぶ辛いんじゃないかい…？」}`
+`{ruby:"Th‐that's none of your business...!":「よ、余計なお世話です…！」}`
+`{ruby:Just the fact that he knew her headache was troubling her made a shiver run up her spine...:頭痛を悩みにしていることを知られているだけで、悪寒が走る…。}`
+`{ruby:"You get headaches because your head's all stiff.:「頭痛になるのは、頭が凝ってるからさ。}`
+`{ruby:You won't have pleasant dreams if you go straight to bed like that.":そのままベッドに入ったって、いい夢は見られないよ」}`
+`{ruby:"Haven't I told you that's none of your business?!!:「だから余計なお世話だと言っています！！}`
+`{ruby:I'm hanging up!!":切りますよ！！」}`
+`{ruby:Natsuhi forcefully yelled that she was hanging up, but in actuality, she couldn't...:夏妃は、電話を切ると強気に叫ぶが、実際には出来ない…。}`
+`{ruby:After all, this person was choosing to call her, and that was much better than the alternative.:なぜなら、こうして自分に電話を掛けてくるだけ、まだマシだからだ。}`
+`{ruby:......If she hung up violently,:……もし、乱暴に電話を切ったなら、}`
+`{ruby:...this person might choose to call someone else...:…自分以外の人間に、電話を掛けてくるかもしれないのだから…。}`
+`{ruby:"Let's play a bit to help you relax.:「頭の凝りを解すために、ちょっとだけ遊ぼうよ。}`
+`{ruby:Don't worry, I won't take up much of your time.":何、時間は取らせないよ」}`
+`{ruby:"I, ...I have no intention of playing with you......!":「あ、…あなたと遊ぶ気などありません……！」}`
+`{ruby:"......Your name is Natsuhi, Mother.:「……カアサンの名前は、夏妃。}`
+`{ruby:It has the kanji for a season in it.:名前に季節を持ってるね。}`
+`{ruby:Pretty nice name.:いい名前だ。}`
+`{ruby:.........However, just because your name is Natsuhi, that doesn't necessarily mean that you like summer.:………でも、夏妃だからって、夏が好きとは限らない。}`
+`{ruby:...Which season is your real favorite, Mother......?":…カアサンが本当に好きな季節は、何だい……？」}`
+`{ruby:"You think I'll tell you?":「それをあなたに教えると思いますか」}`
+`{ruby:"If you don't, ......I'll hang up.:「教えてくれないなら、……俺が切るよ。}`
+`{ruby:.........Are you sure you want that?":………いいのかい？」}`
+`{ruby:"...kh..................":「…く、………………」}`
+`{ruby:It was clearly a threat.:それは明らかな脅迫だった。}`
+`{ruby:......It meant that if she forced him to hang up the phone,:……電話をもし切らせるようなことがあったなら、}`
+`{ruby:anything might happen......:その後、何が起こっても知らないという意味も同然……。}`
+`{ruby:Humiliated that she was forced to give in to a threat made by a man whose name she didn't even know, she gave him the answer he wanted......:夏妃は、名も知らぬ男の脅迫に屈する屈辱に耐えながら、男の求める答えを口にした……。}`
+`{ruby:".........I‐.........it's autumn.":「………あ、………秋です」}`
+`{ruby:"Why......?":「どうして……？」}`
+`{ruby:"B‐because it's an easy season to pass the time in...!:「す、過ごしやすい季節だからです…！}`
+`{ruby:There's no other reason in particular.:他に特に理由はありませんっ。}`
+`{ruby:Are you satisfied now?!":これで満足ですか？！」}`
+`{ruby:"Yeah, I'm satisfied.:「あぁ、満足だ。}`
+`{ruby:......It looks like your favorite season really is the same as mine.:……やっぱりカアサンの好きな季節は、俺と同じだったよ。}`
+`{ruby:......I like the fall too.:……俺も秋が好きなんだ。}`
+`{ruby:.........Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh...":………くっくくくくくくくくくくくくく…」}`
+`{ruby:"......Liar!:「……嘘吐き！}`
+`{ruby:You just made that up...!":出まかせを言うんじゃありません…！」}`
+`{ruby:This man would no doubt have done the same thing no matter which season I said I liked.:この男は、私が何の季節を好きだと言おうと、そう言うに違いないのだ。}`
+`{ruby:......What is he after?!:……何が目的なの？！}`
+`{ruby:What's so fun about making me uncomfortable like this...?!:私をこんな不愉快な気持ちにさせて、何が楽しいというの…？！}`
+`{ruby:"It's not nice to call someone a liar.:「嘘吐きなんてひどいな。}`
+`{ruby:......I didn't make it up.:……出まかせなんかじゃない。}`
+`{ruby:I was already certain that you liked the fall, Mother.:俺はカアサンが秋が好きだって、確信してたよ。}`
+`{ruby:.........I can even show you proof.":………証拠を見せてもいい」}`
+`{ruby:"Proof.........?":「証拠………？」}`
+`{ruby:"Yeah.:「あぁ。}`
+`{ruby:......Is there a clock in your room, Mother...?":……カアサンの部屋に、時計はあるかい…？」}`
+`{ruby:"...A clock......?:「…時計……？}`
+`{ruby:Y‐......yes, there is, but what's your point......?":え、……えぇ、ありますが、それが何か……？」}`
+`{ruby:In Natsuhi's room, there was a beautiful antique clock with an intricate design.:夏妃の部屋には、凝った細工の美しいアンティーク時計がある。}`
+`{ruby:......Krauss had bought it for her as a birthday present long ago.:……蔵臼がずいぶん昔の誕生日に買ってくれたものだ。}`
+`{ruby:".........It's seven minutes past midnight right now.:「………今は、０時７分ですね。}`
+`{ruby:I'm tired, so please get this farce over with quickly...!":もう眠いので、茶番を早く終わらせなさい…！」}`
+`{ruby:"Try lifting the clock up.":「その時計、持ち上げてみてよ」}`
+`{ruby:"Wh‐why?":「ど、どうしてです」}`
+`{ruby:".........You just don't know when to shut up.:「………いちいちうるせぇな。}`
+`{ruby:Stop resisting every single time I say something.:俺の言うことにお前は歯向かうんじゃないよ。}`
+`{ruby:Just shut up and do what I say.":黙って言われたとおりにすればいいんだ」}`
+`{ruby:The tone of the man's voice suddenly went low, turning into a threat.:突然、男の声色が低く、脅すように変わる。}`
+`{ruby:{n}It indicated clear displeasure.:{n}それは明らかに不快感を示すもの。}`
+`{ruby:Outwardly, this man had a calm manner of speaking, but on the inside, things were completely different.:この男は、一見、落ち着いた話し方をしているが、その胸中はまったく違うのだ。}`
+`{ruby:If she angered this man even the slightest bit further, he would surely show his true nature right away...:もし、これ以上、ほんのわずかでも男を怒らせたなら、すぐにもその本性を現すに違いない…。}`
+`{ruby:"......Are you really that eager to make me hang up?:「……そんなに電話を切られたいかよ？}`
+`{ruby:You'd better start realizing how lucky you are that I'm talking on the phone with you right now......:こうしてあんたに電話をしてる内が華なんだぜ……。}`
+`{ruby:...I can tell your husband and daughter about what happened 19 years ago any time I want to...":…あんたが１９年前にしたこと、俺はいつだって、あんたの旦那や娘に話すことが出来るんだ…」}`
+`{ruby:"I, I don't know what you're talking about, but please don't get my husband and daughter involved...!:「あ、あなたが何の話をしているか知りませんが、夫や娘を巻き込まないで下さい…！}`
+`{ruby:I'm listening to everything you say...!":こうして私が電話を聞いていますから…！」}`
+`{ruby:"Then do what you're goddamn told......":「なら、言われたとおりにしやがれってんだ……」}`
+`{ruby:Once again, the man threatened me in a low voice, as though warning me never to talk back to him again...:二度と口答えするな、とでも言うように、男は再び低い声で脅す…。}`
+`{ruby:My head was filled with the pain from my headache, the sound of my beating heart, ......and the roar of the sea...:私は、頭が頭痛と心臓の音、……そして潮騒の音でいっぱいになる…。}`
+`{ruby:......I couldn't disobey him anymore.:……もはや、逆らうことなど出来ない。}`
+`{ruby:.........As the man had ordered, I lifted up the antique clock...:………男が命じたとおりに、私はアンティーク時計を、持ち上げる…。}`
+`{ruby:".................................?":「……………………………？」}`
+`{ruby:There lay something that resembled a single playing card.:そこには、一枚のトランプのようなものが。}`
+`{ruby:{n}............?:{n}…………？}`
+`{ruby:Perhaps it was the warranty for the clock.........?:時計の保証書か何かかしら…………。}`
+`{ruby:{n}Thinking this, she took it and turned it over............:{n}そう思い、手に取り、裏返す…………。}`
+`{ruby:"Are you.........wide awake now?":「眠気、………覚めたかい？」}`
+`{ruby:"Eek, ah,:「ひ、あ、}`
+`{ruby:......aaaaaaaahhhhh......:……あぁああぁぁぁ……。}`
+`{ruby:Wh‐:ど、}`
+`{ruby:wh‐wh‐:どど、}`
+`{ruby:why...:どうして、}`
+`{ruby:...Why is...:……こ、}`
+`{ruby:...this...?!?!":……こんな…ッ？！？！」}`
+`{ruby:"Well, I'll be happy if your headache's gone down a bit.:「あんたの頭痛が、少しは引いたなら嬉しいんだけどな。}`
+`{ruby:......Tell me you're happy, Mother.":……嬉しいって言ってよ、カアサン」}`
+`{ruby:"How did you...?!:「どうやってこれを？！}`
+`{ruby:Why?!:どうして？！}`
+`{ruby:How?!":どうやってッ？！」}`
+`{ruby:"I want you to tell me you're happy, you murderer.:「嬉しいですって言ってほしいな、この人殺しめ。}`
+`{ruby:How dare you act like a normal, neat‐freak mother. You make me want to vomit.:よくも潔癖な奥様面が出来るもんだぜ、反吐が出る。}`
+`{ruby:Do you want some of it to land on your husband and daughter as well?:その反吐を、あんたの夫や娘にもぶちまけられたいかい？}`
+`{ruby:You don't, do you?:嫌だろ？}`
+`{ruby:You want me to keep quiet, don't you?:黙ってて欲しいだろ？}`
+`{ruby:Yeah, I'll keep quiet. See, aren't you happy?:あぁ、黙っててやるよ、ほら、嬉しいだろ？}`
+`{ruby:Aren't you happy?!":嬉しいだろッ？！」}`
+`{ruby:"Ah, .........aaaah, I'm happy... I'm happy...!!:「う、………ぅぅ、嬉しいです…嬉しいです…ッ！！}`
+`{ruby:So please...stop...:だから、…やめて…。}`
+`{ruby:Don't burden my husband and daughter...!:夫と娘に構わないで…！}`
+`{ruby:What is it you want?:何が要求ですか。}`
+`{ruby:Money?:お金ですか？}`
+`{ruby:How much?!":いくらですかッ？！」}`
+`{ruby:"I don't want money.:「カネなんか欲しくないよ。}`
+`{ruby:......My wounds couldn't be healed with any amount of money.:……俺の傷は、カネをいくら積んだって癒せないんだ。}`
+`{ruby:But there is a medicine.:だが薬ならある。}`
+`{ruby:......Yes,:……そうだな。}`
+`{ruby:it's like a kind of ointment.:それは軟膏みたいなもんだ。}`
+`{ruby:......Thick, syrupy and dribbling.":……ねっとり、どろどろして糸を引く」}`
+`{ruby:"............And that is...:「…………それはあんたへの、}`
+`{ruby:my hatred,:…俺の恨み、}`
+`{ruby:......my resentment towards you.:……怨嗟だよ。}`
+`{ruby:...Slathering myself with that...:…そいつを塗ってでしか、}`
+`{ruby:is the only way to hold back the pain...":痛みが抑えられないんだよ…」}`
+`{ruby:Natsuhi had never had anything so hateful said to her in her entire life.:夏妃はこれまでの人生で、このような呪いの言葉を掛けられたことなどない。}`
+`{ruby:So she suspected many times that she must be having some sort of bad dream.:だから、それを聞かされている自分は、何か悪い夢でも見ているではないかと、何度も疑った。}`
+`{ruby:However, ......this definitely wasn't a dream...:だが、……これは断じて夢ではない…。}`
+`{ruby:"......Y‐:「……あ、}`
+`{ruby:...you couldn't possibly be...:…あなたはまさか、}`
+`{ruby:...on this island right now, could you...?":……この島にいるのですか…」}`
+`{ruby:"I am.:「あぁ。}`
+`{ruby:Didn't I promise you?:約束しただろ？}`
+`{ruby:I said I'd be at the family conference.":親族会議には出る、って」}`
+`{ruby:"That's impossible...!:「不可能です…！}`
+`{ruby:There's no way you could have come during this typhoon...!!":この台風では来られるわけもありませんッ…！！」}`
+`{ruby:"That's no problem if I came before the typhoon reached here.:「台風になる前から来てれば問題はないよ。}`
+`{ruby:......And I'm pretty sure this guest called Erika or whatever arrived even during the typhoon.":……それに、台風の最中であっても、ヱリカとかいう来客があったはずだ」}`
+`{ruby:Her blood froze......:全身を凍った血液が駆け巡る……。}`
+`{ruby:{n}Furudo Erika had been brought here by coincidence...:{n}古戸ヱリカは偶然が招いた来客のはず…。}`
+`{ruby:{n}If he knew that name, he would have to be very close by......:{n}その名を知るには、相当身近にいなくてはならない……。}`
+`{ruby:"Wh‐:「あ、}`
+`{ruby:......where...:……あなたは}`
+`{ruby:...a‐:……ど、}`
+`{ruby:......are you.........?":……どこに………」}`
+`{ruby:"......I won't appear in front of anyone until you introduce me.:「……あんたの紹介がない内は、誰の前にも現れないさ。}`
+`{ruby:Don't worry.:安心しな。}`
+`{ruby:.........Oh yeah, it's useless to try and search for me.:………おっと、俺を探しても無駄だよ。}`
+`{ruby:Your mansion is huge.:あんたの屋敷は広い。}`
+`{ruby:And you have phones all over the place.:電話だってそこいら中にあるしな。}`
+`{ruby:Besides, I'm sure you don't want to see me either, do you?":あんただって、俺に会いたくないだろ？」}`
+`{ruby:"......Or are you offering to find me and introduce me to everyone...?:「……それとも、俺を見つけ出して、みんなに紹介してくれるのか…？}`
+`{ruby:Introduce me to Jessica too.:朱志香にも紹介してくれよ。}`
+`{ruby:......Tell her I'm her older brother by one year.:……１つ上の兄です、ってな。}`
+`{ruby:Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh!!":くっくくくくくくくくくくく！！」}`
+`{ruby:"S‐stop it...... Stay away from Jessica......":「や、やめて……、朱志香に構わないで……」}`
+`{ruby:"I guess I've scared you a bit too much.:「怖がらせ過ぎたかな。}`
+`{ruby:That's all from me...for tonight.:今夜はこれで勘弁してやるよ。}`
+`{ruby:......But don't forget.:……だが、忘れるな。}`
+`{ruby:You cannot disobey me.:あんたは俺に逆らえないんだ。}`
+`{ruby:Understand,:わかってるな、}`
+`{ruby:......Mother?":……カアサン」}`
+`{ruby:"......Y‐.........yes......":「……は、………はい……」}`
+`{ruby:"I'm going to hang up for the night, ......but I have an order to be followed up until tomorrow morning.":「今夜はこれで電話を切るが、……明日の朝まで、命令がある」}`
+`{ruby:"Wh‐......what is that.........?":「な、……何ですかッ………」}`
+`{ruby:"You may no longer leave that room tonight, and you may not make any phone calls.:「あんたは今夜もう、その部屋を出てはならないし、どこにも電話を掛けてはならない。}`
+`{ruby:If the phone rings, you aren't allowed to pick it up, either.:電話が掛かってきても取ることも許さねぇぜ。}`
+`{ruby:And you will turn the lights off right now, get in bed, and sleep.:そして今すぐ灯りを消し、布団を被って寝ろ。}`
+`{ruby:Then you will wake up at your ordinary time.:そしていつもの時間に起床しろ。}`
+`{ruby:............Heheheheheh.:…………くっくくくく。}`
+`{ruby:It sure is nice to live a healthy life.:健康的な生活でいいなぁ。}`
+`{ruby:I really am such a good son, working so hard for the sake of my Mother's body......":カアサンの体を労るなんて、本当に俺は親孝行者だよ……」}`
+`{ruby:"I, ......I understand.:「わ、……わかりました。}`
+`{ruby:I'll sleep right now.:今すぐ寝ます。}`
+`{ruby:I won't leave my room, and I won't pick up the phone...!:部屋も出ません、電話も出ません…！}`
+`{ruby:So please, don't tell my husband and daughter......!":だから、……夫と娘には……！」}`
+`{ruby:"As long as you follow my orders, I'll keep your secret, Mother.:「カアサンが俺の命令を守る限り、あんたの秘密は守ってやるよ。}`
+`{ruby:......Don't disobey me.:……命令を破るなよ。}`
+`{ruby:......I'm already very close by.:……俺はもう、お前のすぐ近くにいる。}`
+`{ruby:I can easily tell whether you've turned your lights off and whether you're on the phone.:部屋の灯りが消えるかどうか、そして電話をしているかどうかさえ、俺には手を取るようにわかるんだ。}`
+`{ruby:...If I wished to, I could even kiss your sleeping face.":…俺さえ望むなら、あんたの寝顔にキスすることだって出来るんだからな」}`
+`{ruby:"I'll keep it!:「守ります！}`
+`{ruby:I'll keep my promise!!:約束は守りますッ！！}`
+`{ruby:So stop it, just stop it!:だから止めて、もう止めてッ！}`
+`{ruby:Stop iiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iittt!!":止めてぇええええええぇええええ！！」}`
+`{ruby:......As she screamed, Natsuhi crushed the card she had found under the clock into a little ball.:……夏妃は時計の下から見つけたカードを、絶叫とともに握り潰してしまう。}`
+`{ruby:It had a pattern on it like a tarot card,:それは、タロットカードのような絵柄が書かれていて、}`
+`{ruby:along with one single word::……漢字で一文字、}`
+`{ruby:"Autumn".........:“秋”と書かれていた………。}`
+`{ruby:We go back in time once again.:再び、時間は遡る。}`
+`{ruby:The large clock in the hall was right in the middle of striking midnight.:時間は、今まさにホールの大時計が２４時を告げている真っ最中だ。}`
+`{ruby:Wondering who the person who had now knocked twice was,:食堂の親族たちは、二度繰り返されたノックの主が何者なのか、}`
+`{ruby:......the relatives in the dining hall stared at the door.:……扉をじっと凝視した。}`
+`{ruby:Rudolf told them to come in.:留弗夫が、入れよと声を掛ける。}`
+`{ruby:......But there was no answer.:……だが返事はない。}`
+`{ruby:Until the end of that long tone marking the coming of midnight, which had come from the large clock in the hall shortly after the knock,:彼らは、ノックの直後に鳴ったホールの大時計が、}`
+`{ruby:they were unable to move in the slightest......:２４時を告げる長い音色が終わるまで、身動きひとつ出来ずにいるのだった……。}`
+`{ruby:"......Maybe their hands are full and they can't open it......":「……手が塞がってて、開けられないんじゃないのか……？」}`
+`{ruby:"Maybe.:「かもな。}`
+`{ruby:......But it's a little creepy that they won't say their name.":……だが、名乗らねぇってのは薄気味悪いな」}`
+`{ruby:"......Should I open it?":「……開けますか」}`
+`{ruby:"Do it.":「開けなさい」}`
+`{ruby:Kanon nodded back, then slowly opened the door......:嘉音は頷き返すと、ゆっくり扉を開く……。}`
+`{ruby:"Ah, ......what's that...?!":「ん、……それは…？！」}`
+`{ruby:"......It's......one of Dad's envelopes?":「……これは、……親父の封筒？」}`
+`{ruby:Right behind the opened door, on the floor of the hallway,:扉を開けてすぐの、廊下の床に、}`
+`{ruby:......lay the envelope.:……その封筒は置かれていた。}`
+`{ruby:"There's no one in the hallway.:「廊下には誰もいません。}`
+`{ruby:Perhaps they placed this here and left...":これを置いて、立ち去ったのでしょうか…」}`
+`{ruby:The adults flew out into the corridor as well,:大人たちも廊下に飛び出すが、}`
+`{ruby:but they could find no trace of anyone who might have knocked on the door......:ノックをしたらしき人影は、気配すらもなかった……。}`
+`{ruby:Barely an hour ago, Shannon and Kanon had come in to serve tea.:小一時間ほど前、紗音と嘉音の二人がお茶の準備のためにやって来た。}`
+`{ruby:At that time, everyone had seen that nothing lay in that spot.:その時、そこに何も落ちていなかったことを、一同が確認している。}`
+`{ruby:Someone came, knocked, left an envelope with the mark of the One‐winged Eagle on it, and left...:何者かが来て、ノックし、片翼の鷲の紋章の記された封筒を置いて行ったのだ…。}`
+`{ruby:"C‐......could it have been...the Master......?!":「ま、……まさか、お館様でしょうか……？！」}`
+`{ruby:"......It's not unthinkable.:「……考えられない話じゃないわ。}`
+`{ruby:......Father's pretty much the only person in this mansion who would refuse to answer when asked who he was.":……この屋敷で、誰と呼ばれて返事をしないのは、お父様くらいだもの」}`
+`{ruby:"That's not possible.:「ありえないわ。}`
+`{ruby:If that's so, then why didn't Father come in here openly?":なら、どうしてお父様は堂々と入ってこないの？」}`
+`{ruby:"......That's right.:「……そやな。}`
+`{ruby:Father would probably just come in here all of a sudden without knockin'...:お父さんだったら、ノックなどせず、いきなり入ってくるやろな…。}`
+`{ruby:The doors and windows of this mansion are locked now, right...?:今、この屋敷は、戸締りがされとるんやろ…？}`
+`{ruby:In that case, the only people who could've left the letter there are Krauss‐san, Natsuhi‐san, and Genji‐san.":なら、ここに手紙を置くことが出来るんは、蔵臼さんか夏妃さん、そして源次さんの誰かしか考えられんで」}`
+`{ruby:By this point, the mansion had been completely locked up.:屋敷はこの時点では完全に戸締りされていた。}`
+`{ruby:Therefore, those in the guesthouse—the cousins, Nanjo, Gohda, Kumasawa, and Erika—could not have come here.:よって、ゲストハウスのいとこたちと、南條、郷田、熊沢、そしてヱリカはここに来られない。}`
+`{ruby:Furthermore, since Krauss, Natsuhi, and Genji were the only three who weren't in this room,:そして、蔵臼、夏妃、源次の３人以外の全てがここにいた以上、}`
+`{ruby:one of those three had to have been the one who set that letter down in the corridor.:廊下に手紙を置けたのは、蔵臼たち３人の誰かということになる。}`
+`{ruby:In that case, it was very likely that Krauss and the others had placed the letter there to make it seem like a message from Kinzo...:となれば、蔵臼たちが、金蔵のメッセージを装って手紙を置いていった可能性が高い…。}`
+`{ruby:"I see...:「なるほどね…。}`
+`{ruby:It'll have something written on it which is supposedly in Father's name, saying that he won't accept Battler‐kun as the next head, or something of the sort.:お父様の名を騙って、戦人くんを次期当主に認めないっ、みたいなことが書いてあるのよ。}`
+`{ruby:Ridiculous.:馬鹿馬鹿しい。}`
+`{ruby:I can't believe you'd try to pull such a childish trick, Nii‐san...!":兄さんめ、よくもこんな子供騙しを…！」}`
+`{ruby:"It's not like I have any interest in being the next head...":「別に俺は、次期当主なんて興味ねぇぜ…」}`
+`{ruby:"Give up.:「諦めろ。}`
+`{ruby:This is just your fate.:それがお前の運命なんだよ。}`
+`{ruby:......Anyway, why don't we read what's inside?":……とにかく、中身を読んでみようじゃねぇか」}`
+`{ruby:Rudolf set the letter on the dining hall table and showed everyone the front and back,:留弗夫はその手紙を食堂のテーブルの上に置くと、}`
+`{ruby:almost like a magician does before performing his act to show that there are no tricks or hidden mechanisms.:タネも仕掛けもございませんと、まるで手品師のように表と裏を全員に確認させる。}`
+`{ruby:"......This envelope is without a doubt Father's?":「……この封筒は、間違いなくお父様の封筒なの？」}`
+`{ruby:"Y‐...yes, there's no doubt.:「え、…えぇ、間違いないわ。}`
+`{ruby:Father liked to use these envelopes for handwritten letters...:お父様が親書に好んで使う封筒よ…。}`
+`{ruby:What do you think, Shannon‐chan?":どう、紗音ちゃん？」}`
+`{ruby:"Y‐yes......:「は、はい……。}`
+`{ruby:......To my eyes as well, ......it looks like the type of envelope that the Master uses...":……私の目にも、……お館様が使われる封筒に見えます…」}`
+`{ruby:"That doesn't mean Father was the one who wrote it.:「だからって、お父様が書いたってことにはならないわよ。}`
+`{ruby:It would be pitifully easy for Nii‐san to snatch one of these from a drawer in Father's study...!":兄さんなら、お父様の書斎の引き出しからひょいと手に入れることなんて、造作もない話だわ…！」}`
+`{ruby:"Even Krauss‐sama cannot easily enter the study...:「蔵臼さまとて、容易に書斎には入れません…。}`
+`{ruby:It might be hard for him to steal an envelope......":封筒を盗み出すなど、難しいことかと……」}`
+`{ruby:"Let's try opening it.:「開けてみようぜ。}`
+`{ruby:We can think about this later.:それから考えても遅くないはずだ。}`
+`{ruby:......There's something in it.:……何か入ってるな。}`
+`{ruby:I wonder what.":何だろうな」}`
+`{ruby:Rudolf opened the envelope a bit roughly.:留弗夫は、少し乱暴に封筒を破く。}`
+`{ruby:Then, a folded letter...:すると中から折り畳んだ手紙と、}`
+`{ruby:...and a glittering object fell out.:……きらりと光る物が転がり落ちる。}`
+`{ruby:......It was a ring.:……指輪だった。}`
+`{ruby:"Huh?:「え？}`
+`{ruby:............Wait a second, ...that ring is......!":…………ちょっと、…その指輪……！」}`
+`{ruby:Eva noticed it immediately and grabbed it...:すぐに気付き、絵羽がそれを引っ手繰る…。}`
+`{ruby:"Th‐:「こ、}`
+`{ruby:......this is...:……これ、}`
+`{ruby:...Father's ring...!:……お父様の指輪よ…？！}`
+`{ruby:I‐it's the Head's Ring!!":と、当主の指輪だわ？！」}`
+`{ruby:"......Wh‐...what in the...!!:「……な、…なんやて…！！}`
+`{ruby:Seriously?!":ホンマか？！」}`
+`{ruby:"Are you sure it's Father's ring...?:「間違いなく、お父様の指輪なの…？}`
+`{ruby:Could it be a replica...?":レプリカということは…？」}`
+`{ruby:"No, this is the real thing!:「いいえ、これは本物よ！}`
+`{ruby:I've always dreamed about wearing this ring on my finger someday.:私は、いつかこの指輪を自分の指に通してやるとずっと夢見てきたのよ。}`
+`{ruby:Even though Father wore this on his finger, I know more about it than anyone else.:お父様が指にしてた時から、私は誰よりもこの指輪のことをよく知ってるわ。}`
+`{ruby:......This is Father's ring, no doubt about it!:……これはお父様の指輪よ、間違いなく！}`
+`{ruby:Why is it here?!":どうしてここに？！」}`
+`{ruby:"Then it really {i:was} Father who wrote this letter...?!":「じゃあ、やっぱりこの手紙はお父様が…？！」}`
+`{ruby:"......Heh, heheheheh.:「……へ、へっへへへへ。}`
+`{ruby:The sender isn't Dad.:こりゃ、差出人は親父じゃねぇぞ。}`
+`{ruby:...It's someone much more interesting.":…もっと面白ぇ」}`
+`{ruby:"Then, ......who is the letter from?":「じゃあ、……誰からの手紙だってんだ」}`
+`{ruby:"It's from the Ushiromiya family alchemist!:「右代宮家顧問錬金術師！}`
+`{ruby:.........The Golden Witch, {f:5:Beatrice}‐sama......!!":………黄金の魔女、ベアトリーチェさまからだぜ……？！」}`
+`{ruby:Rudolf showed everyone the part of the letter where that was written.:留弗夫は、手紙の、そう書かれた部分を全員に見せる。}`
+`{ruby:{n}It really did say that......:{n}確かに、そこにはそう書かれていた……。}`
+`{ruby:"I‐......it's from {f:5:Beatrice}......?!":「ベ、……ベアトリーチェから……？！」}`
+`{ruby:"What's it say......?":「何て書いてあるの……？」}`
+`{ruby:"I'll read it.:「読むぞ。}`
+`{ruby:.........<Congratulations>...:………コングラッチュレイションズ…。}`
+`{ruby:I acknowledge that Battler‐sama has spectacularly solved the riddle of the epitaph and reached the Golden Land.:戦人さまが碑文の謎を見事に解かれ、黄金郷に辿り着きましたことを認めます。}`
+`{ruby:.........The gold belongs to him in its entirety.:………黄金は全て、戦人さまのものです。}`
+`{ruby:Furthermore, he is also the new head of the Ushiromiya family.:そして、右代宮家の新しき当主も戦人さまです。}`
+`{ruby:......As proof, ............I send the Head's Ring, which Kinzo‐sama left in my charge...:……その証として、…………金蔵さまよりお預かりしている…、当主の指輪をお送りします…。}`
+`{ruby:......Battler‐sama, I beg that you put on this ring, become the new master of the gold, and lead the Ushiromiya family into the future.:……どうぞ戦人さま、指輪をされて、新しい黄金の主となり、どうか右代宮家をお導き下さい。}`
+`{ruby:......I pray with utmost sincerity that you flourish as the new head............":……新しき当主のご活躍を、心よりお祈りいたしております…………」}`
+`{ruby:"......Hah, ......hahah!:「……は、……はは！}`
+`{ruby:What the hell...!:何てこった…！}`
+`{ruby:I see, Dad just won't come out of his study, so {f:5:Beatrice}, the witch of the forest, has acknowledged Battler directly...!:親父が書斎から出て来ねぇもんだから、森の魔女ベアトリーチェが直接、戦人を認めてくれたわけだ…！}`
+`{ruby:Hahaha, haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!":ははは、はっはははははははは！」}`
+`{ruby:"......Battler‐kun.:「……戦人くん。}`
+`{ruby:You should hold onto this ring.:この指輪はあなたが持つのよ。}`
+`{ruby:......This is a special ring to be worn by the family head.:……これは、当主が身に付けるべき、特別な指輪。}`
+`{ruby:.........I don't know who this {f:5:Beatrice} is,:………ベアトリーチェが何者か知らないけれど、}`
+`{ruby:but she's watched the whole thing and sent you this ring after acknowledging you as the true successor.":彼女は一部始終を見届け、あなたが真の跡継ぎだと認めてこの指輪を送ったのよ」}`
+`{ruby:"I‐......is that alright...?:「い、……いいんすか…。}`
+`{ruby:It's such an important ring......":こんな重要な指輪を……」}`
+`{ruby:"Yeah, it's fine.:「あぁ、いいんだ。}`
+`{ruby:You should wear it proudly on your finger.:誇らしげに指にはめるといい。}`
+`{ruby:......Got it? Even if Aniki and Natsuhi‐san tell you to take it off, you better not do it no matter what...!":……いいか、兄貴や夏妃さんが外せと言っても、絶対に外すんじゃねぇぞ…！」}`
+`{ruby:With creepy smiles on their faces, all of the relatives urged Battler to put the ring on his finger...:戦人は親戚たち一同に、薄気味悪い笑みで、その指輪に指を通すよう勧められる…。}`
+`{ruby:It looked like things would get pretty nasty if he refused, so Battler reluctantly decided to put it on the middle finger of his left hand......:断ると色々と荒れそうだったので、戦人は渋々と、それを左手の中指にすることにする……。}`
+`{ruby:The ring was heavy and stiff......:重く、ごつごつした指輪だった……。}`
+`{ruby:At that moment, Krauss returned.:そこへ、蔵臼が戻ってくる。}`
+`{ruby:......Genji came back as well immediately afterwards.:……すぐに源次も戻ってきた。}`
+`{ruby:"My apologies.:「申し訳ないね。}`
+`{ruby:It looks like my wife isn't feeling so well, so she's gone to bed early.:妻は具合が悪そうだったので、先に休ませてもらった。}`
+`{ruby:............Did something happen?:…………何かあったのかね？}`
+`{ruby:You all seem incredibly flustered.":何だか諸君がひどく慌しいようだ」}`
+`{ruby:"..................Battler‐sama, ......that.........":「………………戦人さま、……それは………」}`
+`{ruby:Immediately, Genji keenly spotted the thing that Battler had just put on his finger...:指に通したばかりの戦人のそれに、源次はすぐに敏感に気付く…。}`
+`{ruby:"Your eyesight's pretty good, Genji‐san!:「さすが源次さんや、お目が高い！}`
+`{ruby:......Looks like you know whose ring this is.":……これが誰の指輪か、わかるようやな」}`
+`{ruby:"What...?:「何…？}`
+`{ruby:What are you talking about......?":何の話だね……？」}`
+`{ruby:From Krauss's questioning look, it was very difficult to imagine that he could have been the one who set that letter there......:蔵臼の怪訝そうな顔からは、とても彼が手紙を置いた本人と思えない……。}`
+`{ruby:Furthermore, his expression quickly changed into one of shock.:そして、その表情はすぐに、驚愕のものに変わることになる。}`
+`{ruby:"Eheheheheh!!:「うっふっふっふ！！}`
+`{ruby:That's right, it's the ring of the Ushiromiya family head!!":そうよ、右代宮家当主の指輪よ！！」}`
+`{ruby:The family conference took up this new topic,:親族会議は新たな議題を迎え……、}`
+`{ruby:......and the storm came once again.........:再び嵐を迎えるのだった………。}`
+`{ruby:The rain was still pouring down as hard as ever.:相変わらずの大雨は変わらない。}`
+`{ruby:......This weather was supposed to continue all day tomorrow as well, which was making me feel a bit depressed.:……この天気が、明日も丸一日ずっと続くというのだから、気分も落ち込むというものだった。}`
+`{ruby:......Oh wait...given the time, that's today, not tomorrow...:……おっと、もう、時間的には明日じゃなくて今日か…。}`
+`{ruby:{n}But that doesn't really matter now.:{n}だが、今はそんなことはどうでもいい。}`
+`{ruby:.........I'm sleepy...:………眠い…。}`
+`{ruby:With half‐asleep eyes, I opened my umbrella.:俺は寝ぼけ眼で、傘を開く。}`
+`{ruby:{n}The large drops of rain pounded against it mercilessly.........:{n}大粒の激しい雨が、容赦なく傘を打ち鳴らした……。}`
+`{ruby:Technically, they had called an end to the family conference at {nobr:1 a.m.},:親族会議は、午前１時頃に一応は終了が宣言されたが、}`
+`{ruby:but the post‐match scuffles were still dragging on.:まだぐだぐだと場外乱闘が続いている。}`
+`{ruby:I was really jealous of Auntie Rosa, who managed to slip out of there at that time.:その時に、するりと抜け出せた楼座叔母さんが本当に羨ましい。}`
+`{ruby:She cleverly got away by saying that she'd check on Maria, who might have been staying up too late.:真里亞が夜更かししてるかもしれない、見てくると言って、うまいこと抜け出したのだ。}`
+`{ruby:Thanks to Dad constantly involving me, I missed my chance to escape,:俺は、親父に絡まれて引き際を逃し、……午前３時……、}`
+`{ruby:...and they made me stick around until now, ......{nobr:3 a.m.}...:この時間まで付き合わされてしまった…。}`
+`{ruby:What on Earth did they spend all that time deciding...?:あれだけの長い時間を掛けて、彼らは何を決めたんだろう…？}`
+`{ruby:Nothing got decided at all.:何も決まりはしない。}`
+`{ruby:......They just kept on arguing about who said what, like elementary school kids.:……ただ延々と、言った言わないと、小学生並みの争いが繰り返されていただけだ。}`
+`{ruby:......They must be tired too.:……連中だってきっと、もう眠いのだ。}`
+`{ruby:I'm sure that's why they keep dragging on with the same pointless questions.:だから延々、ぐだぐだと下らない問答が繰り返されてるに違いない。}`
+`{ruby:I no longer felt any shock or anger towards them.:親たちに対する呆れや怒りは、もう何も感じない。}`
+`{ruby:{n}I guess no painkiller works better than drowsiness...:{n}眠さに勝る鎮静剤は、きっと、存在しないに違いないな…。}`
+`{ruby:......I left them behind and finally returned to the guesthouse.:……俺は親たちを残し、今度こそゲストハウスへ戻るのだった。}`
+`{ruby:When I returned to the guesthouse, the lights were on in the lounge downstairs.:ゲストハウスに戻ると、１階のラウンジが明るい。}`
+`{ruby:Not only that, I could even hear people chatting inside......:それどころか、談笑さえ聞こえてくる……。}`
+`{ruby:{n}Apparently, some people were still awake even at this time of night.:{n}こんな時間まで、まだ起きてる連中がいるらしい。}`
+`{ruby:Despite the late hour, Gohda‐san and Doctor Nanjo were still awake and chatting.:何と、こんな深夜にもかかわらず、郷田さんと南條先生はまだ起きていて談笑していた。}`
+`{ruby:Plates and cups were lined up on the counter,:カウンターにはお皿やコップが並び、}`
+`{ruby:and it looked almost like a bar with Gohda‐san as the bartender.:さながら、郷田さんがバーテンダーを勤める飲み屋のようだ。}`
+`{ruby:After noticing I'd come back, it looked as though Doctor Nanjo finally realized how late it was.:俺が戻ってきたのに気付くと、ようやく今が何時かを自覚したようだった。}`
+`{ruby:As Gohda‐san made to top off his glass, he declined with an exaggerated gesture.:お酒を注ぎ足してくる郷田さんに、南條先生は大仰な仕草でそれを断っている。}`
+`{ruby:"No, that's enough, that's enough.:「もう結構、もう結構です。}`
+`{ruby:......It's already too late to be up.":……この時間では夜更かしのし過ぎだ」}`
+`{ruby:"Look how late it's gotten...:「もうこんな時間とは…。}`
+`{ruby:You were such a good person to chat with, I hardly noticed.":南條先生があまりにお話がお上手なもので、ついつい」}`
+`{ruby:"No, no, it was your skill at entertaining that made the difference.:「それを言ったら、あんたの酒の肴のお陰だ。}`
+`{ruby:We'll have to do this again sometime.":また、別の機会に一杯やりましょう」}`
+`{ruby:"Yes, gladly!:「えぇ、喜んで！}`
+`{ruby:Battler‐sama, welcome back.:戦人さま、お帰りなさいませ。}`
+`{ruby:Is the discussion with Krauss‐sama and the others still continuing?":まだ、旦那様方の会議は続いておりますか？」}`
+`{ruby:"......The way things were going, they'll probably drag it all the way out until dawn.:「……あの調子で、ぐだぐだと明け方までやるんだろーぜ。}`
+`{ruby:None of my business...":知ったことじゃねぇぜ…」}`
+`{ruby:I spoke carelessly, with a big yawn.:大あくびをしながら、投げやりに言ってやる。}`
+`{ruby:".........You all have more stamina than I expected.:「………皆さん、案外、体力がおありですね。}`
+`{ruby:It's quite a surprise.":びっくりです」}`
+`{ruby:"Oh, ......so you're here too...":「何だ、……お前までいたのか…」}`
+`{ruby:"......Yes, a humble little night gathering had begun to form quite naturally here,:「……何となく流れで、こちらでささやかな夜会が始まったもので。}`
+`{ruby:so I took it upon myself to join.:交ぜてもらっていました。}`
+`{ruby:.........Don't worry, I haven't said a word about you‐know‐what.":………例のことは、話してませんのでご安心を」}`
+`{ruby:"...........................":「………………………」}`
+`{ruby:Erika could be seen on the sofa.:ヱリカの姿はソファーにあった。}`
+`{ruby:She had taken her shoes off and was lounging around as though she owned the place.:靴まで脱いで、すっかり我が家のようにくつろぎきっている。}`
+`{ruby:"And you too, Erika‐sama—you are very knowledgeable on a variety of subjects.:「ヱリカさまも、本当に色々なお話をご存知で。}`
+`{ruby:I enjoyed listening to you immensely.":とても楽しく聞かせていただきました」}`
+`{ruby:"Your knowledge truly is extensive.:「あんたは本当に博識だ。}`
+`{ruby:Very impressive for one so young...":若いのに大したもんだよ…」}`
+`{ruby:".........You're very welcome.:「………どういたしまして。}`
+`{ruby:It's merely the trivial knowledge of Furudo Erika.":古戸ヱリカは、この程度には博識ですので」}`
+`{ruby:Erika posed by picking up the hem of her skirt.:ヱリカは、スカートの裾を摘み上げるみたいなポーズをして見せる。}`
+`{ruby:She was lounging on the sofa with her feet up, so it didn't look remotely elegant.:もっとも、ソファーに足を投げ出してくつろぎきってるので、優雅さは微塵もないが。}`
+`{ruby:"......Where's Auntie Rosa?":「……楼座叔母さんは？」}`
+`{ruby:"She returned around 1 a.m., but she went straight upstairs to sleep.":「午前の１時頃にお戻りになりましたが、すぐに上がられ、お休みになられました」}`
+`{ruby:That was probably the right choice...:それが正しいだろうな…。}`
+`{ruby:{n}She'd been going along with that conference for so long.:{n}あんな会議にずっと付き合ってたのだ。}`
+`{ruby:I feel like flopping down in bed right away myself.:俺だって、今すぐベッドに倒れ込みたい気持ちなのだから。}`
+`{ruby:......I've had it.:……駄目だ。}`
+`{ruby:{n}I'm tired enough that I might flop over right here...:{n}今すぐ、ここで倒れ込みたいくらいに眠い…。}`
+`{ruby:".........Well then, let's call it a night.:「………さぁ、私たちもこれくらいにしましょう。}`
+`{ruby:Don't you have to get up early tomorrow morning to make breakfast, Gohda‐san?":郷田さんも、明日の朝食の準備で、朝が早いのでしょう？」}`
+`{ruby:"Preparations for breakfast have already been made.:「朝食の仕込みはすでに済んでおります。}`
+`{ruby:As always, I have full confidence that you will enjoy it greatly, so please look forward to it.":どうぞ明日の朝食も、大いにご期待いただければ幸いです」}`
+`{ruby:In Gohda‐san's eyes, the family conference is an open stage on which to display his culinary skills.:郷田さんにとって、親族会議は自分の料理の腕の独壇場だ。}`
+`{ruby:{n}He's probably so pumped up he won't even get sleepy.:{n}気力が充実して、眠くさえもならないのだろう。}`
+`{ruby:As she laughed at how youthful Gohda was, Erika stood up.:ヱリカは、それを若々しいと笑いながら立ち上がる。}`
+`{ruby:{n}This acted as the sign that it was time to disperse.:{n}その起立が、解散の合図となった。}`
+`{ruby:"I will clean up here.:「お片付けは私の方でしておきます。}`
+`{ruby:Please enjoy your sleep, everyone.":どうぞ皆様はお休みを」}`
+`{ruby:Leaving the clean‐up to Gohda‐san, I went to the bathroom and then climbed the stairs to the second floor.:片付けを郷田さんに任せ、俺もトイレに行ってから２階に上がる。}`
+`{ruby:"Goodnight, everyone.:「それでは皆さん、お休みなさい。}`
+`{ruby:These old bones have stayed up a little too late.":老骨には、ちと夜更かしが過ぎましたな」}`
+`{ruby:".........Good night, Doctor Nanjo.:「………お休みなさい、南條先生。}`
+`{ruby:Good night, Battler‐san.":お休みなさい、戦人さん」}`
+`{ruby:"Yeah.:「おう。}`
+`{ruby:.........Night...":………お休み…」}`
+`{ruby:Then, in the upstairs hallway, we split up.:そして２階の廊下で、俺たちは解散する。}`
+`{ruby:Doctor Nanjo went to his own room.:南條先生は南條先生の部屋へ。}`
+`{ruby:Erika went to her room.:ヱリカはヱリカの部屋へ。}`
+`{ruby:And I returned to the cousins' room.:そして俺は、いとこ部屋へ帰る。}`
+`{ruby:I couldn't hear any sounds of playing coming from the cousins' room.:いとこ部屋からは、はしゃぐような声は聞こえない。}`
+`{ruby:......Could they have already gone to sleep?:……ひょっとして、もう眠ってしまったか？}`
+`{ruby:{n}No surprise, at this time of night.:{n}無理もない、この時間だ。}`
+`{ruby:{n}If they were still playing, they would have been staying up way too late...:{n}まだ遊んでたら、さすがに夜更かしが過ぎる…。}`
+`{ruby:When I opened the door quietly,:そろりと扉を開くと、}`
+`{ruby:as expected, the room was already pitch black except for a small nightlight.:案の定、もう真っ暗で豆電球になっていた。}`
+`{ruby:Everyone was already sleeping in their beds.:みんなベッドの中でとっくに眠っている。}`
+`{ruby:I bet they all had a great time horsing around.:さぞやみんな、楽しく遊んではしゃいだんだろうな。}`
+`{ruby:......They probably had a ton of fun staying up late and talking about their youth.:……そして、青春を語り合って、夜更かしを楽しんだだろうよ。}`
+`{ruby:......If only I hadn't found the gold, I could have had fun spending time with them...:……俺も黄金さえ見つけなければ、それに交じって、楽しく過ごせていたのに…。}`
+`{ruby:I'm already...:もう、}`
+`{ruby:tired...:眠くて、}`
+`{ruby:...so tired.:……眠くて。}`
+`{ruby:Forgetting even to change my clothes or brush my teeth,:着替えることも歯を磨くことも忘れ、}`
+`{ruby:I crawled into bed,:俺はベッドにのっそりと潜り込み、}`
+`{ruby:.........and immediately started to sink into the marshes of sleep.........:………そのまま眠りの沼に沈んでいく………。}`
+`{ruby:Aaah, ......today's been so insane......:あぁ、……何て今日はめちゃくちゃな一日だったんだ……。}`
+`{ruby:I wonder if that old bastard is still in that family conference now......:クソ親父たちは、今もまだ親族会議を続けてやがるのだろうか……。}`
+`{ruby:......How does he not get tired............?:……よく眠くならないもんだぜ…………。}`
+`{ruby:Come to think of it......:そう言えば、クソ親父め……、}`
+`{ruby:......what was it that old bastard said when we parted company......?:……別れ際に何か言ってなかったっけ……。}`
+`{ruby:— Tomorrow, there's something important I want to talk about, as a family.:“明日、家族で、重要な話がしたい。}`
+`{ruby:It's about you.:お前にかかわることだ。”}`
+`{ruby:......I'm sure it's more stuff about being the successor.:……どうせ次期当主が云々って話だろうよ。}`
+`{ruby:{n}...I don't even want to hear about it......:{n}…そんな話、聞きたくもねぇ……。}`
+`{ruby:— If I tell you about this,:“こいつを話せば、}`
+`{ruby:......I'm probably gonna get murdered.:……俺は殺されるだろうな。”}`
+`{ruby:I'll murder you whenever you want, you old bastard......:いつだって殺してやるぜ、クソ親父め……。}`
+`{ruby:And then, ......what was it he said next......?:それから、……何だって言ったんだっけな……。}`
+`{ruby:— It's about your birth.:“お前の、生まれについての話だ。”}`
+`{ruby:My...:俺の、}`
+`{ruby:............birth......?:…………生まれ……？}`
+`{ruby:......Probably just something about the noble Ushiromiya lineage......:……やんごとなき右代宮の血筋が云々って話だろ……。}`
+`{ruby:Not interested......:興味ねぇよ……。}`
+`{ruby:.........Just let me:………眠らせて}`
+`{ruby:......sleep.........:……くれ………。}`

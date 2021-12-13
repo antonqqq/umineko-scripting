@@ -1,11 +1,11 @@
-`Пожалуй, стоит немного отдохнуть...It's probably time to take a break...`
-`Интересно, когда же тайфун закончится...I wonder when the storm will be over...`
-`Второй этаж недоступен.The second floor is unavailable.`
-`Пожалуй, мне не стоит им мешать...It's probably better to leave them be...`
-`{a:c:{p:11:Омаке 1}}{a:c:{p:11:Omake 1}}`
-`{a:c:{p:11:Омаке 2}}{a:c:{p:11:Omake 2}}`
-`{a:c:{p:11:Омаке 3}}{a:c:{p:11:Omake 3}}`
-`{a:c:{p:11:Омаке 4}}{a:c:{p:11:Omake 4}}`
-`{a:c:{p:11:Покинуть это место}}{a:c:{p:11:Leave this place}}`
-`{a:c:{p:11:Покинуть это место}}{a:c:{p:11:Leave this place}}`
-`{p:11:Вы бы хотели насладиться трейлером Chiru?}{p:11:Would you like to enjoy the Chiru trailer?}`
+`{ruby:It's probably time to take a break...:Пожалуй, стоит немного отдохнуть...}`
+`{ruby:I wonder when the storm will be over...:Интересно, когда же тайфун закончится...}`
+`{ruby:The second floor is unavailable.:Второй этаж недоступен.}`
+`{ruby:It's probably better to leave them be...:Пожалуй, мне не стоит им мешать...}`
+`{ruby:{a:c:{p:11:Omake 1}}:{a:c:{p:11:Омаке 1}}}`
+`{ruby:{a:c:{p:11:Omake 2}}:{a:c:{p:11:Омаке 2}}}`
+`{ruby:{a:c:{p:11:Omake 3}}:{a:c:{p:11:Омаке 3}}}`
+`{ruby:{a:c:{p:11:Omake 4}}:{a:c:{p:11:Омаке 4}}}`
+`{ruby:{a:c:{p:11:Leave this place}}:{a:c:{p:11:Покинуть это место}}}`
+`{ruby:{a:c:{p:11:Leave this place}}:{a:c:{p:11:Покинуть это место}}}`
+`{ruby:{p:11:Would you like to enjoy the Chiru trailer?}:{p:11:Вы бы хотели насладиться трейлером Chiru?}}`
